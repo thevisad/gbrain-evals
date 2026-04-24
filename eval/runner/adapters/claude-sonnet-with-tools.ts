@@ -5,8 +5,8 @@
  * workflows). **Not a retrieval adapter.** Its `query()` throws because the
  * agent loop emits a final-answer text, not a `RankedDoc[]` — forcing
  * apples-to-apples metrics on that would teach the wrong lesson.
- * Retrieval scorecards stay at 4 adapters (ripgrep-bm25, vector-only,
- * hybrid-nograph, gbrain-after).
+ * Retrieval scorecards stay at 4 adapters (grep-only, vector,
+ * vector-grep-rrf-fusion, gbrain).
  *
  * The agent loop (`runAgentLoop`):
  *   1. Spins up a PGLite engine seeded with `rawPages`.

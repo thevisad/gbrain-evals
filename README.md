@@ -2,14 +2,14 @@
 
 **BrainBench — the public benchmark for personal knowledge agent stacks.**
 
-Scores four adapter configurations (gbrain, ripgrep-bm25, vector-only RAG,
+Scores four adapter configurations (gbrain, grep-only, vector RAG,
 gbrain-without-graph) side-by-side on a 240-page fictional-life corpus.
 Answers the question: *"does the knowledge graph layer do useful work, or
-is gbrain just a thin wrapper over hybrid retrieval?"*
+is gbrain just a thin wrapper over vector-grep-rrf-fusion retrieval?"*
 
 Headline on v0.12.1: **gbrain P@5 49.1%, R@5 97.9%** — beats its own
-graph-disabled variant by **+31.4 points P@5**, ripgrep-bm25 by 32 points,
-vector-only by 38 points. The graph layer is load-bearing.
+graph-disabled variant by **+31.4 points P@5**, grep-only by 32 points,
+vector by 38 points. The graph layer is load-bearing.
 
 ## Why a separate repo
 
@@ -98,7 +98,7 @@ gbrain-evals/
 │   ├── schemas/                      Portable JSON Schema contracts
 │   ├── generators/                   world.ts + amara-life.ts + Opus
 │   ├── runner/                       12 Cat runners + adapters + judge
-│   │   ├── adapters/                 ripgrep-bm25, vector-only, hybrid-nograph, claude-sonnet
+│   │   ├── adapters/                 grep-only, vector, vector-grep-rrf-fusion, claude-sonnet
 │   │   ├── loaders/                  PDF + corpus loaders
 │   │   ├── queries/                  Tier 5 fuzzy + 5.5 synthetic
 │   │   ├── all.ts                    Master runner (p-limit(2) async fanout)
@@ -155,7 +155,7 @@ public surface via `gbrain/*` subpath exports:
 - `gbrain/pglite-engine` — in-memory Postgres for adapter state
 - `gbrain/link-extraction` — extractor under test
 - `gbrain/import-file`, `gbrain/embedding`, `gbrain/transcription` — ingest pipeline
-- `gbrain/search/hybrid` — hybrid RAG implementation
+- `gbrain/search/vector-grep-rrf-fusion` — vector-grep-rrf-fusion RAG implementation
 - `gbrain/types`, `gbrain/config`, `gbrain/engine` — type contracts
 
 Any adapter that implements the `Adapter` interface can be scored — gbrain

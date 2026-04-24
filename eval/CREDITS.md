@@ -19,11 +19,11 @@ PRs supersede synthetic entries.
 
 No third-party adapters yet. The shipping adapter set:
 
-- `gbrain-after` — gbrain v0.10.3+ (internal; the system under test)
-- `hybrid-nograph` — gbrain hybrid search with graph layer disabled
-  (internal comparator; closest apples-to-apples to `gbrain-after`)
-- `ripgrep-bm25` — classic IR baseline built in an afternoon
-- `vector-only` — commodity vector RAG, same embedder as gbrain
+- `gbrain` — gbrain v0.10.3+ (internal; the system under test)
+- `vector-grep-rrf-fusion` — gbrain vector-grep-rrf-fusion search with graph layer disabled
+  (internal comparator; closest apples-to-apples to `gbrain`)
+- `grep-only` — classic IR baseline built in an afternoon
+- `vector` — commodity vector RAG, same embedder as gbrain
 
 Third-party submissions (mem0, supermemory, Letta, Cognee, etc.) via
 `eval/runner/adapters/<adapter>.ts` PRs. See `eval/CONTRIBUTING.md` for

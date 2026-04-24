@@ -1,22 +1,22 @@
 /**
- * BrainBench EXT-3: Hybrid-without-graph adapter.
+ * BrainBench EXT-3: Vector-Grep-RRF-Fusion-without-graph adapter.
  *
- * gbrain's full hybrid search (vector + keyword + RRF fusion + dedup) but
+ * gbrain's full vector-grep-rrf-fusion search (vector + keyword + RRF fusion + dedup) but
  * with the knowledge-graph layer explicitly disabled. No auto_link, no
  * typed edges, no traverse_graph, no backlink boost. Just:
  *   - putPage each page
  *   - chunking + embedding (via existing put_page pipeline)
  *   - hybridSearch(engine, query) to answer queries
  *
- * This is the closest-to-gbrain external comparator. If gbrain-after beats
+ * This is the closest-to-gbrain external comparator. If gbrain beats
  * EXT-3 significantly, the delta MUST come from the graph layer (auto_link
  * typed edges + traversePaths + backlink boost), not from better vector
- * retrieval or hybrid fusion.
+ * retrieval or vector-grep-rrf-fusion fusion.
  *
  * It's also the MOST HONEST baseline — "gbrain without the new knowledge
  * graph layer" answers the question "does the graph do useful work?"
  * directly. Critics can't dismiss this as "you disabled a feature you knew
- * they'd want." Everyone already knows vector+keyword hybrid is strong.
+ * they'd want." Everyone already knows vector+keyword vector-grep-rrf-fusion is strong.
  */
 
 import type { Adapter, AdapterConfig, BrainState, Page, Query, RankedDoc } from '../types.ts';
@@ -39,7 +39,7 @@ interface HybridNoGraphConfig extends AdapterConfig {
 }
 
 export class HybridNoGraphAdapter implements Adapter {
-  readonly name = 'hybrid-nograph';
+  readonly name = 'vector-grep-rrf-fusion';
 
   async init(rawPages: Page[], _config: HybridNoGraphConfig): Promise<BrainState> {
     const engine = new PGLiteEngine();

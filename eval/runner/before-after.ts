@@ -152,7 +152,7 @@ interface QueryResult {
   /** Graph-only: typed traversal alone (precise but extraction-bound recall). */
   graphOnlyFound: number;
   graphOnlyReturned: number;
-  /** Hybrid: graph first, grep fallback for entities graph missed. */
+  /** Vector-Grep-RRF-Fusion: graph first, grep fallback for entities graph missed. */
   afterFound: number;
   afterReturned: number;
   /** Top-K metrics — what the agent actually reads. */

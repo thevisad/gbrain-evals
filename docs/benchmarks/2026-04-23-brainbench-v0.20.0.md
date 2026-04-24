@@ -18,33 +18,33 @@ v0.16 → v0.20 shipped ops / infra (gbrain dream, multi-source brains, RLS, mig
 
 | Adapter             | Runs | Queries | P@5 (mean) | R@5 (mean) | Correct in top-5 |
 |---------------------|------|---------|------------|------------|------------------|
-| **gbrain-after**    |    1 |     145 |  **49.1%** |  **97.9%** |  **248 / 261**   |
-| hybrid-nograph      |    1 |     145 |      17.9% |      65.3% |      130 / 261   |
-| ripgrep-bm25        |    1 |     145 |      17.1% |      62.4% |      124 / 261   |
-| vector-only         |    1 |     145 |      10.8% |      40.7% |       78 / 261   |
+| **gbrain**    |    1 |     145 |  **49.1%** |  **97.9%** |  **248 / 261**   |
+| vector-grep-rrf-fusion      |    1 |     145 |      17.9% |      65.3% |      130 / 261   |
+| grep-only        |    1 |     145 |      17.1% |      62.4% |      124 / 261   |
+| vector         |    1 |     145 |      10.8% |      40.7% |       78 / 261   |
 
-## Deltas vs gbrain-after
+## Deltas vs gbrain
 
 | Adapter           | Δ P@5        | Δ R@5        | Δ correct-in-top-5 |
 |-------------------|--------------|--------------|---------------------|
-| hybrid-nograph    | −31.2 pts    | −32.6 pts    | −118                |
-| ripgrep-bm25      | −32.0 pts    | −35.5 pts    | −124                |
-| vector-only       | −38.4 pts    | −57.2 pts    | −170                |
+| vector-grep-rrf-fusion    | −31.2 pts    | −32.6 pts    | −118                |
+| grep-only      | −32.0 pts    | −35.5 pts    | −124                |
+| vector       | −38.4 pts    | −57.2 pts    | −170                |
 
 ## vs v0.12.1 reference (2026-04-19 scorecard)
 
 | Adapter             | v0.12.1 P@5 | v0.20.0 P@5 | Δ         |
 |---------------------|-------------|-------------|-----------|
-| gbrain-after        | 49.1%       | 49.1%       | **0.0**   |
-| hybrid-nograph      | 17.8%       | 17.9%       | +0.1      |
-| ripgrep-bm25        | 17.1%       | 17.1%       | 0.0       |
-| vector-only         | 10.7%       | 10.8%       | +0.1      |
+| gbrain        | 49.1%       | 49.1%       | **0.0**   |
+| vector-grep-rrf-fusion      | 17.8%       | 17.9%       | +0.1      |
+| grep-only        | 17.1%       | 17.1%       | 0.0       |
+| vector         | 10.7%       | 10.8%       | +0.1      |
 
 Flat, as expected. All four adapters land within ±0.1 pts of the v0.12.1 reference — no retrieval regression across the releases (v0.16 / 0.17 / 0.18.0 / 0.18.1 / 0.18.2 / 0.19.0 / 0.20.0) that sit between them.
 
 ## Config card
 
-- **Adapters:** `gbrain-after` (PGLite + graph + hybrid), `hybrid-nograph` (gbrain with graph disabled), `ripgrep-bm25` (classic IR baseline), `vector-only` (cosine with the same embedder as gbrain)
+- **Adapters:** `gbrain` (PGLite + graph + vector-grep-rrf-fusion), `vector-grep-rrf-fusion` (gbrain with graph disabled), `grep-only` (classic IR baseline), `vector` (cosine with the same embedder as gbrain)
 - **Corpus:** `eval/data/world-v1/` — 240 rich-prose fictional pages (80 people, 80 companies, 50 meetings, 30 concepts), Opus-generated, committed to the repo, regeneratable from seed
 - **Gold:** 145 relational queries derived from `_facts` metadata; sealed at the adapter boundary via `PublicPage` / `PublicQuery`
 - **Top-K:** 5
@@ -57,11 +57,11 @@ Flat, as expected. All four adapters land within ±0.1 pts of the v0.12.1 refere
 - Each adapter reingests raw pages into an isolated PGLite instance.
 - No gold data is visible to adapters — `_facts` is stripped at the boundary.
 - Metrics are macro-averaged P@5 and R@5 across all 145 queries.
-- `gbrain-after` ingest includes the auto-link post-hook and reconciliation; `hybrid-nograph` disables it via `GBRAIN_DISABLE_AUTO_LINK=1` to isolate the graph-layer contribution.
+- `gbrain` ingest includes the auto-link post-hook and reconciliation; `vector-grep-rrf-fusion` disables it via `GBRAIN_DISABLE_AUTO_LINK=1` to isolate the graph-layer contribution.
 - Reproduction: clone `gbrain-evals`, `bun install && bun link gbrain` (points at a local gbrain checkout), `OPENAI_API_KEY=... bun run eval:run:dev`.
 
 ## What this does NOT cover
 
-Full BrainBench v1 Complete includes 10/12 Cats. This scorecard runs only the multi-adapter layer (Cats 1 + 2: retrieval precision / recall at K). The other Cats — identity resolution, temporal queries, performance, adversarial robustness, MCP contract, skill compliance (agent adapter), end-to-end workflows, multi-modal — are wired up (`bun run eval:brainbench:smoke` drives them all) but not run here because (a) agent-loop Cats require ~$22 of LLM calls and (b) the `gbrain-after` adapter was the question this run was asked to answer.
+Full BrainBench v1 Complete includes 10/12 Cats. This scorecard runs only the multi-adapter layer (Cats 1 + 2: retrieval precision / recall at K). The other Cats — identity resolution, temporal queries, performance, adversarial robustness, MCP contract, skill compliance (agent adapter), end-to-end workflows, multi-modal — are wired up (`bun run eval:brainbench:smoke` drives them all) but not run here because (a) agent-loop Cats require ~$22 of LLM calls and (b) the `gbrain` adapter was the question this run was asked to answer.
 
 Next time: run `bun run eval:brainbench:smoke` if you want the full Cat coverage, or `eval:brainbench:published` (N=10, ~$215) for a release-grade baseline with tolerance bands.

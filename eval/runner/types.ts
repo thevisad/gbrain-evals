@@ -15,7 +15,7 @@
  *   GbrainAdapter       (configs A–F — existing gbrain wrapped in the interface)
  *   RipgrepBm25Adapter  (EXT-1 — strong grep-based baseline)
  *   VectorOnlyAdapter   (EXT-2 — commodity vector RAG, same embedder as gbrain)
- *   HybridNoGraphAdapter(EXT-3 — gbrain hybrid with graph features disabled)
+ *   HybridNoGraphAdapter(EXT-3 — gbrain vector-grep-rrf-fusion with graph features disabled)
  */
 
 // ─── Page ────────────────────────────────────────────────────────────
@@ -207,7 +207,7 @@ export type BrainState = unknown;
 // ─── Adapter interface ──────────────────────────────────────────────
 
 export interface Adapter {
-  /** The registered adapter name, e.g. "gbrain-a" | "ripgrep-bm25". */
+  /** The registered adapter name, e.g. "gbrain-a" | "grep-only". */
   readonly name: string;
 
   /**

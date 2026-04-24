@@ -6,8 +6,8 @@ configurations scored side-by-side on a 240-page rich-prose fictional corpus
 accuracy.
 
 **What this answers:** "Does the knowledge graph layer do useful work, or is
-gbrain just a thin wrapper over vector+keyword hybrid?" Headline: gbrain
-beats the closest external baseline (hybrid-without-graph, same embedder,
+gbrain just a thin wrapper over vector+keyword vector-grep-rrf-fusion?" Headline: gbrain
+beats the closest external baseline (vector-grep-rrf-fusion-without-graph, same embedder,
 same chunking) by **+31 points P@5**. The graph layer is load-bearing.
 
 ## 5-minute quickstart
@@ -67,9 +67,9 @@ eval/
 │                              Query, RankedDoc. PublicPage/PublicQuery land here
 │                              when sealed qrels enforcement ships (v1 Complete Day 9).
 │   ├── adapters/
-│   │   ├── ripgrep-bm25.ts         EXT-1: classic IR baseline (BM25 over grep hits)
-│   │   ├── vector-only.ts          EXT-2: pure cosine similarity, same embedder
-│   │   └── hybrid-nograph.ts       EXT-3: gbrain hybrid with graph disabled
+│   │   ├── grep-only.ts         EXT-1: classic IR baseline (Grep-only over grep hits)
+│   │   ├── vector.ts          EXT-2: pure cosine similarity, same embedder
+│   │   └── vector-grep-rrf-fusion.ts       EXT-3: gbrain vector-grep-rrf-fusion with graph disabled
 │   └── queries/
 │       ├── tier5-fuzzy.ts          30 vague-recall queries (hand-authored)
 │       ├── tier5_5-synthetic.ts    50 synthetic outsider queries (AI-authored, labeled)
@@ -142,10 +142,10 @@ Quick summary from `bun run eval:run`:
 
 | Adapter         | P@5    | R@5    |
 |-----------------|--------|--------|
-| gbrain-after    | 49.1%  | 97.9%  |
-| hybrid-nograph  | 17.8%  | 65.1%  |
-| ripgrep-bm25    | 17.1%  | 62.4%  |
-| vector-only     | 10.8%  | 40.7%  |
+| gbrain    | 49.1%  | 97.9%  |
+| vector-grep-rrf-fusion  | 17.8%  | 65.1%  |
+| grep-only    | 17.1%  | 62.4%  |
+| vector     | 10.8%  | 40.7%  |
 
-The graph layer beats vector+keyword hybrid on relational queries by ~31
-points; hybrid-without-graph barely edges BM25. That's the story.
+The graph layer beats vector+keyword vector-grep-rrf-fusion on relational queries by ~31
+points; vector-grep-rrf-fusion-without-graph barely edges Grep-only. That's the story.

@@ -31,7 +31,7 @@ test suite doesn't cover at scale. Headline is a single before/after comparison:
 the same 240-page corpus with the same relational queries.
 
 Why before/after instead of just "after numbers": because gbrain pre-PR-#188 was
-already a working brain — keyword search, hybrid retrieval, structured timeline
+already a working brain — keyword search, vector-grep-rrf-fusion retrieval, structured timeline
 ops. The graph layer is an additive change. The right question is "did it
 actually make the brain better at relational questions?" not "is it good in
 isolation."
@@ -89,7 +89,7 @@ instead of digging through grep noise.
 
 ### Set-based metrics + graph-only ablation
 
-| Metric              | BEFORE (grep) | AFTER (hybrid) | Graph-only (ablation) |
+| Metric              | BEFORE (grep) | AFTER (vector-grep-rrf-fusion) | Graph-only (ablation) |
 |---------------------|---------------|----------------|------------------------|
 | **F1 score**        | 57.8%         | 57.8%          | **86.6%**              |
 | Set precision       | 40.8%         | 40.8%          | **81.0%**              |
@@ -97,7 +97,7 @@ instead of digging through grep noise.
 | Total returned      | 632           | 632            | 300 (-53%)             |
 | Correct returned    | 258           | 258            | 243                    |
 
-AFTER (hybrid) matches BEFORE on full-set metrics because graph hits are a
+AFTER (vector-grep-rrf-fusion) matches BEFORE on full-set metrics because graph hits are a
 subset of grep hits — taking the union doesn't add or remove anything from the
 bag. **What changes is which results appear FIRST.** Top-K captures that;
 raw set recall doesn't.

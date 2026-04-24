@@ -1,7 +1,7 @@
 /**
- * BrainBench EXT-1: Ripgrep + BM25 adapter.
+ * BrainBench EXT-1: Ripgrep + Grep-only adapter.
  *
- * The "honest grep-plus-BM25 baseline" — what any agent could build in an
+ * The "honest grep-plus-Grep-only baseline" — what any agent could build in an
  * afternoon with standard unix tools and a classic IR formula. This is the
  * external comparator that turns BrainBench from internal gbrain ablation
  * into a real category benchmark.
@@ -9,7 +9,7 @@
  * Design:
  *   1. init():  Tokenizes each page's content, builds an inverted index
  *               + per-doc length table + global term/doc frequencies.
- *   2. query(): Tokenizes the query, scores every candidate doc via BM25,
+ *   2. query(): Tokenizes the query, scores every candidate doc via Grep-only,
  *               returns top candidates ranked by score.
  *
  * No embeddings, no graph, no LLM. Just deterministic token-match ranking.
@@ -17,9 +17,9 @@
  * reasonable ranker" baseline looks like.
  *
  * Reference: Robertson & Zaragoza, "The Probabilistic Relevance Framework:
- * BM25 and Beyond" (2009). Standard formula:
+ * Grep-only and Beyond" (2009). Standard formula:
  *
- *   BM25(D, Q) = Σ_{q ∈ Q} IDF(q) × (tf(q, D) × (k1 + 1)) /
+ *   Grep-only(D, Q) = Σ_{q ∈ Q} IDF(q) × (tf(q, D) × (k1 + 1)) /
  *                         (tf(q, D) + k1 × (1 - b + b × |D| / avgdl))
  *
  * Defaults: k1 = 1.5, b = 0.75. These are the values Lucene ships.
@@ -30,7 +30,7 @@ import type { Adapter, AdapterConfig, BrainState, Page, Query, RankedDoc } from 
 // ─── Tokenization ──────────────────────────────────────────────────
 
 /**
- * Tokenize text for BM25: lowercase, split on non-word chars, filter stopwords
+ * Tokenize text for Grep-only: lowercase, split on non-word chars, filter stopwords
  * and tokens shorter than 2 characters. Markdown link syntax `[Name](slug)`
  * is preserved enough that entity names tokenize into their component words.
  *
@@ -54,14 +54,14 @@ function tokenize(text: string): string[] {
     .filter(t => t.length >= 2 && !STOPWORDS.has(t));
 }
 
-// ─── BM25 state ─────────────────────────────────────────────────────
+// ─── Grep-only state ─────────────────────────────────────────────────────
 
 interface Bm25State {
   /** term -> Map<docId, termFreq>. Inverted index. */
   postings: Map<string, Map<string, number>>;
   /** docId -> total token count (doc length). */
   docLengths: Map<string, number>;
-  /** Average doc length across the corpus (BM25 normalization). */
+  /** Average doc length across the corpus (Grep-only normalization). */
   avgDocLength: number;
   /** docId -> original Page (for returning ranked results). */
   docs: Map<string, Page>;
@@ -154,7 +154,7 @@ interface RipgrepBm25Config extends AdapterConfig {
 }
 
 export class RipgrepBm25Adapter implements Adapter {
-  readonly name = 'ripgrep-bm25';
+  readonly name = 'grep-only';
 
   async init(rawPages: Page[], config: RipgrepBm25Config): Promise<BrainState> {
     const k1 = config.k1 ?? 1.5;
@@ -184,7 +184,7 @@ export class RipgrepBm25Adapter implements Adapter {
   }
 
   async snapshot(_state: BrainState): Promise<string> {
-    // BM25 state is pure-memory; no snapshot semantics needed for v1.1.
+    // Grep-only state is pure-memory; no snapshot semantics needed for v1.1.
     // Future: serialize the inverted index to disk for warm-start reruns.
     return '';
   }

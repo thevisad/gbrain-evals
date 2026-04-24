@@ -5,8 +5,8 @@
  * typed-edge traversal), Cat 13 measures conceptual retrieval: paraphrase,
  * vocabulary substitution, fuzzy recall, semantic neighborhood.
  *
- * This is the Cat where vector-only should actually earn its keep. The Cat
- * 1+2 scorecard shows vector-only at P@5 10.8% because relational queries
+ * This is the Cat where vector should actually earn its keep. The Cat
+ * 1+2 scorecard shows vector at P@5 10.8% because relational queries
  * demand exact-entity matching — vectors smear entity names into
  * neighborhoods. Cat 13 flips the workload.
  *
@@ -17,14 +17,14 @@
  * Run:
  *   bun eval/runner/cat13-conceptual.ts
  *   CAT13_PROBES=1000 bun eval/runner/cat13-conceptual.ts
- *   CAT13_PROBES=200 bun eval/runner/cat13-conceptual.ts --adapter vector-only
+ *   CAT13_PROBES=200 bun eval/runner/cat13-conceptual.ts --adapter vector
  */
 
 import { readdirSync, readFileSync } from 'fs';
 import { join } from 'path';
-import { RipgrepBm25Adapter } from './adapters/ripgrep-bm25.ts';
-import { VectorOnlyAdapter } from './adapters/vector-only.ts';
-import { HybridNoGraphAdapter } from './adapters/hybrid-nograph.ts';
+import { RipgrepBm25Adapter } from './adapters/grep-only.ts';
+import { VectorOnlyAdapter } from './adapters/vector.ts';
+import { HybridNoGraphAdapter } from './adapters/vector-grep-rrf-fusion.ts';
 import { PGLiteEngine } from 'gbrain/pglite-engine';
 import { runExtract } from 'gbrain/extract';
 import { hybridSearch } from "gbrain/search/hybrid";
@@ -395,10 +395,10 @@ function ndcgAtKDocs(docs: RankedDoc[], grades: Map<string, number>, k: number):
   return dcg / idcg;
 }
 
-// ─── gbrain-after adapter (inline, mirrors multi-adapter.ts) ──────
+// ─── gbrain adapter (inline, mirrors multi-adapter.ts) ──────
 
 class GbrainAfterAdapter implements Adapter {
-  readonly name = 'gbrain-after';
+  readonly name = 'gbrain';
   async init(rawPages: Page[]): Promise<unknown> {
     const engine = new PGLiteEngine();
     await engine.connect({});

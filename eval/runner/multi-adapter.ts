@@ -8,13 +8,13 @@
  * agent could do?" rather than just "what changed between gbrain versions?"
  *
  * v1.1 Phase 2 adapters (shipping in order):
- *   - GBRAIN_AFTER       (gbrain post-v0.10.3: graph+hybrid)
+ *   - GBRAIN_AFTER       (gbrain post-v0.10.3: graph+vector-grep-rrf-fusion)
  *   - RIPGREP_BM25       (EXT-1: classic IR baseline, this commit)
- *   - vector-only RAG    (EXT-2: future)
- *   - hybrid-without-graph (EXT-3: future)
+ *   - vector RAG    (EXT-2: future)
+ *   - vector-grep-rrf-fusion-without-graph (EXT-3: future)
  *
  * Usage:
- *   bun eval/runner/multi-adapter.ts [--adapter ripgrep-bm25|gbrain-after|all]
+ *   bun eval/runner/multi-adapter.ts [--adapter grep-only|gbrain|all]
  *   bun eval/runner/multi-adapter.ts --json
  */
 
@@ -22,9 +22,9 @@ import { readdirSync, readFileSync } from 'fs';
 import { join } from 'path';
 import { PGLiteEngine } from 'gbrain/pglite-engine';
 import { runExtract } from 'gbrain/extract';
-import { RipgrepBm25Adapter } from './adapters/ripgrep-bm25.ts';
-import { VectorOnlyAdapter } from './adapters/vector-only.ts';
-import { HybridNoGraphAdapter } from './adapters/hybrid-nograph.ts';
+import { RipgrepBm25Adapter } from './adapters/grep-only.ts';
+import { VectorOnlyAdapter } from './adapters/vector.ts';
+import { HybridNoGraphAdapter } from './adapters/vector-grep-rrf-fusion.ts';
 import type { Adapter, Page, Query, RankedDoc } from './types.ts';
 import { precisionAtK, recallAtK, sanitizePage, sanitizeQuery } from './types.ts';
 
@@ -129,7 +129,7 @@ function buildQueries(pages: RichPage[]): Query[] {
   return queries;
 }
 
-// ─── gbrain-after adapter (inline, wraps existing engine) ─────────
+// ─── gbrain adapter (inline, wraps existing engine) ─────────
 
 /**
  * Minimal gbrain adapter for the side-by-side run. Wraps PGLiteEngine +
@@ -139,7 +139,7 @@ function buildQueries(pages: RichPage[]): Query[] {
  * inline wrapper is the bridge — same semantics, different surface.
  */
 class GbrainAfterAdapter implements Adapter {
-  readonly name = 'gbrain-after';
+  readonly name = 'gbrain';
 
   async init(rawPages: Page[]): Promise<unknown> {
     const engine = new PGLiteEngine();

@@ -6,7 +6,7 @@ Operational troubleshooting for the most common failures. One fix per entry.
 
 ### "OPENAI_API_KEY environment variable is missing"
 
-The embedding adapter (`vector-only`) and any run of `eval/generators/gen.ts`
+The embedding adapter (`vector`) and any run of `eval/generators/gen.ts`
 calls the OpenAI API. You need an API key.
 
 ```sh
@@ -29,9 +29,9 @@ setup; see CLAUDE.md troubleshooting.
 
 ## Runner failures
 
-### `multi-adapter.ts` times out on hybrid-nograph
+### `multi-adapter.ts` times out on vector-grep-rrf-fusion
 
-hybrid-nograph embeds all 240 pages per run (via `importFromContent`). At
+vector-grep-rrf-fusion embeds all 240 pages per run (via `importFromContent`). At
 N=5, that's 5 re-embeddings. Typical wall clock: ~10 minutes.
 
 If you're iterating, use the dev mode:
@@ -41,11 +41,11 @@ BRAINBENCH_N=1 bun run eval:run:dev
 
 Or skip embedding-based adapters for focused runs:
 ```sh
-bun run eval:run -- --adapter=gbrain-after
-bun run eval:run -- --adapter=ripgrep-bm25
+bun run eval:run -- --adapter=gbrain
+bun run eval:run -- --adapter=grep-only
 ```
 
-### "hybrid-nograph returned P@5 0.0%"
+### "vector-grep-rrf-fusion returned P@5 0.0%"
 
 Likely the adapter is calling `hybridSearch()` on an engine that doesn't
 have chunks/embeddings populated. This shouldn't happen with current code
@@ -56,14 +56,14 @@ have chunks/embeddings populated. This shouldn't happen with current code
 2. Check `auto_link` is OFF (the adapter sets it, but if someone edits
    the engine's default, verify).
 
-### "ripgrep-bm25 crashes on a query"
+### "grep-only crashes on a query"
 
 The adapter has no query-size ceiling by design. If a specific query crashes,
 run it in isolation:
 
 ```sh
 # Drop other adapters temporarily and bisect the query list.
-bun run eval:run -- --adapter=ripgrep-bm25
+bun run eval:run -- --adapter=grep-only
 ```
 
 ## Query validation failures
@@ -153,8 +153,8 @@ If tests still fail, bisect:
 
 ```sh
 bun test eval/runner/queries/validator.test.ts         # pure functions
-bun test eval/runner/adapters/ripgrep-bm25.test.ts     # pure functions
-bun test eval/runner/adapters/vector-only.test.ts      # pure functions (cosine math only)
+bun test eval/runner/adapters/grep-only.test.ts     # pure functions
+bun test eval/runner/adapters/vector.test.ts      # pure functions (cosine math only)
 bun test eval/generators/world-html.test.ts            # HTML rendering + XSS
 ```
 

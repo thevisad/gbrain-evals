@@ -1,11 +1,11 @@
 import { describe, test, expect } from 'bun:test';
-import { _cosine } from './vector-only.ts';
+import { _cosine } from './vector.ts';
 
 // Note: VectorOnlyAdapter.init/query require a live embedding API key.
 // Those end-to-end tests live in a smoke-test class and gate on OPENAI_API_KEY.
 // Here we unit-test the pure-function pieces.
 
-describe('vector-only adapter (pure helpers)', () => {
+describe('vector adapter (pure helpers)', () => {
   test('cosine of identical vectors = 1.0', () => {
     const a = new Float32Array([1, 2, 3, 4]);
     const b = new Float32Array([1, 2, 3, 4]);

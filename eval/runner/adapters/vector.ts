@@ -2,12 +2,12 @@
  * BrainBench EXT-2: Vector-only RAG adapter.
  *
  * Commodity vector RAG: embed every page once, embed the query, rank by
- * cosine similarity. No graph, no keyword fallback, no BM25 — the opposite
+ * cosine similarity. No graph, no keyword fallback, no Grep-only — the opposite
  * end of the baseline spectrum from EXT-1.
  *
  * Uses the SAME embedding model gbrain uses internally (text-embedding-3-large
  * via src/core/embedding.ts). Apples-to-apples on the embedding layer: any
- * lead gbrain has over vector-only must come from the graph + hybrid fusion,
+ * lead gbrain has over vector must come from the graph + vector-grep-rrf-fusion fusion,
  * not from a better embedder. This is the honest external comparator.
  *
  * Cost: ~$0.02 per run on the 240-page corpus (embed 240 pages once, embed
@@ -22,11 +22,11 @@
  * Notes:
  *   - No chunking. One vector per page. Real vector RAG in production
  *     chunks long docs; we intentionally don't here so the comparison
- *     against gbrain's chunked hybrid is fair at the retrieval granularity.
+ *     against gbrain's chunked vector-grep-rrf-fusion is fair at the retrieval granularity.
  *     If a future BrainBench iteration wants to test chunked vector RAG,
  *     that's a separate adapter (EXT-2b maybe).
  *   - No keyword fallback. Pure vector similarity. An agent that wanted
- *     vector+keyword would use EXT-3 hybrid-without-graph.
+ *     vector+keyword would use EXT-3 vector-grep-rrf-fusion-without-graph.
  */
 
 import type { Adapter, AdapterConfig, BrainState, Page, Query, RankedDoc } from '../types.ts';
@@ -76,7 +76,7 @@ interface VectorOnlyConfig extends AdapterConfig {
 }
 
 export class VectorOnlyAdapter implements Adapter {
-  readonly name = 'vector-only';
+  readonly name = 'vector';
 
   async init(rawPages: Page[], config: VectorOnlyConfig): Promise<BrainState> {
     const maxChars = config.maxChars ?? 8000;

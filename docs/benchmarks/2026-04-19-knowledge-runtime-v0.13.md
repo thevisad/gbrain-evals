@@ -146,7 +146,7 @@ B (boost only), C (boost + intent classifier).
 | nDCG@5 | 1.191 | 1.028 | 1.069 | 0 |
 
 **Read:** Identical across all three modes. Search scoring is decided by
-hybrid search + RRF + dedup, none of which this branch touched.
+vector-grep-rrf-fusion search + RRF + dedup, none of which this branch touched.
 
 ---
 

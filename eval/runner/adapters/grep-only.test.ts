@@ -1,5 +1,5 @@
 import { describe, test, expect } from 'bun:test';
-import { RipgrepBm25Adapter } from './ripgrep-bm25.ts';
+import { RipgrepBm25Adapter } from './grep-only.ts';
 import type { Page, Query } from '../types.ts';
 
 function mkPage(slug: string, title: string, compiled_truth: string, timeline = ''): Page {
@@ -38,13 +38,13 @@ function mkQuery(id: string, text: string, relevant: string[]): Query {
 describe('RipgrepBm25Adapter', () => {
   test('init returns opaque state without throwing', async () => {
     const adapter = new RipgrepBm25Adapter();
-    const state = await adapter.init(CORPUS, { name: 'ripgrep-bm25' });
+    const state = await adapter.init(CORPUS, { name: 'grep-only' });
     expect(state).toBeDefined();
   });
 
   test('query for person name ranks their page first', async () => {
     const adapter = new RipgrepBm25Adapter();
-    const state = await adapter.init(CORPUS, { name: 'ripgrep-bm25' });
+    const state = await adapter.init(CORPUS, { name: 'grep-only' });
     const results = await adapter.query(mkQuery('q1', 'Alice Chen', ['people/alice-chen']), state);
     expect(results.length).toBeGreaterThan(0);
     expect(results[0].page_id).toBe('people/alice-chen');
@@ -53,7 +53,7 @@ describe('RipgrepBm25Adapter', () => {
 
   test('query returns ranked list with increasing ranks', async () => {
     const adapter = new RipgrepBm25Adapter();
-    const state = await adapter.init(CORPUS, { name: 'ripgrep-bm25' });
+    const state = await adapter.init(CORPUS, { name: 'grep-only' });
     const results = await adapter.query(mkQuery('q1', 'payments company', ['companies/stripe']), state);
     expect(results.length).toBeGreaterThan(0);
     for (let i = 0; i < results.length; i++) {
@@ -63,7 +63,7 @@ describe('RipgrepBm25Adapter', () => {
 
   test('scores are monotonically non-increasing by rank', async () => {
     const adapter = new RipgrepBm25Adapter();
-    const state = await adapter.init(CORPUS, { name: 'ripgrep-bm25' });
+    const state = await adapter.init(CORPUS, { name: 'grep-only' });
     const results = await adapter.query(mkQuery('q1', 'engineer at Stripe', []), state);
     for (let i = 1; i < results.length; i++) {
       expect(results[i].score).toBeLessThanOrEqual(results[i - 1].score);
@@ -72,14 +72,14 @@ describe('RipgrepBm25Adapter', () => {
 
   test('query with no matching tokens returns empty', async () => {
     const adapter = new RipgrepBm25Adapter();
-    const state = await adapter.init(CORPUS, { name: 'ripgrep-bm25' });
+    const state = await adapter.init(CORPUS, { name: 'grep-only' });
     const results = await adapter.query(mkQuery('q1', 'xyzznonexistent quatloos', []), state);
     expect(results.length).toBe(0);
   });
 
   test('stopword-only query returns empty', async () => {
     const adapter = new RipgrepBm25Adapter();
-    const state = await adapter.init(CORPUS, { name: 'ripgrep-bm25' });
+    const state = await adapter.init(CORPUS, { name: 'grep-only' });
     const results = await adapter.query(mkQuery('q1', 'the of and', []), state);
     expect(results.length).toBe(0);
   });
@@ -92,7 +92,7 @@ describe('RipgrepBm25Adapter', () => {
       mkPage('people/b-twin', 'Twin Page', 'same content'),
       mkPage('people/a-twin', 'Twin Page', 'same content'),
     ];
-    const state = await adapter.init(pages, { name: 'ripgrep-bm25' });
+    const state = await adapter.init(pages, { name: 'grep-only' });
     const results = await adapter.query(mkQuery('q1', 'same content', []), state);
     expect(results.length).toBe(2);
     // a-twin should come first by lexicographic tie-break.
@@ -100,7 +100,7 @@ describe('RipgrepBm25Adapter', () => {
     expect(results[1].page_id).toBe('people/b-twin');
   });
 
-  test('BM25 rewards term frequency but not linearly (k1 saturation)', async () => {
+  test('Grep-only rewards term frequency but not linearly (k1 saturation)', async () => {
     const adapter = new RipgrepBm25Adapter();
     const pages: Page[] = [
       // Three mentions of "widget" in body.
@@ -109,7 +109,7 @@ describe('RipgrepBm25Adapter', () => {
       mkPage('p/ten', 'Tenfold',
         'widget widget widget widget widget widget widget widget widget widget plus filler'),
     ];
-    const state = await adapter.init(pages, { name: 'ripgrep-bm25' });
+    const state = await adapter.init(pages, { name: 'grep-only' });
     const results = await adapter.query(mkQuery('q1', 'widget', []), state);
     expect(results.length).toBe(2);
     // Tenfold should rank higher, but not by a 10/3 ratio.
@@ -130,7 +130,7 @@ describe('RipgrepBm25Adapter', () => {
       mkPage('p/short', 'Short', 'widget widget'),
       mkPage('p/long', 'Long', `widget widget ${filler}`),
     ];
-    const state = await adapter.init(pages, { name: 'ripgrep-bm25' });
+    const state = await adapter.init(pages, { name: 'grep-only' });
     const results = await adapter.query(mkQuery('q1', 'widget', []), state);
     expect(results[0].page_id).toBe('p/short');
   });
@@ -143,7 +143,7 @@ describe('RipgrepBm25Adapter', () => {
       mkPage('p/c', 'C', 'common filler filler'),
       mkPage('p/d', 'D', 'common filler filler filler'),
     ];
-    const state = await adapter.init(pages, { name: 'ripgrep-bm25' });
+    const state = await adapter.init(pages, { name: 'grep-only' });
     // "rare" appears in 1/4 docs; "common" in 4/4. A match on "rare"
     // should rank higher than a match on "common" alone.
     const rareResults = await adapter.query(mkQuery('q1', 'rare', []), state);
@@ -162,7 +162,7 @@ describe('RipgrepBm25Adapter', () => {
     const pages: Page[] = [
       mkPage('people/alice-chen', 'Alice', 'See people/alice-chen for bio.'),
     ];
-    const state = await adapter.init(pages, { name: 'ripgrep-bm25' });
+    const state = await adapter.init(pages, { name: 'grep-only' });
     const results = await adapter.query(mkQuery('q1', 'alice chen', []), state);
     expect(results.length).toBe(1);
     expect(results[0].page_id).toBe('people/alice-chen');
