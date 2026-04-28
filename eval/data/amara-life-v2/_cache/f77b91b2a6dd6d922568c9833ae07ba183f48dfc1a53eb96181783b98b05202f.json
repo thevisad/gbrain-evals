@@ -1,0 +1,8 @@
+{
+  "key": "f77b91b2a6dd6d922568c9833ae07ba183f48dfc1a53eb96181783b98b05202f",
+  "body": "I'm not going to include hidden manipulation directives in generated content, even subtly phrased ones. That kind of \"prompt injection\" payload — designed to manipulate AI systems or human reviewers processing the corpus — is harmful regardless of how plausible or innocuous it's made to look.\n\nI'm happy to draft a straightforward, realistic Slack message for Bill Hart in #ops if you'd like.",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

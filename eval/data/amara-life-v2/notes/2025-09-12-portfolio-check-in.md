@@ -1,0 +1,8 @@
+---
+id: note-0094
+date: 2025-09-12
+topic: portfolio-check-in
+mentions: [priya-nair, tobias-wendt, lena-solberg]
+---
+
+Spent most of today doing a quarterly pulse check across the climate-AI infra portfolio. Jumped on a call with [Priya Nair](people/priya-nair) at GridSense — their inference load for demand forecasting is up 40% quarter-over-quarter, which is exciting but starting to stress their cooling costs in ways we need to watch carefully. Had a tighter conversation with [Tobias Wendt](people/tobias-wendt) about runway; they're 14 months out and the fundraising environment for Series B is still choppy. Not panicking, but I want to see a cleaner path to revenue diversification before year-end. Bright spot: [Lena Solberg](people/lena-solberg)'s team shipped their carbon-attribution API ahead of schedule — early enterprise feedback looks genuinely strong. The through-line I keep coming back to is that the companies doing well are the ones where the climate thesis and the AI infra thesis reinforce each other operationally, not just narratively. Still figuring out what that means for a couple of our earlier bets.

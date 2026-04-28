@@ -1,0 +1,8 @@
+{
+  "key": "db5632aca999a2cca4b6c9ab76fa14c1c6e3b1da50ce0882accc75be6fac92aa",
+  "body": "---\nid: note-0046\ndate: 2025-12-30\ntopic: threshold-terms\nmentions: [people/kofi-mensah, people/lena-hartmann]\n---\n\nEnd of year, and I keep returning to a conversation [Kofi](people/kofi-mensah) and I had in November about threshold terms — the points in a term sheet where a deal stops feeling like a partnership and starts feeling like a trap. We see it most acutely in climate infra right now: founders are so capital-hungry that they'll accept governance provisions that would make any seasoned operator wince.\n\n[Lena](people/lena-hartmann) flagged something similar on the AI infra side last week. Liquidation preference stacks, milestone-gated tranches tied to regulatory timelines nobody controls — these are becoming normalized in a way that worries me.\n\nMy rule heading into 2026: if a term requires a founder to hit a threshold they can't meaningfully influence, we shouldn't be the ones writing it in. Capital should create conditions for success, not engineer failure modes. That's not idealism — it's just good portfolio construction. Discipline on terms is how we protect both sides of the table.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

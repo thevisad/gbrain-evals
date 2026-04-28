@@ -1,0 +1,8 @@
+{
+  "key": "fffe45cac7aaaac2e5387a6c90e98acb56259f6ff448b849ecd8f3f36afab690",
+  "body": "---\nid: note-0112\ndate: 2025-08-02\ntopic: greenpulse-dd\nmentions: [greenpulse, marcus-teel, priya-sundaram]\n---\n\nSpent most of today buried in the GreenPulse data room. Their grid-edge inference architecture is genuinely interesting — the idea of running demand-forecasting models locally at substation level, rather than pushing everything to a central cloud, has real merit both on latency and on resilience grounds. [Marcus Teel](people/marcus-teel) walked me through the hardware stack this afternoon and I came away impressed by how thoughtfully they've constrained the model footprint.\n\nStill, a few things are nagging at me. Customer concentration is high — two utilities represent nearly 70% of ARR — and neither contract has renewed yet. [Priya Sundaram](people/priya-sundaram) is flagging the same concern from the commercial side.\n\nI want to stress-test the unit economics more carefully before we move to term sheet. The gross margins look healthy on paper, but I'm not sure how much of that holds once you factor in the on-site hardware refresh cycle. Scheduling a deeper session with their CFO next week.\n\nOverall: cautiously optimistic, but not ready to get excited yet.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

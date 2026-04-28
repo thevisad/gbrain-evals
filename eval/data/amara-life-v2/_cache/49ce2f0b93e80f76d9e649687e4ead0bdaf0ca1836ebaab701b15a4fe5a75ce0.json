@@ -1,0 +1,8 @@
+{
+  "key": "49ce2f0b93e80f76d9e649687e4ead0bdaf0ca1836ebaab701b15a4fe5a75ce0",
+  "body": "---\nid: note-0053\ndate: 2025-12-14\ntopic: carbonledger-update\nmentions: [carbonledger, priya-nair, tobias-wren]\n---\n\nCaught up with [Priya Nair](people/priya-nair) this morning on the CarbonLedger Q4 numbers. Honestly more encouraging than I expected — their on-chain verification layer is finally showing throughput that makes enterprise pilots plausible. The bottleneck last spring was latency on the attestation side, and it sounds like [Tobias Wren](people/tobias-wren) and the infra team quietly solved it over the last two months without much fanfare.\n\nWhat I keep coming back to is how rare it is to see a climate-data company that actually understands compute costs at the substrate level. Most of them abstract it away and pay for it later. CarbonLedger built the measurement and the infrastructure logic together, which is exactly the thesis we underwrote.\n\nNext step is getting a term sheet drafted before year-end. Don't want to lose momentum heading into January when everyone is slow. My instinct is that this one compounds — the ledger becomes more valuable the more counterparties rely on it.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

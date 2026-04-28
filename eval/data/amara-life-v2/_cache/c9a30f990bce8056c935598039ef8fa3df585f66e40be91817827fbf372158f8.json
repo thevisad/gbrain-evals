@@ -1,0 +1,8 @@
+{
+  "key": "c9a30f990bce8056c935598039ef8fa3df585f66e40be91817827fbf372158f8",
+  "body": "---\nid: note-0029\ndate: 2026-02-07\ntopic: team-1-1s\nmentions: [priya-anand, dom-vasquez, leo-chen]\n---\n\nRan through my weekly 1-1s today. Feeling genuinely energized by where the team is headed, though there's some friction worth naming.\n\n[Priya](people/priya-anand) is sharp as ever on the climate infra side — she flagged a pattern across three of our grid-edge battery deals that I hadn't fully registered yet. Need to loop her into the next LP update because her framing is cleaner than mine.\n\n[Dom](people/dom-vasquez) is stretched thin. We talked honestly about his pipeline load and I think we need to redistribute some of the early-stage AI diligence before something slips. He agreed, which I appreciated — no defensiveness.\n\n[Leo](people/leo-chen) had a quieter week but raised a legitimate concern about how we're evaluating compute efficiency claims from founders. Valid. I want to build a lightweight scorecard with him over the next month.\n\nOverall: good conversations, real problems surfaced. That's what 1-1s should do. The team trusts this process, and I don't want to take that for granted.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

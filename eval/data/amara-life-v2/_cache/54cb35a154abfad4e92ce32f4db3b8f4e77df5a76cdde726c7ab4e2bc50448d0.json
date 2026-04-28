@@ -1,0 +1,8 @@
+{
+  "key": "54cb35a154abfad4e92ce32f4db3b8f4e77df5a76cdde726c7ab4e2bc50448d0",
+  "body": "---\nid: note-0042\ndate: 2026-01-08\ntopic: novamind-followup\nmentions: [people/marcus-reid]\n---\n\nCaught up with [Marcus Reid](people/marcus-reid) this afternoon to debrief on the NovaMind term sheet. We're moving forward with an 8% stake in their Series A — the round is closing at $24M total, which feels right given where compute pricing is headed. Marcus pushed back a little on valuation, but I think we landed in a fair place for both sides.\n\nWhat struck me most from the call is how clearly their inference optimization layer maps onto our climate infra thesis — reducing GPU-hours for environmental modeling workloads is genuinely compelling, not just a retrofitted narrative. Still need to finalize the side letter language around board observer rights, but that's largely procedural at this point.\n\nOverall I'm feeling good about this one. If their Q2 benchmarks land anywhere near the internal projections, we'll look smart. Want to loop in [Marcus Reid](people/marcus-reid) again before we countersign — just to make sure he's aligned on the governance terms.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

@@ -1,0 +1,669 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BrainBench//amara-life-v2//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:evt-0000@halfway.vc
+DTSTART:20250415T010000Z
+DTEND:20250415T014500Z
+SUMMARY:Diego sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Diego Alvarez:mailto:diego@tartan.vc
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0001@halfway.vc
+DTSTART:20250419T030000Z
+DTEND:20250419T034500Z
+SUMMARY:Tomoko sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Tomoko Sato:mailto:tomoko@khosla.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0002@halfway.vc
+DTSTART:20250424T050000Z
+DTEND:20250424T054500Z
+SUMMARY:Omar sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Omar Sheikh:mailto:omar@osheikh.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0003@halfway.vc
+DTSTART:20250428T070000Z
+DTEND:20250428T074500Z
+SUMMARY:Priya sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Priya Patel:mailto:priya@sequoia.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0004@halfway.vc
+DTSTART:20250503T010000Z
+DTEND:20250503T014500Z
+SUMMARY:Diego sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Diego Alvarez:mailto:diego@tartan.vc
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0005@halfway.vc
+DTSTART:20250507T030000Z
+DTEND:20250507T034500Z
+SUMMARY:Sarah sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Sarah Chen:mailto:sarah@chen.dev
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0006@halfway.vc
+DTSTART:20250512T050000Z
+DTEND:20250512T054500Z
+SUMMARY:Ravi sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Ravi Gupta:mailto:ravi@founders-fund.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0007@halfway.vc
+DTSTART:20250516T070000Z
+DTEND:20250516T074500Z
+SUMMARY:Felix sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Felix Adler:mailto:felix@accel.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0008@halfway.vc
+DTSTART:20250521T010000Z
+DTEND:20250521T014500Z
+SUMMARY:Tomoko sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Tomoko Sato:mailto:tomoko@khosla.com
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0009@halfway.vc
+DTSTART:20250525T030000Z
+DTEND:20250525T034500Z
+SUMMARY:Diego sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Diego Alvarez:mailto:diego@tartan.vc
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0010@halfway.vc
+DTSTART:20250530T050000Z
+DTEND:20250530T054500Z
+SUMMARY:Bill sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Bill Hart:mailto:bill@hart-ventures.com
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0011@halfway.vc
+DTSTART:20250603T070000Z
+DTEND:20250603T074500Z
+SUMMARY:Lena sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Lena Park:mailto:lena@initialized.com
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0012@halfway.vc
+DTSTART:20250608T010000Z
+DTEND:20250608T014500Z
+SUMMARY:Sarah sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Sarah Chen:mailto:sarah@chen.dev
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0013@halfway.vc
+DTSTART:20250612T030000Z
+DTEND:20250612T034500Z
+SUMMARY:Omar sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Omar Sheikh:mailto:omar@osheikh.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0014@halfway.vc
+DTSTART:20250617T050000Z
+DTEND:20250617T054500Z
+SUMMARY:Felix sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Felix Adler:mailto:felix@accel.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0015@halfway.vc
+DTSTART:20250621T070000Z
+DTEND:20250621T074500Z
+SUMMARY:Anna sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Anna Petrov:mailto:anna@petrov-capital.com
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0016@halfway.vc
+DTSTART:20250626T010000Z
+DTEND:20250626T014500Z
+SUMMARY:Chloe sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Chloe Ng:mailto:chloe@carbonledger.co
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0017@halfway.vc
+DTSTART:20250630T030000Z
+DTEND:20250630T034500Z
+SUMMARY:Lena sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Lena Park:mailto:lena@initialized.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0018@halfway.vc
+DTSTART:20250705T050000Z
+DTEND:20250705T054500Z
+SUMMARY:Priya sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Priya Patel:mailto:priya@sequoia.com
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0019@halfway.vc
+DTSTART:20250709T070000Z
+DTEND:20250709T074500Z
+SUMMARY:Hannah sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Hannah Liu:mailto:hannah@datastream.io
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0020@halfway.vc
+DTSTART:20250714T010000Z
+DTEND:20250714T014500Z
+SUMMARY:Elena sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Elena Rossi:mailto:elena@crossbeam.capital
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0021@halfway.vc
+DTSTART:20250718T030000Z
+DTEND:20250718T034500Z
+SUMMARY:Tomoko sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Tomoko Sato:mailto:tomoko@khosla.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0022@halfway.vc
+DTSTART:20250723T050000Z
+DTEND:20250723T054500Z
+SUMMARY:Dev sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Dev Shankar:mailto:dev@greenpulse.io
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0023@halfway.vc
+DTSTART:20250727T070000Z
+DTEND:20250727T074500Z
+SUMMARY:Felix sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Felix Adler:mailto:felix@accel.com
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0024@halfway.vc
+DTSTART:20250801T010000Z
+DTEND:20250801T014500Z
+SUMMARY:Anna sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Anna Petrov:mailto:anna@petrov-capital.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0025@halfway.vc
+DTSTART:20250805T030000Z
+DTEND:20250805T034500Z
+SUMMARY:Chloe sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Chloe Ng:mailto:chloe@carbonledger.co
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0026@halfway.vc
+DTSTART:20250810T050000Z
+DTEND:20250810T054500Z
+SUMMARY:Lena sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Lena Park:mailto:lena@initialized.com
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0027@halfway.vc
+DTSTART:20250814T070000Z
+DTEND:20250814T074500Z
+SUMMARY:Jordan sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Jordan Park:mailto:jordan@novamind.ai
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0028@halfway.vc
+DTSTART:20250819T010000Z
+DTEND:20250819T014500Z
+SUMMARY:Felix sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Felix Adler:mailto:felix@accel.com
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0029@halfway.vc
+DTSTART:20250823T030000Z
+DTEND:20250823T034500Z
+SUMMARY:Felix sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Felix Adler:mailto:felix@accel.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0030@halfway.vc
+DTSTART:20250828T050000Z
+DTEND:20250828T054500Z
+SUMMARY:Nadia sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Nadia Freeman:mailto:nadia@unionsq.vc
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0031@halfway.vc
+DTSTART:20250901T070000Z
+DTEND:20250901T074500Z
+SUMMARY:Marcus sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Marcus Reid:mailto:mreid@a16z.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0032@halfway.vc
+DTSTART:20250906T010000Z
+DTEND:20250906T014500Z
+SUMMARY:Chloe sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Chloe Ng:mailto:chloe@carbonledger.co
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0033@halfway.vc
+DTSTART:20250910T030000Z
+DTEND:20250910T034500Z
+SUMMARY:Tomoko sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Tomoko Sato:mailto:tomoko@khosla.com
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0034@halfway.vc
+DTSTART:20250915T050000Z
+DTEND:20250915T054500Z
+SUMMARY:Lena sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Lena Park:mailto:lena@initialized.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0035@halfway.vc
+DTSTART:20250919T070000Z
+DTEND:20250919T074500Z
+SUMMARY:Kofi sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Kofi Mensah:mailto:kofi@beacon.vc
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0036@halfway.vc
+DTSTART:20250924T010000Z
+DTEND:20250924T014500Z
+SUMMARY:Elena sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Elena Rossi:mailto:elena@crossbeam.capital
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0037@halfway.vc
+DTSTART:20250928T030000Z
+DTEND:20250928T034500Z
+SUMMARY:Nadia sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Nadia Freeman:mailto:nadia@unionsq.vc
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0038@halfway.vc
+DTSTART:20251003T050000Z
+DTEND:20251003T054500Z
+SUMMARY:Sarah sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Sarah Chen:mailto:sarah@chen.dev
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0039@halfway.vc
+DTSTART:20251007T070000Z
+DTEND:20251007T074500Z
+SUMMARY:Anna sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Anna Petrov:mailto:anna@petrov-capital.com
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0040@halfway.vc
+DTSTART:20251012T010000Z
+DTEND:20251012T014500Z
+SUMMARY:Diego sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Diego Alvarez:mailto:diego@tartan.vc
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0041@halfway.vc
+DTSTART:20251016T030000Z
+DTEND:20251016T034500Z
+SUMMARY:Chloe sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Chloe Ng:mailto:chloe@carbonledger.co
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0042@halfway.vc
+DTSTART:20251021T050000Z
+DTEND:20251021T054500Z
+SUMMARY:Kofi sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Kofi Mensah:mailto:kofi@beacon.vc
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0043@halfway.vc
+DTSTART:20251025T070000Z
+DTEND:20251025T074500Z
+SUMMARY:Priya sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Priya Patel:mailto:priya@sequoia.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0044@halfway.vc
+DTSTART:20251030T010000Z
+DTEND:20251030T014500Z
+SUMMARY:Kofi sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Kofi Mensah:mailto:kofi@beacon.vc
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0045@halfway.vc
+DTSTART:20251103T030000Z
+DTEND:20251103T034500Z
+SUMMARY:Nadia sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Nadia Freeman:mailto:nadia@unionsq.vc
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0046@halfway.vc
+DTSTART:20251108T050000Z
+DTEND:20251108T054500Z
+SUMMARY:Marcus sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Marcus Reid:mailto:mreid@a16z.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0047@halfway.vc
+DTSTART:20251112T070000Z
+DTEND:20251112T074500Z
+SUMMARY:Omar sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Omar Sheikh:mailto:omar@osheikh.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0048@halfway.vc
+DTSTART:20251117T010000Z
+DTEND:20251117T014500Z
+SUMMARY:Ravi sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Ravi Gupta:mailto:ravi@founders-fund.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0049@halfway.vc
+DTSTART:20251121T030000Z
+DTEND:20251121T034500Z
+SUMMARY:Leo sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Leo Vance:mailto:lvance@benchmark.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0050@halfway.vc
+DTSTART:20251126T050000Z
+DTEND:20251126T054500Z
+SUMMARY:Diego sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Diego Alvarez:mailto:diego@tartan.vc
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0051@halfway.vc
+DTSTART:20251130T070000Z
+DTEND:20251130T074500Z
+SUMMARY:Felix sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Felix Adler:mailto:felix@accel.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0052@halfway.vc
+DTSTART:20251205T010000Z
+DTEND:20251205T014500Z
+SUMMARY:Bill sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Bill Hart:mailto:bill@hart-ventures.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0053@halfway.vc
+DTSTART:20251209T030000Z
+DTEND:20251209T034500Z
+SUMMARY:Chloe sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Chloe Ng:mailto:chloe@carbonledger.co
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0054@halfway.vc
+DTSTART:20251214T050000Z
+DTEND:20251214T054500Z
+SUMMARY:Hannah sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Hannah Liu:mailto:hannah@datastream.io
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0055@halfway.vc
+DTSTART:20251218T070000Z
+DTEND:20251218T074500Z
+SUMMARY:Ravi sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Ravi Gupta:mailto:ravi@founders-fund.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0056@halfway.vc
+DTSTART:20251223T010000Z
+DTEND:20251223T014500Z
+SUMMARY:Lena sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Lena Park:mailto:lena@initialized.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0057@halfway.vc
+DTSTART:20251227T030000Z
+DTEND:20251227T034500Z
+SUMMARY:Jordan sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Jordan Park:mailto:jordan@novamind.ai
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0058@halfway.vc
+DTSTART:20260101T050000Z
+DTEND:20260101T054500Z
+SUMMARY:Bill sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Bill Hart:mailto:bill@hart-ventures.com
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0059@halfway.vc
+DTSTART:20260105T070000Z
+DTEND:20260105T074500Z
+SUMMARY:Felix sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Felix Adler:mailto:felix@accel.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0060@halfway.vc
+DTSTART:20260110T010000Z
+DTEND:20260110T014500Z
+SUMMARY:Elena sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Elena Rossi:mailto:elena@crossbeam.capital
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0061@halfway.vc
+DTSTART:20260114T030000Z
+DTEND:20260114T034500Z
+SUMMARY:Dev sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Dev Shankar:mailto:dev@greenpulse.io
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0062@halfway.vc
+DTSTART:20260119T050000Z
+DTEND:20260119T054500Z
+SUMMARY:Priya sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Priya Patel:mailto:priya@sequoia.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0063@halfway.vc
+DTSTART:20260123T070000Z
+DTEND:20260123T074500Z
+SUMMARY:Jordan sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Jordan Park:mailto:jordan@novamind.ai
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0064@halfway.vc
+DTSTART:20260128T010000Z
+DTEND:20260128T014500Z
+SUMMARY:Dev sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Dev Shankar:mailto:dev@greenpulse.io
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0065@halfway.vc
+DTSTART:20260201T030000Z
+DTEND:20260201T034500Z
+SUMMARY:Sarah sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Sarah Chen:mailto:sarah@chen.dev
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0066@halfway.vc
+DTSTART:20260206T050000Z
+DTEND:20260206T054500Z
+SUMMARY:Priya sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Priya Patel:mailto:priya@sequoia.com
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0067@halfway.vc
+DTSTART:20260210T070000Z
+DTEND:20260210T074500Z
+SUMMARY:Jordan sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Jordan Park:mailto:jordan@novamind.ai
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0068@halfway.vc
+DTSTART:20260215T010000Z
+DTEND:20260215T014500Z
+SUMMARY:Diego sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Diego Alvarez:mailto:diego@tartan.vc
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0069@halfway.vc
+DTSTART:20260219T030000Z
+DTEND:20260219T034500Z
+SUMMARY:Diego sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Diego Alvarez:mailto:diego@tartan.vc
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0070@halfway.vc
+DTSTART:20260224T050000Z
+DTEND:20260224T054500Z
+SUMMARY:Omar sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Omar Sheikh:mailto:omar@osheikh.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0071@halfway.vc
+DTSTART:20260228T070000Z
+DTEND:20260228T074500Z
+SUMMARY:Anna sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Anna Petrov:mailto:anna@petrov-capital.com
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0072@halfway.vc
+DTSTART:20260305T010000Z
+DTEND:20260305T014500Z
+SUMMARY:Lena sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Lena Park:mailto:lena@initialized.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0073@halfway.vc
+DTSTART:20260309T030000Z
+DTEND:20260309T034500Z
+SUMMARY:Leo sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Leo Vance:mailto:lvance@benchmark.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0074@halfway.vc
+DTSTART:20260314T050000Z
+DTEND:20260314T054500Z
+SUMMARY:Leo sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Leo Vance:mailto:lvance@benchmark.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0075@halfway.vc
+DTSTART:20260318T070000Z
+DTEND:20260318T074500Z
+SUMMARY:Elena sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Elena Rossi:mailto:elena@crossbeam.capital
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0076@halfway.vc
+DTSTART:20260323T010000Z
+DTEND:20260323T014500Z
+SUMMARY:Ravi sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Ravi Gupta:mailto:ravi@founders-fund.com
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0077@halfway.vc
+DTSTART:20260327T030000Z
+DTEND:20260327T034500Z
+SUMMARY:Diego sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Diego Alvarez:mailto:diego@tartan.vc
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0078@halfway.vc
+DTSTART:20260401T050000Z
+DTEND:20260401T054500Z
+SUMMARY:Ravi sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Ravi Gupta:mailto:ravi@founders-fund.com
+LOCATION:Halfway HQ
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0079@halfway.vc
+DTSTART:20260405T070000Z
+DTEND:20260405T074500Z
+SUMMARY:Tomoko sync
+ATTENDEE;CN=Amara Okafor:mailto:amara@halfway.vc
+ATTENDEE;CN=Tomoko Sato:mailto:tomoko@khosla.com
+END:VEVENT
+END:VCALENDAR

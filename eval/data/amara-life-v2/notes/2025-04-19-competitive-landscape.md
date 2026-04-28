@@ -1,0 +1,10 @@
+---
+id: note-0158
+date: 2025-04-19
+topic: competitive-landscape
+mentions: [priya-anand, tobias-wren, celsian-labs]
+---
+
+Had a long debrief with [Priya Anand](people/priya-anand) this afternoon about the [Celsian Labs](people/celsian-labs) situation. Word on the street is Northbridge quietly led their Series B at a $94M round size — closed sometime in late March, though nobody's confirmed the exact date publicly. [Tobias Wren](people/tobias-wren) at Northbridge apparently took roughly 18% for that check, which feels aggressive given where Celsian's revenue actually sits. Makes me wonder if they're pricing in the DOE grant announcement that's supposedly coming Q3.
+
+What's interesting competitively is how this reshapes the carbon-capture-meets-inference-hardware niche we've been watching. Celsian was a soft target six months ago. Now they've got a real war chest and a credible institutional backer. We need to decide whether we're leaning harder into the two remaining white-space players or if we're too late on this vertical entirely. Priya thinks we're not — I'm less sure.

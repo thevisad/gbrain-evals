@@ -1,0 +1,8 @@
+{
+  "key": "5a9eec2ab94ce7612f6bbd02e7beab0e4ca4e5dd4674721518b600c6bec815c3",
+  "body": "Just a heads up — the [DocuSign envelope](tools/docusign) for the [Meridian close](deals/meridian) is sitting in Amara's queue, needs her signature before EOD or we miss the wire window.",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "key": "bddfc02ac49bc6d0062264dce00ea119351fb6b2dc71ffddf317e71da97f1f5a",
+  "body": "---\nid: note-0137\ndate: 2025-06-06\ntopic: sector-thesis\nmentions: []\n---\n\nBeen refining my thinking on where climate and AI infrastructure actually converge — not just overlap rhetorically, but create genuine compounding value. The short version: the interesting companies aren't building AI *for* climate or climate *for* AI. They're building shared physical infrastructure where the two demands reinforce each other.\n\nThink power-dense compute facilities co-located with firm renewable generation. Or grid optimization software that treats data center load as a dispatchable asset. The capital requirements are enormous, but so is the durability of the revenue streams once the contracts are in place.\n\nWhat I keep coming back to is that both sectors punish premature scaling and reward operational discipline. Founders who understand that — who've actually run something with a physical footprint — are a different category of interesting to me than pure software people pivoting toward the space.\n\nStill testing this thesis against the deal flow we're seeing. But the directionality feels right.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

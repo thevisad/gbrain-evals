@@ -1,0 +1,8 @@
+{
+  "key": "d4199c22d01cfb280a43f0f0d5c84df8d548d12db938ce3822732eb05ec2872a",
+  "body": "---\nid: note-0021\ndate: 2026-02-25\ntopic: climate-thesis\nmentions: [marcus-reid]\n---\n\nBeen refining our climate-thesis framing ahead of the LP update next month. The core tension I keep returning to: we're not really investing in *climate* as a vertical anymore — we're investing in the infrastructure layer that makes decarbonization computationally tractable. There's a difference, and it matters for how we underwrite risk.\n\nHad a long conversation with [Marcus Reid](people/marcus-reid) this afternoon about where AI inference workloads are actually landing geographically. His read is that data center siting decisions made in the next 18 months will lock in energy procurement patterns for a decade. I think he's right, and it's sharpening my conviction that grid-adjacent compute — co-location with flexible load, direct renewable offtake, thermal storage — is where the durable value gets built.\n\nThe companies that understand both the watts and the weights will have a structural edge. Still working through what that means for our stage preference. Probably a note for next week.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

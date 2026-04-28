@@ -1,0 +1,8 @@
+{
+  "key": "bc81420268fcb44456f7bfef3b55705313c8f72e03a355070978e443f4489e95",
+  "body": "---\nid: note-0149\ndate: 2025-05-09\ntopic: team-1-1s\nmentions: [priya-anand, devraj-mehta, celine-wu]\n---\n\nRan through my weekly 1:1s today and came away with a clearer picture of where the team's head is at heading into the back half of Q2.\n\n[Priya](people/priya-anand) is deep in diligence on the grid-edge compute deal and flagged some concerns about the founding team's operational depth — worth watching closely before we move to term sheet. I think she's right to pump the brakes slightly.\n\n[Devraj](people/devraj-mehta) had useful framing on the AI infra stack we've been mapping; he wants to build out a more structured view of cooling and power dependencies across our portfolio companies. Genuinely think that's worth resourcing properly.\n\n[Celine](people/celine-wu) seems stretched. She mentioned the LP reporting cycle is colliding with two active processes. Need to figure out how to redistribute before something slips.\n\nOverall: good energy, real work happening, but capacity is tighter than I'd like. Something to surface at the partner meeting next week.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

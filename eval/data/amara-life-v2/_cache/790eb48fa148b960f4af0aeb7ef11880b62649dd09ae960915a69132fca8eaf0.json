@@ -1,0 +1,8 @@
+{
+  "key": "790eb48fa148b960f4af0aeb7ef11880b62649dd09ae960915a69132fca8eaf0",
+  "body": "Just flagged that the [Q1 expense reconciliation](reports/q1-expense-recon) still has a few unmatched line items from the Midwest trip — can someone on the ops side take a look before EOD so we can close out the books? Pinging [Amara](people/amara-okafor) in case it needs partner sign-off.",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "key": "1930b010ed6733b9a9b693c9493c467a52b5a75be10eb6a79c9d6bd8595ad801",
+  "body": "---\nid: note-0006\ndate: 2026-03-31\ntopic: threshold-terms\nmentions: [people/anna-petrov]\n---\n\nHad a long call with [Anna Petrov](people/anna-petrov) this afternoon going over threshold terms for the climate infra round. We're at that familiar inflection point where the valuation protection mechanisms start to feel more like landmines than guardrails — full ratchets versus weighted average, the usual tension.\n\nAnna pushed hard on a 2x liquidation preference with participation, which I understand from a downside-protection standpoint, but I think it sends the wrong signal to the team at this stage. They've built something real. Structuring like we don't believe in the upside is corrosive.\n\nLanded on a 1x non-participating preference with a broad-based weighted average anti-dilution. Clean enough that founders don't feel penalized for the next round, protective enough that we're not writing reckless checks.\n\nStill need to align on the pro-rata rights language before the term sheet goes out Thursday. These details compound — worth getting right the first time.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "key": "6fa51e9cd2435c6b035d9919bde7c2c0a30e76d38bf6de48f7f49c0b8201dcb3",
+  "body": "---\nid: note-0026\ndate: 2026-02-14\ntopic: threshold-terms\nmentions: [marcus-weil, priya-sundaram]\n---\n\nBeen thinking a lot about threshold terms lately — specifically where we draw the line on valuation triggers in term sheets for climate-AI infra deals. Had a long call with [Marcus Weil](people/marcus-weil) yesterday about a Series B we're co-leading, and we kept circling back to whether the milestone definitions were actually measurable or just aspirational language dressed up as covenants.\n\nThe honest tension: founders want flexibility, we want accountability, and nobody wants to spend six months litigating what \"commercial deployment\" means when grid conditions shift. [Priya Sundaram](people/priya-sundaram) flagged something similar last quarter with a battery storage co — vague thresholds almost tanked the bridge round.\n\nMy takeaway is that threshold terms need to be co-authored with operators, not handed down. If the team can't immediately tell you how they'd measure the trigger, the language isn't ready. Simple rule, but we keep forgetting it under deal pressure.\n\nWriting this down so I actually hold to it next time.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

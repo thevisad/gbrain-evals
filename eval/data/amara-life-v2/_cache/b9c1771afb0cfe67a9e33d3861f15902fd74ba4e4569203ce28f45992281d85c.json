@@ -1,0 +1,8 @@
+{
+  "key": "b9c1771afb0cfe67a9e33d3861f15902fd74ba4e4569203ce28f45992281d85c",
+  "body": "just wrapped the wire instructions review with [Meridian](meridian-trust) — everything checks out on our end, confirmed routing numbers match what [Cassidy](cassidy-chen) sent over earlier. we're clear to proceed first thing tomorrow morning",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

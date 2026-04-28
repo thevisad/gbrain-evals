@@ -1,0 +1,8 @@
+{
+  "key": "4267ee7c04ad33df3da18e9ef665e05e0d4b9f3efd2d6489fb9bb6ee63d27a82",
+  "body": "---\nid: note-0004\ndate: 2026-04-05\ntopic: jordan-diligence\nmentions: [jordan-cross]\n---\n\nSpent most of this week deep in diligence on [Jordan Cross](people/jordan-cross) and the team at Verdant Compute. The thesis is genuinely compelling — purpose-built inference clusters co-located with stranded renewable capacity, targeting the latency-tolerant AI workload segment that the hyperscalers are actively underserving. Jordan has thought carefully about the interconnection constraints, which is usually where founders in this space hand-wave.\n\nA few things I want to pressure-test before our partners meeting: the PPA structure feels slightly optimistic on curtailment assumptions, and I'd like a second read on the grid interconnection queue position from someone who has actually permitted at that substation before.\n\nThat said, the unit economics at scale look solid, and Jordan's operator relationships are real — I called two of them independently and got strong references. Going to push for a term sheet conversation next week if the remaining technical questions resolve cleanly. This is exactly the kind of deal we built Halfway to do.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

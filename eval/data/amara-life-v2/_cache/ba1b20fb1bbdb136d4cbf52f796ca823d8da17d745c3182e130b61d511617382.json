@@ -1,0 +1,8 @@
+{
+  "key": "ba1b20fb1bbdb136d4cbf52f796ca823d8da17d745c3182e130b61d511617382",
+  "body": "heads up — just flagged a discrepancy in the [Q1 LP report](q1-lp-report) wire totals, looks like a rounding issue across three line items. looping in [Maya](maya-chen) to patch before we send final to LPs tomorrow morning.",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

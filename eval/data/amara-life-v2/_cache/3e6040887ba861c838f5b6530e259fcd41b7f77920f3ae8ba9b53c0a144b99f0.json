@@ -1,0 +1,8 @@
+{
+  "key": "3e6040887ba861c838f5b6530e259fcd41b7f77920f3ae8ba9b53c0a144b99f0",
+  "body": "heads up — I just updated the [Q2 expense tracker](ops-q2-expense-tracker) with the wire confirmations from last week, so the pending items should be cleared now. let me know if anything still looks off on your end",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

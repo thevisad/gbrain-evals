@@ -1,0 +1,8 @@
+{
+  "key": "c3b260f3291ca1a2dc1519b57897977b35327ab093e019249f99d4a62ba9ce47",
+  "body": "---\nid: note-0116\ndate: 2025-07-24\ntopic: investment-memo\nmentions: []\n---\n\nSpent the better part of today stress-testing the unit economics on a compute cooling deal we've been circling for six weeks. The numbers are holding — PUE down to 1.12 on their latest pilot build, which is genuinely impressive for a modular liquid-cooling stack at that scale. What keeps pulling me back is how cleanly it sits at the intersection of our two theses: AI infrastructure demand isn't softening, and the grid pressure from that demand is very real. Operators are going to need this layer whether they like it or not.\n\nStill a few things I want to pressure-test before we go to IC. Their go-to-market leans heavily on hyperscaler relationships that aren't fully contracted yet — that's a risk I'm not ready to hand-wave away. And I want a second conversation with the CTO about their manufacturing partnership; single-source dependencies at this stage make me nervous.\n\nOverall sentiment is cautiously optimistic. If the next diligence call lands the way I'm hoping, I think we move to term sheet by end of August.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

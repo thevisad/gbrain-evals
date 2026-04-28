@@ -1,0 +1,8 @@
+{
+  "key": "a52b402b76e187cff8b199c5bffb07209f0a93e92bfe8d8fbdbc2424c434aefa",
+  "body": "heads up — the [Carta](tools/carta) cap table export is still showing the old share classes from before the Series A cleanup, can someone loop in [Amara](people/amara-okafor) or [Legal](teams/legal) to get this reconciled before end of week?",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

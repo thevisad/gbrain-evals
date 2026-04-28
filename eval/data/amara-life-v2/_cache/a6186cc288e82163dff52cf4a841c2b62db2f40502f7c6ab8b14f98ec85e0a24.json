@@ -1,0 +1,8 @@
+{
+  "key": "a6186cc288e82163dff52cf4a841c2b62db2f40502f7c6ab8b14f98ec85e0a24",
+  "body": "---\nid: note-0066\ndate: 2025-11-15\ntopic: threshold-terms\nmentions: [people/priya-patel]\n---\n\nHad a long call with [Priya Patel](people/priya-patel) this afternoon about where we're drawing lines on threshold terms for the next cohort of climate-AI infra deals. The conversation sharpened something I've been circling for weeks: our standard triggers — compute spend floors, carbon intensity ceilings, revenue multiples — were drafted when the market looked very different. Eighteen months of GPU scarcity and shifting grid dynamics have made some of those benchmarks feel almost quaint.\n\nPriya pushed back on loosening the compute floor, and I think she's right. It's tempting to accommodate smaller teams doing genuinely interesting work on inference efficiency, but the threshold exists for a reason — we need to know they can actually run production workloads without coming back to us for bridge capital six months in.\n\nWhat I'm taking away: revisit the carbon intensity ceiling, hold the compute floor, and draft a carve-out memo for edge cases. I'll circulate a redline before the end of month.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

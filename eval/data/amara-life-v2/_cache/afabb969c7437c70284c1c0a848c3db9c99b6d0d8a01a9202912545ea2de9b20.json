@@ -1,0 +1,8 @@
+{
+  "key": "afabb969c7437c70284c1c0a848c3db9c99b6d0d8a01a9202912545ea2de9b20",
+  "body": "---\nid: note-0078\ndate: 2025-10-18\ntopic: competitive-landscape\nmentions: [people/felix-adler]\n---\n\nHad a long walk-and-talk with [Felix Adler](people/felix-adler) this afternoon between sessions at the summit. He's been tracking the same cluster of AI infrastructure players we've been watching, and his read largely confirmed mine: the field is compressing faster than most LPs expect.\n\nWhat struck me was how many generalist funds are now positioning climate credentials as a secondary thesis — almost as an afterthought — to chase the data center energy angle. That's a crowded and frankly shallow entry point. The real leverage is still in the layer below: cooling systems, grid interconnection software, demand-response orchestration. Places where climate expertise actually differentiates your diligence.\n\nFelix pushed back gently, arguing that compute density narratives are still early enough to reward fast movers regardless of depth. Maybe. But I've watched too many deals get competed up past any rational basis because someone wanted exposure to the theme, not the fundamentals.\n\nWe agreed to share notes on two overlapping names we're both watching. More to come there.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

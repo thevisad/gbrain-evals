@@ -1,0 +1,8 @@
+{
+  "key": "c454eec907284e83590a292332f92530d091511083b8ecafab7337da458d7de2",
+  "body": "---\nid: note-0030\ndate: 2026-02-05\ntopic: morning-reflection\nmentions: [people/lena-park]\n---\n\nEarly morning, coffee still too hot to drink. I've been sitting with a question that came up in yesterday's call with [Lena Park](people/lena-park) — she pushed back on our assumption that datacenter efficiency gains will naturally outpace AI compute demand growth. Her numbers were uncomfortable. Credible, but uncomfortable.\n\nI think she's right, and that changes how I want to frame our next fund thesis. We've been too optimistic about the demand side moderating itself. If anything, the inference wave hitting enterprise over the next eighteen months will make the energy math significantly harder, not easier.\n\nThe real opportunity might be less about incremental efficiency and more about geographic arbitrage — locating compute near genuinely clean, abundant energy sources, even if that means frontier markets. That's a harder operational bet, but maybe the more honest one.\n\nNeed to revisit the pipeline with fresh eyes this week.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "key": "bd8821cd620232bd9d32ddaf44c20379e644c80dd57bd870bdbd538797502c3c",
+  "body": "---\nid: note-0063\ndate: 2025-11-22\ntopic: next-quarter-plan\nmentions: [people/kofi-mensah]\n---\n\nSitting down to think through Q1 priorities before the holiday noise kicks in. The climate-AI infra thesis is maturing faster than I expected — inference compute for grid optimization is moving from research curiosity to actual procurement conversations, and I want us to be positioned ahead of that shift rather than chasing it.\n\nHad a long call with [Kofi Mensah](people/kofi-mensah) this week about pipeline strategy. His read on the West African energy storage market is sharper than most, and I think there's a real angle there we've been underweighting. Worth a dedicated diligence sprint in January.\n\nFor Q1 broadly: I want to close at least two new positions in the compute-for-climate vertical, deepen our LP relationships ahead of Fund III conversations, and carve out more time for founder office hours. The best deals we've seen this year came through trust built slowly. Need to protect that compounding.\n\nMore to map out, but this is the frame.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

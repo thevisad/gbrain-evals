@@ -1,0 +1,8 @@
+{
+  "key": "a670ee25d7db35e20e5fd8eb7bc9f87df2e04b44c4662b70611edbc7899ef6f9",
+  "body": "---\nid: note-0152\ndate: 2025-05-03\ntopic: greenpulse-dd\nmentions: [greenpulse, daniel-achebe, sofia-reyes]\n---\n\nSpent most of today deep in GreenPulse's data room. The core thesis is compelling — real-time grid optimization using edge inference, which sits squarely at the intersection of everything we care about here. [Daniel Achebe](people/daniel-achebe) walked me through their model architecture this morning, and I came away genuinely impressed by how lean the inference footprint is relative to throughput. That said, I'm not fully satisfied with the demand-side revenue projections. The utility contract pipeline feels optimistic given where procurement cycles actually are right now.\n\n[Sofia Reyes](people/sofia-reyes) flagged some concerns about the hardware dependency on a single ASIC supplier — worth probing hard in the next session. I want to see stress-tested scenarios if that supplier hits delays.\n\nOverall, GreenPulse clears the first bar for us. The team is sharp, the problem is real, and the timing aligns with the IRA tailwinds we've been tracking. But I need another week of diligence before I'm comfortable bringing this to the full partnership.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

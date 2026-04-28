@@ -1,0 +1,8 @@
+{
+  "key": "03e4dce5cff91388786bed16e9b6a2dd1c21bc6a29fbcc892b32a8846f8aa81c",
+  "body": "---\nid: note-0069\ndate: 2025-11-08\ntopic: team-1-1s\nmentions: [people/kofi-mensah]\n---\n\nHad my weekly 1-1 with [Kofi Mensah](people/kofi-mensah) this afternoon. He's been carrying a lot lately — leading diligence on two concurrent deals while also fielding inbound from the new batch of grid-edge AI companies we've been tracking. I want to make sure the workload isn't quietly becoming unsustainable before he says something.\n\nWhat struck me today was how clearly he articulated the tension between a founder's climate narrative and the actual carbon intensity of their inference stack. That's a nuanced read, and he arrived at it independently. I should be giving him more room to shape our evaluation framework rather than just feeding him my checklists.\n\nAction for myself: carve out time next week to co-author the infrastructure scoring rubric with him rather than handing it down. He'll make it sharper, and frankly he'll own it better that way. Good 1-1s should produce something, not just check a box.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

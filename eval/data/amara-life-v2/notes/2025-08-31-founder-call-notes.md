@@ -1,0 +1,12 @@
+---
+id: note-0099
+date: 2025-08-31
+topic: founder-call-notes
+mentions: [people/lena-park]
+---
+
+Had a long call with [Lena Park](people/lena-park) this afternoon — probably ninety minutes, which tells you something about how much ground we covered. She's building distributed inference infrastructure specifically optimized for climate modeling workloads, and the technical architecture is genuinely thoughtful. The way she's approached memory bandwidth constraints for large ensemble runs is unlike anything I've seen from other infra founders this cycle.
+
+My hesitation isn't the technology. It's go-to-market sequencing. Climate modeling orgs — NOAA, ECMWF, the big academic consortia — move slowly, and Lena's runway assumptions feel optimistic against that sales cycle reality. I pushed her on this and she had a reasonable answer about a commercial weather-risk customer already in late conversations, which helped.
+
+Want to pull in [someone from our climate science network] before next steps to pressure-test the scientific differentiation. Overall, one of the more compelling early conversations I've had this quarter. Need to think on it.

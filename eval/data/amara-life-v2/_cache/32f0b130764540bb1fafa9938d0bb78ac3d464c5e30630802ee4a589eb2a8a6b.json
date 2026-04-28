@@ -1,0 +1,8 @@
+{
+  "key": "32f0b130764540bb1fafa9938d0bb78ac3d464c5e30630802ee4a589eb2a8a6b",
+  "body": "heads up — [Amara](people/amara-okafor) flagged that the wire instructions for the [Meridian close](deals/meridian) still need countersignature before EOD, otherwise we're pushing to Monday. can someone on ops loop in [legal](teams/legal) to get that sorted?",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

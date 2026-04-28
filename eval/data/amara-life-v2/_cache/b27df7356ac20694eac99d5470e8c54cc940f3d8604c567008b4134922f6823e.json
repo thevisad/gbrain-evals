@@ -1,0 +1,8 @@
+{
+  "key": "b27df7356ac20694eac99d5470e8c54cc940f3d8604c567008b4134922f6823e",
+  "body": "Hi Amara,\n\nI wanted to follow up on our conversation from last week about [NovaMind](people/jordan-park)'s infrastructure roadmap — specifically the edge inference layer we're building to reduce latency for real-time climate modeling applications. We've made meaningful progress on the benchmarks since we last spoke, and I think the numbers will address some of the concerns you raised around energy efficiency per inference cycle. I'd love to get 30 minutes on the calendar to walk you through the updated technical deck and share where we're heading with the Series A raise. Would sometime later this week or early next work for you?\n\nJordan",
+  "meta": {
+    "templateId": "email",
+    "seed": 84
+  }
+}

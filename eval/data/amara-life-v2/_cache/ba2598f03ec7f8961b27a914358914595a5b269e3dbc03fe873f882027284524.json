@@ -1,0 +1,8 @@
+{
+  "key": "ba2598f03ec7f8961b27a914358914595a5b269e3dbc03fe873f882027284524",
+  "body": "just a heads up — the [Carta](tools/carta) cap table sync failed overnight again, looks like it timed out before pulling the latest share issuances. can someone loop in [Marcus](people/marcus-chen) to take a look before the LP update goes out this week?",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

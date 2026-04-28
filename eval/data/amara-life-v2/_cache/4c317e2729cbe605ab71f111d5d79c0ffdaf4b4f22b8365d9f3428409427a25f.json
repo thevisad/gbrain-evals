@@ -1,0 +1,8 @@
+{
+  "key": "4c317e2729cbe605ab71f111d5d79c0ffdaf4b4f22b8365d9f3428409427a25f",
+  "body": "heads up — i'm getting an error when trying to submit the Q1 expense report through Ramp, looks like the integration with [Halfway Capital](orgs/halfway-capital)'s Netsuite instance might be down. anyone else seeing this or is it just me?",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

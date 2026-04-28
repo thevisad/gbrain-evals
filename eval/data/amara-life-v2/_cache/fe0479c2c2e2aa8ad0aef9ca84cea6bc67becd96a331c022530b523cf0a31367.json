@@ -1,0 +1,8 @@
+{
+  "key": "fe0479c2c2e2aa8ad0aef9ca84cea6bc67becd96a331c022530b523cf0a31367",
+  "body": "just a heads up — the [DocuSign](tools/docusign) envelope for the [Meridian closing docs](deals/meridian) is still sitting unsigned, needs to go out before EOD tomorrow or we miss the wire window",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "key": "5f1ae705754180c8301eb5e86080b5c609b3f0ce64f21612c38404a2594ec626",
+  "body": "Hi Amara,\n\nFollowing up on our conversation from last week — I wanted to share that [NovaMind](companies/novamind) just closed out our compute benchmarking results, and the numbers came in stronger than we projected, particularly on inference latency at scale. We're now consistently hitting sub-20ms response times on our edge deployment architecture, which I think addresses the reliability concern you raised during our call. I'd love to get another 30 minutes on your calendar to walk you through the updated technical deck and the revised go-to-market timeline we've been refining with our first two design partners. Would sometime later this week or early next work for you?\n\nBest,\nJordan",
+  "meta": {
+    "templateId": "email",
+    "seed": 84
+  }
+}

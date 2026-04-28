@@ -1,0 +1,8 @@
+{
+  "key": "7c4880bee860ab3b72fd7b19af72d1d4712f2ea075779a9d7d46d9f8522eefdf",
+  "body": "---\nid: note-0122\ndate: 2025-07-10\ntopic: novamind-followup\nmentions: [novamind, rafael-santos, priya-mehta]\n---\n\nSpent the morning re-reading the [NovaMind](people/novamind) deck after yesterday's call with [Rafael Santos](people/rafael-santos). The inference efficiency story is compelling — 40% reduction in GPU-hours for equivalent throughput is the kind of number that actually moves the needle on data center energy budgets. What I'm still wrestling with is whether the moat is durable or whether the hyperscalers replicate this in eighteen months.\n\nAsked [Priya Mehta](people/priya-mehta) to pull comparable benchmarks from our portfolio companies for a sanity check. If the numbers hold up under scrutiny, I think we're looking at a serious Series B opportunity.\n\nThe climate angle here is underappreciated externally, but internally it's exactly why this fits our thesis — compute efficiency *is* a climate investment. Need to schedule a technical deep dive with their engineering lead before end of month.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

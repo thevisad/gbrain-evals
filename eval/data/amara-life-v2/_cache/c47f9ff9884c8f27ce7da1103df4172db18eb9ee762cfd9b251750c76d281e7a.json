@@ -1,0 +1,8 @@
+{
+  "key": "c47f9ff9884c8f27ce7da1103df4172db18eb9ee762cfd9b251750c76d281e7a",
+  "body": "Diego, thanks for looping me in on this — I had a chance to review the deck [Terranova Energy](startups/terranova-energy) sent over last week and I think there's something real here, particularly around their grid-edge storage orchestration layer. At [Halfway Capital](orgs/halfway-capital) we've been tracking this part of the stack pretty closely, and Terranova's approach to latency optimization is more defensible than what I've seen from most seed-stage teams in the space. That said, I do want to dig deeper into their go-to-market before getting too excited — the utility partnership pipeline feels thin for a Series A conversation. Would you be open to setting up a technical diligence call with the founders sometime in the next two weeks? Happy to co-lead if you're thinking about taking a meaningful position.",
+  "meta": {
+    "templateId": "email",
+    "seed": 84
+  }
+}

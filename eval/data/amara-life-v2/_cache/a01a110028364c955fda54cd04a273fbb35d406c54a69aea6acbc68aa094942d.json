@@ -1,0 +1,8 @@
+{
+  "key": "a01a110028364c955fda54cd04a273fbb35d406c54a69aea6acbc68aa094942d",
+  "body": "heads up — [Amara](people/amara-okafor) just flagged that the LP report export is throwing a formatting error on the currency columns, so hold off on sending the Q1 deck until we get that sorted",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

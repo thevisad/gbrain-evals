@@ -1,0 +1,8 @@
+{
+  "key": "4f08f74d2bfb320ee907c4fb4336eb95e016519fc762d56bc116d3d63827ce84",
+  "body": "---\nid: note-0104\ndate: 2025-08-20\ntopic: jordan-diligence\nmentions: [jordan-walsh]\n---\n\nSpent most of today deep in the diligence materials for [Jordan Walsh](people/jordan-walsh)'s round. The technical architecture is genuinely impressive — the way they've structured the inference pipeline to minimize idle compute is exactly the kind of efficiency-first thinking I want to see in a climate-adjacent AI infra play. Power consumption projections look credible, which is rare; most founders at this stage are still hand-waving on that number.\n\nMy lingering question is around the go-to-market sequencing. Jordan is clearly a builder first, and the enterprise sales motion feels underdeveloped relative to where they'll need to be in twelve months. That's fixable, but I want to pressure-test whether they've internalized *why* it matters, not just that we've flagged it.\n\nPlanning a follow-up call Thursday to walk through the customer pipeline together. If the early design-partner conversations are as warm as the deck suggests, I think we move to partner meeting quickly.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

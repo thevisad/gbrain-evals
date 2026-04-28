@@ -1,0 +1,8 @@
+{
+  "key": "bf4ba3b43d36ad69184c8212e5f456127ec12cb53527141a30d97e6624feda9e",
+  "body": "---\nid: note-0148\ndate: 2025-05-12\ntopic: board-prep\nmentions: [malik-osei, priya-sundaram, tariq-hollis]\n---\n\nSpent most of this morning pulling together materials for the Q2 board deck. We have three portfolio companies presenting updates, and I want to make sure the narrative holds together across all of them rather than reading like three disconnected slide sets.\n\n[Priya Sundaram](people/priya-sundaram) flagged last week that the grid-interconnection timelines for her company look worse than what we projected in January — I need to work that into the risk section honestly rather than burying it in an appendix. Boards see through softening.\n\n[Malik Osei](people/malik-osei) is presenting the compute-cost trajectory, which actually looks better than expected. Good counterweight.\n\nStill waiting on updated unit economics from [Tariq Hollis](people/tariq-hollis) before I can finalize the capital deployment slide. Nudged him twice. Will call this afternoon if nothing comes through.\n\nOverall theme I want to land: the macro headwinds are real, but our thesis on climate-adjacent AI infrastructure is holding. Evidence over optimism — that's the standard I'm holding myself to going into the room.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

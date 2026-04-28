@@ -1,0 +1,8 @@
+{
+  "key": "dfb1eefa0176d970aab93404b0f214e6f535c2716d566103cc59e79f87978fe4",
+  "body": "---\nid: note-0097\ndate: 2025-09-05\ntopic: sector-thesis\nmentions: []\n---\n\nBeen spending the last few weeks stress-testing our thesis at the intersection of climate and AI infrastructure, and I keep arriving at the same uncomfortable truth: the two sectors are on a collision course, and very few founders are taking that seriously enough.\n\nAI data centers are projected to consume an enormous share of new grid capacity through the end of the decade. That's not a background fact — it's the central tension in every deal I'm evaluating right now. The question isn't whether AI and climate are in conflict. The question is whether the companies we back are building toward resolution or just deferring the reckoning.\n\nThe opportunities I find most compelling right now sit at the actual seam: flexible load management, behind-the-meter storage paired with inference workloads, grid-aware training schedulers. Not cleantech *adjacent* to AI, and not AI *adjacent* to cleantech — genuinely load-bearing infrastructure for both.\n\nThe founders who see this clearly are rare. When I find one, I move fast.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

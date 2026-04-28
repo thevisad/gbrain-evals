@@ -1,0 +1,8 @@
+{
+  "key": "66f486c502cb612d316435fa5d5cdec23f3d22f698c9066de636f3296ee13af8",
+  "body": "---\nid: note-0028\ndate: 2026-02-09\ntopic: board-prep\nmentions: [priya-menon, dom-vasquez]\n---\n\nSpent most of today pulling together materials for the Q1 board meeting. [Priya Menon](people/priya-menon) sent over the updated grid interconnection timelines, which honestly tell a more complicated story than the deck currently reflects — I need to reconcile that before Thursday. The short version: two of our portfolio companies are looking at 18-month delays they weren't modeling for.\n\nHad a good call with [Dom Vasquez](people/dom-vasquez) about how to frame the AI inference infrastructure thesis for newer board members who still think of compute as a commodity. We landed on leading with power density economics rather than chip specs — feels more durable as an argument.\n\nStill need to finalize the risk section. I want to be honest without being alarmist. The macro headwinds on project finance are real, but so is the underlying demand signal. Getting that balance right in a board context matters more than most people acknowledge.\n\nCoffee at 7am tomorrow, then a full dry run. Ready to be not-ready and iterate.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

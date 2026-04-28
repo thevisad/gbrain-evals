@@ -1,0 +1,14 @@
+---
+id: note-0111
+date: 2025-08-04
+topic: weekly-review
+mentions: [people/bill-hart]
+---
+
+Wrapping up what felt like a genuinely productive week. The pipeline is filling up in an interesting way — more founders coming in with real grid-aware inference architectures rather than the usual "we'll figure out compute later" hand-wave. That shift feels meaningful.
+
+Had a long call with [Bill Hart](people/bill-hart) on Thursday about his team's approach to demand-response scheduling at the datacenter level. He's thinking about this more carefully than most — not just peak shaving, but actually baking curtailment risk into the SLA model. Worth a follow-up meeting in September once they have updated unit economics.
+
+On the climate side, I've been revisiting our thesis around methane monitoring. The satellite data latency problem is getting solved faster than I expected, which opens up some interesting plays we'd previously passed on.
+
+Going into next week, I want to pressure-test two term sheets and carve out time to write up my thinking on co-location risk for AI infra in ERCOT. Long overdue.

@@ -1,0 +1,8 @@
+{
+  "key": "4946b2ef9a96c594562207caa87d1b76a548e47853cc052db0c1a1ed1a29248e",
+  "body": "---\nid: note-0139\ndate: 2025-06-01\ntopic: founder-call-notes\nmentions: [dayo-adeyemi, priya-nair]\n---\n\nHad back-to-back calls this afternoon with two founders I've been tracking for a while. [Dayo Adeyemi](people/dayo-adeyemi) is further along than I expected — the utility partnership he mentioned last quarter is now signed, which meaningfully de-risks the demand side. My main hesitation is still team depth on the software side, but he acknowledged it openly and has two strong candidates in final rounds. That kind of self-awareness goes a long way.\n\n[Priya Nair](people/priya-nair) is doing something genuinely different with inference scheduling for edge deployments in low-grid environments. The technical insight is sharp, but I'm not sure she's fully mapped the go-to-market sequencing yet. Worth a second call with [Dayo](people/dayo-adeyemi) next week to dig into unit economics before we take this to the partnership. Priya probably needs another month before she's ready for that conversation. Both feel like they're in our lane — just at different stages of readiness.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

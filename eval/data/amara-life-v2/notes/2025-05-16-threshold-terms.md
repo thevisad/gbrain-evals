@@ -1,0 +1,14 @@
+---
+id: note-0146
+date: 2025-05-16
+topic: threshold-terms
+mentions: []
+---
+
+Been spending the better part of this week wrestling with threshold terms in our standard term sheet — specifically around valuation caps and pro-rata rights for climate infra deals. The tension is real: founders building grid-scale battery storage or AI-adjacent power infrastructure need longer runways than a typical SaaS play, which means our usual milestone triggers don't map cleanly onto their capital cycles.
+
+I keep coming back to the question of what a "meaningful threshold" actually signals to a founder. Is it confidence or control anxiety? I want our terms to communicate the former.
+
+Draft principle I'm working with: thresholds should reflect the underlying physics of the business, not the convenience of our reporting cadence. A data center build-out doesn't care about our quarterly LP update schedule.
+
+Going to pressure-test this framing with [Dayo Mensah](people/dayo-mensah) next week — he's been through enough infra rounds on the operator side to tell me where these clauses actually bite. Hoping to land on language that's firm enough to protect the fund but doesn't signal we don't understand the domain.

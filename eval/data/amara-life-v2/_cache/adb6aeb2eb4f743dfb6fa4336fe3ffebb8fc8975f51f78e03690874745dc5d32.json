@@ -1,0 +1,8 @@
+{
+  "key": "adb6aeb2eb4f743dfb6fa4336fe3ffebb8fc8975f51f78e03690874745dc5d32",
+  "body": "---\nid: note-0051\ndate: 2025-12-19\ntopic: weekly-review\nmentions: [people/jordan-park]\n---\n\nWrapping up the last full week before the holidays and it feels like the year finally exhaled. Had a long debrief with [Jordan Park](people/jordan-park) on Thursday about our climate AI infrastructure thesis — specifically where we think inference workloads for grid optimization are heading into 2026. Jordan pushed back on my assumptions around power purchase agreement timelines, and honestly, the pushback was right. I'd been too optimistic about utility procurement cycles.\n\nOn the portfolio side, two of our companies hit meaningful milestones this month, which takes some pressure off Q1 conversations. Still have one deal in diligence that I'm not sure we'll close before year-end — probably better to let it breathe into January than rush the term sheet.\n\nTaking next week lighter intentionally. The best thinking I've done this year happened during quieter stretches. Planning to use the time to draft a longer memo on cooling infrastructure constraints — something that's been sitting half-formed in my head since September.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

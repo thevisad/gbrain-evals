@@ -1,0 +1,8 @@
+{
+  "key": "4df7134b312f351d2e67c27b30c0e569a3a8b439355a6ddca0a95fc90c24e026",
+  "body": "---\nid: note-0007\ndate: 2026-03-29\ntopic: sourcing-queue\nmentions: [priya-anand, tobias-kemper, lena-vasquez]\n---\n\nCleared out most of my sourcing backlog this week, which felt long overdue. Had a solid intro call with [Priya Anand](people/priya-anand) — she's building thermal storage optimization at the grid-edge level and the unit economics are starting to make real sense as curtailment costs climb. Worth a follow-up after she closes her seed.\n\nStill waiting on the deck from [Tobias Kemper](people/tobias-kemper). His pitch on distributed inference for low-latency industrial applications is interesting in principle, but I want to see how they're thinking about energy draw per query before getting too excited. That's the crux for us.\n\n[Lena Vasquez](people/lena-vasquez) passed along three cold intros from her network — quality was higher than average, which I appreciated. One in particular, a cooling-as-a-service play targeting hyperscaler overflow capacity, is going on the priority list for next week.\n\nOverall the queue is leaning more AI infra than pure climate this month. Something to keep an eye on as we think about portfolio balance heading into Q2.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

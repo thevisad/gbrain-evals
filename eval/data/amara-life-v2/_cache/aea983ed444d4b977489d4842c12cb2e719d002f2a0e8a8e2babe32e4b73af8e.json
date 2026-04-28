@@ -1,0 +1,8 @@
+{
+  "key": "aea983ed444d4b977489d4842c12cb2e719d002f2a0e8a8e2babe32e4b73af8e",
+  "body": "Hi Amara, following up on our conversation from earlier this week — I wanted to share the updated deck for [GreenPulse](greenpulse.io) now that we've incorporated the grid-edge hardware specifications you asked about. The core thesis hasn't changed: we're building distributed sensor infrastructure that lets utilities make real-time curtailment decisions at the distribution layer, which we think is the missing piece between generation assets and the software platforms everyone's racing to build. We've also added a slide breaking out our unit economics on a per-node basis, which I think addresses the margin question you raised. Would love to find 30 minutes next week to walk through it together — I know your calendar fills up fast, so happy to work around whatever works for you.\n\nBest,\nDev",
+  "meta": {
+    "templateId": "email",
+    "seed": 84
+  }
+}

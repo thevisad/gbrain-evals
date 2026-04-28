@@ -1,0 +1,8 @@
+{
+  "key": "42566ccb6dd24feb95106615af0ee2864626d9bf84e8354c318fd347b0aa46b5",
+  "body": "---\nid: note-0106\ndate: 2025-08-15\ntopic: threshold-terms\nmentions: [tariq-hassan, lena-sovova]\n---\n\nBeen spending the last few days revisiting our standard threshold terms for climate infra deals — specifically where AI workload intensity crosses certain power-draw triggers. The language we've been using feels a little legacy at this point. When [Tariq Hassan](people/tariq-hassan) flagged that one of our portfolio data centers blew past the 40MW clause without a clear remediation ladder, I realized we'd been writing these provisions as if the compute scaling curve was still predictable. It isn't.\n\nTalked through a revised framework with [Lena Sovova](people/lena-sovova) this afternoon — she pushed back on tiered penalties, which I actually think is fair. Penalties create perverse incentives to under-report. Better to structure it as a renegotiation trigger with a defined timeline and independent energy audit. Cleaner, and it keeps founders from hiding the ball.\n\nNeed to get this into the term sheet template before the next close. Small language, big consequences downstream.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

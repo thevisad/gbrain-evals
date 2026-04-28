@@ -1,0 +1,8 @@
+{
+  "key": "c00d73b3bd963cb00135010bf93e408c949e8f2716ad521b8d8558d6bdd64885",
+  "body": "heads up — the [Q1 LP report](reports/q1-2025-lp) got flagged for a formatting issue on page 14, the table headers aren't rendering correctly in the PDF export. can someone loop in [Amara](people/amara-okafor) before it goes out?",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

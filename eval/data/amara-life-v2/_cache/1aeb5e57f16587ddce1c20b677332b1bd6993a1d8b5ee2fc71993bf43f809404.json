@@ -1,0 +1,8 @@
+{
+  "key": "1aeb5e57f16587ddce1c20b677332b1bd6993a1d8b5ee2fc71993bf43f809404",
+  "body": "---\nid: note-0072\ndate: 2025-11-01\ntopic: greenpulse-dd\nmentions: [people/kofi-mensah]\n---\n\nSpent most of today deep in the GreenPulse data room. Initial read is genuinely interesting — their edge computing approach for grid-edge inference is more differentiated than I expected coming in. The question I keep circling back to is whether the power purchase agreements they've structured actually hold up under stress scenarios. [Kofi Mensah](people/kofi-mensah) flagged something similar on the technical side: their hardware efficiency claims look strong at lab scale, but field deployment data is still thin.\n\nNeed to pressure-test the unit economics with a few reference customers before we get too excited. The climate impact story is clean and credible, which matters for our LP base, but I won't let that do too much work in the analysis. Going to request a follow-up session with the engineering team next week. If the deployment numbers check out, this could move to IC faster than our usual cadence. Cautiously optimistic — which, for me in November, is saying something.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

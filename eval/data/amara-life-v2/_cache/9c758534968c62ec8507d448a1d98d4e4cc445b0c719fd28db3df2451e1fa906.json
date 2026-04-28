@@ -1,0 +1,8 @@
+{
+  "key": "9c758534968c62ec8507d448a1d98d4e4cc445b0c719fd28db3df2451e1fa906",
+  "body": "heads up — the [Carta](tools/carta) cap table sync is throwing errors again for the [Seed II](funds/seed-ii) entities, looks like it's related to the ownership percentage rounding issue we flagged last quarter. @amara can you loop in [Priya](people/priya-nair) to take a look before the LP report goes out Friday?",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

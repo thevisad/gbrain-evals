@@ -1,0 +1,8 @@
+{
+  "key": "27249ede24ff9af9fa6bc2e912d1f832958f27a27fbf0b396f4cda9eac20721a",
+  "body": "---\nid: note-0110\ndate: 2025-08-06\ntopic: morning-reflection\nmentions: [sam-altman]\n---\n\nEarly morning, coffee still too hot to drink. Scrolling through the overnight threads about OpenAI's compute roadmap and thinking about how much the leadership narrative matters in this space. [Sam Altman](people/sam-altman) is still CEO there — and whatever you think about the drama of the last couple of years, the stability that's settled in around him has genuinely shaped how infrastructure partners price long-term contracts with frontier labs. That matters for our thesis.\n\nThe climate-AI tension I keep returning to: every governance steady-state at a major lab either accelerates or delays the data center buildout decisions we're underwriting. Stability at the top means longer planning horizons. Uncertainty means shorter ones, which is brutal for the capital-intensive grid-adjacency plays we've been favoring.\n\nNeed to revisit our exposure memo before the LP call Friday. The assumptions we built around lab leadership continuity deserve a second look regardless.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

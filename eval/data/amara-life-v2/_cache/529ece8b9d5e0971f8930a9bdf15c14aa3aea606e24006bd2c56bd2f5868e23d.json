@@ -1,0 +1,8 @@
+{
+  "key": "529ece8b9d5e0971f8930a9bdf15c14aa3aea606e24006bd2c56bd2f5868e23d",
+  "body": "---\nid: note-0091\ndate: 2025-09-19\ntopic: weekly-review\nmentions: [tariq-mensah, elena-vasquez, dev-patel]\n---\n\nWrapping up a dense week. Three portfolio calls, two new intros, and one term sheet revision that ate most of Thursday afternoon.\n\nThe conversation with [Tariq Mensah](people/tariq-mensah) on Tuesday was the highlight — his team's approach to grid-edge inference is genuinely differentiated, and I think we're close to a conviction decision. Need to pressure-test the hardware margin assumptions before next partners meeting.\n\nCaught up with [Elena Vasquez](people/elena-vasquez) briefly on the sidelines of the GridEdge Summit. She flagged a regulatory shift in ERCOT that I hadn't fully tracked — adding it to the diligence checklist for any Texas-adjacent deals.\n\n[Dev Patel](people/dev-patel) sent over revised unit economics for the cooling stack. Numbers are tighter than I'd like, but the trajectory is credible if they hit Q1 milestones.\n\nOverall: cautiously optimistic. The climate-AI infrastructure thesis keeps getting validated by the market, but valuation discipline matters more than ever right now. Staying patient.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

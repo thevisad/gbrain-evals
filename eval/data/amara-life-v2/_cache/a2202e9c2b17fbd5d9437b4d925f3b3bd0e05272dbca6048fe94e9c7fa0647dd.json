@@ -1,0 +1,8 @@
+{
+  "key": "a2202e9c2b17fbd5d9437b4d925f3b3bd0e05272dbca6048fe94e9c7fa0647dd",
+  "body": "Following up on your note from last week about the [Halfway Capital](vc/halfway-capital) portfolio review — I wanted to share some thoughts on the climate infrastructure thesis before our call on Thursday. I've been spending time with a few teams working at the intersection of grid optimization and distributed compute, and I think there's a real signal emerging around demand-response software that's worth discussing. One company in particular has caught my attention: they're doing load-balancing for AI training workloads in a way that could meaningfully reduce curtailment on renewable grids. I'd love to get your perspective on where Halfway is thinking about that space, especially given your Series-A focus. Would it make sense to loop in the team before Thursday, or should we keep the initial conversation tighter? Let me know what works best.\n\n— Sarah",
+  "meta": {
+    "templateId": "email",
+    "seed": 84
+  }
+}

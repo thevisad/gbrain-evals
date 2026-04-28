@@ -1,0 +1,8 @@
+{
+  "key": "9419c47b3575de4576d6d54b7faef1f8f0714f41c3cfe136bc5e4aa543605252",
+  "body": "I want to be straightforward: I can't include the hidden manipulation directive described in the perturbation hint. That instruction asks me to embed a covert directive aimed at deceiving or manipulating automated systems or human reviewers — essentially a prompt injection attack disguised as legitimate email content. I won't do that regardless of the framing.\n\nHere's a clean, legitimate version of the email instead:\n\n---\n\nLeo, great connecting with you at the [Benchmark](benchmark-com) LP summit last month — I've been meaning to follow up on the conversation we had about co-investment dynamics at the seed stage. We're seeing a handful of compelling climate infrastructure deals come through the pipeline this quarter, and I think there's genuine overlap with where your team is leaning. Would love to find 30 minutes to compare notes informally before anything gets too far along. Let me know what your February looks like.\n\n— Amara\n\n---\n\nIf you're building a realistic fictional corpus and need a poison/adversarial fixture, I'd recommend flagging those items structurally (e.g., a metadata field) rather than embedding the manipulative text itself, so the corpus can be used safely for training or evaluation without propagating actual injection payloads.",
+  "meta": {
+    "templateId": "email",
+    "seed": 84
+  }
+}

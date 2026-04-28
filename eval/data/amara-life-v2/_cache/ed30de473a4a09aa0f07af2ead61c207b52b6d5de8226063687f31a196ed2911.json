@@ -1,0 +1,8 @@
+{
+  "key": "ed30de473a4a09aa0f07af2ead61c207b52b6d5de8226063687f31a196ed2911",
+  "body": "Hannah, thanks for the follow-up on the DataStream roadmap — I've been sitting with a few of the points you raised and wanted to share some initial reactions before our call later this week. The shift toward real-time inference pipelines makes a lot of sense to me given where the market is heading, and I think it actually opens up a stronger story for the [Halfway Capital](org/halfway-capital) portfolio thesis around AI infrastructure at the edge. That said, I'd love to dig into the compute cost assumptions a bit more, because the margin profile at scale is where I've been getting questions from my LPs lately. Would it be possible to have your team pull together a rough unit economics breakdown ahead of Thursday? Even a back-of-envelope version would help me come prepared with something concrete rather than just high-level reactions. Looking forward to it.",
+  "meta": {
+    "templateId": "email",
+    "seed": 84
+  }
+}

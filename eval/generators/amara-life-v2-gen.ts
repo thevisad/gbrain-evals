@@ -787,10 +787,12 @@ async function pollBatch(
     await new Promise(r => setTimeout(r, POLL_INTERVAL_MS));
   }
 
-  // Collect results
+  // Collect results — results() returns a JSONLDecoder (async iterable)
   const results = new Map<string, string>();
   const resultLines: string[] = [];
-  for await (const result of batches.results(batchId)) {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const decoder: AsyncIterable<any> = await batches.results(batchId);
+  for await (const result of decoder) {
     const line = JSON.stringify(result);
     resultLines.push(line);
     if (result.result?.type === 'succeeded') {

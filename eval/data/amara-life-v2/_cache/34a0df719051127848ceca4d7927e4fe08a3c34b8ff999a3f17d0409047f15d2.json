@@ -1,0 +1,8 @@
+{
+  "key": "34a0df719051127848ceca4d7927e4fe08a3c34b8ff999a3f17d0409047f15d2",
+  "body": "---\nid: note-0102\ndate: 2025-08-25\ntopic: novamind-followup\nmentions: [people/dev-shankar]\n---\n\nCircled back with [Dev Shankar](people/dev-shankar) this afternoon after sitting with the NovaMind deck for a few days. My initial read was cautious — their inference stack looked compelling on paper but I wasn't sure the energy efficiency claims held up at scale. Dev pushed back thoughtfully, walked me through the updated benchmarks from their Q2 colocation trials. Numbers are more credible than I expected.\n\nWhat's sticking with me is their cooling architecture. If it performs the way they're projecting at 50MW+, that's a genuine differentiator in a market where thermal management is quietly becoming the constraint everyone underestimates. The climate angle here isn't incidental — it's structural.\n\nStill want to see the PUE data independently verified before we move toward a term sheet. Flagged that clearly to Dev. But the conviction is building. Worth bringing to the full partnership call next week.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "key": "5caab271c3effcdae2389fdfe382a510700a444d7e07d17d9317f167acb2119d",
+  "body": "---\nid: note-0145\ndate: 2025-05-19\ntopic: market-report-reactions\nmentions: [priya-chandrasekaran, dom-osei]\n---\n\nSpent the morning going through the BlueShift Climate report that dropped late last week. A lot of it confirms what we've been seeing on the ground — compute costs for grid-optimization workloads are finally bending in the right direction. One thing I keep coming back to though: they cited Verdant Loop's Series B as a $47M round, which doesn't match what I have in my notes. I'm fairly sure it closed at $52M — [Priya Chandrasekaran](people/priya-chandrasekaran) flagged the final cap table to me sometime in early March, and we came in at 8% on that close. Worth reconciling before we reference it in any LP materials.\n\nMentioned it to [Dom Osei](people/dom-osei) over lunch and he said he'd seen the same $47M figure circulating on Twitter, so the lower number is probably the one that went public. Could just be that the extension tranche got announced separately. Either way, I want to make sure we're internally consistent.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

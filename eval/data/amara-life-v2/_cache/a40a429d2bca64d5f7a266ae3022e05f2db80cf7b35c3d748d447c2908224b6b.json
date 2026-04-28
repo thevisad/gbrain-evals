@@ -1,0 +1,8 @@
+{
+  "key": "a40a429d2bca64d5f7a266ae3022e05f2db80cf7b35c3d748d447c2908224b6b",
+  "body": "---\nid: note-0038\ndate: 2026-01-18\ntopic: competitive-landscape\nmentions: [priya-anand, dom-ferrara, lena-scout]\n---\n\nSpent the better part of this week mapping the competitive landscape across climate-adjacent AI infrastructure. What's striking is how compressed the differentiation window has become. Eighteen months ago, you could point to a handful of genuine moats — proprietary grid datasets, purpose-built inference hardware, long-term utility contracts. Now everyone seems to have a version of that story.\n\nHad a sharp conversation with [Priya Anand](people/priya-anand) about where the real separation happens at the application layer versus the compute layer. Her instinct aligns with mine: the winners will own the workflow, not just the watts.\n\n[Dom Ferrara](people/dom-ferrara) flagged two new entrants out of Europe that I hadn't tracked closely. Worth a deeper look — their demand-forecasting approach is genuinely differentiated.\n\n[Lena Scout](people/lena-scout) pushed back on my framing, arguing incumbents have more runway than we're crediting. She's probably right that I'm discounting switching costs.\n\nMy takeaway: we need a sharper conviction framework before Q1 ends. The landscape is moving faster than our diligence cadence.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

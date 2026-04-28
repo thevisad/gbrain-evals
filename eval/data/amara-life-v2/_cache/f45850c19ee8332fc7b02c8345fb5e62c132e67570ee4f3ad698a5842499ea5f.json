@@ -1,0 +1,8 @@
+{
+  "key": "f45850c19ee8332fc7b02c8345fb5e62c132e67570ee4f3ad698a5842499ea5f",
+  "body": "---\nid: note-0153\ndate: 2025-04-30\ntopic: carbonledger-update\nmentions: [people/bill-hart]\n---\n\nCaught up with [Bill Hart](people/bill-hart) this afternoon on the CarbonLedger progress. Honestly more encouraged than I expected to be. The MRV pipeline they've rebuilt over the last quarter is cleaner — fewer manual reconciliation steps, and the audit trail now integrates directly with the registry endpoints we flagged back in January. That was a real sticking point for me.\n\nWhat still gives me pause is customer concentration. Three enterprise accounts make up roughly 70% of ARR, and two of those are on annual renewals coming up in Q3. Bill knows this is the conversation we need to have before we think seriously about leading the next round.\n\nThat said, the underlying thesis holds. Demand for credible, auditable carbon accounting isn't softening — if anything, the regulatory tailwinds out of Brussels are accelerating the timeline. I want to see one more month of data on net revenue retention before we schedule the full partner review, but the direction is right.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

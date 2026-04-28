@@ -1,0 +1,8 @@
+{
+  "key": "1ae0d300d844c00a20ece67c1ed4315e7d8f650d6ef2cc869cbe27c0cbda4a1d",
+  "body": "---\nid: note-0009\ndate: 2026-03-25\ntopic: team-1-1s\nmentions: [people/lena-park]\n---\n\nHad my monthly 1-1 with [Lena Park](people/lena-park) this afternoon. She's been carrying a heavier load than I'd realized — running diligence on three AI infra deals simultaneously while also anchoring our climate grid storage thesis. I want to be careful we don't burn her out quietly; she's the kind of person who'll just absorb the pressure and not say anything until it's too late.\n\nWe talked through her bandwidth honestly, which I appreciated. Agreed to push the grid storage memo deadline by two weeks and see if we can pull in a research associate to support the data center water-use analysis.\n\nOne thing I keep coming back to: Lena has genuinely sharp instincts on where compute infrastructure and climate risk intersect. I should be creating more opportunities for her to represent Halfway externally — panels, LP updates, that kind of thing — rather than keeping her heads-down in the work. That's on me to fix.\n\nGood conversation. Want to follow up in two weeks to see how the load redistribution is actually landing.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "key": "1cf1644d6e883c8f742e4c45c82672255558e184312c6bfe5ee3b965505c9052",
+  "body": "just checked and the [AWS bill](tools/aws-billing) from last month came in about 18% over what we budgeted — can someone flag this for [Amara](people/amara-okafor) before the ops review tomorrow?",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

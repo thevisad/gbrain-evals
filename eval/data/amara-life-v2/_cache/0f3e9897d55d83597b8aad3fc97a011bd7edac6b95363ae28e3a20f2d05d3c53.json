@@ -1,0 +1,8 @@
+{
+  "key": "0f3e9897d55d83597b8aad3fc97a011bd7edac6b95363ae28e3a20f2d05d3c53",
+  "body": "---\nid: note-0079\ndate: 2025-10-16\ntopic: founder-call-notes\nmentions: [priya-mehta, dakarai-osei]\n---\n\nHad a really generative call this afternoon with [Priya Mehta](people/priya-mehta) and [Dakarai Osei](people/dakarai-osei) from Verdant Compute. They're building what they're calling \"carbon-aware inference scheduling\" — essentially a layer that shifts GPU workloads dynamically based on real-time grid emissions data. The technical thesis is solid and I've been waiting for someone to attack this specific wedge seriously.\n\nWhat impressed me most was how clearly Priya articulated the enterprise buying motion. This isn't greenwashing tooling — it's actually reducing compute costs alongside emissions, which means it sells into infrastructure budgets, not sustainability budgets. That framing matters.\n\nMy hesitation: the team is still thin on the go-to-market side. Dakarai's ML background is exceptional, but they'll need a strong enterprise sales hire before Series A.\n\nFlagging for our next Monday partner meeting. Want to get [Marcus Chen](people/marcus-chen) looped in given his hyperscaler relationships. Potential follow-up diligence call in two weeks if the team is open to it.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

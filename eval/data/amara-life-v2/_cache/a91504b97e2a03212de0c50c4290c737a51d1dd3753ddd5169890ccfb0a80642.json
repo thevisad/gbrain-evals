@@ -1,0 +1,8 @@
+{
+  "key": "a91504b97e2a03212de0c50c4290c737a51d1dd3753ddd5169890ccfb0a80642",
+  "body": "---\nid: note-0132\ndate: 2025-06-17\ntopic: greenpulse-dd\nmentions: [people/diego-alvarez]\n---\n\nSpent the better part of today working through GreenPulse's technical diligence materials. Their grid-edge inference architecture is genuinely interesting — running lightweight anomaly detection models directly on substation hardware to catch demand fluctuations before they cascade. The latency numbers hold up, and the energy overhead is lower than anything comparable I've seen at this stage.\n\nHad a long call with [Diego Alvarez](people/diego-alvarez) to pressure-test the go-to-market assumptions. He pushed back on my skepticism around utility procurement cycles, and honestly, he made fair points — the FERC Order 2222 tailwinds are more actionable than I'd credited. I'm updating my timeline estimates accordingly.\n\nRemaining questions center on the hardware supply chain and whether their custom ASIC roadmap is realistic given current fab lead times. Need to get a second opinion from someone with deep semiconductor ops experience before we move to a term sheet. Overall though, this one is staying on the shortlist.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

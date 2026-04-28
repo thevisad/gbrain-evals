@@ -1,0 +1,8 @@
+{
+  "key": "284499a6107b06ace273e98cdd4f9e406ac1a376fb01b0e022338ffc63752d7a",
+  "body": "---\nid: note-0022\ndate: 2026-02-23\ntopic: novamind-followup\nmentions: [novamind, priya-chandrasekaran, felix-brandt]\n---\n\nHad a follow-up call with [Priya Chandrasekaran](people/priya-chandrasekaran) at NovaMind this afternoon. The conversation clarified a lot of what felt murky after the first meeting. Their inference stack is genuinely efficient at the hardware layer — [Felix Brandt](people/felix-brandt) walked us through the thermal load numbers and they're meaningfully below what I've seen from comparable model-serving startups. That matters to me. If we're writing a check into AI infra, I want to believe the underlying compute footprint has a credible path to being defensible, not just on cost but on carbon.\n\nStill have open questions around their cooling partnerships and whether the grid agreements are locked or aspirational. Priya promised a data room update by end of week. I'm cautiously optimistic. The team density is real and they've clearly thought carefully about where the efficiency gains come from structurally, not just at the benchmark level. Need to sync with the rest of the partnership before moving to term sheet.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

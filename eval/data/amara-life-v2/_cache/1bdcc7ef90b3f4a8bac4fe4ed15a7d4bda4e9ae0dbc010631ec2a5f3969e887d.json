@@ -1,0 +1,8 @@
+{
+  "key": "1bdcc7ef90b3f4a8bac4fe4ed15a7d4bda4e9ae0dbc010631ec2a5f3969e887d",
+  "body": "---\nid: note-0119\ndate: 2025-07-17\ntopic: founder-call-notes\nmentions: [yusuf-adeyemi, priya-narayanan]\n---\n\nHad back-to-back calls this afternoon that left me genuinely energized. First was with [Yusuf Adeyemi](people/yusuf-adeyemi), who is building grid-edge optimization software for commercial real estate — the unit economics are finally clicking and he's got a pilot with a mid-sized REIT that could be a real proof point by Q4. My main note to myself: push him harder on the data moat question before we go deeper. Anyone can build the optimization layer; the defensibility lives in proprietary consumption data.\n\nSecond call was with [Priya Narayanan](people/priya-narayanan), who is doing something more speculative — AI-assisted permitting workflows for renewable project development. Painful problem, enormous TAM, but I worry about regulatory dependency risk. Need to understand how her team navigates jurisdictional variation at scale.\n\nBoth are at seed, both are raising. Neither is quite ready for a partner meeting, but I want to stay close. Flagging both for the August pipeline review.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

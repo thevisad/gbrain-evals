@@ -1,0 +1,8 @@
+{
+  "key": "139224ca6b1700c088a20830fdc4cbca74ad3f3f34765563ec514ab885615f5b",
+  "body": "heads up — the [Brex](tools/brex) reconciliation for April is showing a ~$2k discrepancy on the [Sequoia](portfolio/sequoia-seed-fund) account, can someone from ops take a look before EOD?",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "key": "e9366d25788a3da585e25e96d715c5b7008fc57c59c35bee65ebb555a70d1021",
+  "body": "heads up — looks like the [Stripe](tools/stripe) reconciliation job failed again around 2am, same timeout issue as last week. looping in [Amara](people/amara-okafor) since it's touching the fund expense accounts. @amara can you confirm if we need to hold off on closing the April books until this is sorted?",
+  "meta": {
+    "templateId": "slack",
+    "seed": 84
+  }
+}

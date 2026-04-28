@@ -1,0 +1,8 @@
+{
+  "key": "ef73a7521bb0cdeab4dc2eb55f580dacfa9d3300a0bc4b3dc288a0e8c468cd60",
+  "body": "---\nid: note-0065\ndate: 2025-11-17\ntopic: market-report-reactions\nmentions: [magnus-thorvald, priya-sethi]\n---\n\nSpent the morning digesting the Q3 climate-infra wrap from [Priya Sethi](people/priya-sethi) and her team. A few things jumped out. Data center energy demand forecasts keep getting revised upward — no surprise — but the pace is making even the bulls uncomfortable. The report flags grid interconnection queues as the real chokepoint through 2027, which tracks with everything we're hearing from portcos.\n\nWorth noting: [Magnus Thorvald](people/magnus-thorvald) is still CEO at Verdant Grid, which matters for how seriously I weight their pipeline numbers in this report. Leadership continuity there has been a quiet differentiator. Hoping that holds.\n\nMy broader reaction: the market is finally pricing in regulatory tail risk on the AI-energy nexus, but I think it's still underweighting permitting reform upside if the current administration follows through. We should be stress-testing our thesis on both ends of that distribution before LP calls in January.\n\nMore to chew on. Will share annotations with the full team by EOW.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

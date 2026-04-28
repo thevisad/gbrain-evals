@@ -1,0 +1,8 @@
+{
+  "key": "d0117fe605dd88ba6f71aa68d4a8380a34f292cc5e48b760f6a31f8d5e8bfcfd",
+  "body": "---\nid: note-0076\ndate: 2025-10-23\ntopic: investment-memo\nmentions: []\n---\n\nSpent most of today pressure-testing our thesis on the Verdant Compute memo before it goes to the full partnership next week. The core tension I keep circling back to: the team has genuinely impressive GPU cluster utilization numbers, but their cooling infrastructure story relies on a municipal water agreement that isn't fully executed yet. That's not a dealbreaker, but it needs to be a condition of close, not a footnote.\n\nOn the climate side, I'm actually more bullish than I expected to be after the site visit. Their waste-heat recapture design is elegant — the kind of engineering decision that signals the founders think in systems, not just specs.\n\nI want to push for a lower entry valuation given the permitting risk, but I also don't want to lose the deal to a fund that moves faster and asks fewer questions. That's the permanent tension in this seat. Writing this down mostly to remind myself: the questions are the job. If we stop asking them, we're just writing checks.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

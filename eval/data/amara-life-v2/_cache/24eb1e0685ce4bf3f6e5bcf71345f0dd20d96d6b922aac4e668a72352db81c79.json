@@ -1,0 +1,8 @@
+{
+  "key": "24eb1e0685ce4bf3f6e5bcf71345f0dd20d96d6b922aac4e668a72352db81c79",
+  "body": "---\nid: note-0138\ndate: 2025-06-04\ntopic: competitive-landscape\nmentions: [people/elena-rossi]\n---\n\nHad a long call with [Elena Rossi](people/elena-rossi) this afternoon going through the competitive dynamics in climate AI infra. What struck me most was how quickly the mid-tier players are getting squeezed. The hyperscalers are pushing down from the top with bundled compute offerings, and a new wave of specialized edge-inference startups is clawing up from below. The space in between — where a lot of our current portfolio sits — is thinning faster than I'd like to admit.\n\nElena flagged two European players she's been watching that I hadn't tracked closely. Worth a deeper look before our next IC meeting.\n\nMy honest read: the moats that felt durable eighteen months ago — proprietary cooling architectures, grid interconnect relationships — are holding, but only barely. Teams that also have strong software differentiation on top of the hardware story are pulling ahead. Going to spend next week stress-testing our existing positions against that lens before we consider any new checks in this category.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

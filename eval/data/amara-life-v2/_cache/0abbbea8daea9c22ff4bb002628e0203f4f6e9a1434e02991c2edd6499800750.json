@@ -1,0 +1,8 @@
+{
+  "key": "0abbbea8daea9c22ff4bb002628e0203f4f6e9a1434e02991c2edd6499800750",
+  "body": "---\nid: note-0123\ndate: 2025-07-08\ntopic: next-quarter-plan\nmentions: [people/felix-adler]\n---\n\nSitting down to map out Q3 priorities and feeling the weight of how much has shifted in just six months. The climate-AI infrastructure thesis is compressing in interesting ways — what felt like a three-year deployment horizon for liquid-cooled data centers running inference workloads now feels closer to eighteen months. I want to push us to move faster on two or three conviction bets rather than spreading thin across a wider portfolio.\n\nHad a productive conversation with [Felix Adler](people/felix-adler) last week about where grid interconnection bottlenecks are actually creating moats versus just creating friction. His read on ERCOT dynamics was sharper than most. I'm thinking we bring him in more formally as an advisor on the energy-side diligence before we commit to the Texas deal.\n\nHeading into Q3, my goals are simple: close one infrastructure deal, run a clean process on two pipeline companies, and carve out real time to think — not just react. The pace has been relentless and the best decisions I've made this year came from slowing down.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}

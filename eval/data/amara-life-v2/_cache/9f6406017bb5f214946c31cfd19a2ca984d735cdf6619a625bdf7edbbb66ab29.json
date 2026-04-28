@@ -1,0 +1,8 @@
+{
+  "key": "9f6406017bb5f214946c31cfd19a2ca984d735cdf6619a625bdf7edbbb66ab29",
+  "body": "---\nid: note-0052\ndate: 2025-12-17\ntopic: greenpulse-dd\nmentions: [greenpulse, jonas-weber, priya-anand]\n---\n\nDeep in diligence on GreenPulse this week. [Jonas Weber](people/jonas-weber) walked me through their edge inference stack for grid optimization — genuinely impressed by how they've compressed the model footprint without sacrificing forecast accuracy. The 15-minute load prediction latency is best-in-class from what I've seen.\n\nMy main hesitation remains the hardware dependency. They're locked into a single silicon vendor for their edge nodes, which feels fragile in a supply-chain environment that's still recovering. I've asked [Priya Anand](people/priya-anand) to stress-test the procurement assumptions in the model.\n\nOn the climate impact side, the pilot data from the Bavaria grid is promising — roughly 11% curtailment reduction over six months. That's real. I want a third-party validation before we anchor on it, but directionally this is exactly the kind of measurable carbon outcome we need to anchor the thesis.\n\nDecision call tentatively scheduled for early January. Still a lot of work to do, but this one feels worth the effort.",
+  "meta": {
+    "templateId": "note",
+    "seed": 84
+  }
+}
