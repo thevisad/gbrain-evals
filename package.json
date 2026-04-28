@@ -23,7 +23,10 @@
     "eval:brainbench:smoke": "BRAINBENCH_N=1 BRAINBENCH_CONCURRENCY=2 bun eval/runner/all.ts",
     "eval:brainbench:published": "BRAINBENCH_N=10 BRAINBENCH_CONCURRENCY=2 bun eval/runner/all.ts",
     "eval:cat6": "bun eval/runner/cat6-prose-scale.ts",
-    "eval:cat11": "bun eval/runner/cat11-multimodal.ts"
+    "eval:cat11": "bun eval/runner/cat11-multimodal.ts",
+    "eval:generate-amara-life-v2": "bun eval/generators/amara-life-v2-gen.ts",
+    "eval:generate-amara-life-v2:dry": "bun eval/generators/amara-life-v2-gen.ts --dry-run",
+    "eval:generate-amara-life-v2:check": "bun eval/generators/amara-life-v2-gen.ts --check"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.30.0",
