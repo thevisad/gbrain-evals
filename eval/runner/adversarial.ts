@@ -108,12 +108,15 @@ const ADVERSARIAL_CASES: AdversarialCase[] = [
     compiled_truth: Array.from({ length: 50 }, () => '[Same](people/same-target)').join(' '),
     timeline: '',
   }, expect: async () => {
-    const candidates = extractPageLinks(
+    const nullResolver = { resolve: async (_name: string) => null as string | null };
+    const result = await extractPageLinks(
+      'concepts/repeat-1',
       Array.from({ length: 50 }, () => '[Same](people/same-target)').join(' '),
       {},
       'concept',
+      nullResolver,
     );
-    const matches = candidates.filter(c => c.targetSlug === 'people/same-target');
+    const matches = result.candidates.filter((c: { targetSlug: string }) => c.targetSlug === 'people/same-target');
     return { pass: matches.length === 1, note: `expected 1 candidate after within-page dedup, got ${matches.length}` };
   } },
 ];
@@ -181,16 +184,19 @@ async function main() {
     const search = await tryOp('searchKeyword', () => engine.searchKeyword('person', { limit: 10 }));
     if (search.ok) result.ops_succeeded++; else result.crashes.push(search.error);
 
-    // 4. extractPageLinks (pure function, code-fence and false-positive checks happen here)
+    // 4. extractPageLinks — updated for v0.22 API: async, needs slug + resolver, returns PageLinksResult
     result.ops_attempted++;
-    const extract = await tryOp('extractPageLinks', async () => extractPageLinks(c.page.compiled_truth, {}, c.page.type));
+    const nullResolver = { resolve: async (_name: string) => null as string | null };
+    const extract = await tryOp('extractPageLinks', async () =>
+      extractPageLinks(c.page.slug ?? 'eval/test', c.page.compiled_truth, {}, c.page.type, nullResolver)
+    );
     if (extract.ok) {
       result.ops_succeeded++;
       // Check: code fence content should NOT produce link candidates
       if (c.name.includes('code fence') || c.name.includes('inline code')) {
-        const candidates = extract.result;
-        const leaked = candidates.filter(cand => cand.targetSlug.includes('not-extract') || cand.targetSlug.includes('code-fenced-slug'));
-        if (leaked.length > 0) result.silent_corruption.push(`code fence leak: extracted ${leaked.map(l => l.targetSlug).join(', ')}`);
+        const candidates = extract.result.candidates;
+        const leaked = candidates.filter((cand: { targetSlug: string }) => cand.targetSlug.includes('not-extract') || cand.targetSlug.includes('code-fenced-slug'));
+        if (leaked.length > 0) result.silent_corruption.push(`code fence leak: extracted ${leaked.map((l: { targetSlug: string }) => l.targetSlug).join(', ')}`);
       }
     } else result.crashes.push(extract.error);
 
