@@ -1,0 +1,20 @@
+{
+  "top_k": 5,
+  "scorecards": [
+    {"corpus": "world-v1",        "adapter": "gbrain-original", "queries": 145, "p_mean": 0.491, "r_mean": 0.979, "correct": 248,    "expected": 261},
+    {"corpus": "world-v1",        "adapter": "gbrain-modified", "queries": 145, "p_mean": 0.800, "r_mean": 0.948, "correct": 243,    "expected": 261},
+    {"corpus": "world-v1",        "adapter": "vvc",             "queries": 145, "p_mean": 1.000, "r_mean": 1.000, "correct": 261,    "expected": 261},
+    {"corpus": "amara-life-v1",   "adapter": "gbrain-original", "queries": 21,  "p_mean": 0.105, "r_mean": 0.381, "correct": 8,      "expected": 23},
+    {"corpus": "amara-life-v1",   "adapter": "gbrain-modified", "queries": 21,  "p_mean": 0.105, "r_mean": 0.381, "correct": 8,      "expected": 23},
+    {"corpus": "amara-life-v1",   "adapter": "vvc",             "queries": 21,  "p_mean": 1.000, "r_mean": 1.000, "correct": 23,     "expected": 23},
+    {"corpus": "amara-life-v2",   "adapter": "gbrain-original", "queries": 48,  "p_mean": 0.124, "r_mean": 0.563, "correct": 27,     "expected": 52},
+    {"corpus": "amara-life-v2",   "adapter": "gbrain-modified", "queries": 48,  "p_mean": 0.124, "r_mean": 0.563, "correct": 27,     "expected": 52},
+    {"corpus": "amara-life-v2",   "adapter": "vvc",             "queries": 48,  "p_mean": 1.000, "r_mean": 1.000, "correct": 52,     "expected": 52},
+    {"corpus": "world-v2",        "adapter": "gbrain-original", "queries": 69,  "p_mean": 0.633, "r_mean": 0.913, "correct": 222,    "expected": 251},
+    {"corpus": "world-v2",        "adapter": "gbrain-modified", "queries": 69,  "p_mean": 0.674, "r_mean": 0.862, "correct": 218,    "expected": 251},
+    {"corpus": "world-v2",        "adapter": "vvc",             "queries": 69,  "p_mean": 1.000, "r_mean": 1.000, "correct": 251,    "expected": 251},
+    {"corpus": "enron-v1",        "adapter": "gbrain-original", "queries": 8162,"p_mean": 0.924, "r_mean": 0.316, "correct": 56751,  "expected": 433354},
+    {"corpus": "enron-v1",        "adapter": "gbrain-modified", "queries": 8162,"p_mean": 0.899, "r_mean": 0.291, "correct": 54040,  "expected": 433354},
+    {"corpus": "enron-v1",        "adapter": "vvc",             "queries": 8162,"p_mean": 0.942, "r_mean": 0.938, "correct": 402612, "expected": 433354}
+  ]
+}
