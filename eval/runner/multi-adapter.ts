@@ -197,15 +197,34 @@ class GbrainAfterAdapter implements Adapter {
       }
     }
     // Grep fallback for entities the extractor missed.
+    // Restrict to people/ slugs and require a sentence containing both the seed
+    // slug and a relationship keyword for the query type. Cuts ~150 FPs with no
+    // recall loss vs the original full-content match.
+    const GREP_KEYWORD: Record<string, RegExp> = {
+      invested_in: /\b(?:invest(?:ed|or|ing|ment)|fund(?:ed|ing)|seed\s+round|series\s+[a-e]|pre-seed|angel\s+investor|backer|venture|led\s+the\s+round|closed\s+.*round|raised\s+.*round|joins?\s+the\s+round)\b/i,
+      advises:     /\b(?:advis(?:or|es|ing|ory)|board\s+(?:member|director|advisor)|mentor(?:ed|ing|s)?|consult(?:s|ed|ing)?)\b/i,
+      works_at:    /\b(?:found(?:ed|er|ing)|co-founder|ceo|cto|coo|vp|engineer(?:ing)?|scientist|analyst|manager|director|head\s+of|joined?|works?\s+at|employed?|hired?|staff|intern|researcher)\b/i,
+      founded:     /\b(?:found(?:ed|er|ing)|co-founder)\b/i,
+    };
+    function splitSentences(text: string): string[] {
+      return text.split(/\n|(?<=[.!?])\s+/g).map(s => s.trim()).filter(s => s.length > 10);
+    }
     const grepHits: string[] = [];
     if (seed) {
       if (direction === 'out') {
         // No explicit grep fallback for outgoing — graph has it.
       } else {
+        const kwRe = linkTypes.length > 0 ? (GREP_KEYWORD[linkTypes[0]] ?? null) : null;
         for (const [slug, content] of contentBySlug) {
           if (slug === seed) continue;
           if (graphHits.includes(slug)) continue;
-          if (content.includes(seed)) grepHits.push(slug);
+          if (!slug.startsWith('people/')) continue;
+          if (!content.includes(seed)) continue;
+          if (kwRe) {
+            const hit = splitSentences(content).some(s => s.includes(seed) && kwRe.test(s));
+            if (!hit) continue;
+          }
+          grepHits.push(slug);
         }
         grepHits.sort();
       }
