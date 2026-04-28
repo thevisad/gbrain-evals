@@ -1,0 +1,14 @@
+{
+  "slug": "people/terrance-pinckney",
+  "type": "person",
+  "title": "Terrance Pinckney",
+  "compiled_truth": "Terrance Pinckney is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-10-02), Terrance Pinckney sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-10-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terrance-pinckney",
+    "name": "Terrance Pinckney",
+    "email": "terrance.pinckney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

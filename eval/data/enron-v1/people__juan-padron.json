@@ -1,0 +1,14 @@
+{
+  "slug": "people/juan-padron",
+  "type": "person",
+  "title": "Juan Padron",
+  "compiled_truth": "Juan Padron is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-19 to 2002-02-28), Juan Padron sent 13 and received 564 emails, totalling 577 interactions. Top correspondents: [Juan Hernandez](people/juan-hernandez) (3), [Doug Gilbert-Smith](people/doug-gilbert-smith) (3), [D  Thomas](people/d-thomas) (3), [Kayne Coulter](people/kayne-coulter) (2), [Don Baughman](people/don-baughman) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-09-19** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/juan-padron",
+    "name": "Juan Padron",
+    "email": "juan.padron@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

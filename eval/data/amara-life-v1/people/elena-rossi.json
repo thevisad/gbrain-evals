@@ -1,0 +1,16 @@
+{
+  "slug": "people/elena-rossi",
+  "type": "person",
+  "title": "Elena Rossi",
+  "compiled_truth": "Elena Rossi is a peer VC. Email: elena@crossbeam.capital. Elena Rossi works at Crossbeam Capital. Slack: @elena.",
+  "timeline": "- **2026-04-13** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elena-rossi",
+    "name": "Elena Rossi",
+    "email": "elena@crossbeam.capital",
+    "slack_handle": "elena",
+    "relation_to_amara": "peer",
+    "primary_affiliation": "companies/crossbeam-capital"
+  }
+}

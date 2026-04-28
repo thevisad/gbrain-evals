@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-yeager",
+  "type": "person",
+  "title": "Mark Yeager",
+  "compiled_truth": "Mark Yeager is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-19 to 2001-11-16), Mark Yeager sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-10-19** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-yeager",
+    "name": "Mark Yeager",
+    "email": "mark.yeager@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

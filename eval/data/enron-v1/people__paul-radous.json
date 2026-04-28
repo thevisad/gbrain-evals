@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-radous",
+  "type": "person",
+  "title": "Paul Radous",
+  "compiled_truth": "Paul Radous is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-20 to 2002-01-04), Paul Radous sent 79 and received 882 emails, totalling 961 interactions. Top correspondents: [Tana Jones](people/tana-jones) (33), [Sara Shackleton](people/sara-shackleton) (30), [Susan Bailey](people/susan-bailey) (24), [Samantha Boyd](people/samantha-boyd) (15), [Stephanie Panus](people/stephanie-panus) (8). Mailbox folders observed: deleted_items, inbox, qse.",
+  "timeline": "- **2000-03-20** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-radous",
+    "name": "Paul Radous",
+    "email": "paul.radous@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

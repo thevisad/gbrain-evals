@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-howard",
+  "type": "person",
+  "title": "Randy Howard",
+  "compiled_truth": "Randy Howard is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2002-03-25), Randy Howard sent 0 and received 93 emails, totalling 93 interactions.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-howard",
+    "name": "Randy Howard",
+    "email": "randy.howard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

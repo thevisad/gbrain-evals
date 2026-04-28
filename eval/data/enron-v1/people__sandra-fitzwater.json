@@ -1,0 +1,14 @@
+{
+  "slug": "people/sandra-fitzwater",
+  "type": "person",
+  "title": "Sandra Fitzwater",
+  "compiled_truth": "Sandra Fitzwater is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-11 to 2001-10-04), Sandra Fitzwater sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-07-11** | First recorded email in corpus\n- **2001-10-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sandra-fitzwater",
+    "name": "Sandra Fitzwater",
+    "email": "sandra.fitzwater@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/raetta-zadow",
+  "type": "person",
+  "title": "Raetta Zadow",
+  "compiled_truth": "Raetta Zadow is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-20 to 2002-05-06), Raetta Zadow sent 27 and received 382 emails, totalling 409 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (26), [Rick Dietz](people/rick-dietz) (17), [Randy Janzen](people/randy-janzen) (9), [Harry Woodson](people/harry-woodson) (9), [Larry Berger](people/larry-berger) (9). Mailbox folders observed: acctg___customer_issues_on_billing, acctg___invoicing_info, customer___reliant_retail_energy_minneapolis, deleted_items, inbox, itinerary_off_duty.",
+  "timeline": "- **2000-03-20** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/raetta-zadow",
+    "name": "Raetta Zadow",
+    "email": "raetta.zadow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

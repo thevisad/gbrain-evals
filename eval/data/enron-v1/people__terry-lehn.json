@@ -1,0 +1,14 @@
+{
+  "slug": "people/terry-lehn",
+  "type": "person",
+  "title": "Terry Lehn",
+  "compiled_truth": "Terry Lehn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2002-02-14), Terry Lehn sent 2 and received 31 emails, totalling 33 interactions. Top correspondents: [Lisa Sawyer](people/lisa-sawyer) (1), [Steve Hotte](people/steve-hotte) (1), [Julia White](people/julia-white) (1), [Rod Hayslett](people/rod-hayslett) (1).",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terry-lehn",
+    "name": "Terry Lehn",
+    "email": "terry.lehn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

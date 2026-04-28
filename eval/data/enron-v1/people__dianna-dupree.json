@@ -1,0 +1,14 @@
+{
+  "slug": "people/dianna-dupree",
+  "type": "person",
+  "title": "Dianna Dupree",
+  "compiled_truth": "Dianna Dupree is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2002-05-06), Dianna Dupree sent 2 and received 12 emails, totalling 14 interactions. Top correspondents: [Houston Tax](people/houston-tax) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dianna-dupree",
+    "name": "Dianna Dupree",
+    "email": "dianna.dupree@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

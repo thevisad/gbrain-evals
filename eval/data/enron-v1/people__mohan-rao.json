@@ -1,0 +1,14 @@
+{
+  "slug": "people/mohan-rao",
+  "type": "person",
+  "title": "Mohan Rao",
+  "compiled_truth": "Mohan Rao is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-06 to 2000-12-06), Mohan Rao sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-12-06** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mohan-rao",
+    "name": "Mohan Rao",
+    "email": "mohan.rao@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

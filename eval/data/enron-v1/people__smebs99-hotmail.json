@@ -1,0 +1,14 @@
+{
+  "slug": "people/smebs99-hotmail",
+  "type": "person",
+  "title": "Smebs99",
+  "compiled_truth": "Smebs99 is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-01-31 to 2002-01-22), Smebs99 sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-01-31** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/smebs99-hotmail",
+    "name": "Smebs99",
+    "email": "smebs99@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

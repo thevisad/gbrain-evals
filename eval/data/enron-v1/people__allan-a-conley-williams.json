@@ -1,0 +1,14 @@
+{
+  "slug": "people/allan-a-conley-williams",
+  "type": "person",
+  "title": "Allan A Conley",
+  "compiled_truth": "Allan A Conley is an external contact at [Williams Companies](companies/williams). Over the corpus period (2001-05-11 to 2001-10-24), Allan A Conley sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-05-11** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/allan-a-conley-williams",
+    "name": "Allan A Conley",
+    "email": "allan.a.conley@williams.com",
+    "primary_affiliation": "companies/williams"
+  }
+}

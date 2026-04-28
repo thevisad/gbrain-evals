@@ -1,0 +1,14 @@
+{
+  "slug": "people/todd-callaway",
+  "type": "person",
+  "title": "Todd Callaway",
+  "compiled_truth": "Todd Callaway is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-07 to 2001-11-12), Todd Callaway sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-07** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/todd-callaway",
+    "name": "Todd Callaway",
+    "email": "todd.callaway@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

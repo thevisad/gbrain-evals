@@ -1,0 +1,14 @@
+{
+  "slug": "people/lauren-dromgool",
+  "type": "person",
+  "title": "Lauren Dromgool",
+  "compiled_truth": "Lauren Dromgool is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2001-08-22), Lauren Dromgool sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2001-08-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lauren-dromgool",
+    "name": "Lauren Dromgool",
+    "email": "lauren.dromgool@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

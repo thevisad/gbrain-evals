@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenny-cooper",
+  "type": "person",
+  "title": "Kenny Cooper",
+  "compiled_truth": "Kenny Cooper is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-07 to 2001-02-06), Kenny Cooper sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-03-07** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenny-cooper",
+    "name": "Kenny Cooper",
+    "email": "kenny.cooper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

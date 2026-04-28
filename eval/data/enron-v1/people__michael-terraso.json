@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-terraso",
+  "type": "person",
+  "title": "Michael Terraso",
+  "compiled_truth": "Michael Terraso is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-09), Michael Terraso sent 23 and received 348 emails, totalling 371 interactions. Top correspondents: [Steven Kean](people/steven-kean) (21), [Maureen Mcvicker](people/maureen-mcvicker) (12), [Jeffrey Keeler](people/jeffrey-keeler) (2), [Phil Lowry](people/phil-lowry) (2), [Louis Soldano](people/louis-soldano) (2). Mailbox folders observed: credit_issues, environmental_issues, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-terraso",
+    "name": "Michael Terraso",
+    "email": "michael.terraso@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/wlmcreynolds-bpa",
+  "type": "person",
+  "title": "Wlmcreynolds",
+  "compiled_truth": "Wlmcreynolds is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2001-03-20 to 2001-08-14), Wlmcreynolds sent 1 and received 3 emails, totalling 4 interactions. Top correspondents: [Bill Williams Iii](people/bill-williams-iii) (1).",
+  "timeline": "- **2001-03-20** | First recorded email in corpus\n- **2001-08-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wlmcreynolds-bpa",
+    "name": "Wlmcreynolds",
+    "email": "wlmcreynolds@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

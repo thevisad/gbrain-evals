@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-robichaux",
+  "type": "person",
+  "title": "Michelle Robichaux",
+  "compiled_truth": "Michelle Robichaux is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-12-03), Michelle Robichaux sent 7 and received 18 emails, totalling 25 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (4), [Elizabeth Sager](people/elizabeth-sager) (3), [Scott Massey](people/scott-massey) (2), [Peter Vint](people/peter-vint) (2), [James Maholm](people/james-maholm) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-robichaux",
+    "name": "Michelle Robichaux",
+    "email": "michelle.robichaux@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

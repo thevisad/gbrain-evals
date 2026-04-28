@@ -1,0 +1,14 @@
+{
+  "slug": "people/chj-aelaw",
+  "type": "person",
+  "title": "Chj",
+  "compiled_truth": "Chj is an external contact at [Aelaw](companies/aelaw). Over the corpus period (2000-04-28 to 2001-07-31), Chj sent 5 and received 154 emails, totalling 159 interactions. Top correspondents: [Plg](people/plg-cpuc) (5), [Lindseyhowdowning](people/lindseyhowdowning-dwt) (5), [Gsullivan](people/gsullivan-sempra) (5), [Rochmanm](people/rochmanm-cubjpa) (5), [Porterdk](people/porterdk-sce) (5).",
+  "timeline": "- **2000-04-28** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chj-aelaw",
+    "name": "Chj",
+    "email": "chj@aelaw.com",
+    "primary_affiliation": "companies/aelaw"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/oliver-gaylard",
+  "type": "person",
+  "title": "Oliver Gaylard",
+  "compiled_truth": "Oliver Gaylard is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-21 to 2001-05-22), Oliver Gaylard sent 1 and received 26 emails, totalling 27 interactions. Top correspondents: [Tanya Tamarchenko](people/tanya-tamarchenko) (1), [David Port](people/david-port) (1), [Vince Kaminski](people/vince-kaminski) (1), [Kirstee Hewitt](people/kirstee-hewitt) (1).",
+  "timeline": "- **2000-01-21** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/oliver-gaylard",
+    "name": "Oliver Gaylard",
+    "email": "oliver.gaylard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

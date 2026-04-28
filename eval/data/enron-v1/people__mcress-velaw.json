@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcress-velaw",
+  "type": "person",
+  "title": "Mcress",
+  "compiled_truth": "Mcress is an external contact at [Vinson & Elkins](companies/vinson-elkins). Over the corpus period (2000-01-20 to 2000-01-20), Mcress sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-01-20** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcress-velaw",
+    "name": "Mcress",
+    "email": "mcress@velaw.com",
+    "primary_affiliation": "companies/vinson-elkins"
+  }
+}

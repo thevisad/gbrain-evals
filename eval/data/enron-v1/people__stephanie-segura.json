@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephanie-segura",
+  "type": "person",
+  "title": "Stephanie Segura",
+  "compiled_truth": "Stephanie Segura is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-16), Stephanie Segura sent 4 and received 147 emails, totalling 151 interactions. Top correspondents: [Travis Mccullough](people/travis-mccullough) (3), [Tana Jones](people/tana-jones) (3), [Kay Young](people/kay-young) (3), [Mark Palmer](people/mark-palmer) (2), [Irma Fuentes](people/irma-fuentes) (1).",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephanie-segura",
+    "name": "Stephanie Segura",
+    "email": "stephanie.segura@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

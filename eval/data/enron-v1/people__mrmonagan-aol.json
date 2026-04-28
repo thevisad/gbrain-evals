@@ -1,0 +1,14 @@
+{
+  "slug": "people/mrmonagan-aol",
+  "type": "person",
+  "title": "Mrmonagan",
+  "compiled_truth": "Mrmonagan is an external contact at [AOL](companies/aol). Over the corpus period (2000-09-01 to 2001-11-20), Mrmonagan sent 0 and received 77 emails, totalling 77 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mrmonagan-aol",
+    "name": "Mrmonagan",
+    "email": "mrmonagan@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

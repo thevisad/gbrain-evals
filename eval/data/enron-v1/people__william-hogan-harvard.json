@@ -1,0 +1,14 @@
+{
+  "slug": "people/william-hogan-harvard",
+  "type": "person",
+  "title": "William Hogan",
+  "compiled_truth": "William Hogan is an external contact at [Harvard](companies/harvard). Over the corpus period (2000-10-10 to 2002-01-14), William Hogan sent 4 and received 20 emails, totalling 24 interactions. Top correspondents: [Rshapiro](people/rshapiro) (1).",
+  "timeline": "- **2000-10-10** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/william-hogan-harvard",
+    "name": "William Hogan",
+    "email": "william_hogan@harvard.edu",
+    "primary_affiliation": "companies/harvard"
+  }
+}

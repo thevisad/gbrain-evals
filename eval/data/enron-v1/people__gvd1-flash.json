@@ -1,0 +1,14 @@
+{
+  "slug": "people/gvd1-flash",
+  "type": "person",
+  "title": "Gvd1",
+  "compiled_truth": "Gvd1 is an external contact at [Flash](companies/flash). Over the corpus period (2000-05-21 to 2001-02-12), Gvd1 sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2001-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gvd1-flash",
+    "name": "Gvd1",
+    "email": "gvd1@flash.net",
+    "primary_affiliation": "companies/flash"
+  }
+}

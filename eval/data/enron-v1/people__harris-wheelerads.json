@@ -1,0 +1,14 @@
+{
+  "slug": "people/harris-wheelerads",
+  "type": "person",
+  "title": "Harris",
+  "compiled_truth": "Harris is an external contact at [Wheelerads](companies/wheelerads). Over the corpus period (2000-09-04 to 2001-09-28), Harris sent 0 and received 55 emails, totalling 55 interactions.",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/harris-wheelerads",
+    "name": "Harris",
+    "email": "harris@wheelerads.com",
+    "primary_affiliation": "companies/wheelerads"
+  }
+}

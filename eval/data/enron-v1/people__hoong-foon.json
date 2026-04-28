@@ -1,0 +1,14 @@
+{
+  "slug": "people/hoong-foon",
+  "type": "person",
+  "title": "Hoong Foon",
+  "compiled_truth": "Hoong Foon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-29 to 2001-05-23), Hoong Foon sent 0 and received 93 emails, totalling 93 interactions.",
+  "timeline": "- **2000-02-29** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hoong-foon",
+    "name": "Hoong Foon",
+    "email": "hoong.foon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

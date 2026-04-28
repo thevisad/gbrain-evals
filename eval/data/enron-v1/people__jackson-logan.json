@@ -1,0 +1,14 @@
+{
+  "slug": "people/jackson-logan",
+  "type": "person",
+  "title": "Jackson Logan",
+  "compiled_truth": "Jackson Logan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-03-29), Jackson Logan sent 16 and received 144 emails, totalling 160 interactions. Top correspondents: [M  Love](people/m-love) (8), [C  Giron](people/c-giron) (5), [Phillip Love](people/phillip-love) (4), [Bruce Mills](people/bruce-mills) (3), [Patrick Ryder](people/patrick-ryder) (3). Mailbox folders observed: central, deleted_items, inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jackson-logan",
+    "name": "Jackson Logan",
+    "email": "jackson.logan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/efeo-milbank",
+  "type": "person",
+  "title": "Efeo",
+  "compiled_truth": "Efeo is an external contact at [Milbank](companies/milbank). Over the corpus period (2000-04-14 to 2001-10-15), Efeo sent 4 and received 54 emails, totalling 58 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (2), [Mark E Haedicke](people/mark-e-haedicke) (1), [Richard B Sanders](people/richard-b-sanders) (1).",
+  "timeline": "- **2000-04-14** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/efeo-milbank",
+    "name": "Efeo",
+    "email": "efeo@milbank.com",
+    "primary_affiliation": "companies/milbank"
+  }
+}

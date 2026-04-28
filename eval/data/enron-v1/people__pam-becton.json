@@ -1,0 +1,14 @@
+{
+  "slug": "people/pam-becton",
+  "type": "person",
+  "title": "Pam Becton",
+  "compiled_truth": "Pam Becton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2002-05-06), Pam Becton sent 3 and received 123 emails, totalling 126 interactions. Top correspondents: [Tammy Barta](people/tammy-barta) (2), [Dana Davis](people/dana-davis) (2), [Stacy Hardy](people/stacy-hardy) (1), [Lisa King](people/lisa-king) (1), [Lisa Best](people/lisa-best) (1). Mailbox folders observed: kcs.",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pam-becton",
+    "name": "Pam Becton",
+    "email": "pam.becton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

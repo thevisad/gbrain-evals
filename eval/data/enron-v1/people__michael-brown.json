@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-brown",
+  "type": "person",
+  "title": "Michael Brown",
+  "compiled_truth": "Michael Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-02-09 to 2002-01-14), Michael Brown sent 18 and received 609 emails, totalling 627 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (6), [John Sherriff](people/john-sherriff) (4), [Justin Boyd](people/justin-boyd) (3), [Richard Shapiro](people/richard-shapiro) (3), [Greg Whalley](people/greg-whalley) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-02-09** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-brown",
+    "name": "Michael Brown",
+    "email": "michael.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

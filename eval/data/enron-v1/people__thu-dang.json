@@ -1,0 +1,14 @@
+{
+  "slug": "people/thu-dang",
+  "type": "person",
+  "title": "Thu Dang",
+  "compiled_truth": "Thu Dang is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-30 to 2001-10-23), Thu Dang sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (1), [Sean Yang](people/sean-yang) (1), [Jeremy Wong](people/jeremy-wong) (1), [Michael Suchoff](people/michael-suchoff) (1), [George Grant](people/george-grant) (1). Mailbox folders observed: calendar.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2001-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thu-dang",
+    "name": "Thu Dang",
+    "email": "thu.dang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

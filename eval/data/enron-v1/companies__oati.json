@@ -1,0 +1,25 @@
+{
+  "slug": "companies/oati",
+  "type": "company",
+  "title": "OATI",
+  "compiled_truth": "OATI is an external organization that appears in the Enron email corpus. Domain: oatiinc.com. Total email interactions with Enron: 25. Known contacts: 8 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (25 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/oati",
+    "name": "OATI",
+    "employees": [
+      "people/ben-porath-oatiinc",
+      "people/frank-billington-oatiinc",
+      "people/ideas-oatiinc",
+      "people/kevin-burns-oatiinc",
+      "people/mary-tollefson-oatiinc",
+      "people/patrick-lewis-oatiinc",
+      "people/patrick-tronnier-oatiinc",
+      "people/support-oatiinc"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

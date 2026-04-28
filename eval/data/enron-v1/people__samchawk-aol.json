@@ -1,0 +1,14 @@
+{
+  "slug": "people/samchawk-aol",
+  "type": "person",
+  "title": "Samchawk",
+  "compiled_truth": "Samchawk is an external contact at [AOL](companies/aol). Over the corpus period (1999-09-16 to 2002-01-23), Samchawk sent 14 and received 14 emails, totalling 28 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (14), [Iborstein](people/iborstein-aol) (3), [Sgaffen](people/sgaffen-ncninc) (3), [Jg922](people/jg922-aol) (3), [Dstein009](people/dstein009-aol) (3).",
+  "timeline": "- **1999-09-16** | First recorded email in corpus\n- **2002-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/samchawk-aol",
+    "name": "Samchawk",
+    "email": "samchawk@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

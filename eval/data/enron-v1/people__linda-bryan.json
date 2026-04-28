@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-bryan",
+  "type": "person",
+  "title": "Linda Bryan",
+  "compiled_truth": "Linda Bryan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-23 to 2001-06-11), Linda Bryan sent 9 and received 332 emails, totalling 341 interactions. Top correspondents: [Victor Lamadrid](people/victor-lamadrid) (9), [Laurel Adams](people/laurel-adams) (8), [Lauri Allen](people/lauri-allen) (8), [Cary Carrabine](people/cary-carrabine) (8), [Shonnie Daniel](people/shonnie-daniel) (8). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-12-23** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-bryan",
+    "name": "Linda Bryan",
+    "email": "linda.bryan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/d-winfree",
+  "type": "person",
+  "title": "D  Winfree",
+  "compiled_truth": "D  Winfree is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-15 to 2002-05-13), D  Winfree sent 45 and received 433 emails, totalling 478 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (22), [M  Love](people/m-love) (17), [Scott Palmer](people/scott-palmer) (16), [Errol Mclaughlin](people/errol-mclaughlin) (14), [C  Giron](people/c-giron) (11). Mailbox folders observed: bankruptcy, deleted_items, eol, ffl, inbox, kcs.",
+  "timeline": "- **2001-05-15** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d-winfree",
+    "name": "D  Winfree",
+    "email": "d..winfree@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-sebesta",
+  "type": "person",
+  "title": "Chris Sebesta",
+  "compiled_truth": "Chris Sebesta is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-25 to 2002-03-21), Chris Sebesta sent 10 and received 258 emails, totalling 268 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (10), [Frank Semin](people/frank-semin) (6), [Bill Fowler](people/bill-fowler) (4), [Raetta Zadow](people/raetta-zadow) (3), [Dave Neubauer](people/dave-neubauer) (3). Mailbox folders observed: acctg___customer_issues_on_billing, deleted_items, inbox, personnel___prc_2001_year_end.",
+  "timeline": "- **2000-02-25** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-sebesta",
+    "name": "Chris Sebesta",
+    "email": "chris.sebesta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

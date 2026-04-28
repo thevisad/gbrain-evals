@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-lay",
+  "type": "person",
+  "title": "Mark Lay",
+  "compiled_truth": "Mark Lay is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-28), Mark Lay sent 15 and received 68 emails, totalling 83 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (8), [Vince Kaminski](people/vince-kaminski) (7), [Fabricio Soares](people/fabricio-soares) (5), [Philippe Bibi](people/philippe-bibi) (4), [David Berberian](people/david-berberian) (3).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-lay",
+    "name": "Mark Lay",
+    "email": "mark.lay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

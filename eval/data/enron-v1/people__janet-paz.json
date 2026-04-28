@@ -1,0 +1,14 @@
+{
+  "slug": "people/janet-paz",
+  "type": "person",
+  "title": "Janet Paz",
+  "compiled_truth": "Janet Paz is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-05-14), Janet Paz sent 1 and received 31 emails, totalling 32 interactions. Top correspondents: [Bob Hall](people/bob-hall) (1), [James Scribner](people/james-scribner) (1), [Mary Solmonson](people/mary-solmonson) (1), [Brenda Herod](people/brenda-herod) (1), [Leslie Reeves](people/leslie-reeves) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janet-paz",
+    "name": "Janet Paz",
+    "email": "janet.paz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

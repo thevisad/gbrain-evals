@@ -1,0 +1,27 @@
+{
+  "slug": "companies/sf",
+  "type": "company",
+  "title": "Sf",
+  "compiled_truth": "Sf is an external organization that appears in the Enron email corpus. Domain: sf.com. Total email interactions with Enron: 328. Known contacts: 10 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (328 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/sf",
+    "name": "Sf",
+    "employees": [
+      "people/agustafson-sf",
+      "people/amy-eagle-sf",
+      "people/chris-engen-sf",
+      "people/cottlli-sf",
+      "people/jkarp-sf",
+      "people/karpjos-sf",
+      "people/kirsten-mau-sf",
+      "people/lacoupa-sf",
+      "people/placourciere-sf",
+      "people/regaffairs-sf"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gbd-vnf",
+  "type": "person",
+  "title": "Gbd",
+  "compiled_truth": "Gbd is an external contact at [Vnf](companies/vnf). Over the corpus period (2001-02-02 to 2001-02-02), Gbd sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-02-02** | First recorded email in corpus\n- **2001-02-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gbd-vnf",
+    "name": "Gbd",
+    "email": "gbd@vnf.com",
+    "primary_affiliation": "companies/vnf"
+  }
+}

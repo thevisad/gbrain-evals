@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-allen",
+  "type": "person",
+  "title": "A  Allen",
+  "compiled_truth": "A  Allen is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-31 to 2002-02-07), A  Allen sent 4 and received 275 emails, totalling 279 interactions. Top correspondents: [W  White](people/w-white) (3), [John Postlethwaite](people/john-postlethwaite) (2), [Katina Smith](people/katina-smith) (1), [Clint Dean](people/clint-dean) (1), [Andrea Dahlke](people/andrea-dahlke) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-03-31** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-allen",
+    "name": "A  Allen",
+    "email": "a..allen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

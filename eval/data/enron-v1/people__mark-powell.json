@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-powell",
+  "type": "person",
+  "title": "Mark Powell",
+  "compiled_truth": "Mark Powell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-06 to 2001-11-27), Mark Powell sent 29 and received 231 emails, totalling 260 interactions. Top correspondents: [Peter Keohane](people/peter-keohane) (14), [Tana Jones](people/tana-jones) (8), [Russell Diamond](people/russell-diamond) (8), [Dan Hyvl](people/dan-hyvl) (6), [Mark Haedicke](people/mark-haedicke) (5). Mailbox folders observed: archive, deleted_items, inbox, retail.",
+  "timeline": "- **2000-03-06** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-powell",
+    "name": "Mark Powell",
+    "email": "mark.powell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

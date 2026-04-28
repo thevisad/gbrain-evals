@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-schuh",
+  "type": "person",
+  "title": "Michael Schuh",
+  "compiled_truth": "Michael Schuh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-11-28), Michael Schuh sent 8 and received 40 emails, totalling 48 interactions. Top correspondents: [Richard Sanders](people/richard-sanders) (7), [Michael Brown](people/michael-brown) (5), [Jeffrey Hodge](people/jeffrey-hodge) (3), [Marie Heard](people/marie-heard) (1), [Joe Gold](people/joe-gold) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-schuh",
+    "name": "Michael Schuh",
+    "email": "michael.schuh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

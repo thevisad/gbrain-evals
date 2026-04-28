@@ -1,0 +1,14 @@
+{
+  "slug": "people/newsemail-stockselector",
+  "type": "person",
+  "title": "Newsemail",
+  "compiled_truth": "Newsemail is an external contact at [Stockselector](companies/stockselector). Over the corpus period (2000-12-11 to 2001-06-08), Newsemail sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-12-11** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/newsemail-stockselector",
+    "name": "Newsemail",
+    "email": "newsemail@stockselector.com",
+    "primary_affiliation": "companies/stockselector"
+  }
+}

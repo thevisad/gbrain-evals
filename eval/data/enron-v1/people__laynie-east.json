@@ -1,0 +1,14 @@
+{
+  "slug": "people/laynie-east",
+  "type": "person",
+  "title": "Laynie East",
+  "compiled_truth": "Laynie East is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2002-05-06), Laynie East sent 12 and received 97 emails, totalling 109 interactions. Top correspondents: [Barry Tycholiz](people/barry-tycholiz) (5), [A  Martin](people/a-martin) (3), [Frank Vickers](people/frank-vickers) (2), [Scott Neal](people/scott-neal) (2), [Marnie Lamb](people/marnie-lamb) (1). Mailbox folders observed: deleted_items, inbox, logistics.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laynie-east",
+    "name": "Laynie East",
+    "email": "laynie.east@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

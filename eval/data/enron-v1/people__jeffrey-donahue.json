@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-donahue",
+  "type": "person",
+  "title": "Jeffrey Donahue",
+  "compiled_truth": "Jeffrey Donahue is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-30 to 2001-02-02), Jeffrey Donahue sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-01-30** | First recorded email in corpus\n- **2001-02-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-donahue",
+    "name": "Jeffrey Donahue",
+    "email": "jeffrey.donahue@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/emile-courrege",
+  "type": "person",
+  "title": "Emile Courrege",
+  "compiled_truth": "Emile Courrege is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-11-09), Emile Courrege sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/emile-courrege",
+    "name": "Emile Courrege",
+    "email": "emile.courrege@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

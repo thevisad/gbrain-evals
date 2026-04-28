@@ -1,0 +1,14 @@
+{
+  "slug": "people/owner-eveningmba-haas",
+  "type": "person",
+  "title": "Owner-Eveningmba",
+  "compiled_truth": "Owner-Eveningmba is an external contact at [Haas](companies/haas). Over the corpus period (2000-02-23 to 2001-07-16), Owner-Eveningmba sent 254 and received 0 emails, totalling 254 interactions. Top correspondents: [Eveningmba](people/eveningmba-haas) (228), [Mba02](people/mba02-haas) (69), [Mba01](people/mba01-haas) (66), [Allphds](people/allphds-haas) (42), [Undergrd](people/undergrd-haas) (33).",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/owner-eveningmba-haas",
+    "name": "Owner-Eveningmba",
+    "email": "owner-eveningmba@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

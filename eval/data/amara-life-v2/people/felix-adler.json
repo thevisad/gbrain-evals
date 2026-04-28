@@ -1,0 +1,16 @@
+{
+  "slug": "people/felix-adler",
+  "type": "person",
+  "title": "Felix Adler",
+  "compiled_truth": "Felix Adler is a peer VC. Email: felix@accel.com. Felix Adler works at Accel. Slack: @felix.",
+  "timeline": "- **2025-04-14** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/felix-adler",
+    "name": "Felix Adler",
+    "email": "felix@accel.com",
+    "slack_handle": "felix",
+    "relation_to_amara": "peer",
+    "primary_affiliation": "companies/accel"
+  }
+}

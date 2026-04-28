@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-kelly-eott",
+  "type": "person",
+  "title": "Mike Kelly",
+  "compiled_truth": "Mike Kelly is an external contact at [Eott](companies/eott). Over the corpus period (2000-02-02 to 2001-05-07), Mike Kelly sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-05-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-kelly-eott",
+    "name": "Mike Kelly",
+    "email": "mike_kelly@eott.com",
+    "primary_affiliation": "companies/eott"
+  }
+}

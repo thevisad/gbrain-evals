@@ -1,0 +1,14 @@
+{
+  "slug": "people/gregg-young",
+  "type": "person",
+  "title": "Gregg Young",
+  "compiled_truth": "Gregg Young is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-13 to 2002-05-06), Gregg Young sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2001-04-13** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gregg-young",
+    "name": "Gregg Young",
+    "email": "gregg.young@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

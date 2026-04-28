@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-meyer-avistacorp",
+  "type": "person",
+  "title": "David Meyer",
+  "compiled_truth": "David Meyer is an external contact at [Avistacorp](companies/avistacorp). Over the corpus period (2001-03-20 to 2001-05-03), David Meyer sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-03-20** | First recorded email in corpus\n- **2001-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-meyer-avistacorp",
+    "name": "David Meyer",
+    "email": "david.meyer@avistacorp.com",
+    "primary_affiliation": "companies/avistacorp"
+  }
+}

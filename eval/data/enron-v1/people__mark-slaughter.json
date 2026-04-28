@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-slaughter",
+  "type": "person",
+  "title": "Mark Slaughter",
+  "compiled_truth": "Mark Slaughter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2001-06-01), Mark Slaughter sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-slaughter",
+    "name": "Mark Slaughter",
+    "email": "mark.slaughter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

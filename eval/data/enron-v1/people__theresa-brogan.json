@@ -1,0 +1,14 @@
+{
+  "slug": "people/theresa-brogan",
+  "type": "person",
+  "title": "Theresa Brogan",
+  "compiled_truth": "Theresa Brogan is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-14), Theresa Brogan sent 12 and received 146 emails, totalling 158 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (11), [Sheila Glover](people/sheila-glover) (8), [Cassandra Schultz](people/cassandra-schultz) (6), [Cheryl Nelson](people/cheryl-nelson) (5), [John Greene](people/john-greene) (5).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/theresa-brogan",
+    "name": "Theresa Brogan",
+    "email": "theresa.brogan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

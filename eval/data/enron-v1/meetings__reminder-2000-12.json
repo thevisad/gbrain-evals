@@ -1,0 +1,28 @@
+{
+  "slug": "meetings/reminder-2000-12",
+  "type": "meeting",
+  "title": "Meeting: *Reminder",
+  "compiled_truth": "Meeting: \"*Reminder\". Occurred 2000-12-11 through 2000-12-11 with 3 related emails. Participants included: [Brad Carey](people/brad-carey), [Brian Dawson](people/brian-dawson), [Brian Schwertner](people/brian-schwertner), [Dana Davis](people/dana-davis), [Laynie East](people/laynie-east), [Lisa Best](people/lisa-best), [Lisa King](people/lisa-king), [Marnie Lamb](people/marnie-lamb)....",
+  "timeline": "- **2000-12-11** | Meeting: *reminder\n- **2000-12-11** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/reminder-2000-12",
+    "attendees": [
+      "people/brad-carey",
+      "people/brian-dawson",
+      "people/brian-schwertner",
+      "people/dana-davis",
+      "people/laynie-east",
+      "people/lisa-best",
+      "people/lisa-king",
+      "people/marnie-lamb",
+      "people/nicole-mendez",
+      "people/rosalyn-lum",
+      "people/rufino-doroteo",
+      "people/stephen-wolfe",
+      "people/susan-rance",
+      "people/tammy-barta"
+    ],
+    "date": "2000-12-11"
+  }
+}

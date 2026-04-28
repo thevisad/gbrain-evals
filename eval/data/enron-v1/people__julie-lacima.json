@@ -1,0 +1,14 @@
+{
+  "slug": "people/julie-lacima",
+  "type": "person",
+  "title": "Julie",
+  "compiled_truth": "Julie is an external contact at [Lacima](companies/lacima). Over the corpus period (2000-05-08 to 2001-01-26), Julie sent 12 and received 27 emails, totalling 39 interactions. Top correspondents: [Vince J Kaminski](people/vince-j-kaminski) (11), [Fiona Grant](people/fiona-grant) (3), [Les](people/les-lacimagroup) (2), [Chris](people/chris-lacimagroup) (2), [Grant Masson](people/grant-masson) (2).",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2001-01-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julie-lacima",
+    "name": "Julie",
+    "email": "julie@lacima.co.uk",
+    "primary_affiliation": "companies/lacima"
+  }
+}

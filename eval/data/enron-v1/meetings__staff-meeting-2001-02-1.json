@@ -1,0 +1,31 @@
+{
+  "slug": "meetings/staff-meeting-2001-02-1",
+  "type": "meeting",
+  "title": "Meeting: Staff Meeting",
+  "compiled_truth": "Meeting: \"Staff Meeting\". Occurred 2001-02-12 with 1 related emails. Participants included: [Bill Brogan](people/bill-brogan), [David Jones](people/david-jones), [Frank Vickers](people/frank-vickers), [Gary Bryan](people/gary-bryan), [Gil Muhl](people/gil-muhl), [Jared Kaiser](people/jared-kaiser), [Jill Zivley](people/jill-zivley), [John Hodge](people/john-hodge)....",
+  "timeline": "- **2001-02-12** | Meeting: staff meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/staff-meeting-2001-02-1",
+    "attendees": [
+      "people/bill-brogan",
+      "people/david-jones",
+      "people/frank-vickers",
+      "people/gary-bryan",
+      "people/gil-muhl",
+      "people/jared-kaiser",
+      "people/jill-zivley",
+      "people/john-hodge",
+      "people/john-singer",
+      "people/john-taylor",
+      "people/kimberly-brown",
+      "people/linda-roberts",
+      "people/nelson-ferries",
+      "people/phil-demoes",
+      "people/robin-barbe",
+      "people/ruth-concannon",
+      "people/tammi-depaolis"
+    ],
+    "date": "2001-02-12"
+  }
+}

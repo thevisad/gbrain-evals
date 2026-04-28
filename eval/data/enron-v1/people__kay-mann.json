@@ -1,0 +1,14 @@
+{
+  "slug": "people/kay-mann",
+  "type": "person",
+  "title": "Kay Mann",
+  "compiled_truth": "Kay Mann is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-13), Kay Mann sent 9331 and received 3043 emails, totalling 12374 interactions. Top correspondents: [Suzanne Adams](people/suzanne-adams) (943), [Ben Jacoby](people/ben-jacoby) (814), [Nmann](people/nmann-erac) (629), [Kathleen Carnahan](people/kathleen-carnahan) (613), [Sheila Tweed](people/sheila-tweed) (593). Mailbox folders observed: _sent_mail, bankrupt, calendar, deleted_items, ema_s, florida.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kay-mann",
+    "name": "Kay Mann",
+    "email": "kay.mann@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

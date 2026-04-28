@@ -1,0 +1,14 @@
+{
+  "slug": "people/jorge-garcia",
+  "type": "person",
+  "title": "Jorge Garcia",
+  "compiled_truth": "Jorge Garcia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-31 to 2001-06-07), Jorge Garcia sent 36 and received 118 emails, totalling 154 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (33), [Laurel Adams](people/laurel-adams) (9), [Aneela Charania](people/aneela-charania) (4), [Wes Colwell](people/wes-colwell) (1), [Sally Beck](people/sally-beck) (1).",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jorge-garcia",
+    "name": "Jorge Garcia",
+    "email": "jorge.garcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

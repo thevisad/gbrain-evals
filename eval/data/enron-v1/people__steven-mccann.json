@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-mccann",
+  "type": "person",
+  "title": "Steven Mccann",
+  "compiled_truth": "Steven Mccann is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-07 to 2001-05-23), Steven Mccann sent 1 and received 5 emails, totalling 6 interactions. Top correspondents: [Khristina Griffin](people/khristina-griffin) (1), [Agatha Tran](people/agatha-tran) (1), [Todd Ross](people/todd-ross) (1), [Carlos Salvatierra](people/carlos-salvatierra) (1), [Paul Y'Barbo](people/paul-y-barbo) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-04-07** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-mccann",
+    "name": "Steven Mccann",
+    "email": "steven.mccann@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

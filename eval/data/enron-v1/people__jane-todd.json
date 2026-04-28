@@ -1,0 +1,14 @@
+{
+  "slug": "people/jane-todd",
+  "type": "person",
+  "title": "Jane Todd",
+  "compiled_truth": "Jane Todd is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-20 to 2001-11-16), Jane Todd sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-10-20** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jane-todd",
+    "name": "Jane Todd",
+    "email": "jane.todd@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

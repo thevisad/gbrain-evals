@@ -1,0 +1,14 @@
+{
+  "slug": "people/davis-haas",
+  "type": "person",
+  "title": "Davis",
+  "compiled_truth": "Davis is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-30 to 2001-12-14), Davis sent 0 and received 54 emails, totalling 54 interactions.",
+  "timeline": "- **1999-09-30** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/davis-haas",
+    "name": "Davis",
+    "email": "davis@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

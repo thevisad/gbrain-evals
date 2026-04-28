@@ -1,0 +1,14 @@
+{
+  "slug": "people/khymberly-booth",
+  "type": "person",
+  "title": "Khymberly Booth",
+  "compiled_truth": "Khymberly Booth is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-23 to 2002-06-18), Khymberly Booth sent 9 and received 28 emails, totalling 37 interactions. Top correspondents: [Jody Blackburn](people/jody-blackburn) (3), [Kelly Brodbeck](people/kelly-brodbeck) (3), [Darren Cavanaugh](people/darren-cavanaugh) (3), [Ryan Deane](people/ryan-deane) (3), [Mo Elafandi](people/mo-elafandi) (3). Mailbox folders observed: bankrupt, deleted_items, inbox.",
+  "timeline": "- **2001-02-23** | First recorded email in corpus\n- **2002-06-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/khymberly-booth",
+    "name": "Khymberly Booth",
+    "email": "khymberly.booth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

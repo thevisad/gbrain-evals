@@ -1,0 +1,14 @@
+{
+  "slug": "people/trisha-luong",
+  "type": "person",
+  "title": "Trisha Luong",
+  "compiled_truth": "Trisha Luong is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-04 to 2000-06-30), Trisha Luong sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-02-04** | First recorded email in corpus\n- **2000-06-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/trisha-luong",
+    "name": "Trisha Luong",
+    "email": "trisha.luong@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

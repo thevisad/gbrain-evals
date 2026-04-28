@@ -1,0 +1,14 @@
+{
+  "slug": "people/sam-leuschen",
+  "type": "person",
+  "title": "Sam Leuschen",
+  "compiled_truth": "Sam Leuschen is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-12 to 2002-06-21), Sam Leuschen sent 3 and received 60 emails, totalling 63 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (2), [Sally Beck](people/sally-beck) (1). Mailbox folders observed: deleted_items, e_mail_bin.",
+  "timeline": "- **2001-07-12** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sam-leuschen",
+    "name": "Sam Leuschen",
+    "email": "sam.leuschen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

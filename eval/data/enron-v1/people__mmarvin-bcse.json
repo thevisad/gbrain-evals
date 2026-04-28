@@ -1,0 +1,14 @@
+{
+  "slug": "people/mmarvin-bcse",
+  "type": "person",
+  "title": "Mmarvin",
+  "compiled_truth": "Mmarvin is an external contact at [Bcse](companies/bcse). Over the corpus period (1999-11-15 to 2000-12-11), Mmarvin sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mmarvin-bcse",
+    "name": "Mmarvin",
+    "email": "mmarvin@bcse.org",
+    "primary_affiliation": "companies/bcse"
+  }
+}

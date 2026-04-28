@@ -1,0 +1,14 @@
+{
+  "slug": "people/charles-f",
+  "type": "person",
+  "title": "Charles F",
+  "compiled_truth": "Charles F is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-13 to 2000-09-13), Charles F sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charles-f",
+    "name": "Charles F",
+    "email": "charles.f@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

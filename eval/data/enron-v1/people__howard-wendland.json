@@ -1,0 +1,14 @@
+{
+  "slug": "people/howard-wendland",
+  "type": "person",
+  "title": "Howard Wendland",
+  "compiled_truth": "Howard Wendland is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-14 to 2002-01-14), Howard Wendland sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/howard-wendland",
+    "name": "Howard Wendland",
+    "email": "howard.wendland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

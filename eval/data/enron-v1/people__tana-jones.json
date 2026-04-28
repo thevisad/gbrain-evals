@@ -1,0 +1,14 @@
+{
+  "slug": "people/tana-jones",
+  "type": "person",
+  "title": "Tana Jones",
+  "compiled_truth": "Tana Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-08), Tana Jones sent 7991 and received 6922 emails, totalling 14913 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (971), [Harry Collins](people/harry-collins) (856), [Leslie Hansen](people/leslie-hansen) (832), [Marie Heard](people/marie-heard) (826), [Alan Aronowitz](people/alan-aronowitz) (816). Mailbox folders observed: _exchange_info, archive, deleted_items, fin_desk, inbox, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tana-jones",
+    "name": "Tana Jones",
+    "email": "tana.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

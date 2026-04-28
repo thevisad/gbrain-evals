@@ -1,0 +1,16 @@
+{
+  "slug": "people/diego-alvarez",
+  "type": "person",
+  "title": "Diego Alvarez",
+  "compiled_truth": "Diego Alvarez is a peer VC. Email: diego@tartan.vc. Diego Alvarez works at Tartan VC. Slack: @diego.",
+  "timeline": "- **2026-04-13** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diego-alvarez",
+    "name": "Diego Alvarez",
+    "email": "diego@tartan.vc",
+    "slack_handle": "diego",
+    "relation_to_amara": "peer",
+    "primary_affiliation": "companies/tartan-vc"
+  }
+}

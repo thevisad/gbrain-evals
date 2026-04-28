@@ -1,0 +1,14 @@
+{
+  "slug": "people/teri-ashley",
+  "type": "person",
+  "title": "Teri Ashley",
+  "compiled_truth": "Teri Ashley is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-12-03), Teri Ashley sent 1 and received 5 emails, totalling 6 interactions. Top correspondents: [Kimberly Rizzi](people/kimberly-rizzi) (1), [Sheila Walton](people/sheila-walton) (1), [Gary Buck](people/gary-buck) (1), [Fran Mayes](people/fran-mayes) (1), [Cindy Skinner](people/cindy-skinner) (1).",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teri-ashley",
+    "name": "Teri Ashley",
+    "email": "teri.ashley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

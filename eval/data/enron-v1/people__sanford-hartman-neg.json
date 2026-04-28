@@ -1,0 +1,14 @@
+{
+  "slug": "people/sanford-hartman-neg",
+  "type": "person",
+  "title": "Sanford Hartman",
+  "compiled_truth": "Sanford Hartman is an external contact at [Neg](companies/neg). Over the corpus period (2001-02-03 to 2001-06-11), Sanford Hartman sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2001-02-03** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sanford-hartman-neg",
+    "name": "Sanford Hartman",
+    "email": "sanford.hartman@neg.pge.com",
+    "primary_affiliation": "companies/neg"
+  }
+}

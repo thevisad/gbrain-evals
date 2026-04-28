@@ -1,0 +1,14 @@
+{
+  "slug": "people/rfudeh-caiso",
+  "type": "person",
+  "title": "Rfudeh",
+  "compiled_truth": "Rfudeh is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-07-25 to 2000-08-29), Rfudeh sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2000-08-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rfudeh-caiso",
+    "name": "Rfudeh",
+    "email": "rfudeh@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

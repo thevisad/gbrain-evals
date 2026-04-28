@@ -1,0 +1,14 @@
+{
+  "slug": "people/ed-iii",
+  "type": "person",
+  "title": "Ed Iii",
+  "compiled_truth": "Ed Iii is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2001-06-12), Ed Iii sent 9 and received 272 emails, totalling 281 interactions. Top correspondents: [Bob Carter](people/bob-carter) (4), [Kay Mann](people/kay-mann) (3), [Matt Maxwell](people/matt-maxwell) (3), [Barton Clark](people/barton-clark) (3), [Peter Vecchio](people/peter-vecchio) (3).",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ed-iii",
+    "name": "Ed Iii",
+    "email": "ed.iii@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

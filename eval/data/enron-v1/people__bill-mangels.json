@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-mangels",
+  "type": "person",
+  "title": "Bill Mangels",
+  "compiled_truth": "Bill Mangels is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2000-12-18), Bill Mangels sent 0 and received 131 emails, totalling 131 interactions.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2000-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-mangels",
+    "name": "Bill Mangels",
+    "email": "bill.mangels@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

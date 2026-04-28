@@ -1,0 +1,14 @@
+{
+  "slug": "people/aw-turner-pgn",
+  "type": "person",
+  "title": "Aw Turner",
+  "compiled_truth": "Aw Turner is an external contact at [Pgn](companies/pgn). Over the corpus period (2000-02-02 to 2001-06-22), Aw Turner sent 0 and received 73 emails, totalling 73 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-06-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aw-turner-pgn",
+    "name": "Aw Turner",
+    "email": "aw_turner@pgn.com",
+    "primary_affiliation": "companies/pgn"
+  }
+}

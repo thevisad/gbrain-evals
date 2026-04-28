@@ -1,0 +1,14 @@
+{
+  "slug": "people/laurel-adams",
+  "type": "person",
+  "title": "Laurel Adams",
+  "compiled_truth": "Laurel Adams is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-04 to 2002-06-21), Laurel Adams sent 97 and received 793 emails, totalling 890 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (89), [Tana Jones](people/tana-jones) (5), [Errol Mclaughlin](people/errol-mclaughlin) (3), [Melissa Rodriguez](people/melissa-rodriguez) (3), [Sheila Glover](people/sheila-glover) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-05-04** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laurel-adams",
+    "name": "Laurel Adams",
+    "email": "laurel.adams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

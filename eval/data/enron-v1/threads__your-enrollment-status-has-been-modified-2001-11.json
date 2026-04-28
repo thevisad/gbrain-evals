@@ -1,0 +1,23 @@
+{
+  "slug": "threads/your-enrollment-status-has-been-modified-2001-11",
+  "type": "meeting",
+  "title": "Thread: Your Enrollment Status Has Been Modified.",
+  "compiled_truth": "Email thread: \"Your Enrollment Status Has Been Modified.\". Ran from 2001-11-19 to 2001-11-27 with 11 messages. Participants: [E Taylor](people/e-taylor), [Isc Registrar](people/isc-registrar), [Kevin Hyatt](people/kevin-hyatt), [Kevin Mcgowan](people/kevin-mcgowan), [Monika Causholli](people/monika-causholli), [Pinto Leite](people/pinto-leite), [Registrar Isc](people/registrar-isc), [Samantha Boyd](people/samantha-boyd).",
+  "timeline": "- **2001-11-19** | Thread begins: your enrollment status has been modified.\n- **2001-11-27** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/your-enrollment-status-has-been-modified-2001-11",
+    "attendees": [
+      "people/e-taylor",
+      "people/isc-registrar",
+      "people/kevin-hyatt",
+      "people/kevin-mcgowan",
+      "people/monika-causholli",
+      "people/pinto-leite",
+      "people/registrar-isc",
+      "people/samantha-boyd",
+      "people/taylor"
+    ],
+    "date": "2001-11-19"
+  }
+}

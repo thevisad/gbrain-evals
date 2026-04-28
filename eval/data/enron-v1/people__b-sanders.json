@@ -1,0 +1,14 @@
+{
+  "slug": "people/b-sanders",
+  "type": "person",
+  "title": "B  Sanders",
+  "compiled_truth": "B  Sanders is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-12 to 2002-06-13), B  Sanders sent 356 and received 755 emails, totalling 1111 interactions. Top correspondents: [Twanda Sweet](people/twanda-sweet) (32), [Gail Brownfeld](people/gail-brownfeld) (32), [Andrew Edison](people/andrew-edison) (25), [E  Haedicke](people/e-haedicke) (20), [C  Williams](people/c-williams) (15). Mailbox folders observed: calendar, contacts, deleted_items, ethics_ljm_notre_dame, inbox, sent_items.",
+  "timeline": "- **2001-06-12** | First recorded email in corpus\n- **2002-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/b-sanders",
+    "name": "B  Sanders",
+    "email": "b..sanders@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

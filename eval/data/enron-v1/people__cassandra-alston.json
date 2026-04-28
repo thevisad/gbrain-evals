@@ -1,0 +1,14 @@
+{
+  "slug": "people/cassandra-alston",
+  "type": "person",
+  "title": "Cassandra Alston",
+  "compiled_truth": "Cassandra Alston is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-06 to 2001-12-03), Cassandra Alston sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-06-06** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cassandra-alston",
+    "name": "Cassandra Alston",
+    "email": "cassandra.alston@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

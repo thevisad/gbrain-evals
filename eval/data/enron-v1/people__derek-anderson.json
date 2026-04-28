@@ -1,0 +1,14 @@
+{
+  "slug": "people/derek-anderson",
+  "type": "person",
+  "title": "Derek Anderson",
+  "compiled_truth": "Derek Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-12-03), Derek Anderson sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/derek-anderson",
+    "name": "Derek Anderson",
+    "email": "derek.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tamara-carter",
+  "type": "person",
+  "title": "Tamara Carter",
+  "compiled_truth": "Tamara Carter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-29 to 2001-12-14), Tamara Carter sent 3 and received 156 emails, totalling 159 interactions. Top correspondents: [Chris Germany](people/chris-germany) (3), [Meredith Homco](people/meredith-homco) (1), [Shanna Boudreaux](people/shanna-boudreaux) (1), [Kelly Loocke](people/kelly-loocke) (1), [Clarissa Garcia](people/clarissa-garcia) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-11-29** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tamara-carter",
+    "name": "Tamara Carter",
+    "email": "tamara.carter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

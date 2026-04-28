@@ -1,0 +1,14 @@
+{
+  "slug": "people/joy-werner",
+  "type": "person",
+  "title": "Joy Werner",
+  "compiled_truth": "Joy Werner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-08-21), Joy Werner sent 3 and received 112 emails, totalling 115 interactions. Top correspondents: [Mark Guzman](people/mark-guzman) (2), [J  Farmer](people/j-farmer) (1), [D  Winfree](people/d-winfree) (1), [John Forney](people/john-forney) (1), [Virginia Thompson](people/virginia-thompson) (1). Mailbox folders observed: logistics.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-08-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joy-werner",
+    "name": "Joy Werner",
+    "email": "joy.werner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

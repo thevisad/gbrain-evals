@@ -1,0 +1,14 @@
+{
+  "slug": "people/nick-politis",
+  "type": "person",
+  "title": "Nick Politis",
+  "compiled_truth": "Nick Politis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-25 to 2001-11-30), Nick Politis sent 7 and received 52 emails, totalling 59 interactions. Top correspondents: [Richard Ring](people/richard-ring) (4), [D  Thomas](people/d-thomas) (2), [Robert Benson](people/robert-benson) (1), [D  Baughman](people/d-baughman) (1), [M  Presto](people/m-presto) (1). Mailbox folders observed: inbox, personalfolder.",
+  "timeline": "- **2001-01-25** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nick-politis",
+    "name": "Nick Politis",
+    "email": "nick.politis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

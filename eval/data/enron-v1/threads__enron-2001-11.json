@@ -1,0 +1,27 @@
+{
+  "slug": "threads/enron-2001-11",
+  "type": "meeting",
+  "title": "Thread: Enron",
+  "compiled_truth": "Email thread: \"Enron\". Ran from 2001-11-28 to 2001-12-21 with 7 messages. Participants: [Charles Weldon](people/charles-weldon), [Eronn](people/eronn-mail), [Ginger Bissey](people/ginger-bissey), [J Kaminski](people/j-kaminski), [Kenneth Lay](people/kenneth-lay), [Klay](people/klay), [Lwolf](people/lwolf-greenwichtech), [Lynn Blair](people/lynn-blair).",
+  "timeline": "- **2001-11-28** | Thread begins: enron\n- **2001-12-21** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-2001-11",
+    "attendees": [
+      "people/charles-weldon",
+      "people/eronn-mail",
+      "people/ginger-bissey",
+      "people/j-kaminski",
+      "people/kenneth-lay",
+      "people/klay",
+      "people/lwolf-greenwichtech",
+      "people/lynn-blair",
+      "people/pfield-riskwaters",
+      "people/sbeck9-msn",
+      "people/sfink-knowledgeu",
+      "people/vkaminski-aol",
+      "people/wwputnam-midamerican"
+    ],
+    "date": "2001-11-28"
+  }
+}

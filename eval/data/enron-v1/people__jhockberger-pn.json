@@ -1,0 +1,14 @@
+{
+  "slug": "people/jhockberger-pn",
+  "type": "person",
+  "title": "Jhockberger",
+  "compiled_truth": "Jhockberger is an external contact at [Pn](companies/pn). Over the corpus period (2001-03-11 to 2001-04-26), Jhockberger sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-03-11** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jhockberger-pn",
+    "name": "Jhockberger",
+    "email": "jhockberger@pn.usbr.gov",
+    "primary_affiliation": "companies/pn"
+  }
+}

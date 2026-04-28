@@ -1,0 +1,14 @@
+{
+  "slug": "people/gina-corteselli",
+  "type": "person",
+  "title": "Gina Corteselli",
+  "compiled_truth": "Gina Corteselli is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-14 to 2001-11-19), Gina Corteselli sent 29 and received 106 emails, totalling 135 interactions. Top correspondents: [David Oxley](people/david-oxley) (13), [Michelle Cash](people/michelle-cash) (11), [Steven Kean](people/steven-kean) (10), [Ben Glisan](people/ben-glisan) (8), [Louise Kitchen](people/louise-kitchen) (8). Mailbox folders observed: _americas, bill_williams_iii, deleted_items, inbox, prc.",
+  "timeline": "- **2000-06-14** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gina-corteselli",
+    "name": "Gina Corteselli",
+    "email": "gina.corteselli@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-price",
+  "type": "person",
+  "title": "A  Price",
+  "compiled_truth": "A  Price is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-12 to 2001-12-04), A  Price sent 11 and received 261 emails, totalling 272 interactions. Top correspondents: [A  Shankman](people/a-shankman) (7), [Mike McConnell](people/mike-mcconnell) (5), [Sally Beck](people/sally-beck) (4), [Shelly Stubbs](people/shelly-stubbs) (1), [Michelle Bruce](people/michelle-bruce) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-04-12** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-price",
+    "name": "A  Price",
+    "email": "a..price@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

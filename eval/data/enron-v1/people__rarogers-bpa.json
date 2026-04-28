@@ -1,0 +1,14 @@
+{
+  "slug": "people/rarogers-bpa",
+  "type": "person",
+  "title": "Rarogers",
+  "compiled_truth": "Rarogers is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2001-03-11 to 2001-04-26), Rarogers sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-03-11** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rarogers-bpa",
+    "name": "Rarogers",
+    "email": "rarogers@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

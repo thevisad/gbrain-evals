@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-driscoll",
+  "type": "person",
+  "title": "M  Driscoll",
+  "compiled_truth": "M  Driscoll is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-04 to 2002-05-13), M  Driscoll sent 2 and received 440 emails, totalling 442 interactions. Top correspondents: [Matt Motley](people/matt-motley) (2), [Mike Swerzbin](people/mike-swerzbin) (2), [C  Koehler](people/c-koehler) (1), [Robert Badeer](people/robert-badeer) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-04** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-driscoll",
+    "name": "M  Driscoll",
+    "email": "m..driscoll@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

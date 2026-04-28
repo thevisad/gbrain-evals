@@ -1,0 +1,14 @@
+{
+  "slug": "people/kirk-neuner",
+  "type": "person",
+  "title": "Kirk Neuner",
+  "compiled_truth": "Kirk Neuner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2001-12-03), Kirk Neuner sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [Paul Lebeau](people/paul-lebeau) (1), [Emel Akan](people/emel-akan) (1), [Teseo Bergoglio](people/teseo-bergoglio) (1), [Juan Canavati ](people/juan-canavati) (1), [Sebastian Corbacho](people/sebastian-corbacho) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kirk-neuner",
+    "name": "Kirk Neuner",
+    "email": "kirk.neuner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

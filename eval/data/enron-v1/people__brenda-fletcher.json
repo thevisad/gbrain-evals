@@ -1,0 +1,14 @@
+{
+  "slug": "people/brenda-fletcher",
+  "type": "person",
+  "title": "Brenda Fletcher",
+  "compiled_truth": "Brenda Fletcher is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2001-05-11), Brenda Fletcher sent 13 and received 467 emails, totalling 480 interactions. Top correspondents: [Chris Germany](people/chris-germany) (13), [Dan Junek](people/dan-junek) (2), [Scott Goodell](people/scott-goodell) (2), [Judy Townsend](people/judy-townsend) (1), [Jeanne Wukasch](people/jeanne-wukasch) (1).",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brenda-fletcher",
+    "name": "Brenda Fletcher",
+    "email": "brenda.fletcher@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

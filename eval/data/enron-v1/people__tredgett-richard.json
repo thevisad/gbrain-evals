@@ -1,0 +1,14 @@
+{
+  "slug": "people/tredgett-richard",
+  "type": "person",
+  "title": "Tredgett Richard",
+  "compiled_truth": "Tredgett Richard is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-26 to 2001-08-15), Tredgett Richard sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-06-26** | First recorded email in corpus\n- **2001-08-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tredgett-richard",
+    "name": "Tredgett Richard",
+    "email": "tredgett.richard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

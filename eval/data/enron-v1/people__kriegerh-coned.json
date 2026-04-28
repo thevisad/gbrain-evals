@@ -1,0 +1,14 @@
+{
+  "slug": "people/kriegerh-coned",
+  "type": "person",
+  "title": "Kriegerh",
+  "compiled_truth": "Kriegerh is an external contact at [Coned](companies/coned). Over the corpus period (2002-01-25 to 2002-01-29), Kriegerh sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-25** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kriegerh-coned",
+    "name": "Kriegerh",
+    "email": "kriegerh@coned.com",
+    "primary_affiliation": "companies/coned"
+  }
+}

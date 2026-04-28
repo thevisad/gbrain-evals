@@ -1,0 +1,14 @@
+{
+  "slug": "people/k-wilson",
+  "type": "person",
+  "title": "K Wilson",
+  "compiled_truth": "K Wilson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-23 to 2001-08-01), K Wilson sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-04-23** | First recorded email in corpus\n- **2001-08-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/k-wilson",
+    "name": "K Wilson",
+    "email": "k.wilson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

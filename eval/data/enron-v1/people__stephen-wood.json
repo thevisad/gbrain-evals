@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-wood",
+  "type": "person",
+  "title": "Stephen Wood",
+  "compiled_truth": "Stephen Wood is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-24 to 2001-10-25), Stephen Wood sent 3 and received 46 emails, totalling 49 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (3), [Fernley Dyson](people/fernley-dyson) (2), [Anne Edgley](people/anne-edgley) (2), [Jackie Gentle](people/jackie-gentle) (2), [Adam Overfield](people/adam-overfield) (2). Mailbox folders observed: 2002_budget.",
+  "timeline": "- **2000-07-24** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-wood",
+    "name": "Stephen Wood",
+    "email": "stephen.wood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

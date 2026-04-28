@@ -1,0 +1,14 @@
+{
+  "slug": "people/bibb-buck",
+  "type": "person",
+  "title": "Bibb Buck",
+  "compiled_truth": "Bibb Buck is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-08-21), Bibb Buck sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bibb-buck",
+    "name": "Bibb Buck",
+    "email": "bibb.buck@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

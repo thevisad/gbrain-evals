@@ -1,0 +1,14 @@
+{
+  "slug": "people/peter-styles",
+  "type": "person",
+  "title": "Peter Styles",
+  "compiled_truth": "Peter Styles is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-11-30), Peter Styles sent 53 and received 287 emails, totalling 340 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (34), [Nailia Dindarova](people/nailia-dindarova) (22), [Paul Dawson](people/paul-dawson) (15), [Doug Wood](people/doug-wood) (14), [Brendan Devlin](people/brendan-devlin) (13). Mailbox folders observed: 2002_budget, budget, deleted_items.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peter-styles",
+    "name": "Peter Styles",
+    "email": "peter.styles@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

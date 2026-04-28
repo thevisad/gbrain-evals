@@ -1,0 +1,14 @@
+{
+  "slug": "people/jordan-cmua",
+  "type": "person",
+  "title": "Jordan",
+  "compiled_truth": "Jordan is an external contact at [Cmua](companies/cmua). Over the corpus period (2000-08-10 to 2001-12-21), Jordan sent 1 and received 49 emails, totalling 50 interactions. Top correspondents: [Dhunter](people/dhunter-s-k-w) (1), [Aaron Thomas](people/aaron-thomas-aesmail) (1), [Cohnap](people/cohnap-sce) (1), [Brbarkovich](people/brbarkovich-earthlink) (1), [Wbooth](people/wbooth-booth-law) (1).",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jordan-cmua",
+    "name": "Jordan",
+    "email": "jordan@cmua.org",
+    "primary_affiliation": "companies/cmua"
+  }
+}

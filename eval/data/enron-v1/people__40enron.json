@@ -1,0 +1,14 @@
+{
+  "slug": "people/40enron",
+  "type": "person",
+  "title": "40Enron",
+  "compiled_truth": "40Enron is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-15 to 2002-01-29), 40Enron sent 472 and received 60 emails, totalling 532 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (18), [John Sherriff](people/john-sherriff) (17), [Barry Tycholiz](people/barry-tycholiz) (16), [Joe Gold](people/joe-gold) (15), [Amita Gosalia](people/amita-gosalia) (15). Mailbox folders observed: 05_saved, 06_saved, 07_saved, _americas, budget___2001, calendar.",
+  "timeline": "- **2000-11-15** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/40enron",
+    "name": "40Enron",
+    "email": "40enron@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

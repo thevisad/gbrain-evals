@@ -1,0 +1,14 @@
+{
+  "slug": "people/allison-millan",
+  "type": "person",
+  "title": "Allison Millan",
+  "compiled_truth": "Allison Millan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-26 to 2002-05-06), Allison Millan sent 1 and received 32 emails, totalling 33 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (1), [Bob Chandler](people/bob-chandler) (1), [Harry Walters](people/harry-walters) (1), [Dan Fancler](people/dan-fancler) (1). Mailbox folders observed: gpg.",
+  "timeline": "- **1999-05-26** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/allison-millan",
+    "name": "Allison Millan",
+    "email": "allison.millan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

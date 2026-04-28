@@ -1,0 +1,14 @@
+{
+  "slug": "people/tj-rylander",
+  "type": "person",
+  "title": "Tj Rylander",
+  "compiled_truth": "Tj Rylander is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2001-06-06), Tj Rylander sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tj-rylander",
+    "name": "Tj Rylander",
+    "email": "tj.rylander@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

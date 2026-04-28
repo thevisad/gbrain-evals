@@ -1,0 +1,14 @@
+{
+  "slug": "people/li-xiao",
+  "type": "person",
+  "title": "Li Xiao",
+  "compiled_truth": "Li Xiao is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2000-11-06), Li Xiao sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1).",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2000-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/li-xiao",
+    "name": "Li Xiao",
+    "email": "li.xiao@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

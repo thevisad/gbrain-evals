@@ -1,0 +1,14 @@
+{
+  "slug": "people/lara-fields",
+  "type": "person",
+  "title": "Lara Fields",
+  "compiled_truth": "Lara Fields is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-17 to 2000-12-05), Lara Fields sent 4 and received 36 emails, totalling 40 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (4), [Justin Boyd](people/justin-boyd) (4), [Edmund Cooper](people/edmund-cooper) (2), [Paul Simons](people/paul-simons) (2), [Amita Gosalia](people/amita-gosalia) (2).",
+  "timeline": "- **1999-09-17** | First recorded email in corpus\n- **2000-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lara-fields",
+    "name": "Lara Fields",
+    "email": "lara.fields@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

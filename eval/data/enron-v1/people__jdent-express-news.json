@@ -1,0 +1,14 @@
+{
+  "slug": "people/jdent-express-news",
+  "type": "person",
+  "title": "Jdent",
+  "compiled_truth": "Jdent is an external contact at [Express-news](companies/express-news). Over the corpus period (2000-09-04 to 2000-10-07), Jdent sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2000-10-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jdent-express-news",
+    "name": "Jdent",
+    "email": "jdent@express-news.net",
+    "primary_affiliation": "companies/express-news"
+  }
+}

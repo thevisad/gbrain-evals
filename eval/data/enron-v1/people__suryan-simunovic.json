@@ -1,0 +1,14 @@
+{
+  "slug": "people/suryan-simunovic",
+  "type": "person",
+  "title": "Suryan Simunovic",
+  "compiled_truth": "Suryan Simunovic is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-05 to 2001-06-04), Suryan Simunovic sent 4 and received 31 emails, totalling 35 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (4), [Mark Palmer](people/mark-palmer) (4), [Jgilchrist](people/jgilchrist-viant) (2), [Bob Shults](people/bob-shults) (2), [Nick Mooney](people/nick-mooney) (2).",
+  "timeline": "- **2000-06-05** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suryan-simunovic",
+    "name": "Suryan Simunovic",
+    "email": "suryan.simunovic@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

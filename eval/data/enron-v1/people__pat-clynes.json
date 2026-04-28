@@ -1,0 +1,14 @@
+{
+  "slug": "people/pat-clynes",
+  "type": "person",
+  "title": "Pat Clynes",
+  "compiled_truth": "Pat Clynes is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2001-05-25), Pat Clynes sent 45 and received 750 emails, totalling 795 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (45), [Gary Hanks](people/gary-hanks) (25), [Robert Lloyd](people/robert-lloyd) (21), [Lauri Allen](people/lauri-allen) (15), [Aimee Lannou](people/aimee-lannou) (14).",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2001-05-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pat-clynes",
+    "name": "Pat Clynes",
+    "email": "pat.clynes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

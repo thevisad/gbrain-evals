@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-smith",
+  "type": "person",
+  "title": "Michael Smith",
+  "compiled_truth": "Michael Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-11), Michael Smith sent 2 and received 42 emails, totalling 44 interactions. Top correspondents: [William Kendrick](people/william-kendrick) (1), [John Shafer](people/john-shafer) (1), [Randy Rice](people/randy-rice) (1), [Rich Jolly](people/rich-jolly) (1), [Arnold Eisenstein](people/arnold-eisenstein) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-smith",
+    "name": "Michael Smith",
+    "email": "michael.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/neale-haas",
+  "type": "person",
+  "title": "Neale",
+  "compiled_truth": "Neale is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2000-12-06), Neale sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/neale-haas",
+    "name": "Neale",
+    "email": "neale@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

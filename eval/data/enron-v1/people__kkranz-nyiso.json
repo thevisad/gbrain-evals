@@ -1,0 +1,14 @@
+{
+  "slug": "people/kkranz-nyiso",
+  "type": "person",
+  "title": "Kkranz",
+  "compiled_truth": "Kkranz is an external contact at [Nyiso](companies/nyiso). Over the corpus period (2000-12-11 to 2001-11-27), Kkranz sent 4 and received 4 emails, totalling 8 interactions. Top correspondents: [Market Relations](people/market-relations-nyiso) (4).",
+  "timeline": "- **2000-12-11** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kkranz-nyiso",
+    "name": "Kkranz",
+    "email": "kkranz@nyiso.com",
+    "primary_affiliation": "companies/nyiso"
+  }
+}

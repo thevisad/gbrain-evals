@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-hope",
+  "type": "person",
+  "title": "George Hope",
+  "compiled_truth": "George Hope is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-28 to 2001-06-04), George Hope sent 8 and received 138 emails, totalling 146 interactions. Top correspondents: [Sally Beck](people/sally-beck) (7), [Steve Venturatos](people/steve-venturatos) (2), [Jody Crook](people/jody-crook) (2), [Bob Klein](people/bob-klein) (2), [Elmo Gore](people/elmo-gore) (2).",
+  "timeline": "- **2000-01-28** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-hope",
+    "name": "George Hope",
+    "email": "george.hope@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

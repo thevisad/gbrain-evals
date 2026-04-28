@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-walker-chase",
+  "type": "person",
+  "title": "Richard Walker",
+  "compiled_truth": "Richard Walker is an external contact at [Chase](companies/chase). Over the corpus period (2000-05-05 to 2001-10-28), Richard Walker sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-05-05** | First recorded email in corpus\n- **2001-10-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-walker-chase",
+    "name": "Richard Walker",
+    "email": "richard.walker@chase.com",
+    "primary_affiliation": "companies/chase"
+  }
+}

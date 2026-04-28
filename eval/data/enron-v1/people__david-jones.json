@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-jones",
+  "type": "person",
+  "title": "David Jones",
+  "compiled_truth": "David Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2001-12-21), David Jones sent 6 and received 100 emails, totalling 106 interactions. Top correspondents: [T  Hodge](people/t-hodge) (2), [Fletcjv](people/fletcjv-nu) (2), [Judy Townsend](people/judy-townsend) (2), [Ruth Concannon](people/ruth-concannon) (2), [Kelli Little](people/kelli-little) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-jones",
+    "name": "David Jones",
+    "email": "david.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

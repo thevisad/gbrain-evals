@@ -1,0 +1,14 @@
+{
+  "slug": "people/jmacias-calpine",
+  "type": "person",
+  "title": "Jmacias",
+  "compiled_truth": "Jmacias is an external contact at [Calpine](companies/calpine). Over the corpus period (2000-11-10 to 2001-05-21), Jmacias sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jmacias-calpine",
+    "name": "Jmacias",
+    "email": "jmacias@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

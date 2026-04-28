@@ -1,0 +1,14 @@
+{
+  "slug": "people/c-will",
+  "type": "person",
+  "title": "C Will",
+  "compiled_truth": "C Will is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2001-06-06), C Will sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/c-will",
+    "name": "C Will",
+    "email": "c.will@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

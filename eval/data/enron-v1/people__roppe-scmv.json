@@ -1,0 +1,14 @@
+{
+  "slug": "people/roppe-scmv",
+  "type": "person",
+  "title": "Roppe",
+  "compiled_truth": "Roppe is an external contact at [Scmv](companies/scmv). Over the corpus period (2001-01-11 to 2001-06-11), Roppe sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2001-01-11** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roppe-scmv",
+    "name": "Roppe",
+    "email": "roppe@scmv.com",
+    "primary_affiliation": "companies/scmv"
+  }
+}

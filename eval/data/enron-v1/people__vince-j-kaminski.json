@@ -1,0 +1,14 @@
+{
+  "slug": "people/vince-j-kaminski",
+  "type": "person",
+  "title": "Vince J Kaminski",
+  "compiled_truth": "Vince J Kaminski is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-08 to 2001-11-26), Vince J Kaminski sent 2 and received 484 emails, totalling 486 interactions. Top correspondents: [Kamins](people/kamins) (2), [Izhi](people/izhi-rice) (1), [Eruki](people/eruki-rice) (1), [Kunreuth](people/kunreuth-wharton) (1), [Shirley Crenshaw](people/shirley-crenshaw) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-02-08** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vince-j-kaminski",
+    "name": "Vince J Kaminski",
+    "email": "vince.j.kaminski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

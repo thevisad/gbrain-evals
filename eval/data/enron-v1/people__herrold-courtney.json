@@ -1,0 +1,14 @@
+{
+  "slug": "people/herrold-courtney",
+  "type": "person",
+  "title": "Herrold Courtney",
+  "compiled_truth": "Herrold Courtney is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2001-10-26), Herrold Courtney sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/herrold-courtney",
+    "name": "Herrold Courtney",
+    "email": "herrold.courtney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

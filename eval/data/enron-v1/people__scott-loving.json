@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-loving",
+  "type": "person",
+  "title": "Scott Loving",
+  "compiled_truth": "Scott Loving is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-20 to 2002-03-04), Scott Loving sent 1 and received 247 emails, totalling 248 interactions. Top correspondents: [Ragan Bond](people/ragan-bond) (1), [Gregory Schockling](people/gregory-schockling) (1), [K  Patton](people/k-patton) (1), [Briant Baker](people/briant-baker) (1), [W  Pereira](people/w-pereira) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2002-03-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-loving",
+    "name": "Scott Loving",
+    "email": "scott.loving@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

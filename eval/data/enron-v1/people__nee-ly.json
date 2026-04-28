@@ -1,0 +1,14 @@
+{
+  "slug": "people/nee-ly",
+  "type": "person",
+  "title": "Nee Ly",
+  "compiled_truth": "Nee Ly is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-29 to 2001-08-16), Nee Ly sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-29** | First recorded email in corpus\n- **2001-08-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nee-ly",
+    "name": "Nee Ly",
+    "email": "nee.ly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

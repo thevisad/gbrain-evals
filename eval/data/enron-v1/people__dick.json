@@ -1,0 +1,14 @@
+{
+  "slug": "people/dick",
+  "type": "person",
+  "title": " Dick",
+  "compiled_truth": "Dick is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-31 to 2002-03-12),  Dick sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2001-05-31** | First recorded email in corpus\n- **2002-03-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dick",
+    "name": " Dick",
+    "email": ".dick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/matthew-tezyk",
+  "type": "person",
+  "title": "Matthew Tezyk",
+  "compiled_truth": "Matthew Tezyk is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-04 to 2001-11-21), Matthew Tezyk sent 5 and received 42 emails, totalling 47 interactions. Top correspondents: [V Weldon](people/v-weldon) (4), [Scott Churbock](people/scott-churbock) (2), [Darrell Stovall](people/darrell-stovall) (2), [Jeffrey Keenan](people/jeffrey-keenan) (2), [Mathew Gimble](people/mathew-gimble) (2). Mailbox folders observed: ft__pierce.",
+  "timeline": "- **2000-10-04** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matthew-tezyk",
+    "name": "Matthew Tezyk",
+    "email": "matthew.tezyk@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

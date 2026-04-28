@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-soo",
+  "type": "person",
+  "title": "Jeffrey Soo",
+  "compiled_truth": "Jeffrey Soo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2001-07-25), Jeffrey Soo sent 5 and received 62 emails, totalling 67 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (5), [Kortney Brown](people/kortney-brown) (4), [Michael Tribolet](people/michael-tribolet) (4), [Robert Neustaedter](people/robert-neustaedter) (2), [James Steffes](people/james-steffes) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-07-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-soo",
+    "name": "Jeffrey Soo",
+    "email": "jeffrey.soo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jesse-neyman",
+  "type": "person",
+  "title": "Jesse Neyman",
+  "compiled_truth": "Jesse Neyman is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-09), Jesse Neyman sent 0 and received 46 emails, totalling 46 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jesse-neyman",
+    "name": "Jesse Neyman",
+    "email": "jesse.neyman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

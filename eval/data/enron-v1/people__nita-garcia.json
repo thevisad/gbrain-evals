@@ -1,0 +1,14 @@
+{
+  "slug": "people/nita-garcia",
+  "type": "person",
+  "title": "Nita Garcia",
+  "compiled_truth": "Nita Garcia is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-12 to 2002-03-29), Nita Garcia sent 8 and received 198 emails, totalling 206 interactions. Top correspondents: [Coralina Rivera](people/coralina-rivera) (8), [John Viverito](people/john-viverito) (8), [Robert Bruce](people/robert-bruce) (8), [Brent Hendry](people/brent-hendry) (8), [Sara Shackleton](people/sara-shackleton) (8). Mailbox folders observed: archive, deleted_items, inbox.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nita-garcia",
+    "name": "Nita Garcia",
+    "email": "nita.garcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

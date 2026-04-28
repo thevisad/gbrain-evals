@@ -1,0 +1,14 @@
+{
+  "slug": "people/fedor-oboukhov",
+  "type": "person",
+  "title": "Fedor Oboukhov",
+  "compiled_truth": "Fedor Oboukhov is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2001-11-08), Fedor Oboukhov sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fedor-oboukhov",
+    "name": "Fedor Oboukhov",
+    "email": "fedor.oboukhov@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

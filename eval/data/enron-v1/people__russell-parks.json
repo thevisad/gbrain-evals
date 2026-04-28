@@ -1,0 +1,14 @@
+{
+  "slug": "people/russell-parks",
+  "type": "person",
+  "title": "Russell Parks",
+  "compiled_truth": "Russell Parks is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-08-21), Russell Parks sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-08-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/russell-parks",
+    "name": "Russell Parks",
+    "email": "russell.parks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

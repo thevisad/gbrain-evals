@@ -1,0 +1,14 @@
+{
+  "slug": "people/murray-o-neil",
+  "type": "person",
+  "title": "Murray O'Neil",
+  "compiled_truth": "Murray O'Neil is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-04 to 2001-05-01), Murray O'Neil sent 5 and received 77 emails, totalling 82 interactions. Top correspondents: [Portland Desk](people/portland-desk) (3), [Sally Beck](people/sally-beck) (2), [Leslie Reeves](people/leslie-reeves) (2), [Tim Belden](people/tim-belden) (1), [Kevin Presto](people/kevin-presto) (1). Mailbox folders observed: read, unread_mail.",
+  "timeline": "- **2000-01-04** | First recorded email in corpus\n- **2001-05-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/murray-o-neil",
+    "name": "Murray O'Neil",
+    "email": "murray.o'neil@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

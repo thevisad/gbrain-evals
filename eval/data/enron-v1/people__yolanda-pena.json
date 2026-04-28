@@ -1,0 +1,14 @@
+{
+  "slug": "people/yolanda-pena",
+  "type": "person",
+  "title": "Yolanda Pena",
+  "compiled_truth": "Yolanda Pena is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2001-11-16), Yolanda Pena sent 2 and received 38 emails, totalling 40 interactions. Top correspondents: [Celeste Cisneros](people/celeste-cisneros) (1), [Scott Tackett](people/scott-tackett) (1), [Tiffany Williams](people/tiffany-williams) (1), [Gordon Heaney](people/gordon-heaney) (1), [Jean Bell](people/jean-bell) (1). Mailbox folders observed: calendar.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yolanda-pena",
+    "name": "Yolanda Pena",
+    "email": "yolanda.pena@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "meetings/legal-meeting-last-week-2000-10",
+  "type": "meeting",
+  "title": "Meeting: Legal Meeting Last Week",
+  "compiled_truth": "Meeting: \"Legal Meeting Last Week\". Occurred 2000-10-09 with 1 related emails. Participants included: [Amita Gosalia](people/amita-gosalia), [Andy Zipper](people/andy-zipper), [Anne Koehler](people/anne-koehler), [Brent Hendry](people/brent-hendry), [David Forster](people/david-forster), [Justin Boyd](people/justin-boyd), [Lara Fields](people/lara-fields), [Louise Kitchen](people/louise-kitchen)....",
+  "timeline": "- **2000-10-09** | Meeting: legal meeting last week",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/legal-meeting-last-week-2000-10",
+    "attendees": [
+      "people/amita-gosalia",
+      "people/andy-zipper",
+      "people/anne-koehler",
+      "people/brent-hendry",
+      "people/david-forster",
+      "people/justin-boyd",
+      "people/lara-fields",
+      "people/louise-kitchen",
+      "people/mark-evans",
+      "people/mark-taylor",
+      "people/travis-mccullough"
+    ],
+    "date": "2000-10-09"
+  }
+}

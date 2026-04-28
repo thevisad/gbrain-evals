@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-williams",
+  "type": "person",
+  "title": "John Williams",
+  "compiled_truth": "John Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-21 to 2002-03-13), John Williams sent 2 and received 170 emails, totalling 172 interactions. Top correspondents: [Mike Barry](people/mike-barry) (1), [Vicki Berg](people/vicki-berg) (1), [Michael Bodnar](people/michael-bodnar) (1), [Sean Bolks](people/sean-bolks) (1), [Joni Bollinger](people/joni-bollinger) (1). Mailbox folders observed: deleted_items, enron_t_s.",
+  "timeline": "- **2000-07-21** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-williams",
+    "name": "John Williams",
+    "email": "john.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

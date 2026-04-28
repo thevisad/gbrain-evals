@@ -1,0 +1,14 @@
+{
+  "slug": "people/zavitsanos-anastasia",
+  "type": "person",
+  "title": "Zavitsanos Anastasia",
+  "compiled_truth": "Zavitsanos Anastasia is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-14 to 2001-11-14), Zavitsanos Anastasia sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-09-14** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zavitsanos-anastasia",
+    "name": "Zavitsanos Anastasia",
+    "email": "zavitsanos.anastasia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

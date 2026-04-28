@@ -1,0 +1,14 @@
+{
+  "slug": "people/luis-mena",
+  "type": "person",
+  "title": "Luis Mena",
+  "compiled_truth": "Luis Mena is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-31 to 2001-06-07), Luis Mena sent 26 and received 477 emails, totalling 503 interactions. Top correspondents: [Matthew Lenhart](people/matthew-lenhart) (16), [Eric Bass](people/eric-bass) (15), [Bryan Hull](people/bryan-hull) (6), [Brian Hoskins](people/brian-hoskins) (5), [Timothy Blanchard](people/timothy-blanchard) (5). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-01-31** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/luis-mena",
+    "name": "Luis Mena",
+    "email": "luis.mena@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

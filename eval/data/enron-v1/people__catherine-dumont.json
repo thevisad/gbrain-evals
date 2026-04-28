@@ -1,0 +1,14 @@
+{
+  "slug": "people/catherine-dumont",
+  "type": "person",
+  "title": "Catherine Dumont",
+  "compiled_truth": "Catherine Dumont is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-27 to 2001-01-19), Catherine Dumont sent 0 and received 60 emails, totalling 60 interactions.",
+  "timeline": "- **2000-04-27** | First recorded email in corpus\n- **2001-01-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/catherine-dumont",
+    "name": "Catherine Dumont",
+    "email": "catherine.dumont@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

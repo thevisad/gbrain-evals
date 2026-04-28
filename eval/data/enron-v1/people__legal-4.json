@@ -1,0 +1,14 @@
+{
+  "slug": "people/legal-4",
+  "type": "person",
+  "title": "Legal 4",
+  "compiled_truth": "Legal 4 is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-09 to 2001-06-07), Legal 4 sent 5 and received 61 emails, totalling 66 interactions. Top correspondents: [Carol Clair](people/carol-clair) (1), [Tanya Rohauer](people/tanya-rohauer) (1), [Sara Shackleton](people/sara-shackleton) (1), [Suzanne Adams](people/suzanne-adams) (1), [Kaye Ellis](people/kaye-ellis) (1).",
+  "timeline": "- **1999-06-09** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/legal-4",
+    "name": "Legal 4",
+    "email": "legal.4@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

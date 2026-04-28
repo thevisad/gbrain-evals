@@ -1,0 +1,14 @@
+{
+  "slug": "people/fabricio-cruz",
+  "type": "person",
+  "title": "Fabricio Cruz",
+  "compiled_truth": "Fabricio Cruz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-10-09), Fabricio Cruz sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fabricio-cruz",
+    "name": "Fabricio Cruz",
+    "email": "fabricio.cruz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

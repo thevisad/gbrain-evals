@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-perkins",
+  "type": "person",
+  "title": "Kim Perkins",
+  "compiled_truth": "Kim Perkins is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-13 to 2001-11-30), Kim Perkins sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-07-13** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-perkins",
+    "name": "Kim Perkins",
+    "email": "kim.perkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

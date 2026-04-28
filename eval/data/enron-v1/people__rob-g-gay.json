@@ -1,0 +1,14 @@
+{
+  "slug": "people/rob-g-gay",
+  "type": "person",
+  "title": "Rob G Gay",
+  "compiled_truth": "Rob G Gay is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-28 to 2001-02-05), Rob G Gay sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rob-g-gay",
+    "name": "Rob G Gay",
+    "email": "rob.g.gay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

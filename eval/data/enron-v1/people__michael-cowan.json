@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-cowan",
+  "type": "person",
+  "title": "Michael Cowan",
+  "compiled_truth": "Michael Cowan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-13 to 2001-06-07), Michael Cowan sent 2 and received 148 emails, totalling 150 interactions. Top correspondents: [Geoff Storey](people/geoff-storey) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-01-13** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-cowan",
+    "name": "Michael Cowan",
+    "email": "michael.cowan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

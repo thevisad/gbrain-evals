@@ -1,0 +1,14 @@
+{
+  "slug": "people/amita-gosalia",
+  "type": "person",
+  "title": "Amita Gosalia",
+  "compiled_truth": "Amita Gosalia is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-17 to 2001-12-06), Amita Gosalia sent 22 and received 442 emails, totalling 464 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (13), [Justin Boyd](people/justin-boyd) (9), [Bruce Garner](people/bruce-garner) (7), [David Forster](people/david-forster) (6), [Lara Fields](people/lara-fields) (6). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **1999-09-17** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amita-gosalia",
+    "name": "Amita Gosalia",
+    "email": "amita.gosalia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

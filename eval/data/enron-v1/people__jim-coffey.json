@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-coffey",
+  "type": "person",
+  "title": "Jim Coffey",
+  "compiled_truth": "Jim Coffey is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-05), Jim Coffey sent 28 and received 227 emails, totalling 255 interactions. Top correspondents: [Brian Redmond](people/brian-redmond) (13), [A  Martin](people/a-martin) (10), [Gerald Nemec](people/gerald-nemec) (9), [David Baumbach](people/david-baumbach) (8), [Jim Schwieger](people/jim-schwieger) (7). Mailbox folders observed: _americas, contracts, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-coffey",
+    "name": "Jim Coffey",
+    "email": "jim.coffey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

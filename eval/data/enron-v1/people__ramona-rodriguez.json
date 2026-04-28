@@ -1,0 +1,14 @@
+{
+  "slug": "people/ramona-rodriguez",
+  "type": "person",
+  "title": "Ramona Rodriguez",
+  "compiled_truth": "Ramona Rodriguez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-01 to 2002-02-01), Ramona Rodriguez sent 13 and received 8 emails, totalling 21 interactions. Top correspondents: [Mike Carson](people/mike-carson) (10), [Doug Sewell](people/doug-sewell) (9), [Paul Y'Barbo](people/paul-y-barbo) (3), [Ken Merideth](people/ken-merideth-entergykoch) (1). Mailbox folders observed: inbox, koch.",
+  "timeline": "- **2001-05-01** | First recorded email in corpus\n- **2002-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ramona-rodriguez",
+    "name": "Ramona Rodriguez",
+    "email": "ramona.rodriguez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

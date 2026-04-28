@@ -1,0 +1,14 @@
+{
+  "slug": "people/kharri-puget",
+  "type": "person",
+  "title": "Kharri",
+  "compiled_truth": "Kharri is an external contact at [Puget](companies/puget). Over the corpus period (2000-06-23 to 2001-03-28), Kharri sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [Mary Hain](people/mary-hain) (1).",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kharri-puget",
+    "name": "Kharri",
+    "email": "kharri@puget.com",
+    "primary_affiliation": "companies/puget"
+  }
+}

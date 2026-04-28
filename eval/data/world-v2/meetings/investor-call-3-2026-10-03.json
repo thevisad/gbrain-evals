@@ -1,0 +1,29 @@
+{
+  "slug": "meetings/investor-call-3-2026-10-03",
+  "type": "meeting",
+  "title": "Investor Call — Crestline Capital (2026-10-03)",
+  "compiled_truth": "Call with Crestline Capital's infrastructure team, attended by [Seren Voss](people/seren-voss) and [Bex Andersen](people/bex-andersen). This was a partner meeting — not exploratory — meaning the deal had already been socialized internally at Crestline and the conversation was about mechanics and GTM conviction rather than broad pitch.\n\nSeren led with a walkthrough of Anchor's current pipeline segmentation. The core framing was that [Anchor Codec](companies/anchor) is seeing two distinct buyer profiles emerge: platform engineering teams at mid-market SaaS companies who care about deterministic guarantees at the protocol layer, and large enterprises with compliance-driven data transmission requirements who are coming in through channel partners. Crestline pushed back on whether these two segments could realistically be served by the same sales motion, and Seren acknowledged the tension but argued the underlying primitive is identical — the packaging and onboarding differ but the core deployment is the same.\n\nBex walked through unit economics on the three design partners currently in production. Crestline wanted to understand gross margins at scale and whether the single-pass architecture introduces any operational overhead that would erode margin as data volumes increase. Bex's answer was that the opposite is true: cost per byte actually decreases with scale because of how the primtives compose. This seemed to land well.\n\nThe go-to-market discussion took up roughly half the call. Crestline's thesis is that infrastructure companies that try to be horizontal too early end up with bloated sales cycles and unclear positioning. They wanted to see Anchor pick a wedge — specifically, they floated the idea of leading with the authentication layer as the initial hook and expanding into compression and transmission post-land. Seren pushed back gently, noting that the single-pass nature of the product means unbundling the value prop actually makes it harder to sell, not easier. There was a productive back-and-forth here; no resolution, but Crestline seemed genuinely curious rather than dismissive.\n\nFollow-up was agreed: Anchor to send updated financials and a customer reference call with one of the design partners. Crestline wants to bring this to their Monday IC within two weeks. Bex to coordinate the reference call logistics.",
+  "timeline": [
+    "- **2026-09-15** | Crestline Capital reaches out via warm intro after seeing [Anchor Codec](companies/anchor) mentioned in an infrastructure-focused newsletter.",
+    "- **2026-09-22** | [Bex Andersen](people/bex-andersen) runs a 30-minute intro call with Crestline associate to share deck and high-level metrics.",
+    "- **2026-10-03** | Partner meeting with Crestline Capital. [Seren Voss](people/seren-voss) and Bex present GTM strategy and unit economics. Crestline raises wedge-vs-horizontal positioning question.",
+    "- **2026-10-08** | Bex sends updated financials and arranges design partner reference call for Crestline's diligence.",
+    "- **2026-10-17** | Crestline brings Anchor to Monday investment committee; outcome pending further technical diligence.",
+    "- **2026-10-29** | Technical deep-dive session between Crestline's operating partner and Anchor's engineering lead.",
+    "- **2026-11-12** | Crestline issues preliminary term sheet; internal deliberation begins at [Anchor Codec](companies/anchor).",
+    "- **2026-12-01** | Final terms agreed. Crestline participates in Anchor's Series A alongside existing investors."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/investor-call-3-2026-10-03",
+    "name": "Investor Call — Crestline Capital",
+    "meeting_type": "investor_call",
+    "date": "2026-10-03",
+    "attendees": [
+      "people/seren-voss",
+      "people/bex-andersen"
+    ],
+    "topic_company": "companies/anchor",
+    "topic": "Partner meeting — go-to-market discussion"
+  }
+}

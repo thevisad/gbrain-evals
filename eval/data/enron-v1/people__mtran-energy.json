@@ -1,0 +1,14 @@
+{
+  "slug": "people/mtran-energy",
+  "type": "person",
+  "title": "Mtran",
+  "compiled_truth": "Mtran is an external contact at [Energy](companies/energy). Over the corpus period (1999-09-24 to 2001-07-31), Mtran sent 0 and received 60 emails, totalling 60 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mtran-energy",
+    "name": "Mtran",
+    "email": "mtran@energy.state.ca.us",
+    "primary_affiliation": "companies/energy"
+  }
+}

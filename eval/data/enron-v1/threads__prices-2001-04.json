@@ -1,0 +1,24 @@
+{
+  "slug": "threads/prices-2001-04",
+  "type": "meeting",
+  "title": "Thread: Prices",
+  "compiled_truth": "Email thread: \"Prices\". Ran from 2001-04-03 to 2001-04-24 with 11 messages. Participants: [Chris Mallory](people/chris-mallory), [Eklinkner](people/eklinkner-ci), ['Endo](people/endo), [Holden Salisbury](people/holden-salisbury), [Jeffrey Oh](people/jeffrey-oh), [Jlb3](people/jlb3-knauffiberglass), [Kim Ward](people/kim-ward), [Klinkner](people/klinkner).",
+  "timeline": "- **2001-04-03** | Thread begins: prices\n- **2001-04-24** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/prices-2001-04",
+    "attendees": [
+      "people/chris-mallory",
+      "people/eklinkner-ci",
+      "people/endo",
+      "people/holden-salisbury",
+      "people/jeffrey-oh",
+      "people/jlb3-knauffiberglass",
+      "people/kim-ward",
+      "people/klinkner",
+      "people/michael-wong",
+      "people/sendo-ci"
+    ],
+    "date": "2001-04-03"
+  }
+}

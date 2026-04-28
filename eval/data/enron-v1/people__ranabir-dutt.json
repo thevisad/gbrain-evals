@@ -1,0 +1,14 @@
+{
+  "slug": "people/ranabir-dutt",
+  "type": "person",
+  "title": "Ranabir Dutt",
+  "compiled_truth": "Ranabir Dutt is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-28 to 2002-01-09), Ranabir Dutt sent 10 and received 118 emails, totalling 128 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (4), [Katie Stowers](people/katie-stowers) (3), [Louise Kitchen](people/louise-kitchen) (2), [Joseph Deffner](people/joseph-deffner) (2), [Dkhenry](people/dkhenry-br-inc) (2). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-12-28** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ranabir-dutt",
+    "name": "Ranabir Dutt",
+    "email": "ranabir.dutt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

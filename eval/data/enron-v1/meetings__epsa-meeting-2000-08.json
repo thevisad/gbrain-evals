@@ -1,0 +1,25 @@
+{
+  "slug": "meetings/epsa-meeting-2000-08",
+  "type": "meeting",
+  "title": "Meeting: Epsa Meeting",
+  "compiled_truth": "Meeting: \"Epsa Meeting\". Occurred 2000-08-30 through 2000-08-30 with 2 related emails. Participants included: [Christi Nicolay](people/christi-nicolay), [Donna Fulton](people/donna-fulton), [James Steffes](people/james-steffes), [Jeff Dasovich](people/jeff-dasovich), [Joe Hartsoe](people/joe-hartsoe), [Mary Hain](people/mary-hain), [Paul Kaufman](people/paul-kaufman), [Richard Shapiro](people/richard-shapiro)....",
+  "timeline": "- **2000-08-30** | Meeting: epsa meeting\n- **2000-08-30** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/epsa-meeting-2000-08",
+    "attendees": [
+      "people/christi-nicolay",
+      "people/donna-fulton",
+      "people/james-steffes",
+      "people/jeff-dasovich",
+      "people/joe-hartsoe",
+      "people/mary-hain",
+      "people/paul-kaufman",
+      "people/richard-shapiro",
+      "people/sarah-novosel",
+      "people/steven-kean",
+      "people/swalton"
+    ],
+    "date": "2000-08-30"
+  }
+}

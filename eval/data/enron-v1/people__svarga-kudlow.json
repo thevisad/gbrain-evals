@@ -1,0 +1,14 @@
+{
+  "slug": "people/svarga-kudlow",
+  "type": "person",
+  "title": "Svarga",
+  "compiled_truth": "Svarga is an external contact at [Kudlow](companies/kudlow). Over the corpus period (2001-05-22 to 2002-01-18), Svarga sent 76 and received 0 emails, totalling 76 interactions. Top correspondents: [Lavorato](people/lavorato) (17), [Kenneth Lay](people/kenneth-lay) (17).",
+  "timeline": "- **2001-05-22** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/svarga-kudlow",
+    "name": "Svarga",
+    "email": "svarga@kudlow.com",
+    "primary_affiliation": "companies/kudlow"
+  }
+}

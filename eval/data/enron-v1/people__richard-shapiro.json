@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-shapiro",
+  "type": "person",
+  "title": "Richard Shapiro",
+  "compiled_truth": "Richard Shapiro is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-05), Richard Shapiro sent 520 and received 7206 emails, totalling 7726 interactions. Top correspondents: [Steven Kean](people/steven-kean) (123), [Jeff Dasovich](people/jeff-dasovich) (123), [James Steffes](people/james-steffes) (59), [Paul Kaufman](people/paul-kaufman) (58), [Ginger Dernehl](people/ginger-dernehl) (58). Mailbox folders observed: _americas, aadepartment, annex_5, budget, california___excess_profits_tax, california_campaign.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-shapiro",
+    "name": "Richard Shapiro",
+    "email": "richard.shapiro@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

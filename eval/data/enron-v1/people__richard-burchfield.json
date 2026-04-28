@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-burchfield",
+  "type": "person",
+  "title": "Richard Burchfield",
+  "compiled_truth": "Richard Burchfield is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2002-01-14), Richard Burchfield sent 4 and received 64 emails, totalling 68 interactions. Top correspondents: [Sally Beck](people/sally-beck) (3), [Beth Perlman](people/beth-perlman) (2), [Stephen Stock](people/stephen-stock) (2), [Mark Pickering](people/mark-pickering) (2), [D Hall](people/d-hall) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-burchfield",
+    "name": "Richard Burchfield",
+    "email": "richard.burchfield@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/carmen-kroboth",
+  "type": "person",
+  "title": "Carmen Kroboth",
+  "compiled_truth": "Carmen Kroboth is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2000-12-13), Carmen Kroboth sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carmen-kroboth",
+    "name": "Carmen Kroboth",
+    "email": "carmen.kroboth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

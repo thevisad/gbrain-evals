@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-watson",
+  "type": "person",
+  "title": "Steven Watson",
+  "compiled_truth": "Steven Watson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2001-02-08), Steven Watson sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2001-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-watson",
+    "name": "Steven Watson",
+    "email": "steven.watson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

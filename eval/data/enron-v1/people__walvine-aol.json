@@ -1,0 +1,14 @@
+{
+  "slug": "people/walvine-aol",
+  "type": "person",
+  "title": "Walvine",
+  "compiled_truth": "Walvine is an external contact at [AOL](companies/aol). Over the corpus period (2000-07-17 to 2000-07-17), Walvine sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/walvine-aol",
+    "name": "Walvine",
+    "email": "walvine@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

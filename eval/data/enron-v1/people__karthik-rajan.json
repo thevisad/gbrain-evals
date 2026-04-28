@@ -1,0 +1,14 @@
+{
+  "slug": "people/karthik-rajan",
+  "type": "person",
+  "title": "Karthik Rajan",
+  "compiled_truth": "Karthik Rajan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-20 to 2002-01-29), Karthik Rajan sent 3 and received 31 emails, totalling 34 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (3), [Steve Stock](people/steve-stock) (2), [Sean Yang](people/sean-yang) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-08-20** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karthik-rajan",
+    "name": "Karthik Rajan",
+    "email": "karthik.rajan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

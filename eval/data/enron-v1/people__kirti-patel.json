@@ -1,0 +1,14 @@
+{
+  "slug": "people/kirti-patel",
+  "type": "person",
+  "title": "Kirti Patel",
+  "compiled_truth": "Kirti Patel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2001-09-07), Kirti Patel sent 2 and received 16 emails, totalling 18 interactions. Top correspondents: [Karima Husain](people/karima-husain) (1), [Hal Mckinney](people/hal-mckinney) (1), [Martin Cuilla](people/martin-cuilla) (1), [Jason Fischer](people/jason-fischer) (1), [Shifali Sharma](people/shifali-sharma) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-09-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kirti-patel",
+    "name": "Kirti Patel",
+    "email": "kirti.patel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

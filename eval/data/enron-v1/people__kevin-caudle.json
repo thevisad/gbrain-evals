@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-caudle",
+  "type": "person",
+  "title": "Kevin Caudle",
+  "compiled_truth": "Kevin Caudle is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-20 to 2001-11-16), Kevin Caudle sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-10-20** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-caudle",
+    "name": "Kevin Caudle",
+    "email": "kevin.caudle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

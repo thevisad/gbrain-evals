@@ -1,0 +1,14 @@
+{
+  "slug": "people/hacknece-sce",
+  "type": "person",
+  "title": "Hacknece",
+  "compiled_truth": "Hacknece is an external contact at [Sce](companies/sce). Over the corpus period (2000-08-10 to 2001-12-21), Hacknece sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hacknece-sce",
+    "name": "Hacknece",
+    "email": "hacknece@sce.com",
+    "primary_affiliation": "companies/sce"
+  }
+}

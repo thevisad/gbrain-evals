@@ -1,0 +1,14 @@
+{
+  "slug": "people/reza-rezaeian",
+  "type": "person",
+  "title": "Reza Rezaeian",
+  "compiled_truth": "Reza Rezaeian is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-11-02), Reza Rezaeian sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reza-rezaeian",
+    "name": "Reza Rezaeian",
+    "email": "reza.rezaeian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

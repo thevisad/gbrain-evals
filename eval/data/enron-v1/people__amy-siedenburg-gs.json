@@ -1,0 +1,14 @@
+{
+  "slug": "people/amy-siedenburg-gs",
+  "type": "person",
+  "title": "Amy Siedenburg",
+  "compiled_truth": "Amy Siedenburg is an external contact at [Gs](companies/gs). Over the corpus period (2001-10-19 to 2001-10-22), Amy Siedenburg sent 2 and received 3 emails, totalling 5 interactions. Top correspondents: [Ellis](people/ellis) (2), [Steve Ellis](people/steve-ellis-gs) (2), [Scarey](people/scarey-isda) (2), [Bunkin](people/bunkin) (2), [Steven Bunkin](people/steven-bunkin-gs) (2).",
+  "timeline": "- **2001-10-19** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amy-siedenburg-gs",
+    "name": "Amy Siedenburg",
+    "email": "amy.siedenburg@gs.com",
+    "primary_affiliation": "companies/gs"
+  }
+}

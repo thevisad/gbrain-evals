@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-vandor",
+  "type": "person",
+  "title": "David Vandor",
+  "compiled_truth": "David Vandor is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-02-13), David Vandor sent 4 and received 22 emails, totalling 26 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (1), [Faith Killen](people/faith-killen) (1), [Sarah Brown](people/sarah-brown) (1), [A  Martin](people/a-martin) (1), [M  Presto](people/m-presto) (1). Mailbox folders observed: _americas, deleted_items, hr, inbox.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-vandor",
+    "name": "David Vandor",
+    "email": "david.vandor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

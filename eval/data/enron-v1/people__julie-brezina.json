@@ -1,0 +1,14 @@
+{
+  "slug": "people/julie-brezina",
+  "type": "person",
+  "title": "Julie Brezina",
+  "compiled_truth": "Julie Brezina is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-12 to 2001-11-30), Julie Brezina sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-11-12** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julie-brezina",
+    "name": "Julie Brezina",
+    "email": "julie.brezina@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

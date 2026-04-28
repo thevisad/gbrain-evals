@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathleen-cannell",
+  "type": "person",
+  "title": "Kathleen Cannell",
+  "compiled_truth": "Kathleen Cannell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-09-25), Kathleen Cannell sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathleen-cannell",
+    "name": "Kathleen Cannell",
+    "email": "kathleen.cannell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

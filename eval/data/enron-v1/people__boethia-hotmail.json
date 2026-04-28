@@ -1,0 +1,14 @@
+{
+  "slug": "people/boethia-hotmail",
+  "type": "person",
+  "title": "Boethia",
+  "compiled_truth": "Boethia is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-09-04 to 2001-11-14), Boethia sent 29 and received 56 emails, totalling 85 interactions. Top correspondents: [Smu-Betas](people/smu-betas-yahoogroups) (26), [Wlhessjr](people/wlhessjr-juno) (2), [Pwm1950](people/pwm1950-aol) (2), [Jansson](people/jansson-mindspring) (2), [Rrossell](people/rrossell-capital) (2).",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/boethia-hotmail",
+    "name": "Boethia",
+    "email": "boethia@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/valarie-barnes",
+  "type": "person",
+  "title": "Valarie Barnes",
+  "compiled_truth": "Valarie Barnes is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-11-16), Valarie Barnes sent 2 and received 21 emails, totalling 23 interactions. Top correspondents: [Timothy Blanchard](people/timothy-blanchard) (2), [H  Boots](people/h-boots) (2), [Susan Carrera](people/susan-carrera) (2), [Joseph Deffner](people/joseph-deffner) (2), [Brent Edwards](people/brent-edwards) (2). Mailbox folders observed: calendar, inbox.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/valarie-barnes",
+    "name": "Valarie Barnes",
+    "email": "valarie.barnes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/suzanne-calcagno",
+  "type": "person",
+  "title": "Suzanne Calcagno",
+  "compiled_truth": "Suzanne Calcagno is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-01 to 2002-03-13), Suzanne Calcagno sent 35 and received 211 emails, totalling 246 interactions. Top correspondents: [Robert Superty](people/robert-superty) (25), [Victor Lamadrid](people/victor-lamadrid) (15), [Judy Townsend](people/judy-townsend) (12), [Chris Germany](people/chris-germany) (12), [Scott Neal](people/scott-neal) (12). Mailbox folders observed: bankrupt, bankruptcy, calendar, credit_issues, deleted_items, gas_issues.",
+  "timeline": "- **2001-02-01** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suzanne-calcagno",
+    "name": "Suzanne Calcagno",
+    "email": "suzanne.calcagno@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

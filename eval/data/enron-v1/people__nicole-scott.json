@@ -1,0 +1,14 @@
+{
+  "slug": "people/nicole-scott",
+  "type": "person",
+  "title": "Nicole Scott",
+  "compiled_truth": "Nicole Scott is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2001-11-26), Nicole Scott sent 3 and received 37 emails, totalling 40 interactions. Top correspondents: [Sally Beck](people/sally-beck) (3), [Richard Causey](people/richard-causey) (1), [Rick Buy](people/rick-buy) (1), [Ted Murphy](people/ted-murphy) (1).",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nicole-scott",
+    "name": "Nicole Scott",
+    "email": "nicole.scott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/willie-williams",
+  "type": "person",
+  "title": "Willie Williams",
+  "compiled_truth": "Willie Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-11-19), Willie Williams sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/willie-williams",
+    "name": "Willie Williams",
+    "email": "willie.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lhayman-skadden",
+  "type": "person",
+  "title": "Lhayman",
+  "compiled_truth": "Lhayman is an external contact at [Skadden](companies/skadden). Over the corpus period (1999-03-31 to 2001-11-27), Lhayman sent 17 and received 72 emails, totalling 89 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (8), [ Taylor](people/taylor) (7), [Mtaylo1](people/mtaylo1) (2), [Wmcgov1047](people/wmcgov1047-aol) (1).",
+  "timeline": "- **1999-03-31** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lhayman-skadden",
+    "name": "Lhayman",
+    "email": "lhayman@skadden.com",
+    "primary_affiliation": "companies/skadden"
+  }
+}

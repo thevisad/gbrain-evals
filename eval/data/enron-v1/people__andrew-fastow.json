@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrew-fastow",
+  "type": "person",
+  "title": "Andrew Fastow",
+  "compiled_truth": "Andrew Fastow is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-15 to 2001-11-23), Andrew Fastow sent 8 and received 367 emails, totalling 375 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (4), [Jeff Skilling](people/jeff-skilling) (3), [John Lavorato](people/john-lavorato) (1), [Greg Whalley](people/greg-whalley) (1), [Kenneth Lay](people/kenneth-lay) (1). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **1999-10-15** | First recorded email in corpus\n- **2001-11-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrew-fastow",
+    "name": "Andrew Fastow",
+    "email": "andrew.fastow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

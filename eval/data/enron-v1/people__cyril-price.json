@@ -1,0 +1,14 @@
+{
+  "slug": "people/cyril-price",
+  "type": "person",
+  "title": "Cyril Price",
+  "compiled_truth": "Cyril Price is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2001-05-15), Cyril Price sent 1 and received 281 emails, totalling 282 interactions. Top correspondents: [Dana Davis](people/dana-davis) (1).",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cyril-price",
+    "name": "Cyril Price",
+    "email": "cyril.price@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

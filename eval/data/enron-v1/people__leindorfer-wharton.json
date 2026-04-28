@@ -1,0 +1,14 @@
+{
+  "slug": "people/leindorfer-wharton",
+  "type": "person",
+  "title": "Leindorfer",
+  "compiled_truth": "Leindorfer is an external contact at [Wharton](companies/wharton). Over the corpus period (2001-05-16 to 2001-06-06), Leindorfer sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-05-16** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leindorfer-wharton",
+    "name": "Leindorfer",
+    "email": "leindorfer@wharton.upenn.edu",
+    "primary_affiliation": "companies/wharton"
+  }
+}

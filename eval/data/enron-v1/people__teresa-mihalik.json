@@ -1,0 +1,14 @@
+{
+  "slug": "people/teresa-mihalik",
+  "type": "person",
+  "title": "Teresa Mihalik",
+  "compiled_truth": "Teresa Mihalik is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-09 to 2001-11-29), Teresa Mihalik sent 4 and received 22 emails, totalling 26 interactions. Top correspondents: [Molly Harris](people/molly-harris) (3), [Harry Kingerski](people/harry-kingerski) (3), [D  Steffes](people/d-steffes) (3), [Don Black](people/don-black) (3), [Gloria Ogenyi](people/gloria-ogenyi) (2). Mailbox folders observed: _americas, credit_issues, security___collateral.",
+  "timeline": "- **2001-11-09** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teresa-mihalik",
+    "name": "Teresa Mihalik",
+    "email": "teresa.mihalik@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

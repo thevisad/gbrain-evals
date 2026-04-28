@@ -1,0 +1,14 @@
+{
+  "slug": "people/holcombb-dsmo",
+  "type": "person",
+  "title": "Holcombb",
+  "compiled_truth": "Holcombb is an external contact at [Dsmo](companies/dsmo). Over the corpus period (2001-01-11 to 2001-06-11), Holcombb sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2001-01-11** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/holcombb-dsmo",
+    "name": "Holcombb",
+    "email": "holcombb@dsmo.com",
+    "primary_affiliation": "companies/dsmo"
+  }
+}

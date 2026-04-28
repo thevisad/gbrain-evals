@@ -1,0 +1,14 @@
+{
+  "slug": "people/frye-haas",
+  "type": "person",
+  "title": "Frye",
+  "compiled_truth": "Frye is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-11-10), Frye sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-11-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frye-haas",
+    "name": "Frye",
+    "email": "frye@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

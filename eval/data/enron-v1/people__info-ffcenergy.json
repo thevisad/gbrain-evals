@@ -1,0 +1,14 @@
+{
+  "slug": "people/info-ffcenergy",
+  "type": "person",
+  "title": "Info",
+  "compiled_truth": "Info is an external contact at [Ffcenergy](companies/ffcenergy). Over the corpus period (2000-11-07 to 2001-09-11), Info sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/info-ffcenergy",
+    "name": "Info",
+    "email": "info@ffcenergy.com",
+    "primary_affiliation": "companies/ffcenergy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/moran",
+  "type": "person",
+  "title": "Moran",
+  "compiled_truth": "Moran is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-19 to 2001-11-27), Moran sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-10-19** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/moran",
+    "name": "Moran",
+    "email": "moran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

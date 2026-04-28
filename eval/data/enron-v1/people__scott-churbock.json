@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-churbock",
+  "type": "person",
+  "title": "Scott Churbock",
+  "compiled_truth": "Scott Churbock is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2002-05-06), Scott Churbock sent 1 and received 46 emails, totalling 47 interactions. Top correspondents: [E Taylor](people/e-taylor) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-churbock",
+    "name": "Scott Churbock",
+    "email": "scott.churbock@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

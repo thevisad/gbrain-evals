@@ -1,0 +1,14 @@
+{
+  "slug": "people/coganja-aol",
+  "type": "person",
+  "title": "Coganja",
+  "compiled_truth": "Coganja is an external contact at [AOL](companies/aol). Over the corpus period (2000-12-12 to 2001-12-07), Coganja sent 9 and received 41 emails, totalling 50 interactions. Top correspondents: [Sbreen](people/sbreen-czn) (4), [Tstaab](people/tstaab) (3), [Theresa Staab](people/theresa-staab) (2), [Cwlipke](people/cwlipke-czn) (2), [Cfoster](people/cfoster) (2).",
+  "timeline": "- **2000-12-12** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/coganja-aol",
+    "name": "Coganja",
+    "email": "coganja@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

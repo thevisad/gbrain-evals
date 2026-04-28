@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-wilkie",
+  "type": "person",
+  "title": "Kim Wilkie",
+  "compiled_truth": "Kim Wilkie is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-30 to 2001-12-28), Kim Wilkie sent 1 and received 144 emails, totalling 145 interactions. Top correspondents: [John Goodpasture](people/john-goodpasture) (1), [Danny Mccarty](people/danny-mccarty) (1), [Kay Miller](people/kay-miller) (1), [Drew Fossum](people/drew-fossum) (1), [Bob Burleson](people/bob-burleson) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-30** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-wilkie",
+    "name": "Kim Wilkie",
+    "email": "kim.wilkie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

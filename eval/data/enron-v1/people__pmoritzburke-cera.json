@@ -1,0 +1,14 @@
+{
+  "slug": "people/pmoritzburke-cera",
+  "type": "person",
+  "title": "Pmoritzburke",
+  "compiled_truth": "Pmoritzburke is an external contact at [Cambridge Energy Research](companies/cera). Over the corpus period (1999-09-24 to 2001-07-31), Pmoritzburke sent 0 and received 54 emails, totalling 54 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pmoritzburke-cera",
+    "name": "Pmoritzburke",
+    "email": "pmoritzburke@cera.com",
+    "primary_affiliation": "companies/cera"
+  }
+}

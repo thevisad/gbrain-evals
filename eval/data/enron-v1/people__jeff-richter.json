@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-richter",
+  "type": "person",
+  "title": "Jeff Richter",
+  "compiled_truth": "Jeff Richter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-10 to 2002-05-13), Jeff Richter sent 13 and received 1296 emails, totalling 1309 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (2), [Holden Salisbury](people/holden-salisbury) (2), [Chris Mallory](people/chris-mallory) (2), [Chris Stokley](people/chris-stokley) (2), [K  Allen](people/k-allen) (1). Mailbox folders observed: bill_williams_iii, chris_stokley, deleted_items, holden_s, inbox, read.",
+  "timeline": "- **2000-01-10** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-richter",
+    "name": "Jeff Richter",
+    "email": "jeff.richter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/paula-porto",
+  "type": "person",
+  "title": "Paula Porto",
+  "compiled_truth": "Paula Porto is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-06-18), Paula Porto sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-06-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paula-porto",
+    "name": "Paula Porto",
+    "email": "paula.porto@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

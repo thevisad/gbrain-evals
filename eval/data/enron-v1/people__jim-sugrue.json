@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-sugrue",
+  "type": "person",
+  "title": "Jim Sugrue",
+  "compiled_truth": "Jim Sugrue is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-06), Jim Sugrue sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-sugrue",
+    "name": "Jim Sugrue",
+    "email": "jim.sugrue@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

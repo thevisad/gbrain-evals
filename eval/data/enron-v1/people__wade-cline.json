@@ -1,0 +1,14 @@
+{
+  "slug": "people/wade-cline",
+  "type": "person",
+  "title": "Wade Cline",
+  "compiled_truth": "Wade Cline is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-21), Wade Cline sent 7 and received 164 emails, totalling 171 interactions. Top correspondents: [Rebecca Mcdonald](people/rebecca-mcdonald) (3), [Rob Walls](people/rob-walls) (2), [Kenneth Lay](people/kenneth-lay) (2), [Stanley Horton](people/stanley-horton) (2), [A  Hughes](people/a-hughes) (2). Mailbox folders observed: deleted_items, inbox, prc.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wade-cline",
+    "name": "Wade Cline",
+    "email": "wade.cline@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

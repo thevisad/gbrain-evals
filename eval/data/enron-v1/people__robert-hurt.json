@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-hurt",
+  "type": "person",
+  "title": "Robert Hurt",
+  "compiled_truth": "Robert Hurt is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2001-11-02), Robert Hurt sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-hurt",
+    "name": "Robert Hurt",
+    "email": "robert.hurt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

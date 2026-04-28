@@ -1,0 +1,14 @@
+{
+  "slug": "people/jcarl-ms",
+  "type": "person",
+  "title": "Jcarl",
+  "compiled_truth": "Jcarl is an external contact at [Ms](companies/ms). Over the corpus period (1999-12-08 to 2000-05-09), Jcarl sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **1999-12-08** | First recorded email in corpus\n- **2000-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jcarl-ms",
+    "name": "Jcarl",
+    "email": "jcarl@ms.com",
+    "primary_affiliation": "companies/ms"
+  }
+}

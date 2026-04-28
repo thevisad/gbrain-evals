@@ -1,0 +1,14 @@
+{
+  "slug": "people/diana-luu",
+  "type": "person",
+  "title": "Diana Luu",
+  "compiled_truth": "Diana Luu is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-07 to 2001-11-08), Diana Luu sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2001-05-07** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diana-luu",
+    "name": "Diana Luu",
+    "email": "diana.luu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

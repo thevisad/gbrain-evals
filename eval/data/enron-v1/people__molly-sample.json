@@ -1,0 +1,14 @@
+{
+  "slug": "people/molly-sample",
+  "type": "person",
+  "title": "Molly Sample",
+  "compiled_truth": "Molly Sample is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2002-04-26), Molly Sample sent 6 and received 78 emails, totalling 84 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (5), [Michael Moran](people/michael-moran) (2), [Gavin Russo](people/gavin-russo) (2), [Phil Lowry](people/phil-lowry) (1), [Mary Coombe](people/mary-coombe) (1). Mailbox folders observed: projects.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2002-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/molly-sample",
+    "name": "Molly Sample",
+    "email": "molly.sample@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

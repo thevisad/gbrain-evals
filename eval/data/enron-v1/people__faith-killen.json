@@ -1,0 +1,14 @@
+{
+  "slug": "people/faith-killen",
+  "type": "person",
+  "title": "Faith Killen",
+  "compiled_truth": "Faith Killen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-25 to 2002-02-13), Faith Killen sent 67 and received 230 emails, totalling 297 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (64), [Wes Colwell](people/wes-colwell) (16), [Tammie Schoppe](people/tammie-schoppe) (7), [Beth Perlman](people/beth-perlman) (4), [Raymond Bowen](people/raymond-bowen) (3). Mailbox folders observed: 2002_budget, _americas, inbox.",
+  "timeline": "- **2000-01-25** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/faith-killen",
+    "name": "Faith Killen",
+    "email": "faith.killen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

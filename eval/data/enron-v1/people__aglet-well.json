@@ -1,0 +1,14 @@
+{
+  "slug": "people/aglet-well",
+  "type": "person",
+  "title": "Aglet",
+  "compiled_truth": "Aglet is an external contact at [Well](companies/well). Over the corpus period (1999-09-24 to 2000-09-12), Aglet sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2000-09-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aglet-well",
+    "name": "Aglet",
+    "email": "aglet@well.com",
+    "primary_affiliation": "companies/well"
+  }
+}

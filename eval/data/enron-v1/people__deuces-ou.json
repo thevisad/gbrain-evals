@@ -1,0 +1,14 @@
+{
+  "slug": "people/deuces-ou",
+  "type": "person",
+  "title": "Deuces",
+  "compiled_truth": "Deuces is an external contact at [Ou](companies/ou). Over the corpus period (2000-09-13 to 2000-09-13), Deuces sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deuces-ou",
+    "name": "Deuces",
+    "email": "deuces@ou.edu",
+    "primary_affiliation": "companies/ou"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-forster",
+  "type": "person",
+  "title": "David Forster",
+  "compiled_truth": "David Forster is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-19), David Forster sent 434 and received 1608 emails, totalling 2042 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (170), [Louise Kitchen](people/louise-kitchen) (165), [Andy Zipper](people/andy-zipper) (61), [Bob Shults](people/bob-shults) (38), [Tana Jones](people/tana-jones) (29). Mailbox folders observed: _americas, agency_com, archive, calendar, charges, deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-forster",
+    "name": "David Forster",
+    "email": "david.forster@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

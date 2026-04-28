@@ -1,0 +1,14 @@
+{
+  "slug": "people/pamela-landry",
+  "type": "person",
+  "title": "Pamela Landry",
+  "compiled_truth": "Pamela Landry is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-07 to 2000-10-03), Pamela Landry sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-04-07** | First recorded email in corpus\n- **2000-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pamela-landry",
+    "name": "Pamela Landry",
+    "email": "pamela.landry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

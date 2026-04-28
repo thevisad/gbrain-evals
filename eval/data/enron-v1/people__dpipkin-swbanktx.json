@@ -1,0 +1,14 @@
+{
+  "slug": "people/dpipkin-swbanktx",
+  "type": "person",
+  "title": "Dpipkin",
+  "compiled_truth": "Dpipkin is an external contact at [Swbanktx](companies/swbanktx). Over the corpus period (2000-06-28 to 2001-10-05), Dpipkin sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-06-28** | First recorded email in corpus\n- **2001-10-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dpipkin-swbanktx",
+    "name": "Dpipkin",
+    "email": "dpipkin@swbanktx.com",
+    "primary_affiliation": "companies/swbanktx"
+  }
+}

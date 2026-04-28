@@ -1,0 +1,14 @@
+{
+  "slug": "people/usregcomm-isda",
+  "type": "person",
+  "title": "Usregcomm",
+  "compiled_truth": "Usregcomm is an external contact at [Isda](companies/isda). Over the corpus period (1999-07-12 to 2002-02-07), Usregcomm sent 0 and received 64 emails, totalling 64 interactions.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/usregcomm-isda",
+    "name": "Usregcomm",
+    "email": "usregcomm@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

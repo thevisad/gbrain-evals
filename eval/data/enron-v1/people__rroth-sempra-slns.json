@@ -1,0 +1,14 @@
+{
+  "slug": "people/rroth-sempra-slns",
+  "type": "person",
+  "title": "Rroth",
+  "compiled_truth": "Rroth is an external contact at [Sempra-slns](companies/sempra-slns). Over the corpus period (1999-10-04 to 2001-07-31), Rroth sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rroth-sempra-slns",
+    "name": "Rroth",
+    "email": "rroth@sempra-slns.com",
+    "primary_affiliation": "companies/sempra-slns"
+  }
+}

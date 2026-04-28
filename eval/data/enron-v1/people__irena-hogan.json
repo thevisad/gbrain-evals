@@ -1,0 +1,14 @@
+{
+  "slug": "people/irena-hogan",
+  "type": "person",
+  "title": "Irena Hogan",
+  "compiled_truth": "Irena Hogan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-05-08), Irena Hogan sent 27 and received 146 emails, totalling 173 interactions. Top correspondents: [Phillip Love](people/phillip-love) (20), [Kam Keiser](people/kam-keiser) (17), [Errol Mclaughlin](people/errol-mclaughlin) (16), [Darron Giron](people/darron-giron) (15), [David Baumbach](people/david-baumbach) (12). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/irena-hogan",
+    "name": "Irena Hogan",
+    "email": "irena.hogan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

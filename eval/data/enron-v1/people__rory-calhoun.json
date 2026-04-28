@@ -1,0 +1,14 @@
+{
+  "slug": "people/rory-calhoun",
+  "type": "person",
+  "title": "Rory Calhoun",
+  "compiled_truth": "Rory Calhoun is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-20 to 2002-03-22), Rory Calhoun sent 12 and received 113 emails, totalling 125 interactions. Top correspondents: [Controllers Dl-Ets](people/controllers-dl-ets) (12), [Jerry Graves](people/jerry-graves) (1), [Bryan Reinecke](people/bryan-reinecke) (1), [Steve Thomas](people/steve-thomas) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-04-20** | First recorded email in corpus\n- **2002-03-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rory-calhoun",
+    "name": "Rory Calhoun",
+    "email": "rory.calhoun@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

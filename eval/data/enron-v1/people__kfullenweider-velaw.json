@@ -1,0 +1,14 @@
+{
+  "slug": "people/kfullenweider-velaw",
+  "type": "person",
+  "title": "Kfullenweider",
+  "compiled_truth": "Kfullenweider is an external contact at [Vinson & Elkins](companies/vinson-elkins). Over the corpus period (2000-03-10 to 2000-08-16), Kfullenweider sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2000-08-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kfullenweider-velaw",
+    "name": "Kfullenweider",
+    "email": "kfullenweider@velaw.com",
+    "primary_affiliation": "companies/vinson-elkins"
+  }
+}

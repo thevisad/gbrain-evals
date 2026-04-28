@@ -1,0 +1,14 @@
+{
+  "slug": "people/singram-uscsi",
+  "type": "person",
+  "title": "Singram",
+  "compiled_truth": "Singram is an external contact at [Uscsi](companies/uscsi). Over the corpus period (1999-11-15 to 1999-11-15), Singram sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/singram-uscsi",
+    "name": "Singram",
+    "email": "singram@uscsi.org",
+    "primary_affiliation": "companies/uscsi"
+  }
+}

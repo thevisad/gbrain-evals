@@ -1,0 +1,14 @@
+{
+  "slug": "people/bourgeois-thomas",
+  "type": "person",
+  "title": "Bourgeois Thomas",
+  "compiled_truth": "Bourgeois Thomas is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-04-01 to 2002-04-01), Bourgeois Thomas sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-04-01** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bourgeois-thomas",
+    "name": "Bourgeois Thomas",
+    "email": "bourgeois.thomas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

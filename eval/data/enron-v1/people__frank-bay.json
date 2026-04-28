@@ -1,0 +1,14 @@
+{
+  "slug": "people/frank-bay",
+  "type": "person",
+  "title": "Frank Bay",
+  "compiled_truth": "Frank Bay is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-11-21), Frank Bay sent 1 and received 63 emails, totalling 64 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frank-bay",
+    "name": "Frank Bay",
+    "email": "frank.bay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

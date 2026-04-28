@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-shipos",
+  "type": "person",
+  "title": "Jennifer Shipos",
+  "compiled_truth": "Jennifer Shipos is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2002-02-21), Jennifer Shipos sent 1 and received 97 emails, totalling 98 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (1).",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-shipos",
+    "name": "Jennifer Shipos",
+    "email": "jennifer.shipos@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

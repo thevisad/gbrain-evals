@@ -1,0 +1,14 @@
+{
+  "slug": "people/morris-benita",
+  "type": "person",
+  "title": "Morris Benita",
+  "compiled_truth": "Morris Benita is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Morris Benita sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/morris-benita",
+    "name": "Morris Benita",
+    "email": "morris.benita@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

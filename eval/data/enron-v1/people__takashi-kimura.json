@@ -1,0 +1,14 @@
+{
+  "slug": "people/takashi-kimura",
+  "type": "person",
+  "title": "Takashi Kimura",
+  "compiled_truth": "Takashi Kimura is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-12 to 2001-11-30), Takashi Kimura sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2000-07-12** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/takashi-kimura",
+    "name": "Takashi Kimura",
+    "email": "takashi.kimura@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

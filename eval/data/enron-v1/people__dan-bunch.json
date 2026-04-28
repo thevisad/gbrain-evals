@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-bunch",
+  "type": "person",
+  "title": "Dan Bunch",
+  "compiled_truth": "Dan Bunch is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-04 to 2002-02-25), Dan Bunch sent 2 and received 21 emails, totalling 23 interactions. Top correspondents: [Michael Bodnar](people/michael-bodnar) (2), [Sean Bolks](people/sean-bolks) (2), [Theresa Branney](people/theresa-branney) (2), [Craig Buehler](people/craig-buehler) (2), [Bob Burleson](people/bob-burleson) (2).",
+  "timeline": "- **2000-08-04** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-bunch",
+    "name": "Dan Bunch",
+    "email": "dan.bunch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

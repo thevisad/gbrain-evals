@@ -1,0 +1,14 @@
+{
+  "slug": "people/carole-nachtigall",
+  "type": "person",
+  "title": "Carole Nachtigall",
+  "compiled_truth": "Carole Nachtigall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-30 to 2000-12-06), Carole Nachtigall sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-08-30** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carole-nachtigall",
+    "name": "Carole Nachtigall",
+    "email": "carole.nachtigall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

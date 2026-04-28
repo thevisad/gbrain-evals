@@ -1,0 +1,14 @@
+{
+  "slug": "people/mulka-michael",
+  "type": "person",
+  "title": "Mulka Michael",
+  "compiled_truth": "Mulka Michael is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-08-21), Mulka Michael sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mulka-michael",
+    "name": "Mulka Michael",
+    "email": "mulka.michael@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

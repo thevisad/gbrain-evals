@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-meier",
+  "type": "person",
+  "title": "Mark Meier",
+  "compiled_truth": "Mark Meier is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-27), Mark Meier sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-meier",
+    "name": "Mark Meier",
+    "email": "mark.meier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

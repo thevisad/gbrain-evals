@@ -1,0 +1,14 @@
+{
+  "slug": "people/vincent-strohmeyer",
+  "type": "person",
+  "title": "Vincent Strohmeyer",
+  "compiled_truth": "Vincent Strohmeyer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-08 to 2002-05-06), Vincent Strohmeyer sent 29 and received 109 emails, totalling 138 interactions. Top correspondents: [John Cobb](people/john-cobb) (26), [Dave Neubauer](people/dave-neubauer) (25), [James Saunders](people/james-saunders) (24), [Jerry Peters](people/jerry-peters) (23), [Rod Hayslett](people/rod-hayslett) (23). Mailbox folders observed: calendar, deleted_items, inbox, misc_tw.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vincent-strohmeyer",
+    "name": "Vincent Strohmeyer",
+    "email": "vincent.strohmeyer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

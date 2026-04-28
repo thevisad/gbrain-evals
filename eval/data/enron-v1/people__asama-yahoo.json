@@ -1,0 +1,14 @@
+{
+  "slug": "people/asama-yahoo",
+  "type": "person",
+  "title": "Asama",
+  "compiled_truth": "Asama is an external contact at [Yahoo](companies/yahoo). Over the corpus period (1999-10-13 to 2001-04-26), Asama sent 16 and received 100 emails, totalling 116 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (8), [Cvavrek](people/cvavrek-deloitte) (7), [Dasovich](people/dasovich-haas) (7), [Mark Guinney](people/mark-guinney-watsonwyatt) (6), [Davis](people/davis-haas) (5).",
+  "timeline": "- **1999-10-13** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/asama-yahoo",
+    "name": "Asama",
+    "email": "asama@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/raveen-maan-city",
+  "type": "person",
+  "title": "Raveen Maan",
+  "compiled_truth": "Raveen Maan is an external contact at [City](companies/city). Over the corpus period (1999-11-22 to 2001-07-31), Raveen Maan sent 0 and received 60 emails, totalling 60 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/raveen-maan-city",
+    "name": "Raveen Maan",
+    "email": "raveen_maan@city.palo-alto.ca.us",
+    "primary_affiliation": "companies/city"
+  }
+}

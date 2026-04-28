@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-howe",
+  "type": "person",
+  "title": "David Howe",
+  "compiled_truth": "David Howe is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-20 to 2001-10-29), David Howe sent 1 and received 29 emails, totalling 30 interactions. Top correspondents: [Paul Lebeau](people/paul-lebeau) (1), [D  Steffes](people/d-steffes) (1), [Kirk Neuner](people/kirk-neuner) (1), [Jay Sparling](people/jay-sparling) (1), [J  Noske](people/j-noske) (1). Mailbox folders observed: gu_recruiting.",
+  "timeline": "- **2000-03-20** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-howe",
+    "name": "David Howe",
+    "email": "david.howe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

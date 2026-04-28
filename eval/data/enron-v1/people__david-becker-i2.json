@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-becker-i2",
+  "type": "person",
+  "title": "David Becker",
+  "compiled_truth": "David Becker is an external contact at [I2](companies/i2). Over the corpus period (2000-10-02 to 2000-12-06), David Becker sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-10-02** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-becker-i2",
+    "name": "David Becker",
+    "email": "david_becker@i2.com",
+    "primary_affiliation": "companies/i2"
+  }
+}

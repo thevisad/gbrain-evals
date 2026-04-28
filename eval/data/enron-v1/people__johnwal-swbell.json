@@ -1,0 +1,14 @@
+{
+  "slug": "people/johnwal-swbell",
+  "type": "person",
+  "title": "Johnwal",
+  "compiled_truth": "Johnwal is an external contact at [Swbell](companies/swbell). Over the corpus period (2001-09-26 to 2001-10-26), Johnwal sent 6 and received 1 emails, totalling 7 interactions. Top correspondents: [Brad Mckay](people/brad-mckay) (6), [ Andy](people/andy) (5), [Aplin' 'Arch](people/aplin-arch) (5), [James' 'W ](people/james-w) (5), [Crosswell' 'Allen](people/crosswell-allen) (5).",
+  "timeline": "- **2001-09-26** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/johnwal-swbell",
+    "name": "Johnwal",
+    "email": "johnwal@swbell.net",
+    "primary_affiliation": "companies/swbell"
+  }
+}

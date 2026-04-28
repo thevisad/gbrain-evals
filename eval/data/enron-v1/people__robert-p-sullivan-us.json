@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-p-sullivan-us",
+  "type": "person",
+  "title": "Robert P Sullivan",
+  "compiled_truth": "Robert P Sullivan is an external contact at [Us](companies/us). Over the corpus period (2000-05-18 to 2000-09-18), Robert P Sullivan sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-p-sullivan-us",
+    "name": "Robert P Sullivan",
+    "email": "robert.p.sullivan@us.pwcglobal.com",
+    "primary_affiliation": "companies/us"
+  }
+}

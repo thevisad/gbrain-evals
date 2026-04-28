@@ -1,0 +1,14 @@
+{
+  "slug": "people/rshapiro",
+  "type": "person",
+  "title": "Rshapiro",
+  "compiled_truth": "Rshapiro is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-22 to 2004-02-04), Rshapiro sent 0 and received 499 emails, totalling 499 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2004-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rshapiro",
+    "name": "Rshapiro",
+    "email": "rshapiro@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

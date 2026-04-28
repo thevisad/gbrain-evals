@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-marye",
+  "type": "person",
+  "title": "David Marye",
+  "compiled_truth": "David Marye is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-27), David Marye sent 0 and received 130 emails, totalling 130 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-marye",
+    "name": "David Marye",
+    "email": "david.marye@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dsloan-pge-nw",
+  "type": "person",
+  "title": "Dsloan",
+  "compiled_truth": "Dsloan is an external contact at [Pge-nw](companies/pge-nw). Over the corpus period (1999-09-24 to 2000-08-25), Dsloan sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2000-08-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dsloan-pge-nw",
+    "name": "Dsloan",
+    "email": "dsloan@pge-nw.com",
+    "primary_affiliation": "companies/pge-nw"
+  }
+}

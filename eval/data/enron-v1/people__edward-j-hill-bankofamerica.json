@@ -1,0 +1,14 @@
+{
+  "slug": "people/edward-j-hill-bankofamerica",
+  "type": "person",
+  "title": "Edward J Hill",
+  "compiled_truth": "Edward J Hill is an external contact at [Bankofamerica](companies/bankofamerica). Over the corpus period (2001-11-06 to 2001-11-16), Edward J Hill sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-11-06** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edward-j-hill-bankofamerica",
+    "name": "Edward J Hill",
+    "email": "edward.j.hill@bankofamerica.com",
+    "primary_affiliation": "companies/bankofamerica"
+  }
+}

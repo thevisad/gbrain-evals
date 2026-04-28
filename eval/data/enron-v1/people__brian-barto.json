@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-barto",
+  "type": "person",
+  "title": "Brian Barto",
+  "compiled_truth": "Brian Barto is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-09-10), Brian Barto sent 17 and received 98 emails, totalling 115 interactions. Top correspondents: [Kay Mann](people/kay-mann) (13), [Scott Dieball](people/scott-dieball) (5), [Roseann Engeldorf](people/roseann-engeldorf) (4), [Chris Booth](people/chris-booth) (4), [Ben Jacoby](people/ben-jacoby) (4). Mailbox folders observed: ge_general.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-09-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-barto",
+    "name": "Brian Barto",
+    "email": "brian.barto@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

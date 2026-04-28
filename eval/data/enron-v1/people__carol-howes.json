@@ -1,0 +1,14 @@
+{
+  "slug": "people/carol-howes",
+  "type": "person",
+  "title": "Carol Howes",
+  "compiled_truth": "Carol Howes is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-22), Carol Howes sent 2 and received 110 emails, totalling 112 interactions. Top correspondents: [Cassandra Schultz](people/cassandra-schultz) (1), [Richard Causey](people/richard-causey) (1), [Bob Butts](people/bob-butts) (1), [Rod Hayslett](people/rod-hayslett) (1), [E  Sommers](people/e-sommers) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carol-howes",
+    "name": "Carol Howes",
+    "email": "carol.howes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

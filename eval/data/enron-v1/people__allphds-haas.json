@@ -1,0 +1,14 @@
+{
+  "slug": "people/allphds-haas",
+  "type": "person",
+  "title": "Allphds",
+  "compiled_truth": "Allphds is an external contact at [Haas](companies/haas). Over the corpus period (1999-12-06 to 2001-12-21), Allphds sent 0 and received 93 emails, totalling 93 interactions.",
+  "timeline": "- **1999-12-06** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/allphds-haas",
+    "name": "Allphds",
+    "email": "allphds@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bohara-midamerican",
+  "type": "person",
+  "title": "Bohara",
+  "compiled_truth": "Bohara is an external contact at [Midamerican](companies/midamerican). Over the corpus period (2001-11-19 to 2001-12-27), Bohara sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-11-19** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bohara-midamerican",
+    "name": "Bohara",
+    "email": "bohara@midamerican.com",
+    "primary_affiliation": "companies/midamerican"
+  }
+}

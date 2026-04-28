@@ -1,0 +1,14 @@
+{
+  "slug": "people/colleen-sullivan",
+  "type": "person",
+  "title": "Colleen Sullivan",
+  "compiled_truth": "Colleen Sullivan is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-30), Colleen Sullivan sent 73 and received 624 emails, totalling 697 interactions. Top correspondents: [Chris Germany](people/chris-germany) (51), [Scott Neal](people/scott-neal) (33), [Dick Jenkins](people/dick-jenkins) (22), [Scott Goodell](people/scott-goodell) (21), [Hunter Shively](people/hunter-shively) (20). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/colleen-sullivan",
+    "name": "Colleen Sullivan",
+    "email": "colleen.sullivan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

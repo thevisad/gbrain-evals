@@ -1,0 +1,14 @@
+{
+  "slug": "people/jsaven-pacifier",
+  "type": "person",
+  "title": "Jsaven",
+  "compiled_truth": "Jsaven is an external contact at [Pacifier](companies/pacifier). Over the corpus period (2001-02-20 to 2001-04-27), Jsaven sent 0 and received 70 emails, totalling 70 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jsaven-pacifier",
+    "name": "Jsaven",
+    "email": "jsaven@pacifier.com",
+    "primary_affiliation": "companies/pacifier"
+  }
+}

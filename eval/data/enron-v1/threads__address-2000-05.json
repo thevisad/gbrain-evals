@@ -1,0 +1,22 @@
+{
+  "slug": "threads/address-2000-05",
+  "type": "meeting",
+  "title": "Thread: Address",
+  "compiled_truth": "Email thread: \"Address\". Ran from 2000-05-22 to 2000-06-06 with 11 messages. Participants: [Djdeangelo](people/djdeangelo-papl), [John Suttle](people/john-suttle), [Shirley Crenshaw](people/shirley-crenshaw), [Tana Jones](people/tana-jones), [Vince J Kaminski](people/vince-j-kaminski), [Vince Kaminski](people/vince-kaminski), [Vincek](people/vincek-leland), [Vkaminski](people/vkaminski-aol).",
+  "timeline": "- **2000-05-22** | Thread begins: address\n- **2000-06-06** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/address-2000-05",
+    "attendees": [
+      "people/djdeangelo-papl",
+      "people/john-suttle",
+      "people/shirley-crenshaw",
+      "people/tana-jones",
+      "people/vince-j-kaminski",
+      "people/vince-kaminski",
+      "people/vincek-leland",
+      "people/vkaminski-aol"
+    ],
+    "date": "2000-05-22"
+  }
+}

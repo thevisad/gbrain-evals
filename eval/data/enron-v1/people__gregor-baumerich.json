@@ -1,0 +1,14 @@
+{
+  "slug": "people/gregor-baumerich",
+  "type": "person",
+  "title": "Gregor Baumerich",
+  "compiled_truth": "Gregor Baumerich is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-25 to 2001-11-19), Gregor Baumerich sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-04-25** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gregor-baumerich",
+    "name": "Gregor Baumerich",
+    "email": "gregor.baumerich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

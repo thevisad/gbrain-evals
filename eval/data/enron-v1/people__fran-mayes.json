@@ -1,0 +1,14 @@
+{
+  "slug": "people/fran-mayes",
+  "type": "person",
+  "title": "Fran Mayes",
+  "compiled_truth": "Fran Mayes is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-12-21), Fran Mayes sent 17 and received 194 emails, totalling 211 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (11), [Sally Beck](people/sally-beck) (3), [George Mccormick](people/george-mccormick) (3), [Brian Redmond](people/brian-redmond) (2), [Lizzette Palmer](people/lizzette-palmer) (2). Mailbox folders observed: _americas, deleted_items, hpl, inbox, meeting_invites_confirms.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fran-mayes",
+    "name": "Fran Mayes",
+    "email": "fran.mayes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

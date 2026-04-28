@@ -1,0 +1,14 @@
+{
+  "slug": "people/william-kelly",
+  "type": "person",
+  "title": "William Kelly",
+  "compiled_truth": "William Kelly is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-12-03), William Kelly sent 5 and received 336 emails, totalling 341 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1), [Chris Germany](people/chris-germany) (1), [Brenda Fletcher](people/brenda-fletcher) (1), [Crystal Hyde](people/crystal-hyde) (1), [Jeffrey Gossett](people/jeffrey-gossett) (1).",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/william-kelly",
+    "name": "William Kelly",
+    "email": "william.kelly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

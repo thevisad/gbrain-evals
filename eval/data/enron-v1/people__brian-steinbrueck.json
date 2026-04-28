@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-steinbrueck",
+  "type": "person",
+  "title": "Brian Steinbrueck",
+  "compiled_truth": "Brian Steinbrueck is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2002-05-06), Brian Steinbrueck sent 3 and received 40 emails, totalling 43 interactions. Top correspondents: [Barbd](people/barbd-andrews-kurth) (3), [Lowed](people/lowed-andrews-kurth) (3), [Mcfam](people/mcfam-andrews-kurth) (3), [Sulld](people/sulld-andrews-kurth) (3), [Alan Quaintance](people/alan-quaintance) (3).",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-steinbrueck",
+    "name": "Brian Steinbrueck",
+    "email": "brian.steinbrueck@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

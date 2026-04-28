@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-whalley",
+  "type": "person",
+  "title": "Greg Whalley",
+  "compiled_truth": "Greg Whalley is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-07), Greg Whalley sent 347 and received 2421 emails, totalling 2768 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (32), [John Sherriff](people/john-sherriff) (17), [Michelle Nelson](people/michelle-nelson) (15), [Louise Kitchen](people/louise-kitchen) (14), [Mark Frevert](people/mark-frevert) (13). Mailbox folders observed: _americas, _sent_mail, contacts, deleted_items, inbox, personal.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-whalley",
+    "name": "Greg Whalley",
+    "email": "greg.whalley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

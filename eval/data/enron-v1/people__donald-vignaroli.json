@@ -1,0 +1,14 @@
+{
+  "slug": "people/donald-vignaroli",
+  "type": "person",
+  "title": "Donald Vignaroli",
+  "compiled_truth": "Donald Vignaroli is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2002-03-08), Donald Vignaroli sent 3 and received 146 emails, totalling 149 interactions. Top correspondents: [Drew Fossum](people/drew-fossum) (2), [Mary Miller](people/mary-miller) (2), [Patrick Brennan](people/patrick-brennan) (2), [Dari Dornan](people/dari-dornan) (2), [Keith Petersen](people/keith-petersen) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donald-vignaroli",
+    "name": "Donald Vignaroli",
+    "email": "donald.vignaroli@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

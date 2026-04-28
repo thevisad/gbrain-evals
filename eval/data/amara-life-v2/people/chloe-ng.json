@@ -1,0 +1,16 @@
+{
+  "slug": "people/chloe-ng",
+  "type": "person",
+  "title": "Chloe Ng",
+  "compiled_truth": "Chloe Ng is a portfolio founder. Email: chloe@carbonledger.co. Chloe Ng works at Carbon Ledger. Slack: @chloe.",
+  "timeline": "- **2025-04-14** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chloe-ng",
+    "name": "Chloe Ng",
+    "email": "chloe@carbonledger.co",
+    "slack_handle": "chloe",
+    "relation_to_amara": "founder",
+    "primary_affiliation": "companies/carbon-ledger"
+  }
+}

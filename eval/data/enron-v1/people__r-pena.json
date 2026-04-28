@@ -1,0 +1,14 @@
+{
+  "slug": "people/r-pena",
+  "type": "person",
+  "title": "R  Pena",
+  "compiled_truth": "R  Pena is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-29 to 2001-10-25), R  Pena sent 3 and received 8 emails, totalling 11 interactions. Top correspondents: [Barry Tycholiz](people/barry-tycholiz) (2), [Suzanne Adams](people/suzanne-adams) (1), [Yao Apasu](people/yao-apasu) (1), [Alan Aronowitz](people/alan-aronowitz) (1), [Michelle Blaine](people/michelle-blaine) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-29** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/r-pena",
+    "name": "R  Pena",
+    "email": "r..pena@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

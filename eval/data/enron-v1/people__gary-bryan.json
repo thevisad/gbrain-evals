@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-bryan",
+  "type": "person",
+  "title": "Gary Bryan",
+  "compiled_truth": "Gary Bryan is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-04-26), Gary Bryan sent 17 and received 268 emails, totalling 285 interactions. Top correspondents: [A  Martin](people/a-martin) (6), [Gerald Nemec](people/gerald-nemec) (6), [Brian Redmond](people/brian-redmond) (5), [M  Forney](people/m-forney) (3), [T  Hodge](people/t-hodge) (3). Mailbox folders observed: calendar, deleted_items, inbox, term_proposals.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-bryan",
+    "name": "Gary Bryan",
+    "email": "gary.bryan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

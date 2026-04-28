@@ -1,0 +1,14 @@
+{
+  "slug": "people/marsha-francis",
+  "type": "person",
+  "title": "Marsha Francis",
+  "compiled_truth": "Marsha Francis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-10 to 2001-05-30), Marsha Francis sent 1 and received 33 emails, totalling 34 interactions. Top correspondents: [John Griffith](people/john-griffith) (1).",
+  "timeline": "- **2000-05-10** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marsha-francis",
+    "name": "Marsha Francis",
+    "email": "marsha.francis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "meetings/staff-meeting-2001-10-5",
+  "type": "meeting",
+  "title": "Meeting: Staff Meeting",
+  "compiled_truth": "Meeting: \"Staff Meeting\". Occurred 2001-10-23 through 2001-10-23 with 5 related emails. Participants included: [Andrea Dahlke](people/andrea-dahlke), [Casey Evans](people/casey-evans), [Hai Chen](people/hai-chen), [Israel Estrada](people/israel-estrada), [John Postlethwaite](people/john-postlethwaite), [Martha Stevens](people/martha-stevens), [Michael Mattox](people/michael-mattox), [Paul Lewis](people/paul-lewis)....",
+  "timeline": "- **2001-10-23** | Meeting: staff meeting\n- **2001-10-23** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/staff-meeting-2001-10-5",
+    "attendees": [
+      "people/andrea-dahlke",
+      "people/casey-evans",
+      "people/hai-chen",
+      "people/israel-estrada",
+      "people/john-postlethwaite",
+      "people/martha-stevens",
+      "people/michael-mattox",
+      "people/paul-lewis",
+      "people/sonia-hennessy",
+      "people/tim-carter",
+      "people/tom-chapman",
+      "people/w-white",
+      "people/warrick-franklin"
+    ],
+    "date": "2001-10-23"
+  }
+}

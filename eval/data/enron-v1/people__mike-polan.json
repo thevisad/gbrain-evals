@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-polan",
+  "type": "person",
+  "title": "Mike Polan",
+  "compiled_truth": "Mike Polan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-19 to 2001-02-06), Mike Polan sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-12-19** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-polan",
+    "name": "Mike Polan",
+    "email": "mike.polan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

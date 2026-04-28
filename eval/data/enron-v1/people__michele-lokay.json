@@ -1,0 +1,14 @@
+{
+  "slug": "people/michele-lokay",
+  "type": "person",
+  "title": "Michele Lokay",
+  "compiled_truth": "Michele Lokay is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-06 to 2000-12-08), Michele Lokay sent 3 and received 54 emails, totalling 57 interactions. Top correspondents: [Tknight](people/tknight-houstonenergy) (2). Mailbox folders observed: sent.",
+  "timeline": "- **2000-06-06** | First recorded email in corpus\n- **2000-12-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michele-lokay",
+    "name": "Michele Lokay",
+    "email": "michele.lokay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

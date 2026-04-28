@@ -1,0 +1,14 @@
+{
+  "slug": "people/todd-perry",
+  "type": "person",
+  "title": "Todd Perry",
+  "compiled_truth": "Todd Perry is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-12 to 2002-03-18), Todd Perry sent 17 and received 171 emails, totalling 188 interactions. Top correspondents: [Jeffrey Oh](people/jeffrey-oh) (7), [Kate Symes](people/kate-symes) (7), [Tracy Ngo](people/tracy-ngo) (6), [Lisa Gang](people/lisa-gang) (3), [Darren Cavanaugh](people/darren-cavanaugh) (3). Mailbox folders observed: bill_williams_iii, deleted_items, inbox, read.",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/todd-perry",
+    "name": "Todd Perry",
+    "email": "todd.perry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

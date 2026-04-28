@@ -1,0 +1,14 @@
+{
+  "slug": "people/binky-davidson",
+  "type": "person",
+  "title": "Binky Davidson",
+  "compiled_truth": "Binky Davidson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2002-05-21), Binky Davidson sent 1 and received 76 emails, totalling 77 interactions. Top correspondents: [Steven Kean](people/steven-kean) (1), [Robert Eickenroht](people/robert-eickenroht) (1), [Peggy Mahoney](people/peggy-mahoney) (1).",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/binky-davidson",
+    "name": "Binky Davidson",
+    "email": "binky.davidson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

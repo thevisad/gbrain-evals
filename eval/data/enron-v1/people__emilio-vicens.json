@@ -1,0 +1,14 @@
+{
+  "slug": "people/emilio-vicens",
+  "type": "person",
+  "title": "Emilio Vicens",
+  "compiled_truth": "Emilio Vicens is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-26), Emilio Vicens sent 4 and received 105 emails, totalling 109 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (2), [Alberto Levy](people/alberto-levy) (2), [Guido Caranti](people/guido-caranti) (2), [Richard Shapiro](people/richard-shapiro) (2), [Jeffrey Shankman](people/jeffrey-shankman) (1). Mailbox folders observed: venezuela_colombia.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/emilio-vicens",
+    "name": "Emilio Vicens",
+    "email": "emilio.vicens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

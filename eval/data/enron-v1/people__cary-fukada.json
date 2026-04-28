@@ -1,0 +1,14 @@
+{
+  "slug": "people/cary-fukada",
+  "type": "person",
+  "title": "Cary Fukada",
+  "compiled_truth": "Cary Fukada is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-11 to 2001-11-28), Cary Fukada sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-09-11** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cary-fukada",
+    "name": "Cary Fukada",
+    "email": "cary.fukada@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

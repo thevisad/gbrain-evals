@@ -1,0 +1,14 @@
+{
+  "slug": "people/dexter-peoples",
+  "type": "person",
+  "title": "Dexter Peoples",
+  "compiled_truth": "Dexter Peoples is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-24 to 2002-04-20), Dexter Peoples sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-09-24** | First recorded email in corpus\n- **2002-04-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dexter-peoples",
+    "name": "Dexter Peoples",
+    "email": "dexter.peoples@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

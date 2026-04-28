@@ -1,0 +1,14 @@
+{
+  "slug": "people/elyse-kalmans",
+  "type": "person",
+  "title": "Elyse Kalmans",
+  "compiled_truth": "Elyse Kalmans is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-15 to 2001-11-30), Elyse Kalmans sent 5 and received 77 emails, totalling 82 interactions. Top correspondents: [Cindy Olson](people/cindy-olson) (3), [Mark Haedicke](people/mark-haedicke) (2), [Kenneth Lay](people/kenneth-lay) (2), [Jeff Dasovich](people/jeff-dasovich) (1), [Laura Schwartz](people/laura-schwartz) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-10-15** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elyse-kalmans",
+    "name": "Elyse Kalmans",
+    "email": "elyse.kalmans@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

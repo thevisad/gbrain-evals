@@ -1,0 +1,14 @@
+{
+  "slug": "people/sonnet-edmonds-mirant",
+  "type": "person",
+  "title": "Sonnet Edmonds",
+  "compiled_truth": "Sonnet Edmonds is an external contact at [Mirant](companies/mirant). Over the corpus period (2001-05-11 to 2001-05-21), Sonnet Edmonds sent 2 and received 18 emails, totalling 20 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (1), [Skean](people/skean) (1).",
+  "timeline": "- **2001-05-11** | First recorded email in corpus\n- **2001-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sonnet-edmonds-mirant",
+    "name": "Sonnet Edmonds",
+    "email": "sonnet.edmonds@mirant.com",
+    "primary_affiliation": "companies/mirant"
+  }
+}

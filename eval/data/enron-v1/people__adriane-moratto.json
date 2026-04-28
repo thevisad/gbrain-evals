@@ -1,0 +1,14 @@
+{
+  "slug": "people/adriane-moratto",
+  "type": "person",
+  "title": "Adriane Moratto",
+  "compiled_truth": "Adriane Moratto is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-04-30), Adriane Moratto sent 3 and received 46 emails, totalling 49 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (2), [Mark Palmer](people/mark-palmer) (2), [Bob Shults](people/bob-shults) (2), [Joe Stepenovitch](people/joe-stepenovitch) (1), [Chad Starnes](people/chad-starnes) (1).",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adriane-moratto",
+    "name": "Adriane Moratto",
+    "email": "adriane.moratto@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

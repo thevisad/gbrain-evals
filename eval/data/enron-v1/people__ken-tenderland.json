@@ -1,0 +1,14 @@
+{
+  "slug": "people/ken-tenderland",
+  "type": "person",
+  "title": "Ken",
+  "compiled_truth": "Ken is an external contact at [Tenderland](companies/tenderland). Over the corpus period (2000-11-29 to 2000-11-29), Ken sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-29** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ken-tenderland",
+    "name": "Ken",
+    "email": "ken@tenderland.com",
+    "primary_affiliation": "companies/tenderland"
+  }
+}

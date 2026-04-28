@@ -1,0 +1,14 @@
+{
+  "slug": "people/salazar-lee",
+  "type": "person",
+  "title": "Salazar Lee",
+  "compiled_truth": "Salazar Lee is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-09 to 2002-03-14), Salazar Lee sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2002-01-09** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/salazar-lee",
+    "name": "Salazar Lee",
+    "email": "salazar.lee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

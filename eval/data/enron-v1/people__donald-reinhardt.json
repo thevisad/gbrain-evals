@@ -1,0 +1,14 @@
+{
+  "slug": "people/donald-reinhardt",
+  "type": "person",
+  "title": "Donald Reinhardt",
+  "compiled_truth": "Donald Reinhardt is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-11), Donald Reinhardt sent 3 and received 292 emails, totalling 295 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (3), [Julie Meyers](people/julie-meyers) (2), [Vance Taylor](people/vance-taylor) (2), [Melissa Graves](people/melissa-graves) (2), [Stephanie Gomes](people/stephanie-gomes) (1).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donald-reinhardt",
+    "name": "Donald Reinhardt",
+    "email": "donald.reinhardt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

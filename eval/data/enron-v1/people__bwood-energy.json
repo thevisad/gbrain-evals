@@ -1,0 +1,14 @@
+{
+  "slug": "people/bwood-energy",
+  "type": "person",
+  "title": "Bwood",
+  "compiled_truth": "Bwood is an external contact at [Energy](companies/energy). Over the corpus period (1999-09-24 to 2001-10-24), Bwood sent 2 and received 177 emails, totalling 179 interactions. Top correspondents: [Sharris1](people/sharris1) (1), [Steven Harris](people/steven-harris) (1).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bwood-energy",
+    "name": "Bwood",
+    "email": "bwood@energy.state.ca.us",
+    "primary_affiliation": "companies/energy"
+  }
+}

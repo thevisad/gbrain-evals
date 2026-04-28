@@ -1,0 +1,14 @@
+{
+  "slug": "people/reastman-cassocorp",
+  "type": "person",
+  "title": "Reastman",
+  "compiled_truth": "Reastman is an external contact at [Cassocorp](companies/cassocorp). Over the corpus period (2001-08-14 to 2001-08-14), Reastman sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reastman-cassocorp",
+    "name": "Reastman",
+    "email": "reastman@cassocorp.com",
+    "primary_affiliation": "companies/cassocorp"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lorie-leigh",
+  "type": "person",
+  "title": "Lorie Leigh",
+  "compiled_truth": "Lorie Leigh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-30 to 2002-03-29), Lorie Leigh sent 11 and received 72 emails, totalling 83 interactions. Top correspondents: [Kay Mann](people/kay-mann) (7), [Ben Jacoby](people/ben-jacoby) (5), [Louise Kitchen](people/louise-kitchen) (3), [Ron Tapscott](people/ron-tapscott) (3), [Herman Manis](people/herman-manis) (2). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **2000-06-30** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lorie-leigh",
+    "name": "Lorie Leigh",
+    "email": "lorie.leigh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

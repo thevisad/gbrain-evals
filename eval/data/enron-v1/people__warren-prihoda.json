@@ -1,0 +1,14 @@
+{
+  "slug": "people/warren-prihoda",
+  "type": "person",
+  "title": "Warren Prihoda",
+  "compiled_truth": "Warren Prihoda is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-12-04), Warren Prihoda sent 2 and received 57 emails, totalling 59 interactions. Top correspondents: [Kevin Presto](people/kevin-presto) (2). Mailbox folders observed: presto_working_files.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/warren-prihoda",
+    "name": "Warren Prihoda",
+    "email": "warren.prihoda@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

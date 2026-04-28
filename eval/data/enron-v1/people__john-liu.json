@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-liu",
+  "type": "person",
+  "title": "John Liu",
+  "compiled_truth": "John Liu is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2000-10-09), John Liu sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2000-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-liu",
+    "name": "John Liu",
+    "email": "john.liu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

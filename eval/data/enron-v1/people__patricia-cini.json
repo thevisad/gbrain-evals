@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-cini",
+  "type": "person",
+  "title": "Patricia Cini",
+  "compiled_truth": "Patricia Cini is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-30), Patricia Cini sent 10 and received 116 emails, totalling 126 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (9), [Brent Hendry](people/brent-hendry) (2), [William Bradford](people/william-bradford) (2), [Tana Jones](people/tana-jones) (1), [Nasim Khan](people/nasim-khan) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-cini",
+    "name": "Patricia Cini",
+    "email": "patricia.cini@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

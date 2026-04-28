@@ -1,0 +1,14 @@
+{
+  "slug": "people/francis-lim",
+  "type": "person",
+  "title": "Francis Lim",
+  "compiled_truth": "Francis Lim is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2001-05-08), Francis Lim sent 6 and received 29 emails, totalling 35 interactions. Top correspondents: [Geoff Storey](people/geoff-storey) (4), [John Griffith](people/john-griffith) (2). Mailbox folders observed: it.",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/francis-lim",
+    "name": "Francis Lim",
+    "email": "francis.lim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

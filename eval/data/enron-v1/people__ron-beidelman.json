@@ -1,0 +1,14 @@
+{
+  "slug": "people/ron-beidelman",
+  "type": "person",
+  "title": "Ron Beidelman",
+  "compiled_truth": "Ron Beidelman is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-27 to 2002-03-19), Ron Beidelman sent 1 and received 50 emails, totalling 51 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (1).",
+  "timeline": "- **1999-05-27** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ron-beidelman",
+    "name": "Ron Beidelman",
+    "email": "ron.beidelman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gordon-savage",
+  "type": "person",
+  "title": "Gordon Savage",
+  "compiled_truth": "Gordon Savage is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-17 to 2002-05-13), Gordon Savage sent 1 and received 766 emails, totalling 767 interactions. Top correspondents: [P  O'Neil](people/p-o-neil) (1), [Virginia Thompson](people/virginia-thompson) (1), [Mark Confer](people/mark-confer) (1), [Mo Elafandi](people/mo-elafandi) (1), [Edward Baughman](people/edward-baughman) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gordon-savage",
+    "name": "Gordon Savage",
+    "email": "gordon.savage@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

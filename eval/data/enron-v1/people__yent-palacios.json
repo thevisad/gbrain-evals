@@ -1,0 +1,14 @@
+{
+  "slug": "people/yent-palacios",
+  "type": "person",
+  "title": "Yent",
+  "compiled_truth": "Yent is an external contact at [Palacios](companies/palacios). Over the corpus period (2000-11-17 to 2001-12-10), Yent sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yent-palacios",
+    "name": "Yent",
+    "email": "yent@palacios.k12.tx.us",
+    "primary_affiliation": "companies/palacios"
+  }
+}

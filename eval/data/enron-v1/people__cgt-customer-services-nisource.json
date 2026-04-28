@@ -1,0 +1,14 @@
+{
+  "slug": "people/cgt-customer-services-nisource",
+  "type": "person",
+  "title": "Cgt Customer Services",
+  "compiled_truth": "Cgt Customer Services is an external contact at [NiSource](companies/nisource). Over the corpus period (2001-05-31 to 2002-06-19), Cgt Customer Services sent 51 and received 0 emails, totalling 51 interactions. Top correspondents: [John Hodge](people/john-hodge) (50).",
+  "timeline": "- **2001-05-31** | First recorded email in corpus\n- **2002-06-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cgt-customer-services-nisource",
+    "name": "Cgt Customer Services",
+    "email": "cgt_customer_services@nisource.com",
+    "primary_affiliation": "companies/nisource"
+  }
+}

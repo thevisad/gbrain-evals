@@ -1,0 +1,14 @@
+{
+  "slug": "people/shirley-sidler",
+  "type": "person",
+  "title": "Shirley Sidler",
+  "compiled_truth": "Shirley Sidler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-29), Shirley Sidler sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shirley-sidler",
+    "name": "Shirley Sidler",
+    "email": "shirley.sidler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

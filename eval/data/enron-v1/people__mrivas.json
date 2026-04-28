@@ -1,0 +1,14 @@
+{
+  "slug": "people/mrivas",
+  "type": "person",
+  "title": "Mrivas",
+  "compiled_truth": "Mrivas is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-26 to 2001-04-26), Mrivas sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mrivas",
+    "name": "Mrivas",
+    "email": "mrivas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

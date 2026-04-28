@@ -1,0 +1,31 @@
+{
+  "slug": "threads/greetings-2001-11",
+  "type": "meeting",
+  "title": "Thread: Greetings",
+  "compiled_truth": "Email thread: \"Greetings\". Ran from 2001-11-26 to 2001-12-22 with 5 messages. Participants: [Apkpcp](people/apkpcp-prodigy), [Bob Shiring](people/bob-shiring-rweamericas), [Brent Hendry](people/brent-hendry), [Bruce Lundstrom](people/bruce-lundstrom), [Cjewell](people/cjewell-bcm), [Coralina Rivera](people/coralina-rivera), [Eddy Daniels](people/eddy-daniels), [James Derrick](people/james-derrick).",
+  "timeline": "- **2001-11-26** | Thread begins: greetings\n- **2001-12-22** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/greetings-2001-11",
+    "attendees": [
+      "people/apkpcp-prodigy",
+      "people/bob-shiring-rweamericas",
+      "people/brent-hendry",
+      "people/bruce-lundstrom",
+      "people/cjewell-bcm",
+      "people/coralina-rivera",
+      "people/eddy-daniels",
+      "people/james-derrick",
+      "people/john-arnold",
+      "people/k-allen",
+      "people/kenneth-lay",
+      "people/michelle-blaine",
+      "people/miguel-mendoza",
+      "people/pablo-acevedo-arnet",
+      "people/rob-walls",
+      "people/sami-arap",
+      "people/shelley-corman"
+    ],
+    "date": "2001-11-26"
+  }
+}

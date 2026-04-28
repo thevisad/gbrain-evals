@@ -1,0 +1,14 @@
+{
+  "slug": "people/h-fletcher",
+  "type": "person",
+  "title": "H  Fletcher",
+  "compiled_truth": "H  Fletcher is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-18 to 2001-11-27), H  Fletcher sent 12 and received 69 emails, totalling 81 interactions. Top correspondents: [Chris Germany](people/chris-germany) (10), [Judy Townsend](people/judy-townsend) (2), [Joann Collins](people/joann-collins) (1), [Kam Keiser](people/kam-keiser) (1), [John Valdes](people/john-valdes) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-18** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/h-fletcher",
+    "name": "H  Fletcher",
+    "email": "h..fletcher@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

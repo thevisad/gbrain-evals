@@ -1,0 +1,24 @@
+{
+  "slug": "threads/epe-dispatch-2000-12",
+  "type": "meeting",
+  "title": "Thread: Epe Dispatch",
+  "compiled_truth": "Email thread: \"Epe Dispatch\". Ran from 2000-12-18 to 2000-12-21 with 12 messages. Participants: [Andreia Almeida](people/andreia-almeida), [Christiaan Huizer](people/christiaan-huizer), [Felipe Ospina](people/felipe-ospina), [Jose Reis](people/jose-reis), [Laine Powell](people/laine-powell), [Lutz Speidel](people/lutz-speidel), [Marcus Stephan](people/marcus-stephan), [Richard Lammers](people/richard-lammers).",
+  "timeline": "- **2000-12-18** | Thread begins: epe dispatch\n- **2000-12-21** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/epe-dispatch-2000-12",
+    "attendees": [
+      "people/andreia-almeida",
+      "people/christiaan-huizer",
+      "people/felipe-ospina",
+      "people/jose-reis",
+      "people/laine-powell",
+      "people/lutz-speidel",
+      "people/marcus-stephan",
+      "people/richard-lammers",
+      "people/rob-gay",
+      "people/tracee-bersani"
+    ],
+    "date": "2000-12-18"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ecn3125b-conf",
+  "type": "person",
+  "title": "Ecn3125B Conf ",
+  "compiled_truth": "Ecn3125B Conf  is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-15 to 2001-11-15), Ecn3125B Conf  sent 1 and received 0 emails, totalling 1 interactions. Top correspondents: [Lloyd Will](people/lloyd-will) (1), [Rika Imai](people/rika-imai) (1), [Mauricio Marquez](people/mauricio-marquez) (1), [Gustavo Giron](people/gustavo-giron) (1), [M  Presto](people/m-presto) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-11-15** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ecn3125b-conf",
+    "name": "Ecn3125B Conf ",
+    "email": "ecn3125b.conf.@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

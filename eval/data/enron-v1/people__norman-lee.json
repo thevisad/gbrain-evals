@@ -1,0 +1,14 @@
+{
+  "slug": "people/norman-lee",
+  "type": "person",
+  "title": "Norman Lee",
+  "compiled_truth": "Norman Lee is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-08 to 2002-02-08), Norman Lee sent 27 and received 101 emails, totalling 128 interactions. Top correspondents: [W  White](people/w-white) (24), [Casey Evans](people/casey-evans) (22), [John Postlethwaite](people/john-postlethwaite) (17), [Zhiyun Yang](people/zhiyun-yang) (15), [Kathy Reeves](people/kathy-reeves) (14). Mailbox folders observed: deleted_items, inbox, read.",
+  "timeline": "- **2000-03-08** | First recorded email in corpus\n- **2002-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/norman-lee",
+    "name": "Norman Lee",
+    "email": "norman.lee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/janet-wallis",
+  "type": "person",
+  "title": "Janet Wallis",
+  "compiled_truth": "Janet Wallis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-15 to 2001-06-13), Janet Wallis sent 40 and received 227 emails, totalling 267 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (32), [Ami Chokshi](people/ami-chokshi) (6), [James Ducote](people/james-ducote) (5), [Kyle Lilly](people/kyle-lilly) (5), [Dfarmer](people/dfarmer) (3). Mailbox folders observed: logistics.",
+  "timeline": "- **1999-06-15** | First recorded email in corpus\n- **2001-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janet-wallis",
+    "name": "Janet Wallis",
+    "email": "janet.wallis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

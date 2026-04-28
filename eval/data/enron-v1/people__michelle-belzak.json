@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-belzak",
+  "type": "person",
+  "title": "Michelle Belzak",
+  "compiled_truth": "Michelle Belzak is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-15 to 2001-04-30), Michelle Belzak sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-12-15** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-belzak",
+    "name": "Michelle Belzak",
+    "email": "michelle.belzak@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

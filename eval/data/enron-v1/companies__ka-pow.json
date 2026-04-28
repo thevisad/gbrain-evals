@@ -1,0 +1,25 @@
+{
+  "slug": "companies/ka-pow",
+  "type": "company",
+  "title": "Ka-pow",
+  "compiled_truth": "Ka-pow is an external organization that appears in the Enron email corpus. Domain: ka-pow.com. Total email interactions with Enron: 272. Known contacts: 8 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (272 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/ka-pow",
+    "name": "Ka-pow",
+    "employees": [
+      "people/bsardo-ka-pow",
+      "people/egarcia-ka-pow",
+      "people/fpownall-ka-pow",
+      "people/fred-pownall-ka-pow",
+      "people/laf-ka-pow",
+      "people/lfkaye-ka-pow",
+      "people/mikahl-ka-pow",
+      "people/mkahl-ka-pow"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

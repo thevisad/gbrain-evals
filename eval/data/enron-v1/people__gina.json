@@ -1,0 +1,14 @@
+{
+  "slug": "people/gina",
+  "type": "person",
+  "title": " Gina",
+  "compiled_truth": "Gina is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-23 to 2002-03-26),  Gina sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-10-23** | First recorded email in corpus\n- **2002-03-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gina",
+    "name": " Gina",
+    "email": ".gina@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

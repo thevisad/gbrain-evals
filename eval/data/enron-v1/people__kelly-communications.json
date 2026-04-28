@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-communications",
+  "type": "person",
+  "title": "Kelly Communications",
+  "compiled_truth": "Kelly Communications is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-06-22), Kelly Communications sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-06-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-communications",
+    "name": "Kelly Communications",
+    "email": "kelly.communications@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

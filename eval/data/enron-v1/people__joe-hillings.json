@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-hillings",
+  "type": "person",
+  "title": "Joe Hillings",
+  "compiled_truth": "Joe Hillings is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-23 to 2001-03-28), Joe Hillings sent 24 and received 258 emails, totalling 282 interactions. Top correspondents: [Steven Kean](people/steven-kean) (14), [Chris Long](people/chris-long) (9), [Kenneth Lay](people/kenneth-lay) (9), [Lora Sullivan](people/lora-sullivan) (5), [Cynthia Sandherr](people/cynthia-sandherr) (4). Mailbox folders observed: aadepartment.",
+  "timeline": "- **1999-07-23** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-hillings",
+    "name": "Joe Hillings",
+    "email": "joe.hillings@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

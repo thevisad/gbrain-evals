@@ -1,0 +1,14 @@
+{
+  "slug": "people/donnis-traylor",
+  "type": "person",
+  "title": "Donnis Traylor",
+  "compiled_truth": "Donnis Traylor is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-04 to 2002-01-09), Donnis Traylor sent 8 and received 8 emails, totalling 16 interactions. Top correspondents: [A  Shankman](people/a-shankman) (7), [Jeff Skilling](people/jeff-skilling) (1), [Kenneth Lay](people/kenneth-lay) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donnis-traylor",
+    "name": "Donnis Traylor",
+    "email": "donnis.traylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-04-28T04:04:44.532Z",
+  "model": "claude-opus-4-6",
+  "seed": 99,
+  "pricing": {
+    "input_per_m": 7.5,
+    "output_per_m": 37.5
+  },
+  "total_entities": 135,
+  "batch_generated": 135,
+  "cache_hits": 0,
+  "written": 135,
+  "skipped": 0,
+  "failed": 0
+}

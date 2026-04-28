@@ -1,0 +1,14 @@
+{
+  "slug": "people/cynthia-shoup",
+  "type": "person",
+  "title": "Cynthia Shoup",
+  "compiled_truth": "Cynthia Shoup is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-06-21), Cynthia Shoup sent 3 and received 52 emails, totalling 55 interactions. Top correspondents: [Louis Dicarlo](people/louis-dicarlo) (3), [Sara Shackleton](people/sara-shackleton) (2), [Shielah Castro](people/shielah-castro) (1), [Susan Bailey](people/susan-bailey) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cynthia-shoup",
+    "name": "Cynthia Shoup",
+    "email": "cynthia.shoup@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

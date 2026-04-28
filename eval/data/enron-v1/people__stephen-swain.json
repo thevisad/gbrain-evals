@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-swain",
+  "type": "person",
+  "title": "Stephen Swain",
+  "compiled_truth": "Stephen Swain is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-17 to 2001-07-30), Stephen Swain sent 5 and received 174 emails, totalling 179 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (5), [Robert Badeer](people/robert-badeer) (3), [Alan Comnes](people/alan-comnes) (3), [Tim Belden](people/tim-belden) (3), [Paul Kaufman](people/paul-kaufman) (2).",
+  "timeline": "- **2000-01-17** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-swain",
+    "name": "Stephen Swain",
+    "email": "stephen.swain@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

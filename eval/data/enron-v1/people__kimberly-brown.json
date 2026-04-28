@@ -1,0 +1,14 @@
+{
+  "slug": "people/kimberly-brown",
+  "type": "person",
+  "title": "Kimberly Brown",
+  "compiled_truth": "Kimberly Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-13), Kimberly Brown sent 20 and received 249 emails, totalling 269 interactions. Top correspondents: [Chris Germany](people/chris-germany) (12), [Scott Neal](people/scott-neal) (11), [Robin Barbe](people/robin-barbe) (11), [Dan Junek](people/dan-junek) (11), [Sandra Brawner](people/sandra-brawner) (10). Mailbox folders observed: _sent_mail, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kimberly-brown",
+    "name": "Kimberly Brown",
+    "email": "kimberly.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

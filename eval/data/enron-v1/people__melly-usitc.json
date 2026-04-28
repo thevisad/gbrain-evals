@@ -1,0 +1,14 @@
+{
+  "slug": "people/melly-usitc",
+  "type": "person",
+  "title": "Melly",
+  "compiled_truth": "Melly is an external contact at [Usitc](companies/usitc). Over the corpus period (1999-11-15 to 1999-11-15), Melly sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melly-usitc",
+    "name": "Melly",
+    "email": "melly@usitc.gov",
+    "primary_affiliation": "companies/usitc"
+  }
+}

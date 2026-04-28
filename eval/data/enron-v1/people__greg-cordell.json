@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-cordell",
+  "type": "person",
+  "title": "Greg Cordell",
+  "compiled_truth": "Greg Cordell is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-04 to 2001-03-22), Greg Cordell sent 1 and received 55 emails, totalling 56 interactions. Top correspondents: [Roger Yang](people/roger-yang) (1), [Jeff Dasovich](people/jeff-dasovich) (1), [Philip Herman](people/philip-herman) (1), [Scott Gahn](people/scott-gahn) (1), [John Henderson](people/john-henderson) (1).",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2001-03-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-cordell",
+    "name": "Greg Cordell",
+    "email": "greg.cordell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

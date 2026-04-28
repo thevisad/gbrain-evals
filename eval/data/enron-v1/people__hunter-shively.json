@@ -1,0 +1,14 @@
+{
+  "slug": "people/hunter-shively",
+  "type": "person",
+  "title": "Hunter Shively",
+  "compiled_truth": "Hunter Shively is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-19), Hunter Shively sent 591 and received 591 emails, totalling 1182 interactions. Top correspondents: [Airam Arteaga](people/airam-arteaga) (131), [Chris Gaskill](people/chris-gaskill) (34), [Richard Tomaski](people/richard-tomaski) (21), [John Lavorato](people/john-lavorato) (17), [Geoff Storey](people/geoff-storey) (16). Mailbox folders observed: _sent_mail, deleted_items, inbox, old_messages, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hunter-shively",
+    "name": "Hunter Shively",
+    "email": "hunter.shively@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

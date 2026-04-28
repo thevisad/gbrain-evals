@@ -1,0 +1,14 @@
+{
+  "slug": "people/diann-huddleson",
+  "type": "person",
+  "title": "Diann Huddleson",
+  "compiled_truth": "Diann Huddleson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-20 to 2002-03-29), Diann Huddleson sent 25 and received 141 emails, totalling 166 interactions. Top correspondents: [D  Steffes](people/d-steffes) (15), [Jeff Dasovich](people/jeff-dasovich) (12), [Evan Hughes](people/evan-hughes) (10), [Tom Riley](people/tom-riley) (5), [Vicki Sharp](people/vicki-sharp) (5). Mailbox folders observed: california_issues, credit_issues, deleted_items, inbox.",
+  "timeline": "- **1999-10-20** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diann-huddleson",
+    "name": "Diann Huddleson",
+    "email": "diann.huddleson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

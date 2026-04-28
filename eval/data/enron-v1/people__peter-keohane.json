@@ -1,0 +1,14 @@
+{
+  "slug": "people/peter-keohane",
+  "type": "person",
+  "title": "Peter Keohane",
+  "compiled_truth": "Peter Keohane is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-08 to 2002-02-06), Peter Keohane sent 136 and received 1199 emails, totalling 1335 interactions. Top correspondents: [Greg Johnston](people/greg-johnston) (38), [Mark Haedicke](people/mark-haedicke) (36), [Sharon Crawford](people/sharon-crawford) (32), [Tana Jones](people/tana-jones) (31), [Rob Milnthorp](people/rob-milnthorp) (30). Mailbox folders observed: _americas, albertappas, archive, deleted_items, inbox.",
+  "timeline": "- **1999-01-08** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peter-keohane",
+    "name": "Peter Keohane",
+    "email": "peter.keohane@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

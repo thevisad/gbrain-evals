@@ -1,0 +1,14 @@
+{
+  "slug": "people/jsturgeon-whitecase",
+  "type": "person",
+  "title": "Jsturgeon",
+  "compiled_truth": "Jsturgeon is an external contact at [Whitecase](companies/whitecase). Over the corpus period (2001-01-30 to 2001-06-11), Jsturgeon sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2001-01-30** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jsturgeon-whitecase",
+    "name": "Jsturgeon",
+    "email": "jsturgeon@whitecase.com",
+    "primary_affiliation": "companies/whitecase"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bsl-cpuc",
+  "type": "person",
+  "title": "Bsl",
+  "compiled_truth": "Bsl is an external contact at [Cpuc](companies/cpuc). Over the corpus period (2000-04-28 to 2001-05-10), Bsl sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **2000-04-28** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bsl-cpuc",
+    "name": "Bsl",
+    "email": "bsl@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

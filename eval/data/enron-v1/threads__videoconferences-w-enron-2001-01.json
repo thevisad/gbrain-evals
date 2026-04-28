@@ -1,0 +1,41 @@
+{
+  "slug": "threads/videoconferences-w-enron-2001-01",
+  "type": "meeting",
+  "title": "Thread: Videoconferences W/ Enron",
+  "compiled_truth": "Email thread: \"Videoconferences W/ Enron\". Ran from 2001-01-23 to 2001-01-24 with 7 messages. Participants: [Bassalo](people/bassalo-wharton), [Bhallat](people/bhallat-wharton), [Camoglum](people/camoglum-wharton), [Christie Patrick](people/christie-patrick), [Clayton Degiacinto Wg02](people/clayton-degiacinto-wg02-wharton), [Dennis Feerick Wg02](people/dennis-feerick-wg02-wharton), [Edsono](people/edsono-wharton), [Fap](people/fap-management).",
+  "timeline": "- **2001-01-23** | Thread begins: videoconferences w/ enron\n- **2001-01-24** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/videoconferences-w-enron-2001-01",
+    "attendees": [
+      "people/bassalo-wharton",
+      "people/bhallat-wharton",
+      "people/camoglum-wharton",
+      "people/christie-patrick",
+      "people/clayton-degiacinto-wg02-wharton",
+      "people/dennis-feerick-wg02-wharton",
+      "people/edsono-wharton",
+      "people/fap-management",
+      "people/gustavop-wharton",
+      "people/hethorne-wharton",
+      "people/jack-rejtman-wg02-wharton",
+      "people/kenneth-parkhill",
+      "people/levent86-wharton",
+      "people/li-sun",
+      "people/mallikd-wharton",
+      "people/marc-cummins-wg02-wharton",
+      "people/melinda-mccarty",
+      "people/mhenahan-wharton",
+      "people/mvittal-wharton",
+      "people/nicholas-levitt-wg02-wharton",
+      "people/singhjai-wharton",
+      "people/stephen-lessar-wg02-wharton",
+      "people/thomas-wharton",
+      "people/vince-kaminski",
+      "people/vincent-chen-wg02-wharton",
+      "people/vkamins",
+      "people/whitselk-wharton"
+    ],
+    "date": "2001-01-23"
+  }
+}

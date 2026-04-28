@@ -1,0 +1,14 @@
+{
+  "slug": "people/habiba-ewing",
+  "type": "person",
+  "title": "Habiba Ewing",
+  "compiled_truth": "Habiba Ewing is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-04 to 2002-01-11), Habiba Ewing sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2001-09-04** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/habiba-ewing",
+    "name": "Habiba Ewing",
+    "email": "habiba.ewing@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

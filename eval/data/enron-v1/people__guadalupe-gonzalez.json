@@ -1,0 +1,14 @@
+{
+  "slug": "people/guadalupe-gonzalez",
+  "type": "person",
+  "title": "Guadalupe Gonzalez",
+  "compiled_truth": "Guadalupe Gonzalez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-22 to 2001-09-26), Guadalupe Gonzalez sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-12-22** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/guadalupe-gonzalez",
+    "name": "Guadalupe Gonzalez",
+    "email": "guadalupe.gonzalez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

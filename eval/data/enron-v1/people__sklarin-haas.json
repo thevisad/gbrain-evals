@@ -1,0 +1,14 @@
+{
+  "slug": "people/sklarin-haas",
+  "type": "person",
+  "title": "Sklarin",
+  "compiled_truth": "Sklarin is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-11-07), Sklarin sent 0 and received 58 emails, totalling 58 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sklarin-haas",
+    "name": "Sklarin",
+    "email": "sklarin@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

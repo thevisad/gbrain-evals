@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-anderson",
+  "type": "person",
+  "title": "Matt Anderson",
+  "compiled_truth": "Matt Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-11-13), Matt Anderson sent 4 and received 12 emails, totalling 16 interactions. Top correspondents: [A  Shankman](people/a-shankman) (4), [Patrick Danaher](people/patrick-danaher) (3), [Robert Fuller](people/robert-fuller) (3), [Robert Bogucki](people/robert-bogucki) (3), [Homer Lin](people/homer-lin) (3). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-anderson",
+    "name": "Matt Anderson",
+    "email": "matt.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

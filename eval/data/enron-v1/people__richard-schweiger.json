@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-schweiger",
+  "type": "person",
+  "title": "Richard Schweiger",
+  "compiled_truth": "Richard Schweiger is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-01-30), Richard Schweiger sent 0 and received 53 emails, totalling 53 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-schweiger",
+    "name": "Richard Schweiger",
+    "email": "richard.schweiger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

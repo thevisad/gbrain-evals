@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-urban",
+  "type": "person",
+  "title": "Larry Urban",
+  "compiled_truth": "Larry Urban is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2002-03-25), Larry Urban sent 0 and received 53 emails, totalling 53 interactions.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-urban",
+    "name": "Larry Urban",
+    "email": "larry.urban@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

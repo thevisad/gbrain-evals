@@ -1,0 +1,14 @@
+{
+  "slug": "people/neil-carpino",
+  "type": "person",
+  "title": "Neil Carpino",
+  "compiled_truth": "Neil Carpino is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-30 to 2002-05-06), Neil Carpino sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [S  Shively](people/s-shively) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/neil-carpino",
+    "name": "Neil Carpino",
+    "email": "neil_carpino@enron.net",
+    "primary_affiliation": "companies/enron"
+  }
+}

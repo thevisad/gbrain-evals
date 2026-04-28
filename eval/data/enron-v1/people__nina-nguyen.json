@@ -1,0 +1,14 @@
+{
+  "slug": "people/nina-nguyen",
+  "type": "person",
+  "title": "Nina Nguyen",
+  "compiled_truth": "Nina Nguyen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-11-14), Nina Nguyen sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nina-nguyen",
+    "name": "Nina Nguyen",
+    "email": "nina.nguyen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

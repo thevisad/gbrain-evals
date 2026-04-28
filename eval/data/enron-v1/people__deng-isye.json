@@ -1,0 +1,14 @@
+{
+  "slug": "people/deng-isye",
+  "type": "person",
+  "title": "Deng",
+  "compiled_truth": "Deng is an external contact at [Isye](companies/isye). Over the corpus period (2000-04-24 to 2002-01-16), Deng sent 13 and received 21 emails, totalling 34 interactions. Top correspondents: [Vince J Kaminski](people/vince-j-kaminski) (7), [J Kaminski](people/j-kaminski) (4), [Deng](people/deng-isye) (3), [Vkamins](people/vkamins) (2), [Shirley Crenshaw](people/shirley-crenshaw) (2).",
+  "timeline": "- **2000-04-24** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deng-isye",
+    "name": "Deng",
+    "email": "deng@isye.gatech.edu",
+    "primary_affiliation": "companies/isye"
+  }
+}

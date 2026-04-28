@@ -1,0 +1,14 @@
+{
+  "slug": "people/sriram",
+  "type": "person",
+  "title": " Sriram",
+  "compiled_truth": "Sriram is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-22 to 2002-01-15),  Sriram sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-10-22** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sriram",
+    "name": " Sriram",
+    "email": ".sriram@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/edie-leschber",
+  "type": "person",
+  "title": "Edie Leschber",
+  "compiled_truth": "Edie Leschber is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-13 to 2002-02-13), Edie Leschber sent 8 and received 59 emails, totalling 67 interactions. Top correspondents: [Faith Killen](people/faith-killen) (4), [Fred Lagrasta](people/fred-lagrasta) (4), [John Arnold](people/john-arnold) (4), [Frank Vickers](people/frank-vickers) (4), [Laura Luce](people/laura-luce) (4). Mailbox folders observed: budget, cfp, deleted_items, inbox.",
+  "timeline": "- **1999-05-13** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edie-leschber",
+    "name": "Edie Leschber",
+    "email": "edie.leschber@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

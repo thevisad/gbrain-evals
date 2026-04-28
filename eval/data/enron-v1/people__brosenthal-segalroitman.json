@@ -1,0 +1,14 @@
+{
+  "slug": "people/brosenthal-segalroitman",
+  "type": "person",
+  "title": "Brosenthal",
+  "compiled_truth": "Brosenthal is an external contact at [Segalroitman](companies/segalroitman). Over the corpus period (2001-10-18 to 2001-10-18), Brosenthal sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brosenthal-segalroitman",
+    "name": "Brosenthal",
+    "email": "brosenthal@segalroitman.com",
+    "primary_affiliation": "companies/segalroitman"
+  }
+}

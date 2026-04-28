@@ -1,0 +1,14 @@
+{
+  "slug": "people/sam-enochian",
+  "type": "person",
+  "title": "Sam Enochian",
+  "compiled_truth": "Sam Enochian is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-19 to 2001-11-08), Sam Enochian sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sam-enochian",
+    "name": "Sam Enochian",
+    "email": "sam.enochian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

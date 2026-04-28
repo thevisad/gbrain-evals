@@ -1,0 +1,14 @@
+{
+  "slug": "people/mickey-o-callaghan",
+  "type": "person",
+  "title": "Mickey O'Callaghan",
+  "compiled_truth": "Mickey O'Callaghan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-14 to 2001-11-27), Mickey O'Callaghan sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-05-14** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mickey-o-callaghan",
+    "name": "Mickey O'Callaghan",
+    "email": "mickey.o'callaghan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

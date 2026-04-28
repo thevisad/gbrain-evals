@@ -1,0 +1,14 @@
+{
+  "slug": "people/dmoorehead-pattonboggs",
+  "type": "person",
+  "title": "Dmoorehead",
+  "compiled_truth": "Dmoorehead is an external contact at [Pattonboggs](companies/pattonboggs). Over the corpus period (2000-05-02 to 2001-06-11), Dmoorehead sent 0 and received 45 emails, totalling 45 interactions.",
+  "timeline": "- **2000-05-02** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dmoorehead-pattonboggs",
+    "name": "Dmoorehead",
+    "email": "dmoorehead@pattonboggs.com",
+    "primary_affiliation": "companies/pattonboggs"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/christopher-daniel",
+  "type": "person",
+  "title": "Christopher Daniel",
+  "compiled_truth": "Christopher Daniel is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-10-19), Christopher Daniel sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christopher-daniel",
+    "name": "Christopher Daniel",
+    "email": "christopher.daniel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bonnie-baum",
+  "type": "person",
+  "title": "Bonnie Baum",
+  "compiled_truth": "Bonnie Baum is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-19 to 2001-05-22), Bonnie Baum sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bonnie-baum",
+    "name": "Bonnie Baum",
+    "email": "bonnie.baum@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

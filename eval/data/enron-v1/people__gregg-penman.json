@@ -1,0 +1,14 @@
+{
+  "slug": "people/gregg-penman",
+  "type": "person",
+  "title": "Gregg Penman",
+  "compiled_truth": "Gregg Penman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2002-03-21), Gregg Penman sent 79 and received 491 emails, totalling 570 interactions. Top correspondents: [Kay Mann](people/kay-mann) (55), [Laura Luce](people/laura-luce) (12), [Richard Tomaski](people/richard-tomaski) (8), [Jeffrey Hodge](people/jeffrey-hodge) (6), [Dan Hyvl](people/dan-hyvl) (6). Mailbox folders observed: deleted_items, inbox, pictures.",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gregg-penman",
+    "name": "Gregg Penman",
+    "email": "gregg.penman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

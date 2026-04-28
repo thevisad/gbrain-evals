@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-considine",
+  "type": "person",
+  "title": "Keith Considine",
+  "compiled_truth": "Keith Considine is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-23 to 2002-02-27), Keith Considine sent 20 and received 108 emails, totalling 128 interactions. Top correspondents: [Shona Wilson](people/shona-wilson) (12), [W  White](people/w-white) (12), [C  Gossett](people/c-gossett) (8), [Kristin Albrecht](people/kristin-albrecht) (7), [Sam Leuschen](people/sam-leuschen) (7). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **2001-08-23** | First recorded email in corpus\n- **2002-02-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-considine",
+    "name": "Keith Considine",
+    "email": "keith.considine@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

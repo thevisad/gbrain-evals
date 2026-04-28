@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-jenkins",
+  "type": "person",
+  "title": "Jason Jenkins",
+  "compiled_truth": "Jason Jenkins is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-10-15), Jason Jenkins sent 1 and received 24 emails, totalling 25 interactions. Top correspondents: [Jordan Marye](people/jordan-marye) (1), [Joseph Bertucci](people/joseph-bertucci) (1), [Brad Jones](people/brad-jones) (1), [Kevin Murray](people/kevin-murray) (1), [Edward Brady](people/edward-brady) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-jenkins",
+    "name": "Jason Jenkins",
+    "email": "jason.jenkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

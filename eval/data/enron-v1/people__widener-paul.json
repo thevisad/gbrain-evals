@@ -1,0 +1,14 @@
+{
+  "slug": "people/widener-paul",
+  "type": "person",
+  "title": "Widener Paul",
+  "compiled_truth": "Widener Paul is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-07 to 2002-01-02), Widener Paul sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-06-07** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/widener-paul",
+    "name": "Widener Paul",
+    "email": "widener.paul@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

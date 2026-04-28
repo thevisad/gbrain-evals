@@ -1,0 +1,14 @@
+{
+  "slug": "people/theresa-franklin",
+  "type": "person",
+  "title": "Theresa Franklin",
+  "compiled_truth": "Theresa Franklin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-23 to 2001-11-26), Theresa Franklin sent 3 and received 43 emails, totalling 46 interactions. Top correspondents: [Ellen Wallumrod](people/ellen-wallumrod) (2), [F  Smith](people/f-smith) (2), [Debra Perlingiere](people/debra-perlingiere) (2), [E  Dickson](people/e-dickson) (2), [John Singer](people/john-singer) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-04-23** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/theresa-franklin",
+    "name": "Theresa Franklin",
+    "email": "theresa.franklin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

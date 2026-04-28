@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-bruno-ferc",
+  "type": "person",
+  "title": "Kim Bruno",
+  "compiled_truth": "Kim Bruno is an external contact at [Ferc](companies/ferc). Over the corpus period (2000-06-14 to 2001-06-29), Kim Bruno sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-06-14** | First recorded email in corpus\n- **2001-06-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-bruno-ferc",
+    "name": "Kim Bruno",
+    "email": "kim.bruno@ferc.fed.us",
+    "primary_affiliation": "companies/ferc"
+  }
+}

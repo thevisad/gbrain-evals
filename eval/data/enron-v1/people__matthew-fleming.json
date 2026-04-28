@@ -1,0 +1,14 @@
+{
+  "slug": "people/matthew-fleming",
+  "type": "person",
+  "title": "Matthew Fleming",
+  "compiled_truth": "Matthew Fleming is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-03 to 2001-09-10), Matthew Fleming sent 2 and received 135 emails, totalling 137 interactions. Top correspondents: [Lcampbel](people/lcampbel) (1), [Brad Mckay](people/brad-mckay) (1).",
+  "timeline": "- **2000-04-03** | First recorded email in corpus\n- **2001-09-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matthew-fleming",
+    "name": "Matthew Fleming",
+    "email": "matthew.fleming@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

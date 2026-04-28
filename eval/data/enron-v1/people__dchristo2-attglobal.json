@@ -1,0 +1,14 @@
+{
+  "slug": "people/dchristo2-attglobal",
+  "type": "person",
+  "title": "Dchristo2",
+  "compiled_truth": "Dchristo2 is an external contact at [Attglobal](companies/attglobal). Over the corpus period (2001-03-02 to 2001-05-10), Dchristo2 sent 1 and received 7 emails, totalling 8 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (1).",
+  "timeline": "- **2001-03-02** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dchristo2-attglobal",
+    "name": "Dchristo2",
+    "email": "dchristo2@attglobal.net",
+    "primary_affiliation": "companies/attglobal"
+  }
+}

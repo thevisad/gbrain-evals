@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcculloch-colin",
+  "type": "person",
+  "title": "Mcculloch Colin",
+  "compiled_truth": "Mcculloch Colin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-08-21), Mcculloch Colin sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcculloch-colin",
+    "name": "Mcculloch Colin",
+    "email": "mcculloch.colin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

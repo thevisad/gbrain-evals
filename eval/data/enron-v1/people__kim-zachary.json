@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-zachary",
+  "type": "person",
+  "title": "Kim Zachary",
+  "compiled_truth": "Kim Zachary is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-18 to 2000-11-09), Kim Zachary sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **1999-05-18** | First recorded email in corpus\n- **2000-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-zachary",
+    "name": "Kim Zachary",
+    "email": "kim.zachary@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrea-bertone",
+  "type": "person",
+  "title": "Andrea Bertone",
+  "compiled_truth": "Andrea Bertone is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2000-08-15), Andrea Bertone sent 15 and received 116 emails, totalling 131 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (6), [Brent Hendry](people/brent-hendry) (4), [Remi Collonges](people/remi-collonges) (3), [Ricardo Lisboa](people/ricardo-lisboa) (2), [Mark Taylor](people/mark-taylor) (2).",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2000-08-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrea-bertone",
+    "name": "Andrea Bertone",
+    "email": "andrea.bertone@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

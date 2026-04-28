@@ -1,0 +1,29 @@
+{
+  "slug": "threads/hello-2001-04",
+  "type": "meeting",
+  "title": "Thread: Hello",
+  "compiled_truth": "Email thread: \"Hello\". Ran from 2001-04-04 to 2001-05-02 with 16 messages. Participants: [Cpapish](people/cpapish-sempratrading), [H  Lewis](people/h-lewis), [Jennifer Lamprecht](people/jennifer-lamprecht-oxy), [Joe Stepenovitch](people/joe-stepenovitch), [Kim Ward](people/kim-ward), [Kimberly Watson](people/kimberly-watson), [Krweaber](people/krweaber-pfdj), [Louise Kitchen](people/louise-kitchen).",
+  "timeline": "- **2001-04-04** | Thread begins: hello\n- **2001-05-02** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/hello-2001-04",
+    "attendees": [
+      "people/cpapish-sempratrading",
+      "people/h-lewis",
+      "people/jennifer-lamprecht-oxy",
+      "people/joe-stepenovitch",
+      "people/kim-ward",
+      "people/kimberly-watson",
+      "people/krweaber-pfdj",
+      "people/louise-kitchen",
+      "people/molly-magee",
+      "people/monique-sanchez",
+      "people/pinnamaneni-krishnarao",
+      "people/rahil-jafry",
+      "people/scott",
+      "people/stanton-scott-cinergy",
+      "people/vince-kaminski"
+    ],
+    "date": "2001-04-04"
+  }
+}

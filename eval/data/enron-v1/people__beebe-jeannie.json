@@ -1,0 +1,14 @@
+{
+  "slug": "people/beebe-jeannie",
+  "type": "person",
+  "title": "Beebe Jeannie",
+  "compiled_truth": "Beebe Jeannie is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-05 to 2002-01-30), Beebe Jeannie sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-10-05** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beebe-jeannie",
+    "name": "Beebe Jeannie",
+    "email": "beebe.jeannie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

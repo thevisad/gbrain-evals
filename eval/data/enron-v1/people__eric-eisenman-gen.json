@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-eisenman-gen",
+  "type": "person",
+  "title": "Eric Eisenman",
+  "compiled_truth": "Eric Eisenman is an external contact at [Gen](companies/gen). Over the corpus period (2000-11-27 to 2001-07-31), Eric Eisenman sent 0 and received 121 emails, totalling 121 interactions.",
+  "timeline": "- **2000-11-27** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-eisenman-gen",
+    "name": "Eric Eisenman",
+    "email": "eric.eisenman@gen.pge.com",
+    "primary_affiliation": "companies/gen"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-castillo",
+  "type": "person",
+  "title": "Michael Castillo",
+  "compiled_truth": "Michael Castillo is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-08 to 2002-02-13), Michael Castillo sent 1 and received 24 emails, totalling 25 interactions. Top correspondents: [M  Love](people/m-love) (1), [John Valdes](people/john-valdes) (1). Mailbox folders observed: east_desk.",
+  "timeline": "- **2001-06-08** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-castillo",
+    "name": "Michael Castillo",
+    "email": "michael.castillo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

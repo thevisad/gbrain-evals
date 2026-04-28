@@ -1,0 +1,14 @@
+{
+  "slug": "people/rosalee-fleming",
+  "type": "person",
+  "title": "Rosalee Fleming",
+  "compiled_truth": "Rosalee Fleming is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-25), Rosalee Fleming sent 572 and received 575 emails, totalling 1147 interactions. Top correspondents: [Steven Kean](people/steven-kean) (33), [Greg Whalley](people/greg-whalley) (27), [Kay Chapman](people/kay-chapman) (27), [Stanley Horton](people/stanley-horton) (26), [Cindy Stark](people/cindy-stark) (26). Mailbox folders observed: _sent, calendar, california, deleted_items, enron_advisonry_council, greenhouse_gas_business.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rosalee-fleming",
+    "name": "Rosalee Fleming",
+    "email": "rosalee.fleming@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

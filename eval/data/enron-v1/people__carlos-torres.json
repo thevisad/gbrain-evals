@@ -1,0 +1,14 @@
+{
+  "slug": "people/carlos-torres",
+  "type": "person",
+  "title": "Carlos Torres",
+  "compiled_truth": "Carlos Torres is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-18 to 2002-02-21), Carlos Torres sent 2 and received 97 emails, totalling 99 interactions. Top correspondents: [Chris Dorland](people/chris-dorland) (1), [Chelsea Bardal](people/chelsea-bardal) (1), [Chad Bruce](people/chad-bruce) (1), [Ian Cooke](people/ian-cooke) (1), [F Cooper](people/f-cooper) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-10-18** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carlos-torres",
+    "name": "Carlos Torres",
+    "email": "carlos.torres@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

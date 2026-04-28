@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-rice-pacificorp",
+  "type": "person",
+  "title": "Paul Rice",
+  "compiled_truth": "Paul Rice is an external contact at [Pacificorp](companies/pacificorp). Over the corpus period (2001-04-06 to 2001-10-15), Paul Rice sent 4 and received 1 emails, totalling 5 interactions. Top correspondents: [Isas](people/isas-wscc) (4).",
+  "timeline": "- **2001-04-06** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-rice-pacificorp",
+    "name": "Paul Rice",
+    "email": "paul.rice@pacificorp.com",
+    "primary_affiliation": "companies/pacificorp"
+  }
+}

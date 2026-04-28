@@ -1,0 +1,14 @@
+{
+  "slug": "people/hosman-flash",
+  "type": "person",
+  "title": "Hosman",
+  "compiled_truth": "Hosman is an external contact at [Flash](companies/flash). Over the corpus period (2000-09-09 to 2000-11-16), Hosman sent 0 and received 44 emails, totalling 44 interactions.",
+  "timeline": "- **2000-09-09** | First recorded email in corpus\n- **2000-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hosman-flash",
+    "name": "Hosman",
+    "email": "hosman@flash.net",
+    "primary_affiliation": "companies/flash"
+  }
+}

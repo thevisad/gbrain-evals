@@ -1,0 +1,14 @@
+{
+  "slug": "people/dragcraps-aol",
+  "type": "person",
+  "title": "Dragcraps",
+  "compiled_truth": "Dragcraps is an external contact at [AOL](companies/aol). Over the corpus period (2000-11-09 to 2000-12-20), Dragcraps sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2000-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dragcraps-aol",
+    "name": "Dragcraps",
+    "email": "dragcraps@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

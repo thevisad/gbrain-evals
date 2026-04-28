@@ -1,0 +1,14 @@
+{
+  "slug": "people/s-shively",
+  "type": "person",
+  "title": "S  Shively",
+  "compiled_truth": "S  Shively is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-28 to 2002-02-25), S  Shively sent 164 and received 783 emails, totalling 947 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (29), [Geoff Storey](people/geoff-storey) (13), [Chris Gaskill](people/chris-gaskill) (12), [Mike Grigsby](people/mike-grigsby) (10), [A  Martin](people/a-martin) (9). Mailbox folders observed: 2., _americas, calendar, central, contacts, deleted_items.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/s-shively",
+    "name": "S  Shively",
+    "email": "s..shively@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

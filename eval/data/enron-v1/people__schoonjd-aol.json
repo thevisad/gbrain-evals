@@ -1,0 +1,14 @@
+{
+  "slug": "people/schoonjd-aol",
+  "type": "person",
+  "title": "Schoonjd",
+  "compiled_truth": "Schoonjd is an external contact at [AOL](companies/aol). Over the corpus period (2001-03-12 to 2001-04-30), Schoonjd sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/schoonjd-aol",
+    "name": "Schoonjd",
+    "email": "schoonjd@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

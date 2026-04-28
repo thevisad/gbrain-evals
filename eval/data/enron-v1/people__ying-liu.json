@@ -1,0 +1,14 @@
+{
+  "slug": "people/ying-liu",
+  "type": "person",
+  "title": "Ying Liu",
+  "compiled_truth": "Ying Liu is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-01 to 2001-11-27), Ying Liu sent 5 and received 31 emails, totalling 36 interactions. Top correspondents: [John Griffith](people/john-griffith) (4), [Heather Kendall](people/heather-kendall) (2), [Douglas Clifford](people/douglas-clifford) (1), [Garrick Hill](people/garrick-hill) (1), [John Hodge](people/john-hodge) (1).",
+  "timeline": "- **2000-11-01** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ying-liu",
+    "name": "Ying Liu",
+    "email": "ying.liu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lowell-bezanis",
+  "type": "person",
+  "title": "Lowell Bezanis",
+  "compiled_truth": "Lowell Bezanis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-30 to 2001-10-15), Lowell Bezanis sent 1 and received 21 emails, totalling 22 interactions. Top correspondents: [Courtney Campbell](people/courtney-campbell) (1), [George Thomas](people/george-thomas) (1), [Mingcheng Lian](people/mingcheng-lian) (1), [Denver Plachy](people/denver-plachy) (1), [Matt Smith](people/matt-smith) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-03-30** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lowell-bezanis",
+    "name": "Lowell Bezanis",
+    "email": "lowell.bezanis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

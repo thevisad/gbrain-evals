@@ -1,0 +1,14 @@
+{
+  "slug": "people/vjw-cleanpower",
+  "type": "person",
+  "title": "Vjw",
+  "compiled_truth": "Vjw is an external contact at [Cleanpower](companies/cleanpower). Over the corpus period (2000-08-10 to 2001-12-21), Vjw sent 22 and received 254 emails, totalling 276 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (18), [Jdasovic](people/jdasovic) (4), [Flak2](people/flak2-aol) (2), [Rick Counihan](people/rick-counihan-greenmountain) (1).",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vjw-cleanpower",
+    "name": "Vjw",
+    "email": "vjw@cleanpower.org",
+    "primary_affiliation": "companies/cleanpower"
+  }
+}

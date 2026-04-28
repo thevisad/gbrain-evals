@@ -1,0 +1,14 @@
+{
+  "slug": "people/dmperlman-powersrc",
+  "type": "person",
+  "title": "Dmperlman",
+  "compiled_truth": "Dmperlman is an external contact at [Powersrc](companies/powersrc). Over the corpus period (1999-12-01 to 2001-05-03), Dmperlman sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **1999-12-01** | First recorded email in corpus\n- **2001-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dmperlman-powersrc",
+    "name": "Dmperlman",
+    "email": "dmperlman@powersrc.com",
+    "primary_affiliation": "companies/powersrc"
+  }
+}

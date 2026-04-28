@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-anderson",
+  "type": "person",
+  "title": "Robert Anderson",
+  "compiled_truth": "Robert Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2002-05-22), Robert Anderson sent 2 and received 124 emails, totalling 126 interactions. Top correspondents: [Sean Crandall](people/sean-crandall) (1), [Cooper Richey](people/cooper-richey) (1). Mailbox folders observed: inbox, infrastructure.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2002-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-anderson",
+    "name": "Robert Anderson",
+    "email": "robert.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

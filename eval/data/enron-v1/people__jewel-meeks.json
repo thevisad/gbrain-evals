@@ -1,0 +1,14 @@
+{
+  "slug": "people/jewel-meeks",
+  "type": "person",
+  "title": "Jewel Meeks",
+  "compiled_truth": "Jewel Meeks is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2000-09-20), Jewel Meeks sent 2 and received 8 emails, totalling 10 interactions. Top correspondents: [Kal Abdalla](people/kal-abdalla) (2), [Cindy Adams](people/cindy-adams) (2), [Tracy Adams](people/tracy-adams) (2), [Jennifer Adams](people/jennifer-adams) (2), [Brad Alford](people/brad-alford) (2).",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2000-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jewel-meeks",
+    "name": "Jewel Meeks",
+    "email": "jewel.meeks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/geneva-holland",
+  "type": "person",
+  "title": "Geneva Holland",
+  "compiled_truth": "Geneva Holland is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-02 to 2001-06-04), Geneva Holland sent 3 and received 33 emails, totalling 36 interactions. Top correspondents: [Susan Scott](people/susan-scott) (2), [Clement Abrams](people/clement-abrams) (1), [Denise Almoina](people/denise-almoina) (1), [Jim Armogida](people/jim-armogida) (1), [Alan Aronowitz](people/alan-aronowitz) (1).",
+  "timeline": "- **2000-05-02** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/geneva-holland",
+    "name": "Geneva Holland",
+    "email": "geneva.holland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

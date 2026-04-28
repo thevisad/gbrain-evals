@@ -1,0 +1,14 @@
+{
+  "slug": "people/west-ga",
+  "type": "person",
+  "title": "West Ga",
+  "compiled_truth": "West Ga is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-31 to 2000-10-09), West Ga sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-07-31** | First recorded email in corpus\n- **2000-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/west-ga",
+    "name": "West Ga",
+    "email": "west.ga@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

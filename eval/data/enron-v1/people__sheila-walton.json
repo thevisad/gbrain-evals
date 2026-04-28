@@ -1,0 +1,14 @@
+{
+  "slug": "people/sheila-walton",
+  "type": "person",
+  "title": "Sheila Walton",
+  "compiled_truth": "Sheila Walton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-14 to 2002-01-29), Sheila Walton sent 24 and received 175 emails, totalling 199 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (7), [James Derrick](people/james-derrick) (6), [Rick Buy](people/rick-buy) (5), [Rob Walls](people/rob-walls) (4), [Mark Haedicke](people/mark-haedicke) (4). Mailbox folders observed: deleted_items, hr, inbox.",
+  "timeline": "- **1999-07-14** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sheila-walton",
+    "name": "Sheila Walton",
+    "email": "sheila.walton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

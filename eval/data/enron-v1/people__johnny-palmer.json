@@ -1,0 +1,14 @@
+{
+  "slug": "people/johnny-palmer",
+  "type": "person",
+  "title": "Johnny Palmer",
+  "compiled_truth": "Johnny Palmer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-13 to 2001-12-03), Johnny Palmer sent 39 and received 86 emails, totalling 125 interactions. Top correspondents: [Don Baughman](people/don-baughman) (34), [Juan Hernandez](people/juan-hernandez) (23), [Kim Melodick](people/kim-melodick) (15), [Lloyd Will](people/lloyd-will) (9), [Qiana Nolly](people/qiana-nolly) (9). Mailbox folders observed: deleted_items, enron_power, inbox, power.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/johnny-palmer",
+    "name": "Johnny Palmer",
+    "email": "johnny.palmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/teseo-bergoglio",
+  "type": "person",
+  "title": "Teseo Bergoglio",
+  "compiled_truth": "Teseo Bergoglio is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-17 to 2001-12-03), Teseo Bergoglio sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2001-08-17** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teseo-bergoglio",
+    "name": "Teseo Bergoglio",
+    "email": "teseo.bergoglio@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/perry-frazier",
+  "type": "person",
+  "title": "Perry Frazier",
+  "compiled_truth": "Perry Frazier is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-24 to 2002-03-25), Perry Frazier sent 44 and received 274 emails, totalling 318 interactions. Top correspondents: [Michelle Lokay](people/michelle-lokay) (28), [Dennis Lee](people/dennis-lee) (14), [Lorraine Lindberg](people/lorraine-lindberg) (13), [Dennis Alters](people/dennis-alters) (9), [Kevin Hyatt](people/kevin-hyatt) (7). Mailbox folders observed: deleted_items, inbox, tw, tw_cas, tw_commercial_group, tw_projects.",
+  "timeline": "- **2000-05-24** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/perry-frazier",
+    "name": "Perry Frazier",
+    "email": "perry.frazier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

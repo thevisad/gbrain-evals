@@ -1,0 +1,14 @@
+{
+  "slug": "people/elio-tortolero",
+  "type": "person",
+  "title": "Elio Tortolero",
+  "compiled_truth": "Elio Tortolero is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-01 to 2001-11-26), Elio Tortolero sent 3 and received 37 emails, totalling 40 interactions. Top correspondents: [Paul Y'Barbo](people/paul-y-barbo) (2), [Stanley Horton](people/stanley-horton) (1), [A  Hughes](people/a-hughes) (1), [Mariella Mahan](people/mariella-mahan) (1), [Rod Hayslett](people/rod-hayslett) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-01** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elio-tortolero",
+    "name": "Elio Tortolero",
+    "email": "elio.tortolero@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

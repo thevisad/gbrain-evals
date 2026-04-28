@@ -1,0 +1,14 @@
+{
+  "slug": "people/wayne-kimball",
+  "type": "person",
+  "title": "Wayne Kimball",
+  "compiled_truth": "Wayne Kimball is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-20 to 2001-11-30), Wayne Kimball sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-12-20** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wayne-kimball",
+    "name": "Wayne Kimball",
+    "email": "wayne.kimball@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

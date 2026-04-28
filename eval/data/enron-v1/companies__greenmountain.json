@@ -1,0 +1,34 @@
+{
+  "slug": "companies/greenmountain",
+  "type": "company",
+  "title": "Greenmountain",
+  "compiled_truth": "Greenmountain is an external organization that appears in the Enron email corpus. Domain: greenmountain.com. Total email interactions with Enron: 434. Known contacts: 17 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (434 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/greenmountain",
+    "name": "Greenmountain",
+    "employees": [
+      "people/anders-glader-greenmountain",
+      "people/blunden-greenmountain",
+      "people/counihan-greenmountain",
+      "people/dennis-kelley-greenmountain",
+      "people/dennis-kelly-greenmountain",
+      "people/gillan-taddune-greenmountain",
+      "people/heidi-schrab-greenmountain",
+      "people/jason-gifford-greenmountain",
+      "people/john-gray-greenmountain",
+      "people/karen-oneill-greenmountain",
+      "people/marci-grossman-greenmountain",
+      "people/oneill-greenmountain",
+      "people/rick-counihan-greenmountain",
+      "people/t-rawls-greenmountain",
+      "people/tim-kelley-greenmountain",
+      "people/todd-kimbrough-greenmountain",
+      "people/tom-rawls-greenmountain"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

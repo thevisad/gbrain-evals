@@ -1,0 +1,14 @@
+{
+  "slug": "people/barry-vanderhorst",
+  "type": "person",
+  "title": "Barry Vanderhorst",
+  "compiled_truth": "Barry Vanderhorst is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-19 to 2002-05-28), Barry Vanderhorst sent 3 and received 45 emails, totalling 48 interactions. Top correspondents: [John Hodge](people/john-hodge) (2), [Mark Breese](people/mark-breese) (1), [Harry Kingerski](people/harry-kingerski) (1), [D  Steffes](people/d-steffes) (1). Mailbox folders observed: credit_issues, inbox.",
+  "timeline": "- **2001-10-19** | First recorded email in corpus\n- **2002-05-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barry-vanderhorst",
+    "name": "Barry Vanderhorst",
+    "email": "barry.vanderhorst@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

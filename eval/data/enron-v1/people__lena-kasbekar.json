@@ -1,0 +1,14 @@
+{
+  "slug": "people/lena-kasbekar",
+  "type": "person",
+  "title": "Lena Kasbekar",
+  "compiled_truth": "Lena Kasbekar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-10-17), Lena Kasbekar sent 1 and received 9 emails, totalling 10 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lena-kasbekar",
+    "name": "Lena Kasbekar",
+    "email": "lena.kasbekar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

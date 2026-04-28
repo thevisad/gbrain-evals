@@ -1,0 +1,14 @@
+{
+  "slug": "people/adam-overfield",
+  "type": "person",
+  "title": "Adam Overfield",
+  "compiled_truth": "Adam Overfield is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-08 to 2001-12-14), Adam Overfield sent 3 and received 22 emails, totalling 25 interactions. Top correspondents: [Jarek Astramowicz](people/jarek-astramowicz) (3), [Ed Cattigan](people/ed-cattigan) (3), [Krzysztof Forycki](people/krzysztof-forycki) (3), [Anne Edgley](people/anne-edgley) (3), [Lloyd Wantschek](people/lloyd-wantschek) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-06-08** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adam-overfield",
+    "name": "Adam Overfield",
+    "email": "adam.overfield@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-abbanat",
+  "type": "person",
+  "title": "Stephen Abbanat",
+  "compiled_truth": "Stephen Abbanat is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-18 to 2001-05-11), Stephen Abbanat sent 3 and received 31 emails, totalling 34 interactions. Top correspondents: [Tana Jones](people/tana-jones) (3), [Dcgrogan](people/dcgrogan-cmsenergy) (1), [Fred Philipson](people/fred-philipson) (1), [Dtadams](people/dtadams-cmsenergy) (1), [Mark Greenberg](people/mark-greenberg) (1).",
+  "timeline": "- **2000-10-18** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-abbanat",
+    "name": "Stephen Abbanat",
+    "email": "stephen.abbanat@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/garrettm-pdq",
+  "type": "person",
+  "title": "Garrettm",
+  "compiled_truth": "Garrettm is an external contact at [Pdq](companies/pdq). Over the corpus period (2000-12-04 to 2001-08-21), Garrettm sent 2 and received 0 emails, totalling 2 interactions. Top correspondents: [Undisclosed Recipients](people/undisclosed-recipients-mailman) (1), [Zerke Fred](people/zerke-fred) (1), [Wychoff Norman](people/wychoff-norman) (1), [Wooten Odis](people/wooten-odis) (1), [Womack David](people/womack-david) (1).",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2001-08-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/garrettm-pdq",
+    "name": "Garrettm",
+    "email": "garrettm@pdq.net",
+    "primary_affiliation": "companies/pdq"
+  }
+}

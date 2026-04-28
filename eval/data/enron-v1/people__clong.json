@@ -1,0 +1,14 @@
+{
+  "slug": "people/clong",
+  "type": "person",
+  "title": "Clong",
+  "compiled_truth": "Clong is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-15 to 2001-04-17), Clong sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus\n- **2001-04-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clong",
+    "name": "Clong",
+    "email": "clong@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

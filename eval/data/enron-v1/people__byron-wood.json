@@ -1,0 +1,14 @@
+{
+  "slug": "people/byron-wood",
+  "type": "person",
+  "title": "Byron Wood",
+  "compiled_truth": "Byron Wood is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-25 to 2002-03-25), Byron Wood sent 0 and received 73 emails, totalling 73 interactions.",
+  "timeline": "- **2000-02-25** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/byron-wood",
+    "name": "Byron Wood",
+    "email": "byron.wood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

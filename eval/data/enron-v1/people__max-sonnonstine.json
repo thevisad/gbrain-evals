@@ -1,0 +1,14 @@
+{
+  "slug": "people/max-sonnonstine",
+  "type": "person",
+  "title": "Max Sonnonstine",
+  "compiled_truth": "Max Sonnonstine is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-06 to 2002-03-07), Max Sonnonstine sent 27 and received 106 emails, totalling 133 interactions. Top correspondents: [Marie Heard](people/marie-heard) (13), [Stephanie Panus](people/stephanie-panus) (8), [Samantha Boyd](people/samantha-boyd) (8), [Susan Bailey](people/susan-bailey) (8), [ Williams](people/williams) (5). Mailbox folders observed: confirms___hickerson, deleted_items, inbox.",
+  "timeline": "- **2001-07-06** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/max-sonnonstine",
+    "name": "Max Sonnonstine",
+    "email": "max.sonnonstine@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

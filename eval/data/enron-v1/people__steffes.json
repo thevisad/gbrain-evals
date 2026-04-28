@@ -1,0 +1,14 @@
+{
+  "slug": "people/steffes",
+  "type": "person",
+  "title": "Steffes",
+  "compiled_truth": "Steffes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-31 to 2001-06-07), Steffes sent 9 and received 1 emails, totalling 10 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (9), [David Delainey](people/david-delainey) (8), [Richard Shapiro](people/richard-shapiro) (8), [Alan Comnes](people/alan-comnes) (6), [H  Foster](people/h-foster) (6). Mailbox folders observed: california, deleted_items.",
+  "timeline": "- **2000-07-31** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steffes",
+    "name": "Steffes",
+    "email": "steffes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

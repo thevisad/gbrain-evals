@@ -1,0 +1,14 @@
+{
+  "slug": "people/info-orionenergyservices",
+  "type": "person",
+  "title": "Info",
+  "compiled_truth": "Info is an external contact at [Orionenergyservices](companies/orionenergyservices). Over the corpus period (2001-05-03 to 2001-09-11), Info sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-05-03** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/info-orionenergyservices",
+    "name": "Info",
+    "email": "info@orionenergyservices.com",
+    "primary_affiliation": "companies/orionenergyservices"
+  }
+}

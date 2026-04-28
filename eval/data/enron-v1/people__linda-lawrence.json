@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-lawrence",
+  "type": "person",
+  "title": "Linda Lawrence",
+  "compiled_truth": "Linda Lawrence is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-17 to 2001-07-20), Linda Lawrence sent 15 and received 111 emails, totalling 126 interactions. Top correspondents: [Christi Nicolay](people/christi-nicolay) (9), [Steven Kean](people/steven-kean) (9), [Mary Hain](people/mary-hain) (7), [Elizabeth Linnell](people/elizabeth-linnell) (5), [Susan Mara](people/susan-mara) (4). Mailbox folders observed: rto.",
+  "timeline": "- **2000-01-17** | First recorded email in corpus\n- **2001-07-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-lawrence",
+    "name": "Linda Lawrence",
+    "email": "linda.lawrence@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

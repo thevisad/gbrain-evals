@@ -1,0 +1,14 @@
+{
+  "slug": "people/iris-mack",
+  "type": "person",
+  "title": "Iris Mack",
+  "compiled_truth": "Iris Mack is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-05 to 2001-12-05), Iris Mack sent 61 and received 190 emails, totalling 251 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (40), [Amitava Dhar](people/amitava-dhar) (24), [Vasant Shanbhogue](people/vasant-shanbhogue) (23), [Mike Mumford](people/mike-mumford) (16), [Ben Parsons](people/ben-parsons) (14). Mailbox folders observed: _americas, c, credit, deleted_items, enron_power, inbox.",
+  "timeline": "- **2001-03-05** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/iris-mack",
+    "name": "Iris Mack",
+    "email": "iris.mack@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

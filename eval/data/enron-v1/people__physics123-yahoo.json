@@ -1,0 +1,14 @@
+{
+  "slug": "people/physics123-yahoo",
+  "type": "person",
+  "title": "Physics123",
+  "compiled_truth": "Physics123 is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-07-28 to 2001-11-13), Physics123 sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/physics123-yahoo",
+    "name": "Physics123",
+    "email": "physics123@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

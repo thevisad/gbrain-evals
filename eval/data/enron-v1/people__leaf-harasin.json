@@ -1,0 +1,14 @@
+{
+  "slug": "people/leaf-harasin",
+  "type": "person",
+  "title": "Leaf Harasin",
+  "compiled_truth": "Leaf Harasin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-01-02), Leaf Harasin sent 6 and received 1926 emails, totalling 1932 interactions. Top correspondents: [Shift Portland](people/shift-portland) (4), [Mark Guzman](people/mark-guzman) (1), [Portland Shift](people/portland-shift) (1). Mailbox folders observed: inbox, read.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leaf-harasin",
+    "name": "Leaf Harasin",
+    "email": "leaf.harasin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

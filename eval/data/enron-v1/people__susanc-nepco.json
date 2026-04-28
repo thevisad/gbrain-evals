@@ -1,0 +1,14 @@
+{
+  "slug": "people/susanc-nepco",
+  "type": "person",
+  "title": "Susanc",
+  "compiled_truth": "Susanc is an external contact at [Nepco](companies/nepco). Over the corpus period (2000-11-02 to 2000-11-03), Susanc sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susanc-nepco",
+    "name": "Susanc",
+    "email": "susanc@nepco.com",
+    "primary_affiliation": "companies/nepco"
+  }
+}

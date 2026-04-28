@@ -1,0 +1,14 @@
+{
+  "slug": "people/renee-perry",
+  "type": "person",
+  "title": "Renee Perry",
+  "compiled_truth": "Renee Perry is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-31 to 2002-02-14), Renee Perry sent 3 and received 147 emails, totalling 150 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (3), [Larry Berger](people/larry-berger) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-31** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/renee-perry",
+    "name": "Renee Perry",
+    "email": "renee.perry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

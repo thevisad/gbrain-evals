@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-caltax",
+  "type": "person",
+  "title": "Dave",
+  "compiled_truth": "Dave is an external contact at [Caltax](companies/caltax). Over the corpus period (2001-04-12 to 2001-05-23), Dave sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-04-12** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-caltax",
+    "name": "Dave",
+    "email": "dave@caltax.org",
+    "primary_affiliation": "companies/caltax"
+  }
+}

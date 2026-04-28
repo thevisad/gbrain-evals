@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-morris",
+  "type": "person",
+  "title": "Michael Morris",
+  "compiled_truth": "Michael Morris is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-12-06), Michael Morris sent 9 and received 197 emails, totalling 206 interactions. Top correspondents: [Martin Cuilla](people/martin-cuilla) (5), [Daren Farmer](people/daren-farmer) (3), [Susan Smith](people/susan-smith) (3), [Melissa Graves](people/melissa-graves) (2), [Chriscokinos](people/chriscokinos-compuserve) (2). Mailbox folders observed: 10_fantasy, wellhead.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-morris",
+    "name": "Michael Morris",
+    "email": "michael.morris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

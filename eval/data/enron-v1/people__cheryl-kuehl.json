@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheryl-kuehl",
+  "type": "person",
+  "title": "Cheryl Kuehl",
+  "compiled_truth": "Cheryl Kuehl is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2001-11-03), Cheryl Kuehl sent 12 and received 32 emails, totalling 44 interactions. Top correspondents: [Charlene Jackson](people/charlene-jackson) (3), [Kevin Presto](people/kevin-presto) (2), [Sally Beck](people/sally-beck) (2), [Jana Giovannini](people/jana-giovannini) (2), [Teresa Bosien](people/teresa-bosien) (2).",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2001-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheryl-kuehl",
+    "name": "Cheryl Kuehl",
+    "email": "cheryl.kuehl@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

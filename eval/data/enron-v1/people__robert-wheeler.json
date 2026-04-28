@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-wheeler",
+  "type": "person",
+  "title": "Robert Wheeler",
+  "compiled_truth": "Robert Wheeler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-13 to 2001-06-22), Robert Wheeler sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2001-06-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-wheeler",
+    "name": "Robert Wheeler",
+    "email": "robert.wheeler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/patrice-mims",
+  "type": "person",
+  "title": "Patrice Mims",
+  "compiled_truth": "Patrice Mims is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-11), Patrice Mims sent 482 and received 244 emails, totalling 726 interactions. Top correspondents: [Nytasha Sims](people/nytasha-sims-dynegy) (62), [Mimsc](people/mimsc-ops) (33), [Nsds](people/nsds-dynegy) (30), [Edm1](people/edm1-home) (22), [Bkuchar](people/bkuchar-nicor) (20). Mailbox folders observed: _sent_mail, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patrice-mims",
+    "name": "Patrice Mims",
+    "email": "patrice.mims@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

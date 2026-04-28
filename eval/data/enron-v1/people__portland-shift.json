@@ -1,0 +1,14 @@
+{
+  "slug": "people/portland-shift",
+  "type": "person",
+  "title": "Portland Shift",
+  "compiled_truth": "Portland Shift is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-03 to 2001-05-02), Portland Shift sent 0 and received 376 emails, totalling 376 interactions.",
+  "timeline": "- **2000-08-03** | First recorded email in corpus\n- **2001-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/portland-shift",
+    "name": "Portland Shift",
+    "email": "portland.shift@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

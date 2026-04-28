@@ -1,0 +1,14 @@
+{
+  "slug": "people/essie-locklear",
+  "type": "person",
+  "title": "Essie Locklear",
+  "compiled_truth": "Essie Locklear is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-04 to 2001-11-13), Essie Locklear sent 3 and received 22 emails, totalling 25 interactions. Top correspondents: [Mary Fischer](people/mary-fischer) (3), [Mark Ng](people/mark-ng) (1), [John Swafford](people/john-swafford) (1), [Danny Wilson](people/danny-wilson) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/essie-locklear",
+    "name": "Essie Locklear",
+    "email": "essie.locklear@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

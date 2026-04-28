@@ -1,0 +1,14 @@
+{
+  "slug": "people/rafi-khan",
+  "type": "person",
+  "title": "Rafi Khan",
+  "compiled_truth": "Rafi Khan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-07 to 2001-07-19), Rafi Khan sent 2 and received 16 emails, totalling 18 interactions. Top correspondents: [Eric Boyt](people/eric-boyt) (2), [Charles Weldon](people/charles-weldon) (2), [Stanley Farmer](people/stanley-farmer) (1), [Gail Tholen](people/gail-tholen) (1). Mailbox folders observed: kcs.",
+  "timeline": "- **2000-07-07** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rafi-khan",
+    "name": "Rafi Khan",
+    "email": "rafi.khan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

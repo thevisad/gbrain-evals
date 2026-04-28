@@ -1,0 +1,14 @@
+{
+  "slug": "people/dottie-kerr-solutions",
+  "type": "person",
+  "title": "Dottie",
+  "compiled_truth": "Dottie is an external contact at [Kerr-solutions](companies/kerr-solutions). Over the corpus period (2000-12-12 to 2001-11-05), Dottie sent 33 and received 9 emails, totalling 42 interactions.",
+  "timeline": "- **2000-12-12** | First recorded email in corpus\n- **2001-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dottie-kerr-solutions",
+    "name": "Dottie",
+    "email": "dottie@kerr-solutions.com",
+    "primary_affiliation": "companies/kerr-solutions"
+  }
+}

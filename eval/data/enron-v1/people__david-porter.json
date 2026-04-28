@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-porter",
+  "type": "person",
+  "title": "David Porter",
+  "compiled_truth": "David Porter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-06-26), David Porter sent 4 and received 89 emails, totalling 93 interactions. Top correspondents: [Bill Iii](people/bill-iii) (2), [Mark Guzman](people/mark-guzman) (1), [Steven Merris](people/steven-merris) (1). Mailbox folders observed: rt_strat.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-06-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-porter",
+    "name": "David Porter",
+    "email": "david.porter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

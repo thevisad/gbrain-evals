@@ -1,0 +1,21 @@
+{
+  "slug": "threads/blue-dog-2001-04",
+  "type": "meeting",
+  "title": "Thread: Blue Dog",
+  "compiled_truth": "Email thread: \"Blue Dog\". Ran from 2001-04-24 to 2001-05-25 with 16 messages. Participants: [Ben Jacoby](people/ben-jacoby), [Chris Booth](people/chris-booth), [Fred Mitro](people/fred-mitro), [Jeffrey Darst](people/jeffrey-darst-ps), [Kathleen Carnahan](people/kathleen-carnahan), [Kay Mann](people/kay-mann), [Rebecca Walker](people/rebecca-walker).",
+  "timeline": "- **2001-04-24** | Thread begins: blue dog\n- **2001-05-25** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/blue-dog-2001-04",
+    "attendees": [
+      "people/ben-jacoby",
+      "people/chris-booth",
+      "people/fred-mitro",
+      "people/jeffrey-darst-ps",
+      "people/kathleen-carnahan",
+      "people/kay-mann",
+      "people/rebecca-walker"
+    ],
+    "date": "2001-04-24"
+  }
+}

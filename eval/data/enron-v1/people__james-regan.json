@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-regan",
+  "type": "person",
+  "title": "James Regan",
+  "compiled_truth": "James Regan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-03 to 2002-05-06), James Regan sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-regan",
+    "name": "James Regan",
+    "email": "james.regan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

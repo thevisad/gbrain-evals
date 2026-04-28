@@ -1,0 +1,14 @@
+{
+  "slug": "people/errett",
+  "type": "person",
+  "title": "Errett",
+  "compiled_truth": "Errett is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-19 to 2001-09-19), Errett sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-09-19** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/errett",
+    "name": "Errett",
+    "email": "errett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

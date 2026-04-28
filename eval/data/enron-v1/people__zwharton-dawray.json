@@ -1,0 +1,14 @@
+{
+  "slug": "people/zwharton-dawray",
+  "type": "person",
+  "title": "Zwharton",
+  "compiled_truth": "Zwharton is an external contact at [Dawray](companies/dawray). Over the corpus period (2000-10-09 to 2001-12-06), Zwharton sent 15 and received 43 emails, totalling 58 interactions. Top correspondents: [Martin Cuilla](people/martin-cuilla) (8), [Mcuilla](people/mcuilla) (7).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zwharton-dawray",
+    "name": "Zwharton",
+    "email": "zwharton@dawray.com",
+    "primary_affiliation": "companies/dawray"
+  }
+}

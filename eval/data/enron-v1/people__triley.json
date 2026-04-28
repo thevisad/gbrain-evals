@@ -1,0 +1,14 @@
+{
+  "slug": "people/triley",
+  "type": "person",
+  "title": "Triley",
+  "compiled_truth": "Triley is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-23 to 2001-07-30), Triley sent 0 and received 453 emails, totalling 453 interactions.",
+  "timeline": "- **2001-01-23** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/triley",
+    "name": "Triley",
+    "email": "triley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

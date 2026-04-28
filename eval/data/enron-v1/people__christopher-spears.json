@@ -1,0 +1,14 @@
+{
+  "slug": "people/christopher-spears",
+  "type": "person",
+  "title": "Christopher Spears",
+  "compiled_truth": "Christopher Spears is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-31 to 2002-02-01), Christopher Spears sent 2 and received 111 emails, totalling 113 interactions. Top correspondents: [Chris Germany](people/chris-germany) (2), [Brad Bangle](people/brad-bangle) (1), [Katherine Kelly](people/katherine-kelly) (1).",
+  "timeline": "- **2000-01-31** | First recorded email in corpus\n- **2002-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christopher-spears",
+    "name": "Christopher Spears",
+    "email": "christopher.spears@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

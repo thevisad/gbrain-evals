@@ -1,0 +1,14 @@
+{
+  "slug": "people/s-thomas",
+  "type": "person",
+  "title": "S Thomas",
+  "compiled_truth": "S Thomas is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-18 to 2001-06-12), S Thomas sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2001-05-18** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/s-thomas",
+    "name": "S Thomas",
+    "email": "s.thomas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

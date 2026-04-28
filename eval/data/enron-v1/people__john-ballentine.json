@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-ballentine",
+  "type": "person",
+  "title": "John Ballentine",
+  "compiled_truth": "John Ballentine is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2002-02-14), John Ballentine sent 7 and received 36 emails, totalling 43 interactions. Top correspondents: [James Saunders](people/james-saunders) (2), [Michael Moran](people/michael-moran) (2), [Jenny Rub](people/jenny-rub) (1), [Bob Hall](people/bob-hall) (1), [Dan Pribble](people/dan-pribble) (1).",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-ballentine",
+    "name": "John Ballentine",
+    "email": "john.ballentine@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

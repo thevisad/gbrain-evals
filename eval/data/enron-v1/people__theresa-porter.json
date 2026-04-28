@@ -1,0 +1,14 @@
+{
+  "slug": "people/theresa-porter",
+  "type": "person",
+  "title": "Theresa Porter",
+  "compiled_truth": "Theresa Porter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-02-25), Theresa Porter sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/theresa-porter",
+    "name": "Theresa Porter",
+    "email": "theresa.porter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

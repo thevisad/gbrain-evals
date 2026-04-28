@@ -1,0 +1,14 @@
+{
+  "slug": "people/kerrie-smith",
+  "type": "person",
+  "title": "Kerrie Smith",
+  "compiled_truth": "Kerrie Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-02-21), Kerrie Smith sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kerrie-smith",
+    "name": "Kerrie Smith",
+    "email": "kerrie.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

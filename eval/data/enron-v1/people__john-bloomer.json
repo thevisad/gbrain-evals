@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-bloomer",
+  "type": "person",
+  "title": "John Bloomer",
+  "compiled_truth": "John Bloomer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-08 to 2000-10-10), John Bloomer sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-03-08** | First recorded email in corpus\n- **2000-10-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-bloomer",
+    "name": "John Bloomer",
+    "email": "john.bloomer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/savage-frank",
+  "type": "person",
+  "title": "Savage Frank",
+  "compiled_truth": "Savage Frank is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-19 to 2001-11-05), Savage Frank sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-09-19** | First recorded email in corpus\n- **2001-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/savage-frank",
+    "name": "Savage Frank",
+    "email": "savage.frank@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

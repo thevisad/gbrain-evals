@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-mara",
+  "type": "person",
+  "title": "Susan Mara",
+  "compiled_truth": "Susan Mara is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-09-01 to 2002-01-30), Susan Mara sent 658 and received 4363 emails, totalling 5021 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (574), [James Steffes](people/james-steffes) (280), [Richard Shapiro](people/richard-shapiro) (271), [Paul Kaufman](people/paul-kaufman) (257), [Alan Comnes](people/alan-comnes) (239). Mailbox folders observed: 2001_prc__midyear, 2002_budget, _americas, administrative, california, california___working_group.",
+  "timeline": "- **1998-09-01** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-mara",
+    "name": "Susan Mara",
+    "email": "susan.mara@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

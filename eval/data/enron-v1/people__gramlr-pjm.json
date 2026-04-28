@@ -1,0 +1,14 @@
+{
+  "slug": "people/gramlr-pjm",
+  "type": "person",
+  "title": "Gramlr",
+  "compiled_truth": "Gramlr is an external contact at [Pjm](companies/pjm). Over the corpus period (1980-01-01 to 2000-09-26), Gramlr sent 30 and received 43 emails, totalling 73 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (22), [Doornbos](people/doornbos-socrates) (13), [Amosher](people/amosher-appanet) (11), [Lfried](people/lfried-uclink) (11), [Whederman](people/whederman-columbiaenergygroup) (10).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2000-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gramlr-pjm",
+    "name": "Gramlr",
+    "email": "gramlr@pjm.com",
+    "primary_affiliation": "companies/pjm"
+  }
+}

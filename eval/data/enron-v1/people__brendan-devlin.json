@@ -1,0 +1,14 @@
+{
+  "slug": "people/brendan-devlin",
+  "type": "person",
+  "title": "Brendan Devlin",
+  "compiled_truth": "Brendan Devlin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-17 to 2001-11-08), Brendan Devlin sent 11 and received 50 emails, totalling 61 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (10), [Peter Styles](people/peter-styles) (9), [Nailia Dindarova](people/nailia-dindarova) (6), [Paul Hennemeyer](people/paul-hennemeyer) (5), [Doug Wood](people/doug-wood) (5). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-05-17** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brendan-devlin",
+    "name": "Brendan Devlin",
+    "email": "brendan.devlin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

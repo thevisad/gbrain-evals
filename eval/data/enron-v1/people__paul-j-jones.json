@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-j-jones",
+  "type": "person",
+  "title": "Paul J Jones",
+  "compiled_truth": "Paul J Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-04 to 2000-12-11), Paul J Jones sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-j-jones",
+    "name": "Paul J Jones",
+    "email": "paul.j.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

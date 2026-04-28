@@ -1,0 +1,14 @@
+{
+  "slug": "people/sherry-lessner",
+  "type": "person",
+  "title": "Sherry Lessner",
+  "compiled_truth": "Sherry Lessner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-08 to 2000-06-29), Sherry Lessner sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-03-08** | First recorded email in corpus\n- **2000-06-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sherry-lessner",
+    "name": "Sherry Lessner",
+    "email": "sherry.lessner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

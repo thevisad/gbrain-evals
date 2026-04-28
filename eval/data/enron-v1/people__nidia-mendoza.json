@@ -1,0 +1,14 @@
+{
+  "slug": "people/nidia-mendoza",
+  "type": "person",
+  "title": "Nidia Mendoza",
+  "compiled_truth": "Nidia Mendoza is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-06 to 2002-01-04), Nidia Mendoza sent 17 and received 488 emails, totalling 505 interactions. Top correspondents: [Marie Heard](people/marie-heard) (12), [Stephanie Panus](people/stephanie-panus) (6), [Susan Bailey](people/susan-bailey) (4), [Samantha Boyd](people/samantha-boyd) (4), [Tom Moran](people/tom-moran) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-07-06** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nidia-mendoza",
+    "name": "Nidia Mendoza",
+    "email": "nidia.mendoza@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

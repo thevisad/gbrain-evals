@@ -1,0 +1,14 @@
+{
+  "slug": "people/fernley-dyson",
+  "type": "person",
+  "title": "Fernley Dyson",
+  "compiled_truth": "Fernley Dyson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-04), Fernley Dyson sent 22 and received 269 emails, totalling 291 interactions. Top correspondents: [Sally Beck](people/sally-beck) (18), [Ted Murphy](people/ted-murphy) (11), [Richard Causey](people/richard-causey) (6), [Rick Buy](people/rick-buy) (5), [John Sherriff](people/john-sherriff) (4). Mailbox folders observed: inbox, projects.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fernley-dyson",
+    "name": "Fernley Dyson",
+    "email": "fernley.dyson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

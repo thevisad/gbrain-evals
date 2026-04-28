@@ -1,0 +1,14 @@
+{
+  "slug": "people/bfolsom-avistacorp",
+  "type": "person",
+  "title": "Bfolsom",
+  "compiled_truth": "Bfolsom is an external contact at [Avistacorp](companies/avistacorp). Over the corpus period (1999-10-04 to 2001-07-31), Bfolsom sent 0 and received 59 emails, totalling 59 interactions.",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bfolsom-avistacorp",
+    "name": "Bfolsom",
+    "email": "bfolsom@avistacorp.com",
+    "primary_affiliation": "companies/avistacorp"
+  }
+}

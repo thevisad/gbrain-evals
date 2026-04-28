@@ -1,0 +1,14 @@
+{
+  "slug": "people/eidy-catala",
+  "type": "person",
+  "title": "Eidy Catala",
+  "compiled_truth": "Eidy Catala is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-10 to 2002-05-06), Eidy Catala sent 0 and received 46 emails, totalling 46 interactions.",
+  "timeline": "- **2000-10-10** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eidy-catala",
+    "name": "Eidy Catala",
+    "email": "eidy.catala@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

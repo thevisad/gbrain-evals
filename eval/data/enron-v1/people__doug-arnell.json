@@ -1,0 +1,14 @@
+{
+  "slug": "people/doug-arnell",
+  "type": "person",
+  "title": "Doug Arnell",
+  "compiled_truth": "Doug Arnell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-01 to 2001-11-29), Doug Arnell sent 4 and received 120 emails, totalling 124 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (3), [Rick Bergsieker](people/rick-bergsieker) (2), [David Haug](people/david-haug) (2), [Cathy Phillips](people/cathy-phillips) (1), [Ned Crady](people/ned-crady) (1).",
+  "timeline": "- **2000-02-01** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/doug-arnell",
+    "name": "Doug Arnell",
+    "email": "doug.arnell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

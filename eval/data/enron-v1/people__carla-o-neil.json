@@ -1,0 +1,14 @@
+{
+  "slug": "people/carla-o-neil",
+  "type": "person",
+  "title": "Carla O'Neil",
+  "compiled_truth": "Carla O'Neil is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-02 to 2002-02-06), Carla O'Neil sent 1 and received 22 emails, totalling 23 interactions. Top correspondents: [Jason Biever](people/jason-biever) (1), [Chad Clark](people/chad-clark) (1), [Mike Cowan](people/mike-cowan) (1), [Derek Davies](people/derek-davies) (1), [Chris Dorland](people/chris-dorland) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-05-02** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carla-o-neil",
+    "name": "Carla O'Neil",
+    "email": "carla.o'neil@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

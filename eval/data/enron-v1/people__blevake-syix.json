@@ -1,0 +1,14 @@
+{
+  "slug": "people/blevake-syix",
+  "type": "person",
+  "title": "Blevake",
+  "compiled_truth": "Blevake is an external contact at [Syix](companies/syix). Over the corpus period (2000-09-01 to 2001-06-06), Blevake sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/blevake-syix",
+    "name": "Blevake",
+    "email": "blevake@syix.com",
+    "primary_affiliation": "companies/syix"
+  }
+}

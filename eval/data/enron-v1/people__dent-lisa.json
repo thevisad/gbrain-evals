@@ -1,0 +1,14 @@
+{
+  "slug": "people/dent-lisa",
+  "type": "person",
+  "title": "Dent Lisa",
+  "compiled_truth": "Dent Lisa is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-08 to 2002-03-14), Dent Lisa sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dent-lisa",
+    "name": "Dent Lisa",
+    "email": "dent.lisa@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

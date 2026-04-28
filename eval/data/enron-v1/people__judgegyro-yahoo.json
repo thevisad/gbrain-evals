@@ -1,0 +1,14 @@
+{
+  "slug": "people/judgegyro-yahoo",
+  "type": "person",
+  "title": "Judgegyro",
+  "compiled_truth": "Judgegyro is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-09-04 to 2001-10-31), Judgegyro sent 1 and received 56 emails, totalling 57 interactions. Top correspondents: [Smu-Betas](people/smu-betas-yahoogroups) (1).",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/judgegyro-yahoo",
+    "name": "Judgegyro",
+    "email": "judgegyro@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

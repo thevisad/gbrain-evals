@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-hannon",
+  "type": "person",
+  "title": "Kevin Hannon",
+  "compiled_truth": "Kevin Hannon is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-05), Kevin Hannon sent 12 and received 360 emails, totalling 372 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (8), [Steven Kean](people/steven-kean) (5), [Kenneth Lay](people/kenneth-lay) (4), [Ken Rice](people/ken-rice) (4), [Richard Causey](people/richard-causey) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-hannon",
+    "name": "Kevin Hannon",
+    "email": "kevin.hannon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

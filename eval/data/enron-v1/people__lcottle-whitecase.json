@@ -1,0 +1,14 @@
+{
+  "slug": "people/lcottle-whitecase",
+  "type": "person",
+  "title": "Lcottle",
+  "compiled_truth": "Lcottle is an external contact at [Whitecase](companies/whitecase). Over the corpus period (2001-01-11 to 2001-06-11), Lcottle sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2001-01-11** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lcottle-whitecase",
+    "name": "Lcottle",
+    "email": "lcottle@whitecase.com",
+    "primary_affiliation": "companies/whitecase"
+  }
+}

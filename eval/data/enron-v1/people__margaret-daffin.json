@@ -1,0 +1,14 @@
+{
+  "slug": "people/margaret-daffin",
+  "type": "person",
+  "title": "Margaret Daffin",
+  "compiled_truth": "Margaret Daffin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-07 to 2001-11-30), Margaret Daffin sent 29 and received 84 emails, totalling 113 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (9), [Jane Allen](people/jane-allen) (8), [Michelle Cash](people/michelle-cash) (6), [Molly Magee](people/molly-magee) (6), [Bobbi Tessandori](people/bobbi-tessandori) (5). Mailbox folders observed: _americas, c, deleted_items, inbox, personal.",
+  "timeline": "- **2000-01-07** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margaret-daffin",
+    "name": "Margaret Daffin",
+    "email": "margaret.daffin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sperry-statoilenergy",
+  "type": "person",
+  "title": "Sperry",
+  "compiled_truth": "Sperry is an external contact at [Statoilenergy](companies/statoilenergy). Over the corpus period (2000-08-01 to 2000-11-30), Sperry sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-08-01** | First recorded email in corpus\n- **2000-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sperry-statoilenergy",
+    "name": "Sperry",
+    "email": "sperry@statoilenergy.com",
+    "primary_affiliation": "companies/statoilenergy"
+  }
+}

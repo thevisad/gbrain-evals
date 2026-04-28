@@ -1,0 +1,14 @@
+{
+  "slug": "people/martha-sumner-kenney",
+  "type": "person",
+  "title": "Martha Sumner-Kenney",
+  "compiled_truth": "Martha Sumner-Kenney is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-16 to 2001-05-11), Martha Sumner-Kenney sent 1 and received 15 emails, totalling 16 interactions. Top correspondents: [Maria Salazar](people/maria-salazar) (1), [Gina Taylor](people/gina-taylor) (1), [Jo Williams](people/jo-williams) (1), [Robert Johnson](people/robert-johnson) (1), [Larry Abbott](people/larry-abbott) (1).",
+  "timeline": "- **2000-05-16** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martha-sumner-kenney",
+    "name": "Martha Sumner-Kenney",
+    "email": "martha.sumner-kenney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

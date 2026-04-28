@@ -1,0 +1,14 @@
+{
+  "slug": "people/gfergus-brobeck",
+  "type": "person",
+  "title": "Gfergus",
+  "compiled_truth": "Gfergus is an external contact at [Brobeck](companies/brobeck). Over the corpus period (1980-01-01 to 2001-09-19), Gfergus sent 143 and received 701 emails, totalling 844 interactions. Top correspondents: [Richard B Sanders](people/richard-b-sanders) (127), [Sbishop](people/sbishop-gibbs-bruns) (60), [Jfrizzell](people/jfrizzell-gibbs-bruns) (58), [Pmeringolo](people/pmeringolo-brobeck) (50), [Djn](people/djn-pkns) (45).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-09-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gfergus-brobeck",
+    "name": "Gfergus",
+    "email": "gfergus@brobeck.com",
+    "primary_affiliation": "companies/brobeck"
+  }
+}

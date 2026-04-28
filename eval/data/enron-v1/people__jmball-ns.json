@@ -1,0 +1,14 @@
+{
+  "slug": "people/jmball-ns",
+  "type": "person",
+  "title": "Jmball",
+  "compiled_truth": "Jmball is an external contact at [Ns](companies/ns). Over the corpus period (2000-09-01 to 2001-11-14), Jmball sent 20 and received 210 emails, totalling 230 interactions. Top correspondents: [Smara](people/smara) (19), [Stephanie-Newell](people/stephanie-newell-reliantenergy) (19), [Rwhyde](people/rwhyde-duke-energy) (19), [Lale](people/lale-dynegy) (19), [John H Stout](people/john-h-stout-reliantenergy) (19).",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jmball-ns",
+    "name": "Jmball",
+    "email": "jmball@ns.net",
+    "primary_affiliation": "companies/ns"
+  }
+}

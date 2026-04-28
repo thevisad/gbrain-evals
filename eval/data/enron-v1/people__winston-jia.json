@@ -1,0 +1,14 @@
+{
+  "slug": "people/winston-jia",
+  "type": "person",
+  "title": "Winston Jia",
+  "compiled_truth": "Winston Jia is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-13 to 2002-02-06), Winston Jia sent 3 and received 19 emails, totalling 22 interactions. Top correspondents: [Tanya Tamarchenko](people/tanya-tamarchenko) (2), [Jaesoo Lew](people/jaesoo-lew) (2), [Vladimir Gorny](people/vladimir-gorny) (2), [Vince Kaminski](people/vince-kaminski) (2), [Naveen Andrews](people/naveen-andrews) (1). Mailbox folders observed: inbox, var.",
+  "timeline": "- **2001-04-13** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/winston-jia",
+    "name": "Winston Jia",
+    "email": "winston.jia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

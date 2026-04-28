@@ -1,0 +1,14 @@
+{
+  "slug": "people/engl-nimo",
+  "type": "person",
+  "title": "Engl",
+  "compiled_truth": "Engl is an external contact at [Nimo](companies/nimo). Over the corpus period (2000-12-01 to 2002-02-19), Engl sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/engl-nimo",
+    "name": "Engl",
+    "email": "engl@nimo.com",
+    "primary_affiliation": "companies/nimo"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-leskowitz",
+  "type": "person",
+  "title": "J  Leskowitz",
+  "compiled_truth": "J  Leskowitz is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-12-20), J  Leskowitz sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2001-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-leskowitz",
+    "name": "J  Leskowitz",
+    "email": "j..leskowitz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

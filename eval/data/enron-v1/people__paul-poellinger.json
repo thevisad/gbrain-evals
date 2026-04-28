@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-poellinger",
+  "type": "person",
+  "title": "Paul Poellinger",
+  "compiled_truth": "Paul Poellinger is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2000-10-09), Paul Poellinger sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2000-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-poellinger",
+    "name": "Paul Poellinger",
+    "email": "paul.poellinger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

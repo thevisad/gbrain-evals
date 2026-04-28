@@ -1,0 +1,14 @@
+{
+  "slug": "people/rlichtenstein-marathon-com",
+  "type": "person",
+  "title": "Rlichtenstein",
+  "compiled_truth": "Rlichtenstein is an external contact at [Marathon-com](companies/marathon-com). Over the corpus period (2000-11-14 to 2001-07-31), Rlichtenstein sent 0 and received 109 emails, totalling 109 interactions.",
+  "timeline": "- **2000-11-14** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rlichtenstein-marathon-com",
+    "name": "Rlichtenstein",
+    "email": "rlichtenstein@marathon-com.com",
+    "primary_affiliation": "companies/marathon-com"
+  }
+}

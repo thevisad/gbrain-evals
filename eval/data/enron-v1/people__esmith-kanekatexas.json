@@ -1,0 +1,14 @@
+{
+  "slug": "people/esmith-kanekatexas",
+  "type": "person",
+  "title": "Esmith",
+  "compiled_truth": "Esmith is an external contact at [Kanekatexas](companies/kanekatexas). Over the corpus period (2001-02-05 to 2002-01-31), Esmith sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2001-02-05** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/esmith-kanekatexas",
+    "name": "Esmith",
+    "email": "esmith@kanekatexas.com",
+    "primary_affiliation": "companies/kanekatexas"
+  }
+}

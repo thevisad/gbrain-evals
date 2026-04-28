@@ -1,0 +1,14 @@
+{
+  "slug": "people/pauline-michailidis",
+  "type": "person",
+  "title": "Pauline Michailidis",
+  "compiled_truth": "Pauline Michailidis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-22 to 2001-11-27), Pauline Michailidis sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-10-22** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pauline-michailidis",
+    "name": "Pauline Michailidis",
+    "email": "pauline.michailidis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

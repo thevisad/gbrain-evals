@@ -1,0 +1,32 @@
+{
+  "slug": "companies/pira",
+  "type": "company",
+  "title": "Pira",
+  "compiled_truth": "Pira is an external organization that appears in the Enron email corpus. Domain: pira.com. Total email interactions with Enron: 334. Known contacts: 15 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (334 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/pira",
+    "name": "Pira",
+    "employees": [
+      "people/alex-pira",
+      "people/astewart-pira",
+      "people/cathy-pira",
+      "people/distribution-pira",
+      "people/eileen-pira",
+      "people/glenn-pira",
+      "people/greg-pira",
+      "people/johng-pira",
+      "people/jross-pira",
+      "people/jsteele-pira",
+      "people/rich-pira",
+      "people/sande-pira",
+      "people/support-pira",
+      "people/tazh-pira",
+      "people/vwatkins-pira"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-mcgrory",
+  "type": "person",
+  "title": "Robert Mcgrory",
+  "compiled_truth": "Robert Mcgrory is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-15 to 2002-02-05), Robert Mcgrory sent 2 and received 39 emails, totalling 41 interactions. Top correspondents: [David Minns](people/david-minns) (1), [ Taylor](people/taylor) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-05-15** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-mcgrory",
+    "name": "Robert Mcgrory",
+    "email": "robert.mcgrory@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

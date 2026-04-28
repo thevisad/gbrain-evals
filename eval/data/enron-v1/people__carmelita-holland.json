@@ -1,0 +1,14 @@
+{
+  "slug": "people/carmelita-holland",
+  "type": "person",
+  "title": "Carmelita Holland",
+  "compiled_truth": "Carmelita Holland is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-13 to 2002-03-18), Carmelita Holland sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-07-13** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carmelita-holland",
+    "name": "Carmelita Holland",
+    "email": "carmelita.holland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

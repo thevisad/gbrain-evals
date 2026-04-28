@@ -1,0 +1,18 @@
+{
+  "slug": "companies/tartan-vc",
+  "type": "company",
+  "title": "Tartan VC",
+  "compiled_truth": "Tartan VC is a venture capital firm. Employees: diego-alvarez.",
+  "timeline": "- **2025-04-14** | company indexed",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/tartan-vc",
+    "name": "Tartan VC",
+    "founders": [],
+    "employees": [
+      "people/diego-alvarez"
+    ],
+    "investors": [],
+    "advisors": []
+  }
+}

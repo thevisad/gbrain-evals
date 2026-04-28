@@ -1,0 +1,14 @@
+{
+  "slug": "people/difellman-energy-law-group",
+  "type": "person",
+  "title": "Difellman",
+  "compiled_truth": "Difellman is an external contact at [Energy-law-group](companies/energy-law-group). Over the corpus period (2000-05-08 to 2001-11-20), Difellman sent 0 and received 60 emails, totalling 60 interactions.",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/difellman-energy-law-group",
+    "name": "Difellman",
+    "email": "difellman@energy-law-group.com",
+    "primary_affiliation": "companies/energy-law-group"
+  }
+}

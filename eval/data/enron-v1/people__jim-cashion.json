@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-cashion",
+  "type": "person",
+  "title": "Jim Cashion",
+  "compiled_truth": "Jim Cashion is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-17 to 2002-02-06), Jim Cashion sent 22 and received 43 emails, totalling 65 interactions. Top correspondents: [F  Campbell](people/f-campbell) (12), [Larry Campbell](people/larry-campbell) (4), [D  Thomas](people/d-thomas) (3), [Stacey White](people/stacey-white) (2), [Marci Mansfield](people/marci-mansfield) (1). Mailbox folders observed: calendar, inbox, personal.",
+  "timeline": "- **2001-05-17** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-cashion",
+    "name": "Jim Cashion",
+    "email": "jim.cashion@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

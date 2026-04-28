@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-sloan",
+  "type": "person",
+  "title": "Mary Sloan",
+  "compiled_truth": "Mary Sloan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-12-19), Mary Sloan sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-sloan",
+    "name": "Mary Sloan",
+    "email": "mary.sloan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

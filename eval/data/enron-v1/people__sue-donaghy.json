@@ -1,0 +1,14 @@
+{
+  "slug": "people/sue-donaghy",
+  "type": "person",
+  "title": "Sue Donaghy",
+  "compiled_truth": "Sue Donaghy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2001-06-08), Sue Donaghy sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sue-donaghy",
+    "name": "Sue Donaghy",
+    "email": "sue.donaghy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

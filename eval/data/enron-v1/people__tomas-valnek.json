@@ -1,0 +1,14 @@
+{
+  "slug": "people/tomas-valnek",
+  "type": "person",
+  "title": "Tomas Valnek",
+  "compiled_truth": "Tomas Valnek is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-30 to 2001-05-17), Tomas Valnek sent 15 and received 38 emails, totalling 53 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (14), [Paul Simons](people/paul-simons) (13), [William Bradford](people/william-bradford) (13), [Rod Nelson](people/rod-nelson) (12), [Debbie Brackett](people/debbie-brackett) (11). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-06-30** | First recorded email in corpus\n- **2001-05-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tomas-valnek",
+    "name": "Tomas Valnek",
+    "email": "tomas.valnek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

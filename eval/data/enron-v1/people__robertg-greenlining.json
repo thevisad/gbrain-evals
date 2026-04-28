@@ -1,0 +1,14 @@
+{
+  "slug": "people/robertg-greenlining",
+  "type": "person",
+  "title": "Robertg",
+  "compiled_truth": "Robertg is an external contact at [Greenlining](companies/greenlining). Over the corpus period (1999-09-24 to 2001-07-31), Robertg sent 0 and received 62 emails, totalling 62 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robertg-greenlining",
+    "name": "Robertg",
+    "email": "robertg@greenlining.org",
+    "primary_affiliation": "companies/greenlining"
+  }
+}

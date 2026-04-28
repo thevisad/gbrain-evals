@@ -1,0 +1,14 @@
+{
+  "slug": "people/brenda-herod",
+  "type": "person",
+  "title": "Brenda Herod",
+  "compiled_truth": "Brenda Herod is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-19), Brenda Herod sent 78 and received 560 emails, totalling 638 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (52), [Pat Clynes](people/pat-clynes) (44), [Rita Wynne](people/rita-wynne) (37), [Lisa Csikos](people/lisa-csikos) (35), [Steve Venturatos](people/steve-venturatos) (34).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brenda-herod",
+    "name": "Brenda Herod",
+    "email": "brenda.herod@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

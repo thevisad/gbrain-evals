@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-meredith",
+  "type": "person",
+  "title": "Kevin Meredith",
+  "compiled_truth": "Kevin Meredith is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-13), Kevin Meredith sent 31 and received 403 emails, totalling 434 interactions. Top correspondents: [Chris Walker](people/chris-walker) (11), [Melba Lozano](people/melba-lozano) (11), [Tana Jones](people/tana-jones) (10), [Jeff Blumenthal](people/jeff-blumenthal) (8), [Tom Moran](people/tom-moran) (8). Mailbox folders observed: archive, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-meredith",
+    "name": "Kevin Meredith",
+    "email": "kevin.meredith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

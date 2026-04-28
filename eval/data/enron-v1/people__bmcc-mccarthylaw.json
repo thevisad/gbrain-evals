@@ -1,0 +1,14 @@
+{
+  "slug": "people/bmcc-mccarthylaw",
+  "type": "person",
+  "title": "Bmcc",
+  "compiled_truth": "Bmcc is an external contact at [Mccarthylaw](companies/mccarthylaw). Over the corpus period (1999-09-24 to 2001-07-31), Bmcc sent 0 and received 66 emails, totalling 66 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bmcc-mccarthylaw",
+    "name": "Bmcc",
+    "email": "bmcc@mccarthylaw.com",
+    "primary_affiliation": "companies/mccarthylaw"
+  }
+}

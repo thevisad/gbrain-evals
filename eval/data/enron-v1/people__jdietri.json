@@ -1,0 +1,14 @@
+{
+  "slug": "people/jdietri",
+  "type": "person",
+  "title": "Jdietri",
+  "compiled_truth": "Jdietri is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-10 to 2001-07-10), Jdietri sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-04-10** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jdietri",
+    "name": "Jdietri",
+    "email": "jdietri@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

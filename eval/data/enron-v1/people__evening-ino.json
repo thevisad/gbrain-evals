@@ -1,0 +1,14 @@
+{
+  "slug": "people/evening-ino",
+  "type": "person",
+  "title": "Evening",
+  "compiled_truth": "Evening is an external contact at [Ino](companies/ino). Over the corpus period (2000-12-11 to 2002-02-06), Evening sent 66 and received 0 emails, totalling 66 interactions. Top correspondents: [Alewis](people/alewis) (41), [Mike Grigsby](people/mike-grigsby) (24), [Alewis](people/alewis) (1).",
+  "timeline": "- **2000-12-11** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/evening-ino",
+    "name": "Evening",
+    "email": "evening@ino.com",
+    "primary_affiliation": "companies/ino"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-thomason",
+  "type": "person",
+  "title": "Michelle Thomason",
+  "compiled_truth": "Michelle Thomason is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2001-11-27), Michelle Thomason sent 1 and received 26 emails, totalling 27 interactions. Top correspondents: [Jeffrey Shankman](people/jeffrey-shankman) (1), [Mike McConnell](people/mike-mcconnell) (1), [Dana Gibbs](people/dana-gibbs-eott) (1).",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-thomason",
+    "name": "Michelle Thomason",
+    "email": "michelle.thomason@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

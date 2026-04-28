@@ -1,0 +1,14 @@
+{
+  "slug": "people/jenny-latham",
+  "type": "person",
+  "title": "Jenny Latham",
+  "compiled_truth": "Jenny Latham is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2002-05-13), Jenny Latham sent 7 and received 210 emails, totalling 217 interactions. Top correspondents: [Stacey White](people/stacey-white) (3), [Kate Symes](people/kate-symes) (3), [Willie Harrell](people/willie-harrell) (3), [Donald Vinson](people/donald-vinson) (3), [Casey Evans](people/casey-evans) (2). Mailbox folders observed: inbox, personal.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jenny-latham",
+    "name": "Jenny Latham",
+    "email": "jenny.latham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

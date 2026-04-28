@@ -1,0 +1,14 @@
+{
+  "slug": "people/mthomas-mtpower",
+  "type": "person",
+  "title": "Mthomas",
+  "compiled_truth": "Mthomas is an external contact at [Mtpower](companies/mtpower). Over the corpus period (2000-06-23 to 2001-04-27), Mthomas sent 0 and received 75 emails, totalling 75 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mthomas-mtpower",
+    "name": "Mthomas",
+    "email": "mthomas@mtpower.com",
+    "primary_affiliation": "companies/mtpower"
+  }
+}

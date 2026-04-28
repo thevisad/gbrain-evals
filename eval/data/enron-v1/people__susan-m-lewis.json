@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-m-lewis",
+  "type": "person",
+  "title": "Susan M Lewis",
+  "compiled_truth": "Susan M Lewis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-17 to 2000-05-15), Susan M Lewis sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2000-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-m-lewis",
+    "name": "Susan M Lewis",
+    "email": "susan_m_lewis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

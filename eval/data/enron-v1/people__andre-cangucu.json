@@ -1,0 +1,14 @@
+{
+  "slug": "people/andre-cangucu",
+  "type": "person",
+  "title": "Andre Cangucu",
+  "compiled_truth": "Andre Cangucu is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2002-01-29), Andre Cangucu sent 0 and received 102 emails, totalling 102 interactions.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andre-cangucu",
+    "name": "Andre Cangucu",
+    "email": "andre.cangucu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

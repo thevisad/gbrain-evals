@@ -1,0 +1,14 @@
+{
+  "slug": "people/veronica-medrano",
+  "type": "person",
+  "title": "Veronica Medrano",
+  "compiled_truth": "Veronica Medrano is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-01 to 2001-11-15), Veronica Medrano sent 9 and received 32 emails, totalling 41 interactions. Top correspondents: [Dana Davis](people/dana-davis) (9), [Lisa Kang](people/lisa-kang) (4), [Angelic Davis](people/angelic-davis) (3), [Tammy Barta](people/tammy-barta) (3), [Marnie Lamb](people/marnie-lamb) (2). Mailbox folders observed: inbox, vargas_becton_lamb.",
+  "timeline": "- **2001-05-01** | First recorded email in corpus\n- **2001-11-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/veronica-medrano",
+    "name": "Veronica Medrano",
+    "email": "veronica.medrano@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

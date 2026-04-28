@@ -1,0 +1,14 @@
+{
+  "slug": "people/debbie-brackett",
+  "type": "person",
+  "title": "Debbie Brackett",
+  "compiled_truth": "Debbie Brackett is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-24 to 2001-06-21), Debbie Brackett sent 22 and received 1057 emails, totalling 1079 interactions. Top correspondents: [William Bradford](people/william-bradford) (12), [Mark Taylor](people/mark-taylor) (9), [David Hardy](people/david-hardy) (4), [Tana Jones](people/tana-jones) (4), [David Forster](people/david-forster) (4).",
+  "timeline": "- **1998-11-24** | First recorded email in corpus\n- **2001-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debbie-brackett",
+    "name": "Debbie Brackett",
+    "email": "debbie.brackett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

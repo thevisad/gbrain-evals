@@ -1,0 +1,14 @@
+{
+  "slug": "people/terri-smith",
+  "type": "person",
+  "title": "Terri Smith",
+  "compiled_truth": "Terri Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-14 to 2002-01-24), Terri Smith sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-14** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terri-smith",
+    "name": "Terri Smith",
+    "email": "terri.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/wcamp-pnm",
+  "type": "person",
+  "title": "Wcamp",
+  "compiled_truth": "Wcamp is an external contact at [Pnm](companies/pnm). Over the corpus period (1999-10-07 to 2000-06-05), Wcamp sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **1999-10-07** | First recorded email in corpus\n- **2000-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wcamp-pnm",
+    "name": "Wcamp",
+    "email": "wcamp@pnm.com",
+    "primary_affiliation": "companies/pnm"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lei-chen",
+  "type": "person",
+  "title": "Lei Chen",
+  "compiled_truth": "Lei Chen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-11-28), Lei Chen sent 1 and received 45 emails, totalling 46 interactions. Top correspondents: [Bert Meyers](people/bert-meyers) (1), [Bill Williams](people/bill-williams) (1), [Craig Dean](people/craig-dean) (1), [Geir Solberg](people/geir-solberg) (1), [Kourtney Nelson](people/kourtney-nelson) (1). Mailbox folders observed: bill_williams_iii.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lei-chen",
+    "name": "Lei Chen",
+    "email": "lei.chen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

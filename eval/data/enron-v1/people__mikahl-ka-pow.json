@@ -1,0 +1,14 @@
+{
+  "slug": "people/mikahl-ka-pow",
+  "type": "person",
+  "title": "Mikahl",
+  "compiled_truth": "Mikahl is an external contact at [Ka-pow](companies/ka-pow). Over the corpus period (2000-08-10 to 2001-12-21), Mikahl sent 0 and received 90 emails, totalling 90 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mikahl-ka-pow",
+    "name": "Mikahl",
+    "email": "mikahl@ka-pow.com",
+    "primary_affiliation": "companies/ka-pow"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-baumbach",
+  "type": "person",
+  "title": "David Baumbach",
+  "compiled_truth": "David Baumbach is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-19), David Baumbach sent 92 and received 1167 emails, totalling 1259 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (33), [Eric Bass](people/eric-bass) (29), [Jim Schwieger](people/jim-schwieger) (15), [J  Farmer](people/j-farmer) (14), [Bryan Hull](people/bryan-hull) (11). Mailbox folders observed: central, deleted_items, eol, ffl, gossett, hpl_sale.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-baumbach",
+    "name": "David Baumbach",
+    "email": "david.baumbach@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

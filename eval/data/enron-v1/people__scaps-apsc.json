@@ -1,0 +1,14 @@
+{
+  "slug": "people/scaps-apsc",
+  "type": "person",
+  "title": "Scaps",
+  "compiled_truth": "Scaps is an external contact at [Apsc](companies/apsc). Over the corpus period (2000-08-29 to 2000-08-29), Scaps sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-08-29** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scaps-apsc",
+    "name": "Scaps",
+    "email": "scaps@apsc.com",
+    "primary_affiliation": "companies/apsc"
+  }
+}

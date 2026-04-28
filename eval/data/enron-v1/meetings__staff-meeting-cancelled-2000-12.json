@@ -1,0 +1,42 @@
+{
+  "slug": "meetings/staff-meeting-cancelled-2000-12",
+  "type": "meeting",
+  "title": "Meeting: Staff Meeting Cancelled",
+  "compiled_truth": "Meeting: \"Staff Meeting Cancelled\". Occurred 2000-12-06 with 1 related emails. Participants included: [Ann White](people/ann-white), [Barbara Gray](people/barbara-gray), [Becky Spencer](people/becky-spencer), [Chaundra Woods](people/chaundra-woods), [Dan Hyvl](people/dan-hyvl), [Debra Perlingiere](people/debra-perlingiere), [Eric Gillaspie](people/eric-gillaspie), [Gerald Nemec](people/gerald-nemec)....",
+  "timeline": "- **2000-12-06** | Meeting: staff meeting cancelled",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/staff-meeting-cancelled-2000-12",
+    "attendees": [
+      "people/ann-white",
+      "people/barbara-gray",
+      "people/becky-spencer",
+      "people/chaundra-woods",
+      "people/dan-hyvl",
+      "people/debra-perlingiere",
+      "people/eric-gillaspie",
+      "people/gerald-nemec",
+      "people/jeffrey-hodge",
+      "people/jenny-helton",
+      "people/kathleen-carnahan",
+      "people/kay-mann",
+      "people/kaye-ellis",
+      "people/kimberlee-bennick",
+      "people/legal-1",
+      "people/mary-ogden",
+      "people/pat-radford",
+      "people/peggy-banczak",
+      "people/robert-walker",
+      "people/roger-balog",
+      "people/sandi-braband",
+      "people/shawna-flynn",
+      "people/shonnie-daniel",
+      "people/stacy-dickson",
+      "people/steve-hooser",
+      "people/stuart-zisman",
+      "people/suzanne-adams",
+      "people/taffy-milligan"
+    ],
+    "date": "2000-12-06"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/teruo-tanaka-ibjbank",
+  "type": "person",
+  "title": "Teruo Tanaka",
+  "compiled_truth": "Teruo Tanaka is an external contact at [Ibjbank](companies/ibjbank). Over the corpus period (1999-10-12 to 2001-10-29), Teruo Tanaka sent 10 and received 68 emails, totalling 78 interactions. Top correspondents: [Rpickel](people/rpickel-isda) (9), [Board](people/board-isda) (7), [Crichards](people/crichards-isda) (3), [Mhaedic](people/mhaedic) (2), [Mcunningham](people/mcunningham-isda) (2).",
+  "timeline": "- **1999-10-12** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teruo-tanaka-ibjbank",
+    "name": "Teruo Tanaka",
+    "email": "teruo.tanaka@ibjbank.co.jp",
+    "primary_affiliation": "companies/ibjbank"
+  }
+}

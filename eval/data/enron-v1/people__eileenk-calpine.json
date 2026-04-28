@@ -1,0 +1,14 @@
+{
+  "slug": "people/eileenk-calpine",
+  "type": "person",
+  "title": "Eileenk",
+  "compiled_truth": "Eileenk is an external contact at [Calpine](companies/calpine). Over the corpus period (2000-09-01 to 2001-07-31), Eileenk sent 0 and received 202 emails, totalling 202 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eileenk-calpine",
+    "name": "Eileenk",
+    "email": "eileenk@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

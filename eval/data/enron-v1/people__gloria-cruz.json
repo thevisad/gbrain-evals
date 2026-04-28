@@ -1,0 +1,14 @@
+{
+  "slug": "people/gloria-cruz",
+  "type": "person",
+  "title": "Gloria Cruz",
+  "compiled_truth": "Gloria Cruz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-31 to 2001-04-30), Gloria Cruz sent 8 and received 111 emails, totalling 119 interactions. Top correspondents: [Alan Aronowitz](people/alan-aronowitz) (6), [Roger Balog](people/roger-balog) (6), [Peggy Banczak](people/peggy-banczak) (6), [Sandi Braband](people/sandi-braband) (6), [Robert Bruce](people/robert-bruce) (6).",
+  "timeline": "- **2000-03-31** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gloria-cruz",
+    "name": "Gloria Cruz",
+    "email": "gloria.cruz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

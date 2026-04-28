@@ -1,0 +1,14 @@
+{
+  "slug": "people/ayers-lane",
+  "type": "person",
+  "title": "Ayers Lane",
+  "compiled_truth": "Ayers Lane is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-09 to 2002-01-31), Ayers Lane sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2002-01-09** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ayers-lane",
+    "name": "Ayers Lane",
+    "email": "ayers.lane@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

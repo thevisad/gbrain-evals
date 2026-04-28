@@ -1,0 +1,14 @@
+{
+  "slug": "people/rgibbs-btubrokers",
+  "type": "person",
+  "title": "Rgibbs",
+  "compiled_truth": "Rgibbs is an external contact at [Btubrokers](companies/btubrokers). Over the corpus period (2000-09-08 to 2000-11-16), Rgibbs sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2000-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rgibbs-btubrokers",
+    "name": "Rgibbs",
+    "email": "rgibbs@btubrokers.com",
+    "primary_affiliation": "companies/btubrokers"
+  }
+}

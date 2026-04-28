@@ -1,0 +1,14 @@
+{
+  "slug": "people/gregory-metoyer",
+  "type": "person",
+  "title": "Gregory Metoyer",
+  "compiled_truth": "Gregory Metoyer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2002-03-05), Gregory Metoyer sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2002-03-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gregory-metoyer",
+    "name": "Gregory Metoyer",
+    "email": "gregory.metoyer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

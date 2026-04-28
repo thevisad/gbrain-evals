@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-mattingly",
+  "type": "person",
+  "title": "Lisa Mattingly",
+  "compiled_truth": "Lisa Mattingly is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-12 to 2000-11-08), Lisa Mattingly sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2000-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-mattingly",
+    "name": "Lisa Mattingly",
+    "email": "lisa.mattingly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dcarroll-dbsr",
+  "type": "person",
+  "title": "Dcarroll",
+  "compiled_truth": "Dcarroll is an external contact at [Dbsr](companies/dbsr). Over the corpus period (2000-04-04 to 2001-12-21), Dcarroll sent 2 and received 153 emails, totalling 155 interactions. Top correspondents: [Ed](people/ed-clfp) (2), [Eke](people/eke-aelaw) (2), [Karen](people/karen-klindh) (2), [Kmills](people/kmills-cfbf) (2), [Kmccrea](people/kmccrea-sablaw) (2).",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dcarroll-dbsr",
+    "name": "Dcarroll",
+    "email": "dcarroll@dbsr.com",
+    "primary_affiliation": "companies/dbsr"
+  }
+}

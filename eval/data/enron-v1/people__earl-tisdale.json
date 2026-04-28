@@ -1,0 +1,14 @@
+{
+  "slug": "people/earl-tisdale",
+  "type": "person",
+  "title": "Earl Tisdale",
+  "compiled_truth": "Earl Tisdale is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-26), Earl Tisdale sent 1 and received 692 emails, totalling 693 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (1), [Aimee Lannou](people/aimee-lannou) (1).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/earl-tisdale",
+    "name": "Earl Tisdale",
+    "email": "earl.tisdale@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

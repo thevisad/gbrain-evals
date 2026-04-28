@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-kermit",
+  "type": "person",
+  "title": "Team Kermit",
+  "compiled_truth": "Team Kermit is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-07 to 2002-03-25), Team Kermit sent 0 and received 57 emails, totalling 57 interactions.",
+  "timeline": "- **2000-03-07** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-kermit",
+    "name": "Team Kermit",
+    "email": "team.kermit@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheryl-lipshutz",
+  "type": "person",
+  "title": "Cheryl Lipshutz",
+  "compiled_truth": "Cheryl Lipshutz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2002-01-25), Cheryl Lipshutz sent 1 and received 79 emails, totalling 80 interactions. Top correspondents: [Robtaylor](people/robtaylor-akllp) (1), [Brett Wiggs](people/brett-wiggs) (1), [David Mitchell](people/david-mitchell) (1), [Fredericoporto](people/fredericoporto-akllp) (1), [Kay Mann](people/kay-mann) (1).",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheryl-lipshutz",
+    "name": "Cheryl Lipshutz",
+    "email": "cheryl.lipshutz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

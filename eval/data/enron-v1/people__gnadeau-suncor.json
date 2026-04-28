@@ -1,0 +1,14 @@
+{
+  "slug": "people/gnadeau-suncor",
+  "type": "person",
+  "title": "Gnadeau",
+  "compiled_truth": "Gnadeau is an external contact at [Suncor](companies/suncor). Over the corpus period (2000-09-20 to 2001-07-31), Gnadeau sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-09-20** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gnadeau-suncor",
+    "name": "Gnadeau",
+    "email": "gnadeau@suncor.com",
+    "primary_affiliation": "companies/suncor"
+  }
+}

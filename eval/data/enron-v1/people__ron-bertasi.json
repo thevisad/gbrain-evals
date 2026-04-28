@@ -1,0 +1,14 @@
+{
+  "slug": "people/ron-bertasi",
+  "type": "person",
+  "title": "Ron Bertasi",
+  "compiled_truth": "Ron Bertasi is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-12-03), Ron Bertasi sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ron-bertasi",
+    "name": "Ron Bertasi",
+    "email": "ron.bertasi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mrudula-gadade",
+  "type": "person",
+  "title": "Mrudula Gadade",
+  "compiled_truth": "Mrudula Gadade is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-06 to 2001-11-13), Mrudula Gadade sent 2 and received 57 emails, totalling 59 interactions. Top correspondents: [James Hughes](people/james-hughes) (2), [Rob Walls](people/rob-walls) (2), [Bruce Lundstrom](people/bruce-lundstrom) (2), [John Ambler](people/john-ambler) (2), [Wade Cline](people/wade-cline) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-10-06** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mrudula-gadade",
+    "name": "Mrudula Gadade",
+    "email": "mrudula.gadade@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

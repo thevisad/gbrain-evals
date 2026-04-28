@@ -1,0 +1,14 @@
+{
+  "slug": "people/don-thomas",
+  "type": "person",
+  "title": "Don Thomas",
+  "compiled_truth": "Don Thomas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2000-08-15), Don Thomas sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2000-08-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/don-thomas",
+    "name": "Don Thomas",
+    "email": "don.thomas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

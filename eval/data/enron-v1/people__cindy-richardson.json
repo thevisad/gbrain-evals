@@ -1,0 +1,14 @@
+{
+  "slug": "people/cindy-richardson",
+  "type": "person",
+  "title": "Cindy Richardson",
+  "compiled_truth": "Cindy Richardson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2002-05-06), Cindy Richardson sent 30 and received 104 emails, totalling 134 interactions. Top correspondents: [Runners](people/runners) (16), [Dl-Erc](people/dl-erc) (5), [Monique Sanchez](people/monique-sanchez) (3), [Enronrunners](people/enronrunners) (2), [Tracksters](people/tracksters) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cindy-richardson",
+    "name": "Cindy Richardson",
+    "email": "cindy.richardson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

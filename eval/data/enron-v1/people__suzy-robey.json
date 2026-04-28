@@ -1,0 +1,14 @@
+{
+  "slug": "people/suzy-robey",
+  "type": "person",
+  "title": "Suzy Robey",
+  "compiled_truth": "Suzy Robey is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-07-16), Suzy Robey sent 0 and received 179 emails, totalling 179 interactions.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suzy-robey",
+    "name": "Suzy Robey",
+    "email": "suzy.robey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

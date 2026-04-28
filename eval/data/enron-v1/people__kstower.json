@@ -1,0 +1,14 @@
+{
+  "slug": "people/kstower",
+  "type": "person",
+  "title": "Kstower",
+  "compiled_truth": "Kstower is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-06 to 2000-11-06), Kstower sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2000-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kstower",
+    "name": "Kstower",
+    "email": "kstower@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

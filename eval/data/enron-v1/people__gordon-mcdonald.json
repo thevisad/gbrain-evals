@@ -1,0 +1,14 @@
+{
+  "slug": "people/gordon-mcdonald",
+  "type": "person",
+  "title": "'Gordon Mcdonald'",
+  "compiled_truth": "'Gordon Mcdonald' is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-31 to 2001-11-14), 'Gordon Mcdonald' sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-10-31** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gordon-mcdonald",
+    "name": "'Gordon Mcdonald'",
+    "email": "'gordon.mcdonald'@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

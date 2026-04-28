@@ -1,0 +1,14 @@
+{
+  "slug": "people/joseph-hrgovcic",
+  "type": "person",
+  "title": "Joseph Hrgovcic",
+  "compiled_truth": "Joseph Hrgovcic is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2002-01-15), Joseph Hrgovcic sent 18 and received 228 emails, totalling 246 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (13), [Vasant Shanbhogue](people/vasant-shanbhogue) (4), [Mark Tawney](people/mark-tawney) (3), [Shirley Crenshaw](people/shirley-crenshaw) (3), [J Kaminski](people/j-kaminski) (3). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joseph-hrgovcic",
+    "name": "Joseph Hrgovcic",
+    "email": "joseph.hrgovcic@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/seanpat-aol",
+  "type": "person",
+  "title": "Seanpat",
+  "compiled_truth": "Seanpat is an external contact at [AOL](companies/aol). Over the corpus period (2000-11-09 to 2000-11-14), Seanpat sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2000-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/seanpat-aol",
+    "name": "Seanpat",
+    "email": "seanpat@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

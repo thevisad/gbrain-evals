@@ -1,0 +1,14 @@
+{
+  "slug": "people/jill-lafave",
+  "type": "person",
+  "title": "Jill Lafave",
+  "compiled_truth": "Jill Lafave is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-08 to 2001-11-16), Jill Lafave sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2001-01-08** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jill-lafave",
+    "name": "Jill Lafave",
+    "email": "jill.lafave@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

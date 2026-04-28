@@ -1,0 +1,14 @@
+{
+  "slug": "people/lnichols-bpa",
+  "type": "person",
+  "title": "Lnichols",
+  "compiled_truth": "Lnichols is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2000-06-21 to 2002-01-24), Lnichols sent 3 and received 25 emails, totalling 28 interactions. Top correspondents: [Rrga-L](people/rrga-l-list) (3).",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lnichols-bpa",
+    "name": "Lnichols",
+    "email": "lnichols@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

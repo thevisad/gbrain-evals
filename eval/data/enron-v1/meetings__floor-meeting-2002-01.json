@@ -1,0 +1,30 @@
+{
+  "slug": "meetings/floor-meeting-2002-01",
+  "type": "meeting",
+  "title": "Meeting: Floor Meeting",
+  "compiled_truth": "Meeting: \"Floor Meeting\". Occurred 2002-01-24 with 1 related emails. Participants included: [Adam Stevens](people/adam-stevens), [ Anita](people/anita), [ Jose](people/jose), [ Karthik](people/karthik), [ Kevin](people/kevin), [Martin Lin](people/martin-lin), [ Mauricio](people/mauricio), [ Mike](people/mike)....",
+  "timeline": "- **2002-01-24** | Meeting: floor meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/floor-meeting-2002-01",
+    "attendees": [
+      "people/adam-stevens",
+      "people/anita",
+      "people/jose",
+      "people/karthik",
+      "people/kevin",
+      "people/martin-lin",
+      "people/mauricio",
+      "people/mike",
+      "people/nelson",
+      "people/pravas",
+      "people/praveen",
+      "people/shirley-crenshaw",
+      "people/shravan",
+      "people/steve",
+      "people/therese",
+      "people/vince"
+    ],
+    "date": "2002-01-24"
+  }
+}

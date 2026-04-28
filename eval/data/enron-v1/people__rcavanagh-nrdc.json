@@ -1,0 +1,14 @@
+{
+  "slug": "people/rcavanagh-nrdc",
+  "type": "person",
+  "title": "Rcavanagh",
+  "compiled_truth": "Rcavanagh is an external contact at [Nrdc](companies/nrdc). Over the corpus period (2000-08-10 to 2001-12-21), Rcavanagh sent 9 and received 84 emails, totalling 93 interactions. Top correspondents: [Wbooth](people/wbooth-booth-law) (6), [Cmcintyre](people/cmcintyre-sempra) (6), [Jdasovic](people/jdasovic) (6), [Fieldejr](people/fieldejr-sce) (6), [Braun](people/braun-cmua) (6).",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rcavanagh-nrdc",
+    "name": "Rcavanagh",
+    "email": "rcavanagh@nrdc.org",
+    "primary_affiliation": "companies/nrdc"
+  }
+}

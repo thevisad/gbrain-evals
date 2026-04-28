@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-d-smith-email",
+  "type": "person",
+  "title": "Richard D Smith",
+  "compiled_truth": "Richard D Smith is an external contact at [Email](companies/email). Over the corpus period (2000-02-12 to 2002-01-10), Richard D Smith sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-d-smith-email",
+    "name": "Richard D Smith",
+    "email": "richard_d_smith@email.mobil.com",
+    "primary_affiliation": "companies/email"
+  }
+}

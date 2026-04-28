@@ -1,0 +1,14 @@
+{
+  "slug": "people/maria-hernandez",
+  "type": "person",
+  "title": "Maria Hernandez",
+  "compiled_truth": "Maria Hernandez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-07 to 2002-02-25), Maria Hernandez sent 3 and received 29 emails, totalling 32 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (3), [Karen Gruesen](people/karen-gruesen) (2), [Rmwalker](people/rmwalker-aep) (1), [Eva Rainer](people/eva-rainer) (1), [Jean Mrha](people/jean-mrha) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-07** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maria-hernandez",
+    "name": "Maria Hernandez",
+    "email": "maria.hernandez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

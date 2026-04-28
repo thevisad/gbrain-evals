@@ -1,0 +1,14 @@
+{
+  "slug": "people/zangeles-sempra",
+  "type": "person",
+  "title": "Zangeles",
+  "compiled_truth": "Zangeles is an external contact at [Sempra Energy](companies/sempra). Over the corpus period (2000-03-30 to 2001-05-18), Zangeles sent 11 and received 24 emails, totalling 35 interactions. Top correspondents: [Burkee](people/burkee-cts) (10), [Craigc](people/craigc-calpine) (10), [Rick Counihan](people/rick-counihan-greenmountain) (10), [Mday](people/mday-gmssr) (10), [Chj](people/chj-aelaw) (10).",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2001-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zangeles-sempra",
+    "name": "Zangeles",
+    "email": "zangeles@sempra.com",
+    "primary_affiliation": "companies/sempra"
+  }
+}

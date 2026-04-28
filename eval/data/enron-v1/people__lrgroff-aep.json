@@ -1,0 +1,14 @@
+{
+  "slug": "people/lrgroff-aep",
+  "type": "person",
+  "title": "Lrgroff",
+  "compiled_truth": "Lrgroff is an external contact at [Aep](companies/aep). Over the corpus period (2000-11-27 to 2001-06-11), Lrgroff sent 2 and received 16 emails, totalling 18 interactions. Top correspondents: [Akatz](people/akatz-eei) (2), [Fmdutton](people/fmdutton-aep) (2), [Rsbaker](people/rsbaker-duke-energy) (2), [Hemu](people/hemu-dynegy) (2), [Elizabeth Sager](people/elizabeth-sager) (2).",
+  "timeline": "- **2000-11-27** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lrgroff-aep",
+    "name": "Lrgroff",
+    "email": "lrgroff@aep.com",
+    "primary_affiliation": "companies/aep"
+  }
+}

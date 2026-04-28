@@ -1,0 +1,14 @@
+{
+  "slug": "people/rdw0-pge",
+  "type": "person",
+  "title": "Rdw0",
+  "compiled_truth": "Rdw0 is an external contact at [PG&E](companies/pge). Over the corpus period (2000-09-08 to 2001-07-31), Rdw0 sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rdw0-pge",
+    "name": "Rdw0",
+    "email": "rdw0@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

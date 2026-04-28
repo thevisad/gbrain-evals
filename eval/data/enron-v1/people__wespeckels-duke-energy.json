@@ -1,0 +1,14 @@
+{
+  "slug": "people/wespeckels-duke-energy",
+  "type": "person",
+  "title": "Wespeckels",
+  "compiled_truth": "Wespeckels is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-01-31 to 2001-03-29), Wespeckels sent 4 and received 108 emails, totalling 112 interactions. Top correspondents: [Dfarmer](people/dfarmer) (4), [Stacey Neuweiler](people/stacey-neuweiler) (4), [Mrcherry](people/mrcherry-duke-energy) (4), [Cwcass](people/cwcass-duke-energy) (4), [Dcspencer](people/dcspencer-duke-energy) (4).",
+  "timeline": "- **2000-01-31** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wespeckels-duke-energy",
+    "name": "Wespeckels",
+    "email": "wespeckels@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

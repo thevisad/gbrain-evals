@@ -1,0 +1,14 @@
+{
+  "slug": "people/christopher-long",
+  "type": "person",
+  "title": "Christopher Long",
+  "compiled_truth": "Christopher Long is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-31 to 2001-05-31), Christopher Long sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-01-31** | First recorded email in corpus\n- **2001-05-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christopher-long",
+    "name": "Christopher Long",
+    "email": "christopher.long@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

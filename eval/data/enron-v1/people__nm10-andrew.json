@@ -1,0 +1,14 @@
+{
+  "slug": "people/nm10-andrew",
+  "type": "person",
+  "title": "Nm10",
+  "compiled_truth": "Nm10 is an external contact at [Andrew](companies/andrew). Over the corpus period (2001-10-19 to 2001-11-01), Nm10 sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-19** | First recorded email in corpus\n- **2001-11-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nm10-andrew",
+    "name": "Nm10",
+    "email": "nm10@andrew.cmu.edu",
+    "primary_affiliation": "companies/andrew"
+  }
+}

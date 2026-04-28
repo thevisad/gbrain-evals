@@ -1,0 +1,14 @@
+{
+  "slug": "people/veronica-thompson",
+  "type": "person",
+  "title": "Veronica Thompson",
+  "compiled_truth": "Veronica Thompson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-29 to 2001-07-10), Veronica Thompson sent 0 and received 108 emails, totalling 108 interactions.",
+  "timeline": "- **2000-02-29** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/veronica-thompson",
+    "name": "Veronica Thompson",
+    "email": "veronica.thompson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

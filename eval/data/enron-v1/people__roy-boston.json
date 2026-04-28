@@ -1,0 +1,14 @@
+{
+  "slug": "people/roy-boston",
+  "type": "person",
+  "title": "Roy Boston",
+  "compiled_truth": "Roy Boston is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-21 to 2001-12-03), Roy Boston sent 13 and received 354 emails, totalling 367 interactions. Top correspondents: [Janine Migden](people/janine-migden) (8), [Rshapiro](people/rshapiro) (6), [Jsteffe](people/jsteffe) (4), [Richard Shapiro](people/richard-shapiro) (2), [Steve Montovano](people/steve-montovano) (2). Mailbox folders observed: deleted_items, inbox, michigan, midwest.",
+  "timeline": "- **2000-01-21** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roy-boston",
+    "name": "Roy Boston",
+    "email": "roy.boston@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

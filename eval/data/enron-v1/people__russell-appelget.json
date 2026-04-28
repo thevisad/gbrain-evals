@@ -1,0 +1,14 @@
+{
+  "slug": "people/russell-appelget",
+  "type": "person",
+  "title": "Russell Appelget",
+  "compiled_truth": "Russell Appelget is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-09 to 2001-05-08), Russell Appelget sent 1 and received 14 emails, totalling 15 interactions. Top correspondents: [Frank Ermis](people/frank-ermis) (1).",
+  "timeline": "- **2001-04-09** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/russell-appelget",
+    "name": "Russell Appelget",
+    "email": "russell.appelget@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

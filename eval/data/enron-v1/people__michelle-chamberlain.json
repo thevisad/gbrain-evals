@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-chamberlain",
+  "type": "person",
+  "title": "Michelle Chamberlain",
+  "compiled_truth": "Michelle Chamberlain is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-17 to 2001-10-29), Michelle Chamberlain sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-10-17** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-chamberlain",
+    "name": "Michelle Chamberlain",
+    "email": "michelle.chamberlain@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

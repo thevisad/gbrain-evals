@@ -1,0 +1,14 @@
+{
+  "slug": "people/laurie-ellis",
+  "type": "person",
+  "title": "Laurie Ellis",
+  "compiled_truth": "Laurie Ellis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-09 to 2002-05-06), Laurie Ellis sent 18 and received 125 emails, totalling 143 interactions. Top correspondents: [Jane Tholt](people/jane-tholt) (6), [W  Pereira](people/w-pereira) (5), [Theresa Staab](people/theresa-staab) (3), [Joe Parks](people/joe-parks) (2), [Daren Farmer](people/daren-farmer) (1). Mailbox folders observed: inbox, to_do_list.",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laurie-ellis",
+    "name": "Laurie Ellis",
+    "email": "laurie.ellis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

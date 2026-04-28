@@ -1,0 +1,14 @@
+{
+  "slug": "people/sheila-glover",
+  "type": "person",
+  "title": "Sheila Glover",
+  "compiled_truth": "Sheila Glover is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-20), Sheila Glover sent 295 and received 769 emails, totalling 1064 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (254), [Gary Hickerson](people/gary-hickerson) (45), [Theresa Brogan](people/theresa-brogan) (41), [Marie Heard](people/marie-heard) (36), [Sally Beck](people/sally-beck) (32). Mailbox folders observed: _americas, brokerage_agreements, deleted_items, doorstep, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sheila-glover",
+    "name": "Sheila Glover",
+    "email": "sheila.glover@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

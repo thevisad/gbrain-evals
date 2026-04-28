@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephens-eslerstephens",
+  "type": "person",
+  "title": "Stephens",
+  "compiled_truth": "Stephens is an external contact at [Eslerstephens](companies/eslerstephens). Over the corpus period (2001-02-20 to 2001-04-27), Stephens sent 0 and received 66 emails, totalling 66 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephens-eslerstephens",
+    "name": "Stephens",
+    "email": "stephens@eslerstephens.com",
+    "primary_affiliation": "companies/eslerstephens"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lfeuerbach-mfah",
+  "type": "person",
+  "title": "Lfeuerbach",
+  "compiled_truth": "Lfeuerbach is an external contact at [Mfah](companies/mfah). Over the corpus period (2001-03-29 to 2001-03-29), Lfeuerbach sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-03-29** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lfeuerbach-mfah",
+    "name": "Lfeuerbach",
+    "email": "lfeuerbach@mfah.org",
+    "primary_affiliation": "companies/mfah"
+  }
+}

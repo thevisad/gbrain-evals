@@ -1,0 +1,14 @@
+{
+  "slug": "people/mballases-hotmail",
+  "type": "person",
+  "title": "Mballases",
+  "compiled_truth": "Mballases is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-01-21 to 2002-01-30), Mballases sent 6 and received 84 emails, totalling 90 interactions. Top correspondents: [Ebass](people/ebass) (3), [Eric Bass](people/eric-bass) (3), [Stormtrooper](people/stormtrooper-fireman) (2), [Ezra](people/ezra-airmail) (2), [Bhoskins](people/bhoskins-hotmail) (2).",
+  "timeline": "- **2000-01-21** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mballases-hotmail",
+    "name": "Mballases",
+    "email": "mballases@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

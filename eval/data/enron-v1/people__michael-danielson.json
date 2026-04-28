@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-danielson",
+  "type": "person",
+  "title": "Michael Danielson",
+  "compiled_truth": "Michael Danielson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2002-03-21), Michael Danielson sent 4 and received 213 emails, totalling 217 interactions. Top correspondents: [Tana Jones](people/tana-jones) (3), [Lorraine Becker](people/lorraine-becker) (1), [Mark Taylor](people/mark-taylor) (1).",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-danielson",
+    "name": "Michael Danielson",
+    "email": "michael.danielson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

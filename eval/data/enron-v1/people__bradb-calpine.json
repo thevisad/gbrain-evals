@@ -1,0 +1,14 @@
+{
+  "slug": "people/bradb-calpine",
+  "type": "person",
+  "title": "Bradb",
+  "compiled_truth": "Bradb is an external contact at [Calpine](companies/calpine). Over the corpus period (1999-09-24 to 2001-07-31), Bradb sent 0 and received 65 emails, totalling 65 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bradb-calpine",
+    "name": "Bradb",
+    "email": "bradb@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

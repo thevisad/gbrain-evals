@@ -1,0 +1,14 @@
+{
+  "slug": "people/habiba-bayi",
+  "type": "person",
+  "title": "Habiba Bayi",
+  "compiled_truth": "Habiba Bayi is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-05 to 2001-06-06), Habiba Bayi sent 1 and received 88 emails, totalling 89 interactions. Top correspondents: [David Minns](people/david-minns) (1).",
+  "timeline": "- **1999-11-05** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/habiba-bayi",
+    "name": "Habiba Bayi",
+    "email": "habiba.bayi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

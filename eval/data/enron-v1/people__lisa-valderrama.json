@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-valderrama",
+  "type": "person",
+  "title": "Lisa Valderrama",
+  "compiled_truth": "Lisa Valderrama is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-30), Lisa Valderrama sent 0 and received 165 emails, totalling 165 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-valderrama",
+    "name": "Lisa Valderrama",
+    "email": "lisa.valderrama@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

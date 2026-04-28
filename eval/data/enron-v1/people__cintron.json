@@ -1,0 +1,14 @@
+{
+  "slug": "people/cintron",
+  "type": "person",
+  "title": "'Cintron",
+  "compiled_truth": "'Cintron is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-20 to 2002-02-19), 'Cintron sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-11-20** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cintron",
+    "name": "'Cintron",
+    "email": "'cintron@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jfine-kilstock",
+  "type": "person",
+  "title": "Jfine",
+  "compiled_truth": "Jfine is an external contact at [Kilstock](companies/kilstock). Over the corpus period (2000-07-10 to 2000-09-21), Jfine sent 1 and received 37 emails, totalling 38 interactions. Top correspondents: [Aduncan](people/aduncan-kilstock) (1), [Kay Mann](people/kay-mann) (1), [Jeffrey M Keenan](people/jeffrey-m-keenan) (1), [Tom Chapman](people/tom-chapman) (1), [Heather Kroll](people/heather-kroll) (1).",
+  "timeline": "- **2000-07-10** | First recorded email in corpus\n- **2000-09-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jfine-kilstock",
+    "name": "Jfine",
+    "email": "jfine@kilstock.com",
+    "primary_affiliation": "companies/kilstock"
+  }
+}

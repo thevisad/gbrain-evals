@@ -1,0 +1,14 @@
+{
+  "slug": "people/harry-bucalo",
+  "type": "person",
+  "title": "Harry Bucalo",
+  "compiled_truth": "Harry Bucalo is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-12-19), Harry Bucalo sent 6 and received 442 emails, totalling 448 interactions. Top correspondents: [Greg Whalley](people/greg-whalley) (3), [Louise Kitchen](people/louise-kitchen) (3), [Andy Zipper](people/andy-zipper) (3), [Bob Shults](people/bob-shults) (3), [Daniel Diamond](people/daniel-diamond) (3). Mailbox folders observed: deleted_items, ffl.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/harry-bucalo",
+    "name": "Harry Bucalo",
+    "email": "harry.bucalo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

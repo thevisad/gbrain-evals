@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-gray",
+  "type": "person",
+  "title": "Randy Gray",
+  "compiled_truth": "Randy Gray is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2001-05-14), Randy Gray sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2001-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-gray",
+    "name": "Randy Gray",
+    "email": "randy.gray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/alexanms-sce",
+  "type": "person",
+  "title": "Alexanms",
+  "compiled_truth": "Alexanms is an external contact at [Sce](companies/sce). Over the corpus period (1999-09-24 to 2001-10-19), Alexanms sent 5 and received 145 emails, totalling 150 interactions. Top correspondents: [Jdasovic](people/jdasovic) (3), [Mday](people/mday-gmssr) (3), [Porterdk](people/porterdk-sce) (3), [Jfawcet](people/jfawcet) (3), [Susan Scott](people/susan-scott) (3).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alexanms-sce",
+    "name": "Alexanms",
+    "email": "alexanms@sce.com",
+    "primary_affiliation": "companies/sce"
+  }
+}

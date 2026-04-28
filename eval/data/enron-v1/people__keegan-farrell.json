@@ -1,0 +1,14 @@
+{
+  "slug": "people/keegan-farrell",
+  "type": "person",
+  "title": "Keegan Farrell",
+  "compiled_truth": "Keegan Farrell is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-20 to 2002-02-12), Keegan Farrell sent 107 and received 261 emails, totalling 368 interactions. Top correspondents: [Cheryl Nelson](people/cheryl-nelson) (70), [Becky Spencer](people/becky-spencer) (64), [Stephanie Panus](people/stephanie-panus) (60), [Sara Shackleton](people/sara-shackleton) (59), [Tana Jones](people/tana-jones) (56). Mailbox folders observed: deleted_items, inbox, nelson, time_off.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2002-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keegan-farrell",
+    "name": "Keegan Farrell",
+    "email": "keegan.farrell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

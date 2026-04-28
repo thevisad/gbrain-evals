@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-smith",
+  "type": "person",
+  "title": "Susan Smith",
+  "compiled_truth": "Susan Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-07-10), Susan Smith sent 13 and received 319 emails, totalling 332 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (13), [Melissa Graves](people/melissa-graves) (13), [Vance Taylor](people/vance-taylor) (12), [Donald Reinhardt](people/donald-reinhardt) (12), [Jill Zivley](people/jill-zivley) (2).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-smith",
+    "name": "Susan Smith",
+    "email": "susan.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

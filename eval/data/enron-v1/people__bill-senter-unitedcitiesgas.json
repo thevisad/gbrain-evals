@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-senter-unitedcitiesgas",
+  "type": "person",
+  "title": "Bill Senter",
+  "compiled_truth": "Bill Senter is an external contact at [Unitedcitiesgas](companies/unitedcitiesgas). Over the corpus period (2001-11-19 to 2001-12-27), Bill Senter sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-11-19** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-senter-unitedcitiesgas",
+    "name": "Bill Senter",
+    "email": "bill.senter@unitedcitiesgas.com",
+    "primary_affiliation": "companies/unitedcitiesgas"
+  }
+}

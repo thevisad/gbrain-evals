@@ -1,0 +1,14 @@
+{
+  "slug": "people/crobertson",
+  "type": "person",
+  "title": "Crobertson",
+  "compiled_truth": "Crobertson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-15 to 2002-03-25), Crobertson sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2001-10-15** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/crobertson",
+    "name": "Crobertson",
+    "email": "crobertson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

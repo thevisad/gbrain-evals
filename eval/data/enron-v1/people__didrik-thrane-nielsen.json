@@ -1,0 +1,14 @@
+{
+  "slug": "people/didrik-thrane-nielsen",
+  "type": "person",
+  "title": "Didrik Thrane-Nielsen",
+  "compiled_truth": "Didrik Thrane-Nielsen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-30 to 2001-12-28), Didrik Thrane-Nielsen sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/didrik-thrane-nielsen",
+    "name": "Didrik Thrane-Nielsen",
+    "email": "didrik.thrane-nielsen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

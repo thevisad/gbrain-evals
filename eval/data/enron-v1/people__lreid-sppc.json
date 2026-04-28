@@ -1,0 +1,14 @@
+{
+  "slug": "people/lreid-sppc",
+  "type": "person",
+  "title": "Lreid",
+  "compiled_truth": "Lreid is an external contact at [Sppc](companies/sppc). Over the corpus period (2000-11-07 to 2001-12-14), Lreid sent 3 and received 26 emails, totalling 29 interactions. Top correspondents: [Barry Tycholiz](people/barry-tycholiz) (2), [Steven P South](people/steven-p-south) (1).",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lreid-sppc",
+    "name": "Lreid",
+    "email": "lreid@sppc.com",
+    "primary_affiliation": "companies/sppc"
+  }
+}

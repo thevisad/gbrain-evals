@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-bowen",
+  "type": "person",
+  "title": "A  Bowen",
+  "compiled_truth": "A  Bowen is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-07 to 2002-05-06), A  Bowen sent 2 and received 16 emails, totalling 18 interactions. Top correspondents: [M  Love](people/m-love) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-08-07** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-bowen",
+    "name": "A  Bowen",
+    "email": "a..bowen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-ringblom",
+  "type": "person",
+  "title": "Kathy Ringblom",
+  "compiled_truth": "Kathy Ringblom is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2002-01-16), Kathy Ringblom sent 6 and received 211 emails, totalling 217 interactions. Top correspondents: [Drew Fossum](people/drew-fossum) (5), [Dari Dornan](people/dari-dornan) (3), [Martha Benner](people/martha-benner) (3), [Jim Talcott](people/jim-talcott) (3), [Ann Smith](people/ann-smith) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-ringblom",
+    "name": "Kathy Ringblom",
+    "email": "kathy.ringblom@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

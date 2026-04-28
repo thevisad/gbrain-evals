@@ -1,0 +1,14 @@
+{
+  "slug": "people/donald-bishop",
+  "type": "person",
+  "title": "Donald Bishop",
+  "compiled_truth": "Donald Bishop is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2001-12-20), Donald Bishop sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2001-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donald-bishop",
+    "name": "Donald Bishop",
+    "email": "donald.bishop@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tturner-ziagroup",
+  "type": "person",
+  "title": "Tturner",
+  "compiled_truth": "Tturner is an external contact at [Ziagroup](companies/ziagroup). Over the corpus period (1999-09-24 to 2000-08-25), Tturner sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2000-08-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tturner-ziagroup",
+    "name": "Tturner",
+    "email": "tturner@ziagroup.com",
+    "primary_affiliation": "companies/ziagroup"
+  }
+}

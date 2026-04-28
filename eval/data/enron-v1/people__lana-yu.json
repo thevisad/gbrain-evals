@@ -1,0 +1,14 @@
+{
+  "slug": "people/lana-yu",
+  "type": "person",
+  "title": "Lana Yu",
+  "compiled_truth": "Lana Yu is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2000-10-09), Lana Yu sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2000-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lana-yu",
+    "name": "Lana Yu",
+    "email": "lana.yu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

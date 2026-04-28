@@ -1,0 +1,28 @@
+{
+  "slug": "threads/outage-request-2001-10",
+  "type": "meeting",
+  "title": "Thread: Outage Request",
+  "compiled_truth": "Email thread: \"Outage Request\". Ran from 2001-10-23 to 2001-10-23 with 8 messages. Participants: [Andy-Austinenergy Ramirez](people/andy-austinenergy-ramirez), [Andy Ramirez](people/andy-ramirez-austinenergy), [Chris Kirksey](people/chris-kirksey), [Clint Dean](people/clint-dean), [David Duran](people/david-duran), [Doug Gilbert-Smith](people/doug-gilbert-smith), [Jeffrey Keenan](people/jeffrey-keenan), [Jeffrey M Keenan](people/jeffrey-m-keenan).",
+  "timeline": "- **2001-10-23** | Thread begins: outage request\n- **2001-10-23** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/outage-request-2001-10",
+    "attendees": [
+      "people/andy-austinenergy-ramirez",
+      "people/andy-ramirez-austinenergy",
+      "people/chris-kirksey",
+      "people/clint-dean",
+      "people/david-duran",
+      "people/doug-gilbert-smith",
+      "people/jeffrey-keenan",
+      "people/jeffrey-m-keenan",
+      "people/john-wester",
+      "people/john-wester-austinenergy",
+      "people/keenan",
+      "people/m-forney",
+      "people/m-presto",
+      "people/mike-curry"
+    ],
+    "date": "2001-10-23"
+  }
+}

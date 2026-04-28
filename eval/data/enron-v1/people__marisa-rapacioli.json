@@ -1,0 +1,14 @@
+{
+  "slug": "people/marisa-rapacioli",
+  "type": "person",
+  "title": "Marisa Rapacioli",
+  "compiled_truth": "Marisa Rapacioli is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-05 to 2002-01-15), Marisa Rapacioli sent 2 and received 87 emails, totalling 89 interactions. Top correspondents: [Kevin Ruffcorn](people/kevin-ruffcorn) (1), [Richard Lewis](people/richard-lewis) (1), [Peter Hutchinson](people/peter-hutchinson) (1), [Eric Shaw](people/eric-shaw) (1), [Joe Gold](people/joe-gold) (1).",
+  "timeline": "- **2001-05-05** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marisa-rapacioli",
+    "name": "Marisa Rapacioli",
+    "email": "marisa.rapacioli@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

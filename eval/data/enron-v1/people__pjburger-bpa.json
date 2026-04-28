@@ -1,0 +1,14 @@
+{
+  "slug": "people/pjburger-bpa",
+  "type": "person",
+  "title": "Pjburger",
+  "compiled_truth": "Pjburger is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2000-06-23 to 2001-04-27), Pjburger sent 1 and received 23 emails, totalling 24 interactions. Top correspondents: [Sawestenberg](people/sawestenberg-bpa) (1), [Jack Speer](people/jack-speer-alcoa) (1), [Crow](people/crow-millernash) (1), [Michaelearly](people/michaelearly-earthlink) (1), [Eauverde](people/eauverde-hotmail) (1).",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pjburger-bpa",
+    "name": "Pjburger",
+    "email": "pjburger@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/crcommunications-caiso",
+  "type": "person",
+  "title": "Crcommunications",
+  "compiled_truth": "Crcommunications is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-05-30 to 2002-02-07), Crcommunications sent 241 and received 2 emails, totalling 243 interactions. Top correspondents: [20Participants](people/20participants-caiso) (213), [Scsettlecontacts](people/scsettlecontacts-caiso) (56), [Isoclientrelations](people/isoclientrelations-caiso) (52), [Tswg](people/tswg-caiso) (22), [Slines](people/slines-caiso) (21).",
+  "timeline": "- **2000-05-30** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/crcommunications-caiso",
+    "name": "Crcommunications",
+    "email": "crcommunications@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

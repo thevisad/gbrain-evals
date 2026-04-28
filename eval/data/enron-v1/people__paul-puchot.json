@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-puchot",
+  "type": "person",
+  "title": "Paul Puchot",
+  "compiled_truth": "Paul Puchot is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-11 to 2002-05-09), Paul Puchot sent 7 and received 44 emails, totalling 51 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (4), [Elizabeth Sager](people/elizabeth-sager) (2), [David Koogler](people/david-koogler) (2), [Dmitchel](people/dmitchel-cwt) (1), [David Mitchell](people/david-mitchell-cwt) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-03-11** | First recorded email in corpus\n- **2002-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-puchot",
+    "name": "Paul Puchot",
+    "email": "paul.puchot@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

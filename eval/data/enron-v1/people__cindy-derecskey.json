@@ -1,0 +1,14 @@
+{
+  "slug": "people/cindy-derecskey",
+  "type": "person",
+  "title": "Cindy Derecskey",
+  "compiled_truth": "Cindy Derecskey is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-05 to 2001-12-21), Cindy Derecskey sent 46 and received 197 emails, totalling 243 interactions. Top correspondents: [Steven Kean](people/steven-kean) (25), [Richard Shapiro](people/richard-shapiro) (24), [Mark Palmer](people/mark-palmer) (17), [Karen Denne](people/karen-denne) (16), [Christie Patrick](people/christie-patrick) (13). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-11-05** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cindy-derecskey",
+    "name": "Cindy Derecskey",
+    "email": "cindy.derecskey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

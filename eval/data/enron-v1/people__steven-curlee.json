@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-curlee",
+  "type": "person",
+  "title": "Steven Curlee",
+  "compiled_truth": "Steven Curlee is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-02 to 2001-11-19), Steven Curlee sent 10 and received 58 emails, totalling 68 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (6), [Sara Shackleton](people/sara-shackleton) (2), [Sanjeev Khanna](people/sanjeev-khanna) (1), [Maria Garza](people/maria-garza) (1), [Eric Boyt](people/eric-boyt) (1).",
+  "timeline": "- **2000-08-02** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-curlee",
+    "name": "Steven Curlee",
+    "email": "steven.curlee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

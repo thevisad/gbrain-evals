@@ -1,0 +1,14 @@
+{
+  "slug": "people/reidson-howellcorp",
+  "type": "person",
+  "title": "Reidson",
+  "compiled_truth": "Reidson is an external contact at [Howellcorp](companies/howellcorp). Over the corpus period (2000-11-11 to 2000-11-11), Reidson sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reidson-howellcorp",
+    "name": "Reidson",
+    "email": "reidson@howellcorp.com",
+    "primary_affiliation": "companies/howellcorp"
+  }
+}

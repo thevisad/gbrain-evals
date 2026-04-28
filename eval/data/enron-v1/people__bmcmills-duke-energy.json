@@ -1,0 +1,14 @@
+{
+  "slug": "people/bmcmills-duke-energy",
+  "type": "person",
+  "title": "Bmcmills",
+  "compiled_truth": "Bmcmills is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-01-31 to 2000-09-06), Bmcmills sent 48 and received 36 emails, totalling 84 interactions. Top correspondents: [Cwcass](people/cwcass-duke-energy) (45), [Wespeckels](people/wespeckels-duke-energy) (43), [Dfarmer](people/dfarmer) (42), [Briley](people/briley) (38), [Mrcherry](people/mrcherry-duke-energy) (37).",
+  "timeline": "- **2000-01-31** | First recorded email in corpus\n- **2000-09-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bmcmills-duke-energy",
+    "name": "Bmcmills",
+    "email": "bmcmills@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

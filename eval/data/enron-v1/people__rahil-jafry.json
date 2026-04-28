@@ -1,0 +1,14 @@
+{
+  "slug": "people/rahil-jafry",
+  "type": "person",
+  "title": "Rahil Jafry",
+  "compiled_truth": "Rahil Jafry is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-29 to 2002-05-13), Rahil Jafry sent 112 and received 682 emails, totalling 794 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (62), [Mark Taylor](people/mark-taylor) (23), [Kal Shah](people/kal-shah) (19), [David Forster](people/david-forster) (17), [Marcus Nettelton](people/marcus-nettelton) (17). Mailbox folders observed: _americas, calendar, commercialization, deleted_items, ema_s, inbox.",
+  "timeline": "- **1999-06-29** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rahil-jafry",
+    "name": "Rahil Jafry",
+    "email": "rahil.jafry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

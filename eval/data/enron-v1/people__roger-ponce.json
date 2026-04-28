@@ -1,0 +1,14 @@
+{
+  "slug": "people/roger-ponce",
+  "type": "person",
+  "title": "Roger Ponce",
+  "compiled_truth": "Roger Ponce is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-11 to 2001-08-31), Roger Ponce sent 2 and received 70 emails, totalling 72 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (2), [Catherine Woods](people/catherine-woods) (2), [James Steffes](people/james-steffes) (2), [Karen Denne](people/karen-denne) (2), [Mpalmer](people/mpalmer) (2).",
+  "timeline": "- **2000-12-11** | First recorded email in corpus\n- **2001-08-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roger-ponce",
+    "name": "Roger Ponce",
+    "email": "roger.ponce@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

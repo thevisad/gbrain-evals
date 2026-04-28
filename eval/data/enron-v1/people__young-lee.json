@@ -1,0 +1,14 @@
+{
+  "slug": "people/young-lee",
+  "type": "person",
+  "title": "Young Lee",
+  "compiled_truth": "Young Lee is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-06-27), Young Lee sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/young-lee",
+    "name": "Young Lee",
+    "email": "young.lee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

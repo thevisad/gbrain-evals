@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-cutaia",
+  "type": "person",
+  "title": "Jennifer Cutaia",
+  "compiled_truth": "Jennifer Cutaia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-06 to 2001-11-09), Jennifer Cutaia sent 13 and received 95 emails, totalling 108 interactions. Top correspondents: [Judy Hernandez](people/judy-hernandez) (13), [Crystal Reyna](people/crystal-reyna) (10), [Silvia Garcia](people/silvia-garcia-viatel) (9), [Lauratietje](people/lauratietje-aol) (9), [Steve Jacobo](people/steve-jacobo) (8).",
+  "timeline": "- **2000-01-06** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-cutaia",
+    "name": "Jennifer Cutaia",
+    "email": "jennifer.cutaia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

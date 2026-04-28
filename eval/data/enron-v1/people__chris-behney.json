@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-behney",
+  "type": "person",
+  "title": "Chris Behney",
+  "compiled_truth": "Chris Behney is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-07 to 2002-02-13), Chris Behney sent 2 and received 54 emails, totalling 56 interactions. Top correspondents: [Mark Pickering](people/mark-pickering) (1), [J  Kean](people/j-kean) (1), [Cooper Richey](people/cooper-richey) (1), [John Zufferli](people/john-zufferli) (1), [Tim Belden](people/tim-belden) (1). Mailbox folders observed: deleted_items, junk_mail.",
+  "timeline": "- **2000-07-07** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-behney",
+    "name": "Chris Behney",
+    "email": "chris.behney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tbelden",
+  "type": "person",
+  "title": "Tbelden",
+  "compiled_truth": "Tbelden is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-20 to 2001-05-17), Tbelden sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-07-20** | First recorded email in corpus\n- **2001-05-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tbelden",
+    "name": "Tbelden",
+    "email": "tbelden@ect.enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

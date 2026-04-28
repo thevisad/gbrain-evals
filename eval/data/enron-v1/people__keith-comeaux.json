@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-comeaux",
+  "type": "person",
+  "title": "Keith Comeaux",
+  "compiled_truth": "Keith Comeaux is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-02 to 2002-01-31), Keith Comeaux sent 6 and received 297 emails, totalling 303 interactions. Top correspondents: [Juan Hernandez](people/juan-hernandez) (5), [Lloyd Will](people/lloyd-will) (5), [Don Baughman](people/don-baughman) (4), [Tom May](people/tom-may) (3), [Corry Bentley](people/corry-bentley) (2). Mailbox folders observed: enron_power, inbox, power.",
+  "timeline": "- **2000-08-02** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-comeaux",
+    "name": "Keith Comeaux",
+    "email": "keith.comeaux@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

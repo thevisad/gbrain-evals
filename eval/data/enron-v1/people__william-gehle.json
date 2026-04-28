@@ -1,0 +1,14 @@
+{
+  "slug": "people/william-gehle",
+  "type": "person",
+  "title": "William Gehle",
+  "compiled_truth": "William Gehle is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-31 to 2002-03-01), William Gehle sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2001-05-31** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/william-gehle",
+    "name": "William Gehle",
+    "email": "william.gehle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

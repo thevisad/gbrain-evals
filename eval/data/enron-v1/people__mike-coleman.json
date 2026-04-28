@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-coleman",
+  "type": "person",
+  "title": "Mike Coleman",
+  "compiled_truth": "Mike Coleman is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-11-21), Mike Coleman sent 16 and received 79 emails, totalling 95 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (9), [Robert Virgo](people/robert-virgo) (6), [Charles Weldon](people/charles-weldon) (6), [Ron Tapscott](people/ron-tapscott) (5), [Mark Breese](people/mark-breese) (5). Mailbox folders observed: _americas, ft__pierce, inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-coleman",
+    "name": "Mike Coleman",
+    "email": "mike.coleman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

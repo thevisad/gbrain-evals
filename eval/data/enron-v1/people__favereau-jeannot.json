@@ -1,0 +1,14 @@
+{
+  "slug": "people/favereau-jeannot",
+  "type": "person",
+  "title": "Favereau Jeannot",
+  "compiled_truth": "Favereau Jeannot is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2001-09-26), Favereau Jeannot sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/favereau-jeannot",
+    "name": "Favereau Jeannot",
+    "email": "favereau.jeannot@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

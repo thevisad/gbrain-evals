@@ -1,0 +1,14 @@
+{
+  "slug": "people/nagler-gene",
+  "type": "person",
+  "title": "Nagler",
+  "compiled_truth": "Nagler is an external contact at [Gene](companies/gene). Over the corpus period (2001-04-12 to 2001-05-23), Nagler sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-04-12** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nagler-gene",
+    "name": "Nagler",
+    "email": "nagler@gene.com",
+    "primary_affiliation": "companies/gene"
+  }
+}

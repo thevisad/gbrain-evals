@@ -1,0 +1,14 @@
+{
+  "slug": "people/letty-mcashan",
+  "type": "person",
+  "title": "Letty Mcashan",
+  "compiled_truth": "Letty Mcashan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-26 to 2001-09-25), Letty Mcashan sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-02-26** | First recorded email in corpus\n- **2001-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/letty-mcashan",
+    "name": "Letty Mcashan",
+    "email": "letty.mcashan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tori-kuykendall",
+  "type": "person",
+  "title": "Tori Kuykendall",
+  "compiled_truth": "Tori Kuykendall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2002-01-18), Tori Kuykendall sent 506 and received 519 emails, totalling 1025 interactions. Top correspondents: [Melba Lozano](people/melba-lozano) (29), [Susan Hadix](people/susan-hadix-elpaso) (24), [Rhaygood](people/rhaygood-darbylaw) (22), [Pkuykendall](people/pkuykendall-wm) (22), [Mike Grigsby](people/mike-grigsby) (21). Mailbox folders observed: _sent_mail, deleted_items, private_folders, sent, sent_items.",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tori-kuykendall",
+    "name": "Tori Kuykendall",
+    "email": "tori.kuykendall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/guadagnola-v-j",
+  "type": "person",
+  "title": "Guadagnola V J ",
+  "compiled_truth": "Guadagnola V J  is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-26 to 2001-09-26), Guadagnola V J  sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-26** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/guadagnola-v-j",
+    "name": "Guadagnola V J ",
+    "email": "guadagnola.v.j.@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

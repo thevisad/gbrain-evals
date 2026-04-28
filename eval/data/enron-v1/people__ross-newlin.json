@@ -1,0 +1,14 @@
+{
+  "slug": "people/ross-newlin",
+  "type": "person",
+  "title": "Ross Newlin",
+  "compiled_truth": "Ross Newlin is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Ross Newlin sent 14 and received 134 emails, totalling 148 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (6), [Don Miller](people/don-miller) (4), [Jon Cathers](people/jon-cathers) (2), [Eric Booth](people/eric-booth) (1), [Gerald Nemec](people/gerald-nemec) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ross-newlin",
+    "name": "Ross Newlin",
+    "email": "ross.newlin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

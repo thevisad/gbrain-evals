@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-novak",
+  "type": "person",
+  "title": "John Novak",
+  "compiled_truth": "John Novak is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-09), John Novak sent 12 and received 256 emails, totalling 268 interactions. Top correspondents: [Mark Haedicke](people/mark-haedicke) (6), [Michelle Cash](people/michelle-cash) (4), [Mary Joyce](people/mary-joyce) (3), [Pam Butler](people/pam-butler) (3), [Kent Castleman](people/kent-castleman) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-novak",
+    "name": "John Novak",
+    "email": "john.novak@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

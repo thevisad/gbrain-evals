@@ -1,0 +1,14 @@
+{
+  "slug": "people/jls-fullenweider",
+  "type": "person",
+  "title": "Jls",
+  "compiled_truth": "Jls is an external contact at [Fullenweider](companies/fullenweider). Over the corpus period (2001-07-17 to 2002-01-02), Jls sent 19 and received 16 emails, totalling 35 interactions. Top correspondents: [Joe Stepenovitch](people/joe-stepenovitch) (17), [Dcf](people/dcf-fullenweider) (5), [Mike Maggi](people/mike-maggi) (1), [Mrmitchell](people/mrmitchell-fulbright) (1), [Mcc](people/mcc-fullenweider) (1).",
+  "timeline": "- **2001-07-17** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jls-fullenweider",
+    "name": "Jls",
+    "email": "jls@fullenweider.com",
+    "primary_affiliation": "companies/fullenweider"
+  }
+}

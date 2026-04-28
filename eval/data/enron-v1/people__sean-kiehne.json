@@ -1,0 +1,14 @@
+{
+  "slug": "people/sean-kiehne",
+  "type": "person",
+  "title": "Sean Kiehne",
+  "compiled_truth": "Sean Kiehne is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-07 to 2001-11-27), Sean Kiehne sent 0 and received 39 emails, totalling 39 interactions.",
+  "timeline": "- **2000-01-07** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sean-kiehne",
+    "name": "Sean Kiehne",
+    "email": "sean.kiehne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

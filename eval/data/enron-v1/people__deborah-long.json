@@ -1,0 +1,14 @@
+{
+  "slug": "people/deborah-long",
+  "type": "person",
+  "title": "Deborah Long",
+  "compiled_truth": "Deborah Long is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-10-12), Deborah Long sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [Lara Berry](people/lara-berry) (1), [Larry Ciscon](people/larry-ciscon) (1), [Stephen Stock](people/stephen-stock) (1), [Rudy Elizondo](people/rudy-elizondo) (1), [Bryan Powell](people/bryan-powell) (1).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deborah-long",
+    "name": "Deborah Long",
+    "email": "deborah.long@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

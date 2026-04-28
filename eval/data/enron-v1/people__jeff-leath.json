@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-leath",
+  "type": "person",
+  "title": "Jeff Leath",
+  "compiled_truth": "Jeff Leath is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-04 to 2001-11-09), Jeff Leath sent 1 and received 6 emails, totalling 7 interactions. Top correspondents: [Jennifer Medcalf](people/jennifer-medcalf) (1). Mailbox folders observed: 2000_conference.",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-leath",
+    "name": "Jeff Leath",
+    "email": "jeff.leath@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ricardo-charvel",
+  "type": "person",
+  "title": "Ricardo Charvel",
+  "compiled_truth": "Ricardo Charvel is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-21 to 2001-11-29), Ricardo Charvel sent 28 and received 237 emails, totalling 265 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (15), [Steven Kean](people/steven-kean) (13), [Steve Kean](people/steve-kean) (9), [James Steffes](people/james-steffes) (7), [Ginger Dernehl](people/ginger-dernehl) (5). Mailbox folders observed: analyst_associate_program, personal.",
+  "timeline": "- **1999-10-21** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ricardo-charvel",
+    "name": "Ricardo Charvel",
+    "email": "ricardo.charvel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

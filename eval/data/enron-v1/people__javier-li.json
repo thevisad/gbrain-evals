@@ -1,0 +1,14 @@
+{
+  "slug": "people/javier-li",
+  "type": "person",
+  "title": "Javier Li",
+  "compiled_truth": "Javier Li is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-30 to 2001-09-28), Javier Li sent 1 and received 16 emails, totalling 17 interactions. Top correspondents: [Mary Hain](people/mary-hain) (1), [Marc Pana](people/marc-pana) (1).",
+  "timeline": "- **2001-01-30** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/javier-li",
+    "name": "Javier Li",
+    "email": "javier.li@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

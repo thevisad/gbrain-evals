@@ -1,0 +1,14 @@
+{
+  "slug": "people/majed-nachawati",
+  "type": "person",
+  "title": "Majed Nachawati",
+  "compiled_truth": "Majed Nachawati is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-22 to 2001-10-29), Majed Nachawati sent 8 and received 64 emails, totalling 72 interactions. Top correspondents: [Debra Perlingiere](people/debra-perlingiere) (5), [Gerald Nemec](people/gerald-nemec) (3), [John Grass](people/john-grass) (1), [John Kiani](people/john-kiani) (1), [Bfrihart](people/bfrihart) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-22** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/majed-nachawati",
+    "name": "Majed Nachawati",
+    "email": "majed.nachawati@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "companies/aelaw",
+  "type": "company",
+  "title": "Aelaw",
+  "compiled_truth": "Aelaw is an external organization that appears in the Enron email corpus. Domain: aelaw.com. Total email interactions with Enron: 793. Known contacts: 10 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (793 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/aelaw",
+    "name": "Aelaw",
+    "employees": [
+      "people/ack-aelaw",
+      "people/chj-aelaw",
+      "people/deb-aelaw",
+      "people/egw-aelaw",
+      "people/eke-aelaw",
+      "people/jpm-aelaw",
+      "people/klc-aelaw",
+      "people/lys-aelaw",
+      "people/mpa-aelaw",
+      "people/pav-aelaw"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

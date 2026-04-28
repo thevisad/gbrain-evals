@@ -1,0 +1,14 @@
+{
+  "slug": "people/diana-peters",
+  "type": "person",
+  "title": "Diana Peters",
+  "compiled_truth": "Diana Peters is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-10-23), Diana Peters sent 4 and received 6 emails, totalling 10 interactions. Top correspondents: [N  Anderson](people/n-anderson) (2), [Nilson Busto](people/nilson-busto) (2), [Nancy Corbet](people/nancy-corbet) (2), [Naphaphone Khamphoukeo](people/naphaphone-khamphoukeo) (2), [Nancy Muchmore](people/nancy-muchmore) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diana-peters",
+    "name": "Diana Peters",
+    "email": "diana.peters@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

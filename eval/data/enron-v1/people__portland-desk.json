@@ -1,0 +1,14 @@
+{
+  "slug": "people/portland-desk",
+  "type": "person",
+  "title": "Portland Desk",
+  "compiled_truth": "Portland Desk is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-21 to 2001-05-04), Portland Desk sent 0 and received 235 emails, totalling 235 interactions.",
+  "timeline": "- **2000-08-21** | First recorded email in corpus\n- **2001-05-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/portland-desk",
+    "name": "Portland Desk",
+    "email": "portland.desk@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

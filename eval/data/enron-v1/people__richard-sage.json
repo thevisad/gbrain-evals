@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-sage",
+  "type": "person",
+  "title": "Richard Sage",
+  "compiled_truth": "Richard Sage is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-30 to 2001-11-20), Richard Sage sent 28 and received 120 emails, totalling 148 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (11), [Sally Beck](people/sally-beck) (10), [Tana Jones](people/tana-jones) (7), [Denis O'Connell](people/denis-o-connell) (5), [Fernley Dyson](people/fernley-dyson) (4). Mailbox folders observed: europe.",
+  "timeline": "- **1999-04-30** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-sage",
+    "name": "Richard Sage",
+    "email": "richard.sage@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

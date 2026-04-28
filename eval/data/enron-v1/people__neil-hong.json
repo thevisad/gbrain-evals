@@ -1,0 +1,14 @@
+{
+  "slug": "people/neil-hong",
+  "type": "person",
+  "title": "Neil Hong",
+  "compiled_truth": "Neil Hong is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-12 to 2001-11-27), Neil Hong sent 1 and received 586 emails, totalling 587 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1).",
+  "timeline": "- **2000-01-12** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/neil-hong",
+    "name": "Neil Hong",
+    "email": "neil.hong@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

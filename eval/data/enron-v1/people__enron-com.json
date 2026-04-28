@@ -1,0 +1,14 @@
+{
+  "slug": "people/enron-com",
+  "type": "person",
+  "title": "Enron Com",
+  "compiled_truth": "Enron Com is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-12 to 2001-10-12), Enron Com sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/enron-com",
+    "name": "Enron Com",
+    "email": "enron.com@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

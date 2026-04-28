@@ -1,0 +1,14 @@
+{
+  "slug": "people/ssatter-atg",
+  "type": "person",
+  "title": "Ssatter",
+  "compiled_truth": "Ssatter is an external contact at [Atg](companies/atg). Over the corpus period (2001-11-19 to 2001-12-27), Ssatter sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-11-19** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ssatter-atg",
+    "name": "Ssatter",
+    "email": "ssatter@atg.state.il.us",
+    "primary_affiliation": "companies/atg"
+  }
+}

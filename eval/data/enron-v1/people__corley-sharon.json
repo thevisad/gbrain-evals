@@ -1,0 +1,14 @@
+{
+  "slug": "people/corley-sharon",
+  "type": "person",
+  "title": "Corley Sharon",
+  "compiled_truth": "Corley Sharon is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Corley Sharon sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/corley-sharon",
+    "name": "Corley Sharon",
+    "email": "corley.sharon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/frank-carriere",
+  "type": "person",
+  "title": "Frank Carriere",
+  "compiled_truth": "Frank Carriere is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-08 to 2002-05-06), Frank Carriere sent 4 and received 36 emails, totalling 40 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (3), [James Saunders](people/james-saunders) (2), [John Cobb](people/john-cobb) (2), [Mary Hubbard](people/mary-hubbard) (2), [Rod Hayslett](people/rod-hayslett) (1). Mailbox folders observed: deleted_items, inbox, projects.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frank-carriere",
+    "name": "Frank Carriere",
+    "email": "frank.carriere@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

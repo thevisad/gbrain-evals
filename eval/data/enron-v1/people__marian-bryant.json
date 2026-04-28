@@ -1,0 +1,14 @@
+{
+  "slug": "people/marian-bryant",
+  "type": "person",
+  "title": "Marian Bryant",
+  "compiled_truth": "Marian Bryant is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Marian Bryant sent 2 and received 20 emails, totalling 22 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (2).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marian-bryant",
+    "name": "Marian Bryant",
+    "email": "marian.bryant@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

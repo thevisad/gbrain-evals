@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-boddy",
+  "type": "person",
+  "title": "Michael Boddy",
+  "compiled_truth": "Michael Boddy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-27 to 2001-10-24), Michael Boddy sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-07-27** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-boddy",
+    "name": "Michael Boddy",
+    "email": "michael.boddy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

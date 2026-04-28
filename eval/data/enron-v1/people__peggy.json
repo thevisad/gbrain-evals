@@ -1,0 +1,14 @@
+{
+  "slug": "people/peggy",
+  "type": "person",
+  "title": " Peggy",
+  "compiled_truth": "Peggy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-16 to 2002-01-31),  Peggy sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-10-16** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peggy",
+    "name": " Peggy",
+    "email": ".peggy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

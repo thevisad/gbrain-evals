@@ -1,0 +1,14 @@
+{
+  "slug": "people/mbirch-wei",
+  "type": "person",
+  "title": "Mbirch",
+  "compiled_truth": "Mbirch is an external contact at [Wei](companies/wei). Over the corpus period (2001-10-05 to 2001-11-27), Mbirch sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-05** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mbirch-wei",
+    "name": "Mbirch",
+    "email": "mbirch@wei.org",
+    "primary_affiliation": "companies/wei"
+  }
+}

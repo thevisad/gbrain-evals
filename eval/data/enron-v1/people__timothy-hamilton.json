@@ -1,0 +1,14 @@
+{
+  "slug": "people/timothy-hamilton",
+  "type": "person",
+  "title": "Timothy Hamilton",
+  "compiled_truth": "Timothy Hamilton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-24 to 2001-06-04), Timothy Hamilton sent 3 and received 60 emails, totalling 63 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (2), [Gas Desk](people/gas-desk) (1), [James Shirley](people/james-shirley) (1), [Kirit Purbhoo](people/kirit-purbhoo) (1), [Ray Hamman](people/ray-hamman) (1).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/timothy-hamilton",
+    "name": "Timothy Hamilton",
+    "email": "timothy.hamilton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

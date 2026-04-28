@@ -1,0 +1,21 @@
+{
+  "slug": "threads/morgan-2001-04",
+  "type": "meeting",
+  "title": "Thread: Morgan",
+  "compiled_truth": "Email thread: \"Morgan\". Ran from 2001-04-26 to 2001-04-27 with 12 messages. Participants: [Cameron](people/cameron-perfect), [Eldon](people/eldon-direcpc), [Jeff Dasovich](people/jeff-dasovich), [Nancy Sellers](people/nancy-sellers-robertmondavi), [Psellers](people/psellers-haas), [Psellers](people/psellers-pacbell), [Scottwl](people/scottwl-hotmail).",
+  "timeline": "- **2001-04-26** | Thread begins: morgan\n- **2001-04-27** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/morgan-2001-04",
+    "attendees": [
+      "people/cameron-perfect",
+      "people/eldon-direcpc",
+      "people/jeff-dasovich",
+      "people/nancy-sellers-robertmondavi",
+      "people/psellers-haas",
+      "people/psellers-pacbell",
+      "people/scottwl-hotmail"
+    ],
+    "date": "2001-04-26"
+  }
+}

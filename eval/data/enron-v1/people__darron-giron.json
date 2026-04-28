@@ -1,0 +1,14 @@
+{
+  "slug": "people/darron-giron",
+  "type": "person",
+  "title": "Darron Giron",
+  "compiled_truth": "Darron Giron is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-02 to 2001-09-14), Darron Giron sent 1581 and received 283 emails, totalling 1864 interactions. Top correspondents: [Carole Frank](people/carole-frank) (232), [Kristi Giron](people/kristi-giron-cfisd) (186), [Dgiron1](people/dgiron1-pdq) (158), [Jason Wolfe](people/jason-wolfe) (98), [Smmayers](people/smmayers-earthlink) (88). Mailbox folders observed: _sent_mail, sent, sent_items.",
+  "timeline": "- **1999-08-02** | First recorded email in corpus\n- **2001-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darron-giron",
+    "name": "Darron Giron",
+    "email": "darron.giron@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

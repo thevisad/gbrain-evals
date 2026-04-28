@@ -1,0 +1,14 @@
+{
+  "slug": "people/franklin-jim",
+  "type": "person",
+  "title": "Franklin' 'Jim",
+  "compiled_truth": "Franklin' 'Jim is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-04 to 2001-10-26), Franklin' 'Jim sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-10-04** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/franklin-jim",
+    "name": "Franklin' 'Jim",
+    "email": "franklin'.'jim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

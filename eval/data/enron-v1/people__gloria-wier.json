@@ -1,0 +1,14 @@
+{
+  "slug": "people/gloria-wier",
+  "type": "person",
+  "title": "Gloria Wier",
+  "compiled_truth": "Gloria Wier is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-14 to 2002-03-19), Gloria Wier sent 1 and received 24 emails, totalling 25 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (1).",
+  "timeline": "- **2000-04-14** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gloria-wier",
+    "name": "Gloria Wier",
+    "email": "gloria.wier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

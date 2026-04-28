@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-schwertner",
+  "type": "person",
+  "title": "Brian Schwertner",
+  "compiled_truth": "Brian Schwertner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2002-03-29), Brian Schwertner sent 11 and received 134 emails, totalling 145 interactions. Top correspondents: [Dana Davis](people/dana-davis) (10), [Hope Vargas](people/hope-vargas) (4), [K  Dawson](people/k-dawson) (3), [Lisa Kang](people/lisa-kang) (3), [Tammy Barta](people/tammy-barta) (3). Mailbox folders observed: deleted_items, inbox, save_the_date.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-schwertner",
+    "name": "Brian Schwertner",
+    "email": "brian.schwertner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

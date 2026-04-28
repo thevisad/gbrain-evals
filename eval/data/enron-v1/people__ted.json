@@ -1,0 +1,14 @@
+{
+  "slug": "people/ted",
+  "type": "person",
+  "title": " Ted",
+  "compiled_truth": "Ted is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2002-03-24),  Ted sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2002-03-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ted",
+    "name": " Ted",
+    "email": ".ted@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

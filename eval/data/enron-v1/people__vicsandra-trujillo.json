@@ -1,0 +1,14 @@
+{
+  "slug": "people/vicsandra-trujillo",
+  "type": "person",
+  "title": "Vicsandra Trujillo",
+  "compiled_truth": "Vicsandra Trujillo is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-07 to 2001-12-28), Vicsandra Trujillo sent 1 and received 33 emails, totalling 34 interactions. Top correspondents: [John Swafford](people/john-swafford) (1), [Mark Ng](people/mark-ng) (1), [Mary Fischer](people/mary-fischer) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-04-07** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vicsandra-trujillo",
+    "name": "Vicsandra Trujillo",
+    "email": "vicsandra.trujillo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

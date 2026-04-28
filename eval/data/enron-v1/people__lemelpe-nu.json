@@ -1,0 +1,14 @@
+{
+  "slug": "people/lemelpe-nu",
+  "type": "person",
+  "title": "Lemelpe",
+  "compiled_truth": "Lemelpe is an external contact at [Nu](companies/nu). Over the corpus period (1980-01-01 to 2001-06-06), Lemelpe sent 1 and received 28 emails, totalling 29 interactions. Top correspondents: [Carol St Clair](people/carol-st-clair) (1), [Moonevw](people/moonevw-selectenergy) (1), [Morisjr](people/morisjr-selectenergy) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lemelpe-nu",
+    "name": "Lemelpe",
+    "email": "lemelpe@nu.com",
+    "primary_affiliation": "companies/nu"
+  }
+}

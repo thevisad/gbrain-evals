@@ -1,0 +1,14 @@
+{
+  "slug": "people/phyllis-anzalone",
+  "type": "person",
+  "title": "Phyllis Anzalone",
+  "compiled_truth": "Phyllis Anzalone is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-04 to 2001-12-03), Phyllis Anzalone sent 1 and received 85 emails, totalling 86 interactions. Top correspondents: [Neil Bresnan](people/neil-bresnan) (1), [Richard Ring](people/richard-ring) (1). Mailbox folders observed: personalfolder.",
+  "timeline": "- **1999-11-04** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/phyllis-anzalone",
+    "name": "Phyllis Anzalone",
+    "email": "phyllis.anzalone@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

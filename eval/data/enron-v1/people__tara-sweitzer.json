@@ -1,0 +1,14 @@
+{
+  "slug": "people/tara-sweitzer",
+  "type": "person",
+  "title": "Tara Sweitzer",
+  "compiled_truth": "Tara Sweitzer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-23 to 2002-02-13), Tara Sweitzer sent 23 and received 516 emails, totalling 539 interactions. Top correspondents: [Torrey Moorer](people/torrey-moorer) (10), [Jennifer Denny](people/jennifer-denny) (7), [Errol Mclaughlin](people/errol-mclaughlin) (5), [Jennifer Burns](people/jennifer-burns) (5), [Brad Richter](people/brad-richter) (5). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-08-23** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tara-sweitzer",
+    "name": "Tara Sweitzer",
+    "email": "tara.sweitzer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

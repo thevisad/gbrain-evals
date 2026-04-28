@@ -1,0 +1,14 @@
+{
+  "slug": "people/william-smith",
+  "type": "person",
+  "title": "William Smith",
+  "compiled_truth": "William Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-12-31), William Smith sent 23 and received 247 emails, totalling 270 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (16), [J Kaminski](people/j-kaminski) (7), [Shirley Crenshaw](people/shirley-crenshaw) (3), [Kevin Moore](people/kevin-moore) (2), [Mike Roberts](people/mike-roberts) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/william-smith",
+    "name": "William Smith",
+    "email": "william.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

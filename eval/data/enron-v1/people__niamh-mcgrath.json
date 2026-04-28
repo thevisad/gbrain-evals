@@ -1,0 +1,14 @@
+{
+  "slug": "people/niamh-mcgrath",
+  "type": "person",
+  "title": "Niamh Mcgrath",
+  "compiled_truth": "Niamh Mcgrath is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-14 to 2001-11-19), Niamh Mcgrath sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-11-14** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/niamh-mcgrath",
+    "name": "Niamh Mcgrath",
+    "email": "niamh.mcgrath@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

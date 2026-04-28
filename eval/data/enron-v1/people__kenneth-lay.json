@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenneth-lay",
+  "type": "person",
+  "title": "Kenneth Lay",
+  "compiled_truth": "Kenneth Lay is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-23), Kenneth Lay sent 24 and received 1988 emails, totalling 2012 interactions. Top correspondents: [J  Kean](people/j-kean) (7), [K  Allen](people/k-allen) (5), [Joseph Deffner](people/joseph-deffner) (5), [James Derrick](people/james-derrick) (5), [Mark Koenig](people/mark-koenig) (5). Mailbox folders observed: _sent, deleted_items, enron_power, inbox, pr_crisis_management, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenneth-lay",
+    "name": "Kenneth Lay",
+    "email": "kenneth.lay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

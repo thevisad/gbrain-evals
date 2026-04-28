@@ -1,0 +1,27 @@
+{
+  "slug": "threads/services-agreement-2001-10",
+  "type": "meeting",
+  "title": "Thread: Services Agreement",
+  "compiled_truth": "Email thread: \"Services Agreement\". Ran from 2001-10-02 to 2001-10-18 with 12 messages. Participants: [Bryan Seyfried](people/bryan-seyfried), [Cassandra Schultz](people/cassandra-schultz), [Cassandra Shorter](people/cassandra-shorter), [David Wall](people/david-wall), [Donna Lowry](people/donna-lowry), [Jeff Kinneman](people/jeff-kinneman), [Joanne Rozycki](people/joanne-rozycki), [L  Carson](people/l-carson).",
+  "timeline": "- **2001-10-02** | Thread begins: services agreement\n- **2001-10-18** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/services-agreement-2001-10",
+    "attendees": [
+      "people/bryan-seyfried",
+      "people/cassandra-schultz",
+      "people/cassandra-shorter",
+      "people/david-wall",
+      "people/donna-lowry",
+      "people/jeff-kinneman",
+      "people/joanne-rozycki",
+      "people/l-carson",
+      "people/marie-heard",
+      "people/paul-pizzolato",
+      "people/s-bradford",
+      "people/sara-shackleton",
+      "people/tom-doukas"
+    ],
+    "date": "2001-10-02"
+  }
+}

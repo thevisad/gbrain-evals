@@ -1,0 +1,14 @@
+{
+  "slug": "people/mfarina-electric",
+  "type": "person",
+  "title": "Mfarina",
+  "compiled_truth": "Mfarina is an external contact at [Electric](companies/electric). Over the corpus period (2002-01-13 to 2002-01-14), Mfarina sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-13** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mfarina-electric",
+    "name": "Mfarina",
+    "email": "mfarina@electric.com",
+    "primary_affiliation": "companies/electric"
+  }
+}

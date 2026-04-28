@@ -1,0 +1,14 @@
+{
+  "slug": "people/debra-hatton",
+  "type": "person",
+  "title": "Debra Hatton",
+  "compiled_truth": "Debra Hatton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-12 to 2001-11-27), Debra Hatton sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-12-12** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debra-hatton",
+    "name": "Debra Hatton",
+    "email": "debra.hatton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

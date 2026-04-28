@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-carr",
+  "type": "person",
+  "title": "Jim Carr",
+  "compiled_truth": "Jim Carr is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-29 to 2001-08-16), Jim Carr sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-29** | First recorded email in corpus\n- **2001-08-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-carr",
+    "name": "Jim Carr",
+    "email": "jim.carr@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

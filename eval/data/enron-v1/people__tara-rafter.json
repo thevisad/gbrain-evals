@@ -1,0 +1,14 @@
+{
+  "slug": "people/tara-rafter",
+  "type": "person",
+  "title": "Tara Rafter",
+  "compiled_truth": "Tara Rafter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-05-18), Tara Rafter sent 3 and received 16 emails, totalling 19 interactions. Top correspondents: [Roy Boston](people/roy-boston) (3), [Jeff Brown](people/jeff-brown) (3), [Margaret Carson](people/margaret-carson) (3), [Carolyn Cooney](people/carolyn-cooney) (3), [Shelley Corman](people/shelley-corman) (3).",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tara-rafter",
+    "name": "Tara Rafter",
+    "email": "tara.rafter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

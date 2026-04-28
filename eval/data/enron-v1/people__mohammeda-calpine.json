@@ -1,0 +1,14 @@
+{
+  "slug": "people/mohammeda-calpine",
+  "type": "person",
+  "title": "Mohammeda",
+  "compiled_truth": "Mohammeda is an external contact at [Calpine](companies/calpine). Over the corpus period (2001-04-06 to 2001-06-06), Mohammeda sent 0 and received 33 emails, totalling 33 interactions.",
+  "timeline": "- **2001-04-06** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mohammeda-calpine",
+    "name": "Mohammeda",
+    "email": "mohammeda@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

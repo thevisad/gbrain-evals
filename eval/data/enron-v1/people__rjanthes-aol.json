@@ -1,0 +1,14 @@
+{
+  "slug": "people/rjanthes-aol",
+  "type": "person",
+  "title": "Rjanthes",
+  "compiled_truth": "Rjanthes is an external contact at [AOL](companies/aol). Over the corpus period (2000-05-18 to 2000-09-18), Rjanthes sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rjanthes-aol",
+    "name": "Rjanthes",
+    "email": "rjanthes@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

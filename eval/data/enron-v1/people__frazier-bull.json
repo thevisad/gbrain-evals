@@ -1,0 +1,14 @@
+{
+  "slug": "people/frazier-bull",
+  "type": "person",
+  "title": "Frazier",
+  "compiled_truth": "Frazier is an external contact at [Bull](companies/bull). Over the corpus period (1999-09-24 to 2001-07-31), Frazier sent 0 and received 73 emails, totalling 73 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frazier-bull",
+    "name": "Frazier",
+    "email": "frazier@bull.som.yale.edu",
+    "primary_affiliation": "companies/bull"
+  }
+}

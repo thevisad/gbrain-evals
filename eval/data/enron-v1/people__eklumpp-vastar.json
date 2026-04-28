@@ -1,0 +1,14 @@
+{
+  "slug": "people/eklumpp-vastar",
+  "type": "person",
+  "title": "Eklumpp",
+  "compiled_truth": "Eklumpp is an external contact at [Vastar](companies/vastar). Over the corpus period (2000-11-11 to 2000-11-11), Eklumpp sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eklumpp-vastar",
+    "name": "Eklumpp",
+    "email": "eklumpp@vastar.com",
+    "primary_affiliation": "companies/vastar"
+  }
+}

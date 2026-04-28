@@ -1,0 +1,14 @@
+{
+  "slug": "people/gina-karathanos",
+  "type": "person",
+  "title": "Gina Karathanos",
+  "compiled_truth": "Gina Karathanos is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-29 to 2001-11-27), Gina Karathanos sent 2 and received 65 emails, totalling 67 interactions. Top correspondents: [Drew Fossum](people/drew-fossum) (1), [Rod Hayslett](people/rod-hayslett) (1), [James Saunders](people/james-saunders) (1), [Carol St ](people/carol-st) (1), [E  Brown](people/e-brown) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-29** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gina-karathanos",
+    "name": "Gina Karathanos",
+    "email": "gina.karathanos@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

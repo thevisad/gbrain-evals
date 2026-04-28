@@ -1,0 +1,14 @@
+{
+  "slug": "people/alexander-betty",
+  "type": "person",
+  "title": "Alexander Betty",
+  "compiled_truth": "Alexander Betty is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-31 to 2000-12-11), Alexander Betty sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-10-31** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alexander-betty",
+    "name": "Alexander Betty",
+    "email": "alexander.betty@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ragan-bond",
+  "type": "person",
+  "title": "Ragan Bond",
+  "compiled_truth": "Ragan Bond is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-24 to 2002-06-24), Ragan Bond sent 15 and received 193 emails, totalling 208 interactions. Top correspondents: [Joe Parks](people/joe-parks) (9), [Dee Hagy](people/dee-hagy) (4), [Tom Donohoe](people/tom-donohoe) (3), [Elizabeth Rivera](people/elizabeth-rivera) (2), [D  Mcilvoy](people/d-mcilvoy) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-04-24** | First recorded email in corpus\n- **2002-06-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ragan-bond",
+    "name": "Ragan Bond",
+    "email": "ragan.bond@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

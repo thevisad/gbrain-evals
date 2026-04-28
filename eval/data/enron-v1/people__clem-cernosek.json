@@ -1,0 +1,14 @@
+{
+  "slug": "people/clem-cernosek",
+  "type": "person",
+  "title": "Clem Cernosek",
+  "compiled_truth": "Clem Cernosek is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-07-10), Clem Cernosek sent 31 and received 290 emails, totalling 321 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (31), [Edward Terry](people/edward-terry) (12), [Mary Poorman](people/mary-poorman) (11), [Aimee Lannou](people/aimee-lannou) (7), [Pat Clynes](people/pat-clynes) (4).",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clem-cernosek",
+    "name": "Clem Cernosek",
+    "email": "clem.cernosek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

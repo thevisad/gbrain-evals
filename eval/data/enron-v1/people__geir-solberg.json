@@ -1,0 +1,14 @@
+{
+  "slug": "people/geir-solberg",
+  "type": "person",
+  "title": "Geir Solberg",
+  "compiled_truth": "Geir Solberg is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2002-02-22), Geir Solberg sent 87 and received 3990 emails, totalling 4077 interactions. Top correspondents: [Portland Shift](people/portland-shift) (15), [Bill Williams](people/bill-williams) (6), [Shift Portland](people/shift-portland) (6), [Shift Dl-Portland](people/shift-dl-portland) (5), [Holden Salisbury](people/holden-salisbury) (5). Mailbox folders observed: deleted_items, inbox, read, sent_items, to_do.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/geir-solberg",
+    "name": "Geir Solberg",
+    "email": "geir.solberg@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

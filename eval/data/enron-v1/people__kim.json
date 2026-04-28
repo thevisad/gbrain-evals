@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim",
+  "type": "person",
+  "title": " Kim",
+  "compiled_truth": "Kim is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2002-03-07),  Kim sent 2 and received 30 emails, totalling 32 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (2), [Bob Lee](people/bob-lee) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim",
+    "name": " Kim",
+    "email": ".kim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

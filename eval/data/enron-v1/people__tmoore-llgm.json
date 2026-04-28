@@ -1,0 +1,14 @@
+{
+  "slug": "people/tmoore-llgm",
+  "type": "person",
+  "title": "Tmoore",
+  "compiled_truth": "Tmoore is an external contact at [Llgm](companies/llgm). Over the corpus period (2000-02-17 to 2001-04-18), Tmoore sent 1 and received 28 emails, totalling 29 interactions. Top correspondents: [Garrick Hill](people/garrick-hill) (1), [Angela Davis](people/angela-davis) (1), [Charles Ward](people/charles-ward) (1), [Dan Lyons](people/dan-lyons) (1), [Richard B Sanders](people/richard-b-sanders) (1).",
+  "timeline": "- **2000-02-17** | First recorded email in corpus\n- **2001-04-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tmoore-llgm",
+    "name": "Tmoore",
+    "email": "tmoore@llgm.com",
+    "primary_affiliation": "companies/llgm"
+  }
+}

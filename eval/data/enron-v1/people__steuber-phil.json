@@ -1,0 +1,14 @@
+{
+  "slug": "people/steuber-phil",
+  "type": "person",
+  "title": "Steuber Phil",
+  "compiled_truth": "Steuber Phil is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-16 to 2002-01-16), Steuber Phil sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steuber-phil",
+    "name": "Steuber Phil",
+    "email": "steuber.phil@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

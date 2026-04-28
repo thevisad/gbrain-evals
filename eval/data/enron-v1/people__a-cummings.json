@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-cummings",
+  "type": "person",
+  "title": "A  Cummings",
+  "compiled_truth": "A  Cummings is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-12 to 2002-02-13), A  Cummings sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [Ina Rangel](people/ina-rangel) (1), [Jae Black](people/jae-black) (1), [John Arnold](people/john-arnold) (1), [Dutch Quigley](people/dutch-quigley) (1), [Martin Bucknell](people/martin-bucknell) (1). Mailbox folders observed: fin_desk.",
+  "timeline": "- **2001-11-12** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-cummings",
+    "name": "A  Cummings",
+    "email": "a..cummings@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

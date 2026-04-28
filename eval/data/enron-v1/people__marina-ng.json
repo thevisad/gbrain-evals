@@ -1,0 +1,14 @@
+{
+  "slug": "people/marina-ng",
+  "type": "person",
+  "title": "Marina Ng",
+  "compiled_truth": "Marina Ng is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-23 to 2002-01-10), Marina Ng sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2001-01-23** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marina-ng",
+    "name": "Marina Ng",
+    "email": "marina.ng@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

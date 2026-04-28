@@ -1,0 +1,14 @@
+{
+  "slug": "people/jacqui-urell",
+  "type": "person",
+  "title": "Jacqui Urell",
+  "compiled_truth": "Jacqui Urell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-10-12), Jacqui Urell sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jacqui-urell",
+    "name": "Jacqui Urell",
+    "email": "jacqui.urell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

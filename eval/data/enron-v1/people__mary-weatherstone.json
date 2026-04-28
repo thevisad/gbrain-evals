@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-weatherstone",
+  "type": "person",
+  "title": "Mary Weatherstone",
+  "compiled_truth": "Mary Weatherstone is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-18 to 2002-02-13), Mary Weatherstone sent 9 and received 106 emails, totalling 115 interactions. Top correspondents: [Kevin Montagne](people/kevin-montagne) (6), [Michael Guadarrama](people/michael-guadarrama) (6), [Inja Chun](people/inja-chun) (5), [Paul Poellinger](people/paul-poellinger) (5), [Dave Nommensen](people/dave-nommensen) (5). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-01-18** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-weatherstone",
+    "name": "Mary Weatherstone",
+    "email": "mary.weatherstone@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

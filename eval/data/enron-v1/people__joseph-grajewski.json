@@ -1,0 +1,14 @@
+{
+  "slug": "people/joseph-grajewski",
+  "type": "person",
+  "title": "Joseph Grajewski",
+  "compiled_truth": "Joseph Grajewski is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-07 to 2001-09-17), Joseph Grajewski sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-04-07** | First recorded email in corpus\n- **2001-09-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joseph-grajewski",
+    "name": "Joseph Grajewski",
+    "email": "joseph.grajewski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

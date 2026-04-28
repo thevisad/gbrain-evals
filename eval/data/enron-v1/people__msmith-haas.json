@@ -1,0 +1,14 @@
+{
+  "slug": "people/msmith-haas",
+  "type": "person",
+  "title": "Msmith",
+  "compiled_truth": "Msmith is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2001-12-14), Msmith sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/msmith-haas",
+    "name": "Msmith",
+    "email": "msmith@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/burrell-michelle",
+  "type": "person",
+  "title": "Burrell Michelle",
+  "compiled_truth": "Burrell Michelle is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-08-21), Burrell Michelle sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/burrell-michelle",
+    "name": "Burrell Michelle",
+    "email": "burrell.michelle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

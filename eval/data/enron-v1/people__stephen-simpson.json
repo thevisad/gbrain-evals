@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-simpson",
+  "type": "person",
+  "title": "Stephen Simpson",
+  "compiled_truth": "Stephen Simpson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-11 to 2002-01-18), Stephen Simpson sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-07-11** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-simpson",
+    "name": "Stephen Simpson",
+    "email": "stephen.simpson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

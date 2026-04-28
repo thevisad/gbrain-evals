@@ -1,0 +1,28 @@
+{
+  "slug": "threads/enron-schedules-2000-08",
+  "type": "meeting",
+  "title": "Thread: Enron Schedules",
+  "compiled_truth": "Email thread: \"Enron Schedules\". Ran from 2000-08-07 to 2000-08-09 with 13 messages. Participants: [Aduncan](people/aduncan-kilstock), [Ben Jacoby](people/ben-jacoby), [Heather Kroll](people/heather-kroll), [Jeffrey Keenan](people/jeffrey-keenan), [Jhodge](people/jhodge), [Joed](people/joed-co), [Jrose](people/jrose-poynerspruill), [Kay Mann](people/kay-mann).",
+  "timeline": "- **2000-08-07** | Thread begins: enron schedules\n- **2000-08-09** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-schedules-2000-08",
+    "attendees": [
+      "people/aduncan-kilstock",
+      "people/ben-jacoby",
+      "people/heather-kroll",
+      "people/jeffrey-keenan",
+      "people/jhodge",
+      "people/joed-co",
+      "people/jrose-poynerspruill",
+      "people/kay-mann",
+      "people/nixonn-ci",
+      "people/nwodka-bracepatt",
+      "people/ozzie-pagan",
+      "people/raper-ci",
+      "people/sherk-ci",
+      "people/suzanne-adams"
+    ],
+    "date": "2000-08-07"
+  }
+}

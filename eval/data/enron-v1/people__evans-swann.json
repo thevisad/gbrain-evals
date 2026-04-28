@@ -1,0 +1,14 @@
+{
+  "slug": "people/evans-swann",
+  "type": "person",
+  "title": "Evans Swann",
+  "compiled_truth": "Evans Swann is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-05 to 2001-10-25), Evans Swann sent 2 and received 9 emails, totalling 11 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-07-05** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/evans-swann",
+    "name": "Evans Swann",
+    "email": "evans.swann@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

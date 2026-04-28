@@ -1,0 +1,14 @@
+{
+  "slug": "people/lnewman-elanpharma",
+  "type": "person",
+  "title": "Lnewman",
+  "compiled_truth": "Lnewman is an external contact at [Elanpharma](companies/elanpharma). Over the corpus period (1999-12-07 to 2000-02-09), Lnewman sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2000-02-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lnewman-elanpharma",
+    "name": "Lnewman",
+    "email": "lnewman@elanpharma.com",
+    "primary_affiliation": "companies/elanpharma"
+  }
+}

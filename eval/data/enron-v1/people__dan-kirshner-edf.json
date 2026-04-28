@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-kirshner-edf",
+  "type": "person",
+  "title": "Dan Kirshner",
+  "compiled_truth": "Dan Kirshner is an external contact at [Edf](companies/edf). Over the corpus period (2000-11-10 to 2001-03-16), Dan Kirshner sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-kirshner-edf",
+    "name": "Dan Kirshner",
+    "email": "dan_kirshner@edf.org",
+    "primary_affiliation": "companies/edf"
+  }
+}

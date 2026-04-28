@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-newman",
+  "type": "person",
+  "title": "Robert Newman",
+  "compiled_truth": "Robert Newman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2002-03-19), Robert Newman sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-newman",
+    "name": "Robert Newman",
+    "email": "robert.newman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

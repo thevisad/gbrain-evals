@@ -1,0 +1,14 @@
+{
+  "slug": "people/rachael-venable",
+  "type": "person",
+  "title": "Rachael Venable",
+  "compiled_truth": "Rachael Venable is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2001-11-26), Rachael Venable sent 0 and received 47 emails, totalling 47 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rachael-venable",
+    "name": "Rachael Venable",
+    "email": "rachael.venable@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

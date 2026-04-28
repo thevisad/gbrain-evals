@@ -1,0 +1,14 @@
+{
+  "slug": "people/gibbens-usoga",
+  "type": "person",
+  "title": "Gibbens",
+  "compiled_truth": "Gibbens is an external contact at [Usoga](companies/usoga). Over the corpus period (1999-11-15 to 1999-11-15), Gibbens sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gibbens-usoga",
+    "name": "Gibbens",
+    "email": "gibbens@usoga.org",
+    "primary_affiliation": "companies/usoga"
+  }
+}

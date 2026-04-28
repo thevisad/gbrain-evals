@@ -1,0 +1,14 @@
+{
+  "slug": "people/rab9-pge",
+  "type": "person",
+  "title": "Rab9",
+  "compiled_truth": "Rab9 is an external contact at [PG&E](companies/pge). Over the corpus period (2000-01-27 to 2001-12-31), Rab9 sent 1 and received 16 emails, totalling 17 interactions. Top correspondents: [David Roensch](people/david-roensch) (1), [John Shafer](people/john-shafer) (1), [Dan Pribble](people/dan-pribble) (1), [Rich Jolly](people/rich-jolly) (1), [Larry Campbell](people/larry-campbell) (1).",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rab9-pge",
+    "name": "Rab9",
+    "email": "rab9@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

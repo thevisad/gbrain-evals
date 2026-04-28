@@ -1,0 +1,14 @@
+{
+  "slug": "people/hansen-bev",
+  "type": "person",
+  "title": "Hansen Bev",
+  "compiled_truth": "Hansen Bev is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-23 to 2001-11-26), Hansen Bev sent 0 and received 58 emails, totalling 58 interactions.",
+  "timeline": "- **2001-07-23** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hansen-bev",
+    "name": "Hansen Bev",
+    "email": "hansen.bev@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

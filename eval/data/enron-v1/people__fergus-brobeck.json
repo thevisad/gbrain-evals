@@ -1,0 +1,14 @@
+{
+  "slug": "people/fergus-brobeck",
+  "type": "person",
+  "title": "Fergus",
+  "compiled_truth": "Fergus is an external contact at [Brobeck](companies/brobeck). Over the corpus period (2000-10-24 to 2001-03-07), Fergus sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-10-24** | First recorded email in corpus\n- **2001-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fergus-brobeck",
+    "name": "Fergus",
+    "email": "fergus@brobeck.com",
+    "primary_affiliation": "companies/brobeck"
+  }
+}

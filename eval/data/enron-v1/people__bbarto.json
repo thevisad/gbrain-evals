@@ -1,0 +1,14 @@
+{
+  "slug": "people/bbarto",
+  "type": "person",
+  "title": "Bbarto",
+  "compiled_truth": "Bbarto is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-10 to 2001-05-09), Bbarto sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-04-10** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bbarto",
+    "name": "Bbarto",
+    "email": "bbarto@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

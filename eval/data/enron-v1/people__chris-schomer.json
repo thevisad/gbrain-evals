@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-schomer",
+  "type": "person",
+  "title": "Chris Schomer",
+  "compiled_truth": "Chris Schomer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-18 to 2002-02-07), Chris Schomer sent 1 and received 71 emails, totalling 72 interactions. Top correspondents: [Unify Group](people/unify-group) (1), [Dave Nommensen](people/dave-nommensen) (1), [Regan Smith](people/regan-smith) (1), [Kenneth Harmon](people/kenneth-harmon) (1), [Matt Pena](people/matt-pena) (1).",
+  "timeline": "- **2000-01-18** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-schomer",
+    "name": "Chris Schomer",
+    "email": "chris.schomer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

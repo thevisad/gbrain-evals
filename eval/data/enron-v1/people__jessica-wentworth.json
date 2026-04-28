@@ -1,0 +1,14 @@
+{
+  "slug": "people/jessica-wentworth",
+  "type": "person",
+  "title": "Jessica Wentworth",
+  "compiled_truth": "Jessica Wentworth is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-04-18), Jessica Wentworth sent 2 and received 38 emails, totalling 40 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (2), [Shonnie Daniel](people/shonnie-daniel) (1), [Brian Bierbach](people/brian-bierbach) (1), [Ken Choyce](people/ken-choyce) (1), [Bruce Rudy](people/bruce-rudy) (1).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-04-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jessica-wentworth",
+    "name": "Jessica Wentworth",
+    "email": "jessica.wentworth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

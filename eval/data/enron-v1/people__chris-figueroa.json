@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-figueroa",
+  "type": "person",
+  "title": "Chris Figueroa",
+  "compiled_truth": "Chris Figueroa is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-13 to 2002-06-25), Chris Figueroa sent 0 and received 46 emails, totalling 46 interactions.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-figueroa",
+    "name": "Chris Figueroa",
+    "email": "chris.figueroa@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rob-wells",
+  "type": "person",
+  "title": "Rob Wells",
+  "compiled_truth": "Rob Wells is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-08), Rob Wells sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rob-wells",
+    "name": "Rob Wells",
+    "email": "rob.wells@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

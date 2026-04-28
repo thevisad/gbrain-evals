@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-ambler",
+  "type": "person",
+  "title": "John Ambler",
+  "compiled_truth": "John Ambler is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-20 to 2002-03-19), John Ambler sent 43 and received 316 emails, totalling 359 interactions. Top correspondents: [Steven Kean](people/steven-kean) (20), [Karen Denne](people/karen-denne) (14), [Mark Koenig](people/mark-koenig) (14), [Paula Rieker](people/paula-rieker) (12), [Mark Palmer](people/mark-palmer) (10). Mailbox folders observed: _americas, aadepartment, asset_sales, deleted_items, inbox, india.",
+  "timeline": "- **1999-10-20** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-ambler",
+    "name": "John Ambler",
+    "email": "john.ambler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

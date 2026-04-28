@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-baumfield",
+  "type": "person",
+  "title": "Richard Baumfield",
+  "compiled_truth": "Richard Baumfield is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-04 to 2002-03-07), Richard Baumfield sent 2 and received 16 emails, totalling 18 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2002-01-04** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-baumfield",
+    "name": "Richard Baumfield",
+    "email": "richard.baumfield@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

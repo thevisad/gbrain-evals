@@ -1,0 +1,14 @@
+{
+  "slug": "people/raislerk-sullcrom",
+  "type": "person",
+  "title": "Raislerk",
+  "compiled_truth": "Raislerk is an external contact at [Sullcrom](companies/sullcrom). Over the corpus period (1999-05-20 to 2001-10-24), Raislerk sent 34 and received 155 emails, totalling 189 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (25), [Mcadammj](people/mcadammj-bp) (18), [Lanced](people/lanced-kochind) (18), [Schindlg](people/schindlg-phibro) (18), [Goetscrj](people/goetscrj-bp) (17).",
+  "timeline": "- **1999-05-20** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/raislerk-sullcrom",
+    "name": "Raislerk",
+    "email": "raislerk@sullcrom.com",
+    "primary_affiliation": "companies/sullcrom"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sreedhar-desai",
+  "type": "person",
+  "title": "Sreedhar Desai",
+  "compiled_truth": "Sreedhar Desai is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-14 to 2002-01-14), Sreedhar Desai sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sreedhar-desai",
+    "name": "Sreedhar Desai",
+    "email": "sreedhar.desai@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

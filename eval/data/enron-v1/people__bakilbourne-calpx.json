@@ -1,0 +1,14 @@
+{
+  "slug": "people/bakilbourne-calpx",
+  "type": "person",
+  "title": "Bakilbourne",
+  "compiled_truth": "Bakilbourne is an external contact at [Calpx](companies/calpx). Over the corpus period (2000-08-10 to 2001-05-17), Bakilbourne sent 0 and received 37 emails, totalling 37 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-05-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bakilbourne-calpx",
+    "name": "Bakilbourne",
+    "email": "bakilbourne@calpx.com",
+    "primary_affiliation": "companies/calpx"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/melissa-laing",
+  "type": "person",
+  "title": "Melissa Laing",
+  "compiled_truth": "Melissa Laing is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-11-27), Melissa Laing sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melissa-laing",
+    "name": "Melissa Laing",
+    "email": "melissa.laing@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

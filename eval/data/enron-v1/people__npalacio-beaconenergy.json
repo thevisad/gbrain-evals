@@ -1,0 +1,14 @@
+{
+  "slug": "people/npalacio-beaconenergy",
+  "type": "person",
+  "title": "Npalacio",
+  "compiled_truth": "Npalacio is an external contact at [Beaconenergy](companies/beaconenergy). Over the corpus period (2000-11-11 to 2000-11-11), Npalacio sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/npalacio-beaconenergy",
+    "name": "Npalacio",
+    "email": "npalacio@beaconenergy.com",
+    "primary_affiliation": "companies/beaconenergy"
+  }
+}

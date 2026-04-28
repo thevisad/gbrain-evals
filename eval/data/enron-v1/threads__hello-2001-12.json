@@ -1,0 +1,42 @@
+{
+  "slug": "threads/hello-2001-12",
+  "type": "meeting",
+  "title": "Thread: Hello",
+  "compiled_truth": "Email thread: \"Hello\". Ran from 2001-12-28 to 2002-01-27 with 22 messages. Participants: [Andy Zipper](people/andy-zipper), [Anshu1975](people/anshu1975-hotmail), [Bob Lee](people/bob-lee), [Cara Semperger](people/cara-semperger), [Chris Dorland](people/chris-dorland), [Cooper Richey](people/cooper-richey), [D  Thomas](people/d-thomas), [Diem Hallmark](people/diem-hallmark-williams).",
+  "timeline": "- **2001-12-28** | Thread begins: hello\n- **2002-01-27** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/hello-2001-12",
+    "attendees": [
+      "people/andy-zipper",
+      "people/anshu1975-hotmail",
+      "people/bob-lee",
+      "people/cara-semperger",
+      "people/chris-dorland",
+      "people/cooper-richey",
+      "people/d-thomas",
+      "people/diem-hallmark-williams",
+      "people/h-lewis",
+      "people/j-kaminski",
+      "people/joe-parks",
+      "people/katyhester-hotmail",
+      "people/kennel5-tdbank",
+      "people/l-mims",
+      "people/larry-may",
+      "people/lepps2-bp",
+      "people/lottyplace-yahoo",
+      "people/mike-panozzo-ey",
+      "people/nigel-patterson-db",
+      "people/nikcary-yahoo",
+      "people/nytasha-sims-dynegy",
+      "people/raquel-nunes-thomas-us",
+      "people/shiaochen-hotmail",
+      "people/smhoesly-aol",
+      "people/tdepaolis-sequentenergy",
+      "people/traci-mcbride-raymondjames",
+      "people/vkaminski-aol",
+      "people/w-white"
+    ],
+    "date": "2001-12-28"
+  }
+}

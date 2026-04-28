@@ -1,0 +1,14 @@
+{
+  "slug": "people/aymeer-calpine",
+  "type": "person",
+  "title": "Aymeer",
+  "compiled_truth": "Aymeer is an external contact at [Calpine](companies/calpine). Over the corpus period (2001-04-06 to 2001-06-06), Aymeer sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2001-04-06** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aymeer-calpine",
+    "name": "Aymeer",
+    "email": "aymeer@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

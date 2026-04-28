@@ -1,0 +1,14 @@
+{
+  "slug": "people/charles-vetters",
+  "type": "person",
+  "title": "Charles Vetters",
+  "compiled_truth": "Charles Vetters is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-14), Charles Vetters sent 9 and received 48 emails, totalling 57 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (8), [David Duran](people/david-duran) (3), [Kay Mann](people/kay-mann) (1). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charles-vetters",
+    "name": "Charles Vetters",
+    "email": "charles.vetters@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

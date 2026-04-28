@@ -1,0 +1,14 @@
+{
+  "slug": "people/carmella-jones",
+  "type": "person",
+  "title": "Carmella Jones",
+  "compiled_truth": "Carmella Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2001-11-07), Carmella Jones sent 4 and received 26 emails, totalling 30 interactions. Top correspondents: [Caroline Abramo](people/caroline-abramo) (3), [K  Allen](people/k-allen) (3), [Harry Arora](people/harry-arora) (3), [C  Aucoin](people/c-aucoin) (3), [Robin Barbe](people/robin-barbe) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carmella-jones",
+    "name": "Carmella Jones",
+    "email": "carmella.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

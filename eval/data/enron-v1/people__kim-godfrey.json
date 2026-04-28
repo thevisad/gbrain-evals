@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-godfrey",
+  "type": "person",
+  "title": "Kim Godfrey",
+  "compiled_truth": "Kim Godfrey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-07 to 2001-10-19), Kim Godfrey sent 8 and received 20 emails, totalling 28 interactions. Top correspondents: [Bob Jordan](people/bob-jordan-compaq) (3), [David Spurlin](people/david-spurlin-compaq) (3), [Jim Crowder](people/jim-crowder) (3), [Gil Melman](people/gil-melman) (3), [Jennifer Medcalf](people/jennifer-medcalf) (3).",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-godfrey",
+    "name": "Kim Godfrey",
+    "email": "kim.godfrey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

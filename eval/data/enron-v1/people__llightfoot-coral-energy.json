@@ -1,0 +1,14 @@
+{
+  "slug": "people/llightfoot-coral-energy",
+  "type": "person",
+  "title": "Llightfoot",
+  "compiled_truth": "Llightfoot is an external contact at [Coral-energy](companies/coral-energy). Over the corpus period (2000-10-27 to 2001-05-11), Llightfoot sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/llightfoot-coral-energy",
+    "name": "Llightfoot",
+    "email": "llightfoot@coral-energy.com",
+    "primary_affiliation": "companies/coral-energy"
+  }
+}

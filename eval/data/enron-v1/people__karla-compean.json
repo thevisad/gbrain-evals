@@ -1,0 +1,14 @@
+{
+  "slug": "people/karla-compean",
+  "type": "person",
+  "title": "Karla Compean",
+  "compiled_truth": "Karla Compean is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-12-04), Karla Compean sent 4 and received 216 emails, totalling 220 interactions. Top correspondents: [Harry Arora](people/harry-arora) (1), [Rahul Seksaria](people/rahul-seksaria) (1), [Clint Dean](people/clint-dean) (1), [Eric Saibi](people/eric-saibi) (1). Mailbox folders observed: calendar, inbox, info3.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karla-compean",
+    "name": "Karla Compean",
+    "email": "karla.compean@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

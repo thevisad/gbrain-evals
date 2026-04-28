@@ -1,0 +1,14 @@
+{
+  "slug": "people/brenda-flores-cuellar",
+  "type": "person",
+  "title": "Brenda Flores-Cuellar",
+  "compiled_truth": "Brenda Flores-Cuellar is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2001-11-27), Brenda Flores-Cuellar sent 7 and received 133 emails, totalling 140 interactions. Top correspondents: [Sally Beck](people/sally-beck) (3), [Patti Thompson](people/patti-thompson) (2), [Thomas Gros](people/thomas-gros) (2), [Brad Romine](people/brad-romine) (2), [Jim Schwieger](people/jim-schwieger) (2).",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brenda-flores-cuellar",
+    "name": "Brenda Flores-Cuellar",
+    "email": "brenda.flores-cuellar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

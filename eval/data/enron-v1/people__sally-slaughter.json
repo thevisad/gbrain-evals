@@ -1,0 +1,14 @@
+{
+  "slug": "people/sally-slaughter",
+  "type": "person",
+  "title": "Sally Slaughter",
+  "compiled_truth": "Sally Slaughter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-28), Sally Slaughter sent 1 and received 10 emails, totalling 11 interactions. Top correspondents: [George Babaz](people/george-babaz) (1), [Moe Barbarawi](people/moe-barbarawi) (1), [Forrest Bennett](people/forrest-bennett) (1), [Sandra Bissett](people/sandra-bissett) (1), [Greg Branan](people/greg-branan) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sally-slaughter",
+    "name": "Sally Slaughter",
+    "email": "sally.slaughter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

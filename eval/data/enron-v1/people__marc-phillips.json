@@ -1,0 +1,14 @@
+{
+  "slug": "people/marc-phillips",
+  "type": "person",
+  "title": "Marc Phillips",
+  "compiled_truth": "Marc Phillips is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-01 to 2002-02-28), Marc Phillips sent 26 and received 120 emails, totalling 146 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (15), [Kyle Purvis](people/kyle-purvis) (12), [William Kendrick](people/william-kendrick) (12), [Rick Loveless](people/rick-loveless) (11), [Ruth Jensen](people/ruth-jensen) (11). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-04-01** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marc-phillips",
+    "name": "Marc Phillips",
+    "email": "marc.phillips@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

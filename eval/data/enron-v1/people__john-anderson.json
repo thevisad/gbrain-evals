@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-anderson",
+  "type": "person",
+  "title": "John Anderson",
+  "compiled_truth": "John Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2002-03-14), John Anderson sent 9 and received 2175 emails, totalling 2184 interactions. Top correspondents: [Bill Williams](people/bill-williams) (4), [Shift Dl-Portland](people/shift-dl-portland) (2), [Lisa Gang](people/lisa-gang) (2), [David Steiner](people/david-steiner) (2), [Vince Kaminski](people/vince-kaminski) (1). Mailbox folders observed: bill_williams_iii, deleted_items, inbox.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-anderson",
+    "name": "John Anderson",
+    "email": "john.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

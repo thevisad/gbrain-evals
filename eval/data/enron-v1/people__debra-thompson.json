@@ -1,0 +1,14 @@
+{
+  "slug": "people/debra-thompson",
+  "type": "person",
+  "title": "Debra Thompson",
+  "compiled_truth": "Debra Thompson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Debra Thompson sent 16 and received 57 emails, totalling 73 interactions. Top correspondents: [Teb Lokey](people/teb-lokey) (13), [Zelda Paschal](people/zelda-paschal) (4), [Robert Kilmer](people/robert-kilmer) (4), [Blair Lichtenwalter](people/blair-lichtenwalter) (4), [Christi Culwell](people/christi-culwell) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debra-thompson",
+    "name": "Debra Thompson",
+    "email": "debra.thompson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheryl-jones",
+  "type": "person",
+  "title": "Cheryl Jones",
+  "compiled_truth": "Cheryl Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-13 to 2001-12-03), Cheryl Jones sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2000-04-13** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheryl-jones",
+    "name": "Cheryl Jones",
+    "email": "cheryl.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

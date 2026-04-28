@@ -1,0 +1,21 @@
+{
+  "slug": "threads/j-block-2000-06",
+  "type": "meeting",
+  "title": "Thread: J-Block",
+  "compiled_truth": "Email thread: \"J-Block\". Ran from 2000-06-06 to 2000-06-09 with 15 messages. Participants: [Jeff Skilling](people/jeff-skilling), [John Sherriff](people/john-sherriff), [Mary Browning](people/mary-browning), [Mike McConnell](people/mike-mcconnell), [Peter Crilly](people/peter-crilly), [Richard Harper](people/richard-harper), [Richard Lewis](people/richard-lewis).",
+  "timeline": "- **2000-06-06** | Thread begins: j-block\n- **2000-06-09** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/j-block-2000-06",
+    "attendees": [
+      "people/jeff-skilling",
+      "people/john-sherriff",
+      "people/mary-browning",
+      "people/mike-mcconnell",
+      "people/peter-crilly",
+      "people/richard-harper",
+      "people/richard-lewis"
+    ],
+    "date": "2000-06-06"
+  }
+}

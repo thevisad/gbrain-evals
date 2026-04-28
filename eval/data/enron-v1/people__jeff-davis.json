@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-davis",
+  "type": "person",
+  "title": "Jeff Davis",
+  "compiled_truth": "Jeff Davis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2001-05-10), Jeff Davis sent 1 and received 16 emails, totalling 17 interactions. Top correspondents: [Steven Kean](people/steven-kean) (1), [Cindy Olson](people/cindy-olson) (1), [Sarah Davis](people/sarah-davis) (1), [Michelle Hargrave](people/michelle-hargrave) (1), [Joyce Barrett](people/joyce-barrett) (1).",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-davis",
+    "name": "Jeff Davis",
+    "email": "jeff.davis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-badger",
+  "type": "person",
+  "title": "Dan Badger",
+  "compiled_truth": "Dan Badger is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-11-23), Dan Badger sent 2 and received 44 emails, totalling 46 interactions. Top correspondents: [Mark Metts](people/mark-metts) (2), [Stanley Horton](people/stanley-horton) (1), [Amit Walia](people/amit-walia) (1), [Greg Whalley](people/greg-whalley) (1), [Mark Frevert](people/mark-frevert) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-11-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-badger",
+    "name": "Dan Badger",
+    "email": "dan.badger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

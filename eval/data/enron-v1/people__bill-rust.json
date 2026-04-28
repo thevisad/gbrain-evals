@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-rust",
+  "type": "person",
+  "title": "Bill Rust",
+  "compiled_truth": "Bill Rust is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-21 to 2002-02-06), Bill Rust sent 2 and received 354 emails, totalling 356 interactions. Top correspondents: [Lloyd Will](people/lloyd-will) (2), [Juan Hernandez](people/juan-hernandez) (2), [Charles Yeung](people/charles-yeung) (2), [Andy Rodriquez](people/andy-rodriquez) (2), [Don Baughman](people/don-baughman) (2). Mailbox folders observed: enron_power, inbox.",
+  "timeline": "- **1999-12-21** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-rust",
+    "name": "Bill Rust",
+    "email": "bill.rust@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

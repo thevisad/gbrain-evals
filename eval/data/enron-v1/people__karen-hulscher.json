@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-hulscher",
+  "type": "person",
+  "title": "Karen Hulscher",
+  "compiled_truth": "Karen Hulscher is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2002-03-19), Karen Hulscher sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-hulscher",
+    "name": "Karen Hulscher",
+    "email": "karen.hulscher@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

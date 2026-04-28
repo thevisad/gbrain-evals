@@ -1,0 +1,14 @@
+{
+  "slug": "people/bert-stipelcovich",
+  "type": "person",
+  "title": "Bert Stipelcovich",
+  "compiled_truth": "Bert Stipelcovich is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-04-04 to 2002-06-24), Bert Stipelcovich sent 11 and received 6 emails, totalling 17 interactions. Top correspondents: [Joe Parks](people/joe-parks) (6), [Marcie Holtman](people/marcie-holtman) (3), [Randall Curry](people/randall-curry) (3), [List Dl-Bridgeline](people/list-dl-bridgeline) (3), [Dl-Bridgeline](people/dl-bridgeline) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2002-04-04** | First recorded email in corpus\n- **2002-06-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bert-stipelcovich",
+    "name": "Bert Stipelcovich",
+    "email": "bert.stipelcovich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

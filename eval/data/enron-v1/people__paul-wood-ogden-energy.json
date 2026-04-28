@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-wood-ogden-energy",
+  "type": "person",
+  "title": "Paul Wood",
+  "compiled_truth": "Paul Wood is an external contact at [Ogden-energy](companies/ogden-energy). Over the corpus period (2000-12-08 to 2001-03-26), Paul Wood sent 0 and received 54 emails, totalling 54 interactions.",
+  "timeline": "- **2000-12-08** | First recorded email in corpus\n- **2001-03-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-wood-ogden-energy",
+    "name": "Paul Wood",
+    "email": "paul_wood@ogden-energy.com",
+    "primary_affiliation": "companies/ogden-energy"
+  }
+}

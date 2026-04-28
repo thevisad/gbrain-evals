@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-a-laird-williams",
+  "type": "person",
+  "title": "Mary A Laird",
+  "compiled_truth": "Mary A Laird is an external contact at [Williams Companies](companies/williams). Over the corpus period (2001-05-11 to 2001-10-24), Mary A Laird sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-05-11** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-a-laird-williams",
+    "name": "Mary A Laird",
+    "email": "mary.a.laird@williams.com",
+    "primary_affiliation": "companies/williams"
+  }
+}

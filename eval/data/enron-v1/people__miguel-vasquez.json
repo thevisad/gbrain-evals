@@ -1,0 +1,14 @@
+{
+  "slug": "people/miguel-vasquez",
+  "type": "person",
+  "title": "Miguel Vasquez",
+  "compiled_truth": "Miguel Vasquez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-24 to 2001-11-16), Miguel Vasquez sent 4 and received 96 emails, totalling 100 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (3), [J  Farmer](people/j-farmer) (1), [Brian Redmond](people/brian-redmond) (1), [Eric Boyt](people/eric-boyt) (1), [Jean Mrha](people/jean-mrha) (1). Mailbox folders observed: inbox, term_proposals.",
+  "timeline": "- **2000-01-24** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/miguel-vasquez",
+    "name": "Miguel Vasquez",
+    "email": "miguel.vasquez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

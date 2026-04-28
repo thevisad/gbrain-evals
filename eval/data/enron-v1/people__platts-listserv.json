@@ -1,0 +1,14 @@
+{
+  "slug": "people/platts-listserv",
+  "type": "person",
+  "title": "Platts",
+  "compiled_truth": "Platts is an external contact at [Listserv](companies/listserv). Over the corpus period (2002-01-17 to 2002-03-07), Platts sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2002-01-17** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/platts-listserv",
+    "name": "Platts",
+    "email": "platts@listserv.platts.com",
+    "primary_affiliation": "companies/listserv"
+  }
+}

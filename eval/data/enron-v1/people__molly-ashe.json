@@ -1,0 +1,14 @@
+{
+  "slug": "people/molly-ashe",
+  "type": "person",
+  "title": "Molly Ashe",
+  "compiled_truth": "Molly Ashe is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-05-21), Molly Ashe sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/molly-ashe",
+    "name": "Molly Ashe",
+    "email": "molly.ashe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

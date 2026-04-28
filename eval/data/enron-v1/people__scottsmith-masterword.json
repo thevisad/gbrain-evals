@@ -1,0 +1,14 @@
+{
+  "slug": "people/scottsmith-masterword",
+  "type": "person",
+  "title": "Scottsmith",
+  "compiled_truth": "Scottsmith is an external contact at [Masterword](companies/masterword). Over the corpus period (2000-11-06 to 2002-01-16), Scottsmith sent 3 and received 8 emails, totalling 11 interactions. Top correspondents: [Don Baughman](people/don-baughman) (3), [Travieso74](people/travieso74-hotmail) (2), [Rcarsal](people/rcarsal-keenerco) (2), [Jose Ramirez](people/jose-ramirez) (2), [Rocco](people/rocco-bayou) (2).",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scottsmith-masterword",
+    "name": "Scottsmith",
+    "email": "scottsmith@masterword.com",
+    "primary_affiliation": "companies/masterword"
+  }
+}

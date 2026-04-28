@@ -1,0 +1,24 @@
+{
+  "slug": "threads/big-commitment-2001-01",
+  "type": "meeting",
+  "title": "Thread: Big Commitment",
+  "compiled_truth": "Email thread: \"Big Commitment\". Ran from 2001-01-03 to 2001-01-04 with 20 messages. Participants: [Brian Hoskins](people/brian-hoskins), [Bryan Hull](people/bryan-hull), [Chad Landry](people/chad-landry), [David Baumbach](people/david-baumbach), [Eric Bass](people/eric-bass), [Luis Mena](people/luis-mena), [Matthew Lenhart](people/matthew-lenhart), [Phillip Love](people/phillip-love).",
+  "timeline": "- **2001-01-03** | Thread begins: big commitment\n- **2001-01-04** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/big-commitment-2001-01",
+    "attendees": [
+      "people/brian-hoskins",
+      "people/bryan-hull",
+      "people/chad-landry",
+      "people/david-baumbach",
+      "people/eric-bass",
+      "people/luis-mena",
+      "people/matthew-lenhart",
+      "people/phillip-love",
+      "people/steve-venturatos",
+      "people/timothy-blanchard"
+    ],
+    "date": "2001-01-03"
+  }
+}

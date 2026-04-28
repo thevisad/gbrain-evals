@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrew-lewis",
+  "type": "person",
+  "title": "Andrew Lewis",
+  "compiled_truth": "Andrew Lewis is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-11), Andrew Lewis sent 80 and received 290 emails, totalling 370 interactions. Top correspondents: [Epao3](people/epao3-yahoo) (10), [Diem Hallmark](people/diem-hallmark-williams) (8), [Ahl 34](people/ahl-34-yahoo) (6), [Robyn Zivic](people/robyn-zivic) (4), [Sthorne](people/sthorne-synagro) (4). Mailbox folders observed: _sent_mail, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrew-lewis",
+    "name": "Andrew Lewis",
+    "email": "andrew.lewis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

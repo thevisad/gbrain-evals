@@ -1,0 +1,14 @@
+{
+  "slug": "people/ssouth",
+  "type": "person",
+  "title": "Ssouth",
+  "compiled_truth": "Ssouth is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-20 to 2001-05-11), Ssouth sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-07-20** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ssouth",
+    "name": "Ssouth",
+    "email": "ssouth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

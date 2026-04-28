@@ -1,0 +1,14 @@
+{
+  "slug": "people/mgriffen-morganlewis",
+  "type": "person",
+  "title": "Mgriffen",
+  "compiled_truth": "Mgriffen is an external contact at [Morganlewis](companies/morganlewis). Over the corpus period (2001-03-09 to 2001-05-03), Mgriffen sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2001-03-09** | First recorded email in corpus\n- **2001-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mgriffen-morganlewis",
+    "name": "Mgriffen",
+    "email": "mgriffen@morganlewis.com",
+    "primary_affiliation": "companies/morganlewis"
+  }
+}

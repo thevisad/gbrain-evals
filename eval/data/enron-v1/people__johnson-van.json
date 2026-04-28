@@ -1,0 +1,14 @@
+{
+  "slug": "people/johnson-van",
+  "type": "person",
+  "title": "Johnson Van",
+  "compiled_truth": "Johnson Van is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-17 to 2001-09-18), Johnson Van sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/johnson-van",
+    "name": "Johnson Van",
+    "email": "johnson.van@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

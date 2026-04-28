@@ -1,0 +1,14 @@
+{
+  "slug": "people/judith-schlesinger",
+  "type": "person",
+  "title": "Judith Schlesinger",
+  "compiled_truth": "Judith Schlesinger is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-25), Judith Schlesinger sent 3 and received 13 emails, totalling 16 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (1), [Vince Kaminski](people/vince-kaminski) (1), [Louise Kitchen](people/louise-kitchen) (1), [Tammie Schoppe](people/tammie-schoppe) (1). Mailbox folders observed: _americas, personal.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/judith-schlesinger",
+    "name": "Judith Schlesinger",
+    "email": "judith.schlesinger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

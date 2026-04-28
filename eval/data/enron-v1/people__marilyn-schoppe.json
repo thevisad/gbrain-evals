@@ -1,0 +1,14 @@
+{
+  "slug": "people/marilyn-schoppe",
+  "type": "person",
+  "title": "Marilyn Schoppe",
+  "compiled_truth": "Marilyn Schoppe is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-29 to 2001-05-25), Marilyn Schoppe sent 0 and received 110 emails, totalling 110 interactions.",
+  "timeline": "- **2000-02-29** | First recorded email in corpus\n- **2001-05-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marilyn-schoppe",
+    "name": "Marilyn Schoppe",
+    "email": "marilyn.schoppe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

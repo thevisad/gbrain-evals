@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-brown",
+  "type": "person",
+  "title": "Jim Brown",
+  "compiled_truth": "Jim Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2002-05-06), Jim Brown sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-brown",
+    "name": "Jim Brown",
+    "email": "jim.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

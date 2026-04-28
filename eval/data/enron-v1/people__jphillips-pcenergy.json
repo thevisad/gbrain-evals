@@ -1,0 +1,14 @@
+{
+  "slug": "people/jphillips-pcenergy",
+  "type": "person",
+  "title": "Jphillips",
+  "compiled_truth": "Jphillips is an external contact at [Pcenergy](companies/pcenergy). Over the corpus period (2000-02-12 to 2000-06-06), Jphillips sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus\n- **2000-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jphillips-pcenergy",
+    "name": "Jphillips",
+    "email": "jphillips@pcenergy.com",
+    "primary_affiliation": "companies/pcenergy"
+  }
+}

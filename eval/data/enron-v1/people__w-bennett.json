@@ -1,0 +1,14 @@
+{
+  "slug": "people/w-bennett",
+  "type": "person",
+  "title": "W  Bennett",
+  "compiled_truth": "W  Bennett is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-29 to 2002-02-07), W  Bennett sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-05-29** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/w-bennett",
+    "name": "W  Bennett",
+    "email": "w..bennett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

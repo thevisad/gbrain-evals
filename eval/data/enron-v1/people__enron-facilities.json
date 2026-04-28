@@ -1,0 +1,14 @@
+{
+  "slug": "people/enron-facilities",
+  "type": "person",
+  "title": "Enron Facilities",
+  "compiled_truth": "Enron Facilities is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-29 to 2001-05-15), Enron Facilities sent 0 and received 130 emails, totalling 130 interactions.",
+  "timeline": "- **2000-02-29** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/enron-facilities",
+    "name": "Enron Facilities",
+    "email": "enron.facilities@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

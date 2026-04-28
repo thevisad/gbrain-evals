@@ -1,0 +1,14 @@
+{
+  "slug": "people/mona-parikh",
+  "type": "person",
+  "title": "Mona Parikh",
+  "compiled_truth": "Mona Parikh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2002-06-24), Mona Parikh sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-06-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mona-parikh",
+    "name": "Mona Parikh",
+    "email": "mona.parikh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

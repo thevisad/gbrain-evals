@@ -1,0 +1,14 @@
+{
+  "slug": "people/ludkam-aol",
+  "type": "person",
+  "title": "Ludkam",
+  "compiled_truth": "Ludkam is an external contact at [AOL](companies/aol). Over the corpus period (2000-01-10 to 2002-01-15), Ludkam sent 5 and received 54 emails, totalling 59 interactions. Top correspondents: [Vkamins](people/vkamins) (4), [Vkaminski](people/vkaminski-aol) (2), [Kamins](people/kamins) (1), [Kaminski](people/kaminski-aol) (1).",
+  "timeline": "- **2000-01-10** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ludkam-aol",
+    "name": "Ludkam",
+    "email": "ludkam@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

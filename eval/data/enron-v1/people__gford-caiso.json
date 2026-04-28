@@ -1,0 +1,14 @@
+{
+  "slug": "people/gford-caiso",
+  "type": "person",
+  "title": "Gford",
+  "compiled_truth": "Gford is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-07-25 to 2001-08-10), Gford sent 1 and received 6 emails, totalling 7 interactions. Top correspondents: [Tswg](people/tswg-caiso) (1), [Adsprojectii](people/adsprojectii-caiso) (1), [Rahman](people/rahman) (1), [Brahman](people/brahman-caiso) (1).",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2001-08-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gford-caiso",
+    "name": "Gford",
+    "email": "gford@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

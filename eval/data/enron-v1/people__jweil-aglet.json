@@ -1,0 +1,14 @@
+{
+  "slug": "people/jweil-aglet",
+  "type": "person",
+  "title": "Jweil",
+  "compiled_truth": "Jweil is an external contact at [Aglet](companies/aglet). Over the corpus period (1999-09-24 to 2001-07-31), Jweil sent 0 and received 186 emails, totalling 186 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jweil-aglet",
+    "name": "Jweil",
+    "email": "jweil@aglet.org",
+    "primary_affiliation": "companies/aglet"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/wjennin",
+  "type": "person",
+  "title": "Wjennin",
+  "compiled_truth": "Wjennin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2001-05-15), Wjennin sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wjennin",
+    "name": "Wjennin",
+    "email": "wjennin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

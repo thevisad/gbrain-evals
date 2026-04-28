@@ -1,0 +1,14 @@
+{
+  "slug": "people/sherri-sera",
+  "type": "person",
+  "title": "Sherri Sera",
+  "compiled_truth": "Sherri Sera is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-19), Sherri Sera sent 447 and received 382 emails, totalling 829 interactions. Top correspondents: [Steven Kean](people/steven-kean) (54), [Joannie Williamson](people/joannie-williamson) (33), [Katherine Brown](people/katherine-brown) (28), [Ken Rice](people/ken-rice) (25), [Stephanie Harris](people/stephanie-harris) (21). Mailbox folders observed: _americas, _sent_mail, aadepartment, caliornia___investigations, inbox, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sherri-sera",
+    "name": "Sherri Sera",
+    "email": "sherri.sera@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

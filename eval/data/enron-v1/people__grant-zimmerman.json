@@ -1,0 +1,14 @@
+{
+  "slug": "people/grant-zimmerman",
+  "type": "person",
+  "title": "Grant Zimmerman",
+  "compiled_truth": "Grant Zimmerman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-12 to 2002-06-25), Grant Zimmerman sent 3 and received 64 emails, totalling 67 interactions. Top correspondents: [Sally Beck](people/sally-beck) (2), [Jean Mrha](people/jean-mrha) (1), [Scott Healy](people/scott-healy) (1), [Benjamin Rogers](people/benjamin-rogers) (1), [Clement Lau](people/clement-lau) (1).",
+  "timeline": "- **2000-01-12** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/grant-zimmerman",
+    "name": "Grant Zimmerman",
+    "email": "grant.zimmerman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

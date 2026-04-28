@@ -1,0 +1,14 @@
+{
+  "slug": "people/ramirez-joe",
+  "type": "person",
+  "title": "Ramirez Joe",
+  "compiled_truth": "Ramirez Joe is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-30 to 2002-01-30), Ramirez Joe sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2002-01-30** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ramirez-joe",
+    "name": "Ramirez Joe",
+    "email": "ramirez.joe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

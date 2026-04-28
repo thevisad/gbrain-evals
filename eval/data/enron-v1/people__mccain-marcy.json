@@ -1,0 +1,14 @@
+{
+  "slug": "people/mccain-marcy",
+  "type": "person",
+  "title": "Mccain' 'Marcy",
+  "compiled_truth": "Mccain' 'Marcy is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-22 to 2002-03-22), Mccain' 'Marcy sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-03-22** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mccain-marcy",
+    "name": "Mccain' 'Marcy",
+    "email": "mccain'.'marcy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

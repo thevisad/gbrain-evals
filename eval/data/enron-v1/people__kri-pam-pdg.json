@@ -1,0 +1,14 @@
+{
+  "slug": "people/kri-pam-pdg",
+  "type": "person",
+  "title": "Kri Pam",
+  "compiled_truth": "Kri Pam is an external contact at [Pdg](companies/pdg). Over the corpus period (2000-10-27 to 2000-12-12), Kri Pam sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kri-pam-pdg",
+    "name": "Kri Pam",
+    "email": "kri.pam@pdg.net",
+    "primary_affiliation": "companies/pdg"
+  }
+}

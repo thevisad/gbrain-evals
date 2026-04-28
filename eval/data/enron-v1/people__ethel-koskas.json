@@ -1,0 +1,14 @@
+{
+  "slug": "people/ethel-koskas",
+  "type": "person",
+  "title": "Ethel Koskas",
+  "compiled_truth": "Ethel Koskas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-11-10), Ethel Koskas sent 0 and received 55 emails, totalling 55 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-11-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ethel-koskas",
+    "name": "Ethel Koskas",
+    "email": "ethel.koskas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

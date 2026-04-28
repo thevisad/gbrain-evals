@@ -1,0 +1,14 @@
+{
+  "slug": "people/angela-villagomez",
+  "type": "person",
+  "title": "Angela Villagomez",
+  "compiled_truth": "Angela Villagomez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-12-04), Angela Villagomez sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angela-villagomez",
+    "name": "Angela Villagomez",
+    "email": "angela.villagomez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

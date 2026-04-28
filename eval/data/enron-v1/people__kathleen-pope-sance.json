@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathleen-pope-sance",
+  "type": "person",
+  "title": "Kathleen Pope-Sance",
+  "compiled_truth": "Kathleen Pope-Sance is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-04-18), Kathleen Pope-Sance sent 1 and received 4 emails, totalling 5 interactions. Top correspondents: [All Ees](people/all-ees) (1).",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-04-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathleen-pope-sance",
+    "name": "Kathleen Pope-Sance",
+    "email": "kathleen.pope-sance@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

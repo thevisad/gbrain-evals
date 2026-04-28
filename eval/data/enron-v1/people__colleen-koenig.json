@@ -1,0 +1,14 @@
+{
+  "slug": "people/colleen-koenig",
+  "type": "person",
+  "title": "Colleen Koenig",
+  "compiled_truth": "Colleen Koenig is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-12-03), Colleen Koenig sent 14 and received 49 emails, totalling 63 interactions. Top correspondents: [Jennifer Medcalf](people/jennifer-medcalf) (10), [Jennifer Stewart](people/jennifer-stewart) (3), [James Wininger](people/james-wininger) (1), [Carrie Robert](people/carrie-robert) (1), [Rsaltiel](people/rsaltiel) (1). Mailbox folders observed: 2000_conference.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/colleen-koenig",
+    "name": "Colleen Koenig",
+    "email": "colleen.koenig@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

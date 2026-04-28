@@ -1,0 +1,14 @@
+{
+  "slug": "people/zionette-vincent",
+  "type": "person",
+  "title": "Zionette Vincent",
+  "compiled_truth": "Zionette Vincent is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-12), Zionette Vincent sent 51 and received 44 emails, totalling 95 interactions. Top correspondents: [Stacey White](people/stacey-white) (2). Mailbox folders observed: meetings, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zionette-vincent",
+    "name": "Zionette Vincent",
+    "email": "zionette.vincent@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

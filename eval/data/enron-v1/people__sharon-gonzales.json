@@ -1,0 +1,14 @@
+{
+  "slug": "people/sharon-gonzales",
+  "type": "person",
+  "title": "Sharon Gonzales",
+  "compiled_truth": "Sharon Gonzales is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-08 to 2002-01-04), Sharon Gonzales sent 4 and received 94 emails, totalling 98 interactions. Top correspondents: [Chris Germany](people/chris-germany) (2), [Debra Perlingiere](people/debra-perlingiere) (2), [Stacey Richardson](people/stacey-richardson) (2), [L  Hernandez](people/l-hernandez) (1), [Cyndie Balfour-Flanagan](people/cyndie-balfour-flanagan) (1). Mailbox folders observed: book_issues, deleted_items.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sharon-gonzales",
+    "name": "Sharon Gonzales",
+    "email": "sharon.gonzales@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

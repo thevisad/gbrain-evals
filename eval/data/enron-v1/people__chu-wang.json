@@ -1,0 +1,14 @@
+{
+  "slug": "people/chu-wang",
+  "type": "person",
+  "title": "Chu Wang",
+  "compiled_truth": "Chu Wang is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-09-24), Chu Wang sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chu-wang",
+    "name": "Chu Wang",
+    "email": "chu.wang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

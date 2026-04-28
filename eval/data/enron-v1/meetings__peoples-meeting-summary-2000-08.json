@@ -1,0 +1,27 @@
+{
+  "slug": "meetings/peoples-meeting-summary-2000-08",
+  "type": "meeting",
+  "title": "Meeting: Peoples Meeting Summary",
+  "compiled_truth": "Meeting: \"Peoples Meeting Summary\". Occurred 2000-08-02 with 1 related emails. Participants included: [Bill Brogan](people/bill-brogan), [Chris Hilgert](people/chris-hilgert), [Chris Sonneborn](people/chris-sonneborn), [Fletcher Sturm](people/fletcher-sturm), [Hunter Shively](people/hunter-shively), [Jean Mrha](people/jean-mrha), [John Gordon](people/john-gordon), [Julie Gomez](people/julie-gomez)....",
+  "timeline": "- **2000-08-02** | Meeting: peoples meeting summary",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/peoples-meeting-summary-2000-08",
+    "attendees": [
+      "people/bill-brogan",
+      "people/chris-hilgert",
+      "people/chris-sonneborn",
+      "people/fletcher-sturm",
+      "people/hunter-shively",
+      "people/jean-mrha",
+      "people/john-gordon",
+      "people/julie-gomez",
+      "people/laura-luce",
+      "people/mark-courtney",
+      "people/paul-bieniawski",
+      "people/steven-curlee",
+      "people/tim-hermann"
+    ],
+    "date": "2000-08-02"
+  }
+}

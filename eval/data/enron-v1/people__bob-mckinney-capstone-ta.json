@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-mckinney-capstone-ta",
+  "type": "person",
+  "title": "Bob Mckinney",
+  "compiled_truth": "Bob Mckinney is an external contact at [Capstone-ta](companies/capstone-ta). Over the corpus period (2001-10-05 to 2002-02-06), Bob Mckinney sent 0 and received 57 emails, totalling 57 interactions.",
+  "timeline": "- **2001-10-05** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-mckinney-capstone-ta",
+    "name": "Bob Mckinney",
+    "email": "bob.mckinney@capstone-ta.com",
+    "primary_affiliation": "companies/capstone-ta"
+  }
+}

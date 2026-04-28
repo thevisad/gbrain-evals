@@ -1,0 +1,14 @@
+{
+  "slug": "people/matthew-commons",
+  "type": "person",
+  "title": "Matthew Commons",
+  "compiled_truth": "Matthew Commons is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2002-01-03), Matthew Commons sent 2 and received 25 emails, totalling 27 interactions. Top correspondents: [A  Shankman](people/a-shankman) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matthew-commons",
+    "name": "Matthew Commons",
+    "email": "matthew.commons@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/christopher-de",
+  "type": "person",
+  "title": "Christopher De",
+  "compiled_truth": "Christopher De is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-05 to 2001-06-27), Christopher De sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christopher-de",
+    "name": "Christopher De",
+    "email": "christopher.de@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

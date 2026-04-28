@@ -1,0 +1,14 @@
+{
+  "slug": "people/tony-chang",
+  "type": "person",
+  "title": "Tony Chang",
+  "compiled_truth": "Tony Chang is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-09 to 2001-05-09), Tony Chang sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-05-09** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tony-chang",
+    "name": "Tony Chang",
+    "email": "tony.chang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

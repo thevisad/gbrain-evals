@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas-baldwin",
+  "type": "person",
+  "title": "Thomas Baldwin",
+  "compiled_truth": "Thomas Baldwin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-07 to 2001-05-15), Thomas Baldwin sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-05-07** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas-baldwin",
+    "name": "Thomas Baldwin",
+    "email": "thomas.baldwin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

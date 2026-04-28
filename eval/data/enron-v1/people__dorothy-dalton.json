@@ -1,0 +1,14 @@
+{
+  "slug": "people/dorothy-dalton",
+  "type": "person",
+  "title": "Dorothy Dalton",
+  "compiled_truth": "Dorothy Dalton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2001-09-13), Dorothy Dalton sent 11 and received 141 emails, totalling 152 interactions. Top correspondents: [Dana Davis](people/dana-davis) (4), [Jeff Skilling](people/jeff-skilling) (4), [Susan Skarness](people/susan-skarness) (4), [Joannie Williamson](people/joannie-williamson) (3), [Sherri Sera](people/sherri-sera) (3). Mailbox folders observed: deleted_items, inbox, resumes.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2001-09-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dorothy-dalton",
+    "name": "Dorothy Dalton",
+    "email": "dorothy.dalton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

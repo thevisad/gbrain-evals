@@ -1,0 +1,14 @@
+{
+  "slug": "people/christy-lobusch",
+  "type": "person",
+  "title": "Christy Lobusch",
+  "compiled_truth": "Christy Lobusch is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-11-25), Christy Lobusch sent 17 and received 73 emails, totalling 90 interactions. Top correspondents: [W  White](people/w-white) (9), [Shona Wilson](people/shona-wilson) (6), [Kristin Albrecht](people/kristin-albrecht) (6), [Errol Mclaughlin](people/errol-mclaughlin) (4), [Paul Bromley](people/paul-bromley) (3). Mailbox folders observed: calendar, central, deleted_items, doorstep, inbox.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christy-lobusch",
+    "name": "Christy Lobusch",
+    "email": "christy.lobusch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

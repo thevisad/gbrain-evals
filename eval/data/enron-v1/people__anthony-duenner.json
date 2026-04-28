@@ -1,0 +1,14 @@
+{
+  "slug": "people/anthony-duenner",
+  "type": "person",
+  "title": "Anthony Duenner",
+  "compiled_truth": "Anthony Duenner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2002-05-06), Anthony Duenner sent 2 and received 41 emails, totalling 43 interactions. Top correspondents: [J  Kean](people/j-kean) (2), [Richard Shapiro](people/richard-shapiro) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anthony-duenner",
+    "name": "Anthony Duenner",
+    "email": "anthony.duenner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

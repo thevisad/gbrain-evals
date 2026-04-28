@@ -1,0 +1,14 @@
+{
+  "slug": "people/r-guillen",
+  "type": "person",
+  "title": "R  Guillen",
+  "compiled_truth": "R  Guillen is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-10 to 2002-06-21), R  Guillen sent 1 and received 50 emails, totalling 51 interactions. Top correspondents: [Dutch Quigley](people/dutch-quigley) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-07-10** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/r-guillen",
+    "name": "R  Guillen",
+    "email": "r..guillen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mshayuth-velaw",
+  "type": "person",
+  "title": "Mshayuth",
+  "compiled_truth": "Mshayuth is an external contact at [Vinson & Elkins](companies/vinson-elkins). Over the corpus period (2000-06-08 to 2000-10-24), Mshayuth sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2000-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mshayuth-velaw",
+    "name": "Mshayuth",
+    "email": "mshayuth@velaw.com",
+    "primary_affiliation": "companies/vinson-elkins"
+  }
+}

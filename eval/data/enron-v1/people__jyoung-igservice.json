@@ -1,0 +1,14 @@
+{
+  "slug": "people/jyoung-igservice",
+  "type": "person",
+  "title": "Jyoung",
+  "compiled_truth": "Jyoung is an external contact at [Igservice](companies/igservice). Over the corpus period (2000-06-20 to 2001-07-31), Jyoung sent 0 and received 44 emails, totalling 44 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jyoung-igservice",
+    "name": "Jyoung",
+    "email": "jyoung@igservice.com",
+    "primary_affiliation": "companies/igservice"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jmackay-unitedgas",
+  "type": "person",
+  "title": "Jmackay",
+  "compiled_truth": "Jmackay is an external contact at [Unitedgas](companies/unitedgas). Over the corpus period (1999-11-22 to 2001-07-31), Jmackay sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jmackay-unitedgas",
+    "name": "Jmackay",
+    "email": "jmackay@unitedgas.com",
+    "primary_affiliation": "companies/unitedgas"
+  }
+}

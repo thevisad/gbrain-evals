@@ -1,0 +1,14 @@
+{
+  "slug": "people/marcia-linton",
+  "type": "person",
+  "title": "Marcia Linton",
+  "compiled_truth": "Marcia Linton is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-05-25), Marcia Linton sent 16 and received 293 emails, totalling 309 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (10), [James Steffes](people/james-steffes) (8), [Susan Mara](people/susan-mara) (5), [Richard Shapiro](people/richard-shapiro) (5), [Risk Group](people/risk-group) (5).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marcia-linton",
+    "name": "Marcia Linton",
+    "email": "marcia.linton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

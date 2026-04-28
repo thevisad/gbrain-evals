@@ -1,0 +1,14 @@
+{
+  "slug": "people/recordp-southwestern",
+  "type": "person",
+  "title": "Recordp",
+  "compiled_truth": "Recordp is an external contact at [Southwestern](companies/southwestern). Over the corpus period (2000-12-13 to 2001-12-18), Recordp sent 5 and received 24 emails, totalling 29 interactions. Top correspondents: [Kay Mann](people/kay-mann) (5).",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/recordp-southwestern",
+    "name": "Recordp",
+    "email": "recordp@southwestern.edu",
+    "primary_affiliation": "companies/southwestern"
+  }
+}

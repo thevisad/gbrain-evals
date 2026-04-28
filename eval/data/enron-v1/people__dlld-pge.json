@@ -1,0 +1,14 @@
+{
+  "slug": "people/dlld-pge",
+  "type": "person",
+  "title": "Dlld",
+  "compiled_truth": "Dlld is an external contact at [PG&E](companies/pge). Over the corpus period (2000-01-27 to 2001-11-21), Dlld sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dlld-pge",
+    "name": "Dlld",
+    "email": "dlld@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tai-nguyen",
+  "type": "person",
+  "title": "Tai Nguyen",
+  "compiled_truth": "Tai Nguyen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-06-14), Tai Nguyen sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tai-nguyen",
+    "name": "Tai Nguyen",
+    "email": "tai.nguyen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

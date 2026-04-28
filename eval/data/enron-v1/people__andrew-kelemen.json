@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrew-kelemen",
+  "type": "person",
+  "title": "Andrew Kelemen",
+  "compiled_truth": "Andrew Kelemen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2001-06-01), Andrew Kelemen sent 9 and received 97 emails, totalling 106 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (9), [Jinsung Myung](people/jinsung-myung) (4), [Omar Al-Farisi](people/omar-al-farisi-csfb) (1), [James Bartlett](people/james-bartlett-csfb) (1), [Don Miller](people/don-miller) (1).",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrew-kelemen",
+    "name": "Andrew Kelemen",
+    "email": "andrew.kelemen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

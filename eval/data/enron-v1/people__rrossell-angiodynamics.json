@@ -1,0 +1,14 @@
+{
+  "slug": "people/rrossell-angiodynamics",
+  "type": "person",
+  "title": "Rrossell",
+  "compiled_truth": "Rrossell is an external contact at [Angiodynamics](companies/angiodynamics). Over the corpus period (2000-09-04 to 2000-11-16), Rrossell sent 0 and received 54 emails, totalling 54 interactions.",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2000-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rrossell-angiodynamics",
+    "name": "Rrossell",
+    "email": "rrossell@angiodynamics.com",
+    "primary_affiliation": "companies/angiodynamics"
+  }
+}

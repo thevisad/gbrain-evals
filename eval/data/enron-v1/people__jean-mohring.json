@@ -1,0 +1,14 @@
+{
+  "slug": "people/jean-mohring",
+  "type": "person",
+  "title": "Jean Mohring",
+  "compiled_truth": "Jean Mohring is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-14 to 2000-10-26), Jean Mohring sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-03-14** | First recorded email in corpus\n- **2000-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jean-mohring",
+    "name": "Jean Mohring",
+    "email": "jean.mohring@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

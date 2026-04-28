@@ -1,0 +1,14 @@
+{
+  "slug": "people/ecoston-energen",
+  "type": "person",
+  "title": "Ecoston",
+  "compiled_truth": "Ecoston is an external contact at [Energen](companies/energen). Over the corpus period (2000-11-11 to 2000-11-11), Ecoston sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ecoston-energen",
+    "name": "Ecoston",
+    "email": "ecoston@energen.com",
+    "primary_affiliation": "companies/energen"
+  }
+}

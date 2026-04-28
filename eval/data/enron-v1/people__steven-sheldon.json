@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-sheldon",
+  "type": "person",
+  "title": "Steven Sheldon",
+  "compiled_truth": "Steven Sheldon is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-29), Steven Sheldon sent 2 and received 23 emails, totalling 25 interactions. Top correspondents: [Rick Buy](people/rick-buy) (1), [Kevin Garland](people/kevin-garland) (1), [John Lavorato](people/john-lavorato) (1), [Jeff Donahue](people/jeff-donahue) (1), [Louise Kitchen](people/louise-kitchen) (1). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-sheldon",
+    "name": "Steven Sheldon",
+    "email": "steven.sheldon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

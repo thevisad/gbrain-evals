@@ -1,0 +1,14 @@
+{
+  "slug": "people/vaninsky-yahoo",
+  "type": "person",
+  "title": "Vaninsky",
+  "compiled_truth": "Vaninsky is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-05-18 to 2000-09-18), Vaninsky sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vaninsky-yahoo",
+    "name": "Vaninsky",
+    "email": "vaninsky@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

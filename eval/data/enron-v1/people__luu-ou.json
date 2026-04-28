@@ -1,0 +1,14 @@
+{
+  "slug": "people/luu-ou",
+  "type": "person",
+  "title": "Luu",
+  "compiled_truth": "Luu is an external contact at [Ou](companies/ou). Over the corpus period (2000-09-13 to 2000-09-13), Luu sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/luu-ou",
+    "name": "Luu",
+    "email": "luu@ou.edu",
+    "primary_affiliation": "companies/ou"
+  }
+}

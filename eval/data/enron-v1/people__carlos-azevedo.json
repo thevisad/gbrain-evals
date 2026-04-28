@@ -1,0 +1,14 @@
+{
+  "slug": "people/carlos-azevedo",
+  "type": "person",
+  "title": "Carlos Azevedo",
+  "compiled_truth": "Carlos Azevedo is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-19 to 2001-07-20), Carlos Azevedo sent 2 and received 47 emails, totalling 49 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2).",
+  "timeline": "- **1999-07-19** | First recorded email in corpus\n- **2001-07-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carlos-azevedo",
+    "name": "Carlos Azevedo",
+    "email": "carlos.azevedo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

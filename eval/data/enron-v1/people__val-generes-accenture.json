@@ -1,0 +1,14 @@
+{
+  "slug": "people/val-generes-accenture",
+  "type": "person",
+  "title": "Val Generes",
+  "compiled_truth": "Val Generes is an external contact at [Accenture](companies/accenture). Over the corpus period (2001-01-11 to 2002-01-28), Val Generes sent 8 and received 80 emails, totalling 88 interactions. Top correspondents: [Matthew Lenhart](people/matthew-lenhart) (3), [Eric Bass](people/eric-bass) (3), [Kevin A Boone](people/kevin-a-boone-accenture) (2), [Bryan Hull](people/bryan-hull) (2), [Valgeneres](people/valgeneres-ev1) (1).",
+  "timeline": "- **2001-01-11** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/val-generes-accenture",
+    "name": "Val Generes",
+    "email": "val.generes@accenture.com",
+    "primary_affiliation": "companies/accenture"
+  }
+}

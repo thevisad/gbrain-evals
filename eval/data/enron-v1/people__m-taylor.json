@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-taylor",
+  "type": "person",
+  "title": "M  Taylor",
+  "compiled_truth": "M  Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-22 to 2001-10-09), M  Taylor sent 119 and received 138 emails, totalling 257 interactions. Top correspondents: [E  Haedicke](people/e-haedicke) (3), [Janette Elbertson](people/janette-elbertson) (3), [J  Kean](people/j-kean) (3), [David Delainey](people/david-delainey) (2), [Tim Belden](people/tim-belden) (2). Mailbox folders observed: bill_williams_iii, calendar, contacts, deleted_items, pr_crisis_management, test.",
+  "timeline": "- **2001-06-22** | First recorded email in corpus\n- **2001-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-taylor",
+    "name": "M  Taylor",
+    "email": "m..taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

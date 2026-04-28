@@ -1,0 +1,14 @@
+{
+  "slug": "people/stouchstone-natsource",
+  "type": "person",
+  "title": "Stouchstone",
+  "compiled_truth": "Stouchstone is an external contact at [Natsource](companies/natsource). Over the corpus period (2000-01-12 to 2002-01-10), Stouchstone sent 9 and received 35 emails, totalling 44 interactions. Top correspondents: [Sandra F Brawner](people/sandra-f-brawner) (5), [Keith Holst](people/keith-holst) (3), [Gpotter](people/gpotter-natsource) (1), [Jwesley](people/jwesley-natsource) (1), [Parker Drew](people/parker-drew-msdw) (1).",
+  "timeline": "- **2000-01-12** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stouchstone-natsource",
+    "name": "Stouchstone",
+    "email": "stouchstone@natsource.com",
+    "primary_affiliation": "companies/natsource"
+  }
+}

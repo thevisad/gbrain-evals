@@ -1,0 +1,14 @@
+{
+  "slug": "people/chuck-kent",
+  "type": "person",
+  "title": "Chuck Kent",
+  "compiled_truth": "Chuck Kent is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-11-08), Chuck Kent sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chuck-kent",
+    "name": "Chuck Kent",
+    "email": "chuck.kent@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

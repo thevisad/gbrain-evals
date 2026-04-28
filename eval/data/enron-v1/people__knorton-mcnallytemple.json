@@ -1,0 +1,14 @@
+{
+  "slug": "people/knorton-mcnallytemple",
+  "type": "person",
+  "title": "Knorton",
+  "compiled_truth": "Knorton is an external contact at [Mcnallytemple](companies/mcnallytemple). Over the corpus period (2000-08-31 to 2001-07-31), Knorton sent 1 and received 125 emails, totalling 126 interactions. Top correspondents: [Cabaker](people/cabaker-duke-energy) (1), [Curtis L Kebler](people/curtis-l-kebler-reliantenergy) (1), [Gtbl](people/gtbl-dynegy) (1), [Jackp](people/jackp-calpine) (1), [Smutny](people/smutny-iepa) (1).",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/knorton-mcnallytemple",
+    "name": "Knorton",
+    "email": "knorton@mcnallytemple.com",
+    "primary_affiliation": "companies/mcnallytemple"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/wolff",
+  "type": "person",
+  "title": "Wolff",
+  "compiled_truth": "Wolff is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-12-03 to 2001-12-03), Wolff sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-12-03** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wolff",
+    "name": "Wolff",
+    "email": "wolff@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

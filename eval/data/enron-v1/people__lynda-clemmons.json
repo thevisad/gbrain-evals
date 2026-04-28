@@ -1,0 +1,14 @@
+{
+  "slug": "people/lynda-clemmons",
+  "type": "person",
+  "title": "Lynda Clemmons",
+  "compiled_truth": "Lynda Clemmons is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2000-02-29), Lynda Clemmons sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (1).",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2000-02-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lynda-clemmons",
+    "name": "Lynda Clemmons",
+    "email": "lynda.clemmons@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

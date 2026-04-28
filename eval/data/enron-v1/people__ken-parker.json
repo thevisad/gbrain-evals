@@ -1,0 +1,14 @@
+{
+  "slug": "people/ken-parker",
+  "type": "person",
+  "title": "Ken Parker",
+  "compiled_truth": "Ken Parker is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-02-20), Ken Parker sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-02-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ken-parker",
+    "name": "Ken Parker",
+    "email": "ken.parker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

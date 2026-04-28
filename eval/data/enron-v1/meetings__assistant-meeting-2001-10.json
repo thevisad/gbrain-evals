@@ -1,0 +1,30 @@
+{
+  "slug": "meetings/assistant-meeting-2001-10",
+  "type": "meeting",
+  "title": "Meeting: Assistant Meeting",
+  "compiled_truth": "Meeting: \"Assistant Meeting\". Occurred 2001-10-18 with 1 related emails. Participants included: [Angie Collins](people/angie-collins), [Ben Brasseaux](people/ben-brasseaux), [Chaun Roberts](people/chaun-roberts), [Claudette Harvey](people/claudette-harvey), [Claudia Guerra](people/claudia-guerra), [Dina Snow](people/dina-snow), [Jae Black](people/jae-black), [Jewell Wade](people/jewell-wade)....",
+  "timeline": "- **2001-10-18** | Meeting: assistant meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/assistant-meeting-2001-10",
+    "attendees": [
+      "people/angie-collins",
+      "people/ben-brasseaux",
+      "people/chaun-roberts",
+      "people/claudette-harvey",
+      "people/claudia-guerra",
+      "people/dina-snow",
+      "people/jae-black",
+      "people/jewell-wade",
+      "people/judy-martinez",
+      "people/kim-melodick",
+      "people/kimberly-hillis",
+      "people/lisa-shoemake",
+      "people/lisa-zarsky",
+      "people/lorie-leigh",
+      "people/tina-holcombe",
+      "people/tina-rode"
+    ],
+    "date": "2001-10-18"
+  }
+}

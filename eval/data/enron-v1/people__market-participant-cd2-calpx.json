@@ -1,0 +1,14 @@
+{
+  "slug": "people/market-participant-cd2-calpx",
+  "type": "person",
+  "title": "Market Participant Cd2",
+  "compiled_truth": "Market Participant Cd2 is an external contact at [Calpx](companies/calpx). Over the corpus period (2000-08-18 to 2001-05-16), Market Participant Cd2 sent 0 and received 33 emails, totalling 33 interactions.",
+  "timeline": "- **2000-08-18** | First recorded email in corpus\n- **2001-05-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/market-participant-cd2-calpx",
+    "name": "Market Participant Cd2",
+    "email": "market_participant_cd2@calpx.com",
+    "primary_affiliation": "companies/calpx"
+  }
+}

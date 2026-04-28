@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeremy-wong",
+  "type": "person",
+  "title": "Jeremy Wong",
+  "compiled_truth": "Jeremy Wong is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2002-05-13), Jeremy Wong sent 25 and received 262 emails, totalling 287 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (16), [John Griffith](people/john-griffith) (11), [S  Lim](people/s-lim) (8), [Francis Lim](people/francis-lim) (6), [Kam Keiser](people/kam-keiser) (6). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeremy-wong",
+    "name": "Jeremy Wong",
+    "email": "jeremy.wong@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

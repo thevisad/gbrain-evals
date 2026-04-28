@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-flanigan",
+  "type": "person",
+  "title": "Michael Flanigan",
+  "compiled_truth": "Michael Flanigan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-10 to 2001-09-13), Michael Flanigan sent 2 and received 18 emails, totalling 20 interactions. Top correspondents: [Jim Leroy](people/jim-leroy) (1), [Darren Maloney](people/darren-maloney) (1), [Davis Thames](people/davis-thames) (1), [Erwin Landivar](people/erwin-landivar) (1), [Jungsuk Suh](people/jungsuk-suh) (1). Mailbox folders observed: emailaddresses, inbox.",
+  "timeline": "- **2000-05-10** | First recorded email in corpus\n- **2001-09-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-flanigan",
+    "name": "Michael Flanigan",
+    "email": "michael.flanigan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

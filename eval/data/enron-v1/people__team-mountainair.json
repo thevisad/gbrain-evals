@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-mountainair",
+  "type": "person",
+  "title": "Team Mountainair",
+  "compiled_truth": "Team Mountainair is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-13 to 2002-03-25), Team Mountainair sent 1 and received 50 emails, totalling 51 interactions. Top correspondents: [Team Artesia](people/team-artesia) (1), [Arnie Bailey](people/arnie-bailey) (1), [Ginger Bissey](people/ginger-bissey) (1), [Larry Campbell](people/larry-campbell) (1), [Trevor Davidson](people/trevor-davidson) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-03-13** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-mountainair",
+    "name": "Team Mountainair",
+    "email": "team.mountainair@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/stacey-white",
+  "type": "person",
+  "title": "Stacey White",
+  "compiled_truth": "Stacey White is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-22), Stacey White sent 361 and received 454 emails, totalling 815 interactions. Top correspondents: [Donald Vinson](people/donald-vinson) (7), [Sally Beck](people/sally-beck) (7), [Casey Evans](people/casey-evans) (6), [Doug Gilbert-Smith](people/doug-gilbert-smith) (4), [Jon Lewis](people/jon-lewis) (3). Mailbox folders observed: cya, deleted_items, ercot, meetings, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stacey-white",
+    "name": "Stacey White",
+    "email": "stacey.white@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

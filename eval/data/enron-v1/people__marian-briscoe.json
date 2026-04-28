@@ -1,0 +1,14 @@
+{
+  "slug": "people/marian-briscoe",
+  "type": "person",
+  "title": "Marian Briscoe",
+  "compiled_truth": "Marian Briscoe is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-25 to 2001-12-21), Marian Briscoe sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-10-25** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marian-briscoe",
+    "name": "Marian Briscoe",
+    "email": "marian.briscoe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

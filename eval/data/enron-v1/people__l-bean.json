@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-bean",
+  "type": "person",
+  "title": "L  Bean",
+  "compiled_truth": "L  Bean is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-11 to 2001-11-26), L  Bean sent 1 and received 5 emails, totalling 6 interactions. Top correspondents: [David Duran](people/david-duran) (1), [F  Calger](people/f-calger) (1), [M  Presto](people/m-presto) (1), [Ben Jacoby](people/ben-jacoby) (1), [Mitch Robinson](people/mitch-robinson) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-10-11** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-bean",
+    "name": "L  Bean",
+    "email": "l..bean@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

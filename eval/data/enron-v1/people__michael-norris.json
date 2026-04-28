@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-norris",
+  "type": "person",
+  "title": "Michael Norris",
+  "compiled_truth": "Michael Norris is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-04 to 2001-12-28), Michael Norris sent 2 and received 56 emails, totalling 58 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (1), [Kathy Campos](people/kathy-campos) (1), [Cullen Duke](people/cullen-duke) (1), [Kenneth Lay](people/kenneth-lay) (1), [Greg Whalley](people/greg-whalley) (1). Mailbox folders observed: inbox, projects.",
+  "timeline": "- **1999-11-04** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-norris",
+    "name": "Michael Norris",
+    "email": "michael.norris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/romarritz-uswest",
+  "type": "person",
+  "title": "Romarritz",
+  "compiled_truth": "Romarritz is an external contact at [Uswest](companies/uswest). Over the corpus period (2001-03-21 to 2001-03-21), Romarritz sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-03-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/romarritz-uswest",
+    "name": "Romarritz",
+    "email": "romarritz@uswest.net",
+    "primary_affiliation": "companies/uswest"
+  }
+}

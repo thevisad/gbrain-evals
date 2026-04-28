@@ -1,0 +1,14 @@
+{
+  "slug": "people/teddy-g-jones-usa",
+  "type": "person",
+  "title": "Teddy G Jones",
+  "compiled_truth": "Teddy G Jones is an external contact at [Usa](companies/usa). Over the corpus period (2000-08-14 to 2000-08-23), Teddy G Jones sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-08-14** | First recorded email in corpus\n- **2000-08-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teddy-g-jones-usa",
+    "name": "Teddy G Jones",
+    "email": "teddy.g.jones@usa.conoco.com",
+    "primary_affiliation": "companies/usa"
+  }
+}

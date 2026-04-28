@@ -1,0 +1,14 @@
+{
+  "slug": "people/jzapata-giveblood",
+  "type": "person",
+  "title": "Jzapata",
+  "compiled_truth": "Jzapata is an external contact at [Giveblood](companies/giveblood). Over the corpus period (2000-05-21 to 2000-07-11), Jzapata sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-07-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jzapata-giveblood",
+    "name": "Jzapata",
+    "email": "jzapata@giveblood.org",
+    "primary_affiliation": "companies/giveblood"
+  }
+}

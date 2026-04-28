@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcgee-nora-epamail",
+  "type": "person",
+  "title": "Mcgee Nora",
+  "compiled_truth": "Mcgee Nora is an external contact at [Epamail](companies/epamail). Over the corpus period (1999-11-16 to 2001-11-13), Mcgee Nora sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **1999-11-16** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcgee-nora-epamail",
+    "name": "Mcgee Nora",
+    "email": "mcgee.nora@epamail.epa.gov",
+    "primary_affiliation": "companies/epamail"
+  }
+}

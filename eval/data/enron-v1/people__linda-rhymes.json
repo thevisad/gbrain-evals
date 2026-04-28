@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-rhymes",
+  "type": "person",
+  "title": "Linda Rhymes",
+  "compiled_truth": "Linda Rhymes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-30 to 2001-04-27), Linda Rhymes sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-30** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-rhymes",
+    "name": "Linda Rhymes",
+    "email": "linda.rhymes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

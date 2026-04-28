@@ -1,0 +1,24 @@
+{
+  "slug": "threads/lunch-2000-08",
+  "type": "meeting",
+  "title": "Thread: Lunch",
+  "compiled_truth": "Email thread: \"Lunch\". Ran from 2000-08-21 to 2000-09-20 with 14 messages. Participants: [Allison Mchenry](people/allison-mchenry), [Andrew Ralston](people/andrew-ralston), [Debra Perlingiere](people/debra-perlingiere), [Drew Fossum](people/drew-fossum), [Kay Mann](people/kay-mann), [Kimberlee Bennick](people/kimberlee-bennick), [Robert Jones](people/robert-jones), [Shirley Crenshaw](people/shirley-crenshaw).",
+  "timeline": "- **2000-08-21** | Thread begins: lunch\n- **2000-09-20** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/lunch-2000-08",
+    "attendees": [
+      "people/allison-mchenry",
+      "people/andrew-ralston",
+      "people/debra-perlingiere",
+      "people/drew-fossum",
+      "people/kay-mann",
+      "people/kimberlee-bennick",
+      "people/robert-jones",
+      "people/shirley-crenshaw",
+      "people/stephen-stock",
+      "people/vince-kaminski"
+    ],
+    "date": "2000-08-21"
+  }
+}

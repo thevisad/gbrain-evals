@@ -1,0 +1,43 @@
+{
+  "slug": "threads/enron-2001-10",
+  "type": "meeting",
+  "title": "Thread: Enron",
+  "compiled_truth": "Email thread: \"Enron\". Ran from 2001-10-18 to 2001-11-15 with 13 messages. Participants: [A  Hughes](people/a-hughes), [A  Shankman](people/a-shankman), [Babak Pooya](people/babak-pooya-southernenergy), [Chris Germany](people/chris-germany), [Chris Mahoney](people/chris-mahoney), [Cocob](people/cocob-pdq), [D  Steffes](people/d-steffes), [Elberg Gelin](people/elberg-gelin).",
+  "timeline": "- **2001-10-18** | Thread begins: enron\n- **2001-11-15** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-2001-10",
+    "attendees": [
+      "people/a-hughes",
+      "people/a-shankman",
+      "people/babak-pooya-southernenergy",
+      "people/chris-germany",
+      "people/chris-mahoney",
+      "people/cocob-pdq",
+      "people/d-steffes",
+      "people/elberg-gelin",
+      "people/elizabeth-sager",
+      "people/esq-enron-elizabeth",
+      "people/f-brawner",
+      "people/greg-whalley",
+      "people/h-moore",
+      "people/ingrid-immer-williams",
+      "people/j-kean",
+      "people/john-lavorato",
+      "people/jshorter-txu",
+      "people/kimberly-indelicato",
+      "people/l-nowlan",
+      "people/lavorato",
+      "people/lucy-page",
+      "people/mappling-chematch",
+      "people/mark-whitt",
+      "people/martyjo-rogers-entergykoch",
+      "people/rob-walls",
+      "people/rodney-reagor",
+      "people/schultz",
+      "people/sjernig-entergy",
+      "people/valerie-schultz-entergykoch"
+    ],
+    "date": "2001-10-18"
+  }
+}

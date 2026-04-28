@@ -1,0 +1,14 @@
+{
+  "slug": "people/jhillin",
+  "type": "person",
+  "title": "Jhillin",
+  "compiled_truth": "Jhillin is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-15 to 1999-11-15), Jhillin sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jhillin",
+    "name": "Jhillin",
+    "email": "jhillin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/hereford-lisa",
+  "type": "person",
+  "title": "Hereford Lisa",
+  "compiled_truth": "Hereford Lisa is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-08 to 2002-03-14), Hereford Lisa sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hereford-lisa",
+    "name": "Hereford Lisa",
+    "email": "hereford.lisa@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

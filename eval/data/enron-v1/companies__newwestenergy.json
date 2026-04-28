@@ -1,0 +1,22 @@
+{
+  "slug": "companies/newwestenergy",
+  "type": "company",
+  "title": "Newwestenergy",
+  "compiled_truth": "Newwestenergy is an external organization that appears in the Enron email corpus. Domain: newwestenergy.com. Total email interactions with Enron: 275. Known contacts: 5 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (275 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/newwestenergy",
+    "name": "Newwestenergy",
+    "employees": [
+      "people/camiessn-newwestenergy",
+      "people/jcgardin-newwestenergy",
+      "people/jsmollon-newwestenergy",
+      "people/rsnichol-newwestenergy",
+      "people/srmalone-newwestenergy"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

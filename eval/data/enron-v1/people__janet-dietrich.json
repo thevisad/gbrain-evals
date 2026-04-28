@@ -1,0 +1,14 @@
+{
+  "slug": "people/janet-dietrich",
+  "type": "person",
+  "title": "Janet Dietrich",
+  "compiled_truth": "Janet Dietrich is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Janet Dietrich sent 40 and received 1163 emails, totalling 1203 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (16), [John Lavorato](people/john-lavorato) (7), [David Delainey](people/david-delainey) (6), [Rick Buy](people/rick-buy) (6), [Richard Shapiro](people/richard-shapiro) (6). Mailbox folders observed: _americas, credit_issues, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janet-dietrich",
+    "name": "Janet Dietrich",
+    "email": "janet.dietrich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

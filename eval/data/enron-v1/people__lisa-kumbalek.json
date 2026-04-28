@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-kumbalek",
+  "type": "person",
+  "title": "Lisa Kumbalek",
+  "compiled_truth": "Lisa Kumbalek is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-04 to 2001-06-04), Lisa Kumbalek sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-kumbalek",
+    "name": "Lisa Kumbalek",
+    "email": "lisa.kumbalek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

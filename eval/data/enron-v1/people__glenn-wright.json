@@ -1,0 +1,14 @@
+{
+  "slug": "people/glenn-wright",
+  "type": "person",
+  "title": "Glenn Wright",
+  "compiled_truth": "Glenn Wright is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-26 to 2002-03-29), Glenn Wright sent 1 and received 45 emails, totalling 46 interactions. Top correspondents: [Dolores Lenfest](people/dolores-lenfest) (1), [Steve Hooser](people/steve-hooser) (1), [Ozzie Pagan](people/ozzie-pagan) (1).",
+  "timeline": "- **2000-04-26** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/glenn-wright",
+    "name": "Glenn Wright",
+    "email": "glenn.wright@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

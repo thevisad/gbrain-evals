@@ -1,0 +1,14 @@
+{
+  "slug": "people/carmen-carmenate-i2",
+  "type": "person",
+  "title": "Carmen Carmenate",
+  "compiled_truth": "Carmen Carmenate is an external contact at [I2](companies/i2). Over the corpus period (2000-11-22 to 2000-11-27), Carmen Carmenate sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-22** | First recorded email in corpus\n- **2000-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carmen-carmenate-i2",
+    "name": "Carmen Carmenate",
+    "email": "carmen_carmenate@i2.com",
+    "primary_affiliation": "companies/i2"
+  }
+}

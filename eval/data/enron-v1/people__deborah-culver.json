@@ -1,0 +1,14 @@
+{
+  "slug": "people/deborah-culver",
+  "type": "person",
+  "title": "Deborah Culver",
+  "compiled_truth": "Deborah Culver is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Deborah Culver sent 6 and received 75 emails, totalling 81 interactions. Top correspondents: [Eeso Legal](people/eeso-legal) (2), [Bill Rapp](people/bill-rapp) (2), [Sally Beck](people/sally-beck) (1), [Jeffrey Hodge](people/jeffrey-hodge) (1), [Carol Clair](people/carol-clair) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deborah-culver",
+    "name": "Deborah Culver",
+    "email": "deborah.culver@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

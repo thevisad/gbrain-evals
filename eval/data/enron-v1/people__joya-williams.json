@@ -1,0 +1,14 @@
+{
+  "slug": "people/joya-williams",
+  "type": "person",
+  "title": "Joya Williams",
+  "compiled_truth": "Joya Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-11 to 2001-12-03), Joya Williams sent 1 and received 25 emails, totalling 26 interactions. Top correspondents: [Louis Allen](people/louis-allen) (1), [Jessica Anaya](people/jessica-anaya) (1), [Cbarmstrong](people/cbarmstrong-duke-energy) (1), [Kristin Armstrong](people/kristin-armstrong) (1), [Alex Arriaga](people/alex-arriaga) (1).",
+  "timeline": "- **2000-12-11** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joya-williams",
+    "name": "Joya Williams",
+    "email": "joya.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rshively-enerdynamics",
+  "type": "person",
+  "title": "Rshively",
+  "compiled_truth": "Rshively is an external contact at [Enerdynamics](companies/enerdynamics). Over the corpus period (1999-09-24 to 2001-07-31), Rshively sent 0 and received 71 emails, totalling 71 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rshively-enerdynamics",
+    "name": "Rshively",
+    "email": "rshively@enerdynamics.com",
+    "primary_affiliation": "companies/enerdynamics"
+  }
+}

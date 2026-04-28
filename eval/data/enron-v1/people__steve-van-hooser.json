@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-van-hooser",
+  "type": "person",
+  "title": "Steve Van Hooser",
+  "compiled_truth": "Steve Van Hooser is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-04 to 2001-06-30), Steve Van Hooser sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-08-04** | First recorded email in corpus\n- **2001-06-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-van-hooser",
+    "name": "Steve Van Hooser",
+    "email": "steve.van.hooser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

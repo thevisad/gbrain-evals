@@ -1,0 +1,14 @@
+{
+  "slug": "people/eddie-sera",
+  "type": "person",
+  "title": "Eddie Sera",
+  "compiled_truth": "Eddie Sera is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2002-01-11), Eddie Sera sent 3 and received 35 emails, totalling 38 interactions. Top correspondents: [Huy Dinh](people/huy-dinh) (2), [Tony Harris](people/tony-harris) (2), [Darran Binns](people/darran-binns) (2), [Rafael Avila](people/rafael-avila) (2), [Scott Tackett](people/scott-tackett) (2). Mailbox folders observed: deleted_items, personal.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eddie-sera",
+    "name": "Eddie Sera",
+    "email": "eddie.sera@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

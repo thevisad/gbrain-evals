@@ -1,0 +1,14 @@
+{
+  "slug": "people/victor-bulbes",
+  "type": "person",
+  "title": "Victor Bulbes",
+  "compiled_truth": "Victor Bulbes is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-03 to 2002-04-09), Victor Bulbes sent 1 and received 20 emails, totalling 21 interactions. Top correspondents: [Center Dl-Portland](people/center-dl-portland) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-10-03** | First recorded email in corpus\n- **2002-04-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/victor-bulbes",
+    "name": "Victor Bulbes",
+    "email": "victor.bulbes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

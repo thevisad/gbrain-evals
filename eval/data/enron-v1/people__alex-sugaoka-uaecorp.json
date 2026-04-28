@@ -1,0 +1,14 @@
+{
+  "slug": "people/alex-sugaoka-uaecorp",
+  "type": "person",
+  "title": "Alex Sugaoka",
+  "compiled_truth": "Alex Sugaoka is an external contact at [Uaecorp](companies/uaecorp). Over the corpus period (2000-09-20 to 2001-07-31), Alex Sugaoka sent 0 and received 147 emails, totalling 147 interactions.",
+  "timeline": "- **2000-09-20** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alex-sugaoka-uaecorp",
+    "name": "Alex Sugaoka",
+    "email": "alex.sugaoka@uaecorp.com",
+    "primary_affiliation": "companies/uaecorp"
+  }
+}

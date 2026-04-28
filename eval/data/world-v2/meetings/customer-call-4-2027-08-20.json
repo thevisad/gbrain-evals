@@ -1,0 +1,31 @@
+{
+  "slug": "meetings/customer-call-4-2027-08-20",
+  "type": "meeting",
+  "title": "Customer Call — Helios Corp Expansion (2027-08-20)",
+  "compiled_truth": "Call with [Helios Corp](companies/helios-corp) to discuss expanding from their initial pilot deployment (three teams, ~120 seats) to a full org-wide rollout. [Paz Santos](people/paz-santos) led the conversation from our side, with [Blake Nowak](people/blake-nowak) handling technical questions and [Avery Khalil](people/avery-khalil) joining to talk through pricing and contract structure.\n\nHelios's internal champion on the call was Dana Mercer, their VP of Platform Engineering. She was enthusiastic — said the pilot teams had seen measurable latency improvements and that the single-pass pipeline eliminated two intermediate caching layers they'd been maintaining. She mentioned that their compliance team had flagged the deterministic authentication model as a significant plus for their upcoming SOC 2 renewal, which was a nice bonus we hadn't anticipated being a factor this early.\n\nThe main blocker Dana raised was around multi-tenant isolation. Helios runs a shared-infrastructure SaaS model serving ~2,400 enterprise customers, and their security team wants guarantees that our primitives don't introduce cross-tenant data leakage vectors. [Blake Nowak](people/blake-nowak) walked through our isolation architecture at a high level and committed to delivering a written security brief by end of week. Dana seemed satisfied but noted their CISO would need to sign off independently.\n\nPricing discussion was straightforward. [Avery Khalil](people/avery-khalil) proposed a tiered annual contract — 800 seats at a discounted per-seat rate with a 15% step-down if they hit 1,500 seats by Q1 2028. Dana pushed back slightly, asking for a flat enterprise rate instead. Avery held firm on the tiered model but offered to waive onboarding fees for the first wave of departments beyond the pilot. Dana said she'd take it back to procurement.\n\nTimeline-wise, Helios wants to start the broader rollout in October, which means we need the security brief delivered, CISO approval obtained, and contract signed by mid-September at latest. Paz flagged internally after the call that we should loop in customer success early — Helios is likely to be one of our biggest referenceable accounts if this goes well, and we can't afford to fumble the onboarding experiance.\n\nOne minor concern: Dana mentioned offhand that they're evaluating a competing solution from Stratos Systems for a different part of their stack. Not directly overlapping with our product, but worth monitoring. Paz noted it for the next internal pipeline review.",
+  "timeline": [
+    "- **2027-03-10** | Initial outreach from [Helios Corp](companies/helios-corp) via inbound demo request; routed to [Paz Santos](people/paz-santos)",
+    "- **2027-04-02** | First discovery call with Helios platform engineering team; identified pilot opportunity",
+    "- **2027-04-18** | Pilot agreement signed — three teams, 120 seats, 90-day evaluation period",
+    "- **2027-05-15** | Helios pilot deployment completed; [Blake Nowak](people/blake-nowak) provided on-site integration support",
+    "- **2027-07-09** | Mid-pilot check-in; Helios reported positive latency metrics and reduced caching overhead",
+    "- **2027-08-20** | Expansion call — org-wide rollout discussion with Dana Mercer (this meeting)",
+    "- **2027-08-27** | Security brief due to Helios CISO for multi-tenant isolation review",
+    "- **2027-09-15** | Target date for signed enterprise contract per [Avery Khalil](people/avery-khalil) timeline",
+    "- **2027-10-01** | Planned start of phased org-wide rollout at [Helios Corp](companies/helios-corp)"
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/customer-call-4-2027-08-20",
+    "name": "Customer Call — helios-corp 2027-08",
+    "meeting_type": "customer_call",
+    "date": "2027-08-20",
+    "attendees": [
+      "people/paz-santos",
+      "people/blake-nowak",
+      "people/avery-khalil"
+    ],
+    "topic_company": "companies/helios-corp",
+    "topic": "Helios Corp expansion — org-wide rollout discussion"
+  }
+}

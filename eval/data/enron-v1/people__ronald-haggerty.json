@@ -1,0 +1,14 @@
+{
+  "slug": "people/ronald-haggerty",
+  "type": "person",
+  "title": "Ronald Haggerty",
+  "compiled_truth": "Ronald Haggerty is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2000-06-07), Ronald Haggerty sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2000-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ronald-haggerty",
+    "name": "Ronald Haggerty",
+    "email": "ronald.haggerty@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

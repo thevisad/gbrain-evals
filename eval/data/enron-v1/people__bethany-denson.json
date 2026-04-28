@@ -1,0 +1,14 @@
+{
+  "slug": "people/bethany-denson",
+  "type": "person",
+  "title": "Bethany Denson",
+  "compiled_truth": "Bethany Denson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-01 to 2000-11-17), Bethany Denson sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-11-01** | First recorded email in corpus\n- **2000-11-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bethany-denson",
+    "name": "Bethany Denson",
+    "email": "bethany.denson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

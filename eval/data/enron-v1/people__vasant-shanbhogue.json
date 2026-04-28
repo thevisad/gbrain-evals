@@ -1,0 +1,14 @@
+{
+  "slug": "people/vasant-shanbhogue",
+  "type": "person",
+  "title": "Vasant Shanbhogue",
+  "compiled_truth": "Vasant Shanbhogue is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2002-01-28), Vasant Shanbhogue sent 49 and received 634 emails, totalling 683 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (41), [Tanya Tamarchenko](people/tanya-tamarchenko) (5), [Shirley Crenshaw](people/shirley-crenshaw) (5), [J Kaminski](people/j-kaminski) (5), [Kevin Kindall](people/kevin-kindall) (4). Mailbox folders observed: _americas, c, deleted_items, inbox, resumes.",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vasant-shanbhogue",
+    "name": "Vasant Shanbhogue",
+    "email": "vasant.shanbhogue@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

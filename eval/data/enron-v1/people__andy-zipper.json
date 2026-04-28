@@ -1,0 +1,14 @@
+{
+  "slug": "people/andy-zipper",
+  "type": "person",
+  "title": "Andy Zipper",
+  "compiled_truth": "Andy Zipper is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-14 to 2004-02-04), Andy Zipper sent 432 and received 1608 emails, totalling 2040 interactions. Top correspondents: [Greg Piper](people/greg-piper) (32), [Errol Mclaughlin](people/errol-mclaughlin) (21), [Louise Kitchen](people/louise-kitchen) (19), [Bob Shults](people/bob-shults) (17), [Michael Bridges](people/michael-bridges) (17). Mailbox folders observed: _americas, archive, calendar, contacts, deleted_items, fundamentals.",
+  "timeline": "- **2000-04-14** | First recorded email in corpus\n- **2004-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andy-zipper",
+    "name": "Andy Zipper",
+    "email": "andy.zipper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/eyingling-aba",
+  "type": "person",
+  "title": "Eyingling",
+  "compiled_truth": "Eyingling is an external contact at [Aba](companies/aba). Over the corpus period (2001-11-09 to 2001-11-16), Eyingling sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-11-09** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eyingling-aba",
+    "name": "Eyingling",
+    "email": "eyingling@aba.com",
+    "primary_affiliation": "companies/aba"
+  }
+}

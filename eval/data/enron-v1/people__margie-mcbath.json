@@ -1,0 +1,14 @@
+{
+  "slug": "people/margie-mcbath",
+  "type": "person",
+  "title": "Margie Mcbath",
+  "compiled_truth": "Margie Mcbath is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2001-11-16), Margie Mcbath sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margie-mcbath",
+    "name": "Margie Mcbath",
+    "email": "margie.mcbath@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

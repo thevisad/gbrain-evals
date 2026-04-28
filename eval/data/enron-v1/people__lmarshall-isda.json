@@ -1,0 +1,14 @@
+{
+  "slug": "people/lmarshall-isda",
+  "type": "person",
+  "title": "Lmarshall",
+  "compiled_truth": "Lmarshall is an external contact at [Isda](companies/isda). Over the corpus period (2000-09-07 to 2001-11-13), Lmarshall sent 2 and received 50 emails, totalling 52 interactions. Top correspondents: [Rmetcalfe](people/rmetcalfe-isda-eur) (2), [Rainslie](people/rainslie-isda) (2), [Shirley](people/shirley-aigfpc) (1), [Bcoors](people/bcoors-aceguarantyre) (1), [Sgupta Ny](people/sgupta-ny-siny) (1).",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lmarshall-isda",
+    "name": "Lmarshall",
+    "email": "lmarshall@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

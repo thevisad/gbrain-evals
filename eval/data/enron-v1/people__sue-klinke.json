@@ -1,0 +1,14 @@
+{
+  "slug": "people/sue-klinke",
+  "type": "person",
+  "title": "Sue Klinke",
+  "compiled_truth": "Sue Klinke is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2001-11-16), Sue Klinke sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sue-klinke",
+    "name": "Sue Klinke",
+    "email": "sue.klinke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sheri-thomas",
+  "type": "person",
+  "title": "Sheri Thomas",
+  "compiled_truth": "Sheri Thomas is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-29), Sheri Thomas sent 82 and received 1068 emails, totalling 1150 interactions. Top correspondents: [Sally Beck](people/sally-beck) (57), [Jennifer Denny](people/jennifer-denny) (15), [Mark Taylor](people/mark-taylor) (10), [Andy Zipper](people/andy-zipper) (8), [Tana Jones](people/tana-jones) (8). Mailbox folders observed: _americas, deleted_items, eol, espeed, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sheri-thomas",
+    "name": "Sheri Thomas",
+    "email": "sheri.thomas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-alvar",
+  "type": "person",
+  "title": "John Alvar",
+  "compiled_truth": "John Alvar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2001-10-12), John Alvar sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-alvar",
+    "name": "John Alvar",
+    "email": "john.alvar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

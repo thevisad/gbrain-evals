@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-rumsey",
+  "type": "person",
+  "title": "Patricia Rumsey",
+  "compiled_truth": "Patricia Rumsey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-11-02), Patricia Rumsey sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-rumsey",
+    "name": "Patricia Rumsey",
+    "email": "patricia.rumsey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

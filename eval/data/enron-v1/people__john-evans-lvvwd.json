@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-evans-lvvwd",
+  "type": "person",
+  "title": "John Evans",
+  "compiled_truth": "John Evans is an external contact at [Lvvwd](companies/lvvwd). Over the corpus period (2001-03-21 to 2001-03-21), John Evans sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-03-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-evans-lvvwd",
+    "name": "John Evans",
+    "email": "john.evans@lvvwd.com",
+    "primary_affiliation": "companies/lvvwd"
+  }
+}

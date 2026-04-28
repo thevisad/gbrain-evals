@@ -1,0 +1,14 @@
+{
+  "slug": "people/kcarlson-do",
+  "type": "person",
+  "title": "Kcarlson",
+  "compiled_truth": "Kcarlson is an external contact at [Do](companies/do). Over the corpus period (2000-06-21 to 2001-04-26), Kcarlson sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kcarlson-do",
+    "name": "Kcarlson",
+    "email": "kcarlson@do.usbr.gov",
+    "primary_affiliation": "companies/do"
+  }
+}

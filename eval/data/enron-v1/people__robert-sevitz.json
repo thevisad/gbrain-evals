@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-sevitz",
+  "type": "person",
+  "title": "Robert Sevitz",
+  "compiled_truth": "Robert Sevitz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-03 to 2002-06-21), Robert Sevitz sent 3 and received 69 emails, totalling 72 interactions. Top correspondents: [Kay Mann](people/kay-mann) (3), [Randy Pais](people/randy-pais) (3), [Jude Rolfes](people/jude-rolfes) (1), [Dan Shultz](people/dan-shultz) (1), [John Normand](people/john-normand) (1).",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-sevitz",
+    "name": "Robert Sevitz",
+    "email": "robert.sevitz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/janet-place",
+  "type": "person",
+  "title": "Janet Place",
+  "compiled_truth": "Janet Place is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2001-12-26), Janet Place sent 6 and received 206 emails, totalling 212 interactions. Top correspondents: [Drew Fossum](people/drew-fossum) (2), [Mark Whitt](people/mark-whitt) (2), [James Derrick](people/james-derrick) (1), [J Harris](people/j-harris) (1), [Support #99](people/support-99) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-12-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janet-place",
+    "name": "Janet Place",
+    "email": "janet.place@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

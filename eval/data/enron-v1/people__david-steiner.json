@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-steiner",
+  "type": "person",
+  "title": "David Steiner",
+  "compiled_truth": "David Steiner is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-02 to 2002-02-13), David Steiner sent 40 and received 130 emails, totalling 170 interactions. Top correspondents: [Center Dl-Portland](people/center-dl-portland) (25), [Dan Dietrich](people/dan-dietrich) (7), [Bill Williams](people/bill-williams) (6), [P  O'Neil](people/p-o-neil) (4), [Desk Portland](people/desk-portland) (4). Mailbox folders observed: bill_williams_iii, deleted_items, inbox, read.",
+  "timeline": "- **2001-02-02** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-steiner",
+    "name": "David Steiner",
+    "email": "david.steiner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

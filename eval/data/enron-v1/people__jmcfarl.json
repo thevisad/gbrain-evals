@@ -1,0 +1,14 @@
+{
+  "slug": "people/jmcfarl",
+  "type": "person",
+  "title": "Jmcfarl",
+  "compiled_truth": "Jmcfarl is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-14 to 2000-08-31), Jmcfarl sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-06-14** | First recorded email in corpus\n- **2000-08-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jmcfarl",
+    "name": "Jmcfarl",
+    "email": "jmcfarl@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

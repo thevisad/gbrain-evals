@@ -1,0 +1,14 @@
+{
+  "slug": "people/jah-net-theberge",
+  "type": "person",
+  "title": "Jah'Net Theberge",
+  "compiled_truth": "Jah'Net Theberge is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-26 to 2000-05-26), Jah'Net Theberge sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-05-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jah-net-theberge",
+    "name": "Jah'Net Theberge",
+    "email": "jah'net.theberge@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

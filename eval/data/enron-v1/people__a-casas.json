@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-casas",
+  "type": "person",
+  "title": "A  Casas",
+  "compiled_truth": "A  Casas is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-18 to 2001-10-24), A  Casas sent 1 and received 38 emails, totalling 39 interactions. Top correspondents: [Torrey Moorer](people/torrey-moorer) (1), [B  Cass](people/b-cass) (1), [Scott Neal](people/scott-neal) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-18** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-casas",
+    "name": "A  Casas",
+    "email": "a..casas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

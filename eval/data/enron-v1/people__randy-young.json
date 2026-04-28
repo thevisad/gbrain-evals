@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-young",
+  "type": "person",
+  "title": "Randy Young",
+  "compiled_truth": "Randy Young is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-15 to 2001-07-02), Randy Young sent 14 and received 156 emails, totalling 170 interactions. Top correspondents: [Mark Haedicke](people/mark-haedicke) (8), [Frank Stabler](people/frank-stabler) (5), [Sara Shackleton](people/sara-shackleton) (4), [David Gorte](people/david-gorte) (2), [Andre Cangucu](people/andre-cangucu) (2).",
+  "timeline": "- **1999-07-15** | First recorded email in corpus\n- **2001-07-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-young",
+    "name": "Randy Young",
+    "email": "randy.young@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

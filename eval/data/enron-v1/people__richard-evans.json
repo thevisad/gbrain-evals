@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-evans",
+  "type": "person",
+  "title": "Richard Evans",
+  "compiled_truth": "Richard Evans is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-30 to 2002-03-29), Richard Evans sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-07-30** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-evans",
+    "name": "Richard Evans",
+    "email": "richard.evans@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

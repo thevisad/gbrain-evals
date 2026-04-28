@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-ingram",
+  "type": "person",
+  "title": "David Ingram",
+  "compiled_truth": "David Ingram is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-22 to 2001-12-18), David Ingram sent 4 and received 77 emails, totalling 81 interactions. Top correspondents: [D  Thomas](people/d-thomas) (4), [Reagan Mathews](people/reagan-mathews) (1), [Brian Terp](people/brian-terp) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-08-22** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-ingram",
+    "name": "David Ingram",
+    "email": "david.ingram@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

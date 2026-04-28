@@ -1,0 +1,14 @@
+{
+  "slug": "people/roger-spiller",
+  "type": "person",
+  "title": "Roger Spiller",
+  "compiled_truth": "Roger Spiller is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-07 to 2001-02-06), Roger Spiller sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-03-07** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roger-spiller",
+    "name": "Roger Spiller",
+    "email": "roger.spiller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

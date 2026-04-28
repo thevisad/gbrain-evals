@@ -1,0 +1,14 @@
+{
+  "slug": "people/rodzinak-pdq",
+  "type": "person",
+  "title": "Rodzinak",
+  "compiled_truth": "Rodzinak is an external contact at [Pdq](companies/pdq). Over the corpus period (2000-05-21 to 2000-05-21), Rodzinak sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rodzinak-pdq",
+    "name": "Rodzinak",
+    "email": "rodzinak@pdq.net",
+    "primary_affiliation": "companies/pdq"
+  }
+}

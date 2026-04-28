@@ -1,0 +1,14 @@
+{
+  "slug": "people/krzysztof-forycki",
+  "type": "person",
+  "title": "Krzysztof Forycki",
+  "compiled_truth": "Krzysztof Forycki is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-24 to 2001-12-14), Krzysztof Forycki sent 1 and received 20 emails, totalling 21 interactions. Top correspondents: [Ed Cattigan](people/ed-cattigan) (1), [Jarek Astramowicz](people/jarek-astramowicz) (1), [Adam Overfield](people/adam-overfield) (1), [Anne Edgley](people/anne-edgley) (1), [Lloyd Wantschek](people/lloyd-wantschek) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-02-24** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/krzysztof-forycki",
+    "name": "Krzysztof Forycki",
+    "email": "krzysztof.forycki@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

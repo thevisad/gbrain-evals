@@ -1,0 +1,14 @@
+{
+  "slug": "people/william-simpson",
+  "type": "person",
+  "title": "William Simpson",
+  "compiled_truth": "William Simpson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-10-15), William Simpson sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/william-simpson",
+    "name": "William Simpson",
+    "email": "william.simpson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

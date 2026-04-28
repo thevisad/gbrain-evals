@@ -1,0 +1,14 @@
+{
+  "slug": "people/melanie-shuckard",
+  "type": "person",
+  "title": "Melanie Shuckard",
+  "compiled_truth": "Melanie Shuckard is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-17 to 2001-11-20), Melanie Shuckard sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-10-17** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melanie-shuckard",
+    "name": "Melanie Shuckard",
+    "email": "melanie.shuckard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

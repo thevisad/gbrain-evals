@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-campbell",
+  "type": "person",
+  "title": "Robert Campbell",
+  "compiled_truth": "Robert Campbell is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-27 to 2000-06-14), Robert Campbell sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Elena Kapralova](people/elena-kapralova) (1), [Louise Kitchen](people/louise-kitchen) (1), [Rahil Jafry](people/rahil-jafry) (1), [David Port](people/david-port) (1), [Mark Dilworth](people/mark-dilworth) (1).",
+  "timeline": "- **1999-05-27** | First recorded email in corpus\n- **2000-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-campbell",
+    "name": "Robert Campbell",
+    "email": "robert.campbell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/barbara-hueter",
+  "type": "person",
+  "title": "Barbara Hueter",
+  "compiled_truth": "Barbara Hueter is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-11 to 2001-07-31), Barbara Hueter sent 6 and received 387 emails, totalling 393 interactions. Top correspondents: [Janine Migden](people/janine-migden) (4), [Richard Shapiro](people/richard-shapiro) (4), [Sue Nord](people/sue-nord) (2), [Scott Bolton](people/scott-bolton) (2), [Susan Landwehr](people/susan-landwehr) (2). Mailbox folders observed: deleted_items, generation.",
+  "timeline": "- **1999-10-11** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barbara-hueter",
+    "name": "Barbara Hueter",
+    "email": "barbara.hueter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

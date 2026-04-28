@@ -1,0 +1,14 @@
+{
+  "slug": "people/marlene-hilliard",
+  "type": "person",
+  "title": "Marlene Hilliard",
+  "compiled_truth": "Marlene Hilliard is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-04 to 2002-03-01), Marlene Hilliard sent 39 and received 306 emails, totalling 345 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (21), [Chris Germany](people/chris-germany) (10), [Eric Gillaspie](people/eric-gillaspie) (5), [Sylvia Campos](people/sylvia-campos) (5), [A  Campos](people/a-campos) (4). Mailbox folders observed: cleburne_plant____cornhusker_, deleted_items, inbox, logistics.",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marlene-hilliard",
+    "name": "Marlene Hilliard",
+    "email": "marlene.hilliard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

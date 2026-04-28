@@ -1,0 +1,14 @@
+{
+  "slug": "people/amy-clemons",
+  "type": "person",
+  "title": "Amy Clemons",
+  "compiled_truth": "Amy Clemons is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-29 to 2002-01-18), Amy Clemons sent 14 and received 118 emails, totalling 132 interactions. Top correspondents: [Casey Evans](people/casey-evans) (9), [Stacey White](people/stacey-white) (9), [Chris Stokley](people/chris-stokley) (9), [Leslie Reeves](people/leslie-reeves) (9), [Thresa Allen](people/thresa-allen) (9). Mailbox folders observed: flash, scheduling, settlements, settlements_issues.",
+  "timeline": "- **2000-11-29** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amy-clemons",
+    "name": "Amy Clemons",
+    "email": "amy.clemons@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

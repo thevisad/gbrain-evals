@@ -1,0 +1,14 @@
+{
+  "slug": "people/jhayes-usasean",
+  "type": "person",
+  "title": "Jhayes",
+  "compiled_truth": "Jhayes is an external contact at [Usasean](companies/usasean). Over the corpus period (1999-11-15 to 2000-08-11), Jhayes sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus\n- **2000-08-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jhayes-usasean",
+    "name": "Jhayes",
+    "email": "jhayes@usasean.org",
+    "primary_affiliation": "companies/usasean"
+  }
+}

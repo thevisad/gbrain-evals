@@ -1,0 +1,14 @@
+{
+  "slug": "people/neil-mcgregor",
+  "type": "person",
+  "title": "Neil Mcgregor",
+  "compiled_truth": "Neil Mcgregor is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-05-30), Neil Mcgregor sent 1 and received 28 emails, totalling 29 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1), [Molly Magee](people/molly-magee) (1).",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/neil-mcgregor",
+    "name": "Neil Mcgregor",
+    "email": "neil.mcgregor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

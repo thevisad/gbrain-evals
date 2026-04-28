@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-miley",
+  "type": "person",
+  "title": "Richard Miley",
+  "compiled_truth": "Richard Miley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-05 to 2001-05-23), Richard Miley sent 0 and received 88 emails, totalling 88 interactions.",
+  "timeline": "- **2000-07-05** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-miley",
+    "name": "Richard Miley",
+    "email": "richard.miley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

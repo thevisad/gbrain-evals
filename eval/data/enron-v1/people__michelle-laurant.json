@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-laurant",
+  "type": "person",
+  "title": "Michelle Laurant",
+  "compiled_truth": "Michelle Laurant is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-09 to 2001-12-06), Michelle Laurant sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-laurant",
+    "name": "Michelle Laurant",
+    "email": "michelle.laurant@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

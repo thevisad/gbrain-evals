@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-lawless",
+  "type": "person",
+  "title": "Jason Lawless",
+  "compiled_truth": "Jason Lawless is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-26 to 2001-11-12), Jason Lawless sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-07-26** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-lawless",
+    "name": "Jason Lawless",
+    "email": "jason.lawless@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

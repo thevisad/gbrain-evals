@@ -1,0 +1,25 @@
+{
+  "slug": "people/xen-castillo",
+  "type": "person",
+  "title": "Xen Castillo",
+  "compiled_truth": "Xen Castillo is a Partner at [Thornfield Capital](companies/thornfield-capital), where they lead the firm's security-focused investment practice. Before joining Thornfield, Xen spent nearly a decade as a go-to-market operator at two enterprise infrastructure companies, which gives them an unusual lens compared to most venture investors — they think in distribution arcs rather than pure technical moats. This background has made Xen one of the more opinionated voices in the fund on questions of packaging, positioning, and what they sometimes call \"the narrative layer\" of infrastructure adoption.\n\nXen led Thornfield's participation in the Series A for [Anchor Codec](companies/anchor), reportedly championing the deal internally when other partners were skeptical about the market timing. Their thesis centered on the idea that deterministic data infrastructure would collapse several legacy procurement cycles into one, making single-pass primitives not just a technical advantage but a distribution unlock. Xen has been vocal — in board meetings and on panels — about the importance of Anchor's messaging clarity, pushing the team to articulate benefits in terms that non-technical buyers can grasp.\n\nOutside of Anchor, Castillo sits on the board of [Prism Protocol](companies/prism-protocol), an authentication-layer startup that operates in an adjacent but distinct space. There's been some speculation internally about whether Prism and Anchor could end up competing on certain workloads, but Xen has consistently framed them as complementary. Whether that framing holds up through 2028 remains to be seen.\n\nXen also maintains an advisory relationship with [Vellum Systems](companies/vellum-systems), though the nature of that engagement is lighter — mostly strategic intros and occasional product feedback sessions. Vellum's data pipeline tooling overlaps with some of Thornfield's broader portfolio thesis around infrastructure convergence.\n\nPersonality-wise, Xen is known as a storyteller. They tend to dominate whiteboard sesions with narrative frameworks — \"the customer's journey to belief\" is a phrase that comes up a lot. Some founders find this energizing; others find it a bit prescriptive. Either way, Xen's pattern-matching on go-to-market is genuinely strong, and their rolodex in the enterprise security buying community is deep. They're one of those investors who actually picks up the phone and makes intros without being asked, which counts for a lot at the early stage.\n\nCastillo splits time between New York and Austin. They're a frequent speaker at infrasec-adjacent events and tend to publish long-form essays on infrastructure adoption curves roughly once a quarter.",
+  "timeline": "- **2026-03-14** | Xen Castillo leads internal deal memo at [Thornfield Capital](companies/thornfield-capital) recommending Series A participation in [Anchor Codec](companies/anchor).\n- **2026-04-02** | Thornfield closes Series A investment in Anchor Codec; Xen takes board observer seat.\n- **2026-07-19** | Xen publishes essay titled \"Single-Pass Economics and the Death of Middleware\" — widely circulated in infra Twitter circles.\n- **2026-10-11** | Joins [Prism Protocol](companies/prism-protocol) board following their seed extension round.\n- **2027-01-23** | Facilitates introduction between Anchor Codec and a large healthcare compliance buyer; deal eventually closes in Q2.\n- **2027-04-08** | Hosts closed-door dinner in Austin with Anchor, Prism, and [Vellum Systems](companies/vellum-systems) leadership to discuss infrastructure convergence themes.\n- **2027-06-30** | Speaks at Graylock Security Summit on \"Distribution-First Infrastructure\" — references Anchor's go-to-market motion as a case study.\n- **2027-11-15** | Internally flags potential overlap between Prism Protocol and Anchor Codec workloads in a Thornfield portfolio review memo.\n- **2028-02-22** | Begins advisory engagement with Vellum Systems; scope is strategic positioning and enterprise channel development.\n- **2028-05-10** | Co-authors Thornfield's annual infrastructure thesis report, with a section on deterministic data primitives as a new platform layer.",
+  "_facts": {
+    "type": "person",
+    "slug": "people/xen-castillo",
+    "name": "Xen Castillo",
+    "role": "partner",
+    "title": "Partner, Thornfield Capital",
+    "primary_affiliation": "companies/thornfield-capital",
+    "secondary_affiliations": [
+      "companies/prism-protocol",
+      "companies/anchor",
+      "companies/vellum-systems"
+    ],
+    "notable_traits": [
+      "storyteller",
+      "distribution-focused"
+    ],
+    "background": "Partner at Thornfield Capital; focuses on security investments"
+  }
+}

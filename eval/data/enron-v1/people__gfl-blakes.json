@@ -1,0 +1,14 @@
+{
+  "slug": "people/gfl-blakes",
+  "type": "person",
+  "title": "Gfl",
+  "compiled_truth": "Gfl is an external contact at [Blakes](companies/blakes). Over the corpus period (2000-06-07 to 2000-11-26), Gfl sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2000-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gfl-blakes",
+    "name": "Gfl",
+    "email": "gfl@blakes.ca",
+    "primary_affiliation": "companies/blakes"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "threads/lunch-2000-03",
+  "type": "meeting",
+  "title": "Thread: Lunch",
+  "compiled_truth": "Email thread: \"Lunch\". Ran from 2000-03-30 to 2000-04-17 with 10 messages. Participants: [Chris Germany](people/chris-germany), [Debra Perlingiere](people/debra-perlingiere), [Gerald Nemec](people/gerald-nemec), [Janel Guerrero](people/janel-guerrero), [Janet Miertschin](people/janet-miertschin-chase), [Jeff Westover](people/jeff-westover), [John Goodpasture](people/john-goodpasture), [Molly Johnson](people/molly-johnson).",
+  "timeline": "- **2000-03-30** | Thread begins: lunch\n- **2000-04-17** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/lunch-2000-03",
+    "attendees": [
+      "people/chris-germany",
+      "people/debra-perlingiere",
+      "people/gerald-nemec",
+      "people/janel-guerrero",
+      "people/janet-miertschin-chase",
+      "people/jeff-westover",
+      "people/john-goodpasture",
+      "people/molly-johnson",
+      "people/scott-goodell",
+      "people/shirley-crenshaw",
+      "people/vince-kaminski"
+    ],
+    "date": "2000-03-30"
+  }
+}

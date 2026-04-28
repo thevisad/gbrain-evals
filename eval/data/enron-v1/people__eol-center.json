@@ -1,0 +1,14 @@
+{
+  "slug": "people/eol-center",
+  "type": "person",
+  "title": "Eol Center",
+  "compiled_truth": "Eol Center is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2001-05-15), Eol Center sent 0 and received 92 emails, totalling 92 interactions.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eol-center",
+    "name": "Eol Center",
+    "email": "eol.center@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

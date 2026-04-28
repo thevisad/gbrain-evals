@@ -1,0 +1,14 @@
+{
+  "slug": "people/katherine-perry",
+  "type": "person",
+  "title": "Katherine Perry",
+  "compiled_truth": "Katherine Perry is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2001-08-06), Katherine Perry sent 1 and received 30 emails, totalling 31 interactions. Top correspondents: [Tammy Jaquet](people/tammy-jaquet) (1), [Lynn Blair](people/lynn-blair) (1), [Donna Scott](people/donna-scott) (1), [Sheila Nacey](people/sheila-nacey) (1), [Larry Berger](people/larry-berger) (1). Mailbox folders observed: training___2001.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2001-08-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/katherine-perry",
+    "name": "Katherine Perry",
+    "email": "katherine.perry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

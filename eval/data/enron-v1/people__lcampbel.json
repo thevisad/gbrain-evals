@@ -1,0 +1,14 @@
+{
+  "slug": "people/lcampbel",
+  "type": "person",
+  "title": "Lcampbel",
+  "compiled_truth": "Lcampbel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2001-12-11), Lcampbel sent 0 and received 579 emails, totalling 579 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lcampbel",
+    "name": "Lcampbel",
+    "email": "lcampbel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

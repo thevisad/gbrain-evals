@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-noble-buddner",
+  "type": "person",
+  "title": "A  Noble-Buddner",
+  "compiled_truth": "A  Noble-Buddner is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-25 to 2002-01-13), A  Noble-Buddner sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-09-25** | First recorded email in corpus\n- **2002-01-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-noble-buddner",
+    "name": "A  Noble-Buddner",
+    "email": "a..noble-buddner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

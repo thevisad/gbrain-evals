@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-noles",
+  "type": "person",
+  "title": "James Noles",
+  "compiled_truth": "James Noles is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-03-30), James Noles sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [Joe' 'Sutton](people/joe-sutton) (1).",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-03-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-noles",
+    "name": "James Noles",
+    "email": "james.noles@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

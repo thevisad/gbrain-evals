@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-martin-baylor",
+  "type": "person",
+  "title": "J Martin",
+  "compiled_truth": "J Martin is an external contact at [Baylor](companies/baylor). Over the corpus period (1980-01-01 to 2002-01-30), J Martin sent 58 and received 56 emails, totalling 114 interactions. Top correspondents: [Vkamins](people/vkamins) (31), [Vince J Kaminski](people/vince-j-kaminski) (20), [Bill Petty](people/bill-petty-baylor) (9), [Titman](people/titman-mail) (8), [Wangfa](people/wangfa-rice) (8).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-martin-baylor",
+    "name": "J Martin",
+    "email": "j_martin@baylor.edu",
+    "primary_affiliation": "companies/baylor"
+  }
+}

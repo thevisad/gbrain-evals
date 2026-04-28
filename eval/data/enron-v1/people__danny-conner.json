@@ -1,0 +1,14 @@
+{
+  "slug": "people/danny-conner",
+  "type": "person",
+  "title": "Danny Conner",
+  "compiled_truth": "Danny Conner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-07 to 2001-04-26), Danny Conner sent 2 and received 64 emails, totalling 66 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (1), [Aimee Lannou](people/aimee-lannou) (1), [Kim Ward](people/kim-ward) (1).",
+  "timeline": "- **2000-07-07** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/danny-conner",
+    "name": "Danny Conner",
+    "email": "danny.conner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

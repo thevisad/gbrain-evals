@@ -1,0 +1,14 @@
+{
+  "slug": "people/bpadiscovery-merkellaw",
+  "type": "person",
+  "title": "Bpadiscovery",
+  "compiled_truth": "Bpadiscovery is an external contact at [Merkellaw](companies/merkellaw). Over the corpus period (2001-02-20 to 2001-04-27), Bpadiscovery sent 0 and received 66 emails, totalling 66 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bpadiscovery-merkellaw",
+    "name": "Bpadiscovery",
+    "email": "bpadiscovery@merkellaw.com",
+    "primary_affiliation": "companies/merkellaw"
+  }
+}

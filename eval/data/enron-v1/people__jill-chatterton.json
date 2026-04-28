@@ -1,0 +1,14 @@
+{
+  "slug": "people/jill-chatterton",
+  "type": "person",
+  "title": "Jill Chatterton",
+  "compiled_truth": "Jill Chatterton is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-15 to 2002-05-30), Jill Chatterton sent 63 and received 114 emails, totalling 177 interactions. Top correspondents: [Bill Williams](people/bill-williams) (46), [Mike Swerzbin](people/mike-swerzbin) (43), [M  Driscoll](people/m-driscoll) (42), [Mark Fischer](people/mark-fischer) (42), [Chris Mallory](people/chris-mallory) (42). Mailbox folders observed: bill_williams_iii, deleted_items, ferc, inbox.",
+  "timeline": "- **2001-05-15** | First recorded email in corpus\n- **2002-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jill-chatterton",
+    "name": "Jill Chatterton",
+    "email": "jill.chatterton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

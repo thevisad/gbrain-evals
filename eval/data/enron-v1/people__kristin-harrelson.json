@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristin-harrelson",
+  "type": "person",
+  "title": "Kristin Harrelson",
+  "compiled_truth": "Kristin Harrelson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-06-14), Kristin Harrelson sent 3 and received 1 emails, totalling 4 interactions. Top correspondents: [Diane Cutsforth](people/diane-cutsforth) (3), [Shirley Crenshaw](people/shirley-crenshaw) (3), [Denise Bradley](people/denise-bradley) (2), [Eric Merten](people/eric-merten) (2), [Jim Mandis](people/jim-mandis) (2).",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristin-harrelson",
+    "name": "Kristin Harrelson",
+    "email": "kristin.harrelson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

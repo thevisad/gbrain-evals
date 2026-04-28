@@ -1,0 +1,14 @@
+{
+  "slug": "people/derek-flaman",
+  "type": "person",
+  "title": "Derek Flaman",
+  "compiled_truth": "Derek Flaman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-13 to 2001-12-22), Derek Flaman sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [E  Haedicke](people/e-haedicke) (1), [Vicki Sharp](people/vicki-sharp) (1), [David Delainey](people/david-delainey) (1), [Rob Milnthorp](people/rob-milnthorp) (1), [Peter Keohane](people/peter-keohane) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-08-13** | First recorded email in corpus\n- **2001-12-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/derek-flaman",
+    "name": "Derek Flaman",
+    "email": "derek.flaman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

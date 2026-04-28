@@ -1,0 +1,14 @@
+{
+  "slug": "people/pamela-lesh",
+  "type": "person",
+  "title": "Pamela Lesh",
+  "compiled_truth": "Pamela Lesh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2001-11-21), Pamela Lesh sent 2 and received 9 emails, totalling 11 interactions. Top correspondents: [Paul Kaufman](people/paul-kaufman) (2), [Jeff Dasovich](people/jeff-dasovich) (1), [Mitchell Taylor](people/mitchell-taylor) (1), [Richard Shapiro](people/richard-shapiro) (1), [Steven Kean](people/steven-kean) (1).",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pamela-lesh",
+    "name": "Pamela Lesh",
+    "email": "pamela.lesh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

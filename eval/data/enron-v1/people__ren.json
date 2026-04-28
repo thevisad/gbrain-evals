@@ -1,0 +1,14 @@
+{
+  "slug": "people/ren",
+  "type": "person",
+  "title": "Ren",
+  "compiled_truth": "Ren is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-08 to 2001-07-30), Ren sent 1 and received 81 emails, totalling 82 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (1).",
+  "timeline": "- **2001-01-08** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ren",
+    "name": "Ren",
+    "email": "ren@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

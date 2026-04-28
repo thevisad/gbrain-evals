@@ -1,0 +1,31 @@
+{
+  "slug": "threads/follow-up-2001-05-10",
+  "type": "meeting",
+  "title": "Thread: Follow-Up",
+  "compiled_truth": "Email thread: \"Follow-Up\". Ran from 2001-05-03 to 2001-06-01 with 10 messages. Participants: [Andy Zipper](people/andy-zipper), [Bill Ebanks](people/bill-ebanks-compaq), [Bob Shults](people/bob-shults), [Bobbi Tessandori](people/bobbi-tessandori), [Chris Germany](people/chris-germany), [Chris Hilgert](people/chris-hilgert), [Ebanks](people/ebanks), [Gerald Nemec](people/gerald-nemec).",
+  "timeline": "- **2001-05-03** | Thread begins: follow-up\n- **2001-06-01** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/follow-up-2001-05-10",
+    "attendees": [
+      "people/andy-zipper",
+      "people/bill-ebanks-compaq",
+      "people/bob-shults",
+      "people/bobbi-tessandori",
+      "people/chris-germany",
+      "people/chris-hilgert",
+      "people/ebanks",
+      "people/gerald-nemec",
+      "people/james-derrick",
+      "people/john-forney",
+      "people/kareng-accessrelocation",
+      "people/louise-kitchen",
+      "people/marcus-nettelton",
+      "people/rob-walls",
+      "people/sean-crandall",
+      "people/sjfliflet-duke-energy",
+      "people/travis-mccullough"
+    ],
+    "date": "2001-05-03"
+  }
+}

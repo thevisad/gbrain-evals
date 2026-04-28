@@ -1,0 +1,32 @@
+{
+  "slug": "companies/ns",
+  "type": "company",
+  "title": "Ns",
+  "compiled_truth": "Ns is an external organization that appears in the Enron email corpus. Domain: ns.com. Total email interactions with Enron: 409. Known contacts: 15 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (409 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/ns",
+    "name": "Ns",
+    "employees": [
+      "people/caltech-ns",
+      "people/cbaker-ns",
+      "people/chalnan-ns",
+      "people/dlillard-ns",
+      "people/dmodis-ns",
+      "people/fans-ns",
+      "people/jdavis-ns",
+      "people/jkav-ns",
+      "people/jmball-ns",
+      "people/joe-guerra-ns",
+      "people/kedson-ns",
+      "people/marie-palmer-ns",
+      "people/postmaster-ns",
+      "people/tclark-ns",
+      "people/undisclosed-recipients-ns"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

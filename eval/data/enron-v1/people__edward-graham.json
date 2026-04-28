@@ -1,0 +1,14 @@
+{
+  "slug": "people/edward-graham",
+  "type": "person",
+  "title": "Edward Graham",
+  "compiled_truth": "Edward Graham is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-22 to 2001-05-23), Edward Graham sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **1999-10-22** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edward-graham",
+    "name": "Edward Graham",
+    "email": "edward.graham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

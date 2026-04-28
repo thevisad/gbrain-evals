@@ -1,0 +1,14 @@
+{
+  "slug": "people/reson-venocoinc",
+  "type": "person",
+  "title": "Reson",
+  "compiled_truth": "Reson is an external contact at [Venocoinc](companies/venocoinc). Over the corpus period (2001-01-30 to 2001-07-31), Reson sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-01-30** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reson-venocoinc",
+    "name": "Reson",
+    "email": "reson@venocoinc.com",
+    "primary_affiliation": "companies/venocoinc"
+  }
+}

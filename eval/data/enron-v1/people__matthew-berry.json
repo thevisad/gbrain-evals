@@ -1,0 +1,14 @@
+{
+  "slug": "people/matthew-berry",
+  "type": "person",
+  "title": "Matthew Berry",
+  "compiled_truth": "Matthew Berry is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-08 to 2000-10-25), Matthew Berry sent 1 and received 44 emails, totalling 45 interactions. Top correspondents: [James Lewis](people/james-lewis) (1), [James Row](people/james-row) (1), [David Chang](people/david-chang) (1), [Raymond Bowen](people/raymond-bowen) (1), [Barry Schnapper](people/barry-schnapper) (1).",
+  "timeline": "- **1999-12-08** | First recorded email in corpus\n- **2000-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matthew-berry",
+    "name": "Matthew Berry",
+    "email": "matthew.berry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

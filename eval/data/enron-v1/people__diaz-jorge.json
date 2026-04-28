@@ -1,0 +1,14 @@
+{
+  "slug": "people/diaz-jorge",
+  "type": "person",
+  "title": "Diaz Jorge",
+  "compiled_truth": "Diaz Jorge is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-17 to 2001-08-20), Diaz Jorge sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-07-17** | First recorded email in corpus\n- **2001-08-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diaz-jorge",
+    "name": "Diaz Jorge",
+    "email": "diaz.jorge@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

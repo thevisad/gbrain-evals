@@ -1,0 +1,14 @@
+{
+  "slug": "people/roger-westbrook",
+  "type": "person",
+  "title": "Roger Westbrook",
+  "compiled_truth": "Roger Westbrook is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-03-01), Roger Westbrook sent 7 and received 32 emails, totalling 39 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (4), [Rakhi Israni](people/rakhi-israni) (4), [Kevin Hyatt](people/kevin-hyatt) (3), [Dean Mccallister](people/dean-mccallister) (2), [Patrick Johnson](people/patrick-johnson) (2). Mailbox folders observed: deleted_items, inbox, projects.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roger-westbrook",
+    "name": "Roger Westbrook",
+    "email": "roger.westbrook@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

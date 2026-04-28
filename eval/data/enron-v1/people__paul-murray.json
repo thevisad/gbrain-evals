@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-murray",
+  "type": "person",
+  "title": "Paul Murray",
+  "compiled_truth": "Paul Murray is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-08 to 2001-12-03), Paul Murray sent 1 and received 7 emails, totalling 8 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-murray",
+    "name": "Paul Murray",
+    "email": "paul.murray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

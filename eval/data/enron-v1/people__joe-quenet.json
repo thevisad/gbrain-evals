@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-quenet",
+  "type": "person",
+  "title": "Joe Quenet",
+  "compiled_truth": "Joe Quenet is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-29 to 2001-11-20), Joe Quenet sent 171 and received 357 emails, totalling 528 interactions. Top correspondents: [Rebecca Quenet](people/rebecca-quenet-eds) (84), [Kevino2](people/kevino2-unocal) (10), [Dmurphy](people/dmurphy-utilicorp) (10), [Knockj](people/knockj-epenergy) (8), [John Knock](people/john-knock-elpaso) (8). Mailbox folders observed: _sent_mail, deleted_items, inbox, sent, sent_items.",
+  "timeline": "- **2000-09-29** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-quenet",
+    "name": "Joe Quenet",
+    "email": "joe.quenet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

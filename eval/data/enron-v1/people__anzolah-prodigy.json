@@ -1,0 +1,14 @@
+{
+  "slug": "people/anzolah-prodigy",
+  "type": "person",
+  "title": "Anzolah",
+  "compiled_truth": "Anzolah is an external contact at [Prodigy](companies/prodigy). Over the corpus period (2000-05-21 to 2001-02-12), Anzolah sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2001-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anzolah-prodigy",
+    "name": "Anzolah",
+    "email": "anzolah@prodigy.net",
+    "primary_affiliation": "companies/prodigy"
+  }
+}

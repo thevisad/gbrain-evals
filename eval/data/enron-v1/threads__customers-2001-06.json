@@ -1,0 +1,29 @@
+{
+  "slug": "threads/customers-2001-06",
+  "type": "meeting",
+  "title": "Thread: Customers",
+  "compiled_truth": "Email thread: \"Customers\". Ran from 2001-06-29 to 2001-07-05 with 10 messages. Participants: [Bhansen](people/bhansen-lhom), [Dan Leff](people/dan-leff), [Hgovenar](people/hgovenar-govadv), [James Steffes](people/james-steffes), [Janel Guerrero](people/janel-guerrero), [Jeff Dasovich](people/jeff-dasovich), [Karen Denne](people/karen-denne), [Mday](people/mday-gmssr).",
+  "timeline": "- **2001-06-29** | Thread begins: customers\n- **2001-07-05** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/customers-2001-06",
+    "attendees": [
+      "people/bhansen-lhom",
+      "people/dan-leff",
+      "people/hgovenar-govadv",
+      "people/james-steffes",
+      "people/janel-guerrero",
+      "people/jeff-dasovich",
+      "people/karen-denne",
+      "people/mday-gmssr",
+      "people/mpalmer",
+      "people/paul-kaufman",
+      "people/peggy-mahoney",
+      "people/richard-shapiro",
+      "people/sgovenar-govadv",
+      "people/steven-kean",
+      "people/susan-mara"
+    ],
+    "date": "2001-06-29"
+  }
+}

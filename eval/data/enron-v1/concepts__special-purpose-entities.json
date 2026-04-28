@@ -1,0 +1,22 @@
+{
+  "slug": "concepts/special-purpose-entities",
+  "type": "concept",
+  "title": "Special Purpose Entities",
+  "compiled_truth": "Enron created hundreds of off-balance-sheet SPEs — including LJM Cayman, LJM2 Co-Investment, and the Raptor vehicles — to hide debt, book fictitious profits, and hedge deteriorating assets. Related organizations: [Enron](companies/enron), [SEC](companies/sec), [Arthur Andersen](companies/arthur-andersen).",
+  "timeline": "- **1999-06-01** | LJM Cayman LP created; Andrew Fastow serves as general partner\n- **2000-03-01** | Raptor I–IV SPEs created to hedge Enron's merchant investments\n- **2001-10-16** | Enron discloses $1.2B equity reduction tied to Fastow-managed partnerships\n- **2001-11-01** | Andrew Fastow placed on leave; resigns November 8",
+  "_facts": {
+    "type": "concept",
+    "slug": "concepts/special-purpose-entities",
+    "related_companies": [
+      "companies/enron",
+      "companies/sec",
+      "companies/arthur-andersen"
+    ],
+    "related_people": [
+      "people/kenneth-lay",
+      "people/jeffrey-skilling",
+      "people/andrew-fastow",
+      "people/richard-causey"
+    ]
+  }
+}

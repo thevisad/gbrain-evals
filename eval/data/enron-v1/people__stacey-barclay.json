@@ -1,0 +1,14 @@
+{
+  "slug": "people/stacey-barclay",
+  "type": "person",
+  "title": "Stacey Barclay",
+  "compiled_truth": "Stacey Barclay is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-07 to 2000-03-13), Stacey Barclay sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-01-07** | First recorded email in corpus\n- **2000-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stacey-barclay",
+    "name": "Stacey Barclay",
+    "email": "stacey.barclay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

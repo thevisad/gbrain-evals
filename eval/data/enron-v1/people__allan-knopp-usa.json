@@ -1,0 +1,14 @@
+{
+  "slug": "people/allan-knopp-usa",
+  "type": "person",
+  "title": "Allan Knopp",
+  "compiled_truth": "Allan Knopp is an external contact at [Usa](companies/usa). Over the corpus period (2000-02-12 to 2000-07-06), Allan Knopp sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus\n- **2000-07-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/allan-knopp-usa",
+    "name": "Allan Knopp",
+    "email": "allan.knopp@usa.conoco.com",
+    "primary_affiliation": "companies/usa"
+  }
+}

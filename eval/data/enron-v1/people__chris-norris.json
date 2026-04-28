@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-norris",
+  "type": "person",
+  "title": "Chris Norris",
+  "compiled_truth": "Chris Norris is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-18 to 2000-12-07), Chris Norris sent 2 and received 22 emails, totalling 24 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (2), [Don Miller](people/don-miller) (1), [Ross Newlin](people/ross-newlin) (1).",
+  "timeline": "- **2000-10-18** | First recorded email in corpus\n- **2000-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-norris",
+    "name": "Chris Norris",
+    "email": "chris.norris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

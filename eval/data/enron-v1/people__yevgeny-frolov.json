@@ -1,0 +1,14 @@
+{
+  "slug": "people/yevgeny-frolov",
+  "type": "person",
+  "title": "Yevgeny Frolov",
+  "compiled_truth": "Yevgeny Frolov is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-27), Yevgeny Frolov sent 4 and received 52 emails, totalling 56 interactions. Top correspondents: [Brad Coleman](people/brad-coleman) (2), [Michelle Cash](people/michelle-cash) (2), [Kirk Mcdaniel](people/kirk-mcdaniel) (2), [K  Allen](people/k-allen) (2), [Tim O'Rourke](people/tim-o-rourke) (2). Mailbox folders observed: calendar, deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yevgeny-frolov",
+    "name": "Yevgeny Frolov",
+    "email": "yevgeny.frolov@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

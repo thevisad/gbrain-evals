@@ -1,0 +1,14 @@
+{
+  "slug": "people/donna-greif",
+  "type": "person",
+  "title": "Donna Greif",
+  "compiled_truth": "Donna Greif is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-08 to 2002-06-20), Donna Greif sent 18 and received 342 emails, totalling 360 interactions. Top correspondents: [Robert Superty](people/robert-superty) (9), [Chris Germany](people/chris-germany) (8), [Mark Mcclure](people/mark-mcclure) (7), [Katherine Kelly](people/katherine-kelly) (7), [Edward Terry](people/edward-terry) (6). Mailbox folders observed: 08_saved, bankrupt, inbox.",
+  "timeline": "- **1999-11-08** | First recorded email in corpus\n- **2002-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donna-greif",
+    "name": "Donna Greif",
+    "email": "donna.greif@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-bandel",
+  "type": "person",
+  "title": "Bob Bandel",
+  "compiled_truth": "Bob Bandel is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-15 to 2002-03-19), Bob Bandel sent 2 and received 79 emails, totalling 81 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (1), [Kevin Hyatt](people/kevin-hyatt) (1), [Dean Mccallister](people/dean-mccallister) (1), [Scott Clark](people/scott-clark) (1), [Randall Mobley](people/randall-mobley) (1). Mailbox folders observed: projects.",
+  "timeline": "- **1999-07-15** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-bandel",
+    "name": "Bob Bandel",
+    "email": "bob.bandel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

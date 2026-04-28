@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-dinari",
+  "type": "person",
+  "title": "L  Dinari",
+  "compiled_truth": "L  Dinari is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-27 to 2002-04-19), L  Dinari sent 11 and received 179 emails, totalling 190 interactions. Top correspondents: [Chris Germany](people/chris-germany) (5), [Louise Kitchen](people/louise-kitchen) (3), [M Hall](people/m-hall) (3), [Janet Dietrich](people/janet-dietrich) (3), [Sally Beck](people/sally-beck) (2). Mailbox folders observed: _americas, bankrupt, inbox, logistics.",
+  "timeline": "- **2001-04-27** | First recorded email in corpus\n- **2002-04-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-dinari",
+    "name": "L  Dinari",
+    "email": "l..dinari@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

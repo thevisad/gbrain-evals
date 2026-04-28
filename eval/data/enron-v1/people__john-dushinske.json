@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-dushinske",
+  "type": "person",
+  "title": "John Dushinske",
+  "compiled_truth": "John Dushinske is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2002-01-24), John Dushinske sent 3 and received 391 emails, totalling 394 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (1), [Drew Fossum](people/drew-fossum) (1), [Rockey Storie](people/rockey-storie) (1), [Stanley Horton](people/stanley-horton) (1), [James Centilli](people/james-centilli) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-dushinske",
+    "name": "John Dushinske",
+    "email": "john.dushinske@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kris-jensen",
+  "type": "person",
+  "title": "Kris Jensen",
+  "compiled_truth": "Kris Jensen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-11-03), Kris Jensen sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kris-jensen",
+    "name": "Kris Jensen",
+    "email": "kris.jensen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

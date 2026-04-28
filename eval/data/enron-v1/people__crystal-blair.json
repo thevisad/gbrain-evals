@@ -1,0 +1,14 @@
+{
+  "slug": "people/crystal-blair",
+  "type": "person",
+  "title": "Crystal Blair",
+  "compiled_truth": "Crystal Blair is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2000-12-06), Crystal Blair sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/crystal-blair",
+    "name": "Crystal Blair",
+    "email": "crystal.blair@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

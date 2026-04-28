@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-briggs",
+  "type": "person",
+  "title": "Bill Briggs",
+  "compiled_truth": "Bill Briggs is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-28 to 2001-06-06), Bill Briggs sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-02-28** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-briggs",
+    "name": "Bill Briggs",
+    "email": "bill.briggs@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

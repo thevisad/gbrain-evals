@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-copeland",
+  "type": "person",
+  "title": "L  Copeland",
+  "compiled_truth": "L  Copeland is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-23 to 2001-11-02), L  Copeland sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-04-23** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-copeland",
+    "name": "L  Copeland",
+    "email": "l..copeland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/suvinay-sinha",
+  "type": "person",
+  "title": "Suvinay Sinha",
+  "compiled_truth": "Suvinay Sinha is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-15 to 2002-02-06), Suvinay Sinha sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-11-15** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suvinay-sinha",
+    "name": "Suvinay Sinha",
+    "email": "suvinay.sinha@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/meeting-2001-01",
+  "type": "meeting",
+  "title": "Meeting: Meeting",
+  "compiled_truth": "Meeting: \"Meeting\". Occurred 2001-01-30 through 2001-01-30 with 3 related emails. Participants included: [Bianca Ornelas](people/bianca-ornelas), [Darron Giron](people/darron-giron), [David Baumbach](people/david-baumbach), [Errol Mclaughlin](people/errol-mclaughlin), [Jeffrey Gossett](people/jeffrey-gossett), [Kam Keiser](people/kam-keiser), [Larry Hunter](people/larry-hunter), [Phillip Love](people/phillip-love)....",
+  "timeline": "- **2001-01-30** | Meeting: meeting\n- **2001-01-30** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-2001-01",
+    "attendees": [
+      "people/bianca-ornelas",
+      "people/darron-giron",
+      "people/david-baumbach",
+      "people/errol-mclaughlin",
+      "people/jeffrey-gossett",
+      "people/kam-keiser",
+      "people/larry-hunter",
+      "people/phillip-love",
+      "people/william-kelly",
+      "people/yolanda-pena"
+    ],
+    "date": "2001-01-30"
+  }
+}

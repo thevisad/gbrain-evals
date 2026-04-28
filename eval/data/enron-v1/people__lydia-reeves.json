@@ -1,0 +1,14 @@
+{
+  "slug": "people/lydia-reeves",
+  "type": "person",
+  "title": "Lydia Reeves",
+  "compiled_truth": "Lydia Reeves is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-07 to 2001-06-07), Lydia Reeves sent 1 and received 6 emails, totalling 7 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (1).",
+  "timeline": "- **2000-08-07** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lydia-reeves",
+    "name": "Lydia Reeves",
+    "email": "lydia.reeves@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

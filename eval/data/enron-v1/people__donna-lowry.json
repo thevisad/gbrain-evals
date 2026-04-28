@@ -1,0 +1,14 @@
+{
+  "slug": "people/donna-lowry",
+  "type": "person",
+  "title": "Donna Lowry",
+  "compiled_truth": "Donna Lowry is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-18 to 2002-06-21), Donna Lowry sent 33 and received 258 emails, totalling 291 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (13), [L  Carson](people/l-carson) (9), [Sherri Griffin](people/sherri-griffin) (8), [Jeff Kinneman](people/jeff-kinneman) (8), [Paul Pizzolato](people/paul-pizzolato) (8). Mailbox folders observed: brokerage_agreements, deleted_items, inbox.",
+  "timeline": "- **1999-06-18** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donna-lowry",
+    "name": "Donna Lowry",
+    "email": "donna.lowry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

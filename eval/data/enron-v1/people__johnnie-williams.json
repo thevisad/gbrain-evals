@@ -1,0 +1,14 @@
+{
+  "slug": "people/johnnie-williams",
+  "type": "person",
+  "title": "Johnnie Williams",
+  "compiled_truth": "Johnnie Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-09-24), Johnnie Williams sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/johnnie-williams",
+    "name": "Johnnie Williams",
+    "email": "johnnie.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

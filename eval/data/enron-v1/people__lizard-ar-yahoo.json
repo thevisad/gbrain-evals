@@ -1,0 +1,14 @@
+{
+  "slug": "people/lizard-ar-yahoo",
+  "type": "person",
+  "title": "Lizard Ar",
+  "compiled_truth": "Lizard Ar is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-01-26 to 2000-11-27), Lizard Ar sent 12 and received 26 emails, totalling 38 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (6), [Klay](people/klay) (5), [Mrslinda](people/mrslinda-lplpi) (4), [Jlvittor](people/jlvittor-mofo) (4), [Sally Keepers](people/sally-keepers) (3).",
+  "timeline": "- **2000-01-26** | First recorded email in corpus\n- **2000-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lizard-ar-yahoo",
+    "name": "Lizard Ar",
+    "email": "lizard_ar@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/neil-hrcivil",
+  "type": "person",
+  "title": "Neil",
+  "compiled_truth": "Neil is an external contact at [Hrcivil](companies/hrcivil). Over the corpus period (2000-10-27 to 2000-12-21), Neil sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2000-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/neil-hrcivil",
+    "name": "Neil",
+    "email": "neil@hrcivil.com",
+    "primary_affiliation": "companies/hrcivil"
+  }
+}

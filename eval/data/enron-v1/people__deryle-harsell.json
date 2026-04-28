@@ -1,0 +1,14 @@
+{
+  "slug": "people/deryle-harsell",
+  "type": "person",
+  "title": "Deryle Harsell",
+  "compiled_truth": "Deryle Harsell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2001-10-29), Deryle Harsell sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deryle-harsell",
+    "name": "Deryle Harsell",
+    "email": "deryle.harsell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

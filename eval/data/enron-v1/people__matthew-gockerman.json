@@ -1,0 +1,14 @@
+{
+  "slug": "people/matthew-gockerman",
+  "type": "person",
+  "title": "Matthew Gockerman",
+  "compiled_truth": "Matthew Gockerman is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-10 to 2001-06-13), Matthew Gockerman sent 8 and received 148 emails, totalling 156 interactions. Top correspondents: [Steven Kean](people/steven-kean) (3), [Greg Whalley](people/greg-whalley) (3), [Wes Colwell](people/wes-colwell) (3), [Jeff Dasovich](people/jeff-dasovich) (3), [Sandra McCubbin](people/sandra-mccubbin) (3). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-06-10** | First recorded email in corpus\n- **2001-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matthew-gockerman",
+    "name": "Matthew Gockerman",
+    "email": "matthew.gockerman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

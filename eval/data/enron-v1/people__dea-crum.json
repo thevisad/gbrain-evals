@@ -1,0 +1,14 @@
+{
+  "slug": "people/dea-crum",
+  "type": "person",
+  "title": "Dea Crum",
+  "compiled_truth": "Dea Crum is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-30 to 2001-09-10), Dea Crum sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2001-09-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dea-crum",
+    "name": "Dea Crum",
+    "email": "dea.crum@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

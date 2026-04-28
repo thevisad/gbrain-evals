@@ -1,0 +1,14 @@
+{
+  "slug": "people/angela-cadena",
+  "type": "person",
+  "title": "Angela Cadena",
+  "compiled_truth": "Angela Cadena is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-17 to 2001-12-03), Angela Cadena sent 3 and received 62 emails, totalling 65 interactions. Top correspondents: [Kate Symes](people/kate-symes) (3), [Tracy Ngo](people/tracy-ngo) (2), [Elizabeth Sager](people/elizabeth-sager) (1), [Mgallego](people/mgallego-wlu) (1), [Isacadena](people/isacadena-yahoo) (1).",
+  "timeline": "- **2000-10-17** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angela-cadena",
+    "name": "Angela Cadena",
+    "email": "angela.cadena@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

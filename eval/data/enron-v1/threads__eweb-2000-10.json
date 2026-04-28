@@ -1,0 +1,23 @@
+{
+  "slug": "threads/eweb-2000-10",
+  "type": "meeting",
+  "title": "Thread: Eweb",
+  "compiled_truth": "Email thread: \"Eweb\". Ran from 2000-10-31 to 2000-11-08 with 15 messages. Participants: [Christian Yoder](people/christian-yoder), [Edward Sacks](people/edward-sacks), [Holli Krebs](people/holli-krebs), [Pboylston](people/pboylston-stoel), [Pgboylston](people/pgboylston-stoel), [Samantha Boyd](people/samantha-boyd), [Sara Shackleton](people/sara-shackleton), [Susan Bailey](people/susan-bailey).",
+  "timeline": "- **2000-10-31** | Thread begins: eweb\n- **2000-11-08** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/eweb-2000-10",
+    "attendees": [
+      "people/christian-yoder",
+      "people/edward-sacks",
+      "people/holli-krebs",
+      "people/pboylston-stoel",
+      "people/pgboylston-stoel",
+      "people/samantha-boyd",
+      "people/sara-shackleton",
+      "people/susan-bailey",
+      "people/tracy-ngo"
+    ],
+    "date": "2000-10-31"
+  }
+}

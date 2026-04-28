@@ -1,0 +1,16 @@
+{
+  "slug": "people/lena-park",
+  "type": "person",
+  "title": "Lena Park",
+  "compiled_truth": "Lena Park is a peer VC. Email: lena@initialized.com. Lena Park works at Initialized Capital. Slack: @lena.",
+  "timeline": "- **2025-04-14** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lena-park",
+    "name": "Lena Park",
+    "email": "lena@initialized.com",
+    "slack_handle": "lena",
+    "relation_to_amara": "peer",
+    "primary_affiliation": "companies/initialized"
+  }
+}

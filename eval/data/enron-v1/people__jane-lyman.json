@@ -1,0 +1,14 @@
+{
+  "slug": "people/jane-lyman",
+  "type": "person",
+  "title": "Jane Lyman",
+  "compiled_truth": "Jane Lyman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-08 to 2002-02-25), Jane Lyman sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jane-lyman",
+    "name": "Jane Lyman",
+    "email": "jane.lyman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

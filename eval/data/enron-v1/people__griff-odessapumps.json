@@ -1,0 +1,14 @@
+{
+  "slug": "people/griff-odessapumps",
+  "type": "person",
+  "title": "Griff",
+  "compiled_truth": "Griff is an external contact at [Odessapumps](companies/odessapumps). Over the corpus period (2001-01-03 to 2002-01-31), Griff sent 31 and received 8 emails, totalling 39 interactions. Top correspondents: [John Griffith](people/john-griffith) (31), [ John](people/john) (25), [ Melinda](people/melinda) (22), [ Michelle](people/michelle) (22), [ Brian](people/brian) (22).",
+  "timeline": "- **2001-01-03** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/griff-odessapumps",
+    "name": "Griff",
+    "email": "griff@odessapumps.com",
+    "primary_affiliation": "companies/odessapumps"
+  }
+}

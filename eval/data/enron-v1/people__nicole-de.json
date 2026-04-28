@@ -1,0 +1,14 @@
+{
+  "slug": "people/nicole-de",
+  "type": "person",
+  "title": "Nicole De",
+  "compiled_truth": "Nicole De is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-14 to 2002-01-14), Nicole De sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nicole-de",
+    "name": "Nicole De",
+    "email": "nicole.de@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

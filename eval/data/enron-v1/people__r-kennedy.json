@@ -1,0 +1,14 @@
+{
+  "slug": "people/r-kennedy",
+  "type": "person",
+  "title": "R  Kennedy",
+  "compiled_truth": "R  Kennedy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-13 to 2002-03-29), R  Kennedy sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2001-10-13** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/r-kennedy",
+    "name": "R  Kennedy",
+    "email": "r..kennedy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/eisenstatl-dsmo",
+  "type": "person",
+  "title": "Eisenstatl",
+  "compiled_truth": "Eisenstatl is an external contact at [Dsmo](companies/dsmo). Over the corpus period (2001-01-11 to 2001-06-11), Eisenstatl sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2001-01-11** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eisenstatl-dsmo",
+    "name": "Eisenstatl",
+    "email": "eisenstatl@dsmo.com",
+    "primary_affiliation": "companies/dsmo"
+  }
+}

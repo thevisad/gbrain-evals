@@ -1,0 +1,14 @@
+{
+  "slug": "people/sande-pira",
+  "type": "person",
+  "title": "Sande",
+  "compiled_truth": "Sande is an external contact at [Pira](companies/pira). Over the corpus period (2001-04-20 to 2002-06-11), Sande sent 7 and received 38 emails, totalling 45 interactions. Top correspondents: [Vwatkins](people/vwatkins-pira) (3), [Eileen](people/eileen-pira) (2), [Greg](people/greg-pira) (1).",
+  "timeline": "- **2001-04-20** | First recorded email in corpus\n- **2002-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sande-pira",
+    "name": "Sande",
+    "email": "sande@pira.com",
+    "primary_affiliation": "companies/pira"
+  }
+}

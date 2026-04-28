@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-deroin",
+  "type": "person",
+  "title": "Larry Deroin",
+  "compiled_truth": "Larry Deroin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-13 to 2001-06-22), Larry Deroin sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **2000-01-13** | First recorded email in corpus\n- **2001-06-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-deroin",
+    "name": "Larry Deroin",
+    "email": "larry.deroin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

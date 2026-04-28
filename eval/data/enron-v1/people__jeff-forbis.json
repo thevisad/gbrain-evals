@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-forbis",
+  "type": "person",
+  "title": "Jeff Forbis",
+  "compiled_truth": "Jeff Forbis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-30 to 2001-11-19), Jeff Forbis sent 2 and received 13 emails, totalling 15 interactions. Top correspondents: [Richard Zdunkewicz](people/richard-zdunkewicz) (2), [James Bouillion](people/james-bouillion) (2), [Paul Clayton](people/paul-clayton) (2), [Vince Kaminski](people/vince-kaminski) (2), [James Harris](people/james-harris) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-01-30** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-forbis",
+    "name": "Jeff Forbis",
+    "email": "jeff.forbis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

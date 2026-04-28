@@ -1,0 +1,14 @@
+{
+  "slug": "people/vusta-aol",
+  "type": "person",
+  "title": "Vusta",
+  "compiled_truth": "Vusta is an external contact at [AOL](companies/aol). Over the corpus period (2000-11-17 to 2001-12-10), Vusta sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vusta-aol",
+    "name": "Vusta",
+    "email": "vusta@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

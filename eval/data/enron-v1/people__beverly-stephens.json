@@ -1,0 +1,14 @@
+{
+  "slug": "people/beverly-stephens",
+  "type": "person",
+  "title": "Beverly Stephens",
+  "compiled_truth": "Beverly Stephens is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-27 to 2001-11-01), Beverly Stephens sent 60 and received 27 emails, totalling 87 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (37), [Kimberly Hillis](people/kimberly-hillis) (32), [Felicia Doan](people/felicia-doan) (30), [Kevin Presto](people/kevin-presto) (23), [Kay Chapman](people/kay-chapman) (18). Mailbox folders observed: _sent_mail, inbox, sent.",
+  "timeline": "- **2000-04-27** | First recorded email in corpus\n- **2001-11-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beverly-stephens",
+    "name": "Beverly Stephens",
+    "email": "beverly.stephens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

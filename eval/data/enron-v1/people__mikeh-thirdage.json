@@ -1,0 +1,14 @@
+{
+  "slug": "people/mikeh-thirdage",
+  "type": "person",
+  "title": "Mikeh",
+  "compiled_truth": "Mikeh is an external contact at [Thirdage](companies/thirdage). Over the corpus period (1999-09-28 to 2001-01-19), Mikeh sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **1999-09-28** | First recorded email in corpus\n- **2001-01-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mikeh-thirdage",
+    "name": "Mikeh",
+    "email": "mikeh@thirdage.com",
+    "primary_affiliation": "companies/thirdage"
+  }
+}

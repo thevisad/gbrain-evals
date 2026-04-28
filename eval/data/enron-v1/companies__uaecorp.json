@@ -1,0 +1,26 @@
+{
+  "slug": "companies/uaecorp",
+  "type": "company",
+  "title": "Uaecorp",
+  "compiled_truth": "Uaecorp is an external organization that appears in the Enron email corpus. Domain: uaecorp.com. Total email interactions with Enron: 485. Known contacts: 9 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (485 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/uaecorp",
+    "name": "Uaecorp",
+    "employees": [
+      "people/alex-sugaoka-uaecorp",
+      "people/david-goodman-uaecorp",
+      "people/ed-tomeo-uaecorp",
+      "people/joe-greco-uaecorp",
+      "people/kevin-foley-uaecorp",
+      "people/reed-wills-uaecorp",
+      "people/roland-allred-uaecorp",
+      "people/steve-strait-uaecorp",
+      "people/tim-fagan-uaecorp"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

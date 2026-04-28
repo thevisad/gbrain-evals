@@ -1,0 +1,14 @@
+{
+  "slug": "people/blreese-duke-energy",
+  "type": "person",
+  "title": "Blreese",
+  "compiled_truth": "Blreese is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2002-01-28 to 2002-03-25), Blreese sent 8 and received 36 emails, totalling 44 interactions. Top correspondents: [Bert Hernandez](people/bert-hernandez) (8), [Amy Mulligan](people/amy-mulligan) (8), [Beverly Miller](people/beverly-miller) (8), [Christine Mcevoy](people/christine-mcevoy) (8), [Tedesco David](people/tedesco-david) (8).",
+  "timeline": "- **2002-01-28** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/blreese-duke-energy",
+    "name": "Blreese",
+    "email": "blreese@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

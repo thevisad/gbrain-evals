@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-may",
+  "type": "person",
+  "title": "Tom May",
+  "compiled_truth": "Tom May is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-11 to 2002-02-25), Tom May sent 48 and received 652 emails, totalling 700 interactions. Top correspondents: [Lloyd Will](people/lloyd-will) (13), [Kayne Coulter](people/kayne-coulter) (13), [Narsimha Misra](people/narsimha-misra) (10), [Reagan Rorschach](people/reagan-rorschach) (9), [Jeffrey Miller](people/jeffrey-miller) (9). Mailbox folders observed: _americas, deleted_items, ema_s, enron_power, inbox, services.",
+  "timeline": "- **2000-05-11** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-may",
+    "name": "Tom May",
+    "email": "tom.may@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/houarl-hotmail",
+  "type": "person",
+  "title": "Houarl",
+  "compiled_truth": "Houarl is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-05-21 to 2001-02-12), Houarl sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2001-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/houarl-hotmail",
+    "name": "Houarl",
+    "email": "houarl@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

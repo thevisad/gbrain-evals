@@ -1,0 +1,31 @@
+{
+  "slug": "threads/test-2001-11",
+  "type": "meeting",
+  "title": "Thread: Test",
+  "compiled_truth": "Email thread: \"Test\". Ran from 2001-11-29 to 2001-12-28 with 12 messages. Participants: [Askinfamilyis](people/askinfamilyis-home), [Barry Tycholiz](people/barry-tycholiz), [Cooper Richey](people/cooper-richey), [Davemfuller](people/davemfuller-earthlink), [David Miller](people/david-miller-eott), [Francisca Juarez](people/francisca-juarez), [Kay Mann](people/kay-mann), [Larry Campbell](people/larry-campbell).",
+  "timeline": "- **2001-11-29** | Thread begins: test\n- **2001-12-28** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/test-2001-11",
+    "attendees": [
+      "people/askinfamilyis-home",
+      "people/barry-tycholiz",
+      "people/cooper-richey",
+      "people/davemfuller-earthlink",
+      "people/david-miller-eott",
+      "people/francisca-juarez",
+      "people/kay-mann",
+      "people/larry-campbell",
+      "people/nmann-erac",
+      "people/rcarey278-attbi",
+      "people/scott-neal",
+      "people/security-enron",
+      "people/sneal4-houston",
+      "people/stephanie-miller",
+      "people/t-hodge",
+      "people/trycooper-hotmail",
+      "people/ward"
+    ],
+    "date": "2001-11-29"
+  }
+}

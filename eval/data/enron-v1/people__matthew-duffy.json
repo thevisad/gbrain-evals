@@ -1,0 +1,14 @@
+{
+  "slug": "people/matthew-duffy",
+  "type": "person",
+  "title": "Matthew Duffy",
+  "compiled_truth": "Matthew Duffy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-21 to 2001-11-29), Matthew Duffy sent 5 and received 40 emails, totalling 45 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (3), [Steve Irvin](people/steve-irvin) (2), [Victor Gonzalez](people/victor-gonzalez) (2), [M  Forney](people/m-forney) (1), [Jeff King](people/jeff-king) (1). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matthew-duffy",
+    "name": "Matthew Duffy",
+    "email": "matthew.duffy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

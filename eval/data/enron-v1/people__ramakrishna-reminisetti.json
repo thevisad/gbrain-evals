@@ -1,0 +1,14 @@
+{
+  "slug": "people/ramakrishna-reminisetti",
+  "type": "person",
+  "title": "Ramakrishna Reminisetti",
+  "compiled_truth": "Ramakrishna Reminisetti is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-01), Ramakrishna Reminisetti sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ramakrishna-reminisetti",
+    "name": "Ramakrishna Reminisetti",
+    "email": "ramakrishna.reminisetti@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

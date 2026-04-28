@@ -1,0 +1,22 @@
+{
+  "slug": "people/seren-voss",
+  "type": "person",
+  "title": "Seren Voss",
+  "compiled_truth": "Seren Voss is the Founder & CEO of [Anchor Codec](companies/anchor), a data infrastructure company building deterministic single-pass primitives for compression, authentication, and transmission. She started Anchor in January 2026 after spending roughly eight years as a research engineer, mostly working in isolation on reverse-engineering data encoding systems across a range of legacy and modern stacks. The depth of that work shows up in how she talks about the problem space — she tends to reason from the physics of data movement rather than from existing abstractions, which can make early conversations with her feel disorienting until you realize she's three layers deeper than you expected.\n\nVoss is known internally as a first-principles thinker, which in practice means she'll reject a framing before she accepts it. Early employees describe a culture where every design decision gets interrogated back to its root assumptions. This has slowed some shipping timelines but has also meant that [Anchor Codec](companies/anchor)'s core architecture has held up remarkably well through several pivots in go-to-market strategy. She treats the infrastructure layer as a 10-year project and has been candid with investors about not optimizing for short-term revenue milestones.\n\nBefore founding Anchor, Seren worked at a mid-size systems lab (now defunct) where she led a small team focused on encoding pipeline optimization. The lab shut down in late 2024, and she spent about a year prototyping what would become Anchor's initial primitives. People who worked with her during that period say she was obsessive — barely sleeping, filling notebooks with state diagrams, testing edge cases on hardware she bought secondhand. One former colleague described her approach as \"building the compiler before the language.\"\n\nShe doesn't do much public speaking but has given a handful of technical talks at niche infrastructure meetups. Her writing — mostly internal memos — circulates occasionally and tends to attract attention from engineers who care about determinism and reproducibility. Seren is generally quiet in large group settings but becomes intensly focused in smaller technical discussions. She's been described as a systems builder who happens to be running a company, not the other way around.\n\nAs CEO, Voss handles most of the early investor relationships personally, though she's been slowly delegating commercial conversations as the team grows. She remains the final decision-maker on anything touching the core primitves.",
+  "timeline": "- **2026-01-15** | Seren Voss officially incorporates [Anchor Codec](companies/anchor) and begins building the founding team out of a shared office space.\n- **2026-03-22** | Closes a small pre-seed round; Voss personally pitched every investor over a three-week sprint.\n- **2026-07-10** | First internal demo of the single-pass pipeline; Seren describes it in a memo as \"not done, but finally coherent.\"\n- **2026-11-04** | Gives a technical talk at a private infrastructure meetup, drawing interest from several prospective hires.\n- **2027-02-18** | [Anchor Codec](companies/anchor) ships its first external alpha to a handful of design partners; Voss personally onboards each one.\n- **2027-06-01** | Voss publishes a widely-shared internal memo on why deterministic infrastructure matters for the next decade of data systems.\n- **2027-09-14** | Begins seed round conversations; reportedly turns down two term sheets that included aggressive growth mandates.\n- **2028-01-20** | Closes seed round on her own terms; team has grown to 14 people.\n- **2028-05-07** | Keynotes a small systems conference for the first time — her talk on encoding assumptions draws an unexpectedly large audience.\n- **2028-08-12** | Internal reorganization: Voss steps back from day-to-day product reviews to focus on long-range architecture and partnerships.",
+  "_facts": {
+    "type": "person",
+    "slug": "people/seren-voss",
+    "name": "Seren Voss",
+    "role": "founder",
+    "title": "Founder & CEO",
+    "primary_affiliation": "companies/anchor",
+    "notable_traits": [
+      "first-principles thinker",
+      "systems builder",
+      "long-term thinker"
+    ],
+    "background": "Former research engineer; spent 8 years reverse-engineering data encoding systems before founding Anchor",
+    "joined_anchor": "2026-01-15"
+  }
+}

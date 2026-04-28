@@ -1,0 +1,23 @@
+{
+  "slug": "threads/happy-hour-2001-04",
+  "type": "meeting",
+  "title": "Thread: Happy Hour",
+  "compiled_truth": "Email thread: \"Happy Hour\". Ran from 2001-04-16 to 2001-05-15 with 48 messages. Participants: [Bryan Hull](people/bryan-hull), [Eric Bass](people/eric-bass), [Lisa Gillette](people/lisa-gillette), [Luis Mena](people/luis-mena), [Matt Smith](people/matt-smith), [Matthew Lenhart](people/matthew-lenhart), [Mike Kelly](people/mike-kelly), [Mmmarcantel](people/mmmarcantel-equiva).",
+  "timeline": "- **2001-04-16** | Thread begins: happy hour\n- **2001-05-15** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/happy-hour-2001-04",
+    "attendees": [
+      "people/bryan-hull",
+      "people/eric-bass",
+      "people/lisa-gillette",
+      "people/luis-mena",
+      "people/matt-smith",
+      "people/matthew-lenhart",
+      "people/mike-kelly",
+      "people/mmmarcantel-equiva",
+      "people/timothy-blanchard"
+    ],
+    "date": "2001-04-16"
+  }
+}

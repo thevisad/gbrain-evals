@@ -1,0 +1,14 @@
+{
+  "slug": "people/bmspeckman-aol",
+  "type": "person",
+  "title": "Bmspeckman",
+  "compiled_truth": "Bmspeckman is an external contact at [AOL](companies/aol). Over the corpus period (2000-05-30 to 2001-05-02), Bmspeckman sent 4 and received 33 emails, totalling 37 interactions. Top correspondents: [Nwrto](people/nwrto-pplmt) (4), [Frank Afranji](people/frank-afranji-pgn) (4), [Mpa](people/mpa-aelaw) (4), [Ambarnes](people/ambarnes-bpa) (4), [Slbaskerville](people/slbaskerville-bpa) (4).",
+  "timeline": "- **2000-05-30** | First recorded email in corpus\n- **2001-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bmspeckman-aol",
+    "name": "Bmspeckman",
+    "email": "bmspeckman@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

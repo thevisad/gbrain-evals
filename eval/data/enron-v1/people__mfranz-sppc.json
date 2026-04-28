@@ -1,0 +1,14 @@
+{
+  "slug": "people/mfranz-sppc",
+  "type": "person",
+  "title": "Mfranz",
+  "compiled_truth": "Mfranz is an external contact at [Sppc](companies/sppc). Over the corpus period (2001-08-14 to 2001-10-11), Mfranz sent 1 and received 1 emails, totalling 2 interactions. Top correspondents: [Isas](people/isas-wscc) (1).",
+  "timeline": "- **2001-08-14** | First recorded email in corpus\n- **2001-10-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mfranz-sppc",
+    "name": "Mfranz",
+    "email": "mfranz@sppc.com",
+    "primary_affiliation": "companies/sppc"
+  }
+}

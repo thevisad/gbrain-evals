@@ -1,0 +1,14 @@
+{
+  "slug": "people/c-giron",
+  "type": "person",
+  "title": "C  Giron",
+  "compiled_truth": "C  Giron is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-15 to 2002-02-13), C  Giron sent 299 and received 662 emails, totalling 961 interactions. Top correspondents: [Dgiron1](people/dgiron1-houston) (68), [M  Love](people/m-love) (26), [Kristi Giron](people/kristi-giron-cfisd) (16), [Anne Bike](people/anne-bike) (15), [David Plaisance](people/david-plaisance-us) (10). Mailbox folders observed: deleted_items, sent_items.",
+  "timeline": "- **2001-05-15** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/c-giron",
+    "name": "C  Giron",
+    "email": "c..giron@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

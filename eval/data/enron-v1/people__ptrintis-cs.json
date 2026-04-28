@@ -1,0 +1,14 @@
+{
+  "slug": "people/ptrintis-cs",
+  "type": "person",
+  "title": "Ptrintis",
+  "compiled_truth": "Ptrintis is an external contact at [Cs](companies/cs). Over the corpus period (1999-12-12 to 2000-12-12), Ptrintis sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **1999-12-12** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ptrintis-cs",
+    "name": "Ptrintis",
+    "email": "ptrintis@cs.com",
+    "primary_affiliation": "companies/cs"
+  }
+}

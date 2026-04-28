@@ -1,0 +1,24 @@
+{
+  "slug": "threads/question-2-2000-12",
+  "type": "meeting",
+  "title": "Thread: Question 2",
+  "compiled_truth": "Email thread: \"Question 2\". Ran from 2000-12-04 to 2000-12-06 with 10 messages. Participants: [Ben Jacoby](people/ben-jacoby), [Benjamin Rogers](people/benjamin-rogers), [Dave Kellermeyer](people/dave-kellermeyer), [Don Miller](people/don-miller), [Gus Eghneim](people/gus-eghneim), [Jeffrey Keenan](people/jeffrey-keenan), [Jon Cathers](people/jon-cathers), [Mitch Robinson](people/mitch-robinson).",
+  "timeline": "- **2000-12-04** | Thread begins: question 2\n- **2000-12-06** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/question-2-2000-12",
+    "attendees": [
+      "people/ben-jacoby",
+      "people/benjamin-rogers",
+      "people/dave-kellermeyer",
+      "people/don-miller",
+      "people/gus-eghneim",
+      "people/jeffrey-keenan",
+      "people/jon-cathers",
+      "people/mitch-robinson",
+      "people/mitchell-hurt",
+      "people/ross-newlin"
+    ],
+    "date": "2000-12-04"
+  }
+}

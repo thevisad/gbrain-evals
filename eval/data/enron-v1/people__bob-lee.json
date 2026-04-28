@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-lee",
+  "type": "person",
+  "title": "Bob Lee",
+  "compiled_truth": "Bob Lee is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-01-15), Bob Lee sent 19 and received 160 emails, totalling 179 interactions. Top correspondents: [Zimin Lu](people/zimin-lu) (14), [Vince Kaminski](people/vince-kaminski) (13), [Stinson Gibner](people/stinson-gibner) (11), [John Griffith](people/john-griffith) (3), [Vasant Shanbhogue](people/vasant-shanbhogue) (3). Mailbox folders observed: deleted_items, inbox, market.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-lee",
+    "name": "Bob Lee",
+    "email": "bob.lee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

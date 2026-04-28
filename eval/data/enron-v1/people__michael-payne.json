@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-payne",
+  "type": "person",
+  "title": "Michael Payne",
+  "compiled_truth": "Michael Payne is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-12 to 2002-05-14), Michael Payne sent 4 and received 31 emails, totalling 35 interactions. Top correspondents: [Richard Ring](people/richard-ring) (2), [Mike Curry](people/mike-curry) (1), [Louise Kitchen](people/louise-kitchen) (1), [John Lavorato](people/john-lavorato) (1), [Lisa Pitt](people/lisa-pitt) (1). Mailbox folders observed: _americas, eesirenewableenergy, old_inbox, personalfolder.",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2002-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-payne",
+    "name": "Michael Payne",
+    "email": "michael.payne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

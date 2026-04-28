@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephanie-truss",
+  "type": "person",
+  "title": "Stephanie Truss",
+  "compiled_truth": "Stephanie Truss is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-04 to 2002-03-29), Stephanie Truss sent 18 and received 120 emails, totalling 138 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (5), [Gerald Nemec](people/gerald-nemec) (5), [B  Sanders](people/b-sanders) (5), [Robert Williams](people/robert-williams) (5), [Andrew Edison](people/andrew-edison) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephanie-truss",
+    "name": "Stephanie Truss",
+    "email": "stephanie.truss@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

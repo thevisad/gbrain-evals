@@ -1,0 +1,14 @@
+{
+  "slug": "people/browning-wasatchenergy",
+  "type": "person",
+  "title": "Browning",
+  "compiled_truth": "Browning is an external contact at [Wasatchenergy](companies/wasatchenergy). Over the corpus period (2000-12-04 to 2001-05-11), Browning sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/browning-wasatchenergy",
+    "name": "Browning",
+    "email": "browning@wasatchenergy.com",
+    "primary_affiliation": "companies/wasatchenergy"
+  }
+}

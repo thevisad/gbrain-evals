@@ -1,0 +1,14 @@
+{
+  "slug": "people/allan-vollmer",
+  "type": "person",
+  "title": "Allan Vollmer",
+  "compiled_truth": "Allan Vollmer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2002-01-30), Allan Vollmer sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/allan-vollmer",
+    "name": "Allan Vollmer",
+    "email": "allan.vollmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

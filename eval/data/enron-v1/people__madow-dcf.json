@@ -1,0 +1,14 @@
+{
+  "slug": "people/madow-dcf",
+  "type": "person",
+  "title": "Madow",
+  "compiled_truth": "Madow is an external contact at [Dcf](companies/dcf). Over the corpus period (2000-07-17 to 2000-07-17), Madow sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/madow-dcf",
+    "name": "Madow",
+    "email": "madow@dcf.com",
+    "primary_affiliation": "companies/dcf"
+  }
+}

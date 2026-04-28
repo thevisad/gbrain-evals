@@ -1,0 +1,14 @@
+{
+  "slug": "people/cindy-kater",
+  "type": "person",
+  "title": "Cindy Kater",
+  "compiled_truth": "Cindy Kater is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-10-09), Cindy Kater sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cindy-kater",
+    "name": "Cindy Kater",
+    "email": "cindy.kater@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

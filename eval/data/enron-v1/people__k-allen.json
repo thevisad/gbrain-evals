@@ -1,0 +1,14 @@
+{
+  "slug": "people/k-allen",
+  "type": "person",
+  "title": "K  Allen",
+  "compiled_truth": "K  Allen is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-15 to 2002-02-21), K  Allen sent 298 and received 626 emails, totalling 924 interactions. Top correspondents: [Jsmith](people/jsmith-austintx) (23), [Gthorse](people/gthorse-keyad) (20), [Jacquestc](people/jacquestc-aol) (19), [Matt Smith](people/matt-smith) (17), [Ina Rangel](people/ina-rangel) (14). Mailbox folders observed: inbox, sent_items.",
+  "timeline": "- **2001-05-15** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/k-allen",
+    "name": "K  Allen",
+    "email": "k..allen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

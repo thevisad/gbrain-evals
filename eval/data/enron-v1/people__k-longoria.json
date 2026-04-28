@@ -1,0 +1,14 @@
+{
+  "slug": "people/k-longoria",
+  "type": "person",
+  "title": "K  Longoria",
+  "compiled_truth": "K  Longoria is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2002-02-13), K  Longoria sent 1 and received 17 emails, totalling 18 interactions. Top correspondents: [Audrey Harenski](people/audrey-harenski) (1), [R  Brackett](people/r-brackett) (1), [S  Bradford](people/s-bradford) (1), [Frank Cernosek](people/frank-cernosek) (1), [Jason Fischer](people/jason-fischer) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/k-longoria",
+    "name": "K  Longoria",
+    "email": "k..longoria@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

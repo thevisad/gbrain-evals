@@ -1,0 +1,25 @@
+{
+  "slug": "meetings/vepco-meeting-2000-08",
+  "type": "meeting",
+  "title": "Meeting: Vepco Meeting",
+  "compiled_truth": "Meeting: \"Vepco Meeting\". Occurred 2000-08-23 through 2000-08-23 with 8 related emails. Participants included: [Christi Nicolay](people/christi-nicolay), [Heather Kroll](people/heather-kroll), [Herman Manis](people/herman-manis), [Jeffrey Keenan](people/jeffrey-keenan), [John Moore](people/john-moore), [Kay Mann](people/kay-mann), [Larry Soderquist](people/larry-soderquist), [Matthew Gockerman](people/matthew-gockerman)....",
+  "timeline": "- **2000-08-23** | Meeting: vepco meeting\n- **2000-08-23** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/vepco-meeting-2000-08",
+    "attendees": [
+      "people/christi-nicolay",
+      "people/heather-kroll",
+      "people/herman-manis",
+      "people/jeffrey-keenan",
+      "people/john-moore",
+      "people/kay-mann",
+      "people/larry-soderquist",
+      "people/matthew-gockerman",
+      "people/mitch-robinson",
+      "people/ozzie-pagan",
+      "people/suzanne-adams"
+    ],
+    "date": "2000-08-23"
+  }
+}

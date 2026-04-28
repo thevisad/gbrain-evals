@@ -1,0 +1,14 @@
+{
+  "slug": "people/ann-carethers",
+  "type": "person",
+  "title": "Ann Carethers",
+  "compiled_truth": "Ann Carethers is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-08 to 2002-05-06), Ann Carethers sent 3 and received 26 emails, totalling 29 interactions. Top correspondents: [Michelle Lokay](people/michelle-lokay) (3). Mailbox folders observed: tw_commercial_group.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ann-carethers",
+    "name": "Ann Carethers",
+    "email": "ann.carethers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

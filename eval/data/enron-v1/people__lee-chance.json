@@ -1,0 +1,14 @@
+{
+  "slug": "people/lee-chance",
+  "type": "person",
+  "title": "Lee Chance",
+  "compiled_truth": "Lee Chance is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-09 to 2001-04-23), Lee Chance sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2001-04-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lee-chance",
+    "name": "Lee Chance",
+    "email": "lee.chance@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

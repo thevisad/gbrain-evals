@@ -1,0 +1,14 @@
+{
+  "slug": "people/regan-smith",
+  "type": "person",
+  "title": "Regan Smith",
+  "compiled_truth": "Regan Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-05-14), Regan Smith sent 2 and received 24 emails, totalling 26 interactions. Top correspondents: [Jeff Johnson](people/jeff-johnson) (2), [Kenneth Harmon](people/kenneth-harmon) (2), [Chris Schomer](people/chris-schomer) (2), [Philip Glass](people/philip-glass) (2), [Melissa White](people/melissa-white) (2).",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/regan-smith",
+    "name": "Regan Smith",
+    "email": "regan.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

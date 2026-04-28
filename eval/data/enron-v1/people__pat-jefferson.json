@@ -1,0 +1,14 @@
+{
+  "slug": "people/pat-jefferson",
+  "type": "person",
+  "title": "Pat Jefferson",
+  "compiled_truth": "Pat Jefferson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-19), Pat Jefferson sent 1 and received 54 emails, totalling 55 interactions. Top correspondents: [Raymond Bowen](people/raymond-bowen) (1), [Rick Buy](people/rick-buy) (1), [Jeff Donahue](people/jeff-donahue) (1), [Douglas Dunn](people/douglas-dunn) (1), [Mark Haedicke](people/mark-haedicke) (1).",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pat-jefferson",
+    "name": "Pat Jefferson",
+    "email": "pat.jefferson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

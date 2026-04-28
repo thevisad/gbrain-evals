@@ -1,0 +1,14 @@
+{
+  "slug": "people/tacuna-sdge",
+  "type": "person",
+  "title": "Tacuna",
+  "compiled_truth": "Tacuna is an external contact at [Sdge](companies/sdge). Over the corpus period (2000-11-29 to 2000-11-29), Tacuna sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-29** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tacuna-sdge",
+    "name": "Tacuna",
+    "email": "tacuna@sdge.com",
+    "primary_affiliation": "companies/sdge"
+  }
+}

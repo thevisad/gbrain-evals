@@ -1,0 +1,14 @@
+{
+  "slug": "people/peterb-calpine",
+  "type": "person",
+  "title": "Peterb",
+  "compiled_truth": "Peterb is an external contact at [Calpine](companies/calpine). Over the corpus period (2001-03-16 to 2001-10-05), Peterb sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-03-16** | First recorded email in corpus\n- **2001-10-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peterb-calpine",
+    "name": "Peterb",
+    "email": "peterb@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

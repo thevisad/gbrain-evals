@@ -1,0 +1,14 @@
+{
+  "slug": "people/macorp-mindspring",
+  "type": "person",
+  "title": "Macorp",
+  "compiled_truth": "Macorp is an external contact at [Mindspring](companies/mindspring). Over the corpus period (2000-11-11 to 2000-11-11), Macorp sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/macorp-mindspring",
+    "name": "Macorp",
+    "email": "macorp@mindspring.com",
+    "primary_affiliation": "companies/mindspring"
+  }
+}

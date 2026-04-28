@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-trieschman",
+  "type": "person",
+  "title": "Paul Trieschman",
+  "compiled_truth": "Paul Trieschman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2001-11-28), Paul Trieschman sent 1 and received 29 emails, totalling 30 interactions. Top correspondents: [Ken Rice](people/ken-rice) (1), [Joe' 'Hirko](people/joe-hirko) (1), [Kevin Hannon](people/kevin-hannon) (1), [Scott Yeager](people/scott-yeager) (1), [John Bloomer](people/john-bloomer) (1).",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-trieschman",
+    "name": "Paul Trieschman",
+    "email": "paul.trieschman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

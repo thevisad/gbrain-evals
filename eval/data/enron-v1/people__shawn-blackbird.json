@@ -1,0 +1,14 @@
+{
+  "slug": "people/shawn-blackbird",
+  "type": "person",
+  "title": "Shawn",
+  "compiled_truth": "Shawn is an external contact at [Blackbird](companies/blackbird). Over the corpus period (2000-09-07 to 2001-06-11), Shawn sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shawn-blackbird",
+    "name": "Shawn",
+    "email": "shawn@blackbird.net",
+    "primary_affiliation": "companies/blackbird"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/connie-hook",
+  "type": "person",
+  "title": "Connie Hook",
+  "compiled_truth": "Connie Hook is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-26 to 2002-01-22), Connie Hook sent 5 and received 57 emails, totalling 62 interactions. Top correspondents: [Mike Barry](people/mike-barry) (5), [Joni Bollinger](people/joni-bollinger) (5), [Janet Bowers](people/janet-bowers) (5), [Allen Cohrs](people/allen-cohrs) (5), [John Dushinske](people/john-dushinske) (5). Mailbox folders observed: account_assignments, customer_list, deleted_items.",
+  "timeline": "- **2000-07-26** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/connie-hook",
+    "name": "Connie Hook",
+    "email": "connie.hook@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

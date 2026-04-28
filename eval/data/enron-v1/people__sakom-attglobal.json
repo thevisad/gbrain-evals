@@ -1,0 +1,14 @@
+{
+  "slug": "people/sakom-attglobal",
+  "type": "person",
+  "title": "Sakom",
+  "compiled_truth": "Sakom is an external contact at [Attglobal](companies/attglobal). Over the corpus period (2001-04-26 to 2001-08-11), Sakom sent 1 and received 4 emails, totalling 5 interactions. Top correspondents: [Michelle Lokay](people/michelle-lokay) (1).",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2001-08-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sakom-attglobal",
+    "name": "Sakom",
+    "email": "sakom@attglobal.net",
+    "primary_affiliation": "companies/attglobal"
+  }
+}

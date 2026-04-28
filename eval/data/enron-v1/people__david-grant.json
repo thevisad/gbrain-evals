@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-grant",
+  "type": "person",
+  "title": "David Grant",
+  "compiled_truth": "David Grant is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-02-06), David Grant sent 4 and received 27 emails, totalling 31 interactions. Top correspondents: [Richard Sanders](people/richard-sanders) (3), [Rob Cole](people/rob-cole) (3), [Gramos](people/gramos-rtf) (1), [Coralina Rivera](people/coralina-rivera) (1), [Greg Curran](people/greg-curran) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-grant",
+    "name": "David Grant",
+    "email": "david.grant@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

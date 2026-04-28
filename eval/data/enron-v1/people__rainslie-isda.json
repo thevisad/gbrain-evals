@@ -1,0 +1,14 @@
+{
+  "slug": "people/rainslie-isda",
+  "type": "person",
+  "title": "Rainslie",
+  "compiled_truth": "Rainslie is an external contact at [Isda](companies/isda). Over the corpus period (2000-04-19 to 2001-11-19), Rainslie sent 16 and received 91 emails, totalling 107 interactions. Top correspondents: [Mark E Haedicke](people/mark-e-haedicke) (7), [Mark Taylor](people/mark-taylor) (5), [Rpickel](people/rpickel-isda) (3), [Usregcomm](people/usregcomm-isda) (3), [Scarey](people/scarey-isda) (3).",
+  "timeline": "- **2000-04-19** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rainslie-isda",
+    "name": "Rainslie",
+    "email": "rainslie@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

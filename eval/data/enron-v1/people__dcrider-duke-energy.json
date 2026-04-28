@@ -1,0 +1,14 @@
+{
+  "slug": "people/dcrider-duke-energy",
+  "type": "person",
+  "title": "Dcrider",
+  "compiled_truth": "Dcrider is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-09-15 to 2001-03-29), Dcrider sent 1 and received 32 emails, totalling 33 interactions. Top correspondents: [Dfbane](people/dfbane-duke-energy) (1), [Jabretz](people/jabretz-duke-energy) (1), [Cwcass](people/cwcass-duke-energy) (1), [Mrcherry](people/mrcherry-duke-energy) (1), [Wespeckels](people/wespeckels-duke-energy) (1).",
+  "timeline": "- **2000-09-15** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dcrider-duke-energy",
+    "name": "Dcrider",
+    "email": "dcrider@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

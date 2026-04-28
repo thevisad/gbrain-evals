@@ -1,0 +1,14 @@
+{
+  "slug": "people/jonathan-perret",
+  "type": "person",
+  "title": "Jonathan Perret",
+  "compiled_truth": "Jonathan Perret is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-11-15), Jonathan Perret sent 1 and received 1 emails, totalling 2 interactions. Top correspondents: [40Enron](people/40enron) (1).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2000-11-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jonathan-perret",
+    "name": "Jonathan Perret",
+    "email": "jonathan.perret@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

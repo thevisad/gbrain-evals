@@ -1,0 +1,14 @@
+{
+  "slug": "people/regina-perkins",
+  "type": "person",
+  "title": "Regina Perkins",
+  "compiled_truth": "Regina Perkins is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2001-12-06), Regina Perkins sent 4 and received 154 emails, totalling 158 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (4), [Randall Gay](people/randall-gay) (3), [Edward Terry](people/edward-terry) (3), [George Smith](people/george-smith) (3), [Pat Clynes](people/pat-clynes) (3).",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/regina-perkins",
+    "name": "Regina Perkins",
+    "email": "regina.perkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

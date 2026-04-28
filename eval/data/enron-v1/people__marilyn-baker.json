@@ -1,0 +1,14 @@
+{
+  "slug": "people/marilyn-baker",
+  "type": "person",
+  "title": "Marilyn Baker",
+  "compiled_truth": "Marilyn Baker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-18 to 2001-05-30), Marilyn Baker sent 1 and received 29 emails, totalling 30 interactions. Top correspondents: [Russ Porter](people/russ-porter) (1), [Benjamin Rogers](people/benjamin-rogers) (1).",
+  "timeline": "- **2000-01-18** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marilyn-baker",
+    "name": "Marilyn Baker",
+    "email": "marilyn.baker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

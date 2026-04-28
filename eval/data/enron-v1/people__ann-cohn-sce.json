@@ -1,0 +1,14 @@
+{
+  "slug": "people/ann-cohn-sce",
+  "type": "person",
+  "title": "Ann Cohn",
+  "compiled_truth": "Ann Cohn is an external contact at [Sce](companies/sce). Over the corpus period (2001-06-12 to 2001-11-19), Ann Cohn sent 7 and received 88 emails, totalling 95 interactions. Top correspondents: [Isenberg](people/isenberg-hmot) (6), [Jdasovic](people/jdasovic) (6), [Kmccrea](people/kmccrea-sablaw) (6), [Vjw](people/vjw-cleanpower) (6), [Brbarkovich](people/brbarkovich-earthlink) (5).",
+  "timeline": "- **2001-06-12** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ann-cohn-sce",
+    "name": "Ann Cohn",
+    "email": "ann.cohn@sce.com",
+    "primary_affiliation": "companies/sce"
+  }
+}

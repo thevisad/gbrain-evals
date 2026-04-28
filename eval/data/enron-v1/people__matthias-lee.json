@@ -1,0 +1,14 @@
+{
+  "slug": "people/matthias-lee",
+  "type": "person",
+  "title": "Matthias Lee",
+  "compiled_truth": "Matthias Lee is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-07), Matthias Lee sent 45 and received 145 emails, totalling 190 interactions. Top correspondents: [Alan Aronowitz](people/alan-aronowitz) (41), [Angeline Poon](people/angeline-poon) (40), [Richard Sanders](people/richard-sanders) (28), [Harry Collins](people/harry-collins) (16), [Britt Davis](people/britt-davis) (14). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matthias-lee",
+    "name": "Matthias Lee",
+    "email": "matthias.lee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

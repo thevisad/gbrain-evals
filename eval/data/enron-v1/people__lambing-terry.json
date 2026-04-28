@@ -1,0 +1,14 @@
+{
+  "slug": "people/lambing-terry",
+  "type": "person",
+  "title": "Lambing Terry",
+  "compiled_truth": "Lambing Terry is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-08-21), Lambing Terry sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lambing-terry",
+    "name": "Lambing Terry",
+    "email": "lambing.terry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

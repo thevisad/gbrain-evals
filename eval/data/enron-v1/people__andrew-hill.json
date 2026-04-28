@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrew-hill",
+  "type": "person",
+  "title": "Andrew Hill",
+  "compiled_truth": "Andrew Hill is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-19 to 2001-11-10), Andrew Hill sent 1 and received 42 emails, totalling 43 interactions. Top correspondents: [A  Shankman](people/a-shankman) (1), [Jeff Andrews](people/jeff-andrews) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-03-19** | First recorded email in corpus\n- **2001-11-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrew-hill",
+    "name": "Andrew Hill",
+    "email": "andrew.hill@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

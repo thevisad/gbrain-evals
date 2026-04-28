@@ -1,0 +1,14 @@
+{
+  "slug": "people/sreeder-sppc",
+  "type": "person",
+  "title": "Sreeder",
+  "compiled_truth": "Sreeder is an external contact at [Sppc](companies/sppc). Over the corpus period (2000-08-10 to 2001-12-21), Sreeder sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sreeder-sppc",
+    "name": "Sreeder",
+    "email": "sreeder@sppc.com",
+    "primary_affiliation": "companies/sppc"
+  }
+}

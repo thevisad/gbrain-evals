@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-massenergy",
+  "type": "person",
+  "title": "Larry",
+  "compiled_truth": "Larry is an external contact at [Massenergy](companies/massenergy). Over the corpus period (2001-10-18 to 2001-10-18), Larry sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-massenergy",
+    "name": "Larry",
+    "email": "larry@massenergy.com",
+    "primary_affiliation": "companies/massenergy"
+  }
+}

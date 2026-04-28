@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-mcmillian",
+  "type": "person",
+  "title": "Dan Mcmillian",
+  "compiled_truth": "Dan Mcmillian is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-18 to 2001-12-05), Dan Mcmillian sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-mcmillian",
+    "name": "Dan Mcmillian",
+    "email": "dan.mcmillian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/wade-doshier",
+  "type": "person",
+  "title": "Wade Doshier",
+  "compiled_truth": "Wade Doshier is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-08-22), Wade Doshier sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-08-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wade-doshier",
+    "name": "Wade Doshier",
+    "email": "wade.doshier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

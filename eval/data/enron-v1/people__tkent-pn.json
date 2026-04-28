@@ -1,0 +1,14 @@
+{
+  "slug": "people/tkent-pn",
+  "type": "person",
+  "title": "Tkent",
+  "compiled_truth": "Tkent is an external contact at [Pn](companies/pn). Over the corpus period (2000-06-23 to 2001-08-14), Tkent sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-08-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tkent-pn",
+    "name": "Tkent",
+    "email": "tkent@pn.usbr.gov",
+    "primary_affiliation": "companies/pn"
+  }
+}

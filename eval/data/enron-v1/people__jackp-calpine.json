@@ -1,0 +1,14 @@
+{
+  "slug": "people/jackp-calpine",
+  "type": "person",
+  "title": "Jackp",
+  "compiled_truth": "Jackp is an external contact at [Calpine](companies/calpine). Over the corpus period (2000-05-08 to 2002-01-02), Jackp sent 0 and received 393 emails, totalling 393 interactions.",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jackp-calpine",
+    "name": "Jackp",
+    "email": "jackp@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

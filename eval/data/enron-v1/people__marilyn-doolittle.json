@@ -1,0 +1,14 @@
+{
+  "slug": "people/marilyn-doolittle",
+  "type": "person",
+  "title": "Marilyn Doolittle",
+  "compiled_truth": "Marilyn Doolittle is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-26 to 2002-03-06), Marilyn Doolittle sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-10-26** | First recorded email in corpus\n- **2002-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marilyn-doolittle",
+    "name": "Marilyn Doolittle",
+    "email": "marilyn.doolittle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cfi1-tca-us",
+  "type": "person",
+  "title": "Cfi1",
+  "compiled_truth": "Cfi1 is an external contact at [Tca-us](companies/tca-us). Over the corpus period (2000-06-23 to 2001-07-05), Cfi1 sent 7 and received 74 emails, totalling 81 interactions. Top correspondents: [Ericf](people/ericf-prestongates) (4), [Dave Robertson](people/dave-robertson-gt) (4), [John R Orr](people/john-r-orr-reliantenergy) (4), [Paul Kaufman](people/paul-kaufman) (4), [Mhain](people/mhain) (4).",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-07-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cfi1-tca-us",
+    "name": "Cfi1",
+    "email": "cfi1@tca-us.com",
+    "primary_affiliation": "companies/tca-us"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/levi-beard-jackson",
+  "type": "person",
+  "title": "Levi Beard-Jackson",
+  "compiled_truth": "Levi Beard-Jackson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-14 to 2000-12-13), Levi Beard-Jackson sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-14** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/levi-beard-jackson",
+    "name": "Levi Beard-Jackson",
+    "email": "levi.beard-jackson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

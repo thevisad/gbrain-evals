@@ -1,0 +1,14 @@
+{
+  "slug": "people/jean-dressler",
+  "type": "person",
+  "title": "Jean Dressler",
+  "compiled_truth": "Jean Dressler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-26 to 2001-12-03), Jean Dressler sent 1 and received 218 emails, totalling 219 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-05-26** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jean-dressler",
+    "name": "Jean Dressler",
+    "email": "jean.dressler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

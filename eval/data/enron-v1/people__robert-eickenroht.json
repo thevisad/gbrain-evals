@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-eickenroht",
+  "type": "person",
+  "title": "Robert Eickenroht",
+  "compiled_truth": "Robert Eickenroht is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2002-01-25), Robert Eickenroht sent 17 and received 104 emails, totalling 121 interactions. Top correspondents: [Lisa Mellencamp](people/lisa-mellencamp) (6), [James Derrick](people/james-derrick) (6), [Rex Rogers](people/rex-rogers) (6), [S  Bradford](people/s-bradford) (5), [Michael Tribolet](people/michael-tribolet) (5). Mailbox folders observed: deleted_items, inbox, notre_dame, pr_crisis_management.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-eickenroht",
+    "name": "Robert Eickenroht",
+    "email": "robert.eickenroht@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

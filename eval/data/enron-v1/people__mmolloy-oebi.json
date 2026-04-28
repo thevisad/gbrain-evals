@@ -1,0 +1,14 @@
+{
+  "slug": "people/mmolloy-oebi",
+  "type": "person",
+  "title": "Mmolloy",
+  "compiled_truth": "Mmolloy is an external contact at [Oebi](companies/oebi). Over the corpus period (2000-07-10 to 2000-09-18), Mmolloy sent 0 and received 86 emails, totalling 86 interactions.",
+  "timeline": "- **2000-07-10** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mmolloy-oebi",
+    "name": "Mmolloy",
+    "email": "mmolloy@oebi.com",
+    "primary_affiliation": "companies/oebi"
+  }
+}

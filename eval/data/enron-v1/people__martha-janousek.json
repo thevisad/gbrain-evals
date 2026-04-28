@@ -1,0 +1,14 @@
+{
+  "slug": "people/martha-janousek",
+  "type": "person",
+  "title": "Martha Janousek",
+  "compiled_truth": "Martha Janousek is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-21 to 2002-03-20), Martha Janousek sent 9 and received 341 emails, totalling 350 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (7), [Lee Ferrell](people/lee-ferrell) (5), [John Fiscus](people/john-fiscus) (5), [Steve Gilbert](people/steve-gilbert) (5), [Ken Powers](people/ken-powers) (5). Mailbox folders observed: deleted_items, inbox, rm_work_order.",
+  "timeline": "- **1999-12-21** | First recorded email in corpus\n- **2002-03-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martha-janousek",
+    "name": "Martha Janousek",
+    "email": "martha.janousek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

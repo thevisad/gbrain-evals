@@ -1,0 +1,14 @@
+{
+  "slug": "people/nanette-kettler",
+  "type": "person",
+  "title": "Nanette Kettler",
+  "compiled_truth": "Nanette Kettler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-29 to 2002-03-29), Nanette Kettler sent 0 and received 127 emails, totalling 127 interactions.",
+  "timeline": "- **2000-02-29** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nanette-kettler",
+    "name": "Nanette Kettler",
+    "email": "nanette.kettler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

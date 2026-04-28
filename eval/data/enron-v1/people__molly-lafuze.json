@@ -1,0 +1,14 @@
+{
+  "slug": "people/molly-lafuze",
+  "type": "person",
+  "title": "Molly Lafuze",
+  "compiled_truth": "Molly Lafuze is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-18 to 2001-12-03), Molly Lafuze sent 2 and received 321 emails, totalling 323 interactions. Top correspondents: [Tana Jones](people/tana-jones) (1), [Greg Whalley](people/greg-whalley) (1), [Grant Zimmerman](people/grant-zimmerman) (1).",
+  "timeline": "- **1999-10-18** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/molly-lafuze",
+    "name": "Molly Lafuze",
+    "email": "molly.lafuze@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

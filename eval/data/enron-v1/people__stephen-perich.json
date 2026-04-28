@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-perich",
+  "type": "person",
+  "title": "Stephen Perich",
+  "compiled_truth": "Stephen Perich is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-07 to 2002-02-13), Stephen Perich sent 4 and received 60 emails, totalling 64 interactions. Top correspondents: [M  Love](people/m-love) (3), [Michelle Akers](people/michelle-akers) (2), [Derek Bailey](people/derek-bailey) (2), [David Baumbach](people/david-baumbach) (2), [Randy Bhatia](people/randy-bhatia) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-08-07** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-perich",
+    "name": "Stephen Perich",
+    "email": "stephen.perich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

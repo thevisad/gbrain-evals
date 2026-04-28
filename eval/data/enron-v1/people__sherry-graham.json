@@ -1,0 +1,14 @@
+{
+  "slug": "people/sherry-graham",
+  "type": "person",
+  "title": "Sherry Graham",
+  "compiled_truth": "Sherry Graham is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2000-12-06), Sherry Graham sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1).",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sherry-graham",
+    "name": "Sherry Graham",
+    "email": "sherry.graham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

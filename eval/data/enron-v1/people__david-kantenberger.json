@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-kantenberger",
+  "type": "person",
+  "title": "David Kantenberger",
+  "compiled_truth": "David Kantenberger is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2001-04-26), David Kantenberger sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-kantenberger",
+    "name": "David Kantenberger",
+    "email": "david.kantenberger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

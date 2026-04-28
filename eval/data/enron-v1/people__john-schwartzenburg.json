@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-schwartzenburg",
+  "type": "person",
+  "title": "John Schwartzenburg",
+  "compiled_truth": "John Schwartzenburg is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-13), John Schwartzenburg sent 29 and received 281 emails, totalling 310 interactions. Top correspondents: [Kay Mann](people/kay-mann) (13), [Scott Dieball](people/scott-dieball) (7), [Sheila Tweed](people/sheila-tweed) (6), [Randy Pais](people/randy-pais) (4), [Davidlu](people/davidlu-nepco) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-schwartzenburg",
+    "name": "John Schwartzenburg",
+    "email": "john.schwartzenburg@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

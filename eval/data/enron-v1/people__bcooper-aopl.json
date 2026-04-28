@@ -1,0 +1,14 @@
+{
+  "slug": "people/bcooper-aopl",
+  "type": "person",
+  "title": "Bcooper",
+  "compiled_truth": "Bcooper is an external contact at [Aopl](companies/aopl). Over the corpus period (2001-06-02 to 2001-12-31), Bcooper sent 5 and received 3 emails, totalling 8 interactions. Top correspondents: [L  Johnson](people/l-johnson) (5), [John Shafer](people/john-shafer) (5), [Stanley Horton](people/stanley-horton) (3), [Cooper](people/cooper-aopl) (2).",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bcooper-aopl",
+    "name": "Bcooper",
+    "email": "bcooper@aopl.org",
+    "primary_affiliation": "companies/aopl"
+  }
+}

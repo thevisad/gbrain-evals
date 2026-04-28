@@ -1,0 +1,14 @@
+{
+  "slug": "people/sony-wilson",
+  "type": "person",
+  "title": "Sony Wilson",
+  "compiled_truth": "Sony Wilson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-24 to 2001-11-27), Sony Wilson sent 0 and received 124 emails, totalling 124 interactions.",
+  "timeline": "- **2000-02-24** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sony-wilson",
+    "name": "Sony Wilson",
+    "email": "sony.wilson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

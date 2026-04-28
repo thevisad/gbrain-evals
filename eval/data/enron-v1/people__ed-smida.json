@@ -1,0 +1,14 @@
+{
+  "slug": "people/ed-smida",
+  "type": "person",
+  "title": "Ed Smida",
+  "compiled_truth": "Ed Smida is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-21 to 2002-06-21), Ed Smida sent 2 and received 38 emails, totalling 40 interactions. Top correspondents: [Everett Plante](people/everett-plante) (1), [Jim Fallon](people/jim-fallon) (1), [Mark Pickering](people/mark-pickering) (1), [Ben Erwin](people/ben-erwin) (1), [Greg Piper](people/greg-piper) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ed-smida",
+    "name": "Ed Smida",
+    "email": "ed.smida@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

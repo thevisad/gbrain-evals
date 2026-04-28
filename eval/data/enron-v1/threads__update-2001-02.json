@@ -1,0 +1,25 @@
+{
+  "slug": "threads/update-2001-02",
+  "type": "meeting",
+  "title": "Thread: Update",
+  "compiled_truth": "Email thread: \"Update\". Ran from 2001-02-01 to 2001-02-26 with 14 messages. Participants: [Carol](people/carol-iepa), [David Dupre](people/david-dupre), [Debra Perlingiere](people/debra-perlingiere), [Egonzalez](people/egonzalez-gardere), [Gregg Penman](people/gregg-penman), [Jeff Dasovich](people/jeff-dasovich), [Jeffrey Shankman](people/jeffrey-shankman), [John Nowlan](people/john-nowlan).",
+  "timeline": "- **2001-02-01** | Thread begins: update\n- **2001-02-26** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/update-2001-02",
+    "attendees": [
+      "people/carol-iepa",
+      "people/david-dupre",
+      "people/debra-perlingiere",
+      "people/egonzalez-gardere",
+      "people/gregg-penman",
+      "people/jeff-dasovich",
+      "people/jeffrey-shankman",
+      "people/john-nowlan",
+      "people/kay-mann",
+      "people/mike-mcconnell",
+      "people/randal-maffett"
+    ],
+    "date": "2001-02-01"
+  }
+}

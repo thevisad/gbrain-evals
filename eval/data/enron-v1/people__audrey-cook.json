@@ -1,0 +1,14 @@
+{
+  "slug": "people/audrey-cook",
+  "type": "person",
+  "title": "Audrey Cook",
+  "compiled_truth": "Audrey Cook is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-11-19), Audrey Cook sent 5 and received 171 emails, totalling 176 interactions. Top correspondents: [Mary Ellenberger](people/mary-ellenberger) (2), [Chris Germany](people/chris-germany) (2), [Kate Symes](people/kate-symes) (2), [Chris Foster](people/chris-foster) (2), [Lisa Valderrama](people/lisa-valderrama) (1).",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/audrey-cook",
+    "name": "Audrey Cook",
+    "email": "audrey.cook@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

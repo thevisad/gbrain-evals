@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-swinford",
+  "type": "person",
+  "title": "Brian Swinford",
+  "compiled_truth": "Brian Swinford is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2001-11-06), Brian Swinford sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-swinford",
+    "name": "Brian Swinford",
+    "email": "brian.swinford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

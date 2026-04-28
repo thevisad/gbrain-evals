@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-holcomb-oper",
+  "type": "person",
+  "title": "Team Holcomb-Oper",
+  "compiled_truth": "Team Holcomb-Oper is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-12 to 2002-03-25), Team Holcomb-Oper sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2001-10-12** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-holcomb-oper",
+    "name": "Team Holcomb-Oper",
+    "email": "team.holcomb-oper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tim-heizenrader",
+  "type": "person",
+  "title": "Tim Heizenrader",
+  "compiled_truth": "Tim Heizenrader is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-05 to 2002-05-30), Tim Heizenrader sent 49 and received 460 emails, totalling 509 interactions. Top correspondents: [Sean Crandall](people/sean-crandall) (17), [Mike Swerzbin](people/mike-swerzbin) (16), [Tim Belden](people/tim-belden) (12), [Matt Motley](people/matt-motley) (11), [Diana Scholtes](people/diana-scholtes) (9). Mailbox folders observed: bill_williams_iii, deleted_items, discussion_threads, fundementals, inbox, read.",
+  "timeline": "- **2000-06-05** | First recorded email in corpus\n- **2002-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tim-heizenrader",
+    "name": "Tim Heizenrader",
+    "email": "tim.heizenrader@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

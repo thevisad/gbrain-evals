@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-boyt",
+  "type": "person",
+  "title": "Eric Boyt",
+  "compiled_truth": "Eric Boyt is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-10 to 2002-04-03), Eric Boyt sent 83 and received 376 emails, totalling 459 interactions. Top correspondents: [Charles Weldon](people/charles-weldon) (21), [V Weldon](people/v-weldon) (10), [Chris Germany](people/chris-germany) (9), [John Griffith](people/john-griffith) (9), [Eric Moon](people/eric-moon) (8). Mailbox folders observed: abraxas, austin_energy, bankrupt, bids___offers, calendar, deleted_items.",
+  "timeline": "- **2000-05-10** | First recorded email in corpus\n- **2002-04-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-boyt",
+    "name": "Eric Boyt",
+    "email": "eric.boyt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

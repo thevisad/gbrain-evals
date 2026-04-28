@@ -1,0 +1,14 @@
+{
+  "slug": "people/jmpa-dynegy",
+  "type": "person",
+  "title": "Jmpa",
+  "compiled_truth": "Jmpa is an external contact at [Dynegy](companies/dynegy). Over the corpus period (1999-10-04 to 2001-07-27), Jmpa sent 4 and received 265 emails, totalling 269 interactions. Top correspondents: [Jdasovic](people/jdasovic) (3), [Douglass](people/douglass-arterhadden) (3), [Bcherry](people/bcherry-sempra) (3), [Burkee](people/burkee-cts) (3), [Craigc](people/craigc-calpine) (3).",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2001-07-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jmpa-dynegy",
+    "name": "Jmpa",
+    "email": "jmpa@dynegy.com",
+    "primary_affiliation": "companies/dynegy"
+  }
+}

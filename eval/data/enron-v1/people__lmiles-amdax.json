@@ -1,0 +1,14 @@
+{
+  "slug": "people/lmiles-amdax",
+  "type": "person",
+  "title": "Lmiles",
+  "compiled_truth": "Lmiles is an external contact at [Amdax](companies/amdax). Over the corpus period (2000-11-29 to 2000-11-29), Lmiles sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-29** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lmiles-amdax",
+    "name": "Lmiles",
+    "email": "lmiles@amdax.com",
+    "primary_affiliation": "companies/amdax"
+  }
+}

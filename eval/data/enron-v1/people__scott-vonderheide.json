@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-vonderheide",
+  "type": "person",
+  "title": "Scott Vonderheide",
+  "compiled_truth": "Scott Vonderheide is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2001-11-21), Scott Vonderheide sent 15 and received 75 emails, totalling 90 interactions. Top correspondents: [Mark Koenig](people/mark-koenig) (11), [Paula Rieker](people/paula-rieker) (11), [Stanley Horton](people/stanley-horton) (10), [Michael Burke](people/michael-burke) (9), [Dana Gibbs](people/dana-gibbs) (9).",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-vonderheide",
+    "name": "Scott Vonderheide",
+    "email": "scott.vonderheide@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

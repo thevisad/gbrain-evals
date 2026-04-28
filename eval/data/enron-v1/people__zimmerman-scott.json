@@ -1,0 +1,14 @@
+{
+  "slug": "people/zimmerman-scott",
+  "type": "person",
+  "title": "Zimmerman Scott",
+  "compiled_truth": "Zimmerman Scott is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-06 to 2001-11-06), Zimmerman Scott sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-06** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zimmerman-scott",
+    "name": "Zimmerman Scott",
+    "email": "zimmerman.scott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

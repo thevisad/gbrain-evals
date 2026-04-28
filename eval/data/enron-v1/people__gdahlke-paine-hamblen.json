@@ -1,0 +1,14 @@
+{
+  "slug": "people/gdahlke-paine-hamblen",
+  "type": "person",
+  "title": "Gdahlke",
+  "compiled_truth": "Gdahlke is an external contact at [Paine-hamblen](companies/paine-hamblen). Over the corpus period (2001-03-11 to 2001-04-26), Gdahlke sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-03-11** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gdahlke-paine-hamblen",
+    "name": "Gdahlke",
+    "email": "gdahlke@paine-hamblen.com",
+    "primary_affiliation": "companies/paine-hamblen"
+  }
+}

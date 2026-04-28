@@ -1,0 +1,14 @@
+{
+  "slug": "people/b-palmer",
+  "type": "person",
+  "title": "B Palmer",
+  "compiled_truth": "B Palmer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-07-13), B Palmer sent 1 and received 254 emails, totalling 255 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (1), [Phillip Love](people/phillip-love) (1), [Darron Giron](people/darron-giron) (1), [Jennifer Bagwell](people/jennifer-bagwell) (1), [Jackson Logan](people/jackson-logan) (1).",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-07-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/b-palmer",
+    "name": "B Palmer",
+    "email": "b.palmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

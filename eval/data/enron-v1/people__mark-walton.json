@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-walton",
+  "type": "person",
+  "title": "Mark Walton",
+  "compiled_truth": "Mark Walton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-07 to 2002-05-06), Mark Walton sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **2000-12-07** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-walton",
+    "name": "Mark Walton",
+    "email": "mark.walton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

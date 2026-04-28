@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-coen",
+  "type": "person",
+  "title": "Jim Coen",
+  "compiled_truth": "Jim Coen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-27 to 2001-12-27), Jim Coen sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [Joe Richards](people/joe-richards) (1), [Randy Belyeu](people/randy-belyeu) (1), [Larry Campbell](people/larry-campbell) (1), [Warren Fusilier](people/warren-fusilier) (1), [Jeremy Dawson](people/jeremy-dawson) (1).",
+  "timeline": "- **2000-06-27** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-coen",
+    "name": "Jim Coen",
+    "email": "jim.coen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

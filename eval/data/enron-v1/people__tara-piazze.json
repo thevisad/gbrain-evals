@@ -1,0 +1,14 @@
+{
+  "slug": "people/tara-piazze",
+  "type": "person",
+  "title": "Tara Piazze",
+  "compiled_truth": "Tara Piazze is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-10 to 2001-12-03), Tara Piazze sent 12 and received 193 emails, totalling 205 interactions. Top correspondents: [Matt Smith](people/matt-smith) (8), [Kayne Coulter](people/kayne-coulter) (3), [Tom May](people/tom-may) (3), [Justin O'Malley](people/justin-o-malley) (3), [Nate Blackburn](people/nate-blackburn) (3). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tara-piazze",
+    "name": "Tara Piazze",
+    "email": "tara.piazze@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

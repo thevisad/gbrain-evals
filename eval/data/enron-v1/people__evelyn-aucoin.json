@@ -1,0 +1,14 @@
+{
+  "slug": "people/evelyn-aucoin",
+  "type": "person",
+  "title": "Evelyn Aucoin",
+  "compiled_truth": "Evelyn Aucoin is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-02-13), Evelyn Aucoin sent 4 and received 143 emails, totalling 147 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2), [Kimberly Hundl](people/kimberly-hundl) (2), [Ann Murphy](people/ann-murphy) (2), [Mike Carson](people/mike-carson) (1), [Doug Sewell](people/doug-sewell) (1). Mailbox folders observed: inbox, koch.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/evelyn-aucoin",
+    "name": "Evelyn Aucoin",
+    "email": "evelyn.aucoin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

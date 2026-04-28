@@ -1,0 +1,34 @@
+{
+  "slug": "meetings/anchor-board-2028-01-7",
+  "type": "meeting",
+  "title": "Anchor Board Meeting Q4 2027",
+  "compiled_truth": "Quarterly board meeting held January 15, 2028 at Anchor's main office. All five board members present: [Seren Voss](people/seren-voss) (CEO), [Ora Yamamoto](people/ora-yamamoto) (board observer, early investor), [Bex Andersen](people/bex-andersen) (independent director), [Piper Bergmann](people/piper-bergmann) (CFO), and [Dani Osei](people/dani-osei) (CTO). Meeting ran approximately three hours, with lunch served during the first thirty minutes while Piper walked through the financials.\n\nThe primary agenda item was the Series B kick-off. [Piper Bergmann](people/piper-bergmann) presented the current runway situation — roughly 14 months at current burn — and argued for beginning the raise now rather than waiting until Q2 as originally planned. Her reasoning: APAC expansion costs are front-loaded, and the pipeline there is already generating enough signal that waiting could mean missing key deployment windows with two large telco prospects. Ora pushed back mildly, noting that closing even one of those telco contracts before going to market would dramatically improve leverage. After some back-and-forth, the board agreed to begin soft outreach in February with a target close by end of April. Seren noted she already had three inbound conversations from growth-stage funds.\n\nAPAC expansion was the second major topic. [Dani Osei](people/dani-osei) presented a techincal readiness review — the single-pass primitives have been validated against latency requirements in the region, and the team has a preliminary compliance matrix for data residency rules in four target markets. Singapore was confirmed as the initial hub. Bex raised concerns about hiring velocity; Anchor has historically struggled to recruit outside North America. Seren mentioned that a former colleague now running engineering at a logistics company in Singapore has expresed interest in an advisory role, which could help open doors.\n\nThe board also briefly reviewed a handful of operational items: Q4 churn came in at 1.8%, slightly above the 1.5% target but explained by one mid-market customer that was acquired. ARR closed the quarter at $11.2M. The enterprise pipeline for Q1 is the strongest it's been, with $4.1M in qualified opportunities.\n\nAction items coming out of the meeting: Piper to prepare a Series B data room by February 7; Dani to finalize the APAC infrastructure architecture proposal by end of January; Seren to schedule follow-ups with inbound investor contacts. [Bex Andersen](people/bex-andersen) volunteered to help vet potential APAC legal counsel from her network. Next board meeting scheduled for April 2028, likely timed to coincide with Series B close.",
+  "timeline": [
+    "- **2026-03-10** | [Anchor Codec](companies/anchor) incorporated; [Seren Voss](people/seren-voss) and [Dani Osei](people/dani-osei) begin building first prototypes of deterministic data infrastructure.",
+    "- **2026-11-18** | Seed round closed. [Ora Yamamoto](people/ora-yamamoto) joins as board observer representing lead investor.",
+    "- **2027-04-22** | Series A closes at $14M. [Bex Andersen](people/bex-andersen) appointed as independent board director.",
+    "- **2027-06-15** | [Piper Bergmann](people/piper-bergmann) hired as CFO, immediately begins structuring financial reporting for board-level visibility.",
+    "- **2027-09-30** | ARR crosses $8M milestone; first enterprise contract signed with a North American logistics firm.",
+    "- **2027-10-20** | Q3 2027 board meeting — initial discussion of APAC opportunity and potential Series B timing.",
+    "- **2027-12-01** | [Dani Osei](people/dani-osei) completes latency benchmarks for APAC region deployments using single-pass primitives.",
+    "- **2028-01-15** | Q4 2027 board meeting held. Series B kick-off approved; APAC expansion plan reviewed. Singapore confirmed as regional hub.",
+    "- **2028-02-07** | Target date for Series B data room completion, per [Piper Bergmann](people/piper-bergmann).",
+    "- **2028-04-15** | Next board meeting tentatively scheduled, expected to coincide with Series B close."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/anchor-board-2028-01-7",
+    "name": "Anchor Board Meeting Q4 2027",
+    "meeting_type": "board_meeting",
+    "date": "2028-01-15",
+    "attendees": [
+      "people/seren-voss",
+      "people/ora-yamamoto",
+      "people/bex-andersen",
+      "people/piper-bergmann",
+      "people/dani-osei"
+    ],
+    "topic_company": "companies/anchor",
+    "topic": "Series B kick-off + APAC expansion"
+  }
+}

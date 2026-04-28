@@ -1,0 +1,14 @@
+{
+  "slug": "people/tammy-anderson",
+  "type": "person",
+  "title": "Tammy Anderson",
+  "compiled_truth": "Tammy Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-05-08), Tammy Anderson sent 2 and received 5 emails, totalling 7 interactions. Top correspondents: [Omaha Employees](people/omaha-employees) (2).",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tammy-anderson",
+    "name": "Tammy Anderson",
+    "email": "tammy.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

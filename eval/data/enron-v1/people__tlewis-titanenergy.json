@@ -1,0 +1,14 @@
+{
+  "slug": "people/tlewis-titanenergy",
+  "type": "person",
+  "title": "Tlewis",
+  "compiled_truth": "Tlewis is an external contact at [Titanenergy](companies/titanenergy). Over the corpus period (2000-10-20 to 2001-07-31), Tlewis sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-10-20** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tlewis-titanenergy",
+    "name": "Tlewis",
+    "email": "tlewis@titanenergy.com",
+    "primary_affiliation": "companies/titanenergy"
+  }
+}

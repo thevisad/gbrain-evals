@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-tawney",
+  "type": "person",
+  "title": "Mark Tawney",
+  "compiled_truth": "Mark Tawney is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-29), Mark Tawney sent 22 and received 499 emails, totalling 521 interactions. Top correspondents: [A  Shankman](people/a-shankman) (8), [Mike McConnell](people/mike-mcconnell) (6), [Jeffrey Shankman](people/jeffrey-shankman) (4), [Vince Kaminski](people/vince-kaminski) (3), [John Lavorato](people/john-lavorato) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-tawney",
+    "name": "Mark Tawney",
+    "email": "mark.tawney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

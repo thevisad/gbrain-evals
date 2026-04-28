@@ -1,0 +1,14 @@
+{
+  "slug": "people/karl-heinz-wellmann-kfw",
+  "type": "person",
+  "title": "Karl-Heinz Wellmann",
+  "compiled_truth": "Karl-Heinz Wellmann is an external contact at [Kfw](companies/kfw). Over the corpus period (2000-11-28 to 2000-12-06), Karl-Heinz Wellmann sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karl-heinz-wellmann-kfw",
+    "name": "Karl-Heinz Wellmann",
+    "email": "karl-heinz.wellmann@kfw.de",
+    "primary_affiliation": "companies/kfw"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/graham-jackie",
+  "type": "person",
+  "title": "Graham Jackie",
+  "compiled_truth": "Graham Jackie is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Graham Jackie sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/graham-jackie",
+    "name": "Graham Jackie",
+    "email": "graham.jackie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

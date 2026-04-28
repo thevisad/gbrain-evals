@@ -1,0 +1,14 @@
+{
+  "slug": "people/clint-dean",
+  "type": "person",
+  "title": "Clint Dean",
+  "compiled_truth": "Clint Dean is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-27 to 2001-12-07), Clint Dean sent 85 and received 680 emails, totalling 765 interactions. Top correspondents: [Tstraws](people/tstraws-qwest) (11), [Dgagliardi](people/dgagliardi-reliantenergy) (10), [Craig Dean](people/craig-dean-ey) (8), [Llmaser](people/llmaser-degeurinrealty) (8), [Doug Gilbert-Smith](people/doug-gilbert-smith) (7). Mailbox folders observed: _sent_mail, calendar, deleted_items, inbox, info2, power.",
+  "timeline": "- **2000-04-27** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clint-dean",
+    "name": "Clint Dean",
+    "email": "clint.dean@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/vandersteen-david",
+  "type": "person",
+  "title": "Vandersteen David",
+  "compiled_truth": "Vandersteen David is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-08-21), Vandersteen David sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vandersteen-david",
+    "name": "Vandersteen David",
+    "email": "vandersteen.david@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

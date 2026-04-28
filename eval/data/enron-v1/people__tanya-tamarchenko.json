@@ -1,0 +1,14 @@
+{
+  "slug": "people/tanya-tamarchenko",
+  "type": "person",
+  "title": "Tanya Tamarchenko",
+  "compiled_truth": "Tanya Tamarchenko is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-28), Tanya Tamarchenko sent 74 and received 382 emails, totalling 456 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (66), [Wenyao Jia](people/wenyao-jia) (19), [Jaesoo Lew](people/jaesoo-lew) (16), [Naveen Andrews](people/naveen-andrews) (15), [Rabi De](people/rabi-de) (15). Mailbox folders observed: c, inbox, var.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tanya-tamarchenko",
+    "name": "Tanya Tamarchenko",
+    "email": "tanya.tamarchenko@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

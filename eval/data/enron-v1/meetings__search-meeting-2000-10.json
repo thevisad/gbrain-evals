@@ -1,0 +1,27 @@
+{
+  "slug": "meetings/search-meeting-2000-10",
+  "type": "meeting",
+  "title": "Meeting: Search Meeting",
+  "compiled_truth": "Meeting: \"Search Meeting\". Occurred 2000-10-26 through 2000-10-26 with 3 related emails. Participants included: [Fiona Stewart](people/fiona-stewart), [Joe Gold](people/joe-gold), [John Sherriff](people/john-sherriff), [Kirsten Nelz](people/kirsten-nelz), [Lauren Urquhart](people/lauren-urquhart), [Michael Brown](people/michael-brown), [Richard Lewis](people/richard-lewis), [Sarah Knott](people/sarah-knott)....",
+  "timeline": "- **2000-10-26** | Meeting: search meeting\n- **2000-10-26** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/search-meeting-2000-10",
+    "attendees": [
+      "people/fiona-stewart",
+      "people/joe-gold",
+      "people/john-sherriff",
+      "people/kirsten-nelz",
+      "people/lauren-urquhart",
+      "people/michael-brown",
+      "people/richard-lewis",
+      "people/sarah-knott",
+      "people/sarah-white",
+      "people/shirley-crenshaw",
+      "people/steven-leppard",
+      "people/tani-nath",
+      "people/vince-kaminski"
+    ],
+    "date": "2000-10-26"
+  }
+}

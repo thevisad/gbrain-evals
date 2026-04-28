@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-fischer",
+  "type": "person",
+  "title": "Bill Fischer",
+  "compiled_truth": "Bill Fischer is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-26 to 2001-11-12), Bill Fischer sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-03-26** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-fischer",
+    "name": "Bill Fischer",
+    "email": "bill.fischer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

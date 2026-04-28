@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-besecker",
+  "type": "person",
+  "title": "Bob Besecker",
+  "compiled_truth": "Bob Besecker is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-18 to 2002-03-21), Bob Besecker sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-besecker",
+    "name": "Bob Besecker",
+    "email": "bob.besecker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

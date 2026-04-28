@@ -1,0 +1,26 @@
+{
+  "slug": "threads/test-2000-03",
+  "type": "meeting",
+  "title": "Thread: Test",
+  "compiled_truth": "Email thread: \"Test\". Ran from 2000-03-20 to 2000-04-11 with 19 messages. Participants: [Chris Germany](people/chris-germany), [Ctetrault](people/ctetrault-velaw), [Dana Davis](people/dana-davis), [Drew Fossum](people/drew-fossum), [Emimien](people/emimien-columbiaenergygroup), [George Wayne](people/george-wayne-fpl), [Jean Mcfarland](people/jean-mcfarland), [Piazzet](people/piazzet-wharton).",
+  "timeline": "- **2000-03-20** | Thread begins: test\n- **2000-04-11** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/test-2000-03",
+    "attendees": [
+      "people/chris-germany",
+      "people/ctetrault-velaw",
+      "people/dana-davis",
+      "people/drew-fossum",
+      "people/emimien-columbiaenergygroup",
+      "people/george-wayne-fpl",
+      "people/jean-mcfarland",
+      "people/piazzet-wharton",
+      "people/richard-sanders",
+      "people/shirley-crenshaw",
+      "people/vince-kaminski",
+      "people/ward-h-houworks"
+    ],
+    "date": "2000-03-20"
+  }
+}

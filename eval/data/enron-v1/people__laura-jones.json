@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-jones",
+  "type": "person",
+  "title": "Laura Jones",
+  "compiled_truth": "Laura Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-25 to 2001-10-17), Laura Jones sent 0 and received 85 emails, totalling 85 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-jones",
+    "name": "Laura Jones",
+    "email": "laura.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

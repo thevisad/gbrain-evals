@@ -1,0 +1,14 @@
+{
+  "slug": "people/joanne-rozycki",
+  "type": "person",
+  "title": "Joanne Rozycki",
+  "compiled_truth": "Joanne Rozycki is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-11 to 2002-02-19), Joanne Rozycki sent 68 and received 159 emails, totalling 227 interactions. Top correspondents: [Debra Perlingiere](people/debra-perlingiere) (26), [Gerald Nemec](people/gerald-nemec) (21), [Sara Shackleton](people/sara-shackleton) (18), [E  Dickson](people/e-dickson) (15), [T  Hodge](people/t-hodge) (15). Mailbox folders observed: _americas, calendar, cleburne_plant____cornhusker_, contacts, deleted_items, inbox.",
+  "timeline": "- **2001-07-11** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joanne-rozycki",
+    "name": "Joanne Rozycki",
+    "email": "joanne.rozycki@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

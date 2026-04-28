@@ -1,0 +1,14 @@
+{
+  "slug": "people/elisa-donovan",
+  "type": "person",
+  "title": "Elisa Donovan",
+  "compiled_truth": "Elisa Donovan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-03 to 2001-12-21), Elisa Donovan sent 1 and received 24 emails, totalling 25 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (1), [Sheri Thomas](people/sheri-thomas) (1), [Neil Bresnan](people/neil-bresnan) (1), [Karen Cordova](people/karen-cordova) (1).",
+  "timeline": "- **2000-10-03** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elisa-donovan",
+    "name": "Elisa Donovan",
+    "email": "elisa.donovan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

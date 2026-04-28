@@ -1,0 +1,14 @@
+{
+  "slug": "people/jimmy-manguba",
+  "type": "person",
+  "title": "Jimmy Manguba",
+  "compiled_truth": "Jimmy Manguba is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-03-21), Jimmy Manguba sent 3 and received 8 emails, totalling 11 interactions. Top correspondents: [Dana Davis](people/dana-davis) (2), [Chris Germany](people/chris-germany) (1). Mailbox folders observed: deleted_items, personal, systems.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jimmy-manguba",
+    "name": "Jimmy Manguba",
+    "email": "jimmy.manguba@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rflemin",
+  "type": "person",
+  "title": "Rflemin",
+  "compiled_truth": "Rflemin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-22 to 2001-11-07), Rflemin sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-03-22** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rflemin",
+    "name": "Rflemin",
+    "email": "rflemin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jarx-pge",
+  "type": "person",
+  "title": "Jarx",
+  "compiled_truth": "Jarx is an external contact at [PG&E](companies/pge). Over the corpus period (2000-11-13 to 2001-12-03), Jarx sent 4 and received 27 emails, totalling 31 interactions. Top correspondents: [Frank Ermis](people/frank-ermis) (2), [Matthew Lenhart](people/matthew-lenhart) (2).",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jarx-pge",
+    "name": "Jarx",
+    "email": "jarx@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/christopher-watts",
+  "type": "person",
+  "title": "Christopher Watts",
+  "compiled_truth": "Christopher Watts is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-31 to 2002-03-18), Christopher Watts sent 55 and received 223 emails, totalling 278 interactions. Top correspondents: [Don Baughman](people/don-baughman) (38), [Juan Hernandez](people/juan-hernandez) (37), [Benjamin Rogers](people/benjamin-rogers) (36), [John Kinser](people/john-kinser) (30), [Kayne Coulter](people/kayne-coulter) (28). Mailbox folders observed: 24_hr_power, enron_power, power.",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christopher-watts",
+    "name": "Christopher Watts",
+    "email": "christopher.watts@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

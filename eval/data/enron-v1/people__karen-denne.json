@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-denne",
+  "type": "person",
+  "title": "Karen Denne",
+  "compiled_truth": "Karen Denne is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-03 to 2002-01-17), Karen Denne sent 333 and received 2832 emails, totalling 3165 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (206), [Susan Mara](people/susan-mara) (104), [Richard Shapiro](people/richard-shapiro) (93), [Steven Kean](people/steven-kean) (89), [Mark Palmer](people/mark-palmer) (78). Mailbox folders observed: _americas, aadepartment, california, california_issues, compliments, deleted_items.",
+  "timeline": "- **1999-09-03** | First recorded email in corpus\n- **2002-01-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-denne",
+    "name": "Karen Denne",
+    "email": "karen.denne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-communications",
+  "type": "person",
+  "title": "David Communications",
+  "compiled_truth": "David Communications is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-13 to 2001-06-18), David Communications sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2001-06-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-communications",
+    "name": "David Communications",
+    "email": "david.communications@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jalexander-gibbs-bruns",
+  "type": "person",
+  "title": "Jalexander",
+  "compiled_truth": "Jalexander is an external contact at [Gibbs-bruns](companies/gibbs-bruns). Over the corpus period (2000-01-25 to 2001-09-10), Jalexander sent 3 and received 137 emails, totalling 140 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (3).",
+  "timeline": "- **2000-01-25** | First recorded email in corpus\n- **2001-09-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jalexander-gibbs-bruns",
+    "name": "Jalexander",
+    "email": "jalexander@gibbs-bruns.com",
+    "primary_affiliation": "companies/gibbs-bruns"
+  }
+}

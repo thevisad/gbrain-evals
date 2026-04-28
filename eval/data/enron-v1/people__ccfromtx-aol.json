@@ -1,0 +1,14 @@
+{
+  "slug": "people/ccfromtx-aol",
+  "type": "person",
+  "title": "Ccfromtx",
+  "compiled_truth": "Ccfromtx is an external contact at [AOL](companies/aol). Over the corpus period (2000-05-21 to 2000-07-26), Ccfromtx sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-07-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ccfromtx-aol",
+    "name": "Ccfromtx",
+    "email": "ccfromtx@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

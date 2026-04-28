@@ -1,0 +1,14 @@
+{
+  "slug": "people/sam-round",
+  "type": "person",
+  "title": "Sam Round",
+  "compiled_truth": "Sam Round is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-05-23), Sam Round sent 0 and received 95 emails, totalling 95 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sam-round",
+    "name": "Sam Round",
+    "email": "sam.round@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

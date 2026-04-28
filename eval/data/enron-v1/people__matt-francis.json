@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-francis",
+  "type": "person",
+  "title": "Matt Francis",
+  "compiled_truth": "Matt Francis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-13 to 2002-03-25), Matt Francis sent 1 and received 42 emails, totalling 43 interactions. Top correspondents: [Team Gallup-Sta5](people/team-gallup-sta5) (1), [Larry Campbell](people/larry-campbell) (1), [Team Gallup-Sta4](people/team-gallup-sta4) (1), [Team Gallup](people/team-gallup) (1), [Jonny Hendricks](people/jonny-hendricks) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-03-13** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-francis",
+    "name": "Matt Francis",
+    "email": "matt.francis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/t-kelley",
+  "type": "person",
+  "title": "T  Kelley",
+  "compiled_truth": "T  Kelley is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-07 to 2001-05-18), T  Kelley sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-05-07** | First recorded email in corpus\n- **2001-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/t-kelley",
+    "name": "T  Kelley",
+    "email": "t..kelley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

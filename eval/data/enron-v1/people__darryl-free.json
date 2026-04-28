@@ -1,0 +1,14 @@
+{
+  "slug": "people/darryl-free",
+  "type": "person",
+  "title": "Darryl Free",
+  "compiled_truth": "Darryl Free is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2000-11-03), Darryl Free sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darryl-free",
+    "name": "Darryl Free",
+    "email": "darryl.free@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

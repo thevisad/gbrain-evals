@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-barkley",
+  "type": "person",
+  "title": "Tom Barkley",
+  "compiled_truth": "Tom Barkley is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-05 to 2002-01-28), Tom Barkley sent 13 and received 85 emails, totalling 98 interactions. Top correspondents: [Zimin Lu](people/zimin-lu) (8), [Bob Lee](people/bob-lee) (6), [Vince Kaminski](people/vince-kaminski) (5), [J Kaminski](people/j-kaminski) (5), [Paulo Issler](people/paulo-issler) (4). Mailbox folders observed: deleted_items, inbox, market.",
+  "timeline": "- **2001-01-05** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-barkley",
+    "name": "Tom Barkley",
+    "email": "tom.barkley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

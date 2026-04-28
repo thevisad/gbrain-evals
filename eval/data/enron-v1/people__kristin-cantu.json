@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristin-cantu",
+  "type": "person",
+  "title": "Kristin Cantu",
+  "compiled_truth": "Kristin Cantu is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2001-11-26), Kristin Cantu sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristin-cantu",
+    "name": "Kristin Cantu",
+    "email": "kristin.cantu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

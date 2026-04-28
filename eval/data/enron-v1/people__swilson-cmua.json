@@ -1,0 +1,14 @@
+{
+  "slug": "people/swilson-cmua",
+  "type": "person",
+  "title": "Swilson",
+  "compiled_truth": "Swilson is an external contact at [Cmua](companies/cmua). Over the corpus period (2000-08-10 to 2001-12-21), Swilson sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/swilson-cmua",
+    "name": "Swilson",
+    "email": "swilson@cmua.org",
+    "primary_affiliation": "companies/cmua"
+  }
+}

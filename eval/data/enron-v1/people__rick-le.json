@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-le",
+  "type": "person",
+  "title": "Rick Le",
+  "compiled_truth": "Rick Le is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2002-02-13), Rick Le sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-le",
+    "name": "Rick Le",
+    "email": "rick.le@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

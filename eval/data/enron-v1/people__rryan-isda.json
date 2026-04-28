@@ -1,0 +1,14 @@
+{
+  "slug": "people/rryan-isda",
+  "type": "person",
+  "title": "Rryan",
+  "compiled_truth": "Rryan is an external contact at [Isda](companies/isda). Over the corpus period (1999-12-15 to 2001-06-04), Rryan sent 3 and received 45 emails, totalling 48 interactions. Top correspondents: [Mark E Haedicke](people/mark-e-haedicke) (2), [Scarey](people/scarey-isda) (2), [Rainslie](people/rainslie-isda) (2), [Martin Chavez](people/martin-chavez-kiodex) (1), [Lclemmons](people/lclemmons-elementre) (1).",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rryan-isda",
+    "name": "Rryan",
+    "email": "rryan@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

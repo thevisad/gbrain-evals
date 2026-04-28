@@ -1,0 +1,14 @@
+{
+  "slug": "people/rodney-malcolm",
+  "type": "person",
+  "title": "Rodney Malcolm",
+  "compiled_truth": "Rodney Malcolm is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2002-05-06), Rodney Malcolm sent 9 and received 270 emails, totalling 279 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (8), [Finley Biggerstaff](people/finley-biggerstaff) (7), [Tanya Rohauer](people/tanya-rohauer) (2), [Jim Fallon](people/jim-fallon) (1), [Raymond Bowen](people/raymond-bowen) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rodney-malcolm",
+    "name": "Rodney Malcolm",
+    "email": "rodney.malcolm@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

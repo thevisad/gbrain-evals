@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-dahnke",
+  "type": "person",
+  "title": "Steve Dahnke",
+  "compiled_truth": "Steve Dahnke is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-05-23), Steve Dahnke sent 1 and received 3 emails, totalling 4 interactions. Top correspondents: [Greg Whalley](people/greg-whalley) (1).",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-dahnke",
+    "name": "Steve Dahnke",
+    "email": "steve.dahnke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ted-evans",
+  "type": "person",
+  "title": "Ted Evans",
+  "compiled_truth": "Ted Evans is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-18 to 2001-12-03), Ted Evans sent 14 and received 111 emails, totalling 125 interactions. Top correspondents: [M  Tholt](people/m-tholt) (10), [Jason Wolfe](people/jason-wolfe) (4), [Daniel Lisk](people/daniel-lisk) (1), [Suzanne Christiansen](people/suzanne-christiansen) (1), [Craig Jeffers](people/craig-jeffers-us) (1). Mailbox folders observed: 06_saved, 09_saved, deleted_items, inbox.",
+  "timeline": "- **2000-10-18** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ted-evans",
+    "name": "Ted Evans",
+    "email": "ted.evans@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

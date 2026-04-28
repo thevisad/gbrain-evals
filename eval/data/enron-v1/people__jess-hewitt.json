@@ -1,0 +1,14 @@
+{
+  "slug": "people/jess-hewitt",
+  "type": "person",
+  "title": "Jess Hewitt",
+  "compiled_truth": "Jess Hewitt is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-14 to 2001-08-30), Jess Hewitt sent 6 and received 641 emails, totalling 647 interactions. Top correspondents: [Scott Neal](people/scott-neal) (4), [Don Black](people/don-black) (2), [James Lewis](people/james-lewis) (2), [Wade Stubblefield](people/wade-stubblefield) (1), [Neil Bresnan](people/neil-bresnan) (1). Mailbox folders observed: deleted_items, ees, inbox.",
+  "timeline": "- **2000-12-14** | First recorded email in corpus\n- **2001-08-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jess-hewitt",
+    "name": "Jess Hewitt",
+    "email": "jess.hewitt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-okeefe",
+  "type": "person",
+  "title": "Laura Okeefe",
+  "compiled_truth": "Laura Okeefe is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-04-04 to 2002-04-10), Laura Okeefe sent 1 and received 1 emails, totalling 2 interactions. Top correspondents: [Briant Baker](people/briant-baker) (1), [Georgia Blanchard](people/georgia-blanchard) (1), [Ragan Bond](people/ragan-bond) (1), [Richard Cain](people/richard-cain) (1), [Hugh Connett](people/hugh-connett) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2002-04-04** | First recorded email in corpus\n- **2002-04-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-okeefe",
+    "name": "Laura Okeefe",
+    "email": "laura.okeefe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

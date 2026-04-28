@@ -1,0 +1,14 @@
+{
+  "slug": "people/monica-edwards",
+  "type": "person",
+  "title": "Monica Edwards",
+  "compiled_truth": "Monica Edwards is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-14 to 2000-12-13), Monica Edwards sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [Richard Sanders](people/richard-sanders) (1), [Domingo Drakes](people/domingo-drakes) (1).",
+  "timeline": "- **2000-06-14** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/monica-edwards",
+    "name": "Monica Edwards",
+    "email": "monica.edwards@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

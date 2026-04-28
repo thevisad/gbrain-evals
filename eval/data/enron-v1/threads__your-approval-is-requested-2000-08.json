@@ -1,0 +1,23 @@
+{
+  "slug": "threads/your-approval-is-requested-2000-08",
+  "type": "meeting",
+  "title": "Thread: Your Approval Is Requested",
+  "compiled_truth": "Email thread: \"Your Approval Is Requested\". Ran from 2000-08-02 to 2000-08-24 with 20 messages. Participants: [David Forster](people/david-forster), [Information Management](people/information-management), [John Lavorato](people/john-lavorato), [Matt Smith](people/matt-smith), [Michael Eiben](people/michael-eiben), [Phillip Allen](people/phillip-allen), [Sally Beck](people/sally-beck), [Sheri Thomas](people/sheri-thomas).",
+  "timeline": "- **2000-08-02** | Thread begins: your approval is requested\n- **2000-08-24** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/your-approval-is-requested-2000-08",
+    "attendees": [
+      "people/david-forster",
+      "people/information-management",
+      "people/john-lavorato",
+      "people/matt-smith",
+      "people/michael-eiben",
+      "people/phillip-allen",
+      "people/sally-beck",
+      "people/sheri-thomas",
+      "people/stephanie-sever"
+    ],
+    "date": "2000-08-02"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kdorland-titanelectric",
+  "type": "person",
+  "title": "Kdorland",
+  "compiled_truth": "Kdorland is an external contact at [Titanelectric](companies/titanelectric). Over the corpus period (2000-02-08 to 2000-12-12), Kdorland sent 0 and received 82 emails, totalling 82 interactions.",
+  "timeline": "- **2000-02-08** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kdorland-titanelectric",
+    "name": "Kdorland",
+    "email": "kdorland@titanelectric.com",
+    "primary_affiliation": "companies/titanelectric"
+  }
+}

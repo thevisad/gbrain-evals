@@ -1,0 +1,14 @@
+{
+  "slug": "people/marty-mcfadden-ogden-energy",
+  "type": "person",
+  "title": "Marty Mcfadden",
+  "compiled_truth": "Marty Mcfadden is an external contact at [Ogden-energy](companies/ogden-energy). Over the corpus period (2000-08-31 to 2001-07-31), Marty Mcfadden sent 0 and received 224 emails, totalling 224 interactions.",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marty-mcfadden-ogden-energy",
+    "name": "Marty Mcfadden",
+    "email": "marty_mcfadden@ogden-energy.com",
+    "primary_affiliation": "companies/ogden-energy"
+  }
+}

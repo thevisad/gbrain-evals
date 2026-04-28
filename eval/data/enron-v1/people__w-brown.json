@@ -1,0 +1,14 @@
+{
+  "slug": "people/w-brown",
+  "type": "person",
+  "title": "W  Brown",
+  "compiled_truth": "W  Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-22 to 2002-05-06), W  Brown sent 2 and received 44 emails, totalling 46 interactions. Top correspondents: [Rick Buy](people/rick-buy) (2), [Gnorman](people/gnorman-duke-energy) (1), [S  Bradford](people/s-bradford) (1), [Raymond Bowen](people/raymond-bowen) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-22** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/w-brown",
+    "name": "W  Brown",
+    "email": "w..brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

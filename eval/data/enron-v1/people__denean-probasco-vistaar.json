@@ -1,0 +1,14 @@
+{
+  "slug": "people/denean-probasco-vistaar",
+  "type": "person",
+  "title": "Denean Probasco",
+  "compiled_truth": "Denean Probasco is an external contact at [Vistaar](companies/vistaar). Over the corpus period (2000-10-02 to 2000-12-05), Denean Probasco sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-10-02** | First recorded email in corpus\n- **2000-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/denean-probasco-vistaar",
+    "name": "Denean Probasco",
+    "email": "denean_probasco@vistaar.com",
+    "primary_affiliation": "companies/vistaar"
+  }
+}

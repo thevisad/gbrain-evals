@@ -1,0 +1,14 @@
+{
+  "slug": "people/s-bishop",
+  "type": "person",
+  "title": "S Bishop",
+  "compiled_truth": "S Bishop is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-16 to 2001-09-19), S Bishop sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-08-16** | First recorded email in corpus\n- **2001-09-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/s-bishop",
+    "name": "S Bishop",
+    "email": "s.bishop@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

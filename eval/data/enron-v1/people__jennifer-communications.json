@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-communications",
+  "type": "person",
+  "title": "Jennifer Communications",
+  "compiled_truth": "Jennifer Communications is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-13 to 2001-05-09), Jennifer Communications sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-communications",
+    "name": "Jennifer Communications",
+    "email": "jennifer.communications@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

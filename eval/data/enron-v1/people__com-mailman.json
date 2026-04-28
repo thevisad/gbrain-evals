@@ -1,0 +1,14 @@
+{
+  "slug": "people/com-mailman",
+  "type": "person",
+  "title": "Com",
+  "compiled_truth": "Com is an external contact at [Mailman](companies/mailman). Over the corpus period (2000-10-24 to 2001-11-07), Com sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-10-24** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/com-mailman",
+    "name": "Com",
+    "email": "com@mailman.enron.com",
+    "primary_affiliation": "companies/mailman"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/janette-oquendo",
+  "type": "person",
+  "title": "Janette Oquendo",
+  "compiled_truth": "Janette Oquendo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-03-30), Janette Oquendo sent 2 and received 5 emails, totalling 7 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-03-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janette-oquendo",
+    "name": "Janette Oquendo",
+    "email": "janette.oquendo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

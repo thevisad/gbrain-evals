@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-thorne",
+  "type": "person",
+  "title": "Mark Thorne",
+  "compiled_truth": "Mark Thorne is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2001-06-07), Mark Thorne sent 1 and received 215 emails, totalling 216 interactions. Top correspondents: [Judy Walters](people/judy-walters) (1), [Leslie Smith](people/leslie-smith) (1), [Angela Barnett](people/angela-barnett) (1), [Judy Hernandez](people/judy-hernandez) (1), [Regina Blackshear](people/regina-blackshear) (1).",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-thorne",
+    "name": "Mark Thorne",
+    "email": "mark.thorne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

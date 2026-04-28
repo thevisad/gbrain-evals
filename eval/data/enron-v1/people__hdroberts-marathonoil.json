@@ -1,0 +1,14 @@
+{
+  "slug": "people/hdroberts-marathonoil",
+  "type": "person",
+  "title": "Hdroberts",
+  "compiled_truth": "Hdroberts is an external contact at [Marathonoil](companies/marathonoil). Over the corpus period (2000-02-04 to 2001-09-04), Hdroberts sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2000-02-04** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hdroberts-marathonoil",
+    "name": "Hdroberts",
+    "email": "hdroberts@marathonoil.com",
+    "primary_affiliation": "companies/marathonoil"
+  }
+}

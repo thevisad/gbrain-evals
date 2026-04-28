@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebecca-preston-delta-air",
+  "type": "person",
+  "title": "Rebecca Preston",
+  "compiled_truth": "Rebecca Preston is an external contact at [Delta-air](companies/delta-air). Over the corpus period (2000-05-21 to 2000-11-25), Rebecca Preston sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebecca-preston-delta-air",
+    "name": "Rebecca Preston",
+    "email": "rebecca.preston@delta-air.com",
+    "primary_affiliation": "companies/delta-air"
+  }
+}

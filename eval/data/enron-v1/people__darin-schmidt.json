@@ -1,0 +1,14 @@
+{
+  "slug": "people/darin-schmidt",
+  "type": "person",
+  "title": "Darin Schmidt",
+  "compiled_truth": "Darin Schmidt is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-12 to 2001-12-28), Darin Schmidt sent 12 and received 42 emails, totalling 54 interactions. Top correspondents: [Chris Abel](people/chris-abel) (12), [Naveen Andrews](people/naveen-andrews) (12), [Dennis Benevides](people/dennis-benevides) (12), [Don Black](people/don-black) (12), [Neil Bresnan](people/neil-bresnan) (12).",
+  "timeline": "- **2000-12-12** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darin-schmidt",
+    "name": "Darin Schmidt",
+    "email": "darin.schmidt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

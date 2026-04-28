@@ -1,0 +1,14 @@
+{
+  "slug": "people/martin-sacchi",
+  "type": "person",
+  "title": "Martin Sacchi",
+  "compiled_truth": "Martin Sacchi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-16 to 2002-06-21), Martin Sacchi sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-02-16** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martin-sacchi",
+    "name": "Martin Sacchi",
+    "email": "martin.sacchi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

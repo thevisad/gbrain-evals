@@ -1,0 +1,14 @@
+{
+  "slug": "people/clayton-stafford",
+  "type": "person",
+  "title": "Clayton Stafford",
+  "compiled_truth": "Clayton Stafford is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-04 to 2001-11-06), Clayton Stafford sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clayton-stafford",
+    "name": "Clayton Stafford",
+    "email": "clayton.stafford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

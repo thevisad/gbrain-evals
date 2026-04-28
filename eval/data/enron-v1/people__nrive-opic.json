@@ -1,0 +1,14 @@
+{
+  "slug": "people/nrive-opic",
+  "type": "person",
+  "title": "Nrive",
+  "compiled_truth": "Nrive is an external contact at [Opic](companies/opic). Over the corpus period (2000-11-28 to 2001-02-16), Nrive sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-02-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nrive-opic",
+    "name": "Nrive",
+    "email": "nrive@opic.gov",
+    "primary_affiliation": "companies/opic"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-greco-uaecorp",
+  "type": "person",
+  "title": "Joe Greco",
+  "compiled_truth": "Joe Greco is an external contact at [Uaecorp](companies/uaecorp). Over the corpus period (2000-08-31 to 2001-01-23), Joe Greco sent 0 and received 113 emails, totalling 113 interactions.",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-greco-uaecorp",
+    "name": "Joe Greco",
+    "email": "joe.greco@uaecorp.com",
+    "primary_affiliation": "companies/uaecorp"
+  }
+}

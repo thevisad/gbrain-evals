@@ -1,0 +1,14 @@
+{
+  "slug": "people/rachael-king-elpaso",
+  "type": "person",
+  "title": "Rachael King",
+  "compiled_truth": "Rachael King is an external contact at [El Paso Energy](companies/el-paso). Over the corpus period (2001-05-11 to 2001-05-15), Rachael King sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-05-11** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rachael-king-elpaso",
+    "name": "Rachael King",
+    "email": "rachael.king@elpaso.com",
+    "primary_affiliation": "companies/el-paso"
+  }
+}

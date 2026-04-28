@@ -1,0 +1,14 @@
+{
+  "slug": "people/tomd-amerexenergy",
+  "type": "person",
+  "title": "Tomd",
+  "compiled_truth": "Tomd is an external contact at [Amerexenergy](companies/amerexenergy). Over the corpus period (2001-11-30 to 2002-02-06), Tomd sent 29 and received 2 emails, totalling 31 interactions. Top correspondents: [Jonathan Mckay](people/jonathan-mckay) (29), [Chance Rabon](people/chance-rabon) (17).",
+  "timeline": "- **2001-11-30** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tomd-amerexenergy",
+    "name": "Tomd",
+    "email": "tomd@amerexenergy.com",
+    "primary_affiliation": "companies/amerexenergy"
+  }
+}

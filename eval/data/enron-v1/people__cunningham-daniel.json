@@ -1,0 +1,14 @@
+{
+  "slug": "people/cunningham-daniel",
+  "type": "person",
+  "title": "Cunningham Daniel",
+  "compiled_truth": "Cunningham Daniel is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-09 to 2001-10-24), Cunningham Daniel sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-07-09** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cunningham-daniel",
+    "name": "Cunningham Daniel",
+    "email": "cunningham.daniel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

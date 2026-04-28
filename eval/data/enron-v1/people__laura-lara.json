@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-lara",
+  "type": "person",
+  "title": "Laura Lara",
+  "compiled_truth": "Laura Lara is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-01-27), Laura Lara sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-01-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-lara",
+    "name": "Laura Lara",
+    "email": "laura.lara@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

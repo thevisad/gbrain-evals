@@ -1,0 +1,14 @@
+{
+  "slug": "people/terry-west",
+  "type": "person",
+  "title": "Terry West",
+  "compiled_truth": "Terry West is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-14 to 2002-01-22), Terry West sent 10 and received 66 emails, totalling 76 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (7), [Stephen Wood](people/stephen-wood) (6), [Agatha Tran](people/agatha-tran) (6), [Kerry Roper](people/kerry-roper) (6), [Howard Selzer](people/howard-selzer) (6). Mailbox folders observed: _americas, cfp, inbox.",
+  "timeline": "- **2000-07-14** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terry-west",
+    "name": "Terry West",
+    "email": "terry.west@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

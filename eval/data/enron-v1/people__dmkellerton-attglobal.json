@@ -1,0 +1,14 @@
+{
+  "slug": "people/dmkellerton-attglobal",
+  "type": "person",
+  "title": "Dmkellerton",
+  "compiled_truth": "Dmkellerton is an external contact at [Attglobal](companies/attglobal). Over the corpus period (2000-09-05 to 2001-01-26), Dmkellerton sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus\n- **2001-01-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dmkellerton-attglobal",
+    "name": "Dmkellerton",
+    "email": "dmkellerton@attglobal.net",
+    "primary_affiliation": "companies/attglobal"
+  }
+}

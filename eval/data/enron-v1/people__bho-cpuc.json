@@ -1,0 +1,14 @@
+{
+  "slug": "people/bho-cpuc",
+  "type": "person",
+  "title": "Bho",
+  "compiled_truth": "Bho is an external contact at [Cpuc](companies/cpuc). Over the corpus period (2000-04-04 to 2000-12-13), Bho sent 0 and received 76 emails, totalling 76 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bho-cpuc",
+    "name": "Bho",
+    "email": "bho@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

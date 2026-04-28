@@ -1,0 +1,14 @@
+{
+  "slug": "people/welsh-waste",
+  "type": "person",
+  "title": "Welsh Waste",
+  "compiled_truth": "Welsh Waste is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-05-21), Welsh Waste sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2001-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/welsh-waste",
+    "name": "Welsh Waste",
+    "email": "welsh.waste@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

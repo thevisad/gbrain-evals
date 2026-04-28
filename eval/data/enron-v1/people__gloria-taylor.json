@@ -1,0 +1,14 @@
+{
+  "slug": "people/gloria-taylor",
+  "type": "person",
+  "title": "Gloria Taylor",
+  "compiled_truth": "Gloria Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-09-24), Gloria Taylor sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gloria-taylor",
+    "name": "Gloria Taylor",
+    "email": "gloria.taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

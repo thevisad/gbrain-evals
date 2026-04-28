@@ -1,0 +1,14 @@
+{
+  "slug": "people/brenda-garza-castillo",
+  "type": "person",
+  "title": "Brenda Garza-Castillo",
+  "compiled_truth": "Brenda Garza-Castillo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-25 to 2000-09-06), Brenda Garza-Castillo sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-04-25** | First recorded email in corpus\n- **2000-09-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brenda-garza-castillo",
+    "name": "Brenda Garza-Castillo",
+    "email": "brenda.garza-castillo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

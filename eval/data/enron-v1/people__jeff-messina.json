@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-messina",
+  "type": "person",
+  "title": "Jeff Messina",
+  "compiled_truth": "Jeff Messina is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-22 to 2001-10-26), Jeff Messina sent 0 and received 544 emails, totalling 544 interactions.",
+  "timeline": "- **1999-10-22** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-messina",
+    "name": "Jeff Messina",
+    "email": "jeff.messina@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

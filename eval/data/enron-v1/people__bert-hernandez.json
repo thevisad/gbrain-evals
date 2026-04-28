@@ -1,0 +1,14 @@
+{
+  "slug": "people/bert-hernandez",
+  "type": "person",
+  "title": "Bert Hernandez",
+  "compiled_truth": "Bert Hernandez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-27 to 2002-03-25), Bert Hernandez sent 15 and received 344 emails, totalling 359 interactions. Top correspondents: [Laura Giambrone](people/laura-giambrone) (10), [Christine Mcevoy](people/christine-mcevoy) (10), [Beverly Miller](people/beverly-miller) (10), [Tracy Minter](people/tracy-minter) (10), [Amy Mulligan](people/amy-mulligan) (10). Mailbox folders observed: deleted_items, inbox, tw_commercial_group.",
+  "timeline": "- **2001-06-27** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bert-hernandez",
+    "name": "Bert Hernandez",
+    "email": "bert.hernandez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

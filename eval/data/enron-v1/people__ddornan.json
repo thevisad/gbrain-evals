@@ -1,0 +1,14 @@
+{
+  "slug": "people/ddornan",
+  "type": "person",
+  "title": "Ddornan",
+  "compiled_truth": "Ddornan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-05-30), Ddornan sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ddornan",
+    "name": "Ddornan",
+    "email": "ddornan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/murray-hq3-em4-jim",
+  "type": "person",
+  "title": "Murray Hq3 Em4 Jim",
+  "compiled_truth": "Murray Hq3 Em4 Jim is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-17 to 2001-10-17), Murray Hq3 Em4 Jim sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/murray-hq3-em4-jim",
+    "name": "Murray Hq3 Em4 Jim",
+    "email": "murray.hq3.em4.jim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

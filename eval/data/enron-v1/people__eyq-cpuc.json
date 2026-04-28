@@ -1,0 +1,14 @@
+{
+  "slug": "people/eyq-cpuc",
+  "type": "person",
+  "title": "Eyq",
+  "compiled_truth": "Eyq is an external contact at [Cpuc](companies/cpuc). Over the corpus period (2000-04-04 to 2000-12-13), Eyq sent 0 and received 97 emails, totalling 97 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eyq-cpuc",
+    "name": "Eyq",
+    "email": "eyq@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

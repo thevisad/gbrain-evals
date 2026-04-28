@@ -1,0 +1,14 @@
+{
+  "slug": "people/connie-estrems",
+  "type": "person",
+  "title": "Connie Estrems",
+  "compiled_truth": "Connie Estrems is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-11 to 2001-10-26), Connie Estrems sent 1 and received 41 emails, totalling 42 interactions. Top correspondents: [Scott Neal](people/scott-neal) (1).",
+  "timeline": "- **2000-07-11** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/connie-estrems",
+    "name": "Connie Estrems",
+    "email": "connie.estrems@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

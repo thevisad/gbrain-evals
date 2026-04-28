@@ -1,0 +1,14 @@
+{
+  "slug": "people/more-insync",
+  "type": "person",
+  "title": "More",
+  "compiled_truth": "More is an external contact at [Insync](companies/insync). Over the corpus period (1999-12-17 to 2000-09-18), More sent 4 and received 6 emails, totalling 10 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (4).",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/more-insync",
+    "name": "More",
+    "email": "more@insync.net",
+    "primary_affiliation": "companies/insync"
+  }
+}

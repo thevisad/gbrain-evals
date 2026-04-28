@@ -1,0 +1,14 @@
+{
+  "slug": "people/allan-sommer",
+  "type": "person",
+  "title": "Allan Sommer",
+  "compiled_truth": "Allan Sommer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-20 to 2001-11-27), Allan Sommer sent 10 and received 191 emails, totalling 201 interactions. Top correspondents: [Sally Beck](people/sally-beck) (6), [Mark Pickering](people/mark-pickering) (4), [Groups Dl-Isc](people/groups-dl-isc) (3), [Greg Piper](people/greg-piper) (2), [Cindy Olson](people/cindy-olson) (2). Mailbox folders observed: deleted_items, dynegy_transaction, inbox.",
+  "timeline": "- **2000-04-20** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/allan-sommer",
+    "name": "Allan Sommer",
+    "email": "allan.sommer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

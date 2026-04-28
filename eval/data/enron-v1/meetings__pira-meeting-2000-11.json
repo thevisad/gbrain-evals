@@ -1,0 +1,42 @@
+{
+  "slug": "meetings/pira-meeting-2000-11",
+  "type": "meeting",
+  "title": "Meeting: Pira Meeting",
+  "compiled_truth": "Meeting: \"Pira Meeting\". Occurred 2000-11-22 through 2000-11-26 with 3 related emails. Participants included: [Bill Berkeland](people/bill-berkeland), [Charles Otto](people/charles-otto), [Craig Breslau](people/craig-breslau), [Frank Ermis](people/frank-ermis), [Fred Lagrasta](people/fred-lagrasta), [George Gilbert](people/george-gilbert), [Ina Rangel](people/ina-rangel), [Jane Tholt](people/jane-tholt)....",
+  "timeline": "- **2000-11-22** | Meeting: pira meeting\n- **2000-11-26** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/pira-meeting-2000-11",
+    "attendees": [
+      "people/bill-berkeland",
+      "people/charles-otto",
+      "people/craig-breslau",
+      "people/frank-ermis",
+      "people/fred-lagrasta",
+      "people/george-gilbert",
+      "people/ina-rangel",
+      "people/jane-tholt",
+      "people/jay-reitmeyer",
+      "people/jennifer-shipos",
+      "people/keith-holst",
+      "people/kenneth-shulklapper",
+      "people/lucy-ortiz",
+      "people/mark-smith",
+      "people/matthew-frank",
+      "people/matthew-lenhart",
+      "people/mike-grigsby",
+      "people/monique-sanchez",
+      "people/nelson-ferries",
+      "people/paul-lucci",
+      "people/phillip-allen",
+      "people/randall-gay",
+      "people/ross-prevatt",
+      "people/russell-dyk",
+      "people/steven-south",
+      "people/tori-kuykendall",
+      "people/troy-black",
+      "people/vikas-dwivedi"
+    ],
+    "date": "2000-11-22"
+  }
+}

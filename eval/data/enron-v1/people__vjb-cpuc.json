@@ -1,0 +1,14 @@
+{
+  "slug": "people/vjb-cpuc",
+  "type": "person",
+  "title": "Vjb",
+  "compiled_truth": "Vjb is an external contact at [Cpuc](companies/cpuc). Over the corpus period (2000-04-04 to 2001-03-20), Vjb sent 0 and received 107 emails, totalling 107 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2001-03-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vjb-cpuc",
+    "name": "Vjb",
+    "email": "vjb@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

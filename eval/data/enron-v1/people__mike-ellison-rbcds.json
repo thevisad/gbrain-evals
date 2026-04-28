@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-ellison-rbcds",
+  "type": "person",
+  "title": "Mike Ellison",
+  "compiled_truth": "Mike Ellison is an external contact at [Rbcds](companies/rbcds). Over the corpus period (2000-09-20 to 2000-09-25), Mike Ellison sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-09-20** | First recorded email in corpus\n- **2000-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-ellison-rbcds",
+    "name": "Mike Ellison",
+    "email": "mike.ellison@rbcds.com",
+    "primary_affiliation": "companies/rbcds"
+  }
+}

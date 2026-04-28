@@ -1,0 +1,14 @@
+{
+  "slug": "people/rene-hoorde",
+  "type": "person",
+  "title": "Rene Hoorde",
+  "compiled_truth": "Rene Hoorde is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2001-04-03), Rene Hoorde sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2001-04-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rene-hoorde",
+    "name": "Rene Hoorde",
+    "email": "rene.hoorde@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

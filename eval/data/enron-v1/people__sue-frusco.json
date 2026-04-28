@@ -1,0 +1,14 @@
+{
+  "slug": "people/sue-frusco",
+  "type": "person",
+  "title": "Sue Frusco",
+  "compiled_truth": "Sue Frusco is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-05 to 2000-11-06), Sue Frusco sent 5 and received 12 emails, totalling 17 interactions. Top correspondents: [Jana Morse](people/jana-morse) (3), [Juana Fayett](people/juana-fayett) (3), [Allan Ford](people/allan-ford) (2), [Paul Smith](people/paul-smith) (2), [Michael Guerriero](people/michael-guerriero) (2).",
+  "timeline": "- **1999-08-05** | First recorded email in corpus\n- **2000-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sue-frusco",
+    "name": "Sue Frusco",
+    "email": "sue.frusco@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kimberly-hardy",
+  "type": "person",
+  "title": "Kimberly Hardy",
+  "compiled_truth": "Kimberly Hardy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-20 to 2001-11-29), Kimberly Hardy sent 1 and received 16 emails, totalling 17 interactions. Top correspondents: [Barry Tycholiz](people/barry-tycholiz) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-11-20** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kimberly-hardy",
+    "name": "Kimberly Hardy",
+    "email": "kimberly.hardy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

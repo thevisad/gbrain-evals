@@ -1,0 +1,14 @@
+{
+  "slug": "people/kunreuth-wharton",
+  "type": "person",
+  "title": "Kunreuth",
+  "compiled_truth": "Kunreuth is an external contact at [Wharton](companies/wharton). Over the corpus period (2000-10-13 to 2001-06-07), Kunreuth sent 3 and received 14 emails, totalling 17 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (2), [Kamins](people/kamins) (1), [Leindorfer](people/leindorfer-wharton) (1), [Convery](people/convery-wharton) (1), [Angf](people/angf-wharton) (1).",
+  "timeline": "- **2000-10-13** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kunreuth-wharton",
+    "name": "Kunreuth",
+    "email": "kunreuth@wharton.upenn.edu",
+    "primary_affiliation": "companies/wharton"
+  }
+}

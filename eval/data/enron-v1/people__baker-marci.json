@@ -1,0 +1,14 @@
+{
+  "slug": "people/baker-marci",
+  "type": "person",
+  "title": "Baker Marci",
+  "compiled_truth": "Baker Marci is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-30 to 2002-01-30), Baker Marci sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-30** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/baker-marci",
+    "name": "Baker Marci",
+    "email": "baker.marci@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

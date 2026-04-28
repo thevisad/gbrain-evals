@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-wadlington",
+  "type": "person",
+  "title": "Mark Wadlington",
+  "compiled_truth": "Mark Wadlington is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-06 to 2001-12-06), Mark Wadlington sent 4 and received 16 emails, totalling 20 interactions. Top correspondents: [Mitch Taylor](people/mitch-taylor) (2), [Jeff Donahue](people/jeff-donahue) (2), [Greg Whalley](people/greg-whalley) (2), [Rick Buy](people/rick-buy) (1), [Jeff Golden](people/jeff-golden) (1). Mailbox folders observed: inbox, projects.",
+  "timeline": "- **2000-10-06** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-wadlington",
+    "name": "Mark Wadlington",
+    "email": "mark.wadlington@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

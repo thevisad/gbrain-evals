@@ -1,0 +1,14 @@
+{
+  "slug": "people/marie-moretti-msn",
+  "type": "person",
+  "title": "Marie Moretti",
+  "compiled_truth": "Marie Moretti is an external contact at [MSN](companies/msn). Over the corpus period (2000-11-21 to 2001-04-09), Marie Moretti sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-11-21** | First recorded email in corpus\n- **2001-04-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marie-moretti-msn",
+    "name": "Marie Moretti",
+    "email": "marie_moretti@msn.com",
+    "primary_affiliation": "companies/msn"
+  }
+}

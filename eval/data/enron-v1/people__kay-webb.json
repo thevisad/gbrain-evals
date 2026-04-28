@@ -1,0 +1,14 @@
+{
+  "slug": "people/kay-webb",
+  "type": "person",
+  "title": "Kay Webb",
+  "compiled_truth": "Kay Webb is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-05-21), Kay Webb sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kay-webb",
+    "name": "Kay Webb",
+    "email": "kay.webb@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

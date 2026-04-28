@@ -1,0 +1,14 @@
+{
+  "slug": "people/neel-broker",
+  "type": "person",
+  "title": "Neel Broker",
+  "compiled_truth": "Neel Broker is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-07-19), Neel Broker sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/neel-broker",
+    "name": "Neel Broker",
+    "email": "neel.broker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

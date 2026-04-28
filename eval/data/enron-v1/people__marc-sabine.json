@@ -1,0 +1,14 @@
+{
+  "slug": "people/marc-sabine",
+  "type": "person",
+  "title": "Marc Sabine",
+  "compiled_truth": "Marc Sabine is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-02 to 2001-07-30), Marc Sabine sent 1 and received 43 emails, totalling 44 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-06-02** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marc-sabine",
+    "name": "Marc Sabine",
+    "email": "marc.sabine@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

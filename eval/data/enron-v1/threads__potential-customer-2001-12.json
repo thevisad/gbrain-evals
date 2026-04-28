@@ -1,0 +1,33 @@
+{
+  "slug": "threads/potential-customer-2001-12",
+  "type": "meeting",
+  "title": "Thread: Potential Customer",
+  "compiled_truth": "Email thread: \"Potential Customer\". Ran from 2001-12-12 to 2001-12-26 with 7 messages. Participants: [Cara Vaughan](people/cara-vaughan), [Chris Greaney](people/chris-greaney), [Dari Dornan](people/dari-dornan), [Debra Scurlock](people/debra-scurlock), [G  Stage](people/g-stage), [Harry Woodson](people/harry-woodson), [Janet Mcdaniel](people/janet-mcdaniel), [Jean Adams](people/jean-adams).",
+  "timeline": "- **2001-12-12** | Thread begins: potential customer\n- **2001-12-26** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/potential-customer-2001-12",
+    "attendees": [
+      "people/cara-vaughan",
+      "people/chris-greaney",
+      "people/dari-dornan",
+      "people/debra-scurlock",
+      "people/g-stage",
+      "people/harry-woodson",
+      "people/janet-mcdaniel",
+      "people/jean-adams",
+      "people/jo-williams",
+      "people/joe-linhart",
+      "people/john-buchanan",
+      "people/kathy-sturr",
+      "people/lynn-blair",
+      "people/raetta-zadow",
+      "people/randy-janzen",
+      "people/robert-benningfield",
+      "people/scott-hibbard",
+      "people/sherry-forbish",
+      "people/vernon-mercaldo"
+    ],
+    "date": "2001-12-12"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jay-johnson",
+  "type": "person",
+  "title": "Jay Johnson",
+  "compiled_truth": "Jay Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-15 to 2001-11-27), Jay Johnson sent 3 and received 23 emails, totalling 26 interactions. Top correspondents: [Monika Causholli](people/monika-causholli) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-06-15** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jay-johnson",
+    "name": "Jay Johnson",
+    "email": "jay.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

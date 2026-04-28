@@ -1,0 +1,14 @@
+{
+  "slug": "people/hoffman-blackstone",
+  "type": "person",
+  "title": "Hoffman",
+  "compiled_truth": "Hoffman is an external contact at [Blackstone](companies/blackstone). Over the corpus period (2001-05-11 to 2001-05-21), Hoffman sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2001-05-11** | First recorded email in corpus\n- **2001-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hoffman-blackstone",
+    "name": "Hoffman",
+    "email": "hoffman@blackstone.com",
+    "primary_affiliation": "companies/blackstone"
+  }
+}

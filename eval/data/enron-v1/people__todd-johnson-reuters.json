@@ -1,0 +1,14 @@
+{
+  "slug": "people/todd-johnson-reuters",
+  "type": "person",
+  "title": "Todd Johnson",
+  "compiled_truth": "Todd Johnson is an external contact at [Reuters](companies/reuters). Over the corpus period (2000-05-18 to 2000-09-18), Todd Johnson sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/todd-johnson-reuters",
+    "name": "Todd Johnson",
+    "email": "todd.johnson@reuters.com",
+    "primary_affiliation": "companies/reuters"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "threads/centana-2002-02",
+  "type": "meeting",
+  "title": "Thread: Centana",
+  "compiled_truth": "Email thread: \"Centana\". Ran from 2002-02-01 to 2002-03-04 with 31 messages. Participants: [Charles Weldon](people/charles-weldon), [Chip Schneider](people/chip-schneider), [Chris Meyer](people/chris-meyer), [Ed Mcmichael](people/ed-mcmichael), [Gerald Nemec](people/gerald-nemec), [Joe Parks](people/joe-parks), [Jonathan Hoff](people/jonathan-hoff), [Phil Polsky](people/phil-polsky).",
+  "timeline": "- **2002-02-01** | Thread begins: centana\n- **2002-03-04** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/centana-2002-02",
+    "attendees": [
+      "people/charles-weldon",
+      "people/chip-schneider",
+      "people/chris-meyer",
+      "people/ed-mcmichael",
+      "people/gerald-nemec",
+      "people/joe-parks",
+      "people/jonathan-hoff",
+      "people/phil-polsky",
+      "people/stuart-zisman"
+    ],
+    "date": "2002-02-01"
+  }
+}

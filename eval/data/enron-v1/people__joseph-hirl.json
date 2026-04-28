@@ -1,0 +1,14 @@
+{
+  "slug": "people/joseph-hirl",
+  "type": "person",
+  "title": "Joseph Hirl",
+  "compiled_truth": "Joseph Hirl is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2002-01-14), Joseph Hirl sent 41 and received 420 emails, totalling 461 interactions. Top correspondents: [A  Shankman](people/a-shankman) (28), [Mike McConnell](people/mike-mcconnell) (23), [Jeffrey Shankman](people/jeffrey-shankman) (3), [Susan Musch](people/susan-musch) (2), [John Sherriff](people/john-sherriff) (2). Mailbox folders observed: deleted_items, inbox, projects.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joseph-hirl",
+    "name": "Joseph Hirl",
+    "email": "joseph.hirl@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gvos-ato",
+  "type": "person",
+  "title": "Gvos",
+  "compiled_truth": "Gvos is an external contact at [Ato](companies/ato). Over the corpus period (2001-03-12 to 2001-04-30), Gvos sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gvos-ato",
+    "name": "Gvos",
+    "email": "gvos@ato.com",
+    "primary_affiliation": "companies/ato"
+  }
+}

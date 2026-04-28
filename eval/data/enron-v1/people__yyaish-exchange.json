@@ -1,0 +1,14 @@
+{
+  "slug": "people/yyaish-exchange",
+  "type": "person",
+  "title": "Yyaish",
+  "compiled_truth": "Yyaish is an external contact at [Exchange](companies/exchange). Over the corpus period (1999-12-29 to 2001-05-21), Yyaish sent 11 and received 41 emails, totalling 52 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (11), [Teiglandl](people/teiglandl-sullcrom) (2), [Janice R Moore](people/janice-r-moore) (2), [Lpeddic](people/lpeddic-alleghenyenergy) (2), [Gilbergd](people/gilbergd-sullcrom) (2).",
+  "timeline": "- **1999-12-29** | First recorded email in corpus\n- **2001-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yyaish-exchange",
+    "name": "Yyaish",
+    "email": "yyaish@exchange.ml.com",
+    "primary_affiliation": "companies/exchange"
+  }
+}

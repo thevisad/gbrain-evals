@@ -1,0 +1,14 @@
+{
+  "slug": "people/hopkins-kathy",
+  "type": "person",
+  "title": "Hopkins Kathy",
+  "compiled_truth": "Hopkins Kathy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-18 to 2001-12-10), Hopkins Kathy sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hopkins-kathy",
+    "name": "Hopkins Kathy",
+    "email": "hopkins.kathy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

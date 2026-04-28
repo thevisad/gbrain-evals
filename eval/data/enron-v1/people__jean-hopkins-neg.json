@@ -1,0 +1,14 @@
+{
+  "slug": "people/jean-hopkins-neg",
+  "type": "person",
+  "title": "Jean Hopkins",
+  "compiled_truth": "Jean Hopkins is an external contact at [Neg](companies/neg). Over the corpus period (2001-07-26 to 2001-07-26), Jean Hopkins sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jean-hopkins-neg",
+    "name": "Jean Hopkins",
+    "email": "jean.hopkins@neg.pge.com",
+    "primary_affiliation": "companies/neg"
+  }
+}

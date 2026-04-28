@@ -1,0 +1,14 @@
+{
+  "slug": "people/usha-kumar",
+  "type": "person",
+  "title": "Usha Kumar",
+  "compiled_truth": "Usha Kumar is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-26 to 2001-11-28), Usha Kumar sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-11-26** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/usha-kumar",
+    "name": "Usha Kumar",
+    "email": "usha.kumar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cfa",
+  "type": "person",
+  "title": " Cfa",
+  "compiled_truth": "Cfa is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-05 to 2002-01-17),  Cfa sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2002-01-05** | First recorded email in corpus\n- **2002-01-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cfa",
+    "name": " Cfa",
+    "email": ".cfa@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

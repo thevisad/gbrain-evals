@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-morris",
+  "type": "person",
+  "title": "Richard Morris",
+  "compiled_truth": "Richard Morris is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-18 to 2001-12-27), Richard Morris sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-morris",
+    "name": "Richard Morris",
+    "email": "richard.morris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

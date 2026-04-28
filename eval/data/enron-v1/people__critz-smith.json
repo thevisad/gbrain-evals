@@ -1,0 +1,14 @@
+{
+  "slug": "people/critz-smith",
+  "type": "person",
+  "title": "Critz Smith",
+  "compiled_truth": "Critz Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-05 to 2002-06-24), Critz Smith sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-11-05** | First recorded email in corpus\n- **2002-06-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/critz-smith",
+    "name": "Critz Smith",
+    "email": "critz.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

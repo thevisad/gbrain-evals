@@ -1,0 +1,14 @@
+{
+  "slug": "people/flaberge-nrcan",
+  "type": "person",
+  "title": "Flaberge",
+  "compiled_truth": "Flaberge is an external contact at [Nrcan](companies/nrcan). Over the corpus period (2001-07-25 to 2001-07-25), Flaberge sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/flaberge-nrcan",
+    "name": "Flaberge",
+    "email": "flaberge@nrcan.ge.ca",
+    "primary_affiliation": "companies/nrcan"
+  }
+}

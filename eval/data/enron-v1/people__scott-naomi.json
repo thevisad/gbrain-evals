@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-naomi",
+  "type": "person",
+  "title": "Scott Naomi",
+  "compiled_truth": "Scott Naomi is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-08 to 2002-03-14), Scott Naomi sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-naomi",
+    "name": "Scott Naomi",
+    "email": "scott.naomi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

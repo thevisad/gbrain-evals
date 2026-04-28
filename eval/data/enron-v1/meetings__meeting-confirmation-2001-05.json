@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/meeting-confirmation-2001-05",
+  "type": "meeting",
+  "title": "Meeting: Meeting Confirmation",
+  "compiled_truth": "Meeting: \"Meeting Confirmation\". Occurred 2001-05-25 with 1 related emails. Participants included: [Cathy Phillips](people/cathy-phillips), [David Hoog](people/david-hoog), [Donna Baker](people/donna-baker), [Greg Whalley](people/greg-whalley), [Jeffrey Shankman](people/jeffrey-shankman), [Jennifer Burns](people/jennifer-burns), [Liz Taylor](people/liz-taylor), [Per Sekse](people/per-sekse)....",
+  "timeline": "- **2001-05-25** | Meeting: meeting confirmation",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-confirmation-2001-05",
+    "attendees": [
+      "people/cathy-phillips",
+      "people/david-hoog",
+      "people/donna-baker",
+      "people/greg-whalley",
+      "people/jeffrey-shankman",
+      "people/jennifer-burns",
+      "people/liz-taylor",
+      "people/per-sekse",
+      "people/shirley-crenshaw",
+      "people/vince-kaminski"
+    ],
+    "date": "2001-05-25"
+  }
+}

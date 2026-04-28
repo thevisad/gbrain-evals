@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-decker",
+  "type": "person",
+  "title": "Larry Decker",
+  "compiled_truth": "Larry Decker is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-24 to 2002-01-11), Larry Decker sent 3 and received 194 emails, totalling 197 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (2), [Chris Long](people/chris-long) (2), [Ginger Dernehl](people/ginger-dernehl) (2), [Steven Kean](people/steven-kean) (1), [Maureen Mcvicker](people/maureen-mcvicker) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-04-24** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-decker",
+    "name": "Larry Decker",
+    "email": "larry.decker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

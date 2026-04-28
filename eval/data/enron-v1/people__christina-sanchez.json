@@ -1,0 +1,14 @@
+{
+  "slug": "people/christina-sanchez",
+  "type": "person",
+  "title": "Christina Sanchez",
+  "compiled_truth": "Christina Sanchez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-29 to 2002-04-08), Christina Sanchez sent 5 and received 244 emails, totalling 249 interactions. Top correspondents: [Chris Germany](people/chris-germany) (3), [Andrea Ring](people/andrea-ring) (2), [Ed Mcmichael](people/ed-mcmichael) (1), [Ruth Concannon](people/ruth-concannon) (1), [Joe Parks](people/joe-parks) (1). Mailbox folders observed: bankrupt, deleted_items, memos.",
+  "timeline": "- **2000-02-29** | First recorded email in corpus\n- **2002-04-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christina-sanchez",
+    "name": "Christina Sanchez",
+    "email": "christina.sanchez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cynthia-gin",
+  "type": "person",
+  "title": "Cynthia Gin",
+  "compiled_truth": "Cynthia Gin is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2000-10-30), Cynthia Gin sent 0 and received 55 emails, totalling 55 interactions.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2000-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cynthia-gin",
+    "name": "Cynthia Gin",
+    "email": "cynthia.gin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

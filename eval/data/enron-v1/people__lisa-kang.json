@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-kang",
+  "type": "person",
+  "title": "Lisa Kang",
+  "compiled_truth": "Lisa Kang is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-31 to 2001-11-15), Lisa Kang sent 3 and received 82 emails, totalling 85 interactions. Top correspondents: [Dana Davis](people/dana-davis) (3), [Rufino Doroteo](people/rufino-doroteo) (1). Mailbox folders observed: inbox, personal.",
+  "timeline": "- **2001-01-31** | First recorded email in corpus\n- **2001-11-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-kang",
+    "name": "Lisa Kang",
+    "email": "lisa.kang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

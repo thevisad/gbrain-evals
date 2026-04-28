@@ -1,0 +1,14 @@
+{
+  "slug": "people/becky-caudle",
+  "type": "person",
+  "title": "Becky Caudle",
+  "compiled_truth": "Becky Caudle is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2001-11-21), Becky Caudle sent 3 and received 81 emails, totalling 84 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (3), [Kevin Jolly](people/kevin-jolly) (3), [Chip Schneider](people/chip-schneider) (2), [David Duran](people/david-duran) (2), [Mark Frevert](people/mark-frevert) (2). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/becky-caudle",
+    "name": "Becky Caudle",
+    "email": "becky.caudle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

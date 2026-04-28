@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-shelton",
+  "type": "person",
+  "title": "Tom Shelton",
+  "compiled_truth": "Tom Shelton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-10 to 2001-06-01), Tom Shelton sent 12 and received 88 emails, totalling 100 interactions. Top correspondents: [Steve Schneider](people/steve-schneider) (10), [Gerald Nemec](people/gerald-nemec) (7), [David Johnson](people/david-johnson) (6), [Barbara Gray](people/barbara-gray) (5), [Steve Hooser](people/steve-hooser) (5).",
+  "timeline": "- **1999-05-10** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-shelton",
+    "name": "Tom Shelton",
+    "email": "tom.shelton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

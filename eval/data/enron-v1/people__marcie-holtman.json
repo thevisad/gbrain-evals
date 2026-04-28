@@ -1,0 +1,14 @@
+{
+  "slug": "people/marcie-holtman",
+  "type": "person",
+  "title": "Marcie Holtman",
+  "compiled_truth": "Marcie Holtman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-24 to 2002-06-21), Marcie Holtman sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-04-24** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marcie-holtman",
+    "name": "Marcie Holtman",
+    "email": "marcie.holtman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/fool-motleyfool",
+  "type": "person",
+  "title": "Fool",
+  "compiled_truth": "Fool is an external contact at [Motleyfool](companies/motleyfool). Over the corpus period (2000-10-09 to 2001-11-27), Fool sent 214 and received 0 emails, totalling 214 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (177), [Rshapiro](people/rshapiro) (21), [Alewis](people/alewis) (14), [Richard Shapiro](people/richard-shapiro) (2).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fool-motleyfool",
+    "name": "Fool",
+    "email": "fool@motleyfool.com",
+    "primary_affiliation": "companies/motleyfool"
+  }
+}

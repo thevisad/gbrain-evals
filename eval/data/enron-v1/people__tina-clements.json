@@ -1,0 +1,14 @@
+{
+  "slug": "people/tina-clements",
+  "type": "person",
+  "title": "Tina Clements",
+  "compiled_truth": "Tina Clements is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-25 to 2001-11-25), Tina Clements sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2001-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tina-clements",
+    "name": "Tina Clements",
+    "email": "tina.clements@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

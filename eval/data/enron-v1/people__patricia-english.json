@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-english",
+  "type": "person",
+  "title": "Patricia English",
+  "compiled_truth": "Patricia English is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-29 to 2001-11-09), Patricia English sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-09-29** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-english",
+    "name": "Patricia English",
+    "email": "patricia.english@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-jackson",
+  "type": "person",
+  "title": "Jeffrey Jackson",
+  "compiled_truth": "Jeffrey Jackson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-07 to 2002-04-03), Jeffrey Jackson sent 3 and received 78 emails, totalling 81 interactions. Top correspondents: [Kristin Albrecht](people/kristin-albrecht) (2), [John Allison](people/john-allison) (2), [Tim Belden](people/tim-belden) (2), [Don Black](people/don-black) (2), [J  Butler](people/j-butler) (2). Mailbox folders observed: chris_stokley, deleted_items.",
+  "timeline": "- **2001-05-07** | First recorded email in corpus\n- **2002-04-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-jackson",
+    "name": "Jeffrey Jackson",
+    "email": "jeffrey.jackson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

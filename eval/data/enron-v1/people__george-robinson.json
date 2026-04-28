@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-robinson",
+  "type": "person",
+  "title": "George Robinson",
+  "compiled_truth": "George Robinson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-04 to 2001-11-30), George Robinson sent 44 and received 33 emails, totalling 77 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (44), [William Kendrick](people/william-kendrick) (19), [Louis Soldano](people/louis-soldano) (14), [Cutty Cunningham](people/cutty-cunningham) (11), [Richard Johnson](people/richard-johnson) (6). Mailbox folders observed: c_s_no__6_remediation, g__robinson.",
+  "timeline": "- **1999-04-04** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-robinson",
+    "name": "George Robinson",
+    "email": "george.robinson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

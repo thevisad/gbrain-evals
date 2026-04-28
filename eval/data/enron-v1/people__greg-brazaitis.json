@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-brazaitis",
+  "type": "person",
+  "title": "Greg Brazaitis",
+  "compiled_truth": "Greg Brazaitis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-20 to 2001-11-19), Greg Brazaitis sent 22 and received 209 emails, totalling 231 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (21), [Eric Gillaspie](people/eric-gillaspie) (8), [Steve Schneider](people/steve-schneider) (6), [Nick Cocavessis](people/nick-cocavessis) (4), [Edward Gottlob](people/edward-gottlob) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-07-20** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-brazaitis",
+    "name": "Greg Brazaitis",
+    "email": "greg.brazaitis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

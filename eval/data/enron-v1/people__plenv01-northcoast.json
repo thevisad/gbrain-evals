@@ -1,0 +1,14 @@
+{
+  "slug": "people/plenv01-northcoast",
+  "type": "person",
+  "title": "Plenv01",
+  "compiled_truth": "Plenv01 is an external contact at [Northcoast](companies/northcoast). Over the corpus period (2000-09-01 to 2001-01-23), Plenv01 sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/plenv01-northcoast",
+    "name": "Plenv01",
+    "email": "plenv01@northcoast.com",
+    "primary_affiliation": "companies/northcoast"
+  }
+}

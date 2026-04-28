@@ -1,0 +1,14 @@
+{
+  "slug": "people/jerian-haas",
+  "type": "person",
+  "title": "Jerian",
+  "compiled_truth": "Jerian is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2000-12-06), Jerian sent 1 and received 39 emails, totalling 40 interactions. Top correspondents: [Berk](people/berk-haas) (1), [Abilla](people/abilla-haas) (1), [Asbo](people/asbo-haas) (1), [Bansal](people/bansal-haas) (1), [Sboyle](people/sboyle-haas) (1).",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jerian-haas",
+    "name": "Jerian",
+    "email": "jerian@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

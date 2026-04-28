@@ -1,0 +1,14 @@
+{
+  "slug": "people/lorraine-telles",
+  "type": "person",
+  "title": "Lorraine Telles",
+  "compiled_truth": "Lorraine Telles is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-07 to 2001-11-03), Lorraine Telles sent 1 and received 7 emails, totalling 8 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-09-07** | First recorded email in corpus\n- **2001-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lorraine-telles",
+    "name": "Lorraine Telles",
+    "email": "lorraine.telles@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

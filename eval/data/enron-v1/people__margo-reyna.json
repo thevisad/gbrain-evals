@@ -1,0 +1,14 @@
+{
+  "slug": "people/margo-reyna",
+  "type": "person",
+  "title": "Margo Reyna",
+  "compiled_truth": "Margo Reyna is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-10 to 2002-01-11), Margo Reyna sent 42 and received 320 emails, totalling 362 interactions. Top correspondents: [Sue Nord](people/sue-nord) (31), [Jeff Dasovich](people/jeff-dasovich) (31), [Marchris Robinson](people/marchris-robinson) (30), [Scott Bolton](people/scott-bolton) (28), [Susan Landwehr](people/susan-landwehr) (28). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-01-10** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margo-reyna",
+    "name": "Margo Reyna",
+    "email": "margo.reyna@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

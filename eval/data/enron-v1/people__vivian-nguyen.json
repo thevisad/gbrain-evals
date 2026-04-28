@@ -1,0 +1,14 @@
+{
+  "slug": "people/vivian-nguyen",
+  "type": "person",
+  "title": "Vivian Nguyen",
+  "compiled_truth": "Vivian Nguyen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-11 to 2001-11-12), Vivian Nguyen sent 6 and received 7 emails, totalling 13 interactions. Top correspondents: [Deb Korkmas](people/deb-korkmas) (3), [Mark Haedicke](people/mark-haedicke) (2), [E  Haedicke](people/e-haedicke) (2), [Richard Sanders](people/richard-sanders) (1), [Claudia Meraz](people/claudia-meraz) (1). Mailbox folders observed: budget.",
+  "timeline": "- **2000-12-11** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vivian-nguyen",
+    "name": "Vivian Nguyen",
+    "email": "vivian.nguyen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

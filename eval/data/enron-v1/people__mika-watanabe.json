@@ -1,0 +1,14 @@
+{
+  "slug": "people/mika-watanabe",
+  "type": "person",
+  "title": "Mika Watanabe",
+  "compiled_truth": "Mika Watanabe is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-31 to 2002-01-11), Mika Watanabe sent 7 and received 112 emails, totalling 119 interactions. Top correspondents: [Steven Kean](people/steven-kean) (6), [Jackie Gentle](people/jackie-gentle) (4), [Nicholas O'Day](people/nicholas-o-day) (4), [Eva Hoeffelman](people/eva-hoeffelman) (4), [Vance Meyer](people/vance-meyer) (4).",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mika-watanabe",
+    "name": "Mika Watanabe",
+    "email": "mika.watanabe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

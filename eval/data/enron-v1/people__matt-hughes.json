@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-hughes",
+  "type": "person",
+  "title": "Matt Hughes",
+  "compiled_truth": "Matt Hughes is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-02 to 2002-01-24), Matt Hughes sent 3 and received 34 emails, totalling 37 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (3), [Eott](people/eott-eott) (2), [Matt Hughes](people/matt-hughes) (2), [Edward Attanasio](people/edward-attanasio) (1), [Rich Jolly](people/rich-jolly) (1).",
+  "timeline": "- **2001-01-02** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-hughes",
+    "name": "Matt Hughes",
+    "email": "matt.hughes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

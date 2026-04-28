@@ -1,0 +1,14 @@
+{
+  "slug": "people/jerry-seade",
+  "type": "person",
+  "title": "Jerry Seade",
+  "compiled_truth": "Jerry Seade is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-29 to 2001-11-27), Jerry Seade sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-11-29** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jerry-seade",
+    "name": "Jerry Seade",
+    "email": "jerry.seade@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

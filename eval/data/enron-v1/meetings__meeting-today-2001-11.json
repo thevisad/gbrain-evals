@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/meeting-today-2001-11",
+  "type": "meeting",
+  "title": "Meeting: Meeting Today",
+  "compiled_truth": "Meeting: \"Meeting Today\". Occurred 2001-11-26 with 2 related emails. Participants included: [Bryant Frihart](people/bryant-frihart), [C  Giron](people/c-giron), [E Murrell](people/e-murrell), [Gregg Penman](people/gregg-penman), [L  Mims](people/l-mims), [Laura Luce](people/laura-luce), [Lindsay Culotta](people/lindsay-culotta), [Patrick Tucker](people/patrick-tucker)....",
+  "timeline": "- **2001-11-26** | Meeting: meeting today",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-today-2001-11",
+    "attendees": [
+      "people/bryant-frihart",
+      "people/c-giron",
+      "people/e-murrell",
+      "people/gregg-penman",
+      "people/l-mims",
+      "people/laura-luce",
+      "people/lindsay-culotta",
+      "people/patrick-tucker",
+      "people/richard-tomaski",
+      "people/s-pollan"
+    ],
+    "date": "2001-11-26"
+  }
+}

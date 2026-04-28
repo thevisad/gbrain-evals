@@ -1,0 +1,14 @@
+{
+  "slug": "people/brad-romine",
+  "type": "person",
+  "title": "Brad Romine",
+  "compiled_truth": "Brad Romine is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-17 to 2001-11-27), Brad Romine sent 2 and received 41 emails, totalling 43 interactions. Top correspondents: [Thomas Gros](people/thomas-gros) (1), [Sally Beck](people/sally-beck) (1), [Mary Solmonson](people/mary-solmonson) (1), [A  Shankman](people/a-shankman) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brad-romine",
+    "name": "Brad Romine",
+    "email": "brad.romine@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

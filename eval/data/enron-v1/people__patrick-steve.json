@@ -1,0 +1,14 @@
+{
+  "slug": "people/patrick-steve",
+  "type": "person",
+  "title": "Patrick Steve",
+  "compiled_truth": "Patrick Steve is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-26 to 2001-10-29), Patrick Steve sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-10-26** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patrick-steve",
+    "name": "Patrick Steve",
+    "email": "patrick.steve@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

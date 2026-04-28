@@ -1,0 +1,14 @@
+{
+  "slug": "people/chilen-llgm",
+  "type": "person",
+  "title": "Chilen",
+  "compiled_truth": "Chilen is an external contact at [Llgm](companies/llgm). Over the corpus period (1999-09-24 to 2001-07-31), Chilen sent 0 and received 162 emails, totalling 162 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chilen-llgm",
+    "name": "Chilen",
+    "email": "chilen@llgm.com",
+    "primary_affiliation": "companies/llgm"
+  }
+}

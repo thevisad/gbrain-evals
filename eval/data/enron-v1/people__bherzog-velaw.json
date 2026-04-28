@@ -1,0 +1,14 @@
+{
+  "slug": "people/bherzog-velaw",
+  "type": "person",
+  "title": "Bherzog",
+  "compiled_truth": "Bherzog is an external contact at [Vinson & Elkins](companies/vinson-elkins). Over the corpus period (2001-09-17 to 2001-11-19), Bherzog sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bherzog-velaw",
+    "name": "Bherzog",
+    "email": "bherzog@velaw.com",
+    "primary_affiliation": "companies/vinson-elkins"
+  }
+}

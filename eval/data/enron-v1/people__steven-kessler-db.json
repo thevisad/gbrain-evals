@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-kessler-db",
+  "type": "person",
+  "title": "Steven Kessler",
+  "compiled_truth": "Steven Kessler is an external contact at [Db](companies/db). Over the corpus period (2000-05-09 to 2001-11-05), Steven Kessler sent 8 and received 58 emails, totalling 66 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (6), [Tana Jones](people/tana-jones) (2), [Sara Shackleton](people/sara-shackleton-db) (1).",
+  "timeline": "- **2000-05-09** | First recorded email in corpus\n- **2001-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-kessler-db",
+    "name": "Steven Kessler",
+    "email": "steven.kessler@db.com",
+    "primary_affiliation": "companies/db"
+  }
+}

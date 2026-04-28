@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-fischer",
+  "type": "person",
+  "title": "Jeffrey Fischer",
+  "compiled_truth": "Jeffrey Fischer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-03-28), Jeffrey Fischer sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-fischer",
+    "name": "Jeffrey Fischer",
+    "email": "jeffrey.fischer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

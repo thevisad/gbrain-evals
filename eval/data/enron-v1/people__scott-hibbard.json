@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-hibbard",
+  "type": "person",
+  "title": "Scott Hibbard",
+  "compiled_truth": "Scott Hibbard is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-27 to 2002-03-25), Scott Hibbard sent 2 and received 263 emails, totalling 265 interactions. Top correspondents: [John Buchanan](people/john-buchanan) (2), [Terry Kowalke](people/terry-kowalke) (2), [Janet Mcdaniel](people/janet-mcdaniel) (2), [Lynn Blair](people/lynn-blair) (1), [Shelley Corman](people/shelley-corman) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-06-27** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-hibbard",
+    "name": "Scott Hibbard",
+    "email": "scott.hibbard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

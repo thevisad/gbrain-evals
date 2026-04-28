@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-lovvorn",
+  "type": "person",
+  "title": "Kelly Lovvorn",
+  "compiled_truth": "Kelly Lovvorn is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-10-19), Kelly Lovvorn sent 0 and received 73 emails, totalling 73 interactions.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-lovvorn",
+    "name": "Kelly Lovvorn",
+    "email": "kelly.lovvorn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

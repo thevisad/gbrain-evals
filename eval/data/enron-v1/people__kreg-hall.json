@@ -1,0 +1,14 @@
+{
+  "slug": "people/kreg-hall",
+  "type": "person",
+  "title": "Kreg Hall",
+  "compiled_truth": "Kreg Hall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-30 to 2001-06-27), Kreg Hall sent 0 and received 43 emails, totalling 43 interactions.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kreg-hall",
+    "name": "Kreg Hall",
+    "email": "kreg.hall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

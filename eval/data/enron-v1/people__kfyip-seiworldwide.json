@@ -1,0 +1,14 @@
+{
+  "slug": "people/kfyip-seiworldwide",
+  "type": "person",
+  "title": "Kfyip",
+  "compiled_truth": "Kfyip is an external contact at [Seiworldwide](companies/seiworldwide). Over the corpus period (1999-09-24 to 2001-07-31), Kfyip sent 0 and received 153 emails, totalling 153 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kfyip-seiworldwide",
+    "name": "Kfyip",
+    "email": "kfyip@seiworldwide.com",
+    "primary_affiliation": "companies/seiworldwide"
+  }
+}

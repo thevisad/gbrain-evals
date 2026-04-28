@@ -1,0 +1,14 @@
+{
+  "slug": "people/s-palmer",
+  "type": "person",
+  "title": "S  Palmer",
+  "compiled_truth": "S  Palmer is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-08 to 2001-07-18), S  Palmer sent 2 and received 64 emails, totalling 66 interactions. Top correspondents: [Andy Zipper](people/andy-zipper) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-03-08** | First recorded email in corpus\n- **2001-07-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/s-palmer",
+    "name": "S  Palmer",
+    "email": "s..palmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

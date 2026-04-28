@@ -1,0 +1,14 @@
+{
+  "slug": "people/drothrock-camfg",
+  "type": "person",
+  "title": "Drothrock",
+  "compiled_truth": "Drothrock is an external contact at [Camfg](companies/camfg). Over the corpus period (2000-08-30 to 2001-11-12), Drothrock sent 0 and received 81 emails, totalling 81 interactions.",
+  "timeline": "- **2000-08-30** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/drothrock-camfg",
+    "name": "Drothrock",
+    "email": "drothrock@camfg.com",
+    "primary_affiliation": "companies/camfg"
+  }
+}

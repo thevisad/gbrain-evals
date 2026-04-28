@@ -1,0 +1,14 @@
+{
+  "slug": "people/arrington-sue",
+  "type": "person",
+  "title": "Arrington Sue",
+  "compiled_truth": "Arrington Sue is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-04 to 2002-01-24), Arrington Sue sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/arrington-sue",
+    "name": "Arrington Sue",
+    "email": "arrington.sue@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

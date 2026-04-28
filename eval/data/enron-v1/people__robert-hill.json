@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-hill",
+  "type": "person",
+  "title": "Robert Hill",
+  "compiled_truth": "Robert Hill is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-13 to 2001-12-21), Robert Hill sent 21 and received 124 emails, totalling 145 interactions. Top correspondents: [Danny Mccarty](people/danny-mccarty) (11), [Stanley Horton](people/stanley-horton) (10), [Eric Gadd](people/eric-gadd) (8), [Larry Deroin](people/larry-deroin) (5), [Janet Place](people/janet-place) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-01-13** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-hill",
+    "name": "Robert Hill",
+    "email": "robert.hill@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

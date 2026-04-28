@@ -1,0 +1,14 @@
+{
+  "slug": "people/hugh-davenport-mirant",
+  "type": "person",
+  "title": "Hugh Davenport",
+  "compiled_truth": "Hugh Davenport is an external contact at [Mirant](companies/mirant). Over the corpus period (2001-02-13 to 2001-06-11), Hugh Davenport sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-02-13** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hugh-davenport-mirant",
+    "name": "Hugh Davenport",
+    "email": "hugh.davenport@mirant.com",
+    "primary_affiliation": "companies/mirant"
+  }
+}

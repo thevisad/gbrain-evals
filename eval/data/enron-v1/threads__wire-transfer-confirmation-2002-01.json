@@ -1,0 +1,23 @@
+{
+  "slug": "threads/wire-transfer-confirmation-2002-01",
+  "type": "meeting",
+  "title": "Thread: Wire Transfer Confirmation",
+  "compiled_truth": "Email thread: \"Wire Transfer Confirmation\". Ran from 2002-01-03 to 2002-01-26 with 21 messages. Participants: [Doug Sewell](people/doug-sewell), [Joe Parks](people/joe-parks), [John Grass](people/john-grass-mirant), [John Suarez](people/john-suarez), [Ken Merideth](people/ken-merideth-entergykoch), [Mike Carson](people/mike-carson), [Reginald Hart](people/reginald-hart), [Sean Crandall](people/sean-crandall).",
+  "timeline": "- **2002-01-03** | Thread begins: wire transfer confirmation\n- **2002-01-26** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/wire-transfer-confirmation-2002-01",
+    "attendees": [
+      "people/doug-sewell",
+      "people/joe-parks",
+      "people/john-grass-mirant",
+      "people/john-suarez",
+      "people/ken-merideth-entergykoch",
+      "people/mike-carson",
+      "people/reginald-hart",
+      "people/sean-crandall",
+      "people/stephen-thome"
+    ],
+    "date": "2002-01-03"
+  }
+}

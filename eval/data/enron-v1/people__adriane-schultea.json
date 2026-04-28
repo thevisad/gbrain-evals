@@ -1,0 +1,14 @@
+{
+  "slug": "people/adriane-schultea",
+  "type": "person",
+  "title": "Adriane Schultea",
+  "compiled_truth": "Adriane Schultea is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-02 to 2001-11-02), Adriane Schultea sent 12 and received 72 emails, totalling 84 interactions. Top correspondents: [Tana Jones](people/tana-jones) (7), [Smithtm6](people/smithtm6-bp) (2), [Mark Greenberg](people/mark-greenberg) (2), [40Ect](people/40ect) (2), [Clint Dean](people/clint-dean) (1). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **2001-04-02** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adriane-schultea",
+    "name": "Adriane Schultea",
+    "email": "adriane.schultea@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

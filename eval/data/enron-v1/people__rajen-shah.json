@@ -1,0 +1,14 @@
+{
+  "slug": "people/rajen-shah",
+  "type": "person",
+  "title": "Rajen Shah",
+  "compiled_truth": "Rajen Shah is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2001-10-25), Rajen Shah sent 2 and received 39 emails, totalling 41 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2), [Tom Doukas](people/tom-doukas) (2), [Simon Hemsley](people/simon-hemsley) (2), [David Wall](people/david-wall) (2), [D  Jordan](people/d-jordan) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rajen-shah",
+    "name": "Rajen Shah",
+    "email": "rajen.shah@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

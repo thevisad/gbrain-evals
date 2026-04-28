@@ -1,0 +1,14 @@
+{
+  "slug": "people/trevijm-texaco",
+  "type": "person",
+  "title": "Trevijm",
+  "compiled_truth": "Trevijm is an external contact at [Texaco](companies/texaco). Over the corpus period (2000-11-13 to 2001-11-06), Trevijm sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/trevijm-texaco",
+    "name": "Trevijm",
+    "email": "trevijm@texaco.com",
+    "primary_affiliation": "companies/texaco"
+  }
+}

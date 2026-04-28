@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-ale",
+  "type": "person",
+  "title": "John Ale",
+  "compiled_truth": "John Ale is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2001-11-27), John Ale sent 10 and received 64 emails, totalling 74 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (8), [Michael Anderson](people/michael-anderson) (4), [Diana Jebousek](people/diana-jebousek) (2), [James Derrick](people/james-derrick) (2), [Julia Murray](people/julia-murray) (1).",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-ale",
+    "name": "John Ale",
+    "email": "john.ale@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

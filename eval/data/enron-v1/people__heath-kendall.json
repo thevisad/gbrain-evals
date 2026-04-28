@@ -1,0 +1,14 @@
+{
+  "slug": "people/heath-kendall",
+  "type": "person",
+  "title": "Heath Kendall",
+  "compiled_truth": "Heath Kendall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-09 to 2001-11-29), Heath Kendall sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heath-kendall",
+    "name": "Heath Kendall",
+    "email": "heath.kendall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

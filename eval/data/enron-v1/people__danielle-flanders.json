@@ -1,0 +1,14 @@
+{
+  "slug": "people/danielle-flanders",
+  "type": "person",
+  "title": "Danielle Flanders",
+  "compiled_truth": "Danielle Flanders is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-05-23), Danielle Flanders sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/danielle-flanders",
+    "name": "Danielle Flanders",
+    "email": "danielle.flanders@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

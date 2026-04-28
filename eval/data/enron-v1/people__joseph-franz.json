@@ -1,0 +1,14 @@
+{
+  "slug": "people/joseph-franz",
+  "type": "person",
+  "title": "Joseph Franz",
+  "compiled_truth": "Joseph Franz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2000-10-03), Joseph Franz sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2000-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joseph-franz",
+    "name": "Joseph Franz",
+    "email": "joseph.franz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

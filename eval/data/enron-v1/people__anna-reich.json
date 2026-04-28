@@ -1,0 +1,14 @@
+{
+  "slug": "people/anna-reich",
+  "type": "person",
+  "title": "Anna Reich",
+  "compiled_truth": "Anna Reich is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2001-05-15), Anna Reich sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anna-reich",
+    "name": "Anna Reich",
+    "email": "anna.reich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

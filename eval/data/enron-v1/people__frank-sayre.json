@@ -1,0 +1,14 @@
+{
+  "slug": "people/frank-sayre",
+  "type": "person",
+  "title": "Frank Sayre",
+  "compiled_truth": "Frank Sayre is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-11 to 2002-06-21), Frank Sayre sent 41 and received 985 emails, totalling 1026 interactions. Top correspondents: [ Taylor](people/taylor) (13), [Stephanie Panus](people/stephanie-panus) (12), [Marie Heard](people/marie-heard) (5), [Sara Shackleton](people/sara-shackleton) (5), [Tana Jones](people/tana-jones) (5). Mailbox folders observed: _americas, archive, deleted_items, inbox, online_trading.",
+  "timeline": "- **1999-05-11** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frank-sayre",
+    "name": "Frank Sayre",
+    "email": "frank.sayre@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

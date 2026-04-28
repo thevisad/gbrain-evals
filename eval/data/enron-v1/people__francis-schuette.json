@@ -1,0 +1,14 @@
+{
+  "slug": "people/francis-schuette",
+  "type": "person",
+  "title": "Francis Schuette",
+  "compiled_truth": "Francis Schuette is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2000-08-15), Francis Schuette sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2000-08-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/francis-schuette",
+    "name": "Francis Schuette",
+    "email": "francis.schuette@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/fava-gene",
+  "type": "person",
+  "title": "Fava' 'Gene",
+  "compiled_truth": "Fava' 'Gene is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-22 to 2002-03-22), Fava' 'Gene sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-03-22** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fava-gene",
+    "name": "Fava' 'Gene",
+    "email": "fava'.'gene@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

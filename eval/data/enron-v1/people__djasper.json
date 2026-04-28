@@ -1,0 +1,14 @@
+{
+  "slug": "people/djasper",
+  "type": "person",
+  "title": "Djasper",
+  "compiled_truth": "Djasper is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-10 to 2000-08-14), Djasper sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2000-08-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/djasper",
+    "name": "Djasper",
+    "email": "djasper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

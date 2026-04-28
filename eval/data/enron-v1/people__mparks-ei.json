@@ -1,0 +1,14 @@
+{
+  "slug": "people/mparks-ei",
+  "type": "person",
+  "title": "Mparks",
+  "compiled_truth": "Mparks is an external contact at [Ei](companies/ei). Over the corpus period (2000-07-17 to 2000-07-17), Mparks sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mparks-ei",
+    "name": "Mparks",
+    "email": "mparks@ei.enron.com",
+    "primary_affiliation": "companies/ei"
+  }
+}

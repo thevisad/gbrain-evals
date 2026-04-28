@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-ghilardi",
+  "type": "person",
+  "title": "Jeff Ghilardi",
+  "compiled_truth": "Jeff Ghilardi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-24 to 2002-07-10), Jeff Ghilardi sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-08-24** | First recorded email in corpus\n- **2002-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-ghilardi",
+    "name": "Jeff Ghilardi",
+    "email": "jeff.ghilardi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

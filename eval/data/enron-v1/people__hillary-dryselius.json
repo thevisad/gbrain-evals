@@ -1,0 +1,14 @@
+{
+  "slug": "people/hillary-dryselius",
+  "type": "person",
+  "title": "Hillary Dryselius",
+  "compiled_truth": "Hillary Dryselius is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-20 to 2001-10-03), Hillary Dryselius sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-09-20** | First recorded email in corpus\n- **2001-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hillary-dryselius",
+    "name": "Hillary Dryselius",
+    "email": "hillary.dryselius@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

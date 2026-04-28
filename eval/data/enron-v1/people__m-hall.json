@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-hall",
+  "type": "person",
+  "title": "M Hall",
+  "compiled_truth": "M Hall is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-20 to 2002-05-13), M Hall sent 78 and received 524 emails, totalling 602 interactions. Top correspondents: [W  White](people/w-white) (31), [Sally Beck](people/sally-beck) (28), [Leslie Reeves](people/leslie-reeves) (23), [C  Gossett](people/c-gossett) (22), [Robert Superty](people/robert-superty) (13). Mailbox folders observed: _americas, calendar, cya, deleted_items, inbox, logistics.",
+  "timeline": "- **2001-04-20** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-hall",
+    "name": "M Hall",
+    "email": "m.hall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

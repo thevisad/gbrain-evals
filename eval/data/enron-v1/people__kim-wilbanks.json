@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-wilbanks",
+  "type": "person",
+  "title": "Kim Wilbanks",
+  "compiled_truth": "Kim Wilbanks is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-05-06), Kim Wilbanks sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-wilbanks",
+    "name": "Kim Wilbanks",
+    "email": "kim.wilbanks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

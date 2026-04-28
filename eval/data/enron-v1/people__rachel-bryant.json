@@ -1,0 +1,14 @@
+{
+  "slug": "people/rachel-bryant",
+  "type": "person",
+  "title": "Rachel Bryant",
+  "compiled_truth": "Rachel Bryant is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-01 to 2001-12-03), Rachel Bryant sent 1 and received 26 emails, totalling 27 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (1).",
+  "timeline": "- **2001-02-01** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rachel-bryant",
+    "name": "Rachel Bryant",
+    "email": "rachel.bryant@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

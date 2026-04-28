@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrea-dahlke",
+  "type": "person",
+  "title": "Andrea Dahlke",
+  "compiled_truth": "Andrea Dahlke is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-20 to 2002-02-07), Andrea Dahlke sent 98 and received 339 emails, totalling 437 interactions. Top correspondents: [W  White](people/w-white) (84), [Casey Evans](people/casey-evans) (80), [Wayne Vinson](people/wayne-vinson) (50), [Paul Lewis](people/paul-lewis) (13), [Tim Carter](people/tim-carter) (10). Mailbox folders observed: deleted_items, inbox, personal.",
+  "timeline": "- **2000-12-20** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrea-dahlke",
+    "name": "Andrea Dahlke",
+    "email": "andrea.dahlke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

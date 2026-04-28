@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-hare",
+  "type": "person",
+  "title": "Bill Hare",
+  "compiled_truth": "Bill Hare is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-24 to 2001-06-11), Bill Hare sent 3 and received 596 emails, totalling 599 interactions. Top correspondents: [Tana Jones](people/tana-jones) (3), [Marilyn Colbert](people/marilyn-colbert) (3), [Mark Taylor](people/mark-taylor) (2), [James Scribner](people/james-scribner) (2), [Lisa Lees](people/lisa-lees) (2).",
+  "timeline": "- **1998-11-24** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-hare",
+    "name": "Bill Hare",
+    "email": "bill.hare@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tanja-murray",
+  "type": "person",
+  "title": "Tanja Murray",
+  "compiled_truth": "Tanja Murray is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-12-14), Tanja Murray sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tanja-murray",
+    "name": "Tanja Murray",
+    "email": "tanja.murray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

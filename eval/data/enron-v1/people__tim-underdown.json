@@ -1,0 +1,14 @@
+{
+  "slug": "people/tim-underdown",
+  "type": "person",
+  "title": "Tim Underdown",
+  "compiled_truth": "Tim Underdown is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-11 to 2001-08-30), Tim Underdown sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **1999-06-11** | First recorded email in corpus\n- **2001-08-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tim-underdown",
+    "name": "Tim Underdown",
+    "email": "tim.underdown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

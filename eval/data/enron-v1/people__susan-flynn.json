@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-flynn",
+  "type": "person",
+  "title": "Susan Flynn",
+  "compiled_truth": "Susan Flynn is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-05-25), Susan Flynn sent 71 and received 1069 emails, totalling 1140 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (61), [Tana Jones](people/tana-jones) (43), [Carol Clair](people/carol-clair) (38), [Mark Taylor](people/mark-taylor) (37), [Susan Bailey](people/susan-bailey) (37).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-flynn",
+    "name": "Susan Flynn",
+    "email": "susan.flynn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

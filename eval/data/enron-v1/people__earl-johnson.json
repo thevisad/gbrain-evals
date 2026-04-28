@@ -1,0 +1,14 @@
+{
+  "slug": "people/earl-johnson",
+  "type": "person",
+  "title": "Earl Johnson",
+  "compiled_truth": "Earl Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-10 to 2001-06-13), Earl Johnson sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/earl-johnson",
+    "name": "Earl Johnson",
+    "email": "earl.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

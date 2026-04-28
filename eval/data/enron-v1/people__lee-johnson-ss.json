@@ -1,0 +1,14 @@
+{
+  "slug": "people/lee-johnson-ss",
+  "type": "person",
+  "title": "Lee Johnson",
+  "compiled_truth": "Lee Johnson is an external contact at [Ss](companies/ss). Over the corpus period (1980-01-01 to 2001-05-18), Lee Johnson sent 21 and received 183 emails, totalling 204 interactions. Top correspondents: [Kay Mann](people/kay-mann) (21), [Kent Shoemaker](people/kent-shoemaker-ae) (14), [Ben Jacoby](people/ben-jacoby) (8), [Peterthompson](people/peterthompson-akllp) (7), [Paulpipitone](people/paulpipitone-akllp) (7).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lee-johnson-ss",
+    "name": "Lee Johnson",
+    "email": "lee.johnson@ss.ps.ge.com",
+    "primary_affiliation": "companies/ss"
+  }
+}

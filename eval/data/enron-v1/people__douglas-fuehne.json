@@ -1,0 +1,14 @@
+{
+  "slug": "people/douglas-fuehne",
+  "type": "person",
+  "title": "Douglas Fuehne",
+  "compiled_truth": "Douglas Fuehne is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-17 to 2001-11-26), Douglas Fuehne sent 5 and received 26 emails, totalling 31 interactions. Top correspondents: [Jason Williams](people/jason-williams) (3), [Sally Beck](people/sally-beck) (2), [Dale Neuner](people/dale-neuner) (2), [Debbie Brackett](people/debbie-brackett) (2), [Andrea Crump](people/andrea-crump) (2).",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/douglas-fuehne",
+    "name": "Douglas Fuehne",
+    "email": "douglas.fuehne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

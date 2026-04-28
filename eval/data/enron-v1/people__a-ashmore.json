@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-ashmore",
+  "type": "person",
+  "title": "A Ashmore",
+  "compiled_truth": "A Ashmore is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2001-06-06), A Ashmore sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-ashmore",
+    "name": "A Ashmore",
+    "email": "a.ashmore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

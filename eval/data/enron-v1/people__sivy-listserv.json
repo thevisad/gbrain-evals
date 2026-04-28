@@ -1,0 +1,14 @@
+{
+  "slug": "people/sivy-listserv",
+  "type": "person",
+  "title": "Sivy",
+  "compiled_truth": "Sivy is an external contact at [Listserv](companies/listserv). Over the corpus period (2000-11-10 to 2001-11-23), Sivy sent 28 and received 31 emails, totalling 59 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-11-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sivy-listserv",
+    "name": "Sivy",
+    "email": "sivy@listserv.pathfinder.com",
+    "primary_affiliation": "companies/listserv"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sandra-rodriguez",
+  "type": "person",
+  "title": "Sandra Rodriguez",
+  "compiled_truth": "Sandra Rodriguez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-11-02), Sandra Rodriguez sent 2 and received 20 emails, totalling 22 interactions. Top correspondents: [Kay Mann](people/kay-mann) (2), [Alan Larsen](people/alan-larsen) (1), [Jeff Slaughter](people/jeff-slaughter) (1), [Lisa Bills](people/lisa-bills) (1), [Bruce Golden](people/bruce-golden) (1).",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sandra-rodriguez",
+    "name": "Sandra Rodriguez",
+    "email": "sandra.rodriguez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

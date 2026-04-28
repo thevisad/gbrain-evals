@@ -1,0 +1,14 @@
+{
+  "slug": "people/gpickering-idahopower",
+  "type": "person",
+  "title": "Gpickering",
+  "compiled_truth": "Gpickering is an external contact at [Idahopower](companies/idahopower). Over the corpus period (1999-09-24 to 2001-07-31), Gpickering sent 0 and received 64 emails, totalling 64 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gpickering-idahopower",
+    "name": "Gpickering",
+    "email": "gpickering@idahopower.com",
+    "primary_affiliation": "companies/idahopower"
+  }
+}

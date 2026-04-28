@@ -1,0 +1,14 @@
+{
+  "slug": "people/cjewell-bcm",
+  "type": "person",
+  "title": "Cjewell",
+  "compiled_truth": "Cjewell is an external contact at [Bcm](companies/bcm). Over the corpus period (2001-09-25 to 2002-03-25), Cjewell sent 12 and received 28 emails, totalling 40 interactions. Top correspondents: [Shelley Corman](people/shelley-corman) (12), [Patsyw](people/patsyw-microwavenetworks) (3), [Chang](people/chang-fcj) (2), [Maryivr](people/maryivr-hotmail) (2), [Tjhughes](people/tjhughes-ix) (2).",
+  "timeline": "- **2001-09-25** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cjewell-bcm",
+    "name": "Cjewell",
+    "email": "cjewell@bcm.tmc.edu",
+    "primary_affiliation": "companies/bcm"
+  }
+}

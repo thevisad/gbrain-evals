@@ -1,0 +1,14 @@
+{
+  "slug": "people/sonny-m-houstondefender",
+  "type": "person",
+  "title": "Sonny M",
+  "compiled_truth": "Sonny M is an external contact at [Houstondefender](companies/houstondefender). Over the corpus period (2000-11-13 to 2002-01-05), Sonny M sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2002-01-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sonny-m-houstondefender",
+    "name": "Sonny M",
+    "email": "sonny.m@houstondefender.com",
+    "primary_affiliation": "companies/houstondefender"
+  }
+}

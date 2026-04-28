@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-muller",
+  "type": "person",
+  "title": "Mark Muller",
+  "compiled_truth": "Mark Muller is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-05 to 2001-10-05), Mark Muller sent 3 and received 675 emails, totalling 678 interactions. Top correspondents: [Steven Kean](people/steven-kean) (2), [James Steffes](people/james-steffes) (2), [Jeff Skilling](people/jeff-skilling) (1). Mailbox folders observed: california, inbox.",
+  "timeline": "- **2000-06-05** | First recorded email in corpus\n- **2001-10-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-muller",
+    "name": "Mark Muller",
+    "email": "mark.muller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

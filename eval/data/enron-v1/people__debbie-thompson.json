@@ -1,0 +1,14 @@
+{
+  "slug": "people/debbie-thompson",
+  "type": "person",
+  "title": "Debbie Thompson",
+  "compiled_truth": "Debbie Thompson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-17 to 2000-12-08), Debbie Thompson sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-01-17** | First recorded email in corpus\n- **2000-12-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debbie-thompson",
+    "name": "Debbie Thompson",
+    "email": "debbie.thompson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

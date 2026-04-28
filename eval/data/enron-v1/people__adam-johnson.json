@@ -1,0 +1,14 @@
+{
+  "slug": "people/adam-johnson",
+  "type": "person",
+  "title": "Adam Johnson",
+  "compiled_truth": "Adam Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-21 to 2002-02-13), Adam Johnson sent 67 and received 191 emails, totalling 258 interactions. Top correspondents: [Torrey Moorer](people/torrey-moorer) (67), [Jennifer Denny](people/jennifer-denny) (65), [Andy Zipper](people/andy-zipper) (56), [Tara Sweitzer](people/tara-sweitzer) (52), [Jennifer Rosado](people/jennifer-rosado) (49). Mailbox folders observed: _americas, broker_client, connect_deletes, deleted_items, discussion_threads, inbox.",
+  "timeline": "- **2000-12-21** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adam-johnson",
+    "name": "Adam Johnson",
+    "email": "adam.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

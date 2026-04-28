@@ -1,0 +1,14 @@
+{
+  "slug": "people/stuart-staley",
+  "type": "person",
+  "title": "Stuart Staley",
+  "compiled_truth": "Stuart Staley is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-15 to 2002-01-14), Stuart Staley sent 2 and received 290 emails, totalling 292 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (2), [Jeffrey Shankman](people/jeffrey-shankman) (2), [George Mcclellan](people/george-mcclellan) (1).",
+  "timeline": "- **1999-07-15** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stuart-staley",
+    "name": "Stuart Staley",
+    "email": "stuart.staley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

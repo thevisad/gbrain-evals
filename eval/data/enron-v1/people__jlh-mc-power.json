@@ -1,0 +1,14 @@
+{
+  "slug": "people/jlh-mc-power",
+  "type": "person",
+  "title": "Jlh",
+  "compiled_truth": "Jlh is an external contact at [Mc-power](companies/mc-power). Over the corpus period (2001-02-20 to 2001-04-27), Jlh sent 0 and received 67 emails, totalling 67 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jlh-mc-power",
+    "name": "Jlh",
+    "email": "jlh@mc-power.com",
+    "primary_affiliation": "companies/mc-power"
+  }
+}

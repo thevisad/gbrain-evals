@@ -1,0 +1,29 @@
+{
+  "slug": "meetings/associates-prc-meeting-cancelled-2000-07",
+  "type": "meeting",
+  "title": "Meeting: Associates Prc Meeting Cancelled",
+  "compiled_truth": "Meeting: \"Associates Prc Meeting Cancelled\". Occurred 2000-07-19 with 2 related emails. Participants included: [Berney Aucoin](people/berney-aucoin), [Carl Tricoli](people/carl-tricoli), [Christopher Calger](people/christopher-calger), [Federico Cerisoli](people/federico-cerisoli), [Greg Woulfe](people/greg-woulfe), [Gustavo Junqueira](people/gustavo-junqueira), [James Row](people/james-row), [Jean Mrha](people/jean-mrha)....",
+  "timeline": "- **2000-07-19** | Meeting: associates prc meeting cancelled",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/associates-prc-meeting-cancelled-2000-07",
+    "attendees": [
+      "people/berney-aucoin",
+      "people/carl-tricoli",
+      "people/christopher-calger",
+      "people/federico-cerisoli",
+      "people/greg-woulfe",
+      "people/gustavo-junqueira",
+      "people/james-row",
+      "people/jean-mrha",
+      "people/john-hardy",
+      "people/mark-palmer",
+      "people/rafi-khan",
+      "people/sally-beck",
+      "people/sherron-watkins",
+      "people/stephen-morse",
+      "people/timothy-rebhorn"
+    ],
+    "date": "2000-07-19"
+  }
+}

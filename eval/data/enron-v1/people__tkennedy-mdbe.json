@@ -1,0 +1,14 @@
+{
+  "slug": "people/tkennedy-mdbe",
+  "type": "person",
+  "title": "Tkennedy",
+  "compiled_truth": "Tkennedy is an external contact at [Mdbe](companies/mdbe). Over the corpus period (2001-01-11 to 2001-06-11), Tkennedy sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2001-01-11** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tkennedy-mdbe",
+    "name": "Tkennedy",
+    "email": "tkennedy@mdbe.com",
+    "primary_affiliation": "companies/mdbe"
+  }
+}

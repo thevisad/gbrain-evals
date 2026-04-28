@@ -1,0 +1,14 @@
+{
+  "slug": "people/glen-hass",
+  "type": "person",
+  "title": "Glen Hass",
+  "compiled_truth": "Glen Hass is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Glen Hass sent 106 and received 637 emails, totalling 743 interactions. Top correspondents: [Steven Harris](people/steven-harris) (69), [Kimberly Watson](people/kimberly-watson) (67), [Robert Kilmer](people/robert-kilmer) (63), [Teb Lokey](people/teb-lokey) (51), [Kay Miller](people/kay-miller) (42). Mailbox folders observed: articles, california, capacity, deleted_items, e_mail_bin, enron_t_s.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/glen-hass",
+    "name": "Glen Hass",
+    "email": "glen.hass@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

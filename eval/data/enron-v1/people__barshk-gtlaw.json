@@ -1,0 +1,14 @@
+{
+  "slug": "people/barshk-gtlaw",
+  "type": "person",
+  "title": "Barshk",
+  "compiled_truth": "Barshk is an external contact at [Gtlaw](companies/gtlaw). Over the corpus period (2001-06-06 to 2001-12-13), Barshk sent 14 and received 16 emails, totalling 30 interactions. Top correspondents: [Kay Mann](people/kay-mann) (13), [Steven Krimsky](people/steven-krimsky) (7), [Ben Jacoby](people/ben-jacoby) (5), [Reetzr](people/reetzr-gtlaw) (5), [Raimund Grube](people/raimund-grube) (2).",
+  "timeline": "- **2001-06-06** | First recorded email in corpus\n- **2001-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barshk-gtlaw",
+    "name": "Barshk",
+    "email": "barshk@gtlaw.com",
+    "primary_affiliation": "companies/gtlaw"
+  }
+}

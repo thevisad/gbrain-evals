@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-gillespie",
+  "type": "person",
+  "title": "John Gillespie",
+  "compiled_truth": "John Gillespie is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-20 to 2002-05-06), John Gillespie sent 10 and received 52 emails, totalling 62 interactions. Top correspondents: [George Wasaff](people/george-wasaff) (8), [Raul Davila](people/raul-davila) (6), [Louise Kitchen](people/louise-kitchen) (5), [Rod Hayslett](people/rod-hayslett) (4), [Kerry Roper](people/kerry-roper) (3). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **2000-01-20** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-gillespie",
+    "name": "John Gillespie",
+    "email": "john.gillespie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

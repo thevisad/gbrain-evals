@@ -1,0 +1,14 @@
+{
+  "slug": "people/al-miralles",
+  "type": "person",
+  "title": "Al Miralles",
+  "compiled_truth": "Al Miralles is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-21 to 2001-11-14), Al Miralles sent 0 and received 44 emails, totalling 44 interactions.",
+  "timeline": "- **2001-05-21** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/al-miralles",
+    "name": "Al Miralles",
+    "email": "al.miralles@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/anjam-ahmad",
+  "type": "person",
+  "title": "Anjam Ahmad",
+  "compiled_truth": "Anjam Ahmad is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2000-10-26), Anjam Ahmad sent 54 and received 55 emails, totalling 109 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (51), [Dale Surbey](people/dale-surbey) (38), [Stinson Gibner](people/stinson-gibner) (26), [Tanya Tamarchenko](people/tanya-tamarchenko) (15), [Grant Masson](people/grant-masson) (12).",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2000-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anjam-ahmad",
+    "name": "Anjam Ahmad",
+    "email": "anjam.ahmad@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

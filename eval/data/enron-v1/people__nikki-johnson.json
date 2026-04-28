@@ -1,0 +1,14 @@
+{
+  "slug": "people/nikki-johnson",
+  "type": "person",
+  "title": "Nikki Johnson",
+  "compiled_truth": "Nikki Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-15 to 2000-11-15), Nikki Johnson sent 1 and received 24 emails, totalling 25 interactions. Top correspondents: [Cheryl Johnson](people/cheryl-johnson) (1), [Gloria Roberson](people/gloria-roberson) (1), [Anthony Campos](people/anthony-campos) (1), [Sandra Mcnichols](people/sandra-mcnichols) (1), [Judy Hernandez](people/judy-hernandez) (1).",
+  "timeline": "- **2000-09-15** | First recorded email in corpus\n- **2000-11-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nikki-johnson",
+    "name": "Nikki Johnson",
+    "email": "nikki.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

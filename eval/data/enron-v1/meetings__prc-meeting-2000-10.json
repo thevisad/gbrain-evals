@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/prc-meeting-2000-10",
+  "type": "meeting",
+  "title": "Meeting: Prc Meeting",
+  "compiled_truth": "Meeting: \"Prc Meeting\". Occurred 2000-10-30 with 1 related emails. Participants included: [Maureen Raymond](people/maureen-raymond), [Mike Roberts](people/mike-roberts), [Osman Sezgen](people/osman-sezgen), [Pinnamaneni Krishnarao](people/pinnamaneni-krishnarao), [Shirley Crenshaw](people/shirley-crenshaw), [Stinson Gibner](people/stinson-gibner), [Tanya Tamarchenko](people/tanya-tamarchenko), [Vasant Shanbhogue](people/vasant-shanbhogue)....",
+  "timeline": "- **2000-10-30** | Meeting: prc meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/prc-meeting-2000-10",
+    "attendees": [
+      "people/maureen-raymond",
+      "people/mike-roberts",
+      "people/osman-sezgen",
+      "people/pinnamaneni-krishnarao",
+      "people/shirley-crenshaw",
+      "people/stinson-gibner",
+      "people/tanya-tamarchenko",
+      "people/vasant-shanbhogue",
+      "people/vince-kaminski",
+      "people/zimin-lu"
+    ],
+    "date": "2000-10-30"
+  }
+}

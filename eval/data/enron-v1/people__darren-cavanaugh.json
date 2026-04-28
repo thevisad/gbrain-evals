@@ -1,0 +1,14 @@
+{
+  "slug": "people/darren-cavanaugh",
+  "type": "person",
+  "title": "Darren Cavanaugh",
+  "compiled_truth": "Darren Cavanaugh is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-25 to 2002-06-25), Darren Cavanaugh sent 8 and received 193 emails, totalling 201 interactions. Top correspondents: [Lisa Gang](people/lisa-gang) (5), [Bill Williams](people/bill-williams) (3), [Chris Mallory](people/chris-mallory) (1), [Jim Reyes](people/jim-reyes) (1). Mailbox folders observed: bill_williams_iii, deleted_items, inbox.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darren-cavanaugh",
+    "name": "Darren Cavanaugh",
+    "email": "darren.cavanaugh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

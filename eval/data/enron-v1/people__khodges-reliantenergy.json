@@ -1,0 +1,14 @@
+{
+  "slug": "people/khodges-reliantenergy",
+  "type": "person",
+  "title": "Khodges",
+  "compiled_truth": "Khodges is an external contact at [Reliant Energy](companies/reliant-energy). Over the corpus period (2000-11-11 to 2000-11-11), Khodges sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/khodges-reliantenergy",
+    "name": "Khodges",
+    "email": "khodges@reliantenergy.com",
+    "primary_affiliation": "companies/reliant-energy"
+  }
+}

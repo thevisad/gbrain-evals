@@ -1,0 +1,14 @@
+{
+  "slug": "people/brynjar-wiersholm",
+  "type": "person",
+  "title": "Brynjar Wiersholm",
+  "compiled_truth": "Brynjar Wiersholm is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-30 to 2001-06-08), Brynjar Wiersholm sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brynjar-wiersholm",
+    "name": "Brynjar Wiersholm",
+    "email": "brynjar.wiersholm@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

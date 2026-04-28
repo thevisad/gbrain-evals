@@ -1,0 +1,14 @@
+{
+  "slug": "people/stacy-lesmeister",
+  "type": "person",
+  "title": "Stacy Lesmeister",
+  "compiled_truth": "Stacy Lesmeister is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-10 to 2001-06-01), Stacy Lesmeister sent 1 and received 5 emails, totalling 6 interactions. Top correspondents: [\"\"Reddish](people/reddish) (1), [Hjreddish](people/hjreddish-sbinfra) (1), [Kevin Kuehler](people/kevin-kuehler) (1), [Gerald Nemec](people/gerald-nemec) (1), [Eugene Peabody](people/eugene-peabody) (1).",
+  "timeline": "- **2001-05-10** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stacy-lesmeister",
+    "name": "Stacy Lesmeister",
+    "email": "stacy.lesmeister@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

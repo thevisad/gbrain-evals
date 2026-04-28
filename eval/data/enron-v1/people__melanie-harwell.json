@@ -1,0 +1,14 @@
+{
+  "slug": "people/melanie-harwell",
+  "type": "person",
+  "title": "Melanie Harwell",
+  "compiled_truth": "Melanie Harwell is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-30 to 2002-01-30), Melanie Harwell sent 1 and received 31 emails, totalling 32 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-03-30** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melanie-harwell",
+    "name": "Melanie Harwell",
+    "email": "melanie.harwell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

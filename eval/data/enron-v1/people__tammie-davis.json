@@ -1,0 +1,14 @@
+{
+  "slug": "people/tammie-davis",
+  "type": "person",
+  "title": "Tammie Davis",
+  "compiled_truth": "Tammie Davis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-30 to 2001-11-26), Tammie Davis sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-06-30** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tammie-davis",
+    "name": "Tammie Davis",
+    "email": "tammie.davis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

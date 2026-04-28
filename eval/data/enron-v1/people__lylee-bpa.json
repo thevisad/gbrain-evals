@@ -1,0 +1,14 @@
+{
+  "slug": "people/lylee-bpa",
+  "type": "person",
+  "title": "Lylee",
+  "compiled_truth": "Lylee is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2001-03-21 to 2001-03-21), Lylee sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-03-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lylee-bpa",
+    "name": "Lylee",
+    "email": "lylee@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

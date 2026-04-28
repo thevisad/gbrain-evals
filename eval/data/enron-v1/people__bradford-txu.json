@@ -1,0 +1,14 @@
+{
+  "slug": "people/bradford-txu",
+  "type": "person",
+  "title": "Bradford",
+  "compiled_truth": "Bradford is an external contact at [Txu](companies/txu). Over the corpus period (2002-01-13 to 2002-01-14), Bradford sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-13** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bradford-txu",
+    "name": "Bradford",
+    "email": "bradford@txu.com",
+    "primary_affiliation": "companies/txu"
+  }
+}

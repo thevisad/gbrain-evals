@@ -1,0 +1,14 @@
+{
+  "slug": "people/linbeck-patrick",
+  "type": "person",
+  "title": "Linbeck Patrick",
+  "compiled_truth": "Linbeck Patrick is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-16 to 2002-03-14), Linbeck Patrick sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2002-01-16** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linbeck-patrick",
+    "name": "Linbeck Patrick",
+    "email": "linbeck.patrick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

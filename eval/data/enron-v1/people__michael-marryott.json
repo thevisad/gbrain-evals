@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-marryott",
+  "type": "person",
+  "title": "Michael Marryott",
+  "compiled_truth": "Michael Marryott is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-07 to 2002-02-05), Michael Marryott sent 0 and received 46 emails, totalling 46 interactions.",
+  "timeline": "- **2000-02-07** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-marryott",
+    "name": "Michael Marryott",
+    "email": "michael.marryott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

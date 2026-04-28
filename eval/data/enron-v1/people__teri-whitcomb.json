@@ -1,0 +1,14 @@
+{
+  "slug": "people/teri-whitcomb",
+  "type": "person",
+  "title": "Teri Whitcomb",
+  "compiled_truth": "Teri Whitcomb is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-11 to 2001-03-07), Teri Whitcomb sent 6 and received 32 emails, totalling 38 interactions. Top correspondents: [Portland Desk](people/portland-desk) (6).",
+  "timeline": "- **2000-07-11** | First recorded email in corpus\n- **2001-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teri-whitcomb",
+    "name": "Teri Whitcomb",
+    "email": "teri.whitcomb@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

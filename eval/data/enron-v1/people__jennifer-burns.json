@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-burns",
+  "type": "person",
+  "title": "Jennifer Burns",
+  "compiled_truth": "Jennifer Burns is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-02 to 2001-12-10), Jennifer Burns sent 39 and received 908 emails, totalling 947 interactions. Top correspondents: [A  Shankman](people/a-shankman) (16), [Gary Hickerson](people/gary-hickerson) (11), [Jennifer Fraser](people/jennifer-fraser) (10), [Kevin Mcgowan](people/kevin-mcgowan) (10), [Shirley Crenshaw](people/shirley-crenshaw) (9). Mailbox folders observed: calendar, deleted_items, inbox, old_email, saved_mail.",
+  "timeline": "- **2000-03-02** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-burns",
+    "name": "Jennifer Burns",
+    "email": "jennifer.burns@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

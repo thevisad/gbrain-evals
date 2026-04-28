@@ -1,0 +1,14 @@
+{
+  "slug": "people/sheila-pardo",
+  "type": "person",
+  "title": "Sheila Pardo",
+  "compiled_truth": "Sheila Pardo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-20 to 2001-10-29), Sheila Pardo sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1), [Shelly Jones](people/shelly-jones) (1).",
+  "timeline": "- **2000-04-20** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sheila-pardo",
+    "name": "Sheila Pardo",
+    "email": "sheila.pardo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

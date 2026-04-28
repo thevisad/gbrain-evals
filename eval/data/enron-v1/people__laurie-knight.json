@@ -1,0 +1,14 @@
+{
+  "slug": "people/laurie-knight",
+  "type": "person",
+  "title": "Laurie Knight",
+  "compiled_truth": "Laurie Knight is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-18 to 2001-12-03), Laurie Knight sent 9 and received 258 emails, totalling 267 interactions. Top correspondents: [Janine Migden](people/janine-migden) (9), [Richard Shapiro](people/richard-shapiro) (9), [Ginger Dernehl](people/ginger-dernehl) (7), [Roy Boston](people/roy-boston) (4), [Susan Landwehr](people/susan-landwehr) (4). Mailbox folders observed: 2002_budget, midwest.",
+  "timeline": "- **2000-04-18** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laurie-knight",
+    "name": "Laurie Knight",
+    "email": "laurie.knight@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffp-advcars",
+  "type": "person",
+  "title": "Jeffp",
+  "compiled_truth": "Jeffp is an external contact at [Advcars](companies/advcars). Over the corpus period (2000-06-20 to 2000-11-25), Jeffp sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffp-advcars",
+    "name": "Jeffp",
+    "email": "jeffp@advcars.com",
+    "primary_affiliation": "companies/advcars"
+  }
+}

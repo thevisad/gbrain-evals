@@ -1,0 +1,14 @@
+{
+  "slug": "people/britt-davis",
+  "type": "person",
+  "title": "Britt Davis",
+  "compiled_truth": "Britt Davis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-09 to 2002-02-01), Britt Davis sent 146 and received 287 emails, totalling 433 interactions. Top correspondents: [Becky Zikes](people/becky-zikes) (81), [Richard Sanders](people/richard-sanders) (68), [B  Sanders](people/b-sanders) (39), [Alan Aronowitz](people/alan-aronowitz) (36), [Charles Cheek](people/charles-cheek) (33). Mailbox folders observed: customer___oneok, deleted_items, inbox, misc, westinghouse.",
+  "timeline": "- **1999-06-09** | First recorded email in corpus\n- **2002-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/britt-davis",
+    "name": "Britt Davis",
+    "email": "britt.davis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

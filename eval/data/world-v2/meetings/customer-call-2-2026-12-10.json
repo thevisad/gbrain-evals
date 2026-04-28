@@ -1,0 +1,31 @@
+{
+  "slug": "meetings/customer-call-2-2026-12-10",
+  "type": "meeting",
+  "title": "Customer Call — Helios Corp (2026-12-10)",
+  "compiled_truth": "Kickoff evaluation call with [Helios Corp](companies/helios-corp), an enterprise SaaS company that handles large-scale document management and workflow automation for regulated industries (insurance, healthcare admin, government contracting). They came to us through a warm intro — their VP of Platform Engineering had seen [Seren Voss](people/seren-voss)'s talk at the Deterministic Systems Forum in October and reached out directly.\n\nAttendees on our side were Seren, [Paz Santos](people/paz-santos), and [Blake Nowak](people/blake-nowak). Helios brought three people: their VP of Platform Engineering (Tomás Kang), a senior infrastructure engineer (unnamed in our notes, will follow up), and someone from procurement who mostly listened. The call ran about 50 minutes.\n\nThe core pain point Helios described is around data integrity during document ingestion and distribution. They process something like 2.3 million documents per day across their platform, and their current pipeline involves separate stages for compression, checksum validation, and encrypted transmission. Tomás was pretty blunt — they've had three incidents in the past year where integrity checks failed silently, and one of those led to a compliance finding from an auditor. He said their team has spent \"an unreasonable amount of time\" bolting together open-source tooling to try to get deterministic guarantees.\n\nPaz walked through how our single-pass primitives could collapse their pipeline stages. Tomás seemed genuinely interested but pushed back on latency — they have strict SLAs around document delivery (sub-200ms p99 for certain tiers). Blake took an action item to run benchmarks against a representative workload, which Helios agreed to provide as sanitized sample data by end of the week.\n\nSeren handled the commercial framing. Helios is currently evaluating two other vendors (they didn't name them, but Tomás alluded to \"the usual suspects in the integirty space\"). Their evaluation timeline is aggressive — they want to make a decision by end of Q1 2027 and begin integration in Q2. Seren proposed a 30-day technical proof of concept starting in January, which Tomás agreed to in principle pending internal sign-off.\n\nOverall vibe was positive but cautious. Helios is a methodical buyer — they'll want to see hard numbers. Blake estimated we'd need about two weeks to stand up the POC environment. Paz flagged that we should loop in someone from the docs team to prepare Helios-specific integration guides before the POC kicks off.",
+  "timeline": [
+    "- **2026-10-18** | [Seren Voss](people/seren-voss) gives talk at Deterministic Systems Forum; Helios VP Tomás Kang reaches out afterward.",
+    "- **2026-11-22** | Initial discovery email exchange with [Helios Corp](companies/helios-corp); Tomás shares high-level architecture overview of their document pipeline.",
+    "- **2026-12-10** | Kickoff evaluation call with Helios Corp. Attendees: [Seren Voss](people/seren-voss), [Paz Santos](people/paz-santos), [Blake Nowak](people/blake-nowak). POC proposed for January.",
+    "- **2026-12-16** | Helios delivers sanitized sample data for benchmark testing. Blake begins environment setup.",
+    "- **2027-01-08** | 30-day POC officially kicks off with Helios Corp. Dedicated Slack channel created for cross-team coordination.",
+    "- **2027-01-29** | Mid-POC check-in call. Latency numbers looking favorable — p99 around 140ms on representative workload. Tomás shares results with Helios leadership.",
+    "- **2027-02-07** | POC wraps up. [Blake Nowak](people/blake-nowak) delivers final benchmark report to Helios procurement.",
+    "- **2027-03-14** | Helios Corp signs annual enterprise contract. Integration work scheduled for Q2.",
+    "- **2027-06-02** | Helios goes live with Anchor Codec primitives in their production document pipeline. First major enterprise SaaS deployment."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/customer-call-2-2026-12-10",
+    "name": "Customer Call — helios-corp 2026-12",
+    "meeting_type": "customer_call",
+    "date": "2026-12-10",
+    "attendees": [
+      "people/seren-voss",
+      "people/paz-santos",
+      "people/blake-nowak"
+    ],
+    "topic_company": "companies/helios-corp",
+    "topic": "Enterprise evaluation kickoff — Helios Corp"
+  }
+}

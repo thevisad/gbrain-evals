@@ -1,0 +1,18 @@
+{
+  "slug": "companies/petrov-capital",
+  "type": "company",
+  "title": "Petrov Capital",
+  "compiled_truth": "Petrov Capital is a venture capital firm. Employees: anna-petrov.",
+  "timeline": "- **2025-04-14** | company indexed",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/petrov-capital",
+    "name": "Petrov Capital",
+    "founders": [],
+    "employees": [
+      "people/anna-petrov"
+    ],
+    "investors": [],
+    "advisors": []
+  }
+}

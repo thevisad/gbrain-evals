@@ -1,0 +1,14 @@
+{
+  "slug": "people/fberg-swbell",
+  "type": "person",
+  "title": "Fberg",
+  "compiled_truth": "Fberg is an external contact at [Swbell](companies/swbell). Over the corpus period (2000-03-29 to 2001-11-19), Fberg sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-03-29** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fberg-swbell",
+    "name": "Fberg",
+    "email": "fberg@swbell.net",
+    "primary_affiliation": "companies/swbell"
+  }
+}

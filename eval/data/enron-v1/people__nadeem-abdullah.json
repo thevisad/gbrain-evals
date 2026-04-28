@@ -1,0 +1,14 @@
+{
+  "slug": "people/nadeem-abdullah",
+  "type": "person",
+  "title": "Nadeem Abdullah",
+  "compiled_truth": "Nadeem Abdullah is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-10 to 2001-11-16), Nadeem Abdullah sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2001-08-10** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nadeem-abdullah",
+    "name": "Nadeem Abdullah",
+    "email": "nadeem.abdullah@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

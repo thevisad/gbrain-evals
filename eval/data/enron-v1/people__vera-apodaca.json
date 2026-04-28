@@ -1,0 +1,14 @@
+{
+  "slug": "people/vera-apodaca",
+  "type": "person",
+  "title": "Vera Apodaca",
+  "compiled_truth": "Vera Apodaca is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-10 to 2002-05-06), Vera Apodaca sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vera-apodaca",
+    "name": "Vera Apodaca",
+    "email": "vera.apodaca@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

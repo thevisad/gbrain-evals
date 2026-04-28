@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-hunter",
+  "type": "person",
+  "title": "Karen Hunter",
+  "compiled_truth": "Karen Hunter is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-14), Karen Hunter sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-hunter",
+    "name": "Karen Hunter",
+    "email": "karen.hunter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

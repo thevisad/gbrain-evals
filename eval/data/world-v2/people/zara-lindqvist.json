@@ -1,0 +1,26 @@
+{
+  "slug": "people/zara-lindqvist",
+  "type": "person",
+  "title": "Zara Lindqvist",
+  "compiled_truth": "Zara Lindqvist is a Partner at [Thornfield Capital](companies/thornfield-capital), where she leads the firm's AI applications practice. Before joining Thornfield she spent nearly a decade at two earlier-stage funds, building a reputation as someone who could spot infrastructure-layer shifts before they showed up in application-layer revenue. Colleagues describe her as a sharp pattern matcher — the kind of investor who reads a whitepaper and immediately starts stress-testing the go-to-market implications.\n\nLindqvist first crossed paths with the [Anchor Codec](companies/anchor) team in mid-2026, when the company was still largely unknown outside a small circle of infrastructure nerds. She was introduced through a portfolio connection at [Quasar Labs](companies/quasar-labs), which had been experimenting with deterministic data primitives in their own ML pipeline tooling. The introduction stuck. Zara spent weeks digging into the single-pass architecture, flying to meet the founding team twice before Thornfield committed to leading the seed extension. Her internal memo — widely circulated later within the firm — argued that Anchor's approach could collapse three distinct vendor categories into one, a thesis she's repeated in several closed-door LP updates since.\n\nBeyond Anchor, Zara sits on the board of [Vellum Systems](companies/vellum-systems) and has an observer seat at [Keel Networks](companies/keel-networks). She tends to concentrate her portfolio around companies that sit at the intersection of data integrity and scale — a theme she calls \"trust at wire speed.\" Her board style is hands-off on product but assertive on hiring and capital allocation. Multiple founders have noted that she's unusually willing to say \"I don't know\" in a board meeting, which paradoxicaly makes people trust her judgement more when she does weigh in.\n\nPersonally, Lindqvist is based in Stockholm but spends roughly a third of her time in the Bay Area and another chunk in London, where Thornfield's main office sits. She's a long-term thinker — her fund models typically project seven-to-ten-year hold periods — and she's been known to pass on hot rounds if the founder's timeline doesn't match. In conversation she's direct, occasionally blunt, and has a dry sense of humor that doesn't always land over Zoom.",
+  "timeline": "- **2026-05-14** | Introduced to [Anchor Codec](companies/anchor) founding team via portfolio company [Quasar Labs](companies/quasar-labs); initial 90-minute call.\n- **2026-06-02** | Flew to meet Anchor team in person for full-day technical deep dive. Brought Thornfield's infra-focused principal along.\n- **2026-07-19** | [Thornfield Capital](companies/thornfield-capital) commits to leading Anchor's seed extension round; Zara takes a board observer seat.\n- **2026-10-08** | Joined [Vellum Systems](companies/vellum-systems) board as full director following their Series A close.\n- **2027-01-22** | Spoke at a private LP summit in London on the \"trust at wire speed\" investment thesis, citing Anchor and [Keel Networks](companies/keel-networks) as case studies.\n- **2027-04-11** | Facilitated introduction between Anchor and a large European telecom for potential pilot engagement.\n- **2027-09-03** | Participated in Anchor's Series A process; co-led the round alongside another fund.\n- **2027-12-15** | Took observer seat at [Keel Networks](companies/keel-networks) after Thornfield participated in their bridge round.\n- **2028-03-27** | Hosted cross-portfolio dinner in Stockholm bringing together leadership from Anchor, Vellum, and Keel to explore integration opportunities.\n- **2028-06-10** | Internal Thornfield review marks Anchor as top-quartile portfolio performer; Lindqvist flags potential for follow-on at Series B.",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zara-lindqvist",
+    "name": "Zara Lindqvist",
+    "role": "partner",
+    "title": "Partner, Thornfield Capital",
+    "primary_affiliation": "companies/thornfield-capital",
+    "secondary_affiliations": [
+      "companies/quasar-labs",
+      "companies/vellum-systems",
+      "companies/anchor",
+      "companies/keel-networks"
+    ],
+    "notable_traits": [
+      "sharp pattern matcher",
+      "long-term thinker"
+    ],
+    "background": "Partner at Thornfield Capital; focuses on AI applications investments"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/susana-castillo",
+  "type": "person",
+  "title": "Susana Castillo",
+  "compiled_truth": "Susana Castillo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-10 to 2000-11-28), Susana Castillo sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-10-10** | First recorded email in corpus\n- **2000-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susana-castillo",
+    "name": "Susana Castillo",
+    "email": "susana.castillo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

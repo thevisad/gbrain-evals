@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-sommers",
+  "type": "person",
+  "title": "Jeffrey Sommers",
+  "compiled_truth": "Jeffrey Sommers is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2001-05-23), Jeffrey Sommers sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-sommers",
+    "name": "Jeffrey Sommers",
+    "email": "jeffrey.sommers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

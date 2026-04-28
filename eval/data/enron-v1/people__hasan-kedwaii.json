@@ -1,0 +1,14 @@
+{
+  "slug": "people/hasan-kedwaii",
+  "type": "person",
+  "title": "Hasan Kedwaii",
+  "compiled_truth": "Hasan Kedwaii is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-13 to 2002-03-25), Hasan Kedwaii sent 13 and received 134 emails, totalling 147 interactions. Top correspondents: [Group Dl-Ets](people/group-dl-ets) (6), [Gerry Medeles](people/gerry-medeles) (3), [Lisa Sawyer](people/lisa-sawyer) (2), [Mark Gigliotti](people/mark-gigliotti) (2), [Andriy Mysyk](people/andriy-mysyk) (2). Mailbox folders observed: deleted_items, inbox, meetings___nng_customer_mtg.",
+  "timeline": "- **2000-06-13** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hasan-kedwaii",
+    "name": "Hasan Kedwaii",
+    "email": "hasan.kedwaii@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

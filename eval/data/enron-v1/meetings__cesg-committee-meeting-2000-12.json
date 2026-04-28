@@ -1,0 +1,27 @@
+{
+  "slug": "meetings/cesg-committee-meeting-2000-12",
+  "type": "meeting",
+  "title": "Meeting: Cesg Committee Meeting",
+  "compiled_truth": "Meeting: \"Cesg Committee Meeting\". Occurred 2000-12-01 through 2000-12-04 with 9 related emails. Participants included: [Athomas](people/athomas-newenergy), [Braun](people/braun-cmua), [Cmcintyre](people/cmcintyre-sempra), [Dhunter](people/dhunter-smithandkempton), [Eke](people/eke-aelaw), [Fieldejr](people/fieldejr-sce), [Jdasovic](people/jdasovic), [Jeff Dasovich](people/jeff-dasovich)....",
+  "timeline": "- **2000-12-01** | Meeting: cesg committee meeting\n- **2000-12-04** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/cesg-committee-meeting-2000-12",
+    "attendees": [
+      "people/athomas-newenergy",
+      "people/braun-cmua",
+      "people/cmcintyre-sempra",
+      "people/dhunter-smithandkempton",
+      "people/eke-aelaw",
+      "people/fieldejr-sce",
+      "people/jdasovic",
+      "people/jeff-dasovich",
+      "people/jeflory-calpx",
+      "people/mflorio-turn",
+      "people/rcavanagh-nrdc",
+      "people/smutny-iepa",
+      "people/wbooth-booth-law"
+    ],
+    "date": "2000-12-01"
+  }
+}

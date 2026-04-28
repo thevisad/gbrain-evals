@@ -1,0 +1,14 @@
+{
+  "slug": "people/chowell-sempra",
+  "type": "person",
+  "title": "Chowell",
+  "compiled_truth": "Chowell is an external contact at [Sempra Energy](companies/sempra). Over the corpus period (2001-03-02 to 2001-12-21), Chowell sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-03-02** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chowell-sempra",
+    "name": "Chowell",
+    "email": "chowell@sempra.com",
+    "primary_affiliation": "companies/sempra"
+  }
+}

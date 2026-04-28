@@ -1,0 +1,14 @@
+{
+  "slug": "people/elberg-gelin",
+  "type": "person",
+  "title": "Elberg Gelin",
+  "compiled_truth": "Elberg Gelin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-11-27), Elberg Gelin sent 1 and received 71 emails, totalling 72 interactions. Top correspondents: [John Cobb](people/john-cobb) (1), [Kevin Hyatt](people/kevin-hyatt) (1), [Eric Gadd](people/eric-gadd) (1). Mailbox folders observed: projects.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elberg-gelin",
+    "name": "Elberg Gelin",
+    "email": "elberg.gelin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

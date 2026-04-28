@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-booth",
+  "type": "person",
+  "title": "Chris Booth",
+  "compiled_truth": "Chris Booth is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-05 to 2001-12-06), Chris Booth sent 51 and received 420 emails, totalling 471 interactions. Top correspondents: [Kay Mann](people/kay-mann) (50), [Ben Jacoby](people/ben-jacoby) (31), [Kathleen Clark](people/kathleen-clark) (6), [Kathleen Carnahan](people/kathleen-carnahan) (5), [Rebecca Walker](people/rebecca-walker) (5). Mailbox folders observed: blue_dog, deleted_items, inbox.",
+  "timeline": "- **2000-06-05** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-booth",
+    "name": "Chris Booth",
+    "email": "chris.booth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

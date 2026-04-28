@@ -1,0 +1,14 @@
+{
+  "slug": "people/elsie-f-smith-williams",
+  "type": "person",
+  "title": "Elsie F Smith",
+  "compiled_truth": "Elsie F Smith is an external contact at [Williams Companies](companies/williams). Over the corpus period (2001-05-11 to 2001-10-24), Elsie F Smith sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-05-11** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elsie-f-smith-williams",
+    "name": "Elsie F Smith",
+    "email": "elsie.f.smith@williams.com",
+    "primary_affiliation": "companies/williams"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-riedel",
+  "type": "person",
+  "title": "Mike Riedel",
+  "compiled_truth": "Mike Riedel is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-27 to 2002-01-24), Mike Riedel sent 9 and received 111 emails, totalling 120 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (9), [Rick Loveless](people/rick-loveless) (8), [Butch Russell](people/butch-russell) (5), [William Kendrick](people/william-kendrick) (4), [Leo Nichols](people/leo-nichols) (3). Mailbox folders observed: 2000_goals_and_objectives, 2001_goals_and_objectives, inbox.",
+  "timeline": "- **1999-05-27** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-riedel",
+    "name": "Mike Riedel",
+    "email": "mike.riedel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

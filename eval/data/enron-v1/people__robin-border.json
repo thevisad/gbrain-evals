@@ -1,0 +1,14 @@
+{
+  "slug": "people/robin-border",
+  "type": "person",
+  "title": "Robin Border",
+  "compiled_truth": "Robin Border is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-26 to 2002-01-17), Robin Border sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-01-26** | First recorded email in corpus\n- **2002-01-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robin-border",
+    "name": "Robin Border",
+    "email": "robin.border@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

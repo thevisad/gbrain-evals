@@ -1,0 +1,14 @@
+{
+  "slug": "people/chrisjneale-hotmail",
+  "type": "person",
+  "title": "Chrisjneale",
+  "compiled_truth": "Chrisjneale is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-03-02 to 2001-12-12), Chrisjneale sent 4 and received 42 emails, totalling 46 interactions. Top correspondents: [Dasovich](people/dasovich-haas) (4), [Jkelly](people/jkelly-fairisaac) (3), [Cneale](people/cneale-coredevelopmentinc) (3), [Kupiecki](people/kupiecki-haas) (3), [Jeff Dasovich](people/jeff-dasovich) (1).",
+  "timeline": "- **2000-03-02** | First recorded email in corpus\n- **2001-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chrisjneale-hotmail",
+    "name": "Chrisjneale",
+    "email": "chrisjneale@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/wfhall2-duke-energy",
+  "type": "person",
+  "title": "Wfhall2",
+  "compiled_truth": "Wfhall2 is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (1999-11-02 to 2001-07-31), Wfhall2 sent 0 and received 227 emails, totalling 227 interactions.",
+  "timeline": "- **1999-11-02** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wfhall2-duke-energy",
+    "name": "Wfhall2",
+    "email": "wfhall2@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

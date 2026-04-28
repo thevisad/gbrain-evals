@@ -1,0 +1,14 @@
+{
+  "slug": "people/anna-santucci",
+  "type": "person",
+  "title": "Anna Santucci",
+  "compiled_truth": "Anna Santucci is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-20 to 2002-01-04), Anna Santucci sent 2 and received 190 emails, totalling 192 interactions. Top correspondents: [Harry Arora](people/harry-arora) (2), [Robert Benson](people/robert-benson) (2), [Chris Dorland](people/chris-dorland) (2), [Doug Gilbert-Smith](people/doug-gilbert-smith) (2), [Rogers Herndon](people/rogers-herndon) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-07-20** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anna-santucci",
+    "name": "Anna Santucci",
+    "email": "anna.santucci@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-poston",
+  "type": "person",
+  "title": "Tom Poston",
+  "compiled_truth": "Tom Poston is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-27 to 2002-03-21), Tom Poston sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **1999-05-27** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-poston",
+    "name": "Tom Poston",
+    "email": "tom.poston@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

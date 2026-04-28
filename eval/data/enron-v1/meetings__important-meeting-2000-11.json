@@ -1,0 +1,31 @@
+{
+  "slug": "meetings/important-meeting-2000-11",
+  "type": "meeting",
+  "title": "Meeting: Important Meeting",
+  "compiled_truth": "Meeting: \"Important Meeting\". Occurred 2000-11-20 with 1 related emails. Participants included: [Ben Jacoby](people/ben-jacoby), [Benjamin Rogers](people/benjamin-rogers), [Dave Kellermeyer](people/dave-kellermeyer), [Don Miller](people/don-miller), [Elizabeth Sager](people/elizabeth-sager), [Gus Eghneim](people/gus-eghneim), [Janice Moore](people/janice-moore), [Jeffrey Keenan](people/jeffrey-keenan)....",
+  "timeline": "- **2000-11-20** | Meeting: important meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/important-meeting-2000-11",
+    "attendees": [
+      "people/ben-jacoby",
+      "people/benjamin-rogers",
+      "people/dave-kellermeyer",
+      "people/don-miller",
+      "people/elizabeth-sager",
+      "people/gus-eghneim",
+      "people/janice-moore",
+      "people/jeffrey-keenan",
+      "people/jinsung-myung",
+      "people/jonathan-hoff",
+      "people/leslie-hansen",
+      "people/martin-penkwitz",
+      "people/mitch-robinson",
+      "people/paula-schaetzle",
+      "people/scott-healy",
+      "people/sheila-tweed",
+      "people/stuart-zisman"
+    ],
+    "date": "2000-11-20"
+  }
+}

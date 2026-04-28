@@ -1,0 +1,14 @@
+{
+  "slug": "people/mlampi-nyiso",
+  "type": "person",
+  "title": "Mlampi",
+  "compiled_truth": "Mlampi is an external contact at [Nyiso](companies/nyiso). Over the corpus period (2000-11-30 to 2001-11-27), Mlampi sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-30** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mlampi-nyiso",
+    "name": "Mlampi",
+    "email": "mlampi@nyiso.com",
+    "primary_affiliation": "companies/nyiso"
+  }
+}

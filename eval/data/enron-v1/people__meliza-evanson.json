@@ -1,0 +1,14 @@
+{
+  "slug": "people/meliza-evanson",
+  "type": "person",
+  "title": "Meliza Evanson",
+  "compiled_truth": "Meliza Evanson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-07 to 2001-12-03), Meliza Evanson sent 6 and received 20 emails, totalling 26 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (3), [Sally Beck](people/sally-beck) (2), [Hector Mcloughlin](people/hector-mcloughlin) (2), [Frank De](people/frank-de) (2), [Patti Thompson](people/patti-thompson) (1). Mailbox folders observed: deleted_items, inbox, personal.",
+  "timeline": "- **2000-12-07** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/meliza-evanson",
+    "name": "Meliza Evanson",
+    "email": "meliza.evanson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

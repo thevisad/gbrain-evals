@@ -1,0 +1,14 @@
+{
+  "slug": "people/vrinda-walavalkar",
+  "type": "person",
+  "title": "Vrinda Walavalkar",
+  "compiled_truth": "Vrinda Walavalkar is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-28 to 2001-05-24), Vrinda Walavalkar sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **1999-12-28** | First recorded email in corpus\n- **2001-05-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vrinda-walavalkar",
+    "name": "Vrinda Walavalkar",
+    "email": "vrinda.walavalkar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-rosen",
+  "type": "person",
+  "title": "Michael Rosen",
+  "compiled_truth": "Michael Rosen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-07-20), Michael Rosen sent 3 and received 51 emails, totalling 54 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (2), [Sally Beck](people/sally-beck) (2), [Lexi Elliott](people/lexi-elliott) (1), [Rick Buy](people/rick-buy) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-07-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-rosen",
+    "name": "Michael Rosen",
+    "email": "michael.rosen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

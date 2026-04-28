@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-schell",
+  "type": "person",
+  "title": "David Schell",
+  "compiled_truth": "David Schell is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-29 to 2001-06-29), David Schell sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-06-29** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-schell",
+    "name": "David Schell",
+    "email": "david.schell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

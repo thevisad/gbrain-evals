@@ -1,0 +1,14 @@
+{
+  "slug": "people/sgoodel-columbiaenergygroup",
+  "type": "person",
+  "title": "Sgoodel",
+  "compiled_truth": "Sgoodel is an external contact at [Columbiaenergygroup](companies/columbiaenergygroup). Over the corpus period (1999-12-21 to 2000-02-02), Sgoodel sent 4 and received 30 emails, totalling 34 interactions. Top correspondents: [Chris Germany](people/chris-germany) (4).",
+  "timeline": "- **1999-12-21** | First recorded email in corpus\n- **2000-02-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sgoodel-columbiaenergygroup",
+    "name": "Sgoodel",
+    "email": "sgoodel@columbiaenergygroup.com",
+    "primary_affiliation": "companies/columbiaenergygroup"
+  }
+}

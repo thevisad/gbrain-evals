@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-mcmillan",
+  "type": "person",
+  "title": "James Mcmillan",
+  "compiled_truth": "James Mcmillan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-27 to 2001-11-20), James Mcmillan sent 8 and received 52 emails, totalling 60 interactions. Top correspondents: [Paul Y'Barbo](people/paul-y-barbo) (5), [Dan Masters](people/dan-masters) (3), [Les Webber](people/les-webber) (3), [Emilio Vicens](people/emilio-vicens) (2), [Michael Wortham](people/michael-wortham) (2). Mailbox folders observed: calendar, inbox.",
+  "timeline": "- **2000-11-27** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-mcmillan",
+    "name": "James Mcmillan",
+    "email": "james.mcmillan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

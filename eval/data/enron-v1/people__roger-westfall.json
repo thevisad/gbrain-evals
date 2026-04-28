@@ -1,0 +1,14 @@
+{
+  "slug": "people/roger-westfall",
+  "type": "person",
+  "title": "Roger Westfall",
+  "compiled_truth": "Roger Westfall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-24 to 2002-03-25), Roger Westfall sent 0 and received 171 emails, totalling 171 interactions.",
+  "timeline": "- **2000-05-24** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roger-westfall",
+    "name": "Roger Westfall",
+    "email": "roger.westfall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

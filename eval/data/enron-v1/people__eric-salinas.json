@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-salinas",
+  "type": "person",
+  "title": "Eric Salinas",
+  "compiled_truth": "Eric Salinas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-27 to 2001-04-19), Eric Salinas sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-03-27** | First recorded email in corpus\n- **2001-04-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-salinas",
+    "name": "Eric Salinas",
+    "email": "eric.salinas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/robin-hill",
+  "type": "person",
+  "title": "Robin Hill",
+  "compiled_truth": "Robin Hill is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-13 to 2002-03-29), Robin Hill sent 5 and received 59 emails, totalling 64 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (4), [Scott Bolton](people/scott-bolton) (1), [Gil Melman](people/gil-melman) (1), [Marie Heard](people/marie-heard) (1), [Jane Wilhite](people/jane-wilhite) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-01-13** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robin-hill",
+    "name": "Robin Hill",
+    "email": "robin.hill@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

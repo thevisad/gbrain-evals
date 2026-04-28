@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-eiben",
+  "type": "person",
+  "title": "Michael Eiben",
+  "compiled_truth": "Michael Eiben is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2002-05-13), Michael Eiben sent 15 and received 347 emails, totalling 362 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (9), [Eric Gillaspie](people/eric-gillaspie) (7), [Howard Camp](people/howard-camp) (7), [Daren Farmer](people/daren-farmer) (6), [Edward Gottlob](people/edward-gottlob) (6).",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-eiben",
+    "name": "Michael Eiben",
+    "email": "michael.eiben@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

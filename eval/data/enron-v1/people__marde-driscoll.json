@@ -1,0 +1,14 @@
+{
+  "slug": "people/marde-driscoll",
+  "type": "person",
+  "title": "Marde Driscoll",
+  "compiled_truth": "Marde Driscoll is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-10 to 2001-06-11), Marde Driscoll sent 4 and received 171 emails, totalling 175 interactions. Top correspondents: [Chris Germany](people/chris-germany) (3), [Molly Lafuze](people/molly-lafuze) (2), [Angie Zeman](people/angie-zeman) (2), [East Desk](people/east-desk) (1), [Victor Lamadrid](people/victor-lamadrid) (1).",
+  "timeline": "- **2000-01-10** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marde-driscoll",
+    "name": "Marde Driscoll",
+    "email": "marde.driscoll@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

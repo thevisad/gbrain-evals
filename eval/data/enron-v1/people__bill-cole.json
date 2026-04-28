@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-cole",
+  "type": "person",
+  "title": "Bill Cole",
+  "compiled_truth": "Bill Cole is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2000-12-13), Bill Cole sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-cole",
+    "name": "Bill Cole",
+    "email": "bill.cole@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

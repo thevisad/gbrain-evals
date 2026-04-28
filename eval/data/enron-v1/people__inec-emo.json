@@ -1,0 +1,14 @@
+{
+  "slug": "people/inec-emo",
+  "type": "person",
+  "title": "Inec",
+  "compiled_truth": "Inec is an external contact at [Emo](companies/emo). Over the corpus period (2001-07-25 to 2001-07-25), Inec sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/inec-emo",
+    "name": "Inec",
+    "email": "inec@emo.gov",
+    "primary_affiliation": "companies/emo"
+  }
+}

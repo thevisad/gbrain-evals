@@ -1,0 +1,14 @@
+{
+  "slug": "people/justin-cornett",
+  "type": "person",
+  "title": "Justin Cornett",
+  "compiled_truth": "Justin Cornett is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-11-27), Justin Cornett sent 1 and received 39 emails, totalling 40 interactions. Top correspondents: [A  Shankman](people/a-shankman) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/justin-cornett",
+    "name": "Justin Cornett",
+    "email": "justin.cornett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

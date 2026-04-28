@@ -1,0 +1,14 @@
+{
+  "slug": "people/julie-ferrara",
+  "type": "person",
+  "title": "Julie Ferrara",
+  "compiled_truth": "Julie Ferrara is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2002-01-11), Julie Ferrara sent 17 and received 273 emails, totalling 290 interactions. Top correspondents: [Tana Jones](people/tana-jones) (8), [Mike McConnell](people/mike-mcconnell) (6), [Cathy Phillips](people/cathy-phillips) (5), [Phillip Love](people/phillip-love) (2), [Heather Alon](people/heather-alon) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julie-ferrara",
+    "name": "Julie Ferrara",
+    "email": "julie.ferrara@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

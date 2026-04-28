@@ -1,0 +1,14 @@
+{
+  "slug": "people/diana-willigerod",
+  "type": "person",
+  "title": "Diana Willigerod",
+  "compiled_truth": "Diana Willigerod is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-24 to 2001-06-21), Diana Willigerod sent 20 and received 27 emails, totalling 47 interactions. Top correspondents: [Portland Desk](people/portland-desk) (16), [Dan Dietrich](people/dan-dietrich) (12), [Desk Portland](people/desk-portland) (4), [David Steiner](people/david-steiner) (2). Mailbox folders observed: inbox, read.",
+  "timeline": "- **2000-08-24** | First recorded email in corpus\n- **2001-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diana-willigerod",
+    "name": "Diana Willigerod",
+    "email": "diana.willigerod@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

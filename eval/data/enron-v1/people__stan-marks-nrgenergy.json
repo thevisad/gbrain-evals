@@ -1,0 +1,14 @@
+{
+  "slug": "people/stan-marks-nrgenergy",
+  "type": "person",
+  "title": "Stan Marks",
+  "compiled_truth": "Stan Marks is an external contact at [Nrgenergy](companies/nrgenergy). Over the corpus period (2000-09-01 to 2001-01-23), Stan Marks sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stan-marks-nrgenergy",
+    "name": "Stan Marks",
+    "email": "stan.marks@nrgenergy.com",
+    "primary_affiliation": "companies/nrgenergy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mathis-conner",
+  "type": "person",
+  "title": "Mathis Conner",
+  "compiled_truth": "Mathis Conner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-08-22), Mathis Conner sent 1 and received 28 emails, totalling 29 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (1).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-08-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mathis-conner",
+    "name": "Mathis Conner",
+    "email": "mathis.conner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

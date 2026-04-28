@@ -1,0 +1,14 @@
+{
+  "slug": "people/ecabeard-aol",
+  "type": "person",
+  "title": "Ecabeard",
+  "compiled_truth": "Ecabeard is an external contact at [AOL](companies/aol). Over the corpus period (2001-09-17 to 2001-11-19), Ecabeard sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ecabeard-aol",
+    "name": "Ecabeard",
+    "email": "ecabeard@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

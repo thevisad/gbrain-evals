@@ -1,0 +1,26 @@
+{
+  "slug": "companies/mrwassoc",
+  "type": "company",
+  "title": "Mrwassoc",
+  "compiled_truth": "Mrwassoc is an external organization that appears in the Enron email corpus. Domain: mrwassoc.com. Total email interactions with Enron: 481. Known contacts: 9 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (481 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/mrwassoc",
+    "name": "Mrwassoc",
+    "employees": [
+      "people/gac-mrwassoc",
+      "people/kl-mrwassoc",
+      "people/kxl-mrwassoc",
+      "people/msk-mrwassoc",
+      "people/rbw-mrwassoc",
+      "people/rhc-mrwassoc",
+      "people/ryy-mrwassoc",
+      "people/scm-mrwassoc",
+      "people/wam-mrwassoc"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

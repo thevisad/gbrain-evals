@@ -1,0 +1,14 @@
+{
+  "slug": "people/carole-frank",
+  "type": "person",
+  "title": "Carole Frank",
+  "compiled_truth": "Carole Frank is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-06 to 2002-02-04), Carole Frank sent 40 and received 341 emails, totalling 381 interactions. Top correspondents: [T  Lucci](people/t-lucci) (17), [Jay Reitmeyer](people/jay-reitmeyer) (11), [Theresa Staab](people/theresa-staab) (11), [C  Giron](people/c-giron) (9), [Frank Ermis](people/frank-ermis) (6). Mailbox folders observed: deleted_items, inbox, personal.",
+  "timeline": "- **2000-10-06** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carole-frank",
+    "name": "Carole Frank",
+    "email": "carole.frank@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

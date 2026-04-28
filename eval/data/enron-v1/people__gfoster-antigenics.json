@@ -1,0 +1,14 @@
+{
+  "slug": "people/gfoster-antigenics",
+  "type": "person",
+  "title": "Gfoster",
+  "compiled_truth": "Gfoster is an external contact at [Antigenics](companies/antigenics). Over the corpus period (2000-03-10 to 2001-12-01), Gfoster sent 13 and received 17 emails, totalling 30 interactions. Top correspondents: [Rshapiro](people/rshapiro) (6), [Jdasovic](people/jdasovic) (5), [Smara](people/smara) (4), [Mark Palmer](people/mark-palmer) (3), [Rvw](people/rvw-rillc) (2).",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-12-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gfoster-antigenics",
+    "name": "Gfoster",
+    "email": "gfoster@antigenics.com",
+    "primary_affiliation": "companies/antigenics"
+  }
+}

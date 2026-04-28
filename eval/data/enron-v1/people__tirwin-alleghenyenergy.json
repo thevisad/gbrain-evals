@@ -1,0 +1,14 @@
+{
+  "slug": "people/tirwin-alleghenyenergy",
+  "type": "person",
+  "title": "Tirwin",
+  "compiled_truth": "Tirwin is an external contact at [Alleghenyenergy](companies/alleghenyenergy). Over the corpus period (2000-10-10 to 2000-11-01), Tirwin sent 4 and received 24 emails, totalling 28 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (4), [Jlapcev](people/jlapcev-alleghenyenergy) (2), [Tpezze](people/tpezze-alleghenyenergy) (2), [Ron Coker](people/ron-coker) (1), [Mitch Robinson](people/mitch-robinson) (1).",
+  "timeline": "- **2000-10-10** | First recorded email in corpus\n- **2000-11-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tirwin-alleghenyenergy",
+    "name": "Tirwin",
+    "email": "tirwin@alleghenyenergy.com",
+    "primary_affiliation": "companies/alleghenyenergy"
+  }
+}

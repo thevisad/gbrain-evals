@@ -1,0 +1,14 @@
+{
+  "slug": "people/martin-smith",
+  "type": "person",
+  "title": "Martin Smith",
+  "compiled_truth": "Martin Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-06 to 2001-08-27), Martin Smith sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-10-06** | First recorded email in corpus\n- **2001-08-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martin-smith",
+    "name": "Martin Smith",
+    "email": "martin.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

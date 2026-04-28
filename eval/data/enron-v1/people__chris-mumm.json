@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-mumm",
+  "type": "person",
+  "title": "Chris Mumm",
+  "compiled_truth": "Chris Mumm is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-25 to 2001-11-08), Chris Mumm sent 1 and received 27 emails, totalling 28 interactions. Top correspondents: [Tracy Ngo](people/tracy-ngo) (1), [S  Bradford](people/s-bradford) (1), [Louise Kitchen](people/louise-kitchen) (1), [ Hall](people/hall) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-mumm",
+    "name": "Chris Mumm",
+    "email": "chris.mumm@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

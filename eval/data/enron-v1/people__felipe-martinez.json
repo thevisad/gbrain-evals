@@ -1,0 +1,14 @@
+{
+  "slug": "people/felipe-martinez",
+  "type": "person",
+  "title": "Felipe Martinez",
+  "compiled_truth": "Felipe Martinez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-11-03), Felipe Martinez sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/felipe-martinez",
+    "name": "Felipe Martinez",
+    "email": "felipe.martinez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

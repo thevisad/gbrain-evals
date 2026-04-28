@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-baker",
+  "type": "person",
+  "title": "Robert Baker",
+  "compiled_truth": "Robert Baker is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-23 to 2002-02-28), Robert Baker sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-05-23** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-baker",
+    "name": "Robert Baker",
+    "email": "robert.baker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

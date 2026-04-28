@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-jakubik",
+  "type": "person",
+  "title": "Mike Jakubik",
+  "compiled_truth": "Mike Jakubik is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-11 to 2000-10-25), Mike Jakubik sent 0 and received 56 emails, totalling 56 interactions.",
+  "timeline": "- **2000-04-11** | First recorded email in corpus\n- **2000-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-jakubik",
+    "name": "Mike Jakubik",
+    "email": "mike.jakubik@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bennett-dave",
+  "type": "person",
+  "title": "Bennett Dave",
+  "compiled_truth": "Bennett Dave is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-10 to 2001-10-10), Bennett Dave sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-10** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bennett-dave",
+    "name": "Bennett Dave",
+    "email": "bennett.dave@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

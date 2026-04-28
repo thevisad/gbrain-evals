@@ -1,0 +1,14 @@
+{
+  "slug": "people/charles-decker",
+  "type": "person",
+  "title": "Charles Decker",
+  "compiled_truth": "Charles Decker is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-29), Charles Decker sent 1 and received 101 emails, totalling 102 interactions. Top correspondents: [Dennis Benevides](people/dennis-benevides) (1), [Kenneth Lee](people/kenneth-lee) (1), [Jerald Surface](people/jerald-surface) (1), [Preston Ochsner](people/preston-ochsner) (1), [John Zurita](people/john-zurita) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charles-decker",
+    "name": "Charles Decker",
+    "email": "charles.decker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

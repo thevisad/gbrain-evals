@@ -1,0 +1,26 @@
+{
+  "slug": "threads/isda-2001-08",
+  "type": "meeting",
+  "title": "Thread: Isda",
+  "compiled_truth": "Email thread: \"Isda\". Ran from 2001-08-30 to 2001-09-28 with 9 messages. Participants: [Darren Gurner](people/darren-gurner), [Janet Wood](people/janet-wood), [Jdolan](people/jdolan-ci), [Karri Lehtinen](people/karri-lehtinen-nordea), [Lauri Marttila](people/lauri-marttila-nordea), [ Lehtinen](people/lehtinen), [Lsilva](people/lsilva-ci), [ Marttila](people/marttila).",
+  "timeline": "- **2001-08-30** | Thread begins: isda\n- **2001-09-28** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/isda-2001-08",
+    "attendees": [
+      "people/darren-gurner",
+      "people/janet-wood",
+      "people/jdolan-ci",
+      "people/karri-lehtinen-nordea",
+      "people/lauri-marttila-nordea",
+      "people/lehtinen",
+      "people/lsilva-ci",
+      "people/marttila",
+      "people/niclas-egmar",
+      "people/slins-ci",
+      "people/tana-jones",
+      "people/ward"
+    ],
+    "date": "2001-08-30"
+  }
+}

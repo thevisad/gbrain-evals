@@ -1,0 +1,14 @@
+{
+  "slug": "people/donna-teal",
+  "type": "person",
+  "title": "Donna Teal",
+  "compiled_truth": "Donna Teal is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-11 to 2002-02-01), Donna Teal sent 32 and received 3 emails, totalling 35 interactions. Top correspondents: [Margaret Doucette](people/margaret-doucette) (7), [Dianne Langeland](people/dianne-langeland) (3), [Zelda Paschal](people/zelda-paschal) (2), [Etc Distribution](people/etc-distribution) (2), [Eydie Corneiro](people/eydie-corneiro) (1). Mailbox folders observed: deleted_items, enron_travel_club, personal.",
+  "timeline": "- **2000-12-11** | First recorded email in corpus\n- **2002-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donna-teal",
+    "name": "Donna Teal",
+    "email": "donna.teal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

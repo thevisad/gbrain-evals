@@ -1,0 +1,14 @@
+{
+  "slug": "people/rogan-haas",
+  "type": "person",
+  "title": "Rogan",
+  "compiled_truth": "Rogan is an external contact at [Haas](companies/haas). Over the corpus period (2000-01-29 to 2001-10-22), Rogan sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-01-29** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rogan-haas",
+    "name": "Rogan",
+    "email": "rogan@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

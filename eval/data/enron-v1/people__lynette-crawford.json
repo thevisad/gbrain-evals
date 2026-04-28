@@ -1,0 +1,14 @@
+{
+  "slug": "people/lynette-crawford",
+  "type": "person",
+  "title": "Lynette Crawford",
+  "compiled_truth": "Lynette Crawford is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-05-06), Lynette Crawford sent 3 and received 4 emails, totalling 7 interactions. Top correspondents: [Samantha Boyd](people/samantha-boyd) (2), [Ruthann Frausto](people/ruthann-frausto) (2), [Stephanie Panus](people/stephanie-panus) (2), [Maroun Abboudy](people/maroun-abboudy) (1), [Mansoor Abdmoulaie](people/mansoor-abdmoulaie) (1). Mailbox folders observed: e_mail_bin, memos.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lynette-crawford",
+    "name": "Lynette Crawford",
+    "email": "lynette.crawford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

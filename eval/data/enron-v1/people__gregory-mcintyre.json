@@ -1,0 +1,14 @@
+{
+  "slug": "people/gregory-mcintyre",
+  "type": "person",
+  "title": "Gregory Mcintyre",
+  "compiled_truth": "Gregory Mcintyre is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-14 to 2001-10-26), Gregory Mcintyre sent 2 and received 12 emails, totalling 14 interactions. Top correspondents: [E  Haedicke](people/e-haedicke) (1), [Mark Taylor](people/mark-taylor) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-14** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gregory-mcintyre",
+    "name": "Gregory Mcintyre",
+    "email": "gregory.mcintyre@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

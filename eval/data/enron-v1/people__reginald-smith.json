@@ -1,0 +1,14 @@
+{
+  "slug": "people/reginald-smith",
+  "type": "person",
+  "title": "Reginald Smith",
+  "compiled_truth": "Reginald Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-12-03), Reginald Smith sent 2 and received 27 emails, totalling 29 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reginald-smith",
+    "name": "Reginald Smith",
+    "email": "reginald.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

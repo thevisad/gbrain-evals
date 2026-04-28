@@ -1,0 +1,14 @@
+{
+  "slug": "people/jynell-holliday",
+  "type": "person",
+  "title": "Jynell Holliday",
+  "compiled_truth": "Jynell Holliday is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-21 to 2001-08-23), Jynell Holliday sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1), [Jeff Skilling](people/jeff-skilling) (1), [A  Davis](people/a-davis) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-09-21** | First recorded email in corpus\n- **2001-08-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jynell-holliday",
+    "name": "Jynell Holliday",
+    "email": "jynell.holliday@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

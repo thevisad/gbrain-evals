@@ -1,0 +1,14 @@
+{
+  "slug": "people/ed-clark",
+  "type": "person",
+  "title": "Ed Clark",
+  "compiled_truth": "Ed Clark is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-17 to 2002-03-01), Ed Clark sent 0 and received 94 emails, totalling 94 interactions.",
+  "timeline": "- **2000-05-17** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ed-clark",
+    "name": "Ed Clark",
+    "email": "ed.clark@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

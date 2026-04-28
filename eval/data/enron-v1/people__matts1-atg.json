@@ -1,0 +1,14 @@
+{
+  "slug": "people/matts1-atg",
+  "type": "person",
+  "title": "Matts1",
+  "compiled_truth": "Matts1 is an external contact at [Atg](companies/atg). Over the corpus period (2001-03-14 to 2001-04-27), Matts1 sent 0 and received 63 emails, totalling 63 interactions.",
+  "timeline": "- **2001-03-14** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matts1-atg",
+    "name": "Matts1",
+    "email": "matts1@atg.wa.gov",
+    "primary_affiliation": "companies/atg"
+  }
+}

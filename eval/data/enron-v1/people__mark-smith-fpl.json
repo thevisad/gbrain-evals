@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-smith-fpl",
+  "type": "person",
+  "title": "Mark Smith",
+  "compiled_truth": "Mark Smith is an external contact at [Fpl](companies/fpl). Over the corpus period (2000-09-25 to 2000-09-25), Mark Smith sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-09-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-smith-fpl",
+    "name": "Mark Smith",
+    "email": "mark_smith@fpl.com",
+    "primary_affiliation": "companies/fpl"
+  }
+}

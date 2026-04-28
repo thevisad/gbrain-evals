@@ -1,0 +1,14 @@
+{
+  "slug": "people/forbes-peter",
+  "type": "person",
+  "title": "Forbes Peter",
+  "compiled_truth": "Forbes Peter is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-07 to 2002-01-02), Forbes Peter sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-06-07** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/forbes-peter",
+    "name": "Forbes Peter",
+    "email": "forbes.peter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

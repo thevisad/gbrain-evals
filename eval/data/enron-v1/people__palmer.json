@@ -1,0 +1,14 @@
+{
+  "slug": "people/palmer",
+  "type": "person",
+  "title": " Palmer",
+  "compiled_truth": "Palmer is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2002-05-06),  Palmer sent 43 and received 610 emails, totalling 653 interactions. Top correspondents: [J  Kean](people/j-kean) (26), [Karen Denne](people/karen-denne) (15), [Mark Koenig](people/mark-koenig) (14), [Kenneth Lay](people/kenneth-lay) (10), [Paula Rieker](people/paula-rieker) (7). Mailbox folders observed: _americas, advertising, caliornia___investigations, corporate_communications, deleted_items, dynegy_transaction.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/palmer",
+    "name": " Palmer",
+    "email": ".palmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

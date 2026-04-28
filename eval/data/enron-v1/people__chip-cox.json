@@ -1,0 +1,14 @@
+{
+  "slug": "people/chip-cox",
+  "type": "person",
+  "title": "Chip Cox",
+  "compiled_truth": "Chip Cox is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-26 to 2002-06-19), Chip Cox sent 18 and received 62 emails, totalling 80 interactions. Top correspondents: [Center Dl-Portland](people/center-dl-portland) (4), [Portland Desk](people/portland-desk) (4), [Bill Williams](people/bill-williams) (4), [Tim Belden](people/tim-belden) (2), [David Poston](people/david-poston) (2). Mailbox folders observed: bill_williams_iii, deleted_items, inbox, read.",
+  "timeline": "- **2000-07-26** | First recorded email in corpus\n- **2002-06-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chip-cox",
+    "name": "Chip Cox",
+    "email": "chip.cox@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

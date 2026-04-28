@@ -1,0 +1,14 @@
+{
+  "slug": "people/wendi-hoelscher",
+  "type": "person",
+  "title": "Wendi Hoelscher",
+  "compiled_truth": "Wendi Hoelscher is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-04 to 2001-12-05), Wendi Hoelscher sent 2 and received 20 emails, totalling 22 interactions. Top correspondents: [Mark Haedicke](people/mark-haedicke) (1), [Janette Elbertson](people/janette-elbertson) (1).",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wendi-hoelscher",
+    "name": "Wendi Hoelscher",
+    "email": "wendi.hoelscher@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/timothy-callahan",
+  "type": "person",
+  "title": "Timothy Callahan",
+  "compiled_truth": "Timothy Callahan is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-27), Timothy Callahan sent 15 and received 52 emails, totalling 67 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (9), [Louise Kitchen](people/louise-kitchen) (6), [Marcus Nettelton](people/marcus-nettelton) (5), [Margaret Daffin](people/margaret-daffin) (5), [David Oxley](people/david-oxley) (4). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/timothy-callahan",
+    "name": "Timothy Callahan",
+    "email": "timothy.callahan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

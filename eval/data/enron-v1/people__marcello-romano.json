@@ -1,0 +1,14 @@
+{
+  "slug": "people/marcello-romano",
+  "type": "person",
+  "title": "Marcello Romano",
+  "compiled_truth": "Marcello Romano is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-27 to 2001-12-10), Marcello Romano sent 8 and received 123 emails, totalling 131 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (7), [Mark Taylor](people/mark-taylor) (2), [David Forster](people/david-forster) (2), [Bob Shults](people/bob-shults) (2), [Matthew Scrimshaw](people/matthew-scrimshaw) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-05-27** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marcello-romano",
+    "name": "Marcello Romano",
+    "email": "marcello.romano@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/debbie-nicholls",
+  "type": "person",
+  "title": "Debbie Nicholls",
+  "compiled_truth": "Debbie Nicholls is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-30 to 2001-12-06), Debbie Nicholls sent 0 and received 134 emails, totalling 134 interactions.",
+  "timeline": "- **1999-09-30** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debbie-nicholls",
+    "name": "Debbie Nicholls",
+    "email": "debbie.nicholls@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

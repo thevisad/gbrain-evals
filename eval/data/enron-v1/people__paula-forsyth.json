@@ -1,0 +1,14 @@
+{
+  "slug": "people/paula-forsyth",
+  "type": "person",
+  "title": "Paula Forsyth",
+  "compiled_truth": "Paula Forsyth is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-01), Paula Forsyth sent 1 and received 30 emails, totalling 31 interactions. Top correspondents: [Stephen Douglas](people/stephen-douglas) (1), [Jeff Blumenthal](people/jeff-blumenthal) (1), [Janine Juggins](people/janine-juggins) (1), [Sara Shackleton](people/sara-shackleton) (1), [Mark Taylor](people/mark-taylor) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paula-forsyth",
+    "name": "Paula Forsyth",
+    "email": "paula.forsyth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

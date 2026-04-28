@@ -1,0 +1,14 @@
+{
+  "slug": "people/joel-lowery",
+  "type": "person",
+  "title": "Joel Lowery",
+  "compiled_truth": "Joel Lowery is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-11-09), Joel Lowery sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joel-lowery",
+    "name": "Joel Lowery",
+    "email": "joel.lowery@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

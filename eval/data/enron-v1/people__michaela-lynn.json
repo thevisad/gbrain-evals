@@ -1,0 +1,14 @@
+{
+  "slug": "people/michaela-lynn",
+  "type": "person",
+  "title": "Michaela Lynn",
+  "compiled_truth": "Michaela Lynn is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-08 to 2001-05-09), Michaela Lynn sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michaela-lynn",
+    "name": "Michaela Lynn",
+    "email": "michaela.lynn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

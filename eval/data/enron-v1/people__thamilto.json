@@ -1,0 +1,14 @@
+{
+  "slug": "people/thamilto",
+  "type": "person",
+  "title": "Thamilto",
+  "compiled_truth": "Thamilto is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-14 to 2001-07-31), Thamilto sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **2000-04-14** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thamilto",
+    "name": "Thamilto",
+    "email": "thamilto@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/derek-naten-roche",
+  "type": "person",
+  "title": "Derek Naten",
+  "compiled_truth": "Derek Naten is an external contact at [Roche](companies/roche). Over the corpus period (2001-05-03 to 2001-12-21), Derek Naten sent 0 and received 85 emails, totalling 85 interactions.",
+  "timeline": "- **2001-05-03** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/derek-naten-roche",
+    "name": "Derek Naten",
+    "email": "derek.naten@roche.com",
+    "primary_affiliation": "companies/roche"
+  }
+}

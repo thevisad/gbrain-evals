@@ -1,0 +1,14 @@
+{
+  "slug": "people/emca-yahoogroups",
+  "type": "person",
+  "title": "Emca",
+  "compiled_truth": "Emca is an external contact at [Yahoogroups](companies/yahoogroups). Over the corpus period (2001-09-23 to 2002-03-25), Emca sent 11 and received 231 emails, totalling 242 interactions.",
+  "timeline": "- **2001-09-23** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/emca-yahoogroups",
+    "name": "Emca",
+    "email": "emca@yahoogroups.com",
+    "primary_affiliation": "companies/yahoogroups"
+  }
+}

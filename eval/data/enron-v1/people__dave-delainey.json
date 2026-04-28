@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-delainey",
+  "type": "person",
+  "title": "Dave Delainey",
+  "compiled_truth": "Dave Delainey is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2001-06-22), Dave Delainey sent 1 and received 5 emails, totalling 6 interactions. Top correspondents: [Ena Employees](people/ena-employees) (1), [Ees Employees](people/ees-employees) (1). Mailbox folders observed: personal.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2001-06-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-delainey",
+    "name": "Dave Delainey",
+    "email": "dave.delainey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

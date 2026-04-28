@@ -1,0 +1,14 @@
+{
+  "slug": "people/tgary-pcenergy",
+  "type": "person",
+  "title": "Tgary",
+  "compiled_truth": "Tgary is an external contact at [Pcenergy](companies/pcenergy). Over the corpus period (1999-09-24 to 2001-07-31), Tgary sent 0 and received 54 emails, totalling 54 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tgary-pcenergy",
+    "name": "Tgary",
+    "email": "tgary@pcenergy.com",
+    "primary_affiliation": "companies/pcenergy"
+  }
+}

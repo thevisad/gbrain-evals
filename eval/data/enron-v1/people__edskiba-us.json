@@ -1,0 +1,14 @@
+{
+  "slug": "people/edskiba-us",
+  "type": "person",
+  "title": "Edskiba",
+  "compiled_truth": "Edskiba is an external contact at [Us](companies/us). Over the corpus period (2002-01-08 to 2002-02-06), Edskiba sent 1 and received 3 emails, totalling 4 interactions. Top correspondents: [Careed](people/careed-aep) (1), [Odle](people/odle) (1), [Dodle](people/dodle-ercot) (1), [Set](people/set-ercot) (1).",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edskiba-us",
+    "name": "Edskiba",
+    "email": "edskiba@us.ibm.com",
+    "primary_affiliation": "companies/us"
+  }
+}

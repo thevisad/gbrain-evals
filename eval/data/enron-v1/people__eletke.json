@@ -1,0 +1,14 @@
+{
+  "slug": "people/eletke",
+  "type": "person",
+  "title": "Eletke",
+  "compiled_truth": "Eletke is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-26 to 2001-07-25), Eletke sent 0 and received 88 emails, totalling 88 interactions.",
+  "timeline": "- **2000-12-26** | First recorded email in corpus\n- **2001-07-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eletke",
+    "name": "Eletke",
+    "email": "eletke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

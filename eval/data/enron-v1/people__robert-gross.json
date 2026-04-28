@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-gross",
+  "type": "person",
+  "title": "Robert Gross",
+  "compiled_truth": "Robert Gross is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-17 to 2001-05-31), Robert Gross sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-08-17** | First recorded email in corpus\n- **2001-05-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-gross",
+    "name": "Robert Gross",
+    "email": "robert.gross@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-king",
+  "type": "person",
+  "title": "Joe King",
+  "compiled_truth": "Joe King is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2001-10-26), Joe King sent 2 and received 19 emails, totalling 21 interactions. Top correspondents: [A  Shankman](people/a-shankman) (1), [Mike McConnell](people/mike-mcconnell) (1), [Shanna Funkhouser](people/shanna-funkhouser) (1), [L  Nowlan](people/l-nowlan) (1), [Kevin Meredith](people/kevin-meredith) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-king",
+    "name": "Joe King",
+    "email": "joe.king@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

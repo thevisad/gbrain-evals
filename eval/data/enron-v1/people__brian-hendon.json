@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-hendon",
+  "type": "person",
+  "title": "Brian Hendon",
+  "compiled_truth": "Brian Hendon is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-23 to 2001-11-16), Brian Hendon sent 29 and received 67 emails, totalling 96 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (27), [Bruce Rudy](people/bruce-rudy) (5), [ Kemp](people/kemp) (4), [ Barry](people/barry) (3), [ Candice](people/candice) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-07-23** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-hendon",
+    "name": "Brian Hendon",
+    "email": "brian.hendon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

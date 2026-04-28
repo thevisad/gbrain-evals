@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenneth-parkhill",
+  "type": "person",
+  "title": "Kenneth Parkhill",
+  "compiled_truth": "Kenneth Parkhill is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-01 to 2002-01-03), Kenneth Parkhill sent 19 and received 123 emails, totalling 142 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (14), [Christie Patrick](people/christie-patrick) (6), [John Griffith](people/john-griffith) (5), [Bob Lee](people/bob-lee) (4), [Ghoshr](people/ghoshr-rice) (4). Mailbox folders observed: market, rice, sites.",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenneth-parkhill",
+    "name": "Kenneth Parkhill",
+    "email": "kenneth.parkhill@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

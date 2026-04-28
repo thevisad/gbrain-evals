@@ -1,0 +1,14 @@
+{
+  "slug": "people/ray-hamman",
+  "type": "person",
+  "title": "Ray Hamman",
+  "compiled_truth": "Ray Hamman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-03 to 2000-11-13), Ray Hamman sent 0 and received 37 emails, totalling 37 interactions.",
+  "timeline": "- **2000-04-03** | First recorded email in corpus\n- **2000-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ray-hamman",
+    "name": "Ray Hamman",
+    "email": "ray.hamman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

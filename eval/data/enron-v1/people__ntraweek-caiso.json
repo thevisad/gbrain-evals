@@ -1,0 +1,14 @@
+{
+  "slug": "people/ntraweek-caiso",
+  "type": "person",
+  "title": "Ntraweek",
+  "compiled_truth": "Ntraweek is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-06-21 to 2001-05-27), Ntraweek sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-05-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ntraweek-caiso",
+    "name": "Ntraweek",
+    "email": "ntraweek@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

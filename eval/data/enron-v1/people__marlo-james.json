@@ -1,0 +1,14 @@
+{
+  "slug": "people/marlo-james",
+  "type": "person",
+  "title": "Marlo James",
+  "compiled_truth": "Marlo James is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-14), Marlo James sent 5 and received 60 emails, totalling 65 interactions. Top correspondents: [Judy Hernandez](people/judy-hernandez) (2), [Cora Pendergrass](people/cora-pendergrass) (2), [Patrice Mims](people/patrice-mims) (2), [Chris Germany](people/chris-germany) (1), [Sherry Anastas](people/sherry-anastas) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marlo-james",
+    "name": "Marlo James",
+    "email": "marlo.james@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

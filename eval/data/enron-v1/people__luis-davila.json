@@ -1,0 +1,14 @@
+{
+  "slug": "people/luis-davila",
+  "type": "person",
+  "title": "Luis Davila",
+  "compiled_truth": "Luis Davila is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-10-12), Luis Davila sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/luis-davila",
+    "name": "Luis Davila",
+    "email": "luis.davila@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

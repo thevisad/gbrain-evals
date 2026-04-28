@@ -1,0 +1,14 @@
+{
+  "slug": "people/raquel-guerrero",
+  "type": "person",
+  "title": "Raquel Guerrero",
+  "compiled_truth": "Raquel Guerrero is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-11-27), Raquel Guerrero sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [Mark Mcconnell](people/mark-mcconnell) (1). Mailbox folders observed: misc.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/raquel-guerrero",
+    "name": "Raquel Guerrero",
+    "email": "raquel.guerrero@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

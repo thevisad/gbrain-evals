@@ -1,0 +1,14 @@
+{
+  "slug": "people/joanna-gao",
+  "type": "person",
+  "title": "Joanna Gao",
+  "compiled_truth": "Joanna Gao is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-10-09), Joanna Gao sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joanna-gao",
+    "name": "Joanna Gao",
+    "email": "joanna.gao@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-fraley",
+  "type": "person",
+  "title": "Keith Fraley",
+  "compiled_truth": "Keith Fraley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-11-06), Keith Fraley sent 1 and received 20 emails, totalling 21 interactions. Top correspondents: [Erica Adams](people/erica-adams) (1), [Jeff Ader](people/jeff-ader) (1), [Naveed Ahmed](people/naveed-ahmed) (1), [Chris Ahn](people/chris-ahn) (1), [Jeff Andrews](people/jeff-andrews) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-fraley",
+    "name": "Keith Fraley",
+    "email": "keith.fraley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

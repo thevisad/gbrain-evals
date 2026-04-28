@@ -1,0 +1,14 @@
+{
+  "slug": "people/diomedes-christodoulou",
+  "type": "person",
+  "title": "Diomedes Christodoulou",
+  "compiled_truth": "Diomedes Christodoulou is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-09 to 2001-05-11), Diomedes Christodoulou sent 1 and received 102 emails, totalling 103 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-09-09** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diomedes-christodoulou",
+    "name": "Diomedes Christodoulou",
+    "email": "diomedes.christodoulou@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

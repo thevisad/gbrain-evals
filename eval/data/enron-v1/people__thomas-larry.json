@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas-larry",
+  "type": "person",
+  "title": "Thomas Larry",
+  "compiled_truth": "Thomas Larry is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-16 to 2002-01-16), Thomas Larry sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas-larry",
+    "name": "Thomas Larry",
+    "email": "thomas.larry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

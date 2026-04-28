@@ -1,0 +1,14 @@
+{
+  "slug": "people/arize-agumadu",
+  "type": "person",
+  "title": "Arize Agumadu",
+  "compiled_truth": "Arize Agumadu is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-19 to 2001-11-08), Arize Agumadu sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-07-19** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/arize-agumadu",
+    "name": "Arize Agumadu",
+    "email": "arize.agumadu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

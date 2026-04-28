@@ -1,0 +1,14 @@
+{
+  "slug": "people/pittalav-conedsolutions",
+  "type": "person",
+  "title": "Pittalav",
+  "compiled_truth": "Pittalav is an external contact at [Conedsolutions](companies/conedsolutions). Over the corpus period (2002-01-25 to 2002-01-29), Pittalav sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-25** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pittalav-conedsolutions",
+    "name": "Pittalav",
+    "email": "pittalav@conedsolutions.com",
+    "primary_affiliation": "companies/conedsolutions"
+  }
+}

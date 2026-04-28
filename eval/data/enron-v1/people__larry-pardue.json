@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-pardue",
+  "type": "person",
+  "title": "Larry Pardue",
+  "compiled_truth": "Larry Pardue is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2001-12-28), Larry Pardue sent 17 and received 73 emails, totalling 90 interactions. Top correspondents: [James Derrick](people/james-derrick) (14), [Angie Ramirez](people/angie-ramirez) (13), [Cynthia Barrow](people/cynthia-barrow) (13), [Hardie Davis](people/hardie-davis) (13), [Greg Whiting](people/greg-whiting) (13). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-pardue",
+    "name": "Larry Pardue",
+    "email": "larry.pardue@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

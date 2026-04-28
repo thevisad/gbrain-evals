@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-wadle",
+  "type": "person",
+  "title": "Susan Wadle",
+  "compiled_truth": "Susan Wadle is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2002-03-22), Susan Wadle sent 52 and received 144 emails, totalling 196 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (39), [Eric Gadd](people/eric-gadd) (22), [Kimberly Watson](people/kimberly-watson) (9), [Julie Armstrong](people/julie-armstrong) (7), [Audrey Robertson](people/audrey-robertson) (6). Mailbox folders observed: deleted_items, e_mail_bin, inbox, market_intel, personal, projects.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2002-03-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-wadle",
+    "name": "Susan Wadle",
+    "email": "susan.wadle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

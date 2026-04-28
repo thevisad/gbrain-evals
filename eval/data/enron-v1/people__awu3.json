@@ -1,0 +1,14 @@
+{
+  "slug": "people/awu3",
+  "type": "person",
+  "title": "Awu3",
+  "compiled_truth": "Awu3 is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2001-05-10), Awu3 sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/awu3",
+    "name": "Awu3",
+    "email": "awu3@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

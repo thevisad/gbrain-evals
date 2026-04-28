@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-otto",
+  "type": "person",
+  "title": "Randy Otto",
+  "compiled_truth": "Randy Otto is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-30), Randy Otto sent 10 and received 124 emails, totalling 134 interactions. Top correspondents: [Jason Biever](people/jason-biever) (5), [Jonathan Mckay](people/jonathan-mckay) (5), [Greg Johnston](people/greg-johnston) (5), [Eric Le](people/eric-le) (5), [Howard Sangwine](people/howard-sangwine) (5). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-otto",
+    "name": "Randy Otto",
+    "email": "randy.otto@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

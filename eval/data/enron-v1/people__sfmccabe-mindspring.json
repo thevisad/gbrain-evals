@@ -1,0 +1,14 @@
+{
+  "slug": "people/sfmccabe-mindspring",
+  "type": "person",
+  "title": "Sfmccabe",
+  "compiled_truth": "Sfmccabe is an external contact at [Mindspring](companies/mindspring). Over the corpus period (2000-09-01 to 2001-06-06), Sfmccabe sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sfmccabe-mindspring",
+    "name": "Sfmccabe",
+    "email": "sfmccabe@mindspring.com",
+    "primary_affiliation": "companies/mindspring"
+  }
+}

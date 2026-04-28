@@ -1,0 +1,14 @@
+{
+  "slug": "people/thulan-ly",
+  "type": "person",
+  "title": "Thulan Ly",
+  "compiled_truth": "Thulan Ly is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-27 to 2001-10-12), Thulan Ly sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-04-27** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thulan-ly",
+    "name": "Thulan Ly",
+    "email": "thulan.ly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

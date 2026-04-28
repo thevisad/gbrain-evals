@@ -1,0 +1,14 @@
+{
+  "slug": "people/smccubbi",
+  "type": "person",
+  "title": "Smccubbi",
+  "compiled_truth": "Smccubbi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2001-06-22), Smccubbi sent 1 and received 108 emails, totalling 109 interactions. Top correspondents: [Steven J Kean](people/steven-j-kean) (1).",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2001-06-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/smccubbi",
+    "name": "Smccubbi",
+    "email": "smccubbi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

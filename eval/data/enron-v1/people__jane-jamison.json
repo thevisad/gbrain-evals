@@ -1,0 +1,14 @@
+{
+  "slug": "people/jane-jamison",
+  "type": "person",
+  "title": "Jane Jamison",
+  "compiled_truth": "Jane Jamison is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-11-03), Jane Jamison sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jane-jamison",
+    "name": "Jane Jamison",
+    "email": "jane.jamison@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

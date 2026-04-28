@@ -1,0 +1,14 @@
+{
+  "slug": "people/rabago-rmi",
+  "type": "person",
+  "title": "Rabago",
+  "compiled_truth": "Rabago is an external contact at [Rmi](companies/rmi). Over the corpus period (2001-07-25 to 2001-07-25), Rabago sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rabago-rmi",
+    "name": "Rabago",
+    "email": "rabago@rmi.org",
+    "primary_affiliation": "companies/rmi"
+  }
+}

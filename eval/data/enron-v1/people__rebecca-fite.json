@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebecca-fite",
+  "type": "person",
+  "title": "Rebecca Fite",
+  "compiled_truth": "Rebecca Fite is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-21 to 2001-12-04), Rebecca Fite sent 9 and received 44 emails, totalling 53 interactions. Top correspondents: [D  Steffes](people/d-steffes) (6), [Harry Kingerski](people/harry-kingerski) (6), [Gloria Ogenyi](people/gloria-ogenyi) (6), [Evan Hughes](people/evan-hughes) (3), [Nancy Hetrick](people/nancy-hetrick) (3). Mailbox folders observed: deleted_items, inbox, personalfolder, security___collateral.",
+  "timeline": "- **2001-05-21** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebecca-fite",
+    "name": "Rebecca Fite",
+    "email": "rebecca.fite@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

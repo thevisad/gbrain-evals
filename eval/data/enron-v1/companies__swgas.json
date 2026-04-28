@@ -1,0 +1,33 @@
+{
+  "slug": "companies/swgas",
+  "type": "company",
+  "title": "Swgas",
+  "compiled_truth": "Swgas is an external organization that appears in the Enron email corpus. Domain: swgas.com. Total email interactions with Enron: 552. Known contacts: 16 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (552 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/swgas",
+    "name": "Swgas",
+    "employees": [
+      "people/andy-bettwy-swgas",
+      "people/anita-reubens-swgas",
+      "people/jaime-ramirez-swgas",
+      "people/jamie-ramierez-swgas",
+      "people/jeff-jacobson-swgas",
+      "people/john-walley-swgas",
+      "people/johnwalley-swgas",
+      "people/keith-brown-swgas",
+      "people/larry-black-swgas",
+      "people/mark-anderson-swgas",
+      "people/richard-jordan-swgas",
+      "people/robert-johnson-swgas",
+      "people/sam-brown-swgas",
+      "people/sra-corp-swgas",
+      "people/swg-gaspur-swgas",
+      "people/william-brown-swgas"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

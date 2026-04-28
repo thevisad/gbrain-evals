@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-ader",
+  "type": "person",
+  "title": "Jeff Ader",
+  "compiled_truth": "Jeff Ader is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-03 to 2001-11-30), Jeff Ader sent 0 and received 141 emails, totalling 141 interactions.",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-ader",
+    "name": "Jeff Ader",
+    "email": "jeff.ader@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

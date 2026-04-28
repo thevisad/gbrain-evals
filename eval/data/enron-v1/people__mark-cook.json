@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-cook",
+  "type": "person",
+  "title": "Mark Cook",
+  "compiled_truth": "Mark Cook is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2002-04-16), Mark Cook sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2002-04-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-cook",
+    "name": "Mark Cook",
+    "email": "mark.cook@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

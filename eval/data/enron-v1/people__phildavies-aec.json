@@ -1,0 +1,14 @@
+{
+  "slug": "people/phildavies-aec",
+  "type": "person",
+  "title": "Phildavies",
+  "compiled_truth": "Phildavies is an external contact at [Aec](companies/aec). Over the corpus period (1999-09-24 to 2001-10-19), Phildavies sent 0 and received 74 emails, totalling 74 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/phildavies-aec",
+    "name": "Phildavies",
+    "email": "phildavies@aec.ca",
+    "primary_affiliation": "companies/aec"
+  }
+}

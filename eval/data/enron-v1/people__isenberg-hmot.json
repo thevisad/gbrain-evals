@@ -1,0 +1,14 @@
+{
+  "slug": "people/isenberg-hmot",
+  "type": "person",
+  "title": "Isenberg",
+  "compiled_truth": "Isenberg is an external contact at [Hmot](companies/hmot). Over the corpus period (2000-11-21 to 2001-10-11), Isenberg sent 1 and received 209 emails, totalling 210 interactions. Top correspondents: [Ann Cohn](people/ann-cohn-sce) (1), [Brbarkovich](people/brbarkovich-earthlink) (1), [Cohnap](people/cohnap-sce) (1), [Cra](people/cra-calretailers) (1), [Debinorton](people/debinorton-aol) (1).",
+  "timeline": "- **2000-11-21** | First recorded email in corpus\n- **2001-10-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/isenberg-hmot",
+    "name": "Isenberg",
+    "email": "isenberg@hmot.com",
+    "primary_affiliation": "companies/hmot"
+  }
+}

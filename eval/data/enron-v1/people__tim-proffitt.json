@@ -1,0 +1,14 @@
+{
+  "slug": "people/tim-proffitt",
+  "type": "person",
+  "title": "Tim Proffitt",
+  "compiled_truth": "Tim Proffitt is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-11-20), Tim Proffitt sent 3 and received 81 emails, totalling 84 interactions. Top correspondents: [Mary Cook](people/mary-cook) (3), [Chris Herron](people/chris-herron) (3), [S  Bradford](people/s-bradford) (2), [Joel Ephross](people/joel-ephross) (2), [ Taylor](people/taylor) (2). Mailbox folders observed: inbox, kcs.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tim-proffitt",
+    "name": "Tim Proffitt",
+    "email": "tim.proffitt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

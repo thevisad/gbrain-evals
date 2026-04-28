@@ -1,0 +1,14 @@
+{
+  "slug": "people/charles-weldon",
+  "type": "person",
+  "title": "Charles Weldon",
+  "compiled_truth": "Charles Weldon is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-20 to 2002-02-21), Charles Weldon sent 116 and received 269 emails, totalling 385 interactions. Top correspondents: [Mark Breese](people/mark-breese) (16), [Cweldon](people/cweldon-houston) (13), [Ed Mcmichael](people/ed-mcmichael) (11), [Eric Boyt](people/eric-boyt) (9), [Mark Schlueter](people/mark-schlueter) (7). Mailbox folders observed: calendar, contacts, inbox, kcs, personal, sent_items.",
+  "timeline": "- **2001-04-20** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charles-weldon",
+    "name": "Charles Weldon",
+    "email": "charles.weldon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

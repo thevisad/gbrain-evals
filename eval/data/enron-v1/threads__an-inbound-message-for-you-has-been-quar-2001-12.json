@@ -1,0 +1,36 @@
+{
+  "slug": "threads/an-inbound-message-for-you-has-been-quar-2001-12",
+  "type": "meeting",
+  "title": "Thread: An Inbound Message For You Has Been Quarantined",
+  "compiled_truth": "Email thread: \"An Inbound Message For You Has Been Quarantined\". Ran from 2001-12-12 to 2002-01-12 with 31 messages. Participants: [Admin Enron](people/admin-enron), [Bill Rapp](people/bill-rapp), [Chris Germany](people/chris-germany), [Dbaughm](people/dbaughm-notes), [Enron Mailsweeper Admin](people/enron-mailsweeper-admin), [Eric Bass](people/eric-bass), [Harry Arora](people/harry-arora), [Ingrid Immer](people/ingrid-immer-williams).",
+  "timeline": "- **2001-12-12** | Thread begins: an inbound message for you has been quarantined\n- **2002-01-12** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/an-inbound-message-for-you-has-been-quar-2001-12",
+    "attendees": [
+      "people/admin-enron",
+      "people/bill-rapp",
+      "people/chris-germany",
+      "people/dbaughm-notes",
+      "people/enron-mailsweeper-admin",
+      "people/eric-bass",
+      "people/harry-arora",
+      "people/ingrid-immer-williams",
+      "people/jgriffit-notes",
+      "people/jmckay2-notes",
+      "people/jsteffe-notes",
+      "people/lblair-notes",
+      "people/mark-whitt",
+      "people/mbryant-notes",
+      "people/mtaylo1-notes",
+      "people/plove-notes",
+      "people/rsander-notes",
+      "people/ruth-jensen",
+      "people/sshackl-notes",
+      "people/swhite-notes",
+      "people/theresa-staab",
+      "people/tjones3-notes"
+    ],
+    "date": "2001-12-12"
+  }
+}

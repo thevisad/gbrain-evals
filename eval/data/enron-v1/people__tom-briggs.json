@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-briggs",
+  "type": "person",
+  "title": "Tom Briggs",
+  "compiled_truth": "Tom Briggs is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-11 to 2001-11-29), Tom Briggs sent 28 and received 738 emails, totalling 766 interactions. Top correspondents: [Steven Kean](people/steven-kean) (12), [Mark Taylor](people/mark-taylor) (10), [Cynthia Sandherr](people/cynthia-sandherr) (8), [Jeff Dasovich](people/jeff-dasovich) (7), [Richard Shapiro](people/richard-shapiro) (7). Mailbox folders observed: _americas, deleted_items, global_markets.",
+  "timeline": "- **2000-05-11** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-briggs",
+    "name": "Tom Briggs",
+    "email": "tom.briggs@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

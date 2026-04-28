@@ -1,0 +1,14 @@
+{
+  "slug": "people/rfm-nwnatural",
+  "type": "person",
+  "title": "Rfm",
+  "compiled_truth": "Rfm is an external contact at [Nwnatural](companies/nwnatural). Over the corpus period (2000-10-27 to 2001-05-11), Rfm sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rfm-nwnatural",
+    "name": "Rfm",
+    "email": "rfm@nwnatural.com",
+    "primary_affiliation": "companies/nwnatural"
+  }
+}

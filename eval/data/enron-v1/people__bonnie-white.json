@@ -1,0 +1,14 @@
+{
+  "slug": "people/bonnie-white",
+  "type": "person",
+  "title": "Bonnie White",
+  "compiled_truth": "Bonnie White is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-17), Bonnie White sent 16 and received 248 emails, totalling 264 interactions. Top correspondents: [Richard Sanders](people/richard-sanders) (6), [Elizabeth Sager](people/elizabeth-sager) (5), [B  Sanders](people/b-sanders) (4), [Edward Baughman](people/edward-baughman) (3), [Andrew Edison](people/andrew-edison) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bonnie-white",
+    "name": "Bonnie White",
+    "email": "bonnie.white@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathleen-noble",
+  "type": "person",
+  "title": "Kathleen Noble",
+  "compiled_truth": "Kathleen Noble is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2001-06-20), Kathleen Noble sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2001-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathleen-noble",
+    "name": "Kathleen Noble",
+    "email": "kathleen.noble@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

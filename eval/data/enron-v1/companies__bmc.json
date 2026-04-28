@@ -1,0 +1,39 @@
+{
+  "slug": "companies/bmc",
+  "type": "company",
+  "title": "Bmc",
+  "compiled_truth": "Bmc is an external organization that appears in the Enron email corpus. Domain: bmc.com. Total email interactions with Enron: 292. Known contacts: 22 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (292 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/bmc",
+    "name": "Bmc",
+    "employees": [
+      "people/bob-beauchamp-bmc",
+      "people/bstowe-bmc",
+      "people/chet-fenner-bmc",
+      "people/chris-ballou-bmc",
+      "people/dan-darmond-bmc",
+      "people/donald-blanton-bmc",
+      "people/jay-williams-bmc",
+      "people/john-stratemeier-bmc",
+      "people/julie-boese-bmc",
+      "people/ke-hall-bmc",
+      "people/lori-allen-bmc",
+      "people/marc-cutler-bmc",
+      "people/marc-sekula-bmc",
+      "people/mark-carpenter-bmc",
+      "people/mark-ranney-bmc",
+      "people/michael-beaver-bmc",
+      "people/michael-lewis-bmc",
+      "people/pam-macaul-bmc",
+      "people/patrick-rockecharlie-bmc",
+      "people/rachel-choe-bmc",
+      "people/sean-barrett-bmc",
+      "people/tracy-corrier-bmc"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

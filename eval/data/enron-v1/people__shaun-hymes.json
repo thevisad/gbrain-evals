@@ -1,0 +1,14 @@
+{
+  "slug": "people/shaun-hymes",
+  "type": "person",
+  "title": "Shaun Hymes",
+  "compiled_truth": "Shaun Hymes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-12 to 2001-11-29), Shaun Hymes sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-12-12** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shaun-hymes",
+    "name": "Shaun Hymes",
+    "email": "shaun.hymes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

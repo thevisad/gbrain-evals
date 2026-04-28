@@ -1,0 +1,14 @@
+{
+  "slug": "people/mawhitt-aol",
+  "type": "person",
+  "title": "Mawhitt",
+  "compiled_truth": "Mawhitt is an external contact at [AOL](companies/aol). Over the corpus period (2000-09-23 to 2001-12-19), Mawhitt sent 15 and received 27 emails, totalling 42 interactions. Top correspondents: [Mark Whitt](people/mark-whitt) (14), [Gerald Nemec](people/gerald-nemec) (4), [Tyrell Harrison](people/tyrell-harrison) (1).",
+  "timeline": "- **2000-09-23** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mawhitt-aol",
+    "name": "Mawhitt",
+    "email": "mawhitt@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

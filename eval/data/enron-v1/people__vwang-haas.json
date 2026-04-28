@@ -1,0 +1,14 @@
+{
+  "slug": "people/vwang-haas",
+  "type": "person",
+  "title": "Vwang",
+  "compiled_truth": "Vwang is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2000-12-06), Vwang sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vwang-haas",
+    "name": "Vwang",
+    "email": "vwang@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

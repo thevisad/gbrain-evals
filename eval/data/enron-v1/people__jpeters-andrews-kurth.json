@@ -1,0 +1,14 @@
+{
+  "slug": "people/jpeters-andrews-kurth",
+  "type": "person",
+  "title": "Jpeters",
+  "compiled_truth": "Jpeters is an external contact at [Andrews-kurth](companies/andrews-kurth). Over the corpus period (2000-08-04 to 2001-04-24), Jpeters sent 0 and received 127 emails, totalling 127 interactions.",
+  "timeline": "- **2000-08-04** | First recorded email in corpus\n- **2001-04-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jpeters-andrews-kurth",
+    "name": "Jpeters",
+    "email": "jpeters@andrews-kurth.com",
+    "primary_affiliation": "companies/andrews-kurth"
+  }
+}

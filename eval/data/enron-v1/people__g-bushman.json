@@ -1,0 +1,14 @@
+{
+  "slug": "people/g-bushman",
+  "type": "person",
+  "title": "G  Bushman",
+  "compiled_truth": "G  Bushman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2002-06-21), G  Bushman sent 7 and received 124 emails, totalling 131 interactions. Top correspondents: [B  Sanders](people/b-sanders) (3), [Nancy Corbet](people/nancy-corbet) (2), [E  Haedicke](people/e-haedicke) (2), [Michelle Cash](people/michelle-cash) (1), [Mary Cook](people/mary-cook) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/g-bushman",
+    "name": "G  Bushman",
+    "email": "g..bushman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

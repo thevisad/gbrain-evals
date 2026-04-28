@@ -1,0 +1,14 @@
+{
+  "slug": "people/wkawamoto-wm",
+  "type": "person",
+  "title": "Wkawamoto",
+  "compiled_truth": "Wkawamoto is an external contact at [Wm](companies/wm). Over the corpus period (2000-12-08 to 2001-03-29), Wkawamoto sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-12-08** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wkawamoto-wm",
+    "name": "Wkawamoto",
+    "email": "wkawamoto@wm.com",
+    "primary_affiliation": "companies/wm"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/darren-espey",
+  "type": "person",
+  "title": "Darren Espey",
+  "compiled_truth": "Darren Espey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-19 to 2002-02-13), Darren Espey sent 8 and received 311 emails, totalling 319 interactions. Top correspondents: [M  Love](people/m-love) (7), [James Hungerford](people/james-hungerford) (5), [Ashley Worthing](people/ashley-worthing) (5), [Kulvinder Fowler](people/kulvinder-fowler) (4), [Luchas Johnson](people/luchas-johnson) (4). Mailbox folders observed: deleted_items, east_desk, inbox.",
+  "timeline": "- **2000-05-19** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darren-espey",
+    "name": "Darren Espey",
+    "email": "darren.espey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

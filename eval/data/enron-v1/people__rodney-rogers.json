@@ -1,0 +1,14 @@
+{
+  "slug": "people/rodney-rogers",
+  "type": "person",
+  "title": "Rodney Rogers",
+  "compiled_truth": "Rodney Rogers is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-08-15), Rodney Rogers sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-08-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rodney-rogers",
+    "name": "Rodney Rogers",
+    "email": "rodney.rogers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

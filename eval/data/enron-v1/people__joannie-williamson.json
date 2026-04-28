@@ -1,0 +1,14 @@
+{
+  "slug": "people/joannie-williamson",
+  "type": "person",
+  "title": "Joannie Williamson",
+  "compiled_truth": "Joannie Williamson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-15 to 2002-01-11), Joannie Williamson sent 140 and received 314 emails, totalling 454 interactions. Top correspondents: [Greg Whalley](people/greg-whalley) (41), [Mark Frevert](people/mark-frevert) (40), [Kenneth Lay](people/kenneth-lay) (39), [Richard Causey](people/richard-causey) (37), [James Derrick](people/james-derrick) (37). Mailbox folders observed: _americas, _sent_mail, contact_list, contacts, deleted_items, eott.",
+  "timeline": "- **1999-10-15** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joannie-williamson",
+    "name": "Joannie Williamson",
+    "email": "joannie.williamson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

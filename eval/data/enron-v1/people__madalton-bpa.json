@@ -1,0 +1,14 @@
+{
+  "slug": "people/madalton-bpa",
+  "type": "person",
+  "title": "Madalton",
+  "compiled_truth": "Madalton is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2001-03-16 to 2001-03-16), Madalton sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-03-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/madalton-bpa",
+    "name": "Madalton",
+    "email": "madalton@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

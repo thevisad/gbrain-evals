@@ -1,0 +1,26 @@
+{
+  "slug": "meetings/e-mail-retention-policy-conference-call-2000-12",
+  "type": "meeting",
+  "title": "Meeting: E-Mail Retention Policy - Conference Call",
+  "compiled_truth": "Meeting: \"E-Mail Retention Policy - Conference Call\". Occurred 2000-12-11 with 1 related emails. Participants included: [Chris Behney](people/chris-behney), [Emaurer](people/emaurer-forensics), [Ian Brungs](people/ian-brungs), [Jfeldman](people/jfeldman-forensics), [Jonathan Marsh](people/jonathan-marsh), [Nelson Bibby](people/nelson-bibby), [Nina Edmonds](people/nina-edmonds), [Paul J Jones](people/paul-j-jones)....",
+  "timeline": "- **2000-12-11** | Meeting: e-mail retention policy - conference call",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/e-mail-retention-policy-conference-call-2000-12",
+    "attendees": [
+      "people/chris-behney",
+      "people/emaurer-forensics",
+      "people/ian-brungs",
+      "people/jfeldman-forensics",
+      "people/jonathan-marsh",
+      "people/nelson-bibby",
+      "people/nina-edmonds",
+      "people/paul-j-jones",
+      "people/rachel-jones",
+      "people/richard-b-sanders",
+      "people/robert-c-williams",
+      "people/stephanie-truss"
+    ],
+    "date": "2000-12-11"
+  }
+}

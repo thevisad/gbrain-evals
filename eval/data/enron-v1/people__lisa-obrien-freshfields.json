@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-obrien-freshfields",
+  "type": "person",
+  "title": "Lisa Obrien",
+  "compiled_truth": "Lisa Obrien is an external contact at [Freshfields](companies/freshfields). Over the corpus period (2000-11-28 to 2001-06-05), Lisa Obrien sent 1 and received 15 emails, totalling 16 interactions. Top correspondents: [Ccampbell](people/ccampbell-kslaw) (1), [Kay Mann](people/kay-mann) (1).",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-obrien-freshfields",
+    "name": "Lisa Obrien",
+    "email": "lisa.obrien@freshfields.com",
+    "primary_affiliation": "companies/freshfields"
+  }
+}

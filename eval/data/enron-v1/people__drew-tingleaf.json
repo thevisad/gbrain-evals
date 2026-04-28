@@ -1,0 +1,14 @@
+{
+  "slug": "people/drew-tingleaf",
+  "type": "person",
+  "title": "Drew Tingleaf",
+  "compiled_truth": "Drew Tingleaf is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-08 to 2001-10-25), Drew Tingleaf sent 17 and received 63 emails, totalling 80 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (14), [W Duran](people/w-duran) (9), [Doug Gilbert-Smith](people/doug-gilbert-smith) (6), [Mike Curry](people/mike-curry) (5), [Max Yzaguirre](people/max-yzaguirre) (4). Mailbox folders observed: _americas, ercot.",
+  "timeline": "- **2000-08-08** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/drew-tingleaf",
+    "name": "Drew Tingleaf",
+    "email": "drew.tingleaf@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

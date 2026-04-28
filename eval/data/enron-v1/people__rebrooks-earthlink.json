@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebrooks-earthlink",
+  "type": "person",
+  "title": "Rebrooks",
+  "compiled_truth": "Rebrooks is an external contact at [Earthlink](companies/earthlink). Over the corpus period (1999-12-23 to 2002-02-25), Rebrooks sent 71 and received 6 emails, totalling 77 interactions. Top correspondents: [Rebrooks](people/rebrooks-rbac) (59), [Ebrooks](people/ebrooks-rbac) (8), [Vince J Kaminski](people/vince-j-kaminski) (1), [Mfarina](people/mfarina-resdata) (1), [J Kaminski](people/j-kaminski) (1).",
+  "timeline": "- **1999-12-23** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebrooks-earthlink",
+    "name": "Rebrooks",
+    "email": "rebrooks@earthlink.net",
+    "primary_affiliation": "companies/earthlink"
+  }
+}

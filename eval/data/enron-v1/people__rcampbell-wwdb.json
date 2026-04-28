@@ -1,0 +1,14 @@
+{
+  "slug": "people/rcampbell-wwdb",
+  "type": "person",
+  "title": "Rcampbell",
+  "compiled_truth": "Rcampbell is an external contact at [Wwdb](companies/wwdb). Over the corpus period (2000-09-25 to 2000-12-21), Rcampbell sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-09-25** | First recorded email in corpus\n- **2000-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rcampbell-wwdb",
+    "name": "Rcampbell",
+    "email": "rcampbell@wwdb.org",
+    "primary_affiliation": "companies/wwdb"
+  }
+}

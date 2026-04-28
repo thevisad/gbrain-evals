@@ -1,0 +1,14 @@
+{
+  "slug": "people/marsha-suggs",
+  "type": "person",
+  "title": "Marsha Suggs",
+  "compiled_truth": "Marsha Suggs is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-15 to 2001-12-03), Marsha Suggs sent 0 and received 542 emails, totalling 542 interactions.",
+  "timeline": "- **2000-12-15** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marsha-suggs",
+    "name": "Marsha Suggs",
+    "email": "marsha.suggs@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

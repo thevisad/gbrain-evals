@@ -1,0 +1,33 @@
+{
+  "slug": "meetings/anchor-board-2027-07-5",
+  "type": "meeting",
+  "title": "Anchor Board Meeting Q2 2027",
+  "compiled_truth": "The Q2 2027 board meeting for [Anchor Codec](companies/anchor) convened on July 15th at the company's main office, with all five board-level participants present. [Seren Voss](people/seren-voss) opened the session with a recap of Q1 performance metrics and a forward-looking revenue projection that showed the company trending toward breakeven by Q4 if the current pipeline held. The primary agenda items were the second enterprise contract and an emerging cloud partnership that had been in negotiation since late spring.\n\n[Ora Yamamoto](people/ora-yamamoto) presented the technical readiness assessment for the second enterprise deal — a mid-market logistics company requiring deterministic data infrastructure for real-time shipment verification across multiple geographic nodes. Ora walked the board through the integration timeline, noting that single-pass primitives had been validated in staging and that the remaining work was mostly around tenant isolation and SLA guarantees. She flagged one open concern: the customer's existing middleware stack would require a compatibility shim that hadn't been fully scoped yet. The board agreed to allocate two additional engineering weeks to de-risk this.\n\n[Bex Andersen](people/bex-andersen) led the cloud partnership discussion. A major infrastructure cloud provider had approached Anchor about bundling their primitives into a managed service tier. Bex laid out three possible deal structures — reseller, co-sell, and a deeper technical integration — and recommended the co-sell model as the best balance of revenue upside and engineering commitment. [Piper Bergmann](people/piper-bergmann) pushed back on the co-sell approach, arguing that a reseller arrangement would preserve more optionality and avoid locking the company into a single platform too early. After some debate, the board voted to pursue co-sell but with a 12-month exclusivity cap, revisitable at renewal.\n\n[Dani Osei](people/dani-osei) raised the headcount question — current team of 23 was stretched thin across the first enterprise deployment, the new contract, and now cloud integration work. Seren acknowledged the strain but wanted to hold off on a formal hiring push until the Series A timeline crystalized, likely Q4. Dani noted that at minimum they needed one more infrastructure engineer and a dedicated partnerships lead. The board approved two hires immedately, with budget drawn from existing runway.\n\nMinor items included a brief update on patent filings (two provisional applications submitted in June), a request from Ora to attend an infrastructure confrence in September for recruiting purposes, and a quick review of the employee option pool refresh. Meeting adjourned at 4:47 PM.",
+  "timeline": [
+    "- **2027-04-22** | Initial outreach from cloud provider regarding managed service partnership; [Bex Andersen](people/bex-andersen) begins scoping conversations.",
+    "- **2027-05-10** | Second enterprise prospect enters formal evaluation phase after successful proof-of-concept demo led by [Ora Yamamoto](people/ora-yamamoto).",
+    "- **2027-06-03** | Two provisional patent applications filed covering aspects of Anchor's single-pass architecture.",
+    "- **2027-06-18** | Cloud partnership term sheet received; [Piper Bergmann](people/piper-bergmann) and Bex begin internal review of deal structures.",
+    "- **2027-06-29** | Enterprise contract #2 reaches verbal agreement pending final technical validation and legal review.",
+    "- **2027-07-15** | Q2 board meeting held. Board approves co-sell cloud model with 12-month exclusivity cap and two immediate hires.",
+    "- **2027-07-28** | [Seren Voss](people/seren-voss) begins Series A prep conversations with three potential lead investors.",
+    "- **2027-08-11** | New infrastructure engineer starts; recruited from [Dani Osei](people/dani-osei)'s professional network.",
+    "- **2027-09-04** | [Ora Yamamoto](people/ora-yamamoto) attends InfraWeek conference in Seattle for recruiting and visibility."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/anchor-board-2027-07-5",
+    "name": "Anchor Board Meeting Q2 2027",
+    "meeting_type": "board_meeting",
+    "date": "2027-07-15",
+    "attendees": [
+      "people/seren-voss",
+      "people/ora-yamamoto",
+      "people/bex-andersen",
+      "people/piper-bergmann",
+      "people/dani-osei"
+    ],
+    "topic_company": "companies/anchor",
+    "topic": "Second enterprise contract + cloud partnership"
+  }
+}

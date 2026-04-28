@@ -1,0 +1,14 @@
+{
+  "slug": "people/rus-woody",
+  "type": "person",
+  "title": "Rus Woody",
+  "compiled_truth": "Rus Woody is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-13 to 2001-11-29), Rus Woody sent 2 and received 18 emails, totalling 20 interactions. Top correspondents: [Jenny Rub](people/jenny-rub) (2), [David Oxley](people/david-oxley) (2), [Michelle Cash](people/michelle-cash) (2), [Scott Tholan](people/scott-tholan) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-09-13** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rus-woody",
+    "name": "Rus Woody",
+    "email": "rus.woody@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

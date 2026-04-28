@@ -1,0 +1,14 @@
+{
+  "slug": "people/lclemmons-elementre",
+  "type": "person",
+  "title": "Lclemmons",
+  "compiled_truth": "Lclemmons is an external contact at [Elementre](companies/elementre). Over the corpus period (2001-01-16 to 2001-12-05), Lclemmons sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [Jeff Shankman](people/jeff-shankman) (1).",
+  "timeline": "- **2001-01-16** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lclemmons-elementre",
+    "name": "Lclemmons",
+    "email": "lclemmons@elementre.com",
+    "primary_affiliation": "companies/elementre"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/chuchu-wang",
+  "type": "person",
+  "title": "Chuchu Wang",
+  "compiled_truth": "Chuchu Wang is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2001-06-06), Chuchu Wang sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chuchu-wang",
+    "name": "Chuchu Wang",
+    "email": "chuchu.wang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

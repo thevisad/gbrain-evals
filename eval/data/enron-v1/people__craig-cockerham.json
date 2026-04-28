@@ -1,0 +1,14 @@
+{
+  "slug": "people/craig-cockerham",
+  "type": "person",
+  "title": "Craig Cockerham",
+  "compiled_truth": "Craig Cockerham is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2000-12-13), Craig Cockerham sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/craig-cockerham",
+    "name": "Craig Cockerham",
+    "email": "craig.cockerham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

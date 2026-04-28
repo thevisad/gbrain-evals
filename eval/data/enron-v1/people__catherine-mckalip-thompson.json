@@ -1,0 +1,14 @@
+{
+  "slug": "people/catherine-mckalip-thompson",
+  "type": "person",
+  "title": "Catherine Mckalip-Thompson",
+  "compiled_truth": "Catherine Mckalip-Thompson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-15 to 2001-12-03), Catherine Mckalip-Thompson sent 14 and received 101 emails, totalling 115 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (11), [April Hrach](people/april-hrach) (4), [Kelly Brodbeck](people/kelly-brodbeck) (4), [Mark Fillinger](people/mark-fillinger) (4), [Susan Mara](people/susan-mara) (4). Mailbox folders observed: corporate_responsibility, deleted_items, inbox.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/catherine-mckalip-thompson",
+    "name": "Catherine Mckalip-Thompson",
+    "email": "catherine.mckalip-thompson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

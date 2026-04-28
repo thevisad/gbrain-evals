@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-vitali",
+  "type": "person",
+  "title": "Lisa Vitali",
+  "compiled_truth": "Lisa Vitali is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-26 to 2001-10-31), Lisa Vitali sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-vitali",
+    "name": "Lisa Vitali",
+    "email": "lisa.vitali@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/harry-singh-gen",
+  "type": "person",
+  "title": "Harry Singh",
+  "compiled_truth": "Harry Singh is an external contact at [Gen](companies/gen). Over the corpus period (2000-08-25 to 2001-03-16), Harry Singh sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/harry-singh-gen",
+    "name": "Harry Singh",
+    "email": "harry.singh@gen.pge.com",
+    "primary_affiliation": "companies/gen"
+  }
+}

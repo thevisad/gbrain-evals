@@ -1,0 +1,14 @@
+{
+  "slug": "people/hcameron-uclink",
+  "type": "person",
+  "title": "Hcameron",
+  "compiled_truth": "Hcameron is an external contact at [Uclink](companies/uclink). Over the corpus period (2000-08-23 to 2001-04-03), Hcameron sent 10 and received 51 emails, totalling 61 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (10), [Lfried](people/lfried-uclink) (7), [Amosher](people/amosher-appanet) (7), [Whederman](people/whederman-columbiaenergygroup) (7), [Rob Gramlich](people/rob-gramlich-neg) (6).",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2001-04-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hcameron-uclink",
+    "name": "Hcameron",
+    "email": "hcameron@uclink.berkeley.edu",
+    "primary_affiliation": "companies/uclink"
+  }
+}

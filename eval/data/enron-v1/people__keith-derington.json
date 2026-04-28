@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-derington",
+  "type": "person",
+  "title": "Keith Derington",
+  "compiled_truth": "Keith Derington is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-02-20), Keith Derington sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-02-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-derington",
+    "name": "Keith Derington",
+    "email": "keith.derington@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

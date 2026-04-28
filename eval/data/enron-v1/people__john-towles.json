@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-towles",
+  "type": "person",
+  "title": "John Towles",
+  "compiled_truth": "John Towles is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-15 to 2001-06-01), John Towles sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **1999-09-15** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-towles",
+    "name": "John Towles",
+    "email": "john.towles@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

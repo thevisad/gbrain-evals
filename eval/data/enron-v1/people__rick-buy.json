@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-buy",
+  "type": "person",
+  "title": "Rick Buy",
+  "compiled_truth": "Rick Buy is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-19), Rick Buy sent 762 and received 1898 emails, totalling 2660 interactions. Top correspondents: [Ted Murphy](people/ted-murphy) (89), [David Gorte](people/david-gorte) (73), [David Port](people/david-port) (59), [William Bradford](people/william-bradford) (55), [S  Bradford](people/s-bradford) (47). Mailbox folders observed: _sent_mail, calendar, inbox, sent, sent_items, tasks.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-buy",
+    "name": "Rick Buy",
+    "email": "rick.buy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sanjay-bhagat",
+  "type": "person",
+  "title": "Sanjay Bhagat",
+  "compiled_truth": "Sanjay Bhagat is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-06 to 2001-11-13), Sanjay Bhagat sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-09-06** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sanjay-bhagat",
+    "name": "Sanjay Bhagat",
+    "email": "sanjay.bhagat@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

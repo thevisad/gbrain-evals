@@ -1,0 +1,27 @@
+{
+  "slug": "threads/test-2002-03",
+  "type": "meeting",
+  "title": "Thread: Test",
+  "compiled_truth": "Email thread: \"Test\". Ran from 2002-03-11 to 2002-04-02 with 13 messages. Participants: [Albert Meyers](people/albert-meyers), [Bill Williams](people/bill-williams), [Chris Germany](people/chris-germany), [John Anderson](people/john-anderson), [Kimberly Watson](people/kimberly-watson), [Lisa Gang](people/lisa-gang), [Madeline Jordan](people/madeline-jordan-elpaso), [Mark Mcconnell](people/mark-mcconnell).",
+  "timeline": "- **2002-03-11** | Thread begins: test\n- **2002-04-02** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/test-2002-03",
+    "attendees": [
+      "people/albert-meyers",
+      "people/bill-williams",
+      "people/chris-germany",
+      "people/john-anderson",
+      "people/kimberly-watson",
+      "people/lisa-gang",
+      "people/madeline-jordan-elpaso",
+      "people/mark-mcconnell",
+      "people/michael-mier",
+      "people/serena-bishop",
+      "people/stephanie-wade-elpaso",
+      "people/time-dl-ubsw",
+      "people/time-portland"
+    ],
+    "date": "2002-03-11"
+  }
+}

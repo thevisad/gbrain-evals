@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-reeves",
+  "type": "person",
+  "title": "Kathy Reeves",
+  "compiled_truth": "Kathy Reeves is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-30 to 2002-02-07), Kathy Reeves sent 42 and received 392 emails, totalling 434 interactions. Top correspondents: [Robin Rodrigue](people/robin-rodrigue) (25), [W  White](people/w-white) (9), [Jonathan Mckay](people/jonathan-mckay) (5), [Frank Hayden](people/frank-hayden) (4), [Peggy Hedstrom](people/peggy-hedstrom) (4). Mailbox folders observed: administrivia, calendar, central, deleted_items, enron.",
+  "timeline": "- **1999-12-30** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-reeves",
+    "name": "Kathy Reeves",
+    "email": "kathy.reeves@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

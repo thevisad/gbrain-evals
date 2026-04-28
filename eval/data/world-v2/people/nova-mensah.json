@@ -1,0 +1,21 @@
+{
+  "slug": "people/nova-mensah",
+  "type": "person",
+  "title": "Nova Mensah — Staff Engineer, Anchor Codec",
+  "compiled_truth": "Nova Mensah is a staff engineer at [Anchor Codec](companies/anchor), where she works on the core runtime and compiler layers that underpin the company's deterministic data infrastructure. She joined in April 2026, relatively early in Anchor's life, and has been one of the key technical voices shaping the single-pass primitives that define the product.\n\nBefore Anchor, Nova spent six years split across two major cloud vendors, working primarily on compiler toolchains and managed runtime systems. Her background is deeply systems-oriented — she's comfortable reasoning about memory layout, instruction scheduling, and the kinds of subtle correctness bugs that only surface under production-scale concurrency. Colleagues from her previous roles describe her as someone who asks the question no one else thought to ask, often three meetings before it becomes relevant.\n\nAt [Anchor Codec](companies/anchor), Mensah has been instrumental in the design of the runtime's deterministic guarantees. Early internal documents credit her with identifying a critical ordering issue in the first prototype of the single-pass pipeline, which would have caused silent data corruption under specific reordering conditions. The fix she proposed became a foundational constraint in the system's architecture. She tends to work quietly, prefering to communicate through detailed design docs and annotated benchmarks rather than slide decks.\n\nNova is known internally for her analytical rigor and her willingness to push back on engineering decisions she considers under-specified. She's not confrontational — more like persistent. If you ship something past her review without addressing her comments, expect a follow-up thread within 24 hours. Some newer engineers find this intimidating at first, but most come to appreciate it. Her code reviews are considered some of the best learning material on the team.\n\nOutside of Anchor, she's spoken at a handful of systems conferences and has a modest but dedicated following among compiler enthusiasts online. She occasionally posts deep-dives on runtime optimization techniques, though her output has slowed since joining Anchor due to the intensity of the work. She lives in Toronto and is reportedly a serious amateur chess player, though she rarely mentions it at work.",
+  "timeline": "- **2026-04-15** | Nova Mensah joins [Anchor Codec](companies/anchor) as Staff Engineer, assigned to the runtime and compiler team.\n- **2026-06-02** | Identifies a critical ordering bug in the early single-pass pipeline prototype; proposed fix adopted as a core architectural constraint.\n- **2026-09-18** | Leads an internal workshop on deterministic execution guarantees for the broader engineering team.\n- **2027-01-10** | Promoted to technical lead for the runtime subsystem after the team expands to eight engineers.\n- **2027-04-22** | Presents \"Determinism Under Pressure\" at an infrastructure-focused systems conference in Vancouver.\n- **2027-07-15** | Completes a major refactor of the compiler frontend, reducing build times for the single-pass primitives by roughly 40%.\n- **2027-11-03** | Begins mentoring two junior engineers joining [Anchor Codec](companies/anchor) as part of the Series A hiring wave.\n- **2028-02-19** | Co-authors an internal whitepaper on extending deterministic guarantees to multi-region deployments.\n- **2028-06-08** | Gives a keynote-track talk at a distributed systems summit in Berlin on lessons from building production-grade deterministic runtimes.",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nova-mensah",
+    "name": "Nova Mensah",
+    "role": "employee",
+    "title": "Staff Engineer",
+    "primary_affiliation": "companies/anchor",
+    "notable_traits": [
+      "analytical",
+      "technical depth"
+    ],
+    "background": "Compiler and runtime engineer; 6 years at two major cloud vendors",
+    "joined_anchor": "2026-04-15"
+  }
+}

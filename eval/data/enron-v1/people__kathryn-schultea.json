@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathryn-schultea",
+  "type": "person",
+  "title": "Kathryn Schultea",
+  "compiled_truth": "Kathryn Schultea is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-16 to 2001-12-27), Kathryn Schultea sent 12 and received 52 emails, totalling 64 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (7), [Diane Goode](people/diane-goode) (2), [Sheila Walton](people/sheila-walton) (1), [Rick Buy](people/rick-buy) (1), [Andrea Yowman](people/andrea-yowman) (1). Mailbox folders observed: deleted_items, inbox, non_us_offices.",
+  "timeline": "- **2000-06-16** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathryn-schultea",
+    "name": "Kathryn Schultea",
+    "email": "kathryn.schultea@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

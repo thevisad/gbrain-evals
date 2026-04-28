@@ -1,0 +1,14 @@
+{
+  "slug": "people/heather-kroll",
+  "type": "person",
+  "title": "Heather Kroll",
+  "compiled_truth": "Heather Kroll is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-25), Heather Kroll sent 101 and received 725 emails, totalling 826 interactions. Top correspondents: [Kay Mann](people/kay-mann) (50), [Joe Stepenovitch](people/joe-stepenovitch) (38), [Ozzie Pagan](people/ozzie-pagan) (21), [Reagan Rorschach](people/reagan-rorschach) (10), [Jeffery Ader](people/jeffery-ader) (6). Mailbox folders observed: _americas, deleted_items, inbox, off_balance_sheet_form_contracts, vepco.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heather-kroll",
+    "name": "Heather Kroll",
+    "email": "heather.kroll@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

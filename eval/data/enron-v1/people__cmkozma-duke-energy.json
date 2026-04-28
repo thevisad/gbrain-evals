@@ -1,0 +1,14 @@
+{
+  "slug": "people/cmkozma-duke-energy",
+  "type": "person",
+  "title": "Cmkozma",
+  "compiled_truth": "Cmkozma is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-08-29 to 2000-08-29), Cmkozma sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-08-29** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cmkozma-duke-energy",
+    "name": "Cmkozma",
+    "email": "cmkozma@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

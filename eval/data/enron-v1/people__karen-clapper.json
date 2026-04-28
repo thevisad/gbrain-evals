@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-clapper",
+  "type": "person",
+  "title": "Karen Clapper",
+  "compiled_truth": "Karen Clapper is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-25 to 2002-03-25), Karen Clapper sent 12 and received 185 emails, totalling 197 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (7), [Controllers Dl-Ets](people/controllers-dl-ets) (4), [Hughes David](people/hughes-david) (3), [Hopkins Kathy](people/hopkins-kathy) (3), [Karen Lagerstrom](people/karen-lagerstrom) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-05-25** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-clapper",
+    "name": "Karen Clapper",
+    "email": "karen.clapper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

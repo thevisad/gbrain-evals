@@ -1,0 +1,14 @@
+{
+  "slug": "people/leei-hong-chen",
+  "type": "person",
+  "title": "Leei-Hong Chen",
+  "compiled_truth": "Leei-Hong Chen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2001-11-09), Leei-Hong Chen sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leei-hong-chen",
+    "name": "Leei-Hong Chen",
+    "email": "leei-hong.chen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

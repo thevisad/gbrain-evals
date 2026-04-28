@@ -1,0 +1,14 @@
+{
+  "slug": "people/bryan-garrett",
+  "type": "person",
+  "title": "Bryan Garrett",
+  "compiled_truth": "Bryan Garrett is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2001-11-30), Bryan Garrett sent 6 and received 59 emails, totalling 65 interactions. Top correspondents: [Brian Spector](people/brian-spector) (3), [Chris Herron](people/chris-herron) (3), [Davis Thames](people/davis-thames) (3), [Erik Simpson](people/erik-simpson) (3), [Jay Hawthorn](people/jay-hawthorn) (3). Mailbox folders observed: calendar.",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bryan-garrett",
+    "name": "Bryan Garrett",
+    "email": "bryan.garrett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

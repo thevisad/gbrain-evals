@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-willis",
+  "type": "person",
+  "title": "Jim Willis",
+  "compiled_truth": "Jim Willis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-27 to 2001-12-07), Jim Willis sent 3 and received 44 emails, totalling 47 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (2), [Ruth Concannon](people/ruth-concannon) (1), [Chris Germany](people/chris-germany) (1), [Loftus Fitzwater](people/loftus-fitzwater) (1), [Mark Breese](people/mark-breese) (1). Mailbox folders observed: calendar.",
+  "timeline": "- **2001-08-27** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-willis",
+    "name": "Jim Willis",
+    "email": "jim.willis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

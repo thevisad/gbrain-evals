@@ -1,0 +1,14 @@
+{
+  "slug": "people/kdhulster-isda-eur",
+  "type": "person",
+  "title": "Kdhulster",
+  "compiled_truth": "Kdhulster is an external contact at [Isda-eur](companies/isda-eur). Over the corpus period (2000-11-29 to 2001-11-02), Kdhulster sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-11-29** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kdhulster-isda-eur",
+    "name": "Kdhulster",
+    "email": "kdhulster@isda-eur.org",
+    "primary_affiliation": "companies/isda-eur"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/catherine-phillips",
+  "type": "person",
+  "title": "Catherine Phillips",
+  "compiled_truth": "Catherine Phillips is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 1999-07-09), Catherine Phillips sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/catherine-phillips",
+    "name": "Catherine Phillips",
+    "email": "catherine.phillips@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

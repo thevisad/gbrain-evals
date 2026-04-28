@@ -1,0 +1,14 @@
+{
+  "slug": "people/brad-kirchhofer",
+  "type": "person",
+  "title": "Brad Kirchhofer",
+  "compiled_truth": "Brad Kirchhofer is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-02 to 2002-03-29), Brad Kirchhofer sent 2 and received 17 emails, totalling 19 interactions. Top correspondents: [Cheryl Lindeman](people/cheryl-lindeman) (2), [James Derrick](people/james-derrick) (1), [Mark Frevert](people/mark-frevert) (1), [Raymond Bowen](people/raymond-bowen) (1), [Jeffrey Mcmahon](people/jeffrey-mcmahon) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-03-02** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brad-kirchhofer",
+    "name": "Brad Kirchhofer",
+    "email": "brad.kirchhofer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

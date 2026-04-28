@@ -1,0 +1,14 @@
+{
+  "slug": "people/dean-sacerdote",
+  "type": "person",
+  "title": "Dean Sacerdote",
+  "compiled_truth": "Dean Sacerdote is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-30 to 2001-11-18), Dean Sacerdote sent 1 and received 28 emails, totalling 29 interactions. Top correspondents: [Lsacerdote](people/lsacerdote-prodigy) (1), [Efitzgerald](people/efitzgerald-anpower) (1), [Ragan Bond](people/ragan-bond) (1), [Tom Donohoe](people/tom-donohoe) (1), [Lisa Cintron](people/lisa-cintron-db) (1).",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2001-11-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dean-sacerdote",
+    "name": "Dean Sacerdote",
+    "email": "dean.sacerdote@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

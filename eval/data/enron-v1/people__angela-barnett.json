@@ -1,0 +1,14 @@
+{
+  "slug": "people/angela-barnett",
+  "type": "person",
+  "title": "Angela Barnett",
+  "compiled_truth": "Angela Barnett is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-06 to 2001-11-14), Angela Barnett sent 35 and received 209 emails, totalling 244 interactions. Top correspondents: [Judy Hernandez](people/judy-hernandez) (35), [Regina Blackshear](people/regina-blackshear) (14), [Eve Puckett](people/eve-puckett) (12), [Lsharis](people/lsharis-msn) (12), [Diane Salcido](people/diane-salcido) (9).",
+  "timeline": "- **2000-01-06** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angela-barnett",
+    "name": "Angela Barnett",
+    "email": "angela.barnett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

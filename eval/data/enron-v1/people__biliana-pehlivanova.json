@@ -1,0 +1,14 @@
+{
+  "slug": "people/biliana-pehlivanova",
+  "type": "person",
+  "title": "Biliana Pehlivanova",
+  "compiled_truth": "Biliana Pehlivanova is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-18 to 2002-02-19), Biliana Pehlivanova sent 14 and received 163 emails, totalling 177 interactions. Top correspondents: [Vladi Pimenov](people/vladi-pimenov) (6), [Kam Keiser](people/kam-keiser) (4), [Anya Beylin](people/anya-beylin) (3), [Gautam Gupta](people/gautam-gupta) (3), [Dipak Agarwalla](people/dipak-agarwalla) (3). Mailbox folders observed: 07_saved, deleted_items, inbox.",
+  "timeline": "- **2001-04-18** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/biliana-pehlivanova",
+    "name": "Biliana Pehlivanova",
+    "email": "biliana.pehlivanova@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

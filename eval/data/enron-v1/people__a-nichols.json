@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-nichols",
+  "type": "person",
+  "title": "A Nichols",
+  "compiled_truth": "A Nichols is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2001-11-09), A Nichols sent 2 and received 19 emails, totalling 21 interactions. Top correspondents: [Claire Harvey](people/claire-harvey) (2), [Michelle Akers](people/michelle-akers) (2), [C  Anderson](people/c-anderson) (2), [Adam Bayer](people/adam-bayer) (2), [Christina Benkert](people/christina-benkert) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-nichols",
+    "name": "A Nichols",
+    "email": "a.nichols@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

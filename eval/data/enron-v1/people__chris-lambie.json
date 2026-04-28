@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-lambie",
+  "type": "person",
+  "title": "Chris Lambie",
+  "compiled_truth": "Chris Lambie is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2002-02-21), Chris Lambie sent 8 and received 174 emails, totalling 182 interactions. Top correspondents: [Jonathan Mckay](people/jonathan-mckay) (5), [John Zufferli](people/john-zufferli) (2), [Geoff Storey](people/geoff-storey) (2), [Peter Keohane](people/peter-keohane) (1), [Andy Zipper](people/andy-zipper) (1). Mailbox folders observed: deleted_items, personal, recuriting, ring_trades.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-lambie",
+    "name": "Chris Lambie",
+    "email": "chris.lambie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

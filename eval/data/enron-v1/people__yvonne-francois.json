@@ -1,0 +1,14 @@
+{
+  "slug": "people/yvonne-francois",
+  "type": "person",
+  "title": "Yvonne Francois",
+  "compiled_truth": "Yvonne Francois is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-01-31), Yvonne Francois sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yvonne-francois",
+    "name": "Yvonne Francois",
+    "email": "yvonne.francois@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/doug-chamberlin",
+  "type": "person",
+  "title": "Doug Chamberlin",
+  "compiled_truth": "Doug Chamberlin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-27 to 2001-04-27), Doug Chamberlin sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-04-27** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/doug-chamberlin",
+    "name": "Doug Chamberlin",
+    "email": "doug.chamberlin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

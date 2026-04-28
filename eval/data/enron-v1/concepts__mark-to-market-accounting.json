@@ -1,0 +1,22 @@
+{
+  "slug": "concepts/mark-to-market-accounting",
+  "type": "concept",
+  "title": "Mark-to-Market Accounting",
+  "compiled_truth": "Enron's aggressive use of mark-to-market accounting, approved by the SEC in 1992, allowed the company to book estimated future profits from long-term contracts as current earnings — inflating reported revenues. Related organizations: [Enron](companies/enron), [SEC](companies/sec), [Arthur Andersen](companies/arthur-andersen).",
+  "timeline": "- **1992-01-30** | SEC approves Enron's request to use mark-to-market accounting\n- **2000-12-31** | Enron reports $100B in revenues, much mark-to-market\n- **2001-10-16** | Enron announces $544M after-tax charge and $1.2B equity reduction\n- **2001-11-08** | Enron restates earnings back to 1997, reducing net income by $586M",
+  "_facts": {
+    "type": "concept",
+    "slug": "concepts/mark-to-market-accounting",
+    "related_companies": [
+      "companies/enron",
+      "companies/sec",
+      "companies/arthur-andersen"
+    ],
+    "related_people": [
+      "people/kenneth-lay",
+      "people/jeffrey-skilling",
+      "people/andrew-fastow",
+      "people/richard-causey"
+    ]
+  }
+}

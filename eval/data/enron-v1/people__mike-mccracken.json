@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-mccracken",
+  "type": "person",
+  "title": "Mike Mccracken",
+  "compiled_truth": "Mike Mccracken is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-06 to 2002-03-21), Mike Mccracken sent 10 and received 90 emails, totalling 100 interactions. Top correspondents: [Earl Chanley](people/earl-chanley) (8), [Rich Jolly](people/rich-jolly) (7), [Darrell Schoolcraft](people/darrell-schoolcraft) (7), [Arnie Bailey](people/arnie-bailey) (6), [Michelle Lokay](people/michelle-lokay) (5). Mailbox folders observed: deleted_items, enron_t_s, inbox, tw_commercial_group.",
+  "timeline": "- **1999-05-06** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-mccracken",
+    "name": "Mike Mccracken",
+    "email": "mike.mccracken@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

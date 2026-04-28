@@ -1,0 +1,14 @@
+{
+  "slug": "people/bobby-ferrell",
+  "type": "person",
+  "title": "Bobby Ferrell",
+  "compiled_truth": "Bobby Ferrell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-25 to 2001-02-06), Bobby Ferrell sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-05-25** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bobby-ferrell",
+    "name": "Bobby Ferrell",
+    "email": "bobby.ferrell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

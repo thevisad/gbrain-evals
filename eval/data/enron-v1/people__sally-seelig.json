@@ -1,0 +1,14 @@
+{
+  "slug": "people/sally-seelig",
+  "type": "person",
+  "title": "Sally Seelig",
+  "compiled_truth": "Sally Seelig is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-31 to 2001-10-25), Sally Seelig sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-07-31** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sally-seelig",
+    "name": "Sally Seelig",
+    "email": "sally.seelig@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

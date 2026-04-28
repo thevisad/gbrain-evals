@@ -1,0 +1,14 @@
+{
+  "slug": "people/tjacobs-ou",
+  "type": "person",
+  "title": "Tjacobs",
+  "compiled_truth": "Tjacobs is an external contact at [Ou](companies/ou). Over the corpus period (2000-01-31 to 2001-05-15), Tjacobs sent 6 and received 25 emails, totalling 31 interactions. Top correspondents: [Sally Beck](people/sally-beck) (6), [Shelly Jones](people/shelly-jones) (2), [Lysanys](people/lysanys-yahoo) (1), [Bachtiarf](people/bachtiarf-cs) (1), [Andrew B Bishop-1](people/andrew-b-bishop-1-ou) (1).",
+  "timeline": "- **2000-01-31** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tjacobs-ou",
+    "name": "Tjacobs",
+    "email": "tjacobs@ou.edu",
+    "primary_affiliation": "companies/ou"
+  }
+}

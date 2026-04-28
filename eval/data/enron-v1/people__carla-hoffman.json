@@ -1,0 +1,14 @@
+{
+  "slug": "people/carla-hoffman",
+  "type": "person",
+  "title": "Carla Hoffman",
+  "compiled_truth": "Carla Hoffman is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2001-07-26), Carla Hoffman sent 68 and received 343 emails, totalling 411 interactions. Top correspondents: [Jeff Richter](people/jeff-richter) (58), [Tim Belden](people/tim-belden) (56), [Robert Badeer](people/robert-badeer) (56), [Phillip Platter](people/phillip-platter) (56), [Mike Swerzbin](people/mike-swerzbin) (56).",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2001-07-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carla-hoffman",
+    "name": "Carla Hoffman",
+    "email": "carla.hoffman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

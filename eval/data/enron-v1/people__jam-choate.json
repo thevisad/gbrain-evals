@@ -1,0 +1,14 @@
+{
+  "slug": "people/jam-choate",
+  "type": "person",
+  "title": "Jam",
+  "compiled_truth": "Jam is an external contact at [Choate](companies/choate). Over the corpus period (2001-10-18 to 2001-10-18), Jam sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jam-choate",
+    "name": "Jam",
+    "email": "jam@choate.com",
+    "primary_affiliation": "companies/choate"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/judy-townsend",
+  "type": "person",
+  "title": "Judy Townsend",
+  "compiled_truth": "Judy Townsend is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-04-24), Judy Townsend sent 93 and received 897 emails, totalling 990 interactions. Top correspondents: [Jtownse](people/jtownse-yahoo) (32), [Chris Germany](people/chris-germany) (27), [Dan Junek](people/dan-junek) (6), [James Mckay](people/james-mckay) (4), [Scott Goodell](people/scott-goodell) (3). Mailbox folders observed: _sent_mail, bankrupt, inbox, sent, sent_items, to_do.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-04-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/judy-townsend",
+    "name": "Judy Townsend",
+    "email": "judy.townsend@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

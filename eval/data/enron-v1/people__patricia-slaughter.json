@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-slaughter",
+  "type": "person",
+  "title": "Patricia Slaughter",
+  "compiled_truth": "Patricia Slaughter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-19 to 2001-06-14), Patricia Slaughter sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-06-19** | First recorded email in corpus\n- **2001-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-slaughter",
+    "name": "Patricia Slaughter",
+    "email": "patricia.slaughter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

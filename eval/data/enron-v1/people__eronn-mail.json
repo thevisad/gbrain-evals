@@ -1,0 +1,14 @@
+{
+  "slug": "people/eronn-mail",
+  "type": "person",
+  "title": "Eronn",
+  "compiled_truth": "Eronn is an external contact at [Mail](companies/mail). Over the corpus period (1999-12-28 to 2002-01-29), Eronn sent 14 and received 66 emails, totalling 80 interactions. Top correspondents: [Vince J Kaminski](people/vince-j-kaminski) (6), [J Kaminski](people/j-kaminski) (5), [Richard Causey](people/richard-causey) (3), [Vkamins](people/vkamins) (2), [Greg Whalley](people/greg-whalley) (2).",
+  "timeline": "- **1999-12-28** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eronn-mail",
+    "name": "Eronn",
+    "email": "eronn@mail.utexas.edu",
+    "primary_affiliation": "companies/mail"
+  }
+}

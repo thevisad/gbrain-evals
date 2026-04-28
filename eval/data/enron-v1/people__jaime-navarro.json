@@ -1,0 +1,14 @@
+{
+  "slug": "people/jaime-navarro",
+  "type": "person",
+  "title": "Jaime Navarro",
+  "compiled_truth": "Jaime Navarro is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-09-24), Jaime Navarro sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jaime-navarro",
+    "name": "Jaime Navarro",
+    "email": "jaime.navarro@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-fuqua",
+  "type": "person",
+  "title": "Linda Fuqua",
+  "compiled_truth": "Linda Fuqua is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2001-11-27), Linda Fuqua sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-fuqua",
+    "name": "Linda Fuqua",
+    "email": "linda.fuqua@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

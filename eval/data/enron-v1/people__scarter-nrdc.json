@@ -1,0 +1,14 @@
+{
+  "slug": "people/scarter-nrdc",
+  "type": "person",
+  "title": "Scarter",
+  "compiled_truth": "Scarter is an external contact at [Nrdc](companies/nrdc). Over the corpus period (1999-09-24 to 2001-12-21), Scarter sent 0 and received 122 emails, totalling 122 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scarter-nrdc",
+    "name": "Scarter",
+    "email": "scarter@nrdc.org",
+    "primary_affiliation": "companies/nrdc"
+  }
+}

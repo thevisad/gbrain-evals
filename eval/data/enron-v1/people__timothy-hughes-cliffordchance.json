@@ -1,0 +1,14 @@
+{
+  "slug": "people/timothy-hughes-cliffordchance",
+  "type": "person",
+  "title": "Timothy Hughes",
+  "compiled_truth": "Timothy Hughes is an external contact at [Cliffordchance](companies/cliffordchance). Over the corpus period (1999-07-05 to 1999-08-19), Timothy Hughes sent 2 and received 15 emails, totalling 17 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (2), [Ssefton](people/ssefton-enron) (2), [Lkitchen](people/lkitchen-enron) (1), [Elena Kapralova](people/elena-kapralova) (1), [Jboyd](people/jboyd-enron) (1).",
+  "timeline": "- **1999-07-05** | First recorded email in corpus\n- **1999-08-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/timothy-hughes-cliffordchance",
+    "name": "Timothy Hughes",
+    "email": "timothy.hughes@cliffordchance.com",
+    "primary_affiliation": "companies/cliffordchance"
+  }
+}

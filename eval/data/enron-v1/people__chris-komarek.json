@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-komarek",
+  "type": "person",
+  "title": "Chris Komarek",
+  "compiled_truth": "Chris Komarek is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-09 to 2001-02-02), Chris Komarek sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-06-09** | First recorded email in corpus\n- **2001-02-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-komarek",
+    "name": "Chris Komarek",
+    "email": "chris.komarek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

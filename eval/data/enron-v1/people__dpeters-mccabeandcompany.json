@@ -1,0 +1,14 @@
+{
+  "slug": "people/dpeters-mccabeandcompany",
+  "type": "person",
+  "title": "Dpeters",
+  "compiled_truth": "Dpeters is an external contact at [Mccabeandcompany](companies/mccabeandcompany). Over the corpus period (2001-06-20 to 2001-11-20), Dpeters sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2001-06-20** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dpeters-mccabeandcompany",
+    "name": "Dpeters",
+    "email": "dpeters@mccabeandcompany.net",
+    "primary_affiliation": "companies/mccabeandcompany"
+  }
+}

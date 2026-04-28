@@ -1,0 +1,14 @@
+{
+  "slug": "people/utku-gulmeden",
+  "type": "person",
+  "title": "Utku Gulmeden",
+  "compiled_truth": "Utku Gulmeden is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-24 to 2001-12-05), Utku Gulmeden sent 0 and received 93 emails, totalling 93 interactions.",
+  "timeline": "- **2001-08-24** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/utku-gulmeden",
+    "name": "Utku Gulmeden",
+    "email": "utku.gulmeden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-gilchrist",
+  "type": "person",
+  "title": "Lisa Gilchrist",
+  "compiled_truth": "Lisa Gilchrist is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-08 to 2002-05-06), Lisa Gilchrist sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-03-08** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-gilchrist",
+    "name": "Lisa Gilchrist",
+    "email": "lisa.gilchrist@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mona-l-petrochko",
+  "type": "person",
+  "title": "Mona L Petrochko",
+  "compiled_truth": "Mona L Petrochko is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2001-10-22), Mona L Petrochko sent 31 and received 43 emails, totalling 74 interactions. Top correspondents: [Enron Com](people/enron-com) (29), [Susan J Mara](people/susan-j-mara) (23), [Sandra McCubbin](people/sandra-mccubbin) (23), [Paul Kaufman](people/paul-kaufman) (22), [Mary Hain](people/mary-hain) (22). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mona-l-petrochko",
+    "name": "Mona L Petrochko",
+    "email": "mona.l.petrochko@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

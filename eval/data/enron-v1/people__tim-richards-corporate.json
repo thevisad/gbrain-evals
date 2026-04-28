@@ -1,0 +1,14 @@
+{
+  "slug": "people/tim-richards-corporate",
+  "type": "person",
+  "title": "Tim Richards",
+  "compiled_truth": "Tim Richards is an external contact at [Corporate](companies/corporate). Over the corpus period (1999-11-05 to 2000-11-20), Tim Richards sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **1999-11-05** | First recorded email in corpus\n- **2000-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tim-richards-corporate",
+    "name": "Tim Richards",
+    "email": "tim.richards@corporate.ge.com",
+    "primary_affiliation": "companies/corporate"
+  }
+}

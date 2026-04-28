@@ -1,0 +1,14 @@
+{
+  "slug": "people/alouison-hunton",
+  "type": "person",
+  "title": "Alouison",
+  "compiled_truth": "Alouison is an external contact at [Hunton](companies/hunton). Over the corpus period (2001-05-08 to 2001-05-11), Alouison sent 2 and received 17 emails, totalling 19 interactions. Top correspondents: [Shase](people/shase-aesc) (2), [Aroffwarg](people/aroffwarg-bracepatt) (2), [Prollin](people/prollin-aesc) (2), [Cthompson](people/cthompson-bracepatt) (2), [Szisman](people/szisman) (2).",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alouison-hunton",
+    "name": "Alouison",
+    "email": "alouison@hunton.com",
+    "primary_affiliation": "companies/hunton"
+  }
+}

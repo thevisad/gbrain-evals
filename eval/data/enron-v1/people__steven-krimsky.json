@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-krimsky",
+  "type": "person",
+  "title": "Steven Krimsky",
+  "compiled_truth": "Steven Krimsky is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2001-12-07), Steven Krimsky sent 16 and received 115 emails, totalling 131 interactions. Top correspondents: [Ben Jacoby](people/ben-jacoby) (16), [Kay Mann](people/kay-mann) (15), [Raimund Grube](people/raimund-grube) (8), [Orshefskyd](people/orshefskyd-gtlaw) (6), [Eric Thode](people/eric-thode) (4). Mailbox folders observed: deleted_items, florida, inbox.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-krimsky",
+    "name": "Steven Krimsky",
+    "email": "steven.krimsky@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

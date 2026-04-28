@@ -1,0 +1,14 @@
+{
+  "slug": "people/tmaha-opic",
+  "type": "person",
+  "title": "Tmaha",
+  "compiled_truth": "Tmaha is an external contact at [Opic](companies/opic). Over the corpus period (2000-11-28 to 2000-12-12), Tmaha sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tmaha-opic",
+    "name": "Tmaha",
+    "email": "tmaha@opic.gov",
+    "primary_affiliation": "companies/opic"
+  }
+}

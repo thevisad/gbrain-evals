@@ -1,0 +1,14 @@
+{
+  "slug": "people/murthy-haas",
+  "type": "person",
+  "title": "Murthy",
+  "compiled_truth": "Murthy is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2001-02-25), Murthy sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/murthy-haas",
+    "name": "Murthy",
+    "email": "murthy@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

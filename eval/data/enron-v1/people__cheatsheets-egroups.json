@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheatsheets-egroups",
+  "type": "person",
+  "title": "Cheatsheets",
+  "compiled_truth": "Cheatsheets is an external contact at [Egroups](companies/egroups). Over the corpus period (2000-11-02 to 2000-12-13), Cheatsheets sent 1 and received 54 emails, totalling 55 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheatsheets-egroups",
+    "name": "Cheatsheets",
+    "email": "cheatsheets@egroups.com",
+    "primary_affiliation": "companies/egroups"
+  }
+}

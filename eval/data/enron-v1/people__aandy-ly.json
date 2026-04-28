@@ -1,0 +1,14 @@
+{
+  "slug": "people/aandy-ly",
+  "type": "person",
+  "title": "Aandy Ly",
+  "compiled_truth": "Aandy Ly is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-11 to 2001-11-28), Aandy Ly sent 0 and received 37 emails, totalling 37 interactions.",
+  "timeline": "- **2000-09-11** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aandy-ly",
+    "name": "Aandy Ly",
+    "email": "aandy.ly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-south",
+  "type": "person",
+  "title": "Steven South",
+  "compiled_truth": "Steven South is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-06-18), Steven South sent 42 and received 192 emails, totalling 234 interactions. Top correspondents: [Sbashen](people/sbashen-sjbc) (14), [Elizabeth Hernandez](people/elizabeth-hernandez) (6), [Bsitz](people/bsitz-mail) (4), [Sghill](people/sghill-bcgas) (4), [Laura Pena](people/laura-pena) (2). Mailbox folders observed: _sent_mail, sent.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-06-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-south",
+    "name": "Steven South",
+    "email": "steven.south@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

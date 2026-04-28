@@ -1,0 +1,14 @@
+{
+  "slug": "people/margueritekahn-paulhastings",
+  "type": "person",
+  "title": "Margueritekahn",
+  "compiled_truth": "Margueritekahn is an external contact at [Paulhastings](companies/paulhastings). Over the corpus period (2001-03-12 to 2001-05-31), Margueritekahn sent 0 and received 44 emails, totalling 44 interactions.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-05-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margueritekahn-paulhastings",
+    "name": "Margueritekahn",
+    "email": "margueritekahn@paulhastings.com",
+    "primary_affiliation": "companies/paulhastings"
+  }
+}

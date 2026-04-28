@@ -1,0 +1,14 @@
+{
+  "slug": "people/kdfriedrich-duke-energy",
+  "type": "person",
+  "title": "Kdfriedrich",
+  "compiled_truth": "Kdfriedrich is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2001-04-20 to 2001-05-15), Kdfriedrich sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-04-20** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kdfriedrich-duke-energy",
+    "name": "Kdfriedrich",
+    "email": "kdfriedrich@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

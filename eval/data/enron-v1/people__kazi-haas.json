@@ -1,0 +1,14 @@
+{
+  "slug": "people/kazi-haas",
+  "type": "person",
+  "title": "Kazi",
+  "compiled_truth": "Kazi is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-12-14), Kazi sent 0 and received 86 emails, totalling 86 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kazi-haas",
+    "name": "Kazi",
+    "email": "kazi@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

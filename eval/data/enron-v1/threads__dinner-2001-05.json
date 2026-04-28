@@ -1,0 +1,36 @@
+{
+  "slug": "threads/dinner-2001-05",
+  "type": "meeting",
+  "title": "Thread: Dinner",
+  "compiled_truth": "Email thread: \"Dinner\". Ran from 2001-05-23 to 2001-06-21 with 12 messages. Participants: [ Brad](people/brad), [ Brian](people/brian), [Brianc](people/brianc-saltgrass), [Celeahy](people/celeahy-hotmail), [ Chad](people/chad), [Chet Fenner](people/chet-fenner), [Chet Fenner](people/chet-fenner-bmc), [Constantine' 'Brian](people/constantine-brian).",
+  "timeline": "- **2001-05-23** | Thread begins: dinner\n- **2001-06-21** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/dinner-2001-05",
+    "attendees": [
+      "people/brad",
+      "people/brian",
+      "people/brianc-saltgrass",
+      "people/celeahy-hotmail",
+      "people/chad",
+      "people/chet-fenner",
+      "people/chet-fenner-bmc",
+      "people/constantine-brian",
+      "people/erik",
+      "people/jeff-dasovich",
+      "people/jmenconi-adv-eng-ser-inc",
+      "people/joe-parks",
+      "people/kim",
+      "people/knipe3-aol",
+      "people/m-scott",
+      "people/michael-tribolet",
+      "people/molly",
+      "people/monique-sanchez",
+      "people/sheila",
+      "people/stormy",
+      "people/tracy-corrier",
+      "people/tracy-corrier-bmc"
+    ],
+    "date": "2001-05-23"
+  }
+}

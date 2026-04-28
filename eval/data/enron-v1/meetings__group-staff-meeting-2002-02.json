@@ -1,0 +1,33 @@
+{
+  "slug": "meetings/group-staff-meeting-2002-02",
+  "type": "meeting",
+  "title": "Meeting: Group Staff Meeting",
+  "compiled_truth": "Meeting: \"Group Staff Meeting\". Occurred 2002-02-20 with 1 related emails. Participants included: [Alex Hernandez](people/alex-hernandez), [C  Aucoin](people/c-aucoin), [Chris Germany](people/chris-germany), [Ed Mcmichael](people/ed-mcmichael), [Elena Chilkina](people/elena-chilkina), [Eric Boyt](people/eric-boyt), [Joe Parks](people/joe-parks), [Justin Rostant](people/justin-rostant)....",
+  "timeline": "- **2002-02-20** | Meeting: group staff meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/group-staff-meeting-2002-02",
+    "attendees": [
+      "people/alex-hernandez",
+      "people/c-aucoin",
+      "people/chris-germany",
+      "people/ed-mcmichael",
+      "people/elena-chilkina",
+      "people/eric-boyt",
+      "people/joe-parks",
+      "people/justin-rostant",
+      "people/l-kelly",
+      "people/louis-dicarlo",
+      "people/m-scott",
+      "people/maria-garza",
+      "people/paul-gregory",
+      "people/phil-polsky",
+      "people/robin-barbe",
+      "people/ruth-concannon",
+      "people/troy-denetsosie",
+      "people/victoria-versen",
+      "people/yuan-tian"
+    ],
+    "date": "2002-02-20"
+  }
+}

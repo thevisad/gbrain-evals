@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-nutt",
+  "type": "person",
+  "title": "David Nutt",
+  "compiled_truth": "David Nutt is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-01 to 2001-12-31), David Nutt sent 2 and received 87 emails, totalling 89 interactions. Top correspondents: [J  Kean](people/j-kean) (1), [Michael Terraso](people/michael-terraso) (1), [Jeff Skilling](people/jeff-skilling) (1), [James Derrick](people/james-derrick) (1), [Stanley Horton](people/stanley-horton) (1). Mailbox folders observed: deleted_items, environmental_issues.",
+  "timeline": "- **1999-04-01** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-nutt",
+    "name": "David Nutt",
+    "email": "david.nutt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

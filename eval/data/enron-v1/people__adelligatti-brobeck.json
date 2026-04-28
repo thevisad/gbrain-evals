@@ -1,0 +1,14 @@
+{
+  "slug": "people/adelligatti-brobeck",
+  "type": "person",
+  "title": "Adelligatti",
+  "compiled_truth": "Adelligatti is an external contact at [Brobeck](companies/brobeck). Over the corpus period (2000-12-28 to 2001-03-12), Adelligatti sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-12-28** | First recorded email in corpus\n- **2001-03-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adelligatti-brobeck",
+    "name": "Adelligatti",
+    "email": "adelligatti@brobeck.com",
+    "primary_affiliation": "companies/brobeck"
+  }
+}

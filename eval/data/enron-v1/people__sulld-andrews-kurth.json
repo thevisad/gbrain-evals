@@ -1,0 +1,14 @@
+{
+  "slug": "people/sulld-andrews-kurth",
+  "type": "person",
+  "title": "Sulld",
+  "compiled_truth": "Sulld is an external contact at [Andrews-kurth](companies/andrews-kurth). Over the corpus period (2000-10-26 to 2000-11-10), Sulld sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-10-26** | First recorded email in corpus\n- **2000-11-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sulld-andrews-kurth",
+    "name": "Sulld",
+    "email": "sulld@andrews-kurth.com",
+    "primary_affiliation": "companies/andrews-kurth"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cottlli-sf",
+  "type": "person",
+  "title": "Cottlli",
+  "compiled_truth": "Cottlli is an external contact at [Sf](companies/sf). Over the corpus period (1999-09-24 to 2001-07-31), Cottlli sent 0 and received 54 emails, totalling 54 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cottlli-sf",
+    "name": "Cottlli",
+    "email": "cottlli@sf.whitecase.com",
+    "primary_affiliation": "companies/sf"
+  }
+}

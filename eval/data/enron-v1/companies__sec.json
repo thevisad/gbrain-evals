@@ -1,0 +1,22 @@
+{
+  "slug": "companies/sec",
+  "type": "company",
+  "title": "SEC",
+  "compiled_truth": "SEC is an external organization that appears in the Enron email corpus. Domain: sec.gov. Total email interactions with Enron: 40. Known contacts: 5 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (40 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/sec",
+    "name": "SEC",
+    "employees": [
+      "people/bethelj-sec",
+      "people/corsog-sec",
+      "people/greinerm-sec",
+      "people/mcgovernw-sec",
+      "people/sirrie-sec"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

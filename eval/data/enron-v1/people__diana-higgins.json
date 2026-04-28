@@ -1,0 +1,14 @@
+{
+  "slug": "people/diana-higgins",
+  "type": "person",
+  "title": "Diana Higgins",
+  "compiled_truth": "Diana Higgins is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-12 to 2001-10-05), Diana Higgins sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (1), [Hamish Scutt](people/hamish-scutt) (1).",
+  "timeline": "- **2000-06-12** | First recorded email in corpus\n- **2001-10-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diana-higgins",
+    "name": "Diana Higgins",
+    "email": "diana.higgins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

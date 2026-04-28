@@ -1,0 +1,14 @@
+{
+  "slug": "people/viviana-florio",
+  "type": "person",
+  "title": "Viviana Florio",
+  "compiled_truth": "Viviana Florio is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-26 to 2001-09-20), Viviana Florio sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-07-26** | First recorded email in corpus\n- **2001-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/viviana-florio",
+    "name": "Viviana Florio",
+    "email": "viviana.florio@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

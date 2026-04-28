@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-toomey-ny",
+  "type": "person",
+  "title": "Robert Toomey",
+  "compiled_truth": "Robert Toomey is an external contact at [Ny](companies/ny). Over the corpus period (2001-11-09 to 2001-11-16), Robert Toomey sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-11-09** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-toomey-ny",
+    "name": "Robert Toomey",
+    "email": "robert.toomey@ny.frb.org",
+    "primary_affiliation": "companies/ny"
+  }
+}

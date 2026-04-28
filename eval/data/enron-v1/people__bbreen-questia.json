@@ -1,0 +1,14 @@
+{
+  "slug": "people/bbreen-questia",
+  "type": "person",
+  "title": "Bbreen",
+  "compiled_truth": "Bbreen is an external contact at [Questia](companies/questia). Over the corpus period (2000-10-31 to 2000-10-31), Bbreen sent 1 and received 0 emails, totalling 1 interactions. Top correspondents: [Twilliams](people/twilliams-questia) (1), [Kenneth Lay](people/kenneth-lay) (1), [Rodc](people/rodc-canion) (1), [Pamclane](people/pamclane-ta) (1), [Dcabello](people/dcabello-questia) (1).",
+  "timeline": "- **2000-10-31** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bbreen-questia",
+    "name": "Bbreen",
+    "email": "bbreen@questia.com",
+    "primary_affiliation": "companies/questia"
+  }
+}

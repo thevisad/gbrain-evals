@@ -1,0 +1,14 @@
+{
+  "slug": "people/margie-nguyen",
+  "type": "person",
+  "title": "Margie Nguyen",
+  "compiled_truth": "Margie Nguyen is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-22 to 2001-12-06), Margie Nguyen sent 8 and received 26 emails, totalling 34 interactions. Top correspondents: [John Griffith](people/john-griffith) (6), [Jeremy Wong](people/jeremy-wong) (3), [Sanjeev Gupta](people/sanjeev-gupta) (2), [Chris Abel](people/chris-abel) (2), [Thomas Araujo](people/thomas-araujo) (2). Mailbox folders observed: central, deleted_items, market.",
+  "timeline": "- **2001-01-22** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margie-nguyen",
+    "name": "Margie Nguyen",
+    "email": "margie.nguyen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

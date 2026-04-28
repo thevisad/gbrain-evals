@@ -1,0 +1,14 @@
+{
+  "slug": "people/peter-mims-velaw",
+  "type": "person",
+  "title": "Peter Mims",
+  "compiled_truth": "Peter Mims is an external contact at [Vinson & Elkins](companies/vinson-elkins). Over the corpus period (2001-10-03 to 2001-11-27), Peter Mims sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-10-03** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peter-mims-velaw",
+    "name": "Peter Mims",
+    "email": "peter.mims@velaw.com",
+    "primary_affiliation": "companies/vinson-elkins"
+  }
+}

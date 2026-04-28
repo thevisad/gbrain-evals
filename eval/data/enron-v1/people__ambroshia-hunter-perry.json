@@ -1,0 +1,14 @@
+{
+  "slug": "people/ambroshia-hunter-perry",
+  "type": "person",
+  "title": "Ambroshia Hunter-Perry",
+  "compiled_truth": "Ambroshia Hunter-Perry is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-27 to 2001-10-10), Ambroshia Hunter-Perry sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-10-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ambroshia-hunter-perry",
+    "name": "Ambroshia Hunter-Perry",
+    "email": "ambroshia.hunter-perry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

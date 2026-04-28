@@ -1,0 +1,14 @@
+{
+  "slug": "people/aagrawal-cba",
+  "type": "person",
+  "title": "Aagrawal",
+  "compiled_truth": "Aagrawal is an external contact at [Cba](companies/cba). Over the corpus period (2000-03-28 to 2001-04-09), Aagrawal sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2001-04-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aagrawal-cba",
+    "name": "Aagrawal",
+    "email": "aagrawal@cba.ua.edu",
+    "primary_affiliation": "companies/cba"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-parada",
+  "type": "person",
+  "title": "Lisa Parada",
+  "compiled_truth": "Lisa Parada is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-08 to 2001-12-07), Lisa Parada sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-10-08** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-parada",
+    "name": "Lisa Parada",
+    "email": "lisa.parada@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

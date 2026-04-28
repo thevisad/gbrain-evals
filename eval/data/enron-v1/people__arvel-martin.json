@@ -1,0 +1,14 @@
+{
+  "slug": "people/arvel-martin",
+  "type": "person",
+  "title": "Arvel Martin",
+  "compiled_truth": "Arvel Martin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-24 to 2001-11-06), Arvel Martin sent 6 and received 92 emails, totalling 98 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (6), [Joan Quick](people/joan-quick) (4), [Walt Hamilton](people/walt-hamilton) (3), [Mark Castiglione](people/mark-castiglione) (2), [Dan Bump](people/dan-bump) (2).",
+  "timeline": "- **2000-07-24** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/arvel-martin",
+    "name": "Arvel Martin",
+    "email": "arvel.martin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

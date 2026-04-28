@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-brostad",
+  "type": "person",
+  "title": "Karen Brostad",
+  "compiled_truth": "Karen Brostad is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2002-03-13), Karen Brostad sent 15 and received 124 emails, totalling 139 interactions. Top correspondents: [Michelle Lokay](people/michelle-lokay) (12), [Darrell Schoolcraft](people/darrell-schoolcraft) (11), [Beverly Miller](people/beverly-miller) (9), [Amy Mulligan](people/amy-mulligan) (9), [Gale Ramsaran](people/gale-ramsaran) (9). Mailbox folders observed: deleted_items, inbox, tw_commercial_group.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-brostad",
+    "name": "Karen Brostad",
+    "email": "karen.brostad@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

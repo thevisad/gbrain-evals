@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-melton",
+  "type": "person",
+  "title": "Richard Melton",
+  "compiled_truth": "Richard Melton is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-28), Richard Melton sent 2 and received 48 emails, totalling 50 interactions. Top correspondents: [Colleen Raker](people/colleen-raker) (2), [Louis Soldano](people/louis-soldano) (2), [Emily Sellers](people/emily-sellers) (1), [K  Bargainer](people/k-bargainer) (1), [E  Brown](people/e-brown) (1). Mailbox folders observed: florida, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-melton",
+    "name": "Richard Melton",
+    "email": "richard.melton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

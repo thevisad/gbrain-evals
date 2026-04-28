@@ -1,0 +1,14 @@
+{
+  "slug": "people/miguel-garcia",
+  "type": "person",
+  "title": "Miguel Garcia",
+  "compiled_truth": "Miguel Garcia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-29 to 2002-03-18), Miguel Garcia sent 8 and received 291 emails, totalling 299 interactions. Top correspondents: [Juan Hernandez](people/juan-hernandez) (7), [Don Baughman](people/don-baughman) (5), [John Kinser](people/john-kinser) (4), [Mauricio Trejo](people/mauricio-trejo) (4), [Rudy Acevedo](people/rudy-acevedo) (4). Mailbox folders observed: 24_hr_power, power.",
+  "timeline": "- **2000-07-29** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/miguel-garcia",
+    "name": "Miguel Garcia",
+    "email": "miguel.garcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

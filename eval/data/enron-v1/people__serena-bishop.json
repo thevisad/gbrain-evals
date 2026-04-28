@@ -1,0 +1,14 @@
+{
+  "slug": "people/serena-bishop",
+  "type": "person",
+  "title": "Serena Bishop",
+  "compiled_truth": "Serena Bishop is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-25 to 2002-03-22), Serena Bishop sent 19 and received 168 emails, totalling 187 interactions. Top correspondents: [Lisa Gang](people/lisa-gang) (6), [Shift Dl-Portland](people/shift-dl-portland) (4), [Chris Mallory](people/chris-mallory) (3), [Phillip Platter](people/phillip-platter) (3), [Sean Crandall](people/sean-crandall) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus\n- **2002-03-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/serena-bishop",
+    "name": "Serena Bishop",
+    "email": "serena.bishop@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

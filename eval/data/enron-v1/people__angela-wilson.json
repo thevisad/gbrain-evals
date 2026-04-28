@@ -1,0 +1,14 @@
+{
+  "slug": "people/angela-wilson",
+  "type": "person",
+  "title": "Angela Wilson",
+  "compiled_truth": "Angela Wilson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-22 to 2001-11-29), Angela Wilson sent 10 and received 78 emails, totalling 88 interactions. Top correspondents: [Ann Schmidt](people/ann-schmidt) (8), [Elizabeth Linnell](people/elizabeth-linnell) (8), [James Steffes](people/james-steffes) (8), [John Neslage](people/john-neslage) (8), [Karen Denne](people/karen-denne) (8). Mailbox folders observed: caliornia___investigations, eesirenewableenergy.",
+  "timeline": "- **2000-02-22** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angela-wilson",
+    "name": "Angela Wilson",
+    "email": "angela.wilson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

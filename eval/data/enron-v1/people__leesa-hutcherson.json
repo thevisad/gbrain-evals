@@ -1,0 +1,14 @@
+{
+  "slug": "people/leesa-hutcherson",
+  "type": "person",
+  "title": "Leesa Hutcherson",
+  "compiled_truth": "Leesa Hutcherson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-06 to 2002-03-06), Leesa Hutcherson sent 3 and received 25 emails, totalling 28 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (2), [Tracy Geaccone](people/tracy-geaccone) (1), [Jana Domke](people/jana-domke) (1), [Wilson Barbee](people/wilson-barbee) (1). Mailbox folders observed: action_items_in, gpg.",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2002-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leesa-hutcherson",
+    "name": "Leesa Hutcherson",
+    "email": "leesa.hutcherson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

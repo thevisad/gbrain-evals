@@ -1,0 +1,14 @@
+{
+  "slug": "people/c-gossett",
+  "type": "person",
+  "title": "C  Gossett",
+  "compiled_truth": "C  Gossett is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-17 to 2002-02-13), C  Gossett sent 109 and received 810 emails, totalling 919 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (56), [Errol Mclaughlin](people/errol-mclaughlin) (38), [M  Love](people/m-love) (27), [D  Winfree](people/d-winfree) (16), [David Baumbach](people/david-baumbach) (15). Mailbox folders observed: _americas, calendar, central, deleted_items, east_desk, gossett.",
+  "timeline": "- **2001-05-17** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/c-gossett",
+    "name": "C  Gossett",
+    "email": "c..gossett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

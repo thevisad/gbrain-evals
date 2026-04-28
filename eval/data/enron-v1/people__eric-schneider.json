@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-schneider",
+  "type": "person",
+  "title": "Eric Schneider",
+  "compiled_truth": "Eric Schneider is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-06-08), Eric Schneider sent 4 and received 9 emails, totalling 13 interactions. Top correspondents: [Vance Holtzman](people/vance-holtzman) (4), [Charles Weldon](people/charles-weldon) (4). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-schneider",
+    "name": "Eric Schneider",
+    "email": "eric.schneider@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

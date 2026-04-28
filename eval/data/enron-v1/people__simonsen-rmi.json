@@ -1,0 +1,14 @@
+{
+  "slug": "people/simonsen-rmi",
+  "type": "person",
+  "title": "Simonsen",
+  "compiled_truth": "Simonsen is an external contact at [Rmi](companies/rmi). Over the corpus period (1999-09-24 to 2001-07-31), Simonsen sent 0 and received 62 emails, totalling 62 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/simonsen-rmi",
+    "name": "Simonsen",
+    "email": "simonsen@rmi.net",
+    "primary_affiliation": "companies/rmi"
+  }
+}

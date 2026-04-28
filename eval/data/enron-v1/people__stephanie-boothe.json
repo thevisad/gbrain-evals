@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephanie-boothe",
+  "type": "person",
+  "title": "Stephanie Boothe",
+  "compiled_truth": "Stephanie Boothe is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-17 to 2000-07-26), Stephanie Boothe sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-02-17** | First recorded email in corpus\n- **2000-07-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephanie-boothe",
+    "name": "Stephanie Boothe",
+    "email": "stephanie.boothe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

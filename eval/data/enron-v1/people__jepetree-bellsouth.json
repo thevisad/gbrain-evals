@@ -1,0 +1,14 @@
+{
+  "slug": "people/jepetree-bellsouth",
+  "type": "person",
+  "title": "Jepetree",
+  "compiled_truth": "Jepetree is an external contact at [Bellsouth](companies/bellsouth). Over the corpus period (2000-09-15 to 2000-11-16), Jepetree sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-09-15** | First recorded email in corpus\n- **2000-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jepetree-bellsouth",
+    "name": "Jepetree",
+    "email": "jepetree@bellsouth.net",
+    "primary_affiliation": "companies/bellsouth"
+  }
+}

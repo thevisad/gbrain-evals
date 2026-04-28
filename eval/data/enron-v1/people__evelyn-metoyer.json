@@ -1,0 +1,14 @@
+{
+  "slug": "people/evelyn-metoyer",
+  "type": "person",
+  "title": "Evelyn Metoyer",
+  "compiled_truth": "Evelyn Metoyer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-29 to 2002-02-13), Evelyn Metoyer sent 280 and received 609 emails, totalling 889 interactions. Top correspondents: [Kate Symes](people/kate-symes) (277), [Carla Hoffman](people/carla-hoffman) (15), [Sharen Cason](people/sharen-cason) (2), [Kimberly Hundl](people/kimberly-hundl) (2), [Bill Williams](people/bill-williams) (2). Mailbox folders observed: bill_williams_iii.",
+  "timeline": "- **2000-06-29** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/evelyn-metoyer",
+    "name": "Evelyn Metoyer",
+    "email": "evelyn.metoyer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

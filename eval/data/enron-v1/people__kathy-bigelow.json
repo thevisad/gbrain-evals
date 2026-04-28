@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-bigelow",
+  "type": "person",
+  "title": "Kathy Bigelow",
+  "compiled_truth": "Kathy Bigelow is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-11-16), Kathy Bigelow sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-bigelow",
+    "name": "Kathy Bigelow",
+    "email": "kathy.bigelow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

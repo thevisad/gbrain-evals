@@ -1,0 +1,14 @@
+{
+  "slug": "people/townsend-chbh",
+  "type": "person",
+  "title": "Townsend",
+  "compiled_truth": "Townsend is an external contact at [Chbh](companies/chbh). Over the corpus period (2001-02-20 to 2001-04-27), Townsend sent 0 and received 68 emails, totalling 68 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/townsend-chbh",
+    "name": "Townsend",
+    "email": "townsend@chbh.com",
+    "primary_affiliation": "companies/chbh"
+  }
+}

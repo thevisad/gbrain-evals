@@ -1,0 +1,14 @@
+{
+  "slug": "people/kayne-coulter",
+  "type": "person",
+  "title": "Kayne Coulter",
+  "compiled_truth": "Kayne Coulter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2002-01-31), Kayne Coulter sent 110 and received 582 emails, totalling 692 interactions. Top correspondents: [Don Baughman](people/don-baughman) (100), [Juan Hernandez](people/juan-hernandez) (96), [Dean Laurent](people/dean-laurent) (92), [John Kinser](people/john-kinser) (88), [Miguel Garcia](people/miguel-garcia) (84). Mailbox folders observed: 24_hr_power, enron_power, inbox, power, trading_info, ubsw_energy.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kayne-coulter",
+    "name": "Kayne Coulter",
+    "email": "kayne.coulter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

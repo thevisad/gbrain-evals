@@ -1,0 +1,14 @@
+{
+  "slug": "people/wietze-dingeldein",
+  "type": "person",
+  "title": "Wietze Dingeldein",
+  "compiled_truth": "Wietze Dingeldein is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-04 to 2002-03-21), Wietze Dingeldein sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [Britt Davis](people/britt-davis) (1), [David Best](people/david-best-clyde) (1), [Paul Henking](people/paul-henking) (1), [Richard Sanders](people/richard-sanders) (1), [Alan Aronowitz](people/alan-aronowitz) (1).",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wietze-dingeldein",
+    "name": "Wietze Dingeldein",
+    "email": "wietze.dingeldein@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

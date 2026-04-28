@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-schmidt",
+  "type": "person",
+  "title": "M  Schmidt",
+  "compiled_truth": "M  Schmidt is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-19 to 2002-01-11), M  Schmidt sent 143 and received 93 emails, totalling 236 interactions. Top correspondents: [J  Kean](people/j-kean) (15), [Karen Denne](people/karen-denne) (13), [ Palmer](people/palmer) (13), [Vance Meyer](people/vance-meyer) (13), [Meredith Philipp](people/meredith-philipp) (12). Mailbox folders observed: _americas, deleted_items, enron_mentions, inbox, pr_crisis_management.",
+  "timeline": "- **2001-07-19** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-schmidt",
+    "name": "M  Schmidt",
+    "email": "m..schmidt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

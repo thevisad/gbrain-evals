@@ -1,0 +1,14 @@
+{
+  "slug": "people/bruce-mills",
+  "type": "person",
+  "title": "Bruce Mills",
+  "compiled_truth": "Bruce Mills is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-05-13), Bruce Mills sent 27 and received 667 emails, totalling 694 interactions. Top correspondents: [M  Love](people/m-love) (16), [C  Giron](people/c-giron) (9), [Edward Brady](people/edward-brady) (7), [Scott Palmer](people/scott-palmer) (5), [Jad Doan](people/jad-doan) (5). Mailbox folders observed: central, deleted_items, east_desk, inbox, personal.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bruce-mills",
+    "name": "Bruce Mills",
+    "email": "bruce.mills@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

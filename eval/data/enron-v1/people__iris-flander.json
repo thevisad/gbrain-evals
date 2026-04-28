@@ -1,0 +1,14 @@
+{
+  "slug": "people/iris-flander",
+  "type": "person",
+  "title": "Iris Flander",
+  "compiled_truth": "Iris Flander is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-10-09), Iris Flander sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/iris-flander",
+    "name": "Iris Flander",
+    "email": "iris.flander@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/janie-aguayo",
+  "type": "person",
+  "title": "Janie Aguayo",
+  "compiled_truth": "Janie Aguayo is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-06-07), Janie Aguayo sent 4 and received 250 emails, totalling 254 interactions. Top correspondents: [Ellen Wallumrod](people/ellen-wallumrod) (2), [Susan Scott](people/susan-scott) (1), [Sara Shackleton](people/sara-shackleton) (1), [Darren Vanek](people/darren-vanek) (1), [Andres Balmaceda](people/andres-balmaceda) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janie-aguayo",
+    "name": "Janie Aguayo",
+    "email": "janie.aguayo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

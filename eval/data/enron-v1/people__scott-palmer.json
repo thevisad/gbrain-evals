@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-palmer",
+  "type": "person",
+  "title": "Scott Palmer",
+  "compiled_truth": "Scott Palmer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-23 to 2002-05-13), Scott Palmer sent 52 and received 419 emails, totalling 471 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (32), [M  Love](people/m-love) (22), [D  Winfree](people/d-winfree) (16), [C  Giron](people/c-giron) (14), [Errol Mclaughlin](people/errol-mclaughlin) (12). Mailbox folders observed: bankruptcy, central, deleted_items, inbox, logistics, ne_development.",
+  "timeline": "- **2000-10-23** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-palmer",
+    "name": "Scott Palmer",
+    "email": "scott.palmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

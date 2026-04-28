@@ -1,0 +1,14 @@
+{
+  "slug": "people/marie-newhouse",
+  "type": "person",
+  "title": "Marie Newhouse",
+  "compiled_truth": "Marie Newhouse is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-12-03), Marie Newhouse sent 2 and received 24 emails, totalling 26 interactions. Top correspondents: [40Enron](people/40enron) (1), [Kenneth Lay](people/kenneth-lay) (1), [Jeff Skilling](people/jeff-skilling) (1), [Mary Clark](people/mary-clark) (1).",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marie-newhouse",
+    "name": "Marie Newhouse",
+    "email": "marie.newhouse@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

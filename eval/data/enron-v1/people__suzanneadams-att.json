@@ -1,0 +1,14 @@
+{
+  "slug": "people/suzanneadams-att",
+  "type": "person",
+  "title": "Suzanneadams",
+  "compiled_truth": "Suzanneadams is an external contact at [Att](companies/att). Over the corpus period (2001-03-26 to 2001-04-23), Suzanneadams sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **2001-03-26** | First recorded email in corpus\n- **2001-04-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suzanneadams-att",
+    "name": "Suzanneadams",
+    "email": "suzanneadams@att.net",
+    "primary_affiliation": "companies/att"
+  }
+}

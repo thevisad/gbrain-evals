@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-amador",
+  "type": "person",
+  "title": "Susan Amador",
+  "compiled_truth": "Susan Amador is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2002-02-13), Susan Amador sent 7 and received 64 emails, totalling 71 interactions. Top correspondents: [Center Dl-Portland](people/center-dl-portland) (3), [David Poston](people/david-poston) (2), [Bill Williams](people/bill-williams) (2), [Tim Belden](people/tim-belden) (1), [Sean Crandall](people/sean-crandall) (1). Mailbox folders observed: deleted_items, inbox, it.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-amador",
+    "name": "Susan Amador",
+    "email": "susan.amador@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

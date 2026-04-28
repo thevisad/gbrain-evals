@@ -1,0 +1,14 @@
+{
+  "slug": "people/carson-us",
+  "type": "person",
+  "title": "Carson",
+  "compiled_truth": "Carson is an external contact at [Us](companies/us). Over the corpus period (2000-03-21 to 2002-02-04), Carson sent 1 and received 35 emails, totalling 36 interactions. Top correspondents: [Mike Carson](people/mike-carson) (1), [Kenrcars](people/kenrcars-aol) (1).",
+  "timeline": "- **2000-03-21** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carson-us",
+    "name": "Carson",
+    "email": "carson@us.ibm.com",
+    "primary_affiliation": "companies/us"
+  }
+}

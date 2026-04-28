@@ -1,0 +1,14 @@
+{
+  "slug": "people/ctetrault-velaw",
+  "type": "person",
+  "title": "Ctetrault",
+  "compiled_truth": "Ctetrault is an external contact at [Vinson & Elkins](companies/vinson-elkins). Over the corpus period (1999-12-01 to 2001-07-19), Ctetrault sent 8 and received 49 emails, totalling 57 interactions. Top correspondents: [Richard B Sanders](people/richard-b-sanders) (5), [Breasoner](people/breasoner-gibbs-bruns) (4), [Mbeatty](people/mbeatty-beattylaw) (2), [Sholtzm](people/sholtzm) (2), [Steve Williams](people/steve-williams-eogresources) (2).",
+  "timeline": "- **1999-12-01** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ctetrault-velaw",
+    "name": "Ctetrault",
+    "email": "ctetrault@velaw.com",
+    "primary_affiliation": "companies/vinson-elkins"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-somerhalder-elpaso",
+  "type": "person",
+  "title": "John Somerhalder",
+  "compiled_truth": "John Somerhalder is an external contact at [El Paso Energy](companies/el-paso). Over the corpus period (2001-11-20 to 2001-12-18), John Somerhalder sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-11-20** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-somerhalder-elpaso",
+    "name": "John Somerhalder",
+    "email": "john.somerhalder@elpaso.com",
+    "primary_affiliation": "companies/el-paso"
+  }
+}

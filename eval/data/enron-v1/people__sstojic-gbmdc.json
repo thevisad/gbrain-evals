@@ -1,0 +1,14 @@
+{
+  "slug": "people/sstojic-gbmdc",
+  "type": "person",
+  "title": "Sstojic",
+  "compiled_truth": "Sstojic is an external contact at [Gbmdc](companies/gbmdc). Over the corpus period (2000-01-04 to 2001-11-20), Sstojic sent 0 and received 76 emails, totalling 76 interactions.",
+  "timeline": "- **2000-01-04** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sstojic-gbmdc",
+    "name": "Sstojic",
+    "email": "sstojic@gbmdc.com",
+    "primary_affiliation": "companies/gbmdc"
+  }
+}

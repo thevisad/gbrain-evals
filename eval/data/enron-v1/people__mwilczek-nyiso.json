@@ -1,0 +1,14 @@
+{
+  "slug": "people/mwilczek-nyiso",
+  "type": "person",
+  "title": "Mwilczek",
+  "compiled_truth": "Mwilczek is an external contact at [Nyiso](companies/nyiso). Over the corpus period (2001-07-28 to 2002-02-12), Mwilczek sent 29 and received 0 emails, totalling 29 interactions. Top correspondents: [Tie List Server](people/tie-list-server-nyiso) (16), [Benjamin Rogers](people/benjamin-rogers) (12), [Rring](people/rring) (1).",
+  "timeline": "- **2001-07-28** | First recorded email in corpus\n- **2002-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mwilczek-nyiso",
+    "name": "Mwilczek",
+    "email": "mwilczek@nyiso.com",
+    "primary_affiliation": "companies/nyiso"
+  }
+}

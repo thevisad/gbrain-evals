@@ -1,0 +1,14 @@
+{
+  "slug": "people/kyle-kettler",
+  "type": "person",
+  "title": "Kyle Kettler",
+  "compiled_truth": "Kyle Kettler is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-08-10), Kyle Kettler sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-08-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kyle-kettler",
+    "name": "Kyle Kettler",
+    "email": "kyle.kettler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

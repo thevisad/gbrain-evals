@@ -1,0 +1,14 @@
+{
+  "slug": "people/totsurvey-aol",
+  "type": "person",
+  "title": "Totsurvey",
+  "compiled_truth": "Totsurvey is an external contact at [AOL](companies/aol). Over the corpus period (2000-11-13 to 2001-11-09), Totsurvey sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/totsurvey-aol",
+    "name": "Totsurvey",
+    "email": "totsurvey@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

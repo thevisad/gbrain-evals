@@ -1,0 +1,14 @@
+{
+  "slug": "people/dempsey-wapa",
+  "type": "person",
+  "title": "Dempsey",
+  "compiled_truth": "Dempsey is an external contact at [Wapa](companies/wapa). Over the corpus period (2001-06-13 to 2002-01-14), Dempsey sent 5 and received 4 emails, totalling 9 interactions. Top correspondents: [Mhackney](people/mhackney-apsc) (3), [Demetrios Fotiou](people/demetrios-fotiou-bchydro) (1), [Csmith](people/csmith-caiso) (1), [Dscholt](people/dscholt) (1), [Lgrow](people/lgrow-idahopower) (1).",
+  "timeline": "- **2001-06-13** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dempsey-wapa",
+    "name": "Dempsey",
+    "email": "dempsey@wapa.gov",
+    "primary_affiliation": "companies/wapa"
+  }
+}

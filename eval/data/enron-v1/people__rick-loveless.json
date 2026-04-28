@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-loveless",
+  "type": "person",
+  "title": "Rick Loveless",
+  "compiled_truth": "Rick Loveless is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-27 to 2002-02-28), Rick Loveless sent 5 and received 111 emails, totalling 116 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (5), [Mike Riedel](people/mike-riedel) (4), [Ron Beidelman](people/ron-beidelman) (3), [Leo Nichols](people/leo-nichols) (3), [William Kendrick](people/william-kendrick) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-05-27** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-loveless",
+    "name": "Rick Loveless",
+    "email": "rick.loveless@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

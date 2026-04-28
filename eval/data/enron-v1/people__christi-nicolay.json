@@ -1,0 +1,14 @@
+{
+  "slug": "people/christi-nicolay",
+  "type": "person",
+  "title": "Christi Nicolay",
+  "compiled_truth": "Christi Nicolay is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-15 to 2001-11-26), Christi Nicolay sent 219 and received 1047 emails, totalling 1266 interactions. Top correspondents: [James Steffes](people/james-steffes) (122), [Richard Shapiro](people/richard-shapiro) (119), [Joe Hartsoe](people/joe-hartsoe) (106), [Sarah Novosel](people/sarah-novosel) (102), [Steven Kean](people/steven-kean) (89). Mailbox folders observed: _americas, california, compliments, deleted_items, eol, power.",
+  "timeline": "- **1999-06-15** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christi-nicolay",
+    "name": "Christi Nicolay",
+    "email": "christi.nicolay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

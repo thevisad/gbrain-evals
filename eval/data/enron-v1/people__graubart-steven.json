@@ -1,0 +1,14 @@
+{
+  "slug": "people/graubart-steven",
+  "type": "person",
+  "title": "Graubart Steven",
+  "compiled_truth": "Graubart Steven is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-17 to 2001-08-20), Graubart Steven sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-07-17** | First recorded email in corpus\n- **2001-08-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/graubart-steven",
+    "name": "Graubart Steven",
+    "email": "graubart.steven@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

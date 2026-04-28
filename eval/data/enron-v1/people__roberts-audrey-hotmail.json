@@ -1,0 +1,14 @@
+{
+  "slug": "people/roberts-audrey-hotmail",
+  "type": "person",
+  "title": "Roberts Audrey",
+  "compiled_truth": "Roberts Audrey is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-10-27 to 2002-04-29), Roberts Audrey sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2002-04-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roberts-audrey-hotmail",
+    "name": "Roberts Audrey",
+    "email": "roberts_audrey@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

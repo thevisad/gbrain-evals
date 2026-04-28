@@ -1,0 +1,24 @@
+{
+  "slug": "companies/halfway-capital",
+  "type": "company",
+  "title": "Halfway Capital",
+  "compiled_truth": "Halfway Capital is a venture capital firm where Amara Okafor is a Partner. Founders: mina-kapoor. Investors: priya-patel, marcus-reid. Advisors: sarah-chen, hannah-liu.",
+  "timeline": "- **2026-04-13** | company indexed",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/halfway-capital",
+    "name": "Halfway Capital",
+    "founders": [
+      "people/mina-kapoor"
+    ],
+    "employees": [],
+    "investors": [
+      "people/priya-patel",
+      "people/marcus-reid"
+    ],
+    "advisors": [
+      "people/sarah-chen",
+      "people/hannah-liu"
+    ]
+  }
+}

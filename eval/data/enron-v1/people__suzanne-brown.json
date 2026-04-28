@@ -1,0 +1,14 @@
+{
+  "slug": "people/suzanne-brown",
+  "type": "person",
+  "title": "Suzanne Brown",
+  "compiled_truth": "Suzanne Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2001-12-03), Suzanne Brown sent 24 and received 48 emails, totalling 72 interactions. Top correspondents: [Cindy Olson](people/cindy-olson) (13), [Steven Kean](people/steven-kean) (11), [Stephen Barth](people/stephen-barth) (8), [Allen Hill](people/allen-hill) (8), [Tony Jarrett](people/tony-jarrett) (8). Mailbox folders observed: hr_stats.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suzanne-brown",
+    "name": "Suzanne Brown",
+    "email": "suzanne.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

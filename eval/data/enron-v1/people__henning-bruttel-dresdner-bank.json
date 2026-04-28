@@ -1,0 +1,14 @@
+{
+  "slug": "people/henning-bruttel-dresdner-bank",
+  "type": "person",
+  "title": "Henning Bruttel",
+  "compiled_truth": "Henning Bruttel is an external contact at [Dresdner-bank](companies/dresdner-bank). Over the corpus period (2000-05-04 to 2001-06-11), Henning Bruttel sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2000-05-04** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/henning-bruttel-dresdner-bank",
+    "name": "Henning Bruttel",
+    "email": "henning.bruttel@dresdner-bank.com",
+    "primary_affiliation": "companies/dresdner-bank"
+  }
+}

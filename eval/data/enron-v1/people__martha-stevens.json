@@ -1,0 +1,14 @@
+{
+  "slug": "people/martha-stevens",
+  "type": "person",
+  "title": "Martha Stevens",
+  "compiled_truth": "Martha Stevens is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2002-02-01), Martha Stevens sent 17 and received 183 emails, totalling 200 interactions. Top correspondents: [W  White](people/w-white) (17), [S  Free](people/s-free) (3), [Jody Pierce](people/jody-pierce) (3), [Remi Collonges](people/remi-collonges) (3), [Rafael Rangel](people/rafael-rangel) (2). Mailbox folders observed: deleted_items, inbox, south_america.",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2002-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martha-stevens",
+    "name": "Martha Stevens",
+    "email": "martha.stevens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

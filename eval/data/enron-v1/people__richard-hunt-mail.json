@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-hunt-mail",
+  "type": "person",
+  "title": "Richard Hunt",
+  "compiled_truth": "Richard Hunt is an external contact at [Mail](companies/mail). Over the corpus period (2001-11-06 to 2001-11-16), Richard Hunt sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-11-06** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-hunt-mail",
+    "name": "Richard Hunt",
+    "email": "richard.hunt@mail.house.gov",
+    "primary_affiliation": "companies/mail"
+  }
+}

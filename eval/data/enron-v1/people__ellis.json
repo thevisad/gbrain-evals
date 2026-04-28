@@ -1,0 +1,14 @@
+{
+  "slug": "people/ellis",
+  "type": "person",
+  "title": "Ellis",
+  "compiled_truth": "Ellis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-04 to 2001-10-22), Ellis sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ellis",
+    "name": "Ellis",
+    "email": "ellis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

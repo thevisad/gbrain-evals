@@ -1,0 +1,14 @@
+{
+  "slug": "people/sherri-griffin",
+  "type": "person",
+  "title": "Sherri Griffin",
+  "compiled_truth": "Sherri Griffin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2001-12-06), Sherri Griffin sent 0 and received 58 emails, totalling 58 interactions.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sherri-griffin",
+    "name": "Sherri Griffin",
+    "email": "sherri.griffin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

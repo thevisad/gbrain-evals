@@ -1,0 +1,14 @@
+{
+  "slug": "people/rbadeer",
+  "type": "person",
+  "title": "Rbadeer",
+  "compiled_truth": "Rbadeer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-18 to 2001-03-16), Rbadeer sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-07-18** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rbadeer",
+    "name": "Rbadeer",
+    "email": "rbadeer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

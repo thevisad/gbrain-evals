@@ -1,0 +1,14 @@
+{
+  "slug": "people/julie-sarnowski",
+  "type": "person",
+  "title": "Julie Sarnowski",
+  "compiled_truth": "Julie Sarnowski is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-14 to 2002-06-25), Julie Sarnowski sent 24 and received 282 emails, totalling 306 interactions. Top correspondents: [Holden Salisbury](people/holden-salisbury) (16), [Sean Crandall](people/sean-crandall) (16), [Robert Badeer](people/robert-badeer) (15), [Matt Motley](people/matt-motley) (15), [Tom Alonso](people/tom-alonso) (15). Mailbox folders observed: deleted_items, inbox, read.",
+  "timeline": "- **2000-03-14** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julie-sarnowski",
+    "name": "Julie Sarnowski",
+    "email": "julie.sarnowski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

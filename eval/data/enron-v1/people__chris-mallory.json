@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-mallory",
+  "type": "person",
+  "title": "Chris Mallory",
+  "compiled_truth": "Chris Mallory is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2002-05-13), Chris Mallory sent 9 and received 873 emails, totalling 882 interactions. Top correspondents: [Phillip Platter](people/phillip-platter) (3), [Sean Crandall](people/sean-crandall) (2), [Portland Shift](people/portland-shift) (1), [Shift Dl-Portland](people/shift-dl-portland) (1), [Serena Bishop](people/serena-bishop) (1). Mailbox folders observed: deleted_items, ferc, inbox, read.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-mallory",
+    "name": "Chris Mallory",
+    "email": "chris.mallory@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

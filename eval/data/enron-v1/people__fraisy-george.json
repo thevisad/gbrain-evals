@@ -1,0 +1,14 @@
+{
+  "slug": "people/fraisy-george",
+  "type": "person",
+  "title": "Fraisy George",
+  "compiled_truth": "Fraisy George is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-13), Fraisy George sent 35 and received 142 emails, totalling 177 interactions. Top correspondents: [Jennifer Denny](people/jennifer-denny) (35), [Louise Kitchen](people/louise-kitchen) (35), [Torrey Moorer](people/torrey-moorer) (35), [ Palmer](people/palmer) (35), [Savita Puthigai](people/savita-puthigai) (35). Mailbox folders observed: _americas, archive, deleted_items, inbox, online_trading.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fraisy-george",
+    "name": "Fraisy George",
+    "email": "fraisy.george@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

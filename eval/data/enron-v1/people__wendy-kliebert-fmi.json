@@ -1,0 +1,14 @@
+{
+  "slug": "people/wendy-kliebert-fmi",
+  "type": "person",
+  "title": "Wendy Kliebert",
+  "compiled_truth": "Wendy Kliebert is an external contact at [Fmi](companies/fmi). Over the corpus period (2000-11-11 to 2000-11-11), Wendy Kliebert sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wendy-kliebert-fmi",
+    "name": "Wendy Kliebert",
+    "email": "wendy_kliebert@fmi.com",
+    "primary_affiliation": "companies/fmi"
+  }
+}

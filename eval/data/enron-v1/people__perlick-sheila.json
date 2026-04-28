@@ -1,0 +1,14 @@
+{
+  "slug": "people/perlick-sheila",
+  "type": "person",
+  "title": "Perlick Sheila",
+  "compiled_truth": "Perlick Sheila is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-27 to 2001-04-27), Perlick Sheila sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-04-27** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/perlick-sheila",
+    "name": "Perlick Sheila",
+    "email": "perlick.sheila@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

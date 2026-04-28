@@ -1,0 +1,14 @@
+{
+  "slug": "people/miller-dot",
+  "type": "person",
+  "title": "Miller Dot",
+  "compiled_truth": "Miller Dot is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Miller Dot sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/miller-dot",
+    "name": "Miller Dot",
+    "email": "miller.dot@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

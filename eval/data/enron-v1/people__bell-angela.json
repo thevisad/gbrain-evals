@@ -1,0 +1,14 @@
+{
+  "slug": "people/bell-angela",
+  "type": "person",
+  "title": "Bell Angela",
+  "compiled_truth": "Bell Angela is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2001-09-19), Bell Angela sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2001-09-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bell-angela",
+    "name": "Bell Angela",
+    "email": "bell.angela@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-cinelli",
+  "type": "person",
+  "title": "Steve Cinelli",
+  "compiled_truth": "Steve Cinelli is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-30 to 2002-01-30), Steve Cinelli sent 2 and received 35 emails, totalling 37 interactions. Top correspondents: [John Griffith](people/john-griffith) (2), [Eddie Shaw](people/eddie-shaw) (2), [Bob Hillier](people/bob-hillier) (2), [Steve Stock](people/steve-stock) (2), [Jeff Johnson](people/jeff-johnson) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-30** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-cinelli",
+    "name": "Steve Cinelli",
+    "email": "steve.cinelli@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/walt-hamilton",
+  "type": "person",
+  "title": "Walt Hamilton",
+  "compiled_truth": "Walt Hamilton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-24 to 2001-05-29), Walt Hamilton sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-07-24** | First recorded email in corpus\n- **2001-05-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/walt-hamilton",
+    "name": "Walt Hamilton",
+    "email": "walt.hamilton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

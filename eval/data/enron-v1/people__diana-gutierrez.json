@@ -1,0 +1,14 @@
+{
+  "slug": "people/diana-gutierrez",
+  "type": "person",
+  "title": "Diana Gutierrez",
+  "compiled_truth": "Diana Gutierrez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-15 to 2001-12-03), Diana Gutierrez sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-05-15** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diana-gutierrez",
+    "name": "Diana Gutierrez",
+    "email": "diana.gutierrez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/angela-morris",
+  "type": "person",
+  "title": "Angela Morris",
+  "compiled_truth": "Angela Morris is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-09-24), Angela Morris sent 4 and received 3 emails, totalling 7 interactions. Top correspondents: [Litebytz](people/litebytz) (2), [W  White](people/w-white) (2), [Philip Siewert](people/philip-siewert) (2). Mailbox folders observed: calendar, deleted_items, meetings.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angela-morris",
+    "name": "Angela Morris",
+    "email": "angela.morris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

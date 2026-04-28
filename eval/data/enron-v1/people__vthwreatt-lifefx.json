@@ -1,0 +1,14 @@
+{
+  "slug": "people/vthwreatt-lifefx",
+  "type": "person",
+  "title": "Vthwreatt",
+  "compiled_truth": "Vthwreatt is an external contact at [Lifefx](companies/lifefx). Over the corpus period (2000-03-22 to 2001-06-01), Vthwreatt sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-03-22** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vthwreatt-lifefx",
+    "name": "Vthwreatt",
+    "email": "vthwreatt@lifefx.com",
+    "primary_affiliation": "companies/lifefx"
+  }
+}

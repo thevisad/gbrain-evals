@@ -1,0 +1,14 @@
+{
+  "slug": "people/juan-samudio",
+  "type": "person",
+  "title": "Juan Samudio",
+  "compiled_truth": "Juan Samudio is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-12-03), Juan Samudio sent 1 and received 35 emails, totalling 36 interactions. Top correspondents: [Vladi Pimenov](people/vladi-pimenov) (1), [Farhad Ahad](people/farhad-ahad) (1), [Samar Khleif](people/samar-khleif) (1), [Sabina Rank](people/sabina-rank) (1), [Tara Piazze](people/tara-piazze) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/juan-samudio",
+    "name": "Juan Samudio",
+    "email": "juan.samudio@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

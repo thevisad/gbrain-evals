@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-kopper",
+  "type": "person",
+  "title": "Michael Kopper",
+  "compiled_truth": "Michael Kopper is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-13 to 2001-10-26), Michael Kopper sent 0 and received 80 emails, totalling 80 interactions.",
+  "timeline": "- **1999-05-13** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-kopper",
+    "name": "Michael Kopper",
+    "email": "michael.kopper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

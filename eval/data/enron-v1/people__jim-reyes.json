@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-reyes",
+  "type": "person",
+  "title": "Jim Reyes",
+  "compiled_truth": "Jim Reyes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-28 to 2001-11-15), Jim Reyes sent 45 and received 95 emails, totalling 140 interactions. Top correspondents: [Chris Stokley](people/chris-stokley) (32), [P  O'Neil](people/p-o-neil) (18), [Bill Williams](people/bill-williams) (7), [Pamela Carter](people/pamela-carter) (5), [Richard Ring](people/richard-ring) (3). Mailbox folders observed: bill_williams_iii, chris_stokley, eesirenewableenergy.",
+  "timeline": "- **2000-06-28** | First recorded email in corpus\n- **2001-11-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-reyes",
+    "name": "Jim Reyes",
+    "email": "jim.reyes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

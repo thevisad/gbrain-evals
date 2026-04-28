@@ -1,0 +1,14 @@
+{
+  "slug": "people/schang-cook-inlet",
+  "type": "person",
+  "title": "Schang",
+  "compiled_truth": "Schang is an external contact at [Cook-inlet](companies/cook-inlet). Over the corpus period (2000-08-25 to 2000-10-30), Schang sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2000-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/schang-cook-inlet",
+    "name": "Schang",
+    "email": "schang@cook-inlet.com",
+    "primary_affiliation": "companies/cook-inlet"
+  }
+}

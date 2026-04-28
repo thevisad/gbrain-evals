@@ -1,0 +1,14 @@
+{
+  "slug": "people/joanne-harris",
+  "type": "person",
+  "title": "Joanne Harris",
+  "compiled_truth": "Joanne Harris is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-10 to 2001-11-19), Joanne Harris sent 1 and received 79 emails, totalling 80 interactions. Top correspondents: [Vance Taylor](people/vance-taylor) (1), [Daren Farmer](people/daren-farmer) (1), [Vicente Sarmiento](people/vicente-sarmiento) (1), [Melissa Graves](people/melissa-graves) (1), [Donald Reinhardt](people/donald-reinhardt) (1).",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joanne-harris",
+    "name": "Joanne Harris",
+    "email": "joanne.harris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

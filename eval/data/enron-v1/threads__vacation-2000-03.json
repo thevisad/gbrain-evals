@@ -1,0 +1,24 @@
+{
+  "slug": "threads/vacation-2000-03",
+  "type": "meeting",
+  "title": "Thread: Vacation",
+  "compiled_truth": "Email thread: \"Vacation\". Ran from 2000-03-01 to 2000-03-24 with 10 messages. Participants: [Cindy Stokes](people/cindy-stokes), [Dana Davis](people/dana-davis), [Gary Stadler](people/gary-stadler), [Hope Vargas](people/hope-vargas), [Kevin Moore](people/kevin-moore), [Shirley Crenshaw](people/shirley-crenshaw), [Stinson Gibner](people/stinson-gibner), [Susan Scott](people/susan-scott).",
+  "timeline": "- **2000-03-01** | Thread begins: vacation\n- **2000-03-24** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/vacation-2000-03",
+    "attendees": [
+      "people/cindy-stokes",
+      "people/dana-davis",
+      "people/gary-stadler",
+      "people/hope-vargas",
+      "people/kevin-moore",
+      "people/shirley-crenshaw",
+      "people/stinson-gibner",
+      "people/susan-scott",
+      "people/vince-kaminski",
+      "people/william-smith"
+    ],
+    "date": "2000-03-01"
+  }
+}

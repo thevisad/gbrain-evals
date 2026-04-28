@@ -1,0 +1,14 @@
+{
+  "slug": "people/stringham-capp",
+  "type": "person",
+  "title": "Stringham",
+  "compiled_truth": "Stringham is an external contact at [Capp](companies/capp). Over the corpus period (2000-04-14 to 2001-07-31), Stringham sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **2000-04-14** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stringham-capp",
+    "name": "Stringham",
+    "email": "stringham@capp.ca",
+    "primary_affiliation": "companies/capp"
+  }
+}

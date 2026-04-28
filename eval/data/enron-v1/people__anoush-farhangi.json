@@ -1,0 +1,14 @@
+{
+  "slug": "people/anoush-farhangi",
+  "type": "person",
+  "title": "Anoush Farhangi",
+  "compiled_truth": "Anoush Farhangi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-10-27), Anoush Farhangi sent 1 and received 11 emails, totalling 12 interactions. Top correspondents: [Hillh](people/hillh-stanford) (1), [Matthew Crouse](people/matthew-crouse) (1), [John Henderson](people/john-henderson) (1), [Vince Kaminski](people/vince-kaminski) (1), [Timothy Vail](people/timothy-vail) (1).",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-10-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anoush-farhangi",
+    "name": "Anoush Farhangi",
+    "email": "anoush.farhangi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

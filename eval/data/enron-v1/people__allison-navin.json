@@ -1,0 +1,14 @@
+{
+  "slug": "people/allison-navin",
+  "type": "person",
+  "title": "Allison Navin",
+  "compiled_truth": "Allison Navin is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-09 to 2001-07-25), Allison Navin sent 26 and received 282 emails, totalling 308 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (17), [Steven Kean](people/steven-kean) (13), [Cynthia Sandherr](people/cynthia-sandherr) (10), [Joe Hartsoe](people/joe-hartsoe) (7), [Mark Taylor](people/mark-taylor) (6).",
+  "timeline": "- **1999-11-09** | First recorded email in corpus\n- **2001-07-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/allison-navin",
+    "name": "Allison Navin",
+    "email": "allison.navin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

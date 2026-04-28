@@ -1,0 +1,14 @@
+{
+  "slug": "people/teresa-bushman",
+  "type": "person",
+  "title": "Teresa Bushman",
+  "compiled_truth": "Teresa Bushman is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-18), Teresa Bushman sent 45 and received 361 emails, totalling 406 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (22), [Jeffrey Hodge](people/jeffrey-hodge) (15), [Dan Hyvl](people/dan-hyvl) (14), [John Griffith](people/john-griffith) (10), [Joseph Deffner](people/joseph-deffner) (10). Mailbox folders observed: notes_inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teresa-bushman",
+    "name": "Teresa Bushman",
+    "email": "teresa.bushman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

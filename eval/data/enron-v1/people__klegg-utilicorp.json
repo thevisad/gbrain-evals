@@ -1,0 +1,14 @@
+{
+  "slug": "people/klegg-utilicorp",
+  "type": "person",
+  "title": "Klegg",
+  "compiled_truth": "Klegg is an external contact at [Utilicorp](companies/utilicorp). Over the corpus period (2000-10-30 to 2001-04-24), Klegg sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2001-04-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/klegg-utilicorp",
+    "name": "Klegg",
+    "email": "klegg@utilicorp.com",
+    "primary_affiliation": "companies/utilicorp"
+  }
+}

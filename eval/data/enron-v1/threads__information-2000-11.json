@@ -1,0 +1,23 @@
+{
+  "slug": "threads/information-2000-11",
+  "type": "meeting",
+  "title": "Thread: Information",
+  "compiled_truth": "Email thread: \"Information\". Ran from 2000-11-21 to 2000-12-05 with 13 messages. Participants: [Don Black](people/don-black), [Eric Bass](people/eric-bass), [Kay Mann](people/kay-mann), [Reservations](people/reservations-cibolocreekranch), [Shalesh Ganjoo](people/shalesh-ganjoo), [Stinson Gibner](people/stinson-gibner), [Vince J Kaminski](people/vince-j-kaminski), [Vince Kaminski](people/vince-kaminski).",
+  "timeline": "- **2000-11-21** | Thread begins: information\n- **2000-12-05** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/information-2000-11",
+    "attendees": [
+      "people/don-black",
+      "people/eric-bass",
+      "people/kay-mann",
+      "people/reservations-cibolocreekranch",
+      "people/shalesh-ganjoo",
+      "people/stinson-gibner",
+      "people/vince-j-kaminski",
+      "people/vince-kaminski",
+      "people/ydhallui-elora"
+    ],
+    "date": "2000-11-21"
+  }
+}

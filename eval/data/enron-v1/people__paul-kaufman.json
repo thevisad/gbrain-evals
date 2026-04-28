@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-kaufman",
+  "type": "person",
+  "title": "Paul Kaufman",
+  "compiled_truth": "Paul Kaufman is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-13), Paul Kaufman sent 190 and received 4164 emails, totalling 4354 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (114), [Richard Shapiro](people/richard-shapiro) (76), [Susan Mara](people/susan-mara) (47), [James Steffes](people/james-steffes) (31), [Sandra McCubbin](people/sandra-mccubbin) (29). Mailbox folders observed: 2001_budget__cost_cutting, 2002_budget, administrative, compliments, deleted_items, granite__2_.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-kaufman",
+    "name": "Paul Kaufman",
+    "email": "paul.kaufman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

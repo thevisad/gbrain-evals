@@ -1,0 +1,14 @@
+{
+  "slug": "people/nate-alvord",
+  "type": "person",
+  "title": "Nate Alvord",
+  "compiled_truth": "Nate Alvord is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-08-28), Nate Alvord sent 1 and received 7 emails, totalling 8 interactions. Top correspondents: [Mark Mcconnell](people/mark-mcconnell) (1). Mailbox folders observed: misc.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-08-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nate-alvord",
+    "name": "Nate Alvord",
+    "email": "nate.alvord@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

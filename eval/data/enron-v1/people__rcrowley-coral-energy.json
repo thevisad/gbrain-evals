@@ -1,0 +1,14 @@
+{
+  "slug": "people/rcrowley-coral-energy",
+  "type": "person",
+  "title": "Rcrowley",
+  "compiled_truth": "Rcrowley is an external contact at [Coral-energy](companies/coral-energy). Over the corpus period (2000-09-20 to 2001-07-31), Rcrowley sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-09-20** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rcrowley-coral-energy",
+    "name": "Rcrowley",
+    "email": "rcrowley@coral-energy.com",
+    "primary_affiliation": "companies/coral-energy"
+  }
+}

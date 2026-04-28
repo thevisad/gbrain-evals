@@ -1,0 +1,14 @@
+{
+  "slug": "people/debbie-foot",
+  "type": "person",
+  "title": "Debbie Foot",
+  "compiled_truth": "Debbie Foot is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-24 to 2001-11-10), Debbie Foot sent 1 and received 25 emails, totalling 26 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1), [John Sherriff](people/john-sherriff) (1).",
+  "timeline": "- **2000-10-24** | First recorded email in corpus\n- **2001-11-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debbie-foot",
+    "name": "Debbie Foot",
+    "email": "debbie.foot@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

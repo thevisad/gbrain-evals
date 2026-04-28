@@ -1,0 +1,14 @@
+{
+  "slug": "people/kirsten-godden",
+  "type": "person",
+  "title": "Kirsten Godden",
+  "compiled_truth": "Kirsten Godden is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-10 to 2001-11-27), Kirsten Godden sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-10-10** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kirsten-godden",
+    "name": "Kirsten Godden",
+    "email": "kirsten.godden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

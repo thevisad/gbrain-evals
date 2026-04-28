@@ -1,0 +1,14 @@
+{
+  "slug": "people/peter-saunders-paramountres",
+  "type": "person",
+  "title": "Peter Saunders",
+  "compiled_truth": "Peter Saunders is an external contact at [Paramountres](companies/paramountres). Over the corpus period (2000-09-20 to 2001-07-31), Peter Saunders sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-09-20** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peter-saunders-paramountres",
+    "name": "Peter Saunders",
+    "email": "peter.saunders@paramountres.com",
+    "primary_affiliation": "companies/paramountres"
+  }
+}

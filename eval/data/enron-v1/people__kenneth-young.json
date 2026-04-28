@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenneth-young",
+  "type": "person",
+  "title": "Kenneth Young",
+  "compiled_truth": "Kenneth Young is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-27 to 2002-03-19), Kenneth Young sent 1 and received 51 emails, totalling 52 interactions. Top correspondents: [Eric Faucheaux](people/eric-faucheaux) (1), [Darrell Schoolcraft](people/darrell-schoolcraft) (1), [Rich Jolly](people/rich-jolly) (1), [L  Eisenstein](people/l-eisenstein) (1), [Dan Pribble](people/dan-pribble) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-04-27** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenneth-young",
+    "name": "Kenneth Young",
+    "email": "kenneth.young@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

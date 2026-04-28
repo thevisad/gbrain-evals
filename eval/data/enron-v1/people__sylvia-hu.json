@@ -1,0 +1,14 @@
+{
+  "slug": "people/sylvia-hu",
+  "type": "person",
+  "title": "Sylvia Hu",
+  "compiled_truth": "Sylvia Hu is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-14 to 2001-12-31), Sylvia Hu sent 131 and received 99 emails, totalling 230 interactions. Top correspondents: [Kriste Sullivan](people/kriste-sullivan) (75), [Michelle Cash](people/michelle-cash) (68), [Bonnie White](people/bonnie-white) (63), [Rick Johnson](people/rick-johnson) (54), [Bonne Castellano](people/bonne-castellano) (54). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-07-14** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sylvia-hu",
+    "name": "Sylvia Hu",
+    "email": "sylvia.hu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

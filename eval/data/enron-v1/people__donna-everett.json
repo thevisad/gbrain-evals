@@ -1,0 +1,14 @@
+{
+  "slug": "people/donna-everett",
+  "type": "person",
+  "title": "Donna Everett",
+  "compiled_truth": "Donna Everett is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-22 to 2001-11-27), Donna Everett sent 1 and received 14 emails, totalling 15 interactions. Top correspondents: [Jason Moore](people/jason-moore) (1), [Tandra Coleman](people/tandra-coleman) (1), [Julissa Marron](people/julissa-marron) (1), [Cherie Ancrum](people/cherie-ancrum) (1), [Juantongia Calvin](people/juantongia-calvin) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-02-22** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donna-everett",
+    "name": "Donna Everett",
+    "email": "donna.everett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

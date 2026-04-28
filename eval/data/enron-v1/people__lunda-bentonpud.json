@@ -1,0 +1,14 @@
+{
+  "slug": "people/lunda-bentonpud",
+  "type": "person",
+  "title": "Lunda",
+  "compiled_truth": "Lunda is an external contact at [Bentonpud](companies/bentonpud). Over the corpus period (2000-06-23 to 2001-03-16), Lunda sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lunda-bentonpud",
+    "name": "Lunda",
+    "email": "lunda@bentonpud.org",
+    "primary_affiliation": "companies/bentonpud"
+  }
+}

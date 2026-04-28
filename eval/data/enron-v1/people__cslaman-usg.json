@@ -1,0 +1,14 @@
+{
+  "slug": "people/cslaman-usg",
+  "type": "person",
+  "title": "Cslaman",
+  "compiled_truth": "Cslaman is an external contact at [Usg](companies/usg). Over the corpus period (2001-04-19 to 2001-05-11), Cslaman sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cslaman-usg",
+    "name": "Cslaman",
+    "email": "cslaman@usg.com",
+    "primary_affiliation": "companies/usg"
+  }
+}

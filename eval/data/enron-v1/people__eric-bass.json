@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-bass",
+  "type": "person",
+  "title": "Eric Bass",
+  "compiled_truth": "Eric Bass is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-22), Eric Bass sent 3050 and received 1239 emails, totalling 4289 interactions. Top correspondents: [Bryan Hull](people/bryan-hull) (488), [Matthew Lenhart](people/matthew-lenhart) (415), [Timothy Blanchard](people/timothy-blanchard) (409), [Shanna Husser](people/shanna-husser) (404), [Jason Bass2](people/jason-bass2-compaq) (382). Mailbox folders observed: _sent_mail, deleted_items, discussion_threads, eol, ffl, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-bass",
+    "name": "Eric Bass",
+    "email": "eric.bass@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

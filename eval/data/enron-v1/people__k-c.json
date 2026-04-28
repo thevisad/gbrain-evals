@@ -1,0 +1,14 @@
+{
+  "slug": "people/k-c",
+  "type": "person",
+  "title": "K C",
+  "compiled_truth": "K C is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-13 to 2002-04-01), K C sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2002-02-13** | First recorded email in corpus\n- **2002-04-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/k-c",
+    "name": "K C",
+    "email": "k.c@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

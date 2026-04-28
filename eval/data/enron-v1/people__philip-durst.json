@@ -1,0 +1,14 @@
+{
+  "slug": "people/philip-durst",
+  "type": "person",
+  "title": "Philip Durst",
+  "compiled_truth": "Philip Durst is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-27 to 2001-10-25), Philip Durst sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-11-27** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/philip-durst",
+    "name": "Philip Durst",
+    "email": "philip.durst@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

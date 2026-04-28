@@ -1,0 +1,14 @@
+{
+  "slug": "people/hornbeck-haas",
+  "type": "person",
+  "title": "Hornbeck",
+  "compiled_truth": "Hornbeck is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-11-16), Hornbeck sent 0 and received 45 emails, totalling 45 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hornbeck-haas",
+    "name": "Hornbeck",
+    "email": "hornbeck@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

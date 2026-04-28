@@ -1,0 +1,14 @@
+{
+  "slug": "people/sara-shackleton",
+  "type": "person",
+  "title": "Sara Shackleton",
+  "compiled_truth": "Sara Shackleton is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Sara Shackleton sent 8259 and received 6698 emails, totalling 14957 interactions. Top correspondents: [Susan Bailey](people/susan-bailey) (581), [Mark Taylor](people/mark-taylor) (489), [Stephanie Panus](people/stephanie-panus) (470), [Kaye Ellis](people/kaye-ellis) (455), [Brent Hendry](people/brent-hendry) (450). Mailbox folders observed: archive, brokerage_agreements, citibank, deleted_items, inbox, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sara-shackleton",
+    "name": "Sara Shackleton",
+    "email": "sara.shackleton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

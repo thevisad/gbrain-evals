@@ -1,0 +1,14 @@
+{
+  "slug": "people/karolina-asklund",
+  "type": "person",
+  "title": "Karolina Asklund",
+  "compiled_truth": "Karolina Asklund is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2000-08-16), Karolina Asklund sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2000-08-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karolina-asklund",
+    "name": "Karolina Asklund",
+    "email": "karolina.asklund@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

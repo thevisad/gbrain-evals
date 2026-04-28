@@ -1,0 +1,14 @@
+{
+  "slug": "people/tracigrundon-dwt",
+  "type": "person",
+  "title": "Tracigrundon",
+  "compiled_truth": "Tracigrundon is an external contact at [Dwt](companies/dwt). Over the corpus period (2001-02-20 to 2001-04-11), Tracigrundon sent 0 and received 59 emails, totalling 59 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tracigrundon-dwt",
+    "name": "Tracigrundon",
+    "email": "tracigrundon@dwt.com",
+    "primary_affiliation": "companies/dwt"
+  }
+}

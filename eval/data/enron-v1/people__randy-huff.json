@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-huff",
+  "type": "person",
+  "title": "Randy Huff",
+  "compiled_truth": "Randy Huff is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-18 to 2001-12-27), Randy Huff sent 1 and received 6 emails, totalling 7 interactions. Top correspondents: [Alvin Adamson](people/alvin-adamson) (1), [Roger Barbee](people/roger-barbee) (1), [Lynn Blair](people/lynn-blair) (1), [Mike Bonnstetter](people/mike-bonnstetter) (1), [David Boothe](people/david-boothe) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-huff",
+    "name": "Randy Huff",
+    "email": "randy.huff@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

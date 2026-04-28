@@ -1,0 +1,14 @@
+{
+  "slug": "people/ben-jacoby",
+  "type": "person",
+  "title": "Ben Jacoby",
+  "compiled_truth": "Ben Jacoby is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Ben Jacoby sent 256 and received 1450 emails, totalling 1706 interactions. Top correspondents: [Kay Mann](people/kay-mann) (198), [Chris Booth](people/chris-booth) (54), [Louise Kitchen](people/louise-kitchen) (41), [Fred Mitro](people/fred-mitro) (31), [W Duran](people/w-duran) (19). Mailbox folders observed: _americas, deleted_items, generation, inbox, notes_inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ben-jacoby",
+    "name": "Ben Jacoby",
+    "email": "ben.jacoby@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

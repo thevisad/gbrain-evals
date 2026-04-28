@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-guidry",
+  "type": "person",
+  "title": "John Guidry",
+  "compiled_truth": "John Guidry is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-29), John Guidry sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-guidry",
+    "name": "John Guidry",
+    "email": "john.guidry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dlaurent",
+  "type": "person",
+  "title": "Dlaurent",
+  "compiled_truth": "Dlaurent is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-09 to 2000-11-14), Dlaurent sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2000-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dlaurent",
+    "name": "Dlaurent",
+    "email": "dlaurent@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-tlapek",
+  "type": "person",
+  "title": "Patricia Tlapek",
+  "compiled_truth": "Patricia Tlapek is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2000-11-06), Patricia Tlapek sent 6 and received 82 emails, totalling 88 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (4), [Tana Jones](people/tana-jones) (2).",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2000-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-tlapek",
+    "name": "Patricia Tlapek",
+    "email": "patricia.tlapek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

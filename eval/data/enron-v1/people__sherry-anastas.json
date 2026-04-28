@@ -1,0 +1,14 @@
+{
+  "slug": "people/sherry-anastas",
+  "type": "person",
+  "title": "Sherry Anastas",
+  "compiled_truth": "Sherry Anastas is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-20), Sherry Anastas sent 4 and received 164 emails, totalling 168 interactions. Top correspondents: [Chris Germany](people/chris-germany) (4). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sherry-anastas",
+    "name": "Sherry Anastas",
+    "email": "sherry.anastas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

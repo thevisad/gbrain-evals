@@ -1,0 +1,14 @@
+{
+  "slug": "people/torrey-moorer",
+  "type": "person",
+  "title": "Torrey Moorer",
+  "compiled_truth": "Torrey Moorer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-11 to 2002-01-23), Torrey Moorer sent 31 and received 625 emails, totalling 656 interactions. Top correspondents: [Jennifer Denny](people/jennifer-denny) (11), [Louise Kitchen](people/louise-kitchen) (8), [Savita Puthigai](people/savita-puthigai) (8), [Kam Keiser](people/kam-keiser) (8), [Sheri Thomas](people/sheri-thomas) (7). Mailbox folders observed: _americas, broker_client, calendar, deleted_items, inbox, sent_items.",
+  "timeline": "- **1999-05-11** | First recorded email in corpus\n- **2002-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/torrey-moorer",
+    "name": "Torrey Moorer",
+    "email": "torrey.moorer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

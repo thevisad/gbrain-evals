@@ -1,0 +1,14 @@
+{
+  "slug": "people/deborah-cappiello",
+  "type": "person",
+  "title": "Deborah Cappiello",
+  "compiled_truth": "Deborah Cappiello is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-05 to 2002-02-07), Deborah Cappiello sent 12 and received 79 emails, totalling 91 interactions. Top correspondents: [Kent Miller](people/kent-miller) (6), [Dave Neubauer](people/dave-neubauer) (6), [Lynn Blair](people/lynn-blair) (4), [Jo Williams](people/jo-williams) (4), [Bill Fowler](people/bill-fowler) (4). Mailbox folders observed: calendar, customer___oneok, deleted_items, enron_t_s, inbox, keyex_1997.",
+  "timeline": "- **2001-03-05** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deborah-cappiello",
+    "name": "Deborah Cappiello",
+    "email": "deborah.cappiello@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

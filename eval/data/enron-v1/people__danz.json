@@ -1,0 +1,14 @@
+{
+  "slug": "people/danz",
+  "type": "person",
+  "title": "Danz",
+  "compiled_truth": "Danz is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-05-30), Danz sent 1 and received 0 emails, totalling 1 interactions. Top correspondents: [A  Bibi](people/a-bibi) (1), [Jeremy Blachman](people/jeremy-blachman) (1), [Raymond Bowen](people/raymond-bowen) (1), [London Brown](people/london-brown) (1), [Rick Buy](people/rick-buy) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/danz",
+    "name": "Danz",
+    "email": "danz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

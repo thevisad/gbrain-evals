@@ -1,0 +1,14 @@
+{
+  "slug": "people/jthompson-idahopower",
+  "type": "person",
+  "title": "Jthompson",
+  "compiled_truth": "Jthompson is an external contact at [Idahopower](companies/idahopower). Over the corpus period (2000-06-23 to 2001-03-23), Jthompson sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Mary Hain](people/mary-hain) (1).",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-03-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jthompson-idahopower",
+    "name": "Jthompson",
+    "email": "jthompson@idahopower.com",
+    "primary_affiliation": "companies/idahopower"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cynthia-franklin",
+  "type": "person",
+  "title": "Cynthia Franklin",
+  "compiled_truth": "Cynthia Franklin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-29 to 2001-12-03), Cynthia Franklin sent 3 and received 229 emails, totalling 232 interactions. Top correspondents: [Chris Germany](people/chris-germany) (1), [Scott Dozier](people/scott-dozier) (1), [Meredith Homco](people/meredith-homco) (1), [John Hodge](people/john-hodge) (1), [Gerald Nemec](people/gerald-nemec) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-01-29** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cynthia-franklin",
+    "name": "Cynthia Franklin",
+    "email": "cynthia.franklin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

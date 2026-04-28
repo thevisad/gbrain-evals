@@ -1,0 +1,14 @@
+{
+  "slug": "people/hernandez",
+  "type": "person",
+  "title": "Hernandez",
+  "compiled_truth": "Hernandez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-23 to 2001-10-25), Hernandez sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (1), [Cindy Stark](people/cindy-stark) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-05-23** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hernandez",
+    "name": "Hernandez",
+    "email": "hernandez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

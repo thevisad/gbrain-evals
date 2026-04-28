@@ -1,0 +1,14 @@
+{
+  "slug": "people/fred-sampaio",
+  "type": "person",
+  "title": "Fred Sampaio",
+  "compiled_truth": "Fred Sampaio is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-24 to 2001-11-30), Fred Sampaio sent 0 and received 56 emails, totalling 56 interactions.",
+  "timeline": "- **2001-04-24** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fred-sampaio",
+    "name": "Fred Sampaio",
+    "email": "fred.sampaio@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

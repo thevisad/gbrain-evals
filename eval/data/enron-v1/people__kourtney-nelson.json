@@ -1,0 +1,14 @@
+{
+  "slug": "people/kourtney-nelson",
+  "type": "person",
+  "title": "Kourtney Nelson",
+  "compiled_truth": "Kourtney Nelson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2002-05-09), Kourtney Nelson sent 63 and received 201 emails, totalling 264 interactions. Top correspondents: [Chris Stokley](people/chris-stokley) (35), [Bill Williams](people/bill-williams) (15), [Chris Mallory](people/chris-mallory) (13), [P  O'Neil](people/p-o-neil) (10), [Phillip Platter](people/phillip-platter) (8). Mailbox folders observed: bill_williams_iii, chris_stokley, inbox, read.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2002-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kourtney-nelson",
+    "name": "Kourtney Nelson",
+    "email": "kourtney.nelson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

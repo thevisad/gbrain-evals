@@ -1,0 +1,14 @@
+{
+  "slug": "people/melissa-lavinson-neg",
+  "type": "person",
+  "title": "Melissa Lavinson",
+  "compiled_truth": "Melissa Lavinson is an external contact at [Neg](companies/neg). Over the corpus period (2001-03-12 to 2001-07-26), Melissa Lavinson sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-07-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melissa-lavinson-neg",
+    "name": "Melissa Lavinson",
+    "email": "melissa.lavinson@neg.pge.com",
+    "primary_affiliation": "companies/neg"
+  }
+}

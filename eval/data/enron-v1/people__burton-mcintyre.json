@@ -1,0 +1,14 @@
+{
+  "slug": "people/burton-mcintyre",
+  "type": "person",
+  "title": "Burton Mcintyre",
+  "compiled_truth": "Burton Mcintyre is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-11-30), Burton Mcintyre sent 4 and received 210 emails, totalling 214 interactions. Top correspondents: [Tom Victorio](people/tom-victorio) (3), [Errol Mclaughlin](people/errol-mclaughlin) (2), [Kenneth Thibodeaux](people/kenneth-thibodeaux) (2), [Stephen Perich](people/stephen-perich) (2), [Susan Trevino](people/susan-trevino) (2). Mailbox folders observed: calendar, central, deleted_items.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/burton-mcintyre",
+    "name": "Burton Mcintyre",
+    "email": "burton.mcintyre@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

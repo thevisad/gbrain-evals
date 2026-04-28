@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-gruesen",
+  "type": "person",
+  "title": "Karen Gruesen",
+  "compiled_truth": "Karen Gruesen is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-13), Karen Gruesen sent 10 and received 87 emails, totalling 97 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (10), [Jim Coffey](people/jim-coffey) (3), [Cris Sherman](people/cris-sherman) (2), [Greg Whiting](people/greg-whiting) (2), [Brian Redmond](people/brian-redmond) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-gruesen",
+    "name": "Karen Gruesen",
+    "email": "karen.gruesen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

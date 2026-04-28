@@ -1,0 +1,14 @@
+{
+  "slug": "people/swf5-pge",
+  "type": "person",
+  "title": "Swf5",
+  "compiled_truth": "Swf5 is an external contact at [PG&E](companies/pge). Over the corpus period (1999-11-22 to 2001-12-06), Swf5 sent 2 and received 28 emails, totalling 30 interactions. Top correspondents: [Abb](people/abb-eslawfirm) (2), [Agoldberg](people/agoldberg-lgl) (2), [Ahuertas](people/ahuertas-enron) (2), [Alan Reid](people/alan-reid-pancanadian) (2), [Alexanms](people/alexanms-sce) (2).",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/swf5-pge",
+    "name": "Swf5",
+    "email": "swf5@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

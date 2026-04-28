@@ -1,0 +1,14 @@
+{
+  "slug": "people/susie-wilson",
+  "type": "person",
+  "title": "Susie Wilson",
+  "compiled_truth": "Susie Wilson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-25 to 2001-12-14), Susie Wilson sent 2 and received 74 emails, totalling 76 interactions. Top correspondents: [Cara Semperger](people/cara-semperger) (1), [Mark Fischer](people/mark-fischer) (1), [Tom Alonso](people/tom-alonso) (1), [Lisa Gang](people/lisa-gang) (1), [Donald Robinson](people/donald-robinson) (1). Mailbox folders observed: bill_williams_iii, inbox.",
+  "timeline": "- **2001-04-25** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susie-wilson",
+    "name": "Susie Wilson",
+    "email": "susie.wilson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

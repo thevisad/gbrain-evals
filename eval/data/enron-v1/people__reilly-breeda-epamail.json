@@ -1,0 +1,14 @@
+{
+  "slug": "people/reilly-breeda-epamail",
+  "type": "person",
+  "title": "Reilly Breeda",
+  "compiled_truth": "Reilly Breeda is an external contact at [Epamail](companies/epamail). Over the corpus period (2001-03-12 to 2001-04-30), Reilly Breeda sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reilly-breeda-epamail",
+    "name": "Reilly Breeda",
+    "email": "reilly.breeda@epamail.epa.gov",
+    "primary_affiliation": "companies/epamail"
+  }
+}

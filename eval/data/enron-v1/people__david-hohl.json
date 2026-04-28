@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-hohl",
+  "type": "person",
+  "title": "David Hohl",
+  "compiled_truth": "David Hohl is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-19 to 2001-02-06), David Hohl sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-12-19** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-hohl",
+    "name": "David Hohl",
+    "email": "david.hohl@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

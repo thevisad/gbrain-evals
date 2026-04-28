@@ -1,0 +1,14 @@
+{
+  "slug": "people/dena-pawlowski",
+  "type": "person",
+  "title": "Dena Pawlowski",
+  "compiled_truth": "Dena Pawlowski is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-23 to 2001-06-01), Dena Pawlowski sent 1 and received 23 emails, totalling 24 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (1).",
+  "timeline": "- **2001-01-23** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dena-pawlowski",
+    "name": "Dena Pawlowski",
+    "email": "dena.pawlowski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

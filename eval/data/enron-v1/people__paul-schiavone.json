@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-schiavone",
+  "type": "person",
+  "title": "Paul Schiavone",
+  "compiled_truth": "Paul Schiavone is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-21 to 2002-02-28), Paul Schiavone sent 5 and received 269 emails, totalling 274 interactions. Top correspondents: [Harry Arora](people/harry-arora) (4), [Steve Wang](people/steve-wang) (1), [Robert Stalford](people/robert-stalford) (1), [Hai Chen](people/hai-chen) (1), [Jeff King](people/jeff-king) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-02-21** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-schiavone",
+    "name": "Paul Schiavone",
+    "email": "paul.schiavone@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

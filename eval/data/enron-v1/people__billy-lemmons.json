@@ -1,0 +1,14 @@
+{
+  "slug": "people/billy-lemmons",
+  "type": "person",
+  "title": "Billy Lemmons",
+  "compiled_truth": "Billy Lemmons is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2002-05-06), Billy Lemmons sent 48 and received 181 emails, totalling 229 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (16), [Traci Warner](people/traci-warner) (15), [Sherri Sera](people/sherri-sera) (14), [John Sherriff](people/john-sherriff) (11), [Maureen Mcvicker](people/maureen-mcvicker) (10). Mailbox folders observed: _americas, analyst_associate_program, bill_williams_iii, deleted_items, ethics_ljm_notre_dame, inbox.",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/billy-lemmons",
+    "name": "Billy Lemmons",
+    "email": "billy.lemmons@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

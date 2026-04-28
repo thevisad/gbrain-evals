@@ -1,0 +1,33 @@
+{
+  "slug": "concepts/platform-shift-timing",
+  "type": "concept",
+  "title": "Platform Shift Timing",
+  "compiled_truth": "Platform shift timing is the discipline of identifying the narrow window — usually 18 to 36 months — during which a major platform transition renders incumbents structurally unable to respond. The idea isn't new; every generation of infrastructure companies owes its existence to some tectonic change in compute, networking, or storage. What's less appreciated is how brutally short the window actually is. Enter too early and you're building for a market that doesn't exist yet. Enter too late and the incumbents have already shipped their own version of whatever you're selling, even if it's worse.\n\nFor deterministic data infrastructure, the relevant platform shift has been the move from probabilistic, multi-pass pipelines to single-pass primitives that guarantee output correctness. Incumbents built their entire stack around retry logic, eventual consistency, and layered verification. Rearchitecting that from the inside is somewhere between painful and impossible — which is exactly what creates the opening.\n\n[Bex Andersen](people/bex-andersen) has written extensively about what she calls the \"vulnerability gradient\" — the idea that incumbents don't become vulnerable all at once but rather in stages, starting with their most latency-sensitive customers. Her thesis is that you should time your GTM to match each stage, not try to boil the ocean. This influenced Anchor's early enterprise playbook heavily.\n\n[Ora Hashimoto](people/ora-hashimoto) takes a slightly different view. Her argument is that timing matters less than depth of integration — that if your primitives sit low enough in the stack, the window stays open longer because switching costs compound. The two perspectives aren't really contradictory, but the emphasis shifts your resource allocation in meaningful ways.\n\nSeveral companies in the Anchor orbit illustrate different timing strategies. [Lacework Fund](companies/lacework-fund) made early bets on infrastructure startups that specifically targeted the transition period, treating platform shift timing as a core part of their investment thesis. [Quasar Labs](companies/quasar-labs) entered the edge-compute authentication market arguably six months too early and had to survive a cash-desert before demand caught up. [Umbra Storage](companies/umbra-storage) is maybe the cleanest example of getting the timing right — they launched their deterministic storage layer exactly as enterprise customers started rejecting probabilistic guarantees in regulated workloads.\n\nThe lesson for infrastucture companies: timing isn't luck. It's pattern recognition applied to adoption curves, regulatory shifts, and incumbent org charts. You can't control when the window opens, but you can position yourself to move the moment it does.",
+  "timeline": [
+    "- **2026-03-14** | [Bex Andersen](people/bex-andersen) publishes internal memo on \"vulnerability gradients\" that becomes foundational reading at Anchor",
+    "- **2026-06-22** | [Lacework Fund](companies/lacework-fund) hosts closed-door dinner on platform shift timing with 12 infrastructure founders, including Anchor leadership",
+    "- **2026-09-05** | [Quasar Labs](companies/quasar-labs) publicly acknowledges they entered edge-compute auth market too early; pivots GTM to focus on regulated verticals",
+    "- **2026-11-18** | [Ora Hashimoto](people/ora-hashimoto) presents \"Depth Over Timing\" thesis at a private infrastructure symposium in Zurich",
+    "- **2027-02-10** | Anchor internal strategy offsite dedicates full day to platform shift timing analysis; maps incumbent vulnerability windows across five verticals",
+    "- **2027-05-03** | [Umbra Storage](companies/umbra-storage) closes Series B, with investors citing platform shift timing as key factor in their conviction",
+    "- **2027-08-29** | Bex Andersen and Ora Hashimoto co-author a short paper reconciling their two perspectives on timing vs. depth; circulated privately",
+    "- **2027-12-11** | First major incumbent announces a \"deterministic mode\" add-on to their existing pipeline product — widely seen as validation that the shift window is narrowing",
+    "- **2028-03-07** | [Lacework Fund](companies/lacework-fund) publishes LP letter arguing the platform shift window for single-pass infrastructure has ~14 months remaining",
+    "- **2028-06-19** | Anchor board meeting includes formal review of remaining platform shift window and acceleration plan for enterprise penetration"
+  ],
+  "_facts": {
+    "type": "concept",
+    "slug": "concepts/platform-shift-timing",
+    "name": "platform shift timing",
+    "description": "The art of entering a market at the moment a platform transition makes incumbents vulnerable",
+    "related_companies": [
+      "companies/lacework-fund",
+      "companies/quasar-labs",
+      "companies/umbra-storage"
+    ],
+    "related_people": [
+      "people/bex-andersen",
+      "people/ora-hashimoto"
+    ]
+  }
+}

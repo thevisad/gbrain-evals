@@ -1,0 +1,14 @@
+{
+  "slug": "people/daniel-maxwell",
+  "type": "person",
+  "title": "Daniel Maxwell",
+  "compiled_truth": "Daniel Maxwell is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-28 to 2001-11-28), Daniel Maxwell sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-28** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/daniel-maxwell",
+    "name": "Daniel Maxwell",
+    "email": "daniel.maxwell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

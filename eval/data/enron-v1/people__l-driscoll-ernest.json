@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-driscoll-ernest",
+  "type": "person",
+  "title": "L  Driscoll-Ernest",
+  "compiled_truth": "L  Driscoll-Ernest is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-04 to 2002-06-24), L  Driscoll-Ernest sent 1 and received 74 emails, totalling 75 interactions. Top correspondents: [Ruth Concannon](people/ruth-concannon) (1), [Donna Greif](people/donna-greif) (1), [Barry Vanderhorst](people/barry-vanderhorst) (1), [David Draper](people/david-draper) (1), [Scott Mills](people/scott-mills) (1). Mailbox folders observed: bankrupt.",
+  "timeline": "- **2001-10-04** | First recorded email in corpus\n- **2002-06-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-driscoll-ernest",
+    "name": "L  Driscoll-Ernest",
+    "email": "l..driscoll-ernest@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

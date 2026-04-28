@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-spitz",
+  "type": "person",
+  "title": "John Spitz",
+  "compiled_truth": "John Spitz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-06-04), John Spitz sent 2 and received 17 emails, totalling 19 interactions. Top correspondents: [Sireesha Chillakuru](people/sireesha-chillakuru) (2), [Ping Zhang](people/ping-zhang) (2), [Wenxia Zhang](people/wenxia-zhang) (2), [Renuka Bongu](people/renuka-bongu) (2), [John Alvar](people/john-alvar) (2). Mailbox folders observed: savedmail.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-spitz",
+    "name": "John Spitz",
+    "email": "john.spitz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

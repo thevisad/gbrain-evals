@@ -1,0 +1,14 @@
+{
+  "slug": "people/charlene-richmond",
+  "type": "person",
+  "title": "Charlene Richmond",
+  "compiled_truth": "Charlene Richmond is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2001-06-12), Charlene Richmond sent 7 and received 65 emails, totalling 72 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (6), [Melissa Graves](people/melissa-graves) (2), [Fred Boas](people/fred-boas) (2), [Jennifer Martinez](people/jennifer-martinez) (1), [Kristen Hanson](people/kristen-hanson) (1). Mailbox folders observed: logistics.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charlene-richmond",
+    "name": "Charlene Richmond",
+    "email": "charlene.richmond@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

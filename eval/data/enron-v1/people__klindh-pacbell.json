@@ -1,0 +1,14 @@
+{
+  "slug": "people/klindh-pacbell",
+  "type": "person",
+  "title": "Klindh",
+  "compiled_truth": "Klindh is an external contact at [Pacbell](companies/pacbell). Over the corpus period (2000-09-08 to 2000-09-12), Klindh sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2000-09-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/klindh-pacbell",
+    "name": "Klindh",
+    "email": "klindh@pacbell.net",
+    "primary_affiliation": "companies/pacbell"
+  }
+}

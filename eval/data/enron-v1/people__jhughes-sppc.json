@@ -1,0 +1,14 @@
+{
+  "slug": "people/jhughes-sppc",
+  "type": "person",
+  "title": "Jhughes",
+  "compiled_truth": "Jhughes is an external contact at [Sppc](companies/sppc). Over the corpus period (2001-04-10 to 2002-01-30), Jhughes sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-04-10** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jhughes-sppc",
+    "name": "Jhughes",
+    "email": "jhughes@sppc.com",
+    "primary_affiliation": "companies/sppc"
+  }
+}

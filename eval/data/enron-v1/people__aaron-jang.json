@@ -1,0 +1,14 @@
+{
+  "slug": "people/aaron-jang",
+  "type": "person",
+  "title": "Aaron Jang",
+  "compiled_truth": "Aaron Jang is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-24 to 2002-02-01), Aaron Jang sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-04-24** | First recorded email in corpus\n- **2002-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aaron-jang",
+    "name": "Aaron Jang",
+    "email": "aaron.jang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

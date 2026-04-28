@@ -1,0 +1,14 @@
+{
+  "slug": "people/ayars-jennifer",
+  "type": "person",
+  "title": "Ayars Jennifer",
+  "compiled_truth": "Ayars Jennifer is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-06 to 2001-11-06), Ayars Jennifer sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-06** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ayars-jennifer",
+    "name": "Ayars Jennifer",
+    "email": "ayars.jennifer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

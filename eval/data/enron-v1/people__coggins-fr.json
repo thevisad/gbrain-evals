@@ -1,0 +1,14 @@
+{
+  "slug": "people/coggins-fr",
+  "type": "person",
+  "title": "Coggins",
+  "compiled_truth": "Coggins is an external contact at [Fr](companies/fr). Over the corpus period (2001-10-29 to 2001-10-29), Coggins sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-29** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/coggins-fr",
+    "name": "Coggins",
+    "email": "coggins@fr.com",
+    "primary_affiliation": "companies/fr"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-barnes-lgeenergy",
+  "type": "person",
+  "title": "Bill Barnes",
+  "compiled_truth": "Bill Barnes is an external contact at [Lgeenergy](companies/lgeenergy). Over the corpus period (2000-09-01 to 2002-01-16), Bill Barnes sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-barnes-lgeenergy",
+    "name": "Bill Barnes",
+    "email": "bill.barnes@lgeenergy.com",
+    "primary_affiliation": "companies/lgeenergy"
+  }
+}

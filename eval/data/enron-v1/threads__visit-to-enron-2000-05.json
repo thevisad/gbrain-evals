@@ -1,0 +1,24 @@
+{
+  "slug": "threads/visit-to-enron-2000-05",
+  "type": "meeting",
+  "title": "Thread: Visit To Enron",
+  "compiled_truth": "Email thread: \"Visit To Enron\". Ran from 2000-05-01 to 2000-05-23 with 12 messages. Participants: [Bambos](people/bambos-stanford), [Grant Masson](people/grant-masson), [Greg J Ball](people/greg-j-ball-hotmail), [Ravi Thuraisingham](people/ravi-thuraisingham), [Stinson Gibner](people/stinson-gibner), [Thomas Gros](people/thomas-gros), [Tom Gros](people/tom-gros), [Vince Kaminski](people/vince-kaminski).",
+  "timeline": "- **2000-05-01** | Thread begins: visit to enron\n- **2000-05-23** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/visit-to-enron-2000-05",
+    "attendees": [
+      "people/bambos-stanford",
+      "people/grant-masson",
+      "people/greg-j-ball-hotmail",
+      "people/ravi-thuraisingham",
+      "people/stinson-gibner",
+      "people/thomas-gros",
+      "people/tom-gros",
+      "people/vince-kaminski",
+      "people/vkamins",
+      "people/vkaminski-aol"
+    ],
+    "date": "2000-05-01"
+  }
+}

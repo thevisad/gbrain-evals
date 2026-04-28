@@ -1,0 +1,14 @@
+{
+  "slug": "people/metrick-wharton",
+  "type": "person",
+  "title": "Metrick",
+  "compiled_truth": "Metrick is an external contact at [Wharton](companies/wharton). Over the corpus period (2000-03-28 to 2001-03-06), Metrick sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2001-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/metrick-wharton",
+    "name": "Metrick",
+    "email": "metrick@wharton.upenn.edu",
+    "primary_affiliation": "companies/wharton"
+  }
+}

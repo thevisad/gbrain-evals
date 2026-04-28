@@ -1,0 +1,14 @@
+{
+  "slug": "people/diane-bazelides",
+  "type": "person",
+  "title": "Diane Bazelides",
+  "compiled_truth": "Diane Bazelides is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2001-05-10), Diane Bazelides sent 2 and received 34 emails, totalling 36 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (2), [Carol Hensley](people/carol-hensley) (1), [Kim Bacon](people/kim-bacon) (1), [John Ambler](people/john-ambler) (1), [Amanda Martin](people/amanda-martin) (1).",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diane-bazelides",
+    "name": "Diane Bazelides",
+    "email": "diane.bazelides@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

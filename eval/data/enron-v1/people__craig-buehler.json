@@ -1,0 +1,14 @@
+{
+  "slug": "people/craig-buehler",
+  "type": "person",
+  "title": "Craig Buehler",
+  "compiled_truth": "Craig Buehler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2002-03-25), Craig Buehler sent 91 and received 414 emails, totalling 505 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (62), [Michelle Lokay](people/michelle-lokay) (61), [Rick Dietz](people/rick-dietz) (56), [Esther Dasilva](people/esther-dasilva) (55), [Tk Lohman](people/tk-lohman) (54). Mailbox folders observed: deleted_items, e_mail_bin, inbox, misc_tw, personal, sempra.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/craig-buehler",
+    "name": "Craig Buehler",
+    "email": "craig.buehler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/allison-easton",
+  "type": "person",
+  "title": "Allison Easton",
+  "compiled_truth": "Allison Easton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-10-16), Allison Easton sent 1 and received 21 emails, totalling 22 interactions. Top correspondents: [Jaeaston](people/jaeaston-christushealth) (1), [Matthew Fleming](people/matthew-fleming) (1), [Kim Harris](people/kim-harris) (1), [Wade Stubblefield](people/wade-stubblefield) (1), [Patricia Downey](people/patricia-downey) (1).",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-10-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/allison-easton",
+    "name": "Allison Easton",
+    "email": "allison.easton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

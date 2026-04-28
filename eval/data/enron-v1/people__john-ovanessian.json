@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-ovanessian",
+  "type": "person",
+  "title": "John Ovanessian",
+  "compiled_truth": "John Ovanessian is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-14 to 2001-11-27), John Ovanessian sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2001-05-14** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-ovanessian",
+    "name": "John Ovanessian",
+    "email": "john.ovanessian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ron-nightingale",
+  "type": "person",
+  "title": "Ron Nightingale",
+  "compiled_truth": "Ron Nightingale is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-21 to 2001-11-28), Ron Nightingale sent 3 and received 7 emails, totalling 10 interactions. Top correspondents: [Caroline Barnes](people/caroline-barnes) (3), [Timothy Bayles](people/timothy-bayles) (3), [Susan Bellinghausen](people/susan-bellinghausen) (3), [Steph Bertch](people/steph-bertch) (3), [Rene Bickerstaff](people/rene-bickerstaff) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-21** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ron-nightingale",
+    "name": "Ron Nightingale",
+    "email": "ron.nightingale@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

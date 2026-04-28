@@ -1,0 +1,14 @@
+{
+  "slug": "people/meredith-mitchell",
+  "type": "person",
+  "title": "Meredith Mitchell",
+  "compiled_truth": "Meredith Mitchell is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2000-12-28), Meredith Mitchell sent 0 and received 222 emails, totalling 222 interactions.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2000-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/meredith-mitchell",
+    "name": "Meredith Mitchell",
+    "email": "meredith.mitchell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

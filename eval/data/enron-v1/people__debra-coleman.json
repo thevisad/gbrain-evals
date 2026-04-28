@@ -1,0 +1,14 @@
+{
+  "slug": "people/debra-coleman",
+  "type": "person",
+  "title": "Debra Coleman",
+  "compiled_truth": "Debra Coleman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-19 to 2001-08-09), Debra Coleman sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-07-19** | First recorded email in corpus\n- **2001-08-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debra-coleman",
+    "name": "Debra Coleman",
+    "email": "debra.coleman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

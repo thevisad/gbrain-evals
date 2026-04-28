@@ -1,0 +1,14 @@
+{
+  "slug": "people/jnm-cpuc",
+  "type": "person",
+  "title": "Jnm",
+  "compiled_truth": "Jnm is an external contact at [Cpuc](companies/cpuc). Over the corpus period (1999-11-22 to 2001-07-31), Jnm sent 0 and received 60 emails, totalling 60 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jnm-cpuc",
+    "name": "Jnm",
+    "email": "jnm@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

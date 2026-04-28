@@ -1,0 +1,31 @@
+{
+  "slug": "people/yael-fernandez",
+  "type": "person",
+  "title": "Yael Fernandez — Operations Lead, Anchor Codec",
+  "compiled_truth": "Yael Fernandez joined [Anchor Codec](companies/anchor) in November 2026 as Operations Lead, becoming the company's first dedicated operations hire. Before Anchor, she'd spent four years across two high-growth startups — both in the developer tooling space — where she built out financial systems and operational processes through the Series A and B stages. Her reputation is as a systems builder: someone who designs processes that scale rather than patching things together with spreadsheets and good intentions.\n\nAt Anchor, Yael's initial mandate was straightforward but critical: stand up the company's financial infrastructure from scratch. Payroll, vendor management, procurement workflows, expense policies, budgeting cadences — all of it was either ad hoc or nonexistent when she arrived. Within her first three months she had implemented a consolidated financial stack and established the reporting rhythms the leadership team still uses. She's known for being deeply collaborative, often sitting in on engineering planning sessions not to weigh in on technical decisions but to understand the resource implications before they become surprises.\n\nFernandez is also the de facto owner of Anchor's hiring operations. While she doesn't lead recruiting strategy per se, she built the onboarding pipeline and compensation framework that the company uses, and she's typically the person coordinating cross-functionally when headcount planning gets complicated. Multiple team members have noted that her operational rigor gave [Anchor Codec](companies/anchor) a maturity beyond its stage — something that reportedly mattered during fundraising conversations, where investors commented on the unusualy tight financials for a company of Anchor's size.\n\nDay to day, Yael tends to operate quietly. She's not the loudest voice in a room but is frequently the one people go to when something needs to actually get done. She maintains a running operational review doc that tracks every major process, its owner, and its last audit date — a habit she picked up at her previous company and brought wholesale to Anchor. Her management style leans toward documentation and accountability, which can occasionally feel bureacratic to engineers used to moving fast, but most people on the team have come around to appreciating the clarity it provides.\n\nShe's based in the same city as Anchor's core team and is typically one of the first people in the office.",
+  "timeline": [
+    "- **2026-11-15** | Yael Fernandez joins [Anchor Codec](companies/anchor) as Operations Lead, the company's first dedicated ops hire.",
+    "- **2026-12-09** | Completes initial audit of Anchor's financial processes; presents findings and remediation plan to leadership team.",
+    "- **2027-01-22** | Launches consolidated financial stack — payroll, expense management, and vendor procurement unified under a single system.",
+    "- **2027-03-10** | Establishes quarterly operational review cadence; first review covers burn rate, hiring pipeline health, and vendor contracts.",
+    "- **2027-05-04** | Rolls out Anchor's first formal compensation framework, including leveling bands and equity refresh guidelines.",
+    "- **2027-08-17** | Coordinates cross-functional resource planning for a major product push at [Anchor Codec](companies/anchor); praised internally for keeping headcount and budget aligned.",
+    "- **2027-11-02** | Leads preparation of financial data room ahead of fundraising conversations; investor feedback highlights operational maturity.",
+    "- **2028-01-14** | Introduces updated onboarding pipeline after post-mortem on Q4 2027 hiring cohort surfaced onboarding gaps.",
+    "- **2028-04-28** | Presents at an internal all-hands on operational scaling lessons from Anchor's first 18 months; recording circulated as onboarding material for new hires."
+  ],
+  "_facts": {
+    "type": "person",
+    "slug": "people/yael-fernandez",
+    "name": "Yael Fernandez",
+    "role": "employee",
+    "title": "Operations Lead",
+    "primary_affiliation": "companies/anchor",
+    "notable_traits": [
+      "systems builder",
+      "collaborative"
+    ],
+    "background": "Operations and finance at two high-growth startups through Series A-B; built Anchor's financial infrastructure",
+    "joined_anchor": "2026-11-15"
+  }
+}

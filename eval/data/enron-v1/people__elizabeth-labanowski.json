@@ -1,0 +1,14 @@
+{
+  "slug": "people/elizabeth-labanowski",
+  "type": "person",
+  "title": "Elizabeth Labanowski",
+  "compiled_truth": "Elizabeth Labanowski is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2002-01-15), Elizabeth Labanowski sent 11 and received 91 emails, totalling 102 interactions. Top correspondents: [James Derrick](people/james-derrick) (3), [Kay Mann](people/kay-mann) (3), [Steven Kean](people/steven-kean) (2), [Kenneth Lay](people/kenneth-lay) (2), [Stephanie Harris](people/stephanie-harris) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elizabeth-labanowski",
+    "name": "Elizabeth Labanowski",
+    "email": "elizabeth.labanowski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

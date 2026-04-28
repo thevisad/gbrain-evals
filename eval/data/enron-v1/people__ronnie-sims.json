@@ -1,0 +1,14 @@
+{
+  "slug": "people/ronnie-sims",
+  "type": "person",
+  "title": "Ronnie Sims",
+  "compiled_truth": "Ronnie Sims is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-02 to 2002-02-20), Ronnie Sims sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2001-01-02** | First recorded email in corpus\n- **2002-02-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ronnie-sims",
+    "name": "Ronnie Sims",
+    "email": "ronnie.sims@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

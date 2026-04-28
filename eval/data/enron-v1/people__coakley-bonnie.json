@@ -1,0 +1,14 @@
+{
+  "slug": "people/coakley-bonnie",
+  "type": "person",
+  "title": "Coakley Bonnie",
+  "compiled_truth": "Coakley Bonnie is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-08-21), Coakley Bonnie sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/coakley-bonnie",
+    "name": "Coakley Bonnie",
+    "email": "coakley.bonnie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

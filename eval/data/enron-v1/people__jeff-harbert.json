@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-harbert",
+  "type": "person",
+  "title": "Jeff Harbert",
+  "compiled_truth": "Jeff Harbert is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-30 to 2001-09-24), Jeff Harbert sent 2 and received 180 emails, totalling 182 interactions. Top correspondents: [Michelle Bruce](people/michelle-bruce) (1), [Hal Elrod](people/hal-elrod) (1), [Rudy Elizondo](people/rudy-elizondo) (1), [Jeff Johnson](people/jeff-johnson) (1), [Steve Cinelli](people/steve-cinelli) (1).",
+  "timeline": "- **1999-04-30** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-harbert",
+    "name": "Jeff Harbert",
+    "email": "jeff.harbert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

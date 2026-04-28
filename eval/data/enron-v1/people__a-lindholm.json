@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-lindholm",
+  "type": "person",
+  "title": "A  Lindholm",
+  "compiled_truth": "A  Lindholm is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-22 to 2002-05-06), A  Lindholm sent 9 and received 71 emails, totalling 80 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (4), [Rod Hayslett](people/rod-hayslett) (3), [Stanley Horton](people/stanley-horton) (2), [Chris Lambert](people/chris-lambert) (1), [Mike Westbeld](people/mike-westbeld) (1). Mailbox folders observed: _americas, inbox, projects.",
+  "timeline": "- **2001-05-22** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-lindholm",
+    "name": "A  Lindholm",
+    "email": "a..lindholm@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

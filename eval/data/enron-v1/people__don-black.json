@@ -1,0 +1,14 @@
+{
+  "slug": "people/don-black",
+  "type": "person",
+  "title": "Don Black",
+  "compiled_truth": "Don Black is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-21), Don Black sent 20 and received 1349 emails, totalling 1369 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (7), [Eric Bass](people/eric-bass) (5), [D  Steffes](people/d-steffes) (5), [Tracee Bersani](people/tracee-bersani) (4), [Ilan Caplan](people/ilan-caplan) (4). Mailbox folders observed: _americas, credit_issues, deleted_items, inbox, personal.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/don-black",
+    "name": "Don Black",
+    "email": "don.black@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

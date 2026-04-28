@@ -1,0 +1,14 @@
+{
+  "slug": "people/tomasine-mayes",
+  "type": "person",
+  "title": "Tomasine Mayes",
+  "compiled_truth": "Tomasine Mayes is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-18 to 2002-02-04), Tomasine Mayes sent 1 and received 16 emails, totalling 17 interactions. Top correspondents: [Lisa Shoemake](people/lisa-shoemake) (1), [M  Presto](people/m-presto) (1), [D  Baughman](people/d-baughman) (1), [Terri Clynes](people/terri-clynes) (1), [Oscar Dalton](people/oscar-dalton) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-06-18** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tomasine-mayes",
+    "name": "Tomasine Mayes",
+    "email": "tomasine.mayes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

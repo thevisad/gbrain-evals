@@ -1,0 +1,14 @@
+{
+  "slug": "people/eddie-pool",
+  "type": "person",
+  "title": "Eddie Pool",
+  "compiled_truth": "Eddie Pool is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-16 to 2002-03-21), Eddie Pool sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2001-10-16** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eddie-pool",
+    "name": "Eddie Pool",
+    "email": "eddie.pool@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

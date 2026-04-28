@@ -1,0 +1,29 @@
+{
+  "slug": "threads/site-visits-2000-10",
+  "type": "meeting",
+  "title": "Thread: Site Visits",
+  "compiled_truth": "Email thread: \"Site Visits\". Ran from 2000-10-10 to 2000-10-20 with 6 messages. Participants: [Andy Stevens](people/andy-stevens-lgeenergy), [Avivar](people/avivar-cinergy), [Benjamin Rogers](people/benjamin-rogers), [Carl Podwoski](people/carl-podwoski-lgeenergy), [Charlie Braun](people/charlie-braun-lgeenergy), [Chris Booth](people/chris-booth), [Dave Cook](people/dave-cook-lgeenergy), [Dave Gubser](people/dave-gubser-lgeenergy).",
+  "timeline": "- **2000-10-10** | Thread begins: site visits\n- **2000-10-20** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/site-visits-2000-10",
+    "attendees": [
+      "people/andy-stevens-lgeenergy",
+      "people/avivar-cinergy",
+      "people/benjamin-rogers",
+      "people/carl-podwoski-lgeenergy",
+      "people/charlie-braun-lgeenergy",
+      "people/chris-booth",
+      "people/dave-cook-lgeenergy",
+      "people/dave-gubser-lgeenergy",
+      "people/don-miller",
+      "people/doug-schetzel-lgeenergy",
+      "people/dtang-cinergy",
+      "people/fabian-lipp-lgeenergy",
+      "people/jpsynnott-duke-energy",
+      "people/mitch-robinson",
+      "people/sergio-hoyos-cinergy"
+    ],
+    "date": "2000-10-10"
+  }
+}

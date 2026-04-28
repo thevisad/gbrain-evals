@@ -1,0 +1,14 @@
+{
+  "slug": "people/frank-osburn",
+  "type": "person",
+  "title": "Frank Osburn",
+  "compiled_truth": "Frank Osburn is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-11-20), Frank Osburn sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frank-osburn",
+    "name": "Frank Osburn",
+    "email": "frank.osburn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

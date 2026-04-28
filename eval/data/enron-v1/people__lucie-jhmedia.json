@@ -1,0 +1,14 @@
+{
+  "slug": "people/lucie-jhmedia",
+  "type": "person",
+  "title": "Lucie",
+  "compiled_truth": "Lucie is an external contact at [Jhmedia](companies/jhmedia). Over the corpus period (2000-03-22 to 2001-11-29), Lucie sent 3 and received 19 emails, totalling 22 interactions. Top correspondents: [Klay](people/klay) (3), [Babbio](people/babbio-bellatlantic) (2), [Ghh](people/ghh-telcordia) (1), [Ted Enloe](people/ted-enloe-compaq) (1), [Lynnj](people/lynnj-iname) (1).",
+  "timeline": "- **2000-03-22** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lucie-jhmedia",
+    "name": "Lucie",
+    "email": "lucie@jhmedia.com",
+    "primary_affiliation": "companies/jhmedia"
+  }
+}

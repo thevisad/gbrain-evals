@@ -1,0 +1,14 @@
+{
+  "slug": "people/christina-valdez",
+  "type": "person",
+  "title": "Christina Valdez",
+  "compiled_truth": "Christina Valdez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-06 to 2002-02-19), Christina Valdez sent 120 and received 185 emails, totalling 305 interactions. Top correspondents: [Sally Beck](people/sally-beck) (21), [M Hall](people/m-hall) (11), [Kevin Sweeney](people/kevin-sweeney) (11), [Beth Apollo](people/beth-apollo) (10), [Blanca Carrizales](people/blanca-carrizales) (10). Mailbox folders observed: calendar, contacts, deleted_items, inbox.",
+  "timeline": "- **2000-10-06** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christina-valdez",
+    "name": "Christina Valdez",
+    "email": "christina.valdez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

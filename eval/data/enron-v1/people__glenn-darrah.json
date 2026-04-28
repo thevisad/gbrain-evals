@@ -1,0 +1,14 @@
+{
+  "slug": "people/glenn-darrah",
+  "type": "person",
+  "title": "Glenn Darrah",
+  "compiled_truth": "Glenn Darrah is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-03-15), Glenn Darrah sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-03-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/glenn-darrah",
+    "name": "Glenn Darrah",
+    "email": "glenn.darrah@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-love",
+  "type": "person",
+  "title": "M  Love",
+  "compiled_truth": "M  Love is an Enron employee at [Enron](companies/enron). Over the corpus period (1997-01-01 to 2002-03-08), M  Love sent 687 and received 889 emails, totalling 1576 interactions. Top correspondents: [C  Giron](people/c-giron) (101), [Kam Keiser](people/kam-keiser) (77), [Scott Palmer](people/scott-palmer) (70), [Bruce Mills](people/bruce-mills) (69), [C  Gossett](people/c-gossett) (53). Mailbox folders observed: 05_saved, 06_saved, calendar, central, deleted_items, inbox.",
+  "timeline": "- **1997-01-01** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-love",
+    "name": "M  Love",
+    "email": "m..love@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

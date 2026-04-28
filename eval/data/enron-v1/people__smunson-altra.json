@@ -1,0 +1,14 @@
+{
+  "slug": "people/smunson-altra",
+  "type": "person",
+  "title": "Smunson",
+  "compiled_truth": "Smunson is an external contact at [Altra](companies/altra). Over the corpus period (2000-02-12 to 2000-02-12), Smunson sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/smunson-altra",
+    "name": "Smunson",
+    "email": "smunson@altra.com",
+    "primary_affiliation": "companies/altra"
+  }
+}

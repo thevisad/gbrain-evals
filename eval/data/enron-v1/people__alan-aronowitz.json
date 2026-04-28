@@ -1,0 +1,14 @@
+{
+  "slug": "people/alan-aronowitz",
+  "type": "person",
+  "title": "Alan Aronowitz",
+  "compiled_truth": "Alan Aronowitz is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Alan Aronowitz sent 214 and received 2091 emails, totalling 2305 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (65), [Mark Taylor](people/mark-taylor) (58), [Mark Haedicke](people/mark-haedicke) (23), [Tana Jones](people/tana-jones) (22), [John Viverito](people/john-viverito) (21). Mailbox folders observed: archive, deleted_items, inbox, resumes_for_recruiting.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alan-aronowitz",
+    "name": "Alan Aronowitz",
+    "email": "alan.aronowitz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

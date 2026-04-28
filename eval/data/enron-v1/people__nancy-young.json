@@ -1,0 +1,14 @@
+{
+  "slug": "people/nancy-young",
+  "type": "person",
+  "title": "Nancy Young",
+  "compiled_truth": "Nancy Young is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-16 to 2000-11-29), Nancy Young sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **1999-08-16** | First recorded email in corpus\n- **2000-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nancy-young",
+    "name": "Nancy Young",
+    "email": "nancy.young@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

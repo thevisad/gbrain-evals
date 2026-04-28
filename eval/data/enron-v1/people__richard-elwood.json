@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-elwood",
+  "type": "person",
+  "title": "Richard Elwood",
+  "compiled_truth": "Richard Elwood is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-24), Richard Elwood sent 1 and received 48 emails, totalling 49 interactions. Top correspondents: [Carey Mansfield](people/carey-mansfield) (1), [Lana Yu](people/lana-yu) (1), [Samuel Schott](people/samuel-schott) (1), [Debbie Brackett](people/debbie-brackett) (1), [Judy Rose](people/judy-rose) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-elwood",
+    "name": "Richard Elwood",
+    "email": "richard.elwood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/debbielatham-realtor",
+  "type": "person",
+  "title": "Debbielatham",
+  "compiled_truth": "Debbielatham is an external contact at [Realtor](companies/realtor). Over the corpus period (2000-06-16 to 2001-10-25), Debbielatham sent 0 and received 62 emails, totalling 62 interactions.",
+  "timeline": "- **2000-06-16** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debbielatham-realtor",
+    "name": "Debbielatham",
+    "email": "debbielatham@realtor.com",
+    "primary_affiliation": "companies/realtor"
+  }
+}

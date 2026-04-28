@@ -1,0 +1,14 @@
+{
+  "slug": "people/shelly-stubbs",
+  "type": "person",
+  "title": "Shelly Stubbs",
+  "compiled_truth": "Shelly Stubbs is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Shelly Stubbs sent 2 and received 37 emails, totalling 39 interactions. Top correspondents: [Molly Harris](people/molly-harris) (1), [S  Bradford](people/s-bradford) (1), [Sue Vasan](people/sue-vasan) (1), [Christopher Slaughter](people/christopher-slaughter) (1), [Teresa Mihalik](people/teresa-mihalik) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shelly-stubbs",
+    "name": "Shelly Stubbs",
+    "email": "shelly.stubbs@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

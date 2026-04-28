@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-hardaway",
+  "type": "person",
+  "title": "David Hardaway",
+  "compiled_truth": "David Hardaway is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-11-03), David Hardaway sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-hardaway",
+    "name": "David Hardaway",
+    "email": "david.hardaway@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

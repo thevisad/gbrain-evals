@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebrooks-rbac",
+  "type": "person",
+  "title": "Rebrooks",
+  "compiled_truth": "Rebrooks is an external contact at [Rbac](companies/rbac). Over the corpus period (1999-12-23 to 2002-02-25), Rebrooks sent 0 and received 61 emails, totalling 61 interactions.",
+  "timeline": "- **1999-12-23** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebrooks-rbac",
+    "name": "Rebrooks",
+    "email": "rebrooks@rbac.com",
+    "primary_affiliation": "companies/rbac"
+  }
+}

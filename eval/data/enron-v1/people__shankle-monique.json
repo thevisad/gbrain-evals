@@ -1,0 +1,14 @@
+{
+  "slug": "people/shankle-monique",
+  "type": "person",
+  "title": "Shankle Monique",
+  "compiled_truth": "Shankle Monique is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Shankle Monique sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shankle-monique",
+    "name": "Shankle Monique",
+    "email": "shankle.monique@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

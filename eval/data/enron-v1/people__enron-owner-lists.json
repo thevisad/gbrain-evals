@@ -1,0 +1,14 @@
+{
+  "slug": "people/enron-owner-lists",
+  "type": "person",
+  "title": "Enron-Owner",
+  "compiled_truth": "Enron-Owner is an external contact at [Lists](companies/lists). Over the corpus period (2001-04-02 to 2001-07-30), Enron-Owner sent 28 and received 0 emails, totalling 28 interactions. Top correspondents: [Enron](people/enron-lists) (28), [Linda Robertson](people/linda-robertson) (23), [Lora Sullivan](people/lora-sullivan) (22), [Susan M Landwehr](people/susan-m-landwehr) (18), [Paul Kaufman](people/paul-kaufman) (18).",
+  "timeline": "- **2001-04-02** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/enron-owner-lists",
+    "name": "Enron-Owner",
+    "email": "enron-owner@lists.qgadc.com",
+    "primary_affiliation": "companies/lists"
+  }
+}

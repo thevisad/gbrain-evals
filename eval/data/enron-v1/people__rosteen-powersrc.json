@@ -1,0 +1,14 @@
+{
+  "slug": "people/rosteen-powersrc",
+  "type": "person",
+  "title": "Rosteen",
+  "compiled_truth": "Rosteen is an external contact at [Powersrc](companies/powersrc). Over the corpus period (1999-07-06 to 2001-11-01), Rosteen sent 0 and received 80 emails, totalling 80 interactions.",
+  "timeline": "- **1999-07-06** | First recorded email in corpus\n- **2001-11-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rosteen-powersrc",
+    "name": "Rosteen",
+    "email": "rosteen@powersrc.com",
+    "primary_affiliation": "companies/powersrc"
+  }
+}

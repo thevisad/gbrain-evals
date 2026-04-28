@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-reblitz",
+  "type": "person",
+  "title": "Scott Reblitz",
+  "compiled_truth": "Scott Reblitz is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-16 to 2001-11-28), Scott Reblitz sent 5 and received 55 emails, totalling 60 interactions. Top correspondents: [Joseph Galan](people/joseph-galan) (2), [Rgreenberg](people/rgreenberg-opic) (1), [Jeff Dasovich](people/jeff-dasovich) (1), [Steven Kean](people/steven-kean) (1).",
+  "timeline": "- **1999-10-16** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-reblitz",
+    "name": "Scott Reblitz",
+    "email": "scott.reblitz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

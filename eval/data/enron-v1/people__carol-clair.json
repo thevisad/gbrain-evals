@@ -1,0 +1,14 @@
+{
+  "slug": "people/carol-clair",
+  "type": "person",
+  "title": "Carol Clair",
+  "compiled_truth": "Carol Clair is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-03), Carol Clair sent 2802 and received 2072 emails, totalling 4874 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (376), [Mark Taylor](people/mark-taylor) (294), [Susan Bailey](people/susan-bailey) (262), [Suzanne Adams](people/suzanne-adams) (223), [Tana Jones](people/tana-jones) (197). Mailbox folders observed: ees_matters, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carol-clair",
+    "name": "Carol Clair",
+    "email": "carol.clair@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

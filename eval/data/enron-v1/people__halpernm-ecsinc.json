@@ -1,0 +1,14 @@
+{
+  "slug": "people/halpernm-ecsinc",
+  "type": "person",
+  "title": "Halpernm",
+  "compiled_truth": "Halpernm is an external contact at [Ecsinc](companies/ecsinc). Over the corpus period (2001-03-12 to 2001-04-30), Halpernm sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/halpernm-ecsinc",
+    "name": "Halpernm",
+    "email": "halpernm@ecsinc.com",
+    "primary_affiliation": "companies/ecsinc"
+  }
+}

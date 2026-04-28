@@ -1,0 +1,21 @@
+{
+  "slug": "threads/your-mailbox-is-over-its-size-limit-2001-12",
+  "type": "meeting",
+  "title": "Thread: Your Mailbox Is Over Its Size Limit",
+  "compiled_truth": "Email thread: \"Your Mailbox Is Over Its Size Limit\". Ran from 2001-12-23 to 2002-01-11 with 27 messages. Participants: [B  Sanders](people/b-sanders), [D  Steffes](people/d-steffes), [Don Baughman](people/don-baughman), [Elizabeth Sager](people/elizabeth-sager), [Kay Mann](people/kay-mann), [Mike Swerzbin](people/mike-swerzbin), [System Administrator](people/system-administrator).",
+  "timeline": "- **2001-12-23** | Thread begins: your mailbox is over its size limit\n- **2002-01-11** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/your-mailbox-is-over-its-size-limit-2001-12",
+    "attendees": [
+      "people/b-sanders",
+      "people/d-steffes",
+      "people/don-baughman",
+      "people/elizabeth-sager",
+      "people/kay-mann",
+      "people/mike-swerzbin",
+      "people/system-administrator"
+    ],
+    "date": "2001-12-23"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/joel-ephross",
+  "type": "person",
+  "title": "Joel Ephross",
+  "compiled_truth": "Joel Ephross is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-03-08), Joel Ephross sent 36 and received 133 emails, totalling 169 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (23), [Mary Cook](people/mary-cook) (9), [George Mckean](people/george-mckean) (5), [Sophie Martin](people/sophie-martin) (4), [E  Haedicke](people/e-haedicke) (4). Mailbox folders observed: bankrupt, deleted_items, inbox.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joel-ephross",
+    "name": "Joel Ephross",
+    "email": "joel.ephross@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

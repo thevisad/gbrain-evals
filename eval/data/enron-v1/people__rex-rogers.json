@@ -1,0 +1,14 @@
+{
+  "slug": "people/rex-rogers",
+  "type": "person",
+  "title": "Rex Rogers",
+  "compiled_truth": "Rex Rogers is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2002-01-29), Rex Rogers sent 18 and received 334 emails, totalling 352 interactions. Top correspondents: [James Derrick](people/james-derrick) (13), [Rick Buy](people/rick-buy) (3), [Karen Denne](people/karen-denne) (2), [J  Kean](people/j-kean) (2), [ Schuler](people/schuler) (2). Mailbox folders observed: deleted_items, inbox, pr___notre_dame.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rex-rogers",
+    "name": "Rex Rogers",
+    "email": "rex.rogers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/marty-keyser",
+  "type": "person",
+  "title": "Marty Keyser",
+  "compiled_truth": "Marty Keyser is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2002-06-13), Marty Keyser sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2002-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marty-keyser",
+    "name": "Marty Keyser",
+    "email": "marty.keyser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

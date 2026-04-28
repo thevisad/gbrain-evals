@@ -1,0 +1,14 @@
+{
+  "slug": "people/megan-parker",
+  "type": "person",
+  "title": "Megan Parker",
+  "compiled_truth": "Megan Parker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-01 to 2001-12-31), Megan Parker sent 115 and received 246 emails, totalling 361 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (51), [J  Farmer](people/j-farmer) (40), [Theresa Staab](people/theresa-staab) (6), [ Ward](people/ward) (4), [Stacey Neuweiler](people/stacey-neuweiler) (2). Mailbox folders observed: citizens, cleburne_plant____cornhusker_, deleted_items, east_desk, enron_news, inbox.",
+  "timeline": "- **2000-03-01** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/megan-parker",
+    "name": "Megan Parker",
+    "email": "megan.parker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

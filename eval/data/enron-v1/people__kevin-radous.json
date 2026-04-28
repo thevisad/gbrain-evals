@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-radous",
+  "type": "person",
+  "title": "Kevin Radous",
+  "compiled_truth": "Kevin Radous is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-05-22), Kevin Radous sent 6 and received 134 emails, totalling 140 interactions. Top correspondents: [Patrick Ryder](people/patrick-ryder) (3), [Phillip Love](people/phillip-love) (2), [Barbdillard](people/barbdillard-prodigy) (1). Mailbox folders observed: central, deleted_items, inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-radous",
+    "name": "Kevin Radous",
+    "email": "kevin.radous@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

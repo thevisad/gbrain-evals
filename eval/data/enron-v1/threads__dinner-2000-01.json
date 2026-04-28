@@ -1,0 +1,22 @@
+{
+  "slug": "threads/dinner-2000-01",
+  "type": "meeting",
+  "title": "Thread: Dinner",
+  "compiled_truth": "Email thread: \"Dinner\". Ran from 2000-01-04 to 2000-02-01 with 12 messages. Participants: [Alicia Goodrow](people/alicia-goodrow), [Anne Bertino](people/anne-bertino), [Bob Hall](people/bob-hall), [Chris Germany](people/chris-germany), [Dizaad](people/dizaad-texaco), [Katherine Kelly](people/katherine-kelly), [Preisinger](people/preisinger-tmh), [Tana Jones](people/tana-jones).",
+  "timeline": "- **2000-01-04** | Thread begins: dinner\n- **2000-02-01** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/dinner-2000-01",
+    "attendees": [
+      "people/alicia-goodrow",
+      "people/anne-bertino",
+      "people/bob-hall",
+      "people/chris-germany",
+      "people/dizaad-texaco",
+      "people/katherine-kelly",
+      "people/preisinger-tmh",
+      "people/tana-jones"
+    ],
+    "date": "2000-01-04"
+  }
+}

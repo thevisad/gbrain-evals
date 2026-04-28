@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-lewis",
+  "type": "person",
+  "title": "Jeff Lewis",
+  "compiled_truth": "Jeff Lewis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2001-10-12), Jeff Lewis sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-lewis",
+    "name": "Jeff Lewis",
+    "email": "jeff.lewis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

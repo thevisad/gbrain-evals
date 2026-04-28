@@ -1,0 +1,14 @@
+{
+  "slug": "people/melissa-j-morse-exxon",
+  "type": "person",
+  "title": "Melissa J Morse",
+  "compiled_truth": "Melissa J Morse is an external contact at [Exxon](companies/exxon). Over the corpus period (2001-02-21 to 2001-03-29), Melissa J Morse sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-02-21** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melissa-j-morse-exxon",
+    "name": "Melissa J Morse",
+    "email": "melissa.j.morse@exxon.sprint.com",
+    "primary_affiliation": "companies/exxon"
+  }
+}

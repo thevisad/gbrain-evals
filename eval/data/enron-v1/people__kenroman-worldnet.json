@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenroman-worldnet",
+  "type": "person",
+  "title": "Kenroman",
+  "compiled_truth": "Kenroman is an external contact at [Worldnet](companies/worldnet). Over the corpus period (2000-03-22 to 2000-12-12), Kenroman sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2000-03-22** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenroman-worldnet",
+    "name": "Kenroman",
+    "email": "kenroman@worldnet.att.net",
+    "primary_affiliation": "companies/worldnet"
+  }
+}

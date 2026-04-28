@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-oxley",
+  "type": "person",
+  "title": "David Oxley",
+  "compiled_truth": "David Oxley is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-13), David Oxley sent 228 and received 960 emails, totalling 1188 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (128), [Michelle Cash](people/michelle-cash) (73), [John Lavorato](people/john-lavorato) (64), [Jeanie Slone](people/jeanie-slone) (29), [Greg Whalley](people/greg-whalley) (28). Mailbox folders observed: _americas, deleted_items, enron_updates, inbox, non_us_offices, old_inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-oxley",
+    "name": "David Oxley",
+    "email": "david.oxley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

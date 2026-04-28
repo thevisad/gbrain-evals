@@ -1,0 +1,14 @@
+{
+  "slug": "people/holdridge-kenny",
+  "type": "person",
+  "title": "Holdridge Kenny",
+  "compiled_truth": "Holdridge Kenny is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-17 to 2001-09-18), Holdridge Kenny sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/holdridge-kenny",
+    "name": "Holdridge Kenny",
+    "email": "holdridge.kenny@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

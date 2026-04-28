@@ -1,0 +1,14 @@
+{
+  "slug": "people/olalekan-oladeji",
+  "type": "person",
+  "title": "Olalekan Oladeji",
+  "compiled_truth": "Olalekan Oladeji is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-20 to 2001-11-29), Olalekan Oladeji sent 1 and received 23 emails, totalling 24 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1), [Greg Whalley](people/greg-whalley) (1), [Jeffrey Mcmahon](people/jeffrey-mcmahon) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-11-20** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/olalekan-oladeji",
+    "name": "Olalekan Oladeji",
+    "email": "olalekan.oladeji@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

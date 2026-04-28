@@ -1,0 +1,14 @@
+{
+  "slug": "people/strother-laurie",
+  "type": "person",
+  "title": "Strother Laurie",
+  "compiled_truth": "Strother Laurie is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-09 to 2002-03-14), Strother Laurie sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2002-01-09** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/strother-laurie",
+    "name": "Strother Laurie",
+    "email": "strother.laurie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

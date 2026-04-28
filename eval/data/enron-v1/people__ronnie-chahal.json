@@ -1,0 +1,14 @@
+{
+  "slug": "people/ronnie-chahal",
+  "type": "person",
+  "title": "Ronnie Chahal",
+  "compiled_truth": "Ronnie Chahal is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-10-27), Ronnie Chahal sent 1 and received 34 emails, totalling 35 interactions. Top correspondents: [Jdasovic](people/jdasovic) (1), [John Henderson](people/john-henderson) (1), [Peter Bray](people/peter-bray) (1), [Matthew Crouse](people/matthew-crouse) (1).",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-10-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ronnie-chahal",
+    "name": "Ronnie Chahal",
+    "email": "ronnie.chahal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

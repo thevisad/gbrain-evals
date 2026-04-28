@@ -1,0 +1,14 @@
+{
+  "slug": "people/jlawler-wilmingtontrust",
+  "type": "person",
+  "title": "Jlawler",
+  "compiled_truth": "Jlawler is an external contact at [Wilmingtontrust](companies/wilmingtontrust). Over the corpus period (2000-03-16 to 2000-12-22), Jlawler sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **2000-03-16** | First recorded email in corpus\n- **2000-12-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jlawler-wilmingtontrust",
+    "name": "Jlawler",
+    "email": "jlawler@wilmingtontrust.com",
+    "primary_affiliation": "companies/wilmingtontrust"
+  }
+}

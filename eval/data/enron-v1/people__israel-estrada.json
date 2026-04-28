@@ -1,0 +1,14 @@
+{
+  "slug": "people/israel-estrada",
+  "type": "person",
+  "title": "Israel Estrada",
+  "compiled_truth": "Israel Estrada is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-05-02), Israel Estrada sent 1 and received 139 emails, totalling 140 interactions. Top correspondents: [Monica Lande](people/monica-lande) (1), [Donald Vinson](people/donald-vinson) (1), [Dutch Quigley](people/dutch-quigley) (1), [Errol Mclaughlin](people/errol-mclaughlin) (1), [Purvi Patel](people/purvi-patel) (1).",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/israel-estrada",
+    "name": "Israel Estrada",
+    "email": "israel.estrada@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

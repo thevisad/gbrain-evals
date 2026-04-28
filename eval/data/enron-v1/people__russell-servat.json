@@ -1,0 +1,14 @@
+{
+  "slug": "people/russell-servat",
+  "type": "person",
+  "title": "Russell Servat",
+  "compiled_truth": "Russell Servat is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-12 to 2001-11-27), Russell Servat sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/russell-servat",
+    "name": "Russell Servat",
+    "email": "russell.servat@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

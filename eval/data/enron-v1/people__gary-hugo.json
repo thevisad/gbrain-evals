@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-hugo",
+  "type": "person",
+  "title": "Gary Hugo",
+  "compiled_truth": "Gary Hugo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-12 to 2002-05-06), Gary Hugo sent 2 and received 21 emails, totalling 23 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (2). Mailbox folders observed: e_mail_bin, elpaso_pipeline.",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-hugo",
+    "name": "Gary Hugo",
+    "email": "gary.hugo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

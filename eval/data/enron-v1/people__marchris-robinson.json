@@ -1,0 +1,14 @@
+{
+  "slug": "people/marchris-robinson",
+  "type": "person",
+  "title": "Marchris Robinson",
+  "compiled_truth": "Marchris Robinson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-25 to 2001-12-03), Marchris Robinson sent 13 and received 585 emails, totalling 598 interactions. Top correspondents: [Steve Montovano](people/steve-montovano) (7), [Richard Shapiro](people/richard-shapiro) (6), [James Steffes](people/james-steffes) (5), [D  Steffes](people/d-steffes) (4), [David Fairley](people/david-fairley) (3). Mailbox folders observed: deleted_items, florida, inbox.",
+  "timeline": "- **1999-10-25** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marchris-robinson",
+    "name": "Marchris Robinson",
+    "email": "marchris.robinson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

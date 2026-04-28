@@ -1,0 +1,14 @@
+{
+  "slug": "people/jose-lazo",
+  "type": "person",
+  "title": "Jose Lazo",
+  "compiled_truth": "Jose Lazo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-15 to 2001-11-08), Jose Lazo sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-08-15** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jose-lazo",
+    "name": "Jose Lazo",
+    "email": "jose.lazo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

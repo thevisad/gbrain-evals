@@ -1,0 +1,14 @@
+{
+  "slug": "people/travis-winfrey",
+  "type": "person",
+  "title": "Travis Winfrey",
+  "compiled_truth": "Travis Winfrey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2002-01-28), Travis Winfrey sent 3 and received 66 emails, totalling 69 interactions. Top correspondents: [Shelley Corman](people/shelley-corman) (1), [J  Kean](people/j-kean) (1), [Adamk](people/adamk-ml) (1), [Dan Boyle](people/dan-boyle) (1), [David Mitchell](people/david-mitchell) (1). Mailbox folders observed: deleted_items, inbox, pr_crisis_management.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/travis-winfrey",
+    "name": "Travis Winfrey",
+    "email": "travis.winfrey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

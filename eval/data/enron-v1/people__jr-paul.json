@@ -1,0 +1,14 @@
+{
+  "slug": "people/jr-paul",
+  "type": "person",
+  "title": "Jr Paul",
+  "compiled_truth": "Jr Paul is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-19 to 2001-11-05), Jr Paul sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-09-19** | First recorded email in corpus\n- **2001-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jr-paul",
+    "name": "Jr Paul",
+    "email": "jr.paul@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

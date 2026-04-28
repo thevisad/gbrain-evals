@@ -1,0 +1,14 @@
+{
+  "slug": "people/jay-blaine",
+  "type": "person",
+  "title": "Jay Blaine",
+  "compiled_truth": "Jay Blaine is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-29), Jay Blaine sent 12 and received 178 emails, totalling 190 interactions. Top correspondents: [Don Baughman](people/don-baughman) (3), [Chris Germany](people/chris-germany) (3), [Jay Knoblauh](people/jay-knoblauh) (3), [Juan Hernandez](people/juan-hernandez) (2), [Jim Homco](people/jim-homco) (2). Mailbox folders observed: deleted_items, inbox, power.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jay-blaine",
+    "name": "Jay Blaine",
+    "email": "jay.blaine@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/wayne-vinson",
+  "type": "person",
+  "title": "Wayne Vinson",
+  "compiled_truth": "Wayne Vinson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-15 to 2002-02-07), Wayne Vinson sent 7 and received 373 emails, totalling 380 interactions. Top correspondents: [W  White](people/w-white) (6), [Casey Evans](people/casey-evans) (6), [Hai Chen](people/hai-chen) (3), [Michael Mattox](people/michael-mattox) (3), [Andrea Dahlke](people/andrea-dahlke) (3). Mailbox folders observed: deleted_items, inbox, personal, personnel.",
+  "timeline": "- **2001-05-15** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wayne-vinson",
+    "name": "Wayne Vinson",
+    "email": "wayne.vinson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

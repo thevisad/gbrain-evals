@@ -1,0 +1,14 @@
+{
+  "slug": "people/harlan-murphy",
+  "type": "person",
+  "title": "Harlan Murphy",
+  "compiled_truth": "Harlan Murphy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-31 to 2002-06-21), Harlan Murphy sent 31 and received 406 emails, totalling 437 interactions. Top correspondents: [Marie Heard](people/marie-heard) (15), [Elizabeth Sager](people/elizabeth-sager) (8), [Mary Cook](people/mary-cook) (4), [Joel Ephross](people/joel-ephross) (3), [N  Gray](people/n-gray) (3). Mailbox folders observed: _americas, calendar, deleted_items, inbox, ring_trades.",
+  "timeline": "- **2001-05-31** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/harlan-murphy",
+    "name": "Harlan Murphy",
+    "email": "harlan.murphy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

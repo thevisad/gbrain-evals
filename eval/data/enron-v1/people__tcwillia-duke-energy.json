@@ -1,0 +1,14 @@
+{
+  "slug": "people/tcwillia-duke-energy",
+  "type": "person",
+  "title": "Tcwillia",
+  "compiled_truth": "Tcwillia is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-10-27 to 2001-07-31), Tcwillia sent 0 and received 93 emails, totalling 93 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tcwillia-duke-energy",
+    "name": "Tcwillia",
+    "email": "tcwillia@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "concepts/founder-mode",
+  "type": "concept",
+  "title": "Founder Mode",
+  "compiled_truth": "Founder mode is the operating philosophy where a CEO stays deeply embedded in product architecture and engineering decisions well past the stage where conventional wisdom says they should \"professionalize\" and delegate. In the context of deterministic data infrastructure — where a single misstep in primitives can cascade through every downstream customer — this isn't ego. It's risk management.\n\nThe term gets thrown around loosely in startup circles, but at Anchor Codec it has a specific meaning: the CEO remains the final reviewer on any change to the single-pass pipeline, attends weekly architecture syncs, and personally signs off on partner integration specs. This was a deliberate choice made early in 2026, not a default that nobody questioned. The board discussed it. The eng leads discussed it. The conclusion was that the surface area of the core product was small enough, and the consequences of regression severe enough, that having the founder's hands on the wheel was a net positive.\n\n[Tatum Andersen](people/tatum-andersen) has been the most vocal internal advocate for this approach. As head of product, Tatum argued that the typical transition to a \"hire a VP Eng and step back\" model works fine for SaaS dashboards but poorly for infrastructure companies where the product *is* the architecture. The counter-argument — that it creates bottlenecks and burns the founder out — is real, and there have been sprints where it clearly slowed things down. But the tradeoff has generally paid off: zero regressions shipped to production in the first eighteen months.\n\nCompanies in the Anchor orbit have taken different stances. [Prism Protocol](companies/prism-protocol) operates in a similar founder-mode style, with their CEO still reviewing protocol-level changes. [Umbra Storage](companies/umbra-storage) went the opposite direction, hiring a VP of Engineering in mid-2027 and pushing the founder into a pure GTM role. The results are mixed — Umbra shipped faster but had two notable incidents that required hotfixes within weeks of each other.\n\n[Monroe Bakker](people/monroe-bakker) has pushed back on founder mode internally, arguing that it conflates technical judgment with organizational authority and creates an implicit veto that chills dissent. Monroe's critique isn't wrong, and the team has tried to mitigate it by instituting architecture decision records (ADRs) where anyone can propose changes asynchronously. The founder reviews but doesn't always override. In practice, the override rate is around 12%, which feels healthy.\n\nThe real question is whether founder mode survives Series B. Investors generally want to see scalable management structures, and having the CEO in every architecture sync doesn't pattern-match to what most growth-stage boards expect. That tension hasn't fully resolved yet.",
+  "timeline": [
+    "- **2026-02-14** | Internal discussion at Anchor Codec about whether the CEO should continue attending weekly architecture syncs; decision made to formalize \"founder mode\" as an explicit operating principle.",
+    "- **2026-05-03** | [Tatum Andersen](people/tatum-andersen) circulates internal memo titled \"Why Infrastructure Founders Should Stay Technical\" — becomes a touchstone document for the team.",
+    "- **2026-08-19** | Board meeting where founder mode is discussed as a potential scaling risk; board agrees to revisit after Series A close.",
+    "- **2026-11-07** | [Monroe Bakker](people/monroe-bakker) raises concerns in eng all-hands about implicit veto dynamics; ADR process introduced as a mitigation.",
+    "- **2027-01-22** | [Prism Protocol](companies/prism-protocol) CEO mentions in a podcast that they also operate in founder mode, cites Anchor's approach as validation.",
+    "- **2027-04-15** | [Umbra Storage](companies/umbra-storage) hires VP of Engineering, explicitly moving away from founder-led architecture review.",
+    "- **2027-07-30** | Umbra ships two hotfixes in three weeks after production incidents; internal Anchor discussion frames this as a cautionary tale against premature delegation.",
+    "- **2027-10-12** | Anchor CEO's override rate on ADRs calculated at ~12% for the trailing six months; team considers this a healthy threshold.",
+    "- **2028-02-08** | Series B due diligence surfaces investor questions about founder mode sustainability; deck updated with section on \"Technical Governance at Scale.\"",
+    "- **2028-05-21** | [Tatum Andersen](people/tatum-andersen) presents \"Founder Mode in Infrastructure\" talk at a private founders dinner, sparking debate among attendees from six other startups."
+  ],
+  "_facts": {
+    "type": "concept",
+    "slug": "concepts/founder-mode",
+    "name": "founder mode",
+    "description": "Maintaining deep involvement in product and engineering decisions as CEO beyond typical founder transition points",
+    "related_companies": [
+      "companies/prism-protocol",
+      "companies/umbra-storage"
+    ],
+    "related_people": [
+      "people/tatum-andersen",
+      "people/monroe-bakker"
+    ]
+  }
+}

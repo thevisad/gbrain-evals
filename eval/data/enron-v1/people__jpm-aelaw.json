@@ -1,0 +1,14 @@
+{
+  "slug": "people/jpm-aelaw",
+  "type": "person",
+  "title": "Jpm",
+  "compiled_truth": "Jpm is an external contact at [Aelaw](companies/aelaw). Over the corpus period (2000-06-21 to 2000-07-10), Jpm sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2000-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jpm-aelaw",
+    "name": "Jpm",
+    "email": "jpm@aelaw.com",
+    "primary_affiliation": "companies/aelaw"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-weller",
+  "type": "person",
+  "title": "Steve Weller",
+  "compiled_truth": "Steve Weller is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2002-01-22), Steve Weller sent 4 and received 291 emails, totalling 295 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (2), [Dan Fancler](people/dan-fancler) (2), [G  Stage](people/g-stage) (2), [Bculbertson](people/bculbertson-enogex) (1), [Jean Adams](people/jean-adams) (1). Mailbox folders observed: deleted_items, inbox, tw_projects.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-weller",
+    "name": "Steve Weller",
+    "email": "steve.weller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

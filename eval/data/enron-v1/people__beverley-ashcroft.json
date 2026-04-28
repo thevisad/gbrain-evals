@@ -1,0 +1,14 @@
+{
+  "slug": "people/beverley-ashcroft",
+  "type": "person",
+  "title": "Beverley Ashcroft",
+  "compiled_truth": "Beverley Ashcroft is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-26 to 2001-07-20), Beverley Ashcroft sent 15 and received 33 emails, totalling 48 interactions. Top correspondents: [Weekly Report](people/weekly-report) (14), [Drew Fossum](people/drew-fossum) (1), [Ga](people/ga) (1).",
+  "timeline": "- **2000-07-26** | First recorded email in corpus\n- **2001-07-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beverley-ashcroft",
+    "name": "Beverley Ashcroft",
+    "email": "beverley.ashcroft@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

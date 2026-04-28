@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-kimberly",
+  "type": "person",
+  "title": "Kelly Kimberly",
+  "compiled_truth": "Kelly Kimberly is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-21), Kelly Kimberly sent 23 and received 203 emails, totalling 226 interactions. Top correspondents: [Steven Kean](people/steven-kean) (8), [J  Kean](people/j-kean) (5), [Michael Terraso](people/michael-terraso) (4), [Maureen Mcvicker](people/maureen-mcvicker) (3), [John Ambler](people/john-ambler) (3). Mailbox folders observed: corporate_responsibility, deleted_items, inbox, pr_crisis_management.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-kimberly",
+    "name": "Kelly Kimberly",
+    "email": "kelly.kimberly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

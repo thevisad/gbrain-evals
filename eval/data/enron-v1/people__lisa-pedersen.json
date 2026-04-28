@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-pedersen",
+  "type": "person",
+  "title": "Lisa Pedersen",
+  "compiled_truth": "Lisa Pedersen is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2001-11-12), Lisa Pedersen sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-pedersen",
+    "name": "Lisa Pedersen",
+    "email": "lisa.pedersen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

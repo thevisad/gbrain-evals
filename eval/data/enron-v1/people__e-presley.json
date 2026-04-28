@@ -1,0 +1,14 @@
+{
+  "slug": "people/e-presley",
+  "type": "person",
+  "title": "E Presley",
+  "compiled_truth": "E Presley is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-23 to 2002-01-28), E Presley sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-04-23** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/e-presley",
+    "name": "E Presley",
+    "email": "e.presley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

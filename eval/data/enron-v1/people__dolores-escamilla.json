@@ -1,0 +1,14 @@
+{
+  "slug": "people/dolores-escamilla",
+  "type": "person",
+  "title": "Dolores Escamilla",
+  "compiled_truth": "Dolores Escamilla is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2001-09-28), Dolores Escamilla sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dolores-escamilla",
+    "name": "Dolores Escamilla",
+    "email": "dolores.escamilla@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-schumacher-chadbourne",
+  "type": "person",
+  "title": "David Schumacher",
+  "compiled_truth": "David Schumacher is an external contact at [Chadbourne](companies/chadbourne). Over the corpus period (2000-11-28 to 2000-12-06), David Schumacher sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-schumacher-chadbourne",
+    "name": "David Schumacher",
+    "email": "david.schumacher@chadbourne.com",
+    "primary_affiliation": "companies/chadbourne"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/web-macdonald-blakes",
+  "type": "person",
+  "title": "Web Macdonald",
+  "compiled_truth": "Web Macdonald is an external contact at [Blakes](companies/blakes). Over the corpus period (2000-06-07 to 2000-10-27), Web Macdonald sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2000-10-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/web-macdonald-blakes",
+    "name": "Web Macdonald",
+    "email": "web.macdonald@blakes.com",
+    "primary_affiliation": "companies/blakes"
+  }
+}

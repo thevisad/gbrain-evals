@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-gray",
+  "type": "person",
+  "title": "Jeff Gray",
+  "compiled_truth": "Jeff Gray is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-10 to 2001-11-27), Jeff Gray sent 4 and received 27 emails, totalling 31 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (2), [Michael Moore](people/michael-moore) (1), [J  Kean](people/j-kean) (1), [Katrina Burton](people/katrina-burton) (1), [M  Landwehr](people/m-landwehr) (1). Mailbox folders observed: deleted_items, inbox, presentations.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-gray",
+    "name": "Jeff Gray",
+    "email": "jeff.gray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-kass",
+  "type": "person",
+  "title": "Michael Kass",
+  "compiled_truth": "Michael Kass is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-27 to 2001-12-28), Michael Kass sent 11 and received 122 emails, totalling 133 interactions. Top correspondents: [David Port](people/david-port) (11), [Ted Murphy](people/ted-murphy) (11), [London Brown](people/london-brown) (11), [Mike Jordan](people/mike-jordan) (11), [James New](people/james-new) (11). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-kass",
+    "name": "Michael Kass",
+    "email": "michael.kass@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

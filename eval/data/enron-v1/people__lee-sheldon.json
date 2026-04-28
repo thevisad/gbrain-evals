@@ -1,0 +1,14 @@
+{
+  "slug": "people/lee-sheldon",
+  "type": "person",
+  "title": "Lee Sheldon",
+  "compiled_truth": "Lee Sheldon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-10-09), Lee Sheldon sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lee-sheldon",
+    "name": "Lee Sheldon",
+    "email": "lee.sheldon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/beverly-filer",
+  "type": "person",
+  "title": "Beverly Filer",
+  "compiled_truth": "Beverly Filer is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-30 to 2001-05-09), Beverly Filer sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beverly-filer",
+    "name": "Beverly Filer",
+    "email": "beverly.filer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/pamela-culpepper",
+  "type": "person",
+  "title": "Pamela Culpepper",
+  "compiled_truth": "Pamela Culpepper is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2002-01-25), Pamela Culpepper sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pamela-culpepper",
+    "name": "Pamela Culpepper",
+    "email": "pamela.culpepper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

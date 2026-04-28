@@ -1,0 +1,18 @@
+{
+  "slug": "companies/greenpulse",
+  "type": "company",
+  "title": "GreenPulse",
+  "compiled_truth": "GreenPulse is a venture capital firm. Founders: dev-shankar.",
+  "timeline": "- **2025-04-14** | company indexed",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/greenpulse",
+    "name": "GreenPulse",
+    "founders": [
+      "people/dev-shankar"
+    ],
+    "employees": [],
+    "investors": [],
+    "advisors": []
+  }
+}

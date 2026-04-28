@@ -1,0 +1,16 @@
+{
+  "slug": "people/marcus-reid",
+  "type": "person",
+  "title": "Marcus Reid",
+  "compiled_truth": "Marcus Reid is an investor in Halfway Capital's portfolio companies. Email: mreid@a16z.com. Marcus Reid works at Andreessen Horowitz. Slack: @marcus.",
+  "timeline": "- **2025-04-14** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marcus-reid",
+    "name": "Marcus Reid",
+    "email": "mreid@a16z.com",
+    "slack_handle": "marcus",
+    "relation_to_amara": "investor",
+    "primary_affiliation": "companies/a16z"
+  }
+}

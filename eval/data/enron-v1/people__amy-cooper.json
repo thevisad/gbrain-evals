@@ -1,0 +1,14 @@
+{
+  "slug": "people/amy-cooper",
+  "type": "person",
+  "title": "Amy Cooper",
+  "compiled_truth": "Amy Cooper is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-20 to 2001-08-22), Amy Cooper sent 4 and received 11 emails, totalling 15 interactions. Top correspondents: [Shonnie Daniel](people/shonnie-daniel) (4), [Katie Stowers](people/katie-stowers) (4), [Gerald Nemec](people/gerald-nemec) (4), [Audrey Pullen](people/audrey-pullen) (3), [Joel Ephross](people/joel-ephross) (3).",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2001-08-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amy-cooper",
+    "name": "Amy Cooper",
+    "email": "amy.cooper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

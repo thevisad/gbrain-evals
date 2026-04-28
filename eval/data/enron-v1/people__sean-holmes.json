@@ -1,0 +1,14 @@
+{
+  "slug": "people/sean-holmes",
+  "type": "person",
+  "title": "Sean Holmes",
+  "compiled_truth": "Sean Holmes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-30 to 2001-10-22), Sean Holmes sent 0 and received 64 emails, totalling 64 interactions.",
+  "timeline": "- **2000-04-30** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sean-holmes",
+    "name": "Sean Holmes",
+    "email": "sean.holmes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

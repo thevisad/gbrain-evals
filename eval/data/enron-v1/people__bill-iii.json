@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-iii",
+  "type": "person",
+  "title": "Bill Iii",
+  "compiled_truth": "Bill Iii is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-21 to 2001-07-30), Bill Iii sent 151 and received 390 emails, totalling 541 interactions. Top correspondents: [Portland Shift](people/portland-shift) (122), [Mark Guzman](people/mark-guzman) (14), [Geir Solberg](people/geir-solberg) (7), [Ryan Slinger](people/ryan-slinger) (7), [Eric Linder](people/eric-linder) (7). Mailbox folders observed: read.",
+  "timeline": "- **2000-09-21** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-iii",
+    "name": "Bill Iii",
+    "email": "bill.iii@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/pamela-rush",
+  "type": "person",
+  "title": "Pamela Rush",
+  "compiled_truth": "Pamela Rush is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-16), Pamela Rush sent 2 and received 19 emails, totalling 21 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (2), [Lillian Villarreal](people/lillian-villarreal) (1), [Teresa Mcomber](people/teresa-mcomber) (1), [Geneva Davis](people/geneva-davis) (1). Mailbox folders observed: deleted_items, enron_kids.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pamela-rush",
+    "name": "Pamela Rush",
+    "email": "pamela.rush@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/claudette-harvey",
+  "type": "person",
+  "title": "Claudette Harvey",
+  "compiled_truth": "Claudette Harvey is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-07), Claudette Harvey sent 6 and received 96 emails, totalling 102 interactions. Top correspondents: [Kay Mann](people/kay-mann) (4), [Stephen Plauche](people/stephen-plauche) (3), [Joe Stepenovitch](people/joe-stepenovitch) (2), [Heather Kroll](people/heather-kroll) (2), [Scott Healy](people/scott-healy) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/claudette-harvey",
+    "name": "Claudette Harvey",
+    "email": "claudette.harvey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

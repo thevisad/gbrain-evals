@@ -1,0 +1,14 @@
+{
+  "slug": "people/teresa-seibel",
+  "type": "person",
+  "title": "Teresa Seibel",
+  "compiled_truth": "Teresa Seibel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2001-11-19), Teresa Seibel sent 1 and received 97 emails, totalling 98 interactions. Top correspondents: [Richard Ring](people/richard-ring) (1). Mailbox folders observed: eesiisonewengland.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teresa-seibel",
+    "name": "Teresa Seibel",
+    "email": "teresa.seibel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

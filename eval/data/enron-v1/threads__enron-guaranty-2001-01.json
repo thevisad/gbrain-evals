@@ -1,0 +1,30 @@
+{
+  "slug": "threads/enron-guaranty-2001-01",
+  "type": "meeting",
+  "title": "Thread: Enron Guaranty",
+  "compiled_truth": "Email thread: \"Enron Guaranty\". Ran from 2001-01-31 to 2001-03-02 with 14 messages. Participants: [Ameytina](people/ameytina-bear), [Barrettp](people/barrettp-coned), [Clement Abrams](people/clement-abrams), [Dooleys](people/dooleys-coned), [Douglasp](people/douglasp-coned), [Gerald Nemec](people/gerald-nemec), [John Hodge](people/john-hodge), [\"\"Meytina](people/meytina).",
+  "timeline": "- **2001-01-31** | Thread begins: enron guaranty\n- **2001-03-02** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-guaranty-2001-01",
+    "attendees": [
+      "people/ameytina-bear",
+      "people/barrettp-coned",
+      "people/clement-abrams",
+      "people/dooleys-coned",
+      "people/douglasp-coned",
+      "people/gerald-nemec",
+      "people/john-hodge",
+      "people/meytina",
+      "people/orlando-alvarado-williams",
+      "people/rmiron-bear",
+      "people/rozmusg-coned",
+      "people/samantha-boyd",
+      "people/sara-shackleton",
+      "people/schernick-bear",
+      "people/stalento-bear",
+      "people/toi-l-anderson-williams"
+    ],
+    "date": "2001-01-31"
+  }
+}

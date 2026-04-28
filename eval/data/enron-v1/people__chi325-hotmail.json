@@ -1,0 +1,14 @@
+{
+  "slug": "people/chi325-hotmail",
+  "type": "person",
+  "title": "Chi325",
+  "compiled_truth": "Chi325 is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-11-17 to 2001-12-10), Chi325 sent 19 and received 32 emails, totalling 51 interactions. Top correspondents: [Lcampbel](people/lcampbel) (19), [Bobaymon](people/bobaymon-aol) (19), [Dudley](people/dudley-ceimail) (17), [S Trevino25](people/s-trevino25-hotmail) (17), [Erin](people/erin-tisd) (17).",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chi325-hotmail",
+    "name": "Chi325",
+    "email": "chi325@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

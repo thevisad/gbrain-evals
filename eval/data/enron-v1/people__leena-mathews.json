@@ -1,0 +1,14 @@
+{
+  "slug": "people/leena-mathews",
+  "type": "person",
+  "title": "Leena Mathews",
+  "compiled_truth": "Leena Mathews is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-12 to 2001-06-05), Leena Mathews sent 2 and received 7 emails, totalling 9 interactions. Top correspondents: [Juan Torres](people/juan-torres) (1), [ Sturmer](people/sturmer) (1), [Amr Ibrahim](people/amr-ibrahim) (1), [Johan Zaayman](people/johan-zaayman) (1), [Ban Sharma](people/ban-sharma) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-01-12** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leena-mathews",
+    "name": "Leena Mathews",
+    "email": "leena.mathews@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

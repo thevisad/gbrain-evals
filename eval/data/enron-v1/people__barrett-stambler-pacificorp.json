@@ -1,0 +1,14 @@
+{
+  "slug": "people/barrett-stambler-pacificorp",
+  "type": "person",
+  "title": "Barrett Stambler",
+  "compiled_truth": "Barrett Stambler is an external contact at [Pacificorp](companies/pacificorp). Over the corpus period (2000-11-09 to 2001-07-25), Barrett Stambler sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2001-07-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barrett-stambler-pacificorp",
+    "name": "Barrett Stambler",
+    "email": "barrett.stambler@pacificorp.com",
+    "primary_affiliation": "companies/pacificorp"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "companies/asm",
+  "type": "company",
+  "title": "Asm",
+  "compiled_truth": "Asm is an external organization that appears in the Enron email corpus. Domain: asm.com. Total email interactions with Enron: 317. Known contacts: 22 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (317 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/asm",
+    "name": "Asm",
+    "employees": [
+      "people/carolyn-veal-hunter-asm",
+      "people/charles-bacchi-asm",
+      "people/chris-woods-asm",
+      "people/dan-rabovsky-asm",
+      "people/eileen-roush-asm",
+      "people/joseph-lyons-asm",
+      "people/julia-king-asm",
+      "people/kelly-boyd-asm",
+      "people/michael-endicott-asm",
+      "people/paul-deiro-asm",
+      "people/pedro-reyes-asm",
+      "people/peter-schaafsma-asm",
+      "people/phil-nails-asm",
+      "people/richard-costigan-asm",
+      "people/richard-mersereau-asm",
+      "people/richard-mesereau-asm",
+      "people/rick-simpson-asm",
+      "people/robert-albergotti-asm",
+      "people/roderick-campbell-asm",
+      "people/stephen-shea-asm",
+      "people/timothy-conaghan-asm",
+      "people/will-smith-asm"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

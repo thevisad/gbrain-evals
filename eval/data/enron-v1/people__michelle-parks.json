@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-parks",
+  "type": "person",
+  "title": "Michelle Parks",
+  "compiled_truth": "Michelle Parks is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-16 to 2001-11-20), Michelle Parks sent 6 and received 81 emails, totalling 87 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (4), [Scott Healy](people/scott-healy) (2), [Carl Tricoli](people/carl-tricoli) (2), [David Portz](people/david-portz) (2), [Paul Radous](people/paul-radous) (2).",
+  "timeline": "- **2000-03-16** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-parks",
+    "name": "Michelle Parks",
+    "email": "michelle.parks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

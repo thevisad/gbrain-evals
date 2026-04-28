@@ -1,0 +1,14 @@
+{
+  "slug": "people/d2mr-pge",
+  "type": "person",
+  "title": "D2Mr",
+  "compiled_truth": "D2Mr is an external contact at [PG&E](companies/pge). Over the corpus period (2000-09-08 to 2001-02-05), D2Mr sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2001-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d2mr-pge",
+    "name": "D2Mr",
+    "email": "d2mr@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

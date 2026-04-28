@@ -1,0 +1,25 @@
+{
+  "slug": "meetings/invitation-2001-02",
+  "type": "meeting",
+  "title": "Meeting: Invitation",
+  "compiled_truth": "Meeting: \"Invitation\". Occurred 2001-02-16 with 1 related emails. Participants included: [Bill White](people/bill-white), [Chris Long](people/chris-long), [Doug Leach](people/doug-leach), [John Arnold](people/john-arnold), [John Lavorato](people/john-lavorato), [Kevin Hannon](people/kevin-hannon), [Kevin Presto](people/kevin-presto), [Louise Kitchen](people/louise-kitchen)....",
+  "timeline": "- **2001-02-16** | Meeting: invitation",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/invitation-2001-02",
+    "attendees": [
+      "people/bill-white",
+      "people/chris-long",
+      "people/doug-leach",
+      "people/john-arnold",
+      "people/john-lavorato",
+      "people/kevin-hannon",
+      "people/kevin-presto",
+      "people/louise-kitchen",
+      "people/mark-haedicke",
+      "people/mark-taylor",
+      "people/tom-briggs"
+    ],
+    "date": "2001-02-16"
+  }
+}

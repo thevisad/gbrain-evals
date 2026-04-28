@@ -1,0 +1,14 @@
+{
+  "slug": "people/ricky-pngc",
+  "type": "person",
+  "title": "Ricky",
+  "compiled_truth": "Ricky is an external contact at [Pngc](companies/pngc). Over the corpus period (2001-04-26 to 2001-08-14), Ricky sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2001-08-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ricky-pngc",
+    "name": "Ricky",
+    "email": "ricky@pngc.com",
+    "primary_affiliation": "companies/pngc"
+  }
+}

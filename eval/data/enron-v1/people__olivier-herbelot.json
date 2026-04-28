@@ -1,0 +1,14 @@
+{
+  "slug": "people/olivier-herbelot",
+  "type": "person",
+  "title": "Olivier Herbelot",
+  "compiled_truth": "Olivier Herbelot is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-21 to 2001-11-21), Olivier Herbelot sent 1 and received 25 emails, totalling 26 interactions. Top correspondents: [Rick Buy](people/rick-buy) (1), [David Gorte](people/david-gorte) (1), [Ted Murphy](people/ted-murphy) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/olivier-herbelot",
+    "name": "Olivier Herbelot",
+    "email": "olivier.herbelot@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

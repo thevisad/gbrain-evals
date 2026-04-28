@@ -1,0 +1,14 @@
+{
+  "slug": "people/barbara-hooks",
+  "type": "person",
+  "title": "Barbara Hooks",
+  "compiled_truth": "Barbara Hooks is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-24 to 2001-11-09), Barbara Hooks sent 0 and received 43 emails, totalling 43 interactions.",
+  "timeline": "- **2000-10-24** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barbara-hooks",
+    "name": "Barbara Hooks",
+    "email": "barbara.hooks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

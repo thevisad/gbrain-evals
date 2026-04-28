@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-fenstad",
+  "type": "person",
+  "title": "Larry Fenstad",
+  "compiled_truth": "Larry Fenstad is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-08 to 2001-07-12), Larry Fenstad sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-03-08** | First recorded email in corpus\n- **2001-07-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-fenstad",
+    "name": "Larry Fenstad",
+    "email": "larry.fenstad@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

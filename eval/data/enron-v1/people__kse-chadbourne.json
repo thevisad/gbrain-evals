@@ -1,0 +1,14 @@
+{
+  "slug": "people/kse-chadbourne",
+  "type": "person",
+  "title": "Kse",
+  "compiled_truth": "Kse is an external contact at [Chadbourne](companies/chadbourne). Over the corpus period (2000-11-28 to 2000-12-06), Kse sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kse-chadbourne",
+    "name": "Kse",
+    "email": "kse@chadbourne.com",
+    "primary_affiliation": "companies/chadbourne"
+  }
+}

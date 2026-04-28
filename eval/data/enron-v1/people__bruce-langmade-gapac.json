@@ -1,0 +1,14 @@
+{
+  "slug": "people/bruce-langmade-gapac",
+  "type": "person",
+  "title": "Bruce Langmade",
+  "compiled_truth": "Bruce Langmade is an external contact at [Gapac](companies/gapac). Over the corpus period (2001-04-20 to 2001-05-11), Bruce Langmade sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-04-20** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bruce-langmade-gapac",
+    "name": "Bruce Langmade",
+    "email": "bruce.langmade@gapac.com",
+    "primary_affiliation": "companies/gapac"
+  }
+}

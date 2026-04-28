@@ -1,0 +1,14 @@
+{
+  "slug": "people/jaime-ramirez-swgas",
+  "type": "person",
+  "title": "Jaime Ramirez",
+  "compiled_truth": "Jaime Ramirez is an external contact at [Swgas](companies/swgas). Over the corpus period (1999-09-24 to 2001-07-31), Jaime Ramirez sent 0 and received 80 emails, totalling 80 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jaime-ramirez-swgas",
+    "name": "Jaime Ramirez",
+    "email": "jaime.ramirez@swgas.com",
+    "primary_affiliation": "companies/swgas"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mollycoffin-hotmail",
+  "type": "person",
+  "title": "Mollycoffin",
+  "compiled_truth": "Mollycoffin is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-10-19 to 2001-10-25), Mollycoffin sent 11 and received 22 emails, totalling 33 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (9), [Psellers](people/psellers-pacbell) (4), [Scottwl](people/scottwl-hotmail) (4), [Cameron](people/cameron-perfect) (3), [Skmaloney](people/skmaloney-yahoo) (3).",
+  "timeline": "- **2000-10-19** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mollycoffin-hotmail",
+    "name": "Mollycoffin",
+    "email": "mollycoffin@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

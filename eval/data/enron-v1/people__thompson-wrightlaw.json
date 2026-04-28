@@ -1,0 +1,14 @@
+{
+  "slug": "people/thompson-wrightlaw",
+  "type": "person",
+  "title": "Thompson",
+  "compiled_truth": "Thompson is an external contact at [Wrightlaw](companies/wrightlaw). Over the corpus period (1999-09-24 to 2001-07-31), Thompson sent 0 and received 114 emails, totalling 114 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thompson-wrightlaw",
+    "name": "Thompson",
+    "email": "thompson@wrightlaw.com",
+    "primary_affiliation": "companies/wrightlaw"
+  }
+}

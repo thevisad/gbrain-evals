@@ -1,0 +1,14 @@
+{
+  "slug": "people/jpmarchand-aep",
+  "type": "person",
+  "title": "Jpmarchand",
+  "compiled_truth": "Jpmarchand is an external contact at [Aep](companies/aep). Over the corpus period (2000-11-10 to 2001-12-19), Jpmarchand sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jpmarchand-aep",
+    "name": "Jpmarchand",
+    "email": "jpmarchand@aep.com",
+    "primary_affiliation": "companies/aep"
+  }
+}

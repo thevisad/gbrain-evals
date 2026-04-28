@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-lammers",
+  "type": "person",
+  "title": "Richard Lammers",
+  "compiled_truth": "Richard Lammers is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-03 to 2001-05-23), Richard Lammers sent 2 and received 117 emails, totalling 119 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (2), [James Bannantine](people/james-bannantine) (1), [Sherri Sera](people/sherri-sera) (1), [Andreia Almeida](people/andreia-almeida) (1), [G Garcia](people/g-garcia) (1).",
+  "timeline": "- **2000-05-03** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-lammers",
+    "name": "Richard Lammers",
+    "email": "richard.lammers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

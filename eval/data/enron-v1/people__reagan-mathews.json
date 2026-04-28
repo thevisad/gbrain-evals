@@ -1,0 +1,14 @@
+{
+  "slug": "people/reagan-mathews",
+  "type": "person",
+  "title": "Reagan Mathews",
+  "compiled_truth": "Reagan Mathews is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-12-19), Reagan Mathews sent 3 and received 60 emails, totalling 63 interactions. Top correspondents: [D  Thomas](people/d-thomas) (2), [Brian Terp](people/brian-terp) (2), [David Ingram](people/david-ingram) (2), [Eric Bass](people/eric-bass) (1), [Joe Stepenovitch](people/joe-stepenovitch) (1). Mailbox folders observed: deleted_items, ffl, inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reagan-mathews",
+    "name": "Reagan Mathews",
+    "email": "reagan.mathews@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

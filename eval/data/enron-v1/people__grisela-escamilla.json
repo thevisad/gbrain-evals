@@ -1,0 +1,14 @@
+{
+  "slug": "people/grisela-escamilla",
+  "type": "person",
+  "title": "Grisela Escamilla",
+  "compiled_truth": "Grisela Escamilla is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-13 to 2001-11-20), Grisela Escamilla sent 1 and received 35 emails, totalling 36 interactions. Top correspondents: [Monica Talan](people/monica-talan) (1), [Lynn Aven](people/lynn-aven) (1), [Paul Radous](people/paul-radous) (1), [Brent Hendry](people/brent-hendry) (1), [Julie Ramos](people/julie-ramos) (1).",
+  "timeline": "- **2000-04-13** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/grisela-escamilla",
+    "name": "Grisela Escamilla",
+    "email": "grisela.escamilla@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

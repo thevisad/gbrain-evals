@@ -1,0 +1,14 @@
+{
+  "slug": "people/jaime-araoz",
+  "type": "person",
+  "title": "Jaime Araoz",
+  "compiled_truth": "Jaime Araoz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-17 to 2002-01-11), Jaime Araoz sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jaime-araoz",
+    "name": "Jaime Araoz",
+    "email": "jaime.araoz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-simper",
+  "type": "person",
+  "title": "Keith Simper",
+  "compiled_truth": "Keith Simper is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-02-13), Keith Simper sent 1 and received 11 emails, totalling 12 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1), [Carol Brown](people/carol-brown) (1), [Bert Frazier](people/bert-frazier) (1), [Carmella Jones](people/carmella-jones) (1), [Peggy Mccurley](people/peggy-mccurley) (1).",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-simper",
+    "name": "Keith Simper",
+    "email": "keith.simper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

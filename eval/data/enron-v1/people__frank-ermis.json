@@ -1,0 +1,14 @@
+{
+  "slug": "people/frank-ermis",
+  "type": "person",
+  "title": "Frank Ermis",
+  "compiled_truth": "Frank Ermis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-12 to 2002-05-22), Frank Ermis sent 37 and received 575 emails, totalling 612 interactions. Top correspondents: [Mike Grigsby](people/mike-grigsby) (6), [Jay Reitmeyer](people/jay-reitmeyer) (5), [Laura Pena](people/laura-pena) (2), [Segold](people/segold-hotmail) (2), [Jkho](people/jkho-dynegy) (2). Mailbox folders observed: _sent_mail, deleted_items, sent, sent_items.",
+  "timeline": "- **2000-01-12** | First recorded email in corpus\n- **2002-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frank-ermis",
+    "name": "Frank Ermis",
+    "email": "frank.ermis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

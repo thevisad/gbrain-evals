@@ -1,0 +1,14 @@
+{
+  "slug": "people/ei-editor-platts",
+  "type": "person",
+  "title": "Ei Editor",
+  "compiled_truth": "Ei Editor is an external contact at [Platts](companies/platts). Over the corpus period (2001-11-06 to 2002-01-14), Ei Editor sent 31 and received 0 emails, totalling 31 interactions. Top correspondents: [Einsighthtml](people/einsighthtml-listserv) (18), [Einsighttext](people/einsighttext-listserv) (12), [Einsighthtml](people/einsighthtml-listserv) (1).",
+  "timeline": "- **2001-11-06** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ei-editor-platts",
+    "name": "Ei Editor",
+    "email": "ei_editor@platts.com",
+    "primary_affiliation": "companies/platts"
+  }
+}

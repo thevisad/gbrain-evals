@@ -1,0 +1,14 @@
+{
+  "slug": "people/wendella-rhoads",
+  "type": "person",
+  "title": "Wendella Rhoads",
+  "compiled_truth": "Wendella Rhoads is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-11-08), Wendella Rhoads sent 1 and received 7 emails, totalling 8 interactions. Top correspondents: [Portland Shift](people/portland-shift) (1).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2000-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wendella-rhoads",
+    "name": "Wendella Rhoads",
+    "email": "wendella.rhoads@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/krchoi-sk-enron",
+  "type": "person",
+  "title": "Krchoi",
+  "compiled_truth": "Krchoi is an external contact at [Sk-enron](companies/sk-enron). Over the corpus period (2000-11-10 to 2001-04-19), Krchoi sent 1 and received 1 emails, totalling 2 interactions. Top correspondents: [Chochais](people/chochais-sk-enron) (1), [Dkinder1](people/dkinder1) (1), [Jjyu](people/jjyu-skcorp) (1), [Lee4009](people/lee4009-skcorp) (1), [Ykykim](people/ykykim-skcorp) (1).",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-04-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/krchoi-sk-enron",
+    "name": "Krchoi",
+    "email": "krchoi@sk-enron.com",
+    "primary_affiliation": "companies/sk-enron"
+  }
+}

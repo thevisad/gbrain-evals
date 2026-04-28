@@ -1,0 +1,37 @@
+{
+  "slug": "companies/citicorp",
+  "type": "company",
+  "title": "Citicorp",
+  "compiled_truth": "Citicorp is an external organization that appears in the Enron email corpus. Domain: citicorp.com. Total email interactions with Enron: 336. Known contacts: 20 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (336 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/citicorp",
+    "name": "Citicorp",
+    "employees": [
+      "people/citicard-citicorp",
+      "people/dan-agnew-citicorp",
+      "people/david-lawrence-citicorp",
+      "people/evan-picoult-citicorp",
+      "people/hans-christensen-citicorp",
+      "people/jay-newberry-citicorp",
+      "people/john-emert-citicorp",
+      "people/john-lyons-citicorp",
+      "people/jupiter-citicorp",
+      "people/kosrow-dehnad-citicorp",
+      "people/lisa-herman-citicorp",
+      "people/michael-froehls-citicorp",
+      "people/michael-nepveux-citicorp",
+      "people/quentin-hills-citicorp",
+      "people/shirley-s-elliott-citicorp",
+      "people/stephen-thatcher-citicorp",
+      "people/steve-baillie-citicorp",
+      "people/tricia-bowden-citicorp",
+      "people/victor-menezes-citicorp",
+      "people/william-evans-citicorp"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

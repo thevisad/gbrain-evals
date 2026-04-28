@@ -1,0 +1,14 @@
+{
+  "slug": "people/joana-bekerman",
+  "type": "person",
+  "title": "Joana Bekerman",
+  "compiled_truth": "Joana Bekerman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-17 to 2001-06-07), Joana Bekerman sent 5 and received 19 emails, totalling 24 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (2), [Vince Kaminski](people/vince-kaminski) (1), [Mike McConnell](people/mike-mcconnell) (1), [Brogers2](people/brogers2) (1).",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joana-bekerman",
+    "name": "Joana Bekerman",
+    "email": "joana.bekerman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

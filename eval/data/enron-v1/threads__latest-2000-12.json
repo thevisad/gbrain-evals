@@ -1,0 +1,24 @@
+{
+  "slug": "threads/latest-2000-12",
+  "type": "meeting",
+  "title": "Thread: Latest",
+  "compiled_truth": "Email thread: \"Latest\". Ran from 2000-12-04 to 2000-12-19 with 10 messages. Participants: [Benjamin Rogers](people/benjamin-rogers), [Charles](people/charles-capstoneenergy), [Chris](people/chris-capstoneenergy), [David Delainey](people/david-delainey), [J Martin](people/j-martin-baylor), [Joe Kishkill](people/joe-kishkill), [Rsiddiqi](people/rsiddiqi-capstoneenergy), [Vince Kaminski](people/vince-kaminski).",
+  "timeline": "- **2000-12-04** | Thread begins: latest\n- **2000-12-19** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/latest-2000-12",
+    "attendees": [
+      "people/benjamin-rogers",
+      "people/charles-capstoneenergy",
+      "people/chris-capstoneenergy",
+      "people/david-delainey",
+      "people/j-martin-baylor",
+      "people/joe-kishkill",
+      "people/rsiddiqi-capstoneenergy",
+      "people/vince-kaminski",
+      "people/vkamins",
+      "people/vkaminski-aol"
+    ],
+    "date": "2000-12-04"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/beth-cherry-enform",
+  "type": "person",
+  "title": "Beth Cherry",
+  "compiled_truth": "Beth Cherry is an external contact at [Enform](companies/enform). Over the corpus period (2000-11-28 to 2001-11-27), Beth Cherry sent 166 and received 42 emails, totalling 208 interactions. Top correspondents: [Jason Wolfe](people/jason-wolfe) (162), [ Guidroz](people/guidroz) (10), [ Josh](people/josh) (10), [ Jondawonda](people/jondawonda) (9), [ Zeke](people/zeke) (8).",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beth-cherry-enform",
+    "name": "Beth Cherry",
+    "email": "beth.cherry@enform.com",
+    "primary_affiliation": "companies/enform"
+  }
+}

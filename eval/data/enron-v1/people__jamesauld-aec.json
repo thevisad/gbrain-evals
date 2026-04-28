@@ -1,0 +1,14 @@
+{
+  "slug": "people/jamesauld-aec",
+  "type": "person",
+  "title": "Jamesauld",
+  "compiled_truth": "Jamesauld is an external contact at [Aec](companies/aec). Over the corpus period (1999-11-22 to 2001-07-31), Jamesauld sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jamesauld-aec",
+    "name": "Jamesauld",
+    "email": "jamesauld@aec.ca",
+    "primary_affiliation": "companies/aec"
+  }
+}

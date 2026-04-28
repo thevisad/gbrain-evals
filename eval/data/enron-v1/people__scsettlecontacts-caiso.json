@@ -1,0 +1,14 @@
+{
+  "slug": "people/scsettlecontacts-caiso",
+  "type": "person",
+  "title": "Scsettlecontacts",
+  "compiled_truth": "Scsettlecontacts is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-06-15 to 2002-02-05), Scsettlecontacts sent 0 and received 64 emails, totalling 64 interactions.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scsettlecontacts-caiso",
+    "name": "Scsettlecontacts",
+    "email": "scsettlecontacts@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

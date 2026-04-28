@@ -1,0 +1,14 @@
+{
+  "slug": "people/sylvia-pollan",
+  "type": "person",
+  "title": "Sylvia Pollan",
+  "compiled_truth": "Sylvia Pollan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-06-11), Sylvia Pollan sent 1 and received 320 emails, totalling 321 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (1).",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sylvia-pollan",
+    "name": "Sylvia Pollan",
+    "email": "sylvia.pollan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

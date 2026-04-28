@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-king",
+  "type": "person",
+  "title": "Jeff King",
+  "compiled_truth": "Jeff King is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-18 to 2002-09-23), Jeff King sent 29 and received 606 emails, totalling 635 interactions. Top correspondents: [Doug Gilbert-Smith](people/doug-gilbert-smith) (4), [Dbartley](people/dbartley-o2wireless) (4), [Don Baughman](people/don-baughman) (2), [Paul Schiavone](people/paul-schiavone) (2), [Joe Quenet](people/joe-quenet) (2). Mailbox folders observed: _sent_mail, calendar, deleted_items, inbox, sent, sent_items.",
+  "timeline": "- **2000-04-18** | First recorded email in corpus\n- **2002-09-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-king",
+    "name": "Jeff King",
+    "email": "jeff.king@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

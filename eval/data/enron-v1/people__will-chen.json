@@ -1,0 +1,14 @@
+{
+  "slug": "people/will-chen",
+  "type": "person",
+  "title": "Will Chen",
+  "compiled_truth": "Will Chen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-11-30), Will Chen sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/will-chen",
+    "name": "Will Chen",
+    "email": "will.chen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

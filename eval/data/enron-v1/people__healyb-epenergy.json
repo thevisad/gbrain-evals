@@ -1,0 +1,14 @@
+{
+  "slug": "people/healyb-epenergy",
+  "type": "person",
+  "title": "Healyb",
+  "compiled_truth": "Healyb is an external contact at [Epenergy](companies/epenergy). Over the corpus period (1999-10-04 to 2002-01-10), Healyb sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/healyb-epenergy",
+    "name": "Healyb",
+    "email": "healyb@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

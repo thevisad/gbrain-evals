@@ -1,0 +1,14 @@
+{
+  "slug": "people/allan-ford",
+  "type": "person",
+  "title": "Allan Ford",
+  "compiled_truth": "Allan Ford is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-25 to 2001-10-12), Allan Ford sent 0 and received 37 emails, totalling 37 interactions.",
+  "timeline": "- **2000-01-25** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/allan-ford",
+    "name": "Allan Ford",
+    "email": "allan.ford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

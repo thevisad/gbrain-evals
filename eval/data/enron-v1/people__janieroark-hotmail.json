@@ -1,0 +1,14 @@
+{
+  "slug": "people/janieroark-hotmail",
+  "type": "person",
+  "title": "Janieroark",
+  "compiled_truth": "Janieroark is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-02-08 to 2002-01-22), Janieroark sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-02-08** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janieroark-hotmail",
+    "name": "Janieroark",
+    "email": "janieroark@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

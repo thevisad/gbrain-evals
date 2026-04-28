@@ -1,0 +1,14 @@
+{
+  "slug": "people/rosst-sce",
+  "type": "person",
+  "title": "Rosst",
+  "compiled_truth": "Rosst is an external contact at [Sce](companies/sce). Over the corpus period (2000-08-10 to 2001-11-14), Rosst sent 0 and received 48 emails, totalling 48 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rosst-sce",
+    "name": "Rosst",
+    "email": "rosst@sce.com",
+    "primary_affiliation": "companies/sce"
+  }
+}

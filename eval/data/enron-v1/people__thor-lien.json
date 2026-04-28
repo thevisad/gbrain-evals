@@ -1,0 +1,14 @@
+{
+  "slug": "people/thor-lien",
+  "type": "person",
+  "title": "Thor Lien",
+  "compiled_truth": "Thor Lien is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-11-29), Thor Lien sent 4 and received 246 emails, totalling 250 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (3), [Jeffrey Shankman](people/jeffrey-shankman) (3), [Vince Kaminski](people/vince-kaminski) (1), [Brent Price](people/brent-price) (1).",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thor-lien",
+    "name": "Thor Lien",
+    "email": "thor.lien@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

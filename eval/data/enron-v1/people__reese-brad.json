@@ -1,0 +1,14 @@
+{
+  "slug": "people/reese-brad",
+  "type": "person",
+  "title": "Reese Brad",
+  "compiled_truth": "Reese Brad is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-08 to 2001-10-29), Reese Brad sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-10-08** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reese-brad",
+    "name": "Reese Brad",
+    "email": "reese.brad@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

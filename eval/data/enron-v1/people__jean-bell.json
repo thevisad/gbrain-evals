@@ -1,0 +1,14 @@
+{
+  "slug": "people/jean-bell",
+  "type": "person",
+  "title": "Jean Bell",
+  "compiled_truth": "Jean Bell is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2002-05-13), Jean Bell sent 3 and received 204 emails, totalling 207 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (2), [Jason Wolfe](people/jason-wolfe) (1), [Janie Aguayo](people/janie-aguayo) (1).",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jean-bell",
+    "name": "Jean Bell",
+    "email": "jean.bell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

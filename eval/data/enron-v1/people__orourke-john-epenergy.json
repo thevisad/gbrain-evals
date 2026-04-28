@@ -1,0 +1,14 @@
+{
+  "slug": "people/orourke-john-epenergy",
+  "type": "person",
+  "title": "Orourke John",
+  "compiled_truth": "Orourke John is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2001-01-25 to 2001-03-29), Orourke John sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-01-25** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/orourke-john-epenergy",
+    "name": "Orourke John",
+    "email": "orourke.john@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

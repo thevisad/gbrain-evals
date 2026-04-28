@@ -1,0 +1,14 @@
+{
+  "slug": "people/pjoskow-mit",
+  "type": "person",
+  "title": "Pjoskow",
+  "compiled_truth": "Pjoskow is an external contact at [Mit](companies/mit). Over the corpus period (2001-01-24 to 2001-10-18), Pjoskow sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (1).",
+  "timeline": "- **2001-01-24** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pjoskow-mit",
+    "name": "Pjoskow",
+    "email": "pjoskow@mit.edu",
+    "primary_affiliation": "companies/mit"
+  }
+}

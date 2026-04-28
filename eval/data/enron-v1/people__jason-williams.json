@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-williams",
+  "type": "person",
+  "title": "Jason Williams",
+  "compiled_truth": "Jason Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-11), Jason Williams sent 144 and received 528 emails, totalling 672 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (27), [Debra Perlingiere](people/debra-perlingiere) (23), [Demetrion Ware](people/demetrion-ware) (14), [Kim Ward](people/kim-ward) (10), [Sara Shackleton](people/sara-shackleton) (10). Mailbox folders observed: gas_customers___chris_foster, inbox, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-williams",
+    "name": "Jason Williams",
+    "email": "jason.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

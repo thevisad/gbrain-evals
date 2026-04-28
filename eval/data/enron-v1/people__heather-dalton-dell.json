@@ -1,0 +1,14 @@
+{
+  "slug": "people/heather-dalton-dell",
+  "type": "person",
+  "title": "Heather Dalton",
+  "compiled_truth": "Heather Dalton is an external contact at [Dell](companies/dell). Over the corpus period (2000-10-02 to 2000-12-05), Heather Dalton sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-10-02** | First recorded email in corpus\n- **2000-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heather-dalton-dell",
+    "name": "Heather Dalton",
+    "email": "heather_dalton@dell.com",
+    "primary_affiliation": "companies/dell"
+  }
+}

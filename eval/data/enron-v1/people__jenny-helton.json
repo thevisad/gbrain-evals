@@ -1,0 +1,14 @@
+{
+  "slug": "people/jenny-helton",
+  "type": "person",
+  "title": "Jenny Helton",
+  "compiled_truth": "Jenny Helton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-05 to 2001-11-19), Jenny Helton sent 34 and received 298 emails, totalling 332 interactions. Top correspondents: [Mark Haedicke](people/mark-haedicke) (13), [Dan Hyvl](people/dan-hyvl) (11), [Mark Taylor](people/mark-taylor) (11), [Stacy Dickson](people/stacy-dickson) (10), [Alan Aronowitz](people/alan-aronowitz) (9). Mailbox folders observed: sent.",
+  "timeline": "- **1999-01-05** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jenny-helton",
+    "name": "Jenny Helton",
+    "email": "jenny.helton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

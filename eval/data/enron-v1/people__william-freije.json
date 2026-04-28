@@ -1,0 +1,14 @@
+{
+  "slug": "people/william-freije",
+  "type": "person",
+  "title": "William Freije",
+  "compiled_truth": "William Freije is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2001-12-07), William Freije sent 1 and received 102 emails, totalling 103 interactions. Top correspondents: [Jeff King](people/jeff-king) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/william-freije",
+    "name": "William Freije",
+    "email": "william.freije@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

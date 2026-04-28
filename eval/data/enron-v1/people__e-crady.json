@@ -1,0 +1,14 @@
+{
+  "slug": "people/e-crady",
+  "type": "person",
+  "title": "E  Crady",
+  "compiled_truth": "E  Crady is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-15 to 2002-05-06), E  Crady sent 5 and received 65 emails, totalling 70 interactions. Top correspondents: [E  Haedicke](people/e-haedicke) (3), [Rick Buy](people/rick-buy) (2), [Stanley Horton](people/stanley-horton) (1), [Richard Causey](people/richard-causey) (1), [Jim Fallon](people/jim-fallon) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-06-15** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/e-crady",
+    "name": "E  Crady",
+    "email": "e..crady@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

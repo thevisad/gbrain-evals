@@ -1,0 +1,14 @@
+{
+  "slug": "people/fred-mitro",
+  "type": "person",
+  "title": "Fred Mitro",
+  "compiled_truth": "Fred Mitro is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2002-05-06), Fred Mitro sent 55 and received 508 emails, totalling 563 interactions. Top correspondents: [Kay Mann](people/kay-mann) (40), [Ben Jacoby](people/ben-jacoby) (35), [Rusty Stevens](people/rusty-stevens) (11), [Chris Booth](people/chris-booth) (8), [Sheila Tweed](people/sheila-tweed) (7). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fred-mitro",
+    "name": "Fred Mitro",
+    "email": "fred.mitro@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

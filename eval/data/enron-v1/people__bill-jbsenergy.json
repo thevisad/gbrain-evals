@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-jbsenergy",
+  "type": "person",
+  "title": "Bill",
+  "compiled_truth": "Bill is an external contact at [Jbsenergy](companies/jbsenergy). Over the corpus period (2000-11-09 to 2001-06-21), Bill sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2001-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-jbsenergy",
+    "name": "Bill",
+    "email": "bill@jbsenergy.com",
+    "primary_affiliation": "companies/jbsenergy"
+  }
+}

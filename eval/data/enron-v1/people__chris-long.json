@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-long",
+  "type": "person",
+  "title": "Chris Long",
+  "compiled_truth": "Chris Long is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-23 to 2002-01-11), Chris Long sent 62 and received 467 emails, totalling 529 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (36), [Linda Robertson](people/linda-robertson) (33), [Lisa Yoho](people/lisa-yoho) (25), [Steven Kean](people/steven-kean) (18), [Larry Decker](people/larry-decker) (15). Mailbox folders observed: aadepartment, cftc, deleted_items, federal_legis_, retail_markets, sec.",
+  "timeline": "- **1999-09-23** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-long",
+    "name": "Chris Long",
+    "email": "chris.long@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

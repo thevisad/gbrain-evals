@@ -1,0 +1,14 @@
+{
+  "slug": "people/tlenhart-corealty",
+  "type": "person",
+  "title": "Tlenhart",
+  "compiled_truth": "Tlenhart is an external contact at [Corealty](companies/corealty). Over the corpus period (2000-06-06 to 2001-11-19), Tlenhart sent 8 and received 292 emails, totalling 300 interactions. Top correspondents: [Matthew Lenhart](people/matthew-lenhart) (8).",
+  "timeline": "- **2000-06-06** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tlenhart-corealty",
+    "name": "Tlenhart",
+    "email": "tlenhart@corealty.com",
+    "primary_affiliation": "companies/corealty"
+  }
+}

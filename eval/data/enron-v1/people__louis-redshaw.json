@@ -1,0 +1,14 @@
+{
+  "slug": "people/louis-redshaw",
+  "type": "person",
+  "title": "Louis Redshaw",
+  "compiled_truth": "Louis Redshaw is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-15 to 2001-11-08), Louis Redshaw sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **2000-09-15** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/louis-redshaw",
+    "name": "Louis Redshaw",
+    "email": "louis.redshaw@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

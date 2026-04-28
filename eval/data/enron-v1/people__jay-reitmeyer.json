@@ -1,0 +1,14 @@
+{
+  "slug": "people/jay-reitmeyer",
+  "type": "person",
+  "title": "Jay Reitmeyer",
+  "compiled_truth": "Jay Reitmeyer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2002-02-21), Jay Reitmeyer sent 73 and received 607 emails, totalling 680 interactions. Top correspondents: [Jennsreit](people/jennsreit-houston) (12), [Frank Ermis](people/frank-ermis) (11), [Mike Grigsby](people/mike-grigsby) (11), [Shelly Mendel](people/shelly-mendel) (5), [Keith Holst](people/keith-holst) (4). Mailbox folders observed: deleted_items, inbox, old_inbox, sent_items.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jay-reitmeyer",
+    "name": "Jay Reitmeyer",
+    "email": "jay.reitmeyer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

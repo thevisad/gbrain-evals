@@ -1,0 +1,14 @@
+{
+  "slug": "people/alisha-nathoo",
+  "type": "person",
+  "title": "Alisha Nathoo",
+  "compiled_truth": "Alisha Nathoo is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-29 to 2001-08-17), Alisha Nathoo sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-05-29** | First recorded email in corpus\n- **2001-08-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alisha-nathoo",
+    "name": "Alisha Nathoo",
+    "email": "alisha.nathoo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

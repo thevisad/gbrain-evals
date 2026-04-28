@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-davis",
+  "type": "person",
+  "title": "Mark Davis",
+  "compiled_truth": "Mark Davis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-21 to 2002-01-15), Mark Davis sent 3 and received 203 emails, totalling 206 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (3).",
+  "timeline": "- **2000-03-21** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-davis",
+    "name": "Mark Davis",
+    "email": "mark.davis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

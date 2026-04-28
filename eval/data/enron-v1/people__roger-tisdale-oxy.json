@@ -1,0 +1,14 @@
+{
+  "slug": "people/roger-tisdale-oxy",
+  "type": "person",
+  "title": "Roger Tisdale",
+  "compiled_truth": "Roger Tisdale is an external contact at [Oxy](companies/oxy). Over the corpus period (1999-10-04 to 2001-07-31), Roger Tisdale sent 0 and received 58 emails, totalling 58 interactions.",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roger-tisdale-oxy",
+    "name": "Roger Tisdale",
+    "email": "roger_tisdale@oxy.com",
+    "primary_affiliation": "companies/oxy"
+  }
+}

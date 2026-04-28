@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-gomez",
+  "type": "person",
+  "title": "A  Gomez",
+  "compiled_truth": "A  Gomez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-16 to 2002-05-14), A  Gomez sent 7 and received 125 emails, totalling 132 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (5), [F  Brawner](people/f-brawner) (1), [J  Yanowski](people/j-yanowski) (1), [Jim Schwieger](people/jim-schwieger) (1). Mailbox folders observed: _americas, inbox, personal.",
+  "timeline": "- **2001-04-16** | First recorded email in corpus\n- **2002-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-gomez",
+    "name": "A  Gomez",
+    "email": "a..gomez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

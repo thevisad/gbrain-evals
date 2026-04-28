@@ -1,0 +1,26 @@
+{
+  "slug": "threads/hello-2001-06",
+  "type": "meeting",
+  "title": "Thread: Hello",
+  "compiled_truth": "Email thread: \"Hello\". Ran from 2001-06-27 to 2001-07-24 with 8 messages. Participants: [A  Shankman](people/a-shankman), [Celeahy](people/celeahy-hotmail), [Chris Stokley](people/chris-stokley), [Louise Kitchen](people/louise-kitchen), [Lynn Blair](people/lynn-blair), [M  Scott](people/m-scott), [Monica Lande](people/monica-lande), [Monique Sanchez](people/monique-sanchez).",
+  "timeline": "- **2001-06-27** | Thread begins: hello\n- **2001-07-24** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/hello-2001-06",
+    "attendees": [
+      "people/a-shankman",
+      "people/celeahy-hotmail",
+      "people/chris-stokley",
+      "people/louise-kitchen",
+      "people/lynn-blair",
+      "people/m-scott",
+      "people/monica-lande",
+      "people/monique-sanchez",
+      "people/peter-crilly",
+      "people/s-britell-hotmail",
+      "people/sally-beck",
+      "people/sheila-nacey"
+    ],
+    "date": "2001-06-27"
+  }
+}

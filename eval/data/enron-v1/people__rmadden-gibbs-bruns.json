@@ -1,0 +1,14 @@
+{
+  "slug": "people/rmadden-gibbs-bruns",
+  "type": "person",
+  "title": "Rmadden",
+  "compiled_truth": "Rmadden is an external contact at [Gibbs-bruns](companies/gibbs-bruns). Over the corpus period (1999-07-09 to 2000-11-28), Rmadden sent 2 and received 26 emails, totalling 28 interactions. Top correspondents: [Richard B Sanders](people/richard-b-sanders) (2).",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2000-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rmadden-gibbs-bruns",
+    "name": "Rmadden",
+    "email": "rmadden@gibbs-bruns.com",
+    "primary_affiliation": "companies/gibbs-bruns"
+  }
+}

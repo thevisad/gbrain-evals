@@ -1,0 +1,14 @@
+{
+  "slug": "people/anthony-rimoldi",
+  "type": "person",
+  "title": "Anthony Rimoldi",
+  "compiled_truth": "Anthony Rimoldi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-18 to 2002-05-06), Anthony Rimoldi sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-08-18** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anthony-rimoldi",
+    "name": "Anthony Rimoldi",
+    "email": "anthony.rimoldi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

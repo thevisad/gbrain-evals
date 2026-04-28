@@ -1,0 +1,14 @@
+{
+  "slug": "people/hawkins-2000energy",
+  "type": "person",
+  "title": "Hawkins",
+  "compiled_truth": "Hawkins is an external contact at [2000energy](companies/2000energy). Over the corpus period (2000-09-01 to 2001-03-29), Hawkins sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hawkins-2000energy",
+    "name": "Hawkins",
+    "email": "hawkins@2000energy.com",
+    "primary_affiliation": "companies/2000energy"
+  }
+}

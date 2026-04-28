@@ -1,0 +1,38 @@
+{
+  "slug": "companies/pcenergy",
+  "type": "company",
+  "title": "Pcenergy",
+  "compiled_truth": "Pcenergy is an external organization that appears in the Enron email corpus. Domain: pcenergy.com. Total email interactions with Enron: 347. Known contacts: 21 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (347 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/pcenergy",
+    "name": "Pcenergy",
+    "employees": [
+      "people/bconner-pcenergy",
+      "people/bdahncke-pcenergy",
+      "people/bwallace-pcenergy",
+      "people/bwittmeyer-pcenergy",
+      "people/dcooper-pcenergy",
+      "people/ddees-pcenergy",
+      "people/jarvis-pcenergy",
+      "people/jcattermole-pcenergy",
+      "people/jjarvis-pcenergy",
+      "people/jmccord-pcenergy",
+      "people/jphillips-pcenergy",
+      "people/kcarsten-pcenergy",
+      "people/kjohnson-pcenergy",
+      "people/kwhite-pcenergy",
+      "people/mkerbow-pcenergy",
+      "people/pdamico-pcenergy",
+      "people/rshiring-pcenergy",
+      "people/rtucker-pcenergy",
+      "people/tclark-pcenergy",
+      "people/tgary-pcenergy",
+      "people/tlathrop-pcenergy"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

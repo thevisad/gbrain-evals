@@ -1,0 +1,14 @@
+{
+  "slug": "people/fatum-harry",
+  "type": "person",
+  "title": "Fatum Harry",
+  "compiled_truth": "Fatum Harry is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-12-10 to 2001-12-10), Fatum Harry sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-12-10** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fatum-harry",
+    "name": "Fatum Harry",
+    "email": "fatum.harry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

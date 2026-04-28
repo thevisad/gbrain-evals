@@ -1,0 +1,21 @@
+{
+  "slug": "threads/trip-to-houston-2001-02",
+  "type": "meeting",
+  "title": "Thread: Trip To Houston",
+  "compiled_truth": "Email thread: \"Trip To Houston\". Ran from 2001-02-20 to 2001-03-20 with 14 messages. Participants: [Andrew Fairley](people/andrew-fairley), [Brent Hendry](people/brent-hendry), [John Arnold](people/john-arnold), [John Shoobridge](people/john-shoobridge), [Mark Taylor](people/mark-taylor), [Sami Arap](people/sami-arap), [Scott Neal](people/scott-neal).",
+  "timeline": "- **2001-02-20** | Thread begins: trip to houston\n- **2001-03-20** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/trip-to-houston-2001-02",
+    "attendees": [
+      "people/andrew-fairley",
+      "people/brent-hendry",
+      "people/john-arnold",
+      "people/john-shoobridge",
+      "people/mark-taylor",
+      "people/sami-arap",
+      "people/scott-neal"
+    ],
+    "date": "2001-02-20"
+  }
+}

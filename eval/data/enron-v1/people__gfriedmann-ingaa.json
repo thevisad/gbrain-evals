@@ -1,0 +1,14 @@
+{
+  "slug": "people/gfriedmann-ingaa",
+  "type": "person",
+  "title": "Gfriedmann",
+  "compiled_truth": "Gfriedmann is an external contact at [Ingaa](companies/ingaa). Over the corpus period (2000-08-11 to 2001-12-18), Gfriedmann sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-08-11** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gfriedmann-ingaa",
+    "name": "Gfriedmann",
+    "email": "gfriedmann@ingaa.org",
+    "primary_affiliation": "companies/ingaa"
+  }
+}

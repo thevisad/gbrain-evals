@@ -1,0 +1,14 @@
+{
+  "slug": "people/gloria-barkowsky",
+  "type": "person",
+  "title": "Gloria Barkowsky",
+  "compiled_truth": "Gloria Barkowsky is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-08-23), Gloria Barkowsky sent 5 and received 111 emails, totalling 116 interactions. Top correspondents: [Mary Franklin](people/mary-franklin) (3), [Chris Germany](people/chris-germany) (3), [Brenda Fletcher](people/brenda-fletcher) (1), [Sjohn](people/sjohn-esc17) (1), [Cynthia Allen](people/cynthia-allen-roundrockisd) (1). Mailbox folders observed: to_do_list.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-08-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gloria-barkowsky",
+    "name": "Gloria Barkowsky",
+    "email": "gloria.barkowsky@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

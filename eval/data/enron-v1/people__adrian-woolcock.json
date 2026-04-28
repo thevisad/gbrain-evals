@@ -1,0 +1,14 @@
+{
+  "slug": "people/adrian-woolcock",
+  "type": "person",
+  "title": "Adrian Woolcock",
+  "compiled_truth": "Adrian Woolcock is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-30), Adrian Woolcock sent 2 and received 26 emails, totalling 28 interactions. Top correspondents: [Brad Morse](people/brad-morse) (1), [ Bill](people/bill) (1), [Chaun Roberts](people/chaun-roberts) (1), [Corry Bentley](people/corry-bentley) (1), [ Dana](people/dana) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adrian-woolcock",
+    "name": "Adrian Woolcock",
+    "email": "adrian.woolcock@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

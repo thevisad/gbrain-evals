@@ -1,0 +1,14 @@
+{
+  "slug": "people/kpeterso-epelectric",
+  "type": "person",
+  "title": "Kpeterso",
+  "compiled_truth": "Kpeterso is an external contact at [El Paso Energy](companies/el-paso). Over the corpus period (2000-11-29 to 2002-04-09), Kpeterso sent 20 and received 18 emails, totalling 38 interactions. Top correspondents: [Bill Williams Iii](people/bill-williams-iii) (7), [Bill Williams](people/bill-williams) (5), [Lisa Gang](people/lisa-gang) (4), [Mark Guzman](people/mark-guzman) (1), [Holden Salisbury](people/holden-salisbury) (1).",
+  "timeline": "- **2000-11-29** | First recorded email in corpus\n- **2002-04-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kpeterso-epelectric",
+    "name": "Kpeterso",
+    "email": "kpeterso@epelectric.com",
+    "primary_affiliation": "companies/el-paso"
+  }
+}

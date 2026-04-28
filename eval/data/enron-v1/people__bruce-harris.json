@@ -1,0 +1,14 @@
+{
+  "slug": "people/bruce-harris",
+  "type": "person",
+  "title": "Bruce Harris",
+  "compiled_truth": "Bruce Harris is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-17 to 2001-10-15), Bruce Harris sent 13 and received 88 emails, totalling 101 interactions. Top correspondents: [Tana Jones](people/tana-jones) (6), [Robert George](people/robert-george) (5), [Sara Shackleton](people/sara-shackleton) (5), [Nancy Muchmore](people/nancy-muchmore) (3), [Pedro Oliveira](people/pedro-oliveira) (2).",
+  "timeline": "- **1999-09-17** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bruce-harris",
+    "name": "Bruce Harris",
+    "email": "bruce.harris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

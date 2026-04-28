@@ -1,0 +1,14 @@
+{
+  "slug": "people/vasile-mary",
+  "type": "person",
+  "title": "Vasile Mary",
+  "compiled_truth": "Vasile Mary is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-16 to 2002-01-16), Vasile Mary sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vasile-mary",
+    "name": "Vasile Mary",
+    "email": "vasile.mary@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-grest",
+  "type": "person",
+  "title": "Eric Grest",
+  "compiled_truth": "Eric Grest is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-23 to 2001-03-01), Eric Grest sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-03-23** | First recorded email in corpus\n- **2001-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-grest",
+    "name": "Eric Grest",
+    "email": "eric.grest@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

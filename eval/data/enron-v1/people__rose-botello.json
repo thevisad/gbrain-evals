@@ -1,0 +1,14 @@
+{
+  "slug": "people/rose-botello",
+  "type": "person",
+  "title": "Rose Botello",
+  "compiled_truth": "Rose Botello is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-06-21), Rose Botello sent 0 and received 81 emails, totalling 81 interactions.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rose-botello",
+    "name": "Rose Botello",
+    "email": "rose.botello@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

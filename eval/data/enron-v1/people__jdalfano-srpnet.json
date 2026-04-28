@@ -1,0 +1,14 @@
+{
+  "slug": "people/jdalfano-srpnet",
+  "type": "person",
+  "title": "Jdalfano",
+  "compiled_truth": "Jdalfano is an external contact at [Srpnet](companies/srpnet). Over the corpus period (2001-02-02 to 2001-02-15), Jdalfano sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2001-02-02** | First recorded email in corpus\n- **2001-02-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jdalfano-srpnet",
+    "name": "Jdalfano",
+    "email": "jdalfano@srpnet.com",
+    "primary_affiliation": "companies/srpnet"
+  }
+}

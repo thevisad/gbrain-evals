@@ -1,0 +1,14 @@
+{
+  "slug": "people/wsakarias-sdge",
+  "type": "person",
+  "title": "Wsakarias",
+  "compiled_truth": "Wsakarias is an external contact at [Sdge](companies/sdge). Over the corpus period (2000-03-30 to 2000-07-31), Wsakarias sent 0 and received 71 emails, totalling 71 interactions.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2000-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wsakarias-sdge",
+    "name": "Wsakarias",
+    "email": "wsakarias@sdge.com",
+    "primary_affiliation": "companies/sdge"
+  }
+}

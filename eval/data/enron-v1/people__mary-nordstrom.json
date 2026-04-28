@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-nordstrom",
+  "type": "person",
+  "title": "Mary Nordstrom",
+  "compiled_truth": "Mary Nordstrom is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-23 to 2002-02-06), Mary Nordstrom sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **2001-03-23** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-nordstrom",
+    "name": "Mary Nordstrom",
+    "email": "mary.nordstrom@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

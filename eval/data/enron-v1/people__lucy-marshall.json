@@ -1,0 +1,14 @@
+{
+  "slug": "people/lucy-marshall",
+  "type": "person",
+  "title": "Lucy Marshall",
+  "compiled_truth": "Lucy Marshall is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2002-03-29), Lucy Marshall sent 12 and received 203 emails, totalling 215 interactions. Top correspondents: [Dan Leff](people/dan-leff) (4), [Gary Hickerson](people/gary-hickerson) (4), [Rodney Malcolm](people/rodney-malcolm) (4), [A  Hughes](people/a-hughes) (4), [Rich Dimichele](people/rich-dimichele) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lucy-marshall",
+    "name": "Lucy Marshall",
+    "email": "lucy.marshall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

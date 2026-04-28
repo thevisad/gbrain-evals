@@ -1,0 +1,18 @@
+{
+  "slug": "companies/corealty",
+  "type": "company",
+  "title": "Corealty",
+  "compiled_truth": "Corealty is an external organization that appears in the Enron email corpus. Domain: corealty.com. Total email interactions with Enron: 300. Known contacts: 1 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (300 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/corealty",
+    "name": "Corealty",
+    "employees": [
+      "people/tlenhart-corealty"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

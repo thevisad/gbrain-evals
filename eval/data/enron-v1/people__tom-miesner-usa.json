@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-miesner-usa",
+  "type": "person",
+  "title": "Tom Miesner",
+  "compiled_truth": "Tom Miesner is an external contact at [Usa](companies/usa). Over the corpus period (2001-11-20 to 2001-12-18), Tom Miesner sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-11-20** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-miesner-usa",
+    "name": "Tom Miesner",
+    "email": "tom.miesner@usa.conoco.com",
+    "primary_affiliation": "companies/usa"
+  }
+}

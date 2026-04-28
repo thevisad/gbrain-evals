@@ -1,0 +1,14 @@
+{
+  "slug": "people/dstowers-watersinfo",
+  "type": "person",
+  "title": "Dstowers",
+  "compiled_truth": "Dstowers is an external contact at [Watersinfo](companies/watersinfo). Over the corpus period (2000-05-18 to 2000-09-18), Dstowers sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dstowers-watersinfo",
+    "name": "Dstowers",
+    "email": "dstowers@watersinfo.com",
+    "primary_affiliation": "companies/watersinfo"
+  }
+}

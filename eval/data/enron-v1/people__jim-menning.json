@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-menning",
+  "type": "person",
+  "title": "Jim Menning",
+  "compiled_truth": "Jim Menning is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-14 to 2001-05-08), Jim Menning sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-03-14** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-menning",
+    "name": "Jim Menning",
+    "email": "jim.menning@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

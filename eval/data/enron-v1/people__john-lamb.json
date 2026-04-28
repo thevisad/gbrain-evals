@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-lamb",
+  "type": "person",
+  "title": "John Lamb",
+  "compiled_truth": "John Lamb is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-02 to 2002-05-14), John Lamb sent 2 and received 32 emails, totalling 34 interactions. Top correspondents: [Mike Curry](people/mike-curry) (1), [Louise Kitchen](people/louise-kitchen) (1), [A  Lindholm](people/a-lindholm) (1), [Michael Payne](people/michael-payne) (1), [David Mitchell](people/david-mitchell) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-05-02** | First recorded email in corpus\n- **2002-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-lamb",
+    "name": "John Lamb",
+    "email": "john.lamb@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

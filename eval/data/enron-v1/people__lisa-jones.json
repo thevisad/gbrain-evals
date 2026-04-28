@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-jones",
+  "type": "person",
+  "title": "Lisa Jones",
+  "compiled_truth": "Lisa Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-03), Lisa Jones sent 3 and received 31 emails, totalling 34 interactions. Top correspondents: [Nadeem Abdullah](people/nadeem-abdullah) (2), [Vikram Abhyankar](people/vikram-abhyankar) (2), [Erica Adams](people/erica-adams) (2), [David Adams](people/david-adams) (2), [John Addison](people/john-addison) (2). Mailbox folders observed: bill_williams_iii, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-jones",
+    "name": "Lisa Jones",
+    "email": "lisa.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

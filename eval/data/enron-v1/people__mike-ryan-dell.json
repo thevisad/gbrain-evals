@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-ryan-dell",
+  "type": "person",
+  "title": "Mike Ryan",
+  "compiled_truth": "Mike Ryan is an external contact at [Dell](companies/dell). Over the corpus period (2001-03-02 to 2001-04-30), Mike Ryan sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-03-02** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-ryan-dell",
+    "name": "Mike Ryan",
+    "email": "mike_ryan@dell.com",
+    "primary_affiliation": "companies/dell"
+  }
+}

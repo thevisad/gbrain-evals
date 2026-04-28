@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-case",
+  "type": "person",
+  "title": "David Case",
+  "compiled_truth": "David Case is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-11-30), David Case sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-case",
+    "name": "David Case",
+    "email": "david.case@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

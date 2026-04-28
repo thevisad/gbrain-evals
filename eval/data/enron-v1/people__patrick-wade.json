@@ -1,0 +1,14 @@
+{
+  "slug": "people/patrick-wade",
+  "type": "person",
+  "title": "Patrick Wade",
+  "compiled_truth": "Patrick Wade is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-03-08), Patrick Wade sent 2 and received 89 emails, totalling 91 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (2), [Wes Colwell](people/wes-colwell) (1), [Anne Koehler](people/anne-koehler) (1), [Barbara Gray](people/barbara-gray) (1), [James Ducote](people/james-ducote) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patrick-wade",
+    "name": "Patrick Wade",
+    "email": "patrick.wade@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

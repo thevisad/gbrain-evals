@@ -1,0 +1,14 @@
+{
+  "slug": "people/perla-montemayor",
+  "type": "person",
+  "title": "Perla Montemayor",
+  "compiled_truth": "Perla Montemayor is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-27 to 2001-10-26), Perla Montemayor sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-09-27** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/perla-montemayor",
+    "name": "Perla Montemayor",
+    "email": "perla.montemayor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

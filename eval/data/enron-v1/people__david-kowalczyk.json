@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-kowalczyk",
+  "type": "person",
+  "title": "David Kowalczyk",
+  "compiled_truth": "David Kowalczyk is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-09-24), David Kowalczyk sent 1 and received 7 emails, totalling 8 interactions. Top correspondents: [John Griffith](people/john-griffith) (1), [Ina Rangel](people/ina-rangel) (1).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-kowalczyk",
+    "name": "David Kowalczyk",
+    "email": "david.kowalczyk@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

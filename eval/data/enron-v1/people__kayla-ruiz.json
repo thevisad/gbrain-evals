@@ -1,0 +1,14 @@
+{
+  "slug": "people/kayla-ruiz",
+  "type": "person",
+  "title": "Kayla Ruiz",
+  "compiled_truth": "Kayla Ruiz is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-03), Kayla Ruiz sent 3 and received 25 emails, totalling 28 interactions. Top correspondents: [Jim Prentice](people/jim-prentice) (2), [Cindy Olson](people/cindy-olson) (2), [Rod Hayslett](people/rod-hayslett) (2), [A  Lindholm](people/a-lindholm) (2), [A  Knudsen](people/a-knudsen) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kayla-ruiz",
+    "name": "Kayla Ruiz",
+    "email": "kayla.ruiz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

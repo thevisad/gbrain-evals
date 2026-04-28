@@ -1,0 +1,14 @@
+{
+  "slug": "people/debbie-nowak",
+  "type": "person",
+  "title": "Debbie Nowak",
+  "compiled_truth": "Debbie Nowak is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2001-12-03), Debbie Nowak sent 5 and received 18 emails, totalling 23 interactions. Top correspondents: [David Gorte](people/david-gorte) (3), [Jeffrey Hodge](people/jeffrey-hodge) (3), [Mary Miller](people/mary-miller) (3), [Brian Schaffer](people/brian-schaffer) (2), [William Bradford](people/william-bradford) (2). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debbie-nowak",
+    "name": "Debbie Nowak",
+    "email": "debbie.nowak@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

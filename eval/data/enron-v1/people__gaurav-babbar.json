@@ -1,0 +1,14 @@
+{
+  "slug": "people/gaurav-babbar",
+  "type": "person",
+  "title": "Gaurav Babbar",
+  "compiled_truth": "Gaurav Babbar is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-10-12), Gaurav Babbar sent 2 and received 71 emails, totalling 73 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (2).",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gaurav-babbar",
+    "name": "Gaurav Babbar",
+    "email": "gaurav.babbar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

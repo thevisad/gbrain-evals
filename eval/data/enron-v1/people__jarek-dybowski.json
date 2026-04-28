@@ -1,0 +1,14 @@
+{
+  "slug": "people/jarek-dybowski",
+  "type": "person",
+  "title": "Jarek Dybowski",
+  "compiled_truth": "Jarek Dybowski is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-24 to 2001-10-23), Jarek Dybowski sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1).",
+  "timeline": "- **2000-02-24** | First recorded email in corpus\n- **2001-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jarek-dybowski",
+    "name": "Jarek Dybowski",
+    "email": "jarek.dybowski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

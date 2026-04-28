@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-wilson",
+  "type": "person",
+  "title": "Mark Wilson",
+  "compiled_truth": "Mark Wilson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-10-15), Mark Wilson sent 2 and received 12 emails, totalling 14 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (2), [William Bradford](people/william-bradford) (2), [Vasant Shanbhogue](people/vasant-shanbhogue) (1), [Rabi De](people/rabi-de) (1), [Amitava Dhar](people/amitava-dhar) (1).",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-wilson",
+    "name": "Mark Wilson",
+    "email": "mark.wilson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

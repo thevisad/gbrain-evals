@@ -1,0 +1,14 @@
+{
+  "slug": "people/brad-miller",
+  "type": "person",
+  "title": "Brad Miller",
+  "compiled_truth": "Brad Miller is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-26 to 2001-10-25), Brad Miller sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-02-26** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brad-miller",
+    "name": "Brad Miller",
+    "email": "brad.miller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

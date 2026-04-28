@@ -1,0 +1,14 @@
+{
+  "slug": "people/boardwalk-iquest",
+  "type": "person",
+  "title": "Boardwalk",
+  "compiled_truth": "Boardwalk is an external contact at [Iquest](companies/iquest). Over the corpus period (2000-09-04 to 2000-11-18), Boardwalk sent 1 and received 54 emails, totalling 55 interactions. Top correspondents: [Jskilli](people/jskilli) (1).",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2000-11-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/boardwalk-iquest",
+    "name": "Boardwalk",
+    "email": "boardwalk@iquest.net",
+    "primary_affiliation": "companies/iquest"
+  }
+}

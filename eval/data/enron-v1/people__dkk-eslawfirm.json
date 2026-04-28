@@ -1,0 +1,14 @@
+{
+  "slug": "people/dkk-eslawfirm",
+  "type": "person",
+  "title": "Dkk",
+  "compiled_truth": "Dkk is an external contact at [Eslawfirm](companies/eslawfirm). Over the corpus period (2000-09-11 to 2001-11-20), Dkk sent 0 and received 175 emails, totalling 175 interactions.",
+  "timeline": "- **2000-09-11** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dkk-eslawfirm",
+    "name": "Dkk",
+    "email": "dkk@eslawfirm.com",
+    "primary_affiliation": "companies/eslawfirm"
+  }
+}

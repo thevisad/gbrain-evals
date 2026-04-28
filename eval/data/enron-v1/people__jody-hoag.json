@@ -1,0 +1,14 @@
+{
+  "slug": "people/jody-hoag",
+  "type": "person",
+  "title": "Jody Hoag",
+  "compiled_truth": "Jody Hoag is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-28 to 2002-01-30), Jody Hoag sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-09-28** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jody-hoag",
+    "name": "Jody Hoag",
+    "email": "jody.hoag@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

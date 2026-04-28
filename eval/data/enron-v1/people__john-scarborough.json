@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-scarborough",
+  "type": "person",
+  "title": "John Scarborough",
+  "compiled_truth": "John Scarborough is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-02 to 2001-10-12), John Scarborough sent 0 and received 72 emails, totalling 72 interactions.",
+  "timeline": "- **1999-12-02** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-scarborough",
+    "name": "John Scarborough",
+    "email": "john.scarborough@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

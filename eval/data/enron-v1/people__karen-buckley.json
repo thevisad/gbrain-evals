@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-buckley",
+  "type": "person",
+  "title": "Karen Buckley",
+  "compiled_truth": "Karen Buckley is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-22 to 2002-03-01), Karen Buckley sent 152 and received 187 emails, totalling 339 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (36), [Scott Neal](people/scott-neal) (35), [Mike Grigsby](people/mike-grigsby) (33), [John Arnold](people/john-arnold) (32), [Dana Davis](people/dana-davis) (28). Mailbox folders observed: 05_saved, 06_saved, _americas, central, deleted_items, enron_power.",
+  "timeline": "- **2001-01-22** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-buckley",
+    "name": "Karen Buckley",
+    "email": "karen.buckley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

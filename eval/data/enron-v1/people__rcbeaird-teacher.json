@@ -1,0 +1,14 @@
+{
+  "slug": "people/rcbeaird-teacher",
+  "type": "person",
+  "title": "Rcbeaird",
+  "compiled_truth": "Rcbeaird is an external contact at [Teacher](companies/teacher). Over the corpus period (2000-05-21 to 2000-07-11), Rcbeaird sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-07-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rcbeaird-teacher",
+    "name": "Rcbeaird",
+    "email": "rcbeaird@teacher.esc4.com",
+    "primary_affiliation": "companies/teacher"
+  }
+}

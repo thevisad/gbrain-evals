@@ -1,0 +1,14 @@
+{
+  "slug": "people/lester-rawson",
+  "type": "person",
+  "title": "Lester Rawson",
+  "compiled_truth": "Lester Rawson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-28 to 2002-03-13), Lester Rawson sent 53 and received 387 emails, totalling 440 interactions. Top correspondents: [Kate Symes](people/kate-symes) (26), [Shift Dl-Portland](people/shift-dl-portland) (9), [Greg Wolfe](people/greg-wolfe) (6), [Bill Williams](people/bill-williams) (5), [Stanley Cocke](people/stanley-cocke) (4). Mailbox folders observed: bill_williams_iii, deleted_items, inbox, rt_strat, scheduling.",
+  "timeline": "- **2000-08-28** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lester-rawson",
+    "name": "Lester Rawson",
+    "email": "lester.rawson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

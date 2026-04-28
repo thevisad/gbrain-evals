@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-hanks",
+  "type": "person",
+  "title": "Gary Hanks",
+  "compiled_truth": "Gary Hanks is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-26), Gary Hanks sent 31 and received 294 emails, totalling 325 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (29), [Pat Clynes](people/pat-clynes) (16), [James Mckay](people/james-mckay) (13), [Earl Tisdale](people/earl-tisdale) (13), [Shawna Flynn](people/shawna-flynn) (10). Mailbox folders observed: wellhead.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-hanks",
+    "name": "Gary Hanks",
+    "email": "gary.hanks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

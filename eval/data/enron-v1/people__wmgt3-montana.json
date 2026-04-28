@@ -1,0 +1,14 @@
+{
+  "slug": "people/wmgt3-montana",
+  "type": "person",
+  "title": "Wmgt3",
+  "compiled_truth": "Wmgt3 is an external contact at [Montana](companies/montana). Over the corpus period (2001-02-20 to 2001-04-27), Wmgt3 sent 0 and received 66 emails, totalling 66 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wmgt3-montana",
+    "name": "Wmgt3",
+    "email": "wmgt3@montana.com",
+    "primary_affiliation": "companies/montana"
+  }
+}

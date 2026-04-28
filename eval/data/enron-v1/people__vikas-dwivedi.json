@@ -1,0 +1,14 @@
+{
+  "slug": "people/vikas-dwivedi",
+  "type": "person",
+  "title": "Vikas Dwivedi",
+  "compiled_truth": "Vikas Dwivedi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-30 to 2001-11-10), Vikas Dwivedi sent 7 and received 66 emails, totalling 73 interactions. Top correspondents: [V Weldon](people/v-weldon) (2), [Charles Weldon](people/charles-weldon) (2), [Frank Ermis](people/frank-ermis) (1), [Caroline Abramo](people/caroline-abramo) (1), [Mark Taylor](people/mark-taylor) (1). Mailbox folders observed: deleted_items, friends, inbox.",
+  "timeline": "- **2000-08-30** | First recorded email in corpus\n- **2001-11-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vikas-dwivedi",
+    "name": "Vikas Dwivedi",
+    "email": "vikas.dwivedi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

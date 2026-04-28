@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-nowlan",
+  "type": "person",
+  "title": "John Nowlan",
+  "compiled_truth": "John Nowlan is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-19), John Nowlan sent 8 and received 650 emails, totalling 658 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (7), [Jeffrey Shankman](people/jeffrey-shankman) (6), [Chris Mahoney](people/chris-mahoney) (1), [Richard Sanders](people/richard-sanders) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-nowlan",
+    "name": "John Nowlan",
+    "email": "john.nowlan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

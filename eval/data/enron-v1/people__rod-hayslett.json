@@ -1,0 +1,14 @@
+{
+  "slug": "people/rod-hayslett",
+  "type": "person",
+  "title": "Rod Hayslett",
+  "compiled_truth": "Rod Hayslett is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Rod Hayslett sent 900 and received 1725 emails, totalling 2625 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (269), [James Saunders](people/james-saunders) (177), [A  Howard](people/a-howard) (119), [Kathy Campos](people/kathy-campos) (72), [Jerry Peters](people/jerry-peters) (67). Mailbox folders observed: _sent_mail, contacts, deleted_items, discussion_threads, eott, gpg.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rod-hayslett",
+    "name": "Rod Hayslett",
+    "email": "rod.hayslett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

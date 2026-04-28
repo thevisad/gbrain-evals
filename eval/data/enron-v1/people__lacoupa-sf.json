@@ -1,0 +1,14 @@
+{
+  "slug": "people/lacoupa-sf",
+  "type": "person",
+  "title": "Lacoupa",
+  "compiled_truth": "Lacoupa is an external contact at [Sf](companies/sf). Over the corpus period (1999-11-22 to 2000-09-05), Lacoupa sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2000-09-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lacoupa-sf",
+    "name": "Lacoupa",
+    "email": "lacoupa@sf.whitecase.com",
+    "primary_affiliation": "companies/sf"
+  }
+}

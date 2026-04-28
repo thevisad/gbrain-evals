@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-duplachan",
+  "type": "person",
+  "title": "Paul Duplachan",
+  "compiled_truth": "Paul Duplachan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-27 to 2001-10-31), Paul Duplachan sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-11-27** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-duplachan",
+    "name": "Paul Duplachan",
+    "email": "paul.duplachan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

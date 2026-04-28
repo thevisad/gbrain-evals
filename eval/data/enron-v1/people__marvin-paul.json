@@ -1,0 +1,14 @@
+{
+  "slug": "people/marvin-paul",
+  "type": "person",
+  "title": "Marvin' 'Paul",
+  "compiled_truth": "Marvin' 'Paul is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-12 to 2001-10-17), Marvin' 'Paul sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-12** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marvin-paul",
+    "name": "Marvin' 'Paul",
+    "email": "marvin'.'paul@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

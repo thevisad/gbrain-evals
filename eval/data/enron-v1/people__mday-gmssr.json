@@ -1,0 +1,14 @@
+{
+  "slug": "people/mday-gmssr",
+  "type": "person",
+  "title": "Mday",
+  "compiled_truth": "Mday is an external contact at [Gmssr](companies/gmssr). Over the corpus period (1980-01-01 to 2001-12-18), Mday sent 146 and received 998 emails, totalling 1144 interactions. Top correspondents: [Jdasovic](people/jdasovic) (84), [Jeff Dasovich](people/jeff-dasovich) (42), [Smara](people/smara) (33), [Sgovenar](people/sgovenar-govadv) (28), [Paulamirault](people/paulamirault-aec) (19).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mday-gmssr",
+    "name": "Mday",
+    "email": "mday@gmssr.com",
+    "primary_affiliation": "companies/gmssr"
+  }
+}

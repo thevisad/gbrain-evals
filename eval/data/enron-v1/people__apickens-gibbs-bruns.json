@@ -1,0 +1,14 @@
+{
+  "slug": "people/apickens-gibbs-bruns",
+  "type": "person",
+  "title": "Apickens",
+  "compiled_truth": "Apickens is an external contact at [Gibbs-bruns](companies/gibbs-bruns). Over the corpus period (1980-01-01 to 2001-06-11), Apickens sent 0 and received 62 emails, totalling 62 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/apickens-gibbs-bruns",
+    "name": "Apickens",
+    "email": "apickens@gibbs-bruns.com",
+    "primary_affiliation": "companies/gibbs-bruns"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/phmarti-lsu",
+  "type": "person",
+  "title": "Phmarti",
+  "compiled_truth": "Phmarti is an external contact at [Lsu](companies/lsu). Over the corpus period (2000-11-21 to 2001-10-17), Phmarti sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-21** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/phmarti-lsu",
+    "name": "Phmarti",
+    "email": "phmarti@lsu.edu",
+    "primary_affiliation": "companies/lsu"
+  }
+}

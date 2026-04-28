@@ -1,0 +1,14 @@
+{
+  "slug": "people/agreene-rcgroup",
+  "type": "person",
+  "title": "Agreene",
+  "compiled_truth": "Agreene is an external contact at [Rcgroup](companies/rcgroup). Over the corpus period (2001-10-18 to 2001-10-18), Agreene sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/agreene-rcgroup",
+    "name": "Agreene",
+    "email": "agreene@rcgroup.com",
+    "primary_affiliation": "companies/rcgroup"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/blake-hoganinvestment",
+  "type": "person",
+  "title": "Blake",
+  "compiled_truth": "Blake is an external contact at [Hoganinvestment](companies/hoganinvestment). Over the corpus period (1998-01-06 to 2001-09-13), Blake sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (1).",
+  "timeline": "- **1998-01-06** | First recorded email in corpus\n- **2001-09-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/blake-hoganinvestment",
+    "name": "Blake",
+    "email": "blake@hoganinvestment.com",
+    "primary_affiliation": "companies/hoganinvestment"
+  }
+}

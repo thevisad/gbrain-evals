@@ -1,0 +1,14 @@
+{
+  "slug": "people/pbrown-bowlaw",
+  "type": "person",
+  "title": "Pbrown",
+  "compiled_truth": "Pbrown is an external contact at [Bowlaw](companies/bowlaw). Over the corpus period (2001-04-25 to 2001-10-18), Pbrown sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-04-25** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pbrown-bowlaw",
+    "name": "Pbrown",
+    "email": "pbrown@bowlaw.com",
+    "primary_affiliation": "companies/bowlaw"
+  }
+}

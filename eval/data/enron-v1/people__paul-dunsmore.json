@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-dunsmore",
+  "type": "person",
+  "title": "Paul Dunsmore",
+  "compiled_truth": "Paul Dunsmore is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2002-02-06), Paul Dunsmore sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-dunsmore",
+    "name": "Paul Dunsmore",
+    "email": "paul.dunsmore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

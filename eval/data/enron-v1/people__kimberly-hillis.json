@@ -1,0 +1,14 @@
+{
+  "slug": "people/kimberly-hillis",
+  "type": "person",
+  "title": "Kimberly Hillis",
+  "compiled_truth": "Kimberly Hillis is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-19), Kimberly Hillis sent 146 and received 1170 emails, totalling 1316 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (11), [Scott Neal](people/scott-neal) (8), [Phillip Allen](people/phillip-allen) (7), [Kevin Presto](people/kevin-presto) (7), [Hunter Shively](people/hunter-shively) (7). Mailbox folders observed: _americas, _sent_mail, calendar, deleted_items, inbox, old_inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kimberly-hillis",
+    "name": "Kimberly Hillis",
+    "email": "kimberly.hillis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

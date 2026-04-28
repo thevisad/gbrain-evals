@@ -1,0 +1,14 @@
+{
+  "slug": "people/smarra-isda",
+  "type": "person",
+  "title": "Smarra",
+  "compiled_truth": "Smarra is an external contact at [Isda](companies/isda). Over the corpus period (2000-09-22 to 2002-02-07), Smarra sent 79 and received 15 emails, totalling 94 interactions. Top correspondents: [Mark E Haedicke](people/mark-e-haedicke) (34), [Lmarshall](people/lmarshall-isda) (33), [Jhb1](people/jhb1-bancosantander) (33), [Scarey](people/scarey-isda) (32), [Ksumme](people/ksumme-isda) (32).",
+  "timeline": "- **2000-09-22** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/smarra-isda",
+    "name": "Smarra",
+    "email": "smarra@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

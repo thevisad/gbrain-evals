@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-heinrich",
+  "type": "person",
+  "title": "Brian Heinrich",
+  "compiled_truth": "Brian Heinrich is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-26), Brian Heinrich sent 11 and received 49 emails, totalling 60 interactions. Top correspondents: [Sally Beck](people/sally-beck) (10), [James Scribner](people/james-scribner) (7), [Sheri Thomas](people/sheri-thomas) (6), [Torrey Moorer](people/torrey-moorer) (6), [Bob Hall](people/bob-hall) (5). Mailbox folders observed: 2001_plan, inbox, operating_rpts.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-heinrich",
+    "name": "Brian Heinrich",
+    "email": "brian.heinrich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

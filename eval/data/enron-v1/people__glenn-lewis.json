@@ -1,0 +1,14 @@
+{
+  "slug": "people/glenn-lewis",
+  "type": "person",
+  "title": "Glenn Lewis",
+  "compiled_truth": "Glenn Lewis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-20 to 2001-11-16), Glenn Lewis sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-09-20** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/glenn-lewis",
+    "name": "Glenn Lewis",
+    "email": "glenn.lewis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

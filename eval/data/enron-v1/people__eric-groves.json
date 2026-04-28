@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-groves",
+  "type": "person",
+  "title": "Eric Groves",
+  "compiled_truth": "Eric Groves is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-04), Eric Groves sent 15 and received 165 emails, totalling 180 interactions. Top correspondents: [John Griffith](people/john-griffith) (7), [Eric Moon](people/eric-moon) (6), [Vince Kaminski](people/vince-kaminski) (3), [Scott Earnest](people/scott-earnest) (2), [Brad Hitch](people/brad-hitch) (2). Mailbox folders observed: calendar, deleted_items, inbox, lng.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-groves",
+    "name": "Eric Groves",
+    "email": "eric.groves@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

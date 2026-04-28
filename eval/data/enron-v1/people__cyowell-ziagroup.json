@@ -1,0 +1,14 @@
+{
+  "slug": "people/cyowell-ziagroup",
+  "type": "person",
+  "title": "Cyowell",
+  "compiled_truth": "Cyowell is an external contact at [Ziagroup](companies/ziagroup). Over the corpus period (1999-09-24 to 2001-07-31), Cyowell sent 0 and received 58 emails, totalling 58 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cyowell-ziagroup",
+    "name": "Cyowell",
+    "email": "cyowell@ziagroup.com",
+    "primary_affiliation": "companies/ziagroup"
+  }
+}

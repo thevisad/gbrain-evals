@@ -1,0 +1,14 @@
+{
+  "slug": "people/bousquet-virginia",
+  "type": "person",
+  "title": "Bousquet Virginia",
+  "compiled_truth": "Bousquet Virginia is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2001-09-26), Bousquet Virginia sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bousquet-virginia",
+    "name": "Bousquet Virginia",
+    "email": "bousquet.virginia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

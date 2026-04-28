@@ -1,0 +1,14 @@
+{
+  "slug": "people/janderson-elcon",
+  "type": "person",
+  "title": "Janderson",
+  "compiled_truth": "Janderson is an external contact at [Elcon](companies/elcon). Over the corpus period (2001-06-28 to 2001-07-13), Janderson sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-28** | First recorded email in corpus\n- **2001-07-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janderson-elcon",
+    "name": "Janderson",
+    "email": "janderson@elcon.org",
+    "primary_affiliation": "companies/elcon"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/peter-vecchio",
+  "type": "person",
+  "title": "Peter Vecchio",
+  "compiled_truth": "Peter Vecchio is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2001-06-12), Peter Vecchio sent 6 and received 277 emails, totalling 283 interactions. Top correspondents: [Julia Murray](people/julia-murray) (2), [Mark Haedicke](people/mark-haedicke) (2), [Richard Sanders](people/richard-sanders) (2), [Michelle Cash](people/michelle-cash) (1), [Jay Epstein](people/jay-epstein) (1).",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peter-vecchio",
+    "name": "Peter Vecchio",
+    "email": "peter.vecchio@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

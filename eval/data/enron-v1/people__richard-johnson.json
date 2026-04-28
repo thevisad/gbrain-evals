@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-johnson",
+  "type": "person",
+  "title": "Richard Johnson",
+  "compiled_truth": "Richard Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-13 to 2001-12-27), Richard Johnson sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-07-13** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-johnson",
+    "name": "Richard Johnson",
+    "email": "richard.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dorothy-mccoppin",
+  "type": "person",
+  "title": "Dorothy Mccoppin",
+  "compiled_truth": "Dorothy Mccoppin is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-01 to 2002-03-12), Dorothy Mccoppin sent 23 and received 296 emails, totalling 319 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (7), [Drew Fossum](people/drew-fossum) (5), [Robert Kilmer](people/robert-kilmer) (5), [Teb Lokey](people/teb-lokey) (4), [Shelley Corman](people/shelley-corman) (3). Mailbox folders observed: deleted_items, e_mail_bin, inbox.",
+  "timeline": "- **1999-11-01** | First recorded email in corpus\n- **2002-03-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dorothy-mccoppin",
+    "name": "Dorothy Mccoppin",
+    "email": "dorothy.mccoppin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

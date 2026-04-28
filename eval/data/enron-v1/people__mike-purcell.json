@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-purcell",
+  "type": "person",
+  "title": "Mike Purcell",
+  "compiled_truth": "Mike Purcell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-03-13), Mike Purcell sent 54 and received 238 emails, totalling 292 interactions. Top correspondents: [Holden Salisbury](people/holden-salisbury) (25), [Cara Semperger](people/cara-semperger) (10), [Portland Shift](people/portland-shift) (9), [Diana Scholtes](people/diana-scholtes) (7), [Tom Alonso](people/tom-alonso) (5). Mailbox folders observed: bill_williams_iii, deleted_items, inbox, read, scheduling, settlements.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-purcell",
+    "name": "Mike Purcell",
+    "email": "mike.purcell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

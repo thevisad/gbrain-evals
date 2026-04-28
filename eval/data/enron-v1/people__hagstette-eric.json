@@ -1,0 +1,14 @@
+{
+  "slug": "people/hagstette-eric",
+  "type": "person",
+  "title": "Hagstette Eric",
+  "compiled_truth": "Hagstette Eric is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-25 to 2001-11-26), Hagstette Eric sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-09-25** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hagstette-eric",
+    "name": "Hagstette Eric",
+    "email": "hagstette.eric@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

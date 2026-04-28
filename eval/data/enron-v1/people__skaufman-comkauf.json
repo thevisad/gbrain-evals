@@ -1,0 +1,14 @@
+{
+  "slug": "people/skaufman-comkauf",
+  "type": "person",
+  "title": "Skaufman",
+  "compiled_truth": "Skaufman is an external contact at [Comkauf](companies/comkauf). Over the corpus period (2000-11-13 to 2001-11-09), Skaufman sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/skaufman-comkauf",
+    "name": "Skaufman",
+    "email": "skaufman@comkauf.com",
+    "primary_affiliation": "companies/comkauf"
+  }
+}

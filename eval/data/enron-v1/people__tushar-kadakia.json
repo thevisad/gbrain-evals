@@ -1,0 +1,14 @@
+{
+  "slug": "people/tushar-kadakia",
+  "type": "person",
+  "title": "Tushar Kadakia",
+  "compiled_truth": "Tushar Kadakia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2002-05-06), Tushar Kadakia sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tushar-kadakia",
+    "name": "Tushar Kadakia",
+    "email": "tushar.kadakia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

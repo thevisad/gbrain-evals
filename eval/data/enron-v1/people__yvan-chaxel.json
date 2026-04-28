@@ -1,0 +1,14 @@
+{
+  "slug": "people/yvan-chaxel",
+  "type": "person",
+  "title": "Yvan Chaxel",
+  "compiled_truth": "Yvan Chaxel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-24 to 2000-12-11), Yvan Chaxel sent 6 and received 48 emails, totalling 54 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (6), [Donald Black](people/donald-black) (2), [Christopher Smith](people/christopher-smith) (1), [Berney Aucoin](people/berney-aucoin) (1), [Carl Livermore](people/carl-livermore) (1).",
+  "timeline": "- **2000-02-24** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yvan-chaxel",
+    "name": "Yvan Chaxel",
+    "email": "yvan.chaxel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

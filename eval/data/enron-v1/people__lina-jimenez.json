@@ -1,0 +1,14 @@
+{
+  "slug": "people/lina-jimenez",
+  "type": "person",
+  "title": "Lina Jimenez",
+  "compiled_truth": "Lina Jimenez is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2001-06-14), Lina Jimenez sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2001-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lina-jimenez",
+    "name": "Lina Jimenez",
+    "email": "lina.jimenez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

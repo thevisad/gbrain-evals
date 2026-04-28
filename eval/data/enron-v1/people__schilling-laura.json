@@ -1,0 +1,14 @@
+{
+  "slug": "people/schilling-laura",
+  "type": "person",
+  "title": "Schilling Laura",
+  "compiled_truth": "Schilling Laura is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Schilling Laura sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/schilling-laura",
+    "name": "Schilling Laura",
+    "email": "schilling.laura@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

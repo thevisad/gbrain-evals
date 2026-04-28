@@ -1,0 +1,14 @@
+{
+  "slug": "people/brenda-funk",
+  "type": "person",
+  "title": "Brenda Funk",
+  "compiled_truth": "Brenda Funk is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-05-22), Brenda Funk sent 6 and received 66 emails, totalling 72 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (6), [Joel Ephross](people/joel-ephross) (2), [Carol Clair](people/carol-clair) (1), [Mcfam](people/mcfam-andrews-kurth) (1), [Barbd](people/barbd-andrews-kurth) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brenda-funk",
+    "name": "Brenda Funk",
+    "email": "brenda.funk@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

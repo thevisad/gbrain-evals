@@ -1,0 +1,14 @@
+{
+  "slug": "people/neithard-foley",
+  "type": "person",
+  "title": "Neithard Foley",
+  "compiled_truth": "Neithard Foley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2002-01-03), Neithard Foley sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/neithard-foley",
+    "name": "Neithard Foley",
+    "email": "neithard.foley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

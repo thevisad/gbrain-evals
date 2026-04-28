@@ -1,0 +1,14 @@
+{
+  "slug": "people/herman-manis",
+  "type": "person",
+  "title": "Herman Manis",
+  "compiled_truth": "Herman Manis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-02 to 2001-07-19), Herman Manis sent 14 and received 267 emails, totalling 281 interactions. Top correspondents: [Kay Mann](people/kay-mann) (14), [Lisa Bills](people/lisa-bills) (8), [Roseann Engeldorf](people/roseann-engeldorf) (5), [Ben Jacoby](people/ben-jacoby) (4), [Barton Clark](people/barton-clark) (2).",
+  "timeline": "- **2000-03-02** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/herman-manis",
+    "name": "Herman Manis",
+    "email": "herman.manis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

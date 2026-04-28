@@ -1,0 +1,14 @@
+{
+  "slug": "people/ayesha-kanji",
+  "type": "person",
+  "title": "Ayesha Kanji",
+  "compiled_truth": "Ayesha Kanji is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-27 to 2001-11-28), Ayesha Kanji sent 24 and received 73 emails, totalling 97 interactions. Top correspondents: [E  Carter](people/e-carter) (22), [David Allan](people/david-allan) (21), [Peggy Determeyer](people/peggy-determeyer) (21), [Monika Causholli](people/monika-causholli) (19), [David Marye](people/david-marye) (19). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-07-27** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ayesha-kanji",
+    "name": "Ayesha Kanji",
+    "email": "ayesha.kanji@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

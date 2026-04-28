@@ -1,0 +1,14 @@
+{
+  "slug": "people/marianne-castano",
+  "type": "person",
+  "title": "Marianne Castano",
+  "compiled_truth": "Marianne Castano is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-25 to 2001-11-30), Marianne Castano sent 14 and received 114 emails, totalling 128 interactions. Top correspondents: [Richard Ring](people/richard-ring) (6), [Stacey Bolton](people/stacey-bolton) (5), [Jeff Dasovich](people/jeff-dasovich) (4), [Peggy Mahoney](people/peggy-mahoney) (4), [Heather Mathis](people/heather-mathis) (4). Mailbox folders observed: eesirenewableenergy.",
+  "timeline": "- **2000-04-25** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marianne-castano",
+    "name": "Marianne Castano",
+    "email": "marianne.castano@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

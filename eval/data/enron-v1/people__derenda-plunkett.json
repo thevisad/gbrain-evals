@@ -1,0 +1,14 @@
+{
+  "slug": "people/derenda-plunkett",
+  "type": "person",
+  "title": "Derenda Plunkett",
+  "compiled_truth": "Derenda Plunkett is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-06-20), Derenda Plunkett sent 0 and received 71 emails, totalling 71 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/derenda-plunkett",
+    "name": "Derenda Plunkett",
+    "email": "derenda.plunkett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

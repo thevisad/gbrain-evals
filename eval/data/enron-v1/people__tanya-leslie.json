@@ -1,0 +1,14 @@
+{
+  "slug": "people/tanya-leslie",
+  "type": "person",
+  "title": "Tanya Leslie",
+  "compiled_truth": "Tanya Leslie is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-15 to 2001-09-20), Tanya Leslie sent 0 and received 536 emails, totalling 536 interactions.",
+  "timeline": "- **2000-12-15** | First recorded email in corpus\n- **2001-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tanya-leslie",
+    "name": "Tanya Leslie",
+    "email": "tanya.leslie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

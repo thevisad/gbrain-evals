@@ -1,0 +1,14 @@
+{
+  "slug": "people/troy-beyer",
+  "type": "person",
+  "title": "Troy Beyer",
+  "compiled_truth": "Troy Beyer is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-12 to 2002-02-13), Troy Beyer sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2002-01-12** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/troy-beyer",
+    "name": "Troy Beyer",
+    "email": "troy.beyer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

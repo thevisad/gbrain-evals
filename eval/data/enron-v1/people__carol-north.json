@@ -1,0 +1,14 @@
+{
+  "slug": "people/carol-north",
+  "type": "person",
+  "title": "Carol North",
+  "compiled_truth": "Carol North is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-06 to 2001-11-27), Carol North sent 8 and received 67 emails, totalling 75 interactions. Top correspondents: [Ken Curry](people/ken-curry) (8), [Raymond Bowen](people/raymond-bowen) (6), [S  Bradford](people/s-bradford) (6), [Rick Buy](people/rick-buy) (6), [Kent Castleman](people/kent-castleman) (6). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carol-north",
+    "name": "Carol North",
+    "email": "carol.north@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

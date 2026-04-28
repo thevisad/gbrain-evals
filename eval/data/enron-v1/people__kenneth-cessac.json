@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenneth-cessac",
+  "type": "person",
+  "title": "Kenneth Cessac",
+  "compiled_truth": "Kenneth Cessac is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-30 to 2002-02-18), Kenneth Cessac sent 9 and received 104 emails, totalling 113 interactions. Top correspondents: [E  Anderson](people/e-anderson) (9), [Don Hawkins](people/don-hawkins) (9), [Lynn Blair](people/lynn-blair) (8), [Mary Darveaux](people/mary-darveaux) (8), [Rick Dietz](people/rick-dietz) (8). Mailbox folders observed: customer___oneok, deleted_items, inbox.",
+  "timeline": "- **1999-11-30** | First recorded email in corpus\n- **2002-02-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenneth-cessac",
+    "name": "Kenneth Cessac",
+    "email": "kenneth.cessac@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

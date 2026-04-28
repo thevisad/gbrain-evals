@@ -1,0 +1,14 @@
+{
+  "slug": "people/barry-bell-pacificorp",
+  "type": "person",
+  "title": "Barry Bell",
+  "compiled_truth": "Barry Bell is an external contact at [Pacificorp](companies/pacificorp). Over the corpus period (2000-11-10 to 2001-03-16), Barry Bell sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barry-bell-pacificorp",
+    "name": "Barry Bell",
+    "email": "barry.bell@pacificorp.com",
+    "primary_affiliation": "companies/pacificorp"
+  }
+}

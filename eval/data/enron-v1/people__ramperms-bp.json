@@ -1,0 +1,14 @@
+{
+  "slug": "people/ramperms-bp",
+  "type": "person",
+  "title": "Ramperms",
+  "compiled_truth": "Ramperms is an external contact at [Bp](companies/bp). Over the corpus period (2000-10-27 to 2001-05-11), Ramperms sent 0 and received 33 emails, totalling 33 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ramperms-bp",
+    "name": "Ramperms",
+    "email": "ramperms@bp.com",
+    "primary_affiliation": "companies/bp"
+  }
+}

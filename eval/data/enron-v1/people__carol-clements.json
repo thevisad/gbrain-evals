@@ -1,0 +1,14 @@
+{
+  "slug": "people/carol-clements",
+  "type": "person",
+  "title": "Carol Clements",
+  "compiled_truth": "Carol Clements is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-02 to 2001-12-13), Carol Clements sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2001-01-02** | First recorded email in corpus\n- **2001-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carol-clements",
+    "name": "Carol Clements",
+    "email": "carol.clements@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-redmond",
+  "type": "person",
+  "title": "Brian Redmond",
+  "compiled_truth": "Brian Redmond is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-15), Brian Redmond sent 152 and received 894 emails, totalling 1046 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (72), [Anne Koehler](people/anne-koehler) (29), [Sally Beck](people/sally-beck) (27), [Jim Coffey](people/jim-coffey) (27), [Barbara Gray](people/barbara-gray) (22). Mailbox folders observed: _americas, deleted_items, hpl, hpl_sell, inbox, logistics.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-redmond",
+    "name": "Brian Redmond",
+    "email": "brian.redmond@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

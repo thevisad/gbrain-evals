@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-michels",
+  "type": "person",
+  "title": "David Michels",
+  "compiled_truth": "David Michels is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2001-11-19), David Michels sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-michels",
+    "name": "David Michels",
+    "email": "david.michels@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

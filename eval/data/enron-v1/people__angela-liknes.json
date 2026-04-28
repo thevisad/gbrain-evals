@@ -1,0 +1,14 @@
+{
+  "slug": "people/angela-liknes",
+  "type": "person",
+  "title": "Angela Liknes",
+  "compiled_truth": "Angela Liknes is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-10 to 2002-02-06), Angela Liknes sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2001-07-10** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angela-liknes",
+    "name": "Angela Liknes",
+    "email": "angela.liknes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jerry-graves",
+  "type": "person",
+  "title": "Jerry Graves",
+  "compiled_truth": "Jerry Graves is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-08 to 2002-03-25), Jerry Graves sent 154 and received 235 emails, totalling 389 interactions. Top correspondents: [Darrell Schoolcraft](people/darrell-schoolcraft) (91), [Steve January](people/steve-january) (83), [Controllers Dl-Ets](people/controllers-dl-ets) (80), [David Boothe](people/david-boothe) (71), [Gary Maestas](people/gary-maestas) (67). Mailbox folders observed: deleted_items, inbox, outages, tw_outages.",
+  "timeline": "- **2000-08-08** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jerry-graves",
+    "name": "Jerry Graves",
+    "email": "jerry.graves@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

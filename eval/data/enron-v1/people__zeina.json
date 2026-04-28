@@ -1,0 +1,14 @@
+{
+  "slug": "people/zeina",
+  "type": "person",
+  "title": " Zeina",
+  "compiled_truth": "Zeina is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2001-06-05),  Zeina sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zeina",
+    "name": " Zeina",
+    "email": ".zeina@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

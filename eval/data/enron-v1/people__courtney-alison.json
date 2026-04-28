@@ -1,0 +1,14 @@
+{
+  "slug": "people/courtney-alison",
+  "type": "person",
+  "title": "Courtney Alison",
+  "compiled_truth": "Courtney Alison is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-19 to 2002-01-25), Courtney Alison sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-09-19** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/courtney-alison",
+    "name": "Courtney Alison",
+    "email": "courtney.alison@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

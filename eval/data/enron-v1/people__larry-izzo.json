@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-izzo",
+  "type": "person",
+  "title": "Larry Izzo",
+  "compiled_truth": "Larry Izzo is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-15 to 2001-01-30), Larry Izzo sent 7 and received 103 emails, totalling 110 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (3), [Thomas White](people/thomas-white) (2), [Rick Buy](people/rick-buy) (2), [Dan Leff](people/dan-leff) (2), [Joseph Sutton](people/joseph-sutton) (2).",
+  "timeline": "- **1999-10-15** | First recorded email in corpus\n- **2001-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-izzo",
+    "name": "Larry Izzo",
+    "email": "larry.izzo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

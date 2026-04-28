@@ -1,0 +1,14 @@
+{
+  "slug": "people/kyle-kitagawa",
+  "type": "person",
+  "title": "Kyle Kitagawa",
+  "compiled_truth": "Kyle Kitagawa is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2002-05-21), Kyle Kitagawa sent 6 and received 139 emails, totalling 145 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (3), [Peter Keohane](people/peter-keohane) (2), [Jason Biever](people/jason-biever) (1), [Stephane Brodeur](people/stephane-brodeur) (1), [Steven Burnham](people/steven-burnham) (1). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2002-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kyle-kitagawa",
+    "name": "Kyle Kitagawa",
+    "email": "kyle.kitagawa@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

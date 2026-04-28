@@ -1,0 +1,14 @@
+{
+  "slug": "people/barbara-paige",
+  "type": "person",
+  "title": "Barbara Paige",
+  "compiled_truth": "Barbara Paige is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-21 to 2001-11-27), Barbara Paige sent 2 and received 47 emails, totalling 49 interactions. Top correspondents: [Samantha Bryce](people/samantha-bryce) (1), [Adriana Cortes](people/adriana-cortes) (1), [Monica Edwards](people/monica-edwards) (1), [Bert Frazier](people/bert-frazier) (1), [John Godbold](people/john-godbold) (1). Mailbox folders observed: 2001_mid_year_prc.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barbara-paige",
+    "name": "Barbara Paige",
+    "email": "barbara.paige@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

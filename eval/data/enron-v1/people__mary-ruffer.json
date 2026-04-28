@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-ruffer",
+  "type": "person",
+  "title": "Mary Ruffer",
+  "compiled_truth": "Mary Ruffer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-18 to 2001-07-17), Mary Ruffer sent 6 and received 82 emails, totalling 88 interactions. Top correspondents: [Tana Jones](people/tana-jones) (3), [Michael Garberding](people/michael-garberding) (2), [Shannon Mcpearson](people/shannon-mcpearson) (2), [Tracey Irvin](people/tracey-irvin) (2), [John Griffith](people/john-griffith) (2).",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2001-07-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-ruffer",
+    "name": "Mary Ruffer",
+    "email": "mary.ruffer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

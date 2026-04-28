@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarah-smith",
+  "type": "person",
+  "title": "Sarah Smith",
+  "compiled_truth": "Sarah Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2001-05-18), Sarah Smith sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarah-smith",
+    "name": "Sarah Smith",
+    "email": "sarah.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

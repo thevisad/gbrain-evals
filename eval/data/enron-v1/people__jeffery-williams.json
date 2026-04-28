@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffery-williams",
+  "type": "person",
+  "title": "Jeffery Williams",
+  "compiled_truth": "Jeffery Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-12 to 2002-03-29), Jeffery Williams sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-11-12** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffery-williams",
+    "name": "Jeffery Williams",
+    "email": "jeffery.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

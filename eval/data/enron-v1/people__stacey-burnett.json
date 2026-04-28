@@ -1,0 +1,14 @@
+{
+  "slug": "people/stacey-burnett",
+  "type": "person",
+  "title": "Stacey Burnett",
+  "compiled_truth": "Stacey Burnett is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-05-06), Stacey Burnett sent 4 and received 9 emails, totalling 13 interactions. Top correspondents: [Patricia Bloom](people/patricia-bloom) (4), [James Armstrong](people/james-armstrong) (3), [A  Aune](people/a-aune) (3), [Jacquelyn Azore](people/jacquelyn-azore) (3), [Tammy Barta](people/tammy-barta) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stacey-burnett",
+    "name": "Stacey Burnett",
+    "email": "stacey.burnett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

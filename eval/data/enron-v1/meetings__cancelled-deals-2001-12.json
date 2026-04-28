@@ -1,0 +1,28 @@
+{
+  "slug": "meetings/cancelled-deals-2001-12",
+  "type": "meeting",
+  "title": "Meeting: Cancelled Deals",
+  "compiled_truth": "Meeting: \"Cancelled Deals\". Occurred 2001-12-03 with 1 related emails. Participants included: [Angold](people/angold), [Carmstrong](people/carmstrong-spragueenergy), [Clemons](people/clemons), [Coco](people/coco), [Foulds](people/foulds), [Jangold](people/jangold-spragueenergy), [Jfoulds](people/jfoulds-spragueenergy), [Jonathan Mckay](people/jonathan-mckay)....",
+  "timeline": "- **2001-12-03** | Meeting: cancelled deals",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/cancelled-deals-2001-12",
+    "attendees": [
+      "people/angold",
+      "people/carmstrong-spragueenergy",
+      "people/clemons",
+      "people/coco",
+      "people/foulds",
+      "people/jangold-spragueenergy",
+      "people/jfoulds-spragueenergy",
+      "people/jonathan-mckay",
+      "people/lclemons-spragueenergy",
+      "people/mmyers-spragueenergy",
+      "people/myers",
+      "people/rcoco-spragueenergy",
+      "people/twolff-spragueenergy",
+      "people/wolff"
+    ],
+    "date": "2001-12-03"
+  }
+}

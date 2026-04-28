@@ -1,0 +1,14 @@
+{
+  "slug": "people/teresa-smith",
+  "type": "person",
+  "title": "Teresa Smith",
+  "compiled_truth": "Teresa Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-10 to 2001-10-29), Teresa Smith sent 7 and received 83 emails, totalling 90 interactions. Top correspondents: [Tana Jones](people/tana-jones) (6), [Louise Kitchen](people/louise-kitchen) (1), [Dave Samuels](people/dave-samuels) (1), [Julie Ferrara](people/julie-ferrara) (1), [Rahil Jafry](people/rahil-jafry) (1).",
+  "timeline": "- **2000-05-10** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teresa-smith",
+    "name": "Teresa Smith",
+    "email": "teresa.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

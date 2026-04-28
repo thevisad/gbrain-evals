@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-curran",
+  "type": "person",
+  "title": "Greg Curran",
+  "compiled_truth": "Greg Curran is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-19 to 2002-05-06), Greg Curran sent 1 and received 186 emails, totalling 187 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (1).",
+  "timeline": "- **2000-10-19** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-curran",
+    "name": "Greg Curran",
+    "email": "greg.curran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

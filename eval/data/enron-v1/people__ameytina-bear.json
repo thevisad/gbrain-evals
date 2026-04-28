@@ -1,0 +1,14 @@
+{
+  "slug": "people/ameytina-bear",
+  "type": "person",
+  "title": "Ameytina",
+  "compiled_truth": "Ameytina is an external contact at [Bear](companies/bear). Over the corpus period (2001-02-08 to 2001-09-06), Ameytina sent 13 and received 28 emails, totalling 41 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (13), [Cheryl Nelson](people/cheryl-nelson) (3), [Schernick](people/schernick-bear) (3), [Clement Abrams](people/clement-abrams) (3), [Clewis](people/clewis-bear) (1).",
+  "timeline": "- **2001-02-08** | First recorded email in corpus\n- **2001-09-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ameytina-bear",
+    "name": "Ameytina",
+    "email": "ameytina@bear.com",
+    "primary_affiliation": "companies/bear"
+  }
+}

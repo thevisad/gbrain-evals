@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-greaney",
+  "type": "person",
+  "title": "Chris Greaney",
+  "compiled_truth": "Chris Greaney is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2002-03-25), Chris Greaney sent 16 and received 296 emails, totalling 312 interactions. Top correspondents: [Robert Benningfield](people/robert-benningfield) (15), [Sherry Forbish](people/sherry-forbish) (15), [Randy Janzen](people/randy-janzen) (15), [Janet Mcdaniel](people/janet-mcdaniel) (15), [Kathy Sturr](people/kathy-sturr) (15). Mailbox folders observed: customer___oneok, deleted_items, inbox, personnel___prc_2001_year_end.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-greaney",
+    "name": "Chris Greaney",
+    "email": "chris.greaney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

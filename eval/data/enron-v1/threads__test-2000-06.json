@@ -1,0 +1,24 @@
+{
+  "slug": "threads/test-2000-06",
+  "type": "meeting",
+  "title": "Thread: Test",
+  "compiled_truth": "Email thread: \"Test\". Ran from 2000-06-16 to 2000-07-11 with 10 messages. Participants: [Avi Hauser](people/avi-hauser-effem), [Brendas](people/brendas-surffree), [Chris Germany](people/chris-germany), [Fletcher Sturm](people/fletcher-sturm), [Gmaher](people/gmaher-canfibreny), [Joe Steele](people/joe-steele), [Mark Haedicke](people/mark-haedicke), [Phillip Allen](people/phillip-allen).",
+  "timeline": "- **2000-06-16** | Thread begins: test\n- **2000-07-11** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/test-2000-06",
+    "attendees": [
+      "people/avi-hauser-effem",
+      "people/brendas-surffree",
+      "people/chris-germany",
+      "people/fletcher-sturm",
+      "people/gmaher-canfibreny",
+      "people/joe-steele",
+      "people/mark-haedicke",
+      "people/phillip-allen",
+      "people/robyn-menear",
+      "people/vince-kaminski"
+    ],
+    "date": "2000-06-16"
+  }
+}

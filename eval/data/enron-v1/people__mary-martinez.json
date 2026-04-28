@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-martinez",
+  "type": "person",
+  "title": "Mary Martinez",
+  "compiled_truth": "Mary Martinez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-09-25), Mary Martinez sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-martinez",
+    "name": "Mary Martinez",
+    "email": "mary.martinez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

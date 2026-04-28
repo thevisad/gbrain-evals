@@ -1,0 +1,22 @@
+{
+  "slug": "threads/enron-stanford-program-2000-09",
+  "type": "meeting",
+  "title": "Thread: Enron/Stanford Program",
+  "compiled_truth": "Email thread: \"Enron/Stanford Program\". Ran from 2000-09-21 to 2000-10-17 with 15 messages. Participants: [Bambos](people/bambos-stanford), [Gappy](people/gappy-stanford), [Paul Racicot](people/paul-racicot), [Stinson Gibner](people/stinson-gibner), [Vince J Kaminski](people/vince-j-kaminski), [Vince Kaminski](people/vince-kaminski), [Vkamins](people/vkamins), [Vkaminski](people/vkaminski-aol).",
+  "timeline": "- **2000-09-21** | Thread begins: enron/stanford program\n- **2000-10-17** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-stanford-program-2000-09",
+    "attendees": [
+      "people/bambos-stanford",
+      "people/gappy-stanford",
+      "people/paul-racicot",
+      "people/stinson-gibner",
+      "people/vince-j-kaminski",
+      "people/vince-kaminski",
+      "people/vkamins",
+      "people/vkaminski-aol"
+    ],
+    "date": "2000-09-21"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/wdwelder-mapllc",
+  "type": "person",
+  "title": "Wdwelder",
+  "compiled_truth": "Wdwelder is an external contact at [Mapllc](companies/mapllc). Over the corpus period (2000-05-21 to 2000-11-25), Wdwelder sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wdwelder-mapllc",
+    "name": "Wdwelder",
+    "email": "wdwelder@mapllc.com",
+    "primary_affiliation": "companies/mapllc"
+  }
+}

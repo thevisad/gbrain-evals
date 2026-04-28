@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-mcclure",
+  "type": "person",
+  "title": "Mark Mcclure",
+  "compiled_truth": "Mark Mcclure is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2002-06-11), Mark Mcclure sent 2 and received 115 emails, totalling 117 interactions. Top correspondents: [Robert Superty](people/robert-superty) (2), [Richard Pinion](people/richard-pinion) (2), [Donna Greif](people/donna-greif) (1), [Kathryn Bussell](people/kathryn-bussell) (1), [Robert Cotten](people/robert-cotten) (1). Mailbox folders observed: logistics.",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2002-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-mcclure",
+    "name": "Mark Mcclure",
+    "email": "mark.mcclure@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

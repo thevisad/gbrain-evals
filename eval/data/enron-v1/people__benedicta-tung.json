@@ -1,0 +1,14 @@
+{
+  "slug": "people/benedicta-tung",
+  "type": "person",
+  "title": "Benedicta Tung",
+  "compiled_truth": "Benedicta Tung is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-12 to 2002-02-06), Benedicta Tung sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-05-12** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/benedicta-tung",
+    "name": "Benedicta Tung",
+    "email": "benedicta.tung@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/pinnamaneni-krishnarao",
+  "type": "person",
+  "title": "Pinnamaneni Krishnarao",
+  "compiled_truth": "Pinnamaneni Krishnarao is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2002-01-15), Pinnamaneni Krishnarao sent 55 and received 373 emails, totalling 428 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (38), [Shirley Crenshaw](people/shirley-crenshaw) (11), [J Kaminski](people/j-kaminski) (11), [Osman Sezgen](people/osman-sezgen) (7), [Vasant Shanbhogue](people/vasant-shanbhogue) (5). Mailbox folders observed: c, calendar, credit, deleted_items, inbox, resumes.",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pinnamaneni-krishnarao",
+    "name": "Pinnamaneni Krishnarao",
+    "email": "pinnamaneni.krishnarao@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

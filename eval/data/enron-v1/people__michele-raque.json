@@ -1,0 +1,14 @@
+{
+  "slug": "people/michele-raque",
+  "type": "person",
+  "title": "Michele Raque",
+  "compiled_truth": "Michele Raque is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-31 to 2001-11-28), Michele Raque sent 20 and received 73 emails, totalling 93 interactions. Top correspondents: [Richard Ring](people/richard-ring) (20), [Gillian Johnson](people/gillian-johnson) (3), [Narsimha Misra](people/narsimha-misra) (2), [Bob Hansen](people/bob-hansen) (2), [Mike Smith](people/mike-smith) (1). Mailbox folders observed: deleted_items, eesiisopjm, inbox, personalfolder.",
+  "timeline": "- **2001-07-31** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michele-raque",
+    "name": "Michele Raque",
+    "email": "michele.raque@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

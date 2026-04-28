@@ -1,0 +1,14 @@
+{
+  "slug": "people/dcasse-whwg",
+  "type": "person",
+  "title": "Dcasse",
+  "compiled_truth": "Dcasse is an external contact at [Whwg](companies/whwg). Over the corpus period (2000-12-05 to 2001-04-02), Dcasse sent 10 and received 28 emails, totalling 38 interactions. Top correspondents: [Skean](people/skean) (10), [Mpalmer](people/mpalmer) (7), [Rshapiro](people/rshapiro) (7), [Rob Bradley](people/rob-bradley) (1).",
+  "timeline": "- **2000-12-05** | First recorded email in corpus\n- **2001-04-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dcasse-whwg",
+    "name": "Dcasse",
+    "email": "dcasse@whwg.com",
+    "primary_affiliation": "companies/whwg"
+  }
+}

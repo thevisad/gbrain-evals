@@ -1,0 +1,14 @@
+{
+  "slug": "people/carlos-braune",
+  "type": "person",
+  "title": "Carlos Braune",
+  "compiled_truth": "Carlos Braune is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-28 to 2001-11-26), Carlos Braune sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2001-09-28** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carlos-braune",
+    "name": "Carlos Braune",
+    "email": "carlos.braune@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

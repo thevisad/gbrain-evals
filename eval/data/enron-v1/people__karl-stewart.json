@@ -1,0 +1,14 @@
+{
+  "slug": "people/karl-stewart",
+  "type": "person",
+  "title": "Karl Stewart",
+  "compiled_truth": "Karl Stewart is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-11 to 2001-06-01), Karl Stewart sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-05-11** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karl-stewart",
+    "name": "Karl Stewart",
+    "email": "karl.stewart@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

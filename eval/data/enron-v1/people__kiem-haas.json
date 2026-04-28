@@ -1,0 +1,14 @@
+{
+  "slug": "people/kiem-haas",
+  "type": "person",
+  "title": "Kiem",
+  "compiled_truth": "Kiem is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-09-04), Kiem sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kiem-haas",
+    "name": "Kiem",
+    "email": "kiem@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

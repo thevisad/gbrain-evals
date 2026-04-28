@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-trofholz",
+  "type": "person",
+  "title": "Lisa Trofholz",
+  "compiled_truth": "Lisa Trofholz is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-12 to 2001-11-27), Lisa Trofholz sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-07-12** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-trofholz",
+    "name": "Lisa Trofholz",
+    "email": "lisa.trofholz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

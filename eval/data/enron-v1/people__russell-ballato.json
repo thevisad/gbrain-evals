@@ -1,0 +1,14 @@
+{
+  "slug": "people/russell-ballato",
+  "type": "person",
+  "title": "Russell Ballato",
+  "compiled_truth": "Russell Ballato is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-10 to 2002-02-28), Russell Ballato sent 4 and received 425 emails, totalling 429 interactions. Top correspondents: [Harry Arora](people/harry-arora) (2), [Don Baughman](people/don-baughman) (1), [Mike Carson](people/mike-carson) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/russell-ballato",
+    "name": "Russell Ballato",
+    "email": "russell.ballato@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/beth-wapner",
+  "type": "person",
+  "title": "Beth Wapner",
+  "compiled_truth": "Beth Wapner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-03 to 2002-05-06), Beth Wapner sent 0 and received 47 emails, totalling 47 interactions.",
+  "timeline": "- **2000-10-03** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beth-wapner",
+    "name": "Beth Wapner",
+    "email": "beth.wapner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

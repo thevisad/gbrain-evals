@@ -1,0 +1,14 @@
+{
+  "slug": "people/pfranklin-sppc",
+  "type": "person",
+  "title": "Pfranklin",
+  "compiled_truth": "Pfranklin is an external contact at [Sppc](companies/sppc). Over the corpus period (2001-03-16 to 2001-03-16), Pfranklin sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-03-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pfranklin-sppc",
+    "name": "Pfranklin",
+    "email": "pfranklin@sppc.com",
+    "primary_affiliation": "companies/sppc"
+  }
+}

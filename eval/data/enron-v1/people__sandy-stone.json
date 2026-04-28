@@ -1,0 +1,14 @@
+{
+  "slug": "people/sandy-stone",
+  "type": "person",
+  "title": "Sandy Stone",
+  "compiled_truth": "Sandy Stone is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-27), Sandy Stone sent 1 and received 57 emails, totalling 58 interactions. Top correspondents: [Yan Jin](people/yan-jin) (1), [Chad Landry](people/chad-landry) (1), [40Enron](people/40enron) (1), [Sheila Knudsen](people/sheila-knudsen) (1).",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sandy-stone",
+    "name": "Sandy Stone",
+    "email": "sandy.stone@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

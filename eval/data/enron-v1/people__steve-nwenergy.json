@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-nwenergy",
+  "type": "person",
+  "title": "Steve",
+  "compiled_truth": "Steve is an external contact at [Nwenergy](companies/nwenergy). Over the corpus period (2000-06-23 to 2001-04-27), Steve sent 0 and received 79 emails, totalling 79 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-nwenergy",
+    "name": "Steve",
+    "email": "steve@nwenergy.org",
+    "primary_affiliation": "companies/nwenergy"
+  }
+}

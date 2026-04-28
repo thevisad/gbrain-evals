@@ -1,0 +1,14 @@
+{
+  "slug": "people/vavrek-haas",
+  "type": "person",
+  "title": "Vavrek",
+  "compiled_truth": "Vavrek is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2001-11-10), Vavrek sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-11-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vavrek-haas",
+    "name": "Vavrek",
+    "email": "vavrek@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

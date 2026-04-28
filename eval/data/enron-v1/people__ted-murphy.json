@@ -1,0 +1,14 @@
+{
+  "slug": "people/ted-murphy",
+  "type": "person",
+  "title": "Ted Murphy",
+  "compiled_truth": "Ted Murphy is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-19), Ted Murphy sent 64 and received 1361 emails, totalling 1425 interactions. Top correspondents: [Rick Buy](people/rick-buy) (37), [Sally Beck](people/sally-beck) (25), [Vince Kaminski](people/vince-kaminski) (10), [S  Bradford](people/s-bradford) (9), [John Lavorato](people/john-lavorato) (7). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ted-murphy",
+    "name": "Ted Murphy",
+    "email": "ted.murphy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

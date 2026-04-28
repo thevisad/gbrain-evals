@@ -1,0 +1,14 @@
+{
+  "slug": "people/hayden",
+  "type": "person",
+  "title": "Hayden",
+  "compiled_truth": "Hayden is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-08 to 2001-06-01), Hayden sent 20 and received 0 emails, totalling 20 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (14), [Vladimir Gorny](people/vladimir-gorny) (13), [David Port](people/david-port) (13), [Louise Kitchen](people/louise-kitchen) (8), [J Kaminski](people/j-kaminski) (5). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hayden",
+    "name": "Hayden",
+    "email": "hayden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

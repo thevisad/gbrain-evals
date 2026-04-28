@@ -1,0 +1,14 @@
+{
+  "slug": "people/eldon-direcpc",
+  "type": "person",
+  "title": "Eldon",
+  "compiled_truth": "Eldon is an external contact at [Direcpc](companies/direcpc). Over the corpus period (2001-04-18 to 2002-01-02), Eldon sent 38 and received 105 emails, totalling 143 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (36), [Kenny' 'Denis](people/kenny-denis) (26), [ Art](people/art) (19), [' 'Eldon](people/eldon) (19), [ Andre](people/andre) (18).",
+  "timeline": "- **2001-04-18** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eldon-direcpc",
+    "name": "Eldon",
+    "email": "eldon@direcpc.com",
+    "primary_affiliation": "companies/direcpc"
+  }
+}

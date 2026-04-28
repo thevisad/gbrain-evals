@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-lizak-itron",
+  "type": "person",
+  "title": "Greg Lizak",
+  "compiled_truth": "Greg Lizak is an external contact at [Itron](companies/itron). Over the corpus period (1999-09-24 to 2000-06-05), Greg Lizak sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2000-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-lizak-itron",
+    "name": "Greg Lizak",
+    "email": "greg.lizak@itron.com",
+    "primary_affiliation": "companies/itron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-laguna",
+  "type": "person",
+  "title": "Team Laguna",
+  "compiled_truth": "Team Laguna is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-18 to 2002-03-22), Team Laguna sent 1 and received 62 emails, totalling 63 interactions. Top correspondents: [Jerry Graves](people/jerry-graves) (1), [Darrell Schoolcraft](people/darrell-schoolcraft) (1), [Rick Smith](people/rick-smith) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-11-18** | First recorded email in corpus\n- **2002-03-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-laguna",
+    "name": "Team Laguna",
+    "email": "team.laguna@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

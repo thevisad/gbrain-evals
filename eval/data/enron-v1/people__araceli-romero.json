@@ -1,0 +1,14 @@
+{
+  "slug": "people/araceli-romero",
+  "type": "person",
+  "title": "Araceli Romero",
+  "compiled_truth": "Araceli Romero is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2002-03-29), Araceli Romero sent 17 and received 175 emails, totalling 192 interactions. Top correspondents: [C  Gossett](people/c-gossett) (6), [Kam Keiser](people/kam-keiser) (6), [Judy Townsend](people/judy-townsend) (5), [Brad Mckay](people/brad-mckay) (5), [Sandra Brawner](people/sandra-brawner) (5). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/araceli-romero",
+    "name": "Araceli Romero",
+    "email": "araceli.romero@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

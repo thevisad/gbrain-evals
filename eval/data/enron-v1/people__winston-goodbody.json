@@ -1,0 +1,14 @@
+{
+  "slug": "people/winston-goodbody",
+  "type": "person",
+  "title": "Winston Goodbody",
+  "compiled_truth": "Winston Goodbody is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-22 to 2001-12-06), Winston Goodbody sent 5 and received 130 emails, totalling 135 interactions. Top correspondents: [Phillip Platter](people/phillip-platter) (4), [Chris Mallory](people/chris-mallory) (4), [Jeff Richter](people/jeff-richter) (4), [Carla Hoffman](people/carla-hoffman) (4), [Kate Symes](people/kate-symes) (4).",
+  "timeline": "- **2000-06-22** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/winston-goodbody",
+    "name": "Winston Goodbody",
+    "email": "winston.goodbody@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

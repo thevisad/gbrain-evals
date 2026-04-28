@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-golden",
+  "type": "person",
+  "title": "Jeff Golden",
+  "compiled_truth": "Jeff Golden is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-05-06), Jeff Golden sent 12 and received 85 emails, totalling 97 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (8), [Mitch Taylor](people/mitch-taylor) (5), [S  Muller](people/s-muller) (4), [Jeff Donahue](people/jeff-donahue) (3), [Rod Hayslett](people/rod-hayslett) (3). Mailbox folders observed: _americas, deleted_items, inbox, projects.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-golden",
+    "name": "Jeff Golden",
+    "email": "jeff.golden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/patti-thompson",
+  "type": "person",
+  "title": "Patti Thompson",
+  "compiled_truth": "Patti Thompson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-14), Patti Thompson sent 197 and received 671 emails, totalling 868 interactions. Top correspondents: [Leslie Reeves](people/leslie-reeves) (44), [Brent Price](people/brent-price) (35), [Brenda Herod](people/brenda-herod) (34), [Bob Hall](people/bob-hall) (33), [Shona Wilson](people/shona-wilson) (31). Mailbox folders observed: _sent_mail, calendar, deleted_items, inbox, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patti-thompson",
+    "name": "Patti Thompson",
+    "email": "patti.thompson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

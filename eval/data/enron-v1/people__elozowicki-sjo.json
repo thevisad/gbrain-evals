@@ -1,0 +1,14 @@
+{
+  "slug": "people/elozowicki-sjo",
+  "type": "person",
+  "title": "Elozowicki",
+  "compiled_truth": "Elozowicki is an external contact at [Sjo](companies/sjo). Over the corpus period (2000-09-01 to 2001-03-29), Elozowicki sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elozowicki-sjo",
+    "name": "Elozowicki",
+    "email": "elozowicki@sjo.coudert.com",
+    "primary_affiliation": "companies/sjo"
+  }
+}

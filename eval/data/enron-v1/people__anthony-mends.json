@@ -1,0 +1,14 @@
+{
+  "slug": "people/anthony-mends",
+  "type": "person",
+  "title": "Anthony Mends",
+  "compiled_truth": "Anthony Mends is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-12-03), Anthony Mends sent 5 and received 60 emails, totalling 65 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (2), [J Kaminski](people/j-kaminski) (2), [Steven Kean](people/steven-kean) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anthony-mends",
+    "name": "Anthony Mends",
+    "email": "anthony.mends@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

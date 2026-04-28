@@ -1,0 +1,14 @@
+{
+  "slug": "people/heidi-withers",
+  "type": "person",
+  "title": "Heidi Withers",
+  "compiled_truth": "Heidi Withers is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-20 to 2000-08-29), Heidi Withers sent 8 and received 53 emails, totalling 61 interactions. Top correspondents: [Mary Smith](people/mary-smith) (7), [Daren Farmer](people/daren-farmer) (6), [Pat Clynes](people/pat-clynes) (4), [David Baumbach](people/david-baumbach) (3), [Stacey Neuweiler](people/stacey-neuweiler) (2).",
+  "timeline": "- **2000-01-20** | First recorded email in corpus\n- **2000-08-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heidi-withers",
+    "name": "Heidi Withers",
+    "email": "heidi.withers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

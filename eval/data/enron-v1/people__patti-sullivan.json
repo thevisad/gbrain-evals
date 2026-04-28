@@ -1,0 +1,14 @@
+{
+  "slug": "people/patti-sullivan",
+  "type": "person",
+  "title": "Patti Sullivan",
+  "compiled_truth": "Patti Sullivan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2002-05-22), Patti Sullivan sent 13 and received 628 emails, totalling 641 interactions. Top correspondents: [Mike Grigsby](people/mike-grigsby) (5), [Matt Smith](people/matt-smith) (2), [Tammy Jaquet](people/tammy-jaquet) (2), [Robert Superty](people/robert-superty) (2), [Richard Pinion](people/richard-pinion) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2002-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patti-sullivan",
+    "name": "Patti Sullivan",
+    "email": "patti.sullivan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

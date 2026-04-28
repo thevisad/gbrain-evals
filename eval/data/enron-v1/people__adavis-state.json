@@ -1,0 +1,14 @@
+{
+  "slug": "people/adavis-state",
+  "type": "person",
+  "title": "Adavis",
+  "compiled_truth": "Adavis is an external contact at [State](companies/state). Over the corpus period (2000-06-23 to 2000-07-10), Adavis sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2000-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adavis-state",
+    "name": "Adavis",
+    "email": "adavis@state.mt.us",
+    "primary_affiliation": "companies/state"
+  }
+}

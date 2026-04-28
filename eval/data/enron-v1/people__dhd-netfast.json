@@ -1,0 +1,14 @@
+{
+  "slug": "people/dhd-netfast",
+  "type": "person",
+  "title": "Dhd",
+  "compiled_truth": "Dhd is an external contact at [Netfast](companies/netfast). Over the corpus period (2000-07-17 to 2000-07-17), Dhd sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dhd-netfast",
+    "name": "Dhd",
+    "email": "dhd@netfast.net",
+    "primary_affiliation": "companies/netfast"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/aaron-martinsen",
+  "type": "person",
+  "title": "Aaron Martinsen",
+  "compiled_truth": "Aaron Martinsen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-29), Aaron Martinsen sent 10 and received 61 emails, totalling 71 interactions. Top correspondents: [B  Childress](people/b-childress) (9), [Mark Friedman](people/mark-friedman) (9), [E Taylor](people/e-taylor) (9), [Derek Wilson](people/derek-wilson) (9), [Trevor Woods](people/trevor-woods) (9). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aaron-martinsen",
+    "name": "Aaron Martinsen",
+    "email": "aaron.martinsen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

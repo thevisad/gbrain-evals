@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-maccallon",
+  "type": "person",
+  "title": "James Maccallon",
+  "compiled_truth": "James Maccallon is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-09 to 2001-10-29), James Maccallon sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-03-09** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-maccallon",
+    "name": "James Maccallon",
+    "email": "james.maccallon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/brent-price",
+  "type": "person",
+  "title": "Brent Price",
+  "compiled_truth": "Brent Price is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-19), Brent Price sent 40 and received 767 emails, totalling 807 interactions. Top correspondents: [Sally Beck](people/sally-beck) (32), [Mike McConnell](people/mike-mcconnell) (8), [Jeffrey Shankman](people/jeffrey-shankman) (4), [Fernley Dyson](people/fernley-dyson) (4), [Ted Murphy](people/ted-murphy) (4). Mailbox folders observed: _americas, egm.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brent-price",
+    "name": "Brent Price",
+    "email": "brent.price@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

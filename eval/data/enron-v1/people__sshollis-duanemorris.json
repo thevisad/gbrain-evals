@@ -1,0 +1,14 @@
+{
+  "slug": "people/sshollis-duanemorris",
+  "type": "person",
+  "title": "Sshollis",
+  "compiled_truth": "Sshollis is an external contact at [Duanemorris](companies/duanemorris). Over the corpus period (2000-09-21 to 2000-11-21), Sshollis sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-09-21** | First recorded email in corpus\n- **2000-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sshollis-duanemorris",
+    "name": "Sshollis",
+    "email": "sshollis@duanemorris.com",
+    "primary_affiliation": "companies/duanemorris"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dennis-oakley-chase",
+  "type": "person",
+  "title": "Dennis Oakley",
+  "compiled_truth": "Dennis Oakley is an external contact at [Chase](companies/chase). Over the corpus period (2000-05-03 to 2001-06-11), Dennis Oakley sent 0 and received 45 emails, totalling 45 interactions.",
+  "timeline": "- **2000-05-03** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dennis-oakley-chase",
+    "name": "Dennis Oakley",
+    "email": "dennis.oakley@chase.com",
+    "primary_affiliation": "companies/chase"
+  }
+}

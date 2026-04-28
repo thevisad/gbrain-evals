@@ -1,0 +1,14 @@
+{
+  "slug": "people/kabedin-powersrc",
+  "type": "person",
+  "title": "Kabedin",
+  "compiled_truth": "Kabedin is an external contact at [Powersrc](companies/powersrc). Over the corpus period (2000-02-16 to 2001-06-11), Kabedin sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-02-16** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kabedin-powersrc",
+    "name": "Kabedin",
+    "email": "kabedin@powersrc.com",
+    "primary_affiliation": "companies/powersrc"
+  }
+}

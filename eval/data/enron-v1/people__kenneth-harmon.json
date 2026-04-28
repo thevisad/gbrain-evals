@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenneth-harmon",
+  "type": "person",
+  "title": "Kenneth Harmon",
+  "compiled_truth": "Kenneth Harmon is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-05-23), Kenneth Harmon sent 1 and received 122 emails, totalling 123 interactions. Top correspondents: [Georgia Ward](people/georgia-ward) (1), [Shirley Machleit](people/shirley-machleit) (1), [Anita Patton](people/anita-patton) (1), [Doug Wilkinson](people/doug-wilkinson) (1), [Larry Aguirre](people/larry-aguirre) (1).",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenneth-harmon",
+    "name": "Kenneth Harmon",
+    "email": "kenneth.harmon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

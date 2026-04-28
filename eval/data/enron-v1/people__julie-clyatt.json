@@ -1,0 +1,14 @@
+{
+  "slug": "people/julie-clyatt",
+  "type": "person",
+  "title": "Julie Clyatt",
+  "compiled_truth": "Julie Clyatt is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-06 to 2002-02-13), Julie Clyatt sent 23 and received 84 emails, totalling 107 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (9), [Neil Davies](people/neil-davies) (8), [Kari Oquinn](people/kari-oquinn) (7), [Louise Kitchen](people/louise-kitchen) (7), [Karen Buckley](people/karen-buckley) (6). Mailbox folders observed: _americas, deleted_items, inbox, ubswenergy_com.",
+  "timeline": "- **2000-09-06** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julie-clyatt",
+    "name": "Julie Clyatt",
+    "email": "julie.clyatt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

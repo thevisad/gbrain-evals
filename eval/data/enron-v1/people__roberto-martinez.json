@@ -1,0 +1,14 @@
+{
+  "slug": "people/roberto-martinez",
+  "type": "person",
+  "title": "Roberto Martinez",
+  "compiled_truth": "Roberto Martinez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-19), Roberto Martinez sent 2 and received 32 emails, totalling 34 interactions. Top correspondents: [Luis Mena](people/luis-mena) (2), [Brian Hoskins](people/brian-hoskins) (2), [Eric Bass](people/eric-bass) (2).",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roberto-martinez",
+    "name": "Roberto Martinez",
+    "email": "roberto.martinez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

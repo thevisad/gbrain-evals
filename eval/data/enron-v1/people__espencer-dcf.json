@@ -1,0 +1,14 @@
+{
+  "slug": "people/espencer-dcf",
+  "type": "person",
+  "title": "Espencer",
+  "compiled_truth": "Espencer is an external contact at [Dcf](companies/dcf). Over the corpus period (2000-07-17 to 2000-07-17), Espencer sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/espencer-dcf",
+    "name": "Espencer",
+    "email": "espencer@dcf.com",
+    "primary_affiliation": "companies/dcf"
+  }
+}

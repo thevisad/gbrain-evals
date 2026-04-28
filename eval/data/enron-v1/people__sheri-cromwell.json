@@ -1,0 +1,14 @@
+{
+  "slug": "people/sheri-cromwell",
+  "type": "person",
+  "title": "Sheri Cromwell",
+  "compiled_truth": "Sheri Cromwell is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-12-31 to 2001-06-12), Sheri Cromwell sent 12 and received 211 emails, totalling 223 interactions. Top correspondents: [Tana Jones](people/tana-jones) (9), [Mark Taylor](people/mark-taylor) (7), [Teresa Bushman](people/teresa-bushman) (6), [Leslie Hansen](people/leslie-hansen) (5), [Anne Koehler](people/anne-koehler) (5).",
+  "timeline": "- **1998-12-31** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sheri-cromwell",
+    "name": "Sheri Cromwell",
+    "email": "sheri.cromwell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

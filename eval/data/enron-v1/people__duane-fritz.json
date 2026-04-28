@@ -1,0 +1,14 @@
+{
+  "slug": "people/duane-fritz",
+  "type": "person",
+  "title": "Duane Fritz",
+  "compiled_truth": "Duane Fritz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2002-05-06), Duane Fritz sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/duane-fritz",
+    "name": "Duane Fritz",
+    "email": "duane.fritz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-hochberg-nypa",
+  "type": "person",
+  "title": "Larry Hochberg",
+  "compiled_truth": "Larry Hochberg is an external contact at [Nypa](companies/nypa). Over the corpus period (2001-04-25 to 2002-02-19), Larry Hochberg sent 8 and received 2 emails, totalling 10 interactions. Top correspondents: [Aadamson](people/aadamson-nycap) (8), [Patrick Callahan](people/patrick-callahan-rge) (8), [Roger Clayton](people/roger-clayton-neg) (8), [Scorey](people/scorey-nyiso) (8), [Jdavis1](people/jdavis1-keyspanenergy) (8).",
+  "timeline": "- **2001-04-25** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-hochberg-nypa",
+    "name": "Larry Hochberg",
+    "email": "larry.hochberg@nypa.gov",
+    "primary_affiliation": "companies/nypa"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/paulett-smith",
+  "type": "person",
+  "title": "Paulett Smith",
+  "compiled_truth": "Paulett Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-22 to 2001-10-19), Paulett Smith sent 2 and received 9 emails, totalling 11 interactions. Top correspondents: [Breakthrough Adm](people/breakthrough-adm) (2).",
+  "timeline": "- **2000-11-22** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paulett-smith",
+    "name": "Paulett Smith",
+    "email": "paulett.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

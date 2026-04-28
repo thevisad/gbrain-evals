@@ -1,0 +1,14 @@
+{
+  "slug": "people/kleindorfer-wharton",
+  "type": "person",
+  "title": "Kleindorfer",
+  "compiled_truth": "Kleindorfer is an external contact at [Wharton](companies/wharton). Over the corpus period (2000-12-14 to 2001-08-24), Kleindorfer sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-12-14** | First recorded email in corpus\n- **2001-08-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kleindorfer-wharton",
+    "name": "Kleindorfer",
+    "email": "kleindorfer@wharton.upenn.edu",
+    "primary_affiliation": "companies/wharton"
+  }
+}

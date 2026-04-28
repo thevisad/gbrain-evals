@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-lindberg",
+  "type": "person",
+  "title": "Susan Lindberg",
+  "compiled_truth": "Susan Lindberg is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-10 to 2002-01-11), Susan Lindberg sent 49 and received 371 emails, totalling 420 interactions. Top correspondents: [L  Nicolay](people/l-nicolay) (40), [D  Steffes](people/d-steffes) (39), [Sarah Novosel](people/sarah-novosel) (34), [Donna Fulton](people/donna-fulton) (33), [Gerald Gilbert](people/gerald-gilbert) (27). Mailbox folders observed: deleted_items, enron_power, ferc, inbox.",
+  "timeline": "- **2001-08-10** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-lindberg",
+    "name": "Susan Lindberg",
+    "email": "susan.lindberg@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

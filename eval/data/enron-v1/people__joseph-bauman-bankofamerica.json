@@ -1,0 +1,14 @@
+{
+  "slug": "people/joseph-bauman-bankofamerica",
+  "type": "person",
+  "title": "Joseph Bauman",
+  "compiled_truth": "Joseph Bauman is an external contact at [Bankofamerica](companies/bankofamerica). Over the corpus period (2000-05-03 to 2000-05-03), Joseph Bauman sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-03** | First recorded email in corpus\n- **2000-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joseph-bauman-bankofamerica",
+    "name": "Joseph Bauman",
+    "email": "joseph.bauman@bankofamerica.com",
+    "primary_affiliation": "companies/bankofamerica"
+  }
+}

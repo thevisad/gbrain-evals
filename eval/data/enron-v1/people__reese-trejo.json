@@ -1,0 +1,14 @@
+{
+  "slug": "people/reese-trejo",
+  "type": "person",
+  "title": "Reese Trejo",
+  "compiled_truth": "Reese Trejo is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-25 to 2002-01-29), Reese Trejo sent 5 and received 108 emails, totalling 113 interactions. Top correspondents: [Juan Hernandez](people/juan-hernandez) (3), [Don Baughman](people/don-baughman) (2), [F  Campbell](people/f-campbell) (1), [Jason Berlin](people/jason-berlin) (1). Mailbox folders observed: inbox, power.",
+  "timeline": "- **2001-05-25** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reese-trejo",
+    "name": "Reese Trejo",
+    "email": "reese.trejo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jschwie1",
+  "type": "person",
+  "title": "Jschwie1",
+  "compiled_truth": "Jschwie1 is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-02 to 2001-04-30), Jschwie1 sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-03-02** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jschwie1",
+    "name": "Jschwie1",
+    "email": "jschwie1@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

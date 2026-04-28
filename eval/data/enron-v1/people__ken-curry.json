@@ -1,0 +1,14 @@
+{
+  "slug": "people/ken-curry",
+  "type": "person",
+  "title": "Ken Curry",
+  "compiled_truth": "Ken Curry is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2001-11-27), Ken Curry sent 0 and received 322 emails, totalling 322 interactions.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ken-curry",
+    "name": "Ken Curry",
+    "email": "ken.curry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

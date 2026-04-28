@@ -1,0 +1,20 @@
+{
+  "slug": "threads/fuel-oil-sample-2001-05",
+  "type": "meeting",
+  "title": "Thread: Fuel Oil Sample",
+  "compiled_truth": "Email thread: \"Fuel Oil Sample\". Ran from 2001-05-14 to 2001-05-17 with 18 messages. Participants: [Doug Leach](people/doug-leach), [Mark Breese](people/mark-breese), [Mathew Gimble](people/mathew-gimble), [Matthew Tezyk](people/matthew-tezyk), [Mike Coleman](people/mike-coleman), [V Weldon](people/v-weldon).",
+  "timeline": "- **2001-05-14** | Thread begins: fuel oil sample\n- **2001-05-17** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/fuel-oil-sample-2001-05",
+    "attendees": [
+      "people/doug-leach",
+      "people/mark-breese",
+      "people/mathew-gimble",
+      "people/matthew-tezyk",
+      "people/mike-coleman",
+      "people/v-weldon"
+    ],
+    "date": "2001-05-14"
+  }
+}

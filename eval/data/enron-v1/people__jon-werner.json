@@ -1,0 +1,14 @@
+{
+  "slug": "people/jon-werner",
+  "type": "person",
+  "title": "Jon Werner",
+  "compiled_truth": "Jon Werner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-13), Jon Werner sent 1 and received 14 emails, totalling 15 interactions. Top correspondents: [David Steiner](people/david-steiner) (1), [Desk Portland](people/desk-portland) (1), [Chip Cox](people/chip-cox) (1), [Security Enron](people/security-enron) (1), [Keith Dziadek](people/keith-dziadek) (1). Mailbox folders observed: read.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jon-werner",
+    "name": "Jon Werner",
+    "email": "jon.werner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

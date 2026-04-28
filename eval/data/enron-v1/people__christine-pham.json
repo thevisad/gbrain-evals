@@ -1,0 +1,14 @@
+{
+  "slug": "people/christine-pham",
+  "type": "person",
+  "title": "Christine Pham",
+  "compiled_truth": "Christine Pham is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2001-11-16), Christine Pham sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christine-pham",
+    "name": "Christine Pham",
+    "email": "christine.pham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

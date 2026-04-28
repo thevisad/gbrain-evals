@@ -1,0 +1,14 @@
+{
+  "slug": "people/kimberly-hamling",
+  "type": "person",
+  "title": "Kimberly Hamling",
+  "compiled_truth": "Kimberly Hamling is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-19 to 2001-11-19), Kimberly Hamling sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-19** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kimberly-hamling",
+    "name": "Kimberly Hamling",
+    "email": "kimberly.hamling@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cooper-claire",
+  "type": "person",
+  "title": "Cooper Claire",
+  "compiled_truth": "Cooper Claire is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-01 to 2001-11-14), Cooper Claire sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-10-01** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cooper-claire",
+    "name": "Cooper Claire",
+    "email": "cooper.claire@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

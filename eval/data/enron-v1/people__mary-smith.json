@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-smith",
+  "type": "person",
+  "title": "Mary Smith",
+  "compiled_truth": "Mary Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-12-06), Mary Smith sent 3 and received 451 emails, totalling 454 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (3), [Michael Eiben](people/michael-eiben) (1), [Pat Clynes](people/pat-clynes) (1), [Lisa Csikos](people/lisa-csikos) (1), [Rita Wynne](people/rita-wynne) (1).",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-smith",
+    "name": "Mary Smith",
+    "email": "mary.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

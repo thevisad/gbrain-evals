@@ -1,0 +1,14 @@
+{
+  "slug": "people/dawn-doucet",
+  "type": "person",
+  "title": "Dawn Doucet",
+  "compiled_truth": "Dawn Doucet is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2002-02-06), Dawn Doucet sent 18 and received 95 emails, totalling 113 interactions. Top correspondents: [John Zufferli](people/john-zufferli) (8), [Cheryl Dawes](people/cheryl-dawes) (7), [David Hanslip](people/david-hanslip) (7), [Kathy Reeves](people/kathy-reeves) (7), [Carla O'Neil](people/carla-o-neil) (6). Mailbox folders observed: deleted_items, inbox, perfmgmt, recuriting.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dawn-doucet",
+    "name": "Dawn Doucet",
+    "email": "dawn.doucet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tina-holcombe",
+  "type": "person",
+  "title": "Tina Holcombe",
+  "compiled_truth": "Tina Holcombe is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-30 to 2002-03-29), Tina Holcombe sent 1 and received 36 emails, totalling 37 interactions. Top correspondents: [D  Merril](people/d-merril) (1), [Liqun Pan](people/liqun-pan) (1), [Richard Ring](people/richard-ring) (1). Mailbox folders observed: eesi_deleted_documents.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tina-holcombe",
+    "name": "Tina Holcombe",
+    "email": "tina.holcombe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

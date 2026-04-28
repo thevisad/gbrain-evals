@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-neville",
+  "type": "person",
+  "title": "Tom Neville",
+  "compiled_truth": "Tom Neville is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-12 to 2002-03-18), Tom Neville sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-11-12** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-neville",
+    "name": "Tom Neville",
+    "email": "tom.neville@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

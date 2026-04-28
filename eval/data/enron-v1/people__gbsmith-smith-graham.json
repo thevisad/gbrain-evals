@@ -1,0 +1,14 @@
+{
+  "slug": "people/gbsmith-smith-graham",
+  "type": "person",
+  "title": "Gbsmith",
+  "compiled_truth": "Gbsmith is an external contact at [Smith-graham](companies/smith-graham). Over the corpus period (2000-11-13 to 2001-05-09), Gbsmith sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gbsmith-smith-graham",
+    "name": "Gbsmith",
+    "email": "gbsmith@smith-graham.com",
+    "primary_affiliation": "companies/smith-graham"
+  }
+}

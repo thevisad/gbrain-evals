@@ -1,0 +1,14 @@
+{
+  "slug": "people/anne-edgley",
+  "type": "person",
+  "title": "Anne Edgley",
+  "compiled_truth": "Anne Edgley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-17 to 2001-11-27), Anne Edgley sent 2 and received 55 emails, totalling 57 interactions. Top correspondents: [Justin Boyd](people/justin-boyd) (2), [Tana Jones](people/tana-jones) (2), [Markus Fiala](people/markus-fiala) (1).",
+  "timeline": "- **2000-01-17** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anne-edgley",
+    "name": "Anne Edgley",
+    "email": "anne.edgley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

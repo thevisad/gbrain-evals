@@ -1,0 +1,14 @@
+{
+  "slug": "people/jon-adler",
+  "type": "person",
+  "title": "Jon Adler",
+  "compiled_truth": "Jon Adler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-22 to 2001-10-22), Jon Adler sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-09-22** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jon-adler",
+    "name": "Jon Adler",
+    "email": "jon.adler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

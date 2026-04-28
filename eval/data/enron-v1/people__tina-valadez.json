@@ -1,0 +1,14 @@
+{
+  "slug": "people/tina-valadez",
+  "type": "person",
+  "title": "Tina Valadez",
+  "compiled_truth": "Tina Valadez is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-10-30), Tina Valadez sent 6 and received 65 emails, totalling 71 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (6), [Kristen Hanson](people/kristen-hanson) (2), [Julie Meyers](people/julie-meyers) (1), [Robert Lloyd](people/robert-lloyd) (1), [Cyndie Balfour-Flanagan](people/cyndie-balfour-flanagan) (1).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tina-valadez",
+    "name": "Tina Valadez",
+    "email": "tina.valadez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

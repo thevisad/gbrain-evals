@@ -1,0 +1,14 @@
+{
+  "slug": "people/kikumi-kishigami",
+  "type": "person",
+  "title": "Kikumi Kishigami",
+  "compiled_truth": "Kikumi Kishigami is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-31 to 2001-12-03), Kikumi Kishigami sent 6 and received 170 emails, totalling 176 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (6), [Ricardo Charvel](people/ricardo-charvel) (1), [Jaime Alatorre](people/jaime-alatorre) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kikumi-kishigami",
+    "name": "Kikumi Kishigami",
+    "email": "kikumi.kishigami@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

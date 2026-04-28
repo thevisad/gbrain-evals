@@ -1,0 +1,16 @@
+{
+  "slug": "companies/gmail",
+  "type": "company",
+  "title": "Gmail",
+  "compiled_truth": "Gmail is an external organization that appears in the Enron email corpus. Domain: gmail.com. Total email interactions with Enron: 0. ",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (0 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/gmail",
+    "name": "Gmail",
+    "employees": [],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

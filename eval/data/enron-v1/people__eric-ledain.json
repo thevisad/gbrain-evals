@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-ledain",
+  "type": "person",
+  "title": "Eric Ledain",
+  "compiled_truth": "Eric Ledain is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-04), Eric Ledain sent 7 and received 148 emails, totalling 155 interactions. Top correspondents: [Kyle Kitagawa](people/kyle-kitagawa) (4), [John Lavorato](people/john-lavorato) (3), [Rob Milnthorp](people/rob-milnthorp) (2), [Jan Wilson](people/jan-wilson) (2), [Louise Kitchen](people/louise-kitchen) (1). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-ledain",
+    "name": "Eric Ledain",
+    "email": "eric.ledain@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-walker",
+  "type": "person",
+  "title": "Robert Walker",
+  "compiled_truth": "Robert Walker is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2001-07-16), Robert Walker sent 19 and received 466 emails, totalling 485 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (12), [Sandi Braband](people/sandi-braband) (8), [Dan Hyvl](people/dan-hyvl) (5), [Kimberlee Bennick](people/kimberlee-bennick) (5), [Shonnie Daniel](people/shonnie-daniel) (5).",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-walker",
+    "name": "Robert Walker",
+    "email": "robert.walker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

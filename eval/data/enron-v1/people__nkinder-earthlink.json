@@ -1,0 +1,14 @@
+{
+  "slug": "people/nkinder-earthlink",
+  "type": "person",
+  "title": "Nkinder",
+  "compiled_truth": "Nkinder is an external contact at [Earthlink](companies/earthlink). Over the corpus period (2000-09-05 to 2001-11-09), Nkinder sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nkinder-earthlink",
+    "name": "Nkinder",
+    "email": "nkinder@earthlink.net",
+    "primary_affiliation": "companies/earthlink"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-etringer",
+  "type": "person",
+  "title": "Michael Etringer",
+  "compiled_truth": "Michael Etringer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2002-03-08), Michael Etringer sent 35 and received 975 emails, totalling 1010 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (20), [Mark Taylor](people/mark-taylor) (9), [David Parquet](people/david-parquet) (7), [F  Calger](people/f-calger) (4), [Michael Tribolet](people/michael-tribolet) (3). Mailbox folders observed: ace, deleted_items, inbox.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-etringer",
+    "name": "Michael Etringer",
+    "email": "michael.etringer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

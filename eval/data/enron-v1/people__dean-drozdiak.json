@@ -1,0 +1,14 @@
+{
+  "slug": "people/dean-drozdiak",
+  "type": "person",
+  "title": "Dean Drozdiak",
+  "compiled_truth": "Dean Drozdiak is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-22 to 2002-02-21), Dean Drozdiak sent 2 and received 60 emails, totalling 62 interactions. Top correspondents: [Stephanie Panus](people/stephanie-panus) (1), [Barry Tycholiz](people/barry-tycholiz) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-02-22** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dean-drozdiak",
+    "name": "Dean Drozdiak",
+    "email": "dean.drozdiak@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

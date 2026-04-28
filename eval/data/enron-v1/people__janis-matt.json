@@ -1,0 +1,14 @@
+{
+  "slug": "people/janis-matt",
+  "type": "person",
+  "title": "Janis Matt",
+  "compiled_truth": "Janis Matt is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-26 to 2001-11-26), Janis Matt sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janis-matt",
+    "name": "Janis Matt",
+    "email": "janis.matt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rehman-sharif",
+  "type": "person",
+  "title": "Rehman Sharif",
+  "compiled_truth": "Rehman Sharif is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-14), Rehman Sharif sent 1 and received 14 emails, totalling 15 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rehman-sharif",
+    "name": "Rehman Sharif",
+    "email": "rehman.sharif@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

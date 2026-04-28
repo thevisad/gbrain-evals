@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-berger",
+  "type": "person",
+  "title": "Michael Berger",
+  "compiled_truth": "Michael Berger is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-21 to 2002-02-06), Michael Berger sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-11-21** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-berger",
+    "name": "Michael Berger",
+    "email": "michael.berger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-gagliardi",
+  "type": "person",
+  "title": "Larry Gagliardi",
+  "compiled_truth": "Larry Gagliardi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-11 to 2001-11-27), Larry Gagliardi sent 2 and received 105 emails, totalling 107 interactions. Top correspondents: [Tana Jones](people/tana-jones) (1), [A  Shankman](people/a-shankman) (1), [L  Nowlan](people/l-nowlan) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-05-11** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-gagliardi",
+    "name": "Larry Gagliardi",
+    "email": "larry.gagliardi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

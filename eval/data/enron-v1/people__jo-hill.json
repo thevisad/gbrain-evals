@@ -1,0 +1,14 @@
+{
+  "slug": "people/jo-hill",
+  "type": "person",
+  "title": "Jo Hill",
+  "compiled_truth": "Jo Hill is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-07-19), Jo Hill sent 20 and received 23 emails, totalling 43 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (19), [Carolyn Cooney](people/carolyn-cooney) (2), [Linda Robertson](people/linda-robertson) (2), [Harry Kingerski](people/harry-kingerski) (2), [Susan Mara](people/susan-mara) (2). Mailbox folders observed: 2001_prc__midyear.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jo-hill",
+    "name": "Jo Hill",
+    "email": "jo.hill@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/micha-makowsky",
+  "type": "person",
+  "title": "Micha Makowsky",
+  "compiled_truth": "Micha Makowsky is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-24 to 2001-07-24), Micha Makowsky sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-02-24** | First recorded email in corpus\n- **2001-07-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/micha-makowsky",
+    "name": "Micha Makowsky",
+    "email": "micha.makowsky@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

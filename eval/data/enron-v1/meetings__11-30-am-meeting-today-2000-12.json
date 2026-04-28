@@ -1,0 +1,26 @@
+{
+  "slug": "meetings/11-30-am-meeting-today-2000-12",
+  "type": "meeting",
+  "title": "Meeting: 11:30 Am Meeting Today",
+  "compiled_truth": "Meeting: \"11:30 Am Meeting Today\". Occurred 2000-12-08 with 1 related emails. Participants included: [Bo Barnwell](people/bo-barnwell), [Bonnie Shumaker](people/bonnie-shumaker), [Bruno Messer](people/bruno-messer), [Dave Laipple](people/dave-laipple), [Gerald Nemec](people/gerald-nemec), [Greg Cordell](people/greg-cordell), [Iris Waser](people/iris-waser), [Lily Guerra](people/lily-guerra)....",
+  "timeline": "- **2000-12-08** | Meeting: 11:30 am meeting today",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/11-30-am-meeting-today-2000-12",
+    "attendees": [
+      "people/bo-barnwell",
+      "people/bonnie-shumaker",
+      "people/bruno-messer",
+      "people/dave-laipple",
+      "people/gerald-nemec",
+      "people/greg-cordell",
+      "people/iris-waser",
+      "people/lily-guerra",
+      "people/mark-knippa",
+      "people/melissa-jones",
+      "people/mike-smith",
+      "people/xochitl-alexis-velasco"
+    ],
+    "date": "2000-12-08"
+  }
+}

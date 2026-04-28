@@ -1,0 +1,14 @@
+{
+  "slug": "people/atticus-lyon",
+  "type": "person",
+  "title": "Atticus Lyon",
+  "compiled_truth": "Atticus Lyon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-02-22), Atticus Lyon sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/atticus-lyon",
+    "name": "Atticus Lyon",
+    "email": "atticus.lyon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

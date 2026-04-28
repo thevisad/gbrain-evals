@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenneth-e-moll-us",
+  "type": "person",
+  "title": "Kenneth E Moll",
+  "compiled_truth": "Kenneth E Moll is an external contact at [Us](companies/us). Over the corpus period (2000-05-18 to 2000-09-18), Kenneth E Moll sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenneth-e-moll-us",
+    "name": "Kenneth E Moll",
+    "email": "kenneth.e.moll@us.arthurandersen.com",
+    "primary_affiliation": "companies/us"
+  }
+}

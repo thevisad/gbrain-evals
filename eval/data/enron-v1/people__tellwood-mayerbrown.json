@@ -1,0 +1,14 @@
+{
+  "slug": "people/tellwood-mayerbrown",
+  "type": "person",
+  "title": "Tellwood",
+  "compiled_truth": "Tellwood is an external contact at [Mayerbrown](companies/mayerbrown). Over the corpus period (2000-03-16 to 2000-12-04), Tellwood sent 0 and received 80 emails, totalling 80 interactions.",
+  "timeline": "- **2000-03-16** | First recorded email in corpus\n- **2000-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tellwood-mayerbrown",
+    "name": "Tellwood",
+    "email": "tellwood@mayerbrown.com",
+    "primary_affiliation": "companies/mayerbrown"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gthorse-keyad",
+  "type": "person",
+  "title": "Gthorse",
+  "compiled_truth": "Gthorse is an external contact at [Keyad](companies/keyad). Over the corpus period (2001-03-08 to 2001-12-17), Gthorse sent 3 and received 34 emails, totalling 37 interactions. Top correspondents: [K  Allen](people/k-allen) (2), [Phillip K Allen](people/phillip-k-allen) (1).",
+  "timeline": "- **2001-03-08** | First recorded email in corpus\n- **2001-12-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gthorse-keyad",
+    "name": "Gthorse",
+    "email": "gthorse@keyad.com",
+    "primary_affiliation": "companies/keyad"
+  }
+}

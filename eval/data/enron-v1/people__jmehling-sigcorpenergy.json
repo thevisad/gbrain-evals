@@ -1,0 +1,14 @@
+{
+  "slug": "people/jmehling-sigcorpenergy",
+  "type": "person",
+  "title": "Jmehling",
+  "compiled_truth": "Jmehling is an external contact at [Sigcorpenergy](companies/sigcorpenergy). Over the corpus period (2001-05-02 to 2001-05-15), Jmehling sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jmehling-sigcorpenergy",
+    "name": "Jmehling",
+    "email": "jmehling@sigcorpenergy.com",
+    "primary_affiliation": "companies/sigcorpenergy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/siddalld-epenergy",
+  "type": "person",
+  "title": "Siddalld",
+  "compiled_truth": "Siddalld is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2000-07-17 to 2000-12-01), Siddalld sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus\n- **2000-12-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/siddalld-epenergy",
+    "name": "Siddalld",
+    "email": "siddalld@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

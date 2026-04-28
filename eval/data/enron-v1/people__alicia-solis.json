@@ -1,0 +1,14 @@
+{
+  "slug": "people/alicia-solis",
+  "type": "person",
+  "title": "Alicia Solis",
+  "compiled_truth": "Alicia Solis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2002-05-06), Alicia Solis sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alicia-solis",
+    "name": "Alicia Solis",
+    "email": "alicia.solis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

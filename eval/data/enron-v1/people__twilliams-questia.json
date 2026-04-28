@@ -1,0 +1,14 @@
+{
+  "slug": "people/twilliams-questia",
+  "type": "person",
+  "title": "Twilliams",
+  "compiled_truth": "Twilliams is an external contact at [Questia](companies/questia). Over the corpus period (2000-10-31 to 2000-10-31), Twilliams sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-31** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/twilliams-questia",
+    "name": "Twilliams",
+    "email": "twilliams@questia.com",
+    "primary_affiliation": "companies/questia"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "companies/stoel",
+  "type": "company",
+  "title": "Stoel",
+  "compiled_truth": "Stoel is an external organization that appears in the Enron email corpus. Domain: stoel.com. Total email interactions with Enron: 339. Known contacts: 21 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (339 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/stoel",
+    "name": "Stoel",
+    "employees": [
+      "people/boylston-stoel",
+      "people/djcarey-stoel",
+      "people/dldorrell-stoel",
+      "people/eeinowski-stoel",
+      "people/jcpaine-stoel",
+      "people/jrboose-stoel",
+      "people/ktakahashi-stoel",
+      "people/mailer-daemon-stoel",
+      "people/moconnell-stoel",
+      "people/mwood-stoel",
+      "people/paramfjord-stoel",
+      "people/pboylston-stoel",
+      "people/pgboylston-stoel",
+      "people/pljacklin-stoel",
+      "people/rcjosephson-stoel",
+      "people/schall-stoel",
+      "people/sjkaplan-stoel",
+      "people/snkripalani-stoel",
+      "people/sswalters-stoel",
+      "people/tebarker-stoel",
+      "people/wlpernas-stoel"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

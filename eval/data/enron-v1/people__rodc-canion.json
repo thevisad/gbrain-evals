@@ -1,0 +1,14 @@
+{
+  "slug": "people/rodc-canion",
+  "type": "person",
+  "title": "Rodc",
+  "compiled_truth": "Rodc is an external contact at [Canion](companies/canion). Over the corpus period (2000-10-31 to 2000-10-31), Rodc sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-31** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rodc-canion",
+    "name": "Rodc",
+    "email": "rodc@canion.com",
+    "primary_affiliation": "companies/canion"
+  }
+}

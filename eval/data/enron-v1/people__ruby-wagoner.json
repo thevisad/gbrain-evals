@@ -1,0 +1,14 @@
+{
+  "slug": "people/ruby-wagoner",
+  "type": "person",
+  "title": "Ruby Wagoner",
+  "compiled_truth": "Ruby Wagoner is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-02-06), Ruby Wagoner sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ruby-wagoner",
+    "name": "Ruby Wagoner",
+    "email": "ruby.wagoner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

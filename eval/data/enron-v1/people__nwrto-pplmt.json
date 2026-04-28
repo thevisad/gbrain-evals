@@ -1,0 +1,14 @@
+{
+  "slug": "people/nwrto-pplmt",
+  "type": "person",
+  "title": "Nwrto",
+  "compiled_truth": "Nwrto is an external contact at [Pplmt](companies/pplmt). Over the corpus period (2000-06-21 to 2001-04-26), Nwrto sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nwrto-pplmt",
+    "name": "Nwrto",
+    "email": "nwrto@pplmt.com",
+    "primary_affiliation": "companies/pplmt"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/barney-brasher",
+  "type": "person",
+  "title": "Barney Brasher",
+  "compiled_truth": "Barney Brasher is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-25), Barney Brasher sent 1 and received 69 emails, totalling 70 interactions. Top correspondents: [Dan Pribble](people/dan-pribble) (1), [Rod Hayslett](people/rod-hayslett) (1), [Morris Brassfield](people/morris-brassfield) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barney-brasher",
+    "name": "Barney Brasher",
+    "email": "barney.brasher@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/janine-juggins",
+  "type": "person",
+  "title": "Janine Juggins",
+  "compiled_truth": "Janine Juggins is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-25), Janine Juggins sent 26 and received 142 emails, totalling 168 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (16), [Stephen Douglas](people/stephen-douglas) (9), [Jeff Blumenthal](people/jeff-blumenthal) (9), [Mark Taylor](people/mark-taylor) (9), [Susan Musch](people/susan-musch) (7). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janine-juggins",
+    "name": "Janine Juggins",
+    "email": "janine.juggins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

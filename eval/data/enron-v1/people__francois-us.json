@@ -1,0 +1,14 @@
+{
+  "slug": "people/francois-us",
+  "type": "person",
+  "title": "Francois",
+  "compiled_truth": "Francois is an external contact at [Us](companies/us). Over the corpus period (2000-09-07 to 2001-05-24), Francois sent 0 and received 33 emails, totalling 33 interactions.",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-05-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/francois-us",
+    "name": "Francois",
+    "email": "francois@us.cibc.com",
+    "primary_affiliation": "companies/us"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kmagrud",
+  "type": "person",
+  "title": "Kmagrud",
+  "compiled_truth": "Kmagrud is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-24 to 2000-09-14), Kmagrud sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-08-24** | First recorded email in corpus\n- **2000-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kmagrud",
+    "name": "Kmagrud",
+    "email": "kmagrud@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

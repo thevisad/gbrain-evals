@@ -1,0 +1,14 @@
+{
+  "slug": "people/reid-hansen",
+  "type": "person",
+  "title": "Reid Hansen",
+  "compiled_truth": "Reid Hansen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-01), Reid Hansen sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reid-hansen",
+    "name": "Reid Hansen",
+    "email": "reid.hansen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

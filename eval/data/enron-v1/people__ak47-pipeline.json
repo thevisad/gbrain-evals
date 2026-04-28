@@ -1,0 +1,14 @@
+{
+  "slug": "people/ak47-pipeline",
+  "type": "person",
+  "title": "Ak47",
+  "compiled_truth": "Ak47 is an external contact at [Pipeline](companies/pipeline). Over the corpus period (2000-05-18 to 2000-09-18), Ak47 sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ak47-pipeline",
+    "name": "Ak47",
+    "email": "ak47@pipeline.com",
+    "primary_affiliation": "companies/pipeline"
+  }
+}

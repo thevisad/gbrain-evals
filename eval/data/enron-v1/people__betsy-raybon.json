@@ -1,0 +1,14 @@
+{
+  "slug": "people/betsy-raybon",
+  "type": "person",
+  "title": "Betsy Raybon",
+  "compiled_truth": "Betsy Raybon is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2001-11-16), Betsy Raybon sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/betsy-raybon",
+    "name": "Betsy Raybon",
+    "email": "betsy.raybon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

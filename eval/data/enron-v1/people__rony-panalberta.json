@@ -1,0 +1,14 @@
+{
+  "slug": "people/rony-panalberta",
+  "type": "person",
+  "title": "Rony",
+  "compiled_truth": "Rony is an external contact at [Panalberta](companies/panalberta). Over the corpus period (2000-10-27 to 2001-05-11), Rony sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rony-panalberta",
+    "name": "Rony",
+    "email": "rony@panalberta.com",
+    "primary_affiliation": "companies/panalberta"
+  }
+}

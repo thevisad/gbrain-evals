@@ -1,0 +1,14 @@
+{
+  "slug": "people/maria-garza",
+  "type": "person",
+  "title": "Maria Garza",
+  "compiled_truth": "Maria Garza is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-23 to 2002-06-25), Maria Garza sent 22 and received 372 emails, totalling 394 interactions. Top correspondents: [Chris Germany](people/chris-germany) (16), [Ruth Concannon](people/ruth-concannon) (11), [Robin Barbe](people/robin-barbe) (7), [Rita Wynne](people/rita-wynne) (7), [Louis Dicarlo](people/louis-dicarlo) (4). Mailbox folders observed: bankrupt, inbox.",
+  "timeline": "- **1999-12-23** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maria-garza",
+    "name": "Maria Garza",
+    "email": "maria.garza@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

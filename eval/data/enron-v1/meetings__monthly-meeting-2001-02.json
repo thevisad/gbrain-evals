@@ -1,0 +1,36 @@
+{
+  "slug": "meetings/monthly-meeting-2001-02",
+  "type": "meeting",
+  "title": "Meeting: Monthly Meeting",
+  "compiled_truth": "Meeting: \"Monthly Meeting\". Occurred 2001-02-19 with 1 related emails. Participants included: [Benjamin Rogers](people/benjamin-rogers), [Chad Starnes](people/chad-starnes), [Christopher Watts](people/christopher-watts), [Cyril Price](people/cyril-price), [Dean Laurent](people/dean-laurent), [Don Baughman](people/don-baughman), [Doug Miller](people/doug-miller), [Greg Trefz](people/greg-trefz)....",
+  "timeline": "- **2001-02-19** | Meeting: monthly meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/monthly-meeting-2001-02",
+    "attendees": [
+      "people/benjamin-rogers",
+      "people/chad-starnes",
+      "people/christopher-watts",
+      "people/cyril-price",
+      "people/dean-laurent",
+      "people/don-baughman",
+      "people/doug-miller",
+      "people/greg-trefz",
+      "people/joe-errigo",
+      "people/joe-stepenovitch",
+      "people/john-kinser",
+      "people/juan-hernandez",
+      "people/juan-padron",
+      "people/kayne-coulter",
+      "people/keller-mayeaux",
+      "people/larry-campbell",
+      "people/larry-jester",
+      "people/miguel-garcia",
+      "people/narsimha-misra",
+      "people/richard-hrabal",
+      "people/rudy-acevedo",
+      "people/steve-olinde"
+    ],
+    "date": "2001-02-19"
+  }
+}

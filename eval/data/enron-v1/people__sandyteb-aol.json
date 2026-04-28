@@ -1,0 +1,14 @@
+{
+  "slug": "people/sandyteb-aol",
+  "type": "person",
+  "title": "Sandyteb",
+  "compiled_truth": "Sandyteb is an external contact at [AOL](companies/aol). Over the corpus period (2001-01-27 to 2002-03-08), Sandyteb sent 37 and received 2 emails, totalling 39 interactions. Top correspondents: [Tlokey](people/tlokey) (23), [Teb Lokey](people/teb-lokey) (6), [Abaxter](people/abaxter-qwest) (2), [Sburton](people/sburton-utsa) (2), [Amdtravel](people/amdtravel-hotmail) (2).",
+  "timeline": "- **2001-01-27** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sandyteb-aol",
+    "name": "Sandyteb",
+    "email": "sandyteb@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/becky-pham",
+  "type": "person",
+  "title": "Becky Pham",
+  "compiled_truth": "Becky Pham is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-03 to 2002-05-06), Becky Pham sent 9 and received 34 emails, totalling 43 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (8), [Shirley Crenshaw](people/shirley-crenshaw) (5), [Wade Stubblefield](people/wade-stubblefield) (1), [Kerry Roper](people/kerry-roper) (1), [Meredith' 'Eggleston](people/meredith-eggleston) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-04-03** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/becky-pham",
+    "name": "Becky Pham",
+    "email": "becky.pham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

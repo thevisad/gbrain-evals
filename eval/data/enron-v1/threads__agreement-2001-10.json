@@ -1,0 +1,29 @@
+{
+  "slug": "threads/agreement-2001-10",
+  "type": "meeting",
+  "title": "Thread: Agreement",
+  "compiled_truth": "Email thread: \"Agreement\". Ran from 2001-10-10 to 2001-11-02 with 7 messages. Participants: [Clint Freeland](people/clint-freeland), [Debra Perlingiere](people/debra-perlingiere), [Exec Jones](people/exec-jones), [Jeff Nogid](people/jeff-nogid), [Jim Armogida](people/jim-armogida), [Laura Luce](people/laura-luce), [Lorraine Lindberg](people/lorraine-lindberg), [Louise Kitchen](people/louise-kitchen).",
+  "timeline": "- **2001-10-10** | Thread begins: agreement\n- **2001-11-02** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/agreement-2001-10",
+    "attendees": [
+      "people/clint-freeland",
+      "people/debra-perlingiere",
+      "people/exec-jones",
+      "people/jeff-nogid",
+      "people/jim-armogida",
+      "people/laura-luce",
+      "people/lorraine-lindberg",
+      "people/louise-kitchen",
+      "people/mblanco-calpine",
+      "people/michelle-lokay",
+      "people/pmaxwell-constellationmgt",
+      "people/rex-rogers",
+      "people/rhackman-lehman",
+      "people/sara-shackleton",
+      "people/tim-despain"
+    ],
+    "date": "2001-10-10"
+  }
+}

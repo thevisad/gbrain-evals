@@ -1,0 +1,14 @@
+{
+  "slug": "people/amainel-azurix",
+  "type": "person",
+  "title": "Amainel",
+  "compiled_truth": "Amainel is an external contact at [Azurix](companies/azurix). Over the corpus period (2001-03-02 to 2001-04-30), Amainel sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-03-02** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amainel-azurix",
+    "name": "Amainel",
+    "email": "amainel@azurix.com",
+    "primary_affiliation": "companies/azurix"
+  }
+}

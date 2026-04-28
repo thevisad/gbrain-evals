@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-tregar",
+  "type": "person",
+  "title": "David Tregar",
+  "compiled_truth": "David Tregar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-13 to 2001-07-23), David Tregar sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus\n- **2001-07-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-tregar",
+    "name": "David Tregar",
+    "email": "david.tregar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

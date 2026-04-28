@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-craddock",
+  "type": "person",
+  "title": "Larry Craddock",
+  "compiled_truth": "Larry Craddock is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-06 to 2002-03-25), Larry Craddock sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-01-06** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-craddock",
+    "name": "Larry Craddock",
+    "email": "larry.craddock@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

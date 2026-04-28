@@ -1,0 +1,14 @@
+{
+  "slug": "people/heidi-coppola-ssmb",
+  "type": "person",
+  "title": "Heidi Coppola",
+  "compiled_truth": "Heidi Coppola is an external contact at [Ssmb](companies/ssmb). Over the corpus period (2000-05-03 to 2000-05-09), Heidi Coppola sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-05-03** | First recorded email in corpus\n- **2000-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heidi-coppola-ssmb",
+    "name": "Heidi Coppola",
+    "email": "heidi.coppola@ssmb.com",
+    "primary_affiliation": "companies/ssmb"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/angus-ashman",
+  "type": "person",
+  "title": "Angus Ashman",
+  "compiled_truth": "Angus Ashman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-08 to 2001-05-09), Angus Ashman sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angus-ashman",
+    "name": "Angus Ashman",
+    "email": "angus.ashman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

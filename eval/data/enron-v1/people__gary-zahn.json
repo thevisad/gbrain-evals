@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-zahn",
+  "type": "person",
+  "title": "Gary Zahn",
+  "compiled_truth": "Gary Zahn is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Gary Zahn sent 5 and received 76 emails, totalling 81 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (4), [Bob Chandler](people/bob-chandler) (2), [Steve Gilbert](people/steve-gilbert) (1), [Elaine Concklin](people/elaine-concklin) (1), [Tracy Geaccone](people/tracy-geaccone) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-zahn",
+    "name": "Gary Zahn",
+    "email": "gary.zahn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-alley",
+  "type": "person",
+  "title": "Steve Alley",
+  "compiled_truth": "Steve Alley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-20 to 2000-06-20), Steve Alley sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-alley",
+    "name": "Steve Alley",
+    "email": "steve.alley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lorraine-lindberg",
+  "type": "person",
+  "title": "Lorraine Lindberg",
+  "compiled_truth": "Lorraine Lindberg is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-25), Lorraine Lindberg sent 134 and received 1815 emails, totalling 1949 interactions. Top correspondents: [Michelle Lokay](people/michelle-lokay) (65), [Kimberly Watson](people/kimberly-watson) (51), [Tk Lohman](people/tk-lohman) (34), [Kevin Hyatt](people/kevin-hyatt) (29), [Steven Harris](people/steven-harris) (22). Mailbox folders observed: corporate, deleted_items, e_mail_bin, elpaso_pipeline, inbox, lorraine_s_files.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lorraine-lindberg",
+    "name": "Lorraine Lindberg",
+    "email": "lorraine.lindberg@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

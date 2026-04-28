@@ -1,0 +1,14 @@
+{
+  "slug": "people/les-webber",
+  "type": "person",
+  "title": "Les Webber",
+  "compiled_truth": "Les Webber is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-01 to 2001-11-20), Les Webber sent 12 and received 115 emails, totalling 127 interactions. Top correspondents: [Phil Demoes](people/phil-demoes) (6), [Rod Hayslett](people/rod-hayslett) (5), [James Mcmillan](people/james-mcmillan) (3), [Eric Groves](people/eric-groves) (3), [Daniel Rogers](people/daniel-rogers) (2). Mailbox folders observed: projects.",
+  "timeline": "- **2000-02-01** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/les-webber",
+    "name": "Les Webber",
+    "email": "les.webber@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

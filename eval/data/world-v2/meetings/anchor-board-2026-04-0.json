@@ -1,0 +1,32 @@
+{
+  "slug": "meetings/anchor-board-2026-04-0",
+  "type": "meeting",
+  "title": "Anchor Board Meeting Q1 2026",
+  "compiled_truth": "The first formal board meeting of [Anchor Codec](companies/anchor) took place on April 15, 2026 at Anchor's temporary office space in the Mission district. Attendees were [Seren Voss](people/seren-voss) (CEO/co-founder), [Ora Yamamoto](people/ora-yamamoto) (CTO/co-founder), [Bex Andersen](people/bex-andersen) (board observer, lead investor from the seed round), and [Dani Osei](people/dani-osei) (independent board member, operating partner background).\n\nThe meeting ran about ninety minutes and covered two major agenda items: the close of the seed round, and early customer pipeline. Seren opened by confirming that the $3.4M seed had officially closed on April 2nd, with Bex's fund leading at $2.1M and the remainder filled by two smaller checks plus angels. Runway was estimated at 18 months assuming the current burn of ~$155K/month, which Seren noted would increase as they made their next two engineering hires. Ora walked through the current state of the single-pass primitives, noting that the core deterministic pipeline was stable enough for controlled testing but not yet hardened for production workloads. She flagged a concern about edge behavior under adversarial input patterns and said she wanted at least one more quarter before any commitmnts to GA timelines.\n\nThe customer pipeline discussion was more contentious. Seren presented five companies in various stages of conversation — two logistics platforms, a mid-size fintech, and two media companies. [Dani Osei](people/dani-osei) pushed back on the breadth, arguing that Anchor should pick one vertical and go deep rather than spreading across three. Bex largely agreed but was more diplomatic about it, suggesting that the fintech lead looked strongest because their pain around data integrity in transit was most acute. Seren acknowledged the feedback but didn't commit to narrowing immediately, saying she wanted to let the conversations play out through May before making a call.\n\nOther items covered briefly: Ora requested budget for a small dedicated test cluster; the board approved $12K/month for cloud infrastructure. There was a short discussion about whether to hire a developer relations person before or after landing the first paying customer — consensus was after, but [Bex Andersen](people/bex-andersen) offered to make introductions to two technical writers who might consult in the interim. Meeting adjourned with a follow-up scheduled for July.",
+  "timeline": [
+    "- **2026-04-02** | Anchor Codec seed round officially closes at $3.4M, led by [Bex Andersen](people/bex-andersen)'s fund.",
+    "- **2026-04-15** | First formal board meeting held; discussion of seed close and early customer pipeline. [Dani Osei](people/dani-osei) joins as independent board member.",
+    "- **2026-05-10** | [Seren Voss](people/seren-voss) sends board update noting fintech lead has moved to technical evaluation stage.",
+    "- **2026-06-03** | [Ora Yamamoto](people/ora-yamamoto) completes adversarial input hardening pass on core pipeline; internal milestone tagged v0.3.",
+    "- **2026-07-22** | Q2 board meeting; Anchor reports first signed design partner (fintech vertical).",
+    "- **2026-09-15** | Third engineering hire starts — systems engineer focused on deployment tooling.",
+    "- **2026-12-01** | [Anchor Codec](companies/anchor) ships private beta to three design partners.",
+    "- **2027-03-18** | First paying customer contract signed, $48K ARR.",
+    "- **2027-07-10** | Series A planning discussions begin; [Bex Andersen](people/bex-andersen) introduces Anchor to two growth-stage funds."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/anchor-board-2026-04-0",
+    "name": "Anchor Board Meeting Q1 2026",
+    "meeting_type": "board_meeting",
+    "date": "2026-04-15",
+    "attendees": [
+      "people/seren-voss",
+      "people/ora-yamamoto",
+      "people/bex-andersen",
+      "people/dani-osei"
+    ],
+    "topic_company": "companies/anchor",
+    "topic": "Seed round close + first customer pipeline"
+  }
+}

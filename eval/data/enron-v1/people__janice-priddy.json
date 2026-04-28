@@ -1,0 +1,14 @@
+{
+  "slug": "people/janice-priddy",
+  "type": "person",
+  "title": "Janice Priddy",
+  "compiled_truth": "Janice Priddy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-01-09), Janice Priddy sent 0 and received 88 emails, totalling 88 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janice-priddy",
+    "name": "Janice Priddy",
+    "email": "janice.priddy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffn-subutil",
+  "type": "person",
+  "title": "Jeffn",
+  "compiled_truth": "Jeffn is an external contact at [Subutil](companies/subutil). Over the corpus period (2001-02-20 to 2001-04-27), Jeffn sent 5 and received 62 emails, totalling 67 interactions. Top correspondents: [Jack Speer](people/jack-speer-alcoa) (5), [Crow](people/crow-millernash) (5), [Michaelearly](people/michaelearly-earthlink) (5), [Eauverde](people/eauverde-hotmail) (5), [Tdeboer](people/tdeboer-painehamblen) (5).",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffn-subutil",
+    "name": "Jeffn",
+    "email": "jeffn@subutil.com",
+    "primary_affiliation": "companies/subutil"
+  }
+}

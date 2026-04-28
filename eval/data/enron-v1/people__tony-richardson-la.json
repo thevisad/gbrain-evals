@@ -1,0 +1,14 @@
+{
+  "slug": "people/tony-richardson-la",
+  "type": "person",
+  "title": "Tony Richardson",
+  "compiled_truth": "Tony Richardson is an external contact at [La](companies/la). Over the corpus period (2001-01-11 to 2001-06-11), Tony Richardson sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2001-01-11** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tony-richardson-la",
+    "name": "Tony Richardson",
+    "email": "tony_richardson@la.kirkland.com",
+    "primary_affiliation": "companies/la"
+  }
+}

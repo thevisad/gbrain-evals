@@ -1,0 +1,14 @@
+{
+  "slug": "people/bogden-ogwb",
+  "type": "person",
+  "title": "Bogden",
+  "compiled_truth": "Bogden is an external contact at [Ogwb](companies/ogwb). Over the corpus period (1980-01-01 to 2001-10-30), Bogden sent 3 and received 49 emails, totalling 52 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (2), [Richard B Sanders](people/richard-b-sanders) (1), [Lgibson](people/lgibson-ogwb) (1), [Elizabeth Sager](people/elizabeth-sager) (1), [Ebaughm](people/ebaughm) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bogden-ogwb",
+    "name": "Bogden",
+    "email": "bogden@ogwb.com",
+    "primary_affiliation": "companies/ogwb"
+  }
+}

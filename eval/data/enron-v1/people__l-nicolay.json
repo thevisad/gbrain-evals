@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-nicolay",
+  "type": "person",
+  "title": "L  Nicolay",
+  "compiled_truth": "L  Nicolay is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-02 to 2002-02-14), L  Nicolay sent 134 and received 960 emails, totalling 1094 interactions. Top correspondents: [D  Steffes](people/d-steffes) (101), [Sarah Novosel](people/sarah-novosel) (38), [Rogers Herndon](people/rogers-herndon) (38), [M  Presto](people/m-presto) (37), [Richard Shapiro](people/richard-shapiro) (33). Mailbox folders observed: _americas, california_issues, compliments, credit_issues, deleted_items, eesiisonewengland.",
+  "timeline": "- **2001-08-02** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-nicolay",
+    "name": "L  Nicolay",
+    "email": "l..nicolay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

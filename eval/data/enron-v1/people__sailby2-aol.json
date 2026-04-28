@@ -1,0 +1,14 @@
+{
+  "slug": "people/sailby2-aol",
+  "type": "person",
+  "title": "Sailby2",
+  "compiled_truth": "Sailby2 is an external contact at [AOL](companies/aol). Over the corpus period (2001-09-17 to 2001-11-19), Sailby2 sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sailby2-aol",
+    "name": "Sailby2",
+    "email": "sailby2@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

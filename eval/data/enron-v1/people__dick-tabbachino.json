@@ -1,0 +1,14 @@
+{
+  "slug": "people/dick-tabbachino",
+  "type": "person",
+  "title": "Dick Tabbachino",
+  "compiled_truth": "Dick Tabbachino is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-17 to 2001-12-10), Dick Tabbachino sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2001-10-17** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dick-tabbachino",
+    "name": "Dick Tabbachino",
+    "email": "dick.tabbachino@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sharon-morgan",
+  "type": "person",
+  "title": "Sharon Morgan",
+  "compiled_truth": "Sharon Morgan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2001-06-07), Sharon Morgan sent 1 and received 30 emails, totalling 31 interactions. Top correspondents: [John Ale](people/john-ale) (1), [Charles Cheek](people/charles-cheek) (1), [James Derrick](people/james-derrick) (1), [Mark Haedicke](people/mark-haedicke) (1), [Elizabeth Labanowski](people/elizabeth-labanowski) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sharon-morgan",
+    "name": "Sharon Morgan",
+    "email": "sharon.morgan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

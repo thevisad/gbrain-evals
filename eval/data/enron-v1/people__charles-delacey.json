@@ -1,0 +1,14 @@
+{
+  "slug": "people/charles-delacey",
+  "type": "person",
+  "title": "Charles Delacey",
+  "compiled_truth": "Charles Delacey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-16 to 2002-05-06), Charles Delacey sent 0 and received 100 emails, totalling 100 interactions.",
+  "timeline": "- **2000-03-16** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charles-delacey",
+    "name": "Charles Delacey",
+    "email": "charles.delacey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

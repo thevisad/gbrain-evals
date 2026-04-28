@@ -1,0 +1,14 @@
+{
+  "slug": "people/rvermeers-avistacorp",
+  "type": "person",
+  "title": "Rvermeers",
+  "compiled_truth": "Rvermeers is an external contact at [Avistacorp](companies/avistacorp). Over the corpus period (2000-06-23 to 2001-03-28), Rvermeers sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rvermeers-avistacorp",
+    "name": "Rvermeers",
+    "email": "rvermeers@avistacorp.com",
+    "primary_affiliation": "companies/avistacorp"
+  }
+}

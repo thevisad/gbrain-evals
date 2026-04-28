@@ -1,0 +1,14 @@
+{
+  "slug": "people/natalie",
+  "type": "person",
+  "title": " Natalie",
+  "compiled_truth": "Natalie is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-20 to 2002-01-28),  Natalie sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-04-20** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/natalie",
+    "name": " Natalie",
+    "email": ".natalie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

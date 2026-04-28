@@ -1,0 +1,14 @@
+{
+  "slug": "people/ted-noble",
+  "type": "person",
+  "title": "Ted Noble",
+  "compiled_truth": "Ted Noble is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-20 to 2001-11-30), Ted Noble sent 45 and received 173 emails, totalling 218 interactions. Top correspondents: [Susan Scott](people/susan-scott) (43), [Sara Shackleton](people/sara-shackleton) (2), [Ann Korioth](people/ann-korioth) (1), [Elsa Piekielniak](people/elsa-piekielniak) (1), [Patrick Conner](people/patrick-conner) (1).",
+  "timeline": "- **2000-03-20** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ted-noble",
+    "name": "Ted Noble",
+    "email": "ted.noble@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

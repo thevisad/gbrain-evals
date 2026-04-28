@@ -1,0 +1,14 @@
+{
+  "slug": "people/carolyn-cooney",
+  "type": "person",
+  "title": "Carolyn Cooney",
+  "compiled_truth": "Carolyn Cooney is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-16 to 2001-12-03), Carolyn Cooney sent 13 and received 264 emails, totalling 277 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (9), [Linda Robertson](people/linda-robertson) (6), [Steven Kean](people/steven-kean) (5), [D  Steffes](people/d-steffes) (3), [Karen Denne](people/karen-denne) (2). Mailbox folders observed: california_issues, deleted_items, federal_legis_.",
+  "timeline": "- **1999-10-16** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carolyn-cooney",
+    "name": "Carolyn Cooney",
+    "email": "carolyn.cooney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

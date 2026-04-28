@@ -1,0 +1,14 @@
+{
+  "slug": "people/dgrueneich-gralegal",
+  "type": "person",
+  "title": "Dgrueneich",
+  "compiled_truth": "Dgrueneich is an external contact at [Gralegal](companies/gralegal). Over the corpus period (1999-11-08 to 2001-12-06), Dgrueneich sent 2 and received 29 emails, totalling 31 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (2).",
+  "timeline": "- **1999-11-08** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dgrueneich-gralegal",
+    "name": "Dgrueneich",
+    "email": "dgrueneich@gralegal.com",
+    "primary_affiliation": "companies/gralegal"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-b-sanders",
+  "type": "person",
+  "title": "Richard B Sanders",
+  "compiled_truth": "Richard B Sanders is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-19), Richard B Sanders sent 0 and received 692 emails, totalling 692 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-b-sanders",
+    "name": "Richard B Sanders",
+    "email": "richard.b.sanders@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

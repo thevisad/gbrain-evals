@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-douglas",
+  "type": "person",
+  "title": "Stephen Douglas",
+  "compiled_truth": "Stephen Douglas is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-12), Stephen Douglas sent 26 and received 226 emails, totalling 252 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (6), [Louise Kitchen](people/louise-kitchen) (6), [Jordan Mintz](people/jordan-mintz) (5), [Mark Haedicke](people/mark-haedicke) (4), [Wes Colwell](people/wes-colwell) (4). Mailbox folders observed: _americas, california, elizabeth_sager.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-douglas",
+    "name": "Stephen Douglas",
+    "email": "stephen.douglas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

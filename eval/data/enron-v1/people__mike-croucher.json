@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-croucher",
+  "type": "person",
+  "title": "Mike Croucher",
+  "compiled_truth": "Mike Croucher is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-29 to 2002-05-13), Mike Croucher sent 4 and received 147 emails, totalling 151 interactions. Top correspondents: [Corry Bentley](people/corry-bentley) (3), [W  White](people/w-white) (3), [A  Allen](people/a-allen) (3), [Kenneth Lay](people/kenneth-lay) (1), [C  Aucoin](people/c-aucoin) (1). Mailbox folders observed: deleted_items, inbox, netco.",
+  "timeline": "- **2000-02-29** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-croucher",
+    "name": "Mike Croucher",
+    "email": "mike.croucher@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

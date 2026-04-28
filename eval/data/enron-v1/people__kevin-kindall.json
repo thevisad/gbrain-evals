@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-kindall",
+  "type": "person",
+  "title": "Kevin Kindall",
+  "compiled_truth": "Kevin Kindall is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-05-18), Kevin Kindall sent 28 and received 125 emails, totalling 153 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (25), [Kristin Gandy](people/kristin-gandy) (10), [Vasant Shanbhogue](people/vasant-shanbhogue) (3), [Stinson Gibner](people/stinson-gibner) (3), [Osman Sezgen](people/osman-sezgen) (2).",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-kindall",
+    "name": "Kevin Kindall",
+    "email": "kevin.kindall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

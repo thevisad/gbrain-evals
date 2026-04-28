@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-noske",
+  "type": "person",
+  "title": "Linda Noske",
+  "compiled_truth": "Linda Noske is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-02-09 to 2001-08-16), Linda Noske sent 39 and received 397 emails, totalling 436 interactions. Top correspondents: [Barbara Gray](people/barbara-gray) (19), [Travis Mccullough](people/travis-mccullough) (19), [Elizabeth Sager](people/elizabeth-sager) (19), [Sheila Tweed](people/sheila-tweed) (19), [Twanda Sweet](people/twanda-sweet) (18). Mailbox folders observed: nerc, rto.",
+  "timeline": "- **1999-02-09** | First recorded email in corpus\n- **2001-08-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-noske",
+    "name": "Linda Noske",
+    "email": "linda.noske@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

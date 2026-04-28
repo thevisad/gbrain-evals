@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-herman-neg",
+  "type": "person",
+  "title": "Steve Herman",
+  "compiled_truth": "Steve Herman is an external contact at [Neg](companies/neg). Over the corpus period (2001-01-11 to 2001-06-11), Steve Herman sent 1 and received 25 emails, totalling 26 interactions. Top correspondents: [Chealey](people/chealey-luce) (1), [Gallen](people/gallen-bakerbotts) (1), [Bbailey](people/bbailey-duke-energy) (1), [James Beh](people/james-beh-troutmansanders) (1), [Bestorg](people/bestorg-dsmo) (1).",
+  "timeline": "- **2001-01-11** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-herman-neg",
+    "name": "Steve Herman",
+    "email": "steve.herman@neg.pge.com",
+    "primary_affiliation": "companies/neg"
+  }
+}

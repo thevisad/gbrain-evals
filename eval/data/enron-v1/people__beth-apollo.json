@@ -1,0 +1,14 @@
+{
+  "slug": "people/beth-apollo",
+  "type": "person",
+  "title": "Beth Apollo",
+  "compiled_truth": "Beth Apollo is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Beth Apollo sent 64 and received 680 emails, totalling 744 interactions. Top correspondents: [Sally Beck](people/sally-beck) (59), [Brent Price](people/brent-price) (5), [James Scribner](people/james-scribner) (4), [Leslie Reeves](people/leslie-reeves) (4), [Marla Barnard](people/marla-barnard) (4). Mailbox folders observed: apollo__beth, bankrupt, chris_stokley, credit_issues, deleted_items, ees.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beth-apollo",
+    "name": "Beth Apollo",
+    "email": "beth.apollo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

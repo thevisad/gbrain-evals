@@ -1,0 +1,14 @@
+{
+  "slug": "people/jhmitchen-hotmail",
+  "type": "person",
+  "title": "Jhmitchen",
+  "compiled_truth": "Jhmitchen is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-09-05 to 2001-12-08), Jhmitchen sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus\n- **2001-12-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jhmitchen-hotmail",
+    "name": "Jhmitchen",
+    "email": "jhmitchen@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

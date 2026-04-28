@@ -1,0 +1,14 @@
+{
+  "slug": "people/bcope-ci",
+  "type": "person",
+  "title": "Bcope",
+  "compiled_truth": "Bcope is an external contact at [Ci](companies/ci). Over the corpus period (1999-11-22 to 2001-07-31), Bcope sent 0 and received 60 emails, totalling 60 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bcope-ci",
+    "name": "Bcope",
+    "email": "bcope@ci.redding.ca.us",
+    "primary_affiliation": "companies/ci"
+  }
+}

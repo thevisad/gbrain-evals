@@ -1,0 +1,14 @@
+{
+  "slug": "people/cindy-horn",
+  "type": "person",
+  "title": "Cindy Horn",
+  "compiled_truth": "Cindy Horn is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-02 to 2002-05-13), Cindy Horn sent 9 and received 222 emails, totalling 231 interactions. Top correspondents: [Stacey White](people/stacey-white) (6), [Homan Amiry](people/homan-amiry) (5), [Mike Jordan](people/mike-jordan) (4), [Todd Hall](people/todd-hall) (2), [Orjan Agdesteen](people/orjan-agdesteen) (2). Mailbox folders observed: deleted_items, doorstep, inbox.",
+  "timeline": "- **1999-12-02** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cindy-horn",
+    "name": "Cindy Horn",
+    "email": "cindy.horn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

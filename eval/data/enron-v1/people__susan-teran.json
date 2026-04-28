@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-teran",
+  "type": "person",
+  "title": "Susan Teran",
+  "compiled_truth": "Susan Teran is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-21 to 2000-07-21), Susan Teran sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-07-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-teran",
+    "name": "Susan Teran",
+    "email": "susan.teran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rvargo",
+  "type": "person",
+  "title": "Rvargo",
+  "compiled_truth": "Rvargo is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-07 to 2002-03-25), Rvargo sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2002-01-07** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rvargo",
+    "name": "Rvargo",
+    "email": "rvargo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

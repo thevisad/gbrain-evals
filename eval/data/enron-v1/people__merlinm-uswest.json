@@ -1,0 +1,14 @@
+{
+  "slug": "people/merlinm-uswest",
+  "type": "person",
+  "title": "Merlinm",
+  "compiled_truth": "Merlinm is an external contact at [Uswest](companies/uswest). Over the corpus period (2001-02-23 to 2001-05-24), Merlinm sent 5 and received 136 emails, totalling 141 interactions. Top correspondents: [Matthew Lenhart](people/matthew-lenhart) (5), [Pederleifkjeseth](people/pederleifkjeseth-hotmail) (5), [Ralee](people/ralee-rmi) (5), [Scott Morrill](people/scott-morrill-grubb-ellis) (5), [Amc 97](people/amc-97-yahoo) (1).",
+  "timeline": "- **2001-02-23** | First recorded email in corpus\n- **2001-05-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/merlinm-uswest",
+    "name": "Merlinm",
+    "email": "merlinm@uswest.net",
+    "primary_affiliation": "companies/uswest"
+  }
+}

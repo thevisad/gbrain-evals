@@ -1,0 +1,14 @@
+{
+  "slug": "people/d-gros",
+  "type": "person",
+  "title": "D  Gros",
+  "compiled_truth": "D  Gros is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-24 to 2001-11-27), D  Gros sent 8 and received 101 emails, totalling 109 interactions. Top correspondents: [Sally Beck](people/sally-beck) (4), [Beth Perlman](people/beth-perlman) (2), [Greg Piper](people/greg-piper) (2), [Christina Valdez](people/christina-valdez) (1), [R  Westbrook](people/r-westbrook) (1). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **2001-04-24** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d-gros",
+    "name": "D  Gros",
+    "email": "d..gros@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

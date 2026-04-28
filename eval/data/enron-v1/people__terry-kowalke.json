@@ -1,0 +1,14 @@
+{
+  "slug": "people/terry-kowalke",
+  "type": "person",
+  "title": "Terry Kowalke",
+  "compiled_truth": "Terry Kowalke is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-09 to 2002-03-25), Terry Kowalke sent 31 and received 985 emails, totalling 1016 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (27), [John Buchanan](people/john-buchanan) (18), [Kathy Washington](people/kathy-washington) (9), [Robert Benningfield](people/robert-benningfield) (9), [Sherry Forbish](people/sherry-forbish) (9). Mailbox folders observed: customer___oneok, deleted_items, e_mail_bin, inbox, presentations, tw___socal_window_procedure.",
+  "timeline": "- **2000-06-09** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terry-kowalke",
+    "name": "Terry Kowalke",
+    "email": "terry.kowalke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

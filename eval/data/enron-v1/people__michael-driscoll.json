@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-driscoll",
+  "type": "person",
+  "title": "Michael Driscoll",
+  "compiled_truth": "Michael Driscoll is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-07-30), Michael Driscoll sent 0 and received 247 emails, totalling 247 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-driscoll",
+    "name": "Michael Driscoll",
+    "email": "michael.driscoll@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

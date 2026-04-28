@@ -1,0 +1,14 @@
+{
+  "slug": "people/bhawkin",
+  "type": "person",
+  "title": "Bhawkin",
+  "compiled_truth": "Bhawkin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-29 to 2001-06-20), Bhawkin sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-11-29** | First recorded email in corpus\n- **2001-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bhawkin",
+    "name": "Bhawkin",
+    "email": "bhawkin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-dietrich",
+  "type": "person",
+  "title": "Dan Dietrich",
+  "compiled_truth": "Dan Dietrich is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-30 to 2002-03-20), Dan Dietrich sent 11 and received 136 emails, totalling 147 interactions. Top correspondents: [Bruce Smith](people/bruce-smith) (6), [It Dl-Portland](people/it-dl-portland) (4), [Murray O'Neil](people/murray-o-neil) (3), [Chip Cox](people/chip-cox) (3), [Cooper Richey](people/cooper-richey) (3). Mailbox folders observed: deleted_items, human_resources, inbox, read.",
+  "timeline": "- **1999-12-30** | First recorded email in corpus\n- **2002-03-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-dietrich",
+    "name": "Dan Dietrich",
+    "email": "dan.dietrich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

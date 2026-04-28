@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-flider-illinoispower",
+  "type": "person",
+  "title": "Bob Flider",
+  "compiled_truth": "Bob Flider is an external contact at [Illinoispower](companies/illinoispower). Over the corpus period (2001-07-13 to 2001-07-13), Bob Flider sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-13** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-flider-illinoispower",
+    "name": "Bob Flider",
+    "email": "bob_flider@illinoispower.com",
+    "primary_affiliation": "companies/illinoispower"
+  }
+}

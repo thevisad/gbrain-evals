@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-feather",
+  "type": "person",
+  "title": "Dan Feather",
+  "compiled_truth": "Dan Feather is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-10 to 2001-05-30), Dan Feather sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2000-01-10** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-feather",
+    "name": "Dan Feather",
+    "email": "dan_feather@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

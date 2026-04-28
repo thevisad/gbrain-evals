@@ -1,0 +1,14 @@
+{
+  "slug": "people/sandy-huseman",
+  "type": "person",
+  "title": "Sandy Huseman",
+  "compiled_truth": "Sandy Huseman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-23 to 2001-12-03), Sandy Huseman sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-02-23** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sandy-huseman",
+    "name": "Sandy Huseman",
+    "email": "sandy.huseman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

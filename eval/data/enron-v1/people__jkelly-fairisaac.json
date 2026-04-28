@@ -1,0 +1,14 @@
+{
+  "slug": "people/jkelly-fairisaac",
+  "type": "person",
+  "title": "Jkelly",
+  "compiled_truth": "Jkelly is an external contact at [Fairisaac](companies/fairisaac). Over the corpus period (1999-11-02 to 2001-02-01), Jkelly sent 27 and received 88 emails, totalling 115 interactions. Top correspondents: [Dasovich](people/dasovich-haas) (19), [Kupiecki](people/kupiecki-haas) (11), [Mendelso](people/mendelso-haas) (9), [Dshah](people/dshah-haas) (8), [Davis](people/davis-haas) (8).",
+  "timeline": "- **1999-11-02** | First recorded email in corpus\n- **2001-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jkelly-fairisaac",
+    "name": "Jkelly",
+    "email": "jkelly@fairisaac.com",
+    "primary_affiliation": "companies/fairisaac"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gerry-willis",
+  "type": "person",
+  "title": "Gerry Willis",
+  "compiled_truth": "Gerry Willis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-03-02), Gerry Willis sent 3 and received 23 emails, totalling 26 interactions. Top correspondents: [Jan Haizmann](people/jan-haizmann) (2), [Cynthia Harkness](people/cynthia-harkness) (2), [Ian Brungs](people/ian-brungs) (2), [Justin Boyd](people/justin-boyd) (2), [Mark Taylor](people/mark-taylor) (2).",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-03-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gerry-willis",
+    "name": "Gerry Willis",
+    "email": "gerry.willis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

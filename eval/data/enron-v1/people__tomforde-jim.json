@@ -1,0 +1,14 @@
+{
+  "slug": "people/tomforde-jim",
+  "type": "person",
+  "title": "Tomforde Jim",
+  "compiled_truth": "Tomforde Jim is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-09 to 2002-03-14), Tomforde Jim sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2002-01-09** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tomforde-jim",
+    "name": "Tomforde Jim",
+    "email": "tomforde.jim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

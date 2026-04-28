@@ -1,0 +1,19 @@
+{
+  "slug": "companies/kdscommunications",
+  "type": "company",
+  "title": "Kdscommunications",
+  "compiled_truth": "Kdscommunications is an external organization that appears in the Enron email corpus. Domain: kdscommunications.com. Total email interactions with Enron: 304. Known contacts: 2 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (304 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/kdscommunications",
+    "name": "Kdscommunications",
+    "employees": [
+      "people/ken-kdscommunications",
+      "people/ksmith-kdscommunications"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

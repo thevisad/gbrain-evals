@@ -1,0 +1,14 @@
+{
+  "slug": "people/kline-steven",
+  "type": "person",
+  "title": "Kline Steven",
+  "compiled_truth": "Kline Steven is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-16 to 2002-01-16), Kline Steven sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kline-steven",
+    "name": "Kline Steven",
+    "email": "kline.steven@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

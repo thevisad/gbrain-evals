@@ -1,0 +1,14 @@
+{
+  "slug": "people/pam-macaul-bmc",
+  "type": "person",
+  "title": "Pam Macaul",
+  "compiled_truth": "Pam Macaul is an external contact at [Bmc](companies/bmc). Over the corpus period (2000-10-24 to 2001-12-17), Pam Macaul sent 3 and received 25 emails, totalling 28 interactions. Top correspondents: [Tkuyken](people/tkuyken) (3), [Jennifer Lamprecht](people/jennifer-lamprecht-oxy) (3), [Drrichardson](people/drrichardson-cmsenergy) (2), [Susan Hadix](people/susan-hadix-elpaso) (2), [Wetz2](people/wetz2-gateway) (1).",
+  "timeline": "- **2000-10-24** | First recorded email in corpus\n- **2001-12-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pam-macaul-bmc",
+    "name": "Pam Macaul",
+    "email": "pam_macaul@bmc.com",
+    "primary_affiliation": "companies/bmc"
+  }
+}

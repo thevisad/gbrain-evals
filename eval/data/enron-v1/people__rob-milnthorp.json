@@ -1,0 +1,14 @@
+{
+  "slug": "people/rob-milnthorp",
+  "type": "person",
+  "title": "Rob Milnthorp",
+  "compiled_truth": "Rob Milnthorp is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-21), Rob Milnthorp sent 58 and received 905 emails, totalling 963 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (28), [John Lavorato](people/john-lavorato) (15), [Peter Keohane](people/peter-keohane) (10), [John Zufferli](people/john-zufferli) (10), [Derek Davies](people/derek-davies) (9). Mailbox folders observed: _americas, aec, canada, comp, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rob-milnthorp",
+    "name": "Rob Milnthorp",
+    "email": "rob.milnthorp@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

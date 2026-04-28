@@ -1,0 +1,14 @@
+{
+  "slug": "people/grace-warren",
+  "type": "person",
+  "title": "Grace Warren",
+  "compiled_truth": "Grace Warren is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2000-10-09), Grace Warren sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2000-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/grace-warren",
+    "name": "Grace Warren",
+    "email": "grace.warren@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

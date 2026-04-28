@@ -1,0 +1,14 @@
+{
+  "slug": "people/brush-rachael",
+  "type": "person",
+  "title": "Brush Rachael",
+  "compiled_truth": "Brush Rachael is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-08 to 2002-03-14), Brush Rachael sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brush-rachael",
+    "name": "Brush Rachael",
+    "email": "brush.rachael@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

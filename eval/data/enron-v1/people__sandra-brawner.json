@@ -1,0 +1,14 @@
+{
+  "slug": "people/sandra-brawner",
+  "type": "person",
+  "title": "Sandra Brawner",
+  "compiled_truth": "Sandra Brawner is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-26), Sandra Brawner sent 296 and received 330 emails, totalling 626 interactions. Top correspondents: [Jons](people/jons-amerexenergy) (53), [S Schnitzer](people/s-schnitzer-worldnet) (41), [Pama9](people/pama9-flash) (35), [Kennethbrawner](people/kennethbrawner-msn) (32), [Kennethbrawner](people/kennethbrawner-email) (12). Mailbox folders observed: _sent_mail, sent, sent_items, to_do.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sandra-brawner",
+    "name": "Sandra Brawner",
+    "email": "sandra.brawner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

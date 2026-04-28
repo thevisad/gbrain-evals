@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-boussattach",
+  "type": "person",
+  "title": "Lisa Boussattach",
+  "compiled_truth": "Lisa Boussattach is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-09-25), Lisa Boussattach sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-boussattach",
+    "name": "Lisa Boussattach",
+    "email": "lisa.boussattach@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/adam-gross",
+  "type": "person",
+  "title": "Adam Gross",
+  "compiled_truth": "Adam Gross is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-21 to 2001-09-20), Adam Gross sent 0 and received 99 emails, totalling 99 interactions.",
+  "timeline": "- **1999-07-21** | First recorded email in corpus\n- **2001-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adam-gross",
+    "name": "Adam Gross",
+    "email": "adam.gross@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/christine-schroeder",
+  "type": "person",
+  "title": "Christine Schroeder",
+  "compiled_truth": "Christine Schroeder is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2002-03-21), Christine Schroeder sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christine-schroeder",
+    "name": "Christine Schroeder",
+    "email": "christine.schroeder@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

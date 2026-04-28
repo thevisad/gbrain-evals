@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-chapman",
+  "type": "person",
+  "title": "Tom Chapman",
+  "compiled_truth": "Tom Chapman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2002-03-29), Tom Chapman sent 48 and received 395 emails, totalling 443 interactions. Top correspondents: [W  White](people/w-white) (41), [Casey Evans](people/casey-evans) (40), [Wayne Vinson](people/wayne-vinson) (37), [Jeff Dasovich](people/jeff-dasovich) (3), [Andrea Dahlke](people/andrea-dahlke) (2). Mailbox folders observed: deleted_items, inbox, top_10_issues_6_1_01.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-chapman",
+    "name": "Tom Chapman",
+    "email": "tom.chapman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

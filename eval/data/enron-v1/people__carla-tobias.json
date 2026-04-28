@@ -1,0 +1,14 @@
+{
+  "slug": "people/carla-tobias",
+  "type": "person",
+  "title": "Carla Tobias",
+  "compiled_truth": "Carla Tobias is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-29 to 2001-04-18), Carla Tobias sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-11-29** | First recorded email in corpus\n- **2001-04-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carla-tobias",
+    "name": "Carla Tobias",
+    "email": "carla.tobias@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

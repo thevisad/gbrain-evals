@@ -1,0 +1,14 @@
+{
+  "slug": "people/judy-northcutt",
+  "type": "person",
+  "title": "Judy Northcutt",
+  "compiled_truth": "Judy Northcutt is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-03-19), Judy Northcutt sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/judy-northcutt",
+    "name": "Judy Northcutt",
+    "email": "judy.northcutt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

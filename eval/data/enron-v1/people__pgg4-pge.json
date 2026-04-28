@@ -1,0 +1,14 @@
+{
+  "slug": "people/pgg4-pge",
+  "type": "person",
+  "title": "Pgg4",
+  "compiled_truth": "Pgg4 is an external contact at [PG&E](companies/pge). Over the corpus period (1999-09-24 to 2001-01-26), Pgg4 sent 2 and received 42 emails, totalling 44 interactions. Top correspondents: [Abb](people/abb-eslawfirm) (2), [Agenergy](people/agenergy-aeca) (2), [Agoldberg](people/agoldberg-lgl) (2), [Ahuertas](people/ahuertas-enron) (2), [Alan Reid](people/alan-reid-pancanadian) (2).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-01-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pgg4-pge",
+    "name": "Pgg4",
+    "email": "pgg4@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

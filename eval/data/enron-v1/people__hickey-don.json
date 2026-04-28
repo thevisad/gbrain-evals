@@ -1,0 +1,14 @@
+{
+  "slug": "people/hickey-don",
+  "type": "person",
+  "title": "Hickey Don",
+  "compiled_truth": "Hickey Don is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-07 to 2002-03-25), Hickey Don sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2002-01-07** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hickey-don",
+    "name": "Hickey Don",
+    "email": "hickey.don@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

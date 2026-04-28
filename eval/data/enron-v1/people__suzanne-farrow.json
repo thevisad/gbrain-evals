@@ -1,0 +1,14 @@
+{
+  "slug": "people/suzanne-farrow",
+  "type": "person",
+  "title": "Suzanne Farrow",
+  "compiled_truth": "Suzanne Farrow is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-28 to 2001-12-03), Suzanne Farrow sent 2 and received 41 emails, totalling 43 interactions. Top correspondents: [Robert Badeer](people/robert-badeer) (1), [A  Shankman](people/a-shankman) (1), [Nezi Marvin](people/nezi-marvin) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suzanne-farrow",
+    "name": "Suzanne Farrow",
+    "email": "suzanne.farrow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

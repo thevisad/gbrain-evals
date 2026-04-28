@@ -1,0 +1,14 @@
+{
+  "slug": "people/rakhi-israni",
+  "type": "person",
+  "title": "Rakhi Israni",
+  "compiled_truth": "Rakhi Israni is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-27 to 2001-11-26), Rakhi Israni sent 20 and received 33 emails, totalling 53 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (20), [Patrick Johnson](people/patrick-johnson) (3), [Millija](people/millija-texaco) (1), [Roger Westbrook](people/roger-westbrook) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-06-27** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rakhi-israni",
+    "name": "Rakhi Israni",
+    "email": "rakhi.israni@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

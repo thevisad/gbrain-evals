@@ -1,0 +1,14 @@
+{
+  "slug": "people/jonathan-horne",
+  "type": "person",
+  "title": "Jonathan Horne",
+  "compiled_truth": "Jonathan Horne is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-11-30), Jonathan Horne sent 4 and received 40 emails, totalling 44 interactions. Top correspondents: [Scott Neal](people/scott-neal) (1), [Dutch Quigley](people/dutch-quigley) (1), [ Ward](people/ward) (1), [Mark Whitt](people/mark-whitt) (1), [Kelli Little](people/kelli-little) (1). Mailbox folders observed: deleted_items, inbox, pasadena.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jonathan-horne",
+    "name": "Jonathan Horne",
+    "email": "jonathan.horne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

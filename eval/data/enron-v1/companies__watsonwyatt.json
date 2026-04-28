@@ -1,0 +1,24 @@
+{
+  "slug": "companies/watsonwyatt",
+  "type": "company",
+  "title": "Watsonwyatt",
+  "compiled_truth": "Watsonwyatt is an external organization that appears in the Enron email corpus. Domain: watsonwyatt.com. Total email interactions with Enron: 241. Known contacts: 7 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (241 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/watsonwyatt",
+    "name": "Watsonwyatt",
+    "employees": [
+      "people/5fhub-watsonwyatt",
+      "people/5fsfo-watsonwyatt",
+      "people/gary-hewitt-watsonwyatt",
+      "people/john-j-parkington-watsonwyatt",
+      "people/larry-reid-watsonwyatt",
+      "people/mark-guinney-watsonwyatt",
+      "people/watson-wyatt-houston-watsonwyatt"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

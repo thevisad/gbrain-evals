@@ -1,0 +1,14 @@
+{
+  "slug": "people/alexus-rhone",
+  "type": "person",
+  "title": "Alexus Rhone",
+  "compiled_truth": "Alexus Rhone is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-25 to 2000-04-26), Alexus Rhone sent 3 and received 13 emails, totalling 16 interactions. Top correspondents: [Sally Beck](people/sally-beck) (3), [Kim Melodick](people/kim-melodick) (2), [Norma Villarreal](people/norma-villarreal) (2), [Sheila Glover](people/sheila-glover) (1), [Kristin Albrecht](people/kristin-albrecht) (1).",
+  "timeline": "- **2000-01-25** | First recorded email in corpus\n- **2000-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alexus-rhone",
+    "name": "Alexus Rhone",
+    "email": "alexus.rhone@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

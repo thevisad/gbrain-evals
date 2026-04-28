@@ -1,0 +1,14 @@
+{
+  "slug": "people/red-kari-hotmail",
+  "type": "person",
+  "title": "Red Kari",
+  "compiled_truth": "Red Kari is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-05-21 to 2000-05-21), Red Kari sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/red-kari-hotmail",
+    "name": "Red Kari",
+    "email": "red_kari@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

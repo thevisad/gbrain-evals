@@ -1,0 +1,14 @@
+{
+  "slug": "people/dawn-kenne",
+  "type": "person",
+  "title": "Dawn Kenne",
+  "compiled_truth": "Dawn Kenne is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-06-04), Dawn Kenne sent 31 and received 300 emails, totalling 331 interactions. Top correspondents: [Tara Sweitzer](people/tara-sweitzer) (21), [Jeffrey Gossett](people/jeffrey-gossett) (17), [Errol Mclaughlin](people/errol-mclaughlin) (17), [Torrey Moorer](people/torrey-moorer) (15), [Darron Giron](people/darron-giron) (10). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dawn-kenne",
+    "name": "Dawn Kenne",
+    "email": "dawn.kenne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

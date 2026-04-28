@@ -1,0 +1,14 @@
+{
+  "slug": "people/chad-landry",
+  "type": "person",
+  "title": "Chad Landry",
+  "compiled_truth": "Chad Landry is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-11-30), Chad Landry sent 23 and received 618 emails, totalling 641 interactions. Top correspondents: [Matthew Lenhart](people/matthew-lenhart) (10), [Eric Bass](people/eric-bass) (4), [Jay Reitmeyer](people/jay-reitmeyer) (3), [James Steffes](people/james-steffes) (3), [Sheila Knudsen](people/sheila-knudsen) (2). Mailbox folders observed: 2001_mid_year_prc, deleted_items, inbox.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chad-landry",
+    "name": "Chad Landry",
+    "email": "chad.landry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sharon-taylor",
+  "type": "person",
+  "title": "Sharon Taylor",
+  "compiled_truth": "Sharon Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-11 to 2001-06-08), Sharon Taylor sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **1999-06-11** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sharon-taylor",
+    "name": "Sharon Taylor",
+    "email": "sharon.taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

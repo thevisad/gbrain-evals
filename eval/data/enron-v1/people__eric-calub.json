@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-calub",
+  "type": "person",
+  "title": "Eric Calub",
+  "compiled_truth": "Eric Calub is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-30), Eric Calub sent 0 and received 44 emails, totalling 44 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-calub",
+    "name": "Eric Calub",
+    "email": "eric.calub@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/samuel-wehn",
+  "type": "person",
+  "title": "Samuel Wehn",
+  "compiled_truth": "Samuel Wehn is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-12 to 2002-06-18), Samuel Wehn sent 0 and received 152 emails, totalling 152 interactions.",
+  "timeline": "- **1999-12-12** | First recorded email in corpus\n- **2002-06-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/samuel-wehn",
+    "name": "Samuel Wehn",
+    "email": "samuel.wehn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

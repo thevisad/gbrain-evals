@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-skilling",
+  "type": "person",
+  "title": "Jeffrey Skilling",
+  "compiled_truth": "Jeffrey Skilling is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-28 to 2001-05-18), Jeffrey Skilling sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-08-28** | First recorded email in corpus\n- **2001-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-skilling",
+    "name": "Jeffrey Skilling",
+    "email": "jeffrey.skilling@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

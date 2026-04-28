@@ -1,0 +1,14 @@
+{
+  "slug": "people/toni-graham",
+  "type": "person",
+  "title": "Toni Graham",
+  "compiled_truth": "Toni Graham is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-03), Toni Graham sent 31 and received 130 emails, totalling 161 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (14), [Mary Smith](people/mary-smith) (10), [Steve Venturatos](people/steve-venturatos) (10), [Sally Beck](people/sally-beck) (9), [Michael Eiben](people/michael-eiben) (9). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/toni-graham",
+    "name": "Toni Graham",
+    "email": "toni.graham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

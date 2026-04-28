@@ -1,0 +1,14 @@
+{
+  "slug": "people/moises-benchluch",
+  "type": "person",
+  "title": "Moises Benchluch",
+  "compiled_truth": "Moises Benchluch is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-02 to 2002-02-25), Moises Benchluch sent 0 and received 110 emails, totalling 110 interactions.",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/moises-benchluch",
+    "name": "Moises Benchluch",
+    "email": "moises.benchluch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

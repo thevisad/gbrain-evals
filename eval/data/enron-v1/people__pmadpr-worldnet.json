@@ -1,0 +1,14 @@
+{
+  "slug": "people/pmadpr-worldnet",
+  "type": "person",
+  "title": "Pmadpr",
+  "compiled_truth": "Pmadpr is an external contact at [Worldnet](companies/worldnet). Over the corpus period (2000-12-08 to 2001-05-02), Pmadpr sent 103 and received 0 emails, totalling 103 interactions.",
+  "timeline": "- **2000-12-08** | First recorded email in corpus\n- **2001-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pmadpr-worldnet",
+    "name": "Pmadpr",
+    "email": "pmadpr@worldnet.att.net",
+    "primary_affiliation": "companies/worldnet"
+  }
+}

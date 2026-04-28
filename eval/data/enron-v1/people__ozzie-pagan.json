@@ -1,0 +1,14 @@
+{
+  "slug": "people/ozzie-pagan",
+  "type": "person",
+  "title": "Ozzie Pagan",
+  "compiled_truth": "Ozzie Pagan is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-21), Ozzie Pagan sent 8 and received 519 emails, totalling 527 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (4), [Heather Kroll](people/heather-kroll) (4), [Opagan](people/opagan-gateway) (2), [Louise Kitchen](people/louise-kitchen) (2), [W Duran](people/w-duran) (2). Mailbox folders observed: _americas, eesidealsgsaregion1.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ozzie-pagan",
+    "name": "Ozzie Pagan",
+    "email": "ozzie.pagan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

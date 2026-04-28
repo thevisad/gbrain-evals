@@ -1,0 +1,14 @@
+{
+  "slug": "people/brant-reves",
+  "type": "person",
+  "title": "Brant Reves",
+  "compiled_truth": "Brant Reves is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-24 to 2002-01-29), Brant Reves sent 179 and received 1070 emails, totalling 1249 interactions. Top correspondents: [Tana Jones](people/tana-jones) (94), [Susan Bailey](people/susan-bailey) (92), [Samantha Boyd](people/samantha-boyd) (80), [Stephanie Panus](people/stephanie-panus) (75), [Gerald Nemec](people/gerald-nemec) (37). Mailbox folders observed: deleted_items, inbox, notes_inbox, power.",
+  "timeline": "- **1998-11-24** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brant-reves",
+    "name": "Brant Reves",
+    "email": "brant.reves@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

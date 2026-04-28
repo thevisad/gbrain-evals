@@ -1,0 +1,14 @@
+{
+  "slug": "people/ryan-krogmeier",
+  "type": "person",
+  "title": "Ryan Krogmeier",
+  "compiled_truth": "Ryan Krogmeier is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-02 to 2002-03-29), Ryan Krogmeier sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2001-04-02** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ryan-krogmeier",
+    "name": "Ryan Krogmeier",
+    "email": "ryan.krogmeier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/adam-metry",
+  "type": "person",
+  "title": "Adam Metry",
+  "compiled_truth": "Adam Metry is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-20 to 2001-10-31), Adam Metry sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-07-20** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adam-metry",
+    "name": "Adam Metry",
+    "email": "adam.metry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/wichai",
+  "type": "person",
+  "title": " Wichai",
+  "compiled_truth": "Wichai is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-05 to 2002-01-07),  Wichai sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2002-01-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wichai",
+    "name": " Wichai",
+    "email": ".wichai@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

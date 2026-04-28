@@ -1,0 +1,14 @@
+{
+  "slug": "people/brenda-castillo",
+  "type": "person",
+  "title": "Brenda Castillo",
+  "compiled_truth": "Brenda Castillo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-25 to 2001-04-10), Brenda Castillo sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-09-25** | First recorded email in corpus\n- **2001-04-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brenda-castillo",
+    "name": "Brenda Castillo",
+    "email": "brenda.castillo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

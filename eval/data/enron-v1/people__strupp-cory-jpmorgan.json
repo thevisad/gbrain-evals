@@ -1,0 +1,14 @@
+{
+  "slug": "people/strupp-cory-jpmorgan",
+  "type": "person",
+  "title": "Strupp Cory",
+  "compiled_truth": "Strupp Cory is an external contact at [Jpmorgan](companies/jpmorgan). Over the corpus period (2000-05-04 to 2001-11-16), Strupp Cory sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-05-04** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/strupp-cory-jpmorgan",
+    "name": "Strupp Cory",
+    "email": "strupp_cory@jpmorgan.com",
+    "primary_affiliation": "companies/jpmorgan"
+  }
+}

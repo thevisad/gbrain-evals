@@ -1,0 +1,14 @@
+{
+  "slug": "people/ddbills-swbell",
+  "type": "person",
+  "title": "Ddbills",
+  "compiled_truth": "Ddbills is an external contact at [Swbell](companies/swbell). Over the corpus period (2000-09-15 to 2001-12-08), Ddbills sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-09-15** | First recorded email in corpus\n- **2001-12-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ddbills-swbell",
+    "name": "Ddbills",
+    "email": "ddbills@swbell.net",
+    "primary_affiliation": "companies/swbell"
+  }
+}

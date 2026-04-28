@@ -1,0 +1,14 @@
+{
+  "slug": "people/ron-matthews",
+  "type": "person",
+  "title": "Ron Matthews",
+  "compiled_truth": "Ron Matthews is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-13 to 2002-05-06), Ron Matthews sent 59 and received 232 emails, totalling 291 interactions. Top correspondents: [Dennis Alters](people/dennis-alters) (25), [Kimberly Watson](people/kimberly-watson) (22), [Kevin Hyatt](people/kevin-hyatt) (22), [Ben Asante](people/ben-asante) (18), [Morgan Gottsponer](people/morgan-gottsponer) (18). Mailbox folders observed: big_sandy___caithness, daily_balancing_report, deleted_items, e_mail_bin, inbox, projects.",
+  "timeline": "- **2001-08-13** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ron-matthews",
+    "name": "Ron Matthews",
+    "email": "ron.matthews@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

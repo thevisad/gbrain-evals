@@ -1,0 +1,14 @@
+{
+  "slug": "people/jberry-isda-eur",
+  "type": "person",
+  "title": "Jberry",
+  "compiled_truth": "Jberry is an external contact at [Isda-eur](companies/isda-eur). Over the corpus period (2000-12-01 to 2001-07-09), Jberry sent 6 and received 4 emails, totalling 10 interactions. Top correspondents: [Crichards](people/crichards-isda) (4), [Rpickel](people/rpickel-isda) (4), [Apapesch](people/apapesch-isda) (4), [Beat Gabathuler](people/beat-gabathuler-zkb) (4), [Lewis David](people/lewis-david-jpmorgan) (4).",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2001-07-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jberry-isda-eur",
+    "name": "Jberry",
+    "email": "jberry@isda-eur.org",
+    "primary_affiliation": "companies/isda-eur"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/felix-perez",
+  "type": "person",
+  "title": "Felix Perez",
+  "compiled_truth": "Felix Perez is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-21 to 2002-03-29), Felix Perez sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2002-03-21** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/felix-perez",
+    "name": "Felix Perez",
+    "email": "felix.perez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

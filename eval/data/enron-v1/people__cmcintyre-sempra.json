@@ -1,0 +1,14 @@
+{
+  "slug": "people/cmcintyre-sempra",
+  "type": "person",
+  "title": "Cmcintyre",
+  "compiled_truth": "Cmcintyre is an external contact at [Sempra Energy](companies/sempra). Over the corpus period (2000-08-22 to 2001-12-21), Cmcintyre sent 0 and received 96 emails, totalling 96 interactions.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cmcintyre-sempra",
+    "name": "Cmcintyre",
+    "email": "cmcintyre@sempra.com",
+    "primary_affiliation": "companies/sempra"
+  }
+}

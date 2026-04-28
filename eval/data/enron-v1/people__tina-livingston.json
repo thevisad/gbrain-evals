@@ -1,0 +1,14 @@
+{
+  "slug": "people/tina-livingston",
+  "type": "person",
+  "title": "Tina Livingston",
+  "compiled_truth": "Tina Livingston is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-12 to 2001-03-28), Tina Livingston sent 1 and received 20 emails, totalling 21 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (1).",
+  "timeline": "- **2000-04-12** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tina-livingston",
+    "name": "Tina Livingston",
+    "email": "tina.livingston@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

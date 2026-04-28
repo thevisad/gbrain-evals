@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-mumford",
+  "type": "person",
+  "title": "Mike Mumford",
+  "compiled_truth": "Mike Mumford is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-29 to 2001-09-20), Mike Mumford sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-10-29** | First recorded email in corpus\n- **2001-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-mumford",
+    "name": "Mike Mumford",
+    "email": "mike.mumford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

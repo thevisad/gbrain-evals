@@ -1,0 +1,21 @@
+{
+  "slug": "threads/contact-list-2000-08",
+  "type": "meeting",
+  "title": "Thread: Contact List",
+  "compiled_truth": "Email thread: \"Contact List\". Ran from 2000-08-28 to 2000-09-22 with 26 messages. Participants: [Benjamin Rogers](people/benjamin-rogers), [Don Miller](people/don-miller), [James Bartlett](people/james-bartlett-csfb), [James Heckler](people/james-heckler-csfb), [Jonathan Bram](people/jonathan-bram-csfb), [Louis Iaconetti](people/louis-iaconetti-csfb), [Omar Al-Farisi](people/omar-al-farisi-csfb).",
+  "timeline": "- **2000-08-28** | Thread begins: contact list\n- **2000-09-22** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/contact-list-2000-08",
+    "attendees": [
+      "people/benjamin-rogers",
+      "people/don-miller",
+      "people/james-bartlett-csfb",
+      "people/james-heckler-csfb",
+      "people/jonathan-bram-csfb",
+      "people/louis-iaconetti-csfb",
+      "people/omar-al-farisi-csfb"
+    ],
+    "date": "2000-08-28"
+  }
+}

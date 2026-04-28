@@ -1,0 +1,14 @@
+{
+  "slug": "people/javier-pantoja",
+  "type": "person",
+  "title": "Javier Pantoja",
+  "compiled_truth": "Javier Pantoja is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-24 to 2001-07-20), Javier Pantoja sent 0 and received 46 emails, totalling 46 interactions.",
+  "timeline": "- **1999-12-24** | First recorded email in corpus\n- **2001-07-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/javier-pantoja",
+    "name": "Javier Pantoja",
+    "email": "javier.pantoja@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

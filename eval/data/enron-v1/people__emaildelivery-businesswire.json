@@ -1,0 +1,14 @@
+{
+  "slug": "people/emaildelivery-businesswire",
+  "type": "person",
+  "title": "Emaildelivery",
+  "compiled_truth": "Emaildelivery is an external contact at [Businesswire](companies/businesswire). Over the corpus period (2001-08-03 to 2002-01-30), Emaildelivery sent 77 and received 0 emails, totalling 77 interactions. Top correspondents: [Tx-Industrial-Info-Res](people/tx-industrial-info-res-businesswire) (77).",
+  "timeline": "- **2001-08-03** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/emaildelivery-businesswire",
+    "name": "Emaildelivery",
+    "email": "emaildelivery@businesswire.com",
+    "primary_affiliation": "companies/businesswire"
+  }
+}

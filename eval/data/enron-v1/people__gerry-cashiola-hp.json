@@ -1,0 +1,14 @@
+{
+  "slug": "people/gerry-cashiola-hp",
+  "type": "person",
+  "title": "Gerry Cashiola",
+  "compiled_truth": "Gerry Cashiola is an external contact at [Hp](companies/hp). Over the corpus period (2000-12-01 to 2000-12-12), Gerry Cashiola sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gerry-cashiola-hp",
+    "name": "Gerry Cashiola",
+    "email": "gerry_cashiola@hp.com",
+    "primary_affiliation": "companies/hp"
+  }
+}

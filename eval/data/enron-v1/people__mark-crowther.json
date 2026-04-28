@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-crowther",
+  "type": "person",
+  "title": "Mark Crowther",
+  "compiled_truth": "Mark Crowther is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-11-30), Mark Crowther sent 5 and received 61 emails, totalling 66 interactions. Top correspondents: [Steven Kean](people/steven-kean) (5), [James Steffes](people/james-steffes) (3), [Richard Shapiro](people/richard-shapiro) (3), [Nicholas O'Day](people/nicholas-o-day) (2), [Mika Watanabe](people/mika-watanabe) (1).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-crowther",
+    "name": "Mark Crowther",
+    "email": "mark.crowther@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

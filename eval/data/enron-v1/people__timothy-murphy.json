@@ -1,0 +1,14 @@
+{
+  "slug": "people/timothy-murphy",
+  "type": "person",
+  "title": "Timothy Murphy",
+  "compiled_truth": "Timothy Murphy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-04 to 2001-05-17), Timothy Murphy sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2001-05-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/timothy-murphy",
+    "name": "Timothy Murphy",
+    "email": "timothy.murphy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

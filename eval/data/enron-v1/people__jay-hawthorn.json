@@ -1,0 +1,14 @@
+{
+  "slug": "people/jay-hawthorn",
+  "type": "person",
+  "title": "Jay Hawthorn",
+  "compiled_truth": "Jay Hawthorn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-13 to 2001-11-30), Jay Hawthorn sent 1 and received 70 emails, totalling 71 interactions. Top correspondents: [Jim Fallon](people/jim-fallon) (1), [Paul Racicot](people/paul-racicot) (1), [Greg Woulfe](people/greg-woulfe) (1), [Vince Kaminski](people/vince-kaminski) (1), [Stinson Gibner](people/stinson-gibner) (1).",
+  "timeline": "- **2000-01-13** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jay-hawthorn",
+    "name": "Jay Hawthorn",
+    "email": "jay.hawthorn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-tran",
+  "type": "person",
+  "title": "David Tran",
+  "compiled_truth": "David Tran is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-03 to 2002-02-20), David Tran sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2002-02-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-tran",
+    "name": "David Tran",
+    "email": "david.tran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

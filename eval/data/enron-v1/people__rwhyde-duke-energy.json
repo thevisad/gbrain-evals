@@ -1,0 +1,14 @@
+{
+  "slug": "people/rwhyde-duke-energy",
+  "type": "person",
+  "title": "Rwhyde",
+  "compiled_truth": "Rwhyde is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-09-01 to 2001-07-31), Rwhyde sent 1 and received 182 emails, totalling 183 interactions. Top correspondents: [Knorton](people/knorton-mcnallytemple) (1), [Abb](people/abb-eslawfirm) (1), [Andybrwn](people/andybrwn-earthlink) (1), [Cabaker](people/cabaker-duke-energy) (1), [Curtis L Kebler](people/curtis-l-kebler-reliantenergy) (1).",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rwhyde-duke-energy",
+    "name": "Rwhyde",
+    "email": "rwhyde@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

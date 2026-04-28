@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheryl-costa",
+  "type": "person",
+  "title": "Cheryl Costa",
+  "compiled_truth": "Cheryl Costa is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-27 to 2001-11-26), Cheryl Costa sent 3 and received 48 emails, totalling 51 interactions. Top correspondents: [Scott Dieball](people/scott-dieball) (1), [Kay Mann](people/kay-mann) (1), [Brian Barto](people/brian-barto) (1).",
+  "timeline": "- **2000-06-27** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheryl-costa",
+    "name": "Cheryl Costa",
+    "email": "cheryl.costa@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

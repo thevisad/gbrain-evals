@@ -1,0 +1,22 @@
+{
+  "slug": "threads/agreement-2000-12",
+  "type": "meeting",
+  "title": "Thread: Agreement",
+  "compiled_truth": "Email thread: \"Agreement\". Ran from 2000-12-08 to 2001-01-08 with 15 messages. Participants: [Debra Perlingiere](people/debra-perlingiere), [Fred Mitro](people/fred-mitro), [Jwentz](people/jwentz-energygateway), [Kay Mann](people/kay-mann), [Lynn Dekrey](people/lynn-dekrey-swpc), [Pcmlean](people/pcmlean-proliance), [Pmclean](people/pmclean-proliance), [Pthompson](people/pthompson-akllp).",
+  "timeline": "- **2000-12-08** | Thread begins: agreement\n- **2001-01-08** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/agreement-2000-12",
+    "attendees": [
+      "people/debra-perlingiere",
+      "people/fred-mitro",
+      "people/jwentz-energygateway",
+      "people/kay-mann",
+      "people/lynn-dekrey-swpc",
+      "people/pcmlean-proliance",
+      "people/pmclean-proliance",
+      "people/pthompson-akllp"
+    ],
+    "date": "2000-12-08"
+  }
+}

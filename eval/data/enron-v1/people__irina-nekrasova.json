@@ -1,0 +1,14 @@
+{
+  "slug": "people/irina-nekrasova",
+  "type": "person",
+  "title": "Irina Nekrasova",
+  "compiled_truth": "Irina Nekrasova is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2001-05-30), Irina Nekrasova sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/irina-nekrasova",
+    "name": "Irina Nekrasova",
+    "email": "irina.nekrasova@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

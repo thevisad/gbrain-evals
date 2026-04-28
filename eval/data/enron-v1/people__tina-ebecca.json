@@ -1,0 +1,14 @@
+{
+  "slug": "people/tina-ebecca",
+  "type": "person",
+  "title": "Tina Ebecca",
+  "compiled_truth": "Tina Ebecca is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-16 to 2001-05-16), Tina Ebecca sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-05-16** | First recorded email in corpus\n- **2001-05-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tina-ebecca",
+    "name": "Tina Ebecca",
+    "email": "tina.ebecca@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

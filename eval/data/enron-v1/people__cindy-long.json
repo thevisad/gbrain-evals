@@ -1,0 +1,14 @@
+{
+  "slug": "people/cindy-long",
+  "type": "person",
+  "title": "Cindy Long",
+  "compiled_truth": "Cindy Long is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2001-10-19), Cindy Long sent 4 and received 41 emails, totalling 45 interactions. Top correspondents: [Dan Masters](people/dan-masters) (4), [Paul Y'Barbo](people/paul-y-barbo) (4), [David Glessner](people/david-glessner) (3), [Larry Snyder](people/larry-snyder) (3), [Wayne Perry](people/wayne-perry) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cindy-long",
+    "name": "Cindy Long",
+    "email": "cindy.long@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

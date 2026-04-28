@@ -1,0 +1,14 @@
+{
+  "slug": "people/bradylaw-pacbell",
+  "type": "person",
+  "title": "Bradylaw",
+  "compiled_truth": "Bradylaw is an external contact at [Pacbell](companies/pacbell). Over the corpus period (1999-09-24 to 2001-07-31), Bradylaw sent 1 and received 86 emails, totalling 87 interactions. Top correspondents: [Bcherry](people/bcherry-sempra) (1), [Abb](people/abb-eslawfirm) (1), [Agoldberg](people/agoldberg-lgl) (1), [Ahuertas](people/ahuertas-enron) (1), [Alan Reid](people/alan-reid-pancanadian) (1).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bradylaw-pacbell",
+    "name": "Bradylaw",
+    "email": "bradylaw@pacbell.net",
+    "primary_affiliation": "companies/pacbell"
+  }
+}

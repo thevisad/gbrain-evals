@@ -1,0 +1,14 @@
+{
+  "slug": "people/burkee-cts",
+  "type": "person",
+  "title": "Burkee",
+  "compiled_truth": "Burkee is an external contact at [Cts](companies/cts). Over the corpus period (1999-09-24 to 2001-10-17), Burkee sent 11 and received 284 emails, totalling 295 interactions. Top correspondents: [Jdasovic](people/jdasovic) (6), [Sscott3](people/sscott3) (6), [Lindseyhowdowning](people/lindseyhowdowning-dwt) (6), [Kmills](people/kmills-cfbf) (6), [Askaff](people/askaff-chrm) (6).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/burkee-cts",
+    "name": "Burkee",
+    "email": "burkee@cts.com",
+    "primary_affiliation": "companies/cts"
+  }
+}

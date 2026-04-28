@@ -1,0 +1,14 @@
+{
+  "slug": "people/donald-black",
+  "type": "person",
+  "title": "Donald Black",
+  "compiled_truth": "Donald Black is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-07-19), Donald Black sent 20 and received 174 emails, totalling 194 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (19), [Lou Stoler](people/lou-stoler) (8), [Scott Healy](people/scott-healy) (7), [Yvan Chaxel](people/yvan-chaxel) (6), [Mike Miller](people/mike-miller) (6).",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donald-black",
+    "name": "Donald Black",
+    "email": "donald.black@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

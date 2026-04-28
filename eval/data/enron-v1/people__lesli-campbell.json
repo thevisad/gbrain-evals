@@ -1,0 +1,14 @@
+{
+  "slug": "people/lesli-campbell",
+  "type": "person",
+  "title": "Lesli Campbell",
+  "compiled_truth": "Lesli Campbell is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-02 to 2002-01-04), Lesli Campbell sent 6 and received 721 emails, totalling 727 interactions. Top correspondents: [Tana Jones](people/tana-jones) (3), [Kevin Hyatt](people/kevin-hyatt) (1), [Bill Rapp](people/bill-rapp) (1), [Susan Scott](people/susan-scott) (1). Mailbox folders observed: deleted_items, enron_kids.",
+  "timeline": "- **1999-06-02** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lesli-campbell",
+    "name": "Lesli Campbell",
+    "email": "lesli.campbell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/geoff-storey",
+  "type": "person",
+  "title": "Geoff Storey",
+  "compiled_truth": "Geoff Storey is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-16 to 2004-02-04), Geoff Storey sent 174 and received 888 emails, totalling 1062 interactions. Top correspondents: [Gstorey 71](people/gstorey-71-yahoo) (26), [Vickistorey](people/vickistorey-yahoo) (20), [Louise Kitchen](people/louise-kitchen) (19), [Vtapia](people/vtapia-pulsar) (13), [Zhiyong Wei](people/zhiyong-wei) (9). Mailbox folders observed: _americas, _sent_mail, calendar, credit_rings, deleted_items, estate.",
+  "timeline": "- **1999-07-16** | First recorded email in corpus\n- **2004-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/geoff-storey",
+    "name": "Geoff Storey",
+    "email": "geoff.storey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

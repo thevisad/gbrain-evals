@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-whitt",
+  "type": "person",
+  "title": "Mark Whitt",
+  "compiled_truth": "Mark Whitt is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-02-25), Mark Whitt sent 495 and received 889 emails, totalling 1384 interactions. Top correspondents: [Barry Tycholiz](people/barry-tycholiz) (123), [Gerald Nemec](people/gerald-nemec) (85), [T  Lucci](people/t-lucci) (81), [Tyrell Harrison](people/tyrell-harrison) (67), [Theresa Staab](people/theresa-staab) (36). Mailbox folders observed: contract_bids, deleted_items, inbox, mark_whitt, post_bankruptcy, sent_items.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-whitt",
+    "name": "Mark Whitt",
+    "email": "mark.whitt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

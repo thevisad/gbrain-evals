@@ -1,0 +1,14 @@
+{
+  "slug": "people/losullivan-isda",
+  "type": "person",
+  "title": "Losullivan",
+  "compiled_truth": "Losullivan is an external contact at [Isda](companies/isda). Over the corpus period (2000-09-07 to 2001-10-16), Losullivan sent 8 and received 45 emails, totalling 53 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (4), [Mark E Haedicke](people/mark-e-haedicke) (2), [Mark Taylor](people/mark-taylor) (2), [Christophe Chassard](people/christophe-chassard-rwetrading) (1), [Brenda Whitehead](people/brenda-whitehead) (1).",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-10-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/losullivan-isda",
+    "name": "Losullivan",
+    "email": "losullivan@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

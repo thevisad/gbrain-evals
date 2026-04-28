@@ -1,0 +1,14 @@
+{
+  "slug": "people/sthaynes-aep",
+  "type": "person",
+  "title": "Sthaynes",
+  "compiled_truth": "Sthaynes is an external contact at [Aep](companies/aep). Over the corpus period (2000-05-18 to 2000-09-18), Sthaynes sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sthaynes-aep",
+    "name": "Sthaynes",
+    "email": "sthaynes@aep.com",
+    "primary_affiliation": "companies/aep"
+  }
+}

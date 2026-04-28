@@ -1,0 +1,14 @@
+{
+  "slug": "people/thresa-allen",
+  "type": "person",
+  "title": "Thresa Allen",
+  "compiled_truth": "Thresa Allen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-07-10), Thresa Allen sent 2 and received 262 emails, totalling 264 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1), [Bill Iii](people/bill-iii) (1). Mailbox folders observed: bill.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thresa-allen",
+    "name": "Thresa Allen",
+    "email": "thresa.allen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

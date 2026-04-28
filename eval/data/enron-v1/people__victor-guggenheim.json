@@ -1,0 +1,14 @@
+{
+  "slug": "people/victor-guggenheim",
+  "type": "person",
+  "title": "Victor Guggenheim",
+  "compiled_truth": "Victor Guggenheim is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-02-04), Victor Guggenheim sent 6 and received 305 emails, totalling 311 interactions. Top correspondents: [Phillip Love](people/phillip-love) (2), [M  Love](people/m-love) (2), [Kam Keiser](people/kam-keiser) (1), [Darron Giron](people/darron-giron) (1), [William Kelly](people/william-kelly) (1). Mailbox folders observed: central, deleted_items.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/victor-guggenheim",
+    "name": "Victor Guggenheim",
+    "email": "victor.guggenheim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

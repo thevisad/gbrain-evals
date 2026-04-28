@@ -1,0 +1,14 @@
+{
+  "slug": "people/laudienl-epenergy",
+  "type": "person",
+  "title": "Laudienl",
+  "compiled_truth": "Laudienl is an external contact at [Epenergy](companies/epenergy). Over the corpus period (1999-11-15 to 2001-03-12), Laudienl sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus\n- **2001-03-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laudienl-epenergy",
+    "name": "Laudienl",
+    "email": "laudienl@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

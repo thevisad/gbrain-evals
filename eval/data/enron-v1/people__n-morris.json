@@ -1,0 +1,14 @@
+{
+  "slug": "people/n-morris",
+  "type": "person",
+  "title": "N  Morris",
+  "compiled_truth": "N  Morris is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-05-09), N  Morris sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/n-morris",
+    "name": "N  Morris",
+    "email": "n..morris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-cherry",
+  "type": "person",
+  "title": "Paul Cherry",
+  "compiled_truth": "Paul Cherry is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Paul Cherry sent 23 and received 260 emails, totalling 283 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (10), [Sandy Sheffield](people/sandy-sheffield) (7), [Jerry Peters](people/jerry-peters) (7), [Kimberly Watson](people/kimberly-watson) (7), [Angela White](people/angela-white) (6). Mailbox folders observed: deleted_items, e_mail_bin, inbox, projects, tw_accounts.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-cherry",
+    "name": "Paul Cherry",
+    "email": "paul.cherry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

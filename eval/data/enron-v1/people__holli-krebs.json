@@ -1,0 +1,14 @@
+{
+  "slug": "people/holli-krebs",
+  "type": "person",
+  "title": "Holli Krebs",
+  "compiled_truth": "Holli Krebs is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-09-05), Holli Krebs sent 6 and received 238 emails, totalling 244 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (4), [Tim Belden](people/tim-belden) (1), [Kate Symes](people/kate-symes) (1), [Bill Williams](people/bill-williams) (1), [Lester Rawson](people/lester-rawson) (1). Mailbox folders observed: bill_williams_iii.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-09-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/holli-krebs",
+    "name": "Holli Krebs",
+    "email": "holli.krebs@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

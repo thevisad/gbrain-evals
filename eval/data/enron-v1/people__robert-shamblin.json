@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-shamblin",
+  "type": "person",
+  "title": "Robert Shamblin",
+  "compiled_truth": "Robert Shamblin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2001-09-18), Robert Shamblin sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2001-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-shamblin",
+    "name": "Robert Shamblin",
+    "email": "robert.shamblin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

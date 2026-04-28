@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-ryan",
+  "type": "person",
+  "title": "A  Ryan",
+  "compiled_truth": "A  Ryan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-18 to 2001-11-20), A  Ryan sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2001-05-18** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-ryan",
+    "name": "A  Ryan",
+    "email": "a..ryan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

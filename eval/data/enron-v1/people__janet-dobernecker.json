@@ -1,0 +1,14 @@
+{
+  "slug": "people/janet-dobernecker",
+  "type": "person",
+  "title": "Janet Dobernecker",
+  "compiled_truth": "Janet Dobernecker is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-12-03 to 1999-03-30), Janet Dobernecker sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **1998-12-03** | First recorded email in corpus\n- **1999-03-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janet-dobernecker",
+    "name": "Janet Dobernecker",
+    "email": "janet.dobernecker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

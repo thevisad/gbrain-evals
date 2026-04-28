@@ -1,0 +1,14 @@
+{
+  "slug": "people/russ-yarbrough",
+  "type": "person",
+  "title": "Russ Yarbrough",
+  "compiled_truth": "Russ Yarbrough is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-20 to 2001-10-20), Russ Yarbrough sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-20** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/russ-yarbrough",
+    "name": "Russ Yarbrough",
+    "email": "russ.yarbrough@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

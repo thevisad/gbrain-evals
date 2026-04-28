@@ -1,0 +1,29 @@
+{
+  "slug": "meetings/oneonone-5-2027-01-07",
+  "type": "meeting",
+  "title": "1:1 Seren Voss + Morgan Svensson — 2027-01-07",
+  "compiled_truth": "Weekly one-on-one between [Seren Voss](people/seren-voss) (Head of Engineering) and [Morgan Svensson](people/morgan-svensson) (Staff Engineer, Core Primitives). Meeting ran about 40 minutes over the usual half-hour slot. Morgan came in with a short list of blockers but the conversation widened considerably.\n\nPrimary discussion centered on the state of the single-pass pipeline after the holiday code freeze. Morgan flagged that two of the deterministic verification modules are producing subtly different outputs on ARM versus x86 when the input stream exceeds 4 GiB. Not a correctness failure — the final results reconcile — but the intermediate checksums diverge, which makes cross-platform fuzz testing unreliable. Seren asked whether this was a known limitation from the architecture doc or a genuine regression. Morgan belives it's the latter, introduced sometime in late November, and wants to spend a focused sprint bisecting commits to isolate the cause. Seren approved, noting that cross-platform determinism is table-stakes for the next enterprise POC.\n\nThey also talked staffing. [Anchor Codec](companies/anchor) is trying to backfill two roles on the core team after Nils Ekberg moved to the integrations group in December. Morgan expressed mild frustration that the remaining three engineers are carrying too much context. Seren acknowledged the load and said she's pushing hiring committee to prioritize a senior systems candidate over a generalist. Morgan offered to help screen resumes if it speeds things up.\n\nBrief aside on the upcoming design review for the streaming authentication rework. Morgan wants to present an alternative approach that trades a small amount of latency headroom for dramatically simpler error recovery. Seren was receptive but asked Morgan to prepare a one-pager comparing the two approaches before the Thursday review so the rest of the team isn't surprised. Morgan agreed.\n\nFinally, they touched on Morgan's career trajectory. Seren noted that Morgan's been operating at a principal-level scope for months and asked if he'd be open to a formal title change in the next cycle. Morgan said he'd think about it — he's more motivated by the technical problems than the title, but acknowledged that the organizational clarity would help when working cross-team. They agreed to revisit in February after performance calibrations.\n\nNo major action items beyond the cross-platform bisect sprint and the one-pager for Thursday.",
+  "timeline": [
+    "- **2026-08-15** | [Morgan Svensson](people/morgan-svensson) joins [Anchor Codec](companies/anchor) as Staff Engineer on Core Primitives team.",
+    "- **2026-10-02** | Morgan presents initial deterministic verification module design to engineering leadership.",
+    "- **2026-11-18** | Suspected regression window begins; late-November commits may have introduced cross-platform checksum divergence.",
+    "- **2026-12-09** | Nils Ekberg transfers from core primitives to integrations group, leaving staffing gap.",
+    "- **2026-12-20** | Holiday code freeze begins across [Anchor Codec](companies/anchor) engineering.",
+    "- **2027-01-03** | Code freeze lifted; Morgan begins post-freeze audit of single-pass pipeline.",
+    "- **2027-01-07** | This 1:1 between [Seren Voss](people/seren-voss) and Morgan. Cross-platform bisect sprint approved, one-pager requested for Thursday design review.",
+    "- **2027-01-09** | Scheduled design review for streaming authentication rework; Morgan to present alternative approach.",
+    "- **2027-02-10** | Tentative date to revisit Morgan's title change during performance calibration cycle."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/oneonone-5-2027-01-07",
+    "name": "1:1 Seren Voss + Morgan Svensson",
+    "meeting_type": "one_on_one",
+    "date": "2027-01-07",
+    "attendees": [
+      "people/seren-voss",
+      "people/morgan-svensson"
+    ],
+    "topic_company": "companies/anchor"
+  }
+}

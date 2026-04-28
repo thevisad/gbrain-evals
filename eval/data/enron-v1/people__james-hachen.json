@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-hachen",
+  "type": "person",
+  "title": "James Hachen",
+  "compiled_truth": "James Hachen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2002-01-29), James Hachen sent 2 and received 53 emails, totalling 55 interactions. Top correspondents: [David Gorte](people/david-gorte) (2), [Rick Buy](people/rick-buy) (2), [Vladimir Gorny](people/vladimir-gorny) (1), [Molly Harris](people/molly-harris) (1), [Denise Furey](people/denise-furey) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-hachen",
+    "name": "James Hachen",
+    "email": "james.hachen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

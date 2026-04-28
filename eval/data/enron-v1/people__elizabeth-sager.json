@@ -1,0 +1,14 @@
+{
+  "slug": "people/elizabeth-sager",
+  "type": "person",
+  "title": "Elizabeth Sager",
+  "compiled_truth": "Elizabeth Sager is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-14), Elizabeth Sager sent 2552 and received 3033 emails, totalling 5585 interactions. Top correspondents: [Brenda Whitehead](people/brenda-whitehead) (284), [Christian Yoder](people/christian-yoder) (163), [David Portz](people/david-portz) (125), [Genia Fitzgerald](people/genia-fitzgerald) (112), [Drusso](people/drusso-reliantenergy) (98). Mailbox folders observed: _americas, calendar, deleted_items, eesidealsgsaregion1, inbox, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elizabeth-sager",
+    "name": "Elizabeth Sager",
+    "email": "elizabeth.sager@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

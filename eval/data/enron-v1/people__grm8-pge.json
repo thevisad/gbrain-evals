@@ -1,0 +1,14 @@
+{
+  "slug": "people/grm8-pge",
+  "type": "person",
+  "title": "Grm8",
+  "compiled_truth": "Grm8 is an external contact at [PG&E](companies/pge). Over the corpus period (1999-10-04 to 2001-12-12), Grm8 sent 3 and received 11 emails, totalling 14 interactions. Top correspondents: [Davef](people/davef-abag) (2), [Al Church](people/al-church-acnenergy) (2), [Gac](people/gac-mrwassoc) (2), [Msengo](people/msengo-dgs) (2), [Chawes](people/chawes-txuenergy) (2).",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2001-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/grm8-pge",
+    "name": "Grm8",
+    "email": "grm8@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

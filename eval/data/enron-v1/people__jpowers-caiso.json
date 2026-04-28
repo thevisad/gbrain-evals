@@ -1,0 +1,14 @@
+{
+  "slug": "people/jpowers-caiso",
+  "type": "person",
+  "title": "Jpowers",
+  "compiled_truth": "Jpowers is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-08-29 to 2000-08-29), Jpowers sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-08-29** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jpowers-caiso",
+    "name": "Jpowers",
+    "email": "jpowers@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

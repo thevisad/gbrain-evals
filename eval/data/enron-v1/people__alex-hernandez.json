@@ -1,0 +1,14 @@
+{
+  "slug": "people/alex-hernandez",
+  "type": "person",
+  "title": "Alex Hernandez",
+  "compiled_truth": "Alex Hernandez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-27 to 2002-03-31), Alex Hernandez sent 5 and received 45 emails, totalling 50 interactions. Top correspondents: [Joe Parks](people/joe-parks) (4), [Chris Germany](people/chris-germany) (3), [Ruth Concannon](people/ruth-concannon) (2), [John Arnold](people/john-arnold) (1), [Ed Mcmichael](people/ed-mcmichael) (1). Mailbox folders observed: deleted_items, personal.",
+  "timeline": "- **2001-06-27** | First recorded email in corpus\n- **2002-03-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alex-hernandez",
+    "name": "Alex Hernandez",
+    "email": "alex.hernandez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

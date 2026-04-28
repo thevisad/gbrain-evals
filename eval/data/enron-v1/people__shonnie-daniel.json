@@ -1,0 +1,14 @@
+{
+  "slug": "people/shonnie-daniel",
+  "type": "person",
+  "title": "Shonnie Daniel",
+  "compiled_truth": "Shonnie Daniel is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-06), Shonnie Daniel sent 89 and received 776 emails, totalling 865 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (85), [Mark Whitt](people/mark-whitt) (42), [Brian Bierbach](people/brian-bierbach) (38), [Cris Sherman](people/cris-sherman) (27), [Ranabir Dutt](people/ranabir-dutt) (19). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shonnie-daniel",
+    "name": "Shonnie Daniel",
+    "email": "shonnie.daniel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

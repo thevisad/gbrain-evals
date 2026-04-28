@@ -1,0 +1,14 @@
+{
+  "slug": "people/gordon-mcdonald-pacificorp",
+  "type": "person",
+  "title": "Gordon Mcdonald",
+  "compiled_truth": "Gordon Mcdonald is an external contact at [Pacificorp](companies/pacificorp). Over the corpus period (2000-08-10 to 2001-10-19), Gordon Mcdonald sent 0 and received 39 emails, totalling 39 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gordon-mcdonald-pacificorp",
+    "name": "Gordon Mcdonald",
+    "email": "gordon.mcdonald@pacificorp.com",
+    "primary_affiliation": "companies/pacificorp"
+  }
+}

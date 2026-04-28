@@ -1,0 +1,14 @@
+{
+  "slug": "people/victoria-mcdaniel",
+  "type": "person",
+  "title": "Victoria Mcdaniel",
+  "compiled_truth": "Victoria Mcdaniel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-02 to 2000-12-11), Victoria Mcdaniel sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (1).",
+  "timeline": "- **2000-03-02** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/victoria-mcdaniel",
+    "name": "Victoria Mcdaniel",
+    "email": "victoria.mcdaniel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/phil-polsky",
+  "type": "person",
+  "title": "Phil Polsky",
+  "compiled_truth": "Phil Polsky is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-25 to 2002-06-25), Phil Polsky sent 56 and received 294 emails, totalling 350 interactions. Top correspondents: [Barry Tycholiz](people/barry-tycholiz) (22), [Chris Germany](people/chris-germany) (12), [Stephanie Miller](people/stephanie-miller) (11), [Joe Parks](people/joe-parks) (10), [ Ward](people/ward) (10). Mailbox folders observed: bankrupt, calendar, deleted_items, inbox, long_beach, transportation.",
+  "timeline": "- **2001-04-25** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/phil-polsky",
+    "name": "Phil Polsky",
+    "email": "phil.polsky@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

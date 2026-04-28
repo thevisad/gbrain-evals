@@ -1,0 +1,14 @@
+{
+  "slug": "people/raul-rizo-patron",
+  "type": "person",
+  "title": "Raul Rizo-Patron",
+  "compiled_truth": "Raul Rizo-Patron is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-26), Raul Rizo-Patron sent 8 and received 25 emails, totalling 33 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (4), [Benjamin Rogers](people/benjamin-rogers) (4), [John Nowlan](people/john-nowlan) (2), [Shanna Funkhouser](people/shanna-funkhouser) (2), [Timothy Detmering](people/timothy-detmering) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/raul-rizo-patron",
+    "name": "Raul Rizo-Patron",
+    "email": "raul.rizo-patron@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

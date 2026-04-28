@@ -1,0 +1,14 @@
+{
+  "slug": "people/oshirock-pacbell",
+  "type": "person",
+  "title": "Oshirock",
+  "compiled_truth": "Oshirock is an external contact at [Pacbell](companies/pacbell). Over the corpus period (1999-09-24 to 2001-07-31), Oshirock sent 0 and received 67 emails, totalling 67 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/oshirock-pacbell",
+    "name": "Oshirock",
+    "email": "oshirock@pacbell.net",
+    "primary_affiliation": "companies/pacbell"
+  }
+}

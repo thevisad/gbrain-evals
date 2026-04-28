@@ -1,0 +1,14 @@
+{
+  "slug": "people/swanita-99-yahoo",
+  "type": "person",
+  "title": "Swanita 99",
+  "compiled_truth": "Swanita 99 is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-07-24 to 2000-11-02), Swanita 99 sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-07-24** | First recorded email in corpus\n- **2000-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/swanita-99-yahoo",
+    "name": "Swanita 99",
+    "email": "swanita_99@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

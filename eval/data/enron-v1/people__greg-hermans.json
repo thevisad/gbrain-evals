@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-hermans",
+  "type": "person",
+  "title": "Greg Hermans",
+  "compiled_truth": "Greg Hermans is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-26 to 2002-01-14), Greg Hermans sent 2 and received 156 emails, totalling 158 interactions. Top correspondents: [Lou Stoler](people/lou-stoler) (1), [L  Barbour](people/l-barbour) (1), [Bjorn Hagelmann](people/bjorn-hagelmann) (1), [Tanya Rohauer](people/tanya-rohauer) (1), [Ken Curry](people/ken-curry) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-04-26** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-hermans",
+    "name": "Greg Hermans",
+    "email": "greg.hermans@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

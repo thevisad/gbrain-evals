@@ -1,0 +1,14 @@
+{
+  "slug": "people/shawn-cumberland",
+  "type": "person",
+  "title": "Shawn Cumberland",
+  "compiled_truth": "Shawn Cumberland is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2001-09-12), Shawn Cumberland sent 3 and received 58 emails, totalling 61 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (2).",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2001-09-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shawn-cumberland",
+    "name": "Shawn Cumberland",
+    "email": "shawn.cumberland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/renee-carter",
+  "type": "person",
+  "title": "Renee Carter",
+  "compiled_truth": "Renee Carter is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-27 to 2002-02-05), Renee Carter sent 2 and received 5 emails, totalling 7 interactions. Top correspondents: [C  Gossett](people/c-gossett) (2), [Leslie Reeves](people/leslie-reeves) (2), [Greg Whiting](people/greg-whiting) (2), [Bryce Baxter](people/bryce-baxter) (2), [Evelyn Aucoin](people/evelyn-aucoin) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-11-27** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/renee-carter",
+    "name": "Renee Carter",
+    "email": "renee.carter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

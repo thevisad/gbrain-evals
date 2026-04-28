@@ -1,0 +1,14 @@
+{
+  "slug": "people/dhanson-anl",
+  "type": "person",
+  "title": "Dhanson",
+  "compiled_truth": "Dhanson is an external contact at [Anl](companies/anl). Over the corpus period (2001-11-19 to 2001-12-27), Dhanson sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-11-19** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dhanson-anl",
+    "name": "Dhanson",
+    "email": "dhanson@anl.gov",
+    "primary_affiliation": "companies/anl"
+  }
+}

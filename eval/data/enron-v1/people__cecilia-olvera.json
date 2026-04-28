@@ -1,0 +1,14 @@
+{
+  "slug": "people/cecilia-olvera",
+  "type": "person",
+  "title": "Cecilia Olvera",
+  "compiled_truth": "Cecilia Olvera is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-30 to 2001-05-14), Cecilia Olvera sent 4 and received 50 emails, totalling 54 interactions. Top correspondents: [Chris Germany](people/chris-germany) (1), [Gary Nelson](people/gary-nelson) (1), [Sherry Anastas](people/sherry-anastas) (1), [Darron Giron](people/darron-giron) (1), [Vivien Pham](people/vivien-pham) (1).",
+  "timeline": "- **1999-07-30** | First recorded email in corpus\n- **2001-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cecilia-olvera",
+    "name": "Cecilia Olvera",
+    "email": "cecilia.olvera@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

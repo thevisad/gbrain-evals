@@ -1,0 +1,14 @@
+{
+  "slug": "people/jpelti-lsumc",
+  "type": "person",
+  "title": "Jpelti",
+  "compiled_truth": "Jpelti is an external contact at [Lsumc](companies/lsumc). Over the corpus period (2000-06-01 to 2001-04-20), Jpelti sent 0 and received 43 emails, totalling 43 interactions.",
+  "timeline": "- **2000-06-01** | First recorded email in corpus\n- **2001-04-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jpelti-lsumc",
+    "name": "Jpelti",
+    "email": "jpelti@lsumc.edu",
+    "primary_affiliation": "companies/lsumc"
+  }
+}

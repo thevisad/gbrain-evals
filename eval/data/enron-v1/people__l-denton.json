@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-denton",
+  "type": "person",
+  "title": "L  Denton",
+  "compiled_truth": "L  Denton is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-17 to 2002-03-01), L  Denton sent 54 and received 142 emails, totalling 196 interactions. Top correspondents: [W  White](people/w-white) (39), [Ann Murphy](people/ann-murphy) (35), [J  Sturm](people/j-sturm) (35), [Sharen Cason](people/sharen-cason) (34), [Casey Evans](people/casey-evans) (34). Mailbox folders observed: credit, cya, deleted_items, enron_power, inbox, power.",
+  "timeline": "- **2001-04-17** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-denton",
+    "name": "L  Denton",
+    "email": "l..denton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

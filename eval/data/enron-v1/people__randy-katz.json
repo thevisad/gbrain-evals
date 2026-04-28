@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-katz",
+  "type": "person",
+  "title": "Randy Katz",
+  "compiled_truth": "Randy Katz is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-25 to 2001-09-26), Randy Katz sent 1 and received 27 emails, totalling 28 interactions. Top correspondents: [M  Forney](people/m-forney) (1), [Alexander Mcelreath](people/alexander-mcelreath) (1), [Eric Saibi](people/eric-saibi) (1), [Joe Errigo](people/joe-errigo) (1), [Joe Capasso](people/joe-capasso) (1). Mailbox folders observed: saved.",
+  "timeline": "- **2001-05-25** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-katz",
+    "name": "Randy Katz",
+    "email": "randy.katz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

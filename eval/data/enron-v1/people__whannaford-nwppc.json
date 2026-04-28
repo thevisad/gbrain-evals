@@ -1,0 +1,14 @@
+{
+  "slug": "people/whannaford-nwppc",
+  "type": "person",
+  "title": "Whannaford",
+  "compiled_truth": "Whannaford is an external contact at [Nwppc](companies/nwppc). Over the corpus period (2000-06-23 to 2001-03-28), Whannaford sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [Mary Hain](people/mary-hain) (1).",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/whannaford-nwppc",
+    "name": "Whannaford",
+    "email": "whannaford@nwppc.org",
+    "primary_affiliation": "companies/nwppc"
+  }
+}

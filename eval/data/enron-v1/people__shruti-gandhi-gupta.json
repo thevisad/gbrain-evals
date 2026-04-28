@@ -1,0 +1,14 @@
+{
+  "slug": "people/shruti-gandhi-gupta",
+  "type": "person",
+  "title": "Shruti Gandhi-Gupta",
+  "compiled_truth": "Shruti Gandhi-Gupta is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-11-20), Shruti Gandhi-Gupta sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Andrea Richards](people/andrea-richards) (1), [Todd Busby](people/todd-busby) (1), [Wayne Andrews](people/wayne-andrews) (1), [Sally Beck](people/sally-beck) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shruti-gandhi-gupta",
+    "name": "Shruti Gandhi-Gupta",
+    "email": "shruti.gandhi-gupta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeremy-blachman",
+  "type": "person",
+  "title": "Jeremy Blachman",
+  "compiled_truth": "Jeremy Blachman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2002-03-29), Jeremy Blachman sent 9 and received 914 emails, totalling 923 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (5), [Angela Schwarz](people/angela-schwarz) (2), [Lamar Frazier](people/lamar-frazier) (2), [Michael Mann](people/michael-mann) (2), [D  Steffes](people/d-steffes) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeremy-blachman",
+    "name": "Jeremy Blachman",
+    "email": "jeremy.blachman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

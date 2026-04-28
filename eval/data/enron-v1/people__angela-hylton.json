@@ -1,0 +1,14 @@
+{
+  "slug": "people/angela-hylton",
+  "type": "person",
+  "title": "Angela Hylton",
+  "compiled_truth": "Angela Hylton is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-28), Angela Hylton sent 2 and received 62 emails, totalling 64 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (1), [Matt Smith](people/matt-smith) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angela-hylton",
+    "name": "Angela Hylton",
+    "email": "angela.hylton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

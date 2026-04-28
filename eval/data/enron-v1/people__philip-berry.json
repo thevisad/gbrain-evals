@@ -1,0 +1,14 @@
+{
+  "slug": "people/philip-berry",
+  "type": "person",
+  "title": "Philip Berry",
+  "compiled_truth": "Philip Berry is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-02 to 2001-11-25), Philip Berry sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2001-04-02** | First recorded email in corpus\n- **2001-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/philip-berry",
+    "name": "Philip Berry",
+    "email": "philip.berry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

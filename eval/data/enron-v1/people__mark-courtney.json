@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-courtney",
+  "type": "person",
+  "title": "Mark Courtney",
+  "compiled_truth": "Mark Courtney is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-17 to 2001-12-03), Mark Courtney sent 10 and received 302 emails, totalling 312 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (10), [John Walt](people/john-walt) (4), [Brian O'Rourke](people/brian-o-rourke) (4), [Mark Knippa](people/mark-knippa) (4), [Petual Jeanmard](people/petual-jeanmard) (4).",
+  "timeline": "- **1999-05-17** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-courtney",
+    "name": "Mark Courtney",
+    "email": "mark.courtney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

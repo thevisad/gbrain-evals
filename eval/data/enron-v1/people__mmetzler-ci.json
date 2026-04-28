@@ -1,0 +1,14 @@
+{
+  "slug": "people/mmetzler-ci",
+  "type": "person",
+  "title": "Mmetzler",
+  "compiled_truth": "Mmetzler is an external contact at [Ci](companies/ci). Over the corpus period (2001-02-20 to 2001-04-27), Mmetzler sent 0 and received 66 emails, totalling 66 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mmetzler-ci",
+    "name": "Mmetzler",
+    "email": "mmetzler@ci.tacoma.wa.us",
+    "primary_affiliation": "companies/ci"
+  }
+}

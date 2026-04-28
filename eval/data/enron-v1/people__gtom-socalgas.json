@@ -1,0 +1,14 @@
+{
+  "slug": "people/gtom-socalgas",
+  "type": "person",
+  "title": "Gtom",
+  "compiled_truth": "Gtom is an external contact at [Socalgas](companies/socalgas). Over the corpus period (2000-05-08 to 2001-04-24), Gtom sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2001-04-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gtom-socalgas",
+    "name": "Gtom",
+    "email": "gtom@socalgas.com",
+    "primary_affiliation": "companies/socalgas"
+  }
+}

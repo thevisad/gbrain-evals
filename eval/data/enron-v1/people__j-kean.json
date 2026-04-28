@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-kean",
+  "type": "person",
+  "title": "J  Kean",
+  "compiled_truth": "J  Kean is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-20 to 2002-01-14), J  Kean sent 442 and received 1230 emails, totalling 1672 interactions. Top correspondents: [ Palmer](people/palmer) (53), [Maureen Mcvicker](people/maureen-mcvicker) (51), [Karen Denne](people/karen-denne) (45), [Mark Koenig](people/mark-koenig) (29), [Richard Shapiro](people/richard-shapiro) (28). Mailbox folders observed: _americas, budget, contact_list, deleted_items, inbox, organization.",
+  "timeline": "- **2001-07-20** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-kean",
+    "name": "J  Kean",
+    "email": "j..kean@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

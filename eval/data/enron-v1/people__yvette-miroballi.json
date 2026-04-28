@@ -1,0 +1,14 @@
+{
+  "slug": "people/yvette-miroballi",
+  "type": "person",
+  "title": "Yvette Miroballi",
+  "compiled_truth": "Yvette Miroballi is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-06), Yvette Miroballi sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yvette-miroballi",
+    "name": "Yvette Miroballi",
+    "email": "yvette.miroballi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

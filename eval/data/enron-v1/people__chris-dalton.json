@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-dalton",
+  "type": "person",
+  "title": "Chris Dalton",
+  "compiled_truth": "Chris Dalton is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-28 to 2001-05-22), Chris Dalton sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-03-28** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-dalton",
+    "name": "Chris Dalton",
+    "email": "chris.dalton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

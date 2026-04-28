@@ -1,0 +1,14 @@
+{
+  "slug": "people/dolores-muzzy",
+  "type": "person",
+  "title": "Dolores Muzzy",
+  "compiled_truth": "Dolores Muzzy is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-12-03), Dolores Muzzy sent 9 and received 42 emails, totalling 51 interactions. Top correspondents: [Chuck Ames](people/chuck-ames) (2), [Joseph Piotrowski](people/joseph-piotrowski) (2), [Luis Velez](people/luis-velez) (2), [Russell Ballato](people/russell-ballato) (2), [Sanjay Patel](people/sanjay-patel) (2). Mailbox folders observed: bill_williams_iii, inbox.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dolores-muzzy",
+    "name": "Dolores Muzzy",
+    "email": "dolores.muzzy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

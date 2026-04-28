@@ -1,0 +1,14 @@
+{
+  "slug": "people/cbarfield-aei",
+  "type": "person",
+  "title": "Cbarfield",
+  "compiled_truth": "Cbarfield is an external contact at [Aei](companies/aei). Over the corpus period (1999-11-15 to 1999-11-15), Cbarfield sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cbarfield-aei",
+    "name": "Cbarfield",
+    "email": "cbarfield@aei.org",
+    "primary_affiliation": "companies/aei"
+  }
+}

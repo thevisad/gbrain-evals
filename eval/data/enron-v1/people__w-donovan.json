@@ -1,0 +1,14 @@
+{
+  "slug": "people/w-donovan",
+  "type": "person",
+  "title": "W  Donovan",
+  "compiled_truth": "W  Donovan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-21 to 2002-02-21), W  Donovan sent 3 and received 61 emails, totalling 64 interactions. Top correspondents: [M  Presto](people/m-presto) (3), [Rogers Herndon](people/rogers-herndon) (1), [Don Black](people/don-black) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-05-21** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/w-donovan",
+    "name": "W  Donovan",
+    "email": "w..donovan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

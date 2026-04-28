@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-vuittonet",
+  "type": "person",
+  "title": "Laura Vuittonet",
+  "compiled_truth": "Laura Vuittonet is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-20 to 2002-05-02), Laura Vuittonet sent 133 and received 143 emails, totalling 276 interactions. Top correspondents: [A  Martin](people/a-martin) (52), [Eric Bass](people/eric-bass) (30), [Jim Schwieger](people/jim-schwieger) (28), [David Baumbach](people/david-baumbach) (27), [Michael Olsen](people/michael-olsen) (23). Mailbox folders observed: bankruptcy, calendar, contacts, deleted_items, enron_news, inbox.",
+  "timeline": "- **2000-12-20** | First recorded email in corpus\n- **2002-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-vuittonet",
+    "name": "Laura Vuittonet",
+    "email": "laura.vuittonet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/etradeservice-etrade",
+  "type": "person",
+  "title": "Etradeservice",
+  "compiled_truth": "Etradeservice is an external contact at [Etrade](companies/etrade). Over the corpus period (2000-08-09 to 2002-02-05), Etradeservice sent 33 and received 0 emails, totalling 33 interactions. Top correspondents: [Lcampbel](people/lcampbel) (12), [Sara Shackleton](people/sara-shackleton) (6), [Sshackl](people/sshackl) (4), [Kruscit](people/kruscit) (2), [Joe Stepenovitch](people/joe-stepenovitch) (2).",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/etradeservice-etrade",
+    "name": "Etradeservice",
+    "email": "etradeservice@etrade.0mm.com",
+    "primary_affiliation": "companies/etrade"
+  }
+}

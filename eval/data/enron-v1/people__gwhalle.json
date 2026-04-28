@@ -1,0 +1,14 @@
+{
+  "slug": "people/gwhalle",
+  "type": "person",
+  "title": "Gwhalle",
+  "compiled_truth": "Gwhalle is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-24 to 2001-11-27), Gwhalle sent 0 and received 64 emails, totalling 64 interactions.",
+  "timeline": "- **2000-08-24** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gwhalle",
+    "name": "Gwhalle",
+    "email": "gwhalle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

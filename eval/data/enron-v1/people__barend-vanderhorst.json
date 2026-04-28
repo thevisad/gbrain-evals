@@ -1,0 +1,14 @@
+{
+  "slug": "people/barend-vanderhorst",
+  "type": "person",
+  "title": "Barend Vanderhorst",
+  "compiled_truth": "Barend Vanderhorst is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-16 to 2001-08-03), Barend Vanderhorst sent 1 and received 88 emails, totalling 89 interactions. Top correspondents: [James Barker](people/james-barker) (1), [Matthew Fleming](people/matthew-fleming) (1), [Marde Driscoll](people/marde-driscoll) (1), [Jay Blaine](people/jay-blaine) (1), [Paul Tate](people/paul-tate) (1).",
+  "timeline": "- **2000-03-16** | First recorded email in corpus\n- **2001-08-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barend-vanderhorst",
+    "name": "Barend Vanderhorst",
+    "email": "barend.vanderhorst@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

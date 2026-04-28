@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-scana",
+  "type": "person",
+  "title": "Kathy",
+  "compiled_truth": "Kathy is an external contact at [Scana](companies/scana). Over the corpus period (2000-08-25 to 2000-09-25), Kathy sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2000-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-scana",
+    "name": "Kathy",
+    "email": "kathy@scana.com",
+    "primary_affiliation": "companies/scana"
+  }
+}

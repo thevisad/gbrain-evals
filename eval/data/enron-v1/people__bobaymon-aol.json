@@ -1,0 +1,14 @@
+{
+  "slug": "people/bobaymon-aol",
+  "type": "person",
+  "title": "Bobaymon",
+  "compiled_truth": "Bobaymon is an external contact at [AOL](companies/aol). Over the corpus period (2000-11-17 to 2001-12-10), Bobaymon sent 5 and received 32 emails, totalling 37 interactions. Top correspondents: [Chi325](people/chi325-hotmail) (4), [Kimv](people/kimv-palacios) (4), [Lomani26](people/lomani26-cs) (4), [Sarahmyu](people/sarahmyu-hotmail) (4), [Thanh Roettele](people/thanh-roettele-chase) (4).",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bobaymon-aol",
+    "name": "Bobaymon",
+    "email": "bobaymon@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

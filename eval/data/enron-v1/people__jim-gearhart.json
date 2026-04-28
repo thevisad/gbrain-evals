@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-gearhart",
+  "type": "person",
+  "title": "Jim Gearhart",
+  "compiled_truth": "Jim Gearhart is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2001-11-27), Jim Gearhart sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-gearhart",
+    "name": "Jim Gearhart",
+    "email": "jim.gearhart@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

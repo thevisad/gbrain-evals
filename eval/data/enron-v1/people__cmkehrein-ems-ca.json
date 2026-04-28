@@ -1,0 +1,14 @@
+{
+  "slug": "people/cmkehrein-ems-ca",
+  "type": "person",
+  "title": "Cmkehrein",
+  "compiled_truth": "Cmkehrein is an external contact at [Ems-ca](companies/ems-ca). Over the corpus period (1999-09-24 to 2001-07-31), Cmkehrein sent 0 and received 69 emails, totalling 69 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cmkehrein-ems-ca",
+    "name": "Cmkehrein",
+    "email": "cmkehrein@ems-ca.com",
+    "primary_affiliation": "companies/ems-ca"
+  }
+}

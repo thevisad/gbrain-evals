@@ -1,0 +1,14 @@
+{
+  "slug": "people/aaron-adams",
+  "type": "person",
+  "title": "Aaron Adams",
+  "compiled_truth": "Aaron Adams is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-11-30), Aaron Adams sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aaron-adams",
+    "name": "Aaron Adams",
+    "email": "aaron.adams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

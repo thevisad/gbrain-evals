@@ -1,0 +1,14 @@
+{
+  "slug": "people/pilar-ramirez",
+  "type": "person",
+  "title": "Pilar Ramirez",
+  "compiled_truth": "Pilar Ramirez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2002-01-25), Pilar Ramirez sent 17 and received 94 emails, totalling 111 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (12), [Sean Bolks](people/sean-bolks) (11), [Vernon Mercaldo](people/vernon-mercaldo) (11), [Michelle Lokay](people/michelle-lokay) (11), [Dana Jones](people/dana-jones) (10). Mailbox folders observed: calendar, deleted_items, expense_rpts__1997, inbox, personal, rm_science_review.",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pilar-ramirez",
+    "name": "Pilar Ramirez",
+    "email": "pilar.ramirez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

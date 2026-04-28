@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-martinez",
+  "type": "person",
+  "title": "Bob Martinez",
+  "compiled_truth": "Bob Martinez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-21 to 2002-02-07), Bob Martinez sent 2 and received 35 emails, totalling 37 interactions. Top correspondents: [Jack Boatman](people/jack-boatman) (2), [Theresa Branney](people/theresa-branney) (2), [Craig Buehler](people/craig-buehler) (2), [Rachel Cady](people/rachel-cady) (2), [Carl Carter](people/carl-carter) (2).",
+  "timeline": "- **2000-03-21** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-martinez",
+    "name": "Bob Martinez",
+    "email": "bob.martinez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

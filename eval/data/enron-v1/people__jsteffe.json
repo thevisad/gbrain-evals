@@ -1,0 +1,14 @@
+{
+  "slug": "people/jsteffe",
+  "type": "person",
+  "title": "Jsteffe",
+  "compiled_truth": "Jsteffe is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-15 to 2002-01-02), Jsteffe sent 1 and received 229 emails, totalling 230 interactions. Top correspondents: [Christi L Nicolay](people/christi-l-nicolay) (1), [Steven J Kean](people/steven-j-kean) (1), [Charles Yeung](people/charles-yeung) (1), [Joe Hartsoe](people/joe-hartsoe) (1), [Jbrown1](people/jbrown1) (1).",
+  "timeline": "- **2000-05-15** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jsteffe",
+    "name": "Jsteffe",
+    "email": "jsteffe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

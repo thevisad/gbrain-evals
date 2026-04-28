@@ -1,0 +1,14 @@
+{
+  "slug": "people/peggy-fowler",
+  "type": "person",
+  "title": "Peggy Fowler",
+  "compiled_truth": "Peggy Fowler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-21 to 2001-12-31), Peggy Fowler sent 0 and received 103 emails, totalling 103 interactions.",
+  "timeline": "- **2000-09-21** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peggy-fowler",
+    "name": "Peggy Fowler",
+    "email": "peggy.fowler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

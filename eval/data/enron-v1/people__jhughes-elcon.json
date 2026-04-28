@@ -1,0 +1,14 @@
+{
+  "slug": "people/jhughes-elcon",
+  "type": "person",
+  "title": "Jhughes",
+  "compiled_truth": "Jhughes is an external contact at [Elcon](companies/elcon). Over the corpus period (2001-06-28 to 2001-06-29), Jhughes sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-28** | First recorded email in corpus\n- **2001-06-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jhughes-elcon",
+    "name": "Jhughes",
+    "email": "jhughes@elcon.org",
+    "primary_affiliation": "companies/elcon"
+  }
+}

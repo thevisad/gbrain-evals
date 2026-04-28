@@ -1,0 +1,14 @@
+{
+  "slug": "people/lprior",
+  "type": "person",
+  "title": "Lprior",
+  "compiled_truth": "Lprior is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-27 to 2001-05-11), Lprior sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lprior",
+    "name": "Lprior",
+    "email": "lprior@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

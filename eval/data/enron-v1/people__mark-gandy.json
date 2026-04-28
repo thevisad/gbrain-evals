@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-gandy",
+  "type": "person",
+  "title": "Mark Gandy",
+  "compiled_truth": "Mark Gandy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-24 to 2001-12-13), Mark Gandy sent 2 and received 30 emails, totalling 32 interactions. Top correspondents: [David Mitchell](people/david-mitchell) (1), [Bryan Williams](people/bryan-williams) (1), [Jennifer Martinez](people/jennifer-martinez) (1), [Paul Burkhart](people/paul-burkhart) (1), [Billy Braddock](people/billy-braddock) (1). Mailbox folders observed: ut_mba.",
+  "timeline": "- **2000-03-24** | First recorded email in corpus\n- **2001-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-gandy",
+    "name": "Mark Gandy",
+    "email": "mark.gandy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

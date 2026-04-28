@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcasas-hess",
+  "type": "person",
+  "title": "Mcasas",
+  "compiled_truth": "Mcasas is an external contact at [Hess](companies/hess). Over the corpus period (2000-11-07 to 2001-09-04), Mcasas sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcasas-hess",
+    "name": "Mcasas",
+    "email": "mcasas@hess.com",
+    "primary_affiliation": "companies/hess"
+  }
+}

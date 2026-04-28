@@ -1,0 +1,14 @@
+{
+  "slug": "people/sriram-vasudevan",
+  "type": "person",
+  "title": "Sriram Vasudevan",
+  "compiled_truth": "Sriram Vasudevan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-11 to 2002-01-28), Sriram Vasudevan sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2001-10-11** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sriram-vasudevan",
+    "name": "Sriram Vasudevan",
+    "email": "sriram.vasudevan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

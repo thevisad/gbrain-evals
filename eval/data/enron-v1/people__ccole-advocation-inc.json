@@ -1,0 +1,14 @@
+{
+  "slug": "people/ccole-advocation-inc",
+  "type": "person",
+  "title": "Ccole",
+  "compiled_truth": "Ccole is an external contact at [Advocation-inc](companies/advocation-inc). Over the corpus period (2001-01-03 to 2001-11-20), Ccole sent 1 and received 62 emails, totalling 63 interactions. Top correspondents: [Skean](people/skean) (1).",
+  "timeline": "- **2001-01-03** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ccole-advocation-inc",
+    "name": "Ccole",
+    "email": "ccole@advocation-inc.com",
+    "primary_affiliation": "companies/advocation-inc"
+  }
+}

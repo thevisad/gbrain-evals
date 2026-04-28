@@ -1,0 +1,14 @@
+{
+  "slug": "people/tiffanyd-metfamily",
+  "type": "person",
+  "title": "Tiffanyd",
+  "compiled_truth": "Tiffanyd is an external contact at [Metfamily](companies/metfamily). Over the corpus period (2000-12-15 to 2002-04-29), Tiffanyd sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-12-15** | First recorded email in corpus\n- **2002-04-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tiffanyd-metfamily",
+    "name": "Tiffanyd",
+    "email": "tiffanyd@metfamily.org",
+    "primary_affiliation": "companies/metfamily"
+  }
+}

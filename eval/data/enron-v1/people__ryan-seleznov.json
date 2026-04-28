@@ -1,0 +1,14 @@
+{
+  "slug": "people/ryan-seleznov",
+  "type": "person",
+  "title": "Ryan Seleznov",
+  "compiled_truth": "Ryan Seleznov is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Ryan Seleznov sent 9 and received 89 emails, totalling 98 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (5), [Andy Zipper](people/andy-zipper) (4), [Exec Jones](people/exec-jones) (3), [Jennifer Denny](people/jennifer-denny) (3), [Bob Shults](people/bob-shults) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ryan-seleznov",
+    "name": "Ryan Seleznov",
+    "email": "ryan.seleznov@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bernard-dahanayake",
+  "type": "person",
+  "title": "Bernard Dahanayake",
+  "compiled_truth": "Bernard Dahanayake is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-12-03), Bernard Dahanayake sent 1 and received 65 emails, totalling 66 interactions. Top correspondents: [Enw-Employees Houston](people/enw-employees-houston) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bernard-dahanayake",
+    "name": "Bernard Dahanayake",
+    "email": "bernard.dahanayake@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

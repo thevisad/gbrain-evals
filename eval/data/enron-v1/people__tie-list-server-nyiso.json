@@ -1,0 +1,14 @@
+{
+  "slug": "people/tie-list-server-nyiso",
+  "type": "person",
+  "title": "Tie List Server",
+  "compiled_truth": "Tie List Server is an external contact at [Nyiso](companies/nyiso). Over the corpus period (2000-11-26 to 2002-10-09), Tie List Server sent 0 and received 245 emails, totalling 245 interactions.",
+  "timeline": "- **2000-11-26** | First recorded email in corpus\n- **2002-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tie-list-server-nyiso",
+    "name": "Tie List Server",
+    "email": "tie_list_server@nyiso.com",
+    "primary_affiliation": "companies/nyiso"
+  }
+}

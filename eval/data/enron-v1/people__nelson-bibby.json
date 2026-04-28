@@ -1,0 +1,14 @@
+{
+  "slug": "people/nelson-bibby",
+  "type": "person",
+  "title": "Nelson Bibby",
+  "compiled_truth": "Nelson Bibby is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-06 to 2000-12-11), Nelson Bibby sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-10-06** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nelson-bibby",
+    "name": "Nelson Bibby",
+    "email": "nelson.bibby@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

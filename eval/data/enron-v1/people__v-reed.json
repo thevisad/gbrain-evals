@@ -1,0 +1,14 @@
+{
+  "slug": "people/v-reed",
+  "type": "person",
+  "title": "V  Reed",
+  "compiled_truth": "V  Reed is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-31 to 2001-11-29), V  Reed sent 2 and received 106 emails, totalling 108 interactions. Top correspondents: [Monika Causholli](people/monika-causholli) (2), [David Allan](people/david-allan) (2), [Eugenio Perez](people/eugenio-perez) (1), [Vikram Singh](people/vikram-singh) (1), [Avril Forster](people/avril-forster) (1). Mailbox folders observed: calendar, deleted_items.",
+  "timeline": "- **2001-05-31** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/v-reed",
+    "name": "V  Reed",
+    "email": "v..reed@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

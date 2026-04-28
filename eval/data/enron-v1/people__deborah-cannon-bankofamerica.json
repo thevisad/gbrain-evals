@@ -1,0 +1,14 @@
+{
+  "slug": "people/deborah-cannon-bankofamerica",
+  "type": "person",
+  "title": "Deborah Cannon",
+  "compiled_truth": "Deborah Cannon is an external contact at [Bankofamerica](companies/bankofamerica). Over the corpus period (2000-11-13 to 2001-11-09), Deborah Cannon sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deborah-cannon-bankofamerica",
+    "name": "Deborah Cannon",
+    "email": "deborah.cannon@bankofamerica.com",
+    "primary_affiliation": "companies/bankofamerica"
+  }
+}

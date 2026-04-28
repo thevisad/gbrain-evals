@@ -1,0 +1,14 @@
+{
+  "slug": "people/pkeeler-br-inc",
+  "type": "person",
+  "title": "Pkeeler",
+  "compiled_truth": "Pkeeler is an external contact at [Br-inc](companies/br-inc). Over the corpus period (1999-09-24 to 2002-01-10), Pkeeler sent 0 and received 82 emails, totalling 82 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pkeeler-br-inc",
+    "name": "Pkeeler",
+    "email": "pkeeler@br-inc.com",
+    "primary_affiliation": "companies/br-inc"
+  }
+}

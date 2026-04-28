@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-fallon",
+  "type": "person",
+  "title": "Susan Fallon",
+  "compiled_truth": "Susan Fallon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-03 to 2001-11-03), Susan Fallon sent 3 and received 39 emails, totalling 42 interactions. Top correspondents: [Jeff Donahue](people/jeff-donahue) (2), [Jeff Bartlett](people/jeff-bartlett) (2), [John Goodpasture](people/john-goodpasture) (2), [Brad Richter](people/brad-richter) (2), [Randal Maffett](people/randal-maffett) (2). Mailbox folders observed: inbox, personal.",
+  "timeline": "- **2000-05-03** | First recorded email in corpus\n- **2001-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-fallon",
+    "name": "Susan Fallon",
+    "email": "susan.fallon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

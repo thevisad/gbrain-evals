@@ -1,0 +1,14 @@
+{
+  "slug": "people/samuel-schott",
+  "type": "person",
+  "title": "Samuel Schott",
+  "compiled_truth": "Samuel Schott is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-24 to 2001-12-06), Samuel Schott sent 128 and received 772 emails, totalling 900 interactions. Top correspondents: [Tana Jones](people/tana-jones) (113), [Tom Moran](people/tom-moran) (101), [Tanya Rohauer](people/tanya-rohauer) (95), [Kelly Lombardi](people/kelly-lombardi) (90), [Karen Lambert](people/karen-lambert) (84). Mailbox folders observed: 09_saved, bill_williams_iii, deleted_items, inbox, read.",
+  "timeline": "- **1999-05-24** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/samuel-schott",
+    "name": "Samuel Schott",
+    "email": "samuel.schott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

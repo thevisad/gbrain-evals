@@ -1,0 +1,14 @@
+{
+  "slug": "people/rosemary-gracey",
+  "type": "person",
+  "title": "Rosemary Gracey",
+  "compiled_truth": "Rosemary Gracey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-16 to 2002-01-22), Rosemary Gracey sent 16 and received 57 emails, totalling 73 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (11), [Lindy Donoho](people/lindy-donoho) (10), [Steven Harris](people/steven-harris) (10), [Lorraine Lindberg](people/lorraine-lindberg) (10), [Michelle Lokay](people/michelle-lokay) (10). Mailbox folders observed: contact_emp__list, deleted_items, enron_t_s, gri_jan_1996, inbox, tw_commercial_group.",
+  "timeline": "- **2000-05-16** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rosemary-gracey",
+    "name": "Rosemary Gracey",
+    "email": "rosemary.gracey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

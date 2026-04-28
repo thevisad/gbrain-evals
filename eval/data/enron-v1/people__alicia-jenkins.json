@@ -1,0 +1,14 @@
+{
+  "slug": "people/alicia-jenkins",
+  "type": "person",
+  "title": "Alicia Jenkins",
+  "compiled_truth": "Alicia Jenkins is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2002-05-06), Alicia Jenkins sent 2 and received 23 emails, totalling 25 interactions. Top correspondents: [Nicholas Barnard](people/nicholas-barnard) (1), [Christopher Czuppon](people/christopher-czuppon) (1), [Nat Kreamer](people/nat-kreamer) (1), [Cory Willis](people/cory-willis) (1), [Rousseau Anai](people/rousseau-anai) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alicia-jenkins",
+    "name": "Alicia Jenkins",
+    "email": "alicia.jenkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

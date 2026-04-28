@@ -1,0 +1,14 @@
+{
+  "slug": "people/storm-advisory-lists",
+  "type": "person",
+  "title": "Storm-Advisory",
+  "compiled_truth": "Storm-Advisory is an external contact at [Lists](companies/lists). Over the corpus period (2001-06-05 to 2001-11-28), Storm-Advisory sent 30 and received 0 emails, totalling 30 interactions. Top correspondents: [Storm](people/storm-lists) (30).",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/storm-advisory-lists",
+    "name": "Storm-Advisory",
+    "email": "storm-advisory@lists.hurricanecentral.com",
+    "primary_affiliation": "companies/lists"
+  }
+}

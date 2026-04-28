@@ -1,0 +1,14 @@
+{
+  "slug": "people/maria-beccaccini",
+  "type": "person",
+  "title": "Maria Beccaccini",
+  "compiled_truth": "Maria Beccaccini is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-16 to 2001-04-26), Maria Beccaccini sent 4 and received 7 emails, totalling 11 interactions. Top correspondents: [Brent Hendry](people/brent-hendry) (3), [Andrea Calo](people/andrea-calo) (3), [Sue Frusco](people/sue-frusco) (3), [Cecilia Morellato](people/cecilia-morellato) (3), [Mtaylo1](people/mtaylo1) (2).",
+  "timeline": "- **1999-11-16** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maria-beccaccini",
+    "name": "Maria Beccaccini",
+    "email": "maria.beccaccini@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

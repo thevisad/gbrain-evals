@@ -1,0 +1,14 @@
+{
+  "slug": "people/lale-dynegy",
+  "type": "person",
+  "title": "Lale",
+  "compiled_truth": "Lale is an external contact at [Dynegy](companies/dynegy). Over the corpus period (2000-08-25 to 2001-07-31), Lale sent 0 and received 254 emails, totalling 254 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lale-dynegy",
+    "name": "Lale",
+    "email": "lale@dynegy.com",
+    "primary_affiliation": "companies/dynegy"
+  }
+}

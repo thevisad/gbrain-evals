@@ -1,0 +1,14 @@
+{
+  "slug": "people/debbie-moseley",
+  "type": "person",
+  "title": "Debbie Moseley",
+  "compiled_truth": "Debbie Moseley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-31 to 2002-03-25), Debbie Moseley sent 3 and received 138 emails, totalling 141 interactions. Top correspondents: [Dan Fancler](people/dan-fancler) (3), [Bob Chandler](people/bob-chandler) (2), [Paul Cherry](people/paul-cherry) (2), [John Dushinske](people/john-dushinske) (2), [Jeffery Fawcett](people/jeffery-fawcett) (2). Mailbox folders observed: tw.",
+  "timeline": "- **2000-05-31** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debbie-moseley",
+    "name": "Debbie Moseley",
+    "email": "debbie.moseley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

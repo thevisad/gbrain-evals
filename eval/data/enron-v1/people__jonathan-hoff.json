@@ -1,0 +1,14 @@
+{
+  "slug": "people/jonathan-hoff",
+  "type": "person",
+  "title": "Jonathan Hoff",
+  "compiled_truth": "Jonathan Hoff is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-24 to 2002-03-29), Jonathan Hoff sent 30 and received 139 emails, totalling 169 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (27), [Jinsung Myung](people/jinsung-myung) (14), [Don Miller](people/don-miller) (10), [Joe Parks](people/joe-parks) (3), [Andy Stevens](people/andy-stevens-lgeenergy) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-01-24** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jonathan-hoff",
+    "name": "Jonathan Hoff",
+    "email": "jonathan.hoff@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

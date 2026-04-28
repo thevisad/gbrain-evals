@@ -1,0 +1,14 @@
+{
+  "slug": "people/mobrie1-entergy",
+  "type": "person",
+  "title": "Mobrie1",
+  "compiled_truth": "Mobrie1 is an external contact at [Entergy](companies/entergy). Over the corpus period (2001-07-25 to 2001-07-25), Mobrie1 sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mobrie1-entergy",
+    "name": "Mobrie1",
+    "email": "mobrie1@entergy.com",
+    "primary_affiliation": "companies/entergy"
+  }
+}

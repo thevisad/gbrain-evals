@@ -1,0 +1,14 @@
+{
+  "slug": "people/tlambert-internetech",
+  "type": "person",
+  "title": "Tlambert",
+  "compiled_truth": "Tlambert is an external contact at [Internetech](companies/internetech). Over the corpus period (2000-05-21 to 2000-07-11), Tlambert sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-07-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tlambert-internetech",
+    "name": "Tlambert",
+    "email": "tlambert@internetech.net",
+    "primary_affiliation": "companies/internetech"
+  }
+}

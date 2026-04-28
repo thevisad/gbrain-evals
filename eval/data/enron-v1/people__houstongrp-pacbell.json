@@ -1,0 +1,14 @@
+{
+  "slug": "people/houstongrp-pacbell",
+  "type": "person",
+  "title": "Houstongrp",
+  "compiled_truth": "Houstongrp is an external contact at [Pacbell](companies/pacbell). Over the corpus period (2000-08-10 to 2000-08-15), Houstongrp sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2000-08-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/houstongrp-pacbell",
+    "name": "Houstongrp",
+    "email": "houstongrp@pacbell.net",
+    "primary_affiliation": "companies/pacbell"
+  }
+}

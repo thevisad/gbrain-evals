@@ -1,0 +1,14 @@
+{
+  "slug": "people/melissa-ratnala",
+  "type": "person",
+  "title": "Melissa Ratnala",
+  "compiled_truth": "Melissa Ratnala is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-26), Melissa Ratnala sent 4 and received 144 emails, totalling 148 interactions. Top correspondents: [Brent Price](people/brent-price) (3), [Tommy Yanowski](people/tommy-yanowski) (3), [Brenda Herod](people/brenda-herod) (3), [Inja Chun](people/inja-chun) (3), [Dave Nommensen](people/dave-nommensen) (3). Mailbox folders observed: meetings.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melissa-ratnala",
+    "name": "Melissa Ratnala",
+    "email": "melissa.ratnala@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

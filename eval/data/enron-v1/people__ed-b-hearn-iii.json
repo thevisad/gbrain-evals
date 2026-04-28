@@ -1,0 +1,14 @@
+{
+  "slug": "people/ed-b-hearn-iii",
+  "type": "person",
+  "title": "Ed B Hearn Iii",
+  "compiled_truth": "Ed B Hearn Iii is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-06-06), Ed B Hearn Iii sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ed-b-hearn-iii",
+    "name": "Ed B Hearn Iii",
+    "email": "ed.b.hearn.iii@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

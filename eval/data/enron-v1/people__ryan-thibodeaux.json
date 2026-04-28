@@ -1,0 +1,14 @@
+{
+  "slug": "people/ryan-thibodeaux",
+  "type": "person",
+  "title": "Ryan Thibodeaux",
+  "compiled_truth": "Ryan Thibodeaux is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-07 to 2001-11-30), Ryan Thibodeaux sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2001-05-07** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ryan-thibodeaux",
+    "name": "Ryan Thibodeaux",
+    "email": "ryan.thibodeaux@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/melissa-graves",
+  "type": "person",
+  "title": "Melissa Graves",
+  "compiled_truth": "Melissa Graves is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-24 to 2001-06-11), Melissa Graves sent 8 and received 461 emails, totalling 469 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (6), [Susan Smith](people/susan-smith) (5), [Julie Meyers](people/julie-meyers) (4), [Donald Reinhardt](people/donald-reinhardt) (4), [Vance Taylor](people/vance-taylor) (4). Mailbox folders observed: wellhead.",
+  "timeline": "- **1998-11-24** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melissa-graves",
+    "name": "Melissa Graves",
+    "email": "melissa.graves@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

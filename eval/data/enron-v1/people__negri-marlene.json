@@ -1,0 +1,14 @@
+{
+  "slug": "people/negri-marlene",
+  "type": "person",
+  "title": "Negri Marlene",
+  "compiled_truth": "Negri Marlene is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2001-09-26), Negri Marlene sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/negri-marlene",
+    "name": "Negri Marlene",
+    "email": "negri.marlene@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

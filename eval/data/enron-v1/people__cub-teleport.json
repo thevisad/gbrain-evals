@@ -1,0 +1,14 @@
+{
+  "slug": "people/cub-teleport",
+  "type": "person",
+  "title": "Cub",
+  "compiled_truth": "Cub is an external contact at [Teleport](companies/teleport). Over the corpus period (2000-06-23 to 2001-04-27), Cub sent 0 and received 74 emails, totalling 74 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cub-teleport",
+    "name": "Cub",
+    "email": "cub@teleport.com",
+    "primary_affiliation": "companies/teleport"
+  }
+}

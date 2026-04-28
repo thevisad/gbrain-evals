@@ -1,0 +1,14 @@
+{
+  "slug": "people/brad-schneider",
+  "type": "person",
+  "title": "Brad Schneider",
+  "compiled_truth": "Brad Schneider is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-28 to 2001-07-10), Brad Schneider sent 21 and received 176 emails, totalling 197 interactions. Top correspondents: [Tana Jones](people/tana-jones) (20), [Susan Bailey](people/susan-bailey) (18), [Susan Flynn](people/susan-flynn) (18), [John Suttle](people/john-suttle) (2), [Dan Hyvl](people/dan-hyvl) (1).",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brad-schneider",
+    "name": "Brad Schneider",
+    "email": "brad.schneider@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

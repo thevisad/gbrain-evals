@@ -1,0 +1,14 @@
+{
+  "slug": "people/casey-snyder",
+  "type": "person",
+  "title": "Casey Snyder",
+  "compiled_truth": "Casey Snyder is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-14 to 2002-01-14), Casey Snyder sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/casey-snyder",
+    "name": "Casey Snyder",
+    "email": "casey.snyder@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

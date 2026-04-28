@@ -1,0 +1,14 @@
+{
+  "slug": "people/rbetonte-pacent",
+  "type": "person",
+  "title": "Rbetonte",
+  "compiled_truth": "Rbetonte is an external contact at [Pacent](companies/pacent). Over the corpus period (2000-02-12 to 2000-02-12), Rbetonte sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rbetonte-pacent",
+    "name": "Rbetonte",
+    "email": "rbetonte@pacent.com",
+    "primary_affiliation": "companies/pacent"
+  }
+}

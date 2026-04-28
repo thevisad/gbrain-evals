@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-olsen",
+  "type": "person",
+  "title": "Michael Olsen",
+  "compiled_truth": "Michael Olsen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2002-02-19), Michael Olsen sent 39 and received 221 emails, totalling 260 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (19), [J  Farmer](people/j-farmer) (11), [Joe Parks](people/joe-parks) (4), [Liz Bellamy](people/liz-bellamy) (3), [Eric Bass](people/eric-bass) (2). Mailbox folders observed: deleted_items, entex, inbox, logistics, pan_energy_swap.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-olsen",
+    "name": "Michael Olsen",
+    "email": "michael.olsen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

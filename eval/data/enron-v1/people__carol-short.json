@@ -1,0 +1,14 @@
+{
+  "slug": "people/carol-short",
+  "type": "person",
+  "title": "Carol Short",
+  "compiled_truth": "Carol Short is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-13 to 2002-01-02), Carol Short sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-04-13** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carol-short",
+    "name": "Carol Short",
+    "email": "carol.short@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

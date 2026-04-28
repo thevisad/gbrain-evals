@@ -1,0 +1,14 @@
+{
+  "slug": "people/charles-otto",
+  "type": "person",
+  "title": "Charles Otto",
+  "compiled_truth": "Charles Otto is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-06 to 2001-06-11), Charles Otto sent 0 and received 108 emails, totalling 108 interactions.",
+  "timeline": "- **1999-07-06** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charles-otto",
+    "name": "Charles Otto",
+    "email": "charles.otto@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

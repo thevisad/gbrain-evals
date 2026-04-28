@@ -1,0 +1,14 @@
+{
+  "slug": "people/peter-hayes",
+  "type": "person",
+  "title": "Peter Hayes",
+  "compiled_truth": "Peter Hayes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-19 to 2001-10-25), Peter Hayes sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-09-19** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peter-hayes",
+    "name": "Peter Hayes",
+    "email": "peter.hayes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

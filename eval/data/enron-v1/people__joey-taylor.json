@@ -1,0 +1,14 @@
+{
+  "slug": "people/joey-taylor",
+  "type": "person",
+  "title": "Joey Taylor",
+  "compiled_truth": "Joey Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-07 to 2002-02-06), Joey Taylor sent 69 and received 180 emails, totalling 249 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (66), [Dutch Quigley](people/dutch-quigley) (58), [John Arnold](people/john-arnold) (53), [Larry May](people/larry-may) (52), [Hal Mckinney](people/hal-mckinney) (52). Mailbox folders observed: deleted_items, fin_desk, inbox.",
+  "timeline": "- **2000-12-07** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joey-taylor",
+    "name": "Joey Taylor",
+    "email": "joey.taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

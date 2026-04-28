@@ -1,0 +1,14 @@
+{
+  "slug": "people/mpocino-rcgroup",
+  "type": "person",
+  "title": "Mpocino",
+  "compiled_truth": "Mpocino is an external contact at [Rcgroup](companies/rcgroup). Over the corpus period (1999-09-24 to 2001-07-31), Mpocino sent 0 and received 63 emails, totalling 63 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mpocino-rcgroup",
+    "name": "Mpocino",
+    "email": "mpocino@rcgroup.com",
+    "primary_affiliation": "companies/rcgroup"
+  }
+}

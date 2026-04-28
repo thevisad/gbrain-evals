@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-nowlan",
+  "type": "person",
+  "title": "L  Nowlan",
+  "compiled_truth": "L  Nowlan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2002-03-08), L  Nowlan sent 4 and received 349 emails, totalling 353 interactions. Top correspondents: [A  Shankman](people/a-shankman) (3), [John Arnold](people/john-arnold) (1), [S  Bradford](people/s-bradford) (1), [Tom Moran](people/tom-moran) (1), [Greg Whalley](people/greg-whalley) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-nowlan",
+    "name": "L  Nowlan",
+    "email": "l..nowlan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

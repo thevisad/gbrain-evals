@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-holsworth",
+  "type": "person",
+  "title": "Mark Holsworth",
+  "compiled_truth": "Mark Holsworth is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2001-12-28), Mark Holsworth sent 4 and received 126 emails, totalling 130 interactions. Top correspondents: [Drew Fossum](people/drew-fossum) (2), [James Derrick](people/james-derrick) (2), [Rob Walls](people/rob-walls) (2), [E  Haedicke](people/e-haedicke) (2), [Susan Bulgawicz](people/susan-bulgawicz) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-holsworth",
+    "name": "Mark Holsworth",
+    "email": "mark.holsworth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

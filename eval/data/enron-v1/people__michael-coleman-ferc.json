@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-coleman-ferc",
+  "type": "person",
+  "title": "Michael Coleman",
+  "compiled_truth": "Michael Coleman is an external contact at [Ferc](companies/ferc). Over the corpus period (2001-03-21 to 2001-03-21), Michael Coleman sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-03-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-coleman-ferc",
+    "name": "Michael Coleman",
+    "email": "michael.coleman@ferc.fed.us",
+    "primary_affiliation": "companies/ferc"
+  }
+}

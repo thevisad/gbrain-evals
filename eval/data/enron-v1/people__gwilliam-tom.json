@@ -1,0 +1,14 @@
+{
+  "slug": "people/gwilliam-tom",
+  "type": "person",
+  "title": "Gwilliam' 'Tom",
+  "compiled_truth": "Gwilliam' 'Tom is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-22 to 2002-03-22), Gwilliam' 'Tom sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-03-22** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gwilliam-tom",
+    "name": "Gwilliam' 'Tom",
+    "email": "gwilliam'.'tom@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

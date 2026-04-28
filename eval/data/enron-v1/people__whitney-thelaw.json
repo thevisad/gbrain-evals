@@ -1,0 +1,14 @@
+{
+  "slug": "people/whitney-thelaw",
+  "type": "person",
+  "title": "Whitney",
+  "compiled_truth": "Whitney is an external contact at [Thelaw](companies/thelaw). Over the corpus period (2000-10-04 to 2001-11-20), Whitney sent 26 and received 0 emails, totalling 26 interactions. Top correspondents: [Mark E Haedicke](people/mark-e-haedicke) (7), [Mhaedic](people/mhaedic) (5), [Dfossum](people/dfossum) (4), [Gnemec](people/gnemec) (2), [Gerald Nemec](people/gerald-nemec) (2).",
+  "timeline": "- **2000-10-04** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/whitney-thelaw",
+    "name": "Whitney",
+    "email": "whitney@thelaw.net",
+    "primary_affiliation": "companies/thelaw"
+  }
+}

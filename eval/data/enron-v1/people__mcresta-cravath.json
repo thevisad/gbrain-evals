@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcresta-cravath",
+  "type": "person",
+  "title": "Mcresta",
+  "compiled_truth": "Mcresta is an external contact at [Cravath](companies/cravath). Over the corpus period (2000-09-07 to 2001-06-11), Mcresta sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcresta-cravath",
+    "name": "Mcresta",
+    "email": "mcresta@cravath.com",
+    "primary_affiliation": "companies/cravath"
+  }
+}

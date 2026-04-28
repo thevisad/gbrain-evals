@@ -1,0 +1,14 @@
+{
+  "slug": "people/elliot-mainzer",
+  "type": "person",
+  "title": "Elliot Mainzer",
+  "compiled_truth": "Elliot Mainzer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2002-01-30), Elliot Mainzer sent 64 and received 385 emails, totalling 449 interactions. Top correspondents: [Richard Ring](people/richard-ring) (49), [Stacey Bolton](people/stacey-bolton) (27), [Jennifer Thome](people/jennifer-thome) (24), [Jesse Bryson](people/jesse-bryson) (21), [Jeff Shields](people/jeff-shields) (16). Mailbox folders observed: bill_williams_iii, deleted_items, eesirenewableenergy, inbox, personalfolder, read.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elliot-mainzer",
+    "name": "Elliot Mainzer",
+    "email": "elliot.mainzer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

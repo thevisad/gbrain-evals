@@ -1,0 +1,14 @@
+{
+  "slug": "people/hill",
+  "type": "person",
+  "title": " Hill",
+  "compiled_truth": "Hill is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-04 to 2001-12-03),  Hill sent 2 and received 22 emails, totalling 24 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (1), [Twanda Sweet](people/twanda-sweet) (1), [A  Shankman](people/a-shankman) (1), [Shanna Funkhouser](people/shanna-funkhouser) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-05-04** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hill",
+    "name": " Hill",
+    "email": ".hill@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

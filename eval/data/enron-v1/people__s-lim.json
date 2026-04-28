@@ -1,0 +1,14 @@
+{
+  "slug": "people/s-lim",
+  "type": "person",
+  "title": "S  Lim",
+  "compiled_truth": "S  Lim is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-24 to 2002-02-07), S  Lim sent 25 and received 123 emails, totalling 148 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (17), [C  Gossett](people/c-gossett) (5), [Kam Keiser](people/kam-keiser) (4), [Jason Wolfe](people/jason-wolfe) (4), [Chris Abel](people/chris-abel) (2). Mailbox folders observed: 09_saved, deleted_items, inbox.",
+  "timeline": "- **2001-05-24** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/s-lim",
+    "name": "S  Lim",
+    "email": "s..lim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

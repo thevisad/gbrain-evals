@@ -1,0 +1,14 @@
+{
+  "slug": "people/e-estrada",
+  "type": "person",
+  "title": "E  Estrada",
+  "compiled_truth": "E  Estrada is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-19 to 2002-02-13), E  Estrada sent 1 and received 42 emails, totalling 43 interactions. Top correspondents: [Greg Piper](people/greg-piper) (1), [Sally Beck](people/sally-beck) (1), [Louise Kitchen](people/louise-kitchen) (1), [Bob Mcauliffe](people/bob-mcauliffe) (1), [Marlin Gubser](people/marlin-gubser) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-09-19** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/e-estrada",
+    "name": "E  Estrada",
+    "email": "e..estrada@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

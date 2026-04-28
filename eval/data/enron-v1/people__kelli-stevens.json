@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelli-stevens",
+  "type": "person",
+  "title": "Kelli Stevens",
+  "compiled_truth": "Kelli Stevens is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-12 to 2001-06-27), Kelli Stevens sent 2 and received 77 emails, totalling 79 interactions. Top correspondents: [S  Shively](people/s-shively) (1), [Kevin Ruscitti](people/kevin-ruscitti) (1), [ Williams](people/williams) (1), [Lisa Kinsey](people/lisa-kinsey) (1), [Judy Townsend](people/judy-townsend) (1). Mailbox folders observed: pictures.",
+  "timeline": "- **2000-01-12** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelli-stevens",
+    "name": "Kelli Stevens",
+    "email": "kelli.stevens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

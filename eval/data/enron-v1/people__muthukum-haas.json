@@ -1,0 +1,14 @@
+{
+  "slug": "people/muthukum-haas",
+  "type": "person",
+  "title": "Muthukum",
+  "compiled_truth": "Muthukum is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2000-12-06), Muthukum sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/muthukum-haas",
+    "name": "Muthukum",
+    "email": "muthukum@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

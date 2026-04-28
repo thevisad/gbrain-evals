@@ -1,0 +1,14 @@
+{
+  "slug": "people/irene-garcia",
+  "type": "person",
+  "title": "Irene Garcia",
+  "compiled_truth": "Irene Garcia is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-09 to 2002-05-06), Irene Garcia sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **1999-06-09** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/irene-garcia",
+    "name": "Irene Garcia",
+    "email": "irene.garcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/terri-austin",
+  "type": "person",
+  "title": "Terri Austin",
+  "compiled_truth": "Terri Austin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2001-07-02), Terri Austin sent 2 and received 20 emails, totalling 22 interactions. Top correspondents: [Mark Haedicke](people/mark-haedicke) (1), [Robert Chmielewski](people/robert-chmielewski) (1), [John Hodge](people/john-hodge) (1).",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2001-07-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terri-austin",
+    "name": "Terri Austin",
+    "email": "terri.austin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

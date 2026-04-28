@@ -1,0 +1,14 @@
+{
+  "slug": "people/rosie-resendez",
+  "type": "person",
+  "title": "Rosie Resendez",
+  "compiled_truth": "Rosie Resendez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-10 to 2001-11-28), Rosie Resendez sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-09-10** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rosie-resendez",
+    "name": "Rosie Resendez",
+    "email": "rosie.resendez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

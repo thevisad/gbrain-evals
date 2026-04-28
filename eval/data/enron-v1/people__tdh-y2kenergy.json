@@ -1,0 +1,14 @@
+{
+  "slug": "people/tdh-y2kenergy",
+  "type": "person",
+  "title": "Tdh",
+  "compiled_truth": "Tdh is an external contact at [Y2kenergy](companies/y2kenergy). Over the corpus period (2001-05-31 to 2002-01-18), Tdh sent 2 and received 16 emails, totalling 18 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (2), [Vermeil](people/vermeil-evl) (1), [Robyn](people/robyn-layfam) (1), [Liz](people/liz-layfam) (1), [Mrslinda](people/mrslinda-lplpi) (1).",
+  "timeline": "- **2001-05-31** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tdh-y2kenergy",
+    "name": "Tdh",
+    "email": "tdh@y2kenergy.net",
+    "primary_affiliation": "companies/y2kenergy"
+  }
+}

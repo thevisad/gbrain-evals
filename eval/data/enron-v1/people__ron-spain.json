@@ -1,0 +1,14 @@
+{
+  "slug": "people/ron-spain",
+  "type": "person",
+  "title": "Ron Spain",
+  "compiled_truth": "Ron Spain is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-18 to 2002-03-21), Ron Spain sent 3 and received 127 emails, totalling 130 interactions. Top correspondents: [Controllers Dl-Ets](people/controllers-dl-ets) (2), [Shelley Corman](people/shelley-corman) (1), [Steve Thomas](people/steve-thomas) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-08-18** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ron-spain",
+    "name": "Ron Spain",
+    "email": "ron.spain@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

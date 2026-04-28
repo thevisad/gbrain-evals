@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-neslage",
+  "type": "person",
+  "title": "John Neslage",
+  "compiled_truth": "John Neslage is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-09 to 2001-08-30), John Neslage sent 21 and received 702 emails, totalling 723 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (21), [James Steffes](people/james-steffes) (11), [Richard Shapiro](people/richard-shapiro) (8), [Harry Kingerski](people/harry-kingerski) (6), [Susan Mara](people/susan-mara) (6).",
+  "timeline": "- **2000-04-09** | First recorded email in corpus\n- **2001-08-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-neslage",
+    "name": "John Neslage",
+    "email": "john.neslage@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

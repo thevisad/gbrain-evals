@@ -1,0 +1,14 @@
+{
+  "slug": "people/jansson-mindspring",
+  "type": "person",
+  "title": "Jansson",
+  "compiled_truth": "Jansson is an external contact at [Mindspring](companies/mindspring). Over the corpus period (2000-09-04 to 2001-10-26), Jansson sent 2 and received 56 emails, totalling 58 interactions. Top correspondents: [Smu-Betas](people/smu-betas-yahoogroups) (2).",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jansson-mindspring",
+    "name": "Jansson",
+    "email": "jansson@mindspring.com",
+    "primary_affiliation": "companies/mindspring"
+  }
+}

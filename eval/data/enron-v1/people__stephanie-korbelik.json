@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephanie-korbelik",
+  "type": "person",
+  "title": "Stephanie Korbelik",
+  "compiled_truth": "Stephanie Korbelik is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2002-01-22), Stephanie Korbelik sent 0 and received 201 emails, totalling 201 interactions.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephanie-korbelik",
+    "name": "Stephanie Korbelik",
+    "email": "stephanie.korbelik@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

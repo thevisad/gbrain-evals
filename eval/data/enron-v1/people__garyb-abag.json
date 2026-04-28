@@ -1,0 +1,14 @@
+{
+  "slug": "people/garyb-abag",
+  "type": "person",
+  "title": "Garyb",
+  "compiled_truth": "Garyb is an external contact at [Abag](companies/abag). Over the corpus period (2000-04-04 to 2001-01-26), Garyb sent 0 and received 116 emails, totalling 116 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2001-01-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/garyb-abag",
+    "name": "Garyb",
+    "email": "garyb@abag.ca.gov",
+    "primary_affiliation": "companies/abag"
+  }
+}

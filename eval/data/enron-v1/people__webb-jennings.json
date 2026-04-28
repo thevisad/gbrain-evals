@@ -1,0 +1,14 @@
+{
+  "slug": "people/webb-jennings",
+  "type": "person",
+  "title": "Webb Jennings",
+  "compiled_truth": "Webb Jennings is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-18 to 2001-06-15), Webb Jennings sent 3 and received 40 emails, totalling 43 interactions. Top correspondents: [Michael Simmons](people/michael-simmons) (1), [Stephen Schwarzbach](people/stephen-schwarzbach) (1), [Eric Bass](people/eric-bass) (1), [Luis Mena](people/luis-mena) (1), [Paul Broderick](people/paul-broderick) (1).",
+  "timeline": "- **2000-01-18** | First recorded email in corpus\n- **2001-06-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/webb-jennings",
+    "name": "Webb Jennings",
+    "email": "webb.jennings@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

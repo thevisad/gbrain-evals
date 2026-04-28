@@ -1,0 +1,14 @@
+{
+  "slug": "people/dennis-alters",
+  "type": "person",
+  "title": "Dennis Alters",
+  "compiled_truth": "Dennis Alters is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-30 to 2002-03-25), Dennis Alters sent 16 and received 178 emails, totalling 194 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (6), [Mark Mcconnell](people/mark-mcconnell) (6), [John Hodge](people/john-hodge) (4), [Mansoor Abdmoulaie](people/mansoor-abdmoulaie) (4), [Perry Frazier](people/perry-frazier) (3). Mailbox folders observed: deleted_items, inbox, tw_projects.",
+  "timeline": "- **2000-08-30** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dennis-alters",
+    "name": "Dennis Alters",
+    "email": "dennis.alters@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

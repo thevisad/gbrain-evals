@@ -1,0 +1,14 @@
+{
+  "slug": "people/lal-echterhoff",
+  "type": "person",
+  "title": "Lal Echterhoff",
+  "compiled_truth": "Lal Echterhoff is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-27 to 2001-06-01), Lal Echterhoff sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **1999-05-27** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lal-echterhoff",
+    "name": "Lal Echterhoff",
+    "email": "lal.echterhoff@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/snewell-reliant",
+  "type": "person",
+  "title": "Snewell",
+  "compiled_truth": "Snewell is an external contact at [Reliant](companies/reliant). Over the corpus period (2001-05-15 to 2001-05-21), Snewell sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-05-15** | First recorded email in corpus\n- **2001-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/snewell-reliant",
+    "name": "Snewell",
+    "email": "snewell@reliant.com",
+    "primary_affiliation": "companies/reliant"
+  }
+}

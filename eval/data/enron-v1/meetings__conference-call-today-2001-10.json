@@ -1,0 +1,27 @@
+{
+  "slug": "meetings/conference-call-today-2001-10",
+  "type": "meeting",
+  "title": "Meeting: Conference Call Today",
+  "compiled_truth": "Meeting: \"Conference Call Today\". Occurred 2001-10-17 through 2001-10-17 with 2 related emails. Participants included: [Ann Smith](people/ann-smith), [Drew Fossum](people/drew-fossum), [Emily Sellers](people/emily-sellers), [ Frank](people/frank), [Josie Call](people/josie-call), [Kay Miller](people/kay-miller), [Maria Pavlou](people/maria-pavlou), [Robert Kilmer](people/robert-kilmer)....",
+  "timeline": "- **2001-10-17** | Meeting: conference call today\n- **2001-10-17** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/conference-call-today-2001-10",
+    "attendees": [
+      "people/ann-smith",
+      "people/drew-fossum",
+      "people/emily-sellers",
+      "people/frank",
+      "people/josie-call",
+      "people/kay-miller",
+      "people/maria-pavlou",
+      "people/robert-kilmer",
+      "people/sharon-solon",
+      "people/steve",
+      "people/steve-kirk",
+      "people/steven-harris",
+      "people/zelda-paschal"
+    ],
+    "date": "2001-10-17"
+  }
+}

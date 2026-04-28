@@ -1,0 +1,14 @@
+{
+  "slug": "people/joseph-sutton",
+  "type": "person",
+  "title": "Joseph Sutton",
+  "compiled_truth": "Joseph Sutton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-16 to 2000-11-29), Joseph Sutton sent 10 and received 168 emails, totalling 178 interactions. Top correspondents: [Pam Benson](people/pam-benson) (10), [Sanjay Bhatnagar](people/sanjay-bhatnagar) (3), [Kenneth Lay](people/kenneth-lay) (3), [Jeff Skilling](people/jeff-skilling) (3), [James Bannantine](people/james-bannantine) (1).",
+  "timeline": "- **1999-08-16** | First recorded email in corpus\n- **2000-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joseph-sutton",
+    "name": "Joseph Sutton",
+    "email": "joseph.sutton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

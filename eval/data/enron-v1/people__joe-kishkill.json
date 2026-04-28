@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-kishkill",
+  "type": "person",
+  "title": "Joe Kishkill",
+  "compiled_truth": "Joe Kishkill is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-21), Joe Kishkill sent 4 and received 219 emails, totalling 223 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (1), [Louise Kitchen](people/louise-kitchen) (1), [Orlando Gonzalez](people/orlando-gonzalez) (1), [John Lavorato](people/john-lavorato) (1), [Jeff Skilling](people/jeff-skilling) (1). Mailbox folders observed: _americas, deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-kishkill",
+    "name": "Joe Kishkill",
+    "email": "joe.kishkill@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

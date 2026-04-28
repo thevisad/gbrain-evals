@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-tholt",
+  "type": "person",
+  "title": "M  Tholt",
+  "compiled_truth": "M  Tholt is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-21 to 2002-05-22), M  Tholt sent 245 and received 435 emails, totalling 680 interactions. Top correspondents: [W  Cantrell](people/w-cantrell) (35), [Ted Evans](people/ted-evans) (25), [Mike Grigsby](people/mike-grigsby) (19), [Leslie Lawner](people/leslie-lawner) (19), [Jmalisz](people/jmalisz-qwest) (19). Mailbox folders observed: deleted_items, inbox, janie, sent_items.",
+  "timeline": "- **2001-05-21** | First recorded email in corpus\n- **2002-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-tholt",
+    "name": "M  Tholt",
+    "email": "m..tholt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

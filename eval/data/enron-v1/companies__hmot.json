@@ -1,0 +1,21 @@
+{
+  "slug": "companies/hmot",
+  "type": "company",
+  "title": "Hmot",
+  "compiled_truth": "Hmot is an external organization that appears in the Enron email corpus. Domain: hmot.com. Total email interactions with Enron: 310. Known contacts: 4 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (310 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/hmot",
+    "name": "Hmot",
+    "employees": [
+      "people/isenberg-hmot",
+      "people/jparker-hmot",
+      "people/oharen-hmot",
+      "people/paulsen-hmot"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

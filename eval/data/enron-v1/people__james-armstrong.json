@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-armstrong",
+  "type": "person",
+  "title": "James Armstrong",
+  "compiled_truth": "James Armstrong is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-01-31), James Armstrong sent 3 and received 49 emails, totalling 52 interactions. Top correspondents: [Mike Mazowita](people/mike-mazowita) (2), [Garrick Hill](people/garrick-hill) (2), [J  Farmer](people/j-farmer) (2), [Daren Farmer](people/daren-farmer) (1), [Megan Parker](people/megan-parker) (1). Mailbox folders observed: cleburne_plant____cornhusker_.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-armstrong",
+    "name": "James Armstrong",
+    "email": "james.armstrong@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

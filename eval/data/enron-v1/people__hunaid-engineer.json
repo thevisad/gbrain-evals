@@ -1,0 +1,14 @@
+{
+  "slug": "people/hunaid-engineer",
+  "type": "person",
+  "title": "Hunaid Engineer",
+  "compiled_truth": "Hunaid Engineer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2000-10-06), Hunaid Engineer sent 1 and received 28 emails, totalling 29 interactions. Top correspondents: [George Smith](people/george-smith) (1), [Tricia Bowen](people/tricia-bowen) (1), [Randall Gay](people/randall-gay) (1), [Daren Farmer](people/daren-farmer) (1), [Robert Superty](people/robert-superty) (1).",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2000-10-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hunaid-engineer",
+    "name": "Hunaid Engineer",
+    "email": "hunaid.engineer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

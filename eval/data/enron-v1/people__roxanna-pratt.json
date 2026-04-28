@@ -1,0 +1,14 @@
+{
+  "slug": "people/roxanna-pratt",
+  "type": "person",
+  "title": "Roxanna Pratt",
+  "compiled_truth": "Roxanna Pratt is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-25 to 2002-05-06), Roxanna Pratt sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-09-25** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roxanna-pratt",
+    "name": "Roxanna Pratt",
+    "email": "roxanna.pratt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

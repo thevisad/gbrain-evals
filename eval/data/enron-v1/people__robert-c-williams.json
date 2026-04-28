@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-c-williams",
+  "type": "person",
+  "title": "Robert C Williams",
+  "compiled_truth": "Robert C Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-27), Robert C Williams sent 0 and received 120 emails, totalling 120 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-c-williams",
+    "name": "Robert C Williams",
+    "email": "robert.c.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

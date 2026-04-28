@@ -1,0 +1,14 @@
+{
+  "slug": "people/dks-cpuc",
+  "type": "person",
+  "title": "Dks",
+  "compiled_truth": "Dks is an external contact at [Cpuc](companies/cpuc). Over the corpus period (2000-08-29 to 2001-11-19), Dks sent 23 and received 11 emails, totalling 34 interactions. Top correspondents: [Jdasovic](people/jdasovic) (23), [Counihan](people/counihan-greenmountain) (17), [Clower](people/clower-earthlink) (17), [Rsperberg](people/rsperberg-onsitesycom) (17), [Markb](people/markb-rand) (14).",
+  "timeline": "- **2000-08-29** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dks-cpuc",
+    "name": "Dks",
+    "email": "dks@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

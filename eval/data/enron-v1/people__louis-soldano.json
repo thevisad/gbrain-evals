@@ -1,0 +1,14 @@
+{
+  "slug": "people/louis-soldano",
+  "type": "person",
+  "title": "Louis Soldano",
+  "compiled_truth": "Louis Soldano is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-31), Louis Soldano sent 49 and received 606 emails, totalling 655 interactions. Top correspondents: [Steven Harris](people/steven-harris) (22), [Michael Moran](people/michael-moran) (22), [Jw1000Mac](people/jw1000mac-yahoo) (20), [Johnny Mcgee](people/johnny-mcgee) (20), [Stanley Horton](people/stanley-horton) (20). Mailbox folders observed: deleted_items, environmental_issues, inbox, projects.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/louis-soldano",
+    "name": "Louis Soldano",
+    "email": "louis.soldano@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-johnson",
+  "type": "person",
+  "title": "Robert Johnson",
+  "compiled_truth": "Robert Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-24 to 2002-02-20), Robert Johnson sent 1 and received 68 emails, totalling 69 interactions. Top correspondents: [T  Muzzy](people/t-muzzy) (1), [Peggy Hedstrom](people/peggy-hedstrom) (1), [Rhonda Smith](people/rhonda-smith) (1), [F  Smith](people/f-smith) (1), [Jean Blair](people/jean-blair) (1). Mailbox folders observed: nbpl_information.",
+  "timeline": "- **2000-05-24** | First recorded email in corpus\n- **2002-02-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-johnson",
+    "name": "Robert Johnson",
+    "email": "robert.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

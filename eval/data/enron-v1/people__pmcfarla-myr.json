@@ -1,0 +1,14 @@
+{
+  "slug": "people/pmcfarla-myr",
+  "type": "person",
+  "title": "Pmcfarla",
+  "compiled_truth": "Pmcfarla is an external contact at [Myr](companies/myr). Over the corpus period (2000-11-13 to 2000-12-13), Pmcfarla sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pmcfarla-myr",
+    "name": "Pmcfarla",
+    "email": "pmcfarla@myr.ci.houston.tx.us",
+    "primary_affiliation": "companies/myr"
+  }
+}

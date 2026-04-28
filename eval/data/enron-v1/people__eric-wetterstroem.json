@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-wetterstroem",
+  "type": "person",
+  "title": "Eric Wetterstroem",
+  "compiled_truth": "Eric Wetterstroem is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2002-01-14), Eric Wetterstroem sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-wetterstroem",
+    "name": "Eric Wetterstroem",
+    "email": "eric.wetterstroem@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

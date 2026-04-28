@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-leibert",
+  "type": "person",
+  "title": "Richard Leibert",
+  "compiled_truth": "Richard Leibert is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-04 to 2001-10-26), Richard Leibert sent 1 and received 581 emails, totalling 582 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (1).",
+  "timeline": "- **1999-11-04** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-leibert",
+    "name": "Richard Leibert",
+    "email": "richard.leibert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

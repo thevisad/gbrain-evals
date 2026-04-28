@@ -1,0 +1,62 @@
+{
+  "slug": "companies/anchor",
+  "type": "company",
+  "title": "Anchor Codec",
+  "compiled_truth": "Anchor Codec is a data infrastructure startup founded in early 2026 by [Seren Voss](people/seren-voss), built around the thesis that compression, authentication, and transmission can be collapsed into a single deterministic pass rather than handled as separate layers. The company's core primitives aim to eliminate the overhead of treating these concerns independently — a bet that, if it pays off, could reshape how data moves between systems at scale.\n\nThe seed round was led by [Ora Yamamoto](people/ora-yamamoto), with participation from [Piper Bergmann](people/piper-bergmann) and [Nash Moreau](people/nash-moreau). Anchor closed the round in mid-2026 on relatively modest terms, though specifics haven't been widely disclosed. Seren has been deliberate about keeping the cap table tight and aligning investors who understand infrastructure timelines — none of the early backers pushed for rapid commercializtion, which has given the team room to iterate on fundamentals.\n\nOn the advisory side, [Skyler Okonkwo](people/skyler-okonkwo) has been involved since before incorporation, helping shape the go-to-market framing around deterministic guarantees. [Riley Moreau](people/riley-moreau) joined as an advisor later in 2026, contributing domain expertise on authentication models and protocol-level design decisions.\n\nThe core engineering team coalesced quickly. [Dani Osei](people/dani-osei) came on as the first hire, leading the systems work on the single-pass pipeline. [Miro Bergmann](people/miro-bergmann) and [Tal Kimura](people/tal-kimura) followed shortly after, rounding out the low-level infrastructure group. [Nova Mensah](people/nova-mensah) handles developer relations and early partner integrations, while [Paz Santos](people/paz-santos) owns the operational side — everything from vendor management to compliance paperwork.\n\nBy mid-2027 Anchor had shipped a private beta to a handful of design partners, mostly in sectors where data integrity and bandwidth efficiency intersect: industrial telemetry, distributed sensing, and high-throughput financial messaging. Early feedback has centered on the latency profile — single-pass means fewer round trips, which matters when you're pushing millions of authenticated payloads per second. The company is still pre-revenue in any meaningful sense, though a couple of paid pilots are underway as of late 2027.\n\nAnchor Codec operates out of a small office, headcount hovering around twelve. Seren tends to describe the company as \"a protocol company that happens to ship software.\" Whether the market agrees remains to be seen, but the technical foundation is unusually rigorous for a team this size.",
+  "timeline": "- **2026-01-19** | [Seren Voss](people/seren-voss) incorporates Anchor Codec; initial architecture doc circulated to early advisors.\n- **2026-03-08** | [Skyler Okonkwo](people/skyler-okonkwo) formally joins as advisor; helps refine positioning around deterministic guarantees.\n- **2026-05-22** | Seed round closes with [Ora Yamamoto](people/ora-yamamoto) leading, [Piper Bergmann](people/piper-bergmann) and [Nash Moreau](people/nash-moreau) participating.\n- **2026-07-11** | [Dani Osei](people/dani-osei) joins as first engineering hire; begins work on single-pass pipeline prototype.\n- **2026-09-03** | [Miro Bergmann](people/miro-bergmann) and [Tal Kimura](people/tal-kimura) join the team; core systems group fully staffed.\n- **2026-12-15** | [Riley Moreau](people/riley-moreau) comes on as advisor after several months of informal collaboration with Seren.\n- **2027-04-28** | First internal end-to-end demo of the single-pass pipeline; team celebrates with pizza and a retrospective.\n- **2027-07-10** | Private beta shipped to three design partners; [Nova Mensah](people/nova-mensah) leads onboarding and integration support.\n- **2027-11-02** | Seren presents Anchor's architecture at a closed-door infrastructure summit; generates inbound interest from two large industrial telemetry vendors.\n- **2028-02-14** | First paid pilot contract signed; [Paz Santos](people/paz-santos) manages vendor compliance and procurement process.",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/anchor",
+    "name": "Anchor Codec",
+    "category": "startup",
+    "industry": "data infrastructure",
+    "description": "Deterministic data infrastructure — compression, authentication, and transmission in a single pass",
+    "founded_year": 2026,
+    "founders": [
+      "people/seren-voss"
+    ],
+    "employees": [
+      "people/dani-osei",
+      "people/miro-bergmann",
+      "people/tal-kimura",
+      "people/nova-mensah",
+      "people/paz-santos",
+      "people/ari-leclerc",
+      "people/kael-petrov",
+      "people/wren-johansson",
+      "people/fenn-adeyemi",
+      "people/imo-hashimoto",
+      "people/blake-nowak",
+      "people/emery-castillo",
+      "people/sol-ramirez",
+      "people/yael-fernandez",
+      "people/sage-tanaka",
+      "people/finley-okonkwo",
+      "people/halo-svensson",
+      "people/tatum-nguyen",
+      "people/reese-abebe",
+      "people/logan-lindqvist",
+      "people/avery-khalil",
+      "people/monroe-bakker",
+      "people/indigo-ferreira",
+      "people/jasper-moreau"
+    ],
+    "investors": [
+      "people/ora-yamamoto",
+      "people/piper-bergmann",
+      "people/nash-moreau",
+      "people/zara-lindqvist",
+      "people/xen-castillo"
+    ],
+    "advisors": [
+      "people/skyler-okonkwo",
+      "people/riley-moreau",
+      "people/casey-tanaka",
+      "people/morgan-svensson",
+      "people/alex-petrov",
+      "people/harper-nguyen",
+      "people/keaton-bakker",
+      "people/avery-johansson"
+    ]
+  }
+}

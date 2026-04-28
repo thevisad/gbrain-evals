@@ -1,0 +1,14 @@
+{
+  "slug": "people/hkiss-bruncorp",
+  "type": "person",
+  "title": "Hkiss",
+  "compiled_truth": "Hkiss is an external contact at [Bruncorp](companies/bruncorp). Over the corpus period (2000-03-22 to 2000-12-01), Hkiss sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-03-22** | First recorded email in corpus\n- **2000-12-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hkiss-bruncorp",
+    "name": "Hkiss",
+    "email": "hkiss@bruncorp.com",
+    "primary_affiliation": "companies/bruncorp"
+  }
+}

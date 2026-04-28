@@ -1,0 +1,14 @@
+{
+  "slug": "people/o-briandave-hotmail",
+  "type": "person",
+  "title": "O Briandave",
+  "compiled_truth": "O Briandave is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-11-06 to 2000-12-20), O Briandave sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2000-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/o-briandave-hotmail",
+    "name": "O Briandave",
+    "email": "o_briandave@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

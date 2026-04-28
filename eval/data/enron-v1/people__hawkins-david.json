@@ -1,0 +1,14 @@
+{
+  "slug": "people/hawkins-david",
+  "type": "person",
+  "title": "Hawkins David",
+  "compiled_truth": "Hawkins David is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-10 to 2001-10-10), Hawkins David sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-10** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hawkins-david",
+    "name": "Hawkins David",
+    "email": "hawkins.david@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

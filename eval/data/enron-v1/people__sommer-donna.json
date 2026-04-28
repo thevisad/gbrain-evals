@@ -1,0 +1,14 @@
+{
+  "slug": "people/sommer-donna",
+  "type": "person",
+  "title": "Sommer Donna",
+  "compiled_truth": "Sommer Donna is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-08-21), Sommer Donna sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sommer-donna",
+    "name": "Sommer Donna",
+    "email": "sommer.donna@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

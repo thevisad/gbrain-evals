@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-neiman",
+  "type": "person",
+  "title": "Joe Neiman",
+  "compiled_truth": "Joe Neiman is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-14 to 2002-01-14), Joe Neiman sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-neiman",
+    "name": "Joe Neiman",
+    "email": "joe.neiman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

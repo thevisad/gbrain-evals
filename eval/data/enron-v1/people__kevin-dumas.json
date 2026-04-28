@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-dumas",
+  "type": "person",
+  "title": "Kevin Dumas",
+  "compiled_truth": "Kevin Dumas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2002-03-12), Kevin Dumas sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2002-03-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-dumas",
+    "name": "Kevin Dumas",
+    "email": "kevin.dumas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

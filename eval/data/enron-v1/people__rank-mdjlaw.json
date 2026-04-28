@@ -1,0 +1,14 @@
+{
+  "slug": "people/rank-mdjlaw",
+  "type": "person",
+  "title": "Rank",
+  "compiled_truth": "Rank is an external contact at [Mdjlaw](companies/mdjlaw). Over the corpus period (2000-09-25 to 2001-10-10), Rank sent 1 and received 1 emails, totalling 2 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (1), [Michelle Blaine](people/michelle-blaine) (1).",
+  "timeline": "- **2000-09-25** | First recorded email in corpus\n- **2001-10-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rank-mdjlaw",
+    "name": "Rank",
+    "email": "rank@mdjlaw.com",
+    "primary_affiliation": "companies/mdjlaw"
+  }
+}

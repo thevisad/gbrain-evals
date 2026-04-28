@@ -1,0 +1,14 @@
+{
+  "slug": "people/wreed-sempra",
+  "type": "person",
+  "title": "Wreed",
+  "compiled_truth": "Wreed is an external contact at [Sempra Energy](companies/sempra). Over the corpus period (2000-03-30 to 2001-01-05), Wreed sent 0 and received 61 emails, totalling 61 interactions.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2001-01-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wreed-sempra",
+    "name": "Wreed",
+    "email": "wreed@sempra.com",
+    "primary_affiliation": "companies/sempra"
+  }
+}

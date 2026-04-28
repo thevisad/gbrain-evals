@@ -1,0 +1,14 @@
+{
+  "slug": "people/jermeier-earthlink",
+  "type": "person",
+  "title": "Jermeier",
+  "compiled_truth": "Jermeier is an external contact at [Earthlink](companies/earthlink). Over the corpus period (2000-02-14 to 2001-03-05), Jermeier sent 23 and received 23 emails, totalling 46 interactions. Top correspondents: [Jdasovic](people/jdasovic) (19), [Jeff Dasovich](people/jeff-dasovich) (4), [Stevebowen](people/stevebowen-earthlink) (1), [Sue Nord](people/sue-nord-ees) (1), [Robbi Rossi](people/robbi-rossi) (1).",
+  "timeline": "- **2000-02-14** | First recorded email in corpus\n- **2001-03-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jermeier-earthlink",
+    "name": "Jermeier",
+    "email": "jermeier@earthlink.net",
+    "primary_affiliation": "companies/earthlink"
+  }
+}

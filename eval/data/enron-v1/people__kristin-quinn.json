@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristin-quinn",
+  "type": "person",
+  "title": "Kristin Quinn",
+  "compiled_truth": "Kristin Quinn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-12 to 2001-12-03), Kristin Quinn sent 0 and received 58 emails, totalling 58 interactions.",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristin-quinn",
+    "name": "Kristin Quinn",
+    "email": "kristin.quinn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

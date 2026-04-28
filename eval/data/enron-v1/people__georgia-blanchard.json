@@ -1,0 +1,14 @@
+{
+  "slug": "people/georgia-blanchard",
+  "type": "person",
+  "title": "Georgia Blanchard",
+  "compiled_truth": "Georgia Blanchard is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2002-06-21), Georgia Blanchard sent 1 and received 125 emails, totalling 126 interactions. Top correspondents: [Debra Perlingiere](people/debra-perlingiere) (1).",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/georgia-blanchard",
+    "name": "Georgia Blanchard",
+    "email": "georgia.blanchard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

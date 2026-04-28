@@ -1,0 +1,14 @@
+{
+  "slug": "people/grant-oh",
+  "type": "person",
+  "title": "Grant Oh",
+  "compiled_truth": "Grant Oh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-08 to 2002-02-21), Grant Oh sent 15 and received 168 emails, totalling 183 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (12), [Barry Tycholiz](people/barry-tycholiz) (3), [Bruce Kohrs](people/bruce-kohrs-keyspancanada) (2), [Geoff Storey](people/geoff-storey) (2), [Chris Dorland](people/chris-dorland) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-03-08** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/grant-oh",
+    "name": "Grant Oh",
+    "email": "grant.oh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

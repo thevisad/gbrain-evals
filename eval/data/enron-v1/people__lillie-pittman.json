@@ -1,0 +1,14 @@
+{
+  "slug": "people/lillie-pittman",
+  "type": "person",
+  "title": "Lillie Pittman",
+  "compiled_truth": "Lillie Pittman is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-05 to 2002-05-06), Lillie Pittman sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **1999-08-05** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lillie-pittman",
+    "name": "Lillie Pittman",
+    "email": "lillie.pittman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

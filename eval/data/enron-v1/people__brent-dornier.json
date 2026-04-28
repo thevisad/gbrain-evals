@@ -1,0 +1,14 @@
+{
+  "slug": "people/brent-dornier",
+  "type": "person",
+  "title": "Brent Dornier",
+  "compiled_truth": "Brent Dornier is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2002-03-13), Brent Dornier sent 2 and received 29 emails, totalling 31 interactions. Top correspondents: [Mike Grigsby](people/mike-grigsby) (1), [Keith Holst](people/keith-holst) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brent-dornier",
+    "name": "Brent Dornier",
+    "email": "brent.dornier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

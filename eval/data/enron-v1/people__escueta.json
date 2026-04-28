@@ -1,0 +1,14 @@
+{
+  "slug": "people/escueta",
+  "type": "person",
+  "title": " Escueta",
+  "compiled_truth": "Escueta is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2001-06-05),  Escueta sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/escueta",
+    "name": " Escueta",
+    "email": ".escueta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

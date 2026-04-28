@@ -1,0 +1,28 @@
+{
+  "slug": "threads/follow-up-2001-10",
+  "type": "meeting",
+  "title": "Thread: Follow-Up",
+  "compiled_truth": "Email thread: \"Follow-Up\". Ran from 2001-10-02 to 2001-10-23 with 9 messages. Participants: [A  Martin](people/a-martin), [Brian Redmond](people/brian-redmond), [Bward](people/bward-mitchellgs), [Casey Evans](people/casey-evans), [Chris Hilgert](people/chris-hilgert), [D  Steffes](people/d-steffes), [Dsmith](people/dsmith-teksystems), [J  Noske](people/j-noske).",
+  "timeline": "- **2001-10-02** | Thread begins: follow-up\n- **2001-10-23** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/follow-up-2001-10",
+    "attendees": [
+      "people/a-martin",
+      "people/brian-redmond",
+      "people/bward-mitchellgs",
+      "people/casey-evans",
+      "people/chris-hilgert",
+      "people/d-steffes",
+      "people/dsmith-teksystems",
+      "people/j-noske",
+      "people/laura-vuittonet",
+      "people/louise-kitchen",
+      "people/michelle-cash",
+      "people/steven-sheldon",
+      "people/sunjay-arya",
+      "people/w-white"
+    ],
+    "date": "2001-10-02"
+  }
+}

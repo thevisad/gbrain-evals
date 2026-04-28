@@ -1,0 +1,14 @@
+{
+  "slug": "people/gregory-hood-oxy",
+  "type": "person",
+  "title": "Gregory Hood",
+  "compiled_truth": "Gregory Hood is an external contact at [Oxy](companies/oxy). Over the corpus period (2000-10-20 to 2002-03-21), Gregory Hood sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-10-20** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gregory-hood-oxy",
+    "name": "Gregory Hood",
+    "email": "gregory_hood@oxy.com",
+    "primary_affiliation": "companies/oxy"
+  }
+}

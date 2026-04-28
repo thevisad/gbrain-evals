@@ -1,0 +1,14 @@
+{
+  "slug": "people/heather-purcell",
+  "type": "person",
+  "title": "Heather Purcell",
+  "compiled_truth": "Heather Purcell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-11 to 2001-12-03), Heather Purcell sent 1 and received 58 emails, totalling 59 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1).",
+  "timeline": "- **2000-10-11** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heather-purcell",
+    "name": "Heather Purcell",
+    "email": "heather.purcell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

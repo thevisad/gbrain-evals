@@ -1,0 +1,14 @@
+{
+  "slug": "people/claude-tellis",
+  "type": "person",
+  "title": "Claude Tellis",
+  "compiled_truth": "Claude Tellis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-24 to 2001-12-03), Claude Tellis sent 2 and received 29 emails, totalling 31 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2), [John Godbold](people/john-godbold) (2), [Theresa Brogan](people/theresa-brogan) (1), [James Grace](people/james-grace) (1).",
+  "timeline": "- **2000-08-24** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/claude-tellis",
+    "name": "Claude Tellis",
+    "email": "claude.tellis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

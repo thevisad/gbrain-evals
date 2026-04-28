@@ -1,0 +1,14 @@
+{
+  "slug": "people/arnie-bailey",
+  "type": "person",
+  "title": "Arnie Bailey",
+  "compiled_truth": "Arnie Bailey is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-09 to 2002-03-25), Arnie Bailey sent 9 and received 140 emails, totalling 149 interactions. Top correspondents: [Darrell Schoolcraft](people/darrell-schoolcraft) (6), [Earl Chanley](people/earl-chanley) (4), [Mike Mccracken](people/mike-mccracken) (4), [Jeff Whippo](people/jeff-whippo) (4), [Rick Smith](people/rick-smith) (4). Mailbox folders observed: deleted_items, e_mail_bin, inbox, tw_commercial_group.",
+  "timeline": "- **1999-04-09** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/arnie-bailey",
+    "name": "Arnie Bailey",
+    "email": "arnie.bailey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

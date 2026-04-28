@@ -1,0 +1,14 @@
+{
+  "slug": "people/selma-reyna",
+  "type": "person",
+  "title": "Selma Reyna",
+  "compiled_truth": "Selma Reyna is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-05-06), Selma Reyna sent 14 and received 28 emails, totalling 42 interactions. Top correspondents: [Mary Fischer](people/mary-fischer) (10), [Mark Ng](people/mark-ng) (10), [John Swafford](people/john-swafford) (10), [Kathleen Ashton](people/kathleen-ashton) (8), [Ling Li](people/ling-li) (8). Mailbox folders observed: deleted_items, inbox, personal.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/selma-reyna",
+    "name": "Selma Reyna",
+    "email": "selma.reyna@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

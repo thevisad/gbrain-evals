@@ -1,0 +1,14 @@
+{
+  "slug": "people/heather-layfam",
+  "type": "person",
+  "title": "Heather",
+  "compiled_truth": "Heather is an external contact at [Layfam](companies/layfam). Over the corpus period (2000-05-16 to 2002-01-04), Heather sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-05-16** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heather-layfam",
+    "name": "Heather",
+    "email": "heather@layfam.com",
+    "primary_affiliation": "companies/layfam"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tammy",
+  "type": "person",
+  "title": " Tammy",
+  "compiled_truth": "Tammy is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-05 to 2002-06-24),  Tammy sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2002-02-05** | First recorded email in corpus\n- **2002-06-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tammy",
+    "name": " Tammy",
+    "email": ".tammy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

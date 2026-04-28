@@ -1,0 +1,14 @@
+{
+  "slug": "people/d-hare",
+  "type": "person",
+  "title": "D  Hare",
+  "compiled_truth": "D  Hare is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-16 to 2002-03-01), D  Hare sent 17 and received 279 emails, totalling 296 interactions. Top correspondents: [S  Theriot](people/s-theriot) (15), [Sundar Chitradurga](people/sundar-chitradurga) (13), [Kam Keiser](people/kam-keiser) (11), [John Valdes](people/john-valdes) (10), [Bernice Rodriguez](people/bernice-rodriguez) (10). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-16** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d-hare",
+    "name": "D  Hare",
+    "email": "d..hare@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

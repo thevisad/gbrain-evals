@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-lloyd",
+  "type": "person",
+  "title": "Robert Lloyd",
+  "compiled_truth": "Robert Lloyd is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2000-12-06), Robert Lloyd sent 56 and received 209 emails, totalling 265 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (56), [Pat Clynes](people/pat-clynes) (46), [Lee Papayoti](people/lee-papayoti) (25), [Howard Camp](people/howard-camp) (21), [Gary Hanks](people/gary-hanks) (19).",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-lloyd",
+    "name": "Robert Lloyd",
+    "email": "robert.lloyd@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

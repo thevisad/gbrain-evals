@@ -1,0 +1,14 @@
+{
+  "slug": "people/jilallen-dttus",
+  "type": "person",
+  "title": "Jilallen",
+  "compiled_truth": "Jilallen is an external contact at [Dttus](companies/dttus). Over the corpus period (2000-06-14 to 2000-09-28), Jilallen sent 0 and received 144 emails, totalling 144 interactions.",
+  "timeline": "- **2000-06-14** | First recorded email in corpus\n- **2000-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jilallen-dttus",
+    "name": "Jilallen",
+    "email": "jilallen@dttus.com",
+    "primary_affiliation": "companies/dttus"
+  }
+}

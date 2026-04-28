@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-henderson",
+  "type": "person",
+  "title": "John Henderson",
+  "compiled_truth": "John Henderson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-05 to 2001-10-27), John Henderson sent 2 and received 34 emails, totalling 36 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (2), [Anoush Farhangi](people/anoush-farhangi) (1), [Timothy Vail](people/timothy-vail) (1).",
+  "timeline": "- **1999-10-05** | First recorded email in corpus\n- **2001-10-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-henderson",
+    "name": "John Henderson",
+    "email": "john.henderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

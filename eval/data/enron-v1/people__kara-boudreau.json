@@ -1,0 +1,14 @@
+{
+  "slug": "people/kara-boudreau",
+  "type": "person",
+  "title": "Kara Boudreau",
+  "compiled_truth": "Kara Boudreau is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-06 to 2002-06-21), Kara Boudreau sent 2 and received 17 emails, totalling 19 interactions. Top correspondents: [Greg Whalley](people/greg-whalley) (2), [Andy Zipper](people/andy-zipper) (2), [Louise Kitchen](people/louise-kitchen) (2), [Bob Shults](people/bob-shults) (2), [Daniel Diamond](people/daniel-diamond) (2).",
+  "timeline": "- **2000-06-06** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kara-boudreau",
+    "name": "Kara Boudreau",
+    "email": "kara.boudreau@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

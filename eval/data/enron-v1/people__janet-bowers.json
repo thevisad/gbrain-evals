@@ -1,0 +1,14 @@
+{
+  "slug": "people/janet-bowers",
+  "type": "person",
+  "title": "Janet Bowers",
+  "compiled_truth": "Janet Bowers is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-25 to 2002-01-22), Janet Bowers sent 1 and received 235 emails, totalling 236 interactions. Top correspondents: [Fuel/Plant' 'Carl](people/fuel-plant-carl) (1), [C  Giron](people/c-giron) (1), [Janet Bowers](people/janet-bowers) (1), [Jo' 'Lewis](people/jo-lewis) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-02-25** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janet-bowers",
+    "name": "Janet Bowers",
+    "email": "janet.bowers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

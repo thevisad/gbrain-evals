@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-wehring",
+  "type": "person",
+  "title": "Linda Wehring",
+  "compiled_truth": "Linda Wehring is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-01-24), Linda Wehring sent 10 and received 137 emails, totalling 147 interactions. Top correspondents: [Michelle Lokay](people/michelle-lokay) (4), [Audrey Robertson](people/audrey-robertson) (3), [Steven Harris](people/steven-harris) (3), [Kimberly Watson](people/kimberly-watson) (3), [Lindy Donoho](people/lindy-donoho) (3). Mailbox folders observed: calendar, deleted_items, inbox, tw.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-wehring",
+    "name": "Linda Wehring",
+    "email": "linda.wehring@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

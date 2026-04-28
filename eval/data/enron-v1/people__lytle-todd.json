@@ -1,0 +1,14 @@
+{
+  "slug": "people/lytle-todd",
+  "type": "person",
+  "title": "Lytle Todd",
+  "compiled_truth": "Lytle Todd is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2002-01-25), Lytle Todd sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lytle-todd",
+    "name": "Lytle Todd",
+    "email": "lytle.todd@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

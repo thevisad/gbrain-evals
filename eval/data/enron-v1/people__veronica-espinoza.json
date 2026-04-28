@@ -1,0 +1,14 @@
+{
+  "slug": "people/veronica-espinoza",
+  "type": "person",
+  "title": "Veronica Espinoza",
+  "compiled_truth": "Veronica Espinoza is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-29 to 2002-03-01), Veronica Espinoza sent 147 and received 874 emails, totalling 1021 interactions. Top correspondents: [Tana Jones](people/tana-jones) (107), [Russell Diamond](people/russell-diamond) (101), [Christian Yoder](people/christian-yoder) (96), [Sara Shackleton](people/sara-shackleton) (96), [Bob Bowen](people/bob-bowen) (96). Mailbox folders observed: click_at_home, credit_issues, credit_watch, credit_watch_list, credit_worksheets, deleted_items.",
+  "timeline": "- **2000-02-29** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/veronica-espinoza",
+    "name": "Veronica Espinoza",
+    "email": "veronica.espinoza@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

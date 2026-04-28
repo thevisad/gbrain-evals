@@ -1,0 +1,14 @@
+{
+  "slug": "people/angelina-lorio",
+  "type": "person",
+  "title": "Angelina Lorio",
+  "compiled_truth": "Angelina Lorio is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2001-11-02), Angelina Lorio sent 4 and received 23 emails, totalling 27 interactions. Top correspondents: [Mary Solmonson](people/mary-solmonson) (3), [Lisa Cousino](people/lisa-cousino) (2), [Trang Le](people/trang-le) (2), [Heather Choate](people/heather-choate) (2), [Diane Cook](people/diane-cook) (2).",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angelina-lorio",
+    "name": "Angelina Lorio",
+    "email": "angelina.lorio@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

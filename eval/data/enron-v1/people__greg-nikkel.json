@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-nikkel",
+  "type": "person",
+  "title": "Greg Nikkel",
+  "compiled_truth": "Greg Nikkel is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-25), Greg Nikkel sent 3 and received 47 emails, totalling 50 interactions. Top correspondents: [Enron Council](people/enron-council) (3), [Susan Bellinghausen](people/susan-bellinghausen) (3), [Kim Lesley](people/kim-lesley) (3), [Rebecca Miles](people/rebecca-miles) (3), [Andreas Kraus](people/andreas-kraus) (3).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-nikkel",
+    "name": "Greg Nikkel",
+    "email": "greg.nikkel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

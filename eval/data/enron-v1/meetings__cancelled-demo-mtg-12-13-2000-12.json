@@ -1,0 +1,25 @@
+{
+  "slug": "meetings/cancelled-demo-mtg-12-13-2000-12",
+  "type": "meeting",
+  "title": "Meeting: Cancelled - Demo Mtg. 12/13",
+  "compiled_truth": "Meeting: \"Cancelled - Demo Mtg. 12/13\". Occurred 2000-12-12 with 1 related emails. Participants included: [Alan Aronowitz](people/alan-aronowitz), [Brad Romine](people/brad-romine), [Brenda Flores-Cuellar](people/brenda-flores-cuellar), [James Whitehead](people/james-whitehead), [Joya Davis](people/joya-davis), [Louise Kitchen](people/louise-kitchen), [Maria Sandoval](people/maria-sandoval), [Mark Greenberg](people/mark-greenberg)....",
+  "timeline": "- **2000-12-12** | Meeting: cancelled - demo mtg. 12/13",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/cancelled-demo-mtg-12-13-2000-12",
+    "attendees": [
+      "people/alan-aronowitz",
+      "people/brad-romine",
+      "people/brenda-flores-cuellar",
+      "people/james-whitehead",
+      "people/joya-davis",
+      "people/louise-kitchen",
+      "people/maria-sandoval",
+      "people/mark-greenberg",
+      "people/mark-taylor",
+      "people/tammie-schoppe",
+      "people/thomas-gros"
+    ],
+    "date": "2000-12-12"
+  }
+}

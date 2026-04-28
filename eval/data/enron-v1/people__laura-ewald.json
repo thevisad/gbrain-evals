@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-ewald",
+  "type": "person",
+  "title": "Laura Ewald",
+  "compiled_truth": "Laura Ewald is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-05 to 2001-11-09), Laura Ewald sent 5 and received 18 emails, totalling 23 interactions. Top correspondents: [J  Kean](people/j-kean) (5), [John Brindle](people/john-brindle) (5), [David Cromley](people/david-cromley) (4), [Phil Lowry](people/phil-lowry) (2), [R  Keller](people/r-keller) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-ewald",
+    "name": "Laura Ewald",
+    "email": "laura.ewald@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mrucker-apx",
+  "type": "person",
+  "title": "Mrucker",
+  "compiled_truth": "Mrucker is an external contact at [Apx](companies/apx). Over the corpus period (2001-02-26 to 2001-07-26), Mrucker sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-02-26** | First recorded email in corpus\n- **2001-07-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mrucker-apx",
+    "name": "Mrucker",
+    "email": "mrucker@apx.com",
+    "primary_affiliation": "companies/apx"
+  }
+}

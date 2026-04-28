@@ -1,0 +1,14 @@
+{
+  "slug": "people/rhonda-garza",
+  "type": "person",
+  "title": "Rhonda Garza",
+  "compiled_truth": "Rhonda Garza is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2001-11-12), Rhonda Garza sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rhonda-garza",
+    "name": "Rhonda Garza",
+    "email": "rhonda.garza@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

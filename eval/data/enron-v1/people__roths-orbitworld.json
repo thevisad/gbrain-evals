@@ -1,0 +1,14 @@
+{
+  "slug": "people/roths-orbitworld",
+  "type": "person",
+  "title": "Roths",
+  "compiled_truth": "Roths is an external contact at [Orbitworld](companies/orbitworld). Over the corpus period (2000-05-12 to 2002-03-01), Roths sent 7 and received 129 emails, totalling 136 interactions. Top correspondents: [Debra Perlingiere](people/debra-perlingiere) (5), [ Jennifer](people/jennifer) (3), [ Julie](people/julie) (3), [ Tawny](people/tawny) (3), [Atabor](people/atabor-dow) (1).",
+  "timeline": "- **2000-05-12** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roths-orbitworld",
+    "name": "Roths",
+    "email": "roths@orbitworld.net",
+    "primary_affiliation": "companies/orbitworld"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/markus-fiala",
+  "type": "person",
+  "title": "Markus Fiala",
+  "compiled_truth": "Markus Fiala is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-04 to 2002-01-03), Markus Fiala sent 3 and received 201 emails, totalling 204 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (2), [Bryan Seyfried](people/bryan-seyfried) (2), [William Bradford](people/william-bradford) (1), [Drew Tingleaf](people/drew-tingleaf) (1), [Edmund Cooper](people/edmund-cooper) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/markus-fiala",
+    "name": "Markus Fiala",
+    "email": "markus.fiala@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-warno-acnenergy",
+  "type": "person",
+  "title": "Mark Warno",
+  "compiled_truth": "Mark Warno is an external contact at [Acnenergy](companies/acnenergy). Over the corpus period (2000-08-25 to 2001-09-11), Mark Warno sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-warno-acnenergy",
+    "name": "Mark Warno",
+    "email": "mark.warno@acnenergy.com",
+    "primary_affiliation": "companies/acnenergy"
+  }
+}

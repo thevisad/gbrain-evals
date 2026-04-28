@@ -1,0 +1,14 @@
+{
+  "slug": "people/brad-hitch",
+  "type": "person",
+  "title": "Brad Hitch",
+  "compiled_truth": "Brad Hitch is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-16 to 2001-06-11), Brad Hitch sent 1 and received 61 emails, totalling 62 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (1), [Eric Gonzales](people/eric-gonzales) (1).",
+  "timeline": "- **2000-05-16** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brad-hitch",
+    "name": "Brad Hitch",
+    "email": "brad.hitch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

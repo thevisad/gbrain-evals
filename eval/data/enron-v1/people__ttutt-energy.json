@@ -1,0 +1,14 @@
+{
+  "slug": "people/ttutt-energy",
+  "type": "person",
+  "title": "Ttutt",
+  "compiled_truth": "Ttutt is an external contact at [Energy](companies/energy). Over the corpus period (2001-07-25 to 2001-07-25), Ttutt sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ttutt-energy",
+    "name": "Ttutt",
+    "email": "ttutt@energy.state.ca.us",
+    "primary_affiliation": "companies/energy"
+  }
+}

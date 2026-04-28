@@ -1,0 +1,14 @@
+{
+  "slug": "people/help-enrononline",
+  "type": "person",
+  "title": "Help",
+  "compiled_truth": "Help is an external contact at [Enrononline](companies/enrononline). Over the corpus period (2000-06-14 to 2001-11-05), Help sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-06-14** | First recorded email in corpus\n- **2001-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/help-enrononline",
+    "name": "Help",
+    "email": "help@enrononline.com",
+    "primary_affiliation": "companies/enrononline"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-bushton-maintenance",
+  "type": "person",
+  "title": "Team Bushton-Maintenance",
+  "compiled_truth": "Team Bushton-Maintenance is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-12 to 2002-03-22), Team Bushton-Maintenance sent 3 and received 33 emails, totalling 36 interactions. Top correspondents: [Jerry Graves](people/jerry-graves) (3), [Darrell Schoolcraft](people/darrell-schoolcraft) (3), [Gary Spraggins](people/gary-spraggins) (3), [Team Bushton-Operations](people/team-bushton-operations) (3), [Mike Peschka](people/mike-peschka) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-10-12** | First recorded email in corpus\n- **2002-03-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-bushton-maintenance",
+    "name": "Team Bushton-Maintenance",
+    "email": "team.bushton-maintenance@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

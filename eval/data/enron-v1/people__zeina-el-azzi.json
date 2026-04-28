@@ -1,0 +1,14 @@
+{
+  "slug": "people/zeina-el-azzi",
+  "type": "person",
+  "title": "Zeina El-Azzi",
+  "compiled_truth": "Zeina El-Azzi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-08-28), Zeina El-Azzi sent 0 and received 45 emails, totalling 45 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-08-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zeina-el-azzi",
+    "name": "Zeina El-Azzi",
+    "email": "zeina.el-azzi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/clay-harris",
+  "type": "person",
+  "title": "Clay Harris",
+  "compiled_truth": "Clay Harris is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-23 to 2001-12-21), Clay Harris sent 10 and received 122 emails, totalling 132 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (6), [Paul Y'Barbo](people/paul-y-barbo) (4), [Rick Bergsieker](people/rick-bergsieker) (3), [Daniel Rogers](people/daniel-rogers) (2), [James Hughes](people/james-hughes) (1). Mailbox folders observed: dabhol___cond__of_use, deleted_items, ecoelectrica, inbox.",
+  "timeline": "- **2000-09-23** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clay-harris",
+    "name": "Clay Harris",
+    "email": "clay.harris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

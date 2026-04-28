@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas-underwood",
+  "type": "person",
+  "title": "Thomas Underwood",
+  "compiled_truth": "Thomas Underwood is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-07 to 2002-03-29), Thomas Underwood sent 3 and received 47 emails, totalling 50 interactions. Top correspondents: [M  Love](people/m-love) (3), [Michelle Akers](people/michelle-akers) (1), [Derek Bailey](people/derek-bailey) (1), [David Baumbach](people/david-baumbach) (1), [Randy Bhatia](people/randy-bhatia) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-08-07** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas-underwood",
+    "name": "Thomas Underwood",
+    "email": "thomas.underwood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

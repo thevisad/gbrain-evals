@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-hrabal",
+  "type": "person",
+  "title": "Richard Hrabal",
+  "compiled_truth": "Richard Hrabal is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2001-04-30), Richard Hrabal sent 27 and received 196 emails, totalling 223 interactions. Top correspondents: [Don Baughman](people/don-baughman) (25), [Joe Stepenovitch](people/joe-stepenovitch) (25), [Larry Campbell](people/larry-campbell) (25), [Joe Errigo](people/joe-errigo) (24), [Jay Wills](people/jay-wills) (24).",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-hrabal",
+    "name": "Richard Hrabal",
+    "email": "richard.hrabal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gayle-muench",
+  "type": "person",
+  "title": "Gayle Muench",
+  "compiled_truth": "Gayle Muench is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-01 to 2001-09-20), Gayle Muench sent 0 and received 559 emails, totalling 559 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gayle-muench",
+    "name": "Gayle Muench",
+    "email": "gayle.muench@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/patrick-selsmeyer",
+  "type": "person",
+  "title": "Patrick Selsmeyer",
+  "compiled_truth": "Patrick Selsmeyer is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-16 to 2001-10-03), Patrick Selsmeyer sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-08-16** | First recorded email in corpus\n- **2001-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patrick-selsmeyer",
+    "name": "Patrick Selsmeyer",
+    "email": "patrick.selsmeyer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/webbd-epenergy",
+  "type": "person",
+  "title": "Webbd",
+  "compiled_truth": "Webbd is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2000-11-03 to 2001-08-14), Webbd sent 2 and received 2 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2001-08-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/webbd-epenergy",
+    "name": "Webbd",
+    "email": "webbd@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

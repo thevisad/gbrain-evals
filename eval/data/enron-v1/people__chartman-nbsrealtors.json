@@ -1,0 +1,14 @@
+{
+  "slug": "people/chartman-nbsrealtors",
+  "type": "person",
+  "title": "Chartman",
+  "compiled_truth": "Chartman is an external contact at [Nbsrealtors](companies/nbsrealtors). Over the corpus period (2000-09-19 to 2001-04-30), Chartman sent 27 and received 47 emails, totalling 74 interactions. Top correspondents: [Mark Guzman](people/mark-guzman) (27), [Billc](people/billc-rosequarter) (14), [Brendanf](people/brendanf-gfsloans) (13), [Creightonca](people/creightonca-hotmail) (13), [Penn Eric](people/penn-eric-salkeiz) (13).",
+  "timeline": "- **2000-09-19** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chartman-nbsrealtors",
+    "name": "Chartman",
+    "email": "chartman@nbsrealtors.com",
+    "primary_affiliation": "companies/nbsrealtors"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/alfredo-huertas-rubio",
+  "type": "person",
+  "title": "Alfredo Huertas-Rubio",
+  "compiled_truth": "Alfredo Huertas-Rubio is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-21 to 2001-07-28), Alfredo Huertas-Rubio sent 3 and received 12 emails, totalling 15 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (3), [Peter Styles](people/peter-styles) (2), [James Steffes](people/james-steffes) (1), [Mariano Gentilini](people/mariano-gentilini) (1), [John Sherriff](people/john-sherriff) (1).",
+  "timeline": "- **2001-05-21** | First recorded email in corpus\n- **2001-07-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alfredo-huertas-rubio",
+    "name": "Alfredo Huertas-Rubio",
+    "email": "alfredo.huertas-rubio@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-henry",
+  "type": "person",
+  "title": "Robert Henry",
+  "compiled_truth": "Robert Henry is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-24 to 2002-01-14), Robert Henry sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-04-24** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-henry",
+    "name": "Robert Henry",
+    "email": "robert.henry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

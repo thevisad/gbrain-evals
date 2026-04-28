@@ -1,0 +1,14 @@
+{
+  "slug": "people/f-keavey",
+  "type": "person",
+  "title": "F  Keavey",
+  "compiled_truth": "F  Keavey is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-18 to 2002-01-23), F  Keavey sent 35 and received 362 emails, totalling 397 interactions. Top correspondents: [Alejandra Chavez](people/alejandra-chavez) (4), [F  Brawner](people/f-brawner) (3), [David Hutchinson](people/david-hutchinson) (2), [Dina Omeara](people/dina-omeara-dowjones) (2), [John Edmiston](people/john-edmiston-dowjones) (2). Mailbox folders observed: contacts, deleted_items, inbox, sent_items.",
+  "timeline": "- **2001-05-18** | First recorded email in corpus\n- **2002-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/f-keavey",
+    "name": "F  Keavey",
+    "email": "f..keavey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/aric-archie",
+  "type": "person",
+  "title": "Aric Archie",
+  "compiled_truth": "Aric Archie is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-22 to 2001-06-01), Aric Archie sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-06-22** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aric-archie",
+    "name": "Aric Archie",
+    "email": "aric.archie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

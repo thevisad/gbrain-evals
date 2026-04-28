@@ -1,0 +1,14 @@
+{
+  "slug": "people/tloski-bcgas",
+  "type": "person",
+  "title": "Tloski",
+  "compiled_truth": "Tloski is an external contact at [Bcgas](companies/bcgas). Over the corpus period (2000-10-24 to 2000-10-27), Tloski sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-10-24** | First recorded email in corpus\n- **2000-10-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tloski-bcgas",
+    "name": "Tloski",
+    "email": "tloski@bcgas.com",
+    "primary_affiliation": "companies/bcgas"
+  }
+}

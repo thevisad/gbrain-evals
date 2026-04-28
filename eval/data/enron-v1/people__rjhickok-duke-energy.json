@@ -1,0 +1,14 @@
+{
+  "slug": "people/rjhickok-duke-energy",
+  "type": "person",
+  "title": "Rjhickok",
+  "compiled_truth": "Rjhickok is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (1999-11-22 to 2002-01-02), Rjhickok sent 0 and received 270 emails, totalling 270 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rjhickok-duke-energy",
+    "name": "Rjhickok",
+    "email": "rjhickok@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

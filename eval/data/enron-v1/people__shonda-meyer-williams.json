@@ -1,0 +1,14 @@
+{
+  "slug": "people/shonda-meyer-williams",
+  "type": "person",
+  "title": "Shonda Meyer",
+  "compiled_truth": "Shonda Meyer is an external contact at [Williams Companies](companies/williams). Over the corpus period (2000-07-25 to 2000-08-29), Shonda Meyer sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2000-08-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shonda-meyer-williams",
+    "name": "Shonda Meyer",
+    "email": "shonda.meyer@williams.com",
+    "primary_affiliation": "companies/williams"
+  }
+}

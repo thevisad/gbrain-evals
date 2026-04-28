@@ -1,0 +1,14 @@
+{
+  "slug": "people/sturner2-newpower",
+  "type": "person",
+  "title": "Sturner2",
+  "compiled_truth": "Sturner2 is an external contact at [Newpower](companies/newpower). Over the corpus period (2001-02-05 to 2001-07-31), Sturner2 sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-02-05** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sturner2-newpower",
+    "name": "Sturner2",
+    "email": "sturner2@newpower.com",
+    "primary_affiliation": "companies/newpower"
+  }
+}

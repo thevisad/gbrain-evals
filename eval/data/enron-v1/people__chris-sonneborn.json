@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-sonneborn",
+  "type": "person",
+  "title": "Chris Sonneborn",
+  "compiled_truth": "Chris Sonneborn is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-14 to 2001-11-16), Chris Sonneborn sent 9 and received 70 emails, totalling 79 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (9), [Lal Echterhoff](people/lal-echterhoff) (4), [Eric Gillaspie](people/eric-gillaspie) (4), [Gregory Lind](people/gregory-lind) (3), [Audrey Pullen](people/audrey-pullen) (3).",
+  "timeline": "- **1999-05-14** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-sonneborn",
+    "name": "Chris Sonneborn",
+    "email": "chris.sonneborn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/g-garcia",
+  "type": "person",
+  "title": "G Garcia",
+  "compiled_truth": "G Garcia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-18 to 2001-07-03), G Garcia sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-10-18** | First recorded email in corpus\n- **2001-07-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/g-garcia",
+    "name": "G Garcia",
+    "email": "g.garcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

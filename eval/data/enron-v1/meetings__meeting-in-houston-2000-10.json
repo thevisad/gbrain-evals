@@ -1,0 +1,27 @@
+{
+  "slug": "meetings/meeting-in-houston-2000-10",
+  "type": "meeting",
+  "title": "Meeting: Meeting In Houston",
+  "compiled_truth": "Meeting: \"Meeting In Houston\". Occurred 2000-10-04 through 2000-10-05 with 2 related emails. Participants included: [Dorothy Dalton](people/dorothy-dalton), [Einagaki](people/einagaki-eaccess), [Eric Gan](people/eric-gan-eaccess), [Jeff Skilling](people/jeff-skilling), [Katherine Brown](people/katherine-brown), [Ken Rice](people/ken-rice), [Kenneth Lay](people/kenneth-lay), [Obata](people/obata-eaccess)....",
+  "timeline": "- **2000-10-04** | Meeting: meeting in houston\n- **2000-10-05** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-in-houston-2000-10",
+    "attendees": [
+      "people/dorothy-dalton",
+      "people/einagaki-eaccess",
+      "people/eric-gan-eaccess",
+      "people/jeff-skilling",
+      "people/katherine-brown",
+      "people/ken-rice",
+      "people/kenneth-lay",
+      "people/obata-eaccess",
+      "people/ronnie-chan-hanglung",
+      "people/rosalee-fleming",
+      "people/sem-coral",
+      "people/sherri-sera",
+      "people/toko-eaccess"
+    ],
+    "date": "2000-10-04"
+  }
+}

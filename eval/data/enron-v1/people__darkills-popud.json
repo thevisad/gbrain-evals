@@ -1,0 +1,14 @@
+{
+  "slug": "people/darkills-popud",
+  "type": "person",
+  "title": "Darkills",
+  "compiled_truth": "Darkills is an external contact at [Popud](companies/popud). Over the corpus period (2001-02-20 to 2001-04-27), Darkills sent 0 and received 66 emails, totalling 66 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darkills-popud",
+    "name": "Darkills",
+    "email": "darkills@popud.com",
+    "primary_affiliation": "companies/popud"
+  }
+}

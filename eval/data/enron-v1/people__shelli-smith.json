@@ -1,0 +1,14 @@
+{
+  "slug": "people/shelli-smith",
+  "type": "person",
+  "title": "Shelli Smith",
+  "compiled_truth": "Shelli Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2001-12-06), Shelli Smith sent 0 and received 47 emails, totalling 47 interactions.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shelli-smith",
+    "name": "Shelli Smith",
+    "email": "shelli.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

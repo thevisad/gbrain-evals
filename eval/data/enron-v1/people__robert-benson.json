@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-benson",
+  "type": "person",
+  "title": "Robert Benson",
+  "compiled_truth": "Robert Benson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-31 to 2002-03-19), Robert Benson sent 32 and received 564 emails, totalling 596 interactions. Top correspondents: [Kevin Presto](people/kevin-presto) (4), [Paul Broderick](people/paul-broderick) (4), [Gwadsworth](people/gwadsworth-midf) (4), [Laura Pena](people/laura-pena) (2), [Peter Shipman](people/peter-shipman-axiaenergy) (2). Mailbox folders observed: _sent_mail, sent, sent_items.",
+  "timeline": "- **2000-07-31** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-benson",
+    "name": "Robert Benson",
+    "email": "robert.benson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

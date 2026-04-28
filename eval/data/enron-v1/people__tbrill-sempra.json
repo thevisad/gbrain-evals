@@ -1,0 +1,14 @@
+{
+  "slug": "people/tbrill-sempra",
+  "type": "person",
+  "title": "Tbrill",
+  "compiled_truth": "Tbrill is an external contact at [Sempra Energy](companies/sempra). Over the corpus period (2000-03-30 to 2000-09-05), Tbrill sent 0 and received 79 emails, totalling 79 interactions.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2000-09-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tbrill-sempra",
+    "name": "Tbrill",
+    "email": "tbrill@sempra.com",
+    "primary_affiliation": "companies/sempra"
+  }
+}

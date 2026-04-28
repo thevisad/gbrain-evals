@@ -1,0 +1,14 @@
+{
+  "slug": "people/craig-sutter",
+  "type": "person",
+  "title": "Craig Sutter",
+  "compiled_truth": "Craig Sutter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2001-09-20), Craig Sutter sent 0 and received 548 emails, totalling 548 interactions.",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2001-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/craig-sutter",
+    "name": "Craig Sutter",
+    "email": "craig.sutter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

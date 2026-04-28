@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-keezel",
+  "type": "person",
+  "title": "David Keezel",
+  "compiled_truth": "David Keezel is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2001-10-26), David Keezel sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-keezel",
+    "name": "David Keezel",
+    "email": "david.keezel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

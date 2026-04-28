@@ -1,0 +1,14 @@
+{
+  "slug": "people/mo-elafandi",
+  "type": "person",
+  "title": "Mo Elafandi",
+  "compiled_truth": "Mo Elafandi is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-05 to 2002-06-21), Mo Elafandi sent 10 and received 153 emails, totalling 163 interactions. Top correspondents: [Lisa Gang](people/lisa-gang) (7), [Jennifer Thome](people/jennifer-thome) (2), [Virginia Thompson](people/virginia-thompson) (2), [Edward Baughman](people/edward-baughman) (2), [Tim Belden](people/tim-belden) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-07-05** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mo-elafandi",
+    "name": "Mo Elafandi",
+    "email": "mo.elafandi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

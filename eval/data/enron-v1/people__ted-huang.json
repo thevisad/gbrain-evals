@@ -1,0 +1,14 @@
+{
+  "slug": "people/ted-huang",
+  "type": "person",
+  "title": "Ted Huang",
+  "compiled_truth": "Ted Huang is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-10-16), Ted Huang sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-10-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ted-huang",
+    "name": "Ted Huang",
+    "email": "ted.huang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

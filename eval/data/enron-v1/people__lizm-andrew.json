@@ -1,0 +1,14 @@
+{
+  "slug": "people/lizm-andrew",
+  "type": "person",
+  "title": "Lizm",
+  "compiled_truth": "Lizm is an external contact at [Andrew](companies/andrew). Over the corpus period (2001-07-25 to 2001-07-25), Lizm sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lizm-andrew",
+    "name": "Lizm",
+    "email": "lizm@andrew.cmu.edu",
+    "primary_affiliation": "companies/andrew"
+  }
+}

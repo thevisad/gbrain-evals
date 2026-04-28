@@ -1,0 +1,14 @@
+{
+  "slug": "people/robyn-layfam",
+  "type": "person",
+  "title": "Robyn",
+  "compiled_truth": "Robyn is an external contact at [Layfam](companies/layfam). Over the corpus period (2001-05-31 to 2002-01-18), Robyn sent 11 and received 16 emails, totalling 27 interactions. Top correspondents: [Lay Kenneth](people/lay-kenneth) (9), [Lay Linda](people/lay-linda) (9), [Duncan Brenda](people/duncan-brenda) (8), [Ceron](people/ceron) (8), [David Keezel](people/david-keezel) (8).",
+  "timeline": "- **2001-05-31** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robyn-layfam",
+    "name": "Robyn",
+    "email": "robyn@layfam.com",
+    "primary_affiliation": "companies/layfam"
+  }
+}

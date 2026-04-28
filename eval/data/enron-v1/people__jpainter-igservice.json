@@ -1,0 +1,14 @@
+{
+  "slug": "people/jpainter-igservice",
+  "type": "person",
+  "title": "Jpainter",
+  "compiled_truth": "Jpainter is an external contact at [Igservice](companies/igservice). Over the corpus period (2001-01-04 to 2001-05-10), Jpainter sent 32 and received 8 emails, totalling 40 interactions. Top correspondents: [Jfawcet](people/jfawcet) (32), [Mlokay](people/mlokay) (32), [Kpeck](people/kpeck-ussposco) (20).",
+  "timeline": "- **2001-01-04** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jpainter-igservice",
+    "name": "Jpainter",
+    "email": "jpainter@igservice.com",
+    "primary_affiliation": "companies/igservice"
+  }
+}

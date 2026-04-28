@@ -1,0 +1,14 @@
+{
+  "slug": "people/claudia-clark",
+  "type": "person",
+  "title": "Claudia Clark",
+  "compiled_truth": "Claudia Clark is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-03-07), Claudia Clark sent 17 and received 340 emails, totalling 357 interactions. Top correspondents: [Tana Jones](people/tana-jones) (7), [Stephanie Sever](people/stephanie-sever) (6), [W  White](people/w-white) (3), [Wendi Lebrocq](people/wendi-lebrocq) (3), [Tara Sweitzer](people/tara-sweitzer) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/claudia-clark",
+    "name": "Claudia Clark",
+    "email": "claudia.clark@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/craig-childers",
+  "type": "person",
+  "title": "Craig Childers",
+  "compiled_truth": "Craig Childers is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2001-11-06), Craig Childers sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/craig-childers",
+    "name": "Craig Childers",
+    "email": "craig.childers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

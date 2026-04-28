@@ -1,0 +1,16 @@
+{
+  "slug": "companies/marathon",
+  "type": "company",
+  "title": "Marathon Oil",
+  "compiled_truth": "Marathon Oil is an external organization that appears in the Enron email corpus. Domain: marathon.com. Total email interactions with Enron: 0. ",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (0 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/marathon",
+    "name": "Marathon Oil",
+    "employees": [],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

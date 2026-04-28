@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-harris",
+  "type": "person",
+  "title": "Mary Harris",
+  "compiled_truth": "Mary Harris is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2001-06-08), Mary Harris sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-harris",
+    "name": "Mary Harris",
+    "email": "mary.harris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

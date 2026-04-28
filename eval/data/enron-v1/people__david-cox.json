@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-cox",
+  "type": "person",
+  "title": "David Cox",
+  "compiled_truth": "David Cox is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2001-11-29), David Cox sent 0 and received 157 emails, totalling 157 interactions.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-cox",
+    "name": "David Cox",
+    "email": "david.cox@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

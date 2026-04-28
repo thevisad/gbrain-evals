@@ -1,0 +1,14 @@
+{
+  "slug": "people/willie-stewart",
+  "type": "person",
+  "title": "Willie Stewart",
+  "compiled_truth": "Willie Stewart is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-29 to 2001-12-06), Willie Stewart sent 0 and received 178 emails, totalling 178 interactions.",
+  "timeline": "- **2000-02-29** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/willie-stewart",
+    "name": "Willie Stewart",
+    "email": "willie.stewart@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tillman-steven",
+  "type": "person",
+  "title": "Tillman Steven",
+  "compiled_truth": "Tillman Steven is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-16 to 2002-01-16), Tillman Steven sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tillman-steven",
+    "name": "Tillman Steven",
+    "email": "tillman.steven@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

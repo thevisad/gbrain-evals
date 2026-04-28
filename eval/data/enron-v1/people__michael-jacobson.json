@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-jacobson",
+  "type": "person",
+  "title": "Michael Jacobson",
+  "compiled_truth": "Michael Jacobson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-02-01), Michael Jacobson sent 36 and received 129 emails, totalling 165 interactions. Top correspondents: [Clint Dean](people/clint-dean) (20), [Andrea Dahlke](people/andrea-dahlke) (18), [M  Forney](people/m-forney) (10), [Juan Hernandez](people/juan-hernandez) (5), [M  Grace](people/m-grace) (5). Mailbox folders observed: deleted_items, enron_power, inbox, notes_inbox, power.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-jacobson",
+    "name": "Michael Jacobson",
+    "email": "michael.jacobson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

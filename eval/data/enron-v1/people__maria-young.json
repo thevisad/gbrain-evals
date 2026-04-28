@@ -1,0 +1,14 @@
+{
+  "slug": "people/maria-young",
+  "type": "person",
+  "title": "Maria Young",
+  "compiled_truth": "Maria Young is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-09), Maria Young sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maria-young",
+    "name": "Maria Young",
+    "email": "maria.young@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

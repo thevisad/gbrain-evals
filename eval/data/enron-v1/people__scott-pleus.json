@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-pleus",
+  "type": "person",
+  "title": "Scott Pleus",
+  "compiled_truth": "Scott Pleus is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-02-16), Scott Pleus sent 10 and received 72 emails, totalling 82 interactions. Top correspondents: [Sally Beck](people/sally-beck) (8), [Jeremy Mills](people/jeremy-mills) (3), [Danae Umbower](people/danae-umbower) (3), [Michael Moscoso](people/michael-moscoso) (2), [Mark Friedman](people/mark-friedman) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-02-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-pleus",
+    "name": "Scott Pleus",
+    "email": "scott.pleus@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

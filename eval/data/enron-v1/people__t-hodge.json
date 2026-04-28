@@ -1,0 +1,14 @@
+{
+  "slug": "people/t-hodge",
+  "type": "person",
+  "title": "T  Hodge",
+  "compiled_truth": "T  Hodge is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-08 to 2002-02-07), T  Hodge sent 124 and received 759 emails, totalling 883 interactions. Top correspondents: [E  Haedicke](people/e-haedicke) (12), [Gerald Nemec](people/gerald-nemec) (12), [Tanya Rohauer](people/tanya-rohauer) (10), [ Taylor](people/taylor) (7), [Peter Keohane](people/peter-keohane) (6). Mailbox folders observed: _americas, archive, deleted_items, inbox, iso__pricecaps, sent_items.",
+  "timeline": "- **2001-06-08** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/t-hodge",
+    "name": "T  Hodge",
+    "email": "t..hodge@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

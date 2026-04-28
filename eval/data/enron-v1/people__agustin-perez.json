@@ -1,0 +1,14 @@
+{
+  "slug": "people/agustin-perez",
+  "type": "person",
+  "title": "Agustin Perez",
+  "compiled_truth": "Agustin Perez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-06 to 2002-05-02), Agustin Perez sent 4 and received 64 emails, totalling 68 interactions. Top correspondents: [Jaime Williams](people/jaime-williams) (3), [Errol Mclaughlin](people/errol-mclaughlin) (1), [John Griffith](people/john-griffith) (1), [Tana Jones](people/tana-jones) (1), [Stephanie Panus](people/stephanie-panus) (1).",
+  "timeline": "- **2000-07-06** | First recorded email in corpus\n- **2002-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/agustin-perez",
+    "name": "Agustin Perez",
+    "email": "agustin.perez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

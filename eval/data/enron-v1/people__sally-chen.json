@@ -1,0 +1,14 @@
+{
+  "slug": "people/sally-chen",
+  "type": "person",
+  "title": "Sally Chen",
+  "compiled_truth": "Sally Chen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-06 to 2001-10-17), Sally Chen sent 1 and received 4 emails, totalling 5 interactions. Top correspondents: [Robin Rodrigue](people/robin-rodrigue) (1), [Vern Vallejo](people/vern-vallejo) (1).",
+  "timeline": "- **2000-10-06** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sally-chen",
+    "name": "Sally Chen",
+    "email": "sally.chen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

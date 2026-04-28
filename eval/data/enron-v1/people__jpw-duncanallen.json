@@ -1,0 +1,14 @@
+{
+  "slug": "people/jpw-duncanallen",
+  "type": "person",
+  "title": "Jpw",
+  "compiled_truth": "Jpw is an external contact at [Duncanallen](companies/duncanallen). Over the corpus period (2001-02-20 to 2001-04-27), Jpw sent 1 and received 66 emails, totalling 67 interactions. Top correspondents: [Sawestenberg](people/sawestenberg-bpa) (1), [Abuckley](people/abuckley-wutc) (1), [Alan](people/alan-epud) (1), [Ali Rodol](people/ali-rodol-ci) (1), [Archive-Power-Ratecase](people/archive-power-ratecase-bpa) (1).",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jpw-duncanallen",
+    "name": "Jpw",
+    "email": "jpw@duncanallen.com",
+    "primary_affiliation": "companies/duncanallen"
+  }
+}

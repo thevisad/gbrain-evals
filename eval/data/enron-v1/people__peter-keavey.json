@@ -1,0 +1,14 @@
+{
+  "slug": "people/peter-keavey",
+  "type": "person",
+  "title": "Peter Keavey",
+  "compiled_truth": "Peter Keavey is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-11), Peter Keavey sent 146 and received 211 emails, totalling 357 interactions. Top correspondents: [Annemoisan](people/annemoisan-hotmail) (20), [Dale Neuner](people/dale-neuner) (13), [David Forster](people/david-forster) (9), [John Arnold](people/john-arnold) (8), [Amoisan](people/amoisan-internationalsos) (6). Mailbox folders observed: _sent_mail, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peter-keavey",
+    "name": "Peter Keavey",
+    "email": "peter.keavey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

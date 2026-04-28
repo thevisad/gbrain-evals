@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-thome",
+  "type": "person",
+  "title": "Jennifer Thome",
+  "compiled_truth": "Jennifer Thome is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-06-25), Jennifer Thome sent 118 and received 784 emails, totalling 902 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (68), [James Steffes](people/james-steffes) (28), [D  Steffes](people/d-steffes) (20), [Robert Neustaedter](people/robert-neustaedter) (17), [Stacey Bolton](people/stacey-bolton) (17). Mailbox folders observed: 2001_prc__midyear, california_issues, competition_messages, compliments, deleted_items, eesirenewableenergy.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-thome",
+    "name": "Jennifer Thome",
+    "email": "jennifer.thome@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

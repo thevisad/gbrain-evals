@@ -1,0 +1,14 @@
+{
+  "slug": "people/nancy-hall",
+  "type": "person",
+  "title": "Nancy Hall",
+  "compiled_truth": "Nancy Hall is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-12-07), Nancy Hall sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nancy-hall",
+    "name": "Nancy Hall",
+    "email": "nancy.hall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

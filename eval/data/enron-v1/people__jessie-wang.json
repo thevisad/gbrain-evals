@@ -1,0 +1,14 @@
+{
+  "slug": "people/jessie-wang",
+  "type": "person",
+  "title": "Jessie Wang",
+  "compiled_truth": "Jessie Wang is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-06 to 2002-02-06), Jessie Wang sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2002-01-06** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jessie-wang",
+    "name": "Jessie Wang",
+    "email": "jessie.wang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

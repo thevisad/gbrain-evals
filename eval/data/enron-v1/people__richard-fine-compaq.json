@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-fine-compaq",
+  "type": "person",
+  "title": "Richard Fine",
+  "compiled_truth": "Richard Fine is an external contact at [Compaq](companies/compaq). Over the corpus period (2000-10-11 to 2000-10-23), Richard Fine sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-10-11** | First recorded email in corpus\n- **2000-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-fine-compaq",
+    "name": "Richard Fine",
+    "email": "richard.fine@compaq.com",
+    "primary_affiliation": "companies/compaq"
+  }
+}

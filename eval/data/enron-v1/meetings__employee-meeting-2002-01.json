@@ -1,0 +1,28 @@
+{
+  "slug": "meetings/employee-meeting-2002-01",
+  "type": "meeting",
+  "title": "Meeting: Employee Meeting",
+  "compiled_truth": "Meeting: \"Employee Meeting\". Occurred 2002-01-18 with 1 related emails. Participants included: [Cindy Olson](people/cindy-olson), [Dan Leff](people/dan-leff), [Elizabeth Tilney](people/elizabeth-tilney), [H  Boots](people/h-boots), [Jeffrey Mcmahon](people/jeffrey-mcmahon), [Jim Fallon](people/jim-fallon), [Kenneth Lay](people/kenneth-lay), [Mary Joyce](people/mary-joyce)....",
+  "timeline": "- **2002-01-18** | Meeting: employee meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/employee-meeting-2002-01",
+    "attendees": [
+      "people/cindy-olson",
+      "people/dan-leff",
+      "people/elizabeth-tilney",
+      "people/h-boots",
+      "people/jeffrey-mcmahon",
+      "people/jim-fallon",
+      "people/kenneth-lay",
+      "people/mary-joyce",
+      "people/palmer",
+      "people/raymond-bowen",
+      "people/stanley-horton",
+      "people/terrie-james",
+      "people/vp-robert",
+      "people/w-delainey"
+    ],
+    "date": "2002-01-18"
+  }
+}

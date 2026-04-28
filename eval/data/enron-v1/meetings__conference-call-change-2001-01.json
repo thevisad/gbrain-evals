@@ -1,0 +1,29 @@
+{
+  "slug": "meetings/conference-call-change-2001-01",
+  "type": "meeting",
+  "title": "Meeting: Conference Call Change",
+  "compiled_truth": "Meeting: \"Conference Call Change\". Occurred 2001-01-26 through 2001-01-29 with 3 related emails. Participants included: [Bob Burleson](people/bob-burleson), [Bob Jacobs](people/bob-jacobs-eott), [David Roensch](people/david-roensch), [Diane Corbett](people/diane-corbett-eott), [Earl Chanley](people/earl-chanley), [Kenneth Chow](people/kenneth-chow), [Khyatt](people/khyatt), [Larry Campbell](people/larry-campbell)....",
+  "timeline": "- **2001-01-26** | Meeting: conference call change\n- **2001-01-29** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/conference-call-change-2001-01",
+    "attendees": [
+      "people/bob-burleson",
+      "people/bob-jacobs-eott",
+      "people/david-roensch",
+      "people/diane-corbett-eott",
+      "people/earl-chanley",
+      "people/kenneth-chow",
+      "people/khyatt",
+      "people/larry-campbell",
+      "people/larry-garrett-eott",
+      "people/norm-spalding",
+      "people/randy-lagrimini",
+      "people/randy-rice",
+      "people/rich-jolly",
+      "people/rick-suderman-eott",
+      "people/scott-jones-eoot"
+    ],
+    "date": "2001-01-26"
+  }
+}

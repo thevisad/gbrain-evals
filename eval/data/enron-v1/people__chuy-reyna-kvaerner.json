@@ -1,0 +1,14 @@
+{
+  "slug": "people/chuy-reyna-kvaerner",
+  "type": "person",
+  "title": "Chuy Reyna",
+  "compiled_truth": "Chuy Reyna is an external contact at [Kvaerner](companies/kvaerner). Over the corpus period (2000-05-21 to 2001-02-12), Chuy Reyna sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2001-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chuy-reyna-kvaerner",
+    "name": "Chuy Reyna",
+    "email": "chuy.reyna@kvaerner.com",
+    "primary_affiliation": "companies/kvaerner"
+  }
+}

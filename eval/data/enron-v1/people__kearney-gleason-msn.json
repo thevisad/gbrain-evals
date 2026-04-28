@@ -1,0 +1,14 @@
+{
+  "slug": "people/kearney-gleason-msn",
+  "type": "person",
+  "title": "Kearney Gleason",
+  "compiled_truth": "Kearney Gleason is an external contact at [MSN](companies/msn). Over the corpus period (2001-10-18 to 2001-10-18), Kearney Gleason sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kearney-gleason-msn",
+    "name": "Kearney Gleason",
+    "email": "kearney_gleason@msn.com",
+    "primary_affiliation": "companies/msn"
+  }
+}

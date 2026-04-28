@@ -1,0 +1,14 @@
+{
+  "slug": "people/ruben-rios",
+  "type": "person",
+  "title": "Ruben Rios",
+  "compiled_truth": "Ruben Rios is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-22 to 2002-02-28), Ruben Rios sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2002-02-22** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ruben-rios",
+    "name": "Ruben Rios",
+    "email": "ruben.rios@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

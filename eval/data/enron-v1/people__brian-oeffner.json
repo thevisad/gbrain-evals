@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-oeffner",
+  "type": "person",
+  "title": "Brian Oeffner",
+  "compiled_truth": "Brian Oeffner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-25 to 2001-11-02), Brian Oeffner sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-02-25** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-oeffner",
+    "name": "Brian Oeffner",
+    "email": "brian.oeffner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

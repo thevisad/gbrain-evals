@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-benchluch",
+  "type": "person",
+  "title": "Stephen Benchluch",
+  "compiled_truth": "Stephen Benchluch is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-13 to 2001-05-10), Stephen Benchluch sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-benchluch",
+    "name": "Stephen Benchluch",
+    "email": "stephen.benchluch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

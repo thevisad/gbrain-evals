@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-s-james-uth",
+  "type": "person",
+  "title": "Jennifer S James",
+  "compiled_truth": "Jennifer S James is an external contact at [Uth](companies/uth). Over the corpus period (2000-06-20 to 2000-11-25), Jennifer S James sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-s-james-uth",
+    "name": "Jennifer S James",
+    "email": "jennifer.s.james@uth.tmc.edu",
+    "primary_affiliation": "companies/uth"
+  }
+}

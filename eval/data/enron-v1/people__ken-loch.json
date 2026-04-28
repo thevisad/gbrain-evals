@@ -1,0 +1,14 @@
+{
+  "slug": "people/ken-loch",
+  "type": "person",
+  "title": "Ken Loch",
+  "compiled_truth": "Ken Loch is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-19 to 2001-04-04), Ken Loch sent 9 and received 31 emails, totalling 40 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (8), [Jason Smith](people/jason-smith-murphyoilcorp) (3), [W Tom Byargeon](people/w-tom-byargeon) (1), [Greg Downum](people/greg-downum-murphyoilcorp) (1), [Lisa Druzbik](people/lisa-druzbik) (1).",
+  "timeline": "- **2000-07-19** | First recorded email in corpus\n- **2001-04-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ken-loch",
+    "name": "Ken Loch",
+    "email": "ken.loch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

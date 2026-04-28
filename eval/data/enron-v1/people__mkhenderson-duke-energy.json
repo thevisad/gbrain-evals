@@ -1,0 +1,14 @@
+{
+  "slug": "people/mkhenderson-duke-energy",
+  "type": "person",
+  "title": "Mkhenderson",
+  "compiled_truth": "Mkhenderson is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-04-03 to 2001-05-24), Mkhenderson sent 60 and received 14 emails, totalling 74 interactions. Top correspondents: [Dfarmer](people/dfarmer) (53), [Dfbane](people/dfbane-duke-energy) (50), [Mrcherry](people/mrcherry-duke-energy) (50), [Wespeckels](people/wespeckels-duke-energy) (50), [Dcspencer](people/dcspencer-duke-energy) (50).",
+  "timeline": "- **2000-04-03** | First recorded email in corpus\n- **2001-05-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mkhenderson-duke-energy",
+    "name": "Mkhenderson",
+    "email": "mkhenderson@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

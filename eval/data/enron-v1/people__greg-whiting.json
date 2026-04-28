@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-whiting",
+  "type": "person",
+  "title": "Greg Whiting",
+  "compiled_truth": "Greg Whiting is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-05), Greg Whiting sent 9 and received 268 emails, totalling 277 interactions. Top correspondents: [Georganne Hodges](people/georganne-hodges) (5), [Louise Kitchen](people/louise-kitchen) (4), [Georgeanne Hodges](people/georgeanne-hodges) (3), [Wes Colwell](people/wes-colwell) (2), [Elaine Schield](people/elaine-schield) (2). Mailbox folders observed: _americas, bammel_stg, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-whiting",
+    "name": "Greg Whiting",
+    "email": "greg.whiting@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

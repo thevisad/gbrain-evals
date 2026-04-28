@@ -1,0 +1,14 @@
+{
+  "slug": "people/elliottsa-earthlink",
+  "type": "person",
+  "title": "Elliottsa",
+  "compiled_truth": "Elliottsa is an external contact at [Earthlink](companies/earthlink). Over the corpus period (2000-09-01 to 2001-07-31), Elliottsa sent 0 and received 194 emails, totalling 194 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elliottsa-earthlink",
+    "name": "Elliottsa",
+    "email": "elliottsa@earthlink.net",
+    "primary_affiliation": "companies/earthlink"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rosalinda-tijerina",
+  "type": "person",
+  "title": "Rosalinda Tijerina",
+  "compiled_truth": "Rosalinda Tijerina is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-09-15), Rosalinda Tijerina sent 2 and received 563 emails, totalling 565 interactions. Top correspondents: [James Steffes](people/james-steffes) (1), [Harry Kingerski](people/harry-kingerski) (1), [Don Black](people/don-black) (1), [Jbennett](people/jbennett-gmssr) (1), [Tamara Johnson](people/tamara-johnson) (1).",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-09-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rosalinda-tijerina",
+    "name": "Rosalinda Tijerina",
+    "email": "rosalinda.tijerina@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

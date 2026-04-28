@@ -1,0 +1,14 @@
+{
+  "slug": "people/gac-mrwassoc",
+  "type": "person",
+  "title": "Gac",
+  "compiled_truth": "Gac is an external contact at [Mrwassoc](companies/mrwassoc). Over the corpus period (2000-03-30 to 2001-01-26), Gac sent 1 and received 52 emails, totalling 53 interactions. Top correspondents: [Alb](people/alb-cpuc) (1), [Jleslie](people/jleslie-luce) (1), [Alan Reid](people/alan-reid-pcp) (1), [Andy Bettwy](people/andy-bettwy-swgas) (1), [Aod](people/aod-newsdata) (1).",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2001-01-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gac-mrwassoc",
+    "name": "Gac",
+    "email": "gac@mrwassoc.com",
+    "primary_affiliation": "companies/mrwassoc"
+  }
+}

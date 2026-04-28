@@ -1,0 +1,14 @@
+{
+  "slug": "people/trang-dinh",
+  "type": "person",
+  "title": "Trang Dinh",
+  "compiled_truth": "Trang Dinh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-10 to 2001-12-03), Trang Dinh sent 2 and received 19 emails, totalling 21 interactions. Top correspondents: [Jennifer Medcalf](people/jennifer-medcalf) (1), [Vince Kaminski](people/vince-kaminski) (1).",
+  "timeline": "- **2000-01-10** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/trang-dinh",
+    "name": "Trang Dinh",
+    "email": "trang.dinh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/balancr-hotmail",
+  "type": "person",
+  "title": "Balancr",
+  "compiled_truth": "Balancr is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2001-10-18 to 2001-10-18), Balancr sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/balancr-hotmail",
+    "name": "Balancr",
+    "email": "balancr@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

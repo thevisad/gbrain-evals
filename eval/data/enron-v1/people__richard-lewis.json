@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-lewis",
+  "type": "person",
+  "title": "Richard Lewis",
+  "compiled_truth": "Richard Lewis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2002-01-14), Richard Lewis sent 12 and received 352 emails, totalling 364 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (5), [Dale Surbey](people/dale-surbey) (3), [Simon Hastings](people/simon-hastings) (3), [John Sherriff](people/john-sherriff) (3), [Louise Kitchen](people/louise-kitchen) (3). Mailbox folders observed: _americas, natsource.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-lewis",
+    "name": "Richard Lewis",
+    "email": "richard.lewis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

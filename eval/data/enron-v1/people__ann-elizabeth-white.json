@@ -1,0 +1,14 @@
+{
+  "slug": "people/ann-elizabeth-white",
+  "type": "person",
+  "title": "Ann Elizabeth White",
+  "compiled_truth": "Ann Elizabeth White is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-23 to 2001-06-07), Ann Elizabeth White sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-10-23** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ann-elizabeth-white",
+    "name": "Ann Elizabeth White",
+    "email": "ann.elizabeth.white@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

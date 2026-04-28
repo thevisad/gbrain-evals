@@ -1,0 +1,14 @@
+{
+  "slug": "people/aamir-maniar",
+  "type": "person",
+  "title": "Aamir Maniar",
+  "compiled_truth": "Aamir Maniar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-10 to 2001-10-22), Aamir Maniar sent 1 and received 36 emails, totalling 37 interactions. Top correspondents: [Andy Zipper](people/andy-zipper) (1).",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aamir-maniar",
+    "name": "Aamir Maniar",
+    "email": "aamir.maniar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

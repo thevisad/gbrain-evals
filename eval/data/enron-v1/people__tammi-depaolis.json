@@ -1,0 +1,14 @@
+{
+  "slug": "people/tammi-depaolis",
+  "type": "person",
+  "title": "Tammi Depaolis",
+  "compiled_truth": "Tammi Depaolis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-30 to 2001-08-24), Tammi Depaolis sent 5 and received 304 emails, totalling 309 interactions. Top correspondents: [Phil Demoes](people/phil-demoes) (3), [John Hodge](people/john-hodge) (3), [Sandra Brawner](people/sandra-brawner) (2), [Kimberly Brown](people/kimberly-brown) (1), [Victoria Versen](people/victoria-versen) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2001-08-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tammi-depaolis",
+    "name": "Tammi Depaolis",
+    "email": "tammi.depaolis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

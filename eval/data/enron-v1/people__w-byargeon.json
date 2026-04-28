@@ -1,0 +1,14 @@
+{
+  "slug": "people/w-byargeon",
+  "type": "person",
+  "title": "W Byargeon",
+  "compiled_truth": "W Byargeon is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-18), W Byargeon sent 0 and received 46 emails, totalling 46 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/w-byargeon",
+    "name": "W Byargeon",
+    "email": "w.byargeon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

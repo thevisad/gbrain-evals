@@ -1,0 +1,14 @@
+{
+  "slug": "people/cbrashear-velaw",
+  "type": "person",
+  "title": "Cbrashear",
+  "compiled_truth": "Cbrashear is an external contact at [Vinson & Elkins](companies/vinson-elkins). Over the corpus period (2000-06-05 to 2001-06-04), Cbrashear sent 1 and received 63 emails, totalling 64 interactions. Top correspondents: [Kmann](people/kmann) (1), [Nmann](people/nmann-erac) (1).",
+  "timeline": "- **2000-06-05** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cbrashear-velaw",
+    "name": "Cbrashear",
+    "email": "cbrashear@velaw.com",
+    "primary_affiliation": "companies/vinson-elkins"
+  }
+}

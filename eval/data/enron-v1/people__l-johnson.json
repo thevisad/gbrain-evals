@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-johnson",
+  "type": "person",
+  "title": "L  Johnson",
+  "compiled_truth": "L  Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-17 to 2002-03-21), L  Johnson sent 4 and received 113 emails, totalling 117 interactions. Top correspondents: [Steven Harris](people/steven-harris) (3), [Shelley Corman](people/shelley-corman) (3), [Morgan Gottsponer](people/morgan-gottsponer) (3), [Ben Asante](people/ben-asante) (3), [John Keller](people/john-keller) (3). Mailbox folders observed: calendar, projects.",
+  "timeline": "- **2001-04-17** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-johnson",
+    "name": "L  Johnson",
+    "email": "l..johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

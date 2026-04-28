@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-bryja",
+  "type": "person",
+  "title": "James Bryja",
+  "compiled_truth": "James Bryja is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-13 to 2001-11-27), James Bryja sent 0 and received 133 emails, totalling 133 interactions.",
+  "timeline": "- **2001-07-13** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-bryja",
+    "name": "James Bryja",
+    "email": "james.bryja@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

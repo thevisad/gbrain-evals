@@ -1,0 +1,14 @@
+{
+  "slug": "people/gerri-gosnell",
+  "type": "person",
+  "title": "Gerri Gosnell",
+  "compiled_truth": "Gerri Gosnell is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-05-06), Gerri Gosnell sent 15 and received 33 emails, totalling 48 interactions. Top correspondents: [Dutch Quigley](people/dutch-quigley) (14), [Leslie Reeves](people/leslie-reeves) (6), [Greg Whiting](people/greg-whiting) (5), [Paul Garcia](people/paul-garcia) (4), [Georganne Hodges](people/georganne-hodges) (4). Mailbox folders observed: _exchange_info, inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gerri-gosnell",
+    "name": "Gerri Gosnell",
+    "email": "gerri.gosnell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

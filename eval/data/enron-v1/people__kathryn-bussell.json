@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathryn-bussell",
+  "type": "person",
+  "title": "Kathryn Bussell",
+  "compiled_truth": "Kathryn Bussell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2002-06-25), Kathryn Bussell sent 7 and received 210 emails, totalling 217 interactions. Top correspondents: [Sally Beck](people/sally-beck) (2), [Bob Hall](people/bob-hall) (2), [Darron Giron](people/darron-giron) (2), [Phillip Love](people/phillip-love) (2), [David Baumbach](people/david-baumbach) (2). Mailbox folders observed: bankrupt, hpl, inbox.",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathryn-bussell",
+    "name": "Kathryn Bussell",
+    "email": "kathryn.bussell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

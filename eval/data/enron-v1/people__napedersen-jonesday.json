@@ -1,0 +1,14 @@
+{
+  "slug": "people/napedersen-jonesday",
+  "type": "person",
+  "title": "Napedersen",
+  "compiled_truth": "Napedersen is an external contact at [Jonesday](companies/jonesday). Over the corpus period (1999-09-24 to 2001-11-03), Napedersen sent 4 and received 207 emails, totalling 211 interactions. Top correspondents: [Jleslie](people/jleslie-luce) (3), [Jmpa](people/jmpa-dynegy) (3), [Jkarp](people/jkarp-whitecase) (2), [Kmccrea](people/kmccrea-sablaw) (2), [Johnj](people/johnj-bcjlaw) (2).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/napedersen-jonesday",
+    "name": "Napedersen",
+    "email": "napedersen@jonesday.com",
+    "primary_affiliation": "companies/jonesday"
+  }
+}

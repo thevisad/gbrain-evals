@@ -1,0 +1,14 @@
+{
+  "slug": "people/mroger3-entergy",
+  "type": "person",
+  "title": "Mroger3",
+  "compiled_truth": "Mroger3 is an external contact at [Entergy](companies/entergy). Over the corpus period (1999-06-04 to 2000-12-12), Mroger3 sent 1 and received 22 emails, totalling 23 interactions. Top correspondents: [Lrgroff](people/lrgroff-aep) (1), [Akatz](people/akatz-eei) (1), [Fmdutton](people/fmdutton-aep) (1), [Rsbaker](people/rsbaker-duke-energy) (1), [Hemu](people/hemu-dynegy) (1).",
+  "timeline": "- **1999-06-04** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mroger3-entergy",
+    "name": "Mroger3",
+    "email": "mroger3@entergy.com",
+    "primary_affiliation": "companies/entergy"
+  }
+}

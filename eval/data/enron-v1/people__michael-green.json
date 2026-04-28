@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-green",
+  "type": "person",
+  "title": "Michael Green",
+  "compiled_truth": "Michael Green is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-26 to 2002-06-21), Michael Green sent 2 and received 24 emails, totalling 26 interactions. Top correspondents: [Chris Abel](people/chris-abel) (1), [Frank Hayden](people/frank-hayden) (1), [D  Mcilvoy](people/d-mcilvoy) (1), [Jay Knoblauh](people/jay-knoblauh) (1), [Jean Mrha](people/jean-mrha) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-02-26** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-green",
+    "name": "Michael Green",
+    "email": "michael.green@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

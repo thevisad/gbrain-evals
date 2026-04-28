@@ -1,0 +1,14 @@
+{
+  "slug": "people/philippe-travis",
+  "type": "person",
+  "title": "Philippe Travis",
+  "compiled_truth": "Philippe Travis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-16 to 2001-12-06), Philippe Travis sent 0 and received 125 emails, totalling 125 interactions.",
+  "timeline": "- **1999-06-16** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/philippe-travis",
+    "name": "Philippe Travis",
+    "email": "philippe.travis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

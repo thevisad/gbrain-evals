@@ -1,0 +1,21 @@
+{
+  "slug": "companies/utility",
+  "type": "company",
+  "title": "Utility",
+  "compiled_truth": "Utility is an external organization that appears in the Enron email corpus. Domain: utility.com. Total email interactions with Enron: 276. Known contacts: 4 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (276 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/utility",
+    "name": "Utility",
+    "employees": [
+      "people/ben-reyes-utility",
+      "people/chirs-king-utility",
+      "people/chris-king-utility",
+      "people/david-bayless-utility"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

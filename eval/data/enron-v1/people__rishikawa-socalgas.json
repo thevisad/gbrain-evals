@@ -1,0 +1,14 @@
+{
+  "slug": "people/rishikawa-socalgas",
+  "type": "person",
+  "title": "Rishikawa",
+  "compiled_truth": "Rishikawa is an external contact at [Socalgas](companies/socalgas). Over the corpus period (1999-11-22 to 2001-07-31), Rishikawa sent 0 and received 58 emails, totalling 58 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rishikawa-socalgas",
+    "name": "Rishikawa",
+    "email": "rishikawa@socalgas.com",
+    "primary_affiliation": "companies/socalgas"
+  }
+}

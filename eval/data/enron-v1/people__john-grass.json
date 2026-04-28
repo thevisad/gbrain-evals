@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-grass",
+  "type": "person",
+  "title": "John Grass",
+  "compiled_truth": "John Grass is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-12 to 2002-01-03), John Grass sent 6 and received 182 emails, totalling 188 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (3), [Dan Hyvl](people/dan-hyvl) (2), [Nelson Ferries](people/nelson-ferries) (2), [Ellen Wallumrod](people/ellen-wallumrod) (1), [Judy Thorne](people/judy-thorne) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-01-12** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-grass",
+    "name": "John Grass",
+    "email": "john.grass@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

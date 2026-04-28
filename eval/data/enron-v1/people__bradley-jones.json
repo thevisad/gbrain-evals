@@ -1,0 +1,14 @@
+{
+  "slug": "people/bradley-jones",
+  "type": "person",
+  "title": "Bradley Jones",
+  "compiled_truth": "Bradley Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-09 to 2001-07-19), Bradley Jones sent 3 and received 34 emails, totalling 37 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (3), [Joey Taylor](people/joey-taylor) (2), [Luchas Johnson](people/luchas-johnson) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-02-09** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bradley-jones",
+    "name": "Bradley Jones",
+    "email": "bradley.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

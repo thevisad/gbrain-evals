@@ -1,0 +1,14 @@
+{
+  "slug": "people/jan-king",
+  "type": "person",
+  "title": "Jan King",
+  "compiled_truth": "Jan King is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-11 to 2001-06-12), Jan King sent 4 and received 222 emails, totalling 226 interactions. Top correspondents: [Christian Yoder](people/christian-yoder) (3), [Elizabeth Sager](people/elizabeth-sager) (3), [Richard Sanders](people/richard-sanders) (3), [Mark Haedicke](people/mark-haedicke) (3), [Tim Belden](people/tim-belden) (2).",
+  "timeline": "- **1999-06-11** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jan-king",
+    "name": "Jan King",
+    "email": "jan.king@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

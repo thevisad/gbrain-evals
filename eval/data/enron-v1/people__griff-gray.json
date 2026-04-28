@@ -1,0 +1,14 @@
+{
+  "slug": "people/griff-gray",
+  "type": "person",
+  "title": "Griff Gray",
+  "compiled_truth": "Griff Gray is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-23 to 2002-02-14), Griff Gray sent 11 and received 40 emails, totalling 51 interactions. Top correspondents: [Tana Jones](people/tana-jones) (9), [L  Mims](people/l-mims) (1), [M  Tholt](people/m-tholt) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-23** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/griff-gray",
+    "name": "Griff Gray",
+    "email": "griff.gray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gjb2-pge",
+  "type": "person",
+  "title": "Gjb2",
+  "compiled_truth": "Gjb2 is an external contact at [PG&E](companies/pge). Over the corpus period (1999-09-24 to 2001-07-31), Gjb2 sent 6 and received 71 emails, totalling 77 interactions. Top correspondents: [Jdasovic](people/jdasovic) (6), [Rdw0](people/rdw0-pge) (5), [Frl3](people/frl3-pge) (5), [Aamirali](people/aamirali-caiso) (4), [Askaff](people/askaff-energy-law-group) (4).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gjb2-pge",
+    "name": "Gjb2",
+    "email": "gjb2@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

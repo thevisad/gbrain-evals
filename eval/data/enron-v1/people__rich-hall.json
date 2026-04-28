@@ -1,0 +1,14 @@
+{
+  "slug": "people/rich-hall",
+  "type": "person",
+  "title": "Rich Hall",
+  "compiled_truth": "Rich Hall is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2002-01-14), Rich Hall sent 1 and received 10 emails, totalling 11 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rich-hall",
+    "name": "Rich Hall",
+    "email": "rich.hall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

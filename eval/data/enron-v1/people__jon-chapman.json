@@ -1,0 +1,14 @@
+{
+  "slug": "people/jon-chapman",
+  "type": "person",
+  "title": "Jon Chapman",
+  "compiled_truth": "Jon Chapman is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-02-09 to 2001-07-09), Jon Chapman sent 9 and received 77 emails, totalling 86 interactions. Top correspondents: [Tana Jones](people/tana-jones) (8), [Peter Keohane](people/peter-keohane) (7), [Rick Johnson](people/rick-johnson) (1), [Michelle Cash](people/michelle-cash) (1), [Shawna Flynn](people/shawna-flynn) (1). Mailbox folders observed: n_form.",
+  "timeline": "- **1999-02-09** | First recorded email in corpus\n- **2001-07-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jon-chapman",
+    "name": "Jon Chapman",
+    "email": "jon.chapman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

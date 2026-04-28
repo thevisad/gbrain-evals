@@ -1,0 +1,14 @@
+{
+  "slug": "people/dbkinnard-pplmt",
+  "type": "person",
+  "title": "Dbkinnard",
+  "compiled_truth": "Dbkinnard is an external contact at [Pplmt](companies/pplmt). Over the corpus period (2000-12-28 to 2001-05-30), Dbkinnard sent 0 and received 64 emails, totalling 64 interactions.",
+  "timeline": "- **2000-12-28** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dbkinnard-pplmt",
+    "name": "Dbkinnard",
+    "email": "dbkinnard@pplmt.com",
+    "primary_affiliation": "companies/pplmt"
+  }
+}

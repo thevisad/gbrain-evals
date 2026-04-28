@@ -1,0 +1,14 @@
+{
+  "slug": "people/ben-brasseaux",
+  "type": "person",
+  "title": "Ben Brasseaux",
+  "compiled_truth": "Ben Brasseaux is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-05 to 2001-11-20), Ben Brasseaux sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [Margaret Daffin](people/margaret-daffin) (1), [Jonathan Mckay](people/jonathan-mckay) (1), [Jeanie Slone](people/jeanie-slone) (1). Mailbox folders observed: personal.",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ben-brasseaux",
+    "name": "Ben Brasseaux",
+    "email": "ben.brasseaux@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

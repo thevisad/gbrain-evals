@@ -1,0 +1,14 @@
+{
+  "slug": "people/mara-bronstein",
+  "type": "person",
+  "title": "Mara Bronstein",
+  "compiled_truth": "Mara Bronstein is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-31 to 2001-12-06), Mara Bronstein sent 20 and received 65 emails, totalling 85 interactions. Top correspondents: [ Ward](people/ward) (13), [Mark Whitt](people/mark-whitt) (11), [Barry Tycholiz](people/barry-tycholiz) (9), [Tyrell Harrison](people/tyrell-harrison) (9), [T  Lucci](people/t-lucci) (9). Mailbox folders observed: citizens_utilities, deleted_items, inbox.",
+  "timeline": "- **2001-07-31** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mara-bronstein",
+    "name": "Mara Bronstein",
+    "email": "mara.bronstein@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

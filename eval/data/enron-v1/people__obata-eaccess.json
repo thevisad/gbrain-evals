@@ -1,0 +1,14 @@
+{
+  "slug": "people/obata-eaccess",
+  "type": "person",
+  "title": "Obata",
+  "compiled_truth": "Obata is an external contact at [Eaccess](companies/eaccess). Over the corpus period (2000-10-05 to 2000-10-05), Obata sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-05** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/obata-eaccess",
+    "name": "Obata",
+    "email": "obata@eaccess.net",
+    "primary_affiliation": "companies/eaccess"
+  }
+}

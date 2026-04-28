@@ -1,0 +1,21 @@
+{
+  "slug": "threads/e220-case-1-2000-09",
+  "type": "meeting",
+  "title": "Thread: E220 Case #1",
+  "compiled_truth": "Email thread: \"E220 Case #1\". Ran from 2000-09-07 to 2000-09-10 with 16 messages. Participants: [Dasovich](people/dasovich-haas), [Dwindham](people/dwindham-uclink4), [Jdasovic](people/jdasovic), [Jeff Dasovich](people/jeff-dasovich), [Jjackson](people/jjackson-haas), [Kkupiecki](people/kkupiecki-arpartners), [Kupiecki](people/kupiecki-haas).",
+  "timeline": "- **2000-09-07** | Thread begins: e220 case #1\n- **2000-09-10** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/e220-case-1-2000-09",
+    "attendees": [
+      "people/dasovich-haas",
+      "people/dwindham-uclink4",
+      "people/jdasovic",
+      "people/jeff-dasovich",
+      "people/jjackson-haas",
+      "people/kkupiecki-arpartners",
+      "people/kupiecki-haas"
+    ],
+    "date": "2000-09-07"
+  }
+}

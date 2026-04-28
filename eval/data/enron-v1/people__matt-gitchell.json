@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-gitchell",
+  "type": "person",
+  "title": "Matt Gitchell",
+  "compiled_truth": "Matt Gitchell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-01-12), Matt Gitchell sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-01-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-gitchell",
+    "name": "Matt Gitchell",
+    "email": "matt.gitchell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

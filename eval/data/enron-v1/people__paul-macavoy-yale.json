@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-macavoy-yale",
+  "type": "person",
+  "title": "Paul Macavoy",
+  "compiled_truth": "Paul Macavoy is an external contact at [Yale](companies/yale). Over the corpus period (1999-09-24 to 2001-07-31), Paul Macavoy sent 0 and received 62 emails, totalling 62 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-macavoy-yale",
+    "name": "Paul Macavoy",
+    "email": "paul.macavoy@yale.edu",
+    "primary_affiliation": "companies/yale"
+  }
+}

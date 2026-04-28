@@ -1,0 +1,14 @@
+{
+  "slug": "people/slbaskerville-bpa",
+  "type": "person",
+  "title": "Slbaskerville",
+  "compiled_truth": "Slbaskerville is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2000-06-23 to 2001-03-16), Slbaskerville sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/slbaskerville-bpa",
+    "name": "Slbaskerville",
+    "email": "slbaskerville@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

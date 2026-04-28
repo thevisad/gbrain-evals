@@ -1,0 +1,14 @@
+{
+  "slug": "people/robin-hosea",
+  "type": "person",
+  "title": "Robin Hosea",
+  "compiled_truth": "Robin Hosea is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-08 to 2001-12-03), Robin Hosea sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-12-08** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robin-hosea",
+    "name": "Robin Hosea",
+    "email": "robin.hosea@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

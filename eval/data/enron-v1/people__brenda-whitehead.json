@@ -1,0 +1,14 @@
+{
+  "slug": "people/brenda-whitehead",
+  "type": "person",
+  "title": "Brenda Whitehead",
+  "compiled_truth": "Brenda Whitehead is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-12-16 to 2001-06-12), Brenda Whitehead sent 47 and received 585 emails, totalling 632 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (24), [David Portz](people/david-portz) (16), [Mark Haedicke](people/mark-haedicke) (15), [James Fallon](people/james-fallon) (12), [Kevin Presto](people/kevin-presto) (12). Mailbox folders observed: sent.",
+  "timeline": "- **1998-12-16** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brenda-whitehead",
+    "name": "Brenda Whitehead",
+    "email": "brenda.whitehead@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

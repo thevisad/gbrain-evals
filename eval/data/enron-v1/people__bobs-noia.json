@@ -1,0 +1,14 @@
+{
+  "slug": "people/bobs-noia",
+  "type": "person",
+  "title": "Bobs",
+  "compiled_truth": "Bobs is an external contact at [Noia](companies/noia). Over the corpus period (1999-11-15 to 1999-11-15), Bobs sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bobs-noia",
+    "name": "Bobs",
+    "email": "bobs@noia.org",
+    "primary_affiliation": "companies/noia"
+  }
+}

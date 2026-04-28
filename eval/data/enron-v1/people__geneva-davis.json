@@ -1,0 +1,14 @@
+{
+  "slug": "people/geneva-davis",
+  "type": "person",
+  "title": "Geneva Davis",
+  "compiled_truth": "Geneva Davis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2001-11-30), Geneva Davis sent 8 and received 16 emails, totalling 24 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (7), [Lesli Campbell](people/lesli-campbell) (5), [Lillian Villarreal](people/lillian-villarreal) (5), [Pamela Rush](people/pamela-rush) (4), [S  Dutton](people/s-dutton) (3). Mailbox folders observed: deleted_items, enron_kids.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/geneva-davis",
+    "name": "Geneva Davis",
+    "email": "geneva.davis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

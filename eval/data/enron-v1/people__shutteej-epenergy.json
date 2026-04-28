@@ -1,0 +1,14 @@
+{
+  "slug": "people/shutteej-epenergy",
+  "type": "person",
+  "title": "Shutteej",
+  "compiled_truth": "Shutteej is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2000-05-12 to 2000-12-04), Shutteej sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-05-12** | First recorded email in corpus\n- **2000-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shutteej-epenergy",
+    "name": "Shutteej",
+    "email": "shutteej@epenergy.cpm",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

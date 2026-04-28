@@ -1,0 +1,14 @@
+{
+  "slug": "people/debbie-lucadou",
+  "type": "person",
+  "title": "Debbie Lucadou",
+  "compiled_truth": "Debbie Lucadou is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2001-09-28), Debbie Lucadou sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debbie-lucadou",
+    "name": "Debbie Lucadou",
+    "email": "debbie.lucadou@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ben-humann",
+  "type": "person",
+  "title": "Ben Humann",
+  "compiled_truth": "Ben Humann is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-07 to 2001-11-15), Ben Humann sent 2 and received 6 emails, totalling 8 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (1), [Mary Botello](people/mary-botello) (1), [Cheryl Perchal](people/cheryl-perchal) (1), [Phil Boggs](people/phil-boggs) (1), [Rod Hayslett](people/rod-hayslett) (1). Mailbox folders observed: inbox, projects.",
+  "timeline": "- **2000-08-07** | First recorded email in corpus\n- **2001-11-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ben-humann",
+    "name": "Ben Humann",
+    "email": "ben.humann@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

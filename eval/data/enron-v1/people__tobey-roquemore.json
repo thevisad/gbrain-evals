@@ -1,0 +1,14 @@
+{
+  "slug": "people/tobey-roquemore",
+  "type": "person",
+  "title": "Tobey Roquemore",
+  "compiled_truth": "Tobey Roquemore is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-03 to 2001-11-12), Tobey Roquemore sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tobey-roquemore",
+    "name": "Tobey Roquemore",
+    "email": "tobey.roquemore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

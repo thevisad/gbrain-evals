@@ -1,0 +1,14 @@
+{
+  "slug": "people/kimberly-vaughn",
+  "type": "person",
+  "title": "Kimberly Vaughn",
+  "compiled_truth": "Kimberly Vaughn is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2001-06-12), Kimberly Vaughn sent 20 and received 79 emails, totalling 99 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (20), [Janet Wallis](people/janet-wallis) (10), [Howard Camp](people/howard-camp) (10), [Anita Luong](people/anita-luong) (6), [Sherlyn Schumack](people/sherlyn-schumack) (3).",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kimberly-vaughn",
+    "name": "Kimberly Vaughn",
+    "email": "kimberly.vaughn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

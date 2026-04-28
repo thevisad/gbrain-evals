@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas-myers",
+  "type": "person",
+  "title": "Thomas Myers",
+  "compiled_truth": "Thomas Myers is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2002-02-19), Thomas Myers sent 4 and received 188 emails, totalling 192 interactions. Top correspondents: [Brent Price](people/brent-price) (2), [Mike McConnell](people/mike-mcconnell) (2), [Scott Earnest](people/scott-earnest) (1), [D Hall](people/d-hall) (1), [Sheila Glover](people/sheila-glover) (1).",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas-myers",
+    "name": "Thomas Myers",
+    "email": "thomas.myers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

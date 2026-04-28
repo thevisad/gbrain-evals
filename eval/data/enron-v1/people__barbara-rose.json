@@ -1,0 +1,14 @@
+{
+  "slug": "people/barbara-rose",
+  "type": "person",
+  "title": "Barbara Rose",
+  "compiled_truth": "Barbara Rose is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-09 to 2000-12-06), Barbara Rose sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barbara-rose",
+    "name": "Barbara Rose",
+    "email": "barbara.rose@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

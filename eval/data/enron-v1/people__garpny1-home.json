@@ -1,0 +1,14 @@
+{
+  "slug": "people/garpny1-home",
+  "type": "person",
+  "title": "Garpny1",
+  "compiled_truth": "Garpny1 is an external contact at [Home](companies/home). Over the corpus period (2000-05-18 to 2000-12-22), Garpny1 sent 4 and received 2 emails, totalling 6 interactions. Top correspondents: [Vkamins](people/vkamins) (3), [Don](people/don-axiomsl) (3), [Cy Zhao](people/cy-zhao-hotmail) (2), [Syerneni](people/syerneni-blackrock) (2), [Marc F Wittmer](people/marc-f-wittmer-aexp) (2).",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-12-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/garpny1-home",
+    "name": "Garpny1",
+    "email": "garpny1@home.com",
+    "primary_affiliation": "companies/home"
+  }
+}

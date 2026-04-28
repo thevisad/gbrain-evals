@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-johnston",
+  "type": "person",
+  "title": "Robert Johnston",
+  "compiled_truth": "Robert Johnston is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-19 to 2002-02-13), Robert Johnston sent 71 and received 179 emails, totalling 250 interactions. Top correspondents: [Scott Tholan](people/scott-tholan) (53), [Gary Hickerson](people/gary-hickerson) (45), [Jeff Kinneman](people/jeff-kinneman) (42), [Michael Bradley](people/michael-bradley) (38), [Markus Fiala](people/markus-fiala) (34). Mailbox folders observed: _americas, deleted_items, markets, old_inbox, pr_crisis_management.",
+  "timeline": "- **2000-06-19** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-johnston",
+    "name": "Robert Johnston",
+    "email": "robert.johnston@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

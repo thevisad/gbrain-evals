@@ -1,0 +1,14 @@
+{
+  "slug": "people/wdavid-duran",
+  "type": "person",
+  "title": "Wdavid Duran",
+  "compiled_truth": "Wdavid Duran is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-04-24), Wdavid Duran sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-04-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wdavid-duran",
+    "name": "Wdavid Duran",
+    "email": "wdavid.duran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

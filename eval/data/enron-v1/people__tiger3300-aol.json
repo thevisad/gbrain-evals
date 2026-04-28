@@ -1,0 +1,14 @@
+{
+  "slug": "people/tiger3300-aol",
+  "type": "person",
+  "title": "Tiger3300",
+  "compiled_truth": "Tiger3300 is an external contact at [AOL](companies/aol). Over the corpus period (2000-08-28 to 2000-11-01), Tiger3300 sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-08-28** | First recorded email in corpus\n- **2000-11-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tiger3300-aol",
+    "name": "Tiger3300",
+    "email": "tiger3300@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

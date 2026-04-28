@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-sabine",
+  "type": "person",
+  "title": "Jennifer Sabine",
+  "compiled_truth": "Jennifer Sabine is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-07 to 2000-06-30), Jennifer Sabine sent 1 and received 25 emails, totalling 26 interactions. Top correspondents: [Sherron Watkins](people/sherron-watkins) (1), [Stephen Barth](people/stephen-barth) (1), [Garry Egan](people/garry-egan) (1), [Marc Hensel](people/marc-hensel) (1), [Joseph Escobar](people/joseph-escobar) (1).",
+  "timeline": "- **1999-01-07** | First recorded email in corpus\n- **2000-06-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-sabine",
+    "name": "Jennifer Sabine",
+    "email": "jennifer.sabine@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

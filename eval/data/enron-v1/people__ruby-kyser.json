@@ -1,0 +1,14 @@
+{
+  "slug": "people/ruby-kyser",
+  "type": "person",
+  "title": "Ruby Kyser",
+  "compiled_truth": "Ruby Kyser is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-09 to 2001-12-06), Ruby Kyser sent 5 and received 63 emails, totalling 68 interactions. Top correspondents: [Tana Jones](people/tana-jones) (4), [Cheryl Johnson](people/cheryl-johnson) (3), [Debra Perlingiere](people/debra-perlingiere) (2), [Laurel Adams](people/laurel-adams) (1), [Lane Alexander](people/lane-alexander) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ruby-kyser",
+    "name": "Ruby Kyser",
+    "email": "ruby.kyser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

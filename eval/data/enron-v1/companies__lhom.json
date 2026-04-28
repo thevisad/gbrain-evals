@@ -1,0 +1,22 @@
+{
+  "slug": "companies/lhom",
+  "type": "company",
+  "title": "Lhom",
+  "compiled_truth": "Lhom is an external organization that appears in the Enron email corpus. Domain: lhom.com. Total email interactions with Enron: 457. Known contacts: 5 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (457 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/lhom",
+    "name": "Lhom",
+    "employees": [
+      "people/bhansen-lhom",
+      "people/bhanson-lhom",
+      "people/gmiller-lhom",
+      "people/lang1-lhom",
+      "people/wbrown-lhom"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

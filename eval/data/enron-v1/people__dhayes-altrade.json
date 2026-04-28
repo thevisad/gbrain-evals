@@ -1,0 +1,14 @@
+{
+  "slug": "people/dhayes-altrade",
+  "type": "person",
+  "title": "Dhayes",
+  "compiled_truth": "Dhayes is an external contact at [Altrade](companies/altrade). Over the corpus period (1999-11-22 to 2000-06-05), Dhayes sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2000-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dhayes-altrade",
+    "name": "Dhayes",
+    "email": "dhayes@altrade.com",
+    "primary_affiliation": "companies/altrade"
+  }
+}

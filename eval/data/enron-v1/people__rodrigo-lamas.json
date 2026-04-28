@@ -1,0 +1,14 @@
+{
+  "slug": "people/rodrigo-lamas",
+  "type": "person",
+  "title": "Rodrigo Lamas",
+  "compiled_truth": "Rodrigo Lamas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2000-11-07), Rodrigo Lamas sent 4 and received 9 emails, totalling 13 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (4), [David Port](people/david-port) (3), [Bjorn Hagelmann](people/bjorn-hagelmann) (3), [Oliver Gaylard](people/oliver-gaylard) (3), [Steven Leppard](people/steven-leppard) (3).",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2000-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rodrigo-lamas",
+    "name": "Rodrigo Lamas",
+    "email": "rodrigo.lamas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

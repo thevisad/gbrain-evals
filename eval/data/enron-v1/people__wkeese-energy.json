@@ -1,0 +1,14 @@
+{
+  "slug": "people/wkeese-energy",
+  "type": "person",
+  "title": "Wkeese",
+  "compiled_truth": "Wkeese is an external contact at [Energy](companies/energy). Over the corpus period (2000-08-10 to 2001-11-14), Wkeese sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wkeese-energy",
+    "name": "Wkeese",
+    "email": "wkeese@energy.state.ca.us",
+    "primary_affiliation": "companies/energy"
+  }
+}

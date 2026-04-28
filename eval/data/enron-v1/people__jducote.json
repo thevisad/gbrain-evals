@@ -1,0 +1,14 @@
+{
+  "slug": "people/jducote",
+  "type": "person",
+  "title": "Jducote",
+  "compiled_truth": "Jducote is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-02 to 2001-04-30), Jducote sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-03-02** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jducote",
+    "name": "Jducote",
+    "email": "jducote@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

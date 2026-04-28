@@ -1,0 +1,14 @@
+{
+  "slug": "people/dick-varner-eweb",
+  "type": "person",
+  "title": "Dick Varner",
+  "compiled_truth": "Dick Varner is an external contact at [Eweb](companies/eweb). Over the corpus period (2000-11-03 to 2001-05-01), Dick Varner sent 4 and received 28 emails, totalling 32 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (4), [Holli Krebs](people/holli-krebs) (2), [Bert Dunn](people/bert-dunn-eweb) (2).",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2001-05-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dick-varner-eweb",
+    "name": "Dick Varner",
+    "email": "dick.varner@eweb.eugene.or.us",
+    "primary_affiliation": "companies/eweb"
+  }
+}

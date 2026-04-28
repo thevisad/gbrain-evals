@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-bellinghausen",
+  "type": "person",
+  "title": "Susan Bellinghausen",
+  "compiled_truth": "Susan Bellinghausen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2002-05-06), Susan Bellinghausen sent 1 and received 31 emails, totalling 32 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1), [Kathy Kokas](people/kathy-kokas) (1), [Jim Pond](people/jim-pond) (1), [John Valdes](people/john-valdes) (1), [Rhonda Robinson](people/rhonda-robinson) (1).",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-bellinghausen",
+    "name": "Susan Bellinghausen",
+    "email": "susan.bellinghausen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

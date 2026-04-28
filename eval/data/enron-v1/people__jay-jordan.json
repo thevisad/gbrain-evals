@@ -1,0 +1,14 @@
+{
+  "slug": "people/jay-jordan",
+  "type": "person",
+  "title": "Jay Jordan",
+  "compiled_truth": "Jay Jordan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-02 to 2001-10-12), Jay Jordan sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jay-jordan",
+    "name": "Jay Jordan",
+    "email": "jay.jordan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

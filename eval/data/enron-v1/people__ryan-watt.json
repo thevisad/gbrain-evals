@@ -1,0 +1,14 @@
+{
+  "slug": "people/ryan-watt",
+  "type": "person",
+  "title": "Ryan Watt",
+  "compiled_truth": "Ryan Watt is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-09 to 2002-02-21), Ryan Watt sent 22 and received 157 emails, totalling 179 interactions. Top correspondents: [Chris Dorland](people/chris-dorland) (9), [Robin Rodrigue](people/robin-rodrigue) (7), [Chad Clark](people/chad-clark) (5), [Mike Cowan](people/mike-cowan) (5), [Chris Lambie](people/chris-lambie) (3). Mailbox folders observed: deleted_items, inbox, personal.",
+  "timeline": "- **2000-03-09** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ryan-watt",
+    "name": "Ryan Watt",
+    "email": "ryan.watt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

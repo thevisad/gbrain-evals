@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-armstrong",
+  "type": "person",
+  "title": "Randy Armstrong",
+  "compiled_truth": "Randy Armstrong is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2001-12-05), Randy Armstrong sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-armstrong",
+    "name": "Randy Armstrong",
+    "email": "randy.armstrong@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

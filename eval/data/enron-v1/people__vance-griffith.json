@@ -1,0 +1,14 @@
+{
+  "slug": "people/vance-griffith",
+  "type": "person",
+  "title": "Vance Griffith",
+  "compiled_truth": "Vance Griffith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-12-27), Vance Griffith sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vance-griffith",
+    "name": "Vance Griffith",
+    "email": "vance.griffith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

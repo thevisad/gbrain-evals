@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-lyons",
+  "type": "person",
+  "title": "Dan Lyons",
+  "compiled_truth": "Dan Lyons is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Dan Lyons sent 50 and received 528 emails, totalling 578 interactions. Top correspondents: [Kay Mann](people/kay-mann) (14), [Richard Sanders](people/richard-sanders) (14), [Mark Haedicke](people/mark-haedicke) (9), [Tmoore](people/tmoore-llgm) (6), [Tana Jones](people/tana-jones) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-lyons",
+    "name": "Dan Lyons",
+    "email": "dan.lyons@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

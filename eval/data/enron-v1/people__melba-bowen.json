@@ -1,0 +1,14 @@
+{
+  "slug": "people/melba-bowen",
+  "type": "person",
+  "title": "Melba Bowen",
+  "compiled_truth": "Melba Bowen is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-05-14), Melba Bowen sent 5 and received 43 emails, totalling 48 interactions. Top correspondents: [Phillip Love](people/phillip-love) (4), [Jim Little](people/jim-little) (2), [Chris Germany](people/chris-germany) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melba-bowen",
+    "name": "Melba Bowen",
+    "email": "melba.bowen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

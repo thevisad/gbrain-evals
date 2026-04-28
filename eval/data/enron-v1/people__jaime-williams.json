@@ -1,0 +1,14 @@
+{
+  "slug": "people/jaime-williams",
+  "type": "person",
+  "title": "Jaime Williams",
+  "compiled_truth": "Jaime Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-01 to 2002-05-02), Jaime Williams sent 52 and received 95 emails, totalling 147 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (29), [Steve Irvin](people/steve-irvin) (16), [Jaime Alatorre](people/jaime-alatorre) (7), [Sara Shackleton](people/sara-shackleton) (6), [Carol Clair](people/carol-clair) (6). Mailbox folders observed: 2002_budget, _americas, deleted_items, inbox.",
+  "timeline": "- **2000-02-01** | First recorded email in corpus\n- **2002-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jaime-williams",
+    "name": "Jaime Williams",
+    "email": "jaime.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

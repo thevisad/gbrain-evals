@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-roberts",
+  "type": "person",
+  "title": "Dave Roberts",
+  "compiled_truth": "Dave Roberts is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-17 to 2001-11-14), Dave Roberts sent 1 and received 34 emails, totalling 35 interactions. Top correspondents: [Lisa Jacobson](people/lisa-jacobson) (1), [Kevin Mcgowan](people/kevin-mcgowan) (1), [Daniel Reck](people/daniel-reck) (1), [Matt Goering](people/matt-goering) (1), [Stuart Staley](people/stuart-staley) (1).",
+  "timeline": "- **2001-01-17** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-roberts",
+    "name": "Dave Roberts",
+    "email": "dave.roberts@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

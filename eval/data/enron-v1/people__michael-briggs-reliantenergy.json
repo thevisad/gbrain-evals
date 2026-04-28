@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-briggs-reliantenergy",
+  "type": "person",
+  "title": "Michael-Briggs",
+  "compiled_truth": "Michael-Briggs is an external contact at [Reliant Energy](companies/reliant-energy). Over the corpus period (1999-11-22 to 2001-07-31), Michael-Briggs sent 0 and received 53 emails, totalling 53 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-briggs-reliantenergy",
+    "name": "Michael-Briggs",
+    "email": "michael-briggs@reliantenergy.com",
+    "primary_affiliation": "companies/reliant-energy"
+  }
+}

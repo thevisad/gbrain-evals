@@ -1,0 +1,14 @@
+{
+  "slug": "people/pfox-bracepatt",
+  "type": "person",
+  "title": "Pfox",
+  "compiled_truth": "Pfox is an external contact at [Bracewell & Patterson](companies/bracewell). Over the corpus period (2000-11-13 to 2001-09-27), Pfox sent 0 and received 89 emails, totalling 89 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-09-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pfox-bracepatt",
+    "name": "Pfox",
+    "email": "pfox@bracepatt.com",
+    "primary_affiliation": "companies/bracewell"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-berberian",
+  "type": "person",
+  "title": "David Berberian",
+  "compiled_truth": "David Berberian is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-10-12), David Berberian sent 1 and received 73 emails, totalling 74 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-berberian",
+    "name": "David Berberian",
+    "email": "david.berberian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

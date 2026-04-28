@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-kline-pge-corp",
+  "type": "person",
+  "title": "Steven Kline",
+  "compiled_truth": "Steven Kline is an external contact at [Pge-corp](companies/pge-corp). Over the corpus period (2000-04-10 to 2000-12-19), Steven Kline sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2000-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-kline-pge-corp",
+    "name": "Steven Kline",
+    "email": "steven.kline@pge-corp.com",
+    "primary_affiliation": "companies/pge-corp"
+  }
+}

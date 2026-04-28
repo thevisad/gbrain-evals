@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcdonough-sandra-pcp",
+  "type": "person",
+  "title": "Mcdonough Sandra",
+  "compiled_truth": "Mcdonough Sandra is an external contact at [Pcp](companies/pcp). Over the corpus period (1999-09-24 to 2001-01-26), Mcdonough Sandra sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-01-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcdonough-sandra-pcp",
+    "name": "Mcdonough Sandra",
+    "email": "mcdonough_sandra@pcp.ca",
+    "primary_affiliation": "companies/pcp"
+  }
+}

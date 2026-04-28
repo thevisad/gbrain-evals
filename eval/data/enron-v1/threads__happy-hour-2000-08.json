@@ -1,0 +1,26 @@
+{
+  "slug": "threads/happy-hour-2000-08",
+  "type": "meeting",
+  "title": "Thread: Happy Hour",
+  "compiled_truth": "Email thread: \"Happy Hour\". Ran from 2000-08-08 to 2000-09-08 with 9 messages. Participants: [Allison Mchenry](people/allison-mchenry), [Debra Perlingiere](people/debra-perlingiere), [Jball](people/jball-dlj), [Jennifer Shipos](people/jennifer-shipos), [John Arnold](people/john-arnold), [Julia White](people/julia-white), [Matt Smith](people/matt-smith), [Mkrenzer](people/mkrenzer-velaw).",
+  "timeline": "- **2000-08-08** | Thread begins: happy hour\n- **2000-09-08** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/happy-hour-2000-08",
+    "attendees": [
+      "people/allison-mchenry",
+      "people/debra-perlingiere",
+      "people/jball-dlj",
+      "people/jennifer-shipos",
+      "people/john-arnold",
+      "people/julia-white",
+      "people/matt-smith",
+      "people/mkrenzer-velaw",
+      "people/rick-dietz",
+      "people/rod-hayslett",
+      "people/russell-diamond",
+      "people/veronica-espinoza"
+    ],
+    "date": "2000-08-08"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ben-creighton",
+  "type": "person",
+  "title": "Ben Creighton",
+  "compiled_truth": "Ben Creighton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-28 to 2000-11-06), Ben Creighton sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2000-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ben-creighton",
+    "name": "Ben Creighton",
+    "email": "ben.creighton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

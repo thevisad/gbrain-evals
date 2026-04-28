@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-shankman",
+  "type": "person",
+  "title": "A  Shankman",
+  "compiled_truth": "A  Shankman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-30 to 2002-01-11), A  Shankman sent 332 and received 1044 emails, totalling 1376 interactions. Top correspondents: [Jennifer Burns](people/jennifer-burns) (38), [Mike McConnell](people/mike-mcconnell) (25), [Rick Buy](people/rick-buy) (19), [S  Bradford](people/s-bradford) (16), [Greg Whalley](people/greg-whalley) (16). Mailbox folders observed: _americas, deleted_items, inbox, old_email, personal, saved_mail.",
+  "timeline": "- **2001-01-30** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-shankman",
+    "name": "A  Shankman",
+    "email": "a..shankman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

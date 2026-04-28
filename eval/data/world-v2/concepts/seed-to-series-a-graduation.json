@@ -1,0 +1,31 @@
+{
+  "slug": "concepts/seed-to-series-a-graduation",
+  "type": "concept",
+  "title": "Seed to Series A Graduation",
+  "compiled_truth": "The seed to Series A graduation is the most consequential inflection point for infrastructure startups — it's where a compelling technical thesis has to become a fundable business. For companies like [Vellum Systems](companies/vellum-systems), this means translating early design partnerships and pilot deployments into repeatable revenue patterns that a Series A lead can underwrite with confidence. The graduation isn't a single moment; it's a narrative arc that typically spans 12–18 months and requires deliberate sequencing of technical milestones, customer proof points, and team buildout.\n\nAt the seed stage, infrastructure companies often have lopsided profiles: deep technical credibility but thin go-to-market signal. The job of the seed-to-A arc is to resolve that asymmetry. [Eli Nakamura](people/eli-nakamura) has talked about this in terms of \"closing the proof gap\" — the distance between what the founding team believes the technology can do and what a prospective Series A investor can verify from external evidence. Closing that gap requires not just logos, but usage data, expansion signals, and at least one customer who will get on a reference call and say something unrehearsed.\n\nThe metrics that matter vary by category but for deterministic data infrastructure the key indicators tend to be: number of production deployments (not pilots), data volume processed through single-pass primitives, net revenue retention among early cohorts, and pipeline coverage at 3x or better. [Blake Nowak](people/blake-nowak) at [Lacework Fund](companies/lacework-fund) has been vocal that he weights \"deployment density\" — how many distinct workloads a single customer runs through the system — more heavily than raw logo count. This makes intuitive sense for infrastructure plays where land-and-expand is the dominant motion.\n\nThe narrative component is underrated. A Series A deck needs to articulate why now, why this team, and why the wedge product leads to a platform. The best seed-to-A stories show a founder who started with a narrow, opinionated technical bet, validated it against real workloads, and is now ready to widen the aperture with Series A capital. The worst ones try to skip ahead — claiming platform status before they've earned it.\n\nOne common mistake is optimizing for vanity milestones that don't actually de-risk the business. A flashy partnership announcement or a conference keynote might generate buzz, but if the underlying usage metrics are flat, sophisticated investors will see through it. The graduation works when teh quantitative story and the qualitative narrative reinforce each other — when the numbers make the slides redundant.",
+  "timeline": [
+    "- **2026-06-15** | [Eli Nakamura](people/eli-nakamura) circulates internal memo at [Vellum Systems](companies/vellum-systems) outlining 14-month runway to Series A and key milestones needed to hit.",
+    "- **2026-09-22** | First production deployment at a mid-market customer passes 90-day retention threshold — a critical proof point for the seed-to-A narrative.",
+    "- **2026-12-03** | [Blake Nowak](people/blake-nowak) publishes a widely-shared post on infrastructure fundraising benchmarks, citing deployment density as a leading indicator for Series A readiness.",
+    "- **2027-01-18** | Vellum crosses $400K ARR with three production customers, entering the \"fundable zone\" that [Lacework Fund](companies/lacework-fund) has described in their thesis memos.",
+    "- **2027-03-10** | Eli presents seed-to-A framework at a closed-door founder dinner hosted by Lacework Fund in Portland. Slides later circulate among peer founders.",
+    "- **2027-05-07** | Vellum Systems begins formal Series A process, sharing a data room that emphasizes net retention and workload expansion metrics over topline ARR.",
+    "- **2027-06-28** | [Blake Nowak](people/blake-nowak) leads diligence calls with two Vellum reference customers; both confirm unprompted expansion plans for Q3.",
+    "- **2027-08-14** | [Vellum Systems](companies/vellum-systems) closes Series A. The round is positioned internally as validation of the 14-month graduation arc Eli outlined the prior summer.",
+    "- **2028-02-20** | Eli gives a retrospective talk at an infrastrucutre founders meetup, breaking down the specific metrics that moved the needle during the seed-to-A window."
+  ],
+  "_facts": {
+    "type": "concept",
+    "slug": "concepts/seed-to-series-a-graduation",
+    "name": "seed to Series A graduation",
+    "description": "The metrics and narrative arc that converts seed-stage traction into a fundable Series A story",
+    "related_companies": [
+      "companies/vellum-systems",
+      "companies/lacework-fund"
+    ],
+    "related_people": [
+      "people/eli-nakamura",
+      "people/blake-nowak"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/government-guests",
+  "type": "person",
+  "title": "Government Guests",
+  "compiled_truth": "Government Guests is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-26 to 2000-05-26), Government Guests sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-05-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/government-guests",
+    "name": "Government Guests",
+    "email": "government.guests@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

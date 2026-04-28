@@ -1,0 +1,14 @@
+{
+  "slug": "people/bgozz-yahoo",
+  "type": "person",
+  "title": "Bgozz",
+  "compiled_truth": "Bgozz is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2001-01-16 to 2001-04-27), Bgozz sent 4 and received 9 emails, totalling 13 interactions. Top correspondents: [Kevin Ruscitti](people/kevin-ruscitti) (4), [Curry Dee](people/curry-dee) (1), [Definis Rob](people/definis-rob) (1), [Doughty Ed](people/doughty-ed) (1), [Epstein Marvin](people/epstein-marvin) (1).",
+  "timeline": "- **2001-01-16** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bgozz-yahoo",
+    "name": "Bgozz",
+    "email": "bgozz@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-aldis",
+  "type": "person",
+  "title": "Laura Aldis",
+  "compiled_truth": "Laura Aldis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-18 to 2001-11-12), Laura Aldis sent 3 and received 10 emails, totalling 13 interactions. Top correspondents: [Cara Semperger](people/cara-semperger) (2), [Ann Murphy](people/ann-murphy) (1), [Casey Evans](people/casey-evans) (1), [W  White](people/w-white) (1), [Kate Symes](people/kate-symes) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-12-18** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-aldis",
+    "name": "Laura Aldis",
+    "email": "laura.aldis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-sorrells",
+  "type": "person",
+  "title": "John Sorrells",
+  "compiled_truth": "John Sorrells is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-31 to 2000-10-18), John Sorrells sent 5 and received 25 emails, totalling 30 interactions. Top correspondents: [Donna Lowry](people/donna-lowry) (5), [Richard Lauer](people/richard-lauer) (5), [Sally Beck](people/sally-beck) (5), [Ted Murphy](people/ted-murphy) (5), [Wes Colwell](people/wes-colwell) (5).",
+  "timeline": "- **2000-01-31** | First recorded email in corpus\n- **2000-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-sorrells",
+    "name": "John Sorrells",
+    "email": "john.sorrells@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

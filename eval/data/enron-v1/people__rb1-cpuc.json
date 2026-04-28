@@ -1,0 +1,14 @@
+{
+  "slug": "people/rb1-cpuc",
+  "type": "person",
+  "title": "Rb1",
+  "compiled_truth": "Rb1 is an external contact at [Cpuc](companies/cpuc). Over the corpus period (2000-05-31 to 2001-07-13), Rb1 sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-05-31** | First recorded email in corpus\n- **2001-07-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rb1-cpuc",
+    "name": "Rb1",
+    "email": "rb1@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

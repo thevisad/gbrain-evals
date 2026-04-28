@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffery-fawcett",
+  "type": "person",
+  "title": "Jeffery Fawcett",
+  "compiled_truth": "Jeffery Fawcett is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-30), Jeffery Fawcett sent 173 and received 1091 emails, totalling 1264 interactions. Top correspondents: [Susan Scott](people/susan-scott) (91), [Steven Harris](people/steven-harris) (88), [Kevin Hyatt](people/kevin-hyatt) (80), [Jeff Dasovich](people/jeff-dasovich) (69), [Lorraine Lindberg](people/lorraine-lindberg) (57). Mailbox folders observed: deleted_items, inbox, market_intel, projects, rm_science_review, tw.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffery-fawcett",
+    "name": "Jeffery Fawcett",
+    "email": "jeffery.fawcett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

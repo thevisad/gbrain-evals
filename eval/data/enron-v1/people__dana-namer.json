@@ -1,0 +1,14 @@
+{
+  "slug": "people/dana-namer",
+  "type": "person",
+  "title": "Dana Namer",
+  "compiled_truth": "Dana Namer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-12 to 2002-06-21), Dana Namer sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dana-namer",
+    "name": "Dana Namer",
+    "email": "dana.namer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mateo-vegalara",
+  "type": "person",
+  "title": "Mateo Vegalara",
+  "compiled_truth": "Mateo Vegalara is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2001-11-08), Mateo Vegalara sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mateo-vegalara",
+    "name": "Mateo Vegalara",
+    "email": "mateo.vegalara@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

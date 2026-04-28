@@ -1,0 +1,14 @@
+{
+  "slug": "people/rajeesh-sivaraman",
+  "type": "person",
+  "title": "Rajeesh Sivaraman",
+  "compiled_truth": "Rajeesh Sivaraman is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-28 to 1999-12-28), Rajeesh Sivaraman sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-12-28** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rajeesh-sivaraman",
+    "name": "Rajeesh Sivaraman",
+    "email": "rajeesh.sivaraman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

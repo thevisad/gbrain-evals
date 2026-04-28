@@ -1,0 +1,14 @@
+{
+  "slug": "people/p-durr",
+  "type": "person",
+  "title": "P  Durr",
+  "compiled_truth": "P  Durr is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2002-05-06), P  Durr sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/p-durr",
+    "name": "P  Durr",
+    "email": "p..durr@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bailey-karen",
+  "type": "person",
+  "title": "Bailey Karen",
+  "compiled_truth": "Bailey Karen is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Bailey Karen sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bailey-karen",
+    "name": "Bailey Karen",
+    "email": "bailey.karen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

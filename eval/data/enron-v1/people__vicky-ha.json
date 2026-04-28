@@ -1,0 +1,14 @@
+{
+  "slug": "people/vicky-ha",
+  "type": "person",
+  "title": "Vicky Ha",
+  "compiled_truth": "Vicky Ha is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-21 to 2001-11-28), Vicky Ha sent 1 and received 85 emails, totalling 86 interactions. Top correspondents: [David Parquet](people/david-parquet) (1), [Rob Bakondy](people/rob-bakondy) (1), [Cristina Zavala](people/cristina-zavala) (1), [April Hrach](people/april-hrach) (1), [Kelly Brodbeck](people/kelly-brodbeck) (1).",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vicky-ha",
+    "name": "Vicky Ha",
+    "email": "vicky.ha@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

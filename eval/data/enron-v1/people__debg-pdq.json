@@ -1,0 +1,14 @@
+{
+  "slug": "people/debg-pdq",
+  "type": "person",
+  "title": "Debg",
+  "compiled_truth": "Debg is an external contact at [Pdq](companies/pdq). Over the corpus period (2001-01-29 to 2001-05-09), Debg sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2001-01-29** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debg-pdq",
+    "name": "Debg",
+    "email": "debg@pdq.net",
+    "primary_affiliation": "companies/pdq"
+  }
+}

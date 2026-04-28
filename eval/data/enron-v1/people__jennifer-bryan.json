@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-bryan",
+  "type": "person",
+  "title": "Jennifer Bryan",
+  "compiled_truth": "Jennifer Bryan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-18 to 2001-11-30), Jennifer Bryan sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-bryan",
+    "name": "Jennifer Bryan",
+    "email": "jennifer.bryan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

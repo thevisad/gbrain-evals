@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-ellis-americas",
+  "type": "person",
+  "title": "George Ellis",
+  "compiled_truth": "George Ellis is an external contact at [Americas](companies/americas). Over the corpus period (2000-08-08 to 2002-05-13), George Ellis sent 81 and received 21 emails, totalling 102 interactions. Top correspondents: [George Ellis](people/george-ellis-americas) (6).",
+  "timeline": "- **2000-08-08** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-ellis-americas",
+    "name": "George Ellis",
+    "email": "george.ellis@americas.bnpparibas.com",
+    "primary_affiliation": "companies/americas"
+  }
+}

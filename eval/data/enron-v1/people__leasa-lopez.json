@@ -1,0 +1,14 @@
+{
+  "slug": "people/leasa-lopez",
+  "type": "person",
+  "title": "Leasa Lopez",
+  "compiled_truth": "Leasa Lopez is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-27), Leasa Lopez sent 2 and received 632 emails, totalling 634 interactions. Top correspondents: [James Steffes](people/james-steffes) (1), [Harry Kingerski](people/harry-kingerski) (1), [Jeff Dasovich](people/jeff-dasovich) (1), [Jklauber](people/jklauber-llgm) (1), [Minal Dalia](people/minal-dalia) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leasa-lopez",
+    "name": "Leasa Lopez",
+    "email": "leasa.lopez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

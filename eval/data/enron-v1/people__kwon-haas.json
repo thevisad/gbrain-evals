@@ -1,0 +1,14 @@
+{
+  "slug": "people/kwon-haas",
+  "type": "person",
+  "title": "Kwon",
+  "compiled_truth": "Kwon is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-09-04), Kwon sent 0 and received 61 emails, totalling 61 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kwon-haas",
+    "name": "Kwon",
+    "email": "kwon@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

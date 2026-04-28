@@ -1,0 +1,14 @@
+{
+  "slug": "people/r-conner",
+  "type": "person",
+  "title": "R  Conner",
+  "compiled_truth": "R  Conner is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-30 to 2002-05-06), R  Conner sent 2 and received 174 emails, totalling 176 interactions. Top correspondents: [Monika Causholli](people/monika-causholli) (2), [Darren Gurner](people/darren-gurner) (2), [Simon Cose](people/simon-cose) (2), [Bob Crane](people/bob-crane) (2), [Niclas Egmar](people/niclas-egmar) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/r-conner",
+    "name": "R  Conner",
+    "email": "r..conner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jonathan-le",
+  "type": "person",
+  "title": "Jonathan Le",
+  "compiled_truth": "Jonathan Le is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-30 to 2001-03-28), Jonathan Le sent 2 and received 12 emails, totalling 14 interactions. Top correspondents: [Debbie Brackett](people/debbie-brackett) (2), [Rudi Zipter](people/rudi-zipter) (2), [Ganapathy Ramesh](people/ganapathy-ramesh) (2), [Vincent Tang](people/vincent-tang) (2), [Vince Kaminski](people/vince-kaminski) (2).",
+  "timeline": "- **1999-11-30** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jonathan-le",
+    "name": "Jonathan Le",
+    "email": "jonathan.le@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

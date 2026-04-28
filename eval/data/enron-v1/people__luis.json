@@ -1,0 +1,14 @@
+{
+  "slug": "people/luis",
+  "type": "person",
+  "title": " Luis",
+  "compiled_truth": "Luis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-04 to 2001-06-05),  Luis sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-05-04** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/luis",
+    "name": " Luis",
+    "email": ".luis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

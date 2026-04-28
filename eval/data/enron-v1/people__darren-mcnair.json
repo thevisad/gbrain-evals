@@ -1,0 +1,14 @@
+{
+  "slug": "people/darren-mcnair",
+  "type": "person",
+  "title": "Darren Mcnair",
+  "compiled_truth": "Darren Mcnair is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-13), Darren Mcnair sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darren-mcnair",
+    "name": "Darren Mcnair",
+    "email": "darren.mcnair@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

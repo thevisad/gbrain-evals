@@ -1,0 +1,14 @@
+{
+  "slug": "people/joeadams-up",
+  "type": "person",
+  "title": "Joeadams",
+  "compiled_truth": "Joeadams is an external contact at [Up](companies/up). Over the corpus period (2001-09-17 to 2001-11-19), Joeadams sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joeadams-up",
+    "name": "Joeadams",
+    "email": "joeadams@up.com",
+    "primary_affiliation": "companies/up"
+  }
+}

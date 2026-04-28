@@ -1,0 +1,14 @@
+{
+  "slug": "people/cannon-deborah",
+  "type": "person",
+  "title": "Cannon Deborah",
+  "compiled_truth": "Cannon Deborah is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-13 to 2002-01-17), Cannon Deborah sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-13** | First recorded email in corpus\n- **2002-01-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cannon-deborah",
+    "name": "Cannon Deborah",
+    "email": "cannon.deborah@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

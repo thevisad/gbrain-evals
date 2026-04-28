@@ -1,0 +1,14 @@
+{
+  "slug": "people/charles-muzzy",
+  "type": "person",
+  "title": "Charles Muzzy",
+  "compiled_truth": "Charles Muzzy is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2001-05-11), Charles Muzzy sent 2 and received 101 emails, totalling 103 interactions. Top correspondents: [Mark Schrab](people/mark-schrab) (2), [Wally Frank](people/wally-frank-dvn) (1), [Rhedge01](people/rhedge01-sprintspectrum) (1), [Rjkoets](people/rjkoets-homeside) (1), [Mjolet](people/mjolet-swbell) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charles-muzzy",
+    "name": "Charles Muzzy",
+    "email": "charles.muzzy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

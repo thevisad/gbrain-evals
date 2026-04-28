@@ -1,0 +1,14 @@
+{
+  "slug": "people/welch-dave-provalue",
+  "type": "person",
+  "title": "Welch Dave",
+  "compiled_truth": "Welch Dave is an external contact at [Provalue](companies/provalue). Over the corpus period (2000-11-02 to 2001-09-24), Welch Dave sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/welch-dave-provalue",
+    "name": "Welch Dave",
+    "email": "welch_dave@provalue.net",
+    "primary_affiliation": "companies/provalue"
+  }
+}

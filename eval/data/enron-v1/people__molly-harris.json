@@ -1,0 +1,14 @@
+{
+  "slug": "people/molly-harris",
+  "type": "person",
+  "title": "Molly Harris",
+  "compiled_truth": "Molly Harris is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-04 to 2001-11-30), Molly Harris sent 83 and received 317 emails, totalling 400 interactions. Top correspondents: [Tana Jones](people/tana-jones) (71), [Frank Davis](people/frank-davis) (61), [Karen Lambert](people/karen-lambert) (61), [Samuel Schott](people/samuel-schott) (61), [Brant Reves](people/brant-reves) (61). Mailbox folders observed: deleted_items, inbox, security___collateral.",
+  "timeline": "- **1999-11-04** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/molly-harris",
+    "name": "Molly Harris",
+    "email": "molly.harris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

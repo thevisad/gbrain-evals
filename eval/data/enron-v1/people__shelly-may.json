@@ -1,0 +1,14 @@
+{
+  "slug": "people/shelly-may",
+  "type": "person",
+  "title": "Shelly May",
+  "compiled_truth": "Shelly May is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2000-10-03), Shelly May sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2000-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shelly-may",
+    "name": "Shelly May",
+    "email": "shelly.may@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

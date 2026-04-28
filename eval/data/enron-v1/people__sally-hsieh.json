@@ -1,0 +1,14 @@
+{
+  "slug": "people/sally-hsieh",
+  "type": "person",
+  "title": "Sally Hsieh",
+  "compiled_truth": "Sally Hsieh is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Sally Hsieh sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sally-hsieh",
+    "name": "Sally Hsieh",
+    "email": "sally.hsieh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

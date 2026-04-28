@@ -1,0 +1,14 @@
+{
+  "slug": "people/ramiro-carrizales",
+  "type": "person",
+  "title": "Ramiro Carrizales",
+  "compiled_truth": "Ramiro Carrizales is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-05-23), Ramiro Carrizales sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ramiro-carrizales",
+    "name": "Ramiro Carrizales",
+    "email": "ramiro.carrizales@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

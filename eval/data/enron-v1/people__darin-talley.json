@@ -1,0 +1,14 @@
+{
+  "slug": "people/darin-talley",
+  "type": "person",
+  "title": "Darin Talley",
+  "compiled_truth": "Darin Talley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-02 to 2001-12-28), Darin Talley sent 7 and received 42 emails, totalling 49 interactions. Top correspondents: [Mark Frank](people/mark-frank) (7), [Georgeanne Hodges](people/georgeanne-hodges) (7), [Faith Killen](people/faith-killen) (7), [Thomas Myers](people/thomas-myers) (6), [Jim Coffey](people/jim-coffey) (6). Mailbox folders observed: 2001_plan, _sent_mail.",
+  "timeline": "- **2000-03-02** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darin-talley",
+    "name": "Darin Talley",
+    "email": "darin.talley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

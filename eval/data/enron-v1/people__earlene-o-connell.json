@@ -1,0 +1,14 @@
+{
+  "slug": "people/earlene-o-connell",
+  "type": "person",
+  "title": "Earlene O'Connell",
+  "compiled_truth": "Earlene O'Connell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-22 to 2001-12-03), Earlene O'Connell sent 5 and received 129 emails, totalling 134 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (3), [Elizabeth Linnell](people/elizabeth-linnell) (2), [Barbara Hueter](people/barbara-hueter) (1), [Laurie Knight](people/laurie-knight) (1), [Janine Migden](people/janine-migden) (1). Mailbox folders observed: contributions.",
+  "timeline": "- **2000-02-22** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/earlene-o-connell",
+    "name": "Earlene O'Connell",
+    "email": "earlene.o'connell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lgurick-calpx",
+  "type": "person",
+  "title": "Lgurick",
+  "compiled_truth": "Lgurick is an external contact at [Calpx](companies/calpx). Over the corpus period (2000-11-10 to 2001-05-10), Lgurick sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lgurick-calpx",
+    "name": "Lgurick",
+    "email": "lgurick@calpx.com",
+    "primary_affiliation": "companies/calpx"
+  }
+}

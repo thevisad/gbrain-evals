@@ -1,0 +1,27 @@
+{
+  "slug": "threads/override-letter-2000-12",
+  "type": "meeting",
+  "title": "Thread: Override Letter",
+  "compiled_truth": "Email thread: \"Override Letter\". Ran from 2000-12-04 to 2000-12-22 with 17 messages. Participants: [Brett Wiggs](people/brett-wiggs), [John Ayres](people/john-ayres), [John Novak](people/john-novak), [Kay Mann](people/kay-mann), [Kent Shoemaker](people/kent-shoemaker-ae), [Lee Johnson](people/lee-johnson-ss), [Lisa Alfaro](people/lisa-alfaro), [Lisa Bills](people/lisa-bills).",
+  "timeline": "- **2000-12-04** | Thread begins: override letter\n- **2000-12-22** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/override-letter-2000-12",
+    "attendees": [
+      "people/brett-wiggs",
+      "people/john-ayres",
+      "people/john-novak",
+      "people/kay-mann",
+      "people/kent-shoemaker-ae",
+      "people/lee-johnson-ss",
+      "people/lisa-alfaro",
+      "people/lisa-bills",
+      "people/robtaylor-akllp",
+      "people/roseann-engeldorf",
+      "people/rtaylor-akllp",
+      "people/sheila-tweed",
+      "people/taylr-andrews-kurth"
+    ],
+    "date": "2000-12-04"
+  }
+}

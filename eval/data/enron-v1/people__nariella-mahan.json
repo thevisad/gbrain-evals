@@ -1,0 +1,14 @@
+{
+  "slug": "people/nariella-mahan",
+  "type": "person",
+  "title": "Nariella Mahan",
+  "compiled_truth": "Nariella Mahan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-17 to 2000-04-17), Nariella Mahan sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nariella-mahan",
+    "name": "Nariella Mahan",
+    "email": "nariella.mahan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

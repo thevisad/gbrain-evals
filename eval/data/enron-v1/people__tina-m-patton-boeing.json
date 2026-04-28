@@ -1,0 +1,14 @@
+{
+  "slug": "people/tina-m-patton-boeing",
+  "type": "person",
+  "title": "Tina M Patton",
+  "compiled_truth": "Tina M Patton is an external contact at [Boeing](companies/boeing). Over the corpus period (2000-03-30 to 2001-05-11), Tina M Patton sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tina-m-patton-boeing",
+    "name": "Tina M Patton",
+    "email": "tina.m.patton@boeing.com",
+    "primary_affiliation": "companies/boeing"
+  }
+}

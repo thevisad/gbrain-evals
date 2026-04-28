@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-swerzbin",
+  "type": "person",
+  "title": "Mike Swerzbin",
+  "compiled_truth": "Mike Swerzbin is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-22), Mike Swerzbin sent 75 and received 936 emails, totalling 1011 interactions. Top correspondents: [Jill Chatterton](people/jill-chatterton) (13), [Tim Belden](people/tim-belden) (13), [M  Driscoll](people/m-driscoll) (9), [Kathy Axford](people/kathy-axford) (9), [Debra Davidson](people/debra-davidson) (7). Mailbox folders observed: inbox, sent_items, to_do.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-swerzbin",
+    "name": "Mike Swerzbin",
+    "email": "mike.swerzbin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

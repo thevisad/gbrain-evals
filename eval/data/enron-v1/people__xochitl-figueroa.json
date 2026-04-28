@@ -1,0 +1,14 @@
+{
+  "slug": "people/xochitl-figueroa",
+  "type": "person",
+  "title": "Xochitl Figueroa",
+  "compiled_truth": "Xochitl Figueroa is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2002-01-10), Xochitl Figueroa sent 0 and received 81 emails, totalling 81 interactions.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/xochitl-figueroa",
+    "name": "Xochitl Figueroa",
+    "email": "xochitl.figueroa@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

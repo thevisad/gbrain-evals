@@ -1,0 +1,14 @@
+{
+  "slug": "people/matthew-jachimiak",
+  "type": "person",
+  "title": "Matthew Jachimiak",
+  "compiled_truth": "Matthew Jachimiak is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-30), Matthew Jachimiak sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matthew-jachimiak",
+    "name": "Matthew Jachimiak",
+    "email": "matthew.jachimiak@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

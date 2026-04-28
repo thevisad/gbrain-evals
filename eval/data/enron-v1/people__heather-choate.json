@@ -1,0 +1,14 @@
+{
+  "slug": "people/heather-choate",
+  "type": "person",
+  "title": "Heather Choate",
+  "compiled_truth": "Heather Choate is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-25), Heather Choate sent 51 and received 275 emails, totalling 326 interactions. Top correspondents: [Robert Superty](people/robert-superty) (20), [Daren Farmer](people/daren-farmer) (17), [Pat Clynes](people/pat-clynes) (14), [Sally Beck](people/sally-beck) (13), [George Smith](people/george-smith) (13). Mailbox folders observed: _americas, bankrupt, calendar, deleted_items, floorspace, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heather-choate",
+    "name": "Heather Choate",
+    "email": "heather.choate@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

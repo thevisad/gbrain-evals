@@ -1,0 +1,14 @@
+{
+  "slug": "people/energlaw-aol",
+  "type": "person",
+  "title": "Energlaw",
+  "compiled_truth": "Energlaw is an external contact at [AOL](companies/aol). Over the corpus period (2001-02-20 to 2001-04-27), Energlaw sent 0 and received 65 emails, totalling 65 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/energlaw-aol",
+    "name": "Energlaw",
+    "email": "energlaw@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

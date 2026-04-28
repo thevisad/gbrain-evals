@@ -1,0 +1,14 @@
+{
+  "slug": "people/wade-heidi",
+  "type": "person",
+  "title": "Wade Heidi",
+  "compiled_truth": "Wade Heidi is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2001-09-26), Wade Heidi sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wade-heidi",
+    "name": "Wade Heidi",
+    "email": "wade.heidi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

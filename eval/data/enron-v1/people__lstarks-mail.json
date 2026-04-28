@@ -1,0 +1,14 @@
+{
+  "slug": "people/lstarks-mail",
+  "type": "person",
+  "title": "Lstarks",
+  "compiled_truth": "Lstarks is an external contact at [Mail](companies/mail). Over the corpus period (1999-12-28 to 2001-03-06), Lstarks sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **1999-12-28** | First recorded email in corpus\n- **2001-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lstarks-mail",
+    "name": "Lstarks",
+    "email": "lstarks@mail.utexas.edu",
+    "primary_affiliation": "companies/mail"
+  }
+}

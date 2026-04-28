@@ -1,0 +1,14 @@
+{
+  "slug": "people/carol-iepa",
+  "type": "person",
+  "title": "Carol",
+  "compiled_truth": "Carol is an external contact at [Iepa](companies/iepa). Over the corpus period (2000-11-22 to 2001-12-21), Carol sent 23 and received 33 emails, totalling 56 interactions. Top correspondents: [Rllamkin](people/rllamkin-seiworldwide) (21), [Rescalante](people/rescalante-riobravo-gm) (21), [Gtbl](people/gtbl-dynegy) (21), [Jackp](people/jackp-calpine) (21), [Joer](people/joer-calpine) (21).",
+  "timeline": "- **2000-11-22** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carol-iepa",
+    "name": "Carol",
+    "email": "carol@iepa.com",
+    "primary_affiliation": "companies/iepa"
+  }
+}

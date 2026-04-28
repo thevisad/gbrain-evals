@@ -1,0 +1,14 @@
+{
+  "slug": "people/nadia-elektro",
+  "type": "person",
+  "title": "Nadia",
+  "compiled_truth": "Nadia is an external contact at [Elektro](companies/elektro). Over the corpus period (2000-06-13 to 2000-06-27), Nadia sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-06-13** | First recorded email in corpus\n- **2000-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nadia-elektro",
+    "name": "Nadia",
+    "email": "nadia@elektro.com.br",
+    "primary_affiliation": "companies/elektro"
+  }
+}

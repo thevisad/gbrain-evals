@@ -1,0 +1,14 @@
+{
+  "slug": "people/becky-tlucek",
+  "type": "person",
+  "title": "Becky Tlucek",
+  "compiled_truth": "Becky Tlucek is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-12-16 to 2000-12-15), Becky Tlucek sent 10 and received 233 emails, totalling 243 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (6), [Pat Radford](people/pat-radford) (5), [Kimberlee Bennick](people/kimberlee-bennick) (5), [Shawna Flynn](people/shawna-flynn) (5), [Mark Taylor](people/mark-taylor) (4).",
+  "timeline": "- **1998-12-16** | First recorded email in corpus\n- **2000-12-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/becky-tlucek",
+    "name": "Becky Tlucek",
+    "email": "becky.tlucek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-hickerson",
+  "type": "person",
+  "title": "Gary Hickerson",
+  "compiled_truth": "Gary Hickerson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-28), Gary Hickerson sent 16 and received 708 emails, totalling 724 interactions. Top correspondents: [A  Shankman](people/a-shankman) (8), [Greg Whalley](people/greg-whalley) (4), [Mike McConnell](people/mike-mcconnell) (4), [Jeffrey Shankman](people/jeffrey-shankman) (4), [Sara Shackleton](people/sara-shackleton) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-hickerson",
+    "name": "Gary Hickerson",
+    "email": "gary.hickerson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

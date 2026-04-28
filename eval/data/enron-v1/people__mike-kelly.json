@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-kelly",
+  "type": "person",
+  "title": "Mike Kelly",
+  "compiled_truth": "Mike Kelly is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2001-10-12), Mike Kelly sent 1 and received 78 emails, totalling 79 interactions. Top correspondents: [Christopher Ahn](people/christopher-ahn) (1), [Andres Balmaceda](people/andres-balmaceda) (1), [Bora Bariman](people/bora-bariman) (1), [Stephen Benchluch](people/stephen-benchluch) (1), [Ursula Brenner](people/ursula-brenner) (1).",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-kelly",
+    "name": "Mike Kelly",
+    "email": "mike.kelly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

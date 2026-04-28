@@ -1,0 +1,14 @@
+{
+  "slug": "people/norma-villarreal",
+  "type": "person",
+  "title": "Norma Villarreal",
+  "compiled_truth": "Norma Villarreal is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-12-03), Norma Villarreal sent 18 and received 162 emails, totalling 180 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (13), [Sheila Walton](people/sheila-walton) (6), [Mark Haedicke](people/mark-haedicke) (5), [Richard Sanders](people/richard-sanders) (5), [Shirley Crenshaw](people/shirley-crenshaw) (4). Mailbox folders observed: c.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/norma-villarreal",
+    "name": "Norma Villarreal",
+    "email": "norma.villarreal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

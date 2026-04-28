@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-schroeder",
+  "type": "person",
+  "title": "Jim Schroeder",
+  "compiled_truth": "Jim Schroeder is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-10 to 2002-03-13), Jim Schroeder sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-09-10** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-schroeder",
+    "name": "Jim Schroeder",
+    "email": "jim.schroeder@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

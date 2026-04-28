@@ -1,0 +1,14 @@
+{
+  "slug": "people/lhgas-hoegh",
+  "type": "person",
+  "title": "Lhgas",
+  "compiled_truth": "Lhgas is an external contact at [Hoegh](companies/hoegh). Over the corpus period (2001-03-15 to 2001-05-06), Lhgas sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **2001-03-15** | First recorded email in corpus\n- **2001-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lhgas-hoegh",
+    "name": "Lhgas",
+    "email": "lhgas@hoegh.no",
+    "primary_affiliation": "companies/hoegh"
+  }
+}

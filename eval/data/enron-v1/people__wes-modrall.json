@@ -1,0 +1,14 @@
+{
+  "slug": "people/wes-modrall",
+  "type": "person",
+  "title": "Wes",
+  "compiled_truth": "Wes is an external contact at [Modrall](companies/modrall). Over the corpus period (2000-03-16 to 2000-07-26), Wes sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-03-16** | First recorded email in corpus\n- **2000-07-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wes-modrall",
+    "name": "Wes",
+    "email": "wes@modrall.com",
+    "primary_affiliation": "companies/modrall"
+  }
+}

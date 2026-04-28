@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-blue-dynegy",
+  "type": "person",
+  "title": "Greg Blue",
+  "compiled_truth": "Greg Blue is an external contact at [Dynegy](companies/dynegy). Over the corpus period (2000-12-14 to 2001-11-20), Greg Blue sent 7 and received 1 emails, totalling 8 interactions. Top correspondents: [Cabaker](people/cabaker-duke-energy) (5), [Gtbl](people/gtbl-dynegy) (5), [Jackp](people/jackp-calpine) (5), [Joer](people/joer-calpine) (5), [Rllamkin](people/rllamkin-seiworldwide) (5).",
+  "timeline": "- **2000-12-14** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-blue-dynegy",
+    "name": "Greg Blue",
+    "email": "greg.blue@dynegy.com",
+    "primary_affiliation": "companies/dynegy"
+  }
+}

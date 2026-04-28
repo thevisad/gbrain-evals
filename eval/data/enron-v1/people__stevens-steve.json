@@ -1,0 +1,14 @@
+{
+  "slug": "people/stevens-steve",
+  "type": "person",
+  "title": "Stevens Steve",
+  "compiled_truth": "Stevens Steve is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-26 to 2001-06-26), Stevens Steve sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-06-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stevens-steve",
+    "name": "Stevens Steve",
+    "email": "stevens.steve@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

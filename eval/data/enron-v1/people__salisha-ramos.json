@@ -1,0 +1,14 @@
+{
+  "slug": "people/salisha-ramos",
+  "type": "person",
+  "title": "Salisha Ramos",
+  "compiled_truth": "Salisha Ramos is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-19), Salisha Ramos sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/salisha-ramos",
+    "name": "Salisha Ramos",
+    "email": "salisha.ramos@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

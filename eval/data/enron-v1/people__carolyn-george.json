@@ -1,0 +1,14 @@
+{
+  "slug": "people/carolyn-george",
+  "type": "person",
+  "title": "Carolyn George",
+  "compiled_truth": "Carolyn George is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-08 to 2001-12-19), Carolyn George sent 20 and received 427 emails, totalling 447 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (11), [Deb Korkmas](people/deb-korkmas) (9), [Travis Mccullough](people/travis-mccullough) (8), [Michelle Cash](people/michelle-cash) (7), [Dan Lyons](people/dan-lyons) (7). Mailbox folders observed: archive, deleted_items, inbox.",
+  "timeline": "- **2000-02-08** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carolyn-george",
+    "name": "Carolyn George",
+    "email": "carolyn.george@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

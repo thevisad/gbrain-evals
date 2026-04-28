@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristen-macadams",
+  "type": "person",
+  "title": "Kristen Macadams",
+  "compiled_truth": "Kristen Macadams is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-23 to 2001-11-12), Kristen Macadams sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-08-23** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristen-macadams",
+    "name": "Kristen Macadams",
+    "email": "kristen.macadams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

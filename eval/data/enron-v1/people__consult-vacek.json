@@ -1,0 +1,14 @@
+{
+  "slug": "people/consult-vacek",
+  "type": "person",
+  "title": "Consult",
+  "compiled_truth": "Consult is an external contact at [Vacek](companies/vacek). Over the corpus period (2000-07-17 to 2000-07-17), Consult sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/consult-vacek",
+    "name": "Consult",
+    "email": "consult@vacek.com",
+    "primary_affiliation": "companies/vacek"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/little-judithe",
+  "type": "person",
+  "title": "Little Judithe",
+  "compiled_truth": "Little Judithe is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Little Judithe sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/little-judithe",
+    "name": "Little Judithe",
+    "email": "little.judithe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

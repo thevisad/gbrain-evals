@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-lewis",
+  "type": "person",
+  "title": "James Lewis",
+  "compiled_truth": "James Lewis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2001-11-08), James Lewis sent 4 and received 742 emails, totalling 746 interactions. Top correspondents: [Don Black](people/don-black) (2), [John Nowlan](people/john-nowlan) (2), [Larry Lawyer](people/larry-lawyer) (2), [Mike McConnell](people/mike-mcconnell) (2), [Jeffrey Shankman](people/jeffrey-shankman) (2).",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-lewis",
+    "name": "James Lewis",
+    "email": "james.lewis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

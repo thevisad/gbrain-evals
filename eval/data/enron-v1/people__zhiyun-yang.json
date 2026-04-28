@@ -1,0 +1,14 @@
+{
+  "slug": "people/zhiyun-yang",
+  "type": "person",
+  "title": "Zhiyun Yang",
+  "compiled_truth": "Zhiyun Yang is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-03 to 2002-01-29), Zhiyun Yang sent 11 and received 59 emails, totalling 70 interactions. Top correspondents: [W  White](people/w-white) (9), [Norman Lee](people/norman-lee) (6), [John Postlethwaite](people/john-postlethwaite) (6), [Casey Evans](people/casey-evans) (6), [Wayne Vinson](people/wayne-vinson) (4). Mailbox folders observed: deleted_items, inbox, read.",
+  "timeline": "- **2001-01-03** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zhiyun-yang",
+    "name": "Zhiyun Yang",
+    "email": "zhiyun.yang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

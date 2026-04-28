@@ -1,0 +1,14 @@
+{
+  "slug": "people/oscar-rivera",
+  "type": "person",
+  "title": "Oscar Rivera",
+  "compiled_truth": "Oscar Rivera is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-05 to 2002-05-18), Oscar Rivera sent 2 and received 108 emails, totalling 110 interactions. Top correspondents: [Torrey Moorer](people/torrey-moorer) (2), [Jeffrey Gossett](people/jeffrey-gossett) (2), [William Kelly](people/william-kelly) (2), [Mark Fondren](people/mark-fondren) (2), [Matt Brown](people/matt-brown) (2).",
+  "timeline": "- **2000-10-05** | First recorded email in corpus\n- **2002-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/oscar-rivera",
+    "name": "Oscar Rivera",
+    "email": "oscar.rivera@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

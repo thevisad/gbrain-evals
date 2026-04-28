@@ -1,0 +1,14 @@
+{
+  "slug": "people/arshak-sarkissian",
+  "type": "person",
+  "title": "Arshak Sarkissian",
+  "compiled_truth": "Arshak Sarkissian is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-21 to 2002-03-29), Arshak Sarkissian sent 2 and received 35 emails, totalling 37 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (1), [Andrew Edison](people/andrew-edison) (1), [ Susan](people/susan) (1), [Bryan Garrett](people/bryan-garrett) (1), [Paul Racicot](people/paul-racicot) (1). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **2000-01-21** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/arshak-sarkissian",
+    "name": "Arshak Sarkissian",
+    "email": "arshak.sarkissian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

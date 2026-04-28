@@ -1,0 +1,14 @@
+{
+  "slug": "people/mpalmer",
+  "type": "person",
+  "title": "Mpalmer",
+  "compiled_truth": "Mpalmer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-25 to 2001-09-11), Mpalmer sent 0 and received 1105 emails, totalling 1105 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mpalmer",
+    "name": "Mpalmer",
+    "email": "mpalmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

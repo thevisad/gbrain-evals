@@ -1,0 +1,14 @@
+{
+  "slug": "people/cmartine-haas",
+  "type": "person",
+  "title": "Cmartine",
+  "compiled_truth": "Cmartine is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-02-25), Cmartine sent 0 and received 44 emails, totalling 44 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cmartine-haas",
+    "name": "Cmartine",
+    "email": "cmartine@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

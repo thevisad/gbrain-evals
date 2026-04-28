@@ -1,0 +1,14 @@
+{
+  "slug": "people/naveen-andrews",
+  "type": "person",
+  "title": "Naveen Andrews",
+  "compiled_truth": "Naveen Andrews is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-13 to 2002-02-07), Naveen Andrews sent 23 and received 122 emails, totalling 145 interactions. Top correspondents: [Tanya Tamarchenko](people/tanya-tamarchenko) (10), [Vince Kaminski](people/vince-kaminski) (10), [Vladimir Gorny](people/vladimir-gorny) (8), [David Port](people/david-port) (5), [Rick Buy](people/rick-buy) (4). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **2000-04-13** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/naveen-andrews",
+    "name": "Naveen Andrews",
+    "email": "naveen.andrews@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

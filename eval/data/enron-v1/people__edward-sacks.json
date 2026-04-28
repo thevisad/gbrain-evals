@@ -1,0 +1,14 @@
+{
+  "slug": "people/edward-sacks",
+  "type": "person",
+  "title": "Edward Sacks",
+  "compiled_truth": "Edward Sacks is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-07), Edward Sacks sent 102 and received 1626 emails, totalling 1728 interactions. Top correspondents: [Tracy Ngo](people/tracy-ngo) (38), [Sara Shackleton](people/sara-shackleton) (36), [Susan Bailey](people/susan-bailey) (19), [Tana Jones](people/tana-jones) (19), [Wendy Conwell](people/wendy-conwell) (16). Mailbox folders observed: _americas, credit, credit_issues, deleted_items, inbox, lt_contracts.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edward-sacks",
+    "name": "Edward Sacks",
+    "email": "edward.sacks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gale-ramsaran",
+  "type": "person",
+  "title": "Gale Ramsaran",
+  "compiled_truth": "Gale Ramsaran is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-08 to 2002-03-19), Gale Ramsaran sent 0 and received 76 emails, totalling 76 interactions.",
+  "timeline": "- **2000-08-08** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gale-ramsaran",
+    "name": "Gale Ramsaran",
+    "email": "gale.ramsaran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

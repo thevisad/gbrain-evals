@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-lowry",
+  "type": "person",
+  "title": "Jennifer Lowry",
+  "compiled_truth": "Jennifer Lowry is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2002-05-06), Jennifer Lowry sent 5 and received 26 emails, totalling 31 interactions. Top correspondents: [Group Dl-Ets](people/group-dl-ets) (5), [Maggie Matheson](people/maggie-matheson) (1), [Linda Trevino](people/linda-trevino) (1), [Ramona Betancourt](people/ramona-betancourt) (1), [Karen Brostad](people/karen-brostad) (1). Mailbox folders observed: deleted_items, itinerary_off_duty.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-lowry",
+    "name": "Jennifer Lowry",
+    "email": "jennifer.lowry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

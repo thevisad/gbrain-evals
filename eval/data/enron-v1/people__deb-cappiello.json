@@ -1,0 +1,14 @@
+{
+  "slug": "people/deb-cappiello",
+  "type": "person",
+  "title": "Deb Cappiello",
+  "compiled_truth": "Deb Cappiello is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2001-07-17), Deb Cappiello sent 2 and received 53 emails, totalling 55 interactions. Top correspondents: [Michael Bodnar](people/michael-bodnar) (2), [Sean Bolks](people/sean-bolks) (2), [Theresa Branney](people/theresa-branney) (2), [Craig Buehler](people/craig-buehler) (2), [Bob Burleson](people/bob-burleson) (2). Mailbox folders observed: expense_rpts__1997, order_637.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2001-07-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deb-cappiello",
+    "name": "Deb Cappiello",
+    "email": "deb.cappiello@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

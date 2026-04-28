@@ -1,0 +1,14 @@
+{
+  "slug": "people/mschaff-worldnet",
+  "type": "person",
+  "title": "Mschaff",
+  "compiled_truth": "Mschaff is an external contact at [Worldnet](companies/worldnet). Over the corpus period (2000-06-23 to 2001-04-26), Mschaff sent 0 and received 73 emails, totalling 73 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mschaff-worldnet",
+    "name": "Mschaff",
+    "email": "mschaff@worldnet.att.net",
+    "primary_affiliation": "companies/worldnet"
+  }
+}

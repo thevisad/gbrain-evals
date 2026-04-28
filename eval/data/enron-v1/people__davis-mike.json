@@ -1,0 +1,14 @@
+{
+  "slug": "people/davis-mike",
+  "type": "person",
+  "title": "Davis Mike",
+  "compiled_truth": "Davis Mike is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-17 to 2001-09-18), Davis Mike sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/davis-mike",
+    "name": "Davis Mike",
+    "email": "davis.mike@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

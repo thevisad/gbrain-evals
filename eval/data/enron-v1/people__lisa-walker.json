@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-walker",
+  "type": "person",
+  "title": "Lisa Walker",
+  "compiled_truth": "Lisa Walker is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-10), Lisa Walker sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-walker",
+    "name": "Lisa Walker",
+    "email": "lisa.walker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/youyi-feng",
+  "type": "person",
+  "title": "Youyi Feng",
+  "compiled_truth": "Youyi Feng is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-11 to 2001-08-21), Youyi Feng sent 3 and received 69 emails, totalling 72 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (1), [Sean Bolks](people/sean-bolks) (1), [Jim Wiltfong](people/jim-wiltfong) (1), [Don Powell](people/don-powell) (1), [Vince Kaminski](people/vince-kaminski) (1).",
+  "timeline": "- **2000-07-11** | First recorded email in corpus\n- **2001-08-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/youyi-feng",
+    "name": "Youyi Feng",
+    "email": "youyi.feng@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

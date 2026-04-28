@@ -1,0 +1,14 @@
+{
+  "slug": "people/shalesh-ganjoo",
+  "type": "person",
+  "title": "Shalesh Ganjoo",
+  "compiled_truth": "Shalesh Ganjoo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-10 to 2002-01-28), Shalesh Ganjoo sent 16 and received 126 emails, totalling 142 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (6), [Jeff Skilling](people/jeff-skilling) (5), [Rex Shelby](people/rex-shelby) (3), [Stinson Gibner](people/stinson-gibner) (3), [Mark S Palmer](people/mark-s-palmer) (2). Mailbox folders observed: c, calendar, deleted_items, inbox.",
+  "timeline": "- **2000-01-10** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shalesh-ganjoo",
+    "name": "Shalesh Ganjoo",
+    "email": "shalesh.ganjoo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

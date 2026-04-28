@@ -1,0 +1,25 @@
+{
+  "slug": "companies/industrialinfo",
+  "type": "company",
+  "title": "Industrialinfo",
+  "compiled_truth": "Industrialinfo is an external organization that appears in the Enron email corpus. Domain: industrialinfo.com. Total email interactions with Enron: 480. Known contacts: 8 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (480 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/industrialinfo",
+    "name": "Industrialinfo",
+    "employees": [
+      "people/amoneyhun-industrialinfo",
+      "people/customerservice-industrialinfo",
+      "people/evillanueva-industrialinfo",
+      "people/gelliott-industrialinfo",
+      "people/mailer-industrialinfo",
+      "people/outages-industrialinfo",
+      "people/pcopello-industrialinfo",
+      "people/tsalemme-industrialinfo"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

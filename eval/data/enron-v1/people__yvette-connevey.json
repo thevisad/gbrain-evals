@@ -1,0 +1,14 @@
+{
+  "slug": "people/yvette-connevey",
+  "type": "person",
+  "title": "Yvette Connevey",
+  "compiled_truth": "Yvette Connevey is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-04-30), Yvette Connevey sent 57 and received 203 emails, totalling 260 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (57), [Pat Clynes](people/pat-clynes) (50), [Rita Wynne](people/rita-wynne) (45), [Steve Venturatos](people/steve-venturatos) (44), [Mary Smith](people/mary-smith) (43).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yvette-connevey",
+    "name": "Yvette Connevey",
+    "email": "yvette.connevey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

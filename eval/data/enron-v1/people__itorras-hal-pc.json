@@ -1,0 +1,14 @@
+{
+  "slug": "people/itorras-hal-pc",
+  "type": "person",
+  "title": "Itorras",
+  "compiled_truth": "Itorras is an external contact at [Hal-pc](companies/hal-pc). Over the corpus period (2002-03-06 to 2002-03-14), Itorras sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2002-03-06** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/itorras-hal-pc",
+    "name": "Itorras",
+    "email": "itorras@hal-pc.org",
+    "primary_affiliation": "companies/hal-pc"
+  }
+}

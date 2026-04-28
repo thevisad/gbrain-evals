@@ -1,0 +1,14 @@
+{
+  "slug": "people/anand-wharton",
+  "type": "person",
+  "title": "Anand",
+  "compiled_truth": "Anand is an external contact at [Wharton](companies/wharton). Over the corpus period (2001-04-30 to 2001-04-30), Anand sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anand-wharton",
+    "name": "Anand",
+    "email": "anand@wharton.upenn.edu",
+    "primary_affiliation": "companies/wharton"
+  }
+}

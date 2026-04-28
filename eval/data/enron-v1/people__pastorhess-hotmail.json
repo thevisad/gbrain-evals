@@ -1,0 +1,14 @@
+{
+  "slug": "people/pastorhess-hotmail",
+  "type": "person",
+  "title": "Pastorhess",
+  "compiled_truth": "Pastorhess is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-09-04 to 2001-10-24), Pastorhess sent 3 and received 45 emails, totalling 48 interactions. Top correspondents: [Smu-Betas](people/smu-betas-yahoogroups) (3), [Jamie](people/jamie-shbc-tulsa) (1).",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pastorhess-hotmail",
+    "name": "Pastorhess",
+    "email": "pastorhess@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

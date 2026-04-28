@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenton-rlf",
+  "type": "person",
+  "title": "Kenton",
+  "compiled_truth": "Kenton is an external contact at [Rlf](companies/rlf). Over the corpus period (2000-03-16 to 2000-12-04), Kenton sent 0 and received 76 emails, totalling 76 interactions.",
+  "timeline": "- **2000-03-16** | First recorded email in corpus\n- **2000-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenton-rlf",
+    "name": "Kenton",
+    "email": "kenton@rlf.com",
+    "primary_affiliation": "companies/rlf"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dana-daigle",
+  "type": "person",
+  "title": "Dana Daigle",
+  "compiled_truth": "Dana Daigle is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-14 to 2000-06-30), Dana Daigle sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **2000-01-14** | First recorded email in corpus\n- **2000-06-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dana-daigle",
+    "name": "Dana Daigle",
+    "email": "dana.daigle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ted-bland",
+  "type": "person",
+  "title": "Ted Bland",
+  "compiled_truth": "Ted Bland is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-03 to 2001-06-13), Ted Bland sent 20 and received 147 emails, totalling 167 interactions. Top correspondents: [David Oxley](people/david-oxley) (12), [Sally Beck](people/sally-beck) (9), [John Lavorato](people/john-lavorato) (9), [Kevin Presto](people/kevin-presto) (8), [David Delainey](people/david-delainey) (8). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-06-03** | First recorded email in corpus\n- **2001-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ted-bland",
+    "name": "Ted Bland",
+    "email": "ted.bland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

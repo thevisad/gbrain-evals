@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-gregory",
+  "type": "person",
+  "title": "Paul Gregory",
+  "compiled_truth": "Paul Gregory is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-06-25), Paul Gregory sent 12 and received 100 emails, totalling 112 interactions. Top correspondents: [Mario Alonso](people/mario-alonso) (8), [Joel Bennett](people/joel-bennett) (8), [Peter Bennett](people/peter-bennett) (8), [Jason Brent](people/jason-brent) (8), [Richard Cross](people/richard-cross) (8). Mailbox folders observed: deleted_items, inbox, projects.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-gregory",
+    "name": "Paul Gregory",
+    "email": "paul.gregory@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

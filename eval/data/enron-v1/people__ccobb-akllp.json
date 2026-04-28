@@ -1,0 +1,14 @@
+{
+  "slug": "people/ccobb-akllp",
+  "type": "person",
+  "title": "Ccobb",
+  "compiled_truth": "Ccobb is an external contact at [Andrews Kurth](companies/andrews-kurth). Over the corpus period (2000-11-28 to 2001-01-17), Ccobb sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-01-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ccobb-akllp",
+    "name": "Ccobb",
+    "email": "ccobb@akllp.com",
+    "primary_affiliation": "companies/andrews-kurth"
+  }
+}

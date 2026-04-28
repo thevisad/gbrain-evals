@@ -1,0 +1,14 @@
+{
+  "slug": "people/ostdiek-rice",
+  "type": "person",
+  "title": "Ostdiek",
+  "compiled_truth": "Ostdiek is an external contact at [Rice](companies/rice). Over the corpus period (2000-01-27 to 2002-01-11), Ostdiek sent 18 and received 24 emails, totalling 42 interactions. Top correspondents: [Vince J Kaminski](people/vince-j-kaminski) (8), [J Kaminski](people/j-kaminski) (3), [Jgsfac](people/jgsfac-listserv) (2), [Vkaminski](people/vkaminski-aol) (1).",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ostdiek-rice",
+    "name": "Ostdiek",
+    "email": "ostdiek@rice.edu",
+    "primary_affiliation": "companies/rice"
+  }
+}

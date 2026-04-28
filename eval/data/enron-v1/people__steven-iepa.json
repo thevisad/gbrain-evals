@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-iepa",
+  "type": "person",
+  "title": "Steven",
+  "compiled_truth": "Steven is an external contact at [Iepa](companies/iepa). Over the corpus period (1999-11-02 to 2001-12-21), Steven sent 67 and received 147 emails, totalling 214 interactions. Top correspondents: [Cabaker](people/cabaker-duke-energy) (66), [Wfhall2](people/wfhall2-duke-energy) (65), [Steve Ponder](people/steve-ponder-fpl) (65), [Joer](people/joer-calpine) (65), [Jackp](people/jackp-calpine) (65).",
+  "timeline": "- **1999-11-02** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-iepa",
+    "name": "Steven",
+    "email": "steven@iepa.com",
+    "primary_affiliation": "companies/iepa"
+  }
+}

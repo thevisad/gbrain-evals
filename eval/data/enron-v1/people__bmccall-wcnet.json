@@ -1,0 +1,14 @@
+{
+  "slug": "people/bmccall-wcnet",
+  "type": "person",
+  "title": "Bmccall",
+  "compiled_truth": "Bmccall is an external contact at [Wcnet](companies/wcnet). Over the corpus period (2000-07-31 to 2002-05-09), Bmccall sent 2 and received 40 emails, totalling 42 interactions. Top correspondents: [Kay Mann](people/kay-mann) (2).",
+  "timeline": "- **2000-07-31** | First recorded email in corpus\n- **2002-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bmccall-wcnet",
+    "name": "Bmccall",
+    "email": "bmccall@wcnet.net",
+    "primary_affiliation": "companies/wcnet"
+  }
+}

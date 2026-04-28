@@ -1,0 +1,14 @@
+{
+  "slug": "people/vince-kaminski",
+  "type": "person",
+  "title": "Vince Kaminski",
+  "compiled_truth": "Vince Kaminski is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-29), Vince Kaminski sent 7474 and received 2549 emails, totalling 10023 interactions. Top correspondents: [Vkaminski](people/vkaminski-aol) (2495), [Shirley Crenshaw](people/shirley-crenshaw) (1110), [Stinson Gibner](people/stinson-gibner) (520), [Vasant Shanbhogue](people/vasant-shanbhogue) (226), [Mike Roberts](people/mike-roberts) (180). Mailbox folders observed: _sent_mail, c, conferences, consultants, credit, discussion_threads.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vince-kaminski",
+    "name": "Vince Kaminski",
+    "email": "vince.kaminski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

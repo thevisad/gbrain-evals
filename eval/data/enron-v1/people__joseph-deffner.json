@@ -1,0 +1,14 @@
+{
+  "slug": "people/joseph-deffner",
+  "type": "person",
+  "title": "Joseph Deffner",
+  "compiled_truth": "Joseph Deffner is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-07), Joseph Deffner sent 63 and received 397 emails, totalling 460 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (54), [Wes Colwell](people/wes-colwell) (4), [Rick Buy](people/rick-buy) (3), [John Lavorato](people/john-lavorato) (3), [David Duran](people/david-duran) (2). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joseph-deffner",
+    "name": "Joseph Deffner",
+    "email": "joseph.deffner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-walker",
+  "type": "person",
+  "title": "Chris Walker",
+  "compiled_truth": "Chris Walker is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-13 to 2002-02-13), Chris Walker sent 57 and received 424 emails, totalling 481 interactions. Top correspondents: [Kevin Meredith](people/kevin-meredith) (36), [Melba Lozano](people/melba-lozano) (30), [Jeff Blumenthal](people/jeff-blumenthal) (24), [Tom Moran](people/tom-moran) (24), [Lisa Lees](people/lisa-lees) (24). Mailbox folders observed: bill_williams_iii, credit, deleted_items, eolml7, inbox, ml7_eol_product.",
+  "timeline": "- **1999-08-13** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-walker",
+    "name": "Chris Walker",
+    "email": "chris.walker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

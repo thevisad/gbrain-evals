@@ -1,0 +1,14 @@
+{
+  "slug": "people/lani-pennington",
+  "type": "person",
+  "title": "Lani Pennington",
+  "compiled_truth": "Lani Pennington is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-02-12), Lani Pennington sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lani-pennington",
+    "name": "Lani Pennington",
+    "email": "lani.pennington@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/debra-weir",
+  "type": "person",
+  "title": "Debra Weir",
+  "compiled_truth": "Debra Weir is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-12 to 2002-03-18), Debra Weir sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [Joe Stepenovitch](people/joe-stepenovitch) (1).",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debra-weir",
+    "name": "Debra Weir",
+    "email": "debra.weir@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

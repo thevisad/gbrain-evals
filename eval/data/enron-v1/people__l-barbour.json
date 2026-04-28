@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-barbour",
+  "type": "person",
+  "title": "L  Barbour",
+  "compiled_truth": "L  Barbour is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-15 to 2001-11-27), L  Barbour sent 2 and received 40 emails, totalling 42 interactions. Top correspondents: [Chip Schneider](people/chip-schneider) (2), [Bjorn Hagelmann](people/bjorn-hagelmann) (1), [Tanya Rohauer](people/tanya-rohauer) (1), [Ken Curry](people/ken-curry) (1), [Lou Stoler](people/lou-stoler) (1). Mailbox folders observed: calendar, inbox.",
+  "timeline": "- **2001-03-15** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-barbour",
+    "name": "L  Barbour",
+    "email": "l..barbour@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

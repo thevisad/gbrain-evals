@@ -1,0 +1,14 @@
+{
+  "slug": "people/mags-cape",
+  "type": "person",
+  "title": "Mags",
+  "compiled_truth": "Mags is an external contact at [Cape](companies/cape). Over the corpus period (2001-10-18 to 2001-10-18), Mags sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mags-cape",
+    "name": "Mags",
+    "email": "mags@cape.com",
+    "primary_affiliation": "companies/cape"
+  }
+}

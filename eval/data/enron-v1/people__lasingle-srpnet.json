@@ -1,0 +1,14 @@
+{
+  "slug": "people/lasingle-srpnet",
+  "type": "person",
+  "title": "Lasingle",
+  "compiled_truth": "Lasingle is an external contact at [Srpnet](companies/srpnet). Over the corpus period (2001-07-25 to 2001-07-25), Lasingle sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lasingle-srpnet",
+    "name": "Lasingle",
+    "email": "lasingle@srpnet.com",
+    "primary_affiliation": "companies/srpnet"
+  }
+}

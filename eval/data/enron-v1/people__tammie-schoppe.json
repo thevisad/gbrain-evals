@@ -1,0 +1,14 @@
+{
+  "slug": "people/tammie-schoppe",
+  "type": "person",
+  "title": "Tammie Schoppe",
+  "compiled_truth": "Tammie Schoppe is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-21), Tammie Schoppe sent 114 and received 1004 emails, totalling 1118 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (86), [S  Shively](people/s-shively) (11), [M  Presto](people/m-presto) (11), [F  Calger](people/f-calger) (10), [Rob Milnthorp](people/rob-milnthorp) (10). Mailbox folders observed: 1., _americas, calendar, contacts, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tammie-schoppe",
+    "name": "Tammie Schoppe",
+    "email": "tammie.schoppe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

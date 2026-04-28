@@ -1,0 +1,14 @@
+{
+  "slug": "people/anncrawford-aec",
+  "type": "person",
+  "title": "Anncrawford",
+  "compiled_truth": "Anncrawford is an external contact at [Aec](companies/aec). Over the corpus period (2000-10-24 to 2001-05-10), Anncrawford sent 17 and received 19 emails, totalling 36 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (17), [Brianday](people/brianday-aec) (4), [Keithmcclelland](people/keithmcclelland-aec) (4), [Ryanmcgeachie](people/ryanmcgeachie-aec) (4), [Danielahorth](people/danielahorth-aec) (3).",
+  "timeline": "- **2000-10-24** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anncrawford-aec",
+    "name": "Anncrawford",
+    "email": "anncrawford@aec.ca",
+    "primary_affiliation": "companies/aec"
+  }
+}

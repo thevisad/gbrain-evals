@@ -1,0 +1,14 @@
+{
+  "slug": "people/stinson-gibner",
+  "type": "person",
+  "title": "Stinson Gibner",
+  "compiled_truth": "Stinson Gibner is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-25 to 2001-10-12), Stinson Gibner sent 129 and received 1056 emails, totalling 1185 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (123), [Shirley Crenshaw](people/shirley-crenshaw) (18), [Zimin Lu](people/zimin-lu) (14), [Ravi Thuraisingham](people/ravi-thuraisingham) (11), [Pinnamaneni Krishnarao](people/pinnamaneni-krishnarao) (9). Mailbox folders observed: c, consultants, discussion_threads, inbox.",
+  "timeline": "- **1999-05-25** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stinson-gibner",
+    "name": "Stinson Gibner",
+    "email": "stinson.gibner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

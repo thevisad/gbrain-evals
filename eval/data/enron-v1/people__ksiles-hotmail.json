@@ -1,0 +1,14 @@
+{
+  "slug": "people/ksiles-hotmail",
+  "type": "person",
+  "title": "Ksiles",
+  "compiled_truth": "Ksiles is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-11-06 to 2001-11-27), Ksiles sent 6 and received 54 emails, totalling 60 interactions. Top correspondents: [Matt Smith](people/matt-smith) (5).",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ksiles-hotmail",
+    "name": "Ksiles",
+    "email": "ksiles@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

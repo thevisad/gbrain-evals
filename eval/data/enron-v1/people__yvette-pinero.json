@@ -1,0 +1,14 @@
+{
+  "slug": "people/yvette-pinero",
+  "type": "person",
+  "title": "Yvette Pinero",
+  "compiled_truth": "Yvette Pinero is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-16), Yvette Pinero sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yvette-pinero",
+    "name": "Yvette Pinero",
+    "email": "yvette.pinero@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

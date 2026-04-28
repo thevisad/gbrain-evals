@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-harris",
+  "type": "person",
+  "title": "Paul Harris",
+  "compiled_truth": "Paul Harris is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-11-09), Paul Harris sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-harris",
+    "name": "Paul Harris",
+    "email": "paul.harris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

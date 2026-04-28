@@ -1,0 +1,14 @@
+{
+  "slug": "people/kostyantyn-boryshpol",
+  "type": "person",
+  "title": "Kostyantyn Boryshpol",
+  "compiled_truth": "Kostyantyn Boryshpol is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-21 to 2001-11-12), Kostyantyn Boryshpol sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-07-21** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kostyantyn-boryshpol",
+    "name": "Kostyantyn Boryshpol",
+    "email": "kostyantyn.boryshpol@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

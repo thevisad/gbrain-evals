@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-goodell",
+  "type": "person",
+  "title": "Scott Goodell",
+  "compiled_truth": "Scott Goodell is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-28), Scott Goodell sent 56 and received 1190 emails, totalling 1246 interactions. Top correspondents: [Chris Germany](people/chris-germany) (45), [Jporte1](people/jporte1-columbiaenergygroup) (12), [Dick Jenkins](people/dick-jenkins) (10), [Joann Collins](people/joann-collins) (7), [Dkinney](people/dkinney-columbiaenergygroup) (6). Mailbox folders observed: deleted_items, inbox, ubswenergy_com.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-goodell",
+    "name": "Scott Goodell",
+    "email": "scott.goodell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

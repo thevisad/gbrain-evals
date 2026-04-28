@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-walt",
+  "type": "person",
+  "title": "John Walt",
+  "compiled_truth": "John Walt is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-11-30), John Walt sent 1 and received 78 emails, totalling 79 interactions. Top correspondents: [Vasant Shanbhogue](people/vasant-shanbhogue) (1), [Shirley Crenshaw](people/shirley-crenshaw) (1), [Lexi Elliott](people/lexi-elliott) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-walt",
+    "name": "John Walt",
+    "email": "john.walt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

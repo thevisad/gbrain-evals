@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebekah-rushing",
+  "type": "person",
+  "title": "Rebekah Rushing",
+  "compiled_truth": "Rebekah Rushing is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-29 to 2001-11-17), Rebekah Rushing sent 7 and received 47 emails, totalling 54 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (3), [Ken Rice](people/ken-rice) (3), [Kenneth Lay](people/kenneth-lay) (2), [Amin Maredia](people/amin-maredia) (2), [Andrew Marsden](people/andrew-marsden) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-02-29** | First recorded email in corpus\n- **2001-11-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebekah-rushing",
+    "name": "Rebekah Rushing",
+    "email": "rebekah.rushing@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

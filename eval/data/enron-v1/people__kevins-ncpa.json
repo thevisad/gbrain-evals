@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevins-ncpa",
+  "type": "person",
+  "title": "Kevins",
+  "compiled_truth": "Kevins is an external contact at [Ncpa](companies/ncpa). Over the corpus period (2000-08-15 to 2001-12-21), Kevins sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **2000-08-15** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevins-ncpa",
+    "name": "Kevins",
+    "email": "kevins@ncpa.com",
+    "primary_affiliation": "companies/ncpa"
+  }
+}

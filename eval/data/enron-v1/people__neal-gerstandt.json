@@ -1,0 +1,14 @@
+{
+  "slug": "people/neal-gerstandt",
+  "type": "person",
+  "title": "Neal Gerstandt",
+  "compiled_truth": "Neal Gerstandt is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-12 to 2001-10-19), Neal Gerstandt sent 5 and received 54 emails, totalling 59 interactions. Top correspondents: [Eric Gonzales](people/eric-gonzales) (4), [Guido Caranti](people/guido-caranti) (4), [Emilio Vicens](people/emilio-vicens) (4), [Tom Briggs](people/tom-briggs) (3), [Mike McConnell](people/mike-mcconnell) (3). Mailbox folders observed: venezuela_colombia.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/neal-gerstandt",
+    "name": "Neal Gerstandt",
+    "email": "neal.gerstandt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

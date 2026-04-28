@@ -1,0 +1,14 @@
+{
+  "slug": "people/maria-rosario-db",
+  "type": "person",
+  "title": "Maria Rosario",
+  "compiled_truth": "Maria Rosario is an external contact at [Db](companies/db). Over the corpus period (2000-09-27 to 2001-06-04), Maria Rosario sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-09-27** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maria-rosario-db",
+    "name": "Maria Rosario",
+    "email": "maria.rosario@db.com",
+    "primary_affiliation": "companies/db"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/green-melinda",
+  "type": "person",
+  "title": "Green Melinda",
+  "compiled_truth": "Green Melinda is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Green Melinda sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/green-melinda",
+    "name": "Green Melinda",
+    "email": "green.melinda@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

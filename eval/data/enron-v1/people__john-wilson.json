@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-wilson",
+  "type": "person",
+  "title": "John Wilson",
+  "compiled_truth": "John Wilson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-08 to 2001-12-18), John Wilson sent 1 and received 44 emails, totalling 45 interactions. Top correspondents: [Tana Jones](people/tana-jones) (1).",
+  "timeline": "- **2000-08-08** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-wilson",
+    "name": "John Wilson",
+    "email": "john.wilson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

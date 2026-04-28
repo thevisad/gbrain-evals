@@ -1,0 +1,14 @@
+{
+  "slug": "people/sjarsky-pn",
+  "type": "person",
+  "title": "Sjarsky",
+  "compiled_truth": "Sjarsky is an external contact at [Pn](companies/pn). Over the corpus period (2000-06-21 to 2000-07-10), Sjarsky sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2000-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sjarsky-pn",
+    "name": "Sjarsky",
+    "email": "sjarsky@pn.usbr.gov",
+    "primary_affiliation": "companies/pn"
+  }
+}

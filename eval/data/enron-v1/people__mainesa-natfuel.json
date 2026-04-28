@@ -1,0 +1,14 @@
+{
+  "slug": "people/mainesa-natfuel",
+  "type": "person",
+  "title": "Mainesa",
+  "compiled_truth": "Mainesa is an external contact at [Natfuel](companies/natfuel). Over the corpus period (2001-05-17 to 2002-01-10), Mainesa sent 26 and received 4 emails, totalling 30 interactions. Top correspondents: [Darren Espey](people/darren-espey) (24), [Paul Tate](people/paul-tate) (20), [Chris Germany](people/chris-germany) (17), [Hormeljw](people/hormeljw-bp) (1), [George Caouette](people/george-caouette-br-inc) (1).",
+  "timeline": "- **2001-05-17** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mainesa-natfuel",
+    "name": "Mainesa",
+    "email": "mainesa@natfuel.com",
+    "primary_affiliation": "companies/natfuel"
+  }
+}

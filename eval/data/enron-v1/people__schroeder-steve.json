@@ -1,0 +1,14 @@
+{
+  "slug": "people/schroeder-steve",
+  "type": "person",
+  "title": "Schroeder Steve",
+  "compiled_truth": "Schroeder Steve is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-26 to 2001-10-29), Schroeder Steve sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-10-26** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/schroeder-steve",
+    "name": "Schroeder Steve",
+    "email": "schroeder.steve@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

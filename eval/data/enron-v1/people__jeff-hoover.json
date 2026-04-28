@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-hoover",
+  "type": "person",
+  "title": "Jeff Hoover",
+  "compiled_truth": "Jeff Hoover is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2001-05-08), Jeff Hoover sent 4 and received 26 emails, totalling 30 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (3), [Louise Kitchen](people/louise-kitchen) (1), [Charles Ward](people/charles-ward) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-hoover",
+    "name": "Jeff Hoover",
+    "email": "jeff.hoover@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

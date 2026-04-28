@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebecca-serwin",
+  "type": "person",
+  "title": "Rebecca Serwin",
+  "compiled_truth": "Rebecca Serwin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-22 to 2001-10-19), Rebecca Serwin sent 3 and received 10 emails, totalling 13 interactions. Top correspondents: [Rodney Malcolm](people/rodney-malcolm) (3), [Eric Holzer](people/eric-holzer) (3), [Rainier Cockrell](people/rainier-cockrell) (3), [Drew Kanellopoulos](people/drew-kanellopoulos) (3), [Brad Kirchhofer](people/brad-kirchhofer) (3).",
+  "timeline": "- **2000-06-22** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebecca-serwin",
+    "name": "Rebecca Serwin",
+    "email": "rebecca.serwin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

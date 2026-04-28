@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-comstock",
+  "type": "person",
+  "title": "Steve Comstock",
+  "compiled_truth": "Steve Comstock is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-16 to 2002-02-28), Steve Comstock sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-05-16** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-comstock",
+    "name": "Steve Comstock",
+    "email": "steve.comstock@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/doug-leach",
+  "type": "person",
+  "title": "Doug Leach",
+  "compiled_truth": "Doug Leach is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-24), Doug Leach sent 62 and received 148 emails, totalling 210 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (15), [Rick Buy](people/rick-buy) (9), [A  Shankman](people/a-shankman) (7), [Michael Robison](people/michael-robison) (7), [Tom Moran](people/tom-moran) (6). Mailbox folders observed: _americas, deleted_items, discussion_threads, ft__pierce, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/doug-leach",
+    "name": "Doug Leach",
+    "email": "doug.leach@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

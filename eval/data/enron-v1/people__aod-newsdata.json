@@ -1,0 +1,14 @@
+{
+  "slug": "people/aod-newsdata",
+  "type": "person",
+  "title": "Aod",
+  "compiled_truth": "Aod is an external contact at [Newsdata](companies/newsdata). Over the corpus period (1999-10-04 to 2001-12-19), Aod sent 9 and received 104 emails, totalling 113 interactions. Top correspondents: [Alb](people/alb-cpuc) (3), [Western Price Survey Contacts](people/western-price-survey-contacts-ren-6) (2), [Western Price Survey Contacts](people/western-price-survey-contacts-ren-8) (2), [Jeff Dasovich](people/jeff-dasovich) (2), [Western Price Survey Contacts](people/western-price-survey-contacts-proxy4) (1).",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aod-newsdata",
+    "name": "Aod",
+    "email": "aod@newsdata.com",
+    "primary_affiliation": "companies/newsdata"
+  }
+}

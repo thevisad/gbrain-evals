@@ -1,0 +1,14 @@
+{
+  "slug": "people/fjfowler-duke-energy",
+  "type": "person",
+  "title": "Fjfowler",
+  "compiled_truth": "Fjfowler is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-11-13 to 2001-12-18), Fjfowler sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fjfowler-duke-energy",
+    "name": "Fjfowler",
+    "email": "fjfowler@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

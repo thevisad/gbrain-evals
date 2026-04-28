@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-kolb",
+  "type": "person",
+  "title": "Joe Kolb",
+  "compiled_truth": "Joe Kolb is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-09 to 2001-09-24), Joe Kolb sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **1999-08-09** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-kolb",
+    "name": "Joe Kolb",
+    "email": "joe.kolb@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

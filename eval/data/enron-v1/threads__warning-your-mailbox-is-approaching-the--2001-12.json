@@ -1,0 +1,21 @@
+{
+  "slug": "threads/warning-your-mailbox-is-approaching-the--2001-12",
+  "type": "meeting",
+  "title": "Thread: Warning: Your Mailbox Is Approaching The Size Limit",
+  "compiled_truth": "Email thread: \"Warning: Your Mailbox Is Approaching The Size Limit\". Ran from 2001-12-01 to 2001-12-28 with 47 messages. Participants: [B  Sanders](people/b-sanders), [Don Baughman](people/don-baughman), [Elizabeth Sager](people/elizabeth-sager), [Exchange Administrator](people/exchange-administrator), [Kay Mann](people/kay-mann), [Mike Swerzbin](people/mike-swerzbin), [Theresa Staab](people/theresa-staab).",
+  "timeline": "- **2001-12-01** | Thread begins: warning: your mailbox is approaching the size limit\n- **2001-12-28** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/warning-your-mailbox-is-approaching-the--2001-12",
+    "attendees": [
+      "people/b-sanders",
+      "people/don-baughman",
+      "people/elizabeth-sager",
+      "people/exchange-administrator",
+      "people/kay-mann",
+      "people/mike-swerzbin",
+      "people/theresa-staab"
+    ],
+    "date": "2001-12-01"
+  }
+}

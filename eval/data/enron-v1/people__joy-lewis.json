@@ -1,0 +1,14 @@
+{
+  "slug": "people/joy-lewis",
+  "type": "person",
+  "title": "Joy Lewis",
+  "compiled_truth": "Joy Lewis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-28 to 2002-03-25), Joy Lewis sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2001-09-28** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joy-lewis",
+    "name": "Joy Lewis",
+    "email": "joy.lewis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

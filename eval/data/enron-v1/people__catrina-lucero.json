@@ -1,0 +1,14 @@
+{
+  "slug": "people/catrina-lucero",
+  "type": "person",
+  "title": "Catrina Lucero",
+  "compiled_truth": "Catrina Lucero is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-31 to 2001-12-07), Catrina Lucero sent 3 and received 8 emails, totalling 11 interactions. Top correspondents: [Theresa Staab](people/theresa-staab) (3). Mailbox folders observed: crestone.",
+  "timeline": "- **2001-08-31** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/catrina-lucero",
+    "name": "Catrina Lucero",
+    "email": "catrina.lucero@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

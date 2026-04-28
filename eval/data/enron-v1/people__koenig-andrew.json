@@ -1,0 +1,14 @@
+{
+  "slug": "people/koenig-andrew",
+  "type": "person",
+  "title": "Koenig Andrew",
+  "compiled_truth": "Koenig Andrew is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-08 to 2002-01-11), Koenig Andrew sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/koenig-andrew",
+    "name": "Koenig Andrew",
+    "email": "koenig.andrew@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

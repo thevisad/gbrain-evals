@@ -1,0 +1,14 @@
+{
+  "slug": "people/nancy-hilton",
+  "type": "person",
+  "title": "Nancy Hilton",
+  "compiled_truth": "Nancy Hilton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-22 to 2001-11-12), Nancy Hilton sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [Ben Smith](people/ben-smith) (1), [Cheryl Dawes](people/cheryl-dawes) (1), [Cory Crofton](people/cory-crofton) (1), [Faith Killen](people/faith-killen) (1), [George Wasaff](people/george-wasaff) (1).",
+  "timeline": "- **2000-09-22** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nancy-hilton",
+    "name": "Nancy Hilton",
+    "email": "nancy.hilton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

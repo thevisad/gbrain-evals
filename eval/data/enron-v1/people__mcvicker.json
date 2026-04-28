@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcvicker",
+  "type": "person",
+  "title": "Mcvicker",
+  "compiled_truth": "Mcvicker is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-03-10 to 2001-05-25), Mcvicker sent 1 and received 3 emails, totalling 4 interactions. Top correspondents: [Alan Comnes](people/alan-comnes) (1), [Andre Cangucu](people/andre-cangucu) (1), [Andrew Fastow](people/andrew-fastow) (1), [F  Calger](people/f-calger) (1), [Cliff Baxter](people/cliff-baxter) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-03-10** | First recorded email in corpus\n- **2001-05-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcvicker",
+    "name": "Mcvicker",
+    "email": "mcvicker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

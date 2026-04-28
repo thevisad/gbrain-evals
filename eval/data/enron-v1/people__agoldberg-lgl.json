@@ -1,0 +1,14 @@
+{
+  "slug": "people/agoldberg-lgl",
+  "type": "person",
+  "title": "Agoldberg",
+  "compiled_truth": "Agoldberg is an external contact at [Lgl](companies/lgl). Over the corpus period (1999-09-24 to 2001-07-31), Agoldberg sent 0 and received 64 emails, totalling 64 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/agoldberg-lgl",
+    "name": "Agoldberg",
+    "email": "agoldberg@lgl.twc.com",
+    "primary_affiliation": "companies/lgl"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/trushar-patel",
+  "type": "person",
+  "title": "Trushar Patel",
+  "compiled_truth": "Trushar Patel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2001-06-28), Trushar Patel sent 0 and received 85 emails, totalling 85 interactions.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-06-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/trushar-patel",
+    "name": "Trushar Patel",
+    "email": "trushar_patel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

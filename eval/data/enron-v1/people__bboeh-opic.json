@@ -1,0 +1,14 @@
+{
+  "slug": "people/bboeh-opic",
+  "type": "person",
+  "title": "Bboeh",
+  "compiled_truth": "Bboeh is an external contact at [Opic](companies/opic). Over the corpus period (2000-11-28 to 2001-02-21), Bboeh sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bboeh-opic",
+    "name": "Bboeh",
+    "email": "bboeh@opic.gov",
+    "primary_affiliation": "companies/opic"
+  }
+}

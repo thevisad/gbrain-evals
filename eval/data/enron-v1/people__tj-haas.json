@@ -1,0 +1,14 @@
+{
+  "slug": "people/tj-haas",
+  "type": "person",
+  "title": "Tj",
+  "compiled_truth": "Tj is an external contact at [Haas](companies/haas). Over the corpus period (2000-10-20 to 2001-12-21), Tj sent 38 and received 45 emails, totalling 83 interactions. Top correspondents: [Dasovich](people/dasovich-haas) (17), [Eveningmba](people/eveningmba-haas) (15), [Kannan](people/kannan-haas) (6), [Kelly](people/kelly-haas) (6), [Kiem](people/kiem-haas) (6).",
+  "timeline": "- **2000-10-20** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tj-haas",
+    "name": "Tj",
+    "email": "tj@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

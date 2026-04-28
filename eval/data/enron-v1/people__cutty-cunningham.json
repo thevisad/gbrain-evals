@@ -1,0 +1,14 @@
+{
+  "slug": "people/cutty-cunningham",
+  "type": "person",
+  "title": "Cutty Cunningham",
+  "compiled_truth": "Cutty Cunningham is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-07 to 2002-01-09), Cutty Cunningham sent 7 and received 56 emails, totalling 63 interactions. Top correspondents: [Dana Gibbs](people/dana-gibbs) (6), [Stanley Horton](people/stanley-horton) (6), [Susan Ralph](people/susan-ralph) (4), [Steve Duffy](people/steve-duffy) (3), [Joe Richards](people/joe-richards) (3).",
+  "timeline": "- **2000-04-07** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cutty-cunningham",
+    "name": "Cutty Cunningham",
+    "email": "cutty.cunningham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

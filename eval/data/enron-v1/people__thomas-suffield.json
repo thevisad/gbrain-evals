@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas-suffield",
+  "type": "person",
+  "title": "Thomas Suffield",
+  "compiled_truth": "Thomas Suffield is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-02-27), Thomas Suffield sent 10 and received 97 emails, totalling 107 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (10), [Jinsung Myung](people/jinsung-myung) (6), [Miguel Vasquez](people/miguel-vasquez) (4), [Don Miller](people/don-miller) (4), [Clement Lau](people/clement-lau) (4).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-02-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas-suffield",
+    "name": "Thomas Suffield",
+    "email": "thomas.suffield@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

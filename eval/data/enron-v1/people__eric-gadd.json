@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-gadd",
+  "type": "person",
+  "title": "Eric Gadd",
+  "compiled_truth": "Eric Gadd is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2002-03-22), Eric Gadd sent 109 and received 501 emails, totalling 610 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (58), [Danny Mccarty](people/danny-mccarty) (40), [Susan Wadle](people/susan-wadle) (14), [Drew Fossum](people/drew-fossum) (12), [Robert Hill](people/robert-hill) (10). Mailbox folders observed: deleted_items, e_mail_bin, inbox, market_intel, personal, projects.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2002-03-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-gadd",
+    "name": "Eric Gadd",
+    "email": "eric.gadd@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

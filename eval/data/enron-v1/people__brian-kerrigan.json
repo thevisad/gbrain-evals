@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-kerrigan",
+  "type": "person",
+  "title": "Brian Kerrigan",
+  "compiled_truth": "Brian Kerrigan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2001-06-29), Brian Kerrigan sent 6 and received 115 emails, totalling 121 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (4), [Greg Johnston](people/greg-johnston) (3), [Richard Sanders](people/richard-sanders) (2), [Peter Keohane](people/peter-keohane) (2), [Clement Abrams](people/clement-abrams) (1).",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2001-06-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-kerrigan",
+    "name": "Brian Kerrigan",
+    "email": "brian.kerrigan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

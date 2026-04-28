@@ -1,0 +1,14 @@
+{
+  "slug": "people/lsutaylor-hotmail",
+  "type": "person",
+  "title": "Lsutaylor",
+  "compiled_truth": "Lsutaylor is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2001-07-31 to 2001-11-27), Lsutaylor sent 32 and received 4 emails, totalling 36 interactions. Top correspondents: [E Taylor](people/e-taylor) (32).",
+  "timeline": "- **2001-07-31** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lsutaylor-hotmail",
+    "name": "Lsutaylor",
+    "email": "lsutaylor@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

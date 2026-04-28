@@ -1,0 +1,14 @@
+{
+  "slug": "people/vogel-jacqueline",
+  "type": "person",
+  "title": "Vogel Jacqueline",
+  "compiled_truth": "Vogel Jacqueline is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-08 to 2002-03-14), Vogel Jacqueline sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vogel-jacqueline",
+    "name": "Vogel Jacqueline",
+    "email": "vogel.jacqueline@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

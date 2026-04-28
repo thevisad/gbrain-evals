@@ -1,0 +1,14 @@
+{
+  "slug": "people/donna-johnson",
+  "type": "person",
+  "title": "Donna Johnson",
+  "compiled_truth": "Donna Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-11 to 2001-07-05), Donna Johnson sent 35 and received 106 emails, totalling 141 interactions. Top correspondents: [Chris Stokley](people/chris-stokley) (32), [P  O'Neil](people/p-o-neil) (23), [Caroline Emmert](people/caroline-emmert) (15), [Kit Blair](people/kit-blair) (10), [Jim Reyes](people/jim-reyes) (7). Mailbox folders observed: chris_stokley.",
+  "timeline": "- **2000-08-11** | First recorded email in corpus\n- **2001-07-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donna-johnson",
+    "name": "Donna Johnson",
+    "email": "donna.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

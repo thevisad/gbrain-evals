@@ -1,0 +1,14 @@
+{
+  "slug": "people/cprice-igservice",
+  "type": "person",
+  "title": "Cprice",
+  "compiled_truth": "Cprice is an external contact at [Igservice](companies/igservice). Over the corpus period (2000-09-20 to 2001-07-31), Cprice sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-09-20** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cprice-igservice",
+    "name": "Cprice",
+    "email": "cprice@igservice.com",
+    "primary_affiliation": "companies/igservice"
+  }
+}

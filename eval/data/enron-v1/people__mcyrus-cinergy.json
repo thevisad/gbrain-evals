@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcyrus-cinergy",
+  "type": "person",
+  "title": "Mcyrus",
+  "compiled_truth": "Mcyrus is an external contact at [Cinergy](companies/cinergy). Over the corpus period (2000-05-11 to 2001-11-29), Mcyrus sent 5 and received 24 emails, totalling 29 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (5).",
+  "timeline": "- **2000-05-11** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcyrus-cinergy",
+    "name": "Mcyrus",
+    "email": "mcyrus@cinergy.com",
+    "primary_affiliation": "companies/cinergy"
+  }
+}

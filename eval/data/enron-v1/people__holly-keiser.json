@@ -1,0 +1,14 @@
+{
+  "slug": "people/holly-keiser",
+  "type": "person",
+  "title": "Holly Keiser",
+  "compiled_truth": "Holly Keiser is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-13 to 2002-01-30), Holly Keiser sent 158 and received 497 emails, totalling 655 interactions. Top correspondents: [Frank Sayre](people/frank-sayre) (82), [Stephanie Panus](people/stephanie-panus) (82), [Sara Shackleton](people/sara-shackleton) (77), [Mary Cook](people/mary-cook) (73), [Tana Jones](people/tana-jones) (73). Mailbox folders observed: _americas, archive, contacts, deleted_items, inbox, nelson.",
+  "timeline": "- **2000-04-13** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/holly-keiser",
+    "name": "Holly Keiser",
+    "email": "holly.keiser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

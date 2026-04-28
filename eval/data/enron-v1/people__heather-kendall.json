@@ -1,0 +1,14 @@
+{
+  "slug": "people/heather-kendall",
+  "type": "person",
+  "title": "Heather Kendall",
+  "compiled_truth": "Heather Kendall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-01-17), Heather Kendall sent 0 and received 95 emails, totalling 95 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-01-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heather-kendall",
+    "name": "Heather Kendall",
+    "email": "heather.kendall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

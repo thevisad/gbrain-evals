@@ -1,0 +1,14 @@
+{
+  "slug": "people/matthew-allan",
+  "type": "person",
+  "title": "Matthew Allan",
+  "compiled_truth": "Matthew Allan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-07 to 2002-01-06), Matthew Allan sent 6 and received 39 emails, totalling 45 interactions. Top correspondents: [Anthony Campos](people/anthony-campos) (4), [Tana Jones](people/tana-jones) (4), [Gail Hill](people/gail-hill) (3), [Steve Venturatos](people/steve-venturatos) (2), [Martin Rosell](people/martin-rosell) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-03-07** | First recorded email in corpus\n- **2002-01-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matthew-allan",
+    "name": "Matthew Allan",
+    "email": "matthew.allan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

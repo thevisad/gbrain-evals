@@ -1,0 +1,27 @@
+{
+  "slug": "meetings/may-conference-call-2000-05",
+  "type": "meeting",
+  "title": "Meeting: May Conference Call",
+  "compiled_truth": "Meeting: \"May Conference Call\". Occurred 2000-05-01 with 1 related emails. Participants included: [Clay Roesler](people/clay-roesler), [David Ayers](people/david-ayers), [Ken Crowl](people/ken-crowl), [Kyle Purvis](people/kyle-purvis), [Larry Campbell](people/larry-campbell), [Leo Nichols](people/leo-nichols), [Mike Riedel](people/mike-riedel), [Rick Cates](people/rick-cates)....",
+  "timeline": "- **2000-05-01** | Meeting: may conference call",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/may-conference-call-2000-05",
+    "attendees": [
+      "people/clay-roesler",
+      "people/david-ayers",
+      "people/ken-crowl",
+      "people/kyle-purvis",
+      "people/larry-campbell",
+      "people/leo-nichols",
+      "people/mike-riedel",
+      "people/rick-cates",
+      "people/rick-loveless",
+      "people/ron-beidelman",
+      "people/ron-harkrader",
+      "people/ruth-jensen",
+      "people/william-kendrick"
+    ],
+    "date": "2000-05-01"
+  }
+}

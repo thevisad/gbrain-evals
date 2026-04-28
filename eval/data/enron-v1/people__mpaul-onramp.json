@@ -1,0 +1,14 @@
+{
+  "slug": "people/mpaul-onramp",
+  "type": "person",
+  "title": "Mpaul",
+  "compiled_truth": "Mpaul is an external contact at [Onramp](companies/onramp). Over the corpus period (2000-09-20 to 2000-10-02), Mpaul sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-09-20** | First recorded email in corpus\n- **2000-10-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mpaul-onramp",
+    "name": "Mpaul",
+    "email": "mpaul@onramp.net",
+    "primary_affiliation": "companies/onramp"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/terri-bachand",
+  "type": "person",
+  "title": "Terri Bachand",
+  "compiled_truth": "Terri Bachand is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2002-03-06), Terri Bachand sent 9 and received 28 emails, totalling 37 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (8), [A  Howard](people/a-howard) (3), [Davis Thames](people/davis-thames) (2), [Steve Young](people/steve-young) (2), [Steven Harris](people/steven-harris) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2002-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terri-bachand",
+    "name": "Terri Bachand",
+    "email": "terri.bachand@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

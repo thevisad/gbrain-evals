@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-gibbins",
+  "type": "person",
+  "title": "Kathy Gibbins",
+  "compiled_truth": "Kathy Gibbins is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2001-12-03), Kathy Gibbins sent 2 and received 7 emails, totalling 9 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (2), [Gary Mirich](people/gary-mirich) (1), [George Waidelich](people/george-waidelich) (1), [John Woodman](people/john-woodman) (1), [Ronald Mentan](people/ronald-mentan) (1).",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-gibbins",
+    "name": "Kathy Gibbins",
+    "email": "kathy.gibbins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

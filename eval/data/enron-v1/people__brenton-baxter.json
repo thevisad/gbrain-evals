@@ -1,0 +1,14 @@
+{
+  "slug": "people/brenton-baxter",
+  "type": "person",
+  "title": "Brenton Baxter",
+  "compiled_truth": "Brenton Baxter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-07 to 2000-07-19), Brenton Baxter sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-07-07** | First recorded email in corpus\n- **2000-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brenton-baxter",
+    "name": "Brenton Baxter",
+    "email": "brenton.baxter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

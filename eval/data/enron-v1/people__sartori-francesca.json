@@ -1,0 +1,14 @@
+{
+  "slug": "people/sartori-francesca",
+  "type": "person",
+  "title": "Sartori Francesca",
+  "compiled_truth": "Sartori Francesca is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-01 to 2001-11-14), Sartori Francesca sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-10-01** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sartori-francesca",
+    "name": "Sartori Francesca",
+    "email": "sartori.francesca@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

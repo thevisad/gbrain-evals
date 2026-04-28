@@ -1,0 +1,14 @@
+{
+  "slug": "people/millinor-rick",
+  "type": "person",
+  "title": "Millinor Rick",
+  "compiled_truth": "Millinor Rick is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-08-21), Millinor Rick sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/millinor-rick",
+    "name": "Millinor Rick",
+    "email": "millinor.rick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

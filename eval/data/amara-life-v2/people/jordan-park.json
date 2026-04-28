@@ -1,0 +1,16 @@
+{
+  "slug": "people/jordan-park",
+  "type": "person",
+  "title": "Jordan Park",
+  "compiled_truth": "Jordan Park is a portfolio founder. Email: jordan@novamind.ai. Jordan Park works at Novamind AI. Slack: @jordan.",
+  "timeline": "- **2025-04-14** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jordan-park",
+    "name": "Jordan Park",
+    "email": "jordan@novamind.ai",
+    "slack_handle": "jordan",
+    "relation_to_amara": "founder",
+    "primary_affiliation": "companies/novamind"
+  }
+}

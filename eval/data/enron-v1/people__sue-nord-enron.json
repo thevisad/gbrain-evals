@@ -1,0 +1,14 @@
+{
+  "slug": "people/sue-nord-enron",
+  "type": "person",
+  "title": "Sue Nord",
+  "compiled_truth": "Sue Nord is an external contact at [Enron](companies/enron). Over the corpus period (2000-12-08 to 2000-12-08), Sue Nord sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-12-08** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sue-nord-enron",
+    "name": "Sue Nord",
+    "email": "sue_nord@enron.enron.net",
+    "primary_affiliation": "companies/enron"
+  }
+}

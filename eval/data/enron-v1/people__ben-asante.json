@@ -1,0 +1,14 @@
+{
+  "slug": "people/ben-asante",
+  "type": "person",
+  "title": "Ben Asante",
+  "compiled_truth": "Ben Asante is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-04 to 2002-03-25), Ben Asante sent 12 and received 267 emails, totalling 279 interactions. Top correspondents: [David Roensch](people/david-roensch) (8), [Darrell Schoolcraft](people/darrell-schoolcraft) (8), [Ron Matthews](people/ron-matthews) (6), [Gary Choquette](people/gary-choquette) (6), [John Sturn](people/john-sturn) (6). Mailbox folders observed: e_mail_bin, inbox, projects.",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ben-asante",
+    "name": "Ben Asante",
+    "email": "ben.asante@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

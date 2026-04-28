@@ -1,0 +1,14 @@
+{
+  "slug": "people/donald-robinson",
+  "type": "person",
+  "title": "Donald Robinson",
+  "compiled_truth": "Donald Robinson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-14 to 2002-02-07), Donald Robinson sent 32 and received 178 emails, totalling 210 interactions. Top correspondents: [Cara Semperger](people/cara-semperger) (23), [Diana Scholtes](people/diana-scholtes) (17), [Sean Crandall](people/sean-crandall) (15), [Shift Dl-Portland](people/shift-dl-portland) (11), [Shift Portland](people/shift-portland) (10). Mailbox folders observed: credit, inbox, read, scheduling, settlements.",
+  "timeline": "- **2000-02-14** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donald-robinson",
+    "name": "Donald Robinson",
+    "email": "donald.robinson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

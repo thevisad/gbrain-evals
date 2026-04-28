@@ -1,0 +1,14 @@
+{
+  "slug": "people/vp-robert",
+  "type": "person",
+  "title": "Vp Robert",
+  "compiled_truth": "Vp Robert is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-18 to 2002-01-28), Vp Robert sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-18** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vp-robert",
+    "name": "Vp Robert",
+    "email": "vp.robert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

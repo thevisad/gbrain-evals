@@ -1,0 +1,14 @@
+{
+  "slug": "people/juan-barba",
+  "type": "person",
+  "title": "Juan Barba",
+  "compiled_truth": "Juan Barba is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2000-12-13), Juan Barba sent 1 and received 15 emails, totalling 16 interactions. Top correspondents: [Melissa Knightstep](people/melissa-knightstep) (1), [Marlene Clifford](people/marlene-clifford) (1), [Rita Ramirez](people/rita-ramirez) (1), [Denise Naiser](people/denise-naiser) (1), [Sharon Purswell](people/sharon-purswell) (1).",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/juan-barba",
+    "name": "Juan Barba",
+    "email": "juan.barba@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

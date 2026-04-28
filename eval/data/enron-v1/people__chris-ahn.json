@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-ahn",
+  "type": "person",
+  "title": "Chris Ahn",
+  "compiled_truth": "Chris Ahn is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-19 to 2001-11-14), Chris Ahn sent 1 and received 21 emails, totalling 22 interactions. Top correspondents: [Bill Rapp](people/bill-rapp) (1), [Joseph Short](people/joseph-short) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-ahn",
+    "name": "Chris Ahn",
+    "email": "chris.ahn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

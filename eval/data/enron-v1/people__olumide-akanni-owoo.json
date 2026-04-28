@@ -1,0 +1,14 @@
+{
+  "slug": "people/olumide-akanni-owoo",
+  "type": "person",
+  "title": "Olumide Akanni-Owoo",
+  "compiled_truth": "Olumide Akanni-Owoo is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-06-27), Olumide Akanni-Owoo sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/olumide-akanni-owoo",
+    "name": "Olumide Akanni-Owoo",
+    "email": "olumide.akanni-owoo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

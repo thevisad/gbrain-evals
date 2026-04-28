@@ -1,0 +1,14 @@
+{
+  "slug": "people/curtis-smith",
+  "type": "person",
+  "title": "Curtis Smith",
+  "compiled_truth": "Curtis Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-29 to 2000-08-24), Curtis Smith sent 1 and received 20 emails, totalling 21 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (1), [David Dupre](people/david-dupre) (1), [Larry Hunter](people/larry-hunter) (1), [Matt Brown](people/matt-brown) (1).",
+  "timeline": "- **1999-12-29** | First recorded email in corpus\n- **2000-08-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/curtis-smith",
+    "name": "Curtis Smith",
+    "email": "curtis.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

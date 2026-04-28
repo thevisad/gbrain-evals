@@ -1,0 +1,14 @@
+{
+  "slug": "people/angela",
+  "type": "person",
+  "title": " Angela",
+  "compiled_truth": "Angela is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-11 to 2002-01-09),  Angela sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-04-11** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angela",
+    "name": " Angela",
+    "email": ".angela@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

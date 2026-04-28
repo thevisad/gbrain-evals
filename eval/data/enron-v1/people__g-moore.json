@@ -1,0 +1,14 @@
+{
+  "slug": "people/g-moore",
+  "type": "person",
+  "title": "G  Moore",
+  "compiled_truth": "G  Moore is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2002-02-28), G  Moore sent 24 and received 66 emails, totalling 90 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (24), [A  Roberts](people/a-roberts) (18), [Shirley Crenshaw](people/shirley-crenshaw) (16), [Jose Marquez](people/jose-marquez) (10), [Adam Stevens](people/adam-stevens) (10). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/g-moore",
+    "name": "G  Moore",
+    "email": "g..moore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

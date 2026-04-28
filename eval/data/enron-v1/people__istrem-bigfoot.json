@@ -1,0 +1,14 @@
+{
+  "slug": "people/istrem-bigfoot",
+  "type": "person",
+  "title": "Istrem",
+  "compiled_truth": "Istrem is an external contact at [Bigfoot](companies/bigfoot). Over the corpus period (2000-05-21 to 2000-05-21), Istrem sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/istrem-bigfoot",
+    "name": "Istrem",
+    "email": "istrem@bigfoot.com",
+    "primary_affiliation": "companies/bigfoot"
+  }
+}

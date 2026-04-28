@@ -1,0 +1,14 @@
+{
+  "slug": "people/liscano-luna",
+  "type": "person",
+  "title": "Liscano Luna",
+  "compiled_truth": "Liscano Luna is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-19 to 2001-11-19), Liscano Luna sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-19** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/liscano-luna",
+    "name": "Liscano Luna",
+    "email": "liscano.luna@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

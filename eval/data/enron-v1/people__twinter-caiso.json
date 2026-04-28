@@ -1,0 +1,14 @@
+{
+  "slug": "people/twinter-caiso",
+  "type": "person",
+  "title": "Twinter",
+  "compiled_truth": "Twinter is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-06-15 to 2001-12-21), Twinter sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/twinter-caiso",
+    "name": "Twinter",
+    "email": "twinter@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

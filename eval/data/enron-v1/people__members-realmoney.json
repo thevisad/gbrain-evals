@@ -1,0 +1,14 @@
+{
+  "slug": "people/members-realmoney",
+  "type": "person",
+  "title": "Members",
+  "compiled_truth": "Members is an external contact at [Realmoney](companies/realmoney). Over the corpus period (2000-12-14 to 2002-01-29), Members sent 39 and received 0 emails, totalling 39 interactions. Top correspondents: [F  Keavey](people/f-keavey) (1), [Mark Taylor](people/mark-taylor) (1).",
+  "timeline": "- **2000-12-14** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/members-realmoney",
+    "name": "Members",
+    "email": "members@realmoney.com",
+    "primary_affiliation": "companies/realmoney"
+  }
+}

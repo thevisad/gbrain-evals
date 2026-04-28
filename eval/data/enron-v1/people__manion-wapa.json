@@ -1,0 +1,14 @@
+{
+  "slug": "people/manion-wapa",
+  "type": "person",
+  "title": "Manion",
+  "compiled_truth": "Manion is an external contact at [Wapa](companies/wapa). Over the corpus period (2001-07-25 to 2001-07-25), Manion sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/manion-wapa",
+    "name": "Manion",
+    "email": "manion@wapa.gov",
+    "primary_affiliation": "companies/wapa"
+  }
+}

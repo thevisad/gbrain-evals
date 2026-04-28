@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-dawson",
+  "type": "person",
+  "title": "Paul Dawson",
+  "compiled_truth": "Paul Dawson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-11-30), Paul Dawson sent 25 and received 156 emails, totalling 181 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (19), [Mark Schroeder](people/mark-schroeder) (4), [Peter Styles](people/peter-styles) (4), [Steven Kean](people/steven-kean) (3), [Paul Hennemeyer](people/paul-hennemeyer) (3). Mailbox folders observed: 2002_budget, deleted_items, inbox, notre_dame.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-dawson",
+    "name": "Paul Dawson",
+    "email": "paul.dawson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

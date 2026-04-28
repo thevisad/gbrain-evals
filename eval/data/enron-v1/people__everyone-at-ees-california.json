@@ -1,0 +1,14 @@
+{
+  "slug": "people/everyone-at-ees-california",
+  "type": "person",
+  "title": "Everyone At Ees California",
+  "compiled_truth": "Everyone At Ees California is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-27 to 1999-09-27), Everyone At Ees California sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-09-27** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/everyone-at-ees-california",
+    "name": "Everyone At Ees California",
+    "email": "everyone_at_ees_california@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

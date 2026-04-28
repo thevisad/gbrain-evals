@@ -1,0 +1,14 @@
+{
+  "slug": "people/dswatkins-bpa",
+  "type": "person",
+  "title": "Dswatkins",
+  "compiled_truth": "Dswatkins is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2000-06-21 to 2001-04-26), Dswatkins sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dswatkins-bpa",
+    "name": "Dswatkins",
+    "email": "dswatkins@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-ruffcorn",
+  "type": "person",
+  "title": "Kevin Ruffcorn",
+  "compiled_truth": "Kevin Ruffcorn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-11 to 2001-11-27), Kevin Ruffcorn sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **2000-12-11** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-ruffcorn",
+    "name": "Kevin Ruffcorn",
+    "email": "kevin.ruffcorn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

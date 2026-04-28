@@ -1,0 +1,14 @@
+{
+  "slug": "people/ben-nguyen",
+  "type": "person",
+  "title": "Ben Nguyen",
+  "compiled_truth": "Ben Nguyen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-13 to 2002-02-06), Ben Nguyen sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ben-nguyen",
+    "name": "Ben Nguyen",
+    "email": "ben.nguyen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

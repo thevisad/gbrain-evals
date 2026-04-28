@@ -1,0 +1,16 @@
+{
+  "slug": "people/hannah-liu",
+  "type": "person",
+  "title": "Hannah Liu",
+  "compiled_truth": "Hannah Liu is an advisor to Halfway Capital. Email: hannah@datastream.io. Hannah Liu works at Datastream. Slack: @hannah.",
+  "timeline": "- **2026-04-13** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hannah-liu",
+    "name": "Hannah Liu",
+    "email": "hannah@datastream.io",
+    "slack_handle": "hannah",
+    "relation_to_amara": "advisor",
+    "primary_affiliation": "companies/datastream"
+  }
+}

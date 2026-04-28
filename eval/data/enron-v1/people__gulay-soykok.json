@@ -1,0 +1,14 @@
+{
+  "slug": "people/gulay-soykok",
+  "type": "person",
+  "title": "Gulay Soykok",
+  "compiled_truth": "Gulay Soykok is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-20 to 2002-02-28), Gulay Soykok sent 0 and received 70 emails, totalling 70 interactions.",
+  "timeline": "- **2001-04-20** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gulay-soykok",
+    "name": "Gulay Soykok",
+    "email": "gulay.soykok@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

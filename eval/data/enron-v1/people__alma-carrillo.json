@@ -1,0 +1,14 @@
+{
+  "slug": "people/alma-carrillo",
+  "type": "person",
+  "title": "Alma Carrillo",
+  "compiled_truth": "Alma Carrillo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2002-03-13), Alma Carrillo sent 27 and received 162 emails, totalling 189 interactions. Top correspondents: [Shelley Corman](people/shelley-corman) (15), [Lynn Blair](people/lynn-blair) (14), [Rick Dietz](people/rick-dietz) (14), [Ava Garcia](people/ava-garcia) (14), [Richard Hanagriff](people/richard-hanagriff) (14). Mailbox folders observed: calendar, deleted_items, e_mail_bin, inbox, itinerary_off_duty, weekly_reports___2001.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alma-carrillo",
+    "name": "Alma Carrillo",
+    "email": "alma.carrillo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

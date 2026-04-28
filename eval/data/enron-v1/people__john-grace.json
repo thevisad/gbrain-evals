@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-grace",
+  "type": "person",
+  "title": "John Grace",
+  "compiled_truth": "John Grace is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-25 to 2001-09-26), John Grace sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2001-05-25** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-grace",
+    "name": "John Grace",
+    "email": "john.grace@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

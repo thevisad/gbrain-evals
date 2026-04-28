@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-ginty",
+  "type": "person",
+  "title": "James Ginty",
+  "compiled_truth": "James Ginty is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-08 to 2002-05-06), James Ginty sent 3 and received 79 emails, totalling 82 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (3), [Annmarie Tiller](people/annmarie-tiller) (3), [Brent Vasconcellos](people/brent-vasconcellos) (3), [Kevin Howard](people/kevin-howard) (3), [Kristina Mordaunt](people/kristina-mordaunt) (3).",
+  "timeline": "- **1999-07-08** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-ginty",
+    "name": "James Ginty",
+    "email": "james.ginty@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

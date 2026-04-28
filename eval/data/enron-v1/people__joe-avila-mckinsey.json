@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-avila-mckinsey",
+  "type": "person",
+  "title": "Joe Avila",
+  "compiled_truth": "Joe Avila is an external contact at [McKinsey](companies/mckinsey). Over the corpus period (2000-06-16 to 2001-09-14), Joe Avila sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-06-16** | First recorded email in corpus\n- **2001-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-avila-mckinsey",
+    "name": "Joe Avila",
+    "email": "joe_avila@mckinsey.com",
+    "primary_affiliation": "companies/mckinsey"
+  }
+}

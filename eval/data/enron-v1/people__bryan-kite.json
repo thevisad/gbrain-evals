@@ -1,0 +1,14 @@
+{
+  "slug": "people/bryan-kite",
+  "type": "person",
+  "title": "Bryan Kite",
+  "compiled_truth": "Bryan Kite is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-06 to 2001-06-20), Bryan Kite sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2001-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bryan-kite",
+    "name": "Bryan Kite",
+    "email": "bryan.kite@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

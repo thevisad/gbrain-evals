@@ -1,0 +1,14 @@
+{
+  "slug": "people/jcrowe-apx",
+  "type": "person",
+  "title": "Jcrowe",
+  "compiled_truth": "Jcrowe is an external contact at [Apx](companies/apx). Over the corpus period (2000-11-10 to 2001-03-07), Jcrowe sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jcrowe-apx",
+    "name": "Jcrowe",
+    "email": "jcrowe@apx.com",
+    "primary_affiliation": "companies/apx"
+  }
+}

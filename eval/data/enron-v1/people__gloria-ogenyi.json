@@ -1,0 +1,14 @@
+{
+  "slug": "people/gloria-ogenyi",
+  "type": "person",
+  "title": "Gloria Ogenyi",
+  "compiled_truth": "Gloria Ogenyi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2001-12-03), Gloria Ogenyi sent 22 and received 364 emails, totalling 386 interactions. Top correspondents: [D  Steffes](people/d-steffes) (17), [Harry Kingerski](people/harry-kingerski) (14), [Jean Ryall](people/jean-ryall) (6), [Rebecca Fite](people/rebecca-fite) (6), [Ron Bertasi](people/ron-bertasi) (5). Mailbox folders observed: credit_issues, creditworthiness, deleted_items, inbox, personal, retail_markets.",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gloria-ogenyi",
+    "name": "Gloria Ogenyi",
+    "email": "gloria.ogenyi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

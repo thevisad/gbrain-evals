@@ -1,0 +1,33 @@
+{
+  "slug": "companies/dsmo",
+  "type": "company",
+  "title": "Dsmo",
+  "compiled_truth": "Dsmo is an external organization that appears in the Enron email corpus. Domain: dsmo.com. Total email interactions with Enron: 259. Known contacts: 16 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (259 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/dsmo",
+    "name": "Dsmo",
+    "employees": [
+      "people/alexanderl-dsmo",
+      "people/bestorg-dsmo",
+      "people/eisenstatl-dsmo",
+      "people/fallonr-dsmo",
+      "people/holcombb-dsmo",
+      "people/kadzikp-dsmo",
+      "people/kleinmanj-dsmo",
+      "people/millerl-dsmo",
+      "people/ogletreeb-dsmo",
+      "people/perlism-dsmo",
+      "people/proctorv-dsmo",
+      "people/razzanof-dsmo",
+      "people/rustumm-dsmo",
+      "people/sharpj-dsmo",
+      "people/springerj-dsmo",
+      "people/webbb-dsmo"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dirk-vanulden",
+  "type": "person",
+  "title": "Dirk Vanulden",
+  "compiled_truth": "Dirk Vanulden is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-07 to 2001-07-30), Dirk Vanulden sent 13 and received 437 emails, totalling 450 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (12), [Rob Cone](people/rob-cone) (9), [Richard Crevelt](people/richard-crevelt) (7), [Dicks](people/dicks-csufresno) (5), [Geoff Pollard](people/geoff-pollard) (5).",
+  "timeline": "- **1999-10-07** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dirk-vanulden",
+    "name": "Dirk Vanulden",
+    "email": "dirk.vanulden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

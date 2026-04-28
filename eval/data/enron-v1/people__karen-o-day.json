@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-o-day",
+  "type": "person",
+  "title": "Karen O'Day",
+  "compiled_truth": "Karen O'Day is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-30 to 2002-05-13), Karen O'Day sent 14 and received 310 emails, totalling 324 interactions. Top correspondents: [Stephanie Sever](people/stephanie-sever) (9), [Tana Jones](people/tana-jones) (5), [Claudia Clark](people/claudia-clark) (4), [Cheryl Johnson](people/cheryl-johnson) (4), [Lisa Lees](people/lisa-lees) (3). Mailbox folders observed: deleted_items, inbox, it.",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-o-day",
+    "name": "Karen O'Day",
+    "email": "karen.o'day@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/alexm-calpine",
+  "type": "person",
+  "title": "Alexm",
+  "compiled_truth": "Alexm is an external contact at [Calpine](companies/calpine). Over the corpus period (2000-04-17 to 2001-05-10), Alexm sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alexm-calpine",
+    "name": "Alexm",
+    "email": "alexm@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-glenn",
+  "type": "person",
+  "title": "Laura Glenn",
+  "compiled_truth": "Laura Glenn is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-09 to 2001-11-17), Laura Glenn sent 18 and received 41 emails, totalling 59 interactions. Top correspondents: [Maureen Mcvicker](people/maureen-mcvicker) (17), [Steven Kean](people/steven-kean) (11), [J  Kean](people/j-kean) (6), [Michael Terraso](people/michael-terraso) (1), [William Kendrick](people/william-kendrick) (1). Mailbox folders observed: environmental_issues.",
+  "timeline": "- **1999-08-09** | First recorded email in corpus\n- **2001-11-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-glenn",
+    "name": "Laura Glenn",
+    "email": "laura.glenn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

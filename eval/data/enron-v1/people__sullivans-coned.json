@@ -1,0 +1,14 @@
+{
+  "slug": "people/sullivans-coned",
+  "type": "person",
+  "title": "Sullivans",
+  "compiled_truth": "Sullivans is an external contact at [Coned](companies/coned). Over the corpus period (2000-02-12 to 2000-02-12), Sullivans sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sullivans-coned",
+    "name": "Sullivans",
+    "email": "sullivans@coned.com",
+    "primary_affiliation": "companies/coned"
+  }
+}

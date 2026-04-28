@@ -1,0 +1,14 @@
+{
+  "slug": "people/bwagner-caiso",
+  "type": "person",
+  "title": "Bwagner",
+  "compiled_truth": "Bwagner is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-08-29 to 2000-08-29), Bwagner sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-08-29** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bwagner-caiso",
+    "name": "Bwagner",
+    "email": "bwagner@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

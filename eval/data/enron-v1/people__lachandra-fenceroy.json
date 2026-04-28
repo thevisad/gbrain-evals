@@ -1,0 +1,14 @@
+{
+  "slug": "people/lachandra-fenceroy",
+  "type": "person",
+  "title": "Lachandra Fenceroy",
+  "compiled_truth": "Lachandra Fenceroy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2002-01-25), Lachandra Fenceroy sent 1 and received 10 emails, totalling 11 interactions. Top correspondents: [Lindy Donoho](people/lindy-donoho) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lachandra-fenceroy",
+    "name": "Lachandra Fenceroy",
+    "email": "lachandra.fenceroy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

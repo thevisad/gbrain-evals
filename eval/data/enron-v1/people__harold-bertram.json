@@ -1,0 +1,14 @@
+{
+  "slug": "people/harold-bertram",
+  "type": "person",
+  "title": "Harold Bertram",
+  "compiled_truth": "Harold Bertram is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-04-23), Harold Bertram sent 0 and received 68 emails, totalling 68 interactions.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-04-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/harold-bertram",
+    "name": "Harold Bertram",
+    "email": "harold.bertram@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

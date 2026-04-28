@@ -1,0 +1,29 @@
+{
+  "slug": "threads/hello-2000-06",
+  "type": "meeting",
+  "title": "Thread: Hello",
+  "compiled_truth": "Email thread: \"Hello\". Ran from 2000-06-16 to 2000-07-11 with 13 messages. Participants: [Alex Huang](people/alex-huang), [Carol Clair](people/carol-clair), [Cathy Phillips](people/cathy-phillips), [Deng](people/deng-isye), [Grant Masson](people/grant-masson), [Jaime Williams](people/jaime-williams), [Jrazguzman](people/jrazguzman-rhm), [Mike McConnell](people/mike-mcconnell).",
+  "timeline": "- **2000-06-16** | Thread begins: hello\n- **2000-07-11** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/hello-2000-06",
+    "attendees": [
+      "people/alex-huang",
+      "people/carol-clair",
+      "people/cathy-phillips",
+      "people/deng-isye",
+      "people/grant-masson",
+      "people/jaime-williams",
+      "people/jrazguzman-rhm",
+      "people/mike-mcconnell",
+      "people/pinnamaneni-krishnarao",
+      "people/shirley-crenshaw",
+      "people/stinson-gibner",
+      "people/tana-jones",
+      "people/vince-kaminski",
+      "people/vkamins",
+      "people/zimin-lu"
+    ],
+    "date": "2000-06-16"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/deborah-archuleta",
+  "type": "person",
+  "title": "Deborah Archuleta",
+  "compiled_truth": "Deborah Archuleta is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-12-12), Deborah Archuleta sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deborah-archuleta",
+    "name": "Deborah Archuleta",
+    "email": "deborah.archuleta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

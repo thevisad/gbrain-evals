@@ -1,0 +1,14 @@
+{
+  "slug": "people/tricia-flanigan",
+  "type": "person",
+  "title": "Tricia Flanigan",
+  "compiled_truth": "Tricia Flanigan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-16 to 2001-12-07), Tricia Flanigan sent 3 and received 8 emails, totalling 11 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (2), [Bill Mathews](people/bill-mathews) (1), [J  Legler](people/j-legler) (1), [Mark Whitt](people/mark-whitt) (1), [J  Bump](people/j-bump) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-07-16** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tricia-flanigan",
+    "name": "Tricia Flanigan",
+    "email": "tricia.flanigan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

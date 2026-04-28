@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-crawford",
+  "type": "person",
+  "title": "Jason Crawford",
+  "compiled_truth": "Jason Crawford is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-17 to 2001-04-13), Jason Crawford sent 0 and received 71 emails, totalling 71 interactions.",
+  "timeline": "- **2000-05-17** | First recorded email in corpus\n- **2001-04-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-crawford",
+    "name": "Jason Crawford",
+    "email": "jason.crawford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

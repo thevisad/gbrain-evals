@@ -1,0 +1,14 @@
+{
+  "slug": "people/cole-jim",
+  "type": "person",
+  "title": "Cole Jim",
+  "compiled_truth": "Cole Jim is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-04 to 2001-11-06), Cole Jim sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-04** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cole-jim",
+    "name": "Cole Jim",
+    "email": "cole.jim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/miles-lidsey",
+  "type": "person",
+  "title": "Miles Lidsey",
+  "compiled_truth": "Miles Lidsey is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-30 to 2001-05-22), Miles Lidsey sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **1999-09-30** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/miles-lidsey",
+    "name": "Miles Lidsey",
+    "email": "miles.lidsey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

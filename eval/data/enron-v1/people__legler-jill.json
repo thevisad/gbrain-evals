@@ -1,0 +1,14 @@
+{
+  "slug": "people/legler-jill",
+  "type": "person",
+  "title": "Legler Jill",
+  "compiled_truth": "Legler Jill is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Legler Jill sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/legler-jill",
+    "name": "Legler Jill",
+    "email": "legler.jill@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

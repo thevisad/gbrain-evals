@@ -1,0 +1,14 @@
+{
+  "slug": "people/carl-carter",
+  "type": "person",
+  "title": "Carl Carter",
+  "compiled_truth": "Carl Carter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-26 to 2002-02-04), Carl Carter sent 18 and received 115 emails, totalling 133 interactions. Top correspondents: [David Forster](people/david-forster) (8), [Mark Taylor](people/mark-taylor) (6), [Bob Shults](people/bob-shults) (6), [Andy Zipper](people/andy-zipper) (6), [Daniel Diamond](people/daniel-diamond) (5). Mailbox folders observed: archive, deleted_items, inbox, personal.",
+  "timeline": "- **2000-10-26** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carl-carter",
+    "name": "Carl Carter",
+    "email": "carl.carter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

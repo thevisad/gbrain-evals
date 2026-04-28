@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-perry",
+  "type": "person",
+  "title": "Stephen Perry",
+  "compiled_truth": "Stephen Perry is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-01-28), Stephen Perry sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-perry",
+    "name": "Stephen Perry",
+    "email": "stephen.perry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

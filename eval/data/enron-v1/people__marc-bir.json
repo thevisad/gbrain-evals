@@ -1,0 +1,14 @@
+{
+  "slug": "people/marc-bir",
+  "type": "person",
+  "title": "Marc Bir",
+  "compiled_truth": "Marc Bir is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-13 to 2002-02-06), Marc Bir sent 2 and received 13 emails, totalling 15 interactions. Top correspondents: [S  Shively](people/s-shively) (1), [Chris Hyde](people/chris-hyde) (1), [Chris Gaskill](people/chris-gaskill) (1), [Colin Tonks](people/colin-tonks) (1), [Junellen Pearsall](people/junellen-pearsall) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marc-bir",
+    "name": "Marc Bir",
+    "email": "marc.bir@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

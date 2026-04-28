@@ -1,0 +1,14 @@
+{
+  "slug": "people/alyse-herasimchuk",
+  "type": "person",
+  "title": "Alyse Herasimchuk",
+  "compiled_truth": "Alyse Herasimchuk is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-12 to 2001-11-16), Alyse Herasimchuk sent 6 and received 44 emails, totalling 50 interactions. Top correspondents: [John Walt](people/john-walt) (3), [Phillip Allen](people/phillip-allen) (2), [Robina Barker-Bennett](people/robina-barker-bennett) (2), [Richard Causey](people/richard-causey) (2), [Joseph Deffner](people/joseph-deffner) (2). Mailbox folders observed: inbox, misc.",
+  "timeline": "- **2000-10-12** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alyse-herasimchuk",
+    "name": "Alyse Herasimchuk",
+    "email": "alyse.herasimchuk@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

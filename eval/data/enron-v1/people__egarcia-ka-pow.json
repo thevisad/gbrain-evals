@@ -1,0 +1,14 @@
+{
+  "slug": "people/egarcia-ka-pow",
+  "type": "person",
+  "title": "Egarcia",
+  "compiled_truth": "Egarcia is an external contact at [Ka-pow](companies/ka-pow). Over the corpus period (2000-08-10 to 2001-12-21), Egarcia sent 0 and received 58 emails, totalling 58 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/egarcia-ka-pow",
+    "name": "Egarcia",
+    "email": "egarcia@ka-pow.com",
+    "primary_affiliation": "companies/ka-pow"
+  }
+}

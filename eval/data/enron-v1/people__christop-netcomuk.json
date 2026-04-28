@@ -1,0 +1,14 @@
+{
+  "slug": "people/christop-netcomuk",
+  "type": "person",
+  "title": "Christop",
+  "compiled_truth": "Christop is an external contact at [Netcomuk](companies/netcomuk). Over the corpus period (2000-09-04 to 2000-11-16), Christop sent 0 and received 56 emails, totalling 56 interactions.",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2000-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christop-netcomuk",
+    "name": "Christop",
+    "email": "christop@netcomuk.co.uk",
+    "primary_affiliation": "companies/netcomuk"
+  }
+}

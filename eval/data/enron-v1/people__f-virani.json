@@ -1,0 +1,14 @@
+{
+  "slug": "people/f-virani",
+  "type": "person",
+  "title": "F Virani",
+  "compiled_truth": "F Virani is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-03 to 2001-04-03), F Virani sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-04-03** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/f-virani",
+    "name": "F Virani",
+    "email": "f.virani@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bomar-anne",
+  "type": "person",
+  "title": "Bomar Anne",
+  "compiled_truth": "Bomar Anne is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-16 to 2002-01-16), Bomar Anne sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bomar-anne",
+    "name": "Bomar Anne",
+    "email": "bomar.anne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

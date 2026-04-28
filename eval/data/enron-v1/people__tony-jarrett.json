@@ -1,0 +1,14 @@
+{
+  "slug": "people/tony-jarrett",
+  "type": "person",
+  "title": "Tony Jarrett",
+  "compiled_truth": "Tony Jarrett is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-20 to 2001-03-28), Tony Jarrett sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-03-20** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tony-jarrett",
+    "name": "Tony Jarrett",
+    "email": "tony.jarrett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cryerson-ei",
+  "type": "person",
+  "title": "Cryerson",
+  "compiled_truth": "Cryerson is an external contact at [Ei](companies/ei). Over the corpus period (2000-07-17 to 2000-07-17), Cryerson sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cryerson-ei",
+    "name": "Cryerson",
+    "email": "cryerson@ei.enron.com",
+    "primary_affiliation": "companies/ei"
+  }
+}

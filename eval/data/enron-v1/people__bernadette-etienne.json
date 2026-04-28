@@ -1,0 +1,14 @@
+{
+  "slug": "people/bernadette-etienne",
+  "type": "person",
+  "title": "Bernadette Etienne",
+  "compiled_truth": "Bernadette Etienne is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-22 to 2002-05-31), Bernadette Etienne sent 4 and received 4 emails, totalling 8 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (2), [Exec Jones](people/exec-jones) (2), [David Oxley](people/david-oxley) (1), [Sharon Butcher](people/sharon-butcher) (1), [Terrie Wheeler](people/terrie-wheeler) (1). Mailbox folders observed: bankrupt, deleted_items, memos.",
+  "timeline": "- **2001-10-22** | First recorded email in corpus\n- **2002-05-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bernadette-etienne",
+    "name": "Bernadette Etienne",
+    "email": "bernadette.etienne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

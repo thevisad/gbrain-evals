@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarah-haden",
+  "type": "person",
+  "title": "Sarah Haden",
+  "compiled_truth": "Sarah Haden is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-20 to 2002-03-13), Sarah Haden sent 6 and received 40 emails, totalling 46 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (5), [Robert Hayes](people/robert-hayes) (4), [Robert Kilmer](people/robert-kilmer) (4), [Jack Boatman](people/jack-boatman) (4), [Mike Bryant](people/mike-bryant) (4). Mailbox folders observed: deleted_items, inbox, projects.",
+  "timeline": "- **2001-08-20** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarah-haden",
+    "name": "Sarah Haden",
+    "email": "sarah.haden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

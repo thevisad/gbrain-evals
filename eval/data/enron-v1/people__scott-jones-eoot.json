@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-jones-eoot",
+  "type": "person",
+  "title": "Scott Jones",
+  "compiled_truth": "Scott Jones is an external contact at [Eoot](companies/eoot). Over the corpus period (2001-01-26 to 2001-01-29), Scott Jones sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-01-26** | First recorded email in corpus\n- **2001-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-jones-eoot",
+    "name": "Scott Jones",
+    "email": "scott_jones@eoot.com",
+    "primary_affiliation": "companies/eoot"
+  }
+}

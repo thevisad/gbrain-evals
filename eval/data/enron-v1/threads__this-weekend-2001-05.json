@@ -1,0 +1,22 @@
+{
+  "slug": "threads/this-weekend-2001-05",
+  "type": "meeting",
+  "title": "Thread: This Weekend",
+  "compiled_truth": "Email thread: \"This Weekend\". Ran from 2001-05-02 to 2001-05-24 with 19 messages. Participants: [Bryan Hull](people/bryan-hull), [Celeahy](people/celeahy-hotmail), [Kevin A Boone](people/kevin-a-boone-accenture), [M  Scott](people/m-scott), [Matthew Lenhart](people/matthew-lenhart), [Mjones](people/mjones-gc), [Mmmarcantel](people/mmmarcantel-equiva), [V Weldon](people/v-weldon).",
+  "timeline": "- **2001-05-02** | Thread begins: this weekend\n- **2001-05-24** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/this-weekend-2001-05",
+    "attendees": [
+      "people/bryan-hull",
+      "people/celeahy-hotmail",
+      "people/kevin-a-boone-accenture",
+      "people/m-scott",
+      "people/matthew-lenhart",
+      "people/mjones-gc",
+      "people/mmmarcantel-equiva",
+      "people/v-weldon"
+    ],
+    "date": "2001-05-02"
+  }
+}

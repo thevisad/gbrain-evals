@@ -1,0 +1,14 @@
+{
+  "slug": "people/rockford-meyer",
+  "type": "person",
+  "title": "Rockford Meyer",
+  "compiled_truth": "Rockford Meyer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2001-05-30), Rockford Meyer sent 13 and received 79 emails, totalling 92 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (11), [Rod Hayslett](people/rod-hayslett) (2), [Cindy Stark](people/cindy-stark) (2), [Jordan Hunter](people/jordan-hunter) (2), [Wiley Cauthen](people/wiley-cauthen) (2).",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rockford-meyer",
+    "name": "Rockford Meyer",
+    "email": "rockford.meyer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

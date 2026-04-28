@@ -1,0 +1,14 @@
+{
+  "slug": "people/cwestadt-sppc",
+  "type": "person",
+  "title": "Cwestadt",
+  "compiled_truth": "Cwestadt is an external contact at [Sppc](companies/sppc). Over the corpus period (2000-06-21 to 2001-04-26), Cwestadt sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cwestadt-sppc",
+    "name": "Cwestadt",
+    "email": "cwestadt@sppc.com",
+    "primary_affiliation": "companies/sppc"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-cash",
+  "type": "person",
+  "title": "Michelle Cash",
+  "compiled_truth": "Michelle Cash is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-06), Michelle Cash sent 1785 and received 1401 emails, totalling 3186 interactions. Top correspondents: [Twanda Sweet](people/twanda-sweet) (314), [Fmackin](people/fmackin-aol) (102), [David Oxley](people/david-oxley) (88), [Kriste Sullivan](people/kriste-sullivan) (78), [Fran Mayes](people/fran-mayes) (72). Mailbox folders observed: _americas, deleted_items, inbox, ofccp_audit, personal, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-cash",
+    "name": "Michelle Cash",
+    "email": "michelle.cash@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

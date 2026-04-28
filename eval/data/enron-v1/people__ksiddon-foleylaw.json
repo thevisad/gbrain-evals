@@ -1,0 +1,14 @@
+{
+  "slug": "people/ksiddon-foleylaw",
+  "type": "person",
+  "title": "Ksiddon",
+  "compiled_truth": "Ksiddon is an external contact at [Foleylaw](companies/foleylaw). Over the corpus period (2001-11-19 to 2001-12-27), Ksiddon sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-11-19** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ksiddon-foleylaw",
+    "name": "Ksiddon",
+    "email": "ksiddon@foleylaw.com",
+    "primary_affiliation": "companies/foleylaw"
+  }
+}

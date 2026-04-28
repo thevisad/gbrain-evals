@@ -1,0 +1,14 @@
+{
+  "slug": "people/rhorting-peco-energy",
+  "type": "person",
+  "title": "Rhorting",
+  "compiled_truth": "Rhorting is an external contact at [Peco-energy](companies/peco-energy). Over the corpus period (2000-02-12 to 2000-07-06), Rhorting sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus\n- **2000-07-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rhorting-peco-energy",
+    "name": "Rhorting",
+    "email": "rhorting@peco-energy.com",
+    "primary_affiliation": "companies/peco-energy"
+  }
+}

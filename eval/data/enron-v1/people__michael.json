@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael",
+  "type": "person",
+  "title": " Michael",
+  "compiled_truth": "Michael is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-11 to 2002-06-13),  Michael sent 0 and received 88 emails, totalling 88 interactions.",
+  "timeline": "- **2001-04-11** | First recorded email in corpus\n- **2002-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael",
+    "name": " Michael",
+    "email": ".michael@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "companies/riobravo-gm",
+  "type": "company",
+  "title": "Riobravo-gm",
+  "compiled_truth": "Riobravo-gm is an external organization that appears in the Enron email corpus. Domain: riobravo-gm.com. Total email interactions with Enron: 582. Known contacts: 3 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (582 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/riobravo-gm",
+    "name": "Riobravo-gm",
+    "employees": [
+      "people/ccastillo-riobravo-gm",
+      "people/rescalante-riobravo-gm",
+      "people/siliff-riobravo-gm"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

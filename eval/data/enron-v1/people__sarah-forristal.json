@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarah-forristal",
+  "type": "person",
+  "title": "Sarah Forristal",
+  "compiled_truth": "Sarah Forristal is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-03-07), Sarah Forristal sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarah-forristal",
+    "name": "Sarah Forristal",
+    "email": "sarah.forristal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

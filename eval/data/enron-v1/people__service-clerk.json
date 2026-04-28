@@ -1,0 +1,14 @@
+{
+  "slug": "people/service-clerk",
+  "type": "person",
+  "title": "Service Clerk",
+  "compiled_truth": "Service Clerk is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-02 to 2001-10-02), Service Clerk sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-02** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/service-clerk",
+    "name": "Service Clerk",
+    "email": "service.clerk@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

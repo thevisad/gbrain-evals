@@ -1,0 +1,14 @@
+{
+  "slug": "people/louis-porter",
+  "type": "person",
+  "title": "Louis Porter",
+  "compiled_truth": "Louis Porter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-10-09), Louis Porter sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/louis-porter",
+    "name": "Louis Porter",
+    "email": "louis.porter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

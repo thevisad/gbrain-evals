@@ -1,0 +1,14 @@
+{
+  "slug": "people/beaty",
+  "type": "person",
+  "title": "Beaty",
+  "compiled_truth": "Beaty is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-24 to 2001-10-24), Beaty sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-09-24** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beaty",
+    "name": "Beaty",
+    "email": "beaty@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

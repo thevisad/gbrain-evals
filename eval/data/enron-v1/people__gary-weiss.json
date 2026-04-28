@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-weiss",
+  "type": "person",
+  "title": "Gary Weiss",
+  "compiled_truth": "Gary Weiss is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-21 to 2001-07-19), Gary Weiss sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2000-12-21** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-weiss",
+    "name": "Gary Weiss",
+    "email": "gary.weiss@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

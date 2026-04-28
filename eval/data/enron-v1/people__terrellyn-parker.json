@@ -1,0 +1,14 @@
+{
+  "slug": "people/terrellyn-parker",
+  "type": "person",
+  "title": "Terrellyn Parker",
+  "compiled_truth": "Terrellyn Parker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-23 to 2000-12-07), Terrellyn Parker sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **2000-05-23** | First recorded email in corpus\n- **2000-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terrellyn-parker",
+    "name": "Terrellyn Parker",
+    "email": "terrellyn.parker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

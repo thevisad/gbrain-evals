@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-swinney",
+  "type": "person",
+  "title": "John Swinney",
+  "compiled_truth": "John Swinney is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-01), John Swinney sent 4 and received 274 emails, totalling 278 interactions. Top correspondents: [Greg Whalley](people/greg-whalley) (4). Mailbox folders observed: connect_deletes, notes_inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-swinney",
+    "name": "John Swinney",
+    "email": "john.swinney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tammy-jaquet",
+  "type": "person",
+  "title": "Tammy Jaquet",
+  "compiled_truth": "Tammy Jaquet is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2002-03-01), Tammy Jaquet sent 31 and received 198 emails, totalling 229 interactions. Top correspondents: [Robert Superty](people/robert-superty) (16), [J  Farmer](people/j-farmer) (13), [Lisa Kinsey](people/lisa-kinsey) (13), [Victor Lamadrid](people/victor-lamadrid) (13), [Patti Sullivan](people/patti-sullivan) (13). Mailbox folders observed: bankruptcy, deleted_items, enron_news, inbox, logistics, market_intel.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tammy-jaquet",
+    "name": "Tammy Jaquet",
+    "email": "tammy.jaquet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

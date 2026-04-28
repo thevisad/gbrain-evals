@@ -1,0 +1,14 @@
+{
+  "slug": "people/christy-wussow",
+  "type": "person",
+  "title": "Christy Wussow",
+  "compiled_truth": "Christy Wussow is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-28 to 2001-11-20), Christy Wussow sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christy-wussow",
+    "name": "Christy Wussow",
+    "email": "christy.wussow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

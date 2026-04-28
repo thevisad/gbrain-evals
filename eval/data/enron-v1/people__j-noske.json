@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-noske",
+  "type": "person",
+  "title": "J  Noske",
+  "compiled_truth": "J  Noske is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-24 to 2001-12-03), J  Noske sent 22 and received 273 emails, totalling 295 interactions. Top correspondents: [D  Steffes](people/d-steffes) (12), [Jeff Dasovich](people/jeff-dasovich) (10), [Richard Shapiro](people/richard-shapiro) (7), [Ginger Dernehl](people/ginger-dernehl) (7), [Susan Mara](people/susan-mara) (5). Mailbox folders observed: california_issues, deleted_items, humor, important_information, inbox, notre_dame.",
+  "timeline": "- **2001-07-24** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-noske",
+    "name": "J  Noske",
+    "email": "j..noske@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-kroger-pacificorp",
+  "type": "person",
+  "title": "Paul Kroger",
+  "compiled_truth": "Paul Kroger is an external contact at [Pacificorp](companies/pacificorp). Over the corpus period (2000-11-10 to 2001-08-14), Paul Kroger sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-08-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-kroger-pacificorp",
+    "name": "Paul Kroger",
+    "email": "paul.kroger@pacificorp.com",
+    "primary_affiliation": "companies/pacificorp"
+  }
+}

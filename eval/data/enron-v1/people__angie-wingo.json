@@ -1,0 +1,14 @@
+{
+  "slug": "people/angie-wingo",
+  "type": "person",
+  "title": "Angie Wingo",
+  "compiled_truth": "Angie Wingo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-24 to 2001-09-25), Angie Wingo sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-08-24** | First recorded email in corpus\n- **2001-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angie-wingo",
+    "name": "Angie Wingo",
+    "email": "angie.wingo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-martinez",
+  "type": "person",
+  "title": "Chris Martinez",
+  "compiled_truth": "Chris Martinez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-08 to 2001-12-07), Chris Martinez sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-10-08** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-martinez",
+    "name": "Chris Martinez",
+    "email": "chris.martinez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

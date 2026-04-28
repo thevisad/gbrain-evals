@@ -1,0 +1,14 @@
+{
+  "slug": "people/bryant-frihart",
+  "type": "person",
+  "title": "Bryant Frihart",
+  "compiled_truth": "Bryant Frihart is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-26 to 2002-02-21), Bryant Frihart sent 14 and received 184 emails, totalling 198 interactions. Top correspondents: [C  Giron](people/c-giron) (8), [Larry May](people/larry-may) (2), [Hayhurstb](people/hayhurstb-paceglobal) (1), [Tammy Gilmore](people/tammy-gilmore) (1), [L  Mims](people/l-mims) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-03-26** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bryant-frihart",
+    "name": "Bryant Frihart",
+    "email": "bryant.frihart@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

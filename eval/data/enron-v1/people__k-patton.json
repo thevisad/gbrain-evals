@@ -1,0 +1,14 @@
+{
+  "slug": "people/k-patton",
+  "type": "person",
+  "title": "K  Patton",
+  "compiled_truth": "K  Patton is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-16 to 2002-06-21), K  Patton sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **2001-05-16** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/k-patton",
+    "name": "K  Patton",
+    "email": "k..patton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

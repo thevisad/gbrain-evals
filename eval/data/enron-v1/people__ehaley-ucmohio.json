@@ -1,0 +1,14 @@
+{
+  "slug": "people/ehaley-ucmohio",
+  "type": "person",
+  "title": "Ehaley",
+  "compiled_truth": "Ehaley is an external contact at [Ucmohio](companies/ucmohio). Over the corpus period (2000-11-07 to 2001-09-11), Ehaley sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ehaley-ucmohio",
+    "name": "Ehaley",
+    "email": "ehaley@ucmohio.com",
+    "primary_affiliation": "companies/ucmohio"
+  }
+}

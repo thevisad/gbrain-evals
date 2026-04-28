@@ -1,0 +1,14 @@
+{
+  "slug": "people/charles-cheek",
+  "type": "person",
+  "title": "Charles Cheek",
+  "compiled_truth": "Charles Cheek is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-14 to 2002-01-18), Charles Cheek sent 16 and received 164 emails, totalling 180 interactions. Top correspondents: [James Derrick](people/james-derrick) (5), [Kate Cole](people/kate-cole) (5), [Mark Haedicke](people/mark-haedicke) (5), [Britt Davis](people/britt-davis) (5), [Rob Walls](people/rob-walls) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-07-14** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charles-cheek",
+    "name": "Charles Cheek",
+    "email": "charles.cheek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephanie-gardner",
+  "type": "person",
+  "title": "Stephanie Gardner",
+  "compiled_truth": "Stephanie Gardner is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-11), Stephanie Gardner sent 3 and received 48 emails, totalling 51 interactions. Top correspondents: [Mike Curry](people/mike-curry) (3), [Janet Wallis](people/janet-wallis) (3), [Daren Farmer](people/daren-farmer) (3), [Doug Gilbert-Smith](people/doug-gilbert-smith) (3), [Clint Dean](people/clint-dean) (3). Mailbox folders observed: frontera.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephanie-gardner",
+    "name": "Stephanie Gardner",
+    "email": "stephanie.gardner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

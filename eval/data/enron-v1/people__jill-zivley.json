@@ -1,0 +1,14 @@
+{
+  "slug": "people/jill-zivley",
+  "type": "person",
+  "title": "Jill Zivley",
+  "compiled_truth": "Jill Zivley is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-13), Jill Zivley sent 4 and received 127 emails, totalling 131 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (2), [Shawna Flynn](people/shawna-flynn) (2), [Susan Smith](people/susan-smith) (1), [Melissa Graves](people/melissa-graves) (1), [Donald Reinhardt](people/donald-reinhardt) (1). Mailbox folders observed: bids___offers.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jill-zivley",
+    "name": "Jill Zivley",
+    "email": "jill.zivley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

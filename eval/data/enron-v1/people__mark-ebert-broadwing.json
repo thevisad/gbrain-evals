@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-ebert-broadwing",
+  "type": "person",
+  "title": "Mark Ebert",
+  "compiled_truth": "Mark Ebert is an external contact at [Broadwing](companies/broadwing). Over the corpus period (2000-06-12 to 2001-07-06), Mark Ebert sent 0 and received 61 emails, totalling 61 interactions.",
+  "timeline": "- **2000-06-12** | First recorded email in corpus\n- **2001-07-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-ebert-broadwing",
+    "name": "Mark Ebert",
+    "email": "mark.ebert@broadwing.com",
+    "primary_affiliation": "companies/broadwing"
+  }
+}

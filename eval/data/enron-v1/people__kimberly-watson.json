@@ -1,0 +1,14 @@
+{
+  "slug": "people/kimberly-watson",
+  "type": "person",
+  "title": "Kimberly Watson",
+  "compiled_truth": "Kimberly Watson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-03-26), Kimberly Watson sent 1133 and received 2227 emails, totalling 3360 interactions. Top correspondents: [Steven Harris](people/steven-harris) (181), [Michelle Lokay](people/michelle-lokay) (180), [Mark Mcconnell](people/mark-mcconnell) (167), [Lorraine Lindberg](people/lorraine-lindberg) (161), [Tk Lohman](people/tk-lohman) (161). Mailbox folders observed: alternate_delivery_by_price, articles, consultants, deleted_items, enron_t_s, inbox.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-03-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kimberly-watson",
+    "name": "Kimberly Watson",
+    "email": "kimberly.watson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

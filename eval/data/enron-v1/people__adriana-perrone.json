@@ -1,0 +1,14 @@
+{
+  "slug": "people/adriana-perrone",
+  "type": "person",
+  "title": "Adriana Perrone",
+  "compiled_truth": "Adriana Perrone is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2000-07-28), Adriana Perrone sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adriana-perrone",
+    "name": "Adriana Perrone",
+    "email": "adriana.perrone@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

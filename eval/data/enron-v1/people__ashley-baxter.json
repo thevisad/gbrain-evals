@@ -1,0 +1,14 @@
+{
+  "slug": "people/ashley-baxter",
+  "type": "person",
+  "title": "Ashley Baxter",
+  "compiled_truth": "Ashley Baxter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-08 to 2001-11-30), Ashley Baxter sent 16 and received 59 emails, totalling 75 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (7), [Vkamins](people/vkamins) (6), [John Pavetto](people/john-pavetto) (6), [Radu Tutos](people/radu-tutos) (4), [Denise Rancour](people/denise-rancour) (4).",
+  "timeline": "- **2000-08-08** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ashley-baxter",
+    "name": "Ashley Baxter",
+    "email": "ashley.baxter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

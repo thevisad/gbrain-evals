@@ -1,0 +1,14 @@
+{
+  "slug": "people/nyiso-tech-exchange-global2000",
+  "type": "person",
+  "title": "Nyiso Tech Exchange",
+  "compiled_truth": "Nyiso Tech Exchange is an external contact at [Global2000](companies/global2000). Over the corpus period (2000-11-26 to 2002-01-29), Nyiso Tech Exchange sent 0 and received 179 emails, totalling 179 interactions.",
+  "timeline": "- **2000-11-26** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nyiso-tech-exchange-global2000",
+    "name": "Nyiso Tech Exchange",
+    "email": "nyiso_tech_exchange@global2000.net",
+    "primary_affiliation": "companies/global2000"
+  }
+}

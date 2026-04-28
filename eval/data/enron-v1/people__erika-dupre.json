@@ -1,0 +1,14 @@
+{
+  "slug": "people/erika-dupre",
+  "type": "person",
+  "title": "Erika Dupre",
+  "compiled_truth": "Erika Dupre is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-04 to 2001-10-19), Erika Dupre sent 1 and received 531 emails, totalling 532 interactions. Top correspondents: [Sherri Zeiler](people/sherri-zeiler) (1), [Jay Blaine](people/jay-blaine) (1), [Shelia Benke](people/shelia-benke) (1), [Larry Campbell](people/larry-campbell) (1), [Timothy Murphy](people/timothy-murphy) (1).",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/erika-dupre",
+    "name": "Erika Dupre",
+    "email": "erika.dupre@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

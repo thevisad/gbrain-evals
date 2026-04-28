@@ -1,0 +1,14 @@
+{
+  "slug": "people/rush",
+  "type": "person",
+  "title": "'Rush",
+  "compiled_truth": "'Rush is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-24 to 2001-10-24), 'Rush sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-09-24** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rush",
+    "name": "'Rush",
+    "email": "'rush@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

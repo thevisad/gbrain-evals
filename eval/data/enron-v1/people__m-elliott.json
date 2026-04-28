@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-elliott",
+  "type": "person",
+  "title": "M  Elliott",
+  "compiled_truth": "M  Elliott is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-26 to 2002-01-25), M  Elliott sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-elliott",
+    "name": "M  Elliott",
+    "email": "m..elliott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

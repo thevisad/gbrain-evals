@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-jagau",
+  "type": "person",
+  "title": "James Jagau",
+  "compiled_truth": "James Jagau is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-27 to 2001-12-07), James Jagau sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-11-27** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-jagau",
+    "name": "James Jagau",
+    "email": "james.jagau@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/trevor-randolph",
+  "type": "person",
+  "title": "Trevor Randolph",
+  "compiled_truth": "Trevor Randolph is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-12 to 2001-10-30), Trevor Randolph sent 1 and received 42 emails, totalling 43 interactions. Top correspondents: [David Leboe](people/david-leboe) (1), [J  Kean](people/j-kean) (1). Mailbox folders observed: pr_crisis_management.",
+  "timeline": "- **2000-04-12** | First recorded email in corpus\n- **2001-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/trevor-randolph",
+    "name": "Trevor Randolph",
+    "email": "trevor.randolph@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

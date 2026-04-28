@@ -1,0 +1,14 @@
+{
+  "slug": "people/tina-tennant",
+  "type": "person",
+  "title": "Tina Tennant",
+  "compiled_truth": "Tina Tennant is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2000-09-27), Tina Tennant sent 4 and received 25 emails, totalling 29 interactions. Top correspondents: [John King](people/john-king) (4), [Garrick Hill](people/garrick-hill) (4), [Thomas Suffield](people/thomas-suffield) (3), [Andrew Kelemen](people/andrew-kelemen) (3), [Ron Coker](people/ron-coker) (3).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2000-09-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tina-tennant",
+    "name": "Tina Tennant",
+    "email": "tina.tennant@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

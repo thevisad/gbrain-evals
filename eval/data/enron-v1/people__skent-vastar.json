@@ -1,0 +1,14 @@
+{
+  "slug": "people/skent-vastar",
+  "type": "person",
+  "title": "Skent",
+  "compiled_truth": "Skent is an external contact at [Vastar](companies/vastar). Over the corpus period (2000-05-21 to 2000-11-25), Skent sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/skent-vastar",
+    "name": "Skent",
+    "email": "skent@vastar.com",
+    "primary_affiliation": "companies/vastar"
+  }
+}

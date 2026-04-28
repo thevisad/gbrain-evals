@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-bills",
+  "type": "person",
+  "title": "Lisa Bills",
+  "compiled_truth": "Lisa Bills is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-06-07), Lisa Bills sent 24 and received 522 emails, totalling 546 interactions. Top correspondents: [Kay Mann](people/kay-mann) (22), [Roseann Engeldorf](people/roseann-engeldorf) (17), [Sheila Tweed](people/sheila-tweed) (11), [Catherine Clark](people/catherine-clark) (11), [Ben Jacoby](people/ben-jacoby) (8). Mailbox folders observed: bankrupt.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-bills",
+    "name": "Lisa Bills",
+    "email": "lisa.bills@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

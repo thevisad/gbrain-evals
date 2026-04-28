@@ -1,0 +1,14 @@
+{
+  "slug": "people/bwillia5",
+  "type": "person",
+  "title": "Bwillia5",
+  "compiled_truth": "Bwillia5 is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-09 to 2002-02-06), Bwillia5 sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Eric Linder](people/eric-linder) (1).",
+  "timeline": "- **2001-04-09** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bwillia5",
+    "name": "Bwillia5",
+    "email": "bwillia5@ect.enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

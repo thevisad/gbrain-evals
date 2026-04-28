@@ -1,0 +1,30 @@
+{
+  "slug": "threads/enron-mentions-2000-10",
+  "type": "meeting",
+  "title": "Thread: Enron Mentions",
+  "compiled_truth": "Email thread: \"Enron Mentions\". Ran from 2000-10-22 to 2000-11-02 with 8 messages. Participants: [Ann Schmidt](people/ann-schmidt), [Cbone](people/cbone-wyattfirm), [Damon Harvey](people/damon-harvey), [Elizabeth Linnell](people/elizabeth-linnell), [Eric Thode](people/eric-thode), [James Steffes](people/james-steffes), [Jeannie Mandelker](people/jeannie-mandelker), [Joe Hartsoe](people/joe-hartsoe).",
+  "timeline": "- **2000-10-22** | Thread begins: enron mentions\n- **2000-11-02** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-mentions-2000-10",
+    "attendees": [
+      "people/ann-schmidt",
+      "people/cbone-wyattfirm",
+      "people/damon-harvey",
+      "people/elizabeth-linnell",
+      "people/eric-thode",
+      "people/james-steffes",
+      "people/jeannie-mandelker",
+      "people/joe-hartsoe",
+      "people/karen-denne",
+      "people/keith-miceli",
+      "people/laura-schwartz",
+      "people/mark-palmer",
+      "people/mary-clark",
+      "people/meredith-philipp",
+      "people/richard-shapiro",
+      "people/steven-kean"
+    ],
+    "date": "2000-10-22"
+  }
+}

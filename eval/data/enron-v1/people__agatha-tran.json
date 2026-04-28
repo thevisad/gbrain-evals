@@ -1,0 +1,14 @@
+{
+  "slug": "people/agatha-tran",
+  "type": "person",
+  "title": "Agatha Tran",
+  "compiled_truth": "Agatha Tran is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-17), Agatha Tran sent 10 and received 60 emails, totalling 70 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (8), [E  Sommers](people/e-sommers) (4), [Stephen Schwarzbach](people/stephen-schwarzbach) (3), [Mei-Ling Kaster](people/mei-ling-kaster) (2), [Kenneth Lay](people/kenneth-lay) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/agatha-tran",
+    "name": "Agatha Tran",
+    "email": "agatha.tran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

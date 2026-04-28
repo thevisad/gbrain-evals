@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-smith",
+  "type": "person",
+  "title": "Jeff Smith",
+  "compiled_truth": "Jeff Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-19 to 2001-07-19), Jeff Smith sent 25 and received 26 emails, totalling 51 interactions. Top correspondents: [Gary Hickerson](people/gary-hickerson) (25), [George Mcclellan](people/george-mcclellan) (25), [Mark Tawney](people/mark-tawney) (25), [Sally Beck](people/sally-beck) (25), [Brent Price](people/brent-price) (25). Mailbox folders observed: egm.",
+  "timeline": "- **2000-05-19** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-smith",
+    "name": "Jeff Smith",
+    "email": "jeff.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

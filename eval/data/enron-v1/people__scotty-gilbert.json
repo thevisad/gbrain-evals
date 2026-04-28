@@ -1,0 +1,14 @@
+{
+  "slug": "people/scotty-gilbert",
+  "type": "person",
+  "title": "Scotty Gilbert",
+  "compiled_truth": "Scotty Gilbert is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2002-05-13), Scotty Gilbert sent 5 and received 284 emails, totalling 289 interactions. Top correspondents: [Bill Williams](people/bill-williams) (2), [Center Dl-Portland](people/center-dl-portland) (1), [Heather Choate](people/heather-choate) (1), [Randall Gay](people/randall-gay) (1), [Katherine Kelly](people/katherine-kelly) (1). Mailbox folders observed: bill_williams_iii, deleted_items, inbox, sent_items.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scotty-gilbert",
+    "name": "Scotty Gilbert",
+    "email": "scotty.gilbert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

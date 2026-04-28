@@ -1,0 +1,14 @@
+{
+  "slug": "people/bobbie-power",
+  "type": "person",
+  "title": "Bobbie Power",
+  "compiled_truth": "Bobbie Power is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-15 to 2002-05-06), Bobbie Power sent 5 and received 76 emails, totalling 81 interactions. Top correspondents: [Rosalee Fleming](people/rosalee-fleming) (5), [Rick Buy](people/rick-buy) (4), [Richard Causey](people/richard-causey) (4), [David Delainey](people/david-delainey) (4), [James Derrick](people/james-derrick) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-10-15** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bobbie-power",
+    "name": "Bobbie Power",
+    "email": "bobbie.power@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

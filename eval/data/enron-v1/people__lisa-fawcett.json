@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-fawcett",
+  "type": "person",
+  "title": "Lisa Fawcett",
+  "compiled_truth": "Lisa Fawcett is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-30 to 2001-11-19), Lisa Fawcett sent 3 and received 6 emails, totalling 9 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (2), [Lindy Donoho](people/lindy-donoho) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-fawcett",
+    "name": "Lisa Fawcett",
+    "email": "lisa.fawcett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

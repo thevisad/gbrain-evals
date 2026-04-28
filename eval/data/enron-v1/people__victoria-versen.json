@@ -1,0 +1,14 @@
+{
+  "slug": "people/victoria-versen",
+  "type": "person",
+  "title": "Victoria Versen",
+  "compiled_truth": "Victoria Versen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-06-25), Victoria Versen sent 10 and received 621 emails, totalling 631 interactions. Top correspondents: [Chris Germany](people/chris-germany) (7), [Scott Neal](people/scott-neal) (4), [Scott Goodell](people/scott-goodell) (4), [Judy Townsend](people/judy-townsend) (3), [Clarissa Garcia](people/clarissa-garcia) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/victoria-versen",
+    "name": "Victoria Versen",
+    "email": "victoria.versen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

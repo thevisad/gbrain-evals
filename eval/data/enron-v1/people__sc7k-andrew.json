@@ -1,0 +1,14 @@
+{
+  "slug": "people/sc7k-andrew",
+  "type": "person",
+  "title": "Sc7K",
+  "compiled_truth": "Sc7K is an external contact at [Andrew](companies/andrew). Over the corpus period (2001-10-19 to 2001-11-01), Sc7K sent 1 and received 1 emails, totalling 2 interactions. Top correspondents: [Amorton](people/amorton-lehman) (1), [Heath](people/heath-andrew) (1), [Ashvin Chhabra](people/ashvin-chhabra-ml) (1), [Vkamins](people/vkamins) (1), [Evan Picoult](people/evan-picoult-citicorp) (1).",
+  "timeline": "- **2001-10-19** | First recorded email in corpus\n- **2001-11-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sc7k-andrew",
+    "name": "Sc7K",
+    "email": "sc7k@andrew.cmu.edu",
+    "primary_affiliation": "companies/andrew"
+  }
+}

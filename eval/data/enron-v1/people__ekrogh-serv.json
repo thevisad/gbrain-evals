@@ -1,0 +1,14 @@
+{
+  "slug": "people/ekrogh-serv",
+  "type": "person",
+  "title": "Ekrogh",
+  "compiled_truth": "Ekrogh is an external contact at [Serv](companies/serv). Over the corpus period (2000-07-08 to 2001-12-15), Ekrogh sent 8 and received 20 emails, totalling 28 interactions. Top correspondents: [Rrga-L](people/rrga-l-list) (3), [Bmspeckman](people/bmspeckman-aol) (3), [Chrisrtowest](people/chrisrtowest-earthlink) (3), [Judyrtowest](people/judyrtowest-earthlink) (3), [Kristiwallis](people/kristiwallis-sprintmail) (2).",
+  "timeline": "- **2000-07-08** | First recorded email in corpus\n- **2001-12-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ekrogh-serv",
+    "name": "Ekrogh",
+    "email": "ekrogh@serv.net",
+    "primary_affiliation": "companies/serv"
+  }
+}

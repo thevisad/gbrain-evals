@@ -1,0 +1,14 @@
+{
+  "slug": "people/joya-davis",
+  "type": "person",
+  "title": "Joya Davis",
+  "compiled_truth": "Joya Davis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-02-09 to 2001-01-09), Joya Davis sent 19 and received 186 emails, totalling 205 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (14), [Kaye Ellis](people/kaye-ellis) (11), [Chaundra Woods](people/chaundra-woods) (9), [Sara Shackleton](people/sara-shackleton) (9), [Alan Aronowitz](people/alan-aronowitz) (8).",
+  "timeline": "- **1999-02-09** | First recorded email in corpus\n- **2001-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joya-davis",
+    "name": "Joya Davis",
+    "email": "joya.davis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

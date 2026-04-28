@@ -1,0 +1,14 @@
+{
+  "slug": "people/drosen-algorithmics",
+  "type": "person",
+  "title": "Drosen",
+  "compiled_truth": "Drosen is an external contact at [Algorithmics](companies/algorithmics). Over the corpus period (2000-09-18 to 2000-12-04), Drosen sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2000-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/drosen-algorithmics",
+    "name": "Drosen",
+    "email": "drosen@algorithmics.com",
+    "primary_affiliation": "companies/algorithmics"
+  }
+}

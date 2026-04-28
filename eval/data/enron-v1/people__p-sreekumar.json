@@ -1,0 +1,14 @@
+{
+  "slug": "people/p-sreekumar",
+  "type": "person",
+  "title": "P Sreekumar",
+  "compiled_truth": "P Sreekumar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2000-04-14), P Sreekumar sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2000-04-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/p-sreekumar",
+    "name": "P Sreekumar",
+    "email": "p.sreekumar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

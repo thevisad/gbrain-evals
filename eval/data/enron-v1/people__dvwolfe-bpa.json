@@ -1,0 +1,14 @@
+{
+  "slug": "people/dvwolfe-bpa",
+  "type": "person",
+  "title": "Dvwolfe",
+  "compiled_truth": "Dvwolfe is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2000-08-24 to 2001-12-19), Dvwolfe sent 1 and received 10 emails, totalling 11 interactions. Top correspondents: [Douglass](people/douglass-arterhadden) (1), [Barbara Klemstine](people/barbara-klemstine-apsc) (1), [Vicki Sandler](people/vicki-sandler-apses) (1), [Berry](people/berry-apx) (1), [Dcazalet](people/dcazalet-apx) (1).",
+  "timeline": "- **2000-08-24** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dvwolfe-bpa",
+    "name": "Dvwolfe",
+    "email": "dvwolfe@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

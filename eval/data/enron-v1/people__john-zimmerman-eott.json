@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-zimmerman-eott",
+  "type": "person",
+  "title": "John Zimmerman",
+  "compiled_truth": "John Zimmerman is an external contact at [Eott](companies/eott). Over the corpus period (2000-02-02 to 2001-05-30), John Zimmerman sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-zimmerman-eott",
+    "name": "John Zimmerman",
+    "email": "john_zimmerman@eott.com",
+    "primary_affiliation": "companies/eott"
+  }
+}

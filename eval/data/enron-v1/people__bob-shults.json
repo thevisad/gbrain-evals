@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-shults",
+  "type": "person",
+  "title": "Bob Shults",
+  "compiled_truth": "Bob Shults is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-14), Bob Shults sent 156 and received 1180 emails, totalling 1336 interactions. Top correspondents: [Andy Zipper](people/andy-zipper) (76), [Tana Jones](people/tana-jones) (47), [Mark Taylor](people/mark-taylor) (31), [Mark Greenberg](people/mark-greenberg) (25), [Michael Bridges](people/michael-bridges) (15). Mailbox folders observed: archive, broker_client, calendar, deleted_items, hs, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-shults",
+    "name": "Bob Shults",
+    "email": "bob.shults@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

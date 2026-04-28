@@ -1,0 +1,14 @@
+{
+  "slug": "people/camiessn-newwestenergy",
+  "type": "person",
+  "title": "Camiessn",
+  "compiled_truth": "Camiessn is an external contact at [Newwestenergy](companies/newwestenergy). Over the corpus period (2000-10-19 to 2002-01-02), Camiessn sent 0 and received 65 emails, totalling 65 interactions.",
+  "timeline": "- **2000-10-19** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/camiessn-newwestenergy",
+    "name": "Camiessn",
+    "email": "camiessn@newwestenergy.com",
+    "primary_affiliation": "companies/newwestenergy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-d-burns",
+  "type": "person",
+  "title": "Stephen D Burns",
+  "compiled_truth": "Stephen D Burns is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-16 to 2001-04-30), Stephen D Burns sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-03-16** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-d-burns",
+    "name": "Stephen D Burns",
+    "email": "stephen.d.burns@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

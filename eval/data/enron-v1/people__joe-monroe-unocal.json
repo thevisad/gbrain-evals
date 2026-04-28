@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-monroe-unocal",
+  "type": "person",
+  "title": "Joe Monroe",
+  "compiled_truth": "Joe Monroe is an external contact at [Unocal](companies/unocal). Over the corpus period (2001-11-20 to 2001-12-18), Joe Monroe sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [John Somerhalder](people/john-somerhalder-elpaso) (1), [Fjfowler](people/fjfowler-duke-energy) (1), [Gmrootes](people/gmrootes-equilon) (1), [Tom Miesner](people/tom-miesner-usa) (1), [Shorton](people/shorton) (1).",
+  "timeline": "- **2001-11-20** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-monroe-unocal",
+    "name": "Joe Monroe",
+    "email": "joe.monroe@unocal.com",
+    "primary_affiliation": "companies/unocal"
+  }
+}

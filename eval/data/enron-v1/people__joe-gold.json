@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-gold",
+  "type": "person",
+  "title": "Joe Gold",
+  "compiled_truth": "Joe Gold is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2002-01-14), Joe Gold sent 3 and received 398 emails, totalling 401 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1), [Jeffrey Mcmahon](people/jeffrey-mcmahon) (1), [John Sherriff](people/john-sherriff) (1), [Louise Kitchen](people/louise-kitchen) (1), [Raymond Bowen](people/raymond-bowen) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-gold",
+    "name": "Joe Gold",
+    "email": "joe.gold@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

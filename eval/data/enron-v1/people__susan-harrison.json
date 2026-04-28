@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-harrison",
+  "type": "person",
+  "title": "Susan Harrison",
+  "compiled_truth": "Susan Harrison is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-03), Susan Harrison sent 7 and received 179 emails, totalling 186 interactions. Top correspondents: [Sally Beck](people/sally-beck) (7), [Rob Milnthorp](people/rob-milnthorp) (2), [Brent Price](people/brent-price) (2), [Bryce Baxter](people/bryce-baxter) (2), [Derek Davies](people/derek-davies) (1). Mailbox folders observed: aec.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-harrison",
+    "name": "Susan Harrison",
+    "email": "susan.harrison@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

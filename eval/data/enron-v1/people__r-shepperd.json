@@ -1,0 +1,14 @@
+{
+  "slug": "people/r-shepperd",
+  "type": "person",
+  "title": "R  Shepperd",
+  "compiled_truth": "R  Shepperd is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-09 to 2002-02-13), R  Shepperd sent 31 and received 115 emails, totalling 146 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (16), [Ina Rangel](people/ina-rangel) (9), [Scott Neal](people/scott-neal) (9), [John Lavorato](people/john-lavorato) (7), [Wes Colwell](people/wes-colwell) (7). Mailbox folders observed: _americas, deleted_items, floorspace, inbox, old_inbox.",
+  "timeline": "- **2001-02-09** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/r-shepperd",
+    "name": "R  Shepperd",
+    "email": "r..shepperd@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

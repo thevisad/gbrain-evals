@@ -1,0 +1,14 @@
+{
+  "slug": "people/ed-husami",
+  "type": "person",
+  "title": "Ed Husami",
+  "compiled_truth": "Ed Husami is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-11-03), Ed Husami sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ed-husami",
+    "name": "Ed Husami",
+    "email": "ed.husami@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

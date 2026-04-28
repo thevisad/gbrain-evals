@@ -1,0 +1,14 @@
+{
+  "slug": "people/jgl-cpuc",
+  "type": "person",
+  "title": "Jgl",
+  "compiled_truth": "Jgl is an external contact at [Cpuc](companies/cpuc). Over the corpus period (2000-08-25 to 2001-11-03), Jgl sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jgl-cpuc",
+    "name": "Jgl",
+    "email": "jgl@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

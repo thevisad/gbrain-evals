@@ -1,0 +1,14 @@
+{
+  "slug": "people/tlg4-pge",
+  "type": "person",
+  "title": "Tlg4",
+  "compiled_truth": "Tlg4 is an external contact at [PG&E](companies/pge). Over the corpus period (2000-07-25 to 2000-08-29), Tlg4 sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2000-08-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tlg4-pge",
+    "name": "Tlg4",
+    "email": "tlg4@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

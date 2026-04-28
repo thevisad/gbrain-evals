@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-mayfield",
+  "type": "person",
+  "title": "Kathy Mayfield",
+  "compiled_truth": "Kathy Mayfield is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-16 to 2001-12-05), Kathy Mayfield sent 8 and received 25 emails, totalling 33 interactions. Top correspondents: [Rick Buy](people/rick-buy) (4), [Richard Causey](people/richard-causey) (4), [Andrew Fastow](people/andrew-fastow) (4), [J  Kean](people/j-kean) (4), [Billy Lemmons](people/billy-lemmons) (4). Mailbox folders observed: deleted_items, inbox, personal.",
+  "timeline": "- **2000-05-16** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-mayfield",
+    "name": "Kathy Mayfield",
+    "email": "kathy.mayfield@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-d-steffes",
+  "type": "person",
+  "title": "James D Steffes",
+  "compiled_truth": "James D Steffes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-19 to 2001-11-21), James D Steffes sent 0 and received 294 emails, totalling 294 interactions.",
+  "timeline": "- **2000-07-19** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-d-steffes",
+    "name": "James D Steffes",
+    "email": "james.d.steffes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

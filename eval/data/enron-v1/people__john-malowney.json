@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-malowney",
+  "type": "person",
+  "title": "John Malowney",
+  "compiled_truth": "John Malowney is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-10 to 2002-01-30), John Malowney sent 54 and received 328 emails, totalling 382 interactions. Top correspondents: [Tana Jones](people/tana-jones) (22), [Diana Scholtes](people/diana-scholtes) (16), [Tracy Ngo](people/tracy-ngo) (13), [Cara Semperger](people/cara-semperger) (13), [Mike Swerzbin](people/mike-swerzbin) (12). Mailbox folders observed: bill_williams_iii, inbox, lt_contracts.",
+  "timeline": "- **1999-05-10** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-malowney",
+    "name": "John Malowney",
+    "email": "john.malowney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

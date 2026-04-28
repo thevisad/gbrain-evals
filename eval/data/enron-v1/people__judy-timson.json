@@ -1,0 +1,14 @@
+{
+  "slug": "people/judy-timson",
+  "type": "person",
+  "title": "Judy Timson",
+  "compiled_truth": "Judy Timson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-05-01), Judy Timson sent 1 and received 3 emails, totalling 4 interactions. Top correspondents: [Brenda Brown](people/brenda-brown-pgn) (1), [Scott Bither](people/scott-bither-pgn) (1), [Dore Judd](people/dore-judd-pgn) (1), [Carmen Milashouskas](people/carmen-milashouskas-pgn) (1), [Linda Bodine](people/linda-bodine-pgn) (1).",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-05-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/judy-timson",
+    "name": "Judy Timson",
+    "email": "judy.timson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

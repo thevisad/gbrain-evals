@@ -1,0 +1,14 @@
+{
+  "slug": "people/patrick-mulvany",
+  "type": "person",
+  "title": "Patrick Mulvany",
+  "compiled_truth": "Patrick Mulvany is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-08 to 2002-06-21), Patrick Mulvany sent 20 and received 85 emails, totalling 105 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (9), [Patrick Ryder](people/patrick-ryder) (8), [Anne Bike](people/anne-bike) (7), [Amy Cavazos](people/amy-cavazos) (7), [Kristen Clause](people/kristen-clause) (7). Mailbox folders observed: central, deleted_items, inbox.",
+  "timeline": "- **2001-02-08** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patrick-mulvany",
+    "name": "Patrick Mulvany",
+    "email": "patrick.mulvany@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

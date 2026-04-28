@@ -1,0 +1,14 @@
+{
+  "slug": "people/counihan-greenmountain",
+  "type": "person",
+  "title": "Counihan",
+  "compiled_truth": "Counihan is an external contact at [Greenmountain](companies/greenmountain). Over the corpus period (2000-05-01 to 2001-11-19), Counihan sent 0 and received 64 emails, totalling 64 interactions.",
+  "timeline": "- **2000-05-01** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/counihan-greenmountain",
+    "name": "Counihan",
+    "email": "counihan@greenmountain.com",
+    "primary_affiliation": "companies/greenmountain"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ethan-schultz",
+  "type": "person",
+  "title": "Ethan Schultz",
+  "compiled_truth": "Ethan Schultz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-11-30), Ethan Schultz sent 1 and received 53 emails, totalling 54 interactions. Top correspondents: [Brian Spector](people/brian-spector) (1), [Jeff Dasovich](people/jeff-dasovich) (1).",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ethan-schultz",
+    "name": "Ethan Schultz",
+    "email": "ethan.schultz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

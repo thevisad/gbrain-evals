@@ -1,0 +1,14 @@
+{
+  "slug": "people/pthompson-andrews-kurth",
+  "type": "person",
+  "title": "Pthompson",
+  "compiled_truth": "Pthompson is an external contact at [Andrews-kurth](companies/andrews-kurth). Over the corpus period (2000-11-03 to 2001-03-13), Pthompson sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2001-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pthompson-andrews-kurth",
+    "name": "Pthompson",
+    "email": "pthompson@andrews-kurth.com",
+    "primary_affiliation": "companies/andrews-kurth"
+  }
+}

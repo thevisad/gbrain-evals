@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-zhou",
+  "type": "person",
+  "title": "Jennifer Zhou",
+  "compiled_truth": "Jennifer Zhou is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2002-01-14), Jennifer Zhou sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-zhou",
+    "name": "Jennifer Zhou",
+    "email": "jennifer.zhou@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

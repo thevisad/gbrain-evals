@@ -1,0 +1,14 @@
+{
+  "slug": "people/lay-natalie",
+  "type": "person",
+  "title": "Lay Natalie",
+  "compiled_truth": "Lay Natalie is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2001-09-20), Lay Natalie sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2001-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lay-natalie",
+    "name": "Lay Natalie",
+    "email": "lay.natalie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/clombardi-cooplink",
+  "type": "person",
+  "title": "Clombardi",
+  "compiled_truth": "Clombardi is an external contact at [Cooplink](companies/cooplink). Over the corpus period (2001-05-03 to 2001-09-11), Clombardi sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-05-03** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clombardi-cooplink",
+    "name": "Clombardi",
+    "email": "clombardi@cooplink.net",
+    "primary_affiliation": "companies/cooplink"
+  }
+}

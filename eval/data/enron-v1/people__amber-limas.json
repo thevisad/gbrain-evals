@@ -1,0 +1,14 @@
+{
+  "slug": "people/amber-limas",
+  "type": "person",
+  "title": "Amber Limas",
+  "compiled_truth": "Amber Limas is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2000-12-29), Amber Limas sent 0 and received 80 emails, totalling 80 interactions.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2000-12-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amber-limas",
+    "name": "Amber Limas",
+    "email": "amber.limas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

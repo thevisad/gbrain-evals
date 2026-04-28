@@ -1,0 +1,14 @@
+{
+  "slug": "people/anne-bike",
+  "type": "person",
+  "title": "Anne Bike",
+  "compiled_truth": "Anne Bike is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-13 to 2002-01-31), Anne Bike sent 36 and received 574 emails, totalling 610 interactions. Top correspondents: [Mike Grigsby](people/mike-grigsby) (21), [Monique Sanchez](people/monique-sanchez) (7), [Keith Holst](people/keith-holst) (6), [C  Giron](people/c-giron) (6), [Monte Jones](people/monte-jones) (4). Mailbox folders observed: 07_saved, 10_saved, deleted_items, inbox, janie.",
+  "timeline": "- **2000-06-13** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anne-bike",
+    "name": "Anne Bike",
+    "email": "anne.bike@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

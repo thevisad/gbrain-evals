@@ -1,0 +1,14 @@
+{
+  "slug": "people/plucas-ta",
+  "type": "person",
+  "title": "Plucas",
+  "compiled_truth": "Plucas is an external contact at [Ta](companies/ta). Over the corpus period (2000-10-31 to 2000-10-31), Plucas sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-31** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/plucas-ta",
+    "name": "Plucas",
+    "email": "plucas@ta.com",
+    "primary_affiliation": "companies/ta"
+  }
+}

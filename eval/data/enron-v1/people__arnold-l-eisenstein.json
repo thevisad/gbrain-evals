@@ -1,0 +1,14 @@
+{
+  "slug": "people/arnold-l-eisenstein",
+  "type": "person",
+  "title": "Arnold L Eisenstein",
+  "compiled_truth": "Arnold L Eisenstein is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-14 to 2001-11-21), Arnold L Eisenstein sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-03-14** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/arnold-l-eisenstein",
+    "name": "Arnold L Eisenstein",
+    "email": "arnold.l.eisenstein@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

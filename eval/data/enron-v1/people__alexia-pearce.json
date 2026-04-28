@@ -1,0 +1,14 @@
+{
+  "slug": "people/alexia-pearce",
+  "type": "person",
+  "title": "Alexia Pearce",
+  "compiled_truth": "Alexia Pearce is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-17 to 2000-12-07), Alexia Pearce sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (1), [Shonnie Daniel](people/shonnie-daniel) (1), [Ann Ballard](people/ann-ballard) (1), [Karry Kendall](people/karry-kendall) (1), [Jim Coffey](people/jim-coffey) (1).",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2000-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alexia-pearce",
+    "name": "Alexia Pearce",
+    "email": "alexia.pearce@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

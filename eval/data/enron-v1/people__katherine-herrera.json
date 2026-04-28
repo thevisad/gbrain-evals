@@ -1,0 +1,14 @@
+{
+  "slug": "people/katherine-herrera",
+  "type": "person",
+  "title": "Katherine Herrera",
+  "compiled_truth": "Katherine Herrera is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-11 to 2001-07-16), Katherine Herrera sent 27 and received 155 emails, totalling 182 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (22), [Julie Meyers](people/julie-meyers) (6), [Kristen Hanson](people/kristen-hanson) (6), [Sherlyn Schumack](people/sherlyn-schumack) (5), [Brian Riley](people/brian-riley) (3). Mailbox folders observed: logistics.",
+  "timeline": "- **2000-02-11** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/katherine-herrera",
+    "name": "Katherine Herrera",
+    "email": "katherine.herrera@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

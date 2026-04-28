@@ -1,0 +1,14 @@
+{
+  "slug": "people/ann-white",
+  "type": "person",
+  "title": "Ann White",
+  "compiled_truth": "Ann White is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2001-06-13), Ann White sent 18 and received 458 emails, totalling 476 interactions. Top correspondents: [Kay Mann](people/kay-mann) (8), [Barbara Gray](people/barbara-gray) (5), [Gerald Nemec](people/gerald-nemec) (5), [Carlos Sole](people/carlos-sole) (4), [Richard Sanders](people/richard-sanders) (3). Mailbox folders observed: florida, misc.",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2001-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ann-white",
+    "name": "Ann White",
+    "email": "ann.white@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mktstathourahead-caiso",
+  "type": "person",
+  "title": "Mktstathourahead",
+  "compiled_truth": "Mktstathourahead is an external contact at [CAISO](companies/caiso). Over the corpus period (2001-06-19 to 2002-02-07), Mktstathourahead sent 0 and received 55 emails, totalling 55 interactions.",
+  "timeline": "- **2001-06-19** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mktstathourahead-caiso",
+    "name": "Mktstathourahead",
+    "email": "mktstathourahead@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

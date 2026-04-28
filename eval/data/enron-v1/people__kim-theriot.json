@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-theriot",
+  "type": "person",
+  "title": "Kim Theriot",
+  "compiled_truth": "Kim Theriot is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-06-14), Kim Theriot sent 37 and received 610 emails, totalling 647 interactions. Top correspondents: [Andy Zipper](people/andy-zipper) (20), [Leslie Reeves](people/leslie-reeves) (8), [Tana Jones](people/tana-jones) (7), [Sally Beck](people/sally-beck) (6), [Ann Murphy](people/ann-murphy) (3). Mailbox folders observed: broker_client, commoditylogic, deleted_items, inbox.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-theriot",
+    "name": "Kim Theriot",
+    "email": "kim.theriot@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

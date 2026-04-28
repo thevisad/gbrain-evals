@@ -1,0 +1,14 @@
+{
+  "slug": "people/nam-nguyen-powersrc",
+  "type": "person",
+  "title": "Nam Nguyen",
+  "compiled_truth": "Nam Nguyen is an external contact at [Powersrc](companies/powersrc). Over the corpus period (2000-09-11 to 2002-01-02), Nam Nguyen sent 0 and received 264 emails, totalling 264 interactions.",
+  "timeline": "- **2000-09-11** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nam-nguyen-powersrc",
+    "name": "Nam Nguyen",
+    "email": "nam.nguyen@powersrc.com",
+    "primary_affiliation": "companies/powersrc"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-wilbeck",
+  "type": "person",
+  "title": "Tom Wilbeck",
+  "compiled_truth": "Tom Wilbeck is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-03), Tom Wilbeck sent 7 and received 18 emails, totalling 25 interactions. Top correspondents: [Benjamin Markey](people/benjamin-markey) (4), [Craig Hall](people/craig-hall) (3), [Ryan Hinze](people/ryan-hinze) (3), [Jennifer Martinez](people/jennifer-martinez) (3), [James Whitehead](people/james-whitehead) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-wilbeck",
+    "name": "Tom Wilbeck",
+    "email": "tom.wilbeck@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

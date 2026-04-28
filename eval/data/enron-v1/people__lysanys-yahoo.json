@@ -1,0 +1,14 @@
+{
+  "slug": "people/lysanys-yahoo",
+  "type": "person",
+  "title": "Lysanys",
+  "compiled_truth": "Lysanys is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-09-13 to 2000-09-13), Lysanys sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lysanys-yahoo",
+    "name": "Lysanys",
+    "email": "lysanys@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

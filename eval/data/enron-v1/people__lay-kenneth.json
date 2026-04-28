@@ -1,0 +1,14 @@
+{
+  "slug": "people/lay-kenneth",
+  "type": "person",
+  "title": "Lay Kenneth",
+  "compiled_truth": "Lay Kenneth is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2001-10-26), Lay Kenneth sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lay-kenneth",
+    "name": "Lay Kenneth",
+    "email": "lay.kenneth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/zuela-carter",
+  "type": "person",
+  "title": "Zuela Carter",
+  "compiled_truth": "Zuela Carter is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-03-25), Zuela Carter sent 0 and received 142 emails, totalling 142 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zuela-carter",
+    "name": "Zuela Carter",
+    "email": "zuela.carter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

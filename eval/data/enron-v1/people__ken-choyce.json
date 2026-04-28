@@ -1,0 +1,14 @@
+{
+  "slug": "people/ken-choyce",
+  "type": "person",
+  "title": "Ken Choyce",
+  "compiled_truth": "Ken Choyce is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-20 to 2001-12-10), Ken Choyce sent 12 and received 67 emails, totalling 79 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (11), [Shonnie Daniel](people/shonnie-daniel) (4), [Brian Bierbach](people/brian-bierbach) (2), [Kdurant](people/kdurant-vcn) (2), [Mark Whitt](people/mark-whitt) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-07-20** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ken-choyce",
+    "name": "Ken Choyce",
+    "email": "ken.choyce@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

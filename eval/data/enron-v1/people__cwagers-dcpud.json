@@ -1,0 +1,14 @@
+{
+  "slug": "people/cwagers-dcpud",
+  "type": "person",
+  "title": "Cwagers",
+  "compiled_truth": "Cwagers is an external contact at [Dcpud](companies/dcpud). Over the corpus period (2001-02-20 to 2001-10-25), Cwagers sent 0 and received 69 emails, totalling 69 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cwagers-dcpud",
+    "name": "Cwagers",
+    "email": "cwagers@dcpud.org",
+    "primary_affiliation": "companies/dcpud"
+  }
+}

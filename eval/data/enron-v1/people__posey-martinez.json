@@ -1,0 +1,14 @@
+{
+  "slug": "people/posey-martinez",
+  "type": "person",
+  "title": "Posey Martinez",
+  "compiled_truth": "Posey Martinez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-29 to 2001-11-26), Posey Martinez sent 0 and received 164 emails, totalling 164 interactions.",
+  "timeline": "- **2000-09-29** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/posey-martinez",
+    "name": "Posey Martinez",
+    "email": "posey.martinez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

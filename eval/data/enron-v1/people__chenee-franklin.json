@@ -1,0 +1,14 @@
+{
+  "slug": "people/chenee-franklin",
+  "type": "person",
+  "title": "Chenee' Franklin",
+  "compiled_truth": "Chenee' Franklin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-11-16), Chenee' Franklin sent 2 and received 22 emails, totalling 24 interactions. Top correspondents: [Will Chen](people/will-chen) (2), [Eric Irani](people/eric-irani) (2), [David Junus](people/david-junus) (2), [Ravi Mujumdar](people/ravi-mujumdar) (2), [Kristin Quinn](people/kristin-quinn) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chenee-franklin",
+    "name": "Chenee' Franklin",
+    "email": "chenee'.franklin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/margaret-huson",
+  "type": "person",
+  "title": "Margaret Huson",
+  "compiled_truth": "Margaret Huson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-11 to 2001-11-14), Margaret Huson sent 3 and received 135 emails, totalling 138 interactions. Top correspondents: [David Loosley](people/david-loosley) (2), [Janel Guerrero](people/janel-guerrero) (2), [Jeff Dasovich](people/jeff-dasovich) (2), [M  Landwehr](people/m-landwehr) (1), [Lisa Yoho](people/lisa-yoho) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-04-11** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margaret-huson",
+    "name": "Margaret Huson",
+    "email": "margaret.huson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarah-macdonald",
+  "type": "person",
+  "title": "Sarah Macdonald",
+  "compiled_truth": "Sarah Macdonald is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2001-05-09), Sarah Macdonald sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarah-macdonald",
+    "name": "Sarah Macdonald",
+    "email": "sarah.macdonald@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kent-densley",
+  "type": "person",
+  "title": "Kent Densley",
+  "compiled_truth": "Kent Densley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-27 to 2000-09-08), Kent Densley sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-06-27** | First recorded email in corpus\n- **2000-09-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kent-densley",
+    "name": "Kent Densley",
+    "email": "kent.densley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

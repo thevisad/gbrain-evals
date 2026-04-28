@@ -1,0 +1,14 @@
+{
+  "slug": "people/lynemartin-msn",
+  "type": "person",
+  "title": "Lynemartin",
+  "compiled_truth": "Lynemartin is an external contact at [MSN](companies/msn). Over the corpus period (2001-09-27 to 2002-02-06), Lynemartin sent 19 and received 21 emails, totalling 40 interactions. Top correspondents: [A  Martin](people/a-martin) (19).",
+  "timeline": "- **2001-09-27** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lynemartin-msn",
+    "name": "Lynemartin",
+    "email": "lynemartin@msn.com",
+    "primary_affiliation": "companies/msn"
+  }
+}

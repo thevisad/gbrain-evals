@@ -1,0 +1,14 @@
+{
+  "slug": "people/joseph-phelan",
+  "type": "person",
+  "title": "Joseph Phelan",
+  "compiled_truth": "Joseph Phelan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-11-20), Joseph Phelan sent 1 and received 4 emails, totalling 5 interactions. Top correspondents: [J  Kean](people/j-kean) (1), [Cindy Olson](people/cindy-olson) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joseph-phelan",
+    "name": "Joseph Phelan",
+    "email": "joseph.phelan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

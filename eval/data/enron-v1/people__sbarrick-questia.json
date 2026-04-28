@@ -1,0 +1,14 @@
+{
+  "slug": "people/sbarrick-questia",
+  "type": "person",
+  "title": "Sbarrick",
+  "compiled_truth": "Sbarrick is an external contact at [Questia](companies/questia). Over the corpus period (2000-10-31 to 2001-12-10), Sbarrick sent 1 and received 1 emails, totalling 2 interactions.",
+  "timeline": "- **2000-10-31** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sbarrick-questia",
+    "name": "Sbarrick",
+    "email": "sbarrick@questia.com",
+    "primary_affiliation": "companies/questia"
+  }
+}

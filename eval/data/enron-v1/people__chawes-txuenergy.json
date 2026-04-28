@@ -1,0 +1,14 @@
+{
+  "slug": "people/chawes-txuenergy",
+  "type": "person",
+  "title": "Chawes",
+  "compiled_truth": "Chawes is an external contact at [Txuenergy](companies/txuenergy). Over the corpus period (2000-08-25 to 2001-07-31), Chawes sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chawes-txuenergy",
+    "name": "Chawes",
+    "email": "chawes@txuenergy.com",
+    "primary_affiliation": "companies/txuenergy"
+  }
+}

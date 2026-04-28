@@ -1,0 +1,14 @@
+{
+  "slug": "people/hope-vargas",
+  "type": "person",
+  "title": "Hope Vargas",
+  "compiled_truth": "Hope Vargas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2002-02-13), Hope Vargas sent 11 and received 180 emails, totalling 191 interactions. Top correspondents: [Dana Davis](people/dana-davis) (10), [Rufino Doroteo](people/rufino-doroteo) (5), [Laynie East](people/laynie-east) (4), [Stacy Hardy](people/stacy-hardy) (4), [Kevin Jolly](people/kevin-jolly) (4). Mailbox folders observed: _americas, save_the_date, vargas_becton_lamb.",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hope-vargas",
+    "name": "Hope Vargas",
+    "email": "hope.vargas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

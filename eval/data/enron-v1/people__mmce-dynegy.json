@@ -1,0 +1,14 @@
+{
+  "slug": "people/mmce-dynegy",
+  "type": "person",
+  "title": "Mmce",
+  "compiled_truth": "Mmce is an external contact at [Dynegy](companies/dynegy). Over the corpus period (2000-08-25 to 2001-07-31), Mmce sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mmce-dynegy",
+    "name": "Mmce",
+    "email": "mmce@dynegy.com",
+    "primary_affiliation": "companies/dynegy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/swells-peco-energy",
+  "type": "person",
+  "title": "Swells",
+  "compiled_truth": "Swells is an external contact at [Peco-energy](companies/peco-energy). Over the corpus period (2000-02-12 to 2000-02-12), Swells sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/swells-peco-energy",
+    "name": "Swells",
+    "email": "swells@peco-energy.com",
+    "primary_affiliation": "companies/peco-energy"
+  }
+}

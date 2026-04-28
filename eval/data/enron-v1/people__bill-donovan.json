@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-donovan",
+  "type": "person",
+  "title": "Bill Donovan",
+  "compiled_truth": "Bill Donovan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-16 to 2002-02-25), Bill Donovan sent 12 and received 124 emails, totalling 136 interactions. Top correspondents: [Steven Kean](people/steven-kean) (7), [J  Kean](people/j-kean) (4), [Jeffrey Mcmahon](people/jeffrey-mcmahon) (3), [Deborah Bubenko](people/deborah-bubenko) (2), [Christina Yepez](people/christina-yepez) (2). Mailbox folders observed: aadepartment, administrative, budget, inbox.",
+  "timeline": "- **1999-08-16** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-donovan",
+    "name": "Bill Donovan",
+    "email": "bill.donovan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

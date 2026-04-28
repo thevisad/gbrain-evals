@@ -1,0 +1,14 @@
+{
+  "slug": "people/vladimir-gorny",
+  "type": "person",
+  "title": "Vladimir Gorny",
+  "compiled_truth": "Vladimir Gorny is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-12 to 2002-03-07), Vladimir Gorny sent 27 and received 968 emails, totalling 995 interactions. Top correspondents: [David Port](people/david-port) (6), [Kam Keiser](people/kam-keiser) (5), [Rick Buy](people/rick-buy) (4), [Vince Kaminski](people/vince-kaminski) (4), [John Lavorato](people/john-lavorato) (4). Mailbox folders observed: calendar, deleted_items, inbox, presto_working_files, projects.",
+  "timeline": "- **1999-05-12** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vladimir-gorny",
+    "name": "Vladimir Gorny",
+    "email": "vladimir.gorny@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

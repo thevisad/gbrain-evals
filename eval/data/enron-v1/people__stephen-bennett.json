@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-bennett",
+  "type": "person",
+  "title": "Stephen Bennett",
+  "compiled_truth": "Stephen Bennett is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-21 to 2002-02-05), Stephen Bennett sent 6 and received 95 emails, totalling 101 interactions. Top correspondents: [S  Shively](people/s-shively) (3), [Jose Marquez](people/jose-marquez) (2), [Jay Reitmeyer](people/jay-reitmeyer) (2), [Anne Labbe](people/anne-labbe) (2), [David Oxley](people/david-oxley) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-01-21** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-bennett",
+    "name": "Stephen Bennett",
+    "email": "stephen.bennett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

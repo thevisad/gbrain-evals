@@ -1,0 +1,14 @@
+{
+  "slug": "people/neil-rajan",
+  "type": "person",
+  "title": "Neil Rajan",
+  "compiled_truth": "Neil Rajan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-07 to 2000-07-21), Neil Rajan sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-07-07** | First recorded email in corpus\n- **2000-07-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/neil-rajan",
+    "name": "Neil Rajan",
+    "email": "neil.rajan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

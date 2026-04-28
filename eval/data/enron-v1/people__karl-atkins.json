@@ -1,0 +1,14 @@
+{
+  "slug": "people/karl-atkins",
+  "type": "person",
+  "title": "Karl Atkins",
+  "compiled_truth": "Karl Atkins is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-07 to 2001-06-01), Karl Atkins sent 1 and received 20 emails, totalling 21 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (1).",
+  "timeline": "- **2000-03-07** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karl-atkins",
+    "name": "Karl Atkins",
+    "email": "karl.atkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

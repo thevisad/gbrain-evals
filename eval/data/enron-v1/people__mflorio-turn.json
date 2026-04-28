@@ -1,0 +1,14 @@
+{
+  "slug": "people/mflorio-turn",
+  "type": "person",
+  "title": "Mflorio",
+  "compiled_truth": "Mflorio is an external contact at [Turn](companies/turn). Over the corpus period (1999-11-22 to 2001-12-21), Mflorio sent 14 and received 168 emails, totalling 182 interactions. Top correspondents: [Jdasovic](people/jdasovic) (8), [Kmccrea](people/kmccrea-sablaw) (7), [Jeff Dasovich](people/jeff-dasovich) (7), [Wbooth](people/wbooth-booth-law) (6), [Smutny](people/smutny-iepa) (6).",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mflorio-turn",
+    "name": "Mflorio",
+    "email": "mflorio@turn.org",
+    "primary_affiliation": "companies/turn"
+  }
+}

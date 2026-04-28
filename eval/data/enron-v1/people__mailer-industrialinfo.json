@@ -1,0 +1,14 @@
+{
+  "slug": "people/mailer-industrialinfo",
+  "type": "person",
+  "title": "Mailer",
+  "compiled_truth": "Mailer is an external contact at [Industrialinfo](companies/industrialinfo). Over the corpus period (2001-09-18 to 2002-02-07), Mailer sent 0 and received 59 emails, totalling 59 interactions.",
+  "timeline": "- **2001-09-18** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mailer-industrialinfo",
+    "name": "Mailer",
+    "email": "mailer@industrialinfo.com",
+    "primary_affiliation": "companies/industrialinfo"
+  }
+}

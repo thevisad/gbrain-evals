@@ -1,0 +1,14 @@
+{
+  "slug": "people/bturner-ssoe",
+  "type": "person",
+  "title": "Bturner",
+  "compiled_truth": "Bturner is an external contact at [Ssoe](companies/ssoe). Over the corpus period (2000-07-07 to 2001-04-20), Bturner sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2000-07-07** | First recorded email in corpus\n- **2001-04-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bturner-ssoe",
+    "name": "Bturner",
+    "email": "bturner@ssoe.com",
+    "primary_affiliation": "companies/ssoe"
+  }
+}

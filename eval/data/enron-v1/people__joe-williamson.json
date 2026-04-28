@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-williamson",
+  "type": "person",
+  "title": "Joe Williamson",
+  "compiled_truth": "Joe Williamson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2000-09-14), Joe Williamson sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2000-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-williamson",
+    "name": "Joe Williamson",
+    "email": "joe.williamson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

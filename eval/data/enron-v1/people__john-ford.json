@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-ford",
+  "type": "person",
+  "title": "John Ford",
+  "compiled_truth": "John Ford is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-28 to 2002-03-21), John Ford sent 2 and received 24 emails, totalling 26 interactions. Top correspondents: [Fred Jordan](people/fred-jordan) (2), [Walt Williams](people/walt-williams) (2), [Mickey Lowe](people/mickey-lowe) (2), [Larry Urban](people/larry-urban) (2), [Warren Fusilier](people/warren-fusilier) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-08-28** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-ford",
+    "name": "John Ford",
+    "email": "john.ford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

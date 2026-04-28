@@ -1,0 +1,14 @@
+{
+  "slug": "people/janelle-scheuer",
+  "type": "person",
+  "title": "Janelle Scheuer",
+  "compiled_truth": "Janelle Scheuer is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-12-21 to 2001-11-29), Janelle Scheuer sent 18 and received 514 emails, totalling 532 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (6), [Tana Jones](people/tana-jones) (5), [Edward Sacks](people/edward-sacks) (4), [Dana Davis](people/dana-davis) (3), [Joe Quenet](people/joe-quenet) (3). Mailbox folders observed: hedging, inbox.",
+  "timeline": "- **1998-12-21** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janelle-scheuer",
+    "name": "Janelle Scheuer",
+    "email": "janelle.scheuer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

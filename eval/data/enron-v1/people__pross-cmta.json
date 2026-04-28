@@ -1,0 +1,14 @@
+{
+  "slug": "people/pross-cmta",
+  "type": "person",
+  "title": "Pross",
+  "compiled_truth": "Pross is an external contact at [Cmta](companies/cmta). Over the corpus period (2001-04-25 to 2001-05-02), Pross sent 3 and received 5 emails, totalling 8 interactions. Top correspondents: [Kgough](people/kgough-calpine) (2), [Cmicheli](people/cmicheli-carpentersnodgrass) (2), [Cabaker](people/cabaker-duke-energy) (2), [David Parquet](people/david-parquet) (2), [Jeff Dasovich](people/jeff-dasovich) (2).",
+  "timeline": "- **2001-04-25** | First recorded email in corpus\n- **2001-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pross-cmta",
+    "name": "Pross",
+    "email": "pross@cmta.net",
+    "primary_affiliation": "companies/cmta"
+  }
+}

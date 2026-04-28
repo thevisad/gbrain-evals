@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-lambert",
+  "type": "person",
+  "title": "Karen Lambert",
+  "compiled_truth": "Karen Lambert is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-04 to 2001-12-06), Karen Lambert sent 57 and received 1127 emails, totalling 1184 interactions. Top correspondents: [Tana Jones](people/tana-jones) (53), [Stephanie Sever](people/stephanie-sever) (33), [Tom Moran](people/tom-moran) (32), [Frank Davis](people/frank-davis) (27), [Lisa Lees](people/lisa-lees) (23). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-lambert",
+    "name": "Karen Lambert",
+    "email": "karen.lambert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

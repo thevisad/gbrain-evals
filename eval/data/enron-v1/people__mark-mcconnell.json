@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-mcconnell",
+  "type": "person",
+  "title": "Mark Mcconnell",
+  "compiled_truth": "Mark Mcconnell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-01 to 2002-03-25), Mark Mcconnell sent 241 and received 876 emails, totalling 1117 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (53), [Sarah Mcconnell](people/sarah-mcconnell-compaq) (30), [Michelle Lokay](people/michelle-lokay) (16), [Steven Harris](people/steven-harris) (16), [Paul Y'Barbo](people/paul-y-barbo) (14). Mailbox folders observed: calendar, contacts, deleted_items, e_mail_bin, elpaso_pipeline, enron_t_s.",
+  "timeline": "- **2000-08-01** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-mcconnell",
+    "name": "Mark Mcconnell",
+    "email": "mark.mcconnell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

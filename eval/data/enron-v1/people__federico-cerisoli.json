@@ -1,0 +1,14 @@
+{
+  "slug": "people/federico-cerisoli",
+  "type": "person",
+  "title": "Federico Cerisoli",
+  "compiled_truth": "Federico Cerisoli is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-28 to 2001-11-02), Federico Cerisoli sent 2 and received 62 emails, totalling 64 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1), [Patti Thompson](people/patti-thompson) (1), [Nadia Rodriguez](people/nadia-rodriguez) (1), [James Hughes](people/james-hughes) (1), [James Derrick](people/james-derrick) (1).",
+  "timeline": "- **1999-05-28** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/federico-cerisoli",
+    "name": "Federico Cerisoli",
+    "email": "federico.cerisoli@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

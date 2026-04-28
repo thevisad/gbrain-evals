@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-rios",
+  "type": "person",
+  "title": "Jason Rios",
+  "compiled_truth": "Jason Rios is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-10-04), Jason Rios sent 3 and received 7 emails, totalling 10 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (2), [Cathy Phillips](people/cathy-phillips) (2), [Louise Kitchen](people/louise-kitchen) (1), [Jeffrey Mcmahon](people/jeffrey-mcmahon) (1), [Greg Whalley](people/greg-whalley) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-10-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-rios",
+    "name": "Jason Rios",
+    "email": "jason.rios@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

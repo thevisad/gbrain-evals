@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-barth",
+  "type": "person",
+  "title": "David Barth",
+  "compiled_truth": "David Barth is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-11-03), David Barth sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-barth",
+    "name": "David Barth",
+    "email": "david.barth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-fenner",
+  "type": "person",
+  "title": "M  Fenner",
+  "compiled_truth": "M  Fenner is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2001-06-06), M  Fenner sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-fenner",
+    "name": "M  Fenner",
+    "email": "m..fenner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

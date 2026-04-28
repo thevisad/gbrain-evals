@@ -1,0 +1,14 @@
+{
+  "slug": "people/p-adams",
+  "type": "person",
+  "title": "P  Adams",
+  "compiled_truth": "P  Adams is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-27 to 2002-05-22), P  Adams sent 3 and received 90 emails, totalling 93 interactions. Top correspondents: [Theresa Staab](people/theresa-staab) (2), [Jay Reitmeyer](people/jay-reitmeyer) (1), [Shelly Mendel](people/shelly-mendel) (1). Mailbox folders observed: inbox, to_do_list.",
+  "timeline": "- **2001-04-27** | First recorded email in corpus\n- **2002-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/p-adams",
+    "name": "P  Adams",
+    "email": "p..adams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

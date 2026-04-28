@@ -1,0 +1,14 @@
+{
+  "slug": "people/serafin-oberton",
+  "type": "person",
+  "title": "Serafin Oberton",
+  "compiled_truth": "Serafin Oberton is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-29 to 2001-10-19), Serafin Oberton sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-05-29** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/serafin-oberton",
+    "name": "Serafin Oberton",
+    "email": "serafin.oberton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

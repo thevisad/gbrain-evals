@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-washington",
+  "type": "person",
+  "title": "Kathy Washington",
+  "compiled_truth": "Kathy Washington is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-09 to 2002-03-25), Kathy Washington sent 0 and received 219 emails, totalling 219 interactions.",
+  "timeline": "- **2000-06-09** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-washington",
+    "name": "Kathy Washington",
+    "email": "kathy.washington@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

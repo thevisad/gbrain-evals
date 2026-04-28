@@ -1,0 +1,14 @@
+{
+  "slug": "people/esarte-haas",
+  "type": "person",
+  "title": "Esarte",
+  "compiled_truth": "Esarte is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-21 to 2000-12-06), Esarte sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **1999-09-21** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/esarte-haas",
+    "name": "Esarte",
+    "email": "esarte@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

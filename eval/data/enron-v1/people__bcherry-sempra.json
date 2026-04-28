@@ -1,0 +1,14 @@
+{
+  "slug": "people/bcherry-sempra",
+  "type": "person",
+  "title": "Bcherry",
+  "compiled_truth": "Bcherry is an external contact at [Sempra Energy](companies/sempra). Over the corpus period (1999-09-24 to 2001-09-25), Bcherry sent 34 and received 119 emails, totalling 153 interactions. Top correspondents: [Jdasovic](people/jdasovic) (26), [Jleslie](people/jleslie-luce) (25), [Eke](people/eke-aelaw) (25), [Kmccrea](people/kmccrea-sablaw) (25), [Rmp](people/rmp-cpuc) (25).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bcherry-sempra",
+    "name": "Bcherry",
+    "email": "bcherry@sempra.com",
+    "primary_affiliation": "companies/sempra"
+  }
+}

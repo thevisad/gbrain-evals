@@ -1,0 +1,14 @@
+{
+  "slug": "people/bjarne-schieldrop",
+  "type": "person",
+  "title": "Bjarne Schieldrop",
+  "compiled_truth": "Bjarne Schieldrop is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-30 to 2001-10-04), Bjarne Schieldrop sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2001-10-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bjarne-schieldrop",
+    "name": "Bjarne Schieldrop",
+    "email": "bjarne.schieldrop@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

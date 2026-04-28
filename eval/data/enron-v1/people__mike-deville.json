@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-deville",
+  "type": "person",
+  "title": "Mike Deville",
+  "compiled_truth": "Mike Deville is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2002-01-07), Mike Deville sent 3 and received 57 emails, totalling 60 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (2), [Sally Beck](people/sally-beck) (1), [Melissa Allen](people/melissa-allen) (1), [Michael Patrick](people/michael-patrick) (1), [Kent Castleman](people/kent-castleman) (1). Mailbox folders observed: inbox, projects.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2002-01-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-deville",
+    "name": "Mike Deville",
+    "email": "mike.deville@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarah-wooddy",
+  "type": "person",
+  "title": "Sarah Wooddy",
+  "compiled_truth": "Sarah Wooddy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-25 to 2001-12-31), Sarah Wooddy sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2001-06-25** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarah-wooddy",
+    "name": "Sarah Wooddy",
+    "email": "sarah.wooddy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

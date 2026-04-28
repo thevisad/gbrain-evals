@@ -1,0 +1,14 @@
+{
+  "slug": "people/beverly-aden",
+  "type": "person",
+  "title": "Beverly Aden",
+  "compiled_truth": "Beverly Aden is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-20 to 2001-12-03), Beverly Aden sent 0 and received 643 emails, totalling 643 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beverly-aden",
+    "name": "Beverly Aden",
+    "email": "beverly.aden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

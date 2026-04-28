@@ -1,0 +1,14 @@
+{
+  "slug": "people/kent-kuykendall",
+  "type": "person",
+  "title": "Kent Kuykendall",
+  "compiled_truth": "Kent Kuykendall is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-27 to 2001-08-02), Kent Kuykendall sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-27** | First recorded email in corpus\n- **2001-08-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kent-kuykendall",
+    "name": "Kent Kuykendall",
+    "email": "kent.kuykendall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

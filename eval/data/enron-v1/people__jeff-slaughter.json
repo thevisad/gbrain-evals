@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-slaughter",
+  "type": "person",
+  "title": "Jeff Slaughter",
+  "compiled_truth": "Jeff Slaughter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-07 to 2001-05-04), Jeff Slaughter sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **2000-04-07** | First recorded email in corpus\n- **2001-05-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-slaughter",
+    "name": "Jeff Slaughter",
+    "email": "jeff.slaughter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

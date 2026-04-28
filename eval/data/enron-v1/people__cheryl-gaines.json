@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheryl-gaines",
+  "type": "person",
+  "title": "Cheryl Gaines",
+  "compiled_truth": "Cheryl Gaines is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-10 to 2001-11-09), Cheryl Gaines sent 3 and received 6 emails, totalling 9 interactions. Top correspondents: [Mary Coombe](people/mary-coombe) (3), [Roger Sumlin](people/roger-sumlin) (3), [Nick Rahn](people/nick-rahn) (3), [Cutty Cunningham](people/cutty-cunningham) (3), [William Kendrick](people/william-kendrick) (3).",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheryl-gaines",
+    "name": "Cheryl Gaines",
+    "email": "cheryl.gaines@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

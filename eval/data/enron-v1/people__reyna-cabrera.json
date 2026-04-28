@@ -1,0 +1,14 @@
+{
+  "slug": "people/reyna-cabrera",
+  "type": "person",
+  "title": "Reyna Cabrera",
+  "compiled_truth": "Reyna Cabrera is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-30 to 2002-02-08), Reyna Cabrera sent 21 and received 271 emails, totalling 292 interactions. Top correspondents: [Sue Neville](people/sue-neville) (13), [Lynn Blair](people/lynn-blair) (13), [Michael Bodnar](people/michael-bodnar) (13), [Terry Kowalke](people/terry-kowalke) (12), [Christine Mcevoy](people/christine-mcevoy) (11). Mailbox folders observed: deleted_items, inbox, nng___sba, tw_commercial_group.",
+  "timeline": "- **1999-12-30** | First recorded email in corpus\n- **2002-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reyna-cabrera",
+    "name": "Reyna Cabrera",
+    "email": "reyna.cabrera@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

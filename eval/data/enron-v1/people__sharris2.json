@@ -1,0 +1,14 @@
+{
+  "slug": "people/sharris2",
+  "type": "person",
+  "title": "Sharris2",
+  "compiled_truth": "Sharris2 is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-28 to 2001-10-25), Sharris2 sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sharris2",
+    "name": "Sharris2",
+    "email": "sharris2@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

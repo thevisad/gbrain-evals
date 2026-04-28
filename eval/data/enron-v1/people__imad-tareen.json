@@ -1,0 +1,14 @@
+{
+  "slug": "people/imad-tareen",
+  "type": "person",
+  "title": "Imad Tareen",
+  "compiled_truth": "Imad Tareen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2001-11-30), Imad Tareen sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [Robert Benson](people/robert-benson) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/imad-tareen",
+    "name": "Imad Tareen",
+    "email": "imad.tareen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

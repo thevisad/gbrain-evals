@@ -1,0 +1,14 @@
+{
+  "slug": "people/csolcott-javanet",
+  "type": "person",
+  "title": "Csolcott",
+  "compiled_truth": "Csolcott is an external contact at [Javanet](companies/javanet). Over the corpus period (2001-10-18 to 2001-10-18), Csolcott sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/csolcott-javanet",
+    "name": "Csolcott",
+    "email": "csolcott@javanet.com",
+    "primary_affiliation": "companies/javanet"
+  }
+}

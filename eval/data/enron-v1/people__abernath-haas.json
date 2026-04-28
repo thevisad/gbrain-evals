@@ -1,0 +1,14 @@
+{
+  "slug": "people/abernath-haas",
+  "type": "person",
+  "title": "Abernath",
+  "compiled_truth": "Abernath is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-12-12), Abernath sent 0 and received 43 emails, totalling 43 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/abernath-haas",
+    "name": "Abernath",
+    "email": "abernath@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

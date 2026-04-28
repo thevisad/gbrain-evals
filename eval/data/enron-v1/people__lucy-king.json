@@ -1,0 +1,14 @@
+{
+  "slug": "people/lucy-king",
+  "type": "person",
+  "title": "Lucy King",
+  "compiled_truth": "Lucy King is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-11 to 2001-11-16), Lucy King sent 2 and received 15 emails, totalling 17 interactions. Top correspondents: [Trevor Woods](people/trevor-woods) (1), [E Taylor](people/e-taylor) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-04-11** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lucy-king",
+    "name": "Lucy King",
+    "email": "lucy.king@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/beverley-nelson",
+  "type": "person",
+  "title": "Beverley Nelson",
+  "compiled_truth": "Beverley Nelson is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-02 to 2002-02-26), Beverley Nelson sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2002-01-02** | First recorded email in corpus\n- **2002-02-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beverley-nelson",
+    "name": "Beverley Nelson",
+    "email": "beverley.nelson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

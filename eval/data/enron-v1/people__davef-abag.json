@@ -1,0 +1,14 @@
+{
+  "slug": "people/davef-abag",
+  "type": "person",
+  "title": "Davef",
+  "compiled_truth": "Davef is an external contact at [Abag](companies/abag). Over the corpus period (2000-04-04 to 2001-07-31), Davef sent 0 and received 163 emails, totalling 163 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/davef-abag",
+    "name": "Davef",
+    "email": "davef@abag.ca.gov",
+    "primary_affiliation": "companies/abag"
+  }
+}

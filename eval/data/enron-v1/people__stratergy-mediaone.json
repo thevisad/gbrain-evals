@@ -1,0 +1,14 @@
+{
+  "slug": "people/stratergy-mediaone",
+  "type": "person",
+  "title": "Stratergy",
+  "compiled_truth": "Stratergy is an external contact at [Mediaone](companies/mediaone). Over the corpus period (2001-03-12 to 2001-10-18), Stratergy sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stratergy-mediaone",
+    "name": "Stratergy",
+    "email": "stratergy@mediaone.net",
+    "primary_affiliation": "companies/mediaone"
+  }
+}

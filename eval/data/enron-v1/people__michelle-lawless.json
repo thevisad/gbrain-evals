@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-lawless",
+  "type": "person",
+  "title": "Michelle Lawless",
+  "compiled_truth": "Michelle Lawless is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2002-05-06), Michelle Lawless sent 6 and received 42 emails, totalling 48 interactions. Top correspondents: [Al Alexanderson](people/al-alexanderson) (6), [Drew Fossum](people/drew-fossum) (6), [Mark Haedicke](people/mark-haedicke) (6), [Elizabeth Labanowski](people/elizabeth-labanowski) (6), [Janet Place](people/janet-place) (6). Mailbox folders observed: notes_inbox.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-lawless",
+    "name": "Michelle Lawless",
+    "email": "michelle.lawless@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

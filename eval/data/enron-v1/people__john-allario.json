@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-allario",
+  "type": "person",
+  "title": "John Allario",
+  "compiled_truth": "John Allario is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-11-28), John Allario sent 42 and received 176 emails, totalling 218 interactions. Top correspondents: [Tana Jones](people/tana-jones) (26), [John Pavetto](people/john-pavetto) (9), [Andy Zipper](people/andy-zipper) (9), [David Berberian](people/david-berberian) (6), [Mark Greenberg](people/mark-greenberg) (5). Mailbox folders observed: deleted_items, inbox, origination, pros, rm_science_review.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-allario",
+    "name": "John Allario",
+    "email": "john.allario@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

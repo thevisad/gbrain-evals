@@ -1,0 +1,14 @@
+{
+  "slug": "people/harrell-patty",
+  "type": "person",
+  "title": "Harrell Patty",
+  "compiled_truth": "Harrell Patty is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Harrell Patty sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/harrell-patty",
+    "name": "Harrell Patty",
+    "email": "harrell.patty@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sonnia-reyes",
+  "type": "person",
+  "title": "Sonnia Reyes",
+  "compiled_truth": "Sonnia Reyes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-12-06), Sonnia Reyes sent 1 and received 17 emails, totalling 18 interactions. Top correspondents: [E  Sommers](people/e-sommers) (1), [Jeff Donahue](people/jeff-donahue) (1), [Stanley Horton](people/stanley-horton) (1), [A  Hughes](people/a-hughes) (1), [Luitgard Fischer](people/luitgard-fischer) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sonnia-reyes",
+    "name": "Sonnia Reyes",
+    "email": "sonnia.reyes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

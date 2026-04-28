@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-petruszka",
+  "type": "person",
+  "title": "Lisa Petruszka",
+  "compiled_truth": "Lisa Petruszka is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-27 to 2001-04-19), Lisa Petruszka sent 6 and received 10 emails, totalling 16 interactions. Top correspondents: [Sally Beck](people/sally-beck) (6), [Mary Solmonson](people/mary-solmonson) (2), [Bob Hall](people/bob-hall) (2), [Brent Mcferren](people/brent-mcferren-us) (1), [David Cooke](people/david-cooke-us) (1).",
+  "timeline": "- **2000-09-27** | First recorded email in corpus\n- **2001-04-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-petruszka",
+    "name": "Lisa Petruszka",
+    "email": "lisa.petruszka@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

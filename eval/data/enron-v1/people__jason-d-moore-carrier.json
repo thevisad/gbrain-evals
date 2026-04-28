@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-d-moore-carrier",
+  "type": "person",
+  "title": "Jason D Moore",
+  "compiled_truth": "Jason D Moore is an external contact at [Carrier](companies/carrier). Over the corpus period (2000-11-06 to 2000-12-20), Jason D Moore sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2000-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-d-moore-carrier",
+    "name": "Jason D Moore",
+    "email": "jason.d.moore@carrier.utc.com",
+    "primary_affiliation": "companies/carrier"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rvicens-deltapower",
+  "type": "person",
+  "title": "Rvicens",
+  "compiled_truth": "Rvicens is an external contact at [Deltapower](companies/deltapower). Over the corpus period (2000-10-26 to 2001-05-04), Rvicens sent 4 and received 33 emails, totalling 37 interactions. Top correspondents: [Kay Mann](people/kay-mann) (4), [Stephen Thome](people/stephen-thome) (3), [Carlos Sole](people/carlos-sole) (2), [Dvanech](people/dvanech-deltapower) (2), [Aharrington](people/aharrington-deltapower) (2).",
+  "timeline": "- **2000-10-26** | First recorded email in corpus\n- **2001-05-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rvicens-deltapower",
+    "name": "Rvicens",
+    "email": "rvicens@deltapower.com",
+    "primary_affiliation": "companies/deltapower"
+  }
+}

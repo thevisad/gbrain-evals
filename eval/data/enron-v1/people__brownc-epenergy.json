@@ -1,0 +1,14 @@
+{
+  "slug": "people/brownc-epenergy",
+  "type": "person",
+  "title": "Brownc",
+  "compiled_truth": "Brownc is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2000-08-10 to 2001-11-14), Brownc sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brownc-epenergy",
+    "name": "Brownc",
+    "email": "brownc@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

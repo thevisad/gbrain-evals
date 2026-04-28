@@ -1,0 +1,14 @@
+{
+  "slug": "people/tgilliam-avistaenergy",
+  "type": "person",
+  "title": "Tgilliam",
+  "compiled_truth": "Tgilliam is an external contact at [Avistaenergy](companies/avistaenergy). Over the corpus period (2000-10-27 to 2000-12-12), Tgilliam sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tgilliam-avistaenergy",
+    "name": "Tgilliam",
+    "email": "tgilliam@avistaenergy.com",
+    "primary_affiliation": "companies/avistaenergy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cmckalip-yahoo",
+  "type": "person",
+  "title": "Cmckalip",
+  "compiled_truth": "Cmckalip is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-09-12 to 2000-10-03), Cmckalip sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2000-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cmckalip-yahoo",
+    "name": "Cmckalip",
+    "email": "cmckalip@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

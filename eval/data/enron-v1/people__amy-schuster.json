@@ -1,0 +1,14 @@
+{
+  "slug": "people/amy-schuster",
+  "type": "person",
+  "title": "Amy Schuster",
+  "compiled_truth": "Amy Schuster is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-19 to 2001-11-26), Amy Schuster sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-11-19** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amy-schuster",
+    "name": "Amy Schuster",
+    "email": "amy.schuster@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

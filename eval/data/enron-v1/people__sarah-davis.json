@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarah-davis",
+  "type": "person",
+  "title": "Sarah Davis",
+  "compiled_truth": "Sarah Davis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-25 to 2001-05-14), Sarah Davis sent 2 and received 25 emails, totalling 27 interactions. Top correspondents: [Steven Kean](people/steven-kean) (2).",
+  "timeline": "- **2000-01-25** | First recorded email in corpus\n- **2001-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarah-davis",
+    "name": "Sarah Davis",
+    "email": "sarah.davis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

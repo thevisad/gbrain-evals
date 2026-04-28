@@ -1,0 +1,14 @@
+{
+  "slug": "people/adrial-boals",
+  "type": "person",
+  "title": "Adrial Boals",
+  "compiled_truth": "Adrial Boals is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-27), Adrial Boals sent 8 and received 88 emails, totalling 96 interactions. Top correspondents: [James Scribner](people/james-scribner) (4), [Daren Farmer](people/daren-farmer) (4), [Leslie Reeves](people/leslie-reeves) (3), [Yvette Connevey](people/yvette-connevey) (3), [Jeffrey Gossett](people/jeffrey-gossett) (2). Mailbox folders observed: calendar, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adrial-boals",
+    "name": "Adrial Boals",
+    "email": "adrial.boals@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

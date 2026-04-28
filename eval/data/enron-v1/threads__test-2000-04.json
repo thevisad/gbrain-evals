@@ -1,0 +1,24 @@
+{
+  "slug": "threads/test-2000-04",
+  "type": "meeting",
+  "title": "Thread: Test",
+  "compiled_truth": "Email thread: \"Test\". Ran from 2000-04-27 to 2000-05-17 with 10 messages. Participants: [Dgoodburn](people/dgoodburn-rochpar), [Fbcat](people/fbcat-aol), [Greg Piper](people/greg-piper), [Kss](people/kss-overlandpartners), [Liz Taylor](people/liz-taylor), [Michelle Cash](people/michelle-cash), [Susan Scott](people/susan-scott), [Twanda Sweet](people/twanda-sweet).",
+  "timeline": "- **2000-04-27** | Thread begins: test\n- **2000-05-17** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/test-2000-04",
+    "attendees": [
+      "people/dgoodburn-rochpar",
+      "people/fbcat-aol",
+      "people/greg-piper",
+      "people/kss-overlandpartners",
+      "people/liz-taylor",
+      "people/michelle-cash",
+      "people/susan-scott",
+      "people/twanda-sweet",
+      "people/vince-kaminski",
+      "people/vkaminski-aol"
+    ],
+    "date": "2000-04-27"
+  }
+}

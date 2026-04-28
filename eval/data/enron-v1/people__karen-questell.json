@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-questell",
+  "type": "person",
+  "title": "Karen Questell",
+  "compiled_truth": "Karen Questell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-01-12), Karen Questell sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-01-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-questell",
+    "name": "Karen Questell",
+    "email": "karen.questell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

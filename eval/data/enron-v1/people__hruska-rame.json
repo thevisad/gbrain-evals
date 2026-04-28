@@ -1,0 +1,14 @@
+{
+  "slug": "people/hruska-rame",
+  "type": "person",
+  "title": "Hruska Rame",
+  "compiled_truth": "Hruska Rame is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-05 to 2002-01-30), Hruska Rame sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-10-05** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hruska-rame",
+    "name": "Hruska Rame",
+    "email": "hruska.rame@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

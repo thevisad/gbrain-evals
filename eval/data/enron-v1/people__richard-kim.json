@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-kim",
+  "type": "person",
+  "title": "Richard Kim",
+  "compiled_truth": "Richard Kim is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-19 to 2001-05-18), Richard Kim sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-19** | First recorded email in corpus\n- **2001-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-kim",
+    "name": "Richard Kim",
+    "email": "richard.kim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

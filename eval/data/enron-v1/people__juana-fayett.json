@@ -1,0 +1,14 @@
+{
+  "slug": "people/juana-fayett",
+  "type": "person",
+  "title": "Juana Fayett",
+  "compiled_truth": "Juana Fayett is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-22 to 2001-11-30), Juana Fayett sent 1 and received 231 emails, totalling 232 interactions. Top correspondents: [Tana Jones](people/tana-jones) (1), [Jana Morse](people/jana-morse) (1).",
+  "timeline": "- **2000-02-22** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/juana-fayett",
+    "name": "Juana Fayett",
+    "email": "juana.fayett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/nattreadway-aol",
+  "type": "person",
+  "title": "Nattreadway",
+  "compiled_truth": "Nattreadway is an external contact at [AOL](companies/aol). Over the corpus period (2000-12-13 to 2001-07-13), Nattreadway sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2001-07-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nattreadway-aol",
+    "name": "Nattreadway",
+    "email": "nattreadway@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

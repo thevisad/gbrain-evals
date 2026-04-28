@@ -1,0 +1,21 @@
+{
+  "slug": "threads/this-weekend-2000-11",
+  "type": "meeting",
+  "title": "Thread: This Weekend",
+  "compiled_truth": "Email thread: \"This Weekend\". Ran from 2000-11-16 to 2000-12-13 with 17 messages. Participants: [Clint Dean](people/clint-dean), [Debner](people/debner-jpi), [Lgasparini](people/lgasparini-simpletel), [Phillip Love](people/phillip-love), [Rachel M Bonilla](people/rachel-m-bonilla-ac), [Rdonoghue](people/rdonoghue-mphlegal), [Scott Palmer](people/scott-palmer-exodus).",
+  "timeline": "- **2000-11-16** | Thread begins: this weekend\n- **2000-12-13** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/this-weekend-2000-11",
+    "attendees": [
+      "people/clint-dean",
+      "people/debner-jpi",
+      "people/lgasparini-simpletel",
+      "people/phillip-love",
+      "people/rachel-m-bonilla-ac",
+      "people/rdonoghue-mphlegal",
+      "people/scott-palmer-exodus"
+    ],
+    "date": "2000-11-16"
+  }
+}

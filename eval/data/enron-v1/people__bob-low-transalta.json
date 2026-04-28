@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-low-transalta",
+  "type": "person",
+  "title": "Bob Low",
+  "compiled_truth": "Bob Low is an external contact at [Transalta](companies/transalta). Over the corpus period (2000-11-10 to 2001-08-14), Bob Low sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-08-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-low-transalta",
+    "name": "Bob Low",
+    "email": "bob_low@transalta.com",
+    "primary_affiliation": "companies/transalta"
+  }
+}

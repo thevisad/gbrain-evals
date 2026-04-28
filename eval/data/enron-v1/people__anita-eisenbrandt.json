@@ -1,0 +1,14 @@
+{
+  "slug": "people/anita-eisenbrandt",
+  "type": "person",
+  "title": "Anita Eisenbrandt",
+  "compiled_truth": "Anita Eisenbrandt is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-01), Anita Eisenbrandt sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anita-eisenbrandt",
+    "name": "Anita Eisenbrandt",
+    "email": "anita.eisenbrandt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

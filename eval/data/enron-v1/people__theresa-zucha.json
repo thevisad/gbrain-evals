@@ -1,0 +1,14 @@
+{
+  "slug": "people/theresa-zucha",
+  "type": "person",
+  "title": "Theresa Zucha",
+  "compiled_truth": "Theresa Zucha is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-07 to 2001-12-03), Theresa Zucha sent 20 and received 132 emails, totalling 152 interactions. Top correspondents: [Debra Perlingiere](people/debra-perlingiere) (7), [Esmeralda Gonzalez](people/esmeralda-gonzalez) (7), [Holly Keiser](people/holly-keiser) (7), [Martha Keesler](people/martha-keesler) (6), [ Taylor](people/taylor) (6). Mailbox folders observed: deleted_items, inbox, mesa, online_trading, smurfit.",
+  "timeline": "- **2001-03-07** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/theresa-zucha",
+    "name": "Theresa Zucha",
+    "email": "theresa.zucha@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

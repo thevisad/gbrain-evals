@@ -1,0 +1,14 @@
+{
+  "slug": "people/maria-valdes",
+  "type": "person",
+  "title": "Maria Valdes",
+  "compiled_truth": "Maria Valdes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-18 to 2002-03-18), Maria Valdes sent 6 and received 338 emails, totalling 344 interactions. Top correspondents: [Robert Benson](people/robert-benson) (3), [Mike Carson](people/mike-carson) (2), [J  Sturm](people/j-sturm) (1), [Jason Kaniss](people/jason-kaniss) (1), [Russell Ballato](people/russell-ballato) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-04-18** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maria-valdes",
+    "name": "Maria Valdes",
+    "email": "maria.valdes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

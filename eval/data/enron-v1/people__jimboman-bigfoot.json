@@ -1,0 +1,14 @@
+{
+  "slug": "people/jimboman-bigfoot",
+  "type": "person",
+  "title": "Jimboman",
+  "compiled_truth": "Jimboman is an external contact at [Bigfoot](companies/bigfoot). Over the corpus period (2000-06-19 to 2002-02-25), Jimboman sent 8 and received 57 emails, totalling 65 interactions. Top correspondents: [Michelle Lokay](people/michelle-lokay) (6), [Mlokay](people/mlokay) (2).",
+  "timeline": "- **2000-06-19** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jimboman-bigfoot",
+    "name": "Jimboman",
+    "email": "jimboman@bigfoot.com",
+    "primary_affiliation": "companies/bigfoot"
+  }
+}

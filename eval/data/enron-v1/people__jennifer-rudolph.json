@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-rudolph",
+  "type": "person",
+  "title": "Jennifer Rudolph",
+  "compiled_truth": "Jennifer Rudolph is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-13 to 2001-11-19), Jennifer Rudolph sent 74 and received 564 emails, totalling 638 interactions. Top correspondents: [Ca Team](people/ca-team) (60), [Jeff Dasovich](people/jeff-dasovich) (12), [Harry Kingerski](people/harry-kingerski) (5), [Marcus Dotson](people/marcus-dotson) (4), [Edward Hamb](people/edward-hamb) (4). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-08-13** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-rudolph",
+    "name": "Jennifer Rudolph",
+    "email": "jennifer.rudolph@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

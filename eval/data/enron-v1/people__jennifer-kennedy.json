@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-kennedy",
+  "type": "person",
+  "title": "Jennifer Kennedy",
+  "compiled_truth": "Jennifer Kennedy is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-29), Jennifer Kennedy sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-kennedy",
+    "name": "Jennifer Kennedy",
+    "email": "jennifer.kennedy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

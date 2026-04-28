@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-trevino",
+  "type": "person",
+  "title": "Susan Trevino",
+  "compiled_truth": "Susan Trevino is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2002-06-07), Susan Trevino sent 65 and received 442 emails, totalling 507 interactions. Top correspondents: [Chris Abel](people/chris-abel) (30), [Shona Wilson](people/shona-wilson) (18), [Daren Farmer](people/daren-farmer) (18), [Burton Mcintyre](people/burton-mcintyre) (17), [Kam Keiser](people/kam-keiser) (14). Mailbox folders observed: cya, deleted_items, east_desk, inbox.",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2002-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-trevino",
+    "name": "Susan Trevino",
+    "email": "susan.trevino@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

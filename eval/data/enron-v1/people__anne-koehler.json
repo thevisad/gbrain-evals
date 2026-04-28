@@ -1,0 +1,14 @@
+{
+  "slug": "people/anne-koehler",
+  "type": "person",
+  "title": "Anne Koehler",
+  "compiled_truth": "Anne Koehler is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-14), Anne Koehler sent 18 and received 566 emails, totalling 584 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (7), [Barbara Gray](people/barbara-gray) (5), [Mark Haedicke](people/mark-haedicke) (4), [Patrick Wade](people/patrick-wade) (3), [Sally Beck](people/sally-beck) (2). Mailbox folders observed: deleted_items, hpl, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anne-koehler",
+    "name": "Anne Koehler",
+    "email": "anne.koehler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

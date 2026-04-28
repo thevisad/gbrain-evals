@@ -1,0 +1,14 @@
+{
+  "slug": "people/paulamirault-aec",
+  "type": "person",
+  "title": "Paulamirault",
+  "compiled_truth": "Paulamirault is an external contact at [Aec](companies/aec). Over the corpus period (1999-09-24 to 2001-10-19), Paulamirault sent 4 and received 201 emails, totalling 205 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (4), [Alexanms](people/alexanms-sce) (2), [Burkee](people/burkee-cts) (2), [Craigc](people/craigc-calpine) (2), [Mark C Moench](people/mark-c-moench-wgp) (2).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paulamirault-aec",
+    "name": "Paulamirault",
+    "email": "paulamirault@aec.ca",
+    "primary_affiliation": "companies/aec"
+  }
+}

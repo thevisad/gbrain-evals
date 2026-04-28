@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebecca-carter",
+  "type": "person",
+  "title": "Rebecca Carter",
+  "compiled_truth": "Rebecca Carter is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-02), Rebecca Carter sent 9 and received 120 emails, totalling 129 interactions. Top correspondents: [Rick Buy](people/rick-buy) (5), [Andrew Fastow](people/andrew-fastow) (5), [Ben Glisan](people/ben-glisan) (4), [Mark Koenig](people/mark-koenig) (4), [Richard Causey](people/richard-causey) (4). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebecca-carter",
+    "name": "Rebecca Carter",
+    "email": "rebecca.carter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

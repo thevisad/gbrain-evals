@@ -1,0 +1,14 @@
+{
+  "slug": "people/kimberlee-bennick",
+  "type": "person",
+  "title": "Kimberlee Bennick",
+  "compiled_truth": "Kimberlee Bennick is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-11 to 2001-07-16), Kimberlee Bennick sent 8 and received 456 emails, totalling 464 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (3), [Cheryl Dudley](people/cheryl-dudley) (2), [Elsa Villarreal](people/elsa-villarreal) (2), [Amelia Alland](people/amelia-alland) (2), [Daren Farmer](people/daren-farmer) (2). Mailbox folders observed: deleted_items, inbox, logistics.",
+  "timeline": "- **1999-06-11** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kimberlee-bennick",
+    "name": "Kimberlee Bennick",
+    "email": "kimberlee.bennick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

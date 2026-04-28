@@ -1,0 +1,14 @@
+{
+  "slug": "people/mbornhoeft-socalgas",
+  "type": "person",
+  "title": "Mbornhoeft",
+  "compiled_truth": "Mbornhoeft is an external contact at [Socalgas](companies/socalgas). Over the corpus period (2000-09-08 to 2001-07-31), Mbornhoeft sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mbornhoeft-socalgas",
+    "name": "Mbornhoeft",
+    "email": "mbornhoeft@socalgas.com",
+    "primary_affiliation": "companies/socalgas"
+  }
+}

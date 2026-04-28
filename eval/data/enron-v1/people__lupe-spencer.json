@@ -1,0 +1,14 @@
+{
+  "slug": "people/lupe-spencer",
+  "type": "person",
+  "title": "Lupe Spencer",
+  "compiled_truth": "Lupe Spencer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-06 to 2001-11-16), Lupe Spencer sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-09-06** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lupe-spencer",
+    "name": "Lupe Spencer",
+    "email": "lupe.spencer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

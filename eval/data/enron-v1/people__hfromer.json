@@ -1,0 +1,14 @@
+{
+  "slug": "people/hfromer",
+  "type": "person",
+  "title": "Hfromer",
+  "compiled_truth": "Hfromer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-11-27), Hfromer sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hfromer",
+    "name": "Hfromer",
+    "email": "hfromer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

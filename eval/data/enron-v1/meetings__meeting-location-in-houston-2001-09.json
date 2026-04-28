@@ -1,0 +1,27 @@
+{
+  "slug": "meetings/meeting-location-in-houston-2001-09",
+  "type": "meeting",
+  "title": "Meeting: Meeting Location In Houston",
+  "compiled_truth": "Meeting: \"Meeting Location In Houston\". Occurred 2001-09-20 with 1 related emails. Participants included: [Anne Jolibois](people/anne-jolibois), [Cassandra Schultz](people/cassandra-schultz), [Dan Fancler](people/dan-fancler), [David Port](people/david-port), [Dee Svatos](people/dee-svatos), [Frank Hayden](people/frank-hayden), [James Saunders](people/james-saunders), [John Cobb](people/john-cobb)....",
+  "timeline": "- **2001-09-20** | Meeting: meeting location in houston",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-location-in-houston-2001-09",
+    "attendees": [
+      "people/anne-jolibois",
+      "people/cassandra-schultz",
+      "people/dan-fancler",
+      "people/david-port",
+      "people/dee-svatos",
+      "people/frank-hayden",
+      "people/james-saunders",
+      "people/john-cobb",
+      "people/john-keiser",
+      "people/kathy-campos",
+      "people/rod-hayslett",
+      "people/tracy-geaccone",
+      "people/vladimir-gorny"
+    ],
+    "date": "2001-09-20"
+  }
+}

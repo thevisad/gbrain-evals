@@ -1,0 +1,14 @@
+{
+  "slug": "people/anna-docwra",
+  "type": "person",
+  "title": "Anna Docwra",
+  "compiled_truth": "Anna Docwra is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2001-07-10), Anna Docwra sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anna-docwra",
+    "name": "Anna Docwra",
+    "email": "anna.docwra@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

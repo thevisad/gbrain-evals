@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-bass",
+  "type": "person",
+  "title": "Kathy Bass",
+  "compiled_truth": "Kathy Bass is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-06 to 2001-11-27), Kathy Bass sent 6 and received 556 emails, totalling 562 interactions. Top correspondents: [Joseph Wagner](people/joseph-wagner) (5), [Richard Ring](people/richard-ring) (5), [Narsimha Misra](people/narsimha-misra) (4), [Jeff Merola](people/jeff-merola) (4), [Michael Frazier](people/michael-frazier) (4). Mailbox folders observed: deleted_items, personalfolder.",
+  "timeline": "- **2000-07-06** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-bass",
+    "name": "Kathy Bass",
+    "email": "kathy.bass@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

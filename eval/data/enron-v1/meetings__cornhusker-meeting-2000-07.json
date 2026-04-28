@@ -1,0 +1,26 @@
+{
+  "slug": "meetings/cornhusker-meeting-2000-07",
+  "type": "meeting",
+  "title": "Meeting: Cornhusker Meeting",
+  "compiled_truth": "Meeting: \"Cornhusker Meeting\". Occurred 2000-07-06 through 2000-07-13 with 4 related emails. Participants included: [Chad Landry](people/chad-landry), [Daren Farmer](people/daren-farmer), [Ed Mcmichael](people/ed-mcmichael), [Edward Gottlob](people/edward-gottlob), [Eric Moon](people/eric-moon), [Garrick Hill](people/garrick-hill), [Geraldine Irvine](people/geraldine-irvine), [John Griffith](people/john-griffith)....",
+  "timeline": "- **2000-07-06** | Meeting: cornhusker meeting\n- **2000-07-13** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/cornhusker-meeting-2000-07",
+    "attendees": [
+      "people/chad-landry",
+      "people/daren-farmer",
+      "people/ed-mcmichael",
+      "people/edward-gottlob",
+      "people/eric-moon",
+      "people/garrick-hill",
+      "people/geraldine-irvine",
+      "people/john-griffith",
+      "people/john-king",
+      "people/laura-harder",
+      "people/tera-moss",
+      "people/thomas-martin"
+    ],
+    "date": "2000-07-06"
+  }
+}

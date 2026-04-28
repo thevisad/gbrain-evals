@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-kinser",
+  "type": "person",
+  "title": "John Kinser",
+  "compiled_truth": "John Kinser is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-18), John Kinser sent 2 and received 581 emails, totalling 583 interactions. Top correspondents: [Don Baughman](people/don-baughman) (2), [Tom May](people/tom-may) (2), [Lloyd Will](people/lloyd-will) (2), [Dean Laurent](people/dean-laurent) (1), [D  Baughman](people/d-baughman) (1). Mailbox folders observed: enron_power, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-kinser",
+    "name": "John Kinser",
+    "email": "john.kinser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

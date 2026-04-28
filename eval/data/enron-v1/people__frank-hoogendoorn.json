@@ -1,0 +1,14 @@
+{
+  "slug": "people/frank-hoogendoorn",
+  "type": "person",
+  "title": "Frank Hoogendoorn",
+  "compiled_truth": "Frank Hoogendoorn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-13 to 2001-10-12), Frank Hoogendoorn sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frank-hoogendoorn",
+    "name": "Frank Hoogendoorn",
+    "email": "frank.hoogendoorn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

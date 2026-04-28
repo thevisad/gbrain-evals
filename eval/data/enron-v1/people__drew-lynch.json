@@ -1,0 +1,14 @@
+{
+  "slug": "people/drew-lynch",
+  "type": "person",
+  "title": "Drew Lynch",
+  "compiled_truth": "Drew Lynch is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-27 to 2002-05-06), Drew Lynch sent 4 and received 99 emails, totalling 103 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (2), [John Sherriff](people/john-sherriff) (2), [Michael Brown](people/michael-brown) (2), [Steven Kean](people/steven-kean) (2), [Catherine Huynh](people/catherine-huynh) (1). Mailbox folders observed: deleted_items, hr_stats, inbox.",
+  "timeline": "- **1999-05-27** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/drew-lynch",
+    "name": "Drew Lynch",
+    "email": "drew.lynch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-krob",
+  "type": "person",
+  "title": "Paul Krob",
+  "compiled_truth": "Paul Krob is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-31 to 2002-05-06), Paul Krob sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-08-31** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-krob",
+    "name": "Paul Krob",
+    "email": "paul.krob@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

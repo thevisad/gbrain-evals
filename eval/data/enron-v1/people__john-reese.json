@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-reese",
+  "type": "person",
+  "title": "John Reese",
+  "compiled_truth": "John Reese is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-14), John Reese sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-reese",
+    "name": "John Reese",
+    "email": "john.reese@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dcouto-haas",
+  "type": "person",
+  "title": "Dcouto",
+  "compiled_truth": "Dcouto is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2001-12-14), Dcouto sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dcouto-haas",
+    "name": "Dcouto",
+    "email": "dcouto@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/heath-andrew",
+  "type": "person",
+  "title": "Heath",
+  "compiled_truth": "Heath is an external contact at [Andrew](companies/andrew). Over the corpus period (2000-12-04 to 2001-11-01), Heath sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2001-11-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heath-andrew",
+    "name": "Heath",
+    "email": "heath@andrew.cmu.edu",
+    "primary_affiliation": "companies/andrew"
+  }
+}

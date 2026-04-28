@@ -1,0 +1,14 @@
+{
+  "slug": "people/ewo-jmbm",
+  "type": "person",
+  "title": "Ewo",
+  "compiled_truth": "Ewo is an external contact at [Jmbm](companies/jmbm). Over the corpus period (1999-09-24 to 2001-10-17), Ewo sent 4 and received 180 emails, totalling 184 interactions. Top correspondents: [Sscott3](people/sscott3) (4), [Davef](people/davef-jmbm) (4), [Garyb](people/garyb-jmbm) (4), [Mdjoseph](people/mdjoseph-jmbm) (4), [Epoole](people/epoole-jmbm) (4).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ewo-jmbm",
+    "name": "Ewo",
+    "email": "ewo@jmbm.com",
+    "primary_affiliation": "companies/jmbm"
+  }
+}

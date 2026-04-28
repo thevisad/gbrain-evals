@@ -1,0 +1,14 @@
+{
+  "slug": "people/aleksander-zarebski",
+  "type": "person",
+  "title": "Aleksander Zarebski",
+  "compiled_truth": "Aleksander Zarebski is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-22 to 2001-11-27), Aleksander Zarebski sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-10-22** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aleksander-zarebski",
+    "name": "Aleksander Zarebski",
+    "email": "aleksander.zarebski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

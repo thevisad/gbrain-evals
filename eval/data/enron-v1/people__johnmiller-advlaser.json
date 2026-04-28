@@ -1,0 +1,14 @@
+{
+  "slug": "people/johnmiller-advlaser",
+  "type": "person",
+  "title": "Johnmiller",
+  "compiled_truth": "Johnmiller is an external contact at [Advlaser](companies/advlaser). Over the corpus period (2000-09-04 to 2000-11-16), Johnmiller sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2000-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/johnmiller-advlaser",
+    "name": "Johnmiller",
+    "email": "johnmiller@advlaser.com",
+    "primary_affiliation": "companies/advlaser"
+  }
+}

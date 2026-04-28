@@ -1,0 +1,14 @@
+{
+  "slug": "people/eelsesser-aandellp",
+  "type": "person",
+  "title": "Eelsesser",
+  "compiled_truth": "Eelsesser is an external contact at [Aandellp](companies/aandellp). Over the corpus period (2000-09-08 to 2000-09-20), Eelsesser sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2000-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eelsesser-aandellp",
+    "name": "Eelsesser",
+    "email": "eelsesser@aandellp.com",
+    "primary_affiliation": "companies/aandellp"
+  }
+}

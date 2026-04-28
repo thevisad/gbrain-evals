@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-douglas",
+  "type": "person",
+  "title": "Bill Douglas",
+  "compiled_truth": "Bill Douglas is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-12 to 2001-07-12), Bill Douglas sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-12** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-douglas",
+    "name": "Bill Douglas",
+    "email": "bill.douglas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/annd-penwell",
+  "type": "person",
+  "title": "Annd",
+  "compiled_truth": "Annd is an external contact at [Penwell](companies/penwell). Over the corpus period (2000-11-08 to 2000-11-08), Annd sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-08** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/annd-penwell",
+    "name": "Annd",
+    "email": "annd@penwell.com",
+    "primary_affiliation": "companies/penwell"
+  }
+}

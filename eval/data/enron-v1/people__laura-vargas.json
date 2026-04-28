@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-vargas",
+  "type": "person",
+  "title": "Laura Vargas",
+  "compiled_truth": "Laura Vargas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2002-02-13), Laura Vargas sent 3 and received 174 emails, totalling 177 interactions. Top correspondents: [Dutch Quigley](people/dutch-quigley) (2), [H  Vu](people/h-vu) (1), [Errol Mclaughlin](people/errol-mclaughlin) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-vargas",
+    "name": "Laura Vargas",
+    "email": "laura.vargas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

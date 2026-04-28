@@ -1,0 +1,14 @@
+{
+  "slug": "people/remi-collonges",
+  "type": "person",
+  "title": "Remi Collonges",
+  "compiled_truth": "Remi Collonges is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-09), Remi Collonges sent 8 and received 150 emails, totalling 158 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (2), [John Lavorato](people/john-lavorato) (2), [Lynn Aven](people/lynn-aven) (2), [Joe Kishkill](people/joe-kishkill) (2), [David Rosenberg](people/david-rosenberg) (2). Mailbox folders observed: deleted_items, southamerica.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/remi-collonges",
+    "name": "Remi Collonges",
+    "email": "remi.collonges@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

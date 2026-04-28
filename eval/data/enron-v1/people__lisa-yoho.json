@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-yoho",
+  "type": "person",
+  "title": "Lisa Yoho",
+  "compiled_truth": "Lisa Yoho is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-25 to 2001-12-03), Lisa Yoho sent 142 and received 625 emails, totalling 767 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (97), [Chris Long](people/chris-long) (18), [Jeff Dasovich](people/jeff-dasovich) (15), [Steven Kean](people/steven-kean) (15), [Mark Taylor](people/mark-taylor) (13). Mailbox folders observed: 2001_mid_year_prc, 2001_objectives, 2002_budget, _americas, archive, cftc.",
+  "timeline": "- **1999-10-25** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-yoho",
+    "name": "Lisa Yoho",
+    "email": "lisa.yoho@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

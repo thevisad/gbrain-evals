@@ -1,0 +1,14 @@
+{
+  "slug": "people/kerryann-irwin",
+  "type": "person",
+  "title": "Kerryann Irwin",
+  "compiled_truth": "Kerryann Irwin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-26 to 2001-11-08), Kerryann Irwin sent 1 and received 29 emails, totalling 30 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-07-26** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kerryann-irwin",
+    "name": "Kerryann Irwin",
+    "email": "kerryann.irwin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

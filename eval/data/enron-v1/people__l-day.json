@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-day",
+  "type": "person",
+  "title": "L  Day",
+  "compiled_truth": "L  Day is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-24 to 2002-02-28), L  Day sent 29 and received 328 emails, totalling 357 interactions. Top correspondents: [M  Forney](people/m-forney) (16), [Jeffrey Miller](people/jeffrey-miller) (10), [Doug Gilbert-Smith](people/doug-gilbert-smith) (10), [Clint Dean](people/clint-dean) (8), [Mike Curry](people/mike-curry) (6). Mailbox folders observed: calendar, deleted_items, ercot, inbox, info3, saved.",
+  "timeline": "- **2001-05-24** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-day",
+    "name": "L  Day",
+    "email": "l..day@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

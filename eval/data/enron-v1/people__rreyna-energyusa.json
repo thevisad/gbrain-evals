@@ -1,0 +1,14 @@
+{
+  "slug": "people/rreyna-energyusa",
+  "type": "person",
+  "title": "Rreyna",
+  "compiled_truth": "Rreyna is an external contact at [Energyusa](companies/energyusa). Over the corpus period (2000-12-12 to 2001-06-11), Rreyna sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-12-12** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rreyna-energyusa",
+    "name": "Rreyna",
+    "email": "rreyna@energyusa.com",
+    "primary_affiliation": "companies/energyusa"
+  }
+}

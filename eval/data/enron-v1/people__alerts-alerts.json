@@ -1,0 +1,14 @@
+{
+  "slug": "people/alerts-alerts",
+  "type": "person",
+  "title": "Alerts",
+  "compiled_truth": "Alerts is an external contact at [Alerts](companies/alerts). Over the corpus period (2001-05-30 to 2002-01-18), Alerts sent 33 and received 0 emails, totalling 33 interactions. Top correspondents: [Alewis](people/alewis) (33).",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alerts-alerts",
+    "name": "Alerts",
+    "email": "alerts@alerts.equityalert.com",
+    "primary_affiliation": "companies/alerts"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sharon-butcher",
+  "type": "person",
+  "title": "Sharon Butcher",
+  "compiled_truth": "Sharon Butcher is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2002-01-29), Sharon Butcher sent 11 and received 251 emails, totalling 262 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (4), [James Derrick](people/james-derrick) (4), [J  Kean](people/j-kean) (3), [Lizzette Palmer](people/lizzette-palmer) (2), [Kriste Sullivan](people/kriste-sullivan) (2). Mailbox folders observed: budget, deleted_items, inbox.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sharon-butcher",
+    "name": "Sharon Butcher",
+    "email": "sharon.butcher@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

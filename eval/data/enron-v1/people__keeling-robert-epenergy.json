@@ -1,0 +1,14 @@
+{
+  "slug": "people/keeling-robert-epenergy",
+  "type": "person",
+  "title": "Keeling Robert",
+  "compiled_truth": "Keeling Robert is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2001-01-04 to 2001-07-31), Keeling Robert sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2001-01-04** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keeling-robert-epenergy",
+    "name": "Keeling Robert",
+    "email": "keeling.robert@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

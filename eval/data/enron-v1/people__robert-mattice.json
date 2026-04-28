@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-mattice",
+  "type": "person",
+  "title": "Robert Mattice",
+  "compiled_truth": "Robert Mattice is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-07 to 2001-11-19), Robert Mattice sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-08-07** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-mattice",
+    "name": "Robert Mattice",
+    "email": "robert.mattice@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

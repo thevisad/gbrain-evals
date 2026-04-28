@@ -1,0 +1,14 @@
+{
+  "slug": "people/clay-roesler",
+  "type": "person",
+  "title": "Clay Roesler",
+  "compiled_truth": "Clay Roesler is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-23 to 2001-04-12), Clay Roesler sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **1999-07-23** | First recorded email in corpus\n- **2001-04-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clay-roesler",
+    "name": "Clay Roesler",
+    "email": "clay.roesler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

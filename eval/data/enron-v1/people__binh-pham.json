@@ -1,0 +1,14 @@
+{
+  "slug": "people/binh-pham",
+  "type": "person",
+  "title": "Binh Pham",
+  "compiled_truth": "Binh Pham is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2001-11-08), Binh Pham sent 3 and received 146 emails, totalling 149 interactions. Top correspondents: [Dana Davis](people/dana-davis) (3), [Lisa King](people/lisa-king) (2), [Simone Rose](people/simone-rose) (2), [Rebecca Sanchez](people/rebecca-sanchez) (2), [Michael Kolman](people/michael-kolman) (1).",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/binh-pham",
+    "name": "Binh Pham",
+    "email": "binh.pham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

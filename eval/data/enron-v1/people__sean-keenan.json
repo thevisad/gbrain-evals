@@ -1,0 +1,14 @@
+{
+  "slug": "people/sean-keenan",
+  "type": "person",
+  "title": "Sean Keenan",
+  "compiled_truth": "Sean Keenan is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-27), Sean Keenan sent 2 and received 50 emails, totalling 52 interactions. Top correspondents: [Carol Clair](people/carol-clair) (1), [Mark Taylor](people/mark-taylor) (1), [M  Collins](people/m-collins) (1). Mailbox folders observed: archive.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sean-keenan",
+    "name": "Sean Keenan",
+    "email": "sean.keenan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

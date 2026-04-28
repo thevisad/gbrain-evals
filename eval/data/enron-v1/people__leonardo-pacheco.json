@@ -1,0 +1,14 @@
+{
+  "slug": "people/leonardo-pacheco",
+  "type": "person",
+  "title": "Leonardo Pacheco",
+  "compiled_truth": "Leonardo Pacheco is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-23 to 2002-02-21), Leonardo Pacheco sent 83 and received 257 emails, totalling 340 interactions. Top correspondents: [David Forster](people/david-forster) (77), [Louise Kitchen](people/louise-kitchen) (76), [Mark Palmer](people/mark-palmer) (75), [Greg Whalley](people/greg-whalley) (75), [Rahil Jafry](people/rahil-jafry) (75). Mailbox folders observed: _americas, archiving, attachments, savedmail.",
+  "timeline": "- **2000-03-23** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leonardo-pacheco",
+    "name": "Leonardo Pacheco",
+    "email": "leonardo.pacheco@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

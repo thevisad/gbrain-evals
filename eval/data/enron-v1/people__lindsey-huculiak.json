@@ -1,0 +1,14 @@
+{
+  "slug": "people/lindsey-huculiak",
+  "type": "person",
+  "title": "Lindsey Huculiak",
+  "compiled_truth": "Lindsey Huculiak is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-26), Lindsey Huculiak sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lindsey-huculiak",
+    "name": "Lindsey Huculiak",
+    "email": "lindsey.huculiak@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

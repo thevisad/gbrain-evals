@@ -1,0 +1,14 @@
+{
+  "slug": "people/paula-warren",
+  "type": "person",
+  "title": "Paula Warren",
+  "compiled_truth": "Paula Warren is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-19 to 2001-12-03), Paula Warren sent 0 and received 515 emails, totalling 515 interactions.",
+  "timeline": "- **2000-11-19** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paula-warren",
+    "name": "Paula Warren",
+    "email": "paula.warren@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

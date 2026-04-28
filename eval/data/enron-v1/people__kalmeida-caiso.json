@@ -1,0 +1,14 @@
+{
+  "slug": "people/kalmeida-caiso",
+  "type": "person",
+  "title": "Kalmeida",
+  "compiled_truth": "Kalmeida is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-06-21 to 2002-02-04), Kalmeida sent 60 and received 31 emails, totalling 91 interactions. Top correspondents: [Chris Stokley](people/chris-stokley) (40), [Donna Johnson](people/donna-johnson) (22), [P  O'Neil](people/p-o-neil) (16), [Bill Williams](people/bill-williams) (13), [H  Foster](people/h-foster) (12).",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kalmeida-caiso",
+    "name": "Kalmeida",
+    "email": "kalmeida@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

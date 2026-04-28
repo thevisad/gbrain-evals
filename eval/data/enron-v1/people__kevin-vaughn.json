@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-vaughn",
+  "type": "person",
+  "title": "Kevin Vaughn",
+  "compiled_truth": "Kevin Vaughn is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-17 to 2001-11-30), Kevin Vaughn sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-10-17** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-vaughn",
+    "name": "Kevin Vaughn",
+    "email": "kevin.vaughn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

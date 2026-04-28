@@ -1,0 +1,14 @@
+{
+  "slug": "people/jones",
+  "type": "person",
+  "title": "Jones",
+  "compiled_truth": "Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-31 to 2002-01-22), Jones sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2001-07-31** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jones",
+    "name": "Jones",
+    "email": "jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

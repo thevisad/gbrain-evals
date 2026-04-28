@@ -1,0 +1,14 @@
+{
+  "slug": "people/anthony-bonadero-dell",
+  "type": "person",
+  "title": "Anthony Bonadero",
+  "compiled_truth": "Anthony Bonadero is an external contact at [Dell](companies/dell). Over the corpus period (2001-03-02 to 2001-04-30), Anthony Bonadero sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-03-02** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anthony-bonadero-dell",
+    "name": "Anthony Bonadero",
+    "email": "anthony_bonadero@dell.com",
+    "primary_affiliation": "companies/dell"
+  }
+}

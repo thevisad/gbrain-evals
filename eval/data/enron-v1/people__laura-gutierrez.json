@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-gutierrez",
+  "type": "person",
+  "title": "Laura Gutierrez",
+  "compiled_truth": "Laura Gutierrez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-05 to 2002-05-06), Laura Gutierrez sent 0 and received 33 emails, totalling 33 interactions.",
+  "timeline": "- **2000-01-05** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-gutierrez",
+    "name": "Laura Gutierrez",
+    "email": "laura.gutierrez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

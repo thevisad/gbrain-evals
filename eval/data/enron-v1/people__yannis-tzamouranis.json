@@ -1,0 +1,14 @@
+{
+  "slug": "people/yannis-tzamouranis",
+  "type": "person",
+  "title": "Yannis Tzamouranis",
+  "compiled_truth": "Yannis Tzamouranis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-29 to 2001-10-12), Yannis Tzamouranis sent 10 and received 21 emails, totalling 31 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (8), [Joseph Hrgovcic](people/joseph-hrgovcic) (4), [Mark Tawney](people/mark-tawney) (3), [Claudio Ribeiro](people/claudio-ribeiro) (3), [Todd Kimberlain](people/todd-kimberlain) (3).",
+  "timeline": "- **2000-03-29** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yannis-tzamouranis",
+    "name": "Yannis Tzamouranis",
+    "email": "yannis.tzamouranis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

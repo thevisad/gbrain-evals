@@ -1,0 +1,14 @@
+{
+  "slug": "people/lenny",
+  "type": "person",
+  "title": "' ''Lenny",
+  "compiled_truth": "' ''Lenny is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-25 to 2001-09-25), ' ''Lenny sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-09-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lenny",
+    "name": "' ''Lenny",
+    "email": "'.''lenny@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

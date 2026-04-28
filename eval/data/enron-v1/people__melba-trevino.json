@@ -1,0 +1,14 @@
+{
+  "slug": "people/melba-trevino",
+  "type": "person",
+  "title": "Melba Trevino",
+  "compiled_truth": "Melba Trevino is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-06 to 2001-05-22), Melba Trevino sent 1 and received 5 emails, totalling 6 interactions. Top correspondents: [Gareth Bahlmann](people/gareth-bahlmann) (1), [Brenda Funk](people/brenda-funk) (1), [Joel Ephross](people/joel-ephross) (1), [Julia Chin](people/julia-chin) (1), [Nora Dobin](people/nora-dobin) (1).",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melba-trevino",
+    "name": "Melba Trevino",
+    "email": "melba.trevino@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-a-lammers",
+  "type": "person",
+  "title": "Richard A Lammers",
+  "compiled_truth": "Richard A Lammers is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-28 to 2000-12-20), Richard A Lammers sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2000-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-a-lammers",
+    "name": "Richard A Lammers",
+    "email": "richard.a.lammers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/nony-flores",
+  "type": "person",
+  "title": "Nony Flores",
+  "compiled_truth": "Nony Flores is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2002-06-21), Nony Flores sent 45 and received 421 emails, totalling 466 interactions. Top correspondents: [Alan Aronowitz](people/alan-aronowitz) (16), [Mark Taylor](people/mark-taylor) (16), [Susan Bailey](people/susan-bailey) (12), [Tana Jones](people/tana-jones) (12), [Marie Heard](people/marie-heard) (9). Mailbox folders observed: deleted_items, inbox, outlook_migration.",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nony-flores",
+    "name": "Nony Flores",
+    "email": "nony.flores@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

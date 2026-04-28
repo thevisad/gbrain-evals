@@ -1,0 +1,14 @@
+{
+  "slug": "people/dean-gosselin-fpl",
+  "type": "person",
+  "title": "Dean Gosselin",
+  "compiled_truth": "Dean Gosselin is an external contact at [Fpl](companies/fpl). Over the corpus period (2000-08-31 to 2001-07-31), Dean Gosselin sent 0 and received 225 emails, totalling 225 interactions.",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dean-gosselin-fpl",
+    "name": "Dean Gosselin",
+    "email": "dean_gosselin@fpl.com",
+    "primary_affiliation": "companies/fpl"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/thompson",
+  "type": "person",
+  "title": " Thompson",
+  "compiled_truth": "Thompson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-01 to 2002-03-20),  Thompson sent 1 and received 39 emails, totalling 40 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-05-01** | First recorded email in corpus\n- **2002-03-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thompson",
+    "name": " Thompson",
+    "email": ".thompson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-durham",
+  "type": "person",
+  "title": "Kim Durham",
+  "compiled_truth": "Kim Durham is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-02-06), Kim Durham sent 0 and received 132 emails, totalling 132 interactions.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-durham",
+    "name": "Kim Durham",
+    "email": "kim.durham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rbaker-reliantenergy",
+  "type": "person",
+  "title": "Rbaker",
+  "compiled_truth": "Rbaker is an external contact at [Reliant Energy](companies/reliant-energy). Over the corpus period (2000-02-11 to 2000-04-19), Rbaker sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-02-11** | First recorded email in corpus\n- **2000-04-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rbaker-reliantenergy",
+    "name": "Rbaker",
+    "email": "rbaker@reliantenergy.com",
+    "primary_affiliation": "companies/reliant-energy"
+  }
+}

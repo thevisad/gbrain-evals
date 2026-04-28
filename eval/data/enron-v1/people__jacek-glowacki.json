@@ -1,0 +1,14 @@
+{
+  "slug": "people/jacek-glowacki",
+  "type": "person",
+  "title": "Jacek Glowacki",
+  "compiled_truth": "Jacek Glowacki is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-19 to 2001-12-14), Jacek Glowacki sent 1 and received 17 emails, totalling 18 interactions. Top correspondents: [Adam Jarek](people/adam-jarek) (1), [Anne Edgley](people/anne-edgley) (1), [Ed Cattigan](people/ed-cattigan) (1), [Jarek Dybowski](people/jarek-dybowski) (1), [James Derrick](people/james-derrick) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-10-19** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jacek-glowacki",
+    "name": "Jacek Glowacki",
+    "email": "jacek.glowacki@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

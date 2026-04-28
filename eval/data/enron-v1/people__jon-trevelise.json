@@ -1,0 +1,14 @@
+{
+  "slug": "people/jon-trevelise",
+  "type": "person",
+  "title": "Jon Trevelise",
+  "compiled_truth": "Jon Trevelise is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-14 to 2002-02-28), Jon Trevelise sent 8 and received 40 emails, totalling 48 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (6), [Nancy Carpenter](people/nancy-carpenter) (5), [Robin Border](people/robin-border) (4), [Joe Richards](people/joe-richards) (4), [Molly Sample](people/molly-sample) (4). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-14** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jon-trevelise",
+    "name": "Jon Trevelise",
+    "email": "jon.trevelise@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

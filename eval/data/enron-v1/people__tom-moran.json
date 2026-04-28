@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-moran",
+  "type": "person",
+  "title": "Tom Moran",
+  "compiled_truth": "Tom Moran is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-08 to 2002-03-08), Tom Moran sent 40 and received 1543 emails, totalling 1583 interactions. Top correspondents: [Tana Jones](people/tana-jones) (25), [Stephanie Sever](people/stephanie-sever) (17), [Lisa Lees](people/lisa-lees) (15), [Wendi Lebrocq](people/wendi-lebrocq) (12), [Samuel Schott](people/samuel-schott) (11). Mailbox folders observed: bankrupt, deleted_items, inbox.",
+  "timeline": "- **1999-09-08** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-moran",
+    "name": "Tom Moran",
+    "email": "tom.moran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

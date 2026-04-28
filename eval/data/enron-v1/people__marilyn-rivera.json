@@ -1,0 +1,14 @@
+{
+  "slug": "people/marilyn-rivera",
+  "type": "person",
+  "title": "Marilyn Rivera",
+  "compiled_truth": "Marilyn Rivera is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-11-27), Marilyn Rivera sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marilyn-rivera",
+    "name": "Marilyn Rivera",
+    "email": "marilyn.rivera@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

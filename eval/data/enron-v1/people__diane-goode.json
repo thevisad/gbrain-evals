@@ -1,0 +1,14 @@
+{
+  "slug": "people/diane-goode",
+  "type": "person",
+  "title": "Diane Goode",
+  "compiled_truth": "Diane Goode is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-05 to 2001-12-28), Diane Goode sent 29 and received 194 emails, totalling 223 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (16), [B  Sanders](people/b-sanders) (10), [Andrea Yowman](people/andrea-yowman) (3), [Lizzette Palmer](people/lizzette-palmer) (2), [Fran Mayes](people/fran-mayes) (2). Mailbox folders observed: deleted_items, general_research, inbox.",
+  "timeline": "- **2001-01-05** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diane-goode",
+    "name": "Diane Goode",
+    "email": "diane.goode@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

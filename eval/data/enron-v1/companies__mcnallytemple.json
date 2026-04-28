@@ -1,0 +1,30 @@
+{
+  "slug": "companies/mcnallytemple",
+  "type": "company",
+  "title": "Mcnallytemple",
+  "compiled_truth": "Mcnallytemple is an external organization that appears in the Enron email corpus. Domain: mcnallytemple.com. Total email interactions with Enron: 695. Known contacts: 13 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (695 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/mcnallytemple",
+    "name": "Mcnallytemple",
+    "employees": [
+      "people/dreidart-mcnallytemple",
+      "people/eblumfeld-mcnallytemple",
+      "people/jcapik-mcnallytemple",
+      "people/jmcnally-mcnallytemple",
+      "people/jmunoz-mcnallytemple",
+      "people/klanierart-mcnallytemple",
+      "people/knorton-mcnallytemple",
+      "people/mta-mcnallytemple",
+      "people/rmcnally-mcnallytemple",
+      "people/rtemple-mcnallytemple",
+      "people/sbaldaprod-mcnallytemple",
+      "people/tross-mcnallytemple",
+      "people/trusso-mcnallytemple"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

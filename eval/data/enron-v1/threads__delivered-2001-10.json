@@ -1,0 +1,19 @@
+{
+  "slug": "threads/delivered-2001-10",
+  "type": "meeting",
+  "title": "Thread: Delivered:",
+  "compiled_truth": "Email thread: \"Delivered:\". Ran from 2001-10-17 to 2001-11-14 with 28 messages. Participants: [F  Keavey](people/f-keavey), [Marie Heard](people/marie-heard), [Postmaster](people/postmaster-dowjones), [Postmaster](people/postmaster-ftenergy), [Postmaster](people/postmaster-hess).",
+  "timeline": "- **2001-10-17** | Thread begins: delivered:\n- **2001-11-14** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/delivered-2001-10",
+    "attendees": [
+      "people/f-keavey",
+      "people/marie-heard",
+      "people/postmaster-dowjones",
+      "people/postmaster-ftenergy",
+      "people/postmaster-hess"
+    ],
+    "date": "2001-10-17"
+  }
+}

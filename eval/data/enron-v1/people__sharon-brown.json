@@ -1,0 +1,14 @@
+{
+  "slug": "people/sharon-brown",
+  "type": "person",
+  "title": "Sharon Brown",
+  "compiled_truth": "Sharon Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2002-05-06), Sharon Brown sent 58 and received 226 emails, totalling 284 interactions. Top correspondents: [Gary Spraggins](people/gary-spraggins) (49), [Darrell Schoolcraft](people/darrell-schoolcraft) (48), [Dale Ratliff](people/dale-ratliff) (47), [Jerry Graves](people/jerry-graves) (45), [Tom Gilbert](people/tom-gilbert) (29). Mailbox folders observed: deleted_items, inbox, meetings___nng_customer_mtg.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sharon-brown",
+    "name": "Sharon Brown",
+    "email": "sharon.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

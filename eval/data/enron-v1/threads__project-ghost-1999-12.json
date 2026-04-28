@@ -1,0 +1,25 @@
+{
+  "slug": "threads/project-ghost-1999-12",
+  "type": "meeting",
+  "title": "Thread: Project Ghost",
+  "compiled_truth": "Email thread: \"Project Ghost\". Ran from 1999-12-15 to 1999-12-20 with 14 messages. Participants: [Brenda Funk](people/brenda-funk), [Craig Clark](people/craig-clark), [Gareth Bahlmann](people/gareth-bahlmann), [Kaye Ellis](people/kaye-ellis), [Marie Heard](people/marie-heard), [Morris Clark](people/morris-clark), [Rhett Jackson](people/rhett-jackson), [Robin Decker](people/robin-decker).",
+  "timeline": "- **1999-12-15** | Thread begins: project ghost\n- **1999-12-20** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/project-ghost-1999-12",
+    "attendees": [
+      "people/brenda-funk",
+      "people/craig-clark",
+      "people/gareth-bahlmann",
+      "people/kaye-ellis",
+      "people/marie-heard",
+      "people/morris-clark",
+      "people/rhett-jackson",
+      "people/robin-decker",
+      "people/rod-nelson",
+      "people/sara-shackleton",
+      "people/stephen-douglas"
+    ],
+    "date": "1999-12-15"
+  }
+}

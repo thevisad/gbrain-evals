@@ -1,0 +1,14 @@
+{
+  "slug": "people/rljohn-water",
+  "type": "person",
+  "title": "Rljohn",
+  "compiled_truth": "Rljohn is an external contact at [Water](companies/water). Over the corpus period (2000-07-25 to 2000-08-29), Rljohn sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2000-08-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rljohn-water",
+    "name": "Rljohn",
+    "email": "rljohn@water.ca.gov",
+    "primary_affiliation": "companies/water"
+  }
+}

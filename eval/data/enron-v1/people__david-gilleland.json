@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-gilleland",
+  "type": "person",
+  "title": "David Gilleland",
+  "compiled_truth": "David Gilleland is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-25 to 2001-08-22), David Gilleland sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-04-25** | First recorded email in corpus\n- **2001-08-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-gilleland",
+    "name": "David Gilleland",
+    "email": "david.gilleland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

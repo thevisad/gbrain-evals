@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-yee",
+  "type": "person",
+  "title": "Michelle Yee",
+  "compiled_truth": "Michelle Yee is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-22 to 2001-06-27), Michelle Yee sent 1 and received 6 emails, totalling 7 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-22** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-yee",
+    "name": "Michelle Yee",
+    "email": "michelle.yee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

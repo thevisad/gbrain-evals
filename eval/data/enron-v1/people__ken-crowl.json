@@ -1,0 +1,14 @@
+{
+  "slug": "people/ken-crowl",
+  "type": "person",
+  "title": "Ken Crowl",
+  "compiled_truth": "Ken Crowl is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-01 to 2002-03-25), Ken Crowl sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **1999-04-01** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ken-crowl",
+    "name": "Ken Crowl",
+    "email": "ken.crowl@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

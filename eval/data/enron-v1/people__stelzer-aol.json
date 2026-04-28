@@ -1,0 +1,14 @@
+{
+  "slug": "people/stelzer-aol",
+  "type": "person",
+  "title": "Stelzer",
+  "compiled_truth": "Stelzer is an external contact at [AOL](companies/aol). Over the corpus period (2000-08-07 to 2001-11-13), Stelzer sent 24 and received 33 emails, totalling 57 interactions. Top correspondents: [Skean](people/skean) (15), [Klay](people/klay) (14), [Rosalee Fleming](people/rosalee-fleming) (10), [J  Kean](people/j-kean) (2), [Timothy Plaut](people/timothy-plaut-gs) (2).",
+  "timeline": "- **2000-08-07** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stelzer-aol",
+    "name": "Stelzer",
+    "email": "stelzer@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/blair-fleming-royalbank",
+  "type": "person",
+  "title": "Blair Fleming",
+  "compiled_truth": "Blair Fleming is an external contact at [Royalbank](companies/royalbank). Over the corpus period (2000-09-19 to 2000-09-29), Blair Fleming sent 2 and received 22 emails, totalling 24 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2), [Tana Jones](people/tana-jones) (1), [Peter Keohane](people/peter-keohane) (1).",
+  "timeline": "- **2000-09-19** | First recorded email in corpus\n- **2000-09-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/blair-fleming-royalbank",
+    "name": "Blair Fleming",
+    "email": "blair.fleming@royalbank.com",
+    "primary_affiliation": "companies/royalbank"
+  }
+}

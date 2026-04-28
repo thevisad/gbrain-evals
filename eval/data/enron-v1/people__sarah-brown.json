@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarah-brown",
+  "type": "person",
+  "title": "Sarah Brown",
+  "compiled_truth": "Sarah Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-04 to 2002-02-13), Sarah Brown sent 2 and received 32 emails, totalling 34 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (2), [Faith Killen](people/faith-killen) (2), [Kay Moore](people/kay-moore) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarah-brown",
+    "name": "Sarah Brown",
+    "email": "sarah.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

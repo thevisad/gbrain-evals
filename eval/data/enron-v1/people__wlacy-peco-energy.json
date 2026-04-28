@@ -1,0 +1,14 @@
+{
+  "slug": "people/wlacy-peco-energy",
+  "type": "person",
+  "title": "Wlacy",
+  "compiled_truth": "Wlacy is an external contact at [Peco-energy](companies/peco-energy). Over the corpus period (2000-02-25 to 2000-09-18), Wlacy sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-02-25** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wlacy-peco-energy",
+    "name": "Wlacy",
+    "email": "wlacy@peco-energy.com",
+    "primary_affiliation": "companies/peco-energy"
+  }
+}

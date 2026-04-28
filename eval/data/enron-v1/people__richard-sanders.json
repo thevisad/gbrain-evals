@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-sanders",
+  "type": "person",
+  "title": "Richard Sanders",
+  "compiled_truth": "Richard Sanders is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-07), Richard Sanders sent 3153 and received 2006 emails, totalling 5159 interactions. Top correspondents: [Linda Guinn](people/linda-guinn) (315), [Twanda Sweet](people/twanda-sweet) (235), [Andrew Edison](people/andrew-edison) (176), [Mark Haedicke](people/mark-haedicke) (129), [Britt Davis](people/britt-davis) (121). Mailbox folders observed: _americas, caliornia___investigations, deleted_items, inbox, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-sanders",
+    "name": "Richard Sanders",
+    "email": "richard.sanders@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

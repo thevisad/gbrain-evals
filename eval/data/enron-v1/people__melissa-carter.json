@@ -1,0 +1,14 @@
+{
+  "slug": "people/melissa-carter",
+  "type": "person",
+  "title": "Melissa Carter",
+  "compiled_truth": "Melissa Carter is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-08 to 2002-05-06), Melissa Carter sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-08** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melissa-carter",
+    "name": "Melissa Carter",
+    "email": "melissa.carter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

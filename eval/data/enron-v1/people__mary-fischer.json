@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-fischer",
+  "type": "person",
+  "title": "Mary Fischer",
+  "compiled_truth": "Mary Fischer is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2001-11-08), Mary Fischer sent 85 and received 120 emails, totalling 205 interactions. Top correspondents: [Richard Laird](people/richard-laird) (10), [Leesa White](people/leesa-white) (9), [Todd Richards](people/todd-richards) (9), [Felecia Fitzgerald](people/felecia-fitzgerald) (8), [Dara Flinn](people/dara-flinn) (7). Mailbox folders observed: _sent, current_estimate, felecia_fitzgerald, personal, sent_items.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-fischer",
+    "name": "Mary Fischer",
+    "email": "mary.fischer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

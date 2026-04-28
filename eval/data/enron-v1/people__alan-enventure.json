@@ -1,0 +1,14 @@
+{
+  "slug": "people/alan-enventure",
+  "type": "person",
+  "title": "Alan",
+  "compiled_truth": "Alan is an external contact at [Enventure](companies/enventure). Over the corpus period (2001-01-03 to 2001-05-30), Alan sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [Mwood](people/mwood-stoel) (1), [Tedwill](people/tedwill-mtpower) (1), [Kewh](people/kewh-dynegy) (1), [Judywelchrtow](people/judywelchrtow-earthlink) (1), [Steve](people/steve-nwenergy) (1).",
+  "timeline": "- **2001-01-03** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alan-enventure",
+    "name": "Alan",
+    "email": "alan@enventure.com",
+    "primary_affiliation": "companies/enventure"
+  }
+}

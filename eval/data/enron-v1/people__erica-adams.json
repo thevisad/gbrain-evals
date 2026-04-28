@@ -1,0 +1,14 @@
+{
+  "slug": "people/erica-adams",
+  "type": "person",
+  "title": "Erica Adams",
+  "compiled_truth": "Erica Adams is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-21 to 2001-11-08), Erica Adams sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/erica-adams",
+    "name": "Erica Adams",
+    "email": "erica.adams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

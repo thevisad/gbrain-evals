@@ -1,0 +1,14 @@
+{
+  "slug": "people/dwswapp-duke-energy",
+  "type": "person",
+  "title": "Dwswapp",
+  "compiled_truth": "Dwswapp is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-09-20 to 2001-07-31), Dwswapp sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-09-20** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dwswapp-duke-energy",
+    "name": "Dwswapp",
+    "email": "dwswapp@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

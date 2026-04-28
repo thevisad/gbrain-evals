@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-keller",
+  "type": "person",
+  "title": "James Keller",
+  "compiled_truth": "James Keller is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-25 to 2001-11-21), James Keller sent 12 and received 190 emails, totalling 202 interactions. Top correspondents: [Jeffrey Hodge](people/jeffrey-hodge) (10), [Carol Clair](people/carol-clair) (10), [Elizabeth Sager](people/elizabeth-sager) (6), [Mike Smith](people/mike-smith) (4), [Deborah Culver](people/deborah-culver) (4). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-04-25** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-keller",
+    "name": "James Keller",
+    "email": "james.keller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

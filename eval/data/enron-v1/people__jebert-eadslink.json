@@ -1,0 +1,14 @@
+{
+  "slug": "people/jebert-eadslink",
+  "type": "person",
+  "title": "Jebert",
+  "compiled_truth": "Jebert is an external contact at [Eadslink](companies/eadslink). Over the corpus period (2000-11-06 to 2002-01-18), Jebert sent 13 and received 13 emails, totalling 26 interactions. Top correspondents: [Don Baughman](people/don-baughman) (13), [Tichavsky' 'Scott](people/tichavsky-scott) (6), [Nobles David](people/nobles-david) (4), [Snapka Gerald](people/snapka-gerald) (3), [Strawn Scott](people/strawn-scott) (3).",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jebert-eadslink",
+    "name": "Jebert",
+    "email": "jebert@eadslink.com",
+    "primary_affiliation": "companies/eadslink"
+  }
+}

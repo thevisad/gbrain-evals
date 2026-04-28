@@ -1,0 +1,14 @@
+{
+  "slug": "people/linguaphile-wordsmith",
+  "type": "person",
+  "title": "Linguaphile",
+  "compiled_truth": "Linguaphile is an external contact at [Wordsmith](companies/wordsmith). Over the corpus period (2000-03-10 to 2002-03-25), Linguaphile sent 0 and received 266 emails, totalling 266 interactions.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linguaphile-wordsmith",
+    "name": "Linguaphile",
+    "email": "linguaphile@wordsmith.org",
+    "primary_affiliation": "companies/wordsmith"
+  }
+}

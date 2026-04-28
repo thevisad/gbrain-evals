@@ -1,0 +1,14 @@
+{
+  "slug": "people/molly-hellerman",
+  "type": "person",
+  "title": "Molly Hellerman",
+  "compiled_truth": "Molly Hellerman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-19), Molly Hellerman sent 0 and received 78 emails, totalling 78 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/molly-hellerman",
+    "name": "Molly Hellerman",
+    "email": "molly.hellerman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

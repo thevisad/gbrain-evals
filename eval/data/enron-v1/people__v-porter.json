@@ -1,0 +1,14 @@
+{
+  "slug": "people/v-porter",
+  "type": "person",
+  "title": "V  Porter",
+  "compiled_truth": "V  Porter is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-03 to 2002-01-04), V  Porter sent 10 and received 245 emails, totalling 255 interactions. Top correspondents: [Bill Williams](people/bill-williams) (5), [Shift Dl-Portland](people/shift-dl-portland) (2), [Ryan Slinger](people/ryan-slinger) (2), [Paul Kane](people/paul-kane) (1), [Center Dl-Portland](people/center-dl-portland) (1). Mailbox folders observed: bill_williams_iii, deleted_items, inbox.",
+  "timeline": "- **2001-05-03** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/v-porter",
+    "name": "V  Porter",
+    "email": "v..porter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

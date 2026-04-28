@@ -1,0 +1,14 @@
+{
+  "slug": "people/aparna-rajaram",
+  "type": "person",
+  "title": "Aparna Rajaram",
+  "compiled_truth": "Aparna Rajaram is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-01 to 2001-11-27), Aparna Rajaram sent 29 and received 282 emails, totalling 311 interactions. Top correspondents: [Tana Jones](people/tana-jones) (23), [Nicole Hunter](people/nicole-hunter) (21), [Frank Davis](people/frank-davis) (20), [Camille Gerard](people/camille-gerard) (19), [Ken Curry](people/ken-curry) (18). Mailbox folders observed: deleted_items, inbox, notes_inbox, online_trading.",
+  "timeline": "- **2001-02-01** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aparna-rajaram",
+    "name": "Aparna Rajaram",
+    "email": "aparna.rajaram@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

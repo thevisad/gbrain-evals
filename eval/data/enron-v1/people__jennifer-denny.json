@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-denny",
+  "type": "person",
+  "title": "Jennifer Denny",
+  "compiled_truth": "Jennifer Denny is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-30 to 2002-03-07), Jennifer Denny sent 10 and received 604 emails, totalling 614 interactions. Top correspondents: [Tana Jones](people/tana-jones) (5), [Mark Taylor](people/mark-taylor) (4), [Torrey Moorer](people/torrey-moorer) (3), [Sheri Thomas](people/sheri-thomas) (3), [Savita Puthigai](people/savita-puthigai) (2). Mailbox folders observed: _americas, archive, deleted_items.",
+  "timeline": "- **1999-09-30** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-denny",
+    "name": "Jennifer Denny",
+    "email": "jennifer.denny@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

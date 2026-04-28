@@ -1,0 +1,14 @@
+{
+  "slug": "people/hakeem-ogunbunmi",
+  "type": "person",
+  "title": "Hakeem Ogunbunmi",
+  "compiled_truth": "Hakeem Ogunbunmi is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-30 to 2001-12-12), Hakeem Ogunbunmi sent 2 and received 48 emails, totalling 50 interactions. Top correspondents: [J  Farmer](people/j-farmer) (1), [P  South](people/p-south) (1), [Kevin Ruscitti](people/kevin-ruscitti) (1), [Joe Parks](people/joe-parks) (1), [Scott Goodell](people/scott-goodell) (1). Mailbox folders observed: deleted_items, tufco.",
+  "timeline": "- **2001-03-30** | First recorded email in corpus\n- **2001-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hakeem-ogunbunmi",
+    "name": "Hakeem Ogunbunmi",
+    "email": "hakeem.ogunbunmi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

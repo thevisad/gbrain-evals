@@ -1,0 +1,14 @@
+{
+  "slug": "people/bert-meyers",
+  "type": "person",
+  "title": "Bert Meyers",
+  "compiled_truth": "Bert Meyers is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-30 to 2001-11-28), Bert Meyers sent 56 and received 1893 emails, totalling 1949 interactions. Top correspondents: [Bill Williams](people/bill-williams) (23), [Shift Dl-Portland](people/shift-dl-portland) (8), [Kate Symes](people/kate-symes) (8), [Mgmt Dl-Portland](people/mgmt-dl-portland) (8), [Test Volume](people/test-volume) (7). Mailbox folders observed: bill_williams_iii, deleted_items, inbox, read.",
+  "timeline": "- **2001-01-30** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bert-meyers",
+    "name": "Bert Meyers",
+    "email": "bert.meyers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

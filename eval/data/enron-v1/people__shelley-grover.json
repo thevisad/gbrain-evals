@@ -1,0 +1,14 @@
+{
+  "slug": "people/shelley-grover",
+  "type": "person",
+  "title": "Shelley Grover",
+  "compiled_truth": "Shelley Grover is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2001-06-05), Shelley Grover sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shelley-grover",
+    "name": "Shelley Grover",
+    "email": "shelley.grover@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

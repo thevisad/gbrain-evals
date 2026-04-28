@@ -1,0 +1,14 @@
+{
+  "slug": "people/cindy-shaffer",
+  "type": "person",
+  "title": "Cindy Shaffer",
+  "compiled_truth": "Cindy Shaffer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-12 to 2001-12-03), Cindy Shaffer sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **1999-08-12** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cindy-shaffer",
+    "name": "Cindy Shaffer",
+    "email": "cindy.shaffer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

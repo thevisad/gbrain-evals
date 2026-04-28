@@ -1,0 +1,16 @@
+{
+  "slug": "people/kofi-mensah",
+  "type": "person",
+  "title": "Kofi Mensah",
+  "compiled_truth": "Kofi Mensah is a peer VC. Email: kofi@beacon.vc. Kofi Mensah works at Beacon VC. Slack: @kofi.",
+  "timeline": "- **2025-04-14** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kofi-mensah",
+    "name": "Kofi Mensah",
+    "email": "kofi@beacon.vc",
+    "slack_handle": "kofi",
+    "relation_to_amara": "peer",
+    "primary_affiliation": "companies/beacon-vc"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/edward-coats",
+  "type": "person",
+  "title": "Edward Coats",
+  "compiled_truth": "Edward Coats is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-01 to 2002-03-06), Edward Coats sent 0 and received 61 emails, totalling 61 interactions.",
+  "timeline": "- **2000-02-01** | First recorded email in corpus\n- **2002-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edward-coats",
+    "name": "Edward Coats",
+    "email": "edward.coats@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

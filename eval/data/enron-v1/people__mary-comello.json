@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-comello",
+  "type": "person",
+  "title": "Mary Comello",
+  "compiled_truth": "Mary Comello is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2001-10-15), Mary Comello sent 3 and received 70 emails, totalling 73 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (3), [Sabrae Zajac](people/sabrae-zajac) (1), [Howard Camp](people/howard-camp) (1), [Clem Cernosek](people/clem-cernosek) (1), [Kristen Hanson](people/kristen-hanson) (1).",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-comello",
+    "name": "Mary Comello",
+    "email": "mary.comello@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

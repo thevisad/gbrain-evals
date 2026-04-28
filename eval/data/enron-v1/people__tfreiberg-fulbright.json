@@ -1,0 +1,14 @@
+{
+  "slug": "people/tfreiberg-fulbright",
+  "type": "person",
+  "title": "Tfreiberg",
+  "compiled_truth": "Tfreiberg is an external contact at [Fulbright](companies/fulbright). Over the corpus period (2001-03-20 to 2001-05-03), Tfreiberg sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-03-20** | First recorded email in corpus\n- **2001-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tfreiberg-fulbright",
+    "name": "Tfreiberg",
+    "email": "tfreiberg@fulbright.com",
+    "primary_affiliation": "companies/fulbright"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jmct-gmssr",
+  "type": "person",
+  "title": "Jmct",
+  "compiled_truth": "Jmct is an external contact at [Gmssr](companies/gmssr). Over the corpus period (1999-09-24 to 2001-07-31), Jmct sent 0 and received 156 emails, totalling 156 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jmct-gmssr",
+    "name": "Jmct",
+    "email": "jmct@gmssr.com",
+    "primary_affiliation": "companies/gmssr"
+  }
+}

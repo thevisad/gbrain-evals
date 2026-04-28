@@ -1,0 +1,14 @@
+{
+  "slug": "people/goldenj-allenovery",
+  "type": "person",
+  "title": "Goldenj",
+  "compiled_truth": "Goldenj is an external contact at [Allenovery](companies/allenovery). Over the corpus period (1999-12-08 to 2001-08-08), Goldenj sent 0 and received 48 emails, totalling 48 interactions.",
+  "timeline": "- **1999-12-08** | First recorded email in corpus\n- **2001-08-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/goldenj-allenovery",
+    "name": "Goldenj",
+    "email": "goldenj@allenovery.com",
+    "primary_affiliation": "companies/allenovery"
+  }
+}

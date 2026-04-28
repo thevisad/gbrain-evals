@@ -1,0 +1,14 @@
+{
+  "slug": "people/duffie-stanford",
+  "type": "person",
+  "title": "Duffie",
+  "compiled_truth": "Duffie is an external contact at [Stanford](companies/stanford). Over the corpus period (1980-01-01 to 2002-01-08), Duffie sent 9 and received 22 emails, totalling 31 interactions. Top correspondents: [Vince J Kaminski](people/vince-j-kaminski) (6), [J Kaminski](people/j-kaminski) (3), [David Port](people/david-port) (2), [Vkaminski](people/vkaminski-aol) (1), [Naveen Andrews](people/naveen-andrews) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/duffie-stanford",
+    "name": "Duffie",
+    "email": "duffie@stanford.edu",
+    "primary_affiliation": "companies/stanford"
+  }
+}

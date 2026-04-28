@@ -1,0 +1,14 @@
+{
+  "slug": "people/ruth-jensen",
+  "type": "person",
+  "title": "Ruth Jensen",
+  "compiled_truth": "Ruth Jensen is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-28), Ruth Jensen sent 9 and received 102 emails, totalling 111 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (9), [William Kendrick](people/william-kendrick) (9), [Jacob Krautsch](people/jacob-krautsch) (6), [Allan Schoen](people/allan-schoen) (6), [Kyle Purvis](people/kyle-purvis) (6). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ruth-jensen",
+    "name": "Ruth Jensen",
+    "email": "ruth.jensen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

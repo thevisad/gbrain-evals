@@ -1,0 +1,14 @@
+{
+  "slug": "people/timothy-neil",
+  "type": "person",
+  "title": "Timothy Neil",
+  "compiled_truth": "Timothy Neil is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-11-03), Timothy Neil sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/timothy-neil",
+    "name": "Timothy Neil",
+    "email": "timothy.neil@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

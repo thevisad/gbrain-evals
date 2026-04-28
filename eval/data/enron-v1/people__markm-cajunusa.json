@@ -1,0 +1,14 @@
+{
+  "slug": "people/markm-cajunusa",
+  "type": "person",
+  "title": "Markm",
+  "compiled_truth": "Markm is an external contact at [Cajunusa](companies/cajunusa). Over the corpus period (2001-07-02 to 2002-01-31), Markm sent 32 and received 38 emails, totalling 70 interactions. Top correspondents: [Siva66](people/siva66-mail) (5), [Dutch Quigley](people/dutch-quigley) (3), [Wolphguy](people/wolphguy-aol) (3), [Martier](people/martier-cpchem) (3), [Klyn](people/klyn-pdq) (2).",
+  "timeline": "- **2001-07-02** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/markm-cajunusa",
+    "name": "Markm",
+    "email": "markm@cajunusa.com",
+    "primary_affiliation": "companies/cajunusa"
+  }
+}

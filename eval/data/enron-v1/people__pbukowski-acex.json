@@ -1,0 +1,14 @@
+{
+  "slug": "people/pbukowski-acex",
+  "type": "person",
+  "title": "Pbukowski",
+  "compiled_truth": "Pbukowski is an external contact at [Acex](companies/acex). Over the corpus period (1999-09-19 to 2000-09-15), Pbukowski sent 2 and received 27 emails, totalling 29 interactions. Top correspondents: [F99Evmba](people/f99evmba-haas) (1), [F98Evmba](people/f98evmba-haas) (1), [S98Evmba](people/s98evmba-haas) (1), [F97Evmba](people/f97evmba-haas) (1), [S97Evmba](people/s97evmba-haas) (1).",
+  "timeline": "- **1999-09-19** | First recorded email in corpus\n- **2000-09-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pbukowski-acex",
+    "name": "Pbukowski",
+    "email": "pbukowski@acex.com",
+    "primary_affiliation": "companies/acex"
+  }
+}

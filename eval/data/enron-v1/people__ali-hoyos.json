@@ -1,0 +1,14 @@
+{
+  "slug": "people/ali-hoyos",
+  "type": "person",
+  "title": "Ali Hoyos",
+  "compiled_truth": "Ali Hoyos is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-10-09), Ali Hoyos sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ali-hoyos",
+    "name": "Ali Hoyos",
+    "email": "ali.hoyos@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

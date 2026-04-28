@@ -1,0 +1,14 @@
+{
+  "slug": "people/jody-blackburn",
+  "type": "person",
+  "title": "Jody Blackburn",
+  "compiled_truth": "Jody Blackburn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-26 to 2002-06-19), Jody Blackburn sent 2 and received 113 emails, totalling 115 interactions. Top correspondents: [Jim Gilbert](people/jim-gilbert) (1), [Don Hammond](people/don-hammond) (1), [Mary Hain](people/mary-hain) (1), [Ed Clark](people/ed-clark) (1), [Dale Rasmussen](people/dale-rasmussen) (1).",
+  "timeline": "- **2000-04-26** | First recorded email in corpus\n- **2002-06-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jody-blackburn",
+    "name": "Jody Blackburn",
+    "email": "jody.blackburn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

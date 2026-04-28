@@ -1,0 +1,14 @@
+{
+  "slug": "people/ana-hernandez",
+  "type": "person",
+  "title": "Ana Hernandez",
+  "compiled_truth": "Ana Hernandez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-06-01), Ana Hernandez sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ana-hernandez",
+    "name": "Ana Hernandez",
+    "email": "ana.hernandez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

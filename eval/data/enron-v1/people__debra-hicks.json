@@ -1,0 +1,14 @@
+{
+  "slug": "people/debra-hicks",
+  "type": "person",
+  "title": "Debra Hicks",
+  "compiled_truth": "Debra Hicks is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2002-01-16), Debra Hicks sent 3 and received 65 emails, totalling 68 interactions. Top correspondents: [Rick Buy](people/rick-buy) (2), [Stanley Horton](people/stanley-horton) (1), [Gary Smith](people/gary-smith) (1), [Lisa Mellencamp](people/lisa-mellencamp) (1), [Cindy Stark](people/cindy-stark) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debra-hicks",
+    "name": "Debra Hicks",
+    "email": "debra.hicks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-thomas",
+  "type": "person",
+  "title": "George Thomas",
+  "compiled_truth": "George Thomas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-11-27), George Thomas sent 2 and received 60 emails, totalling 62 interactions. Top correspondents: [Matt Smith](people/matt-smith) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-thomas",
+    "name": "George Thomas",
+    "email": "george.thomas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/juanita-andrade",
+  "type": "person",
+  "title": "Juanita Andrade",
+  "compiled_truth": "Juanita Andrade is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-17 to 2001-05-30), Juanita Andrade sent 2 and received 4 emails, totalling 6 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1), [Wes Colwell](people/wes-colwell) (1), [Mary Sloan](people/mary-sloan) (1), [Kathy Kokas](people/kathy-kokas) (1), [Mark Schmidt](people/mark-schmidt) (1).",
+  "timeline": "- **2000-10-17** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/juanita-andrade",
+    "name": "Juanita Andrade",
+    "email": "juanita.andrade@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

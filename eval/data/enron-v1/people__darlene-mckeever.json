@@ -1,0 +1,14 @@
+{
+  "slug": "people/darlene-mckeever",
+  "type": "person",
+  "title": "Darlene Mckeever",
+  "compiled_truth": "Darlene Mckeever is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-02 to 2001-12-07), Darlene Mckeever sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-05-02** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darlene-mckeever",
+    "name": "Darlene Mckeever",
+    "email": "darlene.mckeever@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

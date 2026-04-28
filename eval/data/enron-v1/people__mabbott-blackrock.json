@@ -1,0 +1,14 @@
+{
+  "slug": "people/mabbott-blackrock",
+  "type": "person",
+  "title": "Mabbott",
+  "compiled_truth": "Mabbott is an external contact at [Blackrock](companies/blackrock). Over the corpus period (2000-05-18 to 2000-09-18), Mabbott sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mabbott-blackrock",
+    "name": "Mabbott",
+    "email": "mabbott@blackrock.com",
+    "primary_affiliation": "companies/blackrock"
+  }
+}

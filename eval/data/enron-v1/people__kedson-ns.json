@@ -1,0 +1,14 @@
+{
+  "slug": "people/kedson-ns",
+  "type": "person",
+  "title": "Kedson",
+  "compiled_truth": "Kedson is an external contact at [Ns](companies/ns). Over the corpus period (2000-08-10 to 2001-09-24), Kedson sent 9 and received 94 emails, totalling 103 interactions. Top correspondents: [Smutny](people/smutny-iepa) (8), [Jdasovic](people/jdasovic) (8), [Joer](people/joer-calpine) (8), [Smara](people/smara) (8), [Cabaker](people/cabaker-duke-energy) (7).",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kedson-ns",
+    "name": "Kedson",
+    "email": "kedson@ns.net",
+    "primary_affiliation": "companies/ns"
+  }
+}

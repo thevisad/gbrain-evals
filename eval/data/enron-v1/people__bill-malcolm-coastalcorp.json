@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-malcolm-coastalcorp",
+  "type": "person",
+  "title": "Bill Malcolm",
+  "compiled_truth": "Bill Malcolm is an external contact at [Coastalcorp](companies/coastalcorp). Over the corpus period (2001-11-19 to 2001-12-27), Bill Malcolm sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-11-19** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-malcolm-coastalcorp",
+    "name": "Bill Malcolm",
+    "email": "bill.malcolm@coastalcorp.com",
+    "primary_affiliation": "companies/coastalcorp"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/smcfadden-igservice",
+  "type": "person",
+  "title": "Smcfadden",
+  "compiled_truth": "Smcfadden is an external contact at [Igservice](companies/igservice). Over the corpus period (2000-06-20 to 2001-07-31), Smcfadden sent 1 and received 43 emails, totalling 44 interactions. Top correspondents: [Frank Ermis](people/frank-ermis) (1).",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/smcfadden-igservice",
+    "name": "Smcfadden",
+    "email": "smcfadden@igservice.com",
+    "primary_affiliation": "companies/igservice"
+  }
+}

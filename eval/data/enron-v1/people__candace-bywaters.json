@@ -1,0 +1,14 @@
+{
+  "slug": "people/candace-bywaters",
+  "type": "person",
+  "title": "Candace Bywaters",
+  "compiled_truth": "Candace Bywaters is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-05-31), Candace Bywaters sent 12 and received 98 emails, totalling 110 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (10), [Ann White](people/ann-white) (6), [Steve Schneider](people/steve-schneider) (5), [Nathan Hlavaty](people/nathan-hlavaty) (4), [Dan Hyvl](people/dan-hyvl) (2).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/candace-bywaters",
+    "name": "Candace Bywaters",
+    "email": "candace.bywaters@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

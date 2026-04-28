@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-middaugh",
+  "type": "person",
+  "title": "Kelly Middaugh",
+  "compiled_truth": "Kelly Middaugh is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-16 to 2001-08-16), Kelly Middaugh sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-middaugh",
+    "name": "Kelly Middaugh",
+    "email": "kelly.middaugh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

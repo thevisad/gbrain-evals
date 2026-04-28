@@ -1,0 +1,14 @@
+{
+  "slug": "people/chet-fenner-bmc",
+  "type": "person",
+  "title": "Chet Fenner",
+  "compiled_truth": "Chet Fenner is an external contact at [Bmc](companies/bmc). Over the corpus period (2001-05-10 to 2002-06-25), Chet Fenner sent 110 and received 84 emails, totalling 194 interactions. Top correspondents: [Joe Parks](people/joe-parks) (85), [Chet Fenner](people/chet-fenner) (39), [Wollam Erik](people/wollam-erik) (32), [Constantine' 'Brian](people/constantine-brian) (24), [Knipe Chad](people/knipe-chad) (20).",
+  "timeline": "- **2001-05-10** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chet-fenner-bmc",
+    "name": "Chet Fenner",
+    "email": "chet_fenner@bmc.com",
+    "primary_affiliation": "companies/bmc"
+  }
+}

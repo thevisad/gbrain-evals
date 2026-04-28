@@ -1,0 +1,14 @@
+{
+  "slug": "people/schuler",
+  "type": "person",
+  "title": " Schuler",
+  "compiled_truth": "Schuler is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-17 to 2002-03-29),  Schuler sent 16 and received 197 emails, totalling 213 interactions. Top correspondents: [E  Haedicke](people/e-haedicke) (10), [Elizabeth Sager](people/elizabeth-sager) (3), [S  Muller](people/s-muller) (2), [Jeff Donahue](people/jeff-donahue) (2), [J  Kean](people/j-kean) (2). Mailbox folders observed: calendar, deleted_items, dynegy_transaction, inbox, pr___notre_dame.",
+  "timeline": "- **2001-08-17** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/schuler",
+    "name": " Schuler",
+    "email": ".schuler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

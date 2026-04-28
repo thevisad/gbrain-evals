@@ -1,0 +1,37 @@
+{
+  "slug": "meetings/all-hands-2027-10-02",
+  "type": "meeting",
+  "title": "Anchor All-Hands Q3 2027",
+  "compiled_truth": "The Q3 2027 all-hands convened on October 2nd with all eight current team members present. [Seren Voss](people/seren-voss) opened the meeting with a company-level review: Anchor closed Q3 with 14 production deployments across paying customers, up from 9 at end of Q2. Revenue grew roughly 40% quarter-over-quarter, though Seren noted the absolute numbers are still modest and cautioned against reading too much into percentages at this stage. She flagged that the Series A runway gives [Anchor Codec](companies/anchor) approximately 11 months of burn at current headcount, and that the team should expect hiring conversations to pick up in Q4.\n\n[Dani Osei](people/dani-osei) walked through engineering OKRs. The big miss was latency benchmarking — the internal harness wasn't ready until mid-September, which pushed the comparative analysis into Q4. Dani was candid about this being a prioritization failure rather than a technical one. On the positive side, the single-pass primitive stack hit its determinism targets across all three test environments, and [Miro Bergmann](people/miro-bergmann) demoed the new edge-node configuration that reduces handshake overhead by what he described as \"an embarrassing amount.\" The room laughed. Miro's work has been a quiet highlight of Q3.\n\n[Tal Kimura](people/tal-kimura) covered customer success metrics. Churn was zero in Q3, which Tal attributed partly to sticky integration patterns and partly to the fact that two accounts simply haven't had time to evaluate alternatives. He presented NPS data from the mid-quarter survey: 72, which he said is \"fine but not spectacular\" for infra tooling. [Nova Mensah](people/nova-mensah) gave a brief product update on the dashboard redesign that's shipping in early October, driven heavily by feedback from the Veritas Financial deployment.\n\nRoadmap discussion took up the last third of the meeting. [Paz Santos](people/paz-santos) presented three potential Q4 focus areas: expanding the edge-node work Miro started, building a self-serve onboarding flow, or investing in compliance certifications. The room leaned toward self-serve, with [Ari Leclerc](people/ari-leclerc) arguing that it would unlock a different buyer persona entirely. [Kael Petrov](people/kael-petrov) pushed back, saying compliance certs would acclerate enterprise deals more immediately. Seren tabled the final decision for the leadership sync on October 6th but indicated she was inclined toward a split approach — 60/40 self-serve vs. compliance.\n\nMeeting closed with a reminder about the offsite scheduled for late October. Overall tone was cautiously optimistic. The team feels like they're past the survival phase and into something resembling traction, though nobody used that word out loud.",
+  "timeline": [
+    "- **2027-07-05** | Q3 OKRs finalized at leadership sync; latency benchmarking flagged as stretch goal by [Dani Osei](people/dani-osei)",
+    "- **2027-07-18** | 10th production customer goes live, triggering internal milestone celebration",
+    "- **2027-08-02** | [Miro Bergmann](people/miro-bergmann) begins edge-node handshake optimization project",
+    "- **2027-08-15** | Mid-quarter NPS survey sent to all active accounts by [Tal Kimura](people/tal-kimura)",
+    "- **2027-09-04** | [Nova Mensah](people/nova-mensah) shares dashboard redesign mockups with the team for async feedback",
+    "- **2027-09-12** | Internal latency benchmarking harness finally operational; comparative analysis pushed to Q4",
+    "- **2027-09-29** | [Paz Santos](people/paz-santos) circulates Q4 roadmap options doc ahead of all-hands",
+    "- **2027-10-02** | Q3 all-hands meeting held; all 8 team members present",
+    "- **2027-10-06** | Leadership sync scheduled to finalize Q4 roadmap split between self-serve and compliance work",
+    "- **2027-10-27** | Team offsite planned, location TBD"
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/all-hands-2027-10-02",
+    "name": "Anchor All-Hands Q3 2027",
+    "meeting_type": "all_hands",
+    "date": "2027-10-02",
+    "attendees": [
+      "people/seren-voss",
+      "people/dani-osei",
+      "people/miro-bergmann",
+      "people/tal-kimura",
+      "people/nova-mensah",
+      "people/paz-santos",
+      "people/ari-leclerc",
+      "people/kael-petrov"
+    ],
+    "topic_company": "companies/anchor",
+    "topic": "Company all-hands — Q3 2027 review, OKRs, and roadmap"
+  }
+}

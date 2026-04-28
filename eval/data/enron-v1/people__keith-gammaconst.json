@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-gammaconst",
+  "type": "person",
+  "title": "Keith",
+  "compiled_truth": "Keith is an external contact at [Gammaconst](companies/gammaconst). Over the corpus period (2000-03-09 to 2001-09-13), Keith sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-03-09** | First recorded email in corpus\n- **2001-09-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-gammaconst",
+    "name": "Keith",
+    "email": "keith@gammaconst.com",
+    "primary_affiliation": "companies/gammaconst"
+  }
+}

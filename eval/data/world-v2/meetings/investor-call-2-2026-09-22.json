@@ -1,0 +1,29 @@
+{
+  "slug": "meetings/investor-call-2-2026-09-22",
+  "type": "meeting",
+  "title": "Investor Call — Foundry Partners (2026-09-22)",
+  "compiled_truth": "Diligence call between [Seren Voss](people/seren-voss) and [Nash Moreau](people/nash-moreau) on behalf of Foundry Partners. This was the second formal call in the Series A process, following an initial intro meeting two weeks prior. The focus was a technical deep dive into [Anchor Codec](companies/anchor)'s single-pass primitives and how the deterministic data infrastructure holds up under adversarial conditions.\n\nNash came prepared with a detailed question list — clearly had done homework on the whitepaper and the open benchmarks Anchor published in August. He pushed hard on edge cases: what happens when payloads exceed the deterministic window, how does the system degrade under partial network failure, and whether the authentication layer introduces meaningful latency at scale. Seren walked through architecture diagrams live (shared via screen), and the conversation got genuinely technical around minute 20. Nash seemed satisfied with the answers on degradation behavior but flagged that he'd want an independent review of the benchmarks before moving forward.\n\nFoundry's thesis, as Nash described it, centers on infrastructure plays that can demonstrate compounding moats — not just performance advantages but architectural lock-in at the protocol level. He explicitly said Anchor's approach to combining compression, authentication, and transmission is \"the kind of thing that either becomes a standard or gets ignored,\" which felt like both a compliment and a warning. Seren pushed back gently, noting that Anchor's go-to-market doesn't depend on standardization — the value prop works even as a standalone integration.\n\nKey tension point: Nash asked about the team's willingness to open-source the core primitives as a path to adoption. Seren was noncommital, said it's on the roadmap discussion board but not a near-term priority. Nash didn't press further but it was clear this matters to Foundry's model.\n\nCall ran about 55 minutes, roughly 10 minutes over scheduled time. Nash said he'd circle back with his partner who focuses on infrastructure deals. Next step is a follow-up call tentatively scheduled for early October, possibly including a live demo enviroment walkthrough. Overall tone was positive but rigorous — Foundry is clearly doing real diligence, not just pattern-matching.",
+  "timeline": [
+    "- **2026-09-08** | Initial intro meeting between [Seren Voss](people/seren-voss) and Foundry Partners; Nash requested technical follow-up.",
+    "- **2026-09-15** | Anchor publishes updated benchmark suite ahead of diligence calls.",
+    "- **2026-09-22** | Technical deep dive call with [Nash Moreau](people/nash-moreau). Covered architecture, degradation behavior, and go-to-market strategy.",
+    "- **2026-10-03** | Follow-up call scheduled — expected to include live demo environment and Foundry's infrastructure partner.",
+    "- **2026-10-18** | Foundry requests independent benchmark review from a third-party engineering firm.",
+    "- **2026-11-02** | Third-party review delivered; results largely confirm [Anchor Codec](companies/anchor)'s published numbers with minor caveats on tail latency.",
+    "- **2026-11-20** | Foundry Partners submits preliminary term sheet for Series A participation.",
+    "- **2027-01-14** | Series A closes; Foundry participates as co-lead alongside another fund."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/investor-call-2-2026-09-22",
+    "name": "Investor Call — Foundry Partners",
+    "meeting_type": "investor_call",
+    "date": "2026-09-22",
+    "attendees": [
+      "people/seren-voss",
+      "people/nash-moreau"
+    ],
+    "topic_company": "companies/anchor",
+    "topic": "Diligence call — technical deep dive"
+  }
+}

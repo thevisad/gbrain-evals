@@ -1,0 +1,14 @@
+{
+  "slug": "people/enrique-lenci",
+  "type": "person",
+  "title": "Enrique Lenci",
+  "compiled_truth": "Enrique Lenci is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-13 to 2001-10-12), Enrique Lenci sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/enrique-lenci",
+    "name": "Enrique Lenci",
+    "email": "enrique.lenci@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

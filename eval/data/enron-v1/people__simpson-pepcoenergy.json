@@ -1,0 +1,14 @@
+{
+  "slug": "people/simpson-pepcoenergy",
+  "type": "person",
+  "title": "Simpson",
+  "compiled_truth": "Simpson is an external contact at [Pepcoenergy](companies/pepcoenergy). Over the corpus period (2001-07-25 to 2001-07-25), Simpson sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/simpson-pepcoenergy",
+    "name": "Simpson",
+    "email": "simpson@pepcoenergy.com",
+    "primary_affiliation": "companies/pepcoenergy"
+  }
+}

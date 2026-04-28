@@ -1,0 +1,14 @@
+{
+  "slug": "people/mrokose-energyamerica",
+  "type": "person",
+  "title": "Mrokose",
+  "compiled_truth": "Mrokose is an external contact at [Energyamerica](companies/energyamerica). Over the corpus period (1999-11-22 to 2001-07-31), Mrokose sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mrokose-energyamerica",
+    "name": "Mrokose",
+    "email": "mrokose@energyamerica.com",
+    "primary_affiliation": "companies/energyamerica"
+  }
+}

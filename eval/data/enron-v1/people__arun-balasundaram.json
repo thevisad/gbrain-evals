@@ -1,0 +1,14 @@
+{
+  "slug": "people/arun-balasundaram",
+  "type": "person",
+  "title": "Arun Balasundaram",
+  "compiled_truth": "Arun Balasundaram is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2002-02-19), Arun Balasundaram sent 5 and received 52 emails, totalling 57 interactions. Top correspondents: [John Postlethwaite](people/john-postlethwaite) (4), [Norman Lee](people/norman-lee) (4), [Tim Belden](people/tim-belden) (3), [Matt Motley](people/matt-motley) (3), [Robert Badeer](people/robert-badeer) (3). Mailbox folders observed: deleted_items, inbox, read.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/arun-balasundaram",
+    "name": "Arun Balasundaram",
+    "email": "arun.balasundaram@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

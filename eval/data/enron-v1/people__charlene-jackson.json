@@ -1,0 +1,14 @@
+{
+  "slug": "people/charlene-jackson",
+  "type": "person",
+  "title": "Charlene Jackson",
+  "compiled_truth": "Charlene Jackson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-11-06), Charlene Jackson sent 19 and received 155 emails, totalling 174 interactions. Top correspondents: [Celeste Roberts](people/celeste-roberts) (8), [Sally Beck](people/sally-beck) (6), [Richard Causey](people/richard-causey) (6), [Jeff Skilling](people/jeff-skilling) (6), [Victoria Mcdaniel](people/victoria-mcdaniel) (5).",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charlene-jackson",
+    "name": "Charlene Jackson",
+    "email": "charlene.jackson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

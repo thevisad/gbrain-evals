@@ -1,0 +1,14 @@
+{
+  "slug": "people/kay-chapman",
+  "type": "person",
+  "title": "Kay Chapman",
+  "compiled_truth": "Kay Chapman is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-07), Kay Chapman sent 209 and received 632 emails, totalling 841 interactions. Top correspondents: [Kimberly Hillis](people/kimberly-hillis) (121), [Janet Dietrich](people/janet-dietrich) (98), [Marsha Schiller](people/marsha-schiller) (94), [John Lavorato](people/john-lavorato) (93), [Christy Chapman](people/christy-chapman) (90). Mailbox folders observed: _sent_mail, deleted_items, inbox, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kay-chapman",
+    "name": "Kay Chapman",
+    "email": "kay.chapman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/paula-soos-ogden-energy",
+  "type": "person",
+  "title": "Paula Soos",
+  "compiled_truth": "Paula Soos is an external contact at [Ogden-energy](companies/ogden-energy). Over the corpus period (2000-08-31 to 2001-06-25), Paula Soos sent 0 and received 217 emails, totalling 217 interactions.",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paula-soos-ogden-energy",
+    "name": "Paula Soos",
+    "email": "paula_soos@ogden-energy.com",
+    "primary_affiliation": "companies/ogden-energy"
+  }
+}

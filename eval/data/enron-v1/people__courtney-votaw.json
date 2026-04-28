@@ -1,0 +1,14 @@
+{
+  "slug": "people/courtney-votaw",
+  "type": "person",
+  "title": "Courtney Votaw",
+  "compiled_truth": "Courtney Votaw is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-22 to 2001-12-21), Courtney Votaw sent 37 and received 93 emails, totalling 130 interactions. Top correspondents: [Mark Palmer](people/mark-palmer) (1), [Steven Kean](people/steven-kean) (1), [Erin Rice](people/erin-rice) (1), [Louise Kitchen](people/louise-kitchen) (1). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **2000-02-22** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/courtney-votaw",
+    "name": "Courtney Votaw",
+    "email": "courtney.votaw@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

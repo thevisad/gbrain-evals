@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristi-demaiolo",
+  "type": "person",
+  "title": "Kristi Demaiolo",
+  "compiled_truth": "Kristi Demaiolo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-30 to 2001-10-25), Kristi Demaiolo sent 2 and received 16 emails, totalling 18 interactions. Top correspondents: [Harry Arora](people/harry-arora) (2), [Miguel Vasquez](people/miguel-vasquez) (1), [Suresh Raghavan](people/suresh-raghavan) (1), [Vanessa Carranza](people/vanessa-carranza) (1), [Jeff Bartlett](people/jeff-bartlett) (1). Mailbox folders observed: savedmail.",
+  "timeline": "- **2000-11-30** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristi-demaiolo",
+    "name": "Kristi Demaiolo",
+    "email": "kristi.demaiolo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

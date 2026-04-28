@@ -1,0 +1,22 @@
+{
+  "slug": "threads/happy-birthday-2001-02",
+  "type": "meeting",
+  "title": "Thread: Happy Birthday",
+  "compiled_truth": "Email thread: \"Happy Birthday\". Ran from 2001-02-06 to 2001-02-26 with 11 messages. Participants: [Mary Cook](people/mary-cook), [Matthew Lenhart](people/matthew-lenhart), [Mmmarcantel](people/mmmarcantel-equiva), [Rob Gay](people/rob-gay), [Rongay](people/rongay-msn), [Sandyteb](people/sandyteb-aol), [Tana Jones](people/tana-jones), [Teb Lokey](people/teb-lokey).",
+  "timeline": "- **2001-02-06** | Thread begins: happy birthday\n- **2001-02-26** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/happy-birthday-2001-02",
+    "attendees": [
+      "people/mary-cook",
+      "people/matthew-lenhart",
+      "people/mmmarcantel-equiva",
+      "people/rob-gay",
+      "people/rongay-msn",
+      "people/sandyteb-aol",
+      "people/tana-jones",
+      "people/teb-lokey"
+    ],
+    "date": "2001-02-06"
+  }
+}

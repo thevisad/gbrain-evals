@@ -1,0 +1,14 @@
+{
+  "slug": "people/fiona-grant",
+  "type": "person",
+  "title": "Fiona Grant",
+  "compiled_truth": "Fiona Grant is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-12-21), Fiona Grant sent 6 and received 151 emails, totalling 157 interactions. Top correspondents: [Jackie Gentle](people/jackie-gentle) (4), [J  Kean](people/j-kean) (4), [Karen Denne](people/karen-denne) (2), [Vance Meyer](people/vance-meyer) (2), [ Palmer](people/palmer) (2). Mailbox folders observed: deleted_items, enron_advisonry_council, pr_crisis_management.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fiona-grant",
+    "name": "Fiona Grant",
+    "email": "fiona.grant@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

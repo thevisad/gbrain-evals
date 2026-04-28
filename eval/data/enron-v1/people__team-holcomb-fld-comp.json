@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-holcomb-fld-comp",
+  "type": "person",
+  "title": "Team Holcomb-Fld-Comp",
+  "compiled_truth": "Team Holcomb-Fld-Comp is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-18 to 2002-03-22), Team Holcomb-Fld-Comp sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus\n- **2002-03-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-holcomb-fld-comp",
+    "name": "Team Holcomb-Fld-Comp",
+    "email": "team.holcomb-fld-comp@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

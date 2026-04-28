@@ -1,0 +1,25 @@
+{
+  "slug": "meetings/video-conference-2001-11",
+  "type": "meeting",
+  "title": "Meeting: Video Conference",
+  "compiled_truth": "Meeting: \"Video Conference\". Occurred 2001-11-26 with 1 related emails. Participants included: [Dave Fuller](people/dave-fuller), [Heidi Dubose](people/heidi-dubose), [Jessica Presas](people/jessica-presas), [Mara Bronstein](people/mara-bronstein), [Mark Whitt](people/mark-whitt), [Phil Polsky](people/phil-polsky), [Stephanie Miller](people/stephanie-miller), [T  Lucci](people/t-lucci)....",
+  "timeline": "- **2001-11-26** | Meeting: video conference",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/video-conference-2001-11",
+    "attendees": [
+      "people/dave-fuller",
+      "people/heidi-dubose",
+      "people/jessica-presas",
+      "people/mara-bronstein",
+      "people/mark-whitt",
+      "people/phil-polsky",
+      "people/stephanie-miller",
+      "people/t-lucci",
+      "people/theresa-staab",
+      "people/tyrell-harrison",
+      "people/ward"
+    ],
+    "date": "2001-11-26"
+  }
+}

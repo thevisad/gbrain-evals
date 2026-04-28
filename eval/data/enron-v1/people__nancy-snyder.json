@@ -1,0 +1,14 @@
+{
+  "slug": "people/nancy-snyder",
+  "type": "person",
+  "title": "Nancy Snyder",
+  "compiled_truth": "Nancy Snyder is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2000-12-12), Nancy Snyder sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nancy-snyder",
+    "name": "Nancy Snyder",
+    "email": "nancy.snyder@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-tackett",
+  "type": "person",
+  "title": "Scott Tackett",
+  "compiled_truth": "Scott Tackett is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-10 to 2002-02-25), Scott Tackett sent 4 and received 209 emails, totalling 213 interactions. Top correspondents: [Tana Jones](people/tana-jones) (4).",
+  "timeline": "- **2000-05-10** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-tackett",
+    "name": "Scott Tackett",
+    "email": "scott.tackett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

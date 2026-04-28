@@ -1,0 +1,14 @@
+{
+  "slug": "people/marci-mansfield",
+  "type": "person",
+  "title": "Marci Mansfield",
+  "compiled_truth": "Marci Mansfield is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-17 to 2002-02-06), Marci Mansfield sent 15 and received 29 emails, totalling 44 interactions. Top correspondents: [M  Grace](people/m-grace) (12), [D  Thomas](people/d-thomas) (8), [Jim Cashion](people/jim-cashion) (5), [Don Baughman](people/don-baughman) (5), [Juan Hernandez](people/juan-hernandez) (4). Mailbox folders observed: inbox, power.",
+  "timeline": "- **2001-05-17** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marci-mansfield",
+    "name": "Marci Mansfield",
+    "email": "marci.mansfield@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

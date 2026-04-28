@@ -1,0 +1,30 @@
+{
+  "slug": "meetings/meeting-details-1999-07",
+  "type": "meeting",
+  "title": "Meeting: Meeting Details",
+  "compiled_truth": "Meeting: \"Meeting Details\". Occurred 1999-07-19 with 1 related emails. Participants included: [Beth Jenkins](people/beth-jenkins-fpl), [Bill Murphy](people/bill-murphy-fpl), [Bruce Kiely](people/bruce-kiely-bakerbotts), [Dan Hyvl](people/dan-hyvl), [Debra Bolton](people/debra-bolton-bakerbotts), [Fp](people/fp-fpl), [Gene Ungar](people/gene-ungar-fpl), [Heather Kroll](people/heather-kroll)....",
+  "timeline": "- **1999-07-19** | Meeting: meeting details",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-details-1999-07",
+    "attendees": [
+      "people/beth-jenkins-fpl",
+      "people/bill-murphy-fpl",
+      "people/bruce-kiely-bakerbotts",
+      "people/dan-hyvl",
+      "people/debra-bolton-bakerbotts",
+      "people/fp-fpl",
+      "people/gene-ungar-fpl",
+      "people/heather-kroll",
+      "people/jeffery-ader",
+      "people/jeffrey-hodge",
+      "people/joe-stepenovitch-fpl",
+      "people/linda-percival-bakerbotts",
+      "people/marie-b-lopez-fpl",
+      "people/ozzie-pagan",
+      "people/ryland-parker-fpl",
+      "people/veronica-l-birch-fpl"
+    ],
+    "date": "1999-07-19"
+  }
+}

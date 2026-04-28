@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/meeting-notice-2000-11-2",
+  "type": "meeting",
+  "title": "Meeting: Meeting Notice",
+  "compiled_truth": "Meeting: \"Meeting Notice\". Occurred 2000-11-27 through 2000-11-27 with 2 related emails. Participants included: [Alan Comnes](people/alan-comnes), [Enron Com](people/enron-com), [Joseph Alamo](people/joseph-alamo), [Lysa Akin](people/lysa-akin), [Marcie Milner](people/marcie-milner), [Mary Hain](people/mary-hain), [Mona L Petrochko](people/mona-l-petrochko), [Paul Kaufman](people/paul-kaufman)....",
+  "timeline": "- **2000-11-27** | Meeting: meeting notice\n- **2000-11-27** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-notice-2000-11-2",
+    "attendees": [
+      "people/alan-comnes",
+      "people/enron-com",
+      "people/joseph-alamo",
+      "people/lysa-akin",
+      "people/marcie-milner",
+      "people/mary-hain",
+      "people/mona-l-petrochko",
+      "people/paul-kaufman",
+      "people/sandra-mccubbin",
+      "people/susan-j-mara"
+    ],
+    "date": "2000-11-27"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-amabile",
+  "type": "person",
+  "title": "Richard Amabile",
+  "compiled_truth": "Richard Amabile is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-18 to 2001-07-10), Richard Amabile sent 5 and received 15 emails, totalling 20 interactions. Top correspondents: [Sally Beck](people/sally-beck) (2), [Debbie Nowak](people/debbie-nowak) (2), [Ray Bennett](people/ray-bennett) (1), [Carrie Grin](people/carrie-grin) (1), [Gwendolyn Petteway](people/gwendolyn-petteway) (1).",
+  "timeline": "- **2000-01-18** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-amabile",
+    "name": "Richard Amabile",
+    "email": "richard.amabile@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

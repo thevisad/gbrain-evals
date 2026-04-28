@@ -1,0 +1,14 @@
+{
+  "slug": "people/fred-jordan",
+  "type": "person",
+  "title": "Fred Jordan",
+  "compiled_truth": "Fred Jordan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2002-03-25), Fred Jordan sent 0 and received 101 emails, totalling 101 interactions.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fred-jordan",
+    "name": "Fred Jordan",
+    "email": "fred.jordan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

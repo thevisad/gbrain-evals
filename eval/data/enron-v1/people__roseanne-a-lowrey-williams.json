@@ -1,0 +1,14 @@
+{
+  "slug": "people/roseanne-a-lowrey-williams",
+  "type": "person",
+  "title": "Roseanne A Lowrey",
+  "compiled_truth": "Roseanne A Lowrey is an external contact at [Williams Companies](companies/williams). Over the corpus period (2001-05-11 to 2001-10-24), Roseanne A Lowrey sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-05-11** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roseanne-a-lowrey-williams",
+    "name": "Roseanne A Lowrey",
+    "email": "roseanne.a.lowrey@williams.com",
+    "primary_affiliation": "companies/williams"
+  }
+}

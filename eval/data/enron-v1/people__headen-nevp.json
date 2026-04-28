@@ -1,0 +1,14 @@
+{
+  "slug": "people/headen-nevp",
+  "type": "person",
+  "title": "Headen",
+  "compiled_truth": "Headen is an external contact at [Nevp](companies/nevp). Over the corpus period (2001-03-21 to 2001-03-21), Headen sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-03-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/headen-nevp",
+    "name": "Headen",
+    "email": "headen@nevp.com",
+    "primary_affiliation": "companies/nevp"
+  }
+}

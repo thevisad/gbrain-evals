@@ -1,0 +1,14 @@
+{
+  "slug": "people/valencia",
+  "type": "person",
+  "title": "Valencia",
+  "compiled_truth": "Valencia is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-06-01), Valencia sent 3 and received 0 emails, totalling 3 interactions. Top correspondents: [Mark Koenig](people/mark-koenig) (3), [David Delainey](people/david-delainey) (3), [Andrew Fastow](people/andrew-fastow) (3), [Mark Frevert](people/mark-frevert) (3), [Greg Whalley](people/greg-whalley) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/valencia",
+    "name": "Valencia",
+    "email": "valencia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "threads/confidentiality-agreement-2000-04",
+  "type": "meeting",
+  "title": "Thread: Confidentiality Agreement",
+  "compiled_truth": "Email thread: \"Confidentiality Agreement\". Ran from 2000-04-10 to 2000-05-02 with 19 messages. Participants: [Bob Shults](people/bob-shults), [Btipton](people/btipton-flowserve), [Carol Clair](people/carol-clair), [Dave Samuels](people/dave-samuels), [David Kistler](people/david-kistler), [Gerald Nemec](people/gerald-nemec), [Jeffrey Hodge](people/jeffrey-hodge), [Mark Knippa](people/mark-knippa).",
+  "timeline": "- **2000-04-10** | Thread begins: confidentiality agreement\n- **2000-05-02** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/confidentiality-agreement-2000-04",
+    "attendees": [
+      "people/bob-shults",
+      "people/btipton-flowserve",
+      "people/carol-clair",
+      "people/dave-samuels",
+      "people/david-kistler",
+      "people/gerald-nemec",
+      "people/jeffrey-hodge",
+      "people/mark-knippa",
+      "people/maryf-riskinc",
+      "people/michael-danielson",
+      "people/paulv-riskinc",
+      "people/suretsky-viant",
+      "people/tana-jones",
+      "people/wparmer-cysive"
+    ],
+    "date": "2000-04-10"
+  }
+}

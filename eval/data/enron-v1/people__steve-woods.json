@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-woods",
+  "type": "person",
+  "title": "Steve Woods",
+  "compiled_truth": "Steve Woods is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2002-05-06), Steve Woods sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-woods",
+    "name": "Steve Woods",
+    "email": "steve.woods@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

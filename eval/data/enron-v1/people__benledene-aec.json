@@ -1,0 +1,14 @@
+{
+  "slug": "people/benledene-aec",
+  "type": "person",
+  "title": "Benledene",
+  "compiled_truth": "Benledene is an external contact at [Aec](companies/aec). Over the corpus period (1999-09-24 to 2001-07-31), Benledene sent 5 and received 65 emails, totalling 70 interactions. Top correspondents: [Michelle Lokay](people/michelle-lokay) (4), [Vallow Alan](people/vallow-alan) (3), [ Barry](people/barry) (3), [Collier Bill](people/collier-bill) (3), [ Bill](people/bill) (3).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/benledene-aec",
+    "name": "Benledene",
+    "email": "benledene@aec.ca",
+    "primary_affiliation": "companies/aec"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-akers",
+  "type": "person",
+  "title": "Michelle Akers",
+  "compiled_truth": "Michelle Akers is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-07 to 2002-01-31), Michelle Akers sent 6 and received 29 emails, totalling 35 interactions. Top correspondents: [K  Allen](people/k-allen) (6), [Eric Bass](people/eric-bass) (6), [Frank Ermis](people/frank-ermis) (6), [ Gasdaily](people/gasdaily) (6), [L  Gay](people/l-gay) (6). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-08-07** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-akers",
+    "name": "Michelle Akers",
+    "email": "michelle.akers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

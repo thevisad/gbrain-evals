@@ -1,0 +1,14 @@
+{
+  "slug": "people/amanda-kennell",
+  "type": "person",
+  "title": "Amanda Kennell",
+  "compiled_truth": "Amanda Kennell is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-15 to 2001-10-23), Amanda Kennell sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-15** | First recorded email in corpus\n- **2001-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amanda-kennell",
+    "name": "Amanda Kennell",
+    "email": "amanda.kennell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

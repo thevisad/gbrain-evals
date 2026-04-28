@@ -1,0 +1,41 @@
+{
+  "slug": "companies/epsa",
+  "type": "company",
+  "title": "Epsa",
+  "compiled_truth": "Epsa is an external organization that appears in the Enron email corpus. Domain: epsa.com. Total email interactions with Enron: 413. Known contacts: 24 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (413 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/epsa",
+    "name": "Epsa",
+    "employees": [
+      "people/a-epsa",
+      "people/aspring-epsa",
+      "people/dsalvosa-epsa",
+      "people/eperrigo-epsa",
+      "people/fgreenberg-epsa",
+      "people/gpeters-epsa",
+      "people/ilewis-epsa",
+      "people/jcashin-epsa",
+      "people/jempol-epsa",
+      "people/jgalagher-epsa",
+      "people/jgallagher-epsa",
+      "people/jsimon-egapost-ega-epsa",
+      "people/jsimon-epsa",
+      "people/lchurch-epsa",
+      "people/lmartin-epsa",
+      "people/mbennett-egapost-ega-epsa",
+      "people/mbennett-epsa",
+      "people/mreddy-epsa",
+      "people/mstultz-epsa",
+      "people/sbyrd-epsa",
+      "people/sgordon-epsa",
+      "people/sjackson-epsa",
+      "people/sslater-epsa",
+      "people/telliott-epsa"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

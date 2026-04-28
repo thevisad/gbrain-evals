@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-bryant",
+  "type": "person",
+  "title": "Mike Bryant",
+  "compiled_truth": "Mike Bryant is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-02 to 2002-03-22), Mike Bryant sent 11 and received 235 emails, totalling 246 interactions. Top correspondents: [Shelley Corman](people/shelley-corman) (10), [Jack Boatman](people/jack-boatman) (2), [Robert Kilmer](people/robert-kilmer) (2), [Rachel Cady](people/rachel-cady) (1), [Robert Hayes](people/robert-hayes) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-08-02** | First recorded email in corpus\n- **2002-03-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-bryant",
+    "name": "Mike Bryant",
+    "email": "mike.bryant@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

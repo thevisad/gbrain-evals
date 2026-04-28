@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-mcdonald",
+  "type": "person",
+  "title": "Michael Mcdonald",
+  "compiled_truth": "Michael Mcdonald is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2002-02-21), Michael Mcdonald sent 3 and received 305 emails, totalling 308 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (2), [Catherine Mckalip-Thompson](people/catherine-mckalip-thompson) (1), [April Hrach](people/april-hrach) (1), [Kelly Brodbeck](people/kelly-brodbeck) (1), [Victor Browner](people/victor-browner) (1). Mailbox folders observed: _americas, deleted_items.",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-mcdonald",
+    "name": "Michael Mcdonald",
+    "email": "michael.mcdonald@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

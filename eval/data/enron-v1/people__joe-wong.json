@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-wong",
+  "type": "person",
+  "title": "Joe Wong",
+  "compiled_truth": "Joe Wong is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-05 to 2001-10-29), Joe Wong sent 2 and received 17 emails, totalling 19 interactions. Top correspondents: [Mark Greenberg](people/mark-greenberg) (2), [E  Haedicke](people/e-haedicke) (1), [ Taylor](people/taylor) (1), [Elizabeth Sager](people/elizabeth-sager) (1), [T  Hodge](people/t-hodge) (1). Mailbox folders observed: inbox, it.",
+  "timeline": "- **2001-01-05** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-wong",
+    "name": "Joe Wong",
+    "email": "joe.wong@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

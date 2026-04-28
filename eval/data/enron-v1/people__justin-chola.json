@@ -1,0 +1,14 @@
+{
+  "slug": "people/justin-chola",
+  "type": "person",
+  "title": "Justin Chola",
+  "compiled_truth": "Justin Chola is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-19 to 2001-02-22), Justin Chola sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-07-19** | First recorded email in corpus\n- **2001-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/justin-chola",
+    "name": "Justin Chola",
+    "email": "justin.chola@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

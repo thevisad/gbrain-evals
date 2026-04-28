@@ -1,0 +1,14 @@
+{
+  "slug": "people/lorraine-becker",
+  "type": "person",
+  "title": "Lorraine Becker",
+  "compiled_truth": "Lorraine Becker is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-21 to 2002-02-13), Lorraine Becker sent 9 and received 140 emails, totalling 149 interactions. Top correspondents: [Tana Jones](people/tana-jones) (4), [David Forster](people/david-forster) (2), [Michael Bridges](people/michael-bridges) (2), [Mark Taylor](people/mark-taylor) (2), [Andy Zipper](people/andy-zipper) (2). Mailbox folders observed: _americas, deleted_items.",
+  "timeline": "- **1999-10-21** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lorraine-becker",
+    "name": "Lorraine Becker",
+    "email": "lorraine.becker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

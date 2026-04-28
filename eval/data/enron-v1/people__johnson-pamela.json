@@ -1,0 +1,14 @@
+{
+  "slug": "people/johnson-pamela",
+  "type": "person",
+  "title": "Johnson Pamela",
+  "compiled_truth": "Johnson Pamela is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Johnson Pamela sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/johnson-pamela",
+    "name": "Johnson Pamela",
+    "email": "johnson.pamela@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/anthony-jarrett",
+  "type": "person",
+  "title": "Anthony Jarrett",
+  "compiled_truth": "Anthony Jarrett is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2002-02-13), Anthony Jarrett sent 3 and received 18 emails, totalling 21 interactions. Top correspondents: [M  Presto](people/m-presto) (2), [Amy Fitzpatrick](people/amy-fitzpatrick) (2), [A  Martin](people/a-martin) (1), [Lori Fischer](people/lori-fischer-ubsw) (1), [Vincent Raimondi](people/vincent-raimondi-ubsw) (1). Mailbox folders observed: inbox, presto_working_files.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anthony-jarrett",
+    "name": "Anthony Jarrett",
+    "email": "anthony.jarrett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

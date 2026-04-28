@@ -1,0 +1,14 @@
+{
+  "slug": "people/collin-whitehead",
+  "type": "person",
+  "title": "Collin Whitehead",
+  "compiled_truth": "Collin Whitehead is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-06-13), Collin Whitehead sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/collin-whitehead",
+    "name": "Collin Whitehead",
+    "email": "collin.whitehead@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

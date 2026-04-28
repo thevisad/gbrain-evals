@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-samuels",
+  "type": "person",
+  "title": "Dave Samuels",
+  "compiled_truth": "Dave Samuels is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-15 to 2001-07-04), Dave Samuels sent 30 and received 412 emails, totalling 442 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (17), [Tana Jones](people/tana-jones) (12), [Rahil Jafry](people/rahil-jafry) (3), [Jason Peters](people/jason-peters) (3), [Marly Didizian](people/marly-didizian-linklaters) (3). Mailbox folders observed: savedmail.",
+  "timeline": "- **1999-10-15** | First recorded email in corpus\n- **2001-07-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-samuels",
+    "name": "Dave Samuels",
+    "email": "dave.samuels@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cng-caiso",
+  "type": "person",
+  "title": "Cng",
+  "compiled_truth": "Cng is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-07-25 to 2001-08-07), Cng sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2001-08-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cng-caiso",
+    "name": "Cng",
+    "email": "cng@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

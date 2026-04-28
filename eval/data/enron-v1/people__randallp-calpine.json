@@ -1,0 +1,14 @@
+{
+  "slug": "people/randallp-calpine",
+  "type": "person",
+  "title": "Randallp",
+  "compiled_truth": "Randallp is an external contact at [Calpine](companies/calpine). Over the corpus period (2000-06-21 to 2001-05-10), Randallp sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randallp-calpine",
+    "name": "Randallp",
+    "email": "randallp@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

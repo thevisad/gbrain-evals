@@ -1,0 +1,14 @@
+{
+  "slug": "people/careed-aep",
+  "type": "person",
+  "title": "Careed",
+  "compiled_truth": "Careed is an external contact at [Aep](companies/aep). Over the corpus period (2001-10-26 to 2002-02-06), Careed sent 12 and received 10 emails, totalling 22 interactions. Top correspondents: [Set](people/set-ercot) (12), [Odle](people/odle) (2), [Susan J Neel](people/susan-j-neel-reliantenergy) (2), ['Schrab](people/schrab) (2), [Heidi Schrab](people/heidi-schrab-greenmountain) (2).",
+  "timeline": "- **2001-10-26** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/careed-aep",
+    "name": "Careed",
+    "email": "careed@aep.com",
+    "primary_affiliation": "companies/aep"
+  }
+}

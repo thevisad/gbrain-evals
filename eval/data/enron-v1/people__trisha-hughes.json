@@ -1,0 +1,14 @@
+{
+  "slug": "people/trisha-hughes",
+  "type": "person",
+  "title": "Trisha Hughes",
+  "compiled_truth": "Trisha Hughes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-11 to 2001-11-12), Trisha Hughes sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-07-11** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/trisha-hughes",
+    "name": "Trisha Hughes",
+    "email": "trisha.hughes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lopez-john",
+  "type": "person",
+  "title": "Lopez John",
+  "compiled_truth": "Lopez John is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-17 to 2002-01-30), Lopez John sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lopez-john",
+    "name": "Lopez John",
+    "email": "lopez.john@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

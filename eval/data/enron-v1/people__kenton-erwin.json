@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenton-erwin",
+  "type": "person",
+  "title": "Kenton Erwin",
+  "compiled_truth": "Kenton Erwin is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Kenton Erwin sent 13 and received 126 emails, totalling 139 interactions. Top correspondents: [Richard Sanders](people/richard-sanders) (9), [David Leatherwood](people/david-leatherwood) (9), [Brad Cheney](people/brad-cheney) (8), [Kevin Kohnstamm](people/kevin-kohnstamm) (7), [Kristina Mordaunt](people/kristina-mordaunt) (6). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenton-erwin",
+    "name": "Kenton Erwin",
+    "email": "kenton.erwin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

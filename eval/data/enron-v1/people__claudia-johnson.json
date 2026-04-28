@@ -1,0 +1,14 @@
+{
+  "slug": "people/claudia-johnson",
+  "type": "person",
+  "title": "Claudia Johnson",
+  "compiled_truth": "Claudia Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2000-04-30), Claudia Johnson sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2000-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/claudia-johnson",
+    "name": "Claudia Johnson",
+    "email": "claudia.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

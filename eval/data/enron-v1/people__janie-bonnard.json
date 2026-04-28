@@ -1,0 +1,14 @@
+{
+  "slug": "people/janie-bonnard",
+  "type": "person",
+  "title": "Janie Bonnard",
+  "compiled_truth": "Janie Bonnard is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-09-26), Janie Bonnard sent 1 and received 31 emails, totalling 32 interactions. Top correspondents: [Karen Denne](people/karen-denne) (1), [Steven Kean](people/steven-kean) (1), [John Ambler](people/john-ambler) (1), [Dennis Vegas](people/dennis-vegas) (1), [Johan Zaayman](people/johan-zaayman) (1).",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janie-bonnard",
+    "name": "Janie Bonnard",
+    "email": "janie.bonnard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

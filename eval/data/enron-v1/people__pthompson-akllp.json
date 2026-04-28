@@ -1,0 +1,14 @@
+{
+  "slug": "people/pthompson-akllp",
+  "type": "person",
+  "title": "Pthompson",
+  "compiled_truth": "Pthompson is an external contact at [Andrews Kurth](companies/andrews-kurth). Over the corpus period (1980-01-01 to 2001-12-11), Pthompson sent 56 and received 329 emails, totalling 385 interactions. Top correspondents: [Kay Mann](people/kay-mann) (56), [Paulpipitone](people/paulpipitone-akllp) (17), [John G Rigby](people/john-g-rigby) (16), [Bill Williams](people/bill-williams) (15), [Scott Dieball](people/scott-dieball) (15).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pthompson-akllp",
+    "name": "Pthompson",
+    "email": "pthompson@akllp.com",
+    "primary_affiliation": "companies/andrews-kurth"
+  }
+}

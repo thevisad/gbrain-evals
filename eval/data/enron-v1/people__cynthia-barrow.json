@@ -1,0 +1,14 @@
+{
+  "slug": "people/cynthia-barrow",
+  "type": "person",
+  "title": "Cynthia Barrow",
+  "compiled_truth": "Cynthia Barrow is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-25), Cynthia Barrow sent 13 and received 162 emails, totalling 175 interactions. Top correspondents: [Cindy Olson](people/cindy-olson) (5), [Michelle Cash](people/michelle-cash) (5), [Marla Barnard](people/marla-barnard) (4), [Sharon Butcher](people/sharon-butcher) (4), [Mary Joyce](people/mary-joyce) (3). Mailbox folders observed: deleted_items, garden_state_paper, general_research, inbox, organization.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cynthia-barrow",
+    "name": "Cynthia Barrow",
+    "email": "cynthia.barrow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

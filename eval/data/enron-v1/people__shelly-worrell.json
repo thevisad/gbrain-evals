@@ -1,0 +1,14 @@
+{
+  "slug": "people/shelly-worrell",
+  "type": "person",
+  "title": "Shelly Worrell",
+  "compiled_truth": "Shelly Worrell is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2000-06-14), Shelly Worrell sent 4 and received 10 emails, totalling 14 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (4), [Michael Burke](people/michael-burke) (2), [Regional Managers](people/regional-managers) (1), [Vision Values](people/vision-values) (1), [Eott Marketing](people/eott-marketing) (1).",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2000-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shelly-worrell",
+    "name": "Shelly Worrell",
+    "email": "shelly.worrell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

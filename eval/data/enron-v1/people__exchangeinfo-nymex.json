@@ -1,0 +1,14 @@
+{
+  "slug": "people/exchangeinfo-nymex",
+  "type": "person",
+  "title": "Exchangeinfo",
+  "compiled_truth": "Exchangeinfo is an external contact at [Nymex](companies/nymex). Over the corpus period (2000-09-06 to 2002-01-03), Exchangeinfo sent 331 and received 1 emails, totalling 332 interactions. Top correspondents: [Tana Jones](people/tana-jones) (248), [Sara Shackleton](people/sara-shackleton) (81), [ Taylor](people/taylor) (2).",
+  "timeline": "- **2000-09-06** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/exchangeinfo-nymex",
+    "name": "Exchangeinfo",
+    "email": "exchangeinfo@nymex.com",
+    "primary_affiliation": "companies/nymex"
+  }
+}

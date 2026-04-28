@@ -1,0 +1,14 @@
+{
+  "slug": "people/kfickett-usgen",
+  "type": "person",
+  "title": "Kfickett",
+  "compiled_truth": "Kfickett is an external contact at [Usgen](companies/usgen). Over the corpus period (2000-09-01 to 2001-07-31), Kfickett sent 0 and received 188 emails, totalling 188 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kfickett-usgen",
+    "name": "Kfickett",
+    "email": "kfickett@usgen.com",
+    "primary_affiliation": "companies/usgen"
+  }
+}

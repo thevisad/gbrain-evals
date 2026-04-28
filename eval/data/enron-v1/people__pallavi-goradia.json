@@ -1,0 +1,14 @@
+{
+  "slug": "people/pallavi-goradia",
+  "type": "person",
+  "title": "Pallavi Goradia",
+  "compiled_truth": "Pallavi Goradia is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-02 to 2002-02-20), Pallavi Goradia sent 12 and received 181 emails, totalling 193 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (11), [Jan Moore](people/jan-moore) (8), [Audrey Robertson](people/audrey-robertson) (6), [Lindy Donoho](people/lindy-donoho) (6), [Michelle Lokay](people/michelle-lokay) (6). Mailbox folders observed: deleted_items, enron_t_s, inbox, personal, tw.",
+  "timeline": "- **2001-01-02** | First recorded email in corpus\n- **2002-02-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pallavi-goradia",
+    "name": "Pallavi Goradia",
+    "email": "pallavi.goradia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

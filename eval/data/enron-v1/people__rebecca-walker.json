@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebecca-walker",
+  "type": "person",
+  "title": "Rebecca Walker",
+  "compiled_truth": "Rebecca Walker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-09 to 2001-10-17), Rebecca Walker sent 25 and received 213 emails, totalling 238 interactions. Top correspondents: [Kay Mann](people/kay-mann) (21), [Ben Jacoby](people/ben-jacoby) (12), [Chris Booth](people/chris-booth) (5), [Benjamin Rogers](people/benjamin-rogers) (4), [Tonya Dennis](people/tonya-dennis) (3).",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebecca-walker",
+    "name": "Rebecca Walker",
+    "email": "rebecca.walker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

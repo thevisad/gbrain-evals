@@ -1,0 +1,14 @@
+{
+  "slug": "people/genej-nepco",
+  "type": "person",
+  "title": "Genej",
+  "compiled_truth": "Genej is an external contact at [Nepco](companies/nepco). Over the corpus period (2000-11-02 to 2000-11-03), Genej sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/genej-nepco",
+    "name": "Genej",
+    "email": "genej@nepco.com",
+    "primary_affiliation": "companies/nepco"
+  }
+}

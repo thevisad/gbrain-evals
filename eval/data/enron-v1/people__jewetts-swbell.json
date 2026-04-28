@@ -1,0 +1,14 @@
+{
+  "slug": "people/jewetts-swbell",
+  "type": "person",
+  "title": "Jewetts",
+  "compiled_truth": "Jewetts is an external contact at [Swbell](companies/swbell). Over the corpus period (2001-09-17 to 2001-11-19), Jewetts sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jewetts-swbell",
+    "name": "Jewetts",
+    "email": "jewetts@swbell.net",
+    "primary_affiliation": "companies/swbell"
+  }
+}

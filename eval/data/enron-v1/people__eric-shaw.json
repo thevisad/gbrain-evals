@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-shaw",
+  "type": "person",
+  "title": "Eric Shaw",
+  "compiled_truth": "Eric Shaw is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-19 to 2002-02-19), Eric Shaw sent 2 and received 106 emails, totalling 108 interactions. Top correspondents: [Marcus Nettelton](people/marcus-nettelton) (1), [Elizabeth Sager](people/elizabeth-sager) (1), [T  Hodge](people/t-hodge) (1), [Michelle Cash](people/michelle-cash) (1), [David Oxley](people/david-oxley) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-10-19** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-shaw",
+    "name": "Eric Shaw",
+    "email": "eric.shaw@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/janice-hollaway",
+  "type": "person",
+  "title": "Janice Hollaway",
+  "compiled_truth": "Janice Hollaway is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-09-24), Janice Hollaway sent 1 and received 17 emails, totalling 18 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (1), [Greg Curran](people/greg-curran) (1).",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janice-hollaway",
+    "name": "Janice Hollaway",
+    "email": "janice.hollaway@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

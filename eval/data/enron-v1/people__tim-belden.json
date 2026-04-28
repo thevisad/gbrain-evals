@@ -1,0 +1,14 @@
+{
+  "slug": "people/tim-belden",
+  "type": "person",
+  "title": "Tim Belden",
+  "compiled_truth": "Tim Belden is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-21), Tim Belden sent 221 and received 3493 emails, totalling 3714 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (61), [John Lavorato](people/john-lavorato) (53), [Jeff Richter](people/jeff-richter) (41), [Robert Badeer](people/robert-badeer) (37), [Sean Crandall](people/sean-crandall) (37). Mailbox folders observed: _americas, belden, bill_williams_iii, california_issues, credit, cya.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tim-belden",
+    "name": "Tim Belden",
+    "email": "tim.belden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

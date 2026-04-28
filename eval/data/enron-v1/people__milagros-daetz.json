@@ -1,0 +1,14 @@
+{
+  "slug": "people/milagros-daetz",
+  "type": "person",
+  "title": "Milagros Daetz",
+  "compiled_truth": "Milagros Daetz is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-27 to 2001-12-03), Milagros Daetz sent 1 and received 85 emails, totalling 86 interactions. Top correspondents: [Monika Causholli](people/monika-causholli) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-07-27** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/milagros-daetz",
+    "name": "Milagros Daetz",
+    "email": "milagros.daetz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/merritt-mollie",
+  "type": "person",
+  "title": "Merritt Mollie",
+  "compiled_truth": "Merritt Mollie is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Merritt Mollie sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/merritt-mollie",
+    "name": "Merritt Mollie",
+    "email": "merritt.mollie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

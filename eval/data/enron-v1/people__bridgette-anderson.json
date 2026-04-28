@@ -1,0 +1,14 @@
+{
+  "slug": "people/bridgette-anderson",
+  "type": "person",
+  "title": "Bridgette Anderson",
+  "compiled_truth": "Bridgette Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-23 to 2002-03-01), Bridgette Anderson sent 8 and received 327 emails, totalling 335 interactions. Top correspondents: [Tana Jones](people/tana-jones) (5), [Dan Hyvl](people/dan-hyvl) (2), [Anthony Campos](people/anthony-campos) (2), [Sally Beck](people/sally-beck) (1), [Karen Lambert](people/karen-lambert) (1).",
+  "timeline": "- **2000-05-23** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bridgette-anderson",
+    "name": "Bridgette Anderson",
+    "email": "bridgette.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

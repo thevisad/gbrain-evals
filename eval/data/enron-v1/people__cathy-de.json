@@ -1,0 +1,14 @@
+{
+  "slug": "people/cathy-de",
+  "type": "person",
+  "title": "Cathy De",
+  "compiled_truth": "Cathy De is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2002-01-31), Cathy De sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cathy-de",
+    "name": "Cathy De",
+    "email": "cathy.de@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

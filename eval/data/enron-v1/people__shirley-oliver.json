@@ -1,0 +1,14 @@
+{
+  "slug": "people/shirley-oliver",
+  "type": "person",
+  "title": "Shirley Oliver",
+  "compiled_truth": "Shirley Oliver is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2002-03-29), Shirley Oliver sent 4 and received 37 emails, totalling 41 interactions. Top correspondents: [Rob Walls](people/rob-walls) (2), [Keith Dodson](people/keith-dodson) (2), [John Rigby](people/john-rigby) (2), [Kristi Dobbs](people/kristi-dobbs) (2), [Sheila Tweed](people/sheila-tweed) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shirley-oliver",
+    "name": "Shirley Oliver",
+    "email": "shirley.oliver@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

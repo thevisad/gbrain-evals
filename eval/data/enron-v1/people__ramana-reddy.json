@@ -1,0 +1,14 @@
+{
+  "slug": "people/ramana-reddy",
+  "type": "person",
+  "title": "Ramana Reddy",
+  "compiled_truth": "Ramana Reddy is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-24 to 2002-01-24), Ramana Reddy sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-24** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ramana-reddy",
+    "name": "Ramana Reddy",
+    "email": "ramana.reddy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

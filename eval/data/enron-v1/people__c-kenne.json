@@ -1,0 +1,14 @@
+{
+  "slug": "people/c-kenne",
+  "type": "person",
+  "title": "C  Kenne",
+  "compiled_truth": "C  Kenne is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-22 to 2002-04-26), C  Kenne sent 21 and received 78 emails, totalling 99 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (18), [Kevin Meredith](people/kevin-meredith) (13), [Jennifer Denny](people/jennifer-denny) (12), [C  Gossett](people/c-gossett) (6), [Melba Lozano](people/melba-lozano) (6). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-22** | First recorded email in corpus\n- **2002-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/c-kenne",
+    "name": "C  Kenne",
+    "email": "c..kenne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

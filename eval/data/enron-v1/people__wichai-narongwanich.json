@@ -1,0 +1,14 @@
+{
+  "slug": "people/wichai-narongwanich",
+  "type": "person",
+  "title": "Wichai Narongwanich",
+  "compiled_truth": "Wichai Narongwanich is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-12 to 2002-01-07), Wichai Narongwanich sent 1 and received 38 emails, totalling 39 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (1), [Shirley Crenshaw](people/shirley-crenshaw) (1), [Pinnamaneni Krishnarao](people/pinnamaneni-krishnarao) (1), [Anne Labbe](people/anne-labbe) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-02-12** | First recorded email in corpus\n- **2002-01-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wichai-narongwanich",
+    "name": "Wichai Narongwanich",
+    "email": "wichai.narongwanich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

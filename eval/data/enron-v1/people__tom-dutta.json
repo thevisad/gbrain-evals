@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-dutta",
+  "type": "person",
+  "title": "Tom Dutta",
+  "compiled_truth": "Tom Dutta is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-21 to 2001-11-29), Tom Dutta sent 0 and received 226 emails, totalling 226 interactions.",
+  "timeline": "- **1999-12-21** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-dutta",
+    "name": "Tom Dutta",
+    "email": "tom.dutta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

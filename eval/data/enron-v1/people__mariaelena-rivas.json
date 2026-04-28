@@ -1,0 +1,14 @@
+{
+  "slug": "people/mariaelena-rivas",
+  "type": "person",
+  "title": "Mariaelena Rivas",
+  "compiled_truth": "Mariaelena Rivas is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-27 to 2001-11-14), Mariaelena Rivas sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-04-27** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mariaelena-rivas",
+    "name": "Mariaelena Rivas",
+    "email": "mariaelena.rivas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

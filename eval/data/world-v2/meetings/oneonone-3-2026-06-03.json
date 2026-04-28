@@ -1,0 +1,28 @@
+{
+  "slug": "meetings/oneonone-3-2026-06-03",
+  "type": "meeting",
+  "title": "1:1 — Seren Voss + Riley Moreau, June 3 2026",
+  "compiled_truth": "Weekly 1:1 between [Seren Voss](people/seren-voss) (CTO) and [Riley Moreau](people/riley-moreau) (senior systems engineer) held over video on June 3, 2026. The conversation ran about 40 minutes, most of which was spent on two themes: pipeline reliability under the new deterministic pass architecture, and Riley's growing frustration with the testing harness.\n\nSeren opened by asking for a status check on the single-pass primitive integration Riley has been leading for the last three sprints. Riley reported that the core path is stable but flagged a subtle regression in how authentication tokens are being threaded through the compression stage. They described the bug as \"intermittent but reproducable\" — it shows up roughly one in fifty runs under heavy concurrency. Seren pushed for a timeline on a fix. Riley estimated two days if it's a sequencing issue, potentially a week if it's rooted in the buffer management layer. They agreed Riley would pair with someone from the verification team on Wednesday to narrow the scope.\n\nThe second half of the meeting was more candid. Riley raised that [Anchor Codec](companies/anchor)'s internal test framework hasn't kept pace with the architecture changes — they're spending almost a third of their week writing ad-hoc test scaffolding rather than shipping features. Seren acknowledged this and mentioned she's been thinking about dedicating a rotation to tooling debt sometime in Q3. Riley pushed harder, suggesting the team hire a dedicated infra-tooling engineer, or at least contract one for two months. Voss didn't commit but said she'd bring it up in the next leadership sync.\n\nThere was a brief digression about conference season — Riley mentioned they'd been invited to give a lightning talk at a systems meetup in August and wanted to check that it wouldn't conflict with any disclosure policies. Seren said she'd loop in legal but was generally supportive.\n\nMood of the meeting was constructive but slightly tense. Riley clearly respects Seren's technical judgement but is starting to feel the friction of moving fast without adequate tooling. Seren seemed to hear it. No major decisions made, but a few clear action items came out of the conversation.",
+  "timeline": [
+    "- **2026-05-27** | [Riley Moreau](people/riley-moreau) first identifies the intermittent authentication regression during concurrency stress testing.",
+    "- **2026-06-03** | 1:1 held between [Seren Voss](people/seren-voss) and Riley. Test harness debt and pipeline regression discussed at length.",
+    "- **2026-06-05** | Riley pairs with verification team to isolate the buffer-threading bug in the single-pass pipeline.",
+    "- **2026-06-10** | Bug confirmed as a sequencing issue; fix merged to main branch by end of day.",
+    "- **2026-06-18** | Seren raises tooling-debt concern at [Anchor Codec](companies/anchor) leadership sync; decision deferred to Q3 planning.",
+    "- **2026-08-14** | Riley delivers lightning talk at a systems infrastructure meetup, focusing on deterministic pipeline testing patterns.",
+    "- **2026-09-02** | Q3 planning allocates a two-sprint rotation to internal test tooling, partially addressing Riley's request.",
+    "- **2027-01-15** | Follow-up 1:1 references this meeting as the origin of Anchor's dedicated tooling improvements initiative."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/oneonone-3-2026-06-03",
+    "name": "1:1 Seren Voss + Riley Moreau",
+    "meeting_type": "one_on_one",
+    "date": "2026-06-03",
+    "attendees": [
+      "people/seren-voss",
+      "people/riley-moreau"
+    ],
+    "topic_company": "companies/anchor"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/daveike-rice",
+  "type": "person",
+  "title": "Daveike",
+  "compiled_truth": "Daveike is an external contact at [Rice](companies/rice). Over the corpus period (2000-03-28 to 2002-03-15), Daveike sent 8 and received 29 emails, totalling 37 interactions. Top correspondents: [Andrew S Fastow](people/andrew-s-fastow) (3), [Vkamins](people/vkamins-ennron) (3), [Vince J Kaminski](people/vince-j-kaminski) (2), [Kanatas](people/kanatas-rice) (1), [Jfleming](people/jfleming-ruf) (1).",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2002-03-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/daveike-rice",
+    "name": "Daveike",
+    "email": "daveike@rice.edu",
+    "primary_affiliation": "companies/rice"
+  }
+}

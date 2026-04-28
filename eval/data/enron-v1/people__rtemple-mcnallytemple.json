@@ -1,0 +1,14 @@
+{
+  "slug": "people/rtemple-mcnallytemple",
+  "type": "person",
+  "title": "Rtemple",
+  "compiled_truth": "Rtemple is an external contact at [Mcnallytemple](companies/mcnallytemple). Over the corpus period (2000-10-30 to 2001-07-31), Rtemple sent 0 and received 70 emails, totalling 70 interactions.",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rtemple-mcnallytemple",
+    "name": "Rtemple",
+    "email": "rtemple@mcnallytemple.com",
+    "primary_affiliation": "companies/mcnallytemple"
+  }
+}

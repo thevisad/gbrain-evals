@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-dronet",
+  "type": "person",
+  "title": "David Dronet",
+  "compiled_truth": "David Dronet is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-19 to 2002-02-13), David Dronet sent 24 and received 88 emails, totalling 112 interactions. Top correspondents: [Chris Gaskill](people/chris-gaskill) (15), [Vladi Pimenov](people/vladi-pimenov) (9), [S  Shively](people/s-shively) (7), [Biliana Pehlivanova](people/biliana-pehlivanova) (6), [Dipak Agarwalla](people/dipak-agarwalla) (6). Mailbox folders observed: deleted_items, inbox, misc.",
+  "timeline": "- **2001-01-19** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-dronet",
+    "name": "David Dronet",
+    "email": "david.dronet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

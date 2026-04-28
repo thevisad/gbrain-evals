@@ -1,0 +1,14 @@
+{
+  "slug": "people/denise-furey",
+  "type": "person",
+  "title": "Denise Furey",
+  "compiled_truth": "Denise Furey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-09 to 2001-11-19), Denise Furey sent 4 and received 68 emails, totalling 72 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (2), [D  Steffes](people/d-steffes) (2), [Gayle Muench](people/gayle-muench) (1), [Michael Tribolet](people/michael-tribolet) (1), [William Bradford](people/william-bradford) (1). Mailbox folders observed: security___collateral.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/denise-furey",
+    "name": "Denise Furey",
+    "email": "denise.furey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gray-calvert",
+  "type": "person",
+  "title": "Gray Calvert",
+  "compiled_truth": "Gray Calvert is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-30 to 2001-11-28), Gray Calvert sent 3 and received 132 emails, totalling 135 interactions. Top correspondents: [Kate Symes](people/kate-symes) (3), [Angela Cadena](people/angela-cadena) (2), [Andy Chen](people/andy-chen) (1).",
+  "timeline": "- **2000-05-30** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gray-calvert",
+    "name": "Gray Calvert",
+    "email": "gray.calvert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

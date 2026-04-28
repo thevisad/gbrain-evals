@@ -1,0 +1,14 @@
+{
+  "slug": "people/peter-weidler",
+  "type": "person",
+  "title": "Peter Weidler",
+  "compiled_truth": "Peter Weidler is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-22 to 2001-05-14), Peter Weidler sent 4 and received 116 emails, totalling 120 interactions. Top correspondents: [Steven Kean](people/steven-kean) (2), [Rebecca Mcdonald](people/rebecca-mcdonald) (2), [Eduardo Quintana](people/eduardo-quintana) (1), [Michael Terraso](people/michael-terraso) (1), [Henry Van](people/henry-van) (1).",
+  "timeline": "- **1999-10-22** | First recorded email in corpus\n- **2001-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peter-weidler",
+    "name": "Peter Weidler",
+    "email": "peter.weidler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

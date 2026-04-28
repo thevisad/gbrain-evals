@@ -1,0 +1,14 @@
+{
+  "slug": "people/tricia-mentor",
+  "type": "person",
+  "title": "Tricia Mentor",
+  "compiled_truth": "Tricia Mentor is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-08 to 2001-10-12), Tricia Mentor sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-08** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tricia-mentor",
+    "name": "Tricia Mentor",
+    "email": "tricia.mentor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

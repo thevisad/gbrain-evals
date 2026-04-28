@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-holzer",
+  "type": "person",
+  "title": "Eric Holzer",
+  "compiled_truth": "Eric Holzer is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-05 to 2002-03-29), Eric Holzer sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2001-03-05** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-holzer",
+    "name": "Eric Holzer",
+    "email": "eric.holzer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-bodnar",
+  "type": "person",
+  "title": "Michael Bodnar",
+  "compiled_truth": "Michael Bodnar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2002-03-25), Michael Bodnar sent 74 and received 502 emails, totalling 576 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (58), [Terry Kowalke](people/terry-kowalke) (36), [Richard Hanagriff](people/richard-hanagriff) (30), [Darrell Schoolcraft](people/darrell-schoolcraft) (30), [Tk Lohman](people/tk-lohman) (27). Mailbox folders observed: calendar, customer___reliant_retail_energy_minneapolis, customer___uses, deleted_items, demarc_allocation, e_mail_bin.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-bodnar",
+    "name": "Michael Bodnar",
+    "email": "michael.bodnar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

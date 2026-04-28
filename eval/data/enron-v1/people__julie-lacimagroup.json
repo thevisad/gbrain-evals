@@ -1,0 +1,14 @@
+{
+  "slug": "people/julie-lacimagroup",
+  "type": "person",
+  "title": "Julie",
+  "compiled_truth": "Julie is an external contact at [Lacimagroup](companies/lacimagroup). Over the corpus period (2000-12-12 to 2001-12-01), Julie sent 11 and received 36 emails, totalling 47 interactions. Top correspondents: [Vince J Kaminski](people/vince-j-kaminski) (10), [Shirley Crenshaw](people/shirley-crenshaw) (3), [Fiona Grant](people/fiona-grant) (1).",
+  "timeline": "- **2000-12-12** | First recorded email in corpus\n- **2001-12-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julie-lacimagroup",
+    "name": "Julie",
+    "email": "julie@lacimagroup.com",
+    "primary_affiliation": "companies/lacimagroup"
+  }
+}

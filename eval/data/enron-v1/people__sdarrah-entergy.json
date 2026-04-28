@@ -1,0 +1,14 @@
+{
+  "slug": "people/sdarrah-entergy",
+  "type": "person",
+  "title": "Sdarrah",
+  "compiled_truth": "Sdarrah is an external contact at [Entergy](companies/entergy). Over the corpus period (2000-06-01 to 2001-10-25), Sdarrah sent 1 and received 76 emails, totalling 77 interactions. Top correspondents: [ Alex](people/alex) (1), [ Brandon](people/brandon) (1), [Chad Landry](people/chad-landry) (1), [Matthew Lenhart](people/matthew-lenhart) (1), [ Mitch](people/mitch) (1).",
+  "timeline": "- **2000-06-01** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sdarrah-entergy",
+    "name": "Sdarrah",
+    "email": "sdarrah@entergy.com",
+    "primary_affiliation": "companies/entergy"
+  }
+}

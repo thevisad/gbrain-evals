@@ -1,0 +1,14 @@
+{
+  "slug": "people/martiradonna-jimmy",
+  "type": "person",
+  "title": "Martiradonna Jimmy",
+  "compiled_truth": "Martiradonna Jimmy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2001-09-26), Martiradonna Jimmy sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martiradonna-jimmy",
+    "name": "Martiradonna Jimmy",
+    "email": "martiradonna.jimmy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

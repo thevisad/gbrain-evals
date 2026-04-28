@@ -1,0 +1,14 @@
+{
+  "slug": "people/dale-rasmussen",
+  "type": "person",
+  "title": "Dale Rasmussen",
+  "compiled_truth": "Dale Rasmussen is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-08), Dale Rasmussen sent 40 and received 535 emails, totalling 575 interactions. Top correspondents: [Kay Mann](people/kay-mann) (17), [Sheila Tweed](people/sheila-tweed) (15), [Karen Jones](people/karen-jones) (9), [Bill Williams](people/bill-williams) (8), [Jody Blackburn](people/jody-blackburn) (7). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dale-rasmussen",
+    "name": "Dale Rasmussen",
+    "email": "dale.rasmussen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

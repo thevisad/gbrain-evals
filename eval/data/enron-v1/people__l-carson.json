@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-carson",
+  "type": "person",
+  "title": "L  Carson",
+  "compiled_truth": "L  Carson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-27 to 2002-01-30), L  Carson sent 23 and received 120 emails, totalling 143 interactions. Top correspondents: [Rick Buy](people/rick-buy) (23), [David Gorte](people/david-gorte) (15), [S  Bradford](people/s-bradford) (6), [David Port](people/david-port) (5), [Kevin Garland](people/kevin-garland) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-03-27** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-carson",
+    "name": "L  Carson",
+    "email": "l..carson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

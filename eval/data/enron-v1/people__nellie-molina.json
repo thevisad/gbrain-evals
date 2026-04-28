@@ -1,0 +1,14 @@
+{
+  "slug": "people/nellie-molina",
+  "type": "person",
+  "title": "Nellie Molina",
+  "compiled_truth": "Nellie Molina is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-31 to 2001-01-31), Nellie Molina sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-01-31** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nellie-molina",
+    "name": "Nellie Molina",
+    "email": "nellie.molina@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

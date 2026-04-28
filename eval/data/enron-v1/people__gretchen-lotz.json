@@ -1,0 +1,14 @@
+{
+  "slug": "people/gretchen-lotz",
+  "type": "person",
+  "title": "Gretchen Lotz",
+  "compiled_truth": "Gretchen Lotz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-13 to 2001-12-05), Gretchen Lotz sent 0 and received 274 emails, totalling 274 interactions.",
+  "timeline": "- **2000-08-13** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gretchen-lotz",
+    "name": "Gretchen Lotz",
+    "email": "gretchen.lotz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

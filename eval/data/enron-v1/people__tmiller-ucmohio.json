@@ -1,0 +1,14 @@
+{
+  "slug": "people/tmiller-ucmohio",
+  "type": "person",
+  "title": "Tmiller",
+  "compiled_truth": "Tmiller is an external contact at [Ucmohio](companies/ucmohio). Over the corpus period (2000-08-25 to 2001-01-30), Tmiller sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tmiller-ucmohio",
+    "name": "Tmiller",
+    "email": "tmiller@ucmohio.com",
+    "primary_affiliation": "companies/ucmohio"
+  }
+}

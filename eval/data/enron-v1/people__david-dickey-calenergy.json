@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-dickey-calenergy",
+  "type": "person",
+  "title": "David Dickey",
+  "compiled_truth": "David Dickey is an external contact at [Calenergy](companies/calenergy). Over the corpus period (2001-02-09 to 2001-04-15), David Dickey sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2001-02-09** | First recorded email in corpus\n- **2001-04-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-dickey-calenergy",
+    "name": "David Dickey",
+    "email": "david.dickey@calenergy.com",
+    "primary_affiliation": "companies/calenergy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-carson",
+  "type": "person",
+  "title": "Rick Carson",
+  "compiled_truth": "Rick Carson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-09 to 2001-04-27), Rick Carson sent 5 and received 67 emails, totalling 72 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (3), [Donna Lowry](people/donna-lowry) (2), [Rick Buy](people/rick-buy) (2), [Shona Wilson](people/shona-wilson) (1), [Ted Murphy](people/ted-murphy) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-06-09** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-carson",
+    "name": "Rick Carson",
+    "email": "rick.carson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

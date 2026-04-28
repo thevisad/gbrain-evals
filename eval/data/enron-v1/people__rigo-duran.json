@@ -1,0 +1,14 @@
+{
+  "slug": "people/rigo-duran",
+  "type": "person",
+  "title": "Rigo Duran",
+  "compiled_truth": "Rigo Duran is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-10-09), Rigo Duran sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rigo-duran",
+    "name": "Rigo Duran",
+    "email": "rigo.duran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

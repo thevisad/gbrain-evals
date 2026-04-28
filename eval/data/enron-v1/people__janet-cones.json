@@ -1,0 +1,14 @@
+{
+  "slug": "people/janet-cones",
+  "type": "person",
+  "title": "Janet Cones",
+  "compiled_truth": "Janet Cones is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2002-05-06), Janet Cones sent 7 and received 104 emails, totalling 111 interactions. Top correspondents: [Martha Benner](people/martha-benner) (3), [Susan Scott](people/susan-scott) (3), [Bob Chandler](people/bob-chandler) (2), [Drew Fossum](people/drew-fossum) (2), [Dan Fancler](people/dan-fancler) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janet-cones",
+    "name": "Janet Cones",
+    "email": "janet.cones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

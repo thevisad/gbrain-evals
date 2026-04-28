@@ -1,0 +1,14 @@
+{
+  "slug": "people/kbuck-entergy",
+  "type": "person",
+  "title": "Kbuck",
+  "compiled_truth": "Kbuck is an external contact at [Entergy](companies/entergy). Over the corpus period (2002-01-08 to 2002-01-21), Kbuck sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-01-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kbuck-entergy",
+    "name": "Kbuck",
+    "email": "kbuck@entergy.com",
+    "primary_affiliation": "companies/entergy"
+  }
+}

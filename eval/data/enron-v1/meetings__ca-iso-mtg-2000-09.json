@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/ca-iso-mtg-2000-09",
+  "type": "meeting",
+  "title": "Meeting: Ca Iso Mtg",
+  "compiled_truth": "Meeting: \"Ca Iso Mtg\". Occurred 2000-09-12 through 2000-09-14 with 2 related emails. Participants included: [Chris Foster](people/chris-foster), [Chris Holmes](people/chris-holmes), [Dennis Benevides](people/dennis-benevides), [Jeff Dasovich](people/jeff-dasovich), [Jeff Nieland](people/jeff-nieland), [John Wack](people/john-wack), [Jubran Whalan](people/jubran-whalan), [Mona Petrochko](people/mona-petrochko)....",
+  "timeline": "- **2000-09-12** | Meeting: ca iso mtg\n- **2000-09-14** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/ca-iso-mtg-2000-09",
+    "attendees": [
+      "people/chris-foster",
+      "people/chris-holmes",
+      "people/dennis-benevides",
+      "people/jeff-dasovich",
+      "people/jeff-nieland",
+      "people/john-wack",
+      "people/jubran-whalan",
+      "people/mona-petrochko",
+      "people/susan-mara",
+      "people/tom-riley"
+    ],
+    "date": "2000-09-12"
+  }
+}

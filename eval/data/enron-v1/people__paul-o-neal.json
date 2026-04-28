@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-o-neal",
+  "type": "person",
+  "title": "Paul O'Neal",
+  "compiled_truth": "Paul O'Neal is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-22 to 2001-11-08), Paul O'Neal sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-11-22** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-o-neal",
+    "name": "Paul O'Neal",
+    "email": "paul.o'neal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

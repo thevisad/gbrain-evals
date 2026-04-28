@@ -1,0 +1,14 @@
+{
+  "slug": "people/bharsh-puget",
+  "type": "person",
+  "title": "Bharsh",
+  "compiled_truth": "Bharsh is an external contact at [Puget](companies/puget). Over the corpus period (2001-04-26 to 2002-02-07), Bharsh sent 25 and received 5 emails, totalling 30 interactions. Top correspondents: [Bill Williams](people/bill-williams) (9), [Isas](people/isas-wscc) (8), ['Hackney](people/hackney) (8), [Mhackney](people/mhackney-apsc) (8), [Eswg](people/eswg-wscc) (6).",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bharsh-puget",
+    "name": "Bharsh",
+    "email": "bharsh@puget.com",
+    "primary_affiliation": "companies/puget"
+  }
+}

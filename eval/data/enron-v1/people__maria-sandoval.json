@@ -1,0 +1,14 @@
+{
+  "slug": "people/maria-sandoval",
+  "type": "person",
+  "title": "Maria Sandoval",
+  "compiled_truth": "Maria Sandoval is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2001-10-15), Maria Sandoval sent 25 and received 161 emails, totalling 186 interactions. Top correspondents: [Andrea Guillen](people/andrea-guillen) (25), [Judy Hernandez](people/judy-hernandez) (25), [Yolanda Pena](people/yolanda-pena) (25), [Phenicia Olivier](people/phenicia-olivier) (24), [Chantelle Villanueva](people/chantelle-villanueva) (24).",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maria-sandoval",
+    "name": "Maria Sandoval",
+    "email": "maria.sandoval@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

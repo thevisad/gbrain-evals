@@ -1,0 +1,14 @@
+{
+  "slug": "people/lawyer-teleport",
+  "type": "person",
+  "title": "Lawyer",
+  "compiled_truth": "Lawyer is an external contact at [Teleport](companies/teleport). Over the corpus period (2001-02-20 to 2001-04-27), Lawyer sent 0 and received 67 emails, totalling 67 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lawyer-teleport",
+    "name": "Lawyer",
+    "email": "lawyer@teleport.com",
+    "primary_affiliation": "companies/teleport"
+  }
+}

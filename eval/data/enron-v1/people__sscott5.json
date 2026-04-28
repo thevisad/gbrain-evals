@@ -1,0 +1,14 @@
+{
+  "slug": "people/sscott5",
+  "type": "person",
+  "title": "Sscott5",
+  "compiled_truth": "Sscott5 is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2002-03-25), Sscott5 sent 0 and received 422 emails, totalling 422 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sscott5",
+    "name": "Sscott5",
+    "email": "sscott5@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

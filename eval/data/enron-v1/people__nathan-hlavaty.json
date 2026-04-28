@@ -1,0 +1,14 @@
+{
+  "slug": "people/nathan-hlavaty",
+  "type": "person",
+  "title": "Nathan Hlavaty",
+  "compiled_truth": "Nathan Hlavaty is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-13), Nathan Hlavaty sent 0 and received 302 emails, totalling 302 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nathan-hlavaty",
+    "name": "Nathan Hlavaty",
+    "email": "nathan.hlavaty@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

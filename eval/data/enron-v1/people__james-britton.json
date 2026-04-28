@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-britton",
+  "type": "person",
+  "title": "James Britton",
+  "compiled_truth": "James Britton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-11 to 2001-10-12), James Britton sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-12-11** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-britton",
+    "name": "James Britton",
+    "email": "james.britton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

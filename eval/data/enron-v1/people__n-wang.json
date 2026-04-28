@@ -1,0 +1,14 @@
+{
+  "slug": "people/n-wang",
+  "type": "person",
+  "title": "N Wang",
+  "compiled_truth": "N Wang is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-03-28), N Wang sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [Paul Y'Barbo](people/paul-y-barbo) (1), [Amador Granado](people/amador-granado) (1).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/n-wang",
+    "name": "N Wang",
+    "email": "n.wang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

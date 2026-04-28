@@ -1,0 +1,22 @@
+{
+  "slug": "threads/vacation-2001-02",
+  "type": "meeting",
+  "title": "Thread: Vacation",
+  "compiled_truth": "Email thread: \"Vacation\". Ran from 2001-02-22 to 2001-03-23 with 14 messages. Participants: [Brent Hendry](people/brent-hendry), [Holly Keiser](people/holly-keiser), [Kimberly Brown](people/kimberly-brown), [Mark Taylor](people/mark-taylor), [Sandra Brawner](people/sandra-brawner), [Shirley Crenshaw](people/shirley-crenshaw), [Stephanie Panus](people/stephanie-panus), [Vince Kaminski](people/vince-kaminski).",
+  "timeline": "- **2001-02-22** | Thread begins: vacation\n- **2001-03-23** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/vacation-2001-02",
+    "attendees": [
+      "people/brent-hendry",
+      "people/holly-keiser",
+      "people/kimberly-brown",
+      "people/mark-taylor",
+      "people/sandra-brawner",
+      "people/shirley-crenshaw",
+      "people/stephanie-panus",
+      "people/vince-kaminski"
+    ],
+    "date": "2001-02-22"
+  }
+}

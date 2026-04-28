@@ -1,0 +1,14 @@
+{
+  "slug": "people/ipoche-ix",
+  "type": "person",
+  "title": "Ipoche",
+  "compiled_truth": "Ipoche is an external contact at [Ix](companies/ix). Over the corpus period (2000-05-21 to 2000-11-25), Ipoche sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ipoche-ix",
+    "name": "Ipoche",
+    "email": "ipoche@ix.netcom.com",
+    "primary_affiliation": "companies/ix"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-stadnick",
+  "type": "person",
+  "title": "David Stadnick",
+  "compiled_truth": "David Stadnick is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-28 to 2001-10-17), David Stadnick sent 1 and received 17 emails, totalling 18 interactions. Top correspondents: [Aimee Lannou](people/aimee-lannou) (1), [Alisha Guerrero](people/alisha-guerrero) (1), [Amy Felling](people/amy-felling) (1), [Andy Unverzagt](people/andy-unverzagt) (1), [Anita Patton](people/anita-patton) (1).",
+  "timeline": "- **2000-02-28** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-stadnick",
+    "name": "David Stadnick",
+    "email": "david.stadnick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

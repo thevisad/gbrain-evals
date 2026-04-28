@@ -1,0 +1,14 @@
+{
+  "slug": "people/monte-jones",
+  "type": "person",
+  "title": "Monte Jones",
+  "compiled_truth": "Monte Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-24 to 2002-02-13), Monte Jones sent 6 and received 80 emails, totalling 86 interactions. Top correspondents: [Mike Grigsby](people/mike-grigsby) (5), [Kam Keiser](people/kam-keiser) (4), [K  Allen](people/k-allen) (3), [Randy Bhatia](people/randy-bhatia) (3), [Frank Ermis](people/frank-ermis) (3). Mailbox folders observed: 09_saved, deleted_items, inbox.",
+  "timeline": "- **2001-07-24** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/monte-jones",
+    "name": "Monte Jones",
+    "email": "monte.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

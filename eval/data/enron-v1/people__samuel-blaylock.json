@@ -1,0 +1,14 @@
+{
+  "slug": "people/samuel-blaylock",
+  "type": "person",
+  "title": "Samuel Blaylock",
+  "compiled_truth": "Samuel Blaylock is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-18 to 2002-02-06), Samuel Blaylock sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-08-18** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/samuel-blaylock",
+    "name": "Samuel Blaylock",
+    "email": "samuel.blaylock@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

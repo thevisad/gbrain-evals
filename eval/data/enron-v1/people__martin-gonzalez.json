@@ -1,0 +1,14 @@
+{
+  "slug": "people/martin-gonzalez",
+  "type": "person",
+  "title": "Martin Gonzalez",
+  "compiled_truth": "Martin Gonzalez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-22 to 2002-01-10), Martin Gonzalez sent 1 and received 58 emails, totalling 59 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-02-22** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martin-gonzalez",
+    "name": "Martin Gonzalez",
+    "email": "martin.gonzalez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

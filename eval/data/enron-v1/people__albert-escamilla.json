@@ -1,0 +1,14 @@
+{
+  "slug": "people/albert-escamilla",
+  "type": "person",
+  "title": "Albert Escamilla",
+  "compiled_truth": "Albert Escamilla is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-07 to 2001-11-27), Albert Escamilla sent 6 and received 105 emails, totalling 111 interactions. Top correspondents: [Tana Jones](people/tana-jones) (5), [Stephanie Sever](people/stephanie-sever) (5), [Claudia Clark](people/claudia-clark) (5), [Tom Moran](people/tom-moran) (4), [S  Bradford](people/s-bradford) (4). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-01-07** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/albert-escamilla",
+    "name": "Albert Escamilla",
+    "email": "albert.escamilla@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

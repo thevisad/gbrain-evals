@@ -1,0 +1,14 @@
+{
+  "slug": "people/magner-haas",
+  "type": "person",
+  "title": "Magner",
+  "compiled_truth": "Magner is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2001-11-07), Magner sent 0 and received 43 emails, totalling 43 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/magner-haas",
+    "name": "Magner",
+    "email": "magner@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

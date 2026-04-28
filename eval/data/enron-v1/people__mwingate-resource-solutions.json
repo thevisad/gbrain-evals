@@ -1,0 +1,14 @@
+{
+  "slug": "people/mwingate-resource-solutions",
+  "type": "person",
+  "title": "Mwingate",
+  "compiled_truth": "Mwingate is an external contact at [Resource-solutions](companies/resource-solutions). Over the corpus period (2000-11-09 to 2001-07-26), Mwingate sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2001-07-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mwingate-resource-solutions",
+    "name": "Mwingate",
+    "email": "mwingate@resource-solutions.org",
+    "primary_affiliation": "companies/resource-solutions"
+  }
+}

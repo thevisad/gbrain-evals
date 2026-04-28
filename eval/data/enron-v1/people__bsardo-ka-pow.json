@@ -1,0 +1,14 @@
+{
+  "slug": "people/bsardo-ka-pow",
+  "type": "person",
+  "title": "Bsardo",
+  "compiled_truth": "Bsardo is an external contact at [Ka-pow](companies/ka-pow). Over the corpus period (2001-10-02 to 2001-11-14), Bsardo sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-10-02** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bsardo-ka-pow",
+    "name": "Bsardo",
+    "email": "bsardo@ka-pow.com",
+    "primary_affiliation": "companies/ka-pow"
+  }
+}

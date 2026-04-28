@@ -1,0 +1,14 @@
+{
+  "slug": "people/ecs-dps",
+  "type": "person",
+  "title": "Ecs",
+  "compiled_truth": "Ecs is an external contact at [Dps](companies/dps). Over the corpus period (2001-04-25 to 2001-07-31), Ecs sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-04-25** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ecs-dps",
+    "name": "Ecs",
+    "email": "ecs@dps.state.ny.us",
+    "primary_affiliation": "companies/dps"
+  }
+}

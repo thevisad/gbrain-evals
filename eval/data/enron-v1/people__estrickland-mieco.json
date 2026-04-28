@@ -1,0 +1,14 @@
+{
+  "slug": "people/estrickland-mieco",
+  "type": "person",
+  "title": "Estrickland",
+  "compiled_truth": "Estrickland is an external contact at [Mieco](companies/mieco). Over the corpus period (2000-11-27 to 2001-11-30), Estrickland sent 11 and received 19 emails, totalling 30 interactions. Top correspondents: [ Ward](people/ward) (5), [Kim Ward](people/kim-ward) (4), [Mswerzb](people/mswerzb) (1), [S  Ward](people/s-ward) (1).",
+  "timeline": "- **2000-11-27** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/estrickland-mieco",
+    "name": "Estrickland",
+    "email": "estrickland@mieco.com",
+    "primary_affiliation": "companies/mieco"
+  }
+}

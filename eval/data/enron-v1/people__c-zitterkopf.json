@@ -1,0 +1,14 @@
+{
+  "slug": "people/c-zitterkopf",
+  "type": "person",
+  "title": "C  Zitterkopf",
+  "compiled_truth": "C  Zitterkopf is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-16 to 2001-10-26), C  Zitterkopf sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-16** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/c-zitterkopf",
+    "name": "C  Zitterkopf",
+    "email": "c..zitterkopf@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

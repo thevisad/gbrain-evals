@@ -1,0 +1,14 @@
+{
+  "slug": "people/heidi-grubbs",
+  "type": "person",
+  "title": "Heidi Grubbs",
+  "compiled_truth": "Heidi Grubbs is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-11-20), Heidi Grubbs sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Jeff Ader](people/jeff-ader) (1), [Beth Apollo](people/beth-apollo) (1), [Mark Bernstein](people/mark-bernstein) (1), [Ron Bertasi](people/ron-bertasi) (1), [Scott Campbell](people/scott-campbell) (1). Mailbox folders observed: ees_mgmt.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heidi-grubbs",
+    "name": "Heidi Grubbs",
+    "email": "heidi.grubbs@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

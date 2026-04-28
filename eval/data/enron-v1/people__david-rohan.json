@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-rohan",
+  "type": "person",
+  "title": "David Rohan",
+  "compiled_truth": "David Rohan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2001-10-03), David Rohan sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2001-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-rohan",
+    "name": "David Rohan",
+    "email": "david.rohan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

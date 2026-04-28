@@ -1,0 +1,14 @@
+{
+  "slug": "people/nicola-blancke",
+  "type": "person",
+  "title": "Nicola Blancke",
+  "compiled_truth": "Nicola Blancke is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-24 to 2001-07-03), Nicola Blancke sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-10-24** | First recorded email in corpus\n- **2001-07-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nicola-blancke",
+    "name": "Nicola Blancke",
+    "email": "nicola.blancke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/anita-dupont",
+  "type": "person",
+  "title": "Anita Dupont",
+  "compiled_truth": "Anita Dupont is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-29 to 2002-01-30), Anita Dupont sent 41 and received 218 emails, totalling 259 interactions. Top correspondents: [Shirley Crenshaw](people/shirley-crenshaw) (28), [J Kaminski](people/j-kaminski) (20), [Vince Kaminski](people/vince-kaminski) (18), [Vasant Shanbhogue](people/vasant-shanbhogue) (17), [Pinnamaneni Krishnarao](people/pinnamaneni-krishnarao) (15). Mailbox folders observed: c, calendar, deleted_items, inbox.",
+  "timeline": "- **2000-06-29** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anita-dupont",
+    "name": "Anita Dupont",
+    "email": "anita.dupont@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

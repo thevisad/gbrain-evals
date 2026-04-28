@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-haas",
+  "type": "person",
+  "title": "Kelly",
+  "compiled_truth": "Kelly is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-09-04), Kelly sent 0 and received 62 emails, totalling 62 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-haas",
+    "name": "Kelly",
+    "email": "kelly@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

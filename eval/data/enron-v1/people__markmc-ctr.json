@@ -1,0 +1,14 @@
+{
+  "slug": "people/markmc-ctr",
+  "type": "person",
+  "title": "Markmc",
+  "compiled_truth": "Markmc is an external contact at [Ctr](companies/ctr). Over the corpus period (2000-12-15 to 2000-12-21), Markmc sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-12-15** | First recorded email in corpus\n- **2000-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/markmc-ctr",
+    "name": "Markmc",
+    "email": "markmc@ctr.com",
+    "primary_affiliation": "companies/ctr"
+  }
+}

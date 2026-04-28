@@ -1,0 +1,14 @@
+{
+  "slug": "people/betty-broadfoot",
+  "type": "person",
+  "title": "Betty Broadfoot",
+  "compiled_truth": "Betty Broadfoot is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-29 to 2001-09-27), Betty Broadfoot sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-29** | First recorded email in corpus\n- **2001-09-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/betty-broadfoot",
+    "name": "Betty Broadfoot",
+    "email": "betty.broadfoot@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

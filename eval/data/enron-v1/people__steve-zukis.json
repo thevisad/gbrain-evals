@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-zukis",
+  "type": "person",
+  "title": "Steve Zukis",
+  "compiled_truth": "Steve Zukis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-31 to 2001-11-30), Steve Zukis sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-07-31** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-zukis",
+    "name": "Steve Zukis",
+    "email": "steve.zukis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

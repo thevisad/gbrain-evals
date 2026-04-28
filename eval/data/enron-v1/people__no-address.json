@@ -1,0 +1,14 @@
+{
+  "slug": "people/no-address",
+  "type": "person",
+  "title": "No Address",
+  "compiled_truth": "No Address is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-09 to 2002-06-21), No Address sent 594 and received 0 emails, totalling 594 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (48), [Elizabeth Sager](people/elizabeth-sager) (21), [M  Presto](people/m-presto) (19), [E  Haedicke](people/e-haedicke) (16), [Na-Incoming](people/na-incoming) (14). Mailbox folders observed: _americas, administrivia, analyst_associate, bankrupt, calendar, compensation_and_benefits.",
+  "timeline": "- **1998-11-09** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/no-address",
+    "name": "No Address",
+    "email": "no.address@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

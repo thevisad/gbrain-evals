@@ -1,0 +1,14 @@
+{
+  "slug": "people/spatti-ensr",
+  "type": "person",
+  "title": "Spatti",
+  "compiled_truth": "Spatti is an external contact at [Ensr](companies/ensr). Over the corpus period (2001-08-22 to 2001-10-15), Spatti sent 18 and received 8 emails, totalling 26 interactions. Top correspondents: [John Shafer](people/john-shafer) (14), [Larry Campbell](people/larry-campbell) (11), [Kevin Hyatt](people/kevin-hyatt) (11), [Eric Gadd](people/eric-gadd) (10), [Doug Cebryk](people/doug-cebryk) (10).",
+  "timeline": "- **2001-08-22** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/spatti-ensr",
+    "name": "Spatti",
+    "email": "spatti@ensr.com",
+    "primary_affiliation": "companies/ensr"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/hmcgee-lehman",
+  "type": "person",
+  "title": "Hmcgee",
+  "compiled_truth": "Hmcgee is an external contact at [Lehman](companies/lehman). Over the corpus period (2000-01-19 to 2000-02-04), Hmcgee sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2000-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hmcgee-lehman",
+    "name": "Hmcgee",
+    "email": "hmcgee@lehman.com",
+    "primary_affiliation": "companies/lehman"
+  }
+}

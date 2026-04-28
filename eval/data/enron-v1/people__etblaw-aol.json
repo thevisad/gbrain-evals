@@ -1,0 +1,14 @@
+{
+  "slug": "people/etblaw-aol",
+  "type": "person",
+  "title": "Etblaw",
+  "compiled_truth": "Etblaw is an external contact at [AOL](companies/aol). Over the corpus period (2001-01-25 to 2001-05-09), Etblaw sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2001-01-25** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/etblaw-aol",
+    "name": "Etblaw",
+    "email": "etblaw@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

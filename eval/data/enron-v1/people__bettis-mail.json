@@ -1,0 +1,14 @@
+{
+  "slug": "people/bettis-mail",
+  "type": "person",
+  "title": "Bettis",
+  "compiled_truth": "Bettis is an external contact at [Mail](companies/mail). Over the corpus period (2001-08-14 to 2001-08-14), Bettis sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bettis-mail",
+    "name": "Bettis",
+    "email": "bettis@mail.nwpp.org",
+    "primary_affiliation": "companies/mail"
+  }
+}

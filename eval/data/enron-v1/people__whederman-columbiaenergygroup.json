@@ -1,0 +1,14 @@
+{
+  "slug": "people/whederman-columbiaenergygroup",
+  "type": "person",
+  "title": "Whederman",
+  "compiled_truth": "Whederman is an external contact at [Columbiaenergygroup](companies/columbiaenergygroup). Over the corpus period (2000-08-23 to 2000-10-27), Whederman sent 5 and received 43 emails, totalling 48 interactions. Top correspondents: [Amosher](people/amosher-appanet) (5), [Hcameron](people/hcameron-uclink) (5), [Lfried](people/lfried-uclink) (5), [Jeff Dasovich](people/jeff-dasovich) (5), [Doornbos](people/doornbos-socrates) (4).",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2000-10-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/whederman-columbiaenergygroup",
+    "name": "Whederman",
+    "email": "whederman@columbiaenergygroup.com",
+    "primary_affiliation": "companies/columbiaenergygroup"
+  }
+}

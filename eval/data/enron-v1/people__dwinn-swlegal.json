@@ -1,0 +1,14 @@
+{
+  "slug": "people/dwinn-swlegal",
+  "type": "person",
+  "title": "Dwinn",
+  "compiled_truth": "Dwinn is an external contact at [Swlegal](companies/swlegal). Over the corpus period (2000-11-21 to 2001-11-27), Dwinn sent 15 and received 11 emails, totalling 26 interactions. Top correspondents: [James Derrick](people/james-derrick) (14), [Jdavidellwanger](people/jdavidellwanger-swlegal) (9), [Phmarti](people/phmarti-lsu) (4), [ Buford](people/buford) (3), [ James](people/james) (3).",
+  "timeline": "- **2000-11-21** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dwinn-swlegal",
+    "name": "Dwinn",
+    "email": "dwinn@swlegal.org",
+    "primary_affiliation": "companies/swlegal"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/longnecker-nicole",
+  "type": "person",
+  "title": "Longnecker Nicole",
+  "compiled_truth": "Longnecker Nicole is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Longnecker Nicole sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/longnecker-nicole",
+    "name": "Longnecker Nicole",
+    "email": "longnecker.nicole@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

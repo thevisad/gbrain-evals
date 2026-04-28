@@ -1,0 +1,14 @@
+{
+  "slug": "people/mog-heu",
+  "type": "person",
+  "title": "Mog Heu",
+  "compiled_truth": "Mog Heu is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-23 to 2002-02-19), Mog Heu sent 5 and received 241 emails, totalling 246 interactions. Top correspondents: [Frank Ermis](people/frank-ermis) (2), [P  South](people/p-south) (2), [Jason Wolfe](people/jason-wolfe) (2), [Susan Rance](people/susan-rance) (1), [Center Dl-Portland](people/center-dl-portland) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-09-23** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mog-heu",
+    "name": "Mog Heu",
+    "email": "mog.heu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

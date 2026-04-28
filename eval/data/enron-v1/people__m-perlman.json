@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-perlman",
+  "type": "person",
+  "title": "M Perlman",
+  "compiled_truth": "M Perlman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-09 to 2001-11-09), M Perlman sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-perlman",
+    "name": "M Perlman",
+    "email": "m.perlman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/joy-wagman",
+  "type": "person",
+  "title": "Joy Wagman",
+  "compiled_truth": "Joy Wagman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-29 to 2001-11-19), Joy Wagman sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-10-29** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joy-wagman",
+    "name": "Joy Wagman",
+    "email": "joy.wagman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

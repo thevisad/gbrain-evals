@@ -1,0 +1,14 @@
+{
+  "slug": "people/alex-lopeznegrete",
+  "type": "person",
+  "title": "Alex",
+  "compiled_truth": "Alex is an external contact at [Lopeznegrete](companies/lopeznegrete). Over the corpus period (2001-06-04 to 2001-11-09), Alex sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alex-lopeznegrete",
+    "name": "Alex",
+    "email": "alex@lopeznegrete.com",
+    "primary_affiliation": "companies/lopeznegrete"
+  }
+}

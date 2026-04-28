@@ -1,0 +1,14 @@
+{
+  "slug": "people/ted-hailu",
+  "type": "person",
+  "title": "Ted Hailu",
+  "compiled_truth": "Ted Hailu is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-16 to 2001-11-26), Ted Hailu sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-11-16** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ted-hailu",
+    "name": "Ted Hailu",
+    "email": "ted.hailu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

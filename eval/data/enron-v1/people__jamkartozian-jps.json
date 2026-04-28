@@ -1,0 +1,14 @@
+{
+  "slug": "people/jamkartozian-jps",
+  "type": "person",
+  "title": "Jamkartozian",
+  "compiled_truth": "Jamkartozian is an external contact at [Jps](companies/jps). Over the corpus period (2000-09-26 to 2001-08-07), Jamkartozian sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-09-26** | First recorded email in corpus\n- **2001-08-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jamkartozian-jps",
+    "name": "Jamkartozian",
+    "email": "jamkartozian@jps.net",
+    "primary_affiliation": "companies/jps"
+  }
+}

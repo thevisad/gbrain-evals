@@ -1,0 +1,36 @@
+{
+  "slug": "threads/test-2002-01",
+  "type": "meeting",
+  "title": "Thread: Test",
+  "compiled_truth": "Email thread: \"Test\". Ran from 2002-01-02 to 2002-02-01 with 12 messages. Participants: [8776519147](people/8776519147-skytel), [Albert Meyers](people/albert-meyers), [Bill Williams](people/bill-williams), [Cdorland](people/cdorland-hotmail), [Chris Dorland](people/chris-dorland), [Cooper Richey](people/cooper-richey), [Craig Dean](people/craig-dean), [Darrell Schoolcraft](people/darrell-schoolcraft).",
+  "timeline": "- **2002-01-02** | Thread begins: test\n- **2002-02-01** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/test-2002-01",
+    "attendees": [
+      "people/8776519147-skytel",
+      "people/albert-meyers",
+      "people/bill-williams",
+      "people/cdorland-hotmail",
+      "people/chris-dorland",
+      "people/cooper-richey",
+      "people/craig-dean",
+      "people/darrell-schoolcraft",
+      "people/geir-solberg",
+      "people/gpw2002-hotmail",
+      "people/j-kaminski",
+      "people/jean-mcfarland",
+      "people/jilld-cnrl",
+      "people/john-anderson",
+      "people/kmpresto-hotmail",
+      "people/m-presto",
+      "people/mark-guzman",
+      "people/michael-mier",
+      "people/ryan-slinger",
+      "people/todd-bland",
+      "people/vkaminski-aol",
+      "people/wtoriello-brookvillestaffing"
+    ],
+    "date": "2002-01-02"
+  }
+}

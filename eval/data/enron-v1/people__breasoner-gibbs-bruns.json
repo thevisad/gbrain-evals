@@ -1,0 +1,14 @@
+{
+  "slug": "people/breasoner-gibbs-bruns",
+  "type": "person",
+  "title": "Breasoner",
+  "compiled_truth": "Breasoner is an external contact at [Gibbs-bruns](companies/gibbs-bruns). Over the corpus period (1980-01-01 to 2001-07-20), Breasoner sent 3 and received 82 emails, totalling 85 interactions. Top correspondents: [Richard B Sanders](people/richard-b-sanders) (3), [Andrew Edison](people/andrew-edison) (1), [Sbishop](people/sbishop-gibbs-bruns) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/breasoner-gibbs-bruns",
+    "name": "Breasoner",
+    "email": "breasoner@gibbs-bruns.com",
+    "primary_affiliation": "companies/gibbs-bruns"
+  }
+}

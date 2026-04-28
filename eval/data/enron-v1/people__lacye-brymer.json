@@ -1,0 +1,14 @@
+{
+  "slug": "people/lacye-brymer",
+  "type": "person",
+  "title": "Lacye Brymer",
+  "compiled_truth": "Lacye Brymer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-19 to 2000-10-24), Lacye Brymer sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-07-19** | First recorded email in corpus\n- **2000-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lacye-brymer",
+    "name": "Lacye Brymer",
+    "email": "lacye.brymer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

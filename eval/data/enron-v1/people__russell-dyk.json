@@ -1,0 +1,14 @@
+{
+  "slug": "people/russell-dyk",
+  "type": "person",
+  "title": "Russell Dyk",
+  "compiled_truth": "Russell Dyk is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-29 to 2001-12-03), Russell Dyk sent 10 and received 135 emails, totalling 145 interactions. Top correspondents: [John Arnold](people/john-arnold) (4), [Caroline Abramo](people/caroline-abramo) (4), [Paul Radous](people/paul-radous) (3), [Sara Shackleton](people/sara-shackleton) (3), [A  Shankman](people/a-shankman) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-06-29** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/russell-dyk",
+    "name": "Russell Dyk",
+    "email": "russell.dyk@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

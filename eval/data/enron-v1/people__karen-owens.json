@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-owens",
+  "type": "person",
+  "title": "Karen Owens",
+  "compiled_truth": "Karen Owens is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-16 to 2001-10-16), Karen Owens sent 2 and received 117 emails, totalling 119 interactions. Top correspondents: [Greg Whalley](people/greg-whalley) (1).",
+  "timeline": "- **1999-08-16** | First recorded email in corpus\n- **2001-10-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-owens",
+    "name": "Karen Owens",
+    "email": "karen.owens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

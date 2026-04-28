@@ -1,0 +1,14 @@
+{
+  "slug": "people/cjrudman-softcom",
+  "type": "person",
+  "title": "Cjrudman",
+  "compiled_truth": "Cjrudman is an external contact at [Softcom](companies/softcom). Over the corpus period (2000-09-01 to 2001-06-06), Cjrudman sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cjrudman-softcom",
+    "name": "Cjrudman",
+    "email": "cjrudman@softcom.net",
+    "primary_affiliation": "companies/softcom"
+  }
+}

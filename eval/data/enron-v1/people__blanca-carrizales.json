@@ -1,0 +1,14 @@
+{
+  "slug": "people/blanca-carrizales",
+  "type": "person",
+  "title": "Blanca Carrizales",
+  "compiled_truth": "Blanca Carrizales is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-14), Blanca Carrizales sent 0 and received 90 emails, totalling 90 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/blanca-carrizales",
+    "name": "Blanca Carrizales",
+    "email": "blanca.carrizales@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

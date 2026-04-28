@@ -1,0 +1,14 @@
+{
+  "slug": "people/vsharp",
+  "type": "person",
+  "title": "Vsharp",
+  "compiled_truth": "Vsharp is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-07-12), Vsharp sent 0 and received 81 emails, totalling 81 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-07-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vsharp",
+    "name": "Vsharp",
+    "email": "vsharp@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

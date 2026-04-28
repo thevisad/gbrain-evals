@@ -1,0 +1,14 @@
+{
+  "slug": "people/rod-martin-agfg",
+  "type": "person",
+  "title": "Rod Martin",
+  "compiled_truth": "Rod Martin is an external contact at [Agfg](companies/agfg). Over the corpus period (2001-06-04 to 2001-11-09), Rod Martin sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rod-martin-agfg",
+    "name": "Rod Martin",
+    "email": "rod_martin@agfg.com",
+    "primary_affiliation": "companies/agfg"
+  }
+}

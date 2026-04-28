@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-cass",
+  "type": "person",
+  "title": "Robert Cass",
+  "compiled_truth": "Robert Cass is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-24 to 2001-06-07), Robert Cass sent 23 and received 241 emails, totalling 264 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (18), [Melba Lozano](people/melba-lozano) (15), [Kevin Meredith](people/kevin-meredith) (13), [Jeff Blumenthal](people/jeff-blumenthal) (9), [Bjorn Hagelmann](people/bjorn-hagelmann) (9).",
+  "timeline": "- **1998-11-24** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-cass",
+    "name": "Robert Cass",
+    "email": "robert.cass@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

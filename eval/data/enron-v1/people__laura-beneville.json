@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-beneville",
+  "type": "person",
+  "title": "Laura Beneville",
+  "compiled_truth": "Laura Beneville is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-20 to 2000-11-09), Laura Beneville sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-02-20** | First recorded email in corpus\n- **2000-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-beneville",
+    "name": "Laura Beneville",
+    "email": "laura.beneville@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

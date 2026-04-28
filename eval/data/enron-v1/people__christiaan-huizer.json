@@ -1,0 +1,14 @@
+{
+  "slug": "people/christiaan-huizer",
+  "type": "person",
+  "title": "Christiaan Huizer",
+  "compiled_truth": "Christiaan Huizer is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Christiaan Huizer sent 0 and received 70 emails, totalling 70 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christiaan-huizer",
+    "name": "Christiaan Huizer",
+    "email": "christiaan.huizer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

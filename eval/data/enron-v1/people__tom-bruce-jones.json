@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-bruce-jones",
+  "type": "person",
+  "title": "Tom Bruce-Jones",
+  "compiled_truth": "Tom Bruce-Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-30 to 2001-11-26), Tom Bruce-Jones sent 0 and received 55 emails, totalling 55 interactions.",
+  "timeline": "- **1999-07-30** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-bruce-jones",
+    "name": "Tom Bruce-Jones",
+    "email": "tom.bruce-jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

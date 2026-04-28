@@ -1,0 +1,14 @@
+{
+  "slug": "people/daren-farmer",
+  "type": "person",
+  "title": "Daren Farmer",
+  "compiled_truth": "Daren Farmer is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-05-23), Daren Farmer sent 1502 and received 2347 emails, totalling 3849 interactions. Top correspondents: [Aimee Lannou](people/aimee-lannou) (140), [Pat Clynes](people/pat-clynes) (122), [Megan Parker](people/megan-parker) (108), [Jackie Young](people/jackie-young) (84), [Tom Acton](people/tom-acton) (82). Mailbox folders observed: _sent_mail, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/daren-farmer",
+    "name": "Daren Farmer",
+    "email": "daren.farmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

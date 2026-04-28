@@ -1,0 +1,14 @@
+{
+  "slug": "people/graul-acninc",
+  "type": "person",
+  "title": "Graul",
+  "compiled_truth": "Graul is an external contact at [Acninc](companies/acninc). Over the corpus period (2000-07-17 to 2000-07-17), Graul sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/graul-acninc",
+    "name": "Graul",
+    "email": "graul@acninc.net",
+    "primary_affiliation": "companies/acninc"
+  }
+}

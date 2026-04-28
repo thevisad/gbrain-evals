@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-fugh",
+  "type": "person",
+  "title": "John Fugh",
+  "compiled_truth": "John Fugh is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-13 to 2001-03-25), John Fugh sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **1999-10-13** | First recorded email in corpus\n- **2001-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-fugh",
+    "name": "John Fugh",
+    "email": "john.fugh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

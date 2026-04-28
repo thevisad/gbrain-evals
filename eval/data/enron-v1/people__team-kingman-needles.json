@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-kingman-needles",
+  "type": "person",
+  "title": "Team Kingman-Needles",
+  "compiled_truth": "Team Kingman-Needles is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-02 to 2002-03-18), Team Kingman-Needles sent 21 and received 51 emails, totalling 72 interactions. Top correspondents: [Rich Jolly](people/rich-jolly) (21), [David Roensch](people/david-roensch) (21), [Larry Campbell](people/larry-campbell) (21), [Louis Soldano](people/louis-soldano) (20), [Team Kingman-Sta1](people/team-kingman-sta1) (19). Mailbox folders observed: inbox, pg_e_pcbs.",
+  "timeline": "- **1999-04-02** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-kingman-needles",
+    "name": "Team Kingman-Needles",
+    "email": "team.kingman-needles@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

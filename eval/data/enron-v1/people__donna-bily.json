@@ -1,0 +1,14 @@
+{
+  "slug": "people/donna-bily",
+  "type": "person",
+  "title": "Donna Bily",
+  "compiled_truth": "Donna Bily is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-18), Donna Bily sent 0 and received 43 emails, totalling 43 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donna-bily",
+    "name": "Donna Bily",
+    "email": "donna.bily@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

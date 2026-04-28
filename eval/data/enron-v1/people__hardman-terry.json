@@ -1,0 +1,14 @@
+{
+  "slug": "people/hardman-terry",
+  "type": "person",
+  "title": "Hardman Terry",
+  "compiled_truth": "Hardman Terry is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-09 to 2002-01-31), Hardman Terry sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2002-01-09** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hardman-terry",
+    "name": "Hardman Terry",
+    "email": "hardman.terry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

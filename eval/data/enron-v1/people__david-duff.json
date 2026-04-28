@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-duff",
+  "type": "person",
+  "title": "David Duff",
+  "compiled_truth": "David Duff is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-13 to 2002-02-22), David Duff sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-06-13** | First recorded email in corpus\n- **2002-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-duff",
+    "name": "David Duff",
+    "email": "david.duff@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

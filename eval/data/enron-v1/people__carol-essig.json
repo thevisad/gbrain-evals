@@ -1,0 +1,14 @@
+{
+  "slug": "people/carol-essig",
+  "type": "person",
+  "title": "Carol Essig",
+  "compiled_truth": "Carol Essig is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-02 to 2001-12-28), Carol Essig sent 1 and received 40 emails, totalling 41 interactions. Top correspondents: [Shonnie Daniel](people/shonnie-daniel) (1), [Gerald Nemec](people/gerald-nemec) (1).",
+  "timeline": "- **2000-05-02** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carol-essig",
+    "name": "Carol Essig",
+    "email": "carol.essig@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

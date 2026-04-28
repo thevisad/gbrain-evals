@@ -1,0 +1,14 @@
+{
+  "slug": "people/lanced-kochind",
+  "type": "person",
+  "title": "Lanced",
+  "compiled_truth": "Lanced is an external contact at [Kochind](companies/kochind). Over the corpus period (1999-12-08 to 2001-04-17), Lanced sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **1999-12-08** | First recorded email in corpus\n- **2001-04-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lanced-kochind",
+    "name": "Lanced",
+    "email": "lanced@kochind.com",
+    "primary_affiliation": "companies/kochind"
+  }
+}

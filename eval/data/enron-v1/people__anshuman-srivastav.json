@@ -1,0 +1,14 @@
+{
+  "slug": "people/anshuman-srivastav",
+  "type": "person",
+  "title": "Anshuman Srivastav",
+  "compiled_truth": "Anshuman Srivastav is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-28 to 2001-05-31), Anshuman Srivastav sent 1 and received 11 emails, totalling 12 interactions. Top correspondents: [Mary Solmonson](people/mary-solmonson) (1), [Sally Beck](people/sally-beck) (1), [Scott Earnest](people/scott-earnest) (1).",
+  "timeline": "- **1999-12-28** | First recorded email in corpus\n- **2001-05-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anshuman-srivastav",
+    "name": "Anshuman Srivastav",
+    "email": "anshuman.srivastav@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

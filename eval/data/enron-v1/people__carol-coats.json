@@ -1,0 +1,14 @@
+{
+  "slug": "people/carol-coats",
+  "type": "person",
+  "title": "Carol Coats",
+  "compiled_truth": "Carol Coats is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-09 to 2001-11-19), Carol Coats sent 9 and received 24 emails, totalling 33 interactions. Top correspondents: [Mark Frevert](people/mark-frevert) (6), [Greg Whalley](people/greg-whalley) (6), [John Lavorato](people/john-lavorato) (6), [Mike McConnell](people/mike-mcconnell) (6), [Philippe Bibi](people/philippe-bibi) (6). Mailbox folders observed: _americas, discussion_threads, sent_items.",
+  "timeline": "- **2000-03-09** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carol-coats",
+    "name": "Carol Coats",
+    "email": "carol.coats@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

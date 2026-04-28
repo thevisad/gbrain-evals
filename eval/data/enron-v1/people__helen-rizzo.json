@@ -1,0 +1,14 @@
+{
+  "slug": "people/helen-rizzo",
+  "type": "person",
+  "title": "Helen Rizzo",
+  "compiled_truth": "Helen Rizzo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2001-12-03), Helen Rizzo sent 0 and received 117 emails, totalling 117 interactions.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/helen-rizzo",
+    "name": "Helen Rizzo",
+    "email": "helen.rizzo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

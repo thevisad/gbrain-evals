@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-carrick",
+  "type": "person",
+  "title": "George Carrick",
+  "compiled_truth": "George Carrick is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-16 to 2000-12-12), George Carrick sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-02-16** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-carrick",
+    "name": "George Carrick",
+    "email": "george.carrick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

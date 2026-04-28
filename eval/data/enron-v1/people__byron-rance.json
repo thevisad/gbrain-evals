@@ -1,0 +1,14 @@
+{
+  "slug": "people/byron-rance",
+  "type": "person",
+  "title": "Byron Rance",
+  "compiled_truth": "Byron Rance is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-03-05), Byron Rance sent 2 and received 47 emails, totalling 49 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (2), [Dconway](people/dconway-altorfer) (1), [James Pfeffer](people/james-pfeffer) (1), [David Roensch](people/david-roensch) (1), [Rich Jolly](people/rich-jolly) (1).",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-03-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/byron-rance",
+    "name": "Byron Rance",
+    "email": "byron.rance@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

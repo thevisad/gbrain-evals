@@ -1,0 +1,14 @@
+{
+  "slug": "people/mmilner",
+  "type": "person",
+  "title": "Mmilner",
+  "compiled_truth": "Mmilner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-29 to 2001-04-02), Mmilner sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2000-11-29** | First recorded email in corpus\n- **2001-04-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mmilner",
+    "name": "Mmilner",
+    "email": "mmilner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cwester-duke-energy",
+  "type": "person",
+  "title": "Cwester",
+  "compiled_truth": "Cwester is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-02-04 to 2001-03-29), Cwester sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **2000-02-04** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cwester-duke-energy",
+    "name": "Cwester",
+    "email": "cwester@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

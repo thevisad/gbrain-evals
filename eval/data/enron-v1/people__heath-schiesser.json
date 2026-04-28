@@ -1,0 +1,14 @@
+{
+  "slug": "people/heath-schiesser",
+  "type": "person",
+  "title": "Heath Schiesser",
+  "compiled_truth": "Heath Schiesser is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-02 to 2001-11-16), Heath Schiesser sent 10 and received 11 emails, totalling 21 interactions. Top correspondents: [James Derrick](people/james-derrick) (4), [Greg Whalley](people/greg-whalley) (3), [E  Haedicke](people/e-haedicke) (1), [Kenneth Lay](people/kenneth-lay) (1), [S  Shively](people/s-shively) (1). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **2001-08-02** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heath-schiesser",
+    "name": "Heath Schiesser",
+    "email": "heath.schiesser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

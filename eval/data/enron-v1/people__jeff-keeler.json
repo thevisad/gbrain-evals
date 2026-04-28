@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-keeler",
+  "type": "person",
+  "title": "Jeff Keeler",
+  "compiled_truth": "Jeff Keeler is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-17 to 2001-11-30), Jeff Keeler sent 5 and received 79 emails, totalling 84 interactions. Top correspondents: [Lisa Jacobson](people/lisa-jacobson) (4), [Marc Phillips](people/marc-phillips) (4), [Mary Schoen](people/mary-schoen) (4), [Susan Worthen](people/susan-worthen) (4), [Gus Eghneim](people/gus-eghneim) (3). Mailbox folders observed: deleted_items, enviromental, inbox.",
+  "timeline": "- **2001-08-17** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-keeler",
+    "name": "Jeff Keeler",
+    "email": "jeff.keeler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

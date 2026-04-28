@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-luong",
+  "type": "person",
+  "title": "Steven Luong",
+  "compiled_truth": "Steven Luong is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-07 to 2002-06-04), Steven Luong sent 9 and received 62 emails, totalling 71 interactions. Top correspondents: [Lisa Gang](people/lisa-gang) (3), [Sean Crandall](people/sean-crandall) (2), [W  White](people/w-white) (2), [Eric Irani](people/eric-irani) (1), [Doug Sewell](people/doug-sewell) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-07-07** | First recorded email in corpus\n- **2002-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-luong",
+    "name": "Steven Luong",
+    "email": "steven.luong@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

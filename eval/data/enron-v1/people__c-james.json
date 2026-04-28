@@ -1,0 +1,14 @@
+{
+  "slug": "people/c-james",
+  "type": "person",
+  "title": "C  James",
+  "compiled_truth": "C  James is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-26 to 2002-01-14), C  James sent 12 and received 24 emails, totalling 36 interactions. Top correspondents: [M  Love](people/m-love) (9), [Darla Saucier](people/darla-saucier) (4), [Sherry Anastas](people/sherry-anastas) (4), [Lisa Valderrama](people/lisa-valderrama) (3), [M  Tholt](people/m-tholt) (3). Mailbox folders observed: deleted_items, inbox, janie.",
+  "timeline": "- **2001-07-26** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/c-james",
+    "name": "C  James",
+    "email": "c..james@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

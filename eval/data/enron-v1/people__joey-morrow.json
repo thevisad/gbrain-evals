@@ -1,0 +1,14 @@
+{
+  "slug": "people/joey-morrow",
+  "type": "person",
+  "title": "Joey Morrow",
+  "compiled_truth": "Joey Morrow is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-30 to 2002-05-06), Joey Morrow sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-08-30** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joey-morrow",
+    "name": "Joey Morrow",
+    "email": "joey.morrow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

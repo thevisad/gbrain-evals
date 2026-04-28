@@ -1,0 +1,14 @@
+{
+  "slug": "people/georganne-hodges",
+  "type": "person",
+  "title": "Georganne Hodges",
+  "compiled_truth": "Georganne Hodges is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2002-02-13), Georganne Hodges sent 10 and received 104 emails, totalling 114 interactions. Top correspondents: [Wes Colwell](people/wes-colwell) (8), [Louise Kitchen](people/louise-kitchen) (5), [All-Hou Dl-Bus](people/all-hou-dl-bus) (2), [Estalee Russi](people/estalee-russi) (1), [Admin-Hou Dl-Bus](people/admin-hou-dl-bus) (1). Mailbox folders observed: _americas, cya, deleted_items, inbox, ubswenergy_com, vargas_becton_lamb.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/georganne-hodges",
+    "name": "Georganne Hodges",
+    "email": "georganne.hodges@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

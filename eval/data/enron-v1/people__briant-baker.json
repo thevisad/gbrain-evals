@@ -1,0 +1,14 @@
+{
+  "slug": "people/briant-baker",
+  "type": "person",
+  "title": "Briant Baker",
+  "compiled_truth": "Briant Baker is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-06-21), Briant Baker sent 4 and received 158 emails, totalling 162 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (4). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/briant-baker",
+    "name": "Briant Baker",
+    "email": "briant.baker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

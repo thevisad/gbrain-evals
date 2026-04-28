@@ -1,0 +1,43 @@
+{
+  "slug": "threads/addresses-2000-11",
+  "type": "meeting",
+  "title": "Thread: Addresses",
+  "compiled_truth": "Email thread: \"Addresses\". Ran from 2000-11-30 to 2000-12-13 with 4 messages. Participants: [Ahoung](people/ahoung-houston), [Ben Nguyen](people/ben-nguyen), [Bob Hall](people/bob-hall), [Brian Ripley](people/brian-ripley), [C Leahy](people/c-leahy-mail), [Carlos Rodriguez](people/carlos-rodriguez), [Chris Schomer](people/chris-schomer), [Dave Nommensen](people/dave-nommensen).",
+  "timeline": "- **2000-11-30** | Thread begins: addresses\n- **2000-12-13** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/addresses-2000-11",
+    "attendees": [
+      "people/ahoung-houston",
+      "people/ben-nguyen",
+      "people/bob-hall",
+      "people/brian-ripley",
+      "people/c-leahy-mail",
+      "people/carlos-rodriguez",
+      "people/chris-schomer",
+      "people/dave-nommensen",
+      "people/edrington-uthscsa",
+      "people/edward-terry",
+      "people/fletcher-sturm",
+      "people/george-smith",
+      "people/jeff-johnson",
+      "people/jswaney-houston",
+      "people/katherine-kelly",
+      "people/kenneth-harmon",
+      "people/lsmith-houston",
+      "people/matt-pena",
+      "people/milind-patil",
+      "people/patti-sullivan",
+      "people/ramesh-rao",
+      "people/randall-gay",
+      "people/regan-smith",
+      "people/rita-wynne",
+      "people/sscott5",
+      "people/stephanie-s-williams-us",
+      "people/tamara-black",
+      "people/tricia-spence",
+      "people/victor-lamadrid"
+    ],
+    "date": "2000-11-30"
+  }
+}

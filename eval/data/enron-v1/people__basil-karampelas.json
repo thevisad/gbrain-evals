@@ -1,0 +1,14 @@
+{
+  "slug": "people/basil-karampelas",
+  "type": "person",
+  "title": "Basil Karampelas",
+  "compiled_truth": "Basil Karampelas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-19 to 2001-10-12), Basil Karampelas sent 2 and received 11 emails, totalling 13 interactions. Top correspondents: [John Nowlan](people/john-nowlan) (1), [Mike McConnell](people/mike-mcconnell) (1), [Greg Whalley](people/greg-whalley) (1).",
+  "timeline": "- **2000-09-19** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/basil-karampelas",
+    "name": "Basil Karampelas",
+    "email": "basil.karampelas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

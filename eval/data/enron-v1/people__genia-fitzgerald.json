@@ -1,0 +1,14 @@
+{
+  "slug": "people/genia-fitzgerald",
+  "type": "person",
+  "title": "Genia Fitzgerald",
+  "compiled_truth": "Genia Fitzgerald is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2002-03-08), Genia Fitzgerald sent 57 and received 1019 emails, totalling 1076 interactions. Top correspondents: [Tana Jones](people/tana-jones) (22), [Marie Heard](people/marie-heard) (13), [Elizabeth Sager](people/elizabeth-sager) (11), [Carol Clair](people/carol-clair) (10), [Rhonda Denton](people/rhonda-denton) (8). Mailbox folders observed: deleted_items, elizabeth_sager, inbox, yazoo_city.",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/genia-fitzgerald",
+    "name": "Genia Fitzgerald",
+    "email": "genia.fitzgerald@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

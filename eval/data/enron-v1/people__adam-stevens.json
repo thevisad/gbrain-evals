@@ -1,0 +1,14 @@
+{
+  "slug": "people/adam-stevens",
+  "type": "person",
+  "title": "Adam Stevens",
+  "compiled_truth": "Adam Stevens is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2002-01-24), Adam Stevens sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adam-stevens",
+    "name": "Adam Stevens",
+    "email": "adam.stevens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "meetings/board-meeting-2001-06",
+  "type": "meeting",
+  "title": "Meeting: Board Meeting",
+  "compiled_truth": "Meeting: \"Board Meeting\". Occurred 2001-06-01 with 1 related emails. Participants included: [Allan Keel](people/allan-keel), [C Thompson](people/c-thompson), [Craig Fox](people/craig-fox), [Deborah Edison](people/deborah-edison), [Denys Watson](people/denys-watson), [Greg Whalley](people/greg-whalley), [Jesus Melendrez](people/jesus-melendrez), [Karen Heathman](people/karen-heathman)....",
+  "timeline": "- **2001-06-01** | Meeting: board meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/board-meeting-2001-06",
+    "attendees": [
+      "people/allan-keel",
+      "people/c-thompson",
+      "people/craig-fox",
+      "people/deborah-edison",
+      "people/denys-watson",
+      "people/greg-whalley",
+      "people/jesus-melendrez",
+      "people/karen-heathman",
+      "people/liz-taylor",
+      "people/mark-haedicke",
+      "people/pat-jefferson",
+      "people/rick-buy",
+      "people/scott-josey",
+      "people/teresa-bushman",
+      "people/tim-proffitt"
+    ],
+    "date": "2001-06-01"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-jones",
+  "type": "person",
+  "title": "Robert Jones",
+  "compiled_truth": "Robert Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2002-02-22), Robert Jones sent 5 and received 184 emails, totalling 189 interactions. Top correspondents: [Philippe Bibi](people/philippe-bibi) (2), [Greg Piper](people/greg-piper) (2), [Andy Zipper](people/andy-zipper) (2), [Bill Brown](people/bill-brown) (2), [Thomas Gros](people/thomas-gros) (2). Mailbox folders observed: _americas, prc.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2002-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-jones",
+    "name": "Robert Jones",
+    "email": "robert.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

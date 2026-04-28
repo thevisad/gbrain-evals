@@ -1,0 +1,14 @@
+{
+  "slug": "people/bmarcy-sppc",
+  "type": "person",
+  "title": "Bmarcy",
+  "compiled_truth": "Bmarcy is an external contact at [Sppc](companies/sppc). Over the corpus period (2001-03-21 to 2001-04-26), Bmarcy sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-21** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bmarcy-sppc",
+    "name": "Bmarcy",
+    "email": "bmarcy@sppc.com",
+    "primary_affiliation": "companies/sppc"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-becker",
+  "type": "person",
+  "title": "John Becker",
+  "compiled_truth": "John Becker is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-05-23), John Becker sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-becker",
+    "name": "John Becker",
+    "email": "john.becker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

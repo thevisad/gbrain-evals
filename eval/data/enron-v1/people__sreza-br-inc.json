@@ -1,0 +1,14 @@
+{
+  "slug": "people/sreza-br-inc",
+  "type": "person",
+  "title": "Sreza",
+  "compiled_truth": "Sreza is an external contact at [Br-inc](companies/br-inc). Over the corpus period (2000-06-13 to 2001-08-16), Sreza sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-13** | First recorded email in corpus\n- **2001-08-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sreza-br-inc",
+    "name": "Sreza",
+    "email": "sreza@br-inc.com",
+    "primary_affiliation": "companies/br-inc"
+  }
+}

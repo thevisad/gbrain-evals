@@ -1,0 +1,14 @@
+{
+  "slug": "people/juan-cabrales",
+  "type": "person",
+  "title": "Juan Cabrales",
+  "compiled_truth": "Juan Cabrales is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-09 to 2001-10-12), Juan Cabrales sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/juan-cabrales",
+    "name": "Juan Cabrales",
+    "email": "juan.cabrales@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

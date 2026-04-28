@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-siess",
+  "type": "person",
+  "title": "Kathy Siess",
+  "compiled_truth": "Kathy Siess is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-05-06), Kathy Siess sent 7 and received 21 emails, totalling 28 interactions. Top correspondents: [Bonnie White](people/bonnie-white) (7), [B  Sanders](people/b-sanders) (6), [R  Guinn](people/r-guinn) (6), [Robert Vote](people/robert-vote) (3), [Jim Armogida](people/jim-armogida) (3). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-siess",
+    "name": "Kathy Siess",
+    "email": "kathy.siess@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

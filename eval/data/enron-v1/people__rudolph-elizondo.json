@@ -1,0 +1,14 @@
+{
+  "slug": "people/rudolph-elizondo",
+  "type": "person",
+  "title": "Rudolph Elizondo",
+  "compiled_truth": "Rudolph Elizondo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-10-26), Rudolph Elizondo sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rudolph-elizondo",
+    "name": "Rudolph Elizondo",
+    "email": "rudolph.elizondo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

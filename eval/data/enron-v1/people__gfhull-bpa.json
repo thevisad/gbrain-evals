@@ -1,0 +1,14 @@
+{
+  "slug": "people/gfhull-bpa",
+  "type": "person",
+  "title": "Gfhull",
+  "compiled_truth": "Gfhull is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2000-07-08 to 2001-04-26), Gfhull sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-07-08** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gfhull-bpa",
+    "name": "Gfhull",
+    "email": "gfhull@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

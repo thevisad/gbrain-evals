@@ -1,0 +1,14 @@
+{
+  "slug": "people/gnemec",
+  "type": "person",
+  "title": "Gnemec",
+  "compiled_truth": "Gnemec is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-12-30), Gnemec sent 0 and received 63 emails, totalling 63 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-12-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gnemec",
+    "name": "Gnemec",
+    "email": "gnemec@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

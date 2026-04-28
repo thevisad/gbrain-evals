@@ -1,0 +1,14 @@
+{
+  "slug": "people/bbuchynsky-aol",
+  "type": "person",
+  "title": "Bbuchynsky",
+  "compiled_truth": "Bbuchynsky is an external contact at [AOL](companies/aol). Over the corpus period (2000-09-01 to 2001-03-29), Bbuchynsky sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bbuchynsky-aol",
+    "name": "Bbuchynsky",
+    "email": "bbuchynsky@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

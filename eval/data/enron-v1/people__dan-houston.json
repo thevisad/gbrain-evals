@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-houston",
+  "type": "person",
+  "title": "Dan Houston",
+  "compiled_truth": "Dan Houston is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-02 to 2000-12-07), Dan Houston sent 0 and received 46 emails, totalling 46 interactions.",
+  "timeline": "- **2000-05-02** | First recorded email in corpus\n- **2000-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-houston",
+    "name": "Dan Houston",
+    "email": "dan.houston@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

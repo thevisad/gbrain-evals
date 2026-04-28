@@ -1,0 +1,14 @@
+{
+  "slug": "people/recipients",
+  "type": "person",
+  "title": "Recipients",
+  "compiled_truth": "Recipients is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-08 to 2001-11-27), Recipients sent 0 and received 56 emails, totalling 56 interactions.",
+  "timeline": "- **2000-03-08** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/recipients",
+    "name": "Recipients",
+    "email": "recipients@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

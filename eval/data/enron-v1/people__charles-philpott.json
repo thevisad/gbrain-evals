@@ -1,0 +1,14 @@
+{
+  "slug": "people/charles-philpott",
+  "type": "person",
+  "title": "Charles Philpott",
+  "compiled_truth": "Charles Philpott is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-25 to 2002-05-06), Charles Philpott sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-09-25** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charles-philpott",
+    "name": "Charles Philpott",
+    "email": "charles.philpott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

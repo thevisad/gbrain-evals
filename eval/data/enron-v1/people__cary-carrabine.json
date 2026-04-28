@@ -1,0 +1,14 @@
+{
+  "slug": "people/cary-carrabine",
+  "type": "person",
+  "title": "Cary Carrabine",
+  "compiled_truth": "Cary Carrabine is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-07-16), Cary Carrabine sent 7 and received 272 emails, totalling 279 interactions. Top correspondents: [Laura Luce](people/laura-luce) (7), [Gregg Penman](people/gregg-penman) (5), [Richard Tomaski](people/richard-tomaski) (4), [Hunter Shively](people/hunter-shively) (4), [S  Shively](people/s-shively) (3). Mailbox folders observed: deleted_items, old_messages.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cary-carrabine",
+    "name": "Cary Carrabine",
+    "email": "cary.carrabine@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

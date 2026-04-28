@@ -1,0 +1,14 @@
+{
+  "slug": "people/pete-ashland",
+  "type": "person",
+  "title": "Pete",
+  "compiled_truth": "Pete is an external contact at [Ashland](companies/ashland). Over the corpus period (2001-02-20 to 2001-04-27), Pete sent 0 and received 66 emails, totalling 66 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pete-ashland",
+    "name": "Pete",
+    "email": "pete@ashland.or.us",
+    "primary_affiliation": "companies/ashland"
+  }
+}

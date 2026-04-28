@@ -1,0 +1,14 @@
+{
+  "slug": "people/janet-dtahou",
+  "type": "person",
+  "title": "Janet",
+  "compiled_truth": "Janet is an external contact at [Dtahou](companies/dtahou). Over the corpus period (2001-10-17 to 2002-01-31), Janet sent 8 and received 2 emails, totalling 10 interactions. Top correspondents: [L  Mims](people/l-mims) (6), [Gary Bryan](people/gary-bryan) (2), [Brian Redmond](people/brian-redmond) (2), [Jim Coffey](people/jim-coffey) (2), [T  Hodge](people/t-hodge) (2).",
+  "timeline": "- **2001-10-17** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janet-dtahou",
+    "name": "Janet",
+    "email": "janet@dtahou.com",
+    "primary_affiliation": "companies/dtahou"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/aguila-gore-patricia",
+  "type": "person",
+  "title": "Aguila-Gore Patricia",
+  "compiled_truth": "Aguila-Gore Patricia is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-04 to 2002-02-19), Aguila-Gore Patricia sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2002-01-04** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aguila-gore-patricia",
+    "name": "Aguila-Gore Patricia",
+    "email": "aguila-gore.patricia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

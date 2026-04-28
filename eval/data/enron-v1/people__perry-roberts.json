@@ -1,0 +1,14 @@
+{
+  "slug": "people/perry-roberts",
+  "type": "person",
+  "title": "Perry Roberts",
+  "compiled_truth": "Perry Roberts is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-01), Perry Roberts sent 2 and received 28 emails, totalling 30 interactions. Top correspondents: [Eric Gillaspie](people/eric-gillaspie) (2), [Gerald Nemec](people/gerald-nemec) (2), [Rwoodall](people/rwoodall-danielind) (1).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/perry-roberts",
+    "name": "Perry Roberts",
+    "email": "perry.roberts@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

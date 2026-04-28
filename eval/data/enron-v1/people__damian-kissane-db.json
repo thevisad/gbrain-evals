@@ -1,0 +1,14 @@
+{
+  "slug": "people/damian-kissane-db",
+  "type": "person",
+  "title": "Damian Kissane",
+  "compiled_truth": "Damian Kissane is an external contact at [Db](companies/db). Over the corpus period (2000-05-04 to 2001-06-11), Damian Kissane sent 1 and received 42 emails, totalling 43 interactions. Top correspondents: [Mcunningham](people/mcunningham-isda) (1), [Apapesch](people/apapesch-isda) (1), [Board](people/board-isda) (1), [Cirens](people/cirens-isda-eur) (1), [Esebton](people/esebton-isda-eur) (1).",
+  "timeline": "- **2000-05-04** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/damian-kissane-db",
+    "name": "Damian Kissane",
+    "email": "damian.kissane@db.com",
+    "primary_affiliation": "companies/db"
+  }
+}

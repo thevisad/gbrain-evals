@@ -1,0 +1,14 @@
+{
+  "slug": "people/d-powell",
+  "type": "person",
+  "title": "D  Powell",
+  "compiled_truth": "D  Powell is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-16 to 2002-05-13), D  Powell sent 0 and received 146 emails, totalling 146 interactions.",
+  "timeline": "- **2001-05-16** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d-powell",
+    "name": "D  Powell",
+    "email": "d..powell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

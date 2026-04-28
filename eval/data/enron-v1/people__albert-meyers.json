@@ -1,0 +1,14 @@
+{
+  "slug": "people/albert-meyers",
+  "type": "person",
+  "title": "Albert Meyers",
+  "compiled_truth": "Albert Meyers is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-19 to 2002-03-14), Albert Meyers sent 30 and received 2022 emails, totalling 2052 interactions. Top correspondents: [Bill Williams](people/bill-williams) (11), [Shift Dl-Portland](people/shift-dl-portland) (4), [Mgmt Dl-Portland](people/mgmt-dl-portland) (3), [Thomas Rosendahl](people/thomas-rosendahl-ubspainewebber) (3), [Craig Dean](people/craig-dean) (2). Mailbox folders observed: deleted_items, inbox, sent_items.",
+  "timeline": "- **2001-11-19** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/albert-meyers",
+    "name": "Albert Meyers",
+    "email": "albert.meyers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

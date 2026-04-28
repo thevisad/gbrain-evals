@@ -1,0 +1,14 @@
+{
+  "slug": "people/vanessa-bob",
+  "type": "person",
+  "title": "Vanessa Bob",
+  "compiled_truth": "Vanessa Bob is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-10-25), Vanessa Bob sent 7 and received 44 emails, totalling 51 interactions. Top correspondents: [Kathy Mcmahon](people/kathy-mcmahon) (4), [Janet Dietrich](people/janet-dietrich) (4), [Louise Kitchen](people/louise-kitchen) (4), [Paula Rieker](people/paula-rieker) (4), [Kay Chapman](people/kay-chapman) (4). Mailbox folders observed: _americas, misc.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vanessa-bob",
+    "name": "Vanessa Bob",
+    "email": "vanessa.bob@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

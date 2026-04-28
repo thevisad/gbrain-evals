@@ -1,0 +1,14 @@
+{
+  "slug": "people/claire-harvey",
+  "type": "person",
+  "title": "Claire Harvey",
+  "compiled_truth": "Claire Harvey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-22 to 2001-11-08), Claire Harvey sent 1 and received 16 emails, totalling 17 interactions. Top correspondents: [Michelle Akers](people/michelle-akers) (1), [C  Anderson](people/c-anderson) (1), [Adam Bayer](people/adam-bayer) (1), [Christina Benkert](people/christina-benkert) (1), [Andrew Bermack](people/andrew-bermack) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-22** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/claire-harvey",
+    "name": "Claire Harvey",
+    "email": "claire.harvey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

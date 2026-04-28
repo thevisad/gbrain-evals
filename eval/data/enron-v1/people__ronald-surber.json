@@ -1,0 +1,14 @@
+{
+  "slug": "people/ronald-surber",
+  "type": "person",
+  "title": "Ronald Surber",
+  "compiled_truth": "Ronald Surber is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2001-02-06), Ronald Surber sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ronald-surber",
+    "name": "Ronald Surber",
+    "email": "ronald.surber@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

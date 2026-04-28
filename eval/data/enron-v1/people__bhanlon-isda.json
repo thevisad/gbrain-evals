@@ -1,0 +1,14 @@
+{
+  "slug": "people/bhanlon-isda",
+  "type": "person",
+  "title": "Bhanlon",
+  "compiled_truth": "Bhanlon is an external contact at [Isda](companies/isda). Over the corpus period (1999-08-12 to 2001-10-30), Bhanlon sent 17 and received 4 emails, totalling 21 interactions. Top correspondents: [Rpickel](people/rpickel-isda) (7), [Ksumme](people/ksumme-isda) (5), [Joseph Carrico](people/joseph-carrico-ib) (4), [Lewis David](people/lewis-david-jpmorgan) (4), [Usregcomm](people/usregcomm-isda) (4).",
+  "timeline": "- **1999-08-12** | First recorded email in corpus\n- **2001-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bhanlon-isda",
+    "name": "Bhanlon",
+    "email": "bhanlon@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

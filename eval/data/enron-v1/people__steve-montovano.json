@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-montovano",
+  "type": "person",
+  "title": "Steve Montovano",
+  "compiled_truth": "Steve Montovano is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-28 to 2002-02-06), Steve Montovano sent 37 and received 683 emails, totalling 720 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (29), [D  Steffes](people/d-steffes) (10), [Harry Kingerski](people/harry-kingerski) (4), [Jeff Dasovich](people/jeff-dasovich) (3), [Janine Migden](people/janine-migden) (3). Mailbox folders observed: 2001_budget__cost_cutting, 2001_objectives, 2001_prc__midyear, 2002_budget, compliments, deleted_items.",
+  "timeline": "- **1999-10-28** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-montovano",
+    "name": "Steve Montovano",
+    "email": "steve.montovano@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

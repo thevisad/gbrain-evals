@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-rathvon",
+  "type": "person",
+  "title": "Richard Rathvon",
+  "compiled_truth": "Richard Rathvon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-21 to 2001-11-19), Richard Rathvon sent 1 and received 15 emails, totalling 16 interactions. Top correspondents: [Randall Gay](people/randall-gay) (1).",
+  "timeline": "- **2000-03-21** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-rathvon",
+    "name": "Richard Rathvon",
+    "email": "richard.rathvon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

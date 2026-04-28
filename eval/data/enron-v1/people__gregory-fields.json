@@ -1,0 +1,14 @@
+{
+  "slug": "people/gregory-fields",
+  "type": "person",
+  "title": "Gregory Fields",
+  "compiled_truth": "Gregory Fields is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-13 to 2001-11-26), Gregory Fields sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-08-13** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gregory-fields",
+    "name": "Gregory Fields",
+    "email": "gregory.fields@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

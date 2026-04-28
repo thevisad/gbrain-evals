@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-wood",
+  "type": "person",
+  "title": "George Wood",
+  "compiled_truth": "George Wood is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-17 to 2002-02-28), George Wood sent 8 and received 283 emails, totalling 291 interactions. Top correspondents: [Rivest](people/rivest-gmpvt) (3), [Benjamin Rogers](people/benjamin-rogers) (3), [J  Broderick](people/j-broderick) (2), [Dana Davis](people/dana-davis) (1), [Harry Arora](people/harry-arora) (1). Mailbox folders observed: _americas, deleted_items, enron_power, inbox, trading_info.",
+  "timeline": "- **2000-08-17** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-wood",
+    "name": "George Wood",
+    "email": "george.wood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

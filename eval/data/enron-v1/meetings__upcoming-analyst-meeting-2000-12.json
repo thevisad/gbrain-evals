@@ -1,0 +1,26 @@
+{
+  "slug": "meetings/upcoming-analyst-meeting-2000-12",
+  "type": "meeting",
+  "title": "Meeting: Upcoming Analyst Meeting",
+  "compiled_truth": "Meeting: \"Upcoming Analyst Meeting\". Occurred 2000-12-28 through 2000-12-28 with 4 related emails. Participants included: [Brent Price](people/brent-price), [Daniel Reck](people/daniel-reck), [Eric Gonzales](people/eric-gonzales), [Gary Hickerson](people/gary-hickerson), [George Mcclellan](people/george-mcclellan), [Jeffrey Shankman](people/jeffrey-shankman), [Jere Overdyke](people/jere-overdyke), [John Nowlan](people/john-nowlan)....",
+  "timeline": "- **2000-12-28** | Meeting: upcoming analyst meeting\n- **2000-12-28** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/upcoming-analyst-meeting-2000-12",
+    "attendees": [
+      "people/brent-price",
+      "people/daniel-reck",
+      "people/eric-gonzales",
+      "people/gary-hickerson",
+      "people/george-mcclellan",
+      "people/jeffrey-shankman",
+      "people/jere-overdyke",
+      "people/john-nowlan",
+      "people/larry-lawyer",
+      "people/mark-tawney",
+      "people/mike-mcconnell",
+      "people/rick-bergsieker"
+    ],
+    "date": "2000-12-28"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/homan-amiry",
+  "type": "person",
+  "title": "Homan Amiry",
+  "compiled_truth": "Homan Amiry is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2002-01-10), Homan Amiry sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/homan-amiry",
+    "name": "Homan Amiry",
+    "email": "homan.amiry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

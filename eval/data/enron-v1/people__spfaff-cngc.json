@@ -1,0 +1,14 @@
+{
+  "slug": "people/spfaff-cngc",
+  "type": "person",
+  "title": "Spfaff",
+  "compiled_truth": "Spfaff is an external contact at [Cngc](companies/cngc). Over the corpus period (2000-10-27 to 2002-02-05), Spfaff sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [M  Scott](people/m-scott) (1), [Pgrable](people/pgrable-cngc) (1).",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/spfaff-cngc",
+    "name": "Spfaff",
+    "email": "spfaff@cngc.com",
+    "primary_affiliation": "companies/cngc"
+  }
+}

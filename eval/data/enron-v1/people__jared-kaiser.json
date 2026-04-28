@@ -1,0 +1,14 @@
+{
+  "slug": "people/jared-kaiser",
+  "type": "person",
+  "title": "Jared Kaiser",
+  "compiled_truth": "Jared Kaiser is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-30 to 2002-02-28), Jared Kaiser sent 14 and received 286 emails, totalling 300 interactions. Top correspondents: [Scott Neal](people/scott-neal) (6), [Gerald Nemec](people/gerald-nemec) (4), [Mary Ogden](people/mary-ogden) (3), [Kam Keiser](people/kam-keiser) (2), [Sandra Brawner](people/sandra-brawner) (2). Mailbox folders observed: deleted_items, inbox, notes.",
+  "timeline": "- **1999-12-30** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jared-kaiser",
+    "name": "Jared Kaiser",
+    "email": "jared.kaiser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

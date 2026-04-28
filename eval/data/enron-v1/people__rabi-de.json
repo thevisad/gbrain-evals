@@ -1,0 +1,14 @@
+{
+  "slug": "people/rabi-de",
+  "type": "person",
+  "title": "Rabi De",
+  "compiled_truth": "Rabi De is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-01 to 2002-01-15), Rabi De sent 4 and received 96 emails, totalling 100 interactions. Top correspondents: [Tanya Tamarchenko](people/tanya-tamarchenko) (3), [Vince Kaminski](people/vince-kaminski) (2), [J Kaminski](people/j-kaminski) (2), [Martin O'Leary](people/martin-o-leary) (1), [Michael Tribolet](people/michael-tribolet) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rabi-de",
+    "name": "Rabi De",
+    "email": "rabi.de@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

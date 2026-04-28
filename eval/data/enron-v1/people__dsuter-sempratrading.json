@@ -1,0 +1,14 @@
+{
+  "slug": "people/dsuter-sempratrading",
+  "type": "person",
+  "title": "Dsuter",
+  "compiled_truth": "Dsuter is an external contact at [Sempratrading](companies/sempratrading). Over the corpus period (2000-10-30 to 2001-04-26), Dsuter sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dsuter-sempratrading",
+    "name": "Dsuter",
+    "email": "dsuter@sempratrading.com",
+    "primary_affiliation": "companies/sempratrading"
+  }
+}

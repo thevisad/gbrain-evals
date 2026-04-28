@@ -1,0 +1,14 @@
+{
+  "slug": "people/brownsfuel-mindspring",
+  "type": "person",
+  "title": "Brownsfuel",
+  "compiled_truth": "Brownsfuel is an external contact at [Mindspring](companies/mindspring). Over the corpus period (2001-05-03 to 2001-09-11), Brownsfuel sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-05-03** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brownsfuel-mindspring",
+    "name": "Brownsfuel",
+    "email": "brownsfuel@mindspring.com",
+    "primary_affiliation": "companies/mindspring"
+  }
+}

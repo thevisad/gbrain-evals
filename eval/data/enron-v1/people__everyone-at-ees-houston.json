@@ -1,0 +1,14 @@
+{
+  "slug": "people/everyone-at-ees-houston",
+  "type": "person",
+  "title": "Everyone At Ees Houston",
+  "compiled_truth": "Everyone At Ees Houston is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-27 to 1999-09-27), Everyone At Ees Houston sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-09-27** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/everyone-at-ees-houston",
+    "name": "Everyone At Ees Houston",
+    "email": "everyone_at_ees_houston@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

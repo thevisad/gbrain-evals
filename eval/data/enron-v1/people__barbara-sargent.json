@@ -1,0 +1,14 @@
+{
+  "slug": "people/barbara-sargent",
+  "type": "person",
+  "title": "Barbara Sargent",
+  "compiled_truth": "Barbara Sargent is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-10-12), Barbara Sargent sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barbara-sargent",
+    "name": "Barbara Sargent",
+    "email": "barbara.sargent@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

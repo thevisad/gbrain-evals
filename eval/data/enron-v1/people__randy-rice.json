@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-rice",
+  "type": "person",
+  "title": "Randy Rice",
+  "compiled_truth": "Randy Rice is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2002-03-25), Randy Rice sent 2 and received 387 emails, totalling 389 interactions. Top correspondents: [Jeffery Fawcett](people/jeffery-fawcett) (1), [Drew Fossum](people/drew-fossum) (1), [Julia White](people/julia-white) (1), [Kevin Hyatt](people/kevin-hyatt) (1), [Mary Miller](people/mary-miller) (1).",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-rice",
+    "name": "Randy Rice",
+    "email": "randy.rice@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

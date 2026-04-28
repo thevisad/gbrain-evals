@@ -1,0 +1,14 @@
+{
+  "slug": "people/toby-ellis",
+  "type": "person",
+  "title": "Toby Ellis",
+  "compiled_truth": "Toby Ellis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-27 to 2001-10-15), Toby Ellis sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-08-27** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/toby-ellis",
+    "name": "Toby Ellis",
+    "email": "toby.ellis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

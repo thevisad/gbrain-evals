@@ -1,0 +1,14 @@
+{
+  "slug": "people/roberts",
+  "type": "person",
+  "title": "Roberts",
+  "compiled_truth": "Roberts is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-27 to 2002-01-08), Roberts sent 12 and received 6 emails, totalling 18 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (8), [John Arnold](people/john-arnold) (5), [Mike Grigsby](people/mike-grigsby) (5), [John Lavorato](people/john-lavorato) (5), [A  Martin](people/a-martin) (5). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-05-27** | First recorded email in corpus\n- **2002-01-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roberts",
+    "name": "Roberts",
+    "email": "roberts@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

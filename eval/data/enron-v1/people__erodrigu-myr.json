@@ -1,0 +1,14 @@
+{
+  "slug": "people/erodrigu-myr",
+  "type": "person",
+  "title": "Erodrigu",
+  "compiled_truth": "Erodrigu is an external contact at [Myr](companies/myr). Over the corpus period (2000-11-13 to 2000-12-13), Erodrigu sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/erodrigu-myr",
+    "name": "Erodrigu",
+    "email": "erodrigu@myr.ci.houston.tx.us",
+    "primary_affiliation": "companies/myr"
+  }
+}

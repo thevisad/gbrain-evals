@@ -1,0 +1,14 @@
+{
+  "slug": "people/bwax-ghg",
+  "type": "person",
+  "title": "Bwax",
+  "compiled_truth": "Bwax is an external contact at [Ghg](companies/ghg). Over the corpus period (2000-10-02 to 2001-06-28), Bwax sent 1 and received 36 emails, totalling 37 interactions. Top correspondents: [M  Love](people/m-love) (1).",
+  "timeline": "- **2000-10-02** | First recorded email in corpus\n- **2001-06-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bwax-ghg",
+    "name": "Bwax",
+    "email": "bwax@ghg.net",
+    "primary_affiliation": "companies/ghg"
+  }
+}

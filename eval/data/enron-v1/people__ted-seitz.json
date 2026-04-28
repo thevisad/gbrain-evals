@@ -1,0 +1,14 @@
+{
+  "slug": "people/ted-seitz",
+  "type": "person",
+  "title": "Ted Seitz",
+  "compiled_truth": "Ted Seitz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-13 to 2001-08-13), Ted Seitz sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-01-13** | First recorded email in corpus\n- **2001-08-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ted-seitz",
+    "name": "Ted Seitz",
+    "email": "ted.seitz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ng-simon",
+  "type": "person",
+  "title": "Ng Simon",
+  "compiled_truth": "Ng Simon is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-08-21), Ng Simon sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ng-simon",
+    "name": "Ng Simon",
+    "email": "ng.simon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dick-westfahl",
+  "type": "person",
+  "title": "Dick Westfahl",
+  "compiled_truth": "Dick Westfahl is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-26 to 2001-03-25), Dick Westfahl sent 1 and received 31 emails, totalling 32 interactions.",
+  "timeline": "- **2000-05-26** | First recorded email in corpus\n- **2001-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dick-westfahl",
+    "name": "Dick Westfahl",
+    "email": "dick.westfahl@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

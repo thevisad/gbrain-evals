@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-linder",
+  "type": "person",
+  "title": "Eric Linder",
+  "compiled_truth": "Eric Linder is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-15 to 2001-11-30), Eric Linder sent 12 and received 1566 emails, totalling 1578 interactions. Top correspondents: [Bill Williams](people/bill-williams) (4), [Bill Iii](people/bill-iii) (3), [Grace Rodriguez](people/grace-rodriguez) (2), [Shift Portland](people/shift-portland) (2), [Amy Fitzpatrick](people/amy-fitzpatrick) (1). Mailbox folders observed: _sent_mail, bill_williams_iii, inbox, read.",
+  "timeline": "- **2001-03-15** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-linder",
+    "name": "Eric Linder",
+    "email": "eric.linder@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/britaldo-soares",
+  "type": "person",
+  "title": "Britaldo Soares",
+  "compiled_truth": "Britaldo Soares is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-19 to 2001-11-10), Britaldo Soares sent 1 and received 39 emails, totalling 40 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (1), [Orlando Gonzalez](people/orlando-gonzalez) (1), [Joe Kishkill](people/joe-kishkill) (1), [Jeffrey Sommers](people/jeffrey-sommers) (1), [James Hughes](people/james-hughes) (1).",
+  "timeline": "- **2000-12-19** | First recorded email in corpus\n- **2001-11-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/britaldo-soares",
+    "name": "Britaldo Soares",
+    "email": "britaldo.soares@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

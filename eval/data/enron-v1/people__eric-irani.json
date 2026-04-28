@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-irani",
+  "type": "person",
+  "title": "Eric Irani",
+  "compiled_truth": "Eric Irani is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2002-06-03), Eric Irani sent 0 and received 59 emails, totalling 59 interactions.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2002-06-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-irani",
+    "name": "Eric Irani",
+    "email": "eric.irani@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

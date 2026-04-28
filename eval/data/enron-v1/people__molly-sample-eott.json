@@ -1,0 +1,14 @@
+{
+  "slug": "people/molly-sample-eott",
+  "type": "person",
+  "title": "Molly Sample",
+  "compiled_truth": "Molly Sample is an external contact at [Eott](companies/eott). Over the corpus period (2000-02-02 to 2001-12-19), Molly Sample sent 3 and received 30 emails, totalling 33 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (2), [Tana Jones](people/tana-jones) (1).",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/molly-sample-eott",
+    "name": "Molly Sample",
+    "email": "molly_sample@eott.com",
+    "primary_affiliation": "companies/eott"
+  }
+}

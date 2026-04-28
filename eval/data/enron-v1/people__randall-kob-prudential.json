@@ -1,0 +1,14 @@
+{
+  "slug": "people/randall-kob-prudential",
+  "type": "person",
+  "title": "Randall Kob",
+  "compiled_truth": "Randall Kob is an external contact at [Prudential](companies/prudential). Over the corpus period (2000-09-01 to 2001-01-23), Randall Kob sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randall-kob-prudential",
+    "name": "Randall Kob",
+    "email": "randall.kob@prudential.com",
+    "primary_affiliation": "companies/prudential"
+  }
+}

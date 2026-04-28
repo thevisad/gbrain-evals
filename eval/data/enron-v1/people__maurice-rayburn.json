@@ -1,0 +1,14 @@
+{
+  "slug": "people/maurice-rayburn",
+  "type": "person",
+  "title": "Maurice Rayburn",
+  "compiled_truth": "Maurice Rayburn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2001-02-06), Maurice Rayburn sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maurice-rayburn",
+    "name": "Maurice Rayburn",
+    "email": "maurice.rayburn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

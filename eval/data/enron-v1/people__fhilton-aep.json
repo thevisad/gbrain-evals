@@ -1,0 +1,14 @@
+{
+  "slug": "people/fhilton-aep",
+  "type": "person",
+  "title": "Fhilton",
+  "compiled_truth": "Fhilton is an external contact at [Aep](companies/aep). Over the corpus period (2000-02-16 to 2001-11-13), Fhilton sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-02-16** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fhilton-aep",
+    "name": "Fhilton",
+    "email": "fhilton@aep.com",
+    "primary_affiliation": "companies/aep"
+  }
+}

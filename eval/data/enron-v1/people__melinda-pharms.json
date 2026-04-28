@@ -1,0 +1,14 @@
+{
+  "slug": "people/melinda-pharms",
+  "type": "person",
+  "title": "Melinda Pharms",
+  "compiled_truth": "Melinda Pharms is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-12-03), Melinda Pharms sent 9 and received 307 emails, totalling 316 interactions. Top correspondents: [D  Steffes](people/d-steffes) (4), [Stephanie Miller](people/stephanie-miller) (3), [Richard Shapiro](people/richard-shapiro) (3), [Lynnette Barnes](people/lynnette-barnes) (2), [L  Lawrence](people/l-lawrence) (2). Mailbox folders observed: calendar, deleted_items, inbox, personal, personnel.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melinda-pharms",
+    "name": "Melinda Pharms",
+    "email": "melinda.pharms@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

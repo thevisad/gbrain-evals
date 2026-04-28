@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-kalich",
+  "type": "person",
+  "title": "Susan Kalich",
+  "compiled_truth": "Susan Kalich is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-16), Susan Kalich sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-kalich",
+    "name": "Susan Kalich",
+    "email": "susan.kalich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

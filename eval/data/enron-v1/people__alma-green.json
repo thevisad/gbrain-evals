@@ -1,0 +1,14 @@
+{
+  "slug": "people/alma-green",
+  "type": "person",
+  "title": "Alma Green",
+  "compiled_truth": "Alma Green is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2002-03-13), Alma Green sent 10 and received 70 emails, totalling 80 interactions. Top correspondents: [Nancy Bastida](people/nancy-bastida) (7), [Zuela Carter](people/zuela-carter) (7), [Karen Clapper](people/karen-clapper) (7), [Marion Collins](people/marion-collins) (7), [Mary Draemer](people/mary-draemer) (7). Mailbox folders observed: deleted_items, inbox, itinerary_off_duty.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alma-green",
+    "name": "Alma Green",
+    "email": "alma.green@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

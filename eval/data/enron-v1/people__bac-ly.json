@@ -1,0 +1,14 @@
+{
+  "slug": "people/bac-ly",
+  "type": "person",
+  "title": "Bac Ly",
+  "compiled_truth": "Bac Ly is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-01), Bac Ly sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bac-ly",
+    "name": "Bac Ly",
+    "email": "bac.ly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

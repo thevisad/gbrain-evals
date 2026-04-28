@@ -1,0 +1,14 @@
+{
+  "slug": "people/lindsay-meade",
+  "type": "person",
+  "title": "Lindsay Meade",
+  "compiled_truth": "Lindsay Meade is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-09-10), Lindsay Meade sent 0 and received 137 emails, totalling 137 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-09-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lindsay-meade",
+    "name": "Lindsay Meade",
+    "email": "lindsay.meade@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

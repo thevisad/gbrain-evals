@@ -1,0 +1,14 @@
+{
+  "slug": "people/adesell-nyiso",
+  "type": "person",
+  "title": "Adesell",
+  "compiled_truth": "Adesell is an external contact at [Nyiso](companies/nyiso). Over the corpus period (2001-09-28 to 2002-03-01), Adesell sent 6 and received 3 emails, totalling 9 interactions. Top correspondents: [Market Relations](people/market-relations-nyiso) (3), [Benjamin Rogers](people/benjamin-rogers) (3).",
+  "timeline": "- **2001-09-28** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adesell-nyiso",
+    "name": "Adesell",
+    "email": "adesell@nyiso.com",
+    "primary_affiliation": "companies/nyiso"
+  }
+}

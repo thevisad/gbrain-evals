@@ -1,0 +1,14 @@
+{
+  "slug": "people/leticia-botello",
+  "type": "person",
+  "title": "Leticia Botello",
+  "compiled_truth": "Leticia Botello is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-12 to 2002-03-29), Leticia Botello sent 14 and received 567 emails, totalling 581 interactions. Top correspondents: [Dennis Benevides](people/dennis-benevides) (13), [Scott Stoness](people/scott-stoness) (13), [Don Black](people/don-black) (13), [Mike Smith](people/mike-smith) (13), [Jeff Dasovich](people/jeff-dasovich) (13).",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leticia-botello",
+    "name": "Leticia Botello",
+    "email": "leticia.botello@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-roberts",
+  "type": "person",
+  "title": "Linda Roberts",
+  "compiled_truth": "Linda Roberts is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-25 to 2002-01-16), Linda Roberts sent 7 and received 123 emails, totalling 130 interactions. Top correspondents: [A  Martin](people/a-martin) (4), [Jim Schwieger](people/jim-schwieger) (4), [Brian Redmond](people/brian-redmond) (3), [Eric Boyt](people/eric-boyt) (3), [Gary Bryan](people/gary-bryan) (3). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-roberts",
+    "name": "Linda Roberts",
+    "email": "linda.roberts@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

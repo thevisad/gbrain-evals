@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-vogler",
+  "type": "person",
+  "title": "Jason Vogler",
+  "compiled_truth": "Jason Vogler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-09 to 2001-06-12), Jason Vogler sent 0 and received 33 emails, totalling 33 interactions.",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-vogler",
+    "name": "Jason Vogler",
+    "email": "jason.vogler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

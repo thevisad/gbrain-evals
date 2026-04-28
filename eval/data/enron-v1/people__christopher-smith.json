@@ -1,0 +1,14 @@
+{
+  "slug": "people/christopher-smith",
+  "type": "person",
+  "title": "Christopher Smith",
+  "compiled_truth": "Christopher Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-10 to 2001-10-29), Christopher Smith sent 5 and received 96 emails, totalling 101 interactions. Top correspondents: [William Bradford](people/william-bradford) (3), [Dan Hyvl](people/dan-hyvl) (2), [Tracy Ngo](people/tracy-ngo) (2), [Sara Shackleton](people/sara-shackleton) (2), [Yvan Chaxel](people/yvan-chaxel) (1).",
+  "timeline": "- **1999-05-10** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christopher-smith",
+    "name": "Christopher Smith",
+    "email": "christopher.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

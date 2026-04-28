@@ -1,0 +1,14 @@
+{
+  "slug": "people/dutch-quigley",
+  "type": "person",
+  "title": "Dutch Quigley",
+  "compiled_truth": "Dutch Quigley is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-05-02), Dutch Quigley sent 551 and received 1082 emails, totalling 1633 interactions. Top correspondents: [Kay Quigley](people/kay-quigley) (103), [Klyn](people/klyn-pdq) (63), [John Arnold](people/john-arnold) (34), [Markm](people/markm-cajunusa) (29), [Siva66](people/siva66-mail) (27). Mailbox folders observed: calendar, deleted_items, inbox, it, new_items, old_inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dutch-quigley",
+    "name": "Dutch Quigley",
+    "email": "dutch.quigley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

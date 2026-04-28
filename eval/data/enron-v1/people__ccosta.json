@@ -1,0 +1,14 @@
+{
+  "slug": "people/ccosta",
+  "type": "person",
+  "title": "Ccosta",
+  "compiled_truth": "Ccosta is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-10 to 2001-05-09), Ccosta sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-04-10** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ccosta",
+    "name": "Ccosta",
+    "email": "ccosta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

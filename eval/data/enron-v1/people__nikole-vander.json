@@ -1,0 +1,14 @@
+{
+  "slug": "people/nikole-vander",
+  "type": "person",
+  "title": "Nikole Vander",
+  "compiled_truth": "Nikole Vander is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-10 to 2002-02-07), Nikole Vander sent 1 and received 53 emails, totalling 54 interactions. Top correspondents: [Casey Evans](people/casey-evans) (1), [John Postlethwaite](people/john-postlethwaite) (1), [John Valdes](people/john-valdes) (1), [Torrey Moorer](people/torrey-moorer) (1), [W  White](people/w-white) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-06-10** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nikole-vander",
+    "name": "Nikole Vander",
+    "email": "nikole.vander@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

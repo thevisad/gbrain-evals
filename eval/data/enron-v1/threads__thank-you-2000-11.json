@@ -1,0 +1,29 @@
+{
+  "slug": "threads/thank-you-2000-11",
+  "type": "meeting",
+  "title": "Thread: Thank You!",
+  "compiled_truth": "Email thread: \"Thank You!\". Ran from 2000-11-06 to 2000-12-05 with 12 messages. Participants: [Cindy Stark](people/cindy-stark), [Dan Leff](people/dan-leff), [Enron](people/enron-houston), [Ets Announcement](people/ets-announcement), [Fqian](people/fqian-andrew), [Jackie Henry](people/jackie-henry), [Jeff Skilling](people/jeff-skilling), [Kenneth Lay](people/kenneth-lay).",
+  "timeline": "- **2000-11-06** | Thread begins: thank you!\n- **2000-12-05** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/thank-you-2000-11",
+    "attendees": [
+      "people/cindy-stark",
+      "people/dan-leff",
+      "people/enron-houston",
+      "people/ets-announcement",
+      "people/fqian-andrew",
+      "people/jackie-henry",
+      "people/jeff-skilling",
+      "people/kenneth-lay",
+      "people/kimberly-nelson",
+      "people/kristin-gandy",
+      "people/sally-beck",
+      "people/skhanova-wellesley",
+      "people/stanley-horton",
+      "people/thomas-white",
+      "people/vince-kaminski"
+    ],
+    "date": "2000-11-06"
+  }
+}

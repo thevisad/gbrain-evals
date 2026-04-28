@@ -1,0 +1,14 @@
+{
+  "slug": "people/mgoldstein-sempratrading",
+  "type": "person",
+  "title": "Mgoldstein",
+  "compiled_truth": "Mgoldstein is an external contact at [Sempratrading](companies/sempratrading). Over the corpus period (1999-12-08 to 2001-03-14), Mgoldstein sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **1999-12-08** | First recorded email in corpus\n- **2001-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mgoldstein-sempratrading",
+    "name": "Mgoldstein",
+    "email": "mgoldstein@sempratrading.com",
+    "primary_affiliation": "companies/sempratrading"
+  }
+}

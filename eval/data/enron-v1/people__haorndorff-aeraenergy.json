@@ -1,0 +1,14 @@
+{
+  "slug": "people/haorndorff-aeraenergy",
+  "type": "person",
+  "title": "Haorndorff",
+  "compiled_truth": "Haorndorff is an external contact at [Aeraenergy](companies/aeraenergy). Over the corpus period (2000-05-19 to 2001-09-04), Haorndorff sent 0 and received 99 emails, totalling 99 interactions.",
+  "timeline": "- **2000-05-19** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/haorndorff-aeraenergy",
+    "name": "Haorndorff",
+    "email": "haorndorff@aeraenergy.com",
+    "primary_affiliation": "companies/aeraenergy"
+  }
+}

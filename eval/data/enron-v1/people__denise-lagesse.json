@@ -1,0 +1,14 @@
+{
+  "slug": "people/denise-lagesse",
+  "type": "person",
+  "title": "Denise Lagesse",
+  "compiled_truth": "Denise Lagesse is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-21 to 2001-12-28), Denise Lagesse sent 34 and received 108 emails, totalling 142 interactions. Top correspondents: [Lee Huber](people/lee-huber) (12), [Bill Rapp](people/bill-rapp) (11), [Drew Fossum](people/drew-fossum) (10), [Susan Scott](people/susan-scott) (10), [Kimberly Watson](people/kimberly-watson) (7). Mailbox folders observed: big_sandy___caithness, deleted_items, inbox, questar, tw, tw_projects.",
+  "timeline": "- **1999-12-21** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/denise-lagesse",
+    "name": "Denise Lagesse",
+    "email": "denise.lagesse@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

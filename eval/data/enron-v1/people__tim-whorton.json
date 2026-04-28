@@ -1,0 +1,14 @@
+{
+  "slug": "people/tim-whorton",
+  "type": "person",
+  "title": "Tim Whorton",
+  "compiled_truth": "Tim Whorton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-03 to 2002-02-28), Tim Whorton sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tim-whorton",
+    "name": "Tim Whorton",
+    "email": "tim.whorton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rex-b-wackerle-bankofamerica",
+  "type": "person",
+  "title": "Rex B Wackerle",
+  "compiled_truth": "Rex B Wackerle is an external contact at [Bankofamerica](companies/bankofamerica). Over the corpus period (2000-05-03 to 2000-05-09), Rex B Wackerle sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-05-03** | First recorded email in corpus\n- **2000-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rex-b-wackerle-bankofamerica",
+    "name": "Rex B Wackerle",
+    "email": "rex.b.wackerle@bankofamerica.com",
+    "primary_affiliation": "companies/bankofamerica"
+  }
+}

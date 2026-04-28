@@ -1,0 +1,14 @@
+{
+  "slug": "people/huntington-blair",
+  "type": "person",
+  "title": "Huntington Blair",
+  "compiled_truth": "Huntington Blair is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Huntington Blair sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/huntington-blair",
+    "name": "Huntington Blair",
+    "email": "huntington.blair@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

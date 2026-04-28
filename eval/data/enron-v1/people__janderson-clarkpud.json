@@ -1,0 +1,14 @@
+{
+  "slug": "people/janderson-clarkpud",
+  "type": "person",
+  "title": "Janderson",
+  "compiled_truth": "Janderson is an external contact at [Clarkpud](companies/clarkpud). Over the corpus period (2000-10-27 to 2001-05-11), Janderson sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janderson-clarkpud",
+    "name": "Janderson",
+    "email": "janderson@clarkpud.com",
+    "primary_affiliation": "companies/clarkpud"
+  }
+}

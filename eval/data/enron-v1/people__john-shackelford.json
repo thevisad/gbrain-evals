@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-shackelford",
+  "type": "person",
+  "title": "John Shackelford",
+  "compiled_truth": "John Shackelford is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-02-23), John Shackelford sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-02-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-shackelford",
+    "name": "John Shackelford",
+    "email": "john.shackelford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

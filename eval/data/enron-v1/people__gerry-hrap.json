@@ -1,0 +1,14 @@
+{
+  "slug": "people/gerry-hrap",
+  "type": "person",
+  "title": "Gerry Hrap",
+  "compiled_truth": "Gerry Hrap is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-11 to 2002-02-21), Gerry Hrap sent 3 and received 41 emails, totalling 44 interactions. Top correspondents: [Jonathan Mckay](people/jonathan-mckay) (1), [Chris Germany](people/chris-germany) (1), [Howard Sangwine](people/howard-sangwine) (1), [Barry Tycholiz](people/barry-tycholiz) (1), [Derek Davies](people/derek-davies) (1). Mailbox folders observed: calendar, inbox.",
+  "timeline": "- **2001-06-11** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gerry-hrap",
+    "name": "Gerry Hrap",
+    "email": "gerry.hrap@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

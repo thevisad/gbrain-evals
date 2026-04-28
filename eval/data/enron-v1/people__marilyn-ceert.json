@@ -1,0 +1,14 @@
+{
+  "slug": "people/marilyn-ceert",
+  "type": "person",
+  "title": "Marilyn",
+  "compiled_truth": "Marilyn is an external contact at [Ceert](companies/ceert). Over the corpus period (2001-05-16 to 2001-11-14), Marilyn sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-05-16** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marilyn-ceert",
+    "name": "Marilyn",
+    "email": "marilyn@ceert.org",
+    "primary_affiliation": "companies/ceert"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/alan-reid-pancanadian",
+  "type": "person",
+  "title": "Alan Reid",
+  "compiled_truth": "Alan Reid is an external contact at [Pancanadian](companies/pancanadian). Over the corpus period (1999-09-24 to 2001-07-31), Alan Reid sent 0 and received 70 emails, totalling 70 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alan-reid-pancanadian",
+    "name": "Alan Reid",
+    "email": "alan_reid@pancanadian.ca",
+    "primary_affiliation": "companies/pancanadian"
+  }
+}

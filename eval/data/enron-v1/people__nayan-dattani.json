@@ -1,0 +1,14 @@
+{
+  "slug": "people/nayan-dattani",
+  "type": "person",
+  "title": "Nayan Dattani",
+  "compiled_truth": "Nayan Dattani is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-02 to 2002-02-19), Nayan Dattani sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [Ahmad Farooqi](people/ahmad-farooqi) (1), [Bill Fortney](people/bill-fortney) (1), [Narasim Kasaru](people/narasim-kasaru) (1), [Michael Swaim](people/michael-swaim) (1), [Trac Taylor](people/trac-taylor) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-01-02** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nayan-dattani",
+    "name": "Nayan Dattani",
+    "email": "nayan.dattani@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

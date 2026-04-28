@@ -1,0 +1,14 @@
+{
+  "slug": "people/crystal-reyna",
+  "type": "person",
+  "title": "Crystal Reyna",
+  "compiled_truth": "Crystal Reyna is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-21 to 2001-11-30), Crystal Reyna sent 3 and received 23 emails, totalling 26 interactions. Top correspondents: [Gloria Communications](people/gloria-communications) (2), [Jcutaia](people/jcutaia-tupac) (2), [Mpena](people/mpena-shipco) (1), [Robnik69](people/robnik69-yahoo) (1), [Gracie Garay](people/gracie-garay) (1).",
+  "timeline": "- **2000-07-21** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/crystal-reyna",
+    "name": "Crystal Reyna",
+    "email": "crystal.reyna@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

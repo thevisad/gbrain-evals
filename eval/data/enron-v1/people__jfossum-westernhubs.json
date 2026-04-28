@@ -1,0 +1,14 @@
+{
+  "slug": "people/jfossum-westernhubs",
+  "type": "person",
+  "title": "Jfossum",
+  "compiled_truth": "Jfossum is an external contact at [Westernhubs](companies/westernhubs). Over the corpus period (2000-05-01 to 2001-07-31), Jfossum sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **2000-05-01** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jfossum-westernhubs",
+    "name": "Jfossum",
+    "email": "jfossum@westernhubs.com",
+    "primary_affiliation": "companies/westernhubs"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ack-aelaw",
+  "type": "person",
+  "title": "Ack",
+  "compiled_truth": "Ack is an external contact at [Aelaw](companies/aelaw). Over the corpus period (2000-05-01 to 2000-12-12), Ack sent 4 and received 48 emails, totalling 52 interactions. Top correspondents: [Kmccrea](people/kmccrea-sablaw) (4), [Eke](people/eke-aelaw) (4), [Burkee](people/burkee-cts) (3), [Craigc](people/craigc-calpine) (3), [Rick Counihan](people/rick-counihan-greenmountain) (3).",
+  "timeline": "- **2000-05-01** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ack-aelaw",
+    "name": "Ack",
+    "email": "ack@aelaw.com",
+    "primary_affiliation": "companies/aelaw"
+  }
+}

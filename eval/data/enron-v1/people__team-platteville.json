@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-platteville",
+  "type": "person",
+  "title": "Team Platteville",
+  "compiled_truth": "Team Platteville is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-28 to 2002-03-25), Team Platteville sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2001-09-28** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-platteville",
+    "name": "Team Platteville",
+    "email": "team.platteville@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

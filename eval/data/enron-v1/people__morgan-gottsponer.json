@@ -1,0 +1,14 @@
+{
+  "slug": "people/morgan-gottsponer",
+  "type": "person",
+  "title": "Morgan Gottsponer",
+  "compiled_truth": "Morgan Gottsponer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-30 to 2002-03-21), Morgan Gottsponer sent 25 and received 367 emails, totalling 392 interactions. Top correspondents: [Dl-Ets Pfp](people/dl-ets-pfp) (19), [Kimberly Watson](people/kimberly-watson) (4), [John Sturn](people/john-sturn) (2), [Rich Jolly](people/rich-jolly) (2), [David Roensch](people/david-roensch) (2). Mailbox folders observed: deleted_items, e_mail_bin, enron_t_s, inbox, tw.",
+  "timeline": "- **1999-12-30** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/morgan-gottsponer",
+    "name": "Morgan Gottsponer",
+    "email": "morgan.gottsponer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

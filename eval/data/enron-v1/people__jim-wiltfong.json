@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-wiltfong",
+  "type": "person",
+  "title": "Jim Wiltfong",
+  "compiled_truth": "Jim Wiltfong is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2002-01-03), Jim Wiltfong sent 4 and received 176 emails, totalling 180 interactions. Top correspondents: [Lindy Donoho](people/lindy-donoho) (4), [Kevin Hyatt](people/kevin-hyatt) (4), [Tk Lohman](people/tk-lohman) (4), [Christine Stokes](people/christine-stokes) (4), [Michelle Lokay](people/michelle-lokay) (4). Mailbox folders observed: tw_throughput_analysis.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-wiltfong",
+    "name": "Jim Wiltfong",
+    "email": "jim.wiltfong@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

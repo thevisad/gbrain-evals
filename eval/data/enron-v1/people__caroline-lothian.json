@@ -1,0 +1,14 @@
+{
+  "slug": "people/caroline-lothian",
+  "type": "person",
+  "title": "Caroline Lothian",
+  "compiled_truth": "Caroline Lothian is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2000-12-11), Caroline Lothian sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/caroline-lothian",
+    "name": "Caroline Lothian",
+    "email": "caroline.lothian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

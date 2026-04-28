@@ -1,0 +1,14 @@
+{
+  "slug": "people/bgillette-amerenenergy",
+  "type": "person",
+  "title": "Bgillette",
+  "compiled_truth": "Bgillette is an external contact at [Amerenenergy](companies/amerenenergy). Over the corpus period (2000-05-18 to 2000-10-24), Bgillette sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bgillette-amerenenergy",
+    "name": "Bgillette",
+    "email": "bgillette@amerenenergy.com",
+    "primary_affiliation": "companies/amerenenergy"
+  }
+}

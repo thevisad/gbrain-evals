@@ -1,0 +1,14 @@
+{
+  "slug": "people/r-price",
+  "type": "person",
+  "title": "R  Price",
+  "compiled_truth": "R  Price is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-01 to 2002-06-25), R  Price sent 16 and received 99 emails, totalling 115 interactions. Top correspondents: [Chris Germany](people/chris-germany) (16), [Margaret Dhont](people/margaret-dhont) (7), [Robin Barbe](people/robin-barbe) (3), [Ruth Concannon](people/ruth-concannon) (3), [Kathryn Bussell](people/kathryn-bussell) (3). Mailbox folders observed: bankrupt, inbox.",
+  "timeline": "- **2001-06-01** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/r-price",
+    "name": "R  Price",
+    "email": "r..price@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

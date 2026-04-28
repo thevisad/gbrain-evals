@@ -1,0 +1,14 @@
+{
+  "slug": "people/todb-metretekfl",
+  "type": "person",
+  "title": "Todb",
+  "compiled_truth": "Todb is an external contact at [Metretekfl](companies/metretekfl). Over the corpus period (2000-06-29 to 2000-08-25), Todb sent 2 and received 0 emails, totalling 2 interactions. Top correspondents: [Rrs5](people/rrs5-pge) (2), [Abb](people/abb-eslawfirm) (2), [Agoldberg](people/agoldberg-lgl) (2), [Ahuertas](people/ahuertas-enron) (2), [Alan Reid](people/alan-reid-pancanadian) (2).",
+  "timeline": "- **2000-06-29** | First recorded email in corpus\n- **2000-08-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/todb-metretekfl",
+    "name": "Todb",
+    "email": "todb@metretekfl.com",
+    "primary_affiliation": "companies/metretekfl"
+  }
+}

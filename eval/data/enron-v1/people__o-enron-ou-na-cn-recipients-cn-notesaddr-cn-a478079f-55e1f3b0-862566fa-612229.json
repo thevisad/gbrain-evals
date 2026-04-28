@@ -1,0 +1,14 @@
+{
+  "slug": "people/o-enron-ou-na-cn-recipients-cn-notesaddr-cn-a478079f-55e1f3b0-862566fa-612229",
+  "type": "person",
+  "title": "/O=Enron/Ou=Na/Cn=Recipients/Cn=Notesaddr/Cn=A478079F-55E1F3B0-862566Fa-612229",
+  "compiled_truth": "/O=Enron/Ou=Na/Cn=Recipients/Cn=Notesaddr/Cn=A478079F-55E1F3B0-862566Fa-612229 is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-20 to 2002-02-15), /O=Enron/Ou=Na/Cn=Recipients/Cn=Notesaddr/Cn=A478079F-55E1F3B0-862566Fa-612229 sent 0 and received 72 emails, totalling 72 interactions.",
+  "timeline": "- **2001-07-20** | First recorded email in corpus\n- **2002-02-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/o-enron-ou-na-cn-recipients-cn-notesaddr-cn-a478079f-55e1f3b0-862566fa-612229",
+    "name": "/O=Enron/Ou=Na/Cn=Recipients/Cn=Notesaddr/Cn=A478079F-55E1F3B0-862566Fa-612229",
+    "email": "/o=enron/ou=na/cn=recipients/cn=notesaddr/cn=a478079f-55e1f3b0-862566fa-612229@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

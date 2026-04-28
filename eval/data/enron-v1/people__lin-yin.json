@@ -1,0 +1,14 @@
+{
+  "slug": "people/lin-yin",
+  "type": "person",
+  "title": "Lin Yin",
+  "compiled_truth": "Lin Yin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-11-09), Lin Yin sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lin-yin",
+    "name": "Lin Yin",
+    "email": "lin.yin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

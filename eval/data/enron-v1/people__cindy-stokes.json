@@ -1,0 +1,14 @@
+{
+  "slug": "people/cindy-stokes",
+  "type": "person",
+  "title": "Cindy Stokes",
+  "compiled_truth": "Cindy Stokes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-01 to 2002-03-29), Cindy Stokes sent 7 and received 67 emails, totalling 74 interactions. Top correspondents: [Angeles Beltri](people/angeles-beltri) (7), [Hope Vargas](people/hope-vargas) (5), [Michael Galvan](people/michael-galvan) (5), [Kortney Brown](people/kortney-brown) (5), [Adarsh Vakharia](people/adarsh-vakharia) (5). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-03-01** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cindy-stokes",
+    "name": "Cindy Stokes",
+    "email": "cindy.stokes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

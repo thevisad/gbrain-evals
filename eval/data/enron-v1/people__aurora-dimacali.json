@@ -1,0 +1,14 @@
+{
+  "slug": "people/aurora-dimacali",
+  "type": "person",
+  "title": "Aurora Dimacali",
+  "compiled_truth": "Aurora Dimacali is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-21 to 2002-02-12), Aurora Dimacali sent 1 and received 30 emails, totalling 31 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-03-21** | First recorded email in corpus\n- **2002-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aurora-dimacali",
+    "name": "Aurora Dimacali",
+    "email": "aurora.dimacali@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

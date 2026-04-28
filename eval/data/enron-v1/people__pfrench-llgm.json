@@ -1,0 +1,14 @@
+{
+  "slug": "people/pfrench-llgm",
+  "type": "person",
+  "title": "Pfrench",
+  "compiled_truth": "Pfrench is an external contact at [Llgm](companies/llgm). Over the corpus period (2001-10-18 to 2001-10-18), Pfrench sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pfrench-llgm",
+    "name": "Pfrench",
+    "email": "pfrench@llgm.com",
+    "primary_affiliation": "companies/llgm"
+  }
+}

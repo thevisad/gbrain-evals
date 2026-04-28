@@ -1,0 +1,14 @@
+{
+  "slug": "people/jay-wills",
+  "type": "person",
+  "title": "Jay Wills",
+  "compiled_truth": "Jay Wills is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2001-02-21), Jay Wills sent 0 and received 174 emails, totalling 174 interactions.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2001-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jay-wills",
+    "name": "Jay Wills",
+    "email": "jay.wills@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

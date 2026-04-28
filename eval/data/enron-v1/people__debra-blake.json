@@ -1,0 +1,14 @@
+{
+  "slug": "people/debra-blake",
+  "type": "person",
+  "title": "Debra Blake",
+  "compiled_truth": "Debra Blake is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-07 to 2001-11-25), Debra Blake sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debra-blake",
+    "name": "Debra Blake",
+    "email": "debra.blake@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

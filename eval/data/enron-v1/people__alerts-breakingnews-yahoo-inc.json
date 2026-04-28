@@ -1,0 +1,14 @@
+{
+  "slug": "people/alerts-breakingnews-yahoo-inc",
+  "type": "person",
+  "title": "Alerts-Breakingnews",
+  "compiled_truth": "Alerts-Breakingnews is an external contact at [Yahoo-inc](companies/yahoo-inc). Over the corpus period (2001-05-05 to 2001-05-14), Alerts-Breakingnews sent 42 and received 0 emails, totalling 42 interactions. Top correspondents: [Mike Grigsby](people/mike-grigsby) (42).",
+  "timeline": "- **2001-05-05** | First recorded email in corpus\n- **2001-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alerts-breakingnews-yahoo-inc",
+    "name": "Alerts-Breakingnews",
+    "email": "alerts-breakingnews@yahoo-inc.com",
+    "primary_affiliation": "companies/yahoo-inc"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/donald-vinson",
+  "type": "person",
+  "title": "Donald Vinson",
+  "compiled_truth": "Donald Vinson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-19), Donald Vinson sent 2 and received 85 emails, totalling 87 interactions. Top correspondents: [Stacey White](people/stacey-white) (1). Mailbox folders observed: meetings.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donald-vinson",
+    "name": "Donald Vinson",
+    "email": "donald.vinson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

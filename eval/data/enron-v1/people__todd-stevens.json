@@ -1,0 +1,14 @@
+{
+  "slug": "people/todd-stevens",
+  "type": "person",
+  "title": "Todd Stevens",
+  "compiled_truth": "Todd Stevens is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-02-02), Todd Stevens sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-02-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/todd-stevens",
+    "name": "Todd Stevens",
+    "email": "todd.stevens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

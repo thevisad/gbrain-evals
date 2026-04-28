@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristin-gandy",
+  "type": "person",
+  "title": "Kristin Gandy",
+  "compiled_truth": "Kristin Gandy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-03 to 2001-12-03), Kristin Gandy sent 28 and received 160 emails, totalling 188 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (11), [Mark Gandy](people/mark-gandy) (5), [Webb Jennings](people/webb-jennings) (5), [Paul Burkhart](people/paul-burkhart) (5), [V Weldon](people/v-weldon) (5). Mailbox folders observed: associate, deleted_items, inbox, resumes.",
+  "timeline": "- **2000-08-03** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristin-gandy",
+    "name": "Kristin Gandy",
+    "email": "kristin.gandy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

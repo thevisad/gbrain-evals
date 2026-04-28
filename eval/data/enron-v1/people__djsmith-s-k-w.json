@@ -1,0 +1,14 @@
+{
+  "slug": "people/djsmith-s-k-w",
+  "type": "person",
+  "title": "Djsmith",
+  "compiled_truth": "Djsmith is an external contact at [S-k-w](companies/s-k-w). Over the corpus period (2001-05-23 to 2001-10-25), Djsmith sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2001-05-23** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/djsmith-s-k-w",
+    "name": "Djsmith",
+    "email": "djsmith@s-k-w.com",
+    "primary_affiliation": "companies/s-k-w"
+  }
+}

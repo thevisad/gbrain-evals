@@ -1,0 +1,14 @@
+{
+  "slug": "people/brenna-neves",
+  "type": "person",
+  "title": "Brenna Neves",
+  "compiled_truth": "Brenna Neves is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-18 to 2002-02-13), Brenna Neves sent 19 and received 75 emails, totalling 94 interactions. Top correspondents: [Judy Hernandez](people/judy-hernandez) (19), [Leslie Smith](people/leslie-smith) (18), [Eve Puckett](people/eve-puckett) (18), [Regina Blackshear](people/regina-blackshear) (6), [Sharon Peace](people/sharon-peace) (5).",
+  "timeline": "- **2000-10-18** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brenna-neves",
+    "name": "Brenna Neves",
+    "email": "brenna.neves@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

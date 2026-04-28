@@ -1,0 +1,14 @@
+{
+  "slug": "people/tim-aron",
+  "type": "person",
+  "title": "Tim Aron",
+  "compiled_truth": "Tim Aron is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-01-02), Tim Aron sent 0 and received 67 emails, totalling 67 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tim-aron",
+    "name": "Tim Aron",
+    "email": "tim.aron@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

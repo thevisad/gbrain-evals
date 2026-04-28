@@ -1,0 +1,14 @@
+{
+  "slug": "people/benhamwt-bp",
+  "type": "person",
+  "title": "Benhamwt",
+  "compiled_truth": "Benhamwt is an external contact at [Bp](companies/bp). Over the corpus period (2000-02-12 to 2000-06-06), Benhamwt sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus\n- **2000-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/benhamwt-bp",
+    "name": "Benhamwt",
+    "email": "benhamwt@bp.com",
+    "primary_affiliation": "companies/bp"
+  }
+}

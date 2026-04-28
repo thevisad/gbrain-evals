@@ -1,0 +1,14 @@
+{
+  "slug": "people/marceline-otondo-apses",
+  "type": "person",
+  "title": "Marceline Otondo",
+  "compiled_truth": "Marceline Otondo is an external contact at [Apses](companies/apses). Over the corpus period (2000-11-10 to 2001-03-16), Marceline Otondo sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marceline-otondo-apses",
+    "name": "Marceline Otondo",
+    "email": "marceline_otondo@apses.com",
+    "primary_affiliation": "companies/apses"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-eden-pgn",
+  "type": "person",
+  "title": "Jim Eden",
+  "compiled_truth": "Jim Eden is an external contact at [Pgn](companies/pgn). Over the corpus period (2001-03-11 to 2001-04-26), Jim Eden sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-03-11** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-eden-pgn",
+    "name": "Jim Eden",
+    "email": "jim_eden@pgn.com",
+    "primary_affiliation": "companies/pgn"
+  }
+}

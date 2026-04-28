@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-fischer",
+  "type": "person",
+  "title": "Mark Fischer",
+  "compiled_truth": "Mark Fischer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-03 to 2002-03-13), Mark Fischer sent 48 and received 823 emails, totalling 871 interactions. Top correspondents: [Holden Salisbury](people/holden-salisbury) (42), [Tom Alonso](people/tom-alonso) (19), [Tim Belden](people/tim-belden) (6), [ Hall](people/hall) (3), [Stephen Thome](people/stephen-thome) (3). Mailbox folders observed: bill_williams_iii, deleted_items, inbox, read.",
+  "timeline": "- **2000-08-03** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-fischer",
+    "name": "Mark Fischer",
+    "email": "mark.fischer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

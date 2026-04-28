@@ -1,0 +1,14 @@
+{
+  "slug": "people/adriana-cortes",
+  "type": "person",
+  "title": "Adriana Cortes",
+  "compiled_truth": "Adriana Cortes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-21 to 2002-05-06), Adriana Cortes sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adriana-cortes",
+    "name": "Adriana Cortes",
+    "email": "adriana.cortes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

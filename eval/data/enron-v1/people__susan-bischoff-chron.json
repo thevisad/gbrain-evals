@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-bischoff-chron",
+  "type": "person",
+  "title": "Susan Bischoff",
+  "compiled_truth": "Susan Bischoff is an external contact at [Chron](companies/chron). Over the corpus period (2000-11-13 to 2001-11-09), Susan Bischoff sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-bischoff-chron",
+    "name": "Susan Bischoff",
+    "email": "susan.bischoff@chron.com",
+    "primary_affiliation": "companies/chron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/diana-profir",
+  "type": "person",
+  "title": "Diana Profir",
+  "compiled_truth": "Diana Profir is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-06 to 2001-11-14), Diana Profir sent 1 and received 58 emails, totalling 59 interactions. Top correspondents: [John Oliver](people/john-oliver) (1), [Lisa Jacobson](people/lisa-jacobson) (1), [Louis Redshaw](people/louis-redshaw) (1), [Dan Badger](people/dan-badger) (1), [Mustafa Hussain](people/mustafa-hussain) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diana-profir",
+    "name": "Diana Profir",
+    "email": "diana.profir@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

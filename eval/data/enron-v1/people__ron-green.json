@@ -1,0 +1,14 @@
+{
+  "slug": "people/ron-green",
+  "type": "person",
+  "title": "Ron Green",
+  "compiled_truth": "Ron Green is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-07 to 2001-11-05), Ron Green sent 0 and received 93 emails, totalling 93 interactions.",
+  "timeline": "- **2000-03-07** | First recorded email in corpus\n- **2001-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ron-green",
+    "name": "Ron Green",
+    "email": "ron.green@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

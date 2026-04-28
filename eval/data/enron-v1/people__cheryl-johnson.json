@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheryl-johnson",
+  "type": "person",
+  "title": "Cheryl Johnson",
+  "compiled_truth": "Cheryl Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-01 to 2002-05-13), Cheryl Johnson sent 130 and received 243 emails, totalling 373 interactions. Top correspondents: [Bernice Rodriguez](people/bernice-rodriguez) (118), [Tana Jones](people/tana-jones) (117), [Stacey Richardson](people/stacey-richardson) (114), [David Hardy](people/david-hardy) (110), [Brant Reves](people/brant-reves) (107). Mailbox folders observed: calendar, deleted_items, inbox, sent_items.",
+  "timeline": "- **2000-08-01** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheryl-johnson",
+    "name": "Cheryl Johnson",
+    "email": "cheryl.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

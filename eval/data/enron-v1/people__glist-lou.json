@@ -1,0 +1,14 @@
+{
+  "slug": "people/glist-lou",
+  "type": "person",
+  "title": "Glist Lou",
+  "compiled_truth": "Glist Lou is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-16 to 2002-03-14), Glist Lou sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2002-01-16** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/glist-lou",
+    "name": "Glist Lou",
+    "email": "glist.lou@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

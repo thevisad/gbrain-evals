@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-christen",
+  "type": "person",
+  "title": "Kevin Christen",
+  "compiled_truth": "Kevin Christen is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-01 to 2002-01-25), Kevin Christen sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-10-01** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-christen",
+    "name": "Kevin Christen",
+    "email": "kevin.christen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

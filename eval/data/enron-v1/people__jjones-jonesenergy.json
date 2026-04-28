@@ -1,0 +1,14 @@
+{
+  "slug": "people/jjones-jonesenergy",
+  "type": "person",
+  "title": "Jjones",
+  "compiled_truth": "Jjones is an external contact at [Jonesenergy](companies/jonesenergy). Over the corpus period (2000-08-07 to 2001-02-09), Jjones sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-08-07** | First recorded email in corpus\n- **2001-02-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jjones-jonesenergy",
+    "name": "Jjones",
+    "email": "jjones@jonesenergy.com",
+    "primary_affiliation": "companies/jonesenergy"
+  }
+}

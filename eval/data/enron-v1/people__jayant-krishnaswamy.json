@@ -1,0 +1,14 @@
+{
+  "slug": "people/jayant-krishnaswamy",
+  "type": "person",
+  "title": "Jayant Krishnaswamy",
+  "compiled_truth": "Jayant Krishnaswamy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2002-02-07), Jayant Krishnaswamy sent 5 and received 64 emails, totalling 69 interactions. Top correspondents: [Russ Severson](people/russ-severson) (3), [George Grant](people/george-grant) (2), [Dave Nommensen](people/dave-nommensen) (2), [Zhiyong Wei](people/zhiyong-wei) (2), [Geoff Storey](people/geoff-storey) (2). Mailbox folders observed: deleted_items, inbox, logistics.",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jayant-krishnaswamy",
+    "name": "Jayant Krishnaswamy",
+    "email": "jayant.krishnaswamy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sonderfan-hotmail",
+  "type": "person",
+  "title": "Sonderfan",
+  "compiled_truth": "Sonderfan is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-10-12 to 2001-09-14), Sonderfan sent 2 and received 29 emails, totalling 31 interactions. Top correspondents: [Katyhester](people/katyhester-hotmail) (2), [Ehillegeist](people/ehillegeist-hotmail) (2), [Kaseywalker](people/kaseywalker-mindspring) (2), [Sscott5](people/sscott5) (2), [Ljahnke](people/ljahnke-aerotek) (1).",
+  "timeline": "- **2000-10-12** | First recorded email in corpus\n- **2001-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sonderfan-hotmail",
+    "name": "Sonderfan",
+    "email": "sonderfan@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

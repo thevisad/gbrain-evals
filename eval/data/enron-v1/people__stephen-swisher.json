@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-swisher",
+  "type": "person",
+  "title": "Stephen Swisher",
+  "compiled_truth": "Stephen Swisher is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-23 to 2001-12-12), Stephen Swisher sent 6 and received 22 emails, totalling 28 interactions. Top correspondents: [J  Farmer](people/j-farmer) (5), [Michael Olsen](people/michael-olsen) (4), [Rita Wynne](people/rita-wynne) (2), [Sherry Anastas](people/sherry-anastas) (2), [Natalie Baker](people/natalie-baker) (1). Mailbox folders observed: deleted_items, inbox, logistics.",
+  "timeline": "- **2001-04-23** | First recorded email in corpus\n- **2001-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-swisher",
+    "name": "Stephen Swisher",
+    "email": "stephen.swisher@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

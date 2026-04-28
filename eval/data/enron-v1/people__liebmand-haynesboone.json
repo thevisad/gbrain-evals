@@ -1,0 +1,14 @@
+{
+  "slug": "people/liebmand-haynesboone",
+  "type": "person",
+  "title": "Liebmand",
+  "compiled_truth": "Liebmand is an external contact at [Haynesboone](companies/haynesboone). Over the corpus period (2001-06-11 to 2001-11-07), Liebmand sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-06-11** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/liebmand-haynesboone",
+    "name": "Liebmand",
+    "email": "liebmand@haynesboone.com",
+    "primary_affiliation": "companies/haynesboone"
+  }
+}

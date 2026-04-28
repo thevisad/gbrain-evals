@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-park",
+  "type": "person",
+  "title": "Richard Park",
+  "compiled_truth": "Richard Park is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2000-11-06), Richard Park sent 1 and received 13 emails, totalling 14 interactions.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2000-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-park",
+    "name": "Richard Park",
+    "email": "richard.park@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

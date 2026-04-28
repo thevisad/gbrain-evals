@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-sturr",
+  "type": "person",
+  "title": "Kathy Sturr",
+  "compiled_truth": "Kathy Sturr is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2002-03-25), Kathy Sturr sent 3 and received 302 emails, totalling 305 interactions. Top correspondents: [Jean Adams](people/jean-adams) (3), [Robert Benningfield](people/robert-benningfield) (3), [Larry Berger](people/larry-berger) (3), [Lynn Blair](people/lynn-blair) (3), [John Buchanan](people/john-buchanan) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-sturr",
+    "name": "Kathy Sturr",
+    "email": "kathy.sturr@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

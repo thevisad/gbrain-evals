@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-hesse",
+  "type": "person",
+  "title": "Lisa Hesse",
+  "compiled_truth": "Lisa Hesse is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-11-28), Lisa Hesse sent 14 and received 158 emails, totalling 172 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (9), [Ellen Wallumrod](people/ellen-wallumrod) (5), [Debra Perlingiere](people/debra-perlingiere) (4), [Greg Whalley](people/greg-whalley) (2), [Nelson Ferries](people/nelson-ferries) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-hesse",
+    "name": "Lisa Hesse",
+    "email": "lisa.hesse@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/scottwl-hotmail",
+  "type": "person",
+  "title": "Scottwl",
+  "compiled_truth": "Scottwl is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (1999-12-04 to 2002-01-02), Scottwl sent 48 and received 399 emails, totalling 447 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (23), [Cameron](people/cameron-perfect) (22), [Jdasovic](people/jdasovic) (21), [Psellers](people/psellers-haas) (15), [Psellers](people/psellers-pacbell) (9).",
+  "timeline": "- **1999-12-04** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scottwl-hotmail",
+    "name": "Scottwl",
+    "email": "scottwl@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

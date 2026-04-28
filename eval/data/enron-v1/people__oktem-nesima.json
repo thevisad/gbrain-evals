@@ -1,0 +1,14 @@
+{
+  "slug": "people/oktem-nesima",
+  "type": "person",
+  "title": "Oktem",
+  "compiled_truth": "Oktem is an external contact at [Nesima](companies/nesima). Over the corpus period (2001-03-12 to 2001-04-30), Oktem sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/oktem-nesima",
+    "name": "Oktem",
+    "email": "oktem@nesima.com",
+    "primary_affiliation": "companies/nesima"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/eugene-peabody",
+  "type": "person",
+  "title": "Eugene Peabody",
+  "compiled_truth": "Eugene Peabody is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-01), Eugene Peabody sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eugene-peabody",
+    "name": "Eugene Peabody",
+    "email": "eugene.peabody@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

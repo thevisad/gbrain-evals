@@ -1,0 +1,14 @@
+{
+  "slug": "people/gao-haas",
+  "type": "person",
+  "title": "Gao",
+  "compiled_truth": "Gao is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2000-12-06), Gao sent 0 and received 39 emails, totalling 39 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gao-haas",
+    "name": "Gao",
+    "email": "gao@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

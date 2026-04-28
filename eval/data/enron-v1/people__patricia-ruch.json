@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-ruch",
+  "type": "person",
+  "title": "Patricia Ruch",
+  "compiled_truth": "Patricia Ruch is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-08 to 2001-05-09), Patricia Ruch sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-ruch",
+    "name": "Patricia Ruch",
+    "email": "patricia.ruch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

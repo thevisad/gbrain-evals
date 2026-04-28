@@ -1,0 +1,14 @@
+{
+  "slug": "people/anita",
+  "type": "person",
+  "title": " Anita",
+  "compiled_truth": "Anita is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-06 to 2002-01-31),  Anita sent 0 and received 37 emails, totalling 37 interactions.",
+  "timeline": "- **2001-06-06** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anita",
+    "name": " Anita",
+    "email": ".anita@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

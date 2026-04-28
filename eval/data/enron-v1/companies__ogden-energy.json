@@ -1,0 +1,27 @@
+{
+  "slug": "companies/ogden-energy",
+  "type": "company",
+  "title": "Ogden-energy",
+  "compiled_truth": "Ogden-energy is an external organization that appears in the Enron email corpus. Domain: ogden-energy.com. Total email interactions with Enron: 804. Known contacts: 10 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (804 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/ogden-energy",
+    "name": "Ogden-energy",
+    "employees": [
+      "people/frazier-blaylock-ogden-energy",
+      "people/kent-burton-ogden-energy",
+      "people/kristy-rumbaugh-ogden-energy",
+      "people/lucian-fox-ogden-energy",
+      "people/marty-mcfadden-ogden-energy",
+      "people/paul-wood-ogden-energy",
+      "people/paula-soos-ogden-energy",
+      "people/rich-dyer-ogden-energy",
+      "people/tcortopassi-ogden-energy",
+      "people/ted-cortopassi-ogden-energy"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

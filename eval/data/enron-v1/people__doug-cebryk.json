@@ -1,0 +1,14 @@
+{
+  "slug": "people/doug-cebryk",
+  "type": "person",
+  "title": "Doug Cebryk",
+  "compiled_truth": "Doug Cebryk is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-21 to 2002-01-23), Doug Cebryk sent 14 and received 81 emails, totalling 95 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (14), [Eric Gadd](people/eric-gadd) (6), [D  Martin](people/d-martin) (6), [John Shafer](people/john-shafer) (4), [Ron Matthews](people/ron-matthews) (3). Mailbox folders observed: deleted_items, projects, tw_commercial_group.",
+  "timeline": "- **2001-05-21** | First recorded email in corpus\n- **2002-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/doug-cebryk",
+    "name": "Doug Cebryk",
+    "email": "doug.cebryk@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

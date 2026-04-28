@@ -1,0 +1,14 @@
+{
+  "slug": "people/airam-arteaga",
+  "type": "person",
+  "title": "Airam Arteaga",
+  "compiled_truth": "Airam Arteaga is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-05), Airam Arteaga sent 46 and received 346 emails, totalling 392 interactions. Top correspondents: [S  Shively](people/s-shively) (22), [Martin Cuilla](people/martin-cuilla) (16), [Geoff Storey](people/geoff-storey) (16), [Kevin Ruscitti](people/kevin-ruscitti) (15), [Tom Donohoe](people/tom-donohoe) (14). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/airam-arteaga",
+    "name": "Airam Arteaga",
+    "email": "airam.arteaga@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

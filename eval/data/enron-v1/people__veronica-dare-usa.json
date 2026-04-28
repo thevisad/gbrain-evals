@@ -1,0 +1,14 @@
+{
+  "slug": "people/veronica-dare-usa",
+  "type": "person",
+  "title": "Veronica-Dare",
+  "compiled_truth": "Veronica-Dare is an external contact at [Usa](companies/usa). Over the corpus period (2000-11-02 to 2000-12-12), Veronica-Dare sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/veronica-dare-usa",
+    "name": "Veronica-Dare",
+    "email": "veronica-dare@usa.net",
+    "primary_affiliation": "companies/usa"
+  }
+}

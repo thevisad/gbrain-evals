@@ -1,0 +1,14 @@
+{
+  "slug": "people/h-otto",
+  "type": "person",
+  "title": "H  Otto",
+  "compiled_truth": "H  Otto is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-30 to 2002-02-21), H  Otto sent 4 and received 82 emails, totalling 86 interactions. Top correspondents: [Dutch Quigley](people/dutch-quigley) (3), [Jonathan Mckay](people/jonathan-mckay) (1). Mailbox folders observed: deleted_items, retail.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/h-otto",
+    "name": "H  Otto",
+    "email": "h..otto@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

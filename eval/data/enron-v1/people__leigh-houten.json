@@ -1,0 +1,14 @@
+{
+  "slug": "people/leigh-houten",
+  "type": "person",
+  "title": "Leigh Houten",
+  "compiled_truth": "Leigh Houten is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2001-05-23), Leigh Houten sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leigh-houten",
+    "name": "Leigh Houten",
+    "email": "leigh.houten@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

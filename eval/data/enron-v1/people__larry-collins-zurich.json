@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-collins-zurich",
+  "type": "person",
+  "title": "Larry Collins",
+  "compiled_truth": "Larry Collins is an external contact at [Zurich](companies/zurich). Over the corpus period (2001-03-12 to 2001-04-30), Larry Collins sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-collins-zurich",
+    "name": "Larry Collins",
+    "email": "larry.collins@zurich.com",
+    "primary_affiliation": "companies/zurich"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rshoe32-ev1",
+  "type": "person",
+  "title": "Rshoe32",
+  "compiled_truth": "Rshoe32 is an external contact at [Ev1](companies/ev1). Over the corpus period (2000-09-05 to 2001-12-08), Rshoe32 sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus\n- **2001-12-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rshoe32-ev1",
+    "name": "Rshoe32",
+    "email": "rshoe32@ev1.net",
+    "primary_affiliation": "companies/ev1"
+  }
+}

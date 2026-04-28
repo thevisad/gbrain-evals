@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-fraser",
+  "type": "person",
+  "title": "Jennifer Fraser",
+  "compiled_truth": "Jennifer Fraser is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-04 to 2001-11-26), Jennifer Fraser sent 58 and received 622 emails, totalling 680 interactions. Top correspondents: [John Arnold](people/john-arnold) (25), [A  Shankman](people/a-shankman) (15), [Jeffrey Shankman](people/jeffrey-shankman) (10), [Chris Mahoney](people/chris-mahoney) (5), [Mike McConnell](people/mike-mcconnell) (5). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-01-04** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-fraser",
+    "name": "Jennifer Fraser",
+    "email": "jennifer.fraser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

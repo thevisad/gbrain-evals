@@ -1,0 +1,14 @@
+{
+  "slug": "people/missy-stevens",
+  "type": "person",
+  "title": "Missy Stevens",
+  "compiled_truth": "Missy Stevens is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-21 to 2001-10-24), Missy Stevens sent 5 and received 22 emails, totalling 27 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1), [Michelle Cash](people/michelle-cash) (1), [Rod Hayslett](people/rod-hayslett) (1), [Kenneth Lay](people/kenneth-lay) (1), [Rosalee Fleming](people/rosalee-fleming) (1). Mailbox folders observed: deleted_items, inbox, personal, projects.",
+  "timeline": "- **2000-08-21** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/missy-stevens",
+    "name": "Missy Stevens",
+    "email": "missy.stevens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-miller",
+  "type": "person",
+  "title": "Kevin Miller",
+  "compiled_truth": "Kevin Miller is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-20 to 2002-01-18), Kevin Miller sent 1 and received 35 emails, totalling 36 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (1), [Eva Rainer](people/eva-rainer) (1), [Lisa Druzbik](people/lisa-druzbik) (1), [Jean Mrha](people/jean-mrha) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-miller",
+    "name": "Kevin Miller",
+    "email": "kevin.miller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

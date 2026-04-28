@@ -1,0 +1,14 @@
+{
+  "slug": "people/gabriel-monroy",
+  "type": "person",
+  "title": "Gabriel Monroy",
+  "compiled_truth": "Gabriel Monroy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-29 to 2001-12-03), Gabriel Monroy sent 1 and received 609 emails, totalling 610 interactions. Top correspondents: [Robin Rodrigue](people/robin-rodrigue) (1).",
+  "timeline": "- **2000-03-29** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gabriel-monroy",
+    "name": "Gabriel Monroy",
+    "email": "gabriel.monroy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

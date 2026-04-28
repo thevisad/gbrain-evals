@@ -1,0 +1,14 @@
+{
+  "slug": "people/skaravit-ci",
+  "type": "person",
+  "title": "Skaravit",
+  "compiled_truth": "Skaravit is an external contact at [Ci](companies/ci). Over the corpus period (2001-02-20 to 2001-04-27), Skaravit sent 0 and received 65 emails, totalling 65 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/skaravit-ci",
+    "name": "Skaravit",
+    "email": "skaravit@ci.tacoma.wa.us",
+    "primary_affiliation": "companies/ci"
+  }
+}

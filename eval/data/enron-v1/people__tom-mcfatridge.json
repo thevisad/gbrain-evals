@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-mcfatridge",
+  "type": "person",
+  "title": "Tom Mcfatridge",
+  "compiled_truth": "Tom Mcfatridge is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-12-19 to 2002-05-13), Tom Mcfatridge sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-12-19** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-mcfatridge",
+    "name": "Tom Mcfatridge",
+    "email": "tom.mcfatridge@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-anderson",
+  "type": "person",
+  "title": "Patricia Anderson",
+  "compiled_truth": "Patricia Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-12-05), Patricia Anderson sent 1 and received 40 emails, totalling 41 interactions. Top correspondents: [Janet Wallis](people/janet-wallis) (1), [Dan Hyvl](people/dan-hyvl) (1).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-anderson",
+    "name": "Patricia Anderson",
+    "email": "patricia.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

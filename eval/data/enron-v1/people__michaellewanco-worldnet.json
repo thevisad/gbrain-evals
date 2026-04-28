@@ -1,0 +1,14 @@
+{
+  "slug": "people/michaellewanco-worldnet",
+  "type": "person",
+  "title": "Michaellewanco",
+  "compiled_truth": "Michaellewanco is an external contact at [Worldnet](companies/worldnet). Over the corpus period (2001-06-19 to 2001-07-30), Michaellewanco sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-06-19** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michaellewanco-worldnet",
+    "name": "Michaellewanco",
+    "email": "michaellewanco@worldnet.att.net",
+    "primary_affiliation": "companies/worldnet"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/stagecoachmama-hotmail",
+  "type": "person",
+  "title": "Stagecoachmama",
+  "compiled_truth": "Stagecoachmama is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-05-24 to 2001-04-11), Stagecoachmama sent 0 and received 80 emails, totalling 80 interactions.",
+  "timeline": "- **2000-05-24** | First recorded email in corpus\n- **2001-04-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stagecoachmama-hotmail",
+    "name": "Stagecoachmama",
+    "email": "stagecoachmama@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

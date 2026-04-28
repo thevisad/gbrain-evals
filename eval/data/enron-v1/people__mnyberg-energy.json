@@ -1,0 +1,14 @@
+{
+  "slug": "people/mnyberg-energy",
+  "type": "person",
+  "title": "Mnyberg",
+  "compiled_truth": "Mnyberg is an external contact at [Energy](companies/energy). Over the corpus period (2000-10-20 to 2001-07-31), Mnyberg sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-10-20** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mnyberg-energy",
+    "name": "Mnyberg",
+    "email": "mnyberg@energy.state.ca.us",
+    "primary_affiliation": "companies/energy"
+  }
+}

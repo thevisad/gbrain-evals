@@ -1,0 +1,14 @@
+{
+  "slug": "people/mohsin",
+  "type": "person",
+  "title": " Mohsin",
+  "compiled_truth": "Mohsin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2001-06-06),  Mohsin sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mohsin",
+    "name": " Mohsin",
+    "email": ".mohsin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

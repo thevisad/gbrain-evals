@@ -1,0 +1,14 @@
+{
+  "slug": "people/jmhpower-aol",
+  "type": "person",
+  "title": "Jmhpower",
+  "compiled_truth": "Jmhpower is an external contact at [AOL](companies/aol). Over the corpus period (2000-09-01 to 2001-06-01), Jmhpower sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jmhpower-aol",
+    "name": "Jmhpower",
+    "email": "jmhpower@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

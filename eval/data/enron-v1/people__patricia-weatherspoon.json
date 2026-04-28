@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-weatherspoon",
+  "type": "person",
+  "title": "Patricia Weatherspoon",
+  "compiled_truth": "Patricia Weatherspoon is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-15 to 2002-05-21), Patricia Weatherspoon sent 1 and received 24 emails, totalling 25 interactions. Top correspondents: [Susan Bailey](people/susan-bailey) (1), [Cornelio Pua](people/cornelio-pua) (1), [Rob Wells](people/rob-wells) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-10-15** | First recorded email in corpus\n- **2002-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-weatherspoon",
+    "name": "Patricia Weatherspoon",
+    "email": "patricia.weatherspoon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

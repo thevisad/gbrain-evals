@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-wodraska",
+  "type": "person",
+  "title": "John Wodraska",
+  "compiled_truth": "John Wodraska is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-03-25), John Wodraska sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-wodraska",
+    "name": "John Wodraska",
+    "email": "john.wodraska@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

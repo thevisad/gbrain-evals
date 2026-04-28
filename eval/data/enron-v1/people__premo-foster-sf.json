@@ -1,0 +1,14 @@
+{
+  "slug": "people/premo-foster-sf",
+  "type": "person",
+  "title": "Premo",
+  "compiled_truth": "Premo is an external contact at [Foster-sf](companies/foster-sf). Over the corpus period (2000-08-25 to 2000-09-25), Premo sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2000-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/premo-foster-sf",
+    "name": "Premo",
+    "email": "premo@foster-sf.com",
+    "primary_affiliation": "companies/foster-sf"
+  }
+}

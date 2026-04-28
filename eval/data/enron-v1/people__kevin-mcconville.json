@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-mcconville",
+  "type": "person",
+  "title": "Kevin Mcconville",
+  "compiled_truth": "Kevin Mcconville is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2000-06-02), Kevin Mcconville sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2000-06-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-mcconville",
+    "name": "Kevin Mcconville",
+    "email": "kevin.mcconville@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

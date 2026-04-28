@@ -1,0 +1,14 @@
+{
+  "slug": "people/tsolberg-spurr",
+  "type": "person",
+  "title": "Tsolberg",
+  "compiled_truth": "Tsolberg is an external contact at [Spurr](companies/spurr). Over the corpus period (1999-11-22 to 2001-07-31), Tsolberg sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tsolberg-spurr",
+    "name": "Tsolberg",
+    "email": "tsolberg@spurr.org",
+    "primary_affiliation": "companies/spurr"
+  }
+}

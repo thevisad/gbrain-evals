@@ -1,0 +1,14 @@
+{
+  "slug": "people/brenneman-greg",
+  "type": "person",
+  "title": "Brenneman Greg",
+  "compiled_truth": "Brenneman Greg is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-17 to 2001-08-20), Brenneman Greg sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-07-17** | First recorded email in corpus\n- **2001-08-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brenneman-greg",
+    "name": "Brenneman Greg",
+    "email": "brenneman.greg@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/pat-radford",
+  "type": "person",
+  "title": "Pat Radford",
+  "compiled_truth": "Pat Radford is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-02-09 to 2002-01-28), Pat Radford sent 70 and received 367 emails, totalling 437 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (54), [Steve Hooser](people/steve-hooser) (41), [Sandi Braband](people/sandi-braband) (38), [Shonnie Daniel](people/shonnie-daniel) (32), [Robert Walker](people/robert-walker) (32). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-02-09** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pat-radford",
+    "name": "Pat Radford",
+    "email": "pat.radford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

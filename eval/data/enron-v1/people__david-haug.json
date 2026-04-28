@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-haug",
+  "type": "person",
+  "title": "David Haug",
+  "compiled_truth": "David Haug is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-15 to 2001-10-27), David Haug sent 8 and received 132 emails, totalling 140 interactions. Top correspondents: [Steven Kean](people/steven-kean) (3), [Kenneth Lay](people/kenneth-lay) (2), [James Bannantine](people/james-bannantine) (2), [Diomedes Christodoulou](people/diomedes-christodoulou) (2), [Larry Izzo](people/larry-izzo) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-10-15** | First recorded email in corpus\n- **2001-10-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-haug",
+    "name": "David Haug",
+    "email": "david.haug@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

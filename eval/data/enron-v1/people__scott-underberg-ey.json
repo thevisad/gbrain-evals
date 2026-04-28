@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-underberg-ey",
+  "type": "person",
+  "title": "Scott Underberg",
+  "compiled_truth": "Scott Underberg is an external contact at [Ey](companies/ey). Over the corpus period (2002-01-30 to 2002-03-18), Scott Underberg sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-30** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-underberg-ey",
+    "name": "Scott Underberg",
+    "email": "scott.underberg@ey.com",
+    "primary_affiliation": "companies/ey"
+  }
+}

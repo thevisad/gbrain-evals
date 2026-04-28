@@ -1,0 +1,14 @@
+{
+  "slug": "people/lin-richardson",
+  "type": "person",
+  "title": "Lin Richardson",
+  "compiled_truth": "Lin Richardson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-02-09 to 2000-11-28), Lin Richardson sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **1999-02-09** | First recorded email in corpus\n- **2000-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lin-richardson",
+    "name": "Lin Richardson",
+    "email": "lin.richardson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

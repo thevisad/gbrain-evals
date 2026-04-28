@@ -1,0 +1,14 @@
+{
+  "slug": "people/brodie-haas",
+  "type": "person",
+  "title": "Brodie",
+  "compiled_truth": "Brodie is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-02 to 2001-12-12), Brodie sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **1999-11-02** | First recorded email in corpus\n- **2001-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brodie-haas",
+    "name": "Brodie",
+    "email": "brodie@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

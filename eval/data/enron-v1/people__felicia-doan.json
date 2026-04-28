@@ -1,0 +1,14 @@
+{
+  "slug": "people/felicia-doan",
+  "type": "person",
+  "title": "Felicia Doan",
+  "compiled_truth": "Felicia Doan is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-02-26), Felicia Doan sent 9 and received 152 emails, totalling 161 interactions. Top correspondents: [Rudy Acevedo](people/rudy-acevedo) (9), [Diana Allen](people/diana-allen) (9), [Russell Ballato](people/russell-ballato) (9), [Ted Ballinger](people/ted-ballinger) (9), [Don Baughman](people/don-baughman) (9).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-02-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/felicia-doan",
+    "name": "Felicia Doan",
+    "email": "felicia.doan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

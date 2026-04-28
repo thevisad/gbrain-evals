@@ -1,0 +1,14 @@
+{
+  "slug": "people/adnan-patel",
+  "type": "person",
+  "title": "Adnan Patel",
+  "compiled_truth": "Adnan Patel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-30 to 2001-11-12), Adnan Patel sent 18 and received 297 emails, totalling 315 interactions. Top correspondents: [Tana Jones](people/tana-jones) (17), [Mary Gosnell](people/mary-gosnell) (14), [Tom Moran](people/tom-moran) (13), [Stacey Richardson](people/stacey-richardson) (13), [Frank Davis](people/frank-davis) (12).",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adnan-patel",
+    "name": "Adnan Patel",
+    "email": "adnan.patel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

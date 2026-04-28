@@ -1,0 +1,14 @@
+{
+  "slug": "people/molly-carriere",
+  "type": "person",
+  "title": "Molly Carriere",
+  "compiled_truth": "Molly Carriere is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-02 to 2001-11-02), Molly Carriere sent 1 and received 65 emails, totalling 66 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (1), [Melissa Graves](people/melissa-graves) (1), [Steve Schneider](people/steve-schneider) (1), [Brad Blevins](people/brad-blevins) (1).",
+  "timeline": "- **1999-09-02** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/molly-carriere",
+    "name": "Molly Carriere",
+    "email": "molly.carriere@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

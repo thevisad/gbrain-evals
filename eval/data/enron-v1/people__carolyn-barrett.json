@@ -1,0 +1,14 @@
+{
+  "slug": "people/carolyn-barrett",
+  "type": "person",
+  "title": "Carolyn Barrett",
+  "compiled_truth": "Carolyn Barrett is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-29), Carolyn Barrett sent 1 and received 42 emails, totalling 43 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (1), [Marla Barnard](people/marla-barnard) (1), [Margaret Dennison](people/margaret-dennison) (1). Mailbox folders observed: projects.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carolyn-barrett",
+    "name": "Carolyn Barrett",
+    "email": "carolyn.barrett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lorna-jones",
+  "type": "person",
+  "title": "Lorna Jones",
+  "compiled_truth": "Lorna Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-08 to 2000-11-28), Lorna Jones sent 6 and received 16 emails, totalling 22 interactions. Top correspondents: [Tana Jones](people/tana-jones) (5), [Annette Schneider](people/annette-schneider) (2), [Christopher Ware](people/christopher-ware) (2), [Debbie Nicholls](people/debbie-nicholls) (1), [Rebecca Millerchip](people/rebecca-millerchip) (1).",
+  "timeline": "- **1999-09-08** | First recorded email in corpus\n- **2000-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lorna-jones",
+    "name": "Lorna Jones",
+    "email": "lorna.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

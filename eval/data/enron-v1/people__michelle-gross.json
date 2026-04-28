@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-gross",
+  "type": "person",
+  "title": "Michelle Gross",
+  "compiled_truth": "Michelle Gross is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-12-10), Michelle Gross sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-gross",
+    "name": "Michelle Gross",
+    "email": "michelle.gross@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

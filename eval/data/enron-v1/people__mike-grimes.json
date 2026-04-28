@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-grimes",
+  "type": "person",
+  "title": "Mike Grimes",
+  "compiled_truth": "Mike Grimes is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-01 to 2001-08-02), Mike Grimes sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-08-01** | First recorded email in corpus\n- **2001-08-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-grimes",
+    "name": "Mike Grimes",
+    "email": "mike.grimes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

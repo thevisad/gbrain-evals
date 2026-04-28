@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-viverito",
+  "type": "person",
+  "title": "John Viverito",
+  "compiled_truth": "John Viverito is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-11-29), John Viverito sent 63 and received 844 emails, totalling 907 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (35), [Alan Aronowitz](people/alan-aronowitz) (29), [Jonathan Whitehead](people/jonathan-whitehead) (20), [Susan Musch](people/susan-musch) (14), [Tom Moran](people/tom-moran) (10). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-viverito",
+    "name": "John Viverito",
+    "email": "john.viverito@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

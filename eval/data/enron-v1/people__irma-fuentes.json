@@ -1,0 +1,14 @@
+{
+  "slug": "people/irma-fuentes",
+  "type": "person",
+  "title": "Irma Fuentes",
+  "compiled_truth": "Irma Fuentes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-11-15), Irma Fuentes sent 0 and received 47 emails, totalling 47 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-11-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/irma-fuentes",
+    "name": "Irma Fuentes",
+    "email": "irma.fuentes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

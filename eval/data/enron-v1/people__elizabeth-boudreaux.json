@@ -1,0 +1,14 @@
+{
+  "slug": "people/elizabeth-boudreaux",
+  "type": "person",
+  "title": "Elizabeth Boudreaux",
+  "compiled_truth": "Elizabeth Boudreaux is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2001-12-03), Elizabeth Boudreaux sent 3 and received 17 emails, totalling 20 interactions. Top correspondents: [Ginger Gamble](people/ginger-gamble) (2), [Joan Woodson](people/joan-woodson) (1), [Jennifer Rudolph](people/jennifer-rudolph) (1).",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elizabeth-boudreaux",
+    "name": "Elizabeth Boudreaux",
+    "email": "elizabeth.boudreaux@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

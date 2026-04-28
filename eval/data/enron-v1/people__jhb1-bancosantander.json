@@ -1,0 +1,14 @@
+{
+  "slug": "people/jhb1-bancosantander",
+  "type": "person",
+  "title": "Jhb1",
+  "compiled_truth": "Jhb1 is an external contact at [Bancosantander](companies/bancosantander). Over the corpus period (2000-05-04 to 2001-06-11), Jhb1 sent 3 and received 45 emails, totalling 48 interactions. Top correspondents: [Mcunningham](people/mcunningham-isda) (3), [Board](people/board-isda) (3), [Rgrove](people/rgrove-isda) (2), [Rpickel](people/rpickel-isda) (2), [Rainslie](people/rainslie-isda) (2).",
+  "timeline": "- **2000-05-04** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jhb1-bancosantander",
+    "name": "Jhb1",
+    "email": "jhb1@bancosantander.es",
+    "primary_affiliation": "companies/bancosantander"
+  }
+}

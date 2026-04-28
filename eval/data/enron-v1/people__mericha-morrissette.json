@@ -1,0 +1,14 @@
+{
+  "slug": "people/mericha-morrissette",
+  "type": "person",
+  "title": "Mericha Morrissette",
+  "compiled_truth": "Mericha Morrissette is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-17 to 2001-05-24), Mericha Morrissette sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-08-17** | First recorded email in corpus\n- **2001-05-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mericha-morrissette",
+    "name": "Mericha Morrissette",
+    "email": "mericha.morrissette@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

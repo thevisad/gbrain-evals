@@ -1,0 +1,14 @@
+{
+  "slug": "people/cvpilot-hotmail",
+  "type": "person",
+  "title": "Cvpilot",
+  "compiled_truth": "Cvpilot is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-06-20 to 2000-11-25), Cvpilot sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cvpilot-hotmail",
+    "name": "Cvpilot",
+    "email": "cvpilot@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

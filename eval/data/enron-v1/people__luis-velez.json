@@ -1,0 +1,14 @@
+{
+  "slug": "people/luis-velez",
+  "type": "person",
+  "title": "Luis Velez",
+  "compiled_truth": "Luis Velez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2001-12-03), Luis Velez sent 0 and received 61 emails, totalling 61 interactions.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/luis-velez",
+    "name": "Luis Velez",
+    "email": "luis.velez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

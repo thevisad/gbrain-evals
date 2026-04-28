@@ -1,0 +1,14 @@
+{
+  "slug": "people/therese-candella",
+  "type": "person",
+  "title": "Therese Candella",
+  "compiled_truth": "Therese Candella is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-16 to 2002-01-29), Therese Candella sent 10 and received 28 emails, totalling 38 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (7), [Shirley Crenshaw](people/shirley-crenshaw) (5), [Anita Dupont](people/anita-dupont) (4), [G  Moore](people/g-moore) (4), [Tom Barkley](people/tom-barkley) (3). Mailbox folders observed: calendar, deleted_items.",
+  "timeline": "- **2001-02-16** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/therese-candella",
+    "name": "Therese Candella",
+    "email": "therese.candella@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

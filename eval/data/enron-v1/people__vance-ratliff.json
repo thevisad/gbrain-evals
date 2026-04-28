@@ -1,0 +1,14 @@
+{
+  "slug": "people/vance-ratliff",
+  "type": "person",
+  "title": "Vance Ratliff",
+  "compiled_truth": "Vance Ratliff is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-25 to 2001-11-19), Vance Ratliff sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [Lizzette Palmer](people/lizzette-palmer) (1), [Sybille Lilienthal](people/sybille-lilienthal) (1), [Liz Panfely](people/liz-panfely) (1), [Perrin Worrell](people/perrin-worrell) (1), [Vangie Salas](people/vangie-salas) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-10-25** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vance-ratliff",
+    "name": "Vance Ratliff",
+    "email": "vance.ratliff@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

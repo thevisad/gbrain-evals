@@ -1,0 +1,14 @@
+{
+  "slug": "people/joan-quick",
+  "type": "person",
+  "title": "Joan Quick",
+  "compiled_truth": "Joan Quick is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-13), Joan Quick sent 89 and received 412 emails, totalling 501 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (45), [Scott Josey](people/scott-josey) (24), [Chris Germany](people/chris-germany) (22), [L  Kelly](people/l-kelly) (20), [Arvel Martin](people/arvel-martin) (15). Mailbox folders observed: bankrupt, deleted_items, inbox, personal.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joan-quick",
+    "name": "Joan Quick",
+    "email": "joan.quick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/angelo-miroballi",
+  "type": "person",
+  "title": "Angelo Miroballi",
+  "compiled_truth": "Angelo Miroballi is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-22 to 2002-06-25), Angelo Miroballi sent 11 and received 100 emails, totalling 111 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (5), [Susan Bailey](people/susan-bailey) (4), [Kam Keiser](people/kam-keiser) (1), [Louis Dicarlo](people/louis-dicarlo) (1), [W  White](people/w-white) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-03-22** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angelo-miroballi",
+    "name": "Angelo Miroballi",
+    "email": "angelo.miroballi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

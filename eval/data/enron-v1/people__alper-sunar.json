@@ -1,0 +1,14 @@
+{
+  "slug": "people/alper-sunar",
+  "type": "person",
+  "title": "Alper Sunar",
+  "compiled_truth": "Alper Sunar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-03 to 2001-11-27), Alper Sunar sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alper-sunar",
+    "name": "Alper Sunar",
+    "email": "alper.sunar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/samswanson-aol",
+  "type": "person",
+  "title": "Samswanson",
+  "compiled_truth": "Samswanson is an external contact at [AOL](companies/aol). Over the corpus period (2001-07-25 to 2001-07-25), Samswanson sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/samswanson-aol",
+    "name": "Samswanson",
+    "email": "samswanson@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

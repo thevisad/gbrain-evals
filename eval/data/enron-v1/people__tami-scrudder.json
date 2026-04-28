@@ -1,0 +1,14 @@
+{
+  "slug": "people/tami-scrudder",
+  "type": "person",
+  "title": "Tami Scrudder",
+  "compiled_truth": "Tami Scrudder is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2001-11-27), Tami Scrudder sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tami-scrudder",
+    "name": "Tami Scrudder",
+    "email": "tami.scrudder@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

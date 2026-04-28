@@ -1,0 +1,14 @@
+{
+  "slug": "people/rsnichol-newwestenergy",
+  "type": "person",
+  "title": "Rsnichol",
+  "compiled_truth": "Rsnichol is an external contact at [Newwestenergy](companies/newwestenergy). Over the corpus period (2000-02-24 to 2002-01-02), Rsnichol sent 0 and received 84 emails, totalling 84 interactions.",
+  "timeline": "- **2000-02-24** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rsnichol-newwestenergy",
+    "name": "Rsnichol",
+    "email": "rsnichol@newwestenergy.com",
+    "primary_affiliation": "companies/newwestenergy"
+  }
+}

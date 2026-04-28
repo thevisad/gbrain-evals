@@ -1,0 +1,14 @@
+{
+  "slug": "people/fieldejr-sce",
+  "type": "person",
+  "title": "Fieldejr",
+  "compiled_truth": "Fieldejr is an external contact at [Sce](companies/sce). Over the corpus period (2000-08-15 to 2001-12-21), Fieldejr sent 0 and received 193 emails, totalling 193 interactions.",
+  "timeline": "- **2000-08-15** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fieldejr-sce",
+    "name": "Fieldejr",
+    "email": "fieldejr@sce.com",
+    "primary_affiliation": "companies/sce"
+  }
+}

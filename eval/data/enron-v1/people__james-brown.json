@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-brown",
+  "type": "person",
+  "title": "James Brown",
+  "compiled_truth": "James Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-14 to 2002-03-29), James Brown sent 5 and received 14 emails, totalling 19 interactions. Top correspondents: [Sally Beck](people/sally-beck) (5), [Thomas Bauer](people/thomas-bauer) (4), [Ted Murphy](people/ted-murphy) (4), [Brenda Herod](people/brenda-herod) (3), [Vladimir Gorny](people/vladimir-gorny) (2).",
+  "timeline": "- **2000-03-14** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-brown",
+    "name": "James Brown",
+    "email": "james.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

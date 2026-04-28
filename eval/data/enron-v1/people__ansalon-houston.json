@@ -1,0 +1,14 @@
+{
+  "slug": "people/ansalon-houston",
+  "type": "person",
+  "title": "Ansalon",
+  "compiled_truth": "Ansalon is an external contact at [Houston](companies/houston). Over the corpus period (2000-11-17 to 2001-12-10), Ansalon sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ansalon-houston",
+    "name": "Ansalon",
+    "email": "ansalon@houston.rr.com",
+    "primary_affiliation": "companies/houston"
+  }
+}

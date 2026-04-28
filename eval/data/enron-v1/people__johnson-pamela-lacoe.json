@@ -1,0 +1,14 @@
+{
+  "slug": "people/johnson-pamela-lacoe",
+  "type": "person",
+  "title": "Johnson Pamela",
+  "compiled_truth": "Johnson Pamela is an external contact at [Lacoe](companies/lacoe). Over the corpus period (1999-10-04 to 2000-12-13), Johnson Pamela sent 0 and received 93 emails, totalling 93 interactions.",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/johnson-pamela-lacoe",
+    "name": "Johnson Pamela",
+    "email": "johnson_pamela@lacoe.edu",
+    "primary_affiliation": "companies/lacoe"
+  }
+}

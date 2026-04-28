@@ -1,0 +1,14 @@
+{
+  "slug": "people/jfguess-usa",
+  "type": "person",
+  "title": "Jfguess",
+  "compiled_truth": "Jfguess is an external contact at [Usa](companies/usa). Over the corpus period (2001-11-19 to 2001-11-19), Jfguess sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-19** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jfguess-usa",
+    "name": "Jfguess",
+    "email": "jfguess@usa.net",
+    "primary_affiliation": "companies/usa"
+  }
+}

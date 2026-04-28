@@ -1,0 +1,14 @@
+{
+  "slug": "people/rachael-tobor",
+  "type": "person",
+  "title": "Rachael Tobor",
+  "compiled_truth": "Rachael Tobor is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2001-11-30), Rachael Tobor sent 1 and received 24 emails, totalling 25 interactions. Top correspondents: [ Amy](people/amy) (1), [ Beth](people/beth) (1), [ Gin](people/gin) (1), [ Jan](people/jan) (1), [ Jennifer](people/jennifer) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rachael-tobor",
+    "name": "Rachael Tobor",
+    "email": "rachael.tobor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

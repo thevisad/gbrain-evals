@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrea-gavino",
+  "type": "person",
+  "title": "Andrea Gavino",
+  "compiled_truth": "Andrea Gavino is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2000-12-06), Andrea Gavino sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrea-gavino",
+    "name": "Andrea Gavino",
+    "email": "andrea.gavino@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

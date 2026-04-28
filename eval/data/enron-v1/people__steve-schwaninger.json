@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-schwaninger",
+  "type": "person",
+  "title": "Steve Schwaninger",
+  "compiled_truth": "Steve Schwaninger is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-29 to 2001-10-03), Steve Schwaninger sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-06-29** | First recorded email in corpus\n- **2001-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-schwaninger",
+    "name": "Steve Schwaninger",
+    "email": "steve.schwaninger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

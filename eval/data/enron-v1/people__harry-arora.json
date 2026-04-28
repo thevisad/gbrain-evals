@@ -1,0 +1,14 @@
+{
+  "slug": "people/harry-arora",
+  "type": "person",
+  "title": "Harry Arora",
+  "compiled_truth": "Harry Arora is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-25), Harry Arora sent 97 and received 619 emails, totalling 716 interactions. Top correspondents: [Harrysarora](people/harrysarora-yahoo) (10), [Greg Blair](people/greg-blair) (8), [Benjamin Rogers](people/benjamin-rogers) (6), [Iris Mack](people/iris-mack) (6), [Karen Buckley](people/karen-buckley) (5). Mailbox folders observed: _americas, deleted_items, inbox, savedmail, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/harry-arora",
+    "name": "Harry Arora",
+    "email": "harry.arora@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

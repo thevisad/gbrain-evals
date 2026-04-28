@@ -1,0 +1,14 @@
+{
+  "slug": "people/dianne-seib",
+  "type": "person",
+  "title": "Dianne Seib",
+  "compiled_truth": "Dianne Seib is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-26 to 2002-04-30), Dianne Seib sent 8 and received 595 emails, totalling 603 interactions. Top correspondents: [Tana Jones](people/tana-jones) (4), [Greg Johnston](people/greg-johnston) (3), [Marie Heard](people/marie-heard) (2), [Brent Hendry](people/brent-hendry) (1), [Bill Greenizan](people/bill-greenizan) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-05-26** | First recorded email in corpus\n- **2002-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dianne-seib",
+    "name": "Dianne Seib",
+    "email": "dianne.seib@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

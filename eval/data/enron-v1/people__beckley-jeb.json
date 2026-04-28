@@ -1,0 +1,14 @@
+{
+  "slug": "people/beckley-jeb",
+  "type": "person",
+  "title": "Beckley Jeb",
+  "compiled_truth": "Beckley Jeb is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-19 to 2002-01-25), Beckley Jeb sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-09-19** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beckley-jeb",
+    "name": "Beckley Jeb",
+    "email": "beckley.jeb@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

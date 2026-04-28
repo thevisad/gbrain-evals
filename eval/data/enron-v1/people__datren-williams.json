@@ -1,0 +1,14 @@
+{
+  "slug": "people/datren-williams",
+  "type": "person",
+  "title": "Datren Williams",
+  "compiled_truth": "Datren Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-25 to 2001-11-30), Datren Williams sent 1 and received 31 emails, totalling 32 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1).",
+  "timeline": "- **2000-05-25** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/datren-williams",
+    "name": "Datren Williams",
+    "email": "datren.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

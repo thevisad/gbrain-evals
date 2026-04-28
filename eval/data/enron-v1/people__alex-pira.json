@@ -1,0 +1,14 @@
+{
+  "slug": "people/alex-pira",
+  "type": "person",
+  "title": "Alex",
+  "compiled_truth": "Alex is an external contact at [Pira](companies/pira). Over the corpus period (2001-04-17 to 2002-01-02), Alex sent 82 and received 1 emails, totalling 83 interactions.",
+  "timeline": "- **2001-04-17** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alex-pira",
+    "name": "Alex",
+    "email": "alex@pira.com",
+    "primary_affiliation": "companies/pira"
+  }
+}

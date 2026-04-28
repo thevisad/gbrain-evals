@@ -1,0 +1,14 @@
+{
+  "slug": "people/pool-smiley",
+  "type": "person",
+  "title": "Pool Smiley",
+  "compiled_truth": "Pool Smiley is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-08 to 2002-03-14), Pool Smiley sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pool-smiley",
+    "name": "Pool Smiley",
+    "email": "pool.smiley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ralph-edwards",
+  "type": "person",
+  "title": "Ralph Edwards",
+  "compiled_truth": "Ralph Edwards is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-30 to 2002-03-19), Ralph Edwards sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-10-30** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ralph-edwards",
+    "name": "Ralph Edwards",
+    "email": "ralph.edwards@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

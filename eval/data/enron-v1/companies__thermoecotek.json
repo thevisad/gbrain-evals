@@ -1,0 +1,23 @@
+{
+  "slug": "companies/thermoecotek",
+  "type": "company",
+  "title": "Thermoecotek",
+  "compiled_truth": "Thermoecotek is an external organization that appears in the Enron email corpus. Domain: thermoecotek.com. Total email interactions with Enron: 403. Known contacts: 6 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (403 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/thermoecotek",
+    "name": "Thermoecotek",
+    "employees": [
+      "people/fgent-thermoecotek",
+      "people/gtakvorian-thermoecotek",
+      "people/jtmiller-thermoecotek",
+      "people/snoll-thermoecotek",
+      "people/taschehoug-thermoecotek",
+      "people/twetzel-thermoecotek"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

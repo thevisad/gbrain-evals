@@ -1,0 +1,14 @@
+{
+  "slug": "people/chelsea-bardal",
+  "type": "person",
+  "title": "Chelsea Bardal",
+  "compiled_truth": "Chelsea Bardal is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-13 to 2002-02-06), Chelsea Bardal sent 2 and received 23 emails, totalling 25 interactions. Top correspondents: [Chris Dorland](people/chris-dorland) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-08-13** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chelsea-bardal",
+    "name": "Chelsea Bardal",
+    "email": "chelsea.bardal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

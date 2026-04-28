@@ -1,0 +1,14 @@
+{
+  "slug": "people/errol-mclaughlin",
+  "type": "person",
+  "title": "Errol Mclaughlin",
+  "compiled_truth": "Errol Mclaughlin is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-13), Errol Mclaughlin sent 790 and received 1183 emails, totalling 1973 interactions. Top correspondents: [Dutch Quigley](people/dutch-quigley) (111), [Joey Taylor](people/joey-taylor) (97), [John Griffith](people/john-griffith) (96), [John Arnold](people/john-arnold) (90), [Bilal Bajwa](people/bilal-bajwa) (77). Mailbox folders observed: _sent_mail, deleted_items, inbox, sent, sent_items, to_do.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/errol-mclaughlin",
+    "name": "Errol Mclaughlin",
+    "email": "errol.mclaughlin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

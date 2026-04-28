@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-edison",
+  "type": "person",
+  "title": "Susan Edison",
+  "compiled_truth": "Susan Edison is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2002-06-21), Susan Edison sent 1 and received 33 emails, totalling 34 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-edison",
+    "name": "Susan Edison",
+    "email": "susan.edison@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

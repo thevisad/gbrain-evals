@@ -1,0 +1,14 @@
+{
+  "slug": "people/tricia-spence",
+  "type": "person",
+  "title": "Tricia Spence",
+  "compiled_truth": "Tricia Spence is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-07 to 2001-10-24), Tricia Spence sent 2 and received 89 emails, totalling 91 interactions. Top correspondents: [Chris Germany](people/chris-germany) (1), [Scott Goodell](people/scott-goodell) (1), [Judy Townsend](people/judy-townsend) (1), [Edward Terry](people/edward-terry) (1), [Victor Lamadrid](people/victor-lamadrid) (1). Mailbox folders observed: kcs.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tricia-spence",
+    "name": "Tricia Spence",
+    "email": "tricia.spence@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/william-aldinger",
+  "type": "person",
+  "title": "William Aldinger",
+  "compiled_truth": "William Aldinger is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-13 to 2002-03-21), William Aldinger sent 0 and received 79 emails, totalling 79 interactions.",
+  "timeline": "- **2001-01-13** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/william-aldinger",
+    "name": "William Aldinger",
+    "email": "william.aldinger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/catalina-cardenas",
+  "type": "person",
+  "title": "Catalina Cardenas",
+  "compiled_truth": "Catalina Cardenas is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-18 to 2001-11-30), Catalina Cardenas sent 7 and received 59 emails, totalling 66 interactions. Top correspondents: [Tori Kuykendall](people/tori-kuykendall) (3), [Jay Reitmeyer](people/jay-reitmeyer) (3), [Matt Smith](people/matt-smith) (3), [D  Curry](people/d-curry) (2), [Chris Gaskill](people/chris-gaskill) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-04-18** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/catalina-cardenas",
+    "name": "Catalina Cardenas",
+    "email": "catalina.cardenas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

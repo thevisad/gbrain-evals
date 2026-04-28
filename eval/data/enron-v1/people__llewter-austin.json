@@ -1,0 +1,14 @@
+{
+  "slug": "people/llewter-austin",
+  "type": "person",
+  "title": "Llewter",
+  "compiled_truth": "Llewter is an external contact at [Austin](companies/austin). Over the corpus period (2000-12-18 to 2001-04-11), Llewter sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-12-18** | First recorded email in corpus\n- **2001-04-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/llewter-austin",
+    "name": "Llewter",
+    "email": "llewter@austin.rr.com",
+    "primary_affiliation": "companies/austin"
+  }
+}

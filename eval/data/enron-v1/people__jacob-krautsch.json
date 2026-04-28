@@ -1,0 +1,14 @@
+{
+  "slug": "people/jacob-krautsch",
+  "type": "person",
+  "title": "Jacob Krautsch",
+  "compiled_truth": "Jacob Krautsch is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2001-12-14), Jacob Krautsch sent 0 and received 33 emails, totalling 33 interactions.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jacob-krautsch",
+    "name": "Jacob Krautsch",
+    "email": "jacob.krautsch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

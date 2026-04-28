@@ -1,0 +1,14 @@
+{
+  "slug": "people/trey-hardy",
+  "type": "person",
+  "title": "Trey Hardy",
+  "compiled_truth": "Trey Hardy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-14 to 2002-02-13), Trey Hardy sent 16 and received 79 emails, totalling 95 interactions. Top correspondents: [Tana Jones](people/tana-jones) (3), [Louise Kitchen](people/louise-kitchen) (3), [David Duran](people/david-duran) (3), [M  Presto](people/m-presto) (3), [Susan Helton](people/susan-helton) (3). Mailbox folders observed: _americas, calendar, deleted_items, inbox.",
+  "timeline": "- **2000-03-14** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/trey-hardy",
+    "name": "Trey Hardy",
+    "email": "trey.hardy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

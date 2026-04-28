@@ -1,0 +1,14 @@
+{
+  "slug": "people/gus-eghneim",
+  "type": "person",
+  "title": "Gus Eghneim",
+  "compiled_truth": "Gus Eghneim is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-05 to 2001-11-30), Gus Eghneim sent 14 and received 109 emails, totalling 123 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (13), [Don Miller](people/don-miller) (10), [Dave Kellermeyer](people/dave-kellermeyer) (9), [Ross Newlin](people/ross-newlin) (9), [Mitch Robinson](people/mitch-robinson) (5).",
+  "timeline": "- **2000-05-05** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gus-eghneim",
+    "name": "Gus Eghneim",
+    "email": "gus.eghneim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

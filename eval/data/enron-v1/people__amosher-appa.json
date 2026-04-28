@@ -1,0 +1,14 @@
+{
+  "slug": "people/amosher-appa",
+  "type": "person",
+  "title": "Amosher",
+  "compiled_truth": "Amosher is an external contact at [Appa](companies/appa). Over the corpus period (2001-06-28 to 2001-06-29), Amosher sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-28** | First recorded email in corpus\n- **2001-06-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amosher-appa",
+    "name": "Amosher",
+    "email": "amosher@appa.org",
+    "primary_affiliation": "companies/appa"
+  }
+}

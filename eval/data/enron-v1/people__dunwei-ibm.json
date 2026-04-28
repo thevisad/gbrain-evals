@@ -1,0 +1,14 @@
+{
+  "slug": "people/dunwei-ibm",
+  "type": "person",
+  "title": "Dunwei",
+  "compiled_truth": "Dunwei is an external contact at [Ibm](companies/ibm). Over the corpus period (2000-06-23 to 2000-07-09), Dunwei sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2000-07-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dunwei-ibm",
+    "name": "Dunwei",
+    "email": "dunwei@ibm.net",
+    "primary_affiliation": "companies/ibm"
+  }
+}

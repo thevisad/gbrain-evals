@@ -1,0 +1,14 @@
+{
+  "slug": "people/steed-chris",
+  "type": "person",
+  "title": "Steed Chris",
+  "compiled_truth": "Steed Chris is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-08 to 2002-03-14), Steed Chris sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steed-chris",
+    "name": "Steed Chris",
+    "email": "steed.chris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/pkrain-att",
+  "type": "person",
+  "title": "Pkrain",
+  "compiled_truth": "Pkrain is an external contact at [Att](companies/att). Over the corpus period (2001-09-25 to 2001-11-26), Pkrain sent 6 and received 0 emails, totalling 6 interactions. Top correspondents: [Craig Dean](people/craig-dean) (6), [Hagstette Eric](people/hagstette-eric) (5), [Gilligan Shawn](people/gilligan-shawn) (5), [Brickman Scott](people/brickman-scott) (5), [Mcdonald Chrisandjenn](people/mcdonald-chrisandjenn) (4).",
+  "timeline": "- **2001-09-25** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pkrain-att",
+    "name": "Pkrain",
+    "email": "pkrain@att.net",
+    "primary_affiliation": "companies/att"
+  }
+}

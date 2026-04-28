@@ -1,0 +1,14 @@
+{
+  "slug": "people/virginia-o-neill",
+  "type": "person",
+  "title": "Virginia O'Neill",
+  "compiled_truth": "Virginia O'Neill is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-07 to 2001-09-21), Virginia O'Neill sent 3 and received 51 emails, totalling 54 interactions. Top correspondents: [Omaha Employees](people/omaha-employees) (2), [Rod Hayslett](people/rod-hayslett) (1), [Suzanne Franco](people/suzanne-franco) (1), [Tracy Geaccone](people/tracy-geaccone) (1).",
+  "timeline": "- **1999-04-07** | First recorded email in corpus\n- **2001-09-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/virginia-o-neill",
+    "name": "Virginia O'Neill",
+    "email": "virginia.o'neill@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

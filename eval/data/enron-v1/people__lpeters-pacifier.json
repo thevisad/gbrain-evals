@@ -1,0 +1,14 @@
+{
+  "slug": "people/lpeters-pacifier",
+  "type": "person",
+  "title": "Lpeters",
+  "compiled_truth": "Lpeters is an external contact at [Pacifier](companies/pacifier). Over the corpus period (2001-02-20 to 2002-01-11), Lpeters sent 3 and received 72 emails, totalling 75 interactions. Top correspondents: [Mary Hain](people/mary-hain) (2), [Rrga-L](people/rrga-l-list) (1), [Mhain](people/mhain-iso-ne) (1).",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lpeters-pacifier",
+    "name": "Lpeters",
+    "email": "lpeters@pacifier.com",
+    "primary_affiliation": "companies/pacifier"
+  }
+}

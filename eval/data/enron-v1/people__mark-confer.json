@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-confer",
+  "type": "person",
+  "title": "Mark Confer",
+  "compiled_truth": "Mark Confer is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-25), Mark Confer sent 25 and received 199 emails, totalling 224 interactions. Top correspondents: [Kate Symes](people/kate-symes) (15), [Brooklyn Couch](people/brooklyn-couch) (7), [Virginia Thompson](people/virginia-thompson) (4), [Lisa Gang](people/lisa-gang) (4), [Chris Stokley](people/chris-stokley) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-confer",
+    "name": "Mark Confer",
+    "email": "mark.confer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

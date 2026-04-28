@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-ledlow",
+  "type": "person",
+  "title": "James Ledlow",
+  "compiled_truth": "James Ledlow is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-06), James Ledlow sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-ledlow",
+    "name": "James Ledlow",
+    "email": "james.ledlow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

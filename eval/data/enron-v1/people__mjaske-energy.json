@@ -1,0 +1,14 @@
+{
+  "slug": "people/mjaske-energy",
+  "type": "person",
+  "title": "Mjaske",
+  "compiled_truth": "Mjaske is an external contact at [Energy](companies/energy). Over the corpus period (2000-04-04 to 2001-07-31), Mjaske sent 0 and received 141 emails, totalling 141 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mjaske-energy",
+    "name": "Mjaske",
+    "email": "mjaske@energy.state.ca.us",
+    "primary_affiliation": "companies/energy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bjeider-ci",
+  "type": "person",
+  "title": "Bjeider",
+  "compiled_truth": "Bjeider is an external contact at [Ci](companies/ci). Over the corpus period (1999-09-24 to 2001-07-31), Bjeider sent 0 and received 143 emails, totalling 143 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bjeider-ci",
+    "name": "Bjeider",
+    "email": "bjeider@ci.burbank.ca.us",
+    "primary_affiliation": "companies/ci"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeremy-williams",
+  "type": "person",
+  "title": "Jeremy Williams",
+  "compiled_truth": "Jeremy Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-05 to 2001-06-27), Jeremy Williams sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeremy-williams",
+    "name": "Jeremy Williams",
+    "email": "jeremy.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/doctorberry-earthlink",
+  "type": "person",
+  "title": "Doctorberry",
+  "compiled_truth": "Doctorberry is an external contact at [Earthlink](companies/earthlink). Over the corpus period (2000-11-10 to 2001-03-21), Doctorberry sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/doctorberry-earthlink",
+    "name": "Doctorberry",
+    "email": "doctorberry@earthlink.net",
+    "primary_affiliation": "companies/earthlink"
+  }
+}

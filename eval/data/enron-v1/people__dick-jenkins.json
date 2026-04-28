@@ -1,0 +1,14 @@
+{
+  "slug": "people/dick-jenkins",
+  "type": "person",
+  "title": "Dick Jenkins",
+  "compiled_truth": "Dick Jenkins is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-09-10), Dick Jenkins sent 2 and received 650 emails, totalling 652 interactions. Top correspondents: [Scott Hendrickson](people/scott-hendrickson) (1), [Susan Pereira](people/susan-pereira) (1), [Torrey Moorer](people/torrey-moorer) (1), [Tana Jones](people/tana-jones) (1), [Sheri Thomas](people/sheri-thomas) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-09-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dick-jenkins",
+    "name": "Dick Jenkins",
+    "email": "dick.jenkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

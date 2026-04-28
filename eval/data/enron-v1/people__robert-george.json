@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-george",
+  "type": "person",
+  "title": "Robert George",
+  "compiled_truth": "Robert George is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-25 to 2001-06-21), Robert George sent 12 and received 167 emails, totalling 179 interactions. Top correspondents: [Mark Haedicke](people/mark-haedicke) (5), [Lance Schuler-Legal](people/lance-schuler-legal) (4), [Bruce Harris](people/bruce-harris) (3), [Mark Taylor](people/mark-taylor) (3), [John Lavorato](people/john-lavorato) (2). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-08-25** | First recorded email in corpus\n- **2001-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-george",
+    "name": "Robert George",
+    "email": "robert.george@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

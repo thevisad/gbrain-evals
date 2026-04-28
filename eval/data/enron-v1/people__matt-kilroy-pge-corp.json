@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-kilroy-pge-corp",
+  "type": "person",
+  "title": "Matt Kilroy",
+  "compiled_truth": "Matt Kilroy is an external contact at [Pge-corp](companies/pge-corp). Over the corpus period (2001-04-06 to 2001-06-06), Matt Kilroy sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2001-04-06** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-kilroy-pge-corp",
+    "name": "Matt Kilroy",
+    "email": "matt.kilroy@pge-corp.com",
+    "primary_affiliation": "companies/pge-corp"
+  }
+}

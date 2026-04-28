@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-griffith",
+  "type": "person",
+  "title": "John Griffith",
+  "compiled_truth": "John Griffith is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-21), John Griffith sent 317 and received 1058 emails, totalling 1375 interactions. Top correspondents: [Alexandra Villarreal](people/alexandra-villarreal) (74), [Ampaez](people/ampaez-earthlink) (59), [Dutch Quigley](people/dutch-quigley) (38), [Mike Maggi](people/mike-maggi) (28), [John Arnold](people/john-arnold) (24). Mailbox folders observed: _exchange_pos, ace, deleted_items, inbox, personal, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-griffith",
+    "name": "John Griffith",
+    "email": "john.griffith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

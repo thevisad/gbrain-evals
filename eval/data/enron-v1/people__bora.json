@@ -1,0 +1,14 @@
+{
+  "slug": "people/bora",
+  "type": "person",
+  "title": " Bora",
+  "compiled_truth": "Bora is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2001-06-06),  Bora sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bora",
+    "name": " Bora",
+    "email": ".bora@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

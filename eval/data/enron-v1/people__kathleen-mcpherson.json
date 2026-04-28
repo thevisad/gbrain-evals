@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathleen-mcpherson",
+  "type": "person",
+  "title": "Kathleen Mcpherson",
+  "compiled_truth": "Kathleen Mcpherson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-02 to 2002-05-06), Kathleen Mcpherson sent 6 and received 23 emails, totalling 29 interactions. Top correspondents: [Doug Arnell](people/doug-arnell) (6), [Tony Galt](people/tony-galt) (6), [Neal Gerstandt](people/neal-gerstandt) (6), [Zdenek Gerych](people/zdenek-gerych) (6), [Eric Gonzales](people/eric-gonzales) (6). Mailbox folders observed: deleted_items, enron_lng.",
+  "timeline": "- **2001-07-02** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathleen-mcpherson",
+    "name": "Kathleen Mcpherson",
+    "email": "kathleen.mcpherson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

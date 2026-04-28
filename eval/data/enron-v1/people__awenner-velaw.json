@@ -1,0 +1,14 @@
+{
+  "slug": "people/awenner-velaw",
+  "type": "person",
+  "title": "Awenner",
+  "compiled_truth": "Awenner is an external contact at [Vinson & Elkins](companies/vinson-elkins). Over the corpus period (2000-01-04 to 2001-08-23), Awenner sent 7 and received 27 emails, totalling 34 interactions. Top correspondents: [Steven Kean](people/steven-kean) (5), [Csandhe](people/csandhe) (3), [Snovose](people/snovose) (3), [Jhartso](people/jhartso) (2), [Richard Shapiro](people/richard-shapiro) (2).",
+  "timeline": "- **2000-01-04** | First recorded email in corpus\n- **2001-08-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/awenner-velaw",
+    "name": "Awenner",
+    "email": "awenner@velaw.com",
+    "primary_affiliation": "companies/vinson-elkins"
+  }
+}

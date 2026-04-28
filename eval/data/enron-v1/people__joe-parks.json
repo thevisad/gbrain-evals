@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-parks",
+  "type": "person",
+  "title": "Joe Parks",
+  "compiled_truth": "Joe Parks is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2002-06-25), Joe Parks sent 565 and received 1172 emails, totalling 1737 interactions. Top correspondents: [Chet Fenner](people/chet-fenner-bmc) (82), [Erwollam](people/erwollam-hotmail) (76), [Brianc](people/brianc-saltgrass) (65), [Knipe3](people/knipe3-msn) (47), [Jparks1](people/jparks1-houston) (43). Mailbox folders observed: bankrupt, calendar, inbox, sent_items.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-parks",
+    "name": "Joe Parks",
+    "email": "joe.parks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

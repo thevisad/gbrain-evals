@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-yeager",
+  "type": "person",
+  "title": "Scott Yeager",
+  "compiled_truth": "Scott Yeager is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-08-01), Scott Yeager sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-08-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-yeager",
+    "name": "Scott Yeager",
+    "email": "scott.yeager@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

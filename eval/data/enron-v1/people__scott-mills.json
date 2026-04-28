@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-mills",
+  "type": "person",
+  "title": "Scott Mills",
+  "compiled_truth": "Scott Mills is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-26 to 2002-06-05), Scott Mills sent 22 and received 450 emails, totalling 472 interactions. Top correspondents: [Sally Beck](people/sally-beck) (13), [Daren Farmer](people/daren-farmer) (7), [Carrie Hollomon](people/carrie-hollomon) (6), [Eric Bass](people/eric-bass) (6), [Kathryn Cordes](people/kathryn-cordes) (6). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **1999-05-26** | First recorded email in corpus\n- **2002-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-mills",
+    "name": "Scott Mills",
+    "email": "scott.mills@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

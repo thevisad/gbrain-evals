@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-smith",
+  "type": "person",
+  "title": "George Smith",
+  "compiled_truth": "George Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-10-31), George Smith sent 0 and received 467 emails, totalling 467 interactions.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-smith",
+    "name": "George Smith",
+    "email": "george.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

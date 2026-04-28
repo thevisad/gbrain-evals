@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-gillespie",
+  "type": "person",
+  "title": "Steve Gillespie",
+  "compiled_truth": "Steve Gillespie is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2001-12-27), Steve Gillespie sent 14 and received 395 emails, totalling 409 interactions. Top correspondents: [Chris Germany](people/chris-germany) (7), [John Hodge](people/john-hodge) (5), [H  Fletcher](people/h-fletcher) (3), [Scott Goodell](people/scott-goodell) (2), [Dick Jenkins](people/dick-jenkins) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-gillespie",
+    "name": "Steve Gillespie",
+    "email": "steve.gillespie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

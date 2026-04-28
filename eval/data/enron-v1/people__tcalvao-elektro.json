@@ -1,0 +1,14 @@
+{
+  "slug": "people/tcalvao-elektro",
+  "type": "person",
+  "title": "Tcalvao",
+  "compiled_truth": "Tcalvao is an external contact at [Elektro](companies/elektro). Over the corpus period (2001-04-26 to 2001-05-11), Tcalvao sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tcalvao-elektro",
+    "name": "Tcalvao",
+    "email": "tcalvao@elektro.com.br",
+    "primary_affiliation": "companies/elektro"
+  }
+}

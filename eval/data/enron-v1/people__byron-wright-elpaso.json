@@ -1,0 +1,14 @@
+{
+  "slug": "people/byron-wright-elpaso",
+  "type": "person",
+  "title": "Byron Wright",
+  "compiled_truth": "Byron Wright is an external contact at [El Paso Energy](companies/el-paso). Over the corpus period (2001-11-20 to 2001-11-27), Byron Wright sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-11-20** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/byron-wright-elpaso",
+    "name": "Byron Wright",
+    "email": "byron.wright@elpaso.com",
+    "primary_affiliation": "companies/el-paso"
+  }
+}

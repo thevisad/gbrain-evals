@@ -1,0 +1,14 @@
+{
+  "slug": "people/millie",
+  "type": "person",
+  "title": " Millie",
+  "compiled_truth": "Millie is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2001-06-05),  Millie sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/millie",
+    "name": " Millie",
+    "email": ".millie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

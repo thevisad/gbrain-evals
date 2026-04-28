@@ -1,0 +1,14 @@
+{
+  "slug": "people/dhanson-altrade",
+  "type": "person",
+  "title": "Dhanson",
+  "compiled_truth": "Dhanson is an external contact at [Altrade](companies/altrade). Over the corpus period (1999-11-22 to 2000-06-05), Dhanson sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2000-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dhanson-altrade",
+    "name": "Dhanson",
+    "email": "dhanson@altrade.com",
+    "primary_affiliation": "companies/altrade"
+  }
+}

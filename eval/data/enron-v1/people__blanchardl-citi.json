@@ -1,0 +1,14 @@
+{
+  "slug": "people/blanchardl-citi",
+  "type": "person",
+  "title": "Blanchardl",
+  "compiled_truth": "Blanchardl is an external contact at [Citi](companies/citi). Over the corpus period (2001-11-01 to 2001-11-16), Blanchardl sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-11-01** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/blanchardl-citi",
+    "name": "Blanchardl",
+    "email": "blanchardl@citi.com",
+    "primary_affiliation": "companies/citi"
+  }
+}

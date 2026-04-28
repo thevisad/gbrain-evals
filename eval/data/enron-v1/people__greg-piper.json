@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-piper",
+  "type": "person",
+  "title": "Greg Piper",
+  "compiled_truth": "Greg Piper is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-21), Greg Piper sent 162 and received 893 emails, totalling 1055 interactions. Top correspondents: [Sally Beck](people/sally-beck) (67), [Andy Zipper](people/andy-zipper) (49), [Louise Kitchen](people/louise-kitchen) (32), [Mark Pickering](people/mark-pickering) (29), [Greg Whalley](people/greg-whalley) (24). Mailbox folders observed: _americas, calendar, deleted_items, inbox, piper__greg.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-piper",
+    "name": "Greg Piper",
+    "email": "greg.piper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

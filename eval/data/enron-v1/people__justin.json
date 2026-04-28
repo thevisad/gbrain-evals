@@ -1,0 +1,14 @@
+{
+  "slug": "people/justin",
+  "type": "person",
+  "title": " Justin",
+  "compiled_truth": "Justin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2001-11-16),  Justin sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/justin",
+    "name": " Justin",
+    "email": ".justin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

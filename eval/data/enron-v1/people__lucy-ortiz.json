@@ -1,0 +1,14 @@
+{
+  "slug": "people/lucy-ortiz",
+  "type": "person",
+  "title": "Lucy Ortiz",
+  "compiled_truth": "Lucy Ortiz is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-21 to 2001-12-03), Lucy Ortiz sent 20 and received 301 emails, totalling 321 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (10), [Jonathan Mckay](people/jonathan-mckay) (4), [Dale Neuner](people/dale-neuner) (4), [John Griffith](people/john-griffith) (2), [Dutch Quigley](people/dutch-quigley) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-05-21** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lucy-ortiz",
+    "name": "Lucy Ortiz",
+    "email": "lucy.ortiz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

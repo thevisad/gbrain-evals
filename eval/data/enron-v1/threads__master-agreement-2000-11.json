@@ -1,0 +1,25 @@
+{
+  "slug": "threads/master-agreement-2000-11",
+  "type": "meeting",
+  "title": "Thread: Master Agreement",
+  "compiled_truth": "Email thread: \"Master Agreement\". Ran from 2000-11-16 to 2000-12-14 with 12 messages. Participants: [Bo Barnwell](people/bo-barnwell), [Debra Perlingiere](people/debra-perlingiere), [Gerald Nemec](people/gerald-nemec), [Mark Knippa](people/mark-knippa), [Mike Smith](people/mike-smith), [Prosica](people/prosica-lehman), [Rweiss](people/rweiss-lehman), [Sara Shackleton](people/sara-shackleton).",
+  "timeline": "- **2000-11-16** | Thread begins: master agreement\n- **2000-12-14** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/master-agreement-2000-11",
+    "attendees": [
+      "people/bo-barnwell",
+      "people/debra-perlingiere",
+      "people/gerald-nemec",
+      "people/mark-knippa",
+      "people/mike-smith",
+      "people/prosica-lehman",
+      "people/rweiss-lehman",
+      "people/sara-shackleton",
+      "people/stephanie-panus",
+      "people/tony-gatherco",
+      "people/veronica-espinoza"
+    ],
+    "date": "2000-11-16"
+  }
+}

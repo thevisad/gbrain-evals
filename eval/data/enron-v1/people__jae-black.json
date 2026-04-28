@@ -1,0 +1,14 @@
+{
+  "slug": "people/jae-black",
+  "type": "person",
+  "title": "Jae Black",
+  "compiled_truth": "Jae Black is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-28 to 2002-02-28), Jae Black sent 154 and received 295 emails, totalling 449 interactions. Top correspondents: [Don Baughman](people/don-baughman) (99), [M  Presto](people/m-presto) (98), [J  Sturm](people/j-sturm) (94), [Mike Carson](people/mike-carson) (87), [Dana Davis](people/dana-davis) (85). Mailbox folders observed: calendar, deleted_items, enron_power, expenses, inbox, power.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jae-black",
+    "name": "Jae Black",
+    "email": "jae.black@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

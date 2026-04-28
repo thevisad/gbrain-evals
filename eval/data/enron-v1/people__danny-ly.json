@@ -1,0 +1,14 @@
+{
+  "slug": "people/danny-ly",
+  "type": "person",
+  "title": "Danny Ly",
+  "compiled_truth": "Danny Ly is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-09-24), Danny Ly sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/danny-ly",
+    "name": "Danny Ly",
+    "email": "danny.ly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

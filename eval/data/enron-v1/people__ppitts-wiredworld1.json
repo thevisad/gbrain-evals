@@ -1,0 +1,14 @@
+{
+  "slug": "people/ppitts-wiredworld1",
+  "type": "person",
+  "title": "Ppitts",
+  "compiled_truth": "Ppitts is an external contact at [Wiredworld1](companies/wiredworld1). Over the corpus period (2001-04-25 to 2001-07-31), Ppitts sent 0 and received 53 emails, totalling 53 interactions.",
+  "timeline": "- **2001-04-25** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ppitts-wiredworld1",
+    "name": "Ppitts",
+    "email": "ppitts@wiredworld1.com",
+    "primary_affiliation": "companies/wiredworld1"
+  }
+}

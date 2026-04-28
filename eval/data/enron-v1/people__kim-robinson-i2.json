@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-robinson-i2",
+  "type": "person",
+  "title": "Kim Robinson",
+  "compiled_truth": "Kim Robinson is an external contact at [I2](companies/i2). Over the corpus period (2000-10-02 to 2000-12-05), Kim Robinson sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-10-02** | First recorded email in corpus\n- **2000-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-robinson-i2",
+    "name": "Kim Robinson",
+    "email": "kim_robinson@i2.com",
+    "primary_affiliation": "companies/i2"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dietrich-janet",
+  "type": "person",
+  "title": "Dietrich Janet",
+  "compiled_truth": "Dietrich Janet is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-16 to 2001-10-24), Dietrich Janet sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-05-16** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dietrich-janet",
+    "name": "Dietrich Janet",
+    "email": "dietrich.janet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

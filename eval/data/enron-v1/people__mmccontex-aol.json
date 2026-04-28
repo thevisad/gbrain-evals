@@ -1,0 +1,14 @@
+{
+  "slug": "people/mmccontex-aol",
+  "type": "person",
+  "title": "Mmccontex",
+  "compiled_truth": "Mmccontex is an external contact at [AOL](companies/aol). Over the corpus period (2000-08-16 to 2001-05-08), Mmccontex sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mmccontex-aol",
+    "name": "Mmccontex",
+    "email": "mmccontex@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

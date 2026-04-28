@@ -1,0 +1,14 @@
+{
+  "slug": "people/teresa-g-bushman",
+  "type": "person",
+  "title": "Teresa G Bushman",
+  "compiled_truth": "Teresa G Bushman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-18 to 2000-12-22), Teresa G Bushman sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-12-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teresa-g-bushman",
+    "name": "Teresa G Bushman",
+    "email": "teresa.g.bushman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

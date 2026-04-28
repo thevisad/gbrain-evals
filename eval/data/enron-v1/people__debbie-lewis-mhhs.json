@@ -1,0 +1,14 @@
+{
+  "slug": "people/debbie-lewis-mhhs",
+  "type": "person",
+  "title": "Debbie Lewis",
+  "compiled_truth": "Debbie Lewis is an external contact at [Mhhs](companies/mhhs). Over the corpus period (2001-03-02 to 2001-04-30), Debbie Lewis sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-03-02** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debbie-lewis-mhhs",
+    "name": "Debbie Lewis",
+    "email": "debbie_lewis@mhhs.org",
+    "primary_affiliation": "companies/mhhs"
+  }
+}

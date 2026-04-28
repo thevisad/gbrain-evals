@@ -1,0 +1,14 @@
+{
+  "slug": "people/cuba",
+  "type": "person",
+  "title": " Cuba",
+  "compiled_truth": "Cuba is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-06 to 2001-06-06),  Cuba sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-06-06** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cuba",
+    "name": " Cuba",
+    "email": ".cuba@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

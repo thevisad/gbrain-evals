@@ -1,0 +1,14 @@
+{
+  "slug": "people/cahills-hillsandco",
+  "type": "person",
+  "title": "Cahills",
+  "compiled_truth": "Cahills is an external contact at [Hillsandco](companies/hillsandco). Over the corpus period (1999-11-05 to 1999-12-27), Cahills sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **1999-11-05** | First recorded email in corpus\n- **1999-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cahills-hillsandco",
+    "name": "Cahills",
+    "email": "cahills@hillsandco.com",
+    "primary_affiliation": "companies/hillsandco"
+  }
+}

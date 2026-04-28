@@ -1,0 +1,14 @@
+{
+  "slug": "people/jere-overdyke",
+  "type": "person",
+  "title": "Jere Overdyke",
+  "compiled_truth": "Jere Overdyke is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2001-07-23), Jere Overdyke sent 1 and received 168 emails, totalling 169 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (1).",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2001-07-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jere-overdyke",
+    "name": "Jere Overdyke",
+    "email": "jere.overdyke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

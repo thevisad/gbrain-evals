@@ -1,0 +1,14 @@
+{
+  "slug": "people/danielle-romain",
+  "type": "person",
+  "title": "Danielle Romain",
+  "compiled_truth": "Danielle Romain is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-08 to 2001-11-02), Danielle Romain sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/danielle-romain",
+    "name": "Danielle Romain",
+    "email": "danielle.romain@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

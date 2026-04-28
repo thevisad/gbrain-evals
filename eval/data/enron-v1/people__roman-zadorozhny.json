@@ -1,0 +1,14 @@
+{
+  "slug": "people/roman-zadorozhny",
+  "type": "person",
+  "title": "Roman Zadorozhny",
+  "compiled_truth": "Roman Zadorozhny is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-12-31), Roman Zadorozhny sent 0 and received 68 emails, totalling 68 interactions.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roman-zadorozhny",
+    "name": "Roman Zadorozhny",
+    "email": "roman.zadorozhny@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

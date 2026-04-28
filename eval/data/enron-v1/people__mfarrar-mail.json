@@ -1,0 +1,14 @@
+{
+  "slug": "people/mfarrar-mail",
+  "type": "person",
+  "title": "Mfarrar",
+  "compiled_truth": "Mfarrar is an external contact at [Mail](companies/mail). Over the corpus period (1999-11-15 to 1999-11-15), Mfarrar sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mfarrar-mail",
+    "name": "Mfarrar",
+    "email": "mfarrar@mail.arco.com",
+    "primary_affiliation": "companies/mail"
+  }
+}

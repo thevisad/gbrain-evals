@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-lamphier",
+  "type": "person",
+  "title": "Gary Lamphier",
+  "compiled_truth": "Gary Lamphier is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-10-23), Gary Lamphier sent 56 and received 595 emails, totalling 651 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (23), [Dan Hyvl](people/dan-hyvl) (19), [Martin Cuilla](people/martin-cuilla) (8), [Eric Bass](people/eric-bass) (4), [Robert Lloyd](people/robert-lloyd) (3). Mailbox folders observed: 10_fantasy, industrials, logistics.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-lamphier",
+    "name": "Gary Lamphier",
+    "email": "gary.lamphier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

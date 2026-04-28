@@ -1,0 +1,14 @@
+{
+  "slug": "people/csbrown-us",
+  "type": "person",
+  "title": "Csbrown",
+  "compiled_truth": "Csbrown is an external contact at [Us](companies/us). Over the corpus period (2001-04-17 to 2001-04-18), Csbrown sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-04-17** | First recorded email in corpus\n- **2001-04-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/csbrown-us",
+    "name": "Csbrown",
+    "email": "csbrown@us.pwcglobal.com",
+    "primary_affiliation": "companies/us"
+  }
+}

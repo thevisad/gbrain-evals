@@ -1,0 +1,14 @@
+{
+  "slug": "people/bhall-cngc",
+  "type": "person",
+  "title": "Bhall",
+  "compiled_truth": "Bhall is an external contact at [Cngc](companies/cngc). Over the corpus period (2000-10-27 to 2001-05-11), Bhall sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bhall-cngc",
+    "name": "Bhall",
+    "email": "bhall@cngc.com",
+    "primary_affiliation": "companies/cngc"
+  }
+}

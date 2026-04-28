@@ -1,0 +1,14 @@
+{
+  "slug": "people/monroe",
+  "type": "person",
+  "title": "'Monroe",
+  "compiled_truth": "'Monroe is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-12-18 to 2001-12-18), 'Monroe sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-12-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/monroe",
+    "name": "'Monroe",
+    "email": "'monroe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

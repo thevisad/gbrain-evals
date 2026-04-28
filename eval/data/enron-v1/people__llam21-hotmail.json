@@ -1,0 +1,14 @@
+{
+  "slug": "people/llam21-hotmail",
+  "type": "person",
+  "title": "Llam21",
+  "compiled_truth": "Llam21 is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2001-04-26 to 2001-12-10), Llam21 sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/llam21-hotmail",
+    "name": "Llam21",
+    "email": "llam21@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

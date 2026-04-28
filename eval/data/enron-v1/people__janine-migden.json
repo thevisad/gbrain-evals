@@ -1,0 +1,14 @@
+{
+  "slug": "people/janine-migden",
+  "type": "person",
+  "title": "Janine Migden",
+  "compiled_truth": "Janine Migden is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-03 to 2001-12-03), Janine Migden sent 77 and received 644 emails, totalling 721 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (68), [Harry Kingerski](people/harry-kingerski) (29), [James Steffes](people/james-steffes) (28), [D  Steffes](people/d-steffes) (23), [Roy Boston](people/roy-boston) (22). Mailbox folders observed: 2001_budget__cost_cutting, 2001_objectives, 2001_prc__midyear, 2002_budget, alliance_rto, compliments.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janine-migden",
+    "name": "Janine Migden",
+    "email": "janine.migden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

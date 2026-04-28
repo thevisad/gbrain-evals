@@ -1,0 +1,14 @@
+{
+  "slug": "people/mina-miyakawa",
+  "type": "person",
+  "title": "Mina Miyakawa",
+  "compiled_truth": "Mina Miyakawa is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-13 to 2001-11-16), Mina Miyakawa sent 3 and received 15 emails, totalling 18 interactions. Top correspondents: [Sami Arap](people/sami-arap) (3), [Miguel Mendoza](people/miguel-mendoza) (3), [John Novak](people/john-novak) (3), [Vicky Martinez](people/vicky-martinez) (2), [Mark Haedicke](people/mark-haedicke) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-13** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mina-miyakawa",
+    "name": "Mina Miyakawa",
+    "email": "mina.miyakawa@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

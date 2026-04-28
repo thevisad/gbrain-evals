@@ -1,0 +1,14 @@
+{
+  "slug": "people/gates-barb",
+  "type": "person",
+  "title": "Gates Barb",
+  "compiled_truth": "Gates Barb is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-26 to 2001-09-26), Gates Barb sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-26** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gates-barb",
+    "name": "Gates Barb",
+    "email": "gates.barb@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

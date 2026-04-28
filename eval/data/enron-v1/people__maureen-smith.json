@@ -1,0 +1,14 @@
+{
+  "slug": "people/maureen-smith",
+  "type": "person",
+  "title": "Maureen Smith",
+  "compiled_truth": "Maureen Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2002-01-07), Maureen Smith sent 5 and received 298 emails, totalling 303 interactions. Top correspondents: [Chris Germany](people/chris-germany) (5), [Judy Townsend](people/judy-townsend) (2), [Dan Junek](people/dan-junek) (2), [Robin Barbe](people/robin-barbe) (1), [Kate Fraser](people/kate-fraser) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2002-01-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maureen-smith",
+    "name": "Maureen Smith",
+    "email": "maureen.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bradley-samuelson",
+  "type": "person",
+  "title": "Bradley Samuelson",
+  "compiled_truth": "Bradley Samuelson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-05 to 2001-05-23), Bradley Samuelson sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2001-01-05** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bradley-samuelson",
+    "name": "Bradley Samuelson",
+    "email": "bradley.samuelson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

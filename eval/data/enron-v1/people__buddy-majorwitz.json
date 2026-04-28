@@ -1,0 +1,14 @@
+{
+  "slug": "people/buddy-majorwitz",
+  "type": "person",
+  "title": "Buddy Majorwitz",
+  "compiled_truth": "Buddy Majorwitz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2001-10-31), Buddy Majorwitz sent 3 and received 38 emails, totalling 41 interactions. Top correspondents: [J  Farmer](people/j-farmer) (3), [Sherlyn Schumack](people/sherlyn-schumack) (2), [Michael Olsen](people/michael-olsen) (1), [Hakeem Ogunbunmi](people/hakeem-ogunbunmi) (1), [Bryce Baxter](people/bryce-baxter) (1). Mailbox folders observed: logistics.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/buddy-majorwitz",
+    "name": "Buddy Majorwitz",
+    "email": "buddy.majorwitz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

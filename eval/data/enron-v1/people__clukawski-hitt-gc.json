@@ -1,0 +1,14 @@
+{
+  "slug": "people/clukawski-hitt-gc",
+  "type": "person",
+  "title": "Clukawski",
+  "compiled_truth": "Clukawski is an external contact at [Hitt-gc](companies/hitt-gc). Over the corpus period (1999-12-12 to 2001-12-14), Clukawski sent 4 and received 45 emails, totalling 49 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (4), [Mcnichol' 'Joe](people/mcnichol-joe) (1).",
+  "timeline": "- **1999-12-12** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clukawski-hitt-gc",
+    "name": "Clukawski",
+    "email": "clukawski@hitt-gc.com",
+    "primary_affiliation": "companies/hitt-gc"
+  }
+}

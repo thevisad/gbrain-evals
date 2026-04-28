@@ -1,0 +1,14 @@
+{
+  "slug": "people/debbie-chance",
+  "type": "person",
+  "title": "Debbie Chance",
+  "compiled_truth": "Debbie Chance is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-21 to 2001-10-15), Debbie Chance sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-04-21** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debbie-chance",
+    "name": "Debbie Chance",
+    "email": "debbie.chance@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

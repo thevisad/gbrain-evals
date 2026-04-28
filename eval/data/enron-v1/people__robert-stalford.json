@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-stalford",
+  "type": "person",
+  "title": "Robert Stalford",
+  "compiled_truth": "Robert Stalford is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-30 to 2002-02-21), Robert Stalford sent 8 and received 387 emails, totalling 395 interactions. Top correspondents: [Joe Stepenovitch](people/joe-stepenovitch) (2), [Andy Zipper](people/andy-zipper) (2), [Larry May](people/larry-may) (1), [Joe Parks](people/joe-parks) (1), [M  Presto](people/m-presto) (1). Mailbox folders observed: deleted_items, inbox, presto_working_files.",
+  "timeline": "- **2000-06-30** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-stalford",
+    "name": "Robert Stalford",
+    "email": "robert.stalford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

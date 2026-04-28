@@ -1,0 +1,14 @@
+{
+  "slug": "people/la-finnels-neal",
+  "type": "person",
+  "title": "La Finnels-Neal",
+  "compiled_truth": "La Finnels-Neal is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-31 to 2001-05-17), La Finnels-Neal sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-01-31** | First recorded email in corpus\n- **2001-05-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/la-finnels-neal",
+    "name": "La Finnels-Neal",
+    "email": "la.finnels-neal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

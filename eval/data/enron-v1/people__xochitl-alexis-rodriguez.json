@@ -1,0 +1,14 @@
+{
+  "slug": "people/xochitl-alexis-rodriguez",
+  "type": "person",
+  "title": "Xochitl-Alexis Rodriguez",
+  "compiled_truth": "Xochitl-Alexis Rodriguez is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-12-07), Xochitl-Alexis Rodriguez sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/xochitl-alexis-rodriguez",
+    "name": "Xochitl-Alexis Rodriguez",
+    "email": "xochitl-alexis.rodriguez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

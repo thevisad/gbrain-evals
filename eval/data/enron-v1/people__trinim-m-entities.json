@@ -1,0 +1,14 @@
+{
+  "slug": "people/trinim-m-entities",
+  "type": "person",
+  "title": "Trinim",
+  "compiled_truth": "Trinim is an external contact at [M-entities](companies/m-entities). Over the corpus period (2001-06-04 to 2001-06-06), Trinim sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/trinim-m-entities",
+    "name": "Trinim",
+    "email": "trinim@m-entities.com",
+    "primary_affiliation": "companies/m-entities"
+  }
+}

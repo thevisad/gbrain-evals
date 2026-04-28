@@ -1,0 +1,14 @@
+{
+  "slug": "people/schwartz-carol",
+  "type": "person",
+  "title": "Schwartz' 'Carol",
+  "compiled_truth": "Schwartz' 'Carol is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-09 to 2001-07-09), Schwartz' 'Carol sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/schwartz-carol",
+    "name": "Schwartz' 'Carol",
+    "email": "schwartz'.'carol@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

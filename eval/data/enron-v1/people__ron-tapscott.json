@@ -1,0 +1,14 @@
+{
+  "slug": "people/ron-tapscott",
+  "type": "person",
+  "title": "Ron Tapscott",
+  "compiled_truth": "Ron Tapscott is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-03-29), Ron Tapscott sent 16 and received 173 emails, totalling 189 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (8), [J Metts](people/j-metts) (7), [Randal Maffett](people/randal-maffett) (7), [Rod Hayslett](people/rod-hayslett) (7), [Dwight Larson](people/dwight-larson) (7). Mailbox folders observed: inbox, westinghouse.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ron-tapscott",
+    "name": "Ron Tapscott",
+    "email": "ron.tapscott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

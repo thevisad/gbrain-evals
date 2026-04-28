@@ -1,0 +1,14 @@
+{
+  "slug": "people/thea-marino",
+  "type": "person",
+  "title": "Thea Marino",
+  "compiled_truth": "Thea Marino is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2002-01-22), Thea Marino sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thea-marino",
+    "name": "Thea Marino",
+    "email": "thea.marino@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

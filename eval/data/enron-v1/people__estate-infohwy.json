@@ -1,0 +1,14 @@
+{
+  "slug": "people/estate-infohwy",
+  "type": "person",
+  "title": "Estate",
+  "compiled_truth": "Estate is an external contact at [Infohwy](companies/infohwy). Over the corpus period (2000-08-15 to 2000-09-05), Estate sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-08-15** | First recorded email in corpus\n- **2000-09-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/estate-infohwy",
+    "name": "Estate",
+    "email": "estate@infohwy.com",
+    "primary_affiliation": "companies/infohwy"
+  }
+}

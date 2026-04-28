@@ -1,0 +1,14 @@
+{
+  "slug": "people/cynthia-gonter",
+  "type": "person",
+  "title": "Cynthia Gonter",
+  "compiled_truth": "Cynthia Gonter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-06 to 2000-12-12), Cynthia Gonter sent 1 and received 3 emails, totalling 4 interactions.",
+  "timeline": "- **2000-03-06** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cynthia-gonter",
+    "name": "Cynthia Gonter",
+    "email": "cynthia.gonter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

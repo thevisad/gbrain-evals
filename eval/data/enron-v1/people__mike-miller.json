@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-miller",
+  "type": "person",
+  "title": "Mike Miller",
+  "compiled_truth": "Mike Miller is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-11-27), Mike Miller sent 6 and received 287 emails, totalling 293 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (5), [John Lavorato](people/john-lavorato) (1), [Louise Kitchen](people/louise-kitchen) (1), [W Duran](people/w-duran) (1), [Christopher Calger](people/christopher-calger) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-miller",
+    "name": "Mike Miller",
+    "email": "mike.miller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

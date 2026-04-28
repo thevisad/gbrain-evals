@@ -1,0 +1,14 @@
+{
+  "slug": "people/egw-aelaw",
+  "type": "person",
+  "title": "Egw",
+  "compiled_truth": "Egw is an external contact at [Aelaw](companies/aelaw). Over the corpus period (2000-10-20 to 2001-07-31), Egw sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-10-20** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/egw-aelaw",
+    "name": "Egw",
+    "email": "egw@aelaw.com",
+    "primary_affiliation": "companies/aelaw"
+  }
+}

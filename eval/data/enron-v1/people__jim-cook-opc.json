@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-cook-opc",
+  "type": "person",
+  "title": "Jim Cook",
+  "compiled_truth": "Jim Cook is an external contact at [Opc](companies/opc). Over the corpus period (2000-11-11 to 2000-11-11), Jim Cook sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-cook-opc",
+    "name": "Jim Cook",
+    "email": "jim.cook@opc.com",
+    "primary_affiliation": "companies/opc"
+  }
+}

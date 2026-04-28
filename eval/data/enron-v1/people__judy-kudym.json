@@ -1,0 +1,14 @@
+{
+  "slug": "people/judy-kudym",
+  "type": "person",
+  "title": "Judy Kudym",
+  "compiled_truth": "Judy Kudym is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-23 to 2002-03-13), Judy Kudym sent 1 and received 72 emails, totalling 73 interactions. Top correspondents: [Bill Cordes](people/bill-cordes) (1), [John Dushinske](people/john-dushinske) (1), [Drew Fossum](people/drew-fossum) (1), [Robert Hill](people/robert-hill) (1), [Mike Mcgowan](people/mike-mcgowan) (1).",
+  "timeline": "- **2000-03-23** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/judy-kudym",
+    "name": "Judy Kudym",
+    "email": "judy.kudym@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

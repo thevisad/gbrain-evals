@@ -1,0 +1,14 @@
+{
+  "slug": "people/jamie-lynn",
+  "type": "person",
+  "title": "Jamie Lynn",
+  "compiled_truth": "Jamie Lynn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-03 to 2002-03-01), Jamie Lynn sent 2 and received 11 emails, totalling 13 interactions. Top correspondents: [Mark Warner](people/mark-warner) (1), [Toby Kuehl](people/toby-kuehl) (1), [Sean Sargent](people/sean-sargent) (1), [Teresa Wright](people/teresa-wright) (1), [Kevin Presto](people/kevin-presto) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-05-03** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jamie-lynn",
+    "name": "Jamie Lynn",
+    "email": "jamie.lynn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

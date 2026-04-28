@@ -1,0 +1,14 @@
+{
+  "slug": "people/alma-richter",
+  "type": "person",
+  "title": "Alma Richter",
+  "compiled_truth": "Alma Richter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2002-03-25), Alma Richter sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alma-richter",
+    "name": "Alma Richter",
+    "email": "alma.richter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

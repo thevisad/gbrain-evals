@@ -1,0 +1,14 @@
+{
+  "slug": "people/virginia-clarkfineart",
+  "type": "person",
+  "title": "Virginia",
+  "compiled_truth": "Virginia is an external contact at [Clarkfineart](companies/clarkfineart). Over the corpus period (2000-09-07 to 2001-05-17), Virginia sent 8 and received 26 emails, totalling 34 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (8).",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-05-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/virginia-clarkfineart",
+    "name": "Virginia",
+    "email": "virginia@clarkfineart.com",
+    "primary_affiliation": "companies/clarkfineart"
+  }
+}

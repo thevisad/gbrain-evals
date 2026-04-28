@@ -1,0 +1,29 @@
+{
+  "slug": "meetings/hiring-panel-2-2026-10-12",
+  "type": "meeting",
+  "title": "Hiring Panel — Head of Marketing (Emery Castillo) — 2026-10-12",
+  "compiled_truth": "Panel interview conducted on 2026-10-12 for the Head of Marketing role at [Anchor Codec](companies/anchor). Attendees were [Seren Voss](people/seren-voss) and [Paz Santos](people/paz-santos). The candidate, Emery Castillo, came in with roughly nine years of marketing experience across developer tools and infrastructure companies, most recently leading demand gen at a mid-stage observability startup. The panel ran about seventy-five minutes total across two sessions.\n\nSeren opened with positioning questions — how would Emery frame deterministic data infrastructure for a technical audience vs. a buyer audience, and what's the narrative arc for a company that sells single-pass primitives to enterprises that barely understand the category exists. Emery's answers were solid but occasionally veered toward generic SaaS playbook language. Paz pushed back on this, asking Emery to walk through a specific campaign she'd run where the product was genuinely hard to explain. The answer — a developer-first launch involving a CLI tool for schema validation — was more compelling and showed she could think past landing pages.\n\nKey discussion points after Emery left the room: Paz felt strongly that Emery understood the mechanics of pipeline marketing but was less convinced she had the storytelling instinct needed for a company at Anchor's stage, where category creation is basically the whole job. Seren was more optimistic, noting that Emery asked unusually good questions about Anchor Codec's sales cycle length and the ratio of inbound to outbound leads, which suggested she'd done real diligence on the business.\n\nThere was some disagreement about whether the role should prioritize brand-building or demand gen in Q1 2027. Paz leaned toward brand — arguing that if the category doesn't exist in buyers' minds, demand gen is just burning money. Seren countered that the board wants pipeline numbers by mid-year and a pure brand hire might not deliver on that timeline. They agreed to bring Emery back for a final round with the broader leadership team and to also schedule a second candidate, whose resume had just come in from the recruiter.\n\nOne concern flagged: Emery's references are all from companies with established categories. Nobody on her reference list has worked in a true zero-to-one marketing envrionment. Paz volunteered to do the reference calls personally to dig into this. Overall sentiment was cautiously positive — not a slam dunk, but the strongest candidate so far in a thin pipeline.",
+  "timeline": [
+    "- **2026-09-18** | Head of Marketing job description finalized by [Seren Voss](people/seren-voss) and posted to three recruiting channels.",
+    "- **2026-09-29** | Emery Castillo's resume flagged by external recruiter as top candidate; phone screen scheduled.",
+    "- **2026-10-04** | [Paz Santos](people/paz-santos) conducts initial phone screen with Emery Castillo; advances to panel.",
+    "- **2026-10-12** | Hiring panel interview conducted with [Seren Voss](people/seren-voss) and [Paz Santos](people/paz-santos). Cautiously positive outcome.",
+    "- **2026-10-17** | Paz completes reference calls for Emery; notes some gaps in category-creation experience.",
+    "- **2026-10-22** | Second finalist candidate interviewed by panel for comparison.",
+    "- **2026-10-30** | Final round interview scheduled for Emery Castillo with full [Anchor Codec](companies/anchor) leadership team.",
+    "- **2026-11-08** | Offer extended to Emery Castillo for Head of Marketing at Anchor Codec; accepted with a January 2027 start date."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/hiring-panel-2-2026-10-12",
+    "name": "Hiring Panel — Head of Marketing",
+    "meeting_type": "hiring_panel",
+    "date": "2026-10-12",
+    "attendees": [
+      "people/seren-voss",
+      "people/paz-santos"
+    ],
+    "topic_company": "companies/anchor",
+    "topic": "Interview panel for Emery Castillo (Head of Marketing)"
+  }
+}

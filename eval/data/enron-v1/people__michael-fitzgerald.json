@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-fitzgerald",
+  "type": "person",
+  "title": "Michael Fitzgerald",
+  "compiled_truth": "Michael Fitzgerald is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-10-09), Michael Fitzgerald sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-fitzgerald",
+    "name": "Michael Fitzgerald",
+    "email": "michael.fitzgerald@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

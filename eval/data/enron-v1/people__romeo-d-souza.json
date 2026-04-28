@@ -1,0 +1,14 @@
+{
+  "slug": "people/romeo-d-souza",
+  "type": "person",
+  "title": "Romeo D'Souza",
+  "compiled_truth": "Romeo D'Souza is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2002-05-13), Romeo D'Souza sent 3 and received 149 emails, totalling 152 interactions. Top correspondents: [Michael Eiben](people/michael-eiben) (3), [Daren Farmer](people/daren-farmer) (3), [Clem Cernosek](people/clem-cernosek) (3), [Gary Hanks](people/gary-hanks) (2), [Jennifer Pattison](people/jennifer-pattison) (2).",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/romeo-d-souza",
+    "name": "Romeo D'Souza",
+    "email": "romeo.d'souza@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

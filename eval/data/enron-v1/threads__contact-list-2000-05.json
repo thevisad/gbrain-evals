@@ -1,0 +1,32 @@
+{
+  "slug": "threads/contact-list-2000-05",
+  "type": "meeting",
+  "title": "Thread: Contact List",
+  "compiled_truth": "Email thread: \"Contact List\". Ran from 2000-05-31 to 2000-06-28 with 10 messages. Participants: [Audrey Robertson](people/audrey-robertson), [Carol Clair](people/carol-clair), [Christine Stokes](people/christine-stokes), [Gaurav Babbar](people/gaurav-babbar), [Jeffery Fawcett](people/jeffery-fawcett), [Kevin Hyatt](people/kevin-hyatt), [Linda Wehring](people/linda-wehring), [Lindy Donoho](people/lindy-donoho).",
+  "timeline": "- **2000-05-31** | Thread begins: contact list\n- **2000-06-28** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/contact-list-2000-05",
+    "attendees": [
+      "people/audrey-robertson",
+      "people/carol-clair",
+      "people/christine-stokes",
+      "people/gaurav-babbar",
+      "people/jeffery-fawcett",
+      "people/kevin-hyatt",
+      "people/linda-wehring",
+      "people/lindy-donoho",
+      "people/lorraine-lindberg",
+      "people/michele-lokay",
+      "people/michelle-lokay",
+      "people/pwright-llgm",
+      "people/rick-gieryn-ace-ina",
+      "people/savitabi-llgm",
+      "people/steven-harris",
+      "people/susan-scott",
+      "people/suzanne-adams",
+      "people/tk-lohman"
+    ],
+    "date": "2000-05-31"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/valeria-hope",
+  "type": "person",
+  "title": "Valeria Hope",
+  "compiled_truth": "Valeria Hope is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-10), Valeria Hope sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/valeria-hope",
+    "name": "Valeria Hope",
+    "email": "valeria.hope@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

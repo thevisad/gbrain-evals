@@ -1,0 +1,14 @@
+{
+  "slug": "people/mitchell-taylor",
+  "type": "person",
+  "title": "Mitchell Taylor",
+  "compiled_truth": "Mitchell Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-05-30), Mitchell Taylor sent 6 and received 132 emails, totalling 138 interactions. Top correspondents: [Skean](people/skean) (4), [Mmetts](people/mmetts) (4), [Paul Kaufman](people/paul-kaufman) (1), [Kfullenweider](people/kfullenweider-velaw) (1), [Ann Ballard](people/ann-ballard) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mitchell-taylor",
+    "name": "Mitchell Taylor",
+    "email": "mitchell.taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

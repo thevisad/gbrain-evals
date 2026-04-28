@@ -1,0 +1,14 @@
+{
+  "slug": "people/rryarde-bpa",
+  "type": "person",
+  "title": "Rryarde",
+  "compiled_truth": "Rryarde is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2001-07-25 to 2001-07-25), Rryarde sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rryarde-bpa",
+    "name": "Rryarde",
+    "email": "rryarde@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

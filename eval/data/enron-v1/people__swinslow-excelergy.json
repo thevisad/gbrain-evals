@@ -1,0 +1,14 @@
+{
+  "slug": "people/swinslow-excelergy",
+  "type": "person",
+  "title": "Swinslow",
+  "compiled_truth": "Swinslow is an external contact at [Excelergy](companies/excelergy). Over the corpus period (2000-08-25 to 2000-08-25), Swinslow sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/swinslow-excelergy",
+    "name": "Swinslow",
+    "email": "swinslow@excelergy.com",
+    "primary_affiliation": "companies/excelergy"
+  }
+}

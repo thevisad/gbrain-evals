@@ -1,0 +1,14 @@
+{
+  "slug": "people/gabrielle-silva",
+  "type": "person",
+  "title": "Gabrielle Silva",
+  "compiled_truth": "Gabrielle Silva is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-26 to 2001-05-11), Gabrielle Silva sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gabrielle-silva",
+    "name": "Gabrielle Silva",
+    "email": "gabrielle.silva@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

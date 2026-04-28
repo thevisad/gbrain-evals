@@ -1,0 +1,14 @@
+{
+  "slug": "people/nick-cocavessis",
+  "type": "person",
+  "title": "Nick Cocavessis",
+  "compiled_truth": "Nick Cocavessis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-21 to 2001-06-01), Nick Cocavessis sent 8 and received 135 emails, totalling 143 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (8), [Ken Loch](people/ken-loch) (3), [Rusty Belflower](people/rusty-belflower) (2), [Audrey O'Neil](people/audrey-o-neil) (2), [Eromero](people/eromero-hou) (2).",
+  "timeline": "- **1999-12-21** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nick-cocavessis",
+    "name": "Nick Cocavessis",
+    "email": "nick.cocavessis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

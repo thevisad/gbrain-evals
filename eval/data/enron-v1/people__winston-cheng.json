@@ -1,0 +1,14 @@
+{
+  "slug": "people/winston-cheng",
+  "type": "person",
+  "title": "Winston Cheng",
+  "compiled_truth": "Winston Cheng is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-07-16), Winston Cheng sent 0 and received 88 emails, totalling 88 interactions.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/winston-cheng",
+    "name": "Winston Cheng",
+    "email": "winston.cheng@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

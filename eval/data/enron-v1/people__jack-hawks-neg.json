@@ -1,0 +1,14 @@
+{
+  "slug": "people/jack-hawks-neg",
+  "type": "person",
+  "title": "Jack Hawks",
+  "compiled_truth": "Jack Hawks is an external contact at [Neg](companies/neg). Over the corpus period (2000-11-10 to 2001-03-16), Jack Hawks sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jack-hawks-neg",
+    "name": "Jack Hawks",
+    "email": "jack.hawks@neg.pge.com",
+    "primary_affiliation": "companies/neg"
+  }
+}

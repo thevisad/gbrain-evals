@@ -1,0 +1,14 @@
+{
+  "slug": "people/maria-maldonado",
+  "type": "person",
+  "title": "Maria Maldonado",
+  "compiled_truth": "Maria Maldonado is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-05 to 2001-10-01), Maria Maldonado sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus\n- **2001-10-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maria-maldonado",
+    "name": "Maria Maldonado",
+    "email": "maria.maldonado@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

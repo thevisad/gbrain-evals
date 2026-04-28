@@ -1,0 +1,14 @@
+{
+  "slug": "people/lashanda-poledore",
+  "type": "person",
+  "title": "Lashanda Poledore",
+  "compiled_truth": "Lashanda Poledore is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-31 to 2001-07-30), Lashanda Poledore sent 0 and received 56 emails, totalling 56 interactions.",
+  "timeline": "- **2000-05-31** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lashanda-poledore",
+    "name": "Lashanda Poledore",
+    "email": "lashanda.poledore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

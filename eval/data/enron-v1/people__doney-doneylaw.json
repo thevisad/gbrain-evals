@@ -1,0 +1,14 @@
+{
+  "slug": "people/doney-doneylaw",
+  "type": "person",
+  "title": "Doney",
+  "compiled_truth": "Doney is an external contact at [Doneylaw](companies/doneylaw). Over the corpus period (2001-03-14 to 2001-04-27), Doney sent 0 and received 59 emails, totalling 59 interactions.",
+  "timeline": "- **2001-03-14** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/doney-doneylaw",
+    "name": "Doney",
+    "email": "doney@doneylaw.com",
+    "primary_affiliation": "companies/doneylaw"
+  }
+}

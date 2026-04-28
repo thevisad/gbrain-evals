@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-schaffer",
+  "type": "person",
+  "title": "Brian Schaffer",
+  "compiled_truth": "Brian Schaffer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-29 to 2002-02-01), Brian Schaffer sent 6 and received 121 emails, totalling 127 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (2), [Drew Fossum](people/drew-fossum) (2), [Danny Mccarty](people/danny-mccarty) (2), [Sally Beck](people/sally-beck) (1), [Hector Mcloughlin](people/hector-mcloughlin) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-03-29** | First recorded email in corpus\n- **2002-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-schaffer",
+    "name": "Brian Schaffer",
+    "email": "brian.schaffer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

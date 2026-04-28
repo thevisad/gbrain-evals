@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-gilbert",
+  "type": "person",
+  "title": "George Gilbert",
+  "compiled_truth": "George Gilbert is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-12-23 to 2001-06-11), George Gilbert sent 0 and received 96 emails, totalling 96 interactions.",
+  "timeline": "- **1998-12-23** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-gilbert",
+    "name": "George Gilbert",
+    "email": "george.gilbert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

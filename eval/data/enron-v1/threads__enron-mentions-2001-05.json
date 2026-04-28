@@ -1,0 +1,17 @@
+{
+  "slug": "threads/enron-mentions-2001-05",
+  "type": "meeting",
+  "title": "Thread: Enron Mentions",
+  "compiled_truth": "Email thread: \"Enron Mentions\". Ran from 2001-05-11 to 2001-06-07 with 29 messages. Participants: [Ann Schmidt](people/ann-schmidt), [Dutch Quigley](people/dutch-quigley), [John Arnold](people/john-arnold).",
+  "timeline": "- **2001-05-11** | Thread begins: enron mentions\n- **2001-06-07** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-mentions-2001-05",
+    "attendees": [
+      "people/ann-schmidt",
+      "people/dutch-quigley",
+      "people/john-arnold"
+    ],
+    "date": "2001-05-11"
+  }
+}

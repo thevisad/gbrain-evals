@@ -1,0 +1,14 @@
+{
+  "slug": "people/stanley-cocke",
+  "type": "person",
+  "title": "Stanley Cocke",
+  "compiled_truth": "Stanley Cocke is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-25 to 2001-12-06), Stanley Cocke sent 62 and received 229 emails, totalling 291 interactions. Top correspondents: [Shift Dl-Portland](people/shift-dl-portland) (27), [Shift Portland](people/shift-portland) (23), [H  Foster](people/h-foster) (8), [Portland Shift](people/portland-shift) (3), [Jeremy Morris](people/jeremy-morris) (3). Mailbox folders observed: bill_williams_iii, inbox, read, scheduling.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stanley-cocke",
+    "name": "Stanley Cocke",
+    "email": "stanley.cocke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

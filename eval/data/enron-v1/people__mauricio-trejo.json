@@ -1,0 +1,14 @@
+{
+  "slug": "people/mauricio-trejo",
+  "type": "person",
+  "title": "Mauricio Trejo",
+  "compiled_truth": "Mauricio Trejo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-08-07), Mauricio Trejo sent 1 and received 103 emails, totalling 104 interactions. Top correspondents: [Don Baughman](people/don-baughman) (1).",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-08-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mauricio-trejo",
+    "name": "Mauricio Trejo",
+    "email": "mauricio.trejo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

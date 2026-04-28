@@ -1,0 +1,14 @@
+{
+  "slug": "people/jgomez",
+  "type": "person",
+  "title": "Jgomez",
+  "compiled_truth": "Jgomez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-12 to 2001-04-11), Jgomez sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus\n- **2001-04-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jgomez",
+    "name": "Jgomez",
+    "email": "jgomez@ect.enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

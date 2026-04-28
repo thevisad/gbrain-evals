@@ -1,0 +1,14 @@
+{
+  "slug": "people/debbie-yates",
+  "type": "person",
+  "title": "Debbie Yates",
+  "compiled_truth": "Debbie Yates is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2001-10-25), Debbie Yates sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debbie-yates",
+    "name": "Debbie Yates",
+    "email": "debbie.yates@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

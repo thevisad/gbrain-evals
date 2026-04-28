@@ -1,0 +1,14 @@
+{
+  "slug": "people/aamodt-david",
+  "type": "person",
+  "title": "Aamodt David",
+  "compiled_truth": "Aamodt David is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-16 to 2001-09-19), Aamodt David sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-08-16** | First recorded email in corpus\n- **2001-09-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aamodt-david",
+    "name": "Aamodt David",
+    "email": "aamodt.david@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

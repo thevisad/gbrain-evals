@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-lackey",
+  "type": "person",
+  "title": "Chris Lackey",
+  "compiled_truth": "Chris Lackey is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-30 to 2002-02-22), Chris Lackey sent 3 and received 104 emails, totalling 107 interactions. Top correspondents: [Holden Salisbury](people/holden-salisbury) (3), [Tom Alonso](people/tom-alonso) (1), [Butler](people/butler) (1), [Jbutler](people/jbutler-pnm) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-01-30** | First recorded email in corpus\n- **2002-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-lackey",
+    "name": "Chris Lackey",
+    "email": "chris.lackey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "people/bex-andersen",
+  "type": "person",
+  "title": "Bex Andersen",
+  "compiled_truth": "Bex Andersen is a Partner at [Crestline Capital](companies/crestline-capital), where she leads the firm's developer tools and infrastructure practice. Before joining Crestline, she spent five years on the go-to-market side at two enterprise SaaS companies — which is unusual for someone who now writes term sheets, but explains a lot about how she thinks. Bex is known in the ecosystem for evaluating startups almost entirely through the lens of distribution: how does the product spread, who tells whom, what's the natural motion? She's been quoted saying she'd rather back a mediocre product with an extraordinary distribution story than the reverse.\n\nHer portfolio reflects this. She led Crestline's investments in [Prism Protocol](companies/prism-protocol) and [Nexus Relay](companies/nexus-relay), both of which had strong bottom-up developer adoption before raising institutional money. She also sits on the board of [Quasar Labs](companies/quasar-labs) and was an early advisor to [Keel Networks](companies/keel-networks), though her involvement with Keel has been more sporadic since mid-2027.\n\nBex is a storyteller — literally. She runs an internal workshop at Crestline called \"Narrative Drills\" where portfolio founders practice compressing their pitch into a single sentence that a non-technical buyer would repeat at dinner. Some founders love it, some find it maddening. Either way, people remember it. She's also known for writing long, meandering memos that somehow land on exactly the right conclusion by the last paragraph. Her investment memo on Prism Protocol circulated widley in the fund community and reportedly influenced at least two follow-on investors.\n\nIn the context of Anchor Codec, Bex first appeared on the radar in late 2026 when she reached out after reading a blog post about deterministic data infrastructure. She was specifically interested in the single-pass primitive as a wedge into developer workflows — her thesis being that compression and authentication happening in one step removes an adoption barrier that most teams don't even consciously recognize. Her initial conversations were exploratory, but by early 2027 she was actively tracking Anchor's traction metrics and introduced the team to several potential design partners.\n\nPersonality-wise, Bex is direct but warm. She tends to ask the uncomfortable distribution question early in a meeting — \"Who's pulling this product into their stack without being asked?\" — and then spend the rest of the time brainstorming answers. She's based in Seattle but travels constantly. Easy to reach by email, slow to respond on Signal.",
+  "timeline": "- **2026-06-15** | Bex leads [Crestline Capital](companies/crestline-capital)'s Series A investment in [Prism Protocol](companies/prism-protocol), her largest check of the year.\n- **2026-10-03** | First outreach to Anchor Codec team via cold email after reading a blog post on deterministic infrastructure primitives.\n- **2026-12-11** | Introductory call with Anchor Codec founders; asks pointed questions about developer adoption patterns and organic pull.\n- **2027-02-20** | Joins board of [Quasar Labs](companies/quasar-labs) following their Series B close.\n- **2027-04-08** | Introduces Anchor Codec to two potential design partners from her network, both in the observability space.\n- **2027-06-22** | Speaks at DevInfra Summit in Portland on \"Distribution as Architecture\" — references [Nexus Relay](companies/nexus-relay) and [Prism Protocol](companies/prism-protocol) as case studies.\n- **2027-09-14** | Internal Crestline memo on single-pass infrastructure circulated; Bex flags Anchor Codec as a company to watch for a potential seed or Series A.\n- **2027-11-30** | Attends Anchor Codec's quarterly review as an outside observer; provides feedback on go-to-market positioning.\n- **2028-01-18** | Reduces advisory involvement with [Keel Networks](companies/keel-networks) to focus on newer portfolio companies.\n- **2028-03-25** | Hosts Narrative Drills session with three Crestline portfolio founders, including a joint session with Anchor Codec's CEO on messaging for enterprise buyers.",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bex-andersen",
+    "name": "Bex Andersen",
+    "role": "partner",
+    "title": "Partner, Crestline Capital",
+    "primary_affiliation": "companies/crestline-capital",
+    "secondary_affiliations": [
+      "companies/prism-protocol",
+      "companies/nexus-relay",
+      "companies/quasar-labs",
+      "companies/keel-networks"
+    ],
+    "notable_traits": [
+      "distribution-focused",
+      "storyteller"
+    ],
+    "background": "Partner at Crestline Capital; focuses on developer tools investments"
+  }
+}

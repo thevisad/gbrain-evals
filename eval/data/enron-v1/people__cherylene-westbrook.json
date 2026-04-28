@@ -1,0 +1,14 @@
+{
+  "slug": "people/cherylene-westbrook",
+  "type": "person",
+  "title": "Cherylene Westbrook",
+  "compiled_truth": "Cherylene Westbrook is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-07), Cherylene Westbrook sent 3 and received 106 emails, totalling 109 interactions. Top correspondents: [Robert Superty](people/robert-superty) (3), [Brenda Herod](people/brenda-herod) (3), [Shari Mao](people/shari-mao) (2), [Jennifer Reside](people/jennifer-reside) (2), [Daren Farmer](people/daren-farmer) (2). Mailbox folders observed: _americas.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cherylene-westbrook",
+    "name": "Cherylene Westbrook",
+    "email": "cherylene.westbrook@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

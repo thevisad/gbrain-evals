@@ -1,0 +1,14 @@
+{
+  "slug": "people/veronica-arriaga",
+  "type": "person",
+  "title": "Veronica Arriaga",
+  "compiled_truth": "Veronica Arriaga is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2001-05-09), Veronica Arriaga sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/veronica-arriaga",
+    "name": "Veronica Arriaga",
+    "email": "veronica.arriaga@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

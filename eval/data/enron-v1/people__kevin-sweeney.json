@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-sweeney",
+  "type": "person",
+  "title": "Kevin Sweeney",
+  "compiled_truth": "Kevin Sweeney is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Kevin Sweeney sent 13 and received 273 emails, totalling 286 interactions. Top correspondents: [Sally Beck](people/sally-beck) (7), [Sara Shackleton](people/sara-shackleton) (3), [Robert Bruce](people/robert-bruce) (3), [Sam Leuschen](people/sam-leuschen) (2), [Cindy Horn](people/cindy-horn) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-sweeney",
+    "name": "Kevin Sweeney",
+    "email": "kevin.sweeney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

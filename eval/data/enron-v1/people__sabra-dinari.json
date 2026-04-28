@@ -1,0 +1,14 @@
+{
+  "slug": "people/sabra-dinari",
+  "type": "person",
+  "title": "Sabra Dinari",
+  "compiled_truth": "Sabra Dinari is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-05-17), Sabra Dinari sent 2 and received 244 emails, totalling 246 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (2), [Yuan Tian](people/yuan-tian) (2), [Scott Neal](people/scott-neal) (2), [Victor Lamadrid](people/victor-lamadrid) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-05-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sabra-dinari",
+    "name": "Sabra Dinari",
+    "email": "sabra.dinari@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

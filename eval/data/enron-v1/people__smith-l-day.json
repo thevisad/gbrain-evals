@@ -1,0 +1,14 @@
+{
+  "slug": "people/smith-l-day",
+  "type": "person",
+  "title": "Smith L Day",
+  "compiled_truth": "Smith L Day is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-03 to 2001-05-10), Smith L Day sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-01-03** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/smith-l-day",
+    "name": "Smith L Day",
+    "email": "smith.l.day@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

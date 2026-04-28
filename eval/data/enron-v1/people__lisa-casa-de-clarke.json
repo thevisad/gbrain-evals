@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-casa-de-clarke",
+  "type": "person",
+  "title": "Lisa",
+  "compiled_truth": "Lisa is an external contact at [Casa-de-clarke](companies/casa-de-clarke). Over the corpus period (2000-07-17 to 2001-12-19), Lisa sent 5 and received 45 emails, totalling 50 interactions. Top correspondents: [Kay Mann](people/kay-mann) (5), [Mccall Mike](people/mccall-mike) (1).",
+  "timeline": "- **2000-07-17** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-casa-de-clarke",
+    "name": "Lisa",
+    "email": "lisa@casa-de-clarke.com",
+    "primary_affiliation": "companies/casa-de-clarke"
+  }
+}

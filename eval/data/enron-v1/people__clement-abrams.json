@@ -1,0 +1,14 @@
+{
+  "slug": "people/clement-abrams",
+  "type": "person",
+  "title": "Clement Abrams",
+  "compiled_truth": "Clement Abrams is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-11 to 2001-12-31), Clement Abrams sent 35 and received 303 emails, totalling 338 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (17), [Tana Jones](people/tana-jones) (10), [Greg Johnston](people/greg-johnston) (6), [Peter Keohane](people/peter-keohane) (5), [Soma Ghosh](people/soma-ghosh) (5). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-05-11** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clement-abrams",
+    "name": "Clement Abrams",
+    "email": "clement.abrams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

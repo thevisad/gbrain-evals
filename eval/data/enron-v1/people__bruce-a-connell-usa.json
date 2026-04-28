@@ -1,0 +1,14 @@
+{
+  "slug": "people/bruce-a-connell-usa",
+  "type": "person",
+  "title": "Bruce A Connell",
+  "compiled_truth": "Bruce A Connell is an external contact at [Usa](companies/usa). Over the corpus period (1999-10-04 to 2002-01-10), Bruce A Connell sent 0 and received 45 emails, totalling 45 interactions.",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bruce-a-connell-usa",
+    "name": "Bruce A Connell",
+    "email": "bruce.a.connell@usa.conoco.com",
+    "primary_affiliation": "companies/usa"
+  }
+}

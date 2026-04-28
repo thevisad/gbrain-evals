@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-pais",
+  "type": "person",
+  "title": "Randy Pais",
+  "compiled_truth": "Randy Pais is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-03 to 2002-06-21), Randy Pais sent 7 and received 105 emails, totalling 112 interactions. Top correspondents: [Kay Mann](people/kay-mann) (4), [Robert Sevitz](people/robert-sevitz) (2), [John Schwartzenburg](people/john-schwartzenburg) (2), [Rick Johnson](people/rick-johnson) (1), [Michelle Cash](people/michelle-cash) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-10-03** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-pais",
+    "name": "Randy Pais",
+    "email": "randy.pais@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

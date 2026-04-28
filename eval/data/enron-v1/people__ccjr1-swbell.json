@@ -1,0 +1,14 @@
+{
+  "slug": "people/ccjr1-swbell",
+  "type": "person",
+  "title": "Ccjr1",
+  "compiled_truth": "Ccjr1 is an external contact at [Swbell](companies/swbell). Over the corpus period (2000-11-13 to 2001-11-09), Ccjr1 sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ccjr1-swbell",
+    "name": "Ccjr1",
+    "email": "ccjr1@swbell.net",
+    "primary_affiliation": "companies/swbell"
+  }
+}

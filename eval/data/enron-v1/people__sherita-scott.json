@@ -1,0 +1,14 @@
+{
+  "slug": "people/sherita-scott",
+  "type": "person",
+  "title": "Sherita Scott",
+  "compiled_truth": "Sherita Scott is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-18 to 2001-06-06), Sherita Scott sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-10-18** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sherita-scott",
+    "name": "Sherita Scott",
+    "email": "sherita.scott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

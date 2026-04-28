@@ -1,0 +1,14 @@
+{
+  "slug": "people/kewh-dynegy",
+  "type": "person",
+  "title": "Kewh",
+  "compiled_truth": "Kewh is an external contact at [Dynegy](companies/dynegy). Over the corpus period (2000-02-24 to 2001-04-22), Kewh sent 0 and received 68 emails, totalling 68 interactions.",
+  "timeline": "- **2000-02-24** | First recorded email in corpus\n- **2001-04-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kewh-dynegy",
+    "name": "Kewh",
+    "email": "kewh@dynegy.com",
+    "primary_affiliation": "companies/dynegy"
+  }
+}

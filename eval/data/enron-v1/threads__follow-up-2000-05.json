@@ -1,0 +1,23 @@
+{
+  "slug": "threads/follow-up-2000-05",
+  "type": "meeting",
+  "title": "Thread: Follow Up",
+  "compiled_truth": "Email thread: \"Follow Up\". Ran from 2000-05-11 to 2000-06-06 with 12 messages. Participants: [Carol Clair](people/carol-clair), [Dale Nesbitt](people/dale-nesbitt-marketpointinc), [David Dupre](people/david-dupre), [Jerusalemfund](people/jerusalemfund-aol), [Linda Strahm](people/linda-strahm), [Michelle Cash](people/michelle-cash), [Rosalee Fleming](people/rosalee-fleming), [Vince Kaminski](people/vince-kaminski).",
+  "timeline": "- **2000-05-11** | Thread begins: follow up\n- **2000-06-06** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/follow-up-2000-05",
+    "attendees": [
+      "people/carol-clair",
+      "people/dale-nesbitt-marketpointinc",
+      "people/david-dupre",
+      "people/jerusalemfund-aol",
+      "people/linda-strahm",
+      "people/michelle-cash",
+      "people/rosalee-fleming",
+      "people/vince-kaminski",
+      "people/vkaminski-aol"
+    ],
+    "date": "2000-05-11"
+  }
+}

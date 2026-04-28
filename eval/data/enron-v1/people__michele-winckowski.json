@@ -1,0 +1,14 @@
+{
+  "slug": "people/michele-winckowski",
+  "type": "person",
+  "title": "Michele Winckowski",
+  "compiled_truth": "Michele Winckowski is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-17 to 2002-02-14), Michele Winckowski sent 31 and received 246 emails, totalling 277 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (9), [Steve Kirk](people/steve-kirk) (6), [Dari Dornan](people/dari-dornan) (5), [Bill Fowler](people/bill-fowler) (4), [Kent Miller](people/kent-miller) (4). Mailbox folders observed: deleted_items, enron_t_s, inbox, misc_.",
+  "timeline": "- **2000-01-17** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michele-winckowski",
+    "name": "Michele Winckowski",
+    "email": "michele.winckowski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

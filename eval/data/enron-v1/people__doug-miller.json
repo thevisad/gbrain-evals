@@ -1,0 +1,14 @@
+{
+  "slug": "people/doug-miller",
+  "type": "person",
+  "title": "Doug Miller",
+  "compiled_truth": "Doug Miller is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2001-05-24), Doug Miller sent 1 and received 274 emails, totalling 275 interactions. Top correspondents: [Juan Hernandez](people/juan-hernandez) (1), [Don Baughman](people/don-baughman) (1). Mailbox folders observed: power.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2001-05-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/doug-miller",
+    "name": "Doug Miller",
+    "email": "doug.miller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

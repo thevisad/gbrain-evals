@@ -1,0 +1,14 @@
+{
+  "slug": "people/donald-reid",
+  "type": "person",
+  "title": "Donald Reid",
+  "compiled_truth": "Donald Reid is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-03-23), Donald Reid sent 2 and received 6 emails, totalling 8 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (2).",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-03-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donald-reid",
+    "name": "Donald Reid",
+    "email": "donald.reid@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/green-scott",
+  "type": "person",
+  "title": "Green Scott",
+  "compiled_truth": "Green Scott is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2002-01-25), Green Scott sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/green-scott",
+    "name": "Green Scott",
+    "email": "green.scott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

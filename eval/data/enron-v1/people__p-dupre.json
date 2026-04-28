@@ -1,0 +1,14 @@
+{
+  "slug": "people/p-dupre",
+  "type": "person",
+  "title": "P  Dupre",
+  "compiled_truth": "P  Dupre is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-07 to 2001-12-03), P  Dupre sent 2 and received 31 emails, totalling 33 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1), [Greg Whalley](people/greg-whalley) (1), [Errol Mclaughlin](people/errol-mclaughlin) (1), [Bilal Bajwa](people/bilal-bajwa) (1), [Kori Loibl](people/kori-loibl) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-07** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/p-dupre",
+    "name": "P  Dupre",
+    "email": "p..dupre@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

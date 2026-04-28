@@ -1,0 +1,14 @@
+{
+  "slug": "people/taffy-milligan",
+  "type": "person",
+  "title": "Taffy Milligan",
+  "compiled_truth": "Taffy Milligan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-25 to 2001-06-15), Taffy Milligan sent 191 and received 927 emails, totalling 1118 interactions. Top correspondents: [Tana Jones](people/tana-jones) (145), [Mark Taylor](people/mark-taylor) (135), [Susan Bailey](people/susan-bailey) (132), [Sara Shackleton](people/sara-shackleton) (106), [Carol Clair](people/carol-clair) (98). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-06-25** | First recorded email in corpus\n- **2001-06-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/taffy-milligan",
+    "name": "Taffy Milligan",
+    "email": "taffy.milligan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

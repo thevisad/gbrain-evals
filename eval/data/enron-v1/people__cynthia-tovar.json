@@ -1,0 +1,14 @@
+{
+  "slug": "people/cynthia-tovar",
+  "type": "person",
+  "title": "Cynthia Tovar",
+  "compiled_truth": "Cynthia Tovar is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-08-22), Cynthia Tovar sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-08-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cynthia-tovar",
+    "name": "Cynthia Tovar",
+    "email": "cynthia.tovar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

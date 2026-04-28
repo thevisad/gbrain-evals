@@ -1,0 +1,14 @@
+{
+  "slug": "people/deiching",
+  "type": "person",
+  "title": "Deiching",
+  "compiled_truth": "Deiching is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2000-04-25), Deiching sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2000-04-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deiching",
+    "name": "Deiching",
+    "email": "deiching@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

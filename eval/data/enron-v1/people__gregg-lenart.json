@@ -1,0 +1,14 @@
+{
+  "slug": "people/gregg-lenart",
+  "type": "person",
+  "title": "Gregg Lenart",
+  "compiled_truth": "Gregg Lenart is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-06), Gregg Lenart sent 2 and received 71 emails, totalling 73 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (2), [Lisa Csikos](people/lisa-csikos) (1), [Pat Clynes](people/pat-clynes) (1), [Rita Wynne](people/rita-wynne) (1), [Gary Nelson](people/gary-nelson) (1).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gregg-lenart",
+    "name": "Gregg Lenart",
+    "email": "gregg.lenart@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

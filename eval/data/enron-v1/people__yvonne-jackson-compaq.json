@@ -1,0 +1,14 @@
+{
+  "slug": "people/yvonne-jackson-compaq",
+  "type": "person",
+  "title": "Yvonne Jackson",
+  "compiled_truth": "Yvonne Jackson is an external contact at [Compaq](companies/compaq). Over the corpus period (2000-08-30 to 2001-06-01), Yvonne Jackson sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Lawrence T Babbio Jr](people/lawrence-t-babbio-jr-verizon) (1), [Lynnj](people/lynnj-iname) (1), [Klay](people/klay) (1).",
+  "timeline": "- **2000-08-30** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yvonne-jackson-compaq",
+    "name": "Yvonne Jackson",
+    "email": "yvonne.jackson@compaq.com",
+    "primary_affiliation": "companies/compaq"
+  }
+}

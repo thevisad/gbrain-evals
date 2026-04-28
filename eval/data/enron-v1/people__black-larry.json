@@ -1,0 +1,14 @@
+{
+  "slug": "people/black-larry",
+  "type": "person",
+  "title": "Black Larry",
+  "compiled_truth": "Black Larry is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-15 to 2001-11-13), Black Larry sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-08-15** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/black-larry",
+    "name": "Black Larry",
+    "email": "black.larry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/clandry",
+  "type": "person",
+  "title": "Clandry",
+  "compiled_truth": "Clandry is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2001-05-16), Clandry sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-05-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clandry",
+    "name": "Clandry",
+    "email": "clandry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

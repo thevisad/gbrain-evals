@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-apx",
+  "type": "person",
+  "title": "Mark",
+  "compiled_truth": "Mark is an external contact at [Apx](companies/apx). Over the corpus period (2000-07-25 to 2000-08-29), Mark sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2000-08-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-apx",
+    "name": "Mark",
+    "email": "mark@apx.com",
+    "primary_affiliation": "companies/apx"
+  }
+}

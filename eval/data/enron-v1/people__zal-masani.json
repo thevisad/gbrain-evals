@@ -1,0 +1,14 @@
+{
+  "slug": "people/zal-masani",
+  "type": "person",
+  "title": "Zal Masani",
+  "compiled_truth": "Zal Masani is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-11-30), Zal Masani sent 1 and received 96 emails, totalling 97 interactions. Top correspondents: [Shalesh Ganjoo](people/shalesh-ganjoo) (1), [Ben Freeman](people/ben-freeman) (1), [Roger Estrada](people/roger-estrada) (1), [Frank Mcguinness](people/frank-mcguinness) (1), [Scott Manuel](people/scott-manuel) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zal-masani",
+    "name": "Zal Masani",
+    "email": "zal.masani@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

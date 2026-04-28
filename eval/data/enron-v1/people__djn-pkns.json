@@ -1,0 +1,14 @@
+{
+  "slug": "people/djn-pkns",
+  "type": "person",
+  "title": "Djn",
+  "compiled_truth": "Djn is an external contact at [Pkns](companies/pkns). Over the corpus period (1980-01-01 to 2001-06-11), Djn sent 1 and received 96 emails, totalling 97 interactions. Top correspondents: [Gfergus](people/gfergus-brobeck) (1), [Richard B Sanders](people/richard-b-sanders) (1), [Jalexander](people/jalexander-gibbs-bruns) (1), [Mlk](people/mlk-pkns) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/djn-pkns",
+    "name": "Djn",
+    "email": "djn@pkns.com",
+    "primary_affiliation": "companies/pkns"
+  }
+}

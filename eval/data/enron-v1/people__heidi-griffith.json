@@ -1,0 +1,14 @@
+{
+  "slug": "people/heidi-griffith",
+  "type": "person",
+  "title": "Heidi Griffith",
+  "compiled_truth": "Heidi Griffith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-14 to 2001-11-12), Heidi Griffith sent 17 and received 39 emails, totalling 56 interactions. Top correspondents: [Chris Germany](people/chris-germany) (17), [Wade Price](people/wade-price) (14), [Mary Franklin](people/mary-franklin) (14), [Gloria Barkowsky](people/gloria-barkowsky) (11), [Lashanda Poledore](people/lashanda-poledore) (10).",
+  "timeline": "- **2000-01-14** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heidi-griffith",
+    "name": "Heidi Griffith",
+    "email": "heidi.griffith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

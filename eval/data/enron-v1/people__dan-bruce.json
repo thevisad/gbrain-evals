@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-bruce",
+  "type": "person",
+  "title": "Dan Bruce",
+  "compiled_truth": "Dan Bruce is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2001-06-08), Dan Bruce sent 2 and received 59 emails, totalling 61 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (2), [Philippe Bibi](people/philippe-bibi) (2), [Harry Arora](people/harry-arora) (2), [Suresh Raghavan](people/suresh-raghavan) (2). Mailbox folders observed: savedmail.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-bruce",
+    "name": "Dan Bruce",
+    "email": "dan.bruce@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

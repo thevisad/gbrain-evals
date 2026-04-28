@@ -1,0 +1,14 @@
+{
+  "slug": "people/premkuma-haas",
+  "type": "person",
+  "title": "Premkuma",
+  "compiled_truth": "Premkuma is an external contact at [Haas](companies/haas). Over the corpus period (2000-01-29 to 2001-04-06), Premkuma sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-01-29** | First recorded email in corpus\n- **2001-04-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/premkuma-haas",
+    "name": "Premkuma",
+    "email": "premkuma@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

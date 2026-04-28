@@ -1,0 +1,14 @@
+{
+  "slug": "people/celeste-roberts",
+  "type": "person",
+  "title": "Celeste Roberts",
+  "compiled_truth": "Celeste Roberts is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-05 to 2001-12-03), Celeste Roberts sent 12 and received 106 emails, totalling 118 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (9), [Charlene Jackson](people/charlene-jackson) (3), [Sally Beck](people/sally-beck) (2), [Althea Gordon](people/althea-gordon) (2), [Greg Whalley](people/greg-whalley) (2). Mailbox folders observed: resumes.",
+  "timeline": "- **2000-01-05** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/celeste-roberts",
+    "name": "Celeste Roberts",
+    "email": "celeste.roberts@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

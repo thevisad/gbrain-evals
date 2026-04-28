@@ -1,0 +1,14 @@
+{
+  "slug": "people/melvin-siecko",
+  "type": "person",
+  "title": "Melvin Siecko",
+  "compiled_truth": "Melvin Siecko is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2000-09-14), Melvin Siecko sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2000-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melvin-siecko",
+    "name": "Melvin Siecko",
+    "email": "melvin.siecko@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rodney-rpum",
+  "type": "person",
+  "title": "Rodney",
+  "compiled_truth": "Rodney is an external contact at [Rpum](companies/rpum). Over the corpus period (2001-11-06 to 2001-11-16), Rodney sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-11-06** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rodney-rpum",
+    "name": "Rodney",
+    "email": "rodney@rpum.com",
+    "primary_affiliation": "companies/rpum"
+  }
+}

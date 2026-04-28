@@ -1,0 +1,28 @@
+{
+  "slug": "meetings/important-meeting-location-correction-2001-11",
+  "type": "meeting",
+  "title": "Meeting: Important Meeting - Location Correction",
+  "compiled_truth": "Meeting: \"Important Meeting - Location Correction\". Occurred 2001-11-20 through 2001-11-21 with 2 related emails. Participants included: [A  Price](people/a-price), [A  Shankman](people/a-shankman), [Cathy Phillips](people/cathy-phillips), [Daniel Reck](people/daniel-reck), [Eric Gonzales](people/eric-gonzales), [Gary Hickerson](people/gary-hickerson), [George Mcclellan](people/george-mcclellan), [Joseph Hirl](people/joseph-hirl)....",
+  "timeline": "- **2001-11-20** | Meeting: important meeting - location correction\n- **2001-11-21** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/important-meeting-location-correction-2001-11",
+    "attendees": [
+      "people/a-price",
+      "people/a-shankman",
+      "people/cathy-phillips",
+      "people/daniel-reck",
+      "people/eric-gonzales",
+      "people/gary-hickerson",
+      "people/george-mcclellan",
+      "people/joseph-hirl",
+      "people/l-nowlan",
+      "people/larry-lawyer",
+      "people/mark-tawney",
+      "people/mike-mcconnell",
+      "people/per-sekse",
+      "people/shanna-funkhouser"
+    ],
+    "date": "2001-11-20"
+  }
+}

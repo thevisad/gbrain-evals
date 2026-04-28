@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-arnold",
+  "type": "person",
+  "title": "John Arnold",
+  "compiled_truth": "John Arnold is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-25), John Arnold sent 2369 and received 1453 emails, totalling 3822 interactions. Top correspondents: [Jennifer Fraser](people/jennifer-fraser) (153), [Ina Rangel](people/ina-rangel) (139), [Slafontaine](people/slafontaine-globalp) (116), [Mike Maggi](people/mike-maggi) (111), [Margaret Allen](people/margaret-allen) (105). Mailbox folders observed: _sent_mail, deleted_items, inbox, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-arnold",
+    "name": "John Arnold",
+    "email": "john.arnold@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

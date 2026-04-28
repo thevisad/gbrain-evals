@@ -1,0 +1,14 @@
+{
+  "slug": "people/pwerner-isda-eur",
+  "type": "person",
+  "title": "Pwerner",
+  "compiled_truth": "Pwerner is an external contact at [Isda-eur](companies/isda-eur). Over the corpus period (2001-04-30 to 2001-08-08), Pwerner sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2001-08-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pwerner-isda-eur",
+    "name": "Pwerner",
+    "email": "pwerner@isda-eur.org",
+    "primary_affiliation": "companies/isda-eur"
+  }
+}

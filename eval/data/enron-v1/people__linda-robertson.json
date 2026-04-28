@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-robertson",
+  "type": "person",
+  "title": "Linda Robertson",
+  "compiled_truth": "Linda Robertson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-01 to 2002-01-11), Linda Robertson sent 123 and received 2141 emails, totalling 2264 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (97), [Steven Kean](people/steven-kean) (43), [James Steffes](people/james-steffes) (28), [J  Kean](people/j-kean) (21), [Jeff Dasovich](people/jeff-dasovich) (18). Mailbox folders observed: 2002_budget, _americas, cftc, compliments, deleted_items, enron_litigation.",
+  "timeline": "- **2000-11-01** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-robertson",
+    "name": "Linda Robertson",
+    "email": "linda.robertson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

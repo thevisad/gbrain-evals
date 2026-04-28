@@ -1,0 +1,14 @@
+{
+  "slug": "people/pat-johnson",
+  "type": "person",
+  "title": "Pat Johnson",
+  "compiled_truth": "Pat Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-12 to 2001-11-09), Pat Johnson sent 2 and received 11 emails, totalling 13 interactions. Top correspondents: [Dana Davis](people/dana-davis) (2).",
+  "timeline": "- **2000-12-12** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pat-johnson",
+    "name": "Pat Johnson",
+    "email": "pat.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

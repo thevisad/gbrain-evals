@@ -1,0 +1,23 @@
+{
+  "slug": "threads/weather-2001-06",
+  "type": "meeting",
+  "title": "Thread: Weather",
+  "compiled_truth": "Email thread: \"Weather\". Ran from 2001-06-05 to 2001-06-07 with 11 messages. Participants: [A  Roberts](people/a-roberts), [Debra Perlingiere](people/debra-perlingiere), [J Kaminski](people/j-kaminski), [Kaminski](people/kaminski), [Paul Quilkey](people/paul-quilkey), [Quilkey](people/quilkey), [Roberts](people/roberts), [Roths](people/roths-orbitworld).",
+  "timeline": "- **2001-06-05** | Thread begins: weather\n- **2001-06-07** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/weather-2001-06",
+    "attendees": [
+      "people/a-roberts",
+      "people/debra-perlingiere",
+      "people/j-kaminski",
+      "people/kaminski",
+      "people/paul-quilkey",
+      "people/quilkey",
+      "people/roberts",
+      "people/roths-orbitworld",
+      "people/shirley-crenshaw"
+    ],
+    "date": "2001-06-05"
+  }
+}

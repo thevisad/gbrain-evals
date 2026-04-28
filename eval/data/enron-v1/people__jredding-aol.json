@@ -1,0 +1,14 @@
+{
+  "slug": "people/jredding-aol",
+  "type": "person",
+  "title": "Jredding",
+  "compiled_truth": "Jredding is an external contact at [AOL](companies/aol). Over the corpus period (2001-06-11 to 2001-06-29), Jredding sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2001-06-11** | First recorded email in corpus\n- **2001-06-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jredding-aol",
+    "name": "Jredding",
+    "email": "jredding@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ina-rangel",
+  "type": "person",
+  "title": "Ina Rangel",
+  "compiled_truth": "Ina Rangel is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-22), Ina Rangel sent 116 and received 713 emails, totalling 829 interactions. Top correspondents: [Mike Grigsby](people/mike-grigsby) (47), [Jay Reitmeyer](people/jay-reitmeyer) (43), [Frank Ermis](people/frank-ermis) (42), [Keith Holst](people/keith-holst) (42), [Tori Kuykendall](people/tori-kuykendall) (41). Mailbox folders observed: 09_saved, 10_saved, _americas, _sent_mail, deleted_items, desk_matters.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ina-rangel",
+    "name": "Ina Rangel",
+    "email": "ina.rangel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

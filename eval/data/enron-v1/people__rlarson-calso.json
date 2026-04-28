@@ -1,0 +1,14 @@
+{
+  "slug": "people/rlarson-calso",
+  "type": "person",
+  "title": "Rlarson",
+  "compiled_truth": "Rlarson is an external contact at [Calso](companies/calso). Over the corpus period (2001-05-04 to 2001-10-19), Rlarson sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-05-04** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rlarson-calso",
+    "name": "Rlarson",
+    "email": "rlarson@calso.com",
+    "primary_affiliation": "companies/calso"
+  }
+}

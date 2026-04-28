@@ -1,0 +1,14 @@
+{
+  "slug": "people/sally-beck",
+  "type": "person",
+  "title": "Sally Beck",
+  "compiled_truth": "Sally Beck is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-19), Sally Beck sent 2585 and received 3701 emails, totalling 6286 interactions. Top correspondents: [Patti Thompson](people/patti-thompson) (298), [Beth Apollo](people/beth-apollo) (146), [Greg Piper](people/greg-piper) (145), [Leslie Reeves](people/leslie-reeves) (144), [Brent Price](people/brent-price) (142). Mailbox folders observed: _americas, _sent_mail, calendar, cya, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sally-beck",
+    "name": "Sally Beck",
+    "email": "sally.beck@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

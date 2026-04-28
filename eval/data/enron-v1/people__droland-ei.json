@@ -1,0 +1,14 @@
+{
+  "slug": "people/droland-ei",
+  "type": "person",
+  "title": "Droland",
+  "compiled_truth": "Droland is an external contact at [Ei](companies/ei). Over the corpus period (2000-07-17 to 2000-07-17), Droland sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/droland-ei",
+    "name": "Droland",
+    "email": "droland@ei.enron.com",
+    "primary_affiliation": "companies/ei"
+  }
+}

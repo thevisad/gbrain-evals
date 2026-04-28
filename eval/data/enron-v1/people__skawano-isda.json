@@ -1,0 +1,14 @@
+{
+  "slug": "people/skawano-isda",
+  "type": "person",
+  "title": "Skawano",
+  "compiled_truth": "Skawano is an external contact at [Isda](companies/isda). Over the corpus period (2000-09-07 to 2001-11-13), Skawano sent 0 and received 57 emails, totalling 57 interactions.",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/skawano-isda",
+    "name": "Skawano",
+    "email": "skawano@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/d-martin",
+  "type": "person",
+  "title": "D  Martin",
+  "compiled_truth": "D  Martin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-10 to 2002-03-20), D  Martin sent 4 and received 95 emails, totalling 99 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (3), [Phil Lowry](people/phil-lowry) (3), [Stanley Horton](people/stanley-horton) (3), [Nasim Khan](people/nasim-khan) (2), [Leigh Lyons](people/leigh-lyons) (2). Mailbox folders observed: deleted_items, sent_items.",
+  "timeline": "- **2001-03-10** | First recorded email in corpus\n- **2002-03-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d-martin",
+    "name": "D  Martin",
+    "email": "d..martin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

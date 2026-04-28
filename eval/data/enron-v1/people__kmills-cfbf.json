@@ -1,0 +1,14 @@
+{
+  "slug": "people/kmills-cfbf",
+  "type": "person",
+  "title": "Kmills",
+  "compiled_truth": "Kmills is an external contact at [Cfbf](companies/cfbf). Over the corpus period (1999-09-24 to 2001-12-21), Kmills sent 1 and received 225 emails, totalling 226 interactions. Top correspondents: [Dhunter](people/dhunter-smithandkempton) (1), [Athomas](people/athomas-newenergy) (1), [Alippin](people/alippin-mail) (1), [Cohnap](people/cohnap-sce) (1), [Anw](people/anw-cpuc) (1).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kmills-cfbf",
+    "name": "Kmills",
+    "email": "kmills@cfbf.com",
+    "primary_affiliation": "companies/cfbf"
+  }
+}

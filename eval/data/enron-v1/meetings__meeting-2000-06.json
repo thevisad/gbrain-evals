@@ -1,0 +1,31 @@
+{
+  "slug": "meetings/meeting-2000-06",
+  "type": "meeting",
+  "title": "Meeting: Meeting",
+  "compiled_truth": "Meeting: \"Meeting\". Occurred 2000-06-07 through 2000-06-08 with 3 related emails. Participants included: [Barbara Lewis](people/barbara-lewis), [Beth Perlman](people/beth-perlman), [Cherylene Westbrook](people/cherylene-westbrook), [Giselle James](people/giselle-james), [Grant Masson](people/grant-masson), [Karen Heathman](people/karen-heathman), [Maria Sandoval](people/maria-sandoval), [Michael Moscoso](people/michael-moscoso)....",
+  "timeline": "- **2000-06-07** | Meeting: meeting\n- **2000-06-08** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-2000-06",
+    "attendees": [
+      "people/barbara-lewis",
+      "people/beth-perlman",
+      "people/cherylene-westbrook",
+      "people/giselle-james",
+      "people/grant-masson",
+      "people/karen-heathman",
+      "people/maria-sandoval",
+      "people/michael-moscoso",
+      "people/patti-thompson",
+      "people/peggy-mccurley",
+      "people/philippe-bibi",
+      "people/rick-buy",
+      "people/rita-hennessy",
+      "people/sally-beck",
+      "people/shirley-crenshaw",
+      "people/stephen-stock",
+      "people/ted-murphy"
+    ],
+    "date": "2000-06-07"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/preid-edison-source",
+  "type": "person",
+  "title": "Preid",
+  "compiled_truth": "Preid is an external contact at [Edison-source](companies/edison-source). Over the corpus period (2000-08-25 to 2000-09-25), Preid sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2000-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/preid-edison-source",
+    "name": "Preid",
+    "email": "preid@edison-source.com",
+    "primary_affiliation": "companies/edison-source"
+  }
+}

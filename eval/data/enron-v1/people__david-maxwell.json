@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-maxwell",
+  "type": "person",
+  "title": "David Maxwell",
+  "compiled_truth": "David Maxwell is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-03-29), David Maxwell sent 7 and received 93 emails, totalling 100 interactions. Top correspondents: [Sally Beck](people/sally-beck) (6), [Shona Wilson](people/shona-wilson) (5), [Ted Murphy](people/ted-murphy) (5), [L'Sheryl Hudson](people/l-sheryl-hudson) (4), [Michael Galvan](people/michael-galvan) (4). Mailbox folders observed: notes_inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-maxwell",
+    "name": "David Maxwell",
+    "email": "david.maxwell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

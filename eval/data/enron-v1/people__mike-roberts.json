@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-roberts",
+  "type": "person",
+  "title": "Mike Roberts",
+  "compiled_truth": "Mike Roberts is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2001-05-30), Mike Roberts sent 48 and received 429 emails, totalling 477 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (47), [Jose Marquez](people/jose-marquez) (9), [Stephen Bennett](people/stephen-bennett) (8), [Kevin Moore](people/kevin-moore) (7), [Joseph Hrgovcic](people/joseph-hrgovcic) (7). Mailbox folders observed: c, deleted_items, gpg, london.",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-roberts",
+    "name": "Mike Roberts",
+    "email": "mike.roberts@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

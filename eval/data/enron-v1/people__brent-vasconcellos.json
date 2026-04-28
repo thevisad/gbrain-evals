@@ -1,0 +1,14 @@
+{
+  "slug": "people/brent-vasconcellos",
+  "type": "person",
+  "title": "Brent Vasconcellos",
+  "compiled_truth": "Brent Vasconcellos is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-23 to 2001-11-14), Brent Vasconcellos sent 4 and received 106 emails, totalling 110 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (3), [Kenneth Lay](people/kenneth-lay) (1), [Scott Sefton](people/scott-sefton) (1), [Trushar Patel](people/trushar-patel) (1), [Gordon Mckillop](people/gordon-mckillop) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-05-23** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brent-vasconcellos",
+    "name": "Brent Vasconcellos",
+    "email": "brent.vasconcellos@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

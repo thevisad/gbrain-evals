@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-canadian-north",
+  "type": "person",
+  "title": "Team Canadian-North",
+  "compiled_truth": "Team Canadian-North is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-12 to 2002-03-25), Team Canadian-North sent 1 and received 28 emails, totalling 29 interactions. Top correspondents: [Darrell Schoolcraft](people/darrell-schoolcraft) (1), [Mickey Lowe](people/mickey-lowe) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-10-12** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-canadian-north",
+    "name": "Team Canadian-North",
+    "email": "team.canadian-north@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

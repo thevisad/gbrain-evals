@@ -1,0 +1,14 @@
+{
+  "slug": "people/sandy-olitsky",
+  "type": "person",
+  "title": "Sandy Olitsky",
+  "compiled_truth": "Sandy Olitsky is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-11-21), Sandy Olitsky sent 0 and received 55 emails, totalling 55 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sandy-olitsky",
+    "name": "Sandy Olitsky",
+    "email": "sandy.olitsky@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

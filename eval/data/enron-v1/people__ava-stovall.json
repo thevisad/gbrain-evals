@@ -1,0 +1,14 @@
+{
+  "slug": "people/ava-stovall",
+  "type": "person",
+  "title": "Ava Stovall",
+  "compiled_truth": "Ava Stovall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-07 to 2001-04-23), Ava Stovall sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-08-07** | First recorded email in corpus\n- **2001-04-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ava-stovall",
+    "name": "Ava Stovall",
+    "email": "ava.stovall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

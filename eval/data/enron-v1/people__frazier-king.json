@@ -1,0 +1,14 @@
+{
+  "slug": "people/frazier-king",
+  "type": "person",
+  "title": "Frazier King",
+  "compiled_truth": "Frazier King is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-12), Frazier King sent 55 and received 338 emails, totalling 393 interactions. Top correspondents: [Teb Lokey](people/teb-lokey) (16), [Bill Rapp](people/bill-rapp) (16), [Shelley Corman](people/shelley-corman) (14), [Drew Fossum](people/drew-fossum) (11), [Dorothy Mccoppin](people/dorothy-mccoppin) (11). Mailbox folders observed: action_items_in, deleted_items, inbox, marketing_affiliate, tw.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frazier-king",
+    "name": "Frazier King",
+    "email": "frazier.king@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

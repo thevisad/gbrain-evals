@@ -1,0 +1,14 @@
+{
+  "slug": "people/lane-linda",
+  "type": "person",
+  "title": "Lane Linda",
+  "compiled_truth": "Lane Linda is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-09 to 2001-09-20), Lane Linda sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-07-09** | First recorded email in corpus\n- **2001-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lane-linda",
+    "name": "Lane Linda",
+    "email": "lane.linda@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

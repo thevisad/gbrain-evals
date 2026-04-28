@@ -1,0 +1,14 @@
+{
+  "slug": "people/acartagena-dcpsc",
+  "type": "person",
+  "title": "Acartagena",
+  "compiled_truth": "Acartagena is an external contact at [Dcpsc](companies/dcpsc). Over the corpus period (2001-07-13 to 2001-07-13), Acartagena sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-13** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/acartagena-dcpsc",
+    "name": "Acartagena",
+    "email": "acartagena@dcpsc.org",
+    "primary_affiliation": "companies/dcpsc"
+  }
+}

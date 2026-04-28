@@ -1,0 +1,14 @@
+{
+  "slug": "people/marc-eichmann",
+  "type": "person",
+  "title": "Marc Eichmann",
+  "compiled_truth": "Marc Eichmann is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-16 to 2001-11-29), Marc Eichmann sent 11 and received 129 emails, totalling 140 interactions. Top correspondents: [Greg Piper](people/greg-piper) (5), [Philippe Bibi](people/philippe-bibi) (4), [Raymond Bowen](people/raymond-bowen) (4), [Bryan Burnett](people/bryan-burnett) (4), [Louise Kitchen](people/louise-kitchen) (4). Mailbox folders observed: connect_deletes, inbox, notes_inbox, tss.",
+  "timeline": "- **1999-10-16** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marc-eichmann",
+    "name": "Marc Eichmann",
+    "email": "marc.eichmann@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "concepts/compression-as-compute",
+  "type": "concept",
+  "title": "Compression as Compute",
+  "compiled_truth": "The core thesis is deceptively simple: compression is not a storage optimization. It is a compute optimization. When you reduce the size of a data payload before it enters a pipeline, you are not merely saving disk space — you are reducing the number of cycles spent on transmission, parsing, authentication, and downstream processing. Every byte you eliminate is a byte that never hits the network, never gets checksummed, never gets deserialized at the other end. This reframing matters because it changes the economics of infrastructure from \"how cheaply can we store data\" to \"how little work can the system do per unit of meaningful output.\"\n\nThe idea gained traction inside the Anchor Codec orbit around mid-2026, largely through conversations between [Piper Bergmann](people/piper-bergmann) and the early technical team. Piper had been thinking about it in the context of edge deployments where bandwidth constraints made traditional compress-then-send-then-decompress pipelines untenable. Her argument was that if compression and authentication could happen in a single pass — the kind of thing Anchor's deterministic primitives were designed for — you could treat the compressed representation as the canonical form, not just a transit optimization. The data never \"expands\" back. It stays reduced.\n\n[Prism Ventures](companies/prism-ventures) picked up on this framing early. Their investment memo from late 2026 explicitly cited \"compression as compute\" as the thesis underpinning their interest in deterministic data infrastructure. They saw it as a wedge into enterprise workloads where networking costs dwarfed storage costs by 3-5x. [Paz Santos](people/paz-santos) pushed back on some of the more aggressive claims during a panel at a 2027 infrastructure summit, arguing that the thesis only holds when compression ratios are predictable — which is exactly what deterministic systems promise but probabilistic ones can't guarantee.\n\n[Lattice Data](companies/lattice-data) has been perhaps the most visible adopter of the framing. Their pitch to customers explicitly positions their pipeline orchestration layer as \"compute-aware compression,\" where workloads are scheduled based on compressed payload size rather than raw input size. [Umbra Storage](companies/umbra-storage) takes a different angle — they've built thier tiering logic around the assumption that compressed representations are the durable format, and expansion is an exception, not a default.\n\nThe concept matters for infrastructure companies because it redefines the cost function. If compression is compute, then improvements to compression directly reduce total system cost in a way that's measurable per-request, not just per-gigabyte-stored. It makes the ROI argument tangible for CFOs, not just engineers.",
+  "timeline": [
+    "- **2026-04-18** | [Piper Bergmann](people/piper-bergmann) circulates an internal memo titled \"Bytes Are Cycles\" arguing that compression should be treated as a first-class compute primitive in Anchor's architecture.",
+    "- **2026-07-02** | Early benchmarks show that single-pass compressed payloads reduce end-to-end pipeline latency by 38% on synthetic workloads, validating the core thesis.",
+    "- **2026-10-11** | [Prism Ventures](companies/prism-ventures) references \"compression as compute\" in their Series A investment memo for Anchor Codec.",
+    "- **2026-12-05** | [Lattice Data](companies/lattice-data) announces compute-aware scheduling features in their orchestration layer, citing the compressed-payload-as-canonical-form approach.",
+    "- **2027-03-22** | [Paz Santos](people/paz-santos) delivers a talk at InfraSummit '27 titled \"When Compression Lies\" — a measured critique of the thesis that sparks productive debate.",
+    "- **2027-06-14** | Anchor Codec publishes a whitepaper with [Umbra Storage](companies/umbra-storage) co-authors on durable compressed representations in tiered storage systems.",
+    "- **2027-09-30** | Internal dogfooding at Anchor shows that treating compressed form as canonical cuts authentication overhead by roughly 2x compared to expand-then-verify pipelines.",
+    "- **2028-01-17** | [Lattice Data](companies/lattice-data) and Anchor Codec begin joint customer engagements positioning compression-as-compute for edge inference workloads.",
+    "- **2028-04-08** | The term \"compression as compute\" appears in three separate analyst reports covering deterministic infrastructure, signaling broader market adoption of the framing."
+  ],
+  "_facts": {
+    "type": "concept",
+    "slug": "concepts/compression-as-compute",
+    "name": "compression as compute",
+    "description": "Reframing compression not as storage savings but as a reduction in transmission and processing costs",
+    "related_companies": [
+      "companies/prism-ventures",
+      "companies/lattice-data",
+      "companies/umbra-storage"
+    ],
+    "related_people": [
+      "people/piper-bergmann",
+      "people/paz-santos"
+    ]
+  }
+}

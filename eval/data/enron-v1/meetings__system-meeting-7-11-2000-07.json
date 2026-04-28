@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/system-meeting-7-11-2000-07",
+  "type": "meeting",
+  "title": "Meeting: System Meeting 7/11",
+  "compiled_truth": "Meeting: \"System Meeting 7/11\". Occurred 2000-07-10 through 2000-07-11 with 4 related emails. Participants included: [Brent Price](people/brent-price), [Hunter Shively](people/hunter-shively), [Ina Rangel](people/ina-rangel), [Jeffrey Shankman](people/jeffrey-shankman), [Kevin Presto](people/kevin-presto), [Kimberly Hillis](people/kimberly-hillis), [Kristin Albrecht](people/kristin-albrecht), [Phillip Allen](people/phillip-allen)....",
+  "timeline": "- **2000-07-10** | Meeting: system meeting 7/11\n- **2000-07-11** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/system-meeting-7-11-2000-07",
+    "attendees": [
+      "people/brent-price",
+      "people/hunter-shively",
+      "people/ina-rangel",
+      "people/jeffrey-shankman",
+      "people/kevin-presto",
+      "people/kimberly-hillis",
+      "people/kristin-albrecht",
+      "people/phillip-allen",
+      "people/steve-jackson",
+      "people/thresa-allen"
+    ],
+    "date": "2000-07-10"
+  }
+}

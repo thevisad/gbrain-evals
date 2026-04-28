@@ -1,0 +1,14 @@
+{
+  "slug": "people/zack-starbird-mirant",
+  "type": "person",
+  "title": "Zack Starbird",
+  "compiled_truth": "Zack Starbird is an external contact at [Mirant](companies/mirant). Over the corpus period (2001-02-13 to 2001-10-23), Zack Starbird sent 3 and received 33 emails, totalling 36 interactions. Top correspondents: [B  Sanders](people/b-sanders) (2), [Laurith](people/laurith-miami) (1).",
+  "timeline": "- **2001-02-13** | First recorded email in corpus\n- **2001-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zack-starbird-mirant",
+    "name": "Zack Starbird",
+    "email": "zack.starbird@mirant.com",
+    "primary_affiliation": "companies/mirant"
+  }
+}

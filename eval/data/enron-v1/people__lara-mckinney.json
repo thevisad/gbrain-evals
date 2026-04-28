@@ -1,0 +1,14 @@
+{
+  "slug": "people/lara-mckinney",
+  "type": "person",
+  "title": "Lara Mckinney",
+  "compiled_truth": "Lara Mckinney is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-04 to 2001-12-06), Lara Mckinney sent 3 and received 79 emails, totalling 82 interactions. Top correspondents: [Tana Jones](people/tana-jones) (2), [Savita Puthigai](people/savita-puthigai) (2), [Jennifer Denny](people/jennifer-denny) (1), [Mark Taylor](people/mark-taylor) (1), [Torrey Moorer](people/torrey-moorer) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-04** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lara-mckinney",
+    "name": "Lara Mckinney",
+    "email": "lara.mckinney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-kirkland",
+  "type": "person",
+  "title": "Jennifer Kirkland",
+  "compiled_truth": "Jennifer Kirkland is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-12 to 2001-11-12), Jennifer Kirkland sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-12** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-kirkland",
+    "name": "Jennifer Kirkland",
+    "email": "jennifer.kirkland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

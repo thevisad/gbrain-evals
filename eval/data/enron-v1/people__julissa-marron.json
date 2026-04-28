@@ -1,0 +1,14 @@
+{
+  "slug": "people/julissa-marron",
+  "type": "person",
+  "title": "Julissa Marron",
+  "compiled_truth": "Julissa Marron is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-14 to 2001-12-06), Julissa Marron sent 35 and received 83 emails, totalling 118 interactions. Top correspondents: [Bernice Rodriguez](people/bernice-rodriguez) (24), [Amber Ebow](people/amber-ebow) (24), [Judy Hernandez](people/judy-hernandez) (24), [Stacey Richardson](people/stacey-richardson) (18), [Adrial Boals](people/adrial-boals) (18). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-01-14** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julissa-marron",
+    "name": "Julissa Marron",
+    "email": "julissa.marron@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

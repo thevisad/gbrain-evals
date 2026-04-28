@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-brown",
+  "type": "person",
+  "title": "Bill Brown",
+  "compiled_truth": "Bill Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-13 to 2001-06-15), Bill Brown sent 2 and received 26 emails, totalling 28 interactions. Top correspondents: [Jeffrey Mcmahon](people/jeffrey-mcmahon) (2), [Greg Whalley](people/greg-whalley) (2), [Charlene Jackson](people/charlene-jackson) (1), [Mitchell Taylor](people/mitchell-taylor) (1), [Shelly Jones](people/shelly-jones) (1).",
+  "timeline": "- **2000-03-13** | First recorded email in corpus\n- **2001-06-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-brown",
+    "name": "Bill Brown",
+    "email": "bill.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

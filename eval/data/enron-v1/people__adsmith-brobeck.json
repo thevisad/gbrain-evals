@@ -1,0 +1,14 @@
+{
+  "slug": "people/adsmith-brobeck",
+  "type": "person",
+  "title": "Adsmith",
+  "compiled_truth": "Adsmith is an external contact at [Brobeck](companies/brobeck). Over the corpus period (2001-04-10 to 2001-09-15), Adsmith sent 3 and received 30 emails, totalling 33 interactions. Top correspondents: [Sean Crandall](people/sean-crandall) (3), [Fergus](people/fergus) (2), [Gfergus](people/gfergus-brobeck) (2).",
+  "timeline": "- **2001-04-10** | First recorded email in corpus\n- **2001-09-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adsmith-brobeck",
+    "name": "Adsmith",
+    "email": "adsmith@brobeck.com",
+    "primary_affiliation": "companies/brobeck"
+  }
+}

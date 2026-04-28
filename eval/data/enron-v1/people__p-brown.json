@@ -1,0 +1,14 @@
+{
+  "slug": "people/p-brown",
+  "type": "person",
+  "title": "P  Brown",
+  "compiled_truth": "P  Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-18 to 2001-07-18), P  Brown sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/p-brown",
+    "name": "P  Brown",
+    "email": "p..brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-robison",
+  "type": "person",
+  "title": "A  Robison",
+  "compiled_truth": "A  Robison is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-15 to 2002-06-21), A  Robison sent 8 and received 107 emails, totalling 115 interactions. Top correspondents: [ Taylor](people/taylor) (3), [Carol St ](people/carol-st) (2), [Andrew Edison](people/andrew-edison) (2), [Gerald Nemec](people/gerald-nemec) (2), [Mary Cook](people/mary-cook) (1). Mailbox folders observed: _americas, archive, deleted_items, inbox.",
+  "timeline": "- **2001-06-15** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-robison",
+    "name": "A  Robison",
+    "email": "a..robison@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

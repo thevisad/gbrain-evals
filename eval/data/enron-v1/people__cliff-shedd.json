@@ -1,0 +1,14 @@
+{
+  "slug": "people/cliff-shedd",
+  "type": "person",
+  "title": "Cliff Shedd",
+  "compiled_truth": "Cliff Shedd is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-25 to 2001-04-05), Cliff Shedd sent 1 and received 17 emails, totalling 18 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (1), [Jshankm](people/jshankm) (1).",
+  "timeline": "- **2000-01-25** | First recorded email in corpus\n- **2001-04-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cliff-shedd",
+    "name": "Cliff Shedd",
+    "email": "cliff.shedd@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

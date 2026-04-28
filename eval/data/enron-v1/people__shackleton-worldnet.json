@@ -1,0 +1,14 @@
+{
+  "slug": "people/shackleton-worldnet",
+  "type": "person",
+  "title": "Shackleton",
+  "compiled_truth": "Shackleton is an external contact at [Worldnet](companies/worldnet). Over the corpus period (2000-09-27 to 2000-11-18), Shackleton sent 4 and received 29 emails, totalling 33 interactions. Top correspondents: [Smu-Betas](people/smu-betas-egroups) (3), [Akinpa](people/akinpa-email) (1), [Bwall](people/bwall-copcp) (1), [Williamhjordan](people/williamhjordan-mindspring) (1), [Jansson](people/jansson-mindspring) (1).",
+  "timeline": "- **2000-09-27** | First recorded email in corpus\n- **2000-11-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shackleton-worldnet",
+    "name": "Shackleton",
+    "email": "shackleton@worldnet.att.net",
+    "primary_affiliation": "companies/worldnet"
+  }
+}

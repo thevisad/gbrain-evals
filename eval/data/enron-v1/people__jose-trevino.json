@@ -1,0 +1,14 @@
+{
+  "slug": "people/jose-trevino",
+  "type": "person",
+  "title": "Jose Trevino",
+  "compiled_truth": "Jose Trevino is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-05 to 2001-07-26), Jose Trevino sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus\n- **2001-07-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jose-trevino",
+    "name": "Jose Trevino",
+    "email": "jose.trevino@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-norman",
+  "type": "person",
+  "title": "Patricia Norman",
+  "compiled_truth": "Patricia Norman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-12 to 2001-11-12), Patricia Norman sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-12** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-norman",
+    "name": "Patricia Norman",
+    "email": "patricia.norman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

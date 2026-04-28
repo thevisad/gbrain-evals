@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffery-stephens",
+  "type": "person",
+  "title": "Jeffery Stephens",
+  "compiled_truth": "Jeffery Stephens is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-12 to 2002-04-22), Jeffery Stephens sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-07-12** | First recorded email in corpus\n- **2002-04-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffery-stephens",
+    "name": "Jeffery Stephens",
+    "email": "jeffery.stephens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

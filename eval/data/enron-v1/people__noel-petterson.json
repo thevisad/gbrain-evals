@@ -1,0 +1,14 @@
+{
+  "slug": "people/noel-petterson",
+  "type": "person",
+  "title": "Noel Petterson",
+  "compiled_truth": "Noel Petterson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-17 to 2001-01-04), Noel Petterson sent 5 and received 85 emails, totalling 90 interactions. Top correspondents: [Tana Jones](people/tana-jones) (3), [Mark Taylor](people/mark-taylor) (2), [Leslie Hansen](people/leslie-hansen) (1), [Tom Moran](people/tom-moran) (1), [Carol Clair](people/carol-clair) (1).",
+  "timeline": "- **1999-11-17** | First recorded email in corpus\n- **2001-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/noel-petterson",
+    "name": "Noel Petterson",
+    "email": "noel.petterson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

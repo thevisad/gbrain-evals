@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-davidson",
+  "type": "person",
+  "title": "Mark Davidson",
+  "compiled_truth": "Mark Davidson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Mark Davidson sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Nony Flores](people/nony-flores) (1), [Sara Shackleton](people/sara-shackleton) (1), [Marie Heard](people/marie-heard) (1), [Kaye Ellis](people/kaye-ellis) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-davidson",
+    "name": "Mark Davidson",
+    "email": "mark.davidson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/patrick-hansen",
+  "type": "person",
+  "title": "Patrick Hansen",
+  "compiled_truth": "Patrick Hansen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-23 to 2001-11-19), Patrick Hansen sent 4 and received 50 emails, totalling 54 interactions. Top correspondents: [Brent Hendry](people/brent-hendry) (4), [Michael Guerriero](people/michael-guerriero) (4), [Leonardo Pacheco](people/leonardo-pacheco) (3), [David Forster](people/david-forster) (3), [Andrea Calo](people/andrea-calo) (3).",
+  "timeline": "- **2000-05-23** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patrick-hansen",
+    "name": "Patrick Hansen",
+    "email": "patrick.hansen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-ng",
+  "type": "person",
+  "title": "Mark Ng",
+  "compiled_truth": "Mark Ng is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-10-29), Mark Ng sent 3 and received 46 emails, totalling 49 interactions. Top correspondents: [John Swafford](people/john-swafford) (3), [Mary Fischer](people/mary-fischer) (3), [Facundo Caminos](people/facundo-caminos) (2), [Vicsandra Trujillo](people/vicsandra-trujillo) (1), [Ricardo Guerra](people/ricardo-guerra) (1). Mailbox folders observed: deleted_items, inbox, personal.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-ng",
+    "name": "Mark Ng",
+    "email": "mark.ng@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

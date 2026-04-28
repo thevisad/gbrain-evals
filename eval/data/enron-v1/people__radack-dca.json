@@ -1,0 +1,14 @@
+{
+  "slug": "people/radack-dca",
+  "type": "person",
+  "title": "Radack",
+  "compiled_truth": "Radack is an external contact at [Dca](companies/dca). Over the corpus period (1999-06-09 to 2001-03-07), Radack sent 4 and received 54 emails, totalling 58 interactions. Top correspondents: [Richard B Sanders](people/richard-b-sanders) (3), [Richard Sanders](people/richard-sanders) (1).",
+  "timeline": "- **1999-06-09** | First recorded email in corpus\n- **2001-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/radack-dca",
+    "name": "Radack",
+    "email": "radack@dca.co.harris.tx.us",
+    "primary_affiliation": "companies/dca"
+  }
+}

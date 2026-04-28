@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-crews",
+  "type": "person",
+  "title": "David Crews",
+  "compiled_truth": "David Crews is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-02 to 2001-07-25), David Crews sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **1999-07-02** | First recorded email in corpus\n- **2001-07-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-crews",
+    "name": "David Crews",
+    "email": "david.crews@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

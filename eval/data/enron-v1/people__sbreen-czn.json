@@ -1,0 +1,14 @@
+{
+  "slug": "people/sbreen-czn",
+  "type": "person",
+  "title": "Sbreen",
+  "compiled_truth": "Sbreen is an external contact at [Czn](companies/czn). Over the corpus period (2000-12-08 to 2001-12-10), Sbreen sent 7 and received 37 emails, totalling 44 interactions. Top correspondents: [ Ward](people/ward) (4), [Sean Breen](people/sean-breen) (4), [H  Foster](people/h-foster) (4), [ John](people/john) (3), [Barry Tycholiz](people/barry-tycholiz) (3).",
+  "timeline": "- **2000-12-08** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sbreen-czn",
+    "name": "Sbreen",
+    "email": "sbreen@czn.com",
+    "primary_affiliation": "companies/czn"
+  }
+}

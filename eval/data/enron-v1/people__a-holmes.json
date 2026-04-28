@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-holmes",
+  "type": "person",
+  "title": "A  Holmes",
+  "compiled_truth": "A  Holmes is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-24 to 2002-05-06), A  Holmes sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2001-10-24** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-holmes",
+    "name": "A  Holmes",
+    "email": "a..holmes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

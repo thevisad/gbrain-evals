@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-ogden",
+  "type": "person",
+  "title": "Mary Ogden",
+  "compiled_truth": "Mary Ogden is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-02-19 to 2002-04-08), Mary Ogden sent 58 and received 494 emails, totalling 552 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (48), [T  Hodge](people/t-hodge) (10), [Steve Van](people/steve-van) (7), [N  Gray](people/n-gray) (6), [Carlos Sole](people/carlos-sole) (6). Mailbox folders observed: archive, bankrupt, deleted_items, inbox.",
+  "timeline": "- **1999-02-19** | First recorded email in corpus\n- **2002-04-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-ogden",
+    "name": "Mary Ogden",
+    "email": "mary.ogden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

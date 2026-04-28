@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-bode",
+  "type": "person",
+  "title": "Gary Bode",
+  "compiled_truth": "Gary Bode is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-20 to 2002-02-13), Gary Bode sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **1999-09-20** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-bode",
+    "name": "Gary Bode",
+    "email": "gary.bode@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

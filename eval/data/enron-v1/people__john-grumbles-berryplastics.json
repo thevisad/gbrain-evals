@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-grumbles-berryplastics",
+  "type": "person",
+  "title": "John Grumbles",
+  "compiled_truth": "John Grumbles is an external contact at [Berryplastics](companies/berryplastics). Over the corpus period (2000-09-04 to 2000-11-16), John Grumbles sent 0 and received 56 emails, totalling 56 interactions.",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2000-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-grumbles-berryplastics",
+    "name": "John Grumbles",
+    "email": "john_grumbles@berryplastics.com",
+    "primary_affiliation": "companies/berryplastics"
+  }
+}

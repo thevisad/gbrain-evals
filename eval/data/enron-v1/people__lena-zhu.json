@@ -1,0 +1,14 @@
+{
+  "slug": "people/lena-zhu",
+  "type": "person",
+  "title": "Lena Zhu",
+  "compiled_truth": "Lena Zhu is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-10-16), Lena Zhu sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-10-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lena-zhu",
+    "name": "Lena Zhu",
+    "email": "lena.zhu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

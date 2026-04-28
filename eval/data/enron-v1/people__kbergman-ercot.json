@@ -1,0 +1,14 @@
+{
+  "slug": "people/kbergman-ercot",
+  "type": "person",
+  "title": "Kbergman",
+  "compiled_truth": "Kbergman is an external contact at [Ercot](companies/ercot). Over the corpus period (2001-11-26 to 2002-02-05), Kbergman sent 6 and received 3 emails, totalling 9 interactions. Top correspondents: [Rms](people/rms-ercot) (6), [Waggoner](people/waggoner) (5), [Twaggoner](people/twaggoner-ercot) (5), [Rmsvote](people/rmsvote-ercot) (4), [Wms](people/wms-ercot) (4).",
+  "timeline": "- **2001-11-26** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kbergman-ercot",
+    "name": "Kbergman",
+    "email": "kbergman@ercot.com",
+    "primary_affiliation": "companies/ercot"
+  }
+}

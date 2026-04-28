@@ -1,0 +1,14 @@
+{
+  "slug": "people/dudley-ceimail",
+  "type": "person",
+  "title": "Dudley",
+  "compiled_truth": "Dudley is an external contact at [Ceimail](companies/ceimail). Over the corpus period (2000-11-17 to 2001-12-10), Dudley sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dudley-ceimail",
+    "name": "Dudley",
+    "email": "dudley@ceimail.com",
+    "primary_affiliation": "companies/ceimail"
+  }
+}

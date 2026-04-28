@@ -1,0 +1,14 @@
+{
+  "slug": "people/jsmollon-newwestenergy",
+  "type": "person",
+  "title": "Jsmollon",
+  "compiled_truth": "Jsmollon is an external contact at [Newwestenergy](companies/newwestenergy). Over the corpus period (2000-11-10 to 2002-01-02), Jsmollon sent 2 and received 41 emails, totalling 43 interactions. Top correspondents: [Rschlanert](people/rschlanert-electric) (1), [Arem](people/arem-electric) (1).",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jsmollon-newwestenergy",
+    "name": "Jsmollon",
+    "email": "jsmollon@newwestenergy.com",
+    "primary_affiliation": "companies/newwestenergy"
+  }
+}

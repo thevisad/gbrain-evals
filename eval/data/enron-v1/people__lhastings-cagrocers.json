@@ -1,0 +1,14 @@
+{
+  "slug": "people/lhastings-cagrocers",
+  "type": "person",
+  "title": "Lhastings",
+  "compiled_truth": "Lhastings is an external contact at [Cagrocers](companies/cagrocers). Over the corpus period (2001-04-12 to 2001-06-06), Lhastings sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-04-12** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lhastings-cagrocers",
+    "name": "Lhastings",
+    "email": "lhastings@cagrocers.com",
+    "primary_affiliation": "companies/cagrocers"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/peggy-phillips",
+  "type": "person",
+  "title": "Peggy Phillips",
+  "compiled_truth": "Peggy Phillips is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-17 to 2001-04-13), Peggy Phillips sent 0 and received 57 emails, totalling 57 interactions.",
+  "timeline": "- **2000-01-17** | First recorded email in corpus\n- **2001-04-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peggy-phillips",
+    "name": "Peggy Phillips",
+    "email": "peggy.phillips@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/janice-moore",
+  "type": "person",
+  "title": "Janice Moore",
+  "compiled_truth": "Janice Moore is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-24 to 2001-10-17), Janice Moore sent 55 and received 493 emails, totalling 548 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (27), [Sara Shackleton](people/sara-shackleton) (13), [Genia Fitzgerald](people/genia-fitzgerald) (8), [Edward Sacks](people/edward-sacks) (8), [Rhonda Denton](people/rhonda-denton) (8).",
+  "timeline": "- **1998-11-24** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janice-moore",
+    "name": "Janice Moore",
+    "email": "janice.moore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

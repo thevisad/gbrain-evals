@@ -1,0 +1,14 @@
+{
+  "slug": "people/salazar-esther",
+  "type": "person",
+  "title": "Salazar Esther",
+  "compiled_truth": "Salazar Esther is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-20 to 2002-01-25), Salazar Esther sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-08-20** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/salazar-esther",
+    "name": "Salazar Esther",
+    "email": "salazar.esther@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

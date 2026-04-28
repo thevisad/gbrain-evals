@@ -1,0 +1,20 @@
+{
+  "slug": "companies/sarofim",
+  "type": "company",
+  "title": "Sarofim",
+  "compiled_truth": "Sarofim is an external organization that appears in the Enron email corpus. Domain: sarofim.com. Total email interactions with Enron: 409. Known contacts: 3 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (409 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/sarofim",
+    "name": "Sarofim",
+    "employees": [
+      "people/aharris-sarofim",
+      "people/erichardson-sarofim",
+      "people/fsedati-sarofim"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-enerson",
+  "type": "person",
+  "title": "John Enerson",
+  "compiled_truth": "John Enerson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-06), John Enerson sent 11 and received 60 emails, totalling 71 interactions. Top correspondents: [Richard Sanders](people/richard-sanders) (5), [Richard Lydecker](people/richard-lydecker) (3), [Drew Fossum](people/drew-fossum) (2), [L  Mims](people/l-mims) (2), [James Fallon](people/james-fallon) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-enerson",
+    "name": "John Enerson",
+    "email": "john.enerson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

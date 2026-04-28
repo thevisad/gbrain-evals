@@ -1,0 +1,14 @@
+{
+  "slug": "people/archive-power-ratecase-bpa",
+  "type": "person",
+  "title": "Archive-Power-Ratecase",
+  "compiled_truth": "Archive-Power-Ratecase is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2001-02-20 to 2001-04-11), Archive-Power-Ratecase sent 0 and received 58 emails, totalling 58 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/archive-power-ratecase-bpa",
+    "name": "Archive-Power-Ratecase",
+    "email": "archive-power-ratecase@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kam-keiser",
+  "type": "person",
+  "title": "Kam Keiser",
+  "compiled_truth": "Kam Keiser is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-02-13), Kam Keiser sent 464 and received 1415 emails, totalling 1879 interactions. Top correspondents: [M  Love](people/m-love) (67), [Scott Palmer](people/scott-palmer) (63), [D  Winfree](people/d-winfree) (51), [Errol Mclaughlin](people/errol-mclaughlin) (45), [C  Gossett](people/c-gossett) (42). Mailbox folders observed: accomplish, book_issues, calendar, central, deleted_items, inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kam-keiser",
+    "name": "Kam Keiser",
+    "email": "kam.keiser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

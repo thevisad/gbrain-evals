@@ -1,0 +1,14 @@
+{
+  "slug": "people/peggy-hedstrom",
+  "type": "person",
+  "title": "Peggy Hedstrom",
+  "compiled_truth": "Peggy Hedstrom is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-13), Peggy Hedstrom sent 30 and received 552 emails, totalling 582 interactions. Top correspondents: [Sally Beck](people/sally-beck) (25), [Jonathan Mckay](people/jonathan-mckay) (7), [Rob Milnthorp](people/rob-milnthorp) (6), [Kathy Reeves](people/kathy-reeves) (3), [Shona Wilson](people/shona-wilson) (2). Mailbox folders observed: deleted_items, hedstrom__peggy, inbox, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peggy-hedstrom",
+    "name": "Peggy Hedstrom",
+    "email": "peggy.hedstrom@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

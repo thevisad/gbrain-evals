@@ -1,0 +1,14 @@
+{
+  "slug": "people/dcabello-questia",
+  "type": "person",
+  "title": "Dcabello",
+  "compiled_truth": "Dcabello is an external contact at [Questia](companies/questia). Over the corpus period (2000-10-31 to 2001-05-15), Dcabello sent 1 and received 1 emails, totalling 2 interactions. Top correspondents: [Rod](people/rod-canion) (1), [Kenneth Lay](people/kenneth-lay) (1).",
+  "timeline": "- **2000-10-31** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dcabello-questia",
+    "name": "Dcabello",
+    "email": "dcabello@questia.com",
+    "primary_affiliation": "companies/questia"
+  }
+}

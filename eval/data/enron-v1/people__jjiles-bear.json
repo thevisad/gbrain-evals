@@ -1,0 +1,14 @@
+{
+  "slug": "people/jjiles-bear",
+  "type": "person",
+  "title": "Jjiles",
+  "compiled_truth": "Jjiles is an external contact at [Bear](companies/bear). Over the corpus period (2000-10-05 to 2002-01-05), Jjiles sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [Wh](people/wh-wickliff-hall) (1), [Thomasa](people/thomasa-ksg) (1), [Alan R Buckwalter](people/alan-r-buckwalter-chase) (1), [Ahblaw](people/ahblaw-aol) (1), [Alfhuston](people/alfhuston-hypercon) (1).",
+  "timeline": "- **2000-10-05** | First recorded email in corpus\n- **2002-01-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jjiles-bear",
+    "name": "Jjiles",
+    "email": "jjiles@bear.com",
+    "primary_affiliation": "companies/bear"
+  }
+}

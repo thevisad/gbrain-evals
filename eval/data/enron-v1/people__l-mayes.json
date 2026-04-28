@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-mayes",
+  "type": "person",
+  "title": "L  Mayes",
+  "compiled_truth": "L  Mayes is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-06-14), L  Mayes sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2001-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-mayes",
+    "name": "L  Mayes",
+    "email": "l..mayes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

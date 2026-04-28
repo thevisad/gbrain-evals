@@ -1,0 +1,21 @@
+{
+  "slug": "people/avery-khalil",
+  "type": "person",
+  "title": "Avery Khalil — Customer Success Lead, Anchor Codec",
+  "compiled_truth": "Avery Khalil joined [Anchor Codec](companies/anchor) in June 2027 as the company's first dedicated Customer Success Lead, filling a gap that had been painfully obvious for months. Before Anchor, Avery spent nearly five years across two developer-tools startups — first as a solutions engineer helping mid-market teams integrate CI/CD tooling, then as a customer success manager where they personally drove over $1.2M in expansion ARR across a portfolio of about forty accounts. Colleagues from those stints describe Avery as relentlessly collaborative, the kind of person who sits in on engineering standups not because they have to but because they genuinely want to understand every edge of the product.\n\nAt [Anchor Codec](companies/anchor), Avery's mandate is broad: own post-sales relationships, reduce churn, and build the internal playbook for how Anchor's deterministic data infrastructure gets adopted deeper inside customer organizations. The role sits at the intersection of product, sales, and engineering — which suits Avery's temperament perfectly. They're known for filing more product feedback tickets than some engineers, and their weekly \"customer signal\" digests have become required reading for the product team. In the first few months, Khalil redesigned the onboarding workflow for new enterprise accounts, cutting average time-to-first-value from fourteen days to just under six.\n\nAvery is product-obsessed in a way that sometimes borders on intense. They've been spotted running informal user-testing sessions in a coffee shop near the office, pulling in developers from neighboring startups to test Anchor's dashboard flows. One internal Slack thread jokingly referred to them as \"our unpaid PM.\" Despite the humor, leadership views this instinct as a strategic asset — especially as Anchor scales its customer base and needs tighter feedback loops between the field and the roadmap.\n\nBefore tech, Avery studied information systems and communication at a mid-size university in the Pacific Northwest. They're an avid trail runner, and aparently once ran an ultramarathon the same week they closed a six-figure expansion deal — a story that's become semi-legendary on the team. Personality-wise, Avery trends toward direct communication and doesn't shy away from escalating issues early, a trait that has occasionally ruffled feathers but more often prevented small problems from becoming big ones.",
+  "timeline": "- **2027-06-01** | Avery Khalil starts as Customer Success Lead at [Anchor Codec](companies/anchor), the company's first dedicated hire in this function.\n- **2027-06-18** | Completes a full audit of existing customer onboarding flow; presents findings to product and engineering leads.\n- **2027-07-22** | Launches redesigned onboarding sequence for enterprise accounts, reducing time-to-first-value from ~14 days to under 6.\n- **2027-09-05** | Begins publishing weekly \"customer signal\" digest internally; quickly becomes one of the most-read Slack posts at Anchor.\n- **2027-10-12** | Closes first major expansion deal under the new CS-led motion — a fintech customer triples their usage tier.\n- **2027-12-01** | Hosts an internal workshop on retention patterns observed across Anchor's first 30 paying accounts.\n- **2028-01-15** | Collaborates with engineering on a self-serve diagnostics dashboard based on recurring support themes.\n- **2028-03-20** | Presents \"Lessons from the Field\" at [Anchor Codec](companies/anchor)'s first company-wide offsite, covering top customer adoption blockers.\n- **2028-05-09** | Begins scoping a formal customer advisory board program targeting Anchor's top-tier accounts.",
+  "_facts": {
+    "type": "person",
+    "slug": "people/avery-khalil",
+    "name": "Avery Khalil",
+    "role": "employee",
+    "title": "Customer Success Lead",
+    "primary_affiliation": "companies/anchor",
+    "notable_traits": [
+      "collaborative",
+      "product-obsessed"
+    ],
+    "background": "Customer success and solutions engineering at two developer-tools companies; drove expansion ARR",
+    "joined_anchor": "2027-06-01"
+  }
+}

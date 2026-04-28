@@ -1,0 +1,14 @@
+{
+  "slug": "people/rtom-govadv",
+  "type": "person",
+  "title": "Rtom",
+  "compiled_truth": "Rtom is an external contact at [Govadv](companies/govadv). Over the corpus period (2000-09-01 to 2001-11-20), Rtom sent 0 and received 56 emails, totalling 56 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rtom-govadv",
+    "name": "Rtom",
+    "email": "rtom@govadv.com",
+    "primary_affiliation": "companies/govadv"
+  }
+}

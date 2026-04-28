@@ -1,0 +1,14 @@
+{
+  "slug": "people/hutchathoh-aol",
+  "type": "person",
+  "title": "Hutchathoh",
+  "compiled_truth": "Hutchathoh is an external contact at [AOL](companies/aol). Over the corpus period (2000-09-04 to 2000-11-16), Hutchathoh sent 0 and received 55 emails, totalling 55 interactions.",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2000-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hutchathoh-aol",
+    "name": "Hutchathoh",
+    "email": "hutchathoh@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

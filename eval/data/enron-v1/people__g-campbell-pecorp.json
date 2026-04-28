@@ -1,0 +1,14 @@
+{
+  "slug": "people/g-campbell-pecorp",
+  "type": "person",
+  "title": "G Campbell",
+  "compiled_truth": "G Campbell is an external contact at [Pecorp](companies/pecorp). Over the corpus period (2001-04-19 to 2001-09-26), G Campbell sent 65 and received 0 emails, totalling 65 interactions. Top correspondents: [ Williams](people/williams) (54), [Jason Williams](people/jason-williams) (11).",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/g-campbell-pecorp",
+    "name": "G Campbell",
+    "email": "g.campbell@pecorp.com",
+    "primary_affiliation": "companies/pecorp"
+  }
+}

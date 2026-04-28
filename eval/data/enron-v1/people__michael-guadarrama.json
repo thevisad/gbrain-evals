@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-guadarrama",
+  "type": "person",
+  "title": "Michael Guadarrama",
+  "compiled_truth": "Michael Guadarrama is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-18 to 2002-02-14), Michael Guadarrama sent 9 and received 97 emails, totalling 106 interactions. Top correspondents: [Andy Zipper](people/andy-zipper) (5), [Jay Webb](people/jay-webb) (4), [Louise Kitchen](people/louise-kitchen) (3), [Kal Shah](people/kal-shah) (2), [David Forster](people/david-forster) (2). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **2000-01-18** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-guadarrama",
+    "name": "Michael Guadarrama",
+    "email": "michael.guadarrama@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

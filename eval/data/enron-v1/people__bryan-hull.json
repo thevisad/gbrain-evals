@@ -1,0 +1,14 @@
+{
+  "slug": "people/bryan-hull",
+  "type": "person",
+  "title": "Bryan Hull",
+  "compiled_truth": "Bryan Hull is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-12-19), Bryan Hull sent 62 and received 1432 emails, totalling 1494 interactions. Top correspondents: [Eric Bass](people/eric-bass) (28), [Matthew Lenhart](people/matthew-lenhart) (26), [David Baumbach](people/david-baumbach) (23), [O'Neal Winfree](people/o-neal-winfree) (15), [Michael Walters](people/michael-walters) (14). Mailbox folders observed: bammel_stg, deleted_items, enron_news, enron_power, inbox, industrials.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bryan-hull",
+    "name": "Bryan Hull",
+    "email": "bryan.hull@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

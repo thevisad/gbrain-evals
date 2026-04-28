@@ -1,0 +1,14 @@
+{
+  "slug": "people/coors-robert",
+  "type": "person",
+  "title": "Coors Robert",
+  "compiled_truth": "Coors Robert is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-17 to 2001-08-11), Coors Robert sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-07-17** | First recorded email in corpus\n- **2001-08-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/coors-robert",
+    "name": "Coors Robert",
+    "email": "coors.robert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

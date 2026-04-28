@@ -1,0 +1,14 @@
+{
+  "slug": "people/g-connevey",
+  "type": "person",
+  "title": "G  Connevey",
+  "compiled_truth": "G  Connevey is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-17 to 2001-11-19), G  Connevey sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2001-05-17** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/g-connevey",
+    "name": "G  Connevey",
+    "email": "g..connevey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

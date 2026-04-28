@@ -1,0 +1,14 @@
+{
+  "slug": "people/gpier-doubleclick",
+  "type": "person",
+  "title": "Gpier",
+  "compiled_truth": "Gpier is an external contact at [Doubleclick](companies/doubleclick). Over the corpus period (1999-04-26 to 2000-02-16), Gpier sent 6 and received 42 emails, totalling 48 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (6), [Bhutt](people/bhutt-ankarcapital) (4).",
+  "timeline": "- **1999-04-26** | First recorded email in corpus\n- **2000-02-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gpier-doubleclick",
+    "name": "Gpier",
+    "email": "gpier@doubleclick.net",
+    "primary_affiliation": "companies/doubleclick"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/wanda-curry",
+  "type": "person",
+  "title": "Wanda Curry",
+  "compiled_truth": "Wanda Curry is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2001-12-28), Wanda Curry sent 50 and received 1076 emails, totalling 1126 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (28), [Michael Tribolet](people/michael-tribolet) (13), [D  Steffes](people/d-steffes) (13), [Sally Beck](people/sally-beck) (10), [Evan Hughes](people/evan-hughes) (9). Mailbox folders observed: calendar, california_issues, deleted_items, ees, inbox.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wanda-curry",
+    "name": "Wanda Curry",
+    "email": "wanda.curry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

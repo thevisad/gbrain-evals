@@ -1,0 +1,32 @@
+{
+  "slug": "threads/trv-notification-2001-05",
+  "type": "meeting",
+  "title": "Thread: Trv Notification:",
+  "compiled_truth": "Email thread: \"Trv Notification:\". Ran from 2001-05-22 to 2001-06-21 with 59 messages. Participants: [Bilal Bajwa](people/bilal-bajwa), [Brad Jones](people/brad-jones), [C  Gossett](people/c-gossett), [Chance Rabon](people/chance-rabon), [D  Winfree](people/d-winfree), [Dutch Quigley](people/dutch-quigley), [Errol Mclaughlin](people/errol-mclaughlin), [George Huan](people/george-huan).",
+  "timeline": "- **2001-05-22** | Thread begins: trv notification:\n- **2001-06-21** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/trv-notification-2001-05",
+    "attendees": [
+      "people/bilal-bajwa",
+      "people/brad-jones",
+      "people/c-gossett",
+      "people/chance-rabon",
+      "people/d-winfree",
+      "people/dutch-quigley",
+      "people/errol-mclaughlin",
+      "people/george-huan",
+      "people/hal-mckinney",
+      "people/j-farmer",
+      "people/joey-taylor",
+      "people/john-arnold",
+      "people/john-griffith",
+      "people/larry-may",
+      "people/mike-maggi",
+      "people/neal-d-winfree",
+      "people/sean-riordan",
+      "people/shirley-mcdowell"
+    ],
+    "date": "2001-05-22"
+  }
+}

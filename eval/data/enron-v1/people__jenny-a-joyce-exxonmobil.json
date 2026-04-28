@@ -1,0 +1,14 @@
+{
+  "slug": "people/jenny-a-joyce-exxonmobil",
+  "type": "person",
+  "title": "Jenny A Joyce",
+  "compiled_truth": "Jenny A Joyce is an external contact at [Exxonmobil](companies/exxonmobil). Over the corpus period (2001-03-08 to 2001-03-29), Jenny A Joyce sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-08** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jenny-a-joyce-exxonmobil",
+    "name": "Jenny A Joyce",
+    "email": "jenny.a.joyce@exxonmobil.com",
+    "primary_affiliation": "companies/exxonmobil"
+  }
+}

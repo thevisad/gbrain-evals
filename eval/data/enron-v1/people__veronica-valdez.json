@@ -1,0 +1,14 @@
+{
+  "slug": "people/veronica-valdez",
+  "type": "person",
+  "title": "Veronica Valdez",
+  "compiled_truth": "Veronica Valdez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-05 to 2001-12-28), Veronica Valdez sent 16 and received 96 emails, totalling 112 interactions. Top correspondents: [Sally Beck](people/sally-beck) (4), [Ted Murphy](people/ted-murphy) (4), [Cassandra Schultz](people/cassandra-schultz) (4), [John Lavorato](people/john-lavorato) (3), [John Sherriff](people/john-sherriff) (3). Mailbox folders observed: _americas, calendar.",
+  "timeline": "- **2000-01-05** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/veronica-valdez",
+    "name": "Veronica Valdez",
+    "email": "veronica.valdez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

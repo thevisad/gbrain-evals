@@ -1,0 +1,14 @@
+{
+  "slug": "people/sstout-micron",
+  "type": "person",
+  "title": "Sstout",
+  "compiled_truth": "Sstout is an external contact at [Micron](companies/micron). Over the corpus period (2001-03-21 to 2001-03-21), Sstout sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-03-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sstout-micron",
+    "name": "Sstout",
+    "email": "sstout@micron.com",
+    "primary_affiliation": "companies/micron"
+  }
+}

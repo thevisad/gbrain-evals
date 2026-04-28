@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-zheng",
+  "type": "person",
+  "title": "Kevin Zheng",
+  "compiled_truth": "Kevin Zheng is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-06 to 2001-10-25), Kevin Zheng sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-06-06** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-zheng",
+    "name": "Kevin Zheng",
+    "email": "kevin.zheng@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/brickell-mark-jpmorgan",
+  "type": "person",
+  "title": "Brickell Mark",
+  "compiled_truth": "Brickell Mark is an external contact at [Jpmorgan](companies/jpmorgan). Over the corpus period (2000-03-07 to 2001-06-11), Brickell Mark sent 1 and received 41 emails, totalling 42 interactions. Top correspondents: [Mark E Haedicke](people/mark-e-haedicke) (1), [Mark Taylor](people/mark-taylor) (1).",
+  "timeline": "- **2000-03-07** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brickell-mark-jpmorgan",
+    "name": "Brickell Mark",
+    "email": "brickell_mark@jpmorgan.com",
+    "primary_affiliation": "companies/jpmorgan"
+  }
+}

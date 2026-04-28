@@ -1,0 +1,14 @@
+{
+  "slug": "people/cindy-hunt",
+  "type": "person",
+  "title": "Cindy Hunt",
+  "compiled_truth": "Cindy Hunt is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-29 to 2001-11-12), Cindy Hunt sent 2 and received 0 emails, totalling 2 interactions. Top correspondents: [Jose Bestard](people/jose-bestard) (2), [L  Nicolay](people/l-nicolay) (2), [J  Noske](people/j-noske) (2), [Sarah Novosel](people/sarah-novosel) (2), [Dave Perrino](people/dave-perrino) (2). Mailbox folders observed: deleted_items, nerc.",
+  "timeline": "- **2001-10-29** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cindy-hunt",
+    "name": "Cindy Hunt",
+    "email": "cindy.hunt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

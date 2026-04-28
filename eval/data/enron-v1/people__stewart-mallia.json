@@ -1,0 +1,14 @@
+{
+  "slug": "people/stewart-mallia",
+  "type": "person",
+  "title": "Stewart",
+  "compiled_truth": "Stewart is an external contact at [Mallia](companies/mallia). Over the corpus period (2000-11-06 to 2002-02-05), Stewart sent 35 and received 19 emails, totalling 54 interactions. Top correspondents: [Don Baughman](people/don-baughman) (33), [Tina' 'Triolo](people/tina-triolo) (15), [Home' 'Reid](people/home-reid) (13), [Walters' 'Kevin](people/walters-kevin) (12), [Korth' 'Eric](people/korth-eric) (11).",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stewart-mallia",
+    "name": "Stewart",
+    "email": "stewart@mallia.com",
+    "primary_affiliation": "companies/mallia"
+  }
+}

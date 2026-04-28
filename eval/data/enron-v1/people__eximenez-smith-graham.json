@@ -1,0 +1,14 @@
+{
+  "slug": "people/eximenez-smith-graham",
+  "type": "person",
+  "title": "Eximenez",
+  "compiled_truth": "Eximenez is an external contact at [Smith-graham](companies/smith-graham). Over the corpus period (2000-11-02 to 2001-05-09), Eximenez sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eximenez-smith-graham",
+    "name": "Eximenez",
+    "email": "eximenez@smith-graham.com",
+    "primary_affiliation": "companies/smith-graham"
+  }
+}

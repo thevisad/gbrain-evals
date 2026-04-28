@@ -1,0 +1,14 @@
+{
+  "slug": "people/ned-higgins",
+  "type": "person",
+  "title": "Ned Higgins",
+  "compiled_truth": "Ned Higgins is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-11-20), Ned Higgins sent 13 and received 141 emails, totalling 154 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (11), [Chris Hilgert](people/chris-hilgert) (2), [Greg Brazaitis](people/greg-brazaitis) (2), [A  Martin](people/a-martin) (1), [A  Gomez](people/a-gomez) (1). Mailbox folders observed: calendar, inbox.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ned-higgins",
+    "name": "Ned Higgins",
+    "email": "ned.higgins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

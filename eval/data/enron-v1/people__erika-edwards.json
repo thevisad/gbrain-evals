@@ -1,0 +1,14 @@
+{
+  "slug": "people/erika-edwards",
+  "type": "person",
+  "title": "Erika Edwards",
+  "compiled_truth": "Erika Edwards is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-28), Erika Edwards sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/erika-edwards",
+    "name": "Erika Edwards",
+    "email": "erika.edwards@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

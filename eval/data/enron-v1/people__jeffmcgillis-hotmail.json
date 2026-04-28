@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffmcgillis-hotmail",
+  "type": "person",
+  "title": "Jeffmcgillis",
+  "compiled_truth": "Jeffmcgillis is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-12-15 to 2000-12-21), Jeffmcgillis sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-12-15** | First recorded email in corpus\n- **2000-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffmcgillis-hotmail",
+    "name": "Jeffmcgillis",
+    "email": "jeffmcgillis@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

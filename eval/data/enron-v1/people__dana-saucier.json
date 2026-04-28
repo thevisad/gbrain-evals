@@ -1,0 +1,14 @@
+{
+  "slug": "people/dana-saucier",
+  "type": "person",
+  "title": "Dana Saucier",
+  "compiled_truth": "Dana Saucier is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-18 to 2001-10-26), Dana Saucier sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-04-18** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dana-saucier",
+    "name": "Dana Saucier",
+    "email": "dana.saucier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

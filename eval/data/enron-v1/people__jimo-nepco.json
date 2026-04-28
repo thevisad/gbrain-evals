@@ -1,0 +1,14 @@
+{
+  "slug": "people/jimo-nepco",
+  "type": "person",
+  "title": "Jimo",
+  "compiled_truth": "Jimo is an external contact at [Nepco](companies/nepco). Over the corpus period (2000-11-02 to 2000-11-03), Jimo sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jimo-nepco",
+    "name": "Jimo",
+    "email": "jimo@nepco.com",
+    "primary_affiliation": "companies/nepco"
+  }
+}

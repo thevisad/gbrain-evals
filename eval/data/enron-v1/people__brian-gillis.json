@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-gillis",
+  "type": "person",
+  "title": "Brian Gillis",
+  "compiled_truth": "Brian Gillis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-11 to 2002-02-07), Brian Gillis sent 4 and received 199 emails, totalling 203 interactions. Top correspondents: [Kathy Reeves](people/kathy-reeves) (2), [M  Love](people/m-love) (2), [C  Kenne](people/c-kenne) (1), [Kam Keiser](people/kam-keiser) (1), [Melba Lozano](people/melba-lozano) (1). Mailbox folders observed: central, inbox.",
+  "timeline": "- **2000-08-11** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-gillis",
+    "name": "Brian Gillis",
+    "email": "brian.gillis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

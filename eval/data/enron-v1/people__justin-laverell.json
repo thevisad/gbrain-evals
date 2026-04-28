@@ -1,0 +1,14 @@
+{
+  "slug": "people/justin-laverell",
+  "type": "person",
+  "title": "Justin Laverell",
+  "compiled_truth": "Justin Laverell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2001-12-05), Justin Laverell sent 0 and received 224 emails, totalling 224 interactions.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/justin-laverell",
+    "name": "Justin Laverell",
+    "email": "justin.laverell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lloyd-wantschek",
+  "type": "person",
+  "title": "Lloyd Wantschek",
+  "compiled_truth": "Lloyd Wantschek is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-08 to 2002-01-14), Lloyd Wantschek sent 0 and received 39 emails, totalling 39 interactions.",
+  "timeline": "- **2000-08-08** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lloyd-wantschek",
+    "name": "Lloyd Wantschek",
+    "email": "lloyd.wantschek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

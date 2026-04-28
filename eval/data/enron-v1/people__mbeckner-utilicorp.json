@@ -1,0 +1,14 @@
+{
+  "slug": "people/mbeckner-utilicorp",
+  "type": "person",
+  "title": "Mbeckner",
+  "compiled_truth": "Mbeckner is an external contact at [Utilicorp](companies/utilicorp). Over the corpus period (2001-04-20 to 2001-05-11), Mbeckner sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-04-20** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mbeckner-utilicorp",
+    "name": "Mbeckner",
+    "email": "mbeckner@utilicorp.com",
+    "primary_affiliation": "companies/utilicorp"
+  }
+}

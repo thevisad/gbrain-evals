@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-martin",
+  "type": "person",
+  "title": "Greg Martin",
+  "compiled_truth": "Greg Martin is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-12-12), Greg Martin sent 6 and received 95 emails, totalling 101 interactions. Top correspondents: [Martin Cuilla](people/martin-cuilla) (5), [Gary Lamphier](people/gary-lamphier) (1), [Gary Taylor](people/gary-taylor) (1), [Scott Earnest](people/scott-earnest) (1), [Mark Friedman](people/mark-friedman) (1). Mailbox folders observed: 10_fantasy, 12_fantasy, deleted_items, inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-martin",
+    "name": "Greg Martin",
+    "email": "greg.martin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

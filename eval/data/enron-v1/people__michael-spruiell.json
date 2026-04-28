@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-spruiell",
+  "type": "person",
+  "title": "Michael Spruiell",
+  "compiled_truth": "Michael Spruiell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-12-05), Michael Spruiell sent 5 and received 63 emails, totalling 68 interactions. Top correspondents: [Jeff Richter](people/jeff-richter) (5), [Chris Stokley](people/chris-stokley) (5), [Michael Frazier](people/michael-frazier) (2), [Phillip Platter](people/phillip-platter) (2), [Neil Bresnan](people/neil-bresnan) (1). Mailbox folders observed: chris_stokley.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-spruiell",
+    "name": "Michael Spruiell",
+    "email": "michael.spruiell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

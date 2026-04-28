@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-luce",
+  "type": "person",
+  "title": "Laura Luce",
+  "compiled_truth": "Laura Luce is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-25), Laura Luce sent 106 and received 452 emails, totalling 558 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (49), [S  Shively](people/s-shively) (28), [Bryant Frihart](people/bryant-frihart) (25), [Gregg Penman](people/gregg-penman) (22), [C  Giron](people/c-giron) (20). Mailbox folders observed: _americas, calendar, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-luce",
+    "name": "Laura Luce",
+    "email": "laura.luce@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

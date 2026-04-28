@@ -1,0 +1,14 @@
+{
+  "slug": "people/ken-sissingh",
+  "type": "person",
+  "title": "Ken Sissingh",
+  "compiled_truth": "Ken Sissingh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-09 to 2001-03-14), Ken Sissingh sent 1 and received 7 emails, totalling 8 interactions. Top correspondents: [John Griffith](people/john-griffith) (1).",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2001-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ken-sissingh",
+    "name": "Ken Sissingh",
+    "email": "ken.sissingh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

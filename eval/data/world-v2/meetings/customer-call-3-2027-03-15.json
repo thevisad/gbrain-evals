@@ -1,0 +1,31 @@
+{
+  "slug": "meetings/customer-call-3-2027-03-15",
+  "type": "meeting",
+  "title": "Customer Call — Vertex Cloud 2027-03-15",
+  "compiled_truth": "Call ran about 45 minutes. [Seren Voss](people/seren-voss) led the conversation from our side with [Dani Osei](people/dani-osei) providing technical detail on integration paths. [Reese Abebe](people/reese-abebe) joined from the Vertex side — he's their Head of Platform Partnerships and has been our main point of contact since the initial intro last quarter.\n\n[Vertex Cloud](companies/vertex-cloud) is a mid-market cloud infrastructure provider that's been growing fast in the EU and Southeast Asia. They run managed compute, storage, and networking services — think the tier just below the hyperscalers, targeting companies that want sovereignty guarantees and simpler pricing. Reese mentioned they now have ~1,400 enterprise customers and are expanding their edge presence aggressively. Their big push this year is what they're calling \"deterministic delivery\" for their storage tier, which is why they came to us in the first place.\n\nThe core ask from Vertex is straightforward: they want to embed our single-pass primitives into their object storage pipeline so that data integrity verification and compression happen inline rather than as seperate post-processing steps. Reese was very specific that their current approach — running compression, then checksumming, then encrypting in three discrete stages — adds latency that their largest customers are complaining about. He cited a 12ms overhead per object on writes that they want to cut to under 4ms.\n\nDani walked through the integration surface area. The main concern is around Vertex's existing SDK compatibility — they expose a RESTful API to customers, and any changes to the underlying pipeline can't break that contract. Dani suggested a sidecar model initially, where our library runs adjacent to thier storage nodes, with a path toward native integration in Q3 if the pilot goes well. Seren pushed back gently and asked whether Vertex would commit to a co-development agreement or if this is purely a vendor relationship. Reese said he'd need to escalate that question but seemed personally favorable toward co-development.\n\nAction items: Dani to share a technical scoping doc by March 22. Seren to send over our standard partnership term sheet for Reese to circulate internally. Follow-up call tentatively scheduled for early April. Reese mentioned their CTO, Lena Hargrove, would likely join that next call if things look promising on their legal side.",
+  "timeline": [
+    "- **2026-11-08** | Initial inbound from [Vertex Cloud](companies/vertex-cloud) via their partnerships team expressing interest in deterministic infrastructure for storage pipelines.",
+    "- **2027-01-12** | Intro call between [Seren Voss](people/seren-voss) and [Reese Abebe](people/reese-abebe); high-level overview exchanged, NDA signed.",
+    "- **2027-02-03** | [Dani Osei](people/dani-osei) sends initial technical brief to Vertex engineering team for review.",
+    "- **2027-02-20** | Vertex confirms internal interest and requests formal scoping call.",
+    "- **2027-03-15** | This call — partnership scoping discussion, integration model proposed (sidecar → native path).",
+    "- **2027-03-22** | Target date for Dani to deliver detailed technical scoping document to Vertex.",
+    "- **2027-04-07** | Tentative follow-up call; Vertex CTO Lena Hargrove expected to attend.",
+    "- **2027-06-01** | Projected start of sidecar pilot if partnership terms finalized.",
+    "- **2027-09-15** | Target evaluation point for transitioning from sidecar to native integration."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/customer-call-3-2027-03-15",
+    "name": "Customer Call — vertex-cloud 2027-03",
+    "meeting_type": "customer_call",
+    "date": "2027-03-15",
+    "attendees": [
+      "people/seren-voss",
+      "people/dani-osei",
+      "people/reese-abebe"
+    ],
+    "topic_company": "companies/vertex-cloud",
+    "topic": "Cloud partnership scoping — Vertex Cloud integration"
+  }
+}

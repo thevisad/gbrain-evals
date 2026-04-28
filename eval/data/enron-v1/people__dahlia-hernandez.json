@@ -1,0 +1,14 @@
+{
+  "slug": "people/dahlia-hernandez",
+  "type": "person",
+  "title": "Dahlia Hernandez",
+  "compiled_truth": "Dahlia Hernandez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2002-03-25), Dahlia Hernandez sent 1 and received 24 emails, totalling 25 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (1), [Morris Brassfield](people/morris-brassfield) (1), [Dan Pribble](people/dan-pribble) (1), [Talbert Loyd](people/talbert-loyd) (1), [Margie Mcbath](people/margie-mcbath) (1).",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dahlia-hernandez",
+    "name": "Dahlia Hernandez",
+    "email": "dahlia.hernandez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

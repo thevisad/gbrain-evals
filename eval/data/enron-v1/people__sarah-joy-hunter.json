@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarah-joy-hunter",
+  "type": "person",
+  "title": "Sarah-Joy Hunter",
+  "compiled_truth": "Sarah-Joy Hunter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-23 to 2001-10-29), Sarah-Joy Hunter sent 38 and received 28 emails, totalling 66 interactions. Top correspondents: [Jennifer Medcalf](people/jennifer-medcalf) (32), [Peter Goebel](people/peter-goebel) (7), [Colleen Koenig](people/colleen-koenig) (6), [Jennifer Burns](people/jennifer-burns) (6), [Patrick Tucker](people/patrick-tucker) (6). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-10-23** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarah-joy-hunter",
+    "name": "Sarah-Joy Hunter",
+    "email": "sarah-joy.hunter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

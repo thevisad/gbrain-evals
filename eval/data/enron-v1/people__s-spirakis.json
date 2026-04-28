@@ -1,0 +1,14 @@
+{
+  "slug": "people/s-spirakis",
+  "type": "person",
+  "title": "S  Spirakis",
+  "compiled_truth": "S  Spirakis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-31 to 2001-08-01), S  Spirakis sent 1 and received 1 emails, totalling 2 interactions. Top correspondents: [R  Williams](people/r-williams) (1), [Philip Bacon](people/philip-bacon) (1), [S  Ward](people/s-ward) (1), [Bill Jaede](people/bill-jaede) (1), [Concentrates Dl-Nymetals](people/concentrates-dl-nymetals) (1). Mailbox folders observed: bhp.",
+  "timeline": "- **2001-05-31** | First recorded email in corpus\n- **2001-08-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/s-spirakis",
+    "name": "S  Spirakis",
+    "email": "s..spirakis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

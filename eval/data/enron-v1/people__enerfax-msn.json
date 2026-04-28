@@ -1,0 +1,14 @@
+{
+  "slug": "people/enerfax-msn",
+  "type": "person",
+  "title": "Enerfax",
+  "compiled_truth": "Enerfax is an external contact at [MSN](companies/msn). Over the corpus period (2001-11-19 to 2002-03-01), Enerfax sent 42 and received 0 emails, totalling 42 interactions. Top correspondents: [Enerfaxgold](people/enerfaxgold-yahoogroups) (39), [Enerfax](people/enerfax-yahoogroups) (3).",
+  "timeline": "- **2001-11-19** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/enerfax-msn",
+    "name": "Enerfax",
+    "email": "enerfax@msn.com",
+    "primary_affiliation": "companies/msn"
+  }
+}

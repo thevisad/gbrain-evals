@@ -1,0 +1,14 @@
+{
+  "slug": "people/babbio-verizon",
+  "type": "person",
+  "title": "Babbio",
+  "compiled_truth": "Babbio is an external contact at [Verizon](companies/verizon). Over the corpus period (2000-10-11 to 2001-12-13), Babbio sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-10-11** | First recorded email in corpus\n- **2001-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/babbio-verizon",
+    "name": "Babbio",
+    "email": "babbio@verizon.com",
+    "primary_affiliation": "companies/verizon"
+  }
+}

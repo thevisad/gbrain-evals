@@ -1,0 +1,14 @@
+{
+  "slug": "people/dwillis-sdge",
+  "type": "person",
+  "title": "Dwillis",
+  "compiled_truth": "Dwillis is an external contact at [Sdge](companies/sdge). Over the corpus period (2000-09-08 to 2001-07-31), Dwillis sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dwillis-sdge",
+    "name": "Dwillis",
+    "email": "dwillis@sdge.com",
+    "primary_affiliation": "companies/sdge"
+  }
+}

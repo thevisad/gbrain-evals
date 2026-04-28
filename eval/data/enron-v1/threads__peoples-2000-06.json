@@ -1,0 +1,22 @@
+{
+  "slug": "threads/peoples-2000-06",
+  "type": "meeting",
+  "title": "Thread: Peoples",
+  "compiled_truth": "Email thread: \"Peoples\". Ran from 2000-06-16 to 2000-06-23 with 15 messages. Participants: [Alain Diza](people/alain-diza), [Chris Germany](people/chris-germany), [Dick Jenkins](people/dick-jenkins), [Heidi Griffith](people/heidi-griffith), [John Singer](people/john-singer), [Marde Driscoll](people/marde-driscoll), [Mary Franklin](people/mary-franklin), [Nelson Ferries](people/nelson-ferries).",
+  "timeline": "- **2000-06-16** | Thread begins: peoples\n- **2000-06-23** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/peoples-2000-06",
+    "attendees": [
+      "people/alain-diza",
+      "people/chris-germany",
+      "people/dick-jenkins",
+      "people/heidi-griffith",
+      "people/john-singer",
+      "people/marde-driscoll",
+      "people/mary-franklin",
+      "people/nelson-ferries"
+    ],
+    "date": "2000-06-16"
+  }
+}

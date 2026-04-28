@@ -1,0 +1,14 @@
+{
+  "slug": "people/suzanne-marshall",
+  "type": "person",
+  "title": "Suzanne Marshall",
+  "compiled_truth": "Suzanne Marshall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-13 to 2001-11-12), Suzanne Marshall sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-04-13** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suzanne-marshall",
+    "name": "Suzanne Marshall",
+    "email": "suzanne.marshall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

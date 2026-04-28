@@ -1,0 +1,14 @@
+{
+  "slug": "people/lyle-bernard",
+  "type": "person",
+  "title": "Lyle Bernard",
+  "compiled_truth": "Lyle Bernard is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-05 to 2000-09-12), Lyle Bernard sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus\n- **2000-09-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lyle-bernard",
+    "name": "Lyle Bernard",
+    "email": "lyle.bernard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

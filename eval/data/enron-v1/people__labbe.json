@@ -1,0 +1,14 @@
+{
+  "slug": "people/labbe",
+  "type": "person",
+  "title": "Labbe",
+  "compiled_truth": "Labbe is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-06-08), Labbe sent 9 and received 0 emails, totalling 9 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (7), [A  Roberts](people/a-roberts) (6), [Pinnamaneni Krishnarao](people/pinnamaneni-krishnarao) (5), [Sandeep Kohli](people/sandeep-kohli) (4), [Zimin Lu](people/zimin-lu) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/labbe",
+    "name": "Labbe",
+    "email": "labbe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-meyers",
+  "type": "person",
+  "title": "Jim Meyers",
+  "compiled_truth": "Jim Meyers is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-14 to 2001-11-28), Jim Meyers sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-11-14** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-meyers",
+    "name": "Jim Meyers",
+    "email": "jim.meyers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/nicole-palczer",
+  "type": "person",
+  "title": "Nicole Palczer",
+  "compiled_truth": "Nicole Palczer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2001-10-12), Nicole Palczer sent 4 and received 23 emails, totalling 27 interactions. Top correspondents: [Sally Beck](people/sally-beck) (2), [Sfp42](people/sfp42-aol) (1). Mailbox folders observed: private_folders.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nicole-palczer",
+    "name": "Nicole Palczer",
+    "email": "nicole.palczer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

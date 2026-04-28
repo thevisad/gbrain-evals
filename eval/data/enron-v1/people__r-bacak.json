@@ -1,0 +1,14 @@
+{
+  "slug": "people/r-bacak",
+  "type": "person",
+  "title": "R Bacak",
+  "compiled_truth": "R Bacak is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-04-01 to 2002-04-01), R Bacak sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-04-01** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/r-bacak",
+    "name": "R Bacak",
+    "email": "r.bacak@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

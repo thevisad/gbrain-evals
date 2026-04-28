@@ -1,0 +1,14 @@
+{
+  "slug": "people/amanda-colpean",
+  "type": "person",
+  "title": "Amanda Colpean",
+  "compiled_truth": "Amanda Colpean is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2001-10-26), Amanda Colpean sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amanda-colpean",
+    "name": "Amanda Colpean",
+    "email": "amanda.colpean@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

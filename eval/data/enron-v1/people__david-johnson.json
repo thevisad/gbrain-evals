@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-johnson",
+  "type": "person",
+  "title": "David Johnson",
+  "compiled_truth": "David Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-21 to 2001-06-13), David Johnson sent 0 and received 70 emails, totalling 70 interactions.",
+  "timeline": "- **1999-12-21** | First recorded email in corpus\n- **2001-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-johnson",
+    "name": "David Johnson",
+    "email": "david.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

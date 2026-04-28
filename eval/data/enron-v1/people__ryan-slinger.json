@@ -1,0 +1,14 @@
+{
+  "slug": "people/ryan-slinger",
+  "type": "person",
+  "title": "Ryan Slinger",
+  "compiled_truth": "Ryan Slinger is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-22), Ryan Slinger sent 69 and received 3951 emails, totalling 4020 interactions. Top correspondents: [Bert Meyers](people/bert-meyers) (12), [Craig Dean](people/craig-dean) (10), [Bill Williams](people/bill-williams) (10), [Mark Guzman](people/mark-guzman) (9), [Michael Mier](people/michael-mier) (9). Mailbox folders observed: deleted_items, inbox, rt_cuts, sent_items.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ryan-slinger",
+    "name": "Ryan Slinger",
+    "email": "ryan.slinger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

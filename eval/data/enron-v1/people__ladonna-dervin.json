@@ -1,0 +1,14 @@
+{
+  "slug": "people/ladonna-dervin",
+  "type": "person",
+  "title": "Ladonna Dervin",
+  "compiled_truth": "Ladonna Dervin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-08 to 2002-01-25), Ladonna Dervin sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-03-08** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ladonna-dervin",
+    "name": "Ladonna Dervin",
+    "email": "ladonna.dervin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

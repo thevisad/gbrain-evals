@@ -1,0 +1,14 @@
+{
+  "slug": "people/annette-schneider",
+  "type": "person",
+  "title": "Annette Schneider",
+  "compiled_truth": "Annette Schneider is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2001-05-15), Annette Schneider sent 1 and received 5 emails, totalling 6 interactions. Top correspondents: [Donna Lowry](people/donna-lowry) (1), [Michael Neves](people/michael-neves) (1), [Gregor Baumerich](people/gregor-baumerich) (1), [Sven Becker](people/sven-becker) (1), [Richard Lauer](people/richard-lauer) (1).",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/annette-schneider",
+    "name": "Annette Schneider",
+    "email": "annette.schneider@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

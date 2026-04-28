@@ -1,0 +1,14 @@
+{
+  "slug": "people/e-sommers",
+  "type": "person",
+  "title": "E  Sommers",
+  "compiled_truth": "E  Sommers is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-12 to 2002-01-22), E  Sommers sent 7 and received 100 emails, totalling 107 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (4), [Rod Hayslett](people/rod-hayslett) (4), [A  Hughes](people/a-hughes) (3), [Agatha Tran](people/agatha-tran) (2), [Bob Butts](people/bob-butts) (2). Mailbox folders observed: inbox, projects.",
+  "timeline": "- **2001-04-12** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/e-sommers",
+    "name": "E  Sommers",
+    "email": "e..sommers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

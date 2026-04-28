@@ -1,0 +1,14 @@
+{
+  "slug": "people/coffee-stan",
+  "type": "person",
+  "title": "Coffee Stan",
+  "compiled_truth": "Coffee Stan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-07 to 2002-01-02), Coffee Stan sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-06-07** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/coffee-stan",
+    "name": "Coffee Stan",
+    "email": "coffee.stan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

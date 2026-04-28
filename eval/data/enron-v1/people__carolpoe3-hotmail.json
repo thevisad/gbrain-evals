@@ -1,0 +1,14 @@
+{
+  "slug": "people/carolpoe3-hotmail",
+  "type": "person",
+  "title": "Carolpoe3",
+  "compiled_truth": "Carolpoe3 is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-09-05 to 2001-12-08), Carolpoe3 sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus\n- **2001-12-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carolpoe3-hotmail",
+    "name": "Carolpoe3",
+    "email": "carolpoe3@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

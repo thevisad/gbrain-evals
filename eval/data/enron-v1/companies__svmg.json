@@ -1,0 +1,28 @@
+{
+  "slug": "companies/svmg",
+  "type": "company",
+  "title": "Svmg",
+  "compiled_truth": "Svmg is an external organization that appears in the Enron email corpus. Domain: svmg.com. Total email interactions with Enron: 261. Known contacts: 11 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (261 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/svmg",
+    "name": "Svmg",
+    "employees": [
+      "people/aleupp-svmg",
+      "people/cguardino-svmg",
+      "people/creddick-svmg",
+      "people/jbradley-svmg",
+      "people/landrade-svmg",
+      "people/lgoldseth-svmg",
+      "people/mbruce-svmg",
+      "people/mwero-svmg",
+      "people/pclaassen-svmg",
+      "people/svmg-energy-committee-svmg",
+      "people/svmg-liaison-representatives-svmg"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

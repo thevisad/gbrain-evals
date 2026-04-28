@@ -1,0 +1,14 @@
+{
+  "slug": "people/piyush-joshi",
+  "type": "person",
+  "title": "Piyush Joshi",
+  "compiled_truth": "Piyush Joshi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-12 to 2001-03-28), Piyush Joshi sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-12** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/piyush-joshi",
+    "name": "Piyush Joshi",
+    "email": "piyush.joshi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-herrmann",
+  "type": "person",
+  "title": "Karen Herrmann",
+  "compiled_truth": "Karen Herrmann is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2002-06-05), Karen Herrmann sent 1 and received 43 emails, totalling 44 interactions. Top correspondents: [Chris Germany](people/chris-germany) (1), [Mike Mazowita](people/mike-mazowita) (1), [Garrick Hill](people/garrick-hill) (1), [Theresa Vos](people/theresa-vos) (1). Mailbox folders observed: bankrupt.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-herrmann",
+    "name": "Karen Herrmann",
+    "email": "karen.herrmann@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

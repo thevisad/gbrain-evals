@@ -1,0 +1,14 @@
+{
+  "slug": "people/courtney-mcmillian",
+  "type": "person",
+  "title": "Courtney Mcmillian",
+  "compiled_truth": "Courtney Mcmillian is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-10-12), Courtney Mcmillian sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/courtney-mcmillian",
+    "name": "Courtney Mcmillian",
+    "email": "courtney.mcmillian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

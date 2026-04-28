@@ -1,0 +1,14 @@
+{
+  "slug": "people/traci-warner",
+  "type": "person",
+  "title": "Traci Warner",
+  "compiled_truth": "Traci Warner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-21 to 2001-11-30), Traci Warner sent 9 and received 108 emails, totalling 117 interactions. Top correspondents: [J  Kean](people/j-kean) (2), [Sally Beck](people/sally-beck) (1), [Kevin Hyatt](people/kevin-hyatt) (1), [Steven Kean](people/steven-kean) (1), [Julie Davidson](people/julie-davidson) (1). Mailbox folders observed: deleted_items, inbox, personal.",
+  "timeline": "- **2000-01-21** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/traci-warner",
+    "name": "Traci Warner",
+    "email": "traci.warner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

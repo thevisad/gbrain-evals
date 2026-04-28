@@ -1,0 +1,14 @@
+{
+  "slug": "people/loren-penkava",
+  "type": "person",
+  "title": "Loren Penkava",
+  "compiled_truth": "Loren Penkava is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-25 to 2002-01-22), Loren Penkava sent 0 and received 226 emails, totalling 226 interactions.",
+  "timeline": "- **2000-02-25** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/loren-penkava",
+    "name": "Loren Penkava",
+    "email": "loren.penkava@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

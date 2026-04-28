@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-gallup",
+  "type": "person",
+  "title": "Team Gallup",
+  "compiled_truth": "Team Gallup is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-01 to 2002-03-18), Team Gallup sent 3 and received 67 emails, totalling 70 interactions. Top correspondents: [Rick Smith](people/rick-smith) (3), [David Roensch](people/david-roensch) (3), [Rich Jolly](people/rich-jolly) (3), [Team San-Juan](people/team-san-juan) (3), [Team Gallup-Sta5](people/team-gallup-sta5) (3). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-01** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-gallup",
+    "name": "Team Gallup",
+    "email": "team.gallup@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

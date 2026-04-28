@@ -1,0 +1,32 @@
+{
+  "slug": "meetings/storage-meeting-2000-03",
+  "type": "meeting",
+  "title": "Meeting: Storage Meeting",
+  "compiled_truth": "Meeting: \"Storage Meeting\". Occurred 2000-03-09 through 2000-03-09 with 3 related emails. Participants included: [David Berberian](people/david-berberian), [David Cox](people/david-cox), [Jean Mrha](people/jean-mrha), [Jim Crowder](people/jim-crowder), [John Bloomer](people/john-bloomer), [John Griebling](people/john-griebling), [Kara Knop](people/kara-knop), [Mark Palmer](people/mark-palmer)....",
+  "timeline": "- **2000-03-09** | Meeting: storage meeting\n- **2000-03-09** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/storage-meeting-2000-03",
+    "attendees": [
+      "people/david-berberian",
+      "people/david-cox",
+      "people/jean-mrha",
+      "people/jim-crowder",
+      "people/john-bloomer",
+      "people/john-griebling",
+      "people/kara-knop",
+      "people/mark-palmer",
+      "people/mark-s-palmer",
+      "people/mike-haney",
+      "people/ravi-thuraisingham",
+      "people/rex-shelby",
+      "people/richard-reichardt",
+      "people/scott-yeager",
+      "people/shalesh-ganjoo",
+      "people/stinson-gibner",
+      "people/vince-j-kaminski",
+      "people/vince-kaminski"
+    ],
+    "date": "2000-03-09"
+  }
+}

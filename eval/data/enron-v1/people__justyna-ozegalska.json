@@ -1,0 +1,14 @@
+{
+  "slug": "people/justyna-ozegalska",
+  "type": "person",
+  "title": "Justyna Ozegalska",
+  "compiled_truth": "Justyna Ozegalska is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-26 to 2001-11-08), Justyna Ozegalska sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-07-26** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/justyna-ozegalska",
+    "name": "Justyna Ozegalska",
+    "email": "justyna.ozegalska@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

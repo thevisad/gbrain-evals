@@ -1,0 +1,14 @@
+{
+  "slug": "people/tim-jones",
+  "type": "person",
+  "title": "Tim Jones",
+  "compiled_truth": "Tim Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-20 to 2001-11-27), Tim Jones sent 0 and received 119 emails, totalling 119 interactions.",
+  "timeline": "- **2000-07-20** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tim-jones",
+    "name": "Tim Jones",
+    "email": "tim.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

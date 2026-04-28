@@ -1,0 +1,14 @@
+{
+  "slug": "people/blake-swanson",
+  "type": "person",
+  "title": "Blake Swanson",
+  "compiled_truth": "Blake Swanson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-07 to 2001-11-12), Blake Swanson sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2001-05-07** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/blake-swanson",
+    "name": "Blake Swanson",
+    "email": "blake.swanson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kyriakos-frantzeskakis",
+  "type": "person",
+  "title": "Kyriakos Frantzeskakis",
+  "compiled_truth": "Kyriakos Frantzeskakis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-25 to 2001-06-27), Kyriakos Frantzeskakis sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-05-25** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kyriakos-frantzeskakis",
+    "name": "Kyriakos Frantzeskakis",
+    "email": "kyriakos.frantzeskakis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

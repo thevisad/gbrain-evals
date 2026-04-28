@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-mccoy",
+  "type": "person",
+  "title": "Kelly Mccoy",
+  "compiled_truth": "Kelly Mccoy is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-01), Kelly Mccoy sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-mccoy",
+    "name": "Kelly Mccoy",
+    "email": "kelly.mccoy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

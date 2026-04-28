@@ -1,0 +1,14 @@
+{
+  "slug": "people/frank-lobdell",
+  "type": "person",
+  "title": "Frank Lobdell",
+  "compiled_truth": "Frank Lobdell is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-11), Frank Lobdell sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frank-lobdell",
+    "name": "Frank Lobdell",
+    "email": "frank.lobdell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

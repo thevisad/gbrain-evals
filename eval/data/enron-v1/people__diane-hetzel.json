@@ -1,0 +1,14 @@
+{
+  "slug": "people/diane-hetzel",
+  "type": "person",
+  "title": "Diane Hetzel",
+  "compiled_truth": "Diane Hetzel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-04 to 2001-08-10), Diane Hetzel sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2001-08-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diane-hetzel",
+    "name": "Diane Hetzel",
+    "email": "diane.hetzel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

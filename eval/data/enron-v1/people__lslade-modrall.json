@@ -1,0 +1,14 @@
+{
+  "slug": "people/lslade-modrall",
+  "type": "person",
+  "title": "Lslade",
+  "compiled_truth": "Lslade is an external contact at [Modrall](companies/modrall). Over the corpus period (2000-02-07 to 2000-08-30), Lslade sent 3 and received 30 emails, totalling 33 interactions. Top correspondents: [Laruzow](people/laruzow-concentric) (3), [Louis Soldano](people/louis-soldano) (3), [Bill Cordes](people/bill-cordes) (3), [Johnny Mcgee](people/johnny-mcgee) (3), [Michael Moran](people/michael-moran) (3).",
+  "timeline": "- **2000-02-07** | First recorded email in corpus\n- **2000-08-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lslade-modrall",
+    "name": "Lslade",
+    "email": "lslade@modrall.com",
+    "primary_affiliation": "companies/modrall"
+  }
+}

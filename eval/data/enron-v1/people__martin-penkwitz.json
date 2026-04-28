@@ -1,0 +1,14 @@
+{
+  "slug": "people/martin-penkwitz",
+  "type": "person",
+  "title": "Martin Penkwitz",
+  "compiled_truth": "Martin Penkwitz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-31 to 2001-05-24), Martin Penkwitz sent 1 and received 106 emails, totalling 107 interactions. Top correspondents: [Kay Mann](people/kay-mann) (1), [Andrew Ralston](people/andrew-ralston) (1).",
+  "timeline": "- **2000-03-31** | First recorded email in corpus\n- **2001-05-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martin-penkwitz",
+    "name": "Martin Penkwitz",
+    "email": "martin.penkwitz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

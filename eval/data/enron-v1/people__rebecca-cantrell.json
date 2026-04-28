@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebecca-cantrell",
+  "type": "person",
+  "title": "Rebecca Cantrell",
+  "compiled_truth": "Rebecca Cantrell is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-31), Rebecca Cantrell sent 88 and received 397 emails, totalling 485 interactions. Top correspondents: [Leslie Lawner](people/leslie-lawner) (52), [Jeff Dasovich](people/jeff-dasovich) (49), [Phillip Allen](people/phillip-allen) (47), [Stephanie Miller](people/stephanie-miller) (46), [James Steffes](people/james-steffes) (46). Mailbox folders observed: california_issues, deleted_items, inbox, iso__pricecaps, janie.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebecca-cantrell",
+    "name": "Rebecca Cantrell",
+    "email": "rebecca.cantrell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/diane-latson",
+  "type": "person",
+  "title": "Diane Latson",
+  "compiled_truth": "Diane Latson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2001-12-03), Diane Latson sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diane-latson",
+    "name": "Diane Latson",
+    "email": "diane.latson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

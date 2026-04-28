@@ -1,0 +1,14 @@
+{
+  "slug": "people/jean-mcfarland",
+  "type": "person",
+  "title": "Jean Mcfarland",
+  "compiled_truth": "Jean Mcfarland is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-24 to 2002-03-25), Jean Mcfarland sent 44 and received 140 emails, totalling 184 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (15), [Kimberly Watson](people/kimberly-watson) (15), [Shelley Corman](people/shelley-corman) (12), [Sheila Nacey](people/sheila-nacey) (12), [Scott Abshire](people/scott-abshire) (12). Mailbox folders observed: calendar, deleted_items, inbox, questar, tw_commercial_group.",
+  "timeline": "- **2000-03-24** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jean-mcfarland",
+    "name": "Jean Mcfarland",
+    "email": "jean.mcfarland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

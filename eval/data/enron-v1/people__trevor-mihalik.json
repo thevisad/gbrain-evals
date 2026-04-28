@@ -1,0 +1,14 @@
+{
+  "slug": "people/trevor-mihalik",
+  "type": "person",
+  "title": "Trevor Mihalik",
+  "compiled_truth": "Trevor Mihalik is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-02 to 2002-06-21), Trevor Mihalik sent 2 and received 41 emails, totalling 43 interactions. Top correspondents: [Joe Parks](people/joe-parks) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-03-02** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/trevor-mihalik",
+    "name": "Trevor Mihalik",
+    "email": "trevor.mihalik@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

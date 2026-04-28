@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-mccormick",
+  "type": "person",
+  "title": "George Mccormick",
+  "compiled_truth": "George Mccormick is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-24 to 2001-11-09), George Mccormick sent 2 and received 118 emails, totalling 120 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (1), [David Fairley](people/david-fairley) (1), [Eric Boyt](people/eric-boyt) (1), [Dan Hyvl](people/dan-hyvl) (1). Mailbox folders observed: action_items_in.",
+  "timeline": "- **1999-11-24** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-mccormick",
+    "name": "George Mccormick",
+    "email": "george.mccormick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

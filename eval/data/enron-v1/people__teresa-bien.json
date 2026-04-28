@@ -1,0 +1,14 @@
+{
+  "slug": "people/teresa-bien",
+  "type": "person",
+  "title": "Teresa Bien",
+  "compiled_truth": "Teresa Bien is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-08 to 2000-06-30), Teresa Bien sent 3 and received 15 emails, totalling 18 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (3), [Grant Masson](people/grant-masson) (2), [Pinnamaneni Krishnarao](people/pinnamaneni-krishnarao) (1), [Samer Takriti](people/samer-takriti) (1), [Stinson Gibner](people/stinson-gibner) (1).",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2000-06-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teresa-bien",
+    "name": "Teresa Bien",
+    "email": "teresa.bien@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

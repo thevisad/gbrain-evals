@@ -1,0 +1,14 @@
+{
+  "slug": "people/dsauter-idahopower",
+  "type": "person",
+  "title": "Dsauter",
+  "compiled_truth": "Dsauter is an external contact at [Idahopower](companies/idahopower). Over the corpus period (2001-03-11 to 2001-04-26), Dsauter sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-03-11** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dsauter-idahopower",
+    "name": "Dsauter",
+    "email": "dsauter@idahopower.com",
+    "primary_affiliation": "companies/idahopower"
+  }
+}

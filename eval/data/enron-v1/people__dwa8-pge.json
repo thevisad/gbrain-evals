@@ -1,0 +1,14 @@
+{
+  "slug": "people/dwa8-pge",
+  "type": "person",
+  "title": "Dwa8",
+  "compiled_truth": "Dwa8 is an external contact at [PG&E](companies/pge). Over the corpus period (2001-11-21 to 2001-11-21), Dwa8 sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dwa8-pge",
+    "name": "Dwa8",
+    "email": "dwa8@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

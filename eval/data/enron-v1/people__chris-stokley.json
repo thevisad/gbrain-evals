@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-stokley",
+  "type": "person",
+  "title": "Chris Stokley",
+  "compiled_truth": "Chris Stokley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2002-02-07), Chris Stokley sent 519 and received 795 emails, totalling 1314 interactions. Top correspondents: [P  O'Neil](people/p-o-neil) (73), [Neil Bresnan](people/neil-bresnan) (17), [Jeff Richter](people/jeff-richter) (16), [Mechelle Atwood](people/mechelle-atwood) (14), [Kathryn Sheppard](people/kathryn-sheppard) (14). Mailbox folders observed: california_issues, chris_stokley, inbox, iso__pricecaps.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-stokley",
+    "name": "Chris Stokley",
+    "email": "chris.stokley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

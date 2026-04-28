@@ -1,0 +1,14 @@
+{
+  "slug": "people/eva-rainer",
+  "type": "person",
+  "title": "Eva Rainer",
+  "compiled_truth": "Eva Rainer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-21 to 2001-12-03), Eva Rainer sent 15 and received 83 emails, totalling 98 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (12), [Jean Mrha](people/jean-mrha) (6), [Lisa Druzbik](people/lisa-druzbik) (3), [John Griffith](people/john-griffith) (1), [Maria Hernandez](people/maria-hernandez) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-01-21** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eva-rainer",
+    "name": "Eva Rainer",
+    "email": "eva.rainer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

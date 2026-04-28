@@ -1,0 +1,14 @@
+{
+  "slug": "people/julia-murray",
+  "type": "person",
+  "title": "Julia Murray",
+  "compiled_truth": "Julia Murray is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Julia Murray sent 35 and received 965 emails, totalling 1000 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (9), [Gerald Nemec](people/gerald-nemec) (8), [C  Koehler](people/c-koehler) (6), [T  Hodge](people/t-hodge) (6), [Carol St ](people/carol-st) (6). Mailbox folders observed: archive, calendar, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julia-murray",
+    "name": "Julia Murray",
+    "email": "julia.murray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

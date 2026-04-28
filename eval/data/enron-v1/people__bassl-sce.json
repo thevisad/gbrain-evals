@@ -1,0 +1,14 @@
+{
+  "slug": "people/bassl-sce",
+  "type": "person",
+  "title": "Bassl",
+  "compiled_truth": "Bassl is an external contact at [Sce](companies/sce). Over the corpus period (2001-02-20 to 2001-04-27), Bassl sent 0 and received 65 emails, totalling 65 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bassl-sce",
+    "name": "Bassl",
+    "email": "bassl@sce.com",
+    "primary_affiliation": "companies/sce"
+  }
+}

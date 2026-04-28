@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/outlook-2001-02",
+  "type": "meeting",
+  "title": "Meeting: Outlook",
+  "compiled_truth": "Meeting: \"Outlook\". Occurred 2001-02-20 with 1 related emails. Participants included: [Dana Davis](people/dana-davis), [Deborah Edison](people/deborah-edison), [Jennifer Riley](people/jennifer-riley), [Kem Miller](people/kem-miller), [Magdelena Cruz](people/magdelena-cruz), [Margarite Cunningham](people/margarite-cunningham), [Marla Hernandez](people/marla-hernandez), [Nicole Mendez](people/nicole-mendez)....",
+  "timeline": "- **2001-02-20** | Meeting: outlook",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/outlook-2001-02",
+    "attendees": [
+      "people/dana-davis",
+      "people/deborah-edison",
+      "people/jennifer-riley",
+      "people/kem-miller",
+      "people/magdelena-cruz",
+      "people/margarite-cunningham",
+      "people/marla-hernandez",
+      "people/nicole-mendez",
+      "people/nina-fortune",
+      "people/rosie-castillo"
+    ],
+    "date": "2001-02-20"
+  }
+}

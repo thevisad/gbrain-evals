@@ -1,0 +1,14 @@
+{
+  "slug": "people/gerry-chatham",
+  "type": "person",
+  "title": "Gerry Chatham",
+  "compiled_truth": "Gerry Chatham is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2002-02-12), Gerry Chatham sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2002-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gerry-chatham",
+    "name": "Gerry Chatham",
+    "email": "gerry.chatham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

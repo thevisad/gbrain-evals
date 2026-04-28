@@ -1,0 +1,14 @@
+{
+  "slug": "people/martier-cpchem",
+  "type": "person",
+  "title": "Martier",
+  "compiled_truth": "Martier is an external contact at [Cpchem](companies/cpchem). Over the corpus period (2001-07-27 to 2001-11-16), Martier sent 7 and received 29 emails, totalling 36 interactions. Top correspondents: [Dutch Quigley](people/dutch-quigley) (3), [Dquigle](people/dquigle) (3), [Markm](people/markm-cajunusa) (3), [Jramirez](people/jramirez-othon) (3), [Jriches](people/jriches-cmsenergy) (3).",
+  "timeline": "- **2001-07-27** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martier-cpchem",
+    "name": "Martier",
+    "email": "martier@cpchem.com",
+    "primary_affiliation": "companies/cpchem"
+  }
+}

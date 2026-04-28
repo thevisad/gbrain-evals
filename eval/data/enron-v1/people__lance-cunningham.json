@@ -1,0 +1,14 @@
+{
+  "slug": "people/lance-cunningham",
+  "type": "person",
+  "title": "Lance Cunningham",
+  "compiled_truth": "Lance Cunningham is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-30 to 2001-12-31), Lance Cunningham sent 32 and received 150 emails, totalling 182 interactions. Top correspondents: [Vasant Shanbhogue](people/vasant-shanbhogue) (15), [Doug Gilbert-Smith](people/doug-gilbert-smith) (14), [Martin Lin](people/martin-lin) (14), [Vince Kaminski](people/vince-kaminski) (10), [Clint Dean](people/clint-dean) (9). Mailbox folders observed: deleted_items, ercot, inbox, info3, resumes, saved.",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lance-cunningham",
+    "name": "Lance Cunningham",
+    "email": "lance.cunningham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

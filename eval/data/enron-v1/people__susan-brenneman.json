@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-brenneman",
+  "type": "person",
+  "title": "Susan Brenneman",
+  "compiled_truth": "Susan Brenneman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-04 to 2001-06-04), Susan Brenneman sent 1 and received 0 emails, totalling 1 interactions. Top correspondents: [Sarah Palmer](people/sarah-palmer) (1), [Tim O'Rourke](people/tim-o-rourke) (1), [Tom Wilbeck](people/tom-wilbeck) (1), [Andrea Yowman](people/andrea-yowman) (1), [Sue Gruber](people/sue-gruber) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-brenneman",
+    "name": "Susan Brenneman",
+    "email": "susan.brenneman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

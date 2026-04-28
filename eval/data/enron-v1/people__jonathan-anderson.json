@@ -1,0 +1,14 @@
+{
+  "slug": "people/jonathan-anderson",
+  "type": "person",
+  "title": "Jonathan Anderson",
+  "compiled_truth": "Jonathan Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-06-27), Jonathan Anderson sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [Marie Newhouse](people/marie-newhouse) (1), [40Enron](people/40enron) (1).",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jonathan-anderson",
+    "name": "Jonathan Anderson",
+    "email": "jonathan.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

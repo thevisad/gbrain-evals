@@ -1,0 +1,14 @@
+{
+  "slug": "people/lay-mark",
+  "type": "person",
+  "title": "Lay Mark",
+  "compiled_truth": "Lay Mark is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2002-01-02), Lay Mark sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lay-mark",
+    "name": "Lay Mark",
+    "email": "lay.mark@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

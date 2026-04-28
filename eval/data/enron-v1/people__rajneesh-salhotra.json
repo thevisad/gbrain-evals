@@ -1,0 +1,14 @@
+{
+  "slug": "people/rajneesh-salhotra",
+  "type": "person",
+  "title": "Rajneesh Salhotra",
+  "compiled_truth": "Rajneesh Salhotra is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-08-27), Rajneesh Salhotra sent 16 and received 13 emails, totalling 29 interactions. Top correspondents: [E Taylor](people/e-taylor) (16), [Jason Kaniss](people/jason-kaniss) (4), [Trevor Woods](people/trevor-woods) (3), [Shayes](people/shayes-eea-inc) (1), [Mary Schoen](people/mary-schoen) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-08-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rajneesh-salhotra",
+    "name": "Rajneesh Salhotra",
+    "email": "rajneesh.salhotra@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

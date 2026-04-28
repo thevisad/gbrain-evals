@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-howard",
+  "type": "person",
+  "title": "Kevin Howard",
+  "compiled_truth": "Kevin Howard is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-14 to 2001-11-28), Kevin Howard sent 0 and received 64 emails, totalling 64 interactions.",
+  "timeline": "- **1999-06-14** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-howard",
+    "name": "Kevin Howard",
+    "email": "kevin.howard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/emily-sellers",
+  "type": "person",
+  "title": "Emily Sellers",
+  "compiled_truth": "Emily Sellers is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2002-02-19), Emily Sellers sent 40 and received 204 emails, totalling 244 interactions. Top correspondents: [Louis Soldano](people/louis-soldano) (18), [Bill Rapp](people/bill-rapp) (17), [Drew Fossum](people/drew-fossum) (16), [Dorothy Mccoppin](people/dorothy-mccoppin) (15), [Kathy Ringblom](people/kathy-ringblom) (14). Mailbox folders observed: calendar, deleted_items, discussion_threads, hr_info, inbox, tasks.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/emily-sellers",
+    "name": "Emily Sellers",
+    "email": "emily.sellers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kruti-patel",
+  "type": "person",
+  "title": "Kruti Patel",
+  "compiled_truth": "Kruti Patel is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-05 to 2001-06-27), Kruti Patel sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kruti-patel",
+    "name": "Kruti Patel",
+    "email": "kruti.patel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

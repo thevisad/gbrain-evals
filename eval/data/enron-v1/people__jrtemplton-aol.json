@@ -1,0 +1,14 @@
+{
+  "slug": "people/jrtemplton-aol",
+  "type": "person",
+  "title": "Jrtemplton",
+  "compiled_truth": "Jrtemplton is an external contact at [AOL](companies/aol). Over the corpus period (2000-01-06 to 2000-09-22), Jrtemplton sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2000-01-06** | First recorded email in corpus\n- **2000-09-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jrtemplton-aol",
+    "name": "Jrtemplton",
+    "email": "jrtemplton@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

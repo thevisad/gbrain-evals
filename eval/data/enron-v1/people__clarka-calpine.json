@@ -1,0 +1,14 @@
+{
+  "slug": "people/clarka-calpine",
+  "type": "person",
+  "title": "Clarka",
+  "compiled_truth": "Clarka is an external contact at [Calpine](companies/calpine). Over the corpus period (2001-05-18 to 2001-05-18), Clarka sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-05-18** | First recorded email in corpus\n- **2001-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clarka-calpine",
+    "name": "Clarka",
+    "email": "clarka@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-cook",
+  "type": "person",
+  "title": "Robert Cook",
+  "compiled_truth": "Robert Cook is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-01), Robert Cook sent 2 and received 59 emails, totalling 61 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-cook",
+    "name": "Robert Cook",
+    "email": "robert.cook@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sslater-epsa",
+  "type": "person",
+  "title": "Sslater",
+  "compiled_truth": "Sslater is an external contact at [Epsa](companies/epsa). Over the corpus period (2001-03-07 to 2001-11-21), Sslater sent 33 and received 3 emails, totalling 36 interactions. Top correspondents: [Harry Kingerski](people/harry-kingerski) (28), [Paul Kaufman](people/paul-kaufman) (28), [L  Petrochko](people/l-petrochko) (17), [M  Landwehr](people/m-landwehr) (17), [Rshapiro](people/rshapiro) (13).",
+  "timeline": "- **2001-03-07** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sslater-epsa",
+    "name": "Sslater",
+    "email": "sslater@epsa.org",
+    "primary_affiliation": "companies/epsa"
+  }
+}

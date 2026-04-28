@@ -1,0 +1,14 @@
+{
+  "slug": "people/cruane-quinngillespie",
+  "type": "person",
+  "title": "Cruane",
+  "compiled_truth": "Cruane is an external contact at [Quinngillespie](companies/quinngillespie). Over the corpus period (2001-02-26 to 2001-03-23), Cruane sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-02-26** | First recorded email in corpus\n- **2001-03-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cruane-quinngillespie",
+    "name": "Cruane",
+    "email": "cruane@quinngillespie.com",
+    "primary_affiliation": "companies/quinngillespie"
+  }
+}

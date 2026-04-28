@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-axford",
+  "type": "person",
+  "title": "Kathy Axford",
+  "compiled_truth": "Kathy Axford is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-11 to 2001-12-07), Kathy Axford sent 4 and received 137 emails, totalling 141 interactions. Top correspondents: [Center Dl-Portland](people/center-dl-portland) (1), [Debra Davidson](people/debra-davidson) (1), [Mark Guzman](people/mark-guzman) (1), [Bert Meyers](people/bert-meyers) (1), [David Poston](people/david-poston) (1). Mailbox folders observed: bill_williams_iii, inbox, read.",
+  "timeline": "- **2000-07-11** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-axford",
+    "name": "Kathy Axford",
+    "email": "kathy.axford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

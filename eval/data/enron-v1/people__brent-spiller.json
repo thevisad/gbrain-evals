@@ -1,0 +1,14 @@
+{
+  "slug": "people/brent-spiller",
+  "type": "person",
+  "title": "Brent Spiller",
+  "compiled_truth": "Brent Spiller is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-11-06), Brent Spiller sent 2 and received 16 emails, totalling 18 interactions. Top correspondents: [John Griffith](people/john-griffith) (1), [Ina Rangel](people/ina-rangel) (1), [Vince Kaminski](people/vince-kaminski) (1).",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brent-spiller",
+    "name": "Brent Spiller",
+    "email": "brent.spiller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

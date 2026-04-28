@@ -1,0 +1,14 @@
+{
+  "slug": "people/jean-mrha",
+  "type": "person",
+  "title": "Jean Mrha",
+  "compiled_truth": "Jean Mrha is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-18), Jean Mrha sent 108 and received 517 emails, totalling 625 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (74), [Gerald Nemec](people/gerald-nemec) (18), [Tammie Schoppe](people/tammie-schoppe) (15), [John Lavorato](people/john-lavorato) (12), [Brian Redmond](people/brian-redmond) (10). Mailbox folders observed: _americas, calendar, deleted_items, inbox, jean, personal.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jean-mrha",
+    "name": "Jean Mrha",
+    "email": "jean.mrha@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

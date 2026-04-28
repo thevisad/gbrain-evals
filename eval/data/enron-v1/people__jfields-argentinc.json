@@ -1,0 +1,14 @@
+{
+  "slug": "people/jfields-argentinc",
+  "type": "person",
+  "title": "Jfields",
+  "compiled_truth": "Jfields is an external contact at [Argentinc](companies/argentinc). Over the corpus period (2000-08-28 to 2001-11-29), Jfields sent 17 and received 11 emails, totalling 28 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (15), [Lcampbe](people/lcampbe) (2), [Ruth Jensen](people/ruth-jensen) (2), [Thackett](people/thackett-ensr) (1), [Bfritch](people/bfritch) (1).",
+  "timeline": "- **2000-08-28** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jfields-argentinc",
+    "name": "Jfields",
+    "email": "jfields@argentinc.com",
+    "primary_affiliation": "companies/argentinc"
+  }
+}

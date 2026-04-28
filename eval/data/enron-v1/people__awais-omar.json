@@ -1,0 +1,14 @@
+{
+  "slug": "people/awais-omar",
+  "type": "person",
+  "title": "Awais Omar",
+  "compiled_truth": "Awais Omar is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-08 to 2001-11-28), Awais Omar sent 5 and received 86 emails, totalling 91 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (4), [Mark Taylor](people/mark-taylor) (3), [John Lavorato](people/john-lavorato) (2), [Marcello Romano](people/marcello-romano) (2), [David Forster](people/david-forster) (2). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-07-08** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/awais-omar",
+    "name": "Awais Omar",
+    "email": "awais.omar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

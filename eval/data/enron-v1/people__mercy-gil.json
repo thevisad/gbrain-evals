@@ -1,0 +1,14 @@
+{
+  "slug": "people/mercy-gil",
+  "type": "person",
+  "title": "Mercy Gil",
+  "compiled_truth": "Mercy Gil is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-09 to 2002-03-07), Mercy Gil sent 14 and received 122 emails, totalling 136 interactions. Top correspondents: [Tana Jones](people/tana-jones) (4), [Frank Hayden](people/frank-hayden) (4), [Credit Dl-Rac](people/credit-dl-rac) (2), [Rick Buy](people/rick-buy) (2), [Louise Kitchen](people/louise-kitchen) (2). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **2001-01-09** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mercy-gil",
+    "name": "Mercy Gil",
+    "email": "mercy.gil@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bud-wilcox-elpaso",
+  "type": "person",
+  "title": "Bud Wilcox",
+  "compiled_truth": "Bud Wilcox is an external contact at [El Paso Energy](companies/el-paso). Over the corpus period (2002-01-14 to 2002-01-15), Bud Wilcox sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-14** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bud-wilcox-elpaso",
+    "name": "Bud Wilcox",
+    "email": "bud.wilcox@elpaso.com",
+    "primary_affiliation": "companies/el-paso"
+  }
+}

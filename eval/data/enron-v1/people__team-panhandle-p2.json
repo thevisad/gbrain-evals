@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-panhandle-p2",
+  "type": "person",
+  "title": "Team Panhandle-P2",
+  "compiled_truth": "Team Panhandle-P2 is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-11 to 2002-03-14), Team Panhandle-P2 sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2001-07-11** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-panhandle-p2",
+    "name": "Team Panhandle-P2",
+    "email": "team.panhandle-p2@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

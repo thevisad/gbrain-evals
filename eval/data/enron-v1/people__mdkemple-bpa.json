@@ -1,0 +1,14 @@
+{
+  "slug": "people/mdkemple-bpa",
+  "type": "person",
+  "title": "Mdkemple",
+  "compiled_truth": "Mdkemple is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2000-07-25 to 2001-04-26), Mdkemple sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mdkemple-bpa",
+    "name": "Mdkemple",
+    "email": "mdkemple@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

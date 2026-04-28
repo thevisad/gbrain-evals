@@ -1,0 +1,14 @@
+{
+  "slug": "people/psellers-pacbell",
+  "type": "person",
+  "title": "Psellers",
+  "compiled_truth": "Psellers is an external contact at [Pacbell](companies/pacbell). Over the corpus period (1999-10-18 to 2002-01-02), Psellers sent 25 and received 385 emails, totalling 410 interactions. Top correspondents: [Jdasovic](people/jdasovic) (14), [Jeff Dasovich](people/jeff-dasovich) (10), [Psellers](people/psellers-haas) (3), [Nancy Sellers](people/nancy-sellers-robertmondavi) (3), [Scottwl](people/scottwl-hotmail) (2).",
+  "timeline": "- **1999-10-18** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/psellers-pacbell",
+    "name": "Psellers",
+    "email": "psellers@pacbell.net",
+    "primary_affiliation": "companies/pacbell"
+  }
+}

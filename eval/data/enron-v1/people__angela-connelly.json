@@ -1,0 +1,14 @@
+{
+  "slug": "people/angela-connelly",
+  "type": "person",
+  "title": "Angela Connelly",
+  "compiled_truth": "Angela Connelly is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-19 to 2001-11-27), Angela Connelly sent 0 and received 95 emails, totalling 95 interactions.",
+  "timeline": "- **1999-11-19** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angela-connelly",
+    "name": "Angela Connelly",
+    "email": "angela.connelly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

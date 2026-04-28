@@ -1,0 +1,14 @@
+{
+  "slug": "people/beth-jenkins",
+  "type": "person",
+  "title": "Beth Jenkins",
+  "compiled_truth": "Beth Jenkins is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-31 to 2002-05-09), Beth Jenkins sent 18 and received 52 emails, totalling 70 interactions. Top correspondents: [Jonathan Mckay](people/jonathan-mckay) (14), [Benjamin Rogers](people/benjamin-rogers) (3), [Joe Stepenovitch](people/joe-stepenovitch) (2), [John Lavorato](people/john-lavorato) (1), [Barry Tycholiz](people/barry-tycholiz) (1). Mailbox folders observed: deleted_items, enron, personal.",
+  "timeline": "- **2001-07-31** | First recorded email in corpus\n- **2002-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beth-jenkins",
+    "name": "Beth Jenkins",
+    "email": "beth.jenkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

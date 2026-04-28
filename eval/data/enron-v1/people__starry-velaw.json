@@ -1,0 +1,14 @@
+{
+  "slug": "people/starry-velaw",
+  "type": "person",
+  "title": "Starry",
+  "compiled_truth": "Starry is an external contact at [Vinson & Elkins](companies/vinson-elkins). Over the corpus period (2000-11-28 to 2000-12-06), Starry sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/starry-velaw",
+    "name": "Starry",
+    "email": "starry@velaw.com",
+    "primary_affiliation": "companies/vinson-elkins"
+  }
+}

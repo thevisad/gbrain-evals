@@ -1,0 +1,14 @@
+{
+  "slug": "people/sanjeev-khandekar",
+  "type": "person",
+  "title": "Sanjeev Khandekar",
+  "compiled_truth": "Sanjeev Khandekar is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-10 to 2001-10-17), Sanjeev Khandekar sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-01-10** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sanjeev-khandekar",
+    "name": "Sanjeev Khandekar",
+    "email": "sanjeev.khandekar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

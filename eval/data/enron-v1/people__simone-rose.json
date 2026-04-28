@@ -1,0 +1,14 @@
+{
+  "slug": "people/simone-rose",
+  "type": "person",
+  "title": "Simone Rose",
+  "compiled_truth": "Simone Rose is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-06 to 2001-06-21), Simone Rose sent 39 and received 106 emails, totalling 145 interactions. Top correspondents: [Jennifer Denny](people/jennifer-denny) (37), [Torrey Moorer](people/torrey-moorer) (37), [Matt Motsinger](people/matt-motsinger) (37), [Savita Puthigai](people/savita-puthigai) (37), [Mark Palmer](people/mark-palmer) (35). Mailbox folders observed: attachments, calendar, discussion_threads, inbox, notes_inbox.",
+  "timeline": "- **2000-04-06** | First recorded email in corpus\n- **2001-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/simone-rose",
+    "name": "Simone Rose",
+    "email": "simone.rose@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

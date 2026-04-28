@@ -1,0 +1,14 @@
+{
+  "slug": "people/darren-adamik",
+  "type": "person",
+  "title": "Darren Adamik",
+  "compiled_truth": "Darren Adamik is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-23 to 2002-02-13), Darren Adamik sent 2 and received 26 emails, totalling 28 interactions. Top correspondents: [Richard Sanders](people/richard-sanders) (2), [Robert Knight](people/robert-knight) (2), [David Cummings](people/david-cummings) (1), [Ben Hill](people/ben-hill) (1), [Leslie Peebles](people/leslie-peebles) (1).",
+  "timeline": "- **2000-07-23** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darren-adamik",
+    "name": "Darren Adamik",
+    "email": "darren.adamik@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

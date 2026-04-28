@@ -1,0 +1,14 @@
+{
+  "slug": "people/rivasue-hotmail",
+  "type": "person",
+  "title": "Rivasue",
+  "compiled_truth": "Rivasue is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-05-21 to 2000-07-26), Rivasue sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-07-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rivasue-hotmail",
+    "name": "Rivasue",
+    "email": "rivasue@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

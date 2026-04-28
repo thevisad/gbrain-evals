@@ -1,0 +1,14 @@
+{
+  "slug": "people/reynolds-mary",
+  "type": "person",
+  "title": "Reynolds Mary",
+  "compiled_truth": "Reynolds Mary is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Reynolds Mary sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reynolds-mary",
+    "name": "Reynolds Mary",
+    "email": "reynolds.mary@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

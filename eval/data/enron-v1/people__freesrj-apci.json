@@ -1,0 +1,14 @@
+{
+  "slug": "people/freesrj-apci",
+  "type": "person",
+  "title": "Freesrj",
+  "compiled_truth": "Freesrj is an external contact at [Apci](companies/apci). Over the corpus period (2000-08-31 to 2001-04-15), Freesrj sent 0 and received 123 emails, totalling 123 interactions.",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-04-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/freesrj-apci",
+    "name": "Freesrj",
+    "email": "freesrj@apci.com",
+    "primary_affiliation": "companies/apci"
+  }
+}

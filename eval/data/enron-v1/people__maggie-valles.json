@@ -1,0 +1,14 @@
+{
+  "slug": "people/maggie-valles",
+  "type": "person",
+  "title": "Maggie Valles",
+  "compiled_truth": "Maggie Valles is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-19 to 2001-10-26), Maggie Valles sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-07-19** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maggie-valles",
+    "name": "Maggie Valles",
+    "email": "maggie.valles@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

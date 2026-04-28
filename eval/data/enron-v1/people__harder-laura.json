@@ -1,0 +1,14 @@
+{
+  "slug": "people/harder-laura",
+  "type": "person",
+  "title": "Harder' 'Laura",
+  "compiled_truth": "Harder' 'Laura is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-28 to 2001-10-29), Harder' 'Laura sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/harder-laura",
+    "name": "Harder' 'Laura",
+    "email": "harder'.'laura@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

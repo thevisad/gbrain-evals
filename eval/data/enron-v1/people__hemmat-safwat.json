@@ -1,0 +1,14 @@
+{
+  "slug": "people/hemmat-safwat",
+  "type": "person",
+  "title": "Hemmat Safwat",
+  "compiled_truth": "Hemmat Safwat is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-28 to 2001-06-04), Hemmat Safwat sent 1 and received 8 emails, totalling 9 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hemmat-safwat",
+    "name": "Hemmat Safwat",
+    "email": "hemmat.safwat@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

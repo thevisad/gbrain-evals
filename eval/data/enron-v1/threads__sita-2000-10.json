@@ -1,0 +1,22 @@
+{
+  "slug": "threads/sita-2000-10",
+  "type": "meeting",
+  "title": "Thread: Sita",
+  "compiled_truth": "Email thread: \"Sita\". Ran from 2000-10-09 to 2000-11-07 with 15 messages. Participants: [Mark Elliott](people/mark-elliott), [Michael Moulton](people/michael-moulton), [Paul Simons](people/paul-simons), [Sara Shackleton](people/sara-shackleton), [Sharon Lewis](people/sharon-lewis-lovells), [Stephanie Panus](people/stephanie-panus), [Susan Hopkinson](people/susan-hopkinson-lovells), [Tanya Rohauer](people/tanya-rohauer).",
+  "timeline": "- **2000-10-09** | Thread begins: sita\n- **2000-11-07** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/sita-2000-10",
+    "attendees": [
+      "people/mark-elliott",
+      "people/michael-moulton",
+      "people/paul-simons",
+      "people/sara-shackleton",
+      "people/sharon-lewis-lovells",
+      "people/stephanie-panus",
+      "people/susan-hopkinson-lovells",
+      "people/tanya-rohauer"
+    ],
+    "date": "2000-10-09"
+  }
+}

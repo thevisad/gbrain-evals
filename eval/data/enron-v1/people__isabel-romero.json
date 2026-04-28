@@ -1,0 +1,14 @@
+{
+  "slug": "people/isabel-romero",
+  "type": "person",
+  "title": "Isabel Romero",
+  "compiled_truth": "Isabel Romero is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-19), Isabel Romero sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [Paul Y'Barbo](people/paul-y-barbo) (1), [Elio Tortolero](people/elio-tortolero) (1), [ Boe](people/boe) (1). Mailbox folders observed: calendar.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/isabel-romero",
+    "name": "Isabel Romero",
+    "email": "isabel.romero@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

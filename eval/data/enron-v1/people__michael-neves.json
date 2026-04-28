@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-neves",
+  "type": "person",
+  "title": "Michael Neves",
+  "compiled_truth": "Michael Neves is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-11 to 2002-01-14), Michael Neves sent 28 and received 142 emails, totalling 170 interactions. Top correspondents: [Tana Jones](people/tana-jones) (26), [Richard Lauer](people/richard-lauer) (2), [Donna Lowry](people/donna-lowry) (2), [Sherri Griffin](people/sherri-griffin) (2), [Jason Peters](people/jason-peters) (2).",
+  "timeline": "- **1999-05-11** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-neves",
+    "name": "Michael Neves",
+    "email": "michael.neves@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

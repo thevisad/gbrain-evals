@@ -1,0 +1,14 @@
+{
+  "slug": "people/jcutaia-tupac",
+  "type": "person",
+  "title": "Jcutaia",
+  "compiled_truth": "Jcutaia is an external contact at [Tupac](companies/tupac). Over the corpus period (2000-04-19 to 2000-11-29), Jcutaia sent 0 and received 106 emails, totalling 106 interactions.",
+  "timeline": "- **2000-04-19** | First recorded email in corpus\n- **2000-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jcutaia-tupac",
+    "name": "Jcutaia",
+    "email": "jcutaia@tupac.com",
+    "primary_affiliation": "companies/tupac"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/connie-lee",
+  "type": "person",
+  "title": "Connie Lee",
+  "compiled_truth": "Connie Lee is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-06 to 2001-05-16), Connie Lee sent 4 and received 7 emails, totalling 11 interactions. Top correspondents: [V Weldon](people/v-weldon) (4), [Julia Hafener](people/julia-hafener-bus) (2). Mailbox folders observed: ut_mba.",
+  "timeline": "- **2000-06-06** | First recorded email in corpus\n- **2001-05-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/connie-lee",
+    "name": "Connie Lee",
+    "email": "connie.lee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/one-t-ou",
+  "type": "person",
+  "title": "One-T",
+  "compiled_truth": "One-T is an external contact at [Ou](companies/ou). Over the corpus period (2000-09-13 to 2000-09-13), One-T sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/one-t-ou",
+    "name": "One-T",
+    "email": "one-t@ou.edu",
+    "primary_affiliation": "companies/ou"
+  }
+}

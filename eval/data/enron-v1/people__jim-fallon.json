@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-fallon",
+  "type": "person",
+  "title": "Jim Fallon",
+  "compiled_truth": "Jim Fallon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-27 to 2002-03-05), Jim Fallon sent 44 and received 645 emails, totalling 689 interactions. Top correspondents: [E  Haedicke](people/e-haedicke) (15), [Greg Whalley](people/greg-whalley) (11), [Sally Beck](people/sally-beck) (9), [Jeffrey Mcmahon](people/jeffrey-mcmahon) (9), [Raymond Bowen](people/raymond-bowen) (9). Mailbox folders observed: _americas, calendar, deleted_items, inbox.",
+  "timeline": "- **2000-03-27** | First recorded email in corpus\n- **2002-03-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-fallon",
+    "name": "Jim Fallon",
+    "email": "jim.fallon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/keyur-patel",
+  "type": "person",
+  "title": "Keyur Patel",
+  "compiled_truth": "Keyur Patel is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-05 to 2001-06-27), Keyur Patel sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keyur-patel",
+    "name": "Keyur Patel",
+    "email": "keyur.patel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

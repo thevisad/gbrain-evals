@@ -1,0 +1,14 @@
+{
+  "slug": "people/bobby-england",
+  "type": "person",
+  "title": "Bobby England",
+  "compiled_truth": "Bobby England is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2000-09-14), Bobby England sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2000-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bobby-england",
+    "name": "Bobby England",
+    "email": "bobby.england@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

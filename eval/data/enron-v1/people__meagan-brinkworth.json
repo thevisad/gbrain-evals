@@ -1,0 +1,14 @@
+{
+  "slug": "people/meagan-brinkworth",
+  "type": "person",
+  "title": "Meagan Brinkworth",
+  "compiled_truth": "Meagan Brinkworth is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-15 to 1999-11-19), Meagan Brinkworth sent 1 and received 15 emails, totalling 16 interactions. Top correspondents: [Mark Haedicke](people/mark-haedicke) (1), [Ect Legal](people/ect-legal) (1), [Anita Fam](people/anita-fam) (1), [Ted Murphy](people/ted-murphy) (1), [Rick Buy](people/rick-buy) (1).",
+  "timeline": "- **1999-01-15** | First recorded email in corpus\n- **1999-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/meagan-brinkworth",
+    "name": "Meagan Brinkworth",
+    "email": "meagan.brinkworth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

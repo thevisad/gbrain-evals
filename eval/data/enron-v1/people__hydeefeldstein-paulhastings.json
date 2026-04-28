@@ -1,0 +1,14 @@
+{
+  "slug": "people/hydeefeldstein-paulhastings",
+  "type": "person",
+  "title": "Hydeefeldstein",
+  "compiled_truth": "Hydeefeldstein is an external contact at [Paulhastings](companies/paulhastings). Over the corpus period (2001-03-16 to 2001-05-03), Hydeefeldstein sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-03-16** | First recorded email in corpus\n- **2001-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hydeefeldstein-paulhastings",
+    "name": "Hydeefeldstein",
+    "email": "hydeefeldstein@paulhastings.com",
+    "primary_affiliation": "companies/paulhastings"
+  }
+}

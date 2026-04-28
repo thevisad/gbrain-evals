@@ -1,0 +1,14 @@
+{
+  "slug": "people/hkingers",
+  "type": "person",
+  "title": "Hkingers",
+  "compiled_truth": "Hkingers is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-01 to 2001-09-17), Hkingers sent 1 and received 21 emails, totalling 22 interactions. Top correspondents: [Steven J Kean](people/steven-j-kean) (1), [Smara](people/smara) (1), [Jdasovic](people/jdasovic) (1), [Smccubbi](people/smccubbi) (1), [Mpetroch](people/mpetroch) (1).",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-09-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hkingers",
+    "name": "Hkingers",
+    "email": "hkingers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

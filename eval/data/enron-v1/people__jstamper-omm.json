@@ -1,0 +1,14 @@
+{
+  "slug": "people/jstamper-omm",
+  "type": "person",
+  "title": "Jstamper",
+  "compiled_truth": "Jstamper is an external contact at [Omm](companies/omm). Over the corpus period (2001-02-02 to 2001-05-03), Jstamper sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2001-02-02** | First recorded email in corpus\n- **2001-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jstamper-omm",
+    "name": "Jstamper",
+    "email": "jstamper@omm.com",
+    "primary_affiliation": "companies/omm"
+  }
+}

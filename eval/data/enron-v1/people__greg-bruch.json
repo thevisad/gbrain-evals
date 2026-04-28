@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-bruch",
+  "type": "person",
+  "title": "Greg Bruch",
+  "compiled_truth": "Greg Bruch is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-07 to 2001-11-27), Greg Bruch sent 0 and received 134 emails, totalling 134 interactions.",
+  "timeline": "- **2000-01-07** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-bruch",
+    "name": "Greg Bruch",
+    "email": "greg.bruch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

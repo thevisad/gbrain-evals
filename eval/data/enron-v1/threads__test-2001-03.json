@@ -1,0 +1,29 @@
+{
+  "slug": "threads/test-2001-03",
+  "type": "meeting",
+  "title": "Thread: Test",
+  "compiled_truth": "Email thread: \"Test\". Ran from 2001-03-26 to 2001-04-25 with 22 messages. Participants: [Airam Arteaga](people/airam-arteaga), [Bandrews](people/bandrews-quinngillespie), [Ekao](people/ekao-uh), [Elisabeth A Ruscitti](people/elisabeth-a-ruscitti-reliantenergy), [Enron](people/enron-lists), [Enron-Owner](people/enron-owner-lists), [Hunter Shively](people/hunter-shively), [James Gillespie](people/james-gillespie-robertwalters).",
+  "timeline": "- **2001-03-26** | Thread begins: test\n- **2001-04-25** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/test-2001-03",
+    "attendees": [
+      "people/airam-arteaga",
+      "people/bandrews-quinngillespie",
+      "people/ekao-uh",
+      "people/elisabeth-a-ruscitti-reliantenergy",
+      "people/enron-lists",
+      "people/enron-owner-lists",
+      "people/hunter-shively",
+      "people/james-gillespie-robertwalters",
+      "people/jeff-dasovich",
+      "people/kevin-ruscitti",
+      "people/mmaggi",
+      "people/molly-magee",
+      "people/shirley-crenshaw",
+      "people/vince-kaminski",
+      "people/vkamins"
+    ],
+    "date": "2001-03-26"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/pstohr-dbsr",
+  "type": "person",
+  "title": "Pstohr",
+  "compiled_truth": "Pstohr is an external contact at [Dbsr](companies/dbsr). Over the corpus period (1999-09-24 to 2001-12-21), Pstohr sent 0 and received 105 emails, totalling 105 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pstohr-dbsr",
+    "name": "Pstohr",
+    "email": "pstohr@dbsr.com",
+    "primary_affiliation": "companies/dbsr"
+  }
+}

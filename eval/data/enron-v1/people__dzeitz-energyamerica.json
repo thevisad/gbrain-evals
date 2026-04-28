@@ -1,0 +1,14 @@
+{
+  "slug": "people/dzeitz-energyamerica",
+  "type": "person",
+  "title": "Dzeitz",
+  "compiled_truth": "Dzeitz is an external contact at [Energyamerica](companies/energyamerica). Over the corpus period (2000-08-25 to 2000-09-25), Dzeitz sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2000-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dzeitz-energyamerica",
+    "name": "Dzeitz",
+    "email": "dzeitz@energyamerica.com",
+    "primary_affiliation": "companies/energyamerica"
+  }
+}

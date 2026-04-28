@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-lebeau",
+  "type": "person",
+  "title": "Paul Lebeau",
+  "compiled_truth": "Paul Lebeau is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2001-11-29), Paul Lebeau sent 17 and received 53 emails, totalling 70 interactions. Top correspondents: [A  Shankman](people/a-shankman) (10), [Denise Furey](people/denise-furey) (5), [Alyse Herasimchuk](people/alyse-herasimchuk) (5), [David Howe](people/david-howe) (5), [Kirk Neuner](people/kirk-neuner) (5). Mailbox folders observed: deleted_items, gu_recruiting.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-lebeau",
+    "name": "Paul Lebeau",
+    "email": "paul.lebeau@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

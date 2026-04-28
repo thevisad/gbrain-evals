@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-moore",
+  "type": "person",
+  "title": "Jason Moore",
+  "compiled_truth": "Jason Moore is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-26 to 2002-01-10), Jason Moore sent 4 and received 501 emails, totalling 505 interactions. Top correspondents: [Amber Ebow](people/amber-ebow) (2), [Albert Escamilla](people/albert-escamilla) (2), [Bernice Rodriguez](people/bernice-rodriguez) (2), [Samuel Schott](people/samuel-schott) (2), [Tandra Coleman](people/tandra-coleman) (1). Mailbox folders observed: deleted_items, personal.",
+  "timeline": "- **1999-05-26** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-moore",
+    "name": "Jason Moore",
+    "email": "jason.moore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

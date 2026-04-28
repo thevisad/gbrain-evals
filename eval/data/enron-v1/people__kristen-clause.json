@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristen-clause",
+  "type": "person",
+  "title": "Kristen Clause",
+  "compiled_truth": "Kristen Clause is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-23 to 2002-02-13), Kristen Clause sent 4 and received 125 emails, totalling 129 interactions. Top correspondents: [M  Love](people/m-love) (3), [Tori Kuykendall](people/tori-kuykendall) (1), [Christopher Wheeler](people/christopher-wheeler) (1). Mailbox folders observed: deleted_items, east_desk.",
+  "timeline": "- **2001-02-23** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristen-clause",
+    "name": "Kristen Clause",
+    "email": "kristen.clause@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

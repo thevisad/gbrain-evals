@@ -1,0 +1,14 @@
+{
+  "slug": "people/peter-zschokke-us",
+  "type": "person",
+  "title": "Peter Zschokke",
+  "compiled_truth": "Peter Zschokke is an external contact at [Us](companies/us). Over the corpus period (2001-10-18 to 2001-10-18), Peter Zschokke sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peter-zschokke-us",
+    "name": "Peter Zschokke",
+    "email": "peter.zschokke@us.ngrid.com",
+    "primary_affiliation": "companies/us"
+  }
+}

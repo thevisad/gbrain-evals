@@ -1,0 +1,14 @@
+{
+  "slug": "people/penny-john",
+  "type": "person",
+  "title": "Penny John",
+  "compiled_truth": "Penny John is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-30 to 2002-01-30), Penny John sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-30** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/penny-john",
+    "name": "Penny John",
+    "email": "penny.john@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

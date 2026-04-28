@@ -1,0 +1,14 @@
+{
+  "slug": "people/lang1-lhom",
+  "type": "person",
+  "title": "Lang1",
+  "compiled_truth": "Lang1 is an external contact at [Lhom](companies/lhom). Over the corpus period (2000-11-30 to 2001-11-19), Lang1 sent 3 and received 2 emails, totalling 5 interactions. Top correspondents: [Mara Sue](people/mara-sue) (3), [Alamo Joseph](people/alamo-joseph) (3), [Paul Kaufman](people/paul-kaufman) (3), [Jeff Dasovich](people/jeff-dasovich) (3), [Lowe Aaron](people/lowe-aaron) (2).",
+  "timeline": "- **2000-11-30** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lang1-lhom",
+    "name": "Lang1",
+    "email": "lang1@lhom.com",
+    "primary_affiliation": "companies/lhom"
+  }
+}

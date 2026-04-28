@@ -1,0 +1,14 @@
+{
+  "slug": "people/ryan-brennan",
+  "type": "person",
+  "title": "Ryan Brennan",
+  "compiled_truth": "Ryan Brennan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-08 to 2002-02-13), Ryan Brennan sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-11-08** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ryan-brennan",
+    "name": "Ryan Brennan",
+    "email": "ryan.brennan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

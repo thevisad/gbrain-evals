@@ -1,0 +1,14 @@
+{
+  "slug": "people/dawn-derr",
+  "type": "person",
+  "title": "Dawn Derr",
+  "compiled_truth": "Dawn Derr is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-07 to 2001-10-30), Dawn Derr sent 12 and received 17 emails, totalling 29 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (9), [Terry West](people/terry-west) (6), [Faith Killen](people/faith-killen) (5), [Dana Lee](people/dana-lee) (5), [Rachel Massey](people/rachel-massey) (5). Mailbox folders observed: cfp, deleted_items, gpg, inbox.",
+  "timeline": "- **2000-07-07** | First recorded email in corpus\n- **2001-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dawn-derr",
+    "name": "Dawn Derr",
+    "email": "dawn.derr@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

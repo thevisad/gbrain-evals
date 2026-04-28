@@ -1,0 +1,14 @@
+{
+  "slug": "people/ann-matson",
+  "type": "person",
+  "title": "Ann Matson",
+  "compiled_truth": "Ann Matson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-18 to 2001-12-03), Ann Matson sent 6 and received 18 emails, totalling 24 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (6), [Bonne Castellano](people/bonne-castellano) (5), [A  Hope](people/a-hope) (5), [Rick Johnson](people/rick-johnson) (5), [Sandra Lighthill](people/sandra-lighthill) (5). Mailbox folders observed: deleted_items, hr_risk_management, inbox.",
+  "timeline": "- **2001-05-18** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ann-matson",
+    "name": "Ann Matson",
+    "email": "ann.matson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

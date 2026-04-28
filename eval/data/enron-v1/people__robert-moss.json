@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-moss",
+  "type": "person",
+  "title": "Robert Moss",
+  "compiled_truth": "Robert Moss is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-05 to 2001-08-15), Robert Moss sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-05-05** | First recorded email in corpus\n- **2001-08-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-moss",
+    "name": "Robert Moss",
+    "email": "robert.moss@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

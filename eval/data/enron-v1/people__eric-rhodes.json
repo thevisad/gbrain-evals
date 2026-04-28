@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-rhodes",
+  "type": "person",
+  "title": "Eric Rhodes",
+  "compiled_truth": "Eric Rhodes is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-30 to 2001-11-27), Eric Rhodes sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-rhodes",
+    "name": "Eric Rhodes",
+    "email": "eric.rhodes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

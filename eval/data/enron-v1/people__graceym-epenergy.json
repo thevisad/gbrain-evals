@@ -1,0 +1,14 @@
+{
+  "slug": "people/graceym-epenergy",
+  "type": "person",
+  "title": "Graceym",
+  "compiled_truth": "Graceym is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2000-02-12 to 2000-06-06), Graceym sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus\n- **2000-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/graceym-epenergy",
+    "name": "Graceym",
+    "email": "graceym@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

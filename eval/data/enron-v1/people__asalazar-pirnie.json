@@ -1,0 +1,14 @@
+{
+  "slug": "people/asalazar-pirnie",
+  "type": "person",
+  "title": "Asalazar",
+  "compiled_truth": "Asalazar is an external contact at [Pirnie](companies/pirnie). Over the corpus period (2000-11-28 to 2001-04-06), Asalazar sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-04-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/asalazar-pirnie",
+    "name": "Asalazar",
+    "email": "asalazar@pirnie.com",
+    "primary_affiliation": "companies/pirnie"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "people/uri-ramirez",
+  "type": "person",
+  "title": "Uri Ramirez",
+  "compiled_truth": "Uri Ramirez is a partner at [Lacework Fund](companies/lacework-fund), a venture capital firm with a deep focus on infrastructure and security-oriented investments. He joined Lacework in 2024 after spending several years as a principal at a mid-tier growth equity shop, where he built a reputation for patient, thesis-driven dealmaking. Uri's analytical disposition and willingness to sit with complexity — rather than defaulting to pattern-matching — have made him one of the more respected voices in the early-stage infra investing community.\n\nAt Lacework, Ramirez runs the security verticle, sourcing and leading deals that sit at the intersection of data integrity, authentication, and systems infrastructure. He led the fund's participation in the Series A round for [Forge Build](companies/forge-build), a developer tooling company focused on reproducible build environments, and later co-led the seed extension for [Umbra Storage](companies/umbra-storage), which is building encrypted-at-rest object storage with novel key management primitives. Both deals reflect his bias toward companies that treat security as a first-class design constraint rather than an afterthought bolted on at the compliance stage.\n\nUri is also a board observer at [Nexus Relay](companies/nexus-relay), a networking startup working on low-latency relay infrastructure for edge environments. He joined the board after Lacework participated in a bridge round in early 2027. Separately, he's been tracking [Vellum Systems](companies/vellum-systems) closely, though there's no formal investment relationship yet — sources suggest he's been in exploratory conversations with their founding team about a potential Series B lead.\n\nPeople who've worked with him describe Uri as a long-term thinker, someone who builds conviction slowly but sticks with it. He's not flashy on social media and rarely shows up on conference panels, preferring smaller roundtables and direct founder relationships. He's known for sending long, detailed memos after diligence calls — sometimes longer than the decks he's responding to. One founder described his style as \"like getting a peer review from someone who actually read the paper.\"\n\nOutside of investing, Ramirez has occasionally guest-lectured at a graduate program in systems engineering, though he keeps this fairly low-profile. He's based in the Northeast and tends to travel to the Bay Area roughly once a month for portfolio check-ins.",
+  "timeline": "- **2026-03-12** | Uri Ramirez joins [Lacework Fund](companies/lacework-fund) as Partner, formally taking over the security investment vertical from a departing colleague.\n- **2026-06-01** | Leads Lacework's participation in the [Forge Build](companies/forge-build) Series A. Publishes internal memo on reproducible builds as a security surface.\n- **2026-09-18** | Attends a private roundtable on deterministic infrastructure hosted by an industry consortium; first known interaction with the Anchor Codec team.\n- **2026-12-04** | Co-leads seed extension for [Umbra Storage](companies/umbra-storage) alongside another infrastructure-focused fund.\n- **2027-02-22** | Joins [Nexus Relay](companies/nexus-relay) board as observer following Lacework's bridge investment.\n- **2027-06-15** | Begins exploratory diligence on [Vellum Systems](companies/vellum-systems); meets with founding team twice in June.\n- **2027-09-09** | Gives a guest lecture on infrastructure investing at a graduate systems engineering program. Slides later circulate internally at Lacework.\n- **2027-11-30** | Publishes an internal thesis doc titled \"Single-Pass Primitives and the Collapse of the Security Stack\" — widely shared among Lacework portfolio founders.\n- **2028-01-17** | Spotted at an Anchor Codec quarterly review meeting; role unclear but believed to be evaluating a potential co-investment opportunity.\n- **2028-04-03** | Named to an industry list of top 40 infrastructure investors under 45.",
+  "_facts": {
+    "type": "person",
+    "slug": "people/uri-ramirez",
+    "name": "Uri Ramirez",
+    "role": "partner",
+    "title": "Partner, Lacework Fund",
+    "primary_affiliation": "companies/lacework-fund",
+    "secondary_affiliations": [
+      "companies/forge-build",
+      "companies/nexus-relay",
+      "companies/vellum-systems",
+      "companies/umbra-storage"
+    ],
+    "notable_traits": [
+      "analytical",
+      "long-term thinker"
+    ],
+    "background": "Partner at Lacework Fund; focuses on security investments"
+  }
+}

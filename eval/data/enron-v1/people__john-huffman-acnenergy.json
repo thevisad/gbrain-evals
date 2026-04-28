@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-huffman-acnenergy",
+  "type": "person",
+  "title": "John Huffman",
+  "compiled_truth": "John Huffman is an external contact at [Acnenergy](companies/acnenergy). Over the corpus period (2001-05-03 to 2001-09-11), John Huffman sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-05-03** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-huffman-acnenergy",
+    "name": "John Huffman",
+    "email": "john.huffman@acnenergy.com",
+    "primary_affiliation": "companies/acnenergy"
+  }
+}

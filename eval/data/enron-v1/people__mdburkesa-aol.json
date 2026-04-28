@@ -1,0 +1,14 @@
+{
+  "slug": "people/mdburkesa-aol",
+  "type": "person",
+  "title": "Mdburkesa",
+  "compiled_truth": "Mdburkesa is an external contact at [AOL](companies/aol). Over the corpus period (2001-09-13 to 2001-09-14), Mdburkesa sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [Lbentsen](people/lbentsen-swbell) (1), [Rcossick](people/rcossick-houstontech) (1), [Pfrison](people/pfrison-houstontech) (1), [Jskilli](people/jskilli) (1), [Lee Ahlstrom](people/lee-ahlstrom-mckinsey) (1).",
+  "timeline": "- **2001-09-13** | First recorded email in corpus\n- **2001-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mdburkesa-aol",
+    "name": "Mdburkesa",
+    "email": "mdburkesa@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

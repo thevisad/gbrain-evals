@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-meredith-dell",
+  "type": "person",
+  "title": "Tom Meredith",
+  "compiled_truth": "Tom Meredith is an external contact at [Dell](companies/dell). Over the corpus period (2000-10-02 to 2000-12-06), Tom Meredith sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-10-02** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-meredith-dell",
+    "name": "Tom Meredith",
+    "email": "tom_meredith@dell.com",
+    "primary_affiliation": "companies/dell"
+  }
+}

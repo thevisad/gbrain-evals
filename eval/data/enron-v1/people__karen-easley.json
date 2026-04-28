@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-easley",
+  "type": "person",
+  "title": "Karen Easley",
+  "compiled_truth": "Karen Easley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2001-09-28), Karen Easley sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-easley",
+    "name": "Karen Easley",
+    "email": "karen.easley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

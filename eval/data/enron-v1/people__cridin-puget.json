@@ -1,0 +1,14 @@
+{
+  "slug": "people/cridin-puget",
+  "type": "person",
+  "title": "Cridin",
+  "compiled_truth": "Cridin is an external contact at [Puget](companies/puget). Over the corpus period (2000-09-28 to 2001-05-11), Cridin sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cridin-puget",
+    "name": "Cridin",
+    "email": "cridin@puget.com",
+    "primary_affiliation": "companies/puget"
+  }
+}

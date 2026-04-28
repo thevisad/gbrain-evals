@@ -1,0 +1,14 @@
+{
+  "slug": "people/mtbrommer-tid",
+  "type": "person",
+  "title": "Mtbrommer",
+  "compiled_truth": "Mtbrommer is an external contact at [Tid](companies/tid). Over the corpus period (2000-09-08 to 2001-11-29), Mtbrommer sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mtbrommer-tid",
+    "name": "Mtbrommer",
+    "email": "mtbrommer@tid.org",
+    "primary_affiliation": "companies/tid"
+  }
+}

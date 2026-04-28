@@ -1,0 +1,14 @@
+{
+  "slug": "people/daniel-hyslop",
+  "type": "person",
+  "title": "Daniel Hyslop",
+  "compiled_truth": "Daniel Hyslop is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-10-12), Daniel Hyslop sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/daniel-hyslop",
+    "name": "Daniel Hyslop",
+    "email": "daniel.hyslop@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

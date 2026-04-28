@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-ramirez",
+  "type": "person",
+  "title": "Rick Ramirez",
+  "compiled_truth": "Rick Ramirez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-20 to 2001-02-06), Rick Ramirez sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-ramirez",
+    "name": "Rick Ramirez",
+    "email": "rick.ramirez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

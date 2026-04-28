@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-jones",
+  "type": "person",
+  "title": "Karen Jones",
+  "compiled_truth": "Karen Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-08), Karen Jones sent 19 and received 215 emails, totalling 234 interactions. Top correspondents: [Mark Haedicke](people/mark-haedicke) (6), [Sheila Tweed](people/sheila-tweed) (6), [Gerald Nemec](people/gerald-nemec) (5), [Kay Mann](people/kay-mann) (4), [Stephanie Miller](people/stephanie-miller) (4).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-jones",
+    "name": "Karen Jones",
+    "email": "karen.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

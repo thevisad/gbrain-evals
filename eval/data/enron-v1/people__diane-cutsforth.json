@@ -1,0 +1,14 @@
+{
+  "slug": "people/diane-cutsforth",
+  "type": "person",
+  "title": "Diane Cutsforth",
+  "compiled_truth": "Diane Cutsforth is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2002-04-08), Diane Cutsforth sent 13 and received 152 emails, totalling 165 interactions. Top correspondents: [Lisa Gang](people/lisa-gang) (6), [Shift Dl-Portland](people/shift-dl-portland) (3), [Phillip Platter](people/phillip-platter) (3), [Kysa Alport](people/kysa-alport) (2), [Diana Scholtes](people/diana-scholtes) (2). Mailbox folders observed: deleted_items, inbox, outbox.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2002-04-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diane-cutsforth",
+    "name": "Diane Cutsforth",
+    "email": "diane.cutsforth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

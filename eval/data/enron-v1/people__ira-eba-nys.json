@@ -1,0 +1,14 @@
+{
+  "slug": "people/ira-eba-nys",
+  "type": "person",
+  "title": "Ira",
+  "compiled_truth": "Ira is an external contact at [Eba-nys](companies/eba-nys). Over the corpus period (2001-07-26 to 2001-07-26), Ira sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ira-eba-nys",
+    "name": "Ira",
+    "email": "ira@eba-nys.org",
+    "primary_affiliation": "companies/eba-nys"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/daryl-dunbar",
+  "type": "person",
+  "title": "Daryl Dunbar",
+  "compiled_truth": "Daryl Dunbar is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-10 to 2002-05-06), Daryl Dunbar sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-08-10** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/daryl-dunbar",
+    "name": "Daryl Dunbar",
+    "email": "daryl.dunbar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

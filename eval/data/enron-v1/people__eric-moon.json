@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-moon",
+  "type": "person",
+  "title": "Eric Moon",
+  "compiled_truth": "Eric Moon is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2002-01-03), Eric Moon sent 26 and received 230 emails, totalling 256 interactions. Top correspondents: [John Griffith](people/john-griffith) (9), [V Weldon](people/v-weldon) (4), [Charles Weldon](people/charles-weldon) (3), [T  Lucci](people/t-lucci) (2), [Barry Tycholiz](people/barry-tycholiz) (2). Mailbox folders observed: calendar, deleted_items, funny, inbox, kern, market.",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-moon",
+    "name": "Eric Moon",
+    "email": "eric.moon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

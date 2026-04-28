@@ -1,0 +1,14 @@
+{
+  "slug": "people/melinda-gallishaw",
+  "type": "person",
+  "title": "Melinda Gallishaw",
+  "compiled_truth": "Melinda Gallishaw is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-17 to 2002-03-25), Melinda Gallishaw sent 15 and received 60 emails, totalling 75 interactions. Top correspondents: [Darrell Schoolcraft](people/darrell-schoolcraft) (14), [Jerry Harkreader](people/jerry-harkreader) (13), [Barney Brasher](people/barney-brasher) (12), [Scott Clark](people/scott-clark) (12), [Randy Lebeau](people/randy-lebeau) (12). Mailbox folders observed: deleted_items, inbox, tw.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melinda-gallishaw",
+    "name": "Melinda Gallishaw",
+    "email": "melinda.gallishaw@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-self",
+  "type": "person",
+  "title": "Mike Self",
+  "compiled_truth": "Mike Self is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-08 to 2001-10-29), Mike Self sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-self",
+    "name": "Mike Self",
+    "email": "mike.self@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

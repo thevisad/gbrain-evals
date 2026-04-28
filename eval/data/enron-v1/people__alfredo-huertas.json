@@ -1,0 +1,14 @@
+{
+  "slug": "people/alfredo-huertas",
+  "type": "person",
+  "title": "Alfredo Huertas",
+  "compiled_truth": "Alfredo Huertas is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-11-30), Alfredo Huertas sent 2 and received 83 emails, totalling 85 interactions. Top correspondents: [Peter Styles](people/peter-styles) (2), [Paul Dawson](people/paul-dawson) (2), [Paul Hennemeyer](people/paul-hennemeyer) (2), [Nailia Dindarova](people/nailia-dindarova) (1), [Bruno Gaillard](people/bruno-gaillard) (1). Mailbox folders observed: generation.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alfredo-huertas",
+    "name": "Alfredo Huertas",
+    "email": "alfredo.huertas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

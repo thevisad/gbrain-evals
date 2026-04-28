@@ -1,0 +1,14 @@
+{
+  "slug": "people/jrr-vnf",
+  "type": "person",
+  "title": "Jrr",
+  "compiled_truth": "Jrr is an external contact at [Vnf](companies/vnf). Over the corpus period (2001-03-09 to 2001-12-03), Jrr sent 1 and received 16 emails, totalling 17 interactions. Top correspondents: [Skean](people/skean) (1).",
+  "timeline": "- **2001-03-09** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jrr-vnf",
+    "name": "Jrr",
+    "email": "jrr@vnf.com",
+    "primary_affiliation": "companies/vnf"
+  }
+}

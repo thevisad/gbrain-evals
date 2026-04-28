@@ -1,0 +1,14 @@
+{
+  "slug": "people/kmalloy-caem",
+  "type": "person",
+  "title": "Kmalloy",
+  "compiled_truth": "Kmalloy is an external contact at [Caem](companies/caem). Over the corpus period (2000-09-27 to 2001-12-01), Kmalloy sent 1 and received 5 emails, totalling 6 interactions. Top correspondents: [North American Summit On Harmonizing Business Practices In Energy Restructuring](people/north-american-summit-on-harmonizing-business-practices-in-energy-restructuring-energymarkets) (1).",
+  "timeline": "- **2000-09-27** | First recorded email in corpus\n- **2001-12-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kmalloy-caem",
+    "name": "Kmalloy",
+    "email": "kmalloy@caem.org",
+    "primary_affiliation": "companies/caem"
+  }
+}

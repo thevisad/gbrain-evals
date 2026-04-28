@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-horne",
+  "type": "person",
+  "title": "David Horne",
+  "compiled_truth": "David Horne is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-12), David Horne sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-horne",
+    "name": "David Horne",
+    "email": "david.horne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

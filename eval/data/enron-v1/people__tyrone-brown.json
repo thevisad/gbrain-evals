@@ -1,0 +1,14 @@
+{
+  "slug": "people/tyrone-brown",
+  "type": "person",
+  "title": "Tyrone Brown",
+  "compiled_truth": "Tyrone Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-26 to 2002-01-28), Tyrone Brown sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2001-03-26** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tyrone-brown",
+    "name": "Tyrone Brown",
+    "email": "tyrone.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/fssmith-southernco",
+  "type": "person",
+  "title": "Fssmith",
+  "compiled_truth": "Fssmith is an external contact at [Southern Company](companies/southern-company). Over the corpus period (1999-11-15 to 1999-11-15), Fssmith sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fssmith-southernco",
+    "name": "Fssmith",
+    "email": "fssmith@southernco.com",
+    "primary_affiliation": "companies/southern-company"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-schneider",
+  "type": "person",
+  "title": "Steve Schneider",
+  "compiled_truth": "Steve Schneider is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-11), Steve Schneider sent 13 and received 232 emails, totalling 245 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (11), [Tom Shelton](people/tom-shelton) (4), [Gerald Nemec](people/gerald-nemec) (4), [Brad Blevins](people/brad-blevins) (3), [James Ducote](people/james-ducote) (3).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-schneider",
+    "name": "Steve Schneider",
+    "email": "steve.schneider@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

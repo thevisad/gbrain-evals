@@ -1,0 +1,14 @@
+{
+  "slug": "people/roger-balog",
+  "type": "person",
+  "title": "Roger Balog",
+  "compiled_truth": "Roger Balog is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-31 to 2001-04-04), Roger Balog sent 2 and received 215 emails, totalling 217 interactions. Top correspondents: [Jeffrey Hodge](people/jeffrey-hodge) (1), [Brad Blevins](people/brad-blevins) (1), [Jim Schwieger](people/jim-schwieger) (1), [Steve Schneider](people/steve-schneider) (1), [Gerald Nemec](people/gerald-nemec) (1).",
+  "timeline": "- **1999-08-31** | First recorded email in corpus\n- **2001-04-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roger-balog",
+    "name": "Roger Balog",
+    "email": "roger.balog@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

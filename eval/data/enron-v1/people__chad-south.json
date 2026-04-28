@@ -1,0 +1,14 @@
+{
+  "slug": "people/chad-south",
+  "type": "person",
+  "title": "Chad South",
+  "compiled_truth": "Chad South is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-16 to 2002-01-18), Chad South sent 0 and received 47 emails, totalling 47 interactions.",
+  "timeline": "- **2001-02-16** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chad-south",
+    "name": "Chad South",
+    "email": "chad.south@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

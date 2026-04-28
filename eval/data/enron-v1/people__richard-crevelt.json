@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-crevelt",
+  "type": "person",
+  "title": "Richard Crevelt",
+  "compiled_truth": "Richard Crevelt is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-07 to 2001-07-30), Richard Crevelt sent 1 and received 38 emails, totalling 39 interactions. Top correspondents: [Frank Zappala](people/frank-zappala) (1), [Steve Wurzel](people/steve-wurzel) (1), [Bob Deitz](people/bob-deitz) (1), [Douglas Huth](people/douglas-huth) (1), [Geoff Pollard](people/geoff-pollard) (1).",
+  "timeline": "- **1999-10-07** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-crevelt",
+    "name": "Richard Crevelt",
+    "email": "richard.crevelt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

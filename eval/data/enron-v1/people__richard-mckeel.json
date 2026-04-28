@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-mckeel",
+  "type": "person",
+  "title": "Richard Mckeel",
+  "compiled_truth": "Richard Mckeel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-26 to 2002-05-13), Richard Mckeel sent 1 and received 224 emails, totalling 225 interactions. Top correspondents: [Kathy Reeves](people/kathy-reeves) (1), [Dianne Seib](people/dianne-seib) (1), [Mable Tang](people/mable-tang) (1), [Steve Nat](people/steve-nat) (1), [Lloyd Will](people/lloyd-will) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-01-26** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-mckeel",
+    "name": "Richard Mckeel",
+    "email": "richard.mckeel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

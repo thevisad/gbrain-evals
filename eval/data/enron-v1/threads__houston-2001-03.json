@@ -1,0 +1,22 @@
+{
+  "slug": "threads/houston-2001-03",
+  "type": "meeting",
+  "title": "Thread: Houston",
+  "compiled_truth": "Email thread: \"Houston\". Ran from 2001-03-07 to 2001-04-03 with 14 messages. Participants: [Dloon](people/dloon-uschamber), [Drew Fossum](people/drew-fossum), [Kean](people/kean-rice), [Loon](people/loon), [Louise Kitchen](people/louise-kitchen), [Mark Haedicke](people/mark-haedicke), [Ricardo Charvel](people/ricardo-charvel), [Steven Kean](people/steven-kean).",
+  "timeline": "- **2001-03-07** | Thread begins: houston\n- **2001-04-03** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/houston-2001-03",
+    "attendees": [
+      "people/dloon-uschamber",
+      "people/drew-fossum",
+      "people/kean-rice",
+      "people/loon",
+      "people/louise-kitchen",
+      "people/mark-haedicke",
+      "people/ricardo-charvel",
+      "people/steven-kean"
+    ],
+    "date": "2001-03-07"
+  }
+}

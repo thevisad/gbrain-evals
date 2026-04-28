@@ -1,0 +1,14 @@
+{
+  "slug": "people/judy-thorne",
+  "type": "person",
+  "title": "Judy Thorne",
+  "compiled_truth": "Judy Thorne is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-09 to 2001-12-06), Judy Thorne sent 87 and received 117 emails, totalling 204 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (76), [Ellen Wallumrod](people/ellen-wallumrod) (18), [Debra Perlingiere](people/debra-perlingiere) (16), [John Grass](people/john-grass) (14), [Nelson Ferries](people/nelson-ferries) (14). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/judy-thorne",
+    "name": "Judy Thorne",
+    "email": "judy.thorne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

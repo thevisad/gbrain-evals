@@ -1,0 +1,14 @@
+{
+  "slug": "people/melba-lozano",
+  "type": "person",
+  "title": "Melba Lozano",
+  "compiled_truth": "Melba Lozano is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-26 to 2002-02-13), Melba Lozano sent 69 and received 610 emails, totalling 679 interactions. Top correspondents: [Chris Walker](people/chris-walker) (29), [Kevin Meredith](people/kevin-meredith) (26), [Robert Cass](people/robert-cass) (21), [Tara Sweitzer](people/tara-sweitzer) (17), [Mark Taylor](people/mark-taylor) (14). Mailbox folders observed: 09_saved, deleted_items, enron, eol, inbox, trading_info.",
+  "timeline": "- **1999-05-26** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melba-lozano",
+    "name": "Melba Lozano",
+    "email": "melba.lozano@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

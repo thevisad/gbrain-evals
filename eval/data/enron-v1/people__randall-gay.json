@@ -1,0 +1,14 @@
+{
+  "slug": "people/randall-gay",
+  "type": "person",
+  "title": "Randall Gay",
+  "compiled_truth": "Randall Gay is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-31), Randall Gay sent 366 and received 371 emails, totalling 737 interactions. Top correspondents: [Robert Superty](people/robert-superty) (86), [George Smith](people/george-smith) (42), [Suzanne Christiansen](people/suzanne-christiansen) (38), [Patti Sullivan](people/patti-sullivan) (32), [Rob Gay](people/rob-gay) (30). Mailbox folders observed: _sent_mail, sent, to_do.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randall-gay",
+    "name": "Randall Gay",
+    "email": "randall.gay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

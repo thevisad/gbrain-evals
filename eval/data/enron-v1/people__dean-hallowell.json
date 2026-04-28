@@ -1,0 +1,14 @@
+{
+  "slug": "people/dean-hallowell",
+  "type": "person",
+  "title": "Dean Hallowell",
+  "compiled_truth": "Dean Hallowell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2002-03-21), Dean Hallowell sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dean-hallowell",
+    "name": "Dean Hallowell",
+    "email": "dean.hallowell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

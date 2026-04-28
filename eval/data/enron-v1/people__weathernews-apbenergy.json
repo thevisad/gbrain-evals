@@ -1,0 +1,14 @@
+{
+  "slug": "people/weathernews-apbenergy",
+  "type": "person",
+  "title": "Weathernews",
+  "compiled_truth": "Weathernews is an external contact at [Apbenergy](companies/apbenergy). Over the corpus period (2001-10-15 to 2002-02-06), Weathernews sent 0 and received 43 emails, totalling 43 interactions.",
+  "timeline": "- **2001-10-15** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/weathernews-apbenergy",
+    "name": "Weathernews",
+    "email": "weathernews@apbenergy.com",
+    "primary_affiliation": "companies/apbenergy"
+  }
+}

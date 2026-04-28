@@ -1,0 +1,22 @@
+{
+  "slug": "concepts/arthur-andersen-audit",
+  "type": "concept",
+  "title": "Arthur Andersen Audit Failures",
+  "compiled_truth": "Arthur Andersen served as Enron's external auditor and was found to have approved or missed the accounting irregularities. Andersen was later convicted of obstruction of justice for shredding Enron documents. Related organizations: [Enron](companies/enron), [Arthur Andersen](companies/arthur-andersen), [SEC](companies/sec).",
+  "timeline": "- **2001-10-23** | Arthur Andersen attorneys advise destruction of Enron-related documents\n- **2002-01-10** | Andersen admits documents were shredded; fires partner David Duncan\n- **2002-06-15** | Arthur Andersen convicted of obstruction of justice; effectively dissolved\n- **2005-05-31** | Supreme Court overturns Andersen conviction on jury instruction grounds",
+  "_facts": {
+    "type": "concept",
+    "slug": "concepts/arthur-andersen-audit",
+    "related_companies": [
+      "companies/enron",
+      "companies/arthur-andersen",
+      "companies/sec"
+    ],
+    "related_people": [
+      "people/kenneth-lay",
+      "people/jeffrey-skilling",
+      "people/andrew-fastow",
+      "people/richard-causey"
+    ]
+  }
+}

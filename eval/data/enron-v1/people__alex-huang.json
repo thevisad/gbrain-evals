@@ -1,0 +1,14 @@
+{
+  "slug": "people/alex-huang",
+  "type": "person",
+  "title": "Alex Huang",
+  "compiled_truth": "Alex Huang is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2002-01-15), Alex Huang sent 34 and received 208 emails, totalling 242 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (23), [Vasant Shanbhogue](people/vasant-shanbhogue) (12), [Michelle Cisneros](people/michelle-cisneros) (11), [Stinson Gibner](people/stinson-gibner) (10), [Helen Zhang](people/helen-zhang) (8). Mailbox folders observed: c, inbox.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alex-huang",
+    "name": "Alex Huang",
+    "email": "alex.huang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

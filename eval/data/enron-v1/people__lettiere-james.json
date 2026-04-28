@@ -1,0 +1,14 @@
+{
+  "slug": "people/lettiere-james",
+  "type": "person",
+  "title": "Lettiere' 'James",
+  "compiled_truth": "Lettiere' 'James is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-09 to 2001-07-09), Lettiere' 'James sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lettiere-james",
+    "name": "Lettiere' 'James",
+    "email": "lettiere'.'james@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

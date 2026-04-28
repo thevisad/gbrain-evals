@@ -1,0 +1,14 @@
+{
+  "slug": "people/frl3-pge",
+  "type": "person",
+  "title": "Frl3",
+  "compiled_truth": "Frl3 is an external contact at [PG&E](companies/pge). Over the corpus period (1999-09-24 to 2001-07-31), Frl3 sent 17 and received 52 emails, totalling 69 interactions. Top correspondents: [Askaff](people/askaff-energy-law-group) (16), [Bcope](people/bcope-ci) (16), [Bcragg](people/bcragg-gmssr) (16), [Bradylaw](people/bradylaw-pacbell) (16), [Burkee](people/burkee-cts) (16).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frl3-pge",
+    "name": "Frl3",
+    "email": "frl3@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

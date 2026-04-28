@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-j-noske",
+  "type": "person",
+  "title": "Linda J Noske",
+  "compiled_truth": "Linda J Noske is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-10-22), Linda J Noske sent 1 and received 25 emails, totalling 26 interactions. Top correspondents: [D  Steffes](people/d-steffes) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-j-noske",
+    "name": "Linda J Noske",
+    "email": "linda.j.noske@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

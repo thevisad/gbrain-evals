@@ -1,0 +1,14 @@
+{
+  "slug": "people/suzanne-danz",
+  "type": "person",
+  "title": "Suzanne Danz",
+  "compiled_truth": "Suzanne Danz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-27), Suzanne Danz sent 2 and received 79 emails, totalling 81 interactions. Top correspondents: [Philippe Bibi](people/philippe-bibi) (2), [Jeremy Blachman](people/jeremy-blachman) (2), [Raymond Bowen](people/raymond-bowen) (2), [Michael Brown](people/michael-brown) (2), [Rick Buy](people/rick-buy) (2). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suzanne-danz",
+    "name": "Suzanne Danz",
+    "email": "suzanne.danz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

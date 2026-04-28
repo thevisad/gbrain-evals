@@ -1,0 +1,14 @@
+{
+  "slug": "people/alerts-stockselector",
+  "type": "person",
+  "title": "Alerts",
+  "compiled_truth": "Alerts is an external contact at [Stockselector](companies/stockselector). Over the corpus period (2000-12-11 to 2001-06-08), Alerts sent 36 and received 0 emails, totalling 36 interactions. Top correspondents: [Newsemail](people/newsemail-stockselector) (36).",
+  "timeline": "- **2000-12-11** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alerts-stockselector",
+    "name": "Alerts",
+    "email": "alerts@stockselector.com",
+    "primary_affiliation": "companies/stockselector"
+  }
+}

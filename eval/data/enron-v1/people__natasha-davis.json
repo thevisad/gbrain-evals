@@ -1,0 +1,14 @@
+{
+  "slug": "people/natasha-davis",
+  "type": "person",
+  "title": "Natasha Davis",
+  "compiled_truth": "Natasha Davis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-09 to 2001-11-08), Natasha Davis sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/natasha-davis",
+    "name": "Natasha Davis",
+    "email": "natasha.davis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

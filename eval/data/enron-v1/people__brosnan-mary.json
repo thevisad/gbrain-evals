@@ -1,0 +1,14 @@
+{
+  "slug": "people/brosnan-mary",
+  "type": "person",
+  "title": "Brosnan Mary",
+  "compiled_truth": "Brosnan Mary is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-16 to 2002-01-16), Brosnan Mary sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brosnan-mary",
+    "name": "Brosnan Mary",
+    "email": "brosnan.mary@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

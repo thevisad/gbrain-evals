@@ -1,0 +1,14 @@
+{
+  "slug": "people/dennis-benevides",
+  "type": "person",
+  "title": "Dennis Benevides",
+  "compiled_truth": "Dennis Benevides is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-04 to 2001-11-29), Dennis Benevides sent 6 and received 1026 emails, totalling 1032 interactions. Top correspondents: [Scott Stoness](people/scott-stoness) (5), [John Henderson](people/john-henderson) (4), [James Lewis](people/james-lewis) (4), [Jubran Whalan](people/jubran-whalan) (4), [Alexios Kollaros](people/alexios-kollaros) (4). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dennis-benevides",
+    "name": "Dennis Benevides",
+    "email": "dennis.benevides@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

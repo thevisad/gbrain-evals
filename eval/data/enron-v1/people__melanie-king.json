@@ -1,0 +1,14 @@
+{
+  "slug": "people/melanie-king",
+  "type": "person",
+  "title": "Melanie King",
+  "compiled_truth": "Melanie King is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2001-10-02), Melanie King sent 1 and received 34 emails, totalling 35 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (1), [Ginger Dernehl](people/ginger-dernehl) (1), [Sue Nord](people/sue-nord) (1), [Allison Navin](people/allison-navin) (1).",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-10-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melanie-king",
+    "name": "Melanie King",
+    "email": "melanie.king@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

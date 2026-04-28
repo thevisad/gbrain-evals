@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-ogiemwonji",
+  "type": "person",
+  "title": "Chris Ogiemwonji",
+  "compiled_truth": "Chris Ogiemwonji is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-10-09), Chris Ogiemwonji sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-ogiemwonji",
+    "name": "Chris Ogiemwonji",
+    "email": "chris.ogiemwonji@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/moe-barbarawi",
+  "type": "person",
+  "title": "Moe Barbarawi",
+  "compiled_truth": "Moe Barbarawi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-21 to 2001-11-29), Moe Barbarawi sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-09-21** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/moe-barbarawi",
+    "name": "Moe Barbarawi",
+    "email": "moe.barbarawi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

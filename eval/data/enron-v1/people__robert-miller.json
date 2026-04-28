@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-miller",
+  "type": "person",
+  "title": "Robert Miller",
+  "compiled_truth": "Robert Miller is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-08 to 2002-05-06), Robert Miller sent 1 and received 22 emails, totalling 23 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (1), [Caroline Barnes](people/caroline-barnes) (1), [Elaine Concklin](people/elaine-concklin) (1), [Pat Prendergast](people/pat-prendergast) (1), [Mary Botello](people/mary-botello) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-miller",
+    "name": "Robert Miller",
+    "email": "robert.miller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

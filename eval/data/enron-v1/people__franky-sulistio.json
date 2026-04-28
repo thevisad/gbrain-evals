@@ -1,0 +1,14 @@
+{
+  "slug": "people/franky-sulistio",
+  "type": "person",
+  "title": "Franky Sulistio",
+  "compiled_truth": "Franky Sulistio is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-19 to 2002-02-13), Franky Sulistio sent 15 and received 34 emails, totalling 49 interactions. Top correspondents: [David Dronet](people/david-dronet) (5), [Vladi Pimenov](people/vladi-pimenov) (4), [Dutch Quigley](people/dutch-quigley) (4), [Chris Gaskill](people/chris-gaskill) (3), [S  Shively](people/s-shively) (3). Mailbox folders observed: deleted_items, inbox, new_items.",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/franky-sulistio",
+    "name": "Franky Sulistio",
+    "email": "franky.sulistio@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

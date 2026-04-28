@@ -1,0 +1,14 @@
+{
+  "slug": "people/mjones-gc",
+  "type": "person",
+  "title": "Mjones",
+  "compiled_truth": "Mjones is an external contact at [Gc](companies/gc). Over the corpus period (2001-01-23 to 2001-05-08), Mjones sent 1 and received 32 emails, totalling 33 interactions. Top correspondents: [V Charles Weldon](people/v-charles-weldon) (1).",
+  "timeline": "- **2001-01-23** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mjones-gc",
+    "name": "Mjones",
+    "email": "mjones@gc.edu",
+    "primary_affiliation": "companies/gc"
+  }
+}

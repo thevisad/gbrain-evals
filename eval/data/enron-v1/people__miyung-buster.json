@@ -1,0 +1,14 @@
+{
+  "slug": "people/miyung-buster",
+  "type": "person",
+  "title": "Miyung Buster",
+  "compiled_truth": "Miyung Buster is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-26 to 2001-10-17), Miyung Buster sent 172 and received 185 emails, totalling 357 interactions. Top correspondents: [Steven Kean](people/steven-kean) (165), [Filuntz](people/filuntz-aol) (159), [Nicholas O'Day](people/nicholas-o-day) (151), [Mike Dahlke](people/mike-dahlke) (114), [James Steffes](people/james-steffes) (110). Mailbox folders observed: archiving, california_campaign, california_pg_e_bankruptcy, ferc.",
+  "timeline": "- **2000-05-26** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/miyung-buster",
+    "name": "Miyung Buster",
+    "email": "miyung.buster@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

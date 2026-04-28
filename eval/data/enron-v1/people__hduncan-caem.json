@@ -1,0 +1,14 @@
+{
+  "slug": "people/hduncan-caem",
+  "type": "person",
+  "title": "Hduncan",
+  "compiled_truth": "Hduncan is an external contact at [Caem](companies/caem). Over the corpus period (2001-07-12 to 2002-02-14), Hduncan sent 10 and received 3 emails, totalling 13 interactions. Top correspondents: [Jmangold](people/jmangold-caem) (4), [Jwimberly](people/jwimberly-caem) (3), [Kmalloy](people/kmalloy-caem) (2), [Kevin Hyatt](people/kevin-hyatt) (1), [M  Scott](people/m-scott) (1).",
+  "timeline": "- **2001-07-12** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hduncan-caem",
+    "name": "Hduncan",
+    "email": "hduncan@caem.org",
+    "primary_affiliation": "companies/caem"
+  }
+}

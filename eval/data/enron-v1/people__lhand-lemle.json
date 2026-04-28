@@ -1,0 +1,14 @@
+{
+  "slug": "people/lhand-lemle",
+  "type": "person",
+  "title": "Lhand",
+  "compiled_truth": "Lhand is an external contact at [Lemle](companies/lemle). Over the corpus period (1999-05-18 to 2001-11-19), Lhand sent 18 and received 15 emails, totalling 33 interactions. Top correspondents: [Robert D Morgan](people/robert-d-morgan-bhlp) (7), [David Owen](people/david-owen) (7), [Gerald Nemec](people/gerald-nemec) (6), [Rusty Belflower](people/rusty-belflower) (5), [Gnemec](people/gnemec) (5).",
+  "timeline": "- **1999-05-18** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lhand-lemle",
+    "name": "Lhand",
+    "email": "lhand@lemle.com",
+    "primary_affiliation": "companies/lemle"
+  }
+}

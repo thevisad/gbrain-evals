@@ -1,0 +1,14 @@
+{
+  "slug": "people/mwood-stoel",
+  "type": "person",
+  "title": "Mwood",
+  "compiled_truth": "Mwood is an external contact at [Stoel](companies/stoel). Over the corpus period (2000-06-21 to 2001-04-23), Mwood sent 2 and received 22 emails, totalling 24 interactions. Top correspondents: [Jgselby](people/jgselby-bpa) (2), [Pdmichie](people/pdmichie-bpa) (2), [Pjburger](people/pjburger-bpa) (2), [Srlarson](people/srlarson-bpa) (2), [Cindy Wright](people/cindy-wright-ci) (2).",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-04-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mwood-stoel",
+    "name": "Mwood",
+    "email": "mwood@stoel.com",
+    "primary_affiliation": "companies/stoel"
+  }
+}

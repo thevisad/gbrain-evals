@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-jeffrey",
+  "type": "person",
+  "title": "Richard Jeffrey",
+  "compiled_truth": "Richard Jeffrey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-31 to 2001-05-22), Richard Jeffrey sent 0 and received 61 emails, totalling 61 interactions.",
+  "timeline": "- **2000-03-31** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-jeffrey",
+    "name": "Richard Jeffrey",
+    "email": "richard.jeffrey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

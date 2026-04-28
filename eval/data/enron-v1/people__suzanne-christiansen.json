@@ -1,0 +1,14 @@
+{
+  "slug": "people/suzanne-christiansen",
+  "type": "person",
+  "title": "Suzanne Christiansen",
+  "compiled_truth": "Suzanne Christiansen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2002-05-22), Suzanne Christiansen sent 10 and received 181 emails, totalling 191 interactions. Top correspondents: [Shelly Mendel](people/shelly-mendel) (6), [Matthew Lenhart](people/matthew-lenhart) (6), [Monique Sanchez](people/monique-sanchez) (6), [Shannon Groenewold](people/shannon-groenewold) (6), [Daniel Lisk](people/daniel-lisk) (5). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2002-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suzanne-christiansen",
+    "name": "Suzanne Christiansen",
+    "email": "suzanne.christiansen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

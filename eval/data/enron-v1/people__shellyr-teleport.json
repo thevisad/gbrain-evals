@@ -1,0 +1,14 @@
+{
+  "slug": "people/shellyr-teleport",
+  "type": "person",
+  "title": "Shellyr",
+  "compiled_truth": "Shellyr is an external contact at [Teleport](companies/teleport). Over the corpus period (2000-06-23 to 2001-03-11), Shellyr sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-03-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shellyr-teleport",
+    "name": "Shellyr",
+    "email": "shellyr@teleport.com",
+    "primary_affiliation": "companies/teleport"
+  }
+}

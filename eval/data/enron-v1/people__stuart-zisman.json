@@ -1,0 +1,14 @@
+{
+  "slug": "people/stuart-zisman",
+  "type": "person",
+  "title": "Stuart Zisman",
+  "compiled_truth": "Stuart Zisman is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-31), Stuart Zisman sent 159 and received 801 emails, totalling 960 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (46), [Joe Parks](people/joe-parks) (44), [Brian Redmond](people/brian-redmond) (30), [Kay Mann](people/kay-mann) (29), [Chris Meyer](people/chris-meyer) (22). Mailbox folders observed: _americas, cleburne_plant____cornhusker_, deleted_items, inbox, westinghouse.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stuart-zisman",
+    "name": "Stuart Zisman",
+    "email": "stuart.zisman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

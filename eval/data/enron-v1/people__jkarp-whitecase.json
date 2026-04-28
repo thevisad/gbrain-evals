@@ -1,0 +1,14 @@
+{
+  "slug": "people/jkarp-whitecase",
+  "type": "person",
+  "title": "Jkarp",
+  "compiled_truth": "Jkarp is an external contact at [Whitecase](companies/whitecase). Over the corpus period (2000-05-04 to 2001-07-31), Jkarp sent 0 and received 147 emails, totalling 147 interactions.",
+  "timeline": "- **2000-05-04** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jkarp-whitecase",
+    "name": "Jkarp",
+    "email": "jkarp@whitecase.com",
+    "primary_affiliation": "companies/whitecase"
+  }
+}

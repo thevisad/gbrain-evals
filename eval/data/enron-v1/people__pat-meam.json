@@ -1,0 +1,14 @@
+{
+  "slug": "people/pat-meam",
+  "type": "person",
+  "title": "Pat",
+  "compiled_truth": "Pat is an external contact at [Meam](companies/meam). Over the corpus period (2000-11-11 to 2000-11-11), Pat sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pat-meam",
+    "name": "Pat",
+    "email": "pat@meam.com",
+    "primary_affiliation": "companies/meam"
+  }
+}

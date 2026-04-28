@@ -1,0 +1,14 @@
+{
+  "slug": "people/spb1-cwclaw",
+  "type": "person",
+  "title": "Spb1",
+  "compiled_truth": "Spb1 is an external contact at [Cwclaw](companies/cwclaw). Over the corpus period (1999-10-07 to 2001-07-31), Spb1 sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **1999-10-07** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/spb1-cwclaw",
+    "name": "Spb1",
+    "email": "spb1@cwclaw.com",
+    "primary_affiliation": "companies/cwclaw"
+  }
+}

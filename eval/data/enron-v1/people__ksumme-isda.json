@@ -1,0 +1,14 @@
+{
+  "slug": "people/ksumme-isda",
+  "type": "person",
+  "title": "Ksumme",
+  "compiled_truth": "Ksumme is an external contact at [Isda](companies/isda). Over the corpus period (2000-09-07 to 2001-11-09), Ksumme sent 10 and received 73 emails, totalling 83 interactions. Top correspondents: [Rpickel](people/rpickel-isda) (9), [Rmetcalfe](people/rmetcalfe-isda-eur) (6), [Board](people/board-isda) (5), [Ejelich](people/ejelich-isda) (5), [Apapesch](people/apapesch-isda) (5).",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ksumme-isda",
+    "name": "Ksumme",
+    "email": "ksumme@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

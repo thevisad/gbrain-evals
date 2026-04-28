@@ -1,0 +1,14 @@
+{
+  "slug": "people/belke-jim-epamail",
+  "type": "person",
+  "title": "Belke Jim",
+  "compiled_truth": "Belke Jim is an external contact at [Epamail](companies/epamail). Over the corpus period (2001-03-12 to 2001-04-30), Belke Jim sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/belke-jim-epamail",
+    "name": "Belke Jim",
+    "email": "belke.jim@epamail.epa.gov",
+    "primary_affiliation": "companies/epamail"
+  }
+}

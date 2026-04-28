@@ -1,0 +1,14 @@
+{
+  "slug": "people/will-zamer",
+  "type": "person",
+  "title": "Will Zamer",
+  "compiled_truth": "Will Zamer is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-26), Will Zamer sent 6 and received 23 emails, totalling 29 interactions. Top correspondents: [Jo Williams](people/jo-williams) (4), [Kevin Hyatt](people/kevin-hyatt) (4), [Sharon Farrell](people/sharon-farrell) (4), [Daren Farmer](people/daren-farmer) (4), [Michael Eiben](people/michael-eiben) (3).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/will-zamer",
+    "name": "Will Zamer",
+    "email": "will.zamer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

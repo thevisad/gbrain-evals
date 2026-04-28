@@ -1,0 +1,14 @@
+{
+  "slug": "people/h-cook",
+  "type": "person",
+  "title": "H  Cook",
+  "compiled_truth": "H  Cook is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-23 to 2001-12-04), H  Cook sent 5 and received 20 emails, totalling 25 interactions. Top correspondents: [Eric Boyt](people/eric-boyt) (3), [Mary Cook](people/mary-cook) (3), [Russell Diamond](people/russell-diamond) (3), [William Fleenor](people/william-fleenor) (3), [Santiago Garcia](people/santiago-garcia) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-04-23** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/h-cook",
+    "name": "H  Cook",
+    "email": "h..cook@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

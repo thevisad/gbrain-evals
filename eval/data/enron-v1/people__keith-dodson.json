@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-dodson",
+  "type": "person",
+  "title": "Keith Dodson",
+  "compiled_truth": "Keith Dodson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-26), Keith Dodson sent 10 and received 113 emails, totalling 123 interactions. Top correspondents: [Brian Stanley](people/brian-stanley) (6), [Rod Hayslett](people/rod-hayslett) (4), [Louise Kitchen](people/louise-kitchen) (4), [Richard Lydecker](people/richard-lydecker) (2), [Keith Marlow](people/keith-marlow) (2). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-dodson",
+    "name": "Keith Dodson",
+    "email": "keith.dodson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

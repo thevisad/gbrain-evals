@@ -1,0 +1,14 @@
+{
+  "slug": "people/maus-mike",
+  "type": "person",
+  "title": "Maus Mike",
+  "compiled_truth": "Maus Mike is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-08-21), Maus Mike sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maus-mike",
+    "name": "Maus Mike",
+    "email": "maus.mike@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

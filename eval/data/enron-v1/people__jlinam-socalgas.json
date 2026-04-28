@@ -1,0 +1,14 @@
+{
+  "slug": "people/jlinam-socalgas",
+  "type": "person",
+  "title": "Jlinam",
+  "compiled_truth": "Jlinam is an external contact at [Socalgas](companies/socalgas). Over the corpus period (1999-09-24 to 2001-07-31), Jlinam sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jlinam-socalgas",
+    "name": "Jlinam",
+    "email": "jlinam@socalgas.com",
+    "primary_affiliation": "companies/socalgas"
+  }
+}

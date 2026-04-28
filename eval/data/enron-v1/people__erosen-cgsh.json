@@ -1,0 +1,14 @@
+{
+  "slug": "people/erosen-cgsh",
+  "type": "person",
+  "title": "Erosen",
+  "compiled_truth": "Erosen is an external contact at [Cgsh](companies/cgsh). Over the corpus period (2000-05-03 to 2001-01-22), Erosen sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-05-03** | First recorded email in corpus\n- **2001-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/erosen-cgsh",
+    "name": "Erosen",
+    "email": "erosen@cgsh.com",
+    "primary_affiliation": "companies/cgsh"
+  }
+}

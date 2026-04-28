@@ -1,0 +1,14 @@
+{
+  "slug": "people/mdotson",
+  "type": "person",
+  "title": "Mdotson",
+  "compiled_truth": "Mdotson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-03-16), Mdotson sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mdotson",
+    "name": "Mdotson",
+    "email": "mdotson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

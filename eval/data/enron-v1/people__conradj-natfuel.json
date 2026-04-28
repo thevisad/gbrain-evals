@@ -1,0 +1,14 @@
+{
+  "slug": "people/conradj-natfuel",
+  "type": "person",
+  "title": "Conradj",
+  "compiled_truth": "Conradj is an external contact at [Natfuel](companies/natfuel). Over the corpus period (2001-11-20 to 2001-12-18), Conradj sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-11-20** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/conradj-natfuel",
+    "name": "Conradj",
+    "email": "conradj@natfuel.com",
+    "primary_affiliation": "companies/natfuel"
+  }
+}

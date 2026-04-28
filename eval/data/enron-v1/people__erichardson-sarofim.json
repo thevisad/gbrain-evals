@@ -1,0 +1,14 @@
+{
+  "slug": "people/erichardson-sarofim",
+  "type": "person",
+  "title": "Erichardson",
+  "compiled_truth": "Erichardson is an external contact at [Sarofim](companies/sarofim). Over the corpus period (2001-01-23 to 2001-11-13), Erichardson sent 28 and received 379 emails, totalling 407 interactions. Top correspondents: [Matthew Lenhart](people/matthew-lenhart) (28).",
+  "timeline": "- **2001-01-23** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/erichardson-sarofim",
+    "name": "Erichardson",
+    "email": "erichardson@sarofim.com",
+    "primary_affiliation": "companies/sarofim"
+  }
+}

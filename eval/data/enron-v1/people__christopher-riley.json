@@ -1,0 +1,14 @@
+{
+  "slug": "people/christopher-riley",
+  "type": "person",
+  "title": "Christopher Riley",
+  "compiled_truth": "Christopher Riley is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-16 to 2002-05-06), Christopher Riley sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2001-02-16** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christopher-riley",
+    "name": "Christopher Riley",
+    "email": "christopher.riley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

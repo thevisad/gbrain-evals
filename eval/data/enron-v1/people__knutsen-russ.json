@@ -1,0 +1,14 @@
+{
+  "slug": "people/knutsen-russ",
+  "type": "person",
+  "title": "Knutsen Russ",
+  "compiled_truth": "Knutsen Russ is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-01 to 2002-02-05), Knutsen Russ sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-02-01** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/knutsen-russ",
+    "name": "Knutsen Russ",
+    "email": "knutsen.russ@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

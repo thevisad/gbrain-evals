@@ -1,0 +1,14 @@
+{
+  "slug": "people/mpate-bracepatt",
+  "type": "person",
+  "title": "Mpate",
+  "compiled_truth": "Mpate is an external contact at [Bracewell & Patterson](companies/bracewell). Over the corpus period (2000-10-15 to 2001-05-10), Mpate sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-10-15** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mpate-bracepatt",
+    "name": "Mpate",
+    "email": "mpate@bracepatt.com",
+    "primary_affiliation": "companies/bracewell"
+  }
+}

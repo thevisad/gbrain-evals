@@ -1,0 +1,14 @@
+{
+  "slug": "people/corry-bentley",
+  "type": "person",
+  "title": "Corry Bentley",
+  "compiled_truth": "Corry Bentley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-28 to 2002-02-28), Corry Bentley sent 28 and received 623 emails, totalling 651 interactions. Top correspondents: [Cara Semperger](people/cara-semperger) (12), [Lloyd Will](people/lloyd-will) (9), [Debra Bailey](people/debra-bailey) (8), [David Poston](people/david-poston) (8), [Don Baughman](people/don-baughman) (8). Mailbox folders observed: calendar, deleted_items, inbox, koch, power, scheduling.",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/corry-bentley",
+    "name": "Corry Bentley",
+    "email": "corry.bentley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

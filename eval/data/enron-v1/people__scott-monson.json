@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-monson",
+  "type": "person",
+  "title": "Scott Monson",
+  "compiled_truth": "Scott Monson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-02-22), Scott Monson sent 2 and received 29 emails, totalling 31 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (2), [Ron Tapscott](people/ron-tapscott) (2), [Steve Hooser](people/steve-hooser) (1).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-monson",
+    "name": "Scott Monson",
+    "email": "scott.monson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

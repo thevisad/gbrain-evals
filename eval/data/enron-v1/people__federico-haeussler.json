@@ -1,0 +1,14 @@
+{
+  "slug": "people/federico-haeussler",
+  "type": "person",
+  "title": "Federico Haeussler",
+  "compiled_truth": "Federico Haeussler is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-04 to 2001-10-25), Federico Haeussler sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2001-05-04** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/federico-haeussler",
+    "name": "Federico Haeussler",
+    "email": "federico.haeussler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

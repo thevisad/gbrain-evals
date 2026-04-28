@@ -1,0 +1,14 @@
+{
+  "slug": "people/debra-perlingiere",
+  "type": "person",
+  "title": "Debra Perlingiere",
+  "compiled_truth": "Debra Perlingiere is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-13), Debra Perlingiere sent 4268 and received 1121 emails, totalling 5389 interactions. Top correspondents: [Russell Diamond](people/russell-diamond) (354), [Veronica Espinoza](people/veronica-espinoza) (312), [Dan Hyvl](people/dan-hyvl) (177), [Stacy Dickson](people/stacy-dickson) (163), [Ellen Wallumrod](people/ellen-wallumrod) (153). Mailbox folders observed: deleted_items, gas, gas_customers___chris_foster, inbox, long_beach, midesto.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debra-perlingiere",
+    "name": "Debra Perlingiere",
+    "email": "debra.perlingiere@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

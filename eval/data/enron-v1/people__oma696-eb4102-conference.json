@@ -1,0 +1,14 @@
+{
+  "slug": "people/oma696-eb4102-conference",
+  "type": "person",
+  "title": "Oma696-Eb4102 Conference",
+  "compiled_truth": "Oma696-Eb4102 Conference is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-01-02), Oma696-Eb4102 Conference sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/oma696-eb4102-conference",
+    "name": "Oma696-Eb4102 Conference",
+    "email": "oma696-eb4102.conference@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

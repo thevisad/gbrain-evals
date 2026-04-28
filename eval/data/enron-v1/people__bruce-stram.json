@@ -1,0 +1,14 @@
+{
+  "slug": "people/bruce-stram",
+  "type": "person",
+  "title": "Bruce Stram",
+  "compiled_truth": "Bruce Stram is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-12 to 2001-11-19), Bruce Stram sent 0 and received 43 emails, totalling 43 interactions.",
+  "timeline": "- **1999-10-12** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bruce-stram",
+    "name": "Bruce Stram",
+    "email": "bruce.stram@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

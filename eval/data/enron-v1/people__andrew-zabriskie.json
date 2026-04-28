@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrew-zabriskie",
+  "type": "person",
+  "title": "Andrew Zabriskie",
+  "compiled_truth": "Andrew Zabriskie is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-03 to 2001-09-24), Andrew Zabriskie sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-04-03** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrew-zabriskie",
+    "name": "Andrew Zabriskie",
+    "email": "andrew.zabriskie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

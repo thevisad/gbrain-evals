@@ -1,0 +1,14 @@
+{
+  "slug": "people/sean-maki",
+  "type": "person",
+  "title": "Sean Maki",
+  "compiled_truth": "Sean Maki is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-05 to 2001-09-28), Sean Maki sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2001-03-05** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sean-maki",
+    "name": "Sean Maki",
+    "email": "sean.maki@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

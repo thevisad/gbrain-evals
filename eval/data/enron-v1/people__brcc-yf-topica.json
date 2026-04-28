@@ -1,0 +1,14 @@
+{
+  "slug": "people/brcc-yf-topica",
+  "type": "person",
+  "title": "Brcc Yf",
+  "compiled_truth": "Brcc Yf is an external contact at [Topica](companies/topica). Over the corpus period (2001-08-29 to 2001-11-26), Brcc Yf sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2001-08-29** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brcc-yf-topica",
+    "name": "Brcc Yf",
+    "email": "brcc.yf@topica.com",
+    "primary_affiliation": "companies/topica"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-morgan",
+  "type": "person",
+  "title": "Robert Morgan",
+  "compiled_truth": "Robert Morgan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-15 to 2001-11-16), Robert Morgan sent 1 and received 33 emails, totalling 34 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (1), [Rusty Belflower](people/rusty-belflower) (1).",
+  "timeline": "- **1999-06-15** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-morgan",
+    "name": "Robert Morgan",
+    "email": "robert.morgan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

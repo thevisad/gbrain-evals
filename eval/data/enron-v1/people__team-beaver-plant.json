@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-beaver-plant",
+  "type": "person",
+  "title": "Team Beaver-Plant",
+  "compiled_truth": "Team Beaver-Plant is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-12 to 2002-03-25), Team Beaver-Plant sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2001-10-12** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-beaver-plant",
+    "name": "Team Beaver-Plant",
+    "email": "team.beaver-plant@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

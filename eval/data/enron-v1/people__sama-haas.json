@@ -1,0 +1,14 @@
+{
+  "slug": "people/sama-haas",
+  "type": "person",
+  "title": "Sama",
+  "compiled_truth": "Sama is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-12-14), Sama sent 0 and received 92 emails, totalling 92 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sama-haas",
+    "name": "Sama",
+    "email": "sama@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

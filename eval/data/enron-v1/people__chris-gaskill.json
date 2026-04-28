@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-gaskill",
+  "type": "person",
+  "title": "Chris Gaskill",
+  "compiled_truth": "Chris Gaskill is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-21 to 2002-05-02), Chris Gaskill sent 48 and received 540 emails, totalling 588 interactions. Top correspondents: [S  Shively](people/s-shively) (22), [Matt Smith](people/matt-smith) (8), [Justin O'Malley](people/justin-o-malley) (7), [Biliana Pehlivanova](people/biliana-pehlivanova) (6), [Bart Burk](people/bart-burk) (6). Mailbox folders observed: _americas, calendar, deleted_items, inbox, netco, old_inbox.",
+  "timeline": "- **2000-01-21** | First recorded email in corpus\n- **2002-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-gaskill",
+    "name": "Chris Gaskill",
+    "email": "chris.gaskill@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-flagstaff-sta2",
+  "type": "person",
+  "title": "Team Flagstaff-Sta2",
+  "compiled_truth": "Team Flagstaff-Sta2 is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-17 to 2002-03-18), Team Flagstaff-Sta2 sent 0 and received 61 emails, totalling 61 interactions.",
+  "timeline": "- **2001-04-17** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-flagstaff-sta2",
+    "name": "Team Flagstaff-Sta2",
+    "email": "team.flagstaff-sta2@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

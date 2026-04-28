@@ -1,0 +1,14 @@
+{
+  "slug": "people/jake-thomas",
+  "type": "person",
+  "title": "Jake Thomas",
+  "compiled_truth": "Jake Thomas is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-22), Jake Thomas sent 5 and received 366 emails, totalling 371 interactions. Top correspondents: [Mark Whitt](people/mark-whitt) (3), [Steve Walton](people/steve-walton) (2), [Kay Mann](people/kay-mann) (1), [Barry Tycholiz](people/barry-tycholiz) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jake-thomas",
+    "name": "Jake Thomas",
+    "email": "jake.thomas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

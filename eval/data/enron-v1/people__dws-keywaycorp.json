@@ -1,0 +1,14 @@
+{
+  "slug": "people/dws-keywaycorp",
+  "type": "person",
+  "title": "Dws",
+  "compiled_truth": "Dws is an external contact at [Keywaycorp](companies/keywaycorp). Over the corpus period (2000-05-08 to 2001-05-10), Dws sent 0 and received 73 emails, totalling 73 interactions.",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dws-keywaycorp",
+    "name": "Dws",
+    "email": "dws@keywaycorp.com",
+    "primary_affiliation": "companies/keywaycorp"
+  }
+}

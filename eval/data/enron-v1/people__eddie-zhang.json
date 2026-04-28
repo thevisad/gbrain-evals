@@ -1,0 +1,14 @@
+{
+  "slug": "people/eddie-zhang",
+  "type": "person",
+  "title": "Eddie Zhang",
+  "compiled_truth": "Eddie Zhang is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-19 to 2002-02-13), Eddie Zhang sent 23 and received 44 emails, totalling 67 interactions. Top correspondents: [Tara Piazze](people/tara-piazze) (23), [Matt Smith](people/matt-smith) (23), [Chris Gaskill](people/chris-gaskill) (23), [Colin Tonks](people/colin-tonks) (23), [Chris Hyde](people/chris-hyde) (23). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-01-19** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eddie-zhang",
+    "name": "Eddie Zhang",
+    "email": "eddie.zhang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

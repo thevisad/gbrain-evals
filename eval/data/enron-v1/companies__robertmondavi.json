@@ -1,0 +1,31 @@
+{
+  "slug": "companies/robertmondavi",
+  "type": "company",
+  "title": "Robertmondavi",
+  "compiled_truth": "Robertmondavi is an external organization that appears in the Enron email corpus. Domain: robertmondavi.com. Total email interactions with Enron: 782. Known contacts: 14 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (782 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/robertmondavi",
+    "name": "Robertmondavi",
+    "employees": [
+      "people/barrie-eddy-robertmondavi",
+      "people/cindy-milani-robertmondavi",
+      "people/cindy-nagy-robertmondavi",
+      "people/denise-hing-robertmondavi",
+      "people/greg-brady-robertmondavi",
+      "people/hank-salvo-robertmondavi",
+      "people/john-whitson-robertmondavi",
+      "people/michele-sigl-robertmondavi",
+      "people/mickey-lombardi-robertmondavi",
+      "people/nancy-sellers-robertmondavi",
+      "people/patrick-delong-robertmondavi",
+      "people/peggy-hammett-robertmondavi",
+      "people/steve-mccarthy-robertmondavi",
+      "people/susan-wiechers-robertmondavi"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rhonda-washington",
+  "type": "person",
+  "title": "Rhonda Washington",
+  "compiled_truth": "Rhonda Washington is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-05-09), Rhonda Washington sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rhonda-washington",
+    "name": "Rhonda Washington",
+    "email": "rhonda.washington@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

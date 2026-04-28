@@ -1,0 +1,14 @@
+{
+  "slug": "people/donna-fulton",
+  "type": "person",
+  "title": "Donna Fulton",
+  "compiled_truth": "Donna Fulton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-17 to 2001-12-03), Donna Fulton sent 46 and received 1072 emails, totalling 1118 interactions. Top correspondents: [Sarah Novosel](people/sarah-novosel) (37), [Richard Shapiro](people/richard-shapiro) (28), [James Steffes](people/james-steffes) (23), [Christi Nicolay](people/christi-nicolay) (19), [Steven Kean](people/steven-kean) (19). Mailbox folders observed: _americas, california_issues, deleted_items, enron_power, ferc, inbox.",
+  "timeline": "- **2000-01-17** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donna-fulton",
+    "name": "Donna Fulton",
+    "email": "donna.fulton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-piro",
+  "type": "person",
+  "title": "Jim Piro",
+  "compiled_truth": "Jim Piro is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-20 to 2001-12-31), Jim Piro sent 16 and received 64 emails, totalling 80 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (16), [Kirk Stevens](people/kirk-stevens) (8), [Stanley Horton](people/stanley-horton) (8), [Peggy Fowler](people/peggy-fowler) (7), [Fred Miller](people/fred-miller) (2). Mailbox folders observed: inbox, projects.",
+  "timeline": "- **2001-03-20** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-piro",
+    "name": "Jim Piro",
+    "email": "jim.piro@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

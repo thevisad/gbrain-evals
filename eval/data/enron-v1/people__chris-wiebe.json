@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-wiebe",
+  "type": "person",
+  "title": "Chris Wiebe",
+  "compiled_truth": "Chris Wiebe is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-08 to 2002-02-07), Chris Wiebe sent 5 and received 93 emails, totalling 98 interactions. Top correspondents: [Cooper Richey](people/cooper-richey) (4), [Richard Mckeel](people/richard-mckeel) (2), [Greg Hibbert](people/greg-hibbert) (2), [Pavel Koulikov](people/pavel-koulikov) (2), [Stweet](people/stweet-deloitte) (1). Mailbox folders observed: calendar, deleted_items, inbox, infrastructure.",
+  "timeline": "- **1999-10-08** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-wiebe",
+    "name": "Chris Wiebe",
+    "email": "chris.wiebe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

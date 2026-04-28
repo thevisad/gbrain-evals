@@ -1,0 +1,14 @@
+{
+  "slug": "people/kcarr-pn",
+  "type": "person",
+  "title": "Kcarr",
+  "compiled_truth": "Kcarr is an external contact at [Pn](companies/pn). Over the corpus period (2001-03-11 to 2001-04-26), Kcarr sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-03-11** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kcarr-pn",
+    "name": "Kcarr",
+    "email": "kcarr@pn.usbr.gov",
+    "primary_affiliation": "companies/pn"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jbz-blakes",
+  "type": "person",
+  "title": "Jbz",
+  "compiled_truth": "Jbz is an external contact at [Blakes](companies/blakes). Over the corpus period (2000-06-08 to 2000-10-24), Jbz sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2000-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jbz-blakes",
+    "name": "Jbz",
+    "email": "jbz@blakes.com",
+    "primary_affiliation": "companies/blakes"
+  }
+}

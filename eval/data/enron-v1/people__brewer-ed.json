@@ -1,0 +1,14 @@
+{
+  "slug": "people/brewer-ed",
+  "type": "person",
+  "title": "Brewer Ed",
+  "compiled_truth": "Brewer Ed is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-10 to 2001-10-10), Brewer Ed sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-10** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brewer-ed",
+    "name": "Brewer Ed",
+    "email": "brewer.ed@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

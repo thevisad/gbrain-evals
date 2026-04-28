@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-ducote",
+  "type": "person",
+  "title": "James Ducote",
+  "compiled_truth": "James Ducote is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-07-16), James Ducote sent 0 and received 146 emails, totalling 146 interactions.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-ducote",
+    "name": "James Ducote",
+    "email": "james.ducote@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

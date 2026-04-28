@@ -1,0 +1,14 @@
+{
+  "slug": "people/matilda-machado",
+  "type": "person",
+  "title": "Matilda Machado",
+  "compiled_truth": "Matilda Machado is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-17 to 2002-01-04), Matilda Machado sent 2 and received 109 emails, totalling 111 interactions. Top correspondents: [Tana Jones](people/tana-jones) (2), [Nella Cappelletto](people/nella-cappelletto) (1), [Kate Joslyn](people/kate-joslyn) (1), [Laura Scott](people/laura-scott) (1), [Kathy Reeves](people/kathy-reeves) (1).",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matilda-machado",
+    "name": "Matilda Machado",
+    "email": "matilda.machado@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

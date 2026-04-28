@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-bryan",
+  "type": "person",
+  "title": "Randy Bryan",
+  "compiled_truth": "Randy Bryan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2002-03-25), Randy Bryan sent 16 and received 201 emails, totalling 217 interactions. Top correspondents: [Controllers Dl-Ets](people/controllers-dl-ets) (11), [Lynn Blair](people/lynn-blair) (5), [Sheila Nacey](people/sheila-nacey) (1), [John Buchanan](people/john-buchanan) (1), [Terry Kowalke](people/terry-kowalke) (1). Mailbox folders observed: budget___2002, deleted_items, inbox, personnel___prc_2001_year_end.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-bryan",
+    "name": "Randy Bryan",
+    "email": "randy.bryan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

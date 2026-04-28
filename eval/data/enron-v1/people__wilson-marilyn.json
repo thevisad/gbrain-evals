@@ -1,0 +1,14 @@
+{
+  "slug": "people/wilson-marilyn",
+  "type": "person",
+  "title": "Wilson Marilyn",
+  "compiled_truth": "Wilson Marilyn is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Wilson Marilyn sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wilson-marilyn",
+    "name": "Wilson Marilyn",
+    "email": "wilson.marilyn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

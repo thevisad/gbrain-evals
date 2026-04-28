@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-schlueter",
+  "type": "person",
+  "title": "Mark Schlueter",
+  "compiled_truth": "Mark Schlueter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-15 to 2002-05-21), Mark Schlueter sent 5 and received 161 emails, totalling 166 interactions. Top correspondents: [Charles Weldon](people/charles-weldon) (5). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-11-15** | First recorded email in corpus\n- **2002-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-schlueter",
+    "name": "Mark Schlueter",
+    "email": "mark.schlueter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

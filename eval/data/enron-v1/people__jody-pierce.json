@@ -1,0 +1,14 @@
+{
+  "slug": "people/jody-pierce",
+  "type": "person",
+  "title": "Jody Pierce",
+  "compiled_truth": "Jody Pierce is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-12-14), Jody Pierce sent 2 and received 88 emails, totalling 90 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (1), [Georgeanne Hodges](people/georgeanne-hodges) (1), [Hope Vargas](people/hope-vargas) (1), [Eric Boyt](people/eric-boyt) (1), [Jeffrey Keenan](people/jeffrey-keenan) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jody-pierce",
+    "name": "Jody Pierce",
+    "email": "jody.pierce@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

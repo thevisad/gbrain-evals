@@ -1,0 +1,14 @@
+{
+  "slug": "people/siva66-mail",
+  "type": "person",
+  "title": "Siva66",
+  "compiled_truth": "Siva66 is an external contact at [Mail](companies/mail). Over the corpus period (2001-09-04 to 2002-01-30), Siva66 sent 45 and received 36 emails, totalling 81 interactions. Top correspondents: [Dutch Quigley](people/dutch-quigley) (16), [Molnar Mark](people/molnar-mark) (6), [Markm](people/markm-cajunusa) (5), [Klyn](people/klyn-pdq) (5), [Dunlavy Brian](people/dunlavy-brian) (4).",
+  "timeline": "- **2001-09-04** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/siva66-mail",
+    "name": "Siva66",
+    "email": "siva66@mail.ev1.net",
+    "primary_affiliation": "companies/mail"
+  }
+}

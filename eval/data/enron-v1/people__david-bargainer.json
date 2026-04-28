@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-bargainer",
+  "type": "person",
+  "title": "David Bargainer",
+  "compiled_truth": "David Bargainer is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-18), David Bargainer sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-bargainer",
+    "name": "David Bargainer",
+    "email": "david.bargainer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

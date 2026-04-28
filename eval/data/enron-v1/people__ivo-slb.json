@@ -1,0 +1,14 @@
+{
+  "slug": "people/ivo-slb",
+  "type": "person",
+  "title": "Ivo",
+  "compiled_truth": "Ivo is an external contact at [Slb](companies/slb). Over the corpus period (2001-10-18 to 2001-10-18), Ivo sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ivo-slb",
+    "name": "Ivo",
+    "email": "ivo@slb.com",
+    "primary_affiliation": "companies/slb"
+  }
+}

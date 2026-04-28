@@ -1,0 +1,14 @@
+{
+  "slug": "people/matthew-adams",
+  "type": "person",
+  "title": "Matthew Adams",
+  "compiled_truth": "Matthew Adams is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2001-10-01), Matthew Adams sent 2 and received 49 emails, totalling 51 interactions. Top correspondents: [Adarsh Vakharia](people/adarsh-vakharia) (2), [Alejandra Chavez](people/alejandra-chavez) (2), [Allan Ford](people/allan-ford) (2), [Andre Cangucu](people/andre-cangucu) (2), [Andrea Dahlke](people/andrea-dahlke) (2). Mailbox folders observed: 05_saved.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-10-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matthew-adams",
+    "name": "Matthew Adams",
+    "email": "matthew.adams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

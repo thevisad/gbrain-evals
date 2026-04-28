@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-lagerstrom",
+  "type": "person",
+  "title": "Karen Lagerstrom",
+  "compiled_truth": "Karen Lagerstrom is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-25 to 2002-02-14), Karen Lagerstrom sent 0 and received 253 emails, totalling 253 interactions.",
+  "timeline": "- **2000-02-25** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-lagerstrom",
+    "name": "Karen Lagerstrom",
+    "email": "karen.lagerstrom@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/marshall-uamps",
+  "type": "person",
+  "title": "Marshall",
+  "compiled_truth": "Marshall is an external contact at [Uamps](companies/uamps). Over the corpus period (2001-01-03 to 2002-01-11), Marshall sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Rrga-L](people/rrga-l-list) (1).",
+  "timeline": "- **2001-01-03** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marshall-uamps",
+    "name": "Marshall",
+    "email": "marshall@uamps.com",
+    "primary_affiliation": "companies/uamps"
+  }
+}

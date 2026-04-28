@@ -1,0 +1,14 @@
+{
+  "slug": "people/rene-bickerstaff",
+  "type": "person",
+  "title": "Rene Bickerstaff",
+  "compiled_truth": "Rene Bickerstaff is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-08 to 2002-02-12), Rene Bickerstaff sent 1 and received 21 emails, totalling 22 interactions. Top correspondents: [Earl Chanley](people/earl-chanley) (1), [Kimberly Watson](people/kimberly-watson) (1), [Ryan Woods](people/ryan-woods) (1), [Timothy Bayles](people/timothy-bayles) (1), [Jane Lyman](people/jane-lyman) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2002-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rene-bickerstaff",
+    "name": "Rene Bickerstaff",
+    "email": "rene.bickerstaff@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

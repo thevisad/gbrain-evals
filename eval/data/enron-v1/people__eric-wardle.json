@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-wardle",
+  "type": "person",
+  "title": "Eric Wardle",
+  "compiled_truth": "Eric Wardle is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-29 to 2001-03-27), Eric Wardle sent 5 and received 69 emails, totalling 74 interactions. Top correspondents: [Eric Moon](people/eric-moon) (3), [John Griffith](people/john-griffith) (3), [Dan Hyvl](people/dan-hyvl) (2), [Teresa Bushman](people/teresa-bushman) (1), [Joan Quick](people/joan-quick) (1).",
+  "timeline": "- **2000-02-29** | First recorded email in corpus\n- **2001-03-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-wardle",
+    "name": "Eric Wardle",
+    "email": "eric.wardle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/liz-martinez",
+  "type": "person",
+  "title": "Liz Martinez",
+  "compiled_truth": "Liz Martinez is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2001-10-17), Liz Martinez sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/liz-martinez",
+    "name": "Liz Martinez",
+    "email": "liz.martinez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

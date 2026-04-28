@@ -1,0 +1,14 @@
+{
+  "slug": "people/stacey-bolton",
+  "type": "person",
+  "title": "Stacey Bolton",
+  "compiled_truth": "Stacey Bolton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-15 to 2001-12-03), Stacey Bolton sent 108 and received 293 emails, totalling 401 interactions. Top correspondents: [Richard Ring](people/richard-ring) (95), [Elliot Mainzer](people/elliot-mainzer) (63), [Jesse Bryson](people/jesse-bryson) (25), [Michael Terraso](people/michael-terraso) (22), [Jeffrey Keeler](people/jeffrey-keeler) (20). Mailbox folders observed: deleted_items, eesirenewableenergy, enviromental, environmental_issues, ercot, inbox.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stacey-bolton",
+    "name": "Stacey Bolton",
+    "email": "stacey.bolton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

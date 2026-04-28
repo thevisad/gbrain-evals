@@ -1,0 +1,14 @@
+{
+  "slug": "people/rowenad-nepco",
+  "type": "person",
+  "title": "Rowenad",
+  "compiled_truth": "Rowenad is an external contact at [Nepco](companies/nepco). Over the corpus period (2000-11-02 to 2001-05-31), Rowenad sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-05-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rowenad-nepco",
+    "name": "Rowenad",
+    "email": "rowenad@nepco.com",
+    "primary_affiliation": "companies/nepco"
+  }
+}

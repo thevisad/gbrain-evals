@@ -1,0 +1,14 @@
+{
+  "slug": "people/lmckee-firmlogic",
+  "type": "person",
+  "title": "Lmckee",
+  "compiled_truth": "Lmckee is an external contact at [Firmlogic](companies/firmlogic). Over the corpus period (2000-09-05 to 2001-03-23), Lmckee sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus\n- **2001-03-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lmckee-firmlogic",
+    "name": "Lmckee",
+    "email": "lmckee@firmlogic.net",
+    "primary_affiliation": "companies/firmlogic"
+  }
+}

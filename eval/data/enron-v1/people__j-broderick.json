@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-broderick",
+  "type": "person",
+  "title": "J  Broderick",
+  "compiled_truth": "J  Broderick is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-24 to 2002-03-18), J  Broderick sent 1 and received 406 emails, totalling 407 interactions. Top correspondents: [Robert Benson](people/robert-benson) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-05-24** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-broderick",
+    "name": "J  Broderick",
+    "email": "j..broderick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

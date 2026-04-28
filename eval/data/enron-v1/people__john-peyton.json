@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-peyton",
+  "type": "person",
+  "title": "John Peyton",
+  "compiled_truth": "John Peyton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-04 to 2001-06-01), John Peyton sent 12 and received 49 emails, totalling 61 interactions. Top correspondents: [Keith Macivor](people/keith-macivor) (8), [Mark Taylor](people/mark-taylor) (8), [Jean Mrha](people/jean-mrha) (5), [Vince Kaminski](people/vince-kaminski) (4), [W Byargeon](people/w-byargeon) (3).",
+  "timeline": "- **2000-01-04** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-peyton",
+    "name": "John Peyton",
+    "email": "john.peyton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

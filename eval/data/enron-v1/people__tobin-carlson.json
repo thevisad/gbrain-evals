@@ -1,0 +1,14 @@
+{
+  "slug": "people/tobin-carlson",
+  "type": "person",
+  "title": "Tobin Carlson",
+  "compiled_truth": "Tobin Carlson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-19 to 2001-09-10), Tobin Carlson sent 14 and received 130 emails, totalling 144 interactions. Top correspondents: [Tana Jones](people/tana-jones) (10), [Mark Taylor](people/mark-taylor) (6), [Bjorn Hagelmann](people/bjorn-hagelmann) (3), [Minal Dalia](people/minal-dalia) (3), [Christian Lebroc](people/christian-lebroc) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-08-19** | First recorded email in corpus\n- **2001-09-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tobin-carlson",
+    "name": "Tobin Carlson",
+    "email": "tobin.carlson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

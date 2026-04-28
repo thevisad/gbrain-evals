@@ -1,0 +1,14 @@
+{
+  "slug": "people/nedgie-jones-i2",
+  "type": "person",
+  "title": "Nedgie Jones",
+  "compiled_truth": "Nedgie Jones is an external contact at [I2](companies/i2). Over the corpus period (2000-11-08 to 2000-12-05), Nedgie Jones sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-08** | First recorded email in corpus\n- **2000-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nedgie-jones-i2",
+    "name": "Nedgie Jones",
+    "email": "nedgie_jones@i2.com",
+    "primary_affiliation": "companies/i2"
+  }
+}

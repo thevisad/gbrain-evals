@@ -1,0 +1,25 @@
+{
+  "slug": "meetings/project-x-mtg-2001-05",
+  "type": "meeting",
+  "title": "Meeting: Project X Mtg",
+  "compiled_truth": "Meeting: \"Project X Mtg\". Occurred 2001-05-30 with 2 related emails. Participants included: [David Port](people/david-port), [Frank Hayden](people/frank-hayden), [Ganapathy Ramesh](people/ganapathy-ramesh), [Hayden](people/hayden), [J Kaminski](people/j-kaminski), [Naveen Andrews](people/naveen-andrews), [R  Brackett](people/r-brackett), [Stephen Stock](people/stephen-stock)....",
+  "timeline": "- **2001-05-30** | Meeting: project x mtg",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/project-x-mtg-2001-05",
+    "attendees": [
+      "people/david-port",
+      "people/frank-hayden",
+      "people/ganapathy-ramesh",
+      "people/hayden",
+      "people/j-kaminski",
+      "people/naveen-andrews",
+      "people/r-brackett",
+      "people/stephen-stock",
+      "people/tanya-tamarchenko",
+      "people/vladimir-gorny",
+      "people/winston-jia"
+    ],
+    "date": "2001-05-30"
+  }
+}

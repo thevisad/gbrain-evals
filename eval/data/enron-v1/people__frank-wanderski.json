@@ -1,0 +1,14 @@
+{
+  "slug": "people/frank-wanderski",
+  "type": "person",
+  "title": "Frank Wanderski",
+  "compiled_truth": "Frank Wanderski is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-18 to 2000-11-12), Frank Wanderski sent 2 and received 5 emails, totalling 7 interactions. Top correspondents: [Consumer Goods](people/consumer-goods) (1), [Deal Management](people/deal-management) (1), [Federal](people/federal) (1), [Financial](people/financial) (1), [Large Commodity](people/large-commodity) (1).",
+  "timeline": "- **2000-04-18** | First recorded email in corpus\n- **2000-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frank-wanderski",
+    "name": "Frank Wanderski",
+    "email": "frank.wanderski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/anbrupbach-orbitworld",
+  "type": "person",
+  "title": "Anbrupbach",
+  "compiled_truth": "Anbrupbach is an external contact at [Orbitworld](companies/orbitworld). Over the corpus period (2000-07-17 to 2000-07-17), Anbrupbach sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anbrupbach-orbitworld",
+    "name": "Anbrupbach",
+    "email": "anbrupbach@orbitworld.net",
+    "primary_affiliation": "companies/orbitworld"
+  }
+}

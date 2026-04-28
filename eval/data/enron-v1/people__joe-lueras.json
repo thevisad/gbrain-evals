@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-lueras",
+  "type": "person",
+  "title": "Joe Lueras",
+  "compiled_truth": "Joe Lueras is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-11 to 2002-03-18), Joe Lueras sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-07-11** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-lueras",
+    "name": "Joe Lueras",
+    "email": "joe.lueras@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ed-wood",
+  "type": "person",
+  "title": "Ed Wood",
+  "compiled_truth": "Ed Wood is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-24 to 2001-03-28), Ed Wood sent 1 and received 29 emails, totalling 30 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (1).",
+  "timeline": "- **2000-01-24** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ed-wood",
+    "name": "Ed Wood",
+    "email": "ed.wood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

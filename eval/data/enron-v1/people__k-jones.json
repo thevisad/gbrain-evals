@@ -1,0 +1,14 @@
+{
+  "slug": "people/k-jones",
+  "type": "person",
+  "title": "K  Jones",
+  "compiled_truth": "K  Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-17 to 2001-11-19), K  Jones sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-10-17** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/k-jones",
+    "name": "K  Jones",
+    "email": "k..jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephanie-olszewski",
+  "type": "person",
+  "title": "Stephanie Olszewski",
+  "compiled_truth": "Stephanie Olszewski is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2002-05-06), Stephanie Olszewski sent 4 and received 19 emails, totalling 23 interactions. Top correspondents: [ Havemann](people/havemann) (4), [Gary Hugo](people/gary-hugo) (4), [R  Kennedy](people/r-kennedy) (4), [Dianne Langeland](people/dianne-langeland) (4), [V Mcadoo](people/v-mcadoo) (4). Mailbox folders observed: deleted_items, e_mail_bin, inbox.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephanie-olszewski",
+    "name": "Stephanie Olszewski",
+    "email": "stephanie.olszewski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

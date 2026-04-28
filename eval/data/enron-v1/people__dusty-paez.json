@@ -1,0 +1,14 @@
+{
+  "slug": "people/dusty-paez",
+  "type": "person",
+  "title": "Dusty Paez",
+  "compiled_truth": "Dusty Paez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-09 to 2000-08-10), Dusty Paez sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **2000-03-09** | First recorded email in corpus\n- **2000-08-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dusty-paez",
+    "name": "Dusty Paez",
+    "email": "dusty.paez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

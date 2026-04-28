@@ -1,0 +1,14 @@
+{
+  "slug": "people/amie-ha",
+  "type": "person",
+  "title": "Amie Ha",
+  "compiled_truth": "Amie Ha is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-12 to 2001-12-05), Amie Ha sent 1 and received 112 emails, totalling 113 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (1).",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amie-ha",
+    "name": "Amie Ha",
+    "email": "amie.ha@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

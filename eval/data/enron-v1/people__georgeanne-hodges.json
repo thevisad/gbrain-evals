@@ -1,0 +1,14 @@
+{
+  "slug": "people/georgeanne-hodges",
+  "type": "person",
+  "title": "Georgeanne Hodges",
+  "compiled_truth": "Georgeanne Hodges is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2002-02-05), Georgeanne Hodges sent 14 and received 166 emails, totalling 180 interactions. Top correspondents: [W  White](people/w-white) (8), [C  Gossett](people/c-gossett) (7), [Leslie Reeves](people/leslie-reeves) (7), [Bryce Baxter](people/bryce-baxter) (6), [Evelyn Aucoin](people/evelyn-aucoin) (6). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/georgeanne-hodges",
+    "name": "Georgeanne Hodges",
+    "email": "georgeanne.hodges@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

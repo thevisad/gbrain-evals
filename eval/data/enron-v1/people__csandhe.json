@@ -1,0 +1,14 @@
+{
+  "slug": "people/csandhe",
+  "type": "person",
+  "title": "Csandhe",
+  "compiled_truth": "Csandhe is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-08 to 2001-03-28), Csandhe sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **1999-12-08** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/csandhe",
+    "name": "Csandhe",
+    "email": "csandhe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

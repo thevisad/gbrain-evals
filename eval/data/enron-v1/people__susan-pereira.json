@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-pereira",
+  "type": "person",
+  "title": "Susan Pereira",
+  "compiled_truth": "Susan Pereira is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-06-11), Susan Pereira sent 251 and received 230 emails, totalling 481 interactions. Top correspondents: [Stevens Hollister](people/stevens-hollister-eott) (40), [Hermannpk](people/hermannpk-aol) (30), [Leslie Robinson](people/leslie-robinson) (22), [Janisp](people/janisp-dialdata) (22), [Kkw816](people/kkw816-aol) (18). Mailbox folders observed: _sent_mail, sent.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-pereira",
+    "name": "Susan Pereira",
+    "email": "susan.pereira@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

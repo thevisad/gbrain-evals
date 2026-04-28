@@ -1,0 +1,14 @@
+{
+  "slug": "people/twomarshalls-hotmail",
+  "type": "person",
+  "title": "Twomarshalls",
+  "compiled_truth": "Twomarshalls is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-11-06 to 2001-05-16), Twomarshalls sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [Kjones0125](people/kjones0125-hotmail) (1), [Andrea P Williams](people/andrea-p-williams-us) (1), [Tbmueck](people/tbmueck-vnet) (1), [Don Baughman](people/don-baughman) (1), [Englishhammer](people/englishhammer-aol) (1).",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2001-05-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/twomarshalls-hotmail",
+    "name": "Twomarshalls",
+    "email": "twomarshalls@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

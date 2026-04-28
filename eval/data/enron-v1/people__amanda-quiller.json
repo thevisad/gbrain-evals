@@ -1,0 +1,14 @@
+{
+  "slug": "people/amanda-quiller",
+  "type": "person",
+  "title": "Amanda Quiller",
+  "compiled_truth": "Amanda Quiller is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2001-11-29), Amanda Quiller sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amanda-quiller",
+    "name": "Amanda Quiller",
+    "email": "amanda.quiller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

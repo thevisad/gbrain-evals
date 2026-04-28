@@ -1,0 +1,14 @@
+{
+  "slug": "people/tanya-murphy-neg",
+  "type": "person",
+  "title": "Tanya Murphy",
+  "compiled_truth": "Tanya Murphy is an external contact at [Neg](companies/neg). Over the corpus period (2001-01-11 to 2001-06-11), Tanya Murphy sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2001-01-11** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tanya-murphy-neg",
+    "name": "Tanya Murphy",
+    "email": "tanya.murphy@neg.pge.com",
+    "primary_affiliation": "companies/neg"
+  }
+}

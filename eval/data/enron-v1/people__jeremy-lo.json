@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeremy-lo",
+  "type": "person",
+  "title": "Jeremy Lo",
+  "compiled_truth": "Jeremy Lo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2001-11-27), Jeremy Lo sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeremy-lo",
+    "name": "Jeremy Lo",
+    "email": "jeremy.lo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

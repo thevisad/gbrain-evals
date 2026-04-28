@@ -1,0 +1,14 @@
+{
+  "slug": "people/mylinda-rosen",
+  "type": "person",
+  "title": "Mylinda Rosen",
+  "compiled_truth": "Mylinda Rosen is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-18 to 2002-02-15), Mylinda Rosen sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-08-18** | First recorded email in corpus\n- **2002-02-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mylinda-rosen",
+    "name": "Mylinda Rosen",
+    "email": "mylinda.rosen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

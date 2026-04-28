@@ -1,0 +1,14 @@
+{
+  "slug": "people/jerry-rust-nwpp",
+  "type": "person",
+  "title": "Jerry Rust",
+  "compiled_truth": "Jerry Rust is an external contact at [Nwpp](companies/nwpp). Over the corpus period (2001-03-21 to 2001-04-26), Jerry Rust sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-21** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jerry-rust-nwpp",
+    "name": "Jerry Rust",
+    "email": "jerry.rust@nwpp.org",
+    "primary_affiliation": "companies/nwpp"
+  }
+}

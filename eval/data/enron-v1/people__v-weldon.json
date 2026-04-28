@@ -1,0 +1,14 @@
+{
+  "slug": "people/v-weldon",
+  "type": "person",
+  "title": "V Weldon",
+  "compiled_truth": "V Weldon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-05 to 2001-05-18), V Weldon sent 542 and received 167 emails, totalling 709 interactions. Top correspondents: [Mark Schlueter](people/mark-schlueter) (116), [Mark Breese](people/mark-breese) (39), [Bobby Eberle](people/bobby-eberle-gopusa) (38), [Mjones](people/mjones-gc) (32), [Cweldon](people/cweldon-houston) (31). Mailbox folders observed: _sent_mail, ft__pierce, national_fuel, sent, sent_items.",
+  "timeline": "- **2000-07-05** | First recorded email in corpus\n- **2001-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/v-weldon",
+    "name": "V Weldon",
+    "email": "v.weldon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

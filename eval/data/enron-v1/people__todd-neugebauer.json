@@ -1,0 +1,14 @@
+{
+  "slug": "people/todd-neugebauer",
+  "type": "person",
+  "title": "Todd Neugebauer",
+  "compiled_truth": "Todd Neugebauer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-11-27), Todd Neugebauer sent 1 and received 15 emails, totalling 16 interactions. Top correspondents: [Barry Tycholiz](people/barry-tycholiz) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/todd-neugebauer",
+    "name": "Todd Neugebauer",
+    "email": "todd.neugebauer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

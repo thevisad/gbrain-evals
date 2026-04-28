@@ -1,0 +1,14 @@
+{
+  "slug": "people/ling-li",
+  "type": "person",
+  "title": "Ling Li",
+  "compiled_truth": "Ling Li is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2001-10-29), Ling Li sent 0 and received 63 emails, totalling 63 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ling-li",
+    "name": "Ling Li",
+    "email": "ling.li@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

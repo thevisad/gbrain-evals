@@ -1,0 +1,14 @@
+{
+  "slug": "people/kyle-ppcpdx",
+  "type": "person",
+  "title": "Kyle",
+  "compiled_truth": "Kyle is an external contact at [Ppcpdx](companies/ppcpdx). Over the corpus period (2000-06-23 to 2001-04-27), Kyle sent 0 and received 78 emails, totalling 78 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kyle-ppcpdx",
+    "name": "Kyle",
+    "email": "kyle@ppcpdx.org",
+    "primary_affiliation": "companies/ppcpdx"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/luly-stephens",
+  "type": "person",
+  "title": "Luly Stephens",
+  "compiled_truth": "Luly Stephens is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-09-24), Luly Stephens sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/luly-stephens",
+    "name": "Luly Stephens",
+    "email": "luly.stephens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

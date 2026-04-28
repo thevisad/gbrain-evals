@@ -1,0 +1,14 @@
+{
+  "slug": "people/rhonda-robinson",
+  "type": "person",
+  "title": "Rhonda Robinson",
+  "compiled_truth": "Rhonda Robinson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2002-02-01), Rhonda Robinson sent 0 and received 184 emails, totalling 184 interactions.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2002-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rhonda-robinson",
+    "name": "Rhonda Robinson",
+    "email": "rhonda.robinson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

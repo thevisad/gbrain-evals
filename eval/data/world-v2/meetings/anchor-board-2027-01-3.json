@@ -1,0 +1,33 @@
+{
+  "slug": "meetings/anchor-board-2027-01-3",
+  "type": "meeting",
+  "title": "Anchor Board Meeting Q4 2026 — Series A Close & International Expansion",
+  "compiled_truth": "Board meeting convened at Anchor's main office on January 15, 2027, covering the close of the Series A round and early-stage planning for international expansion. Full attendance: [Seren Voss](people/seren-voss) (CEO), [Ora Yamamoto](people/ora-yamamoto) (CTO), [Bex Andersen](people/bex-andersen) (board observer, lead investor rep), [Piper Bergmann](people/piper-bergmann) (independent board member), and [Dani Osei](people/dani-osei) (VP Operations).\n\nSeren opened by confirming that the Series A had formally closed on January 9 at $18.4M, slightly above the initial $17M target. The oversubscription was attributed to strong inbound from two new institutional LPs who came in after seeing [Anchor Codec](companies/anchor)'s Q3 pilot results. Bex walked through the final cap table changes and noted that the option pool had been refreshed to 12%, which she flagged as potentially tight if aggressive hiring plans proceed. Seren acknowledged and said a top-up would be revisited before any future round.\n\nOra gave a technical update. The single-pass primitives are now running in production across three paying customers, with deterministic throughput benchmarks exceeding internal targets by roughly 14%. There was a brief discussion about a regression in the authentication layer during the December deploy — Ora described it as a config-level issue, not architectural — and Piper pressed for more detail on the post-mortem process. Ora agreed to circulate the internal write-up to the board within the week.\n\nThe bulk of the meeting focused on international expansion. [Dani Osei](people/dani-osei) presented a phased plan targeting two European markets (initial entity setup in the Netherlands and a satellite presense in Berlin). Dani's analysis showed that GDPR-aligned data infrastructure is an underserved niche, and Anchor's deterministic model simplifies compliance posture significantly. Piper raised concerns about spreading the team too thin — headcount is currently 31 — and recommended hiring a dedicated international GM before committing to either market. Bex supported this, noting that prior portfolio companies that expanded without local leadership burned capital inefficiently.\n\nSeren closed the meeting with a note on culture: she wants to preserve Anchor's engineering-first ethos as the team scales past 40. She proposed a quarterly internal offsite starting Q1 2027, budget TBD. Board was supportive. Meeting adjourned at 4:47pm, running about 20 minutes over.",
+  "timeline": [
+    "- **2026-09-12** | Anchor Codec begins Series A process; [Bex Andersen](people/bex-andersen) leads diligence on behalf of lead fund.",
+    "- **2026-10-28** | Term sheet signed for Series A at $17M target.",
+    "- **2026-11-15** | Q3 pilot results shared with prospective investors, triggering additional inbound interest.",
+    "- **2026-12-09** | Authentication layer regression discovered during December deploy; resolved within 48 hours by [Ora Yamamoto](people/ora-yamamoto)'s team.",
+    "- **2027-01-09** | Series A formally closes at $18.4M.",
+    "- **2027-01-15** | Q4 2026 board meeting held; international expansion plan presented by [Dani Osei](people/dani-osei).",
+    "- **2027-02-20** | Ora circulates updated technical roadmap incorporating board feedback on post-mortem processes.",
+    "- **2027-03-10** | First quarterly internal offsite scheduled in accordance with [Seren Voss](people/seren-voss)'s proposal.",
+    "- **2027-05-01** | Planned opening of Netherlands entity; international GM search expected to begin by late Q1."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/anchor-board-2027-01-3",
+    "name": "Anchor Board Meeting Q4 2026",
+    "meeting_type": "board_meeting",
+    "date": "2027-01-15",
+    "attendees": [
+      "people/seren-voss",
+      "people/ora-yamamoto",
+      "people/bex-andersen",
+      "people/piper-bergmann",
+      "people/dani-osei"
+    ],
+    "topic_company": "companies/anchor",
+    "topic": "Series A close + international expansion"
+  }
+}

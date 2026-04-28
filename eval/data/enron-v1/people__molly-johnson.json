@@ -1,0 +1,14 @@
+{
+  "slug": "people/molly-johnson",
+  "type": "person",
+  "title": "Molly Johnson",
+  "compiled_truth": "Molly Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2000-07-24), Molly Johnson sent 2 and received 264 emails, totalling 266 interactions. Top correspondents: [Chris Germany](people/chris-germany) (2), [Scott Goodell](people/scott-goodell) (1), [Colleen Sullivan](people/colleen-sullivan) (1), [Joe Casas](people/joe-casas) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2000-07-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/molly-johnson",
+    "name": "Molly Johnson",
+    "email": "molly.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

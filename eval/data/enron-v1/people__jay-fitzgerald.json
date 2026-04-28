@@ -1,0 +1,14 @@
+{
+  "slug": "people/jay-fitzgerald",
+  "type": "person",
+  "title": "Jay Fitzgerald",
+  "compiled_truth": "Jay Fitzgerald is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-02 to 2001-10-26), Jay Fitzgerald sent 8 and received 309 emails, totalling 317 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (4), [Mike McConnell](people/mike-mcconnell) (1), [Doug Leach](people/doug-leach) (1), [Greg Whalley](people/greg-whalley) (1), [Bruce Garner](people/bruce-garner) (1). Mailbox folders observed: inbox, kiodex.",
+  "timeline": "- **1999-07-02** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jay-fitzgerald",
+    "name": "Jay Fitzgerald",
+    "email": "jay.fitzgerald@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

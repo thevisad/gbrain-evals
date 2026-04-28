@@ -1,0 +1,14 @@
+{
+  "slug": "people/alvin-thompson",
+  "type": "person",
+  "title": "Alvin Thompson",
+  "compiled_truth": "Alvin Thompson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-12), Alvin Thompson sent 1 and received 285 emails, totalling 286 interactions. Top correspondents: [Steve Gillespie](people/steve-gillespie) (1), [John Hodge](people/john-hodge) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alvin-thompson",
+    "name": "Alvin Thompson",
+    "email": "alvin.thompson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

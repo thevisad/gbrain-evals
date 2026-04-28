@@ -1,0 +1,14 @@
+{
+  "slug": "people/hardie-davis",
+  "type": "person",
+  "title": "Hardie Davis",
+  "compiled_truth": "Hardie Davis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-14 to 2002-01-29), Hardie Davis sent 6 and received 116 emails, totalling 122 interactions. Top correspondents: [James Derrick](people/james-derrick) (4), [Paula Rieker](people/paula-rieker) (3), [Kenneth Lay](people/kenneth-lay) (2), [C  Williams](people/c-williams) (1), [Sheila Walton](people/sheila-walton) (1). Mailbox folders observed: deleted_items, inbox, non_us_offices.",
+  "timeline": "- **1999-07-14** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hardie-davis",
+    "name": "Hardie Davis",
+    "email": "hardie.davis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

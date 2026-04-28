@@ -1,0 +1,14 @@
+{
+  "slug": "people/inja-chun",
+  "type": "person",
+  "title": "Inja Chun",
+  "compiled_truth": "Inja Chun is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-11-27), Inja Chun sent 14 and received 59 emails, totalling 73 interactions. Top correspondents: [Sally Beck](people/sally-beck) (14), [Mark Pickering](people/mark-pickering) (7), [Beth Perlman](people/beth-perlman) (6), [Philippe Bibi](people/philippe-bibi) (4), [Stephen Schwarz](people/stephen-schwarz) (4). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/inja-chun",
+    "name": "Inja Chun",
+    "email": "inja.chun@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

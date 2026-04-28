@@ -1,0 +1,25 @@
+{
+  "slug": "companies/abag",
+  "type": "company",
+  "title": "Abag",
+  "compiled_truth": "Abag is an external organization that appears in the Enron email corpus. Domain: abag.com. Total email interactions with Enron: 340. Known contacts: 8 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (340 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/abag",
+    "name": "Abag",
+    "employees": [
+      "people/christinec-abag",
+      "people/davef-abag",
+      "people/garb-abag",
+      "people/garyb-abag",
+      "people/info-abag",
+      "people/jerryl-abag",
+      "people/kennethm-abag",
+      "people/schmide-abag"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

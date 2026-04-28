@@ -1,0 +1,14 @@
+{
+  "slug": "people/reginald",
+  "type": "person",
+  "title": " Reginald",
+  "compiled_truth": "Reginald is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2002-01-14),  Reginald sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reginald",
+    "name": " Reginald",
+    "email": ".reginald@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

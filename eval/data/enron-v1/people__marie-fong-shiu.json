@@ -1,0 +1,14 @@
+{
+  "slug": "people/marie-fong-shiu",
+  "type": "person",
+  "title": "Marie Fong-Shiu",
+  "compiled_truth": "Marie Fong-Shiu is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-24 to 2002-01-24), Marie Fong-Shiu sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-24** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marie-fong-shiu",
+    "name": "Marie Fong-Shiu",
+    "email": "marie.fong-shiu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

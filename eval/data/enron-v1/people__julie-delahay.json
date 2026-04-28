@@ -1,0 +1,14 @@
+{
+  "slug": "people/julie-delahay",
+  "type": "person",
+  "title": "Julie Delahay",
+  "compiled_truth": "Julie Delahay is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-26 to 2001-11-27), Julie Delahay sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julie-delahay",
+    "name": "Julie Delahay",
+    "email": "julie.delahay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

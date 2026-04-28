@@ -1,0 +1,14 @@
+{
+  "slug": "people/bdreese-duke-energy",
+  "type": "person",
+  "title": "Bdreese",
+  "compiled_truth": "Bdreese is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2001-10-25 to 2001-11-27), Bdreese sent 2 and received 2 emails, totalling 4 interactions. Top correspondents: [Carlton Cavan](people/carlton-cavan) (2), [Danny Mccarty](people/danny-mccarty) (2), [Friesen Donna](people/friesen-donna) (2), [Drew Fossum](people/drew-fossum) (2), [Eric Gadd](people/eric-gadd) (2).",
+  "timeline": "- **2001-10-25** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bdreese-duke-energy",
+    "name": "Bdreese",
+    "email": "bdreese@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

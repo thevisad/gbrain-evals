@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-spraberry",
+  "type": "person",
+  "title": "Team Spraberry",
+  "compiled_truth": "Team Spraberry is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-28 to 2002-03-25), Team Spraberry sent 1 and received 27 emails, totalling 28 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (1), [Scott Clark](people/scott-clark) (1), [R  Lawrence](people/r-lawrence) (1), [Adel Robinson](people/adel-robinson) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-09-28** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-spraberry",
+    "name": "Team Spraberry",
+    "email": "team.spraberry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

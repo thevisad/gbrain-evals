@@ -1,0 +1,14 @@
+{
+  "slug": "people/kendra-terhune",
+  "type": "person",
+  "title": "Kendra Terhune",
+  "compiled_truth": "Kendra Terhune is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-07 to 2001-11-08), Kendra Terhune sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2001-05-07** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kendra-terhune",
+    "name": "Kendra Terhune",
+    "email": "kendra.terhune@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

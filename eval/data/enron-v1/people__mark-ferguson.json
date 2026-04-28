@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-ferguson",
+  "type": "person",
+  "title": "Mark Ferguson",
+  "compiled_truth": "Mark Ferguson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-26 to 2002-03-07), Mark Ferguson sent 11 and received 32 emails, totalling 43 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (11), [Martha Janousek](people/martha-janousek) (6), [Robert Mason](people/robert-mason) (2), [Karon O'Gorman](people/karon-o-gorman) (2), [John Fiscus](people/john-fiscus) (2). Mailbox folders observed: e_mail_bin, inbox, rm_work_order.",
+  "timeline": "- **2000-07-26** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-ferguson",
+    "name": "Mark Ferguson",
+    "email": "mark.ferguson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

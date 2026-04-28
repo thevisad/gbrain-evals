@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-thomas",
+  "type": "person",
+  "title": "Paul Thomas",
+  "compiled_truth": "Paul Thomas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2002-02-05), Paul Thomas sent 17 and received 132 emails, totalling 149 interactions. Top correspondents: [D  Thomas](people/d-thomas) (7), [Joe Stepenovitch](people/joe-stepenovitch) (2), [Peter Makkai](people/peter-makkai) (2), [Benjamin Rogers](people/benjamin-rogers) (2), [Larry Campbell](people/larry-campbell) (2). Mailbox folders observed: deleted_items, inbox, sent_items.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-thomas",
+    "name": "Paul Thomas",
+    "email": "paul.thomas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jgh-world",
+  "type": "person",
+  "title": "Jgh",
+  "compiled_truth": "Jgh is an external contact at [World](companies/world). Over the corpus period (2001-10-18 to 2001-10-18), Jgh sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jgh-world",
+    "name": "Jgh",
+    "email": "jgh@world.std.com",
+    "primary_affiliation": "companies/world"
+  }
+}

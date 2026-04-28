@@ -1,0 +1,14 @@
+{
+  "slug": "people/samira-ravagnani",
+  "type": "person",
+  "title": "Samira Ravagnani",
+  "compiled_truth": "Samira Ravagnani is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-21 to 2000-12-11), Samira Ravagnani sent 3 and received 2 emails, totalling 5 interactions. Top correspondents: [Joe Kishkill](people/joe-kishkill) (2), [Remi Collonges](people/remi-collonges) (2), [Ricardo Lisboa](people/ricardo-lisboa) (2), [David Rosenberg](people/david-rosenberg) (2), [Steve Nagy](people/steve-nagy) (2).",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/samira-ravagnani",
+    "name": "Samira Ravagnani",
+    "email": "samira.ravagnani@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/patrick-lewis",
+  "type": "person",
+  "title": "Patrick Lewis",
+  "compiled_truth": "Patrick Lewis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-11-29), Patrick Lewis sent 1 and received 15 emails, totalling 16 interactions. Top correspondents: [Greg Whalley](people/greg-whalley) (1), [Gary Hickerson](people/gary-hickerson) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patrick-lewis",
+    "name": "Patrick Lewis",
+    "email": "patrick.lewis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sandra-quon",
+  "type": "person",
+  "title": "Sandra Quon",
+  "compiled_truth": "Sandra Quon is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-11 to 2002-02-06), Sandra Quon sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2002-01-11** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sandra-quon",
+    "name": "Sandra Quon",
+    "email": "sandra.quon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

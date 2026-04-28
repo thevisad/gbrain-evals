@@ -1,0 +1,14 @@
+{
+  "slug": "people/monica-lande",
+  "type": "person",
+  "title": "Monica Lande",
+  "compiled_truth": "Monica Lande is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-05 to 2001-12-03), Monica Lande sent 10 and received 272 emails, totalling 282 interactions. Top correspondents: [Kate Symes](people/kate-symes) (7), [Stewart Rosman](people/stewart-rosman) (3), [Diana Scholtes](people/diana-scholtes) (2), [Fran Chang](people/fran-chang) (2), [Jeff Richter](people/jeff-richter) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-07-05** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/monica-lande",
+    "name": "Monica Lande",
+    "email": "monica.lande@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

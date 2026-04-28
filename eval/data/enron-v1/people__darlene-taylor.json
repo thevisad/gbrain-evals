@@ -1,0 +1,14 @@
+{
+  "slug": "people/darlene-taylor",
+  "type": "person",
+  "title": "Darlene Taylor",
+  "compiled_truth": "Darlene Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-11-21), Darlene Taylor sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darlene-taylor",
+    "name": "Darlene Taylor",
+    "email": "darlene.taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

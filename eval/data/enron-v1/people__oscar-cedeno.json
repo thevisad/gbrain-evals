@@ -1,0 +1,14 @@
+{
+  "slug": "people/oscar-cedeno",
+  "type": "person",
+  "title": "Oscar Cedeno",
+  "compiled_truth": "Oscar Cedeno is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-28 to 2001-11-02), Oscar Cedeno sent 1 and received 42 emails, totalling 43 interactions. Top correspondents: [Paul Y'Barbo](people/paul-y-barbo) (1), [Dan Masters](people/dan-masters) (1), [Victor Vega](people/victor-vega) (1), [Ramon Pizarro](people/ramon-pizarro) (1), [Angie Hueca](people/angie-hueca) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-03-28** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/oscar-cedeno",
+    "name": "Oscar Cedeno",
+    "email": "oscar.cedeno@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

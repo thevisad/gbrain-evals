@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-lawrence",
+  "type": "person",
+  "title": "James Lawrence",
+  "compiled_truth": "James Lawrence is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-07 to 2002-01-24), James Lawrence sent 1 and received 35 emails, totalling 36 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (1), [Team Andrews](people/team-andrews) (1), [Maresch](people/maresch-eott) (1), [Scott Clark](people/scott-clark) (1), [William Kendrick](people/william-kendrick) (1).",
+  "timeline": "- **2000-03-07** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-lawrence",
+    "name": "James Lawrence",
+    "email": "james.lawrence@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/enron-update-concureworkplace",
+  "type": "person",
+  "title": "Enron Update",
+  "compiled_truth": "Enron Update is an external contact at [Concureworkplace](companies/concureworkplace). Over the corpus period (2001-06-30 to 2002-03-20), Enron Update sent 515 and received 12 emails, totalling 527 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (42), [Jshankm](people/jshankm) (34), [Mark Whitt](people/mark-whitt) (25), [Skean](people/skean) (23), [Jsteffe](people/jsteffe) (22).",
+  "timeline": "- **2001-06-30** | First recorded email in corpus\n- **2002-03-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/enron-update-concureworkplace",
+    "name": "Enron Update",
+    "email": "enron_update@concureworkplace.com",
+    "primary_affiliation": "companies/concureworkplace"
+  }
+}

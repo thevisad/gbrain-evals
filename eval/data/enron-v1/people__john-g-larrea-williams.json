@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-g-larrea-williams",
+  "type": "person",
+  "title": "John G Larrea",
+  "compiled_truth": "John G Larrea is an external contact at [Williams Companies](companies/williams). Over the corpus period (2000-11-27 to 2001-12-21), John G Larrea sent 0 and received 169 emails, totalling 169 interactions.",
+  "timeline": "- **2000-11-27** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-g-larrea-williams",
+    "name": "John G Larrea",
+    "email": "john.g.larrea@williams.com",
+    "primary_affiliation": "companies/williams"
+  }
+}

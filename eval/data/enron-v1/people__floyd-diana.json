@@ -1,0 +1,14 @@
+{
+  "slug": "people/floyd-diana",
+  "type": "person",
+  "title": "Floyd Diana",
+  "compiled_truth": "Floyd Diana is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Floyd Diana sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/floyd-diana",
+    "name": "Floyd Diana",
+    "email": "floyd.diana@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

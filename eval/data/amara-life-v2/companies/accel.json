@@ -1,0 +1,18 @@
+{
+  "slug": "companies/accel",
+  "type": "company",
+  "title": "Accel",
+  "compiled_truth": "Accel is a venture capital firm. Employees: felix-adler.",
+  "timeline": "- **2025-04-14** | company indexed",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/accel",
+    "name": "Accel",
+    "founders": [],
+    "employees": [
+      "people/felix-adler"
+    ],
+    "investors": [],
+    "advisors": []
+  }
+}

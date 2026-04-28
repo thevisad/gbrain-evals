@@ -1,0 +1,14 @@
+{
+  "slug": "people/jaime-sanabria",
+  "type": "person",
+  "title": "Jaime Sanabria",
+  "compiled_truth": "Jaime Sanabria is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-07 to 2001-11-21), Jaime Sanabria sent 5 and received 50 emails, totalling 55 interactions. Top correspondents: [Paul Y'Barbo](people/paul-y-barbo) (5), [Dan Masters](people/dan-masters) (3), [Rick Sierra](people/rick-sierra) (2), [Ernesto Cordova](people/ernesto-cordova) (1), [Mariella Mahan](people/mariella-mahan) (1). Mailbox folders observed: ecoelectrica, inbox.",
+  "timeline": "- **2001-02-07** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jaime-sanabria",
+    "name": "Jaime Sanabria",
+    "email": "jaime.sanabria@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-simmons",
+  "type": "person",
+  "title": "Linda Simmons",
+  "compiled_truth": "Linda Simmons is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-28), Linda Simmons sent 6 and received 209 emails, totalling 215 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (3), [Teresa Bushman](people/teresa-bushman) (2), [Bob Carter](people/bob-carter) (2), [Barton Clark](people/barton-clark) (2), [Mary Cook](people/mary-cook) (2).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-simmons",
+    "name": "Linda Simmons",
+    "email": "linda.simmons@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/zwartpa-bp",
+  "type": "person",
+  "title": "Zwartpa",
+  "compiled_truth": "Zwartpa is an external contact at [Bp](companies/bp). Over the corpus period (2000-11-13 to 2001-06-06), Zwartpa sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zwartpa-bp",
+    "name": "Zwartpa",
+    "email": "zwartpa@bp.com",
+    "primary_affiliation": "companies/bp"
+  }
+}

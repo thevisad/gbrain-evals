@@ -1,0 +1,14 @@
+{
+  "slug": "people/russell-diamond",
+  "type": "person",
+  "title": "Russell Diamond",
+  "compiled_truth": "Russell Diamond is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-26 to 2002-03-01), Russell Diamond sent 161 and received 1462 emails, totalling 1623 interactions. Top correspondents: [Tana Jones](people/tana-jones) (59), [Dan Hyvl](people/dan-hyvl) (36), [Sara Shackleton](people/sara-shackleton) (32), [William Bradford](people/william-bradford) (32), [Gerald Nemec](people/gerald-nemec) (29). Mailbox folders observed: credit_watch, deleted_items, fin_desk, inbox, to_do.",
+  "timeline": "- **1999-05-26** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/russell-diamond",
+    "name": "Russell Diamond",
+    "email": "russell.diamond@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

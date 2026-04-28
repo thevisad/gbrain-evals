@@ -1,0 +1,14 @@
+{
+  "slug": "people/ginger-dernehl",
+  "type": "person",
+  "title": "Ginger Dernehl",
+  "compiled_truth": "Ginger Dernehl is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-11), Ginger Dernehl sent 318 and received 1147 emails, totalling 1465 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (238), [Richard Shapiro](people/richard-shapiro) (235), [Joseph Alamo](people/joseph-alamo) (206), [Paul Kaufman](people/paul-kaufman) (203), [Lora Sullivan](people/lora-sullivan) (190). Mailbox folders observed: aadepartment, administrative, california, canada, compliments, deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ginger-dernehl",
+    "name": "Ginger Dernehl",
+    "email": "ginger.dernehl@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

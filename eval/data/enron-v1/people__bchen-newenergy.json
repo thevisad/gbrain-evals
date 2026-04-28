@@ -1,0 +1,14 @@
+{
+  "slug": "people/bchen-newenergy",
+  "type": "person",
+  "title": "Bchen",
+  "compiled_truth": "Bchen is an external contact at [Newenergy](companies/newenergy). Over the corpus period (2000-11-06 to 2001-04-06), Bchen sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2001-04-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bchen-newenergy",
+    "name": "Bchen",
+    "email": "bchen@newenergy.com",
+    "primary_affiliation": "companies/newenergy"
+  }
+}

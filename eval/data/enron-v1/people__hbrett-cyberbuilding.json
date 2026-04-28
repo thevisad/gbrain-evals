@@ -1,0 +1,14 @@
+{
+  "slug": "people/hbrett-cyberbuilding",
+  "type": "person",
+  "title": "Hbrett",
+  "compiled_truth": "Hbrett is an external contact at [Cyberbuilding](companies/cyberbuilding). Over the corpus period (2000-02-16 to 2000-09-18), Hbrett sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-02-16** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hbrett-cyberbuilding",
+    "name": "Hbrett",
+    "email": "hbrett@cyberbuilding.com",
+    "primary_affiliation": "companies/cyberbuilding"
+  }
+}

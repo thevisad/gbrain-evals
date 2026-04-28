@@ -1,0 +1,14 @@
+{
+  "slug": "people/issuealerthtml-listserv",
+  "type": "person",
+  "title": "Issuealerthtml",
+  "compiled_truth": "Issuealerthtml is an external contact at [Listserv](companies/listserv). Over the corpus period (2001-09-20 to 2001-12-28), Issuealerthtml sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **2001-09-20** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/issuealerthtml-listserv",
+    "name": "Issuealerthtml",
+    "email": "issuealerthtml@listserv.scientech.com",
+    "primary_affiliation": "companies/listserv"
+  }
+}

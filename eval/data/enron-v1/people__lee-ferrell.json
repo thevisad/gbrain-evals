@@ -1,0 +1,14 @@
+{
+  "slug": "people/lee-ferrell",
+  "type": "person",
+  "title": "Lee Ferrell",
+  "compiled_truth": "Lee Ferrell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-21 to 2001-10-30), Lee Ferrell sent 6 and received 217 emails, totalling 223 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (3), [Vince Kaminski](people/vince-kaminski) (2), [Martha Janousek](people/martha-janousek) (2), [Jim Wiltfong](people/jim-wiltfong) (2), [Sean Bolks](people/sean-bolks) (2). Mailbox folders observed: inbox, resumes, rm_science_review.",
+  "timeline": "- **2000-07-21** | First recorded email in corpus\n- **2001-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lee-ferrell",
+    "name": "Lee Ferrell",
+    "email": "lee.ferrell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/raymond-bowen",
+  "type": "person",
+  "title": "Raymond Bowen",
+  "compiled_truth": "Raymond Bowen is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-05), Raymond Bowen sent 17 and received 859 emails, totalling 876 interactions. Top correspondents: [Jeffrey Mcmahon](people/jeffrey-mcmahon) (11), [Louise Kitchen](people/louise-kitchen) (6), [Rick Buy](people/rick-buy) (5), [Greg Whalley](people/greg-whalley) (5), [John Lavorato](people/john-lavorato) (5). Mailbox folders observed: _americas, deleted_items, inbox, pr_crisis_management.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/raymond-bowen",
+    "name": "Raymond Bowen",
+    "email": "raymond.bowen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/pamw-canion",
+  "type": "person",
+  "title": "Pamw",
+  "compiled_truth": "Pamw is an external contact at [Canion](companies/canion). Over the corpus period (2000-10-31 to 2000-10-31), Pamw sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-31** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pamw-canion",
+    "name": "Pamw",
+    "email": "pamw@canion.com",
+    "primary_affiliation": "companies/canion"
+  }
+}

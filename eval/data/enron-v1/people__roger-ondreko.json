@@ -1,0 +1,14 @@
+{
+  "slug": "people/roger-ondreko",
+  "type": "person",
+  "title": "Roger Ondreko",
+  "compiled_truth": "Roger Ondreko is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-02 to 2001-03-30), Roger Ondreko sent 1 and received 93 emails, totalling 94 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1).",
+  "timeline": "- **1999-06-02** | First recorded email in corpus\n- **2001-03-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roger-ondreko",
+    "name": "Roger Ondreko",
+    "email": "roger.ondreko@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

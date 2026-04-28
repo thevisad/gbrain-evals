@@ -1,0 +1,14 @@
+{
+  "slug": "people/maziarz-bellsouth",
+  "type": "person",
+  "title": "Maziarz",
+  "compiled_truth": "Maziarz is an external contact at [Bellsouth](companies/bellsouth). Over the corpus period (2000-06-01 to 2001-10-05), Maziarz sent 0 and received 70 emails, totalling 70 interactions.",
+  "timeline": "- **2000-06-01** | First recorded email in corpus\n- **2001-10-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maziarz-bellsouth",
+    "name": "Maziarz",
+    "email": "maziarz@bellsouth.net",
+    "primary_affiliation": "companies/bellsouth"
+  }
+}

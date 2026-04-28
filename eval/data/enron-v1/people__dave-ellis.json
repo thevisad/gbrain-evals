@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-ellis",
+  "type": "person",
+  "title": "Dave Ellis",
+  "compiled_truth": "Dave Ellis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-10 to 2002-01-15), Dave Ellis sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-05-10** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-ellis",
+    "name": "Dave Ellis",
+    "email": "dave.ellis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

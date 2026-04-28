@@ -1,0 +1,14 @@
+{
+  "slug": "people/juelg-pat",
+  "type": "person",
+  "title": "Juelg Pat",
+  "compiled_truth": "Juelg Pat is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-26 to 2001-11-26), Juelg Pat sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/juelg-pat",
+    "name": "Juelg Pat",
+    "email": "juelg.pat@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

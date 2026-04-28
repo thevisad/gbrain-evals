@@ -1,0 +1,14 @@
+{
+  "slug": "people/kckrisa-worldnet",
+  "type": "person",
+  "title": "Kckrisa",
+  "compiled_truth": "Kckrisa is an external contact at [Worldnet](companies/worldnet). Over the corpus period (2000-07-25 to 2001-02-08), Kckrisa sent 6 and received 12 emails, totalling 18 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (6), [Mark Castiglione](people/mark-castiglione) (2), [Scott Josey](people/scott-josey) (2), [Joan Quick](people/joan-quick) (1), [Mwhitt](people/mwhitt) (1).",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2001-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kckrisa-worldnet",
+    "name": "Kckrisa",
+    "email": "kckrisa@worldnet.att.net",
+    "primary_affiliation": "companies/worldnet"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bo-barnwell",
+  "type": "person",
+  "title": "Bo Barnwell",
+  "compiled_truth": "Bo Barnwell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-10-26), Bo Barnwell sent 2 and received 19 emails, totalling 21 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (2), [Mark Knippa](people/mark-knippa) (2).",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bo-barnwell",
+    "name": "Bo Barnwell",
+    "email": "bo.barnwell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

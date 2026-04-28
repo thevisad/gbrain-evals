@@ -1,0 +1,30 @@
+{
+  "slug": "meetings/oneonone-7-2027-04-11",
+  "type": "meeting",
+  "title": "1:1 Seren Voss + Alex Petrov — April 11, 2027",
+  "compiled_truth": "Recurring weekly 1:1 between [Seren Voss](people/seren-voss) and [Alex Petrov](people/alex-petrov), held Friday morning over video. Seren kicked things off by asking Alex about the state of the deterministic pipeline benchmarks he'd been running since late March. Alex reported that the single-pass primitives were holding up under the expanded test harness — throughput numbers were consistent across five consecutive runs, which was a relief after the variance issues flagged two weeks ago. He noted one lingering concern around memory allocation patterns on ARM-based targets, said he'd loop in the systems team next week to investigate.\n\nConversation shifted to team dynamics. Alex mentioned that onboarding the two new engineers (both started in March) has been smoother than expected, but he's worried about the documentation gap — a lot of institutional knowledge about [Anchor Codec](companies/anchor)'s core architecture still lives in Slack threads and people's heads. Seren agreed this was a priority and suggested carving out dedicated time during the next sprint cycle for a documentation blitz. She floated the idea of pairing each new hire with a senior engineer specifically for doc writing, not just code review.\n\nThey also discussed the upcoming design review for the authentication layer refactor. Alex has concerns that the current proposal introduces unnecessary coupling between the compression and auth subsystems. Seren pushed back lightly, saying the coupling was intentional to preserve determinism guarantees, but acknowledged the tradeoff deserved more scrutiny. They agreed to schedule a broader architecture session with the full infrastructure team before any final decisions.\n\nBriefly touched on Alex's career trajectory. He expressed interest in taking on more technical leaderhsip responsibilities — possibly owning a workstream end-to-end for the next quarter. Seren was supportive, said she'd think about which upcoming projects might be a good fit. She mentioned the planned integration work with a prospective enterprise partner as one possibility, though timing is still uncertain.\n\nMeeting wrapped with a quick check on Alex's workload. He said it was manageable but flagged that context-switching between benchmark work and code review was eating into deep focus time. Seren suggested blocking off Wednesday and Thursday mornings as no-meeting windows — something she's been experimenting with herself.",
+  "timeline": [
+    "- **2026-09-15** | [Alex Petrov](people/alex-petrov) joins [Anchor Codec](companies/anchor) as a senior infrastructure engineer.",
+    "- **2026-12-02** | First formal 1:1 cadence established between Seren and Alex after team reorg.",
+    "- **2027-01-20** | Alex begins leading the deterministic pipeline benchmark effort.",
+    "- **2027-03-07** | Two new engineers onboarded to Alex's sub-team; documentation concerns first raised.",
+    "- **2027-03-28** | Variance issues in benchmark runs flagged during weekly sync; Alex assigned to investigate.",
+    "- **2027-04-04** | Previous 1:1 — Seren and Alex discuss ARM target challenges and upcoming auth refactor.",
+    "- **2027-04-11** | This meeting. Benchmark stability confirmed; documentation blitz proposed; architecture review scheduled.",
+    "- **2027-04-18** | Planned broader architecture session with full infrastructure team on auth layer coupling.",
+    "- **2027-05-02** | Target date for Alex to begin owning an end-to-end workstream per Seren's recommendation.",
+    "- **2027-06-15** | Projected start of enterprise integration work that may become Alex's ownership opportunity."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/oneonone-7-2027-04-11",
+    "name": "1:1 Seren Voss + Alex Petrov",
+    "meeting_type": "one_on_one",
+    "date": "2027-04-11",
+    "attendees": [
+      "people/seren-voss",
+      "people/alex-petrov"
+    ],
+    "topic_company": "companies/anchor"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/christian-lebroc",
+  "type": "person",
+  "title": "Christian Lebroc",
+  "compiled_truth": "Christian Lebroc is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-14 to 2001-11-27), Christian Lebroc sent 1 and received 66 emails, totalling 67 interactions. Top correspondents: [Jeffrey Shankman](people/jeffrey-shankman) (1), [Brent Price](people/brent-price) (1), [Sally Beck](people/sally-beck) (1), [John Nowlan](people/john-nowlan) (1), [Scott Earnest](people/scott-earnest) (1).",
+  "timeline": "- **2000-02-14** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christian-lebroc",
+    "name": "Christian Lebroc",
+    "email": "christian.lebroc@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

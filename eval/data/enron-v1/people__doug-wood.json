@@ -1,0 +1,14 @@
+{
+  "slug": "people/doug-wood",
+  "type": "person",
+  "title": "Doug Wood",
+  "compiled_truth": "Doug Wood is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-11-30), Doug Wood sent 10 and received 100 emails, totalling 110 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (10), [Paul Dawson](people/paul-dawson) (7), [Paul Hennemeyer](people/paul-hennemeyer) (5), [Peter Styles](people/peter-styles) (4), [Amr Ibrahim](people/amr-ibrahim) (1). Mailbox folders observed: 2002_budget.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/doug-wood",
+    "name": "Doug Wood",
+    "email": "doug.wood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

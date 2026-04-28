@@ -1,0 +1,14 @@
+{
+  "slug": "people/amy-rios",
+  "type": "person",
+  "title": "Amy Rios",
+  "compiled_truth": "Amy Rios is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-20), Amy Rios sent 4 and received 38 emails, totalling 42 interactions. Top correspondents: [Eric Moon](people/eric-moon) (2), [Eric Groves](people/eric-groves) (2), [Nora Dobin](people/nora-dobin) (2), [John Griffith](people/john-griffith) (2), [Tim Proffitt](people/tim-proffitt) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amy-rios",
+    "name": "Amy Rios",
+    "email": "amy.rios@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

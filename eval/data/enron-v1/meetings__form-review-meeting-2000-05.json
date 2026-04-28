@@ -1,0 +1,26 @@
+{
+  "slug": "meetings/form-review-meeting-2000-05",
+  "type": "meeting",
+  "title": "Meeting: Form Review Meeting",
+  "compiled_truth": "Meeting: \"Form Review Meeting\". Occurred 2000-05-16 through 2000-05-16 with 3 related emails. Participants included: [Becky Tlucek](people/becky-tlucek), [Carol Clair](people/carol-clair), [Erica Braden](people/erica-braden), [Jason Peters](people/jason-peters), [Kaye Ellis](people/kaye-ellis), [Mark Taylor](people/mark-taylor), [Sara Shackleton](people/sara-shackleton), [Susan Bailey](people/susan-bailey)....",
+  "timeline": "- **2000-05-16** | Meeting: form review meeting\n- **2000-05-16** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/form-review-meeting-2000-05",
+    "attendees": [
+      "people/becky-tlucek",
+      "people/carol-clair",
+      "people/erica-braden",
+      "people/jason-peters",
+      "people/kaye-ellis",
+      "people/mark-taylor",
+      "people/sara-shackleton",
+      "people/susan-bailey",
+      "people/susan-flynn",
+      "people/suzanne-adams",
+      "people/taffy-milligan",
+      "people/tana-jones"
+    ],
+    "date": "2000-05-16"
+  }
+}

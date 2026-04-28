@@ -1,0 +1,14 @@
+{
+  "slug": "people/carl-tricoli",
+  "type": "person",
+  "title": "Carl Tricoli",
+  "compiled_truth": "Carl Tricoli is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-16 to 2002-06-21), Carl Tricoli sent 12 and received 264 emails, totalling 276 interactions. Top correspondents: [C  Gossett](people/c-gossett) (7), [W  White](people/w-white) (7), [Wayne Vinson](people/wayne-vinson) (7), [Michelle Bruce](people/michelle-bruce) (7), [Elizabeth Sager](people/elizabeth-sager) (7). Mailbox folders observed: _americas, calendar, deleted_items, inbox, sent_items.",
+  "timeline": "- **2000-03-16** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carl-tricoli",
+    "name": "Carl Tricoli",
+    "email": "carl.tricoli@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

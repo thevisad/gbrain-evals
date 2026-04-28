@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas-white",
+  "type": "person",
+  "title": "Thomas White",
+  "compiled_truth": "Thomas White is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-16 to 2001-12-26), Thomas White sent 0 and received 135 emails, totalling 135 interactions.",
+  "timeline": "- **1999-08-16** | First recorded email in corpus\n- **2001-12-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas-white",
+    "name": "Thomas White",
+    "email": "thomas.white@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

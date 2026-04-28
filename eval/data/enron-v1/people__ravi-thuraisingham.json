@@ -1,0 +1,14 @@
+{
+  "slug": "people/ravi-thuraisingham",
+  "type": "person",
+  "title": "Ravi Thuraisingham",
+  "compiled_truth": "Ravi Thuraisingham is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2001-10-25), Ravi Thuraisingham sent 58 and received 115 emails, totalling 173 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (43), [Stinson Gibner](people/stinson-gibner) (34), [Kristy Carnes](people/kristy-carnes) (9), [Shirley Crenshaw](people/shirley-crenshaw) (8), [Jim Irvine](people/jim-irvine) (8). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ravi-thuraisingham",
+    "name": "Ravi Thuraisingham",
+    "email": "ravi.thuraisingham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-pond",
+  "type": "person",
+  "title": "Jim Pond",
+  "compiled_truth": "Jim Pond is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-28 to 2001-11-12), Jim Pond sent 2 and received 64 emails, totalling 66 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (2), [Greg Whiting](people/greg-whiting) (2), [Troy Klussmann](people/troy-klussmann) (2), [James Armstrong](people/james-armstrong) (2), [Megan Parker](people/megan-parker) (2).",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-pond",
+    "name": "Jim Pond",
+    "email": "jim.pond@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/renata-maziarz",
+  "type": "person",
+  "title": "Renata Maziarz",
+  "compiled_truth": "Renata Maziarz is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-06 to 2001-11-27), Renata Maziarz sent 6 and received 3 emails, totalling 9 interactions. Top correspondents: [Anne Edgley](people/anne-edgley) (6), [Jarek Astramowicz](people/jarek-astramowicz) (6), [James Derrick](people/james-derrick) (6), [Adam Overfield](people/adam-overfield) (5), [Ed Cattigan](people/ed-cattigan) (5). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-06-06** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/renata-maziarz",
+    "name": "Renata Maziarz",
+    "email": "renata.maziarz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

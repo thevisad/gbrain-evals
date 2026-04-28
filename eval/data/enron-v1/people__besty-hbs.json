@@ -1,0 +1,14 @@
+{
+  "slug": "people/besty-hbs",
+  "type": "person",
+  "title": "Besty",
+  "compiled_truth": "Besty is an external contact at [Hbs](companies/hbs). Over the corpus period (2000-11-29 to 2001-04-09), Besty sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-29** | First recorded email in corpus\n- **2001-04-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/besty-hbs",
+    "name": "Besty",
+    "email": "besty@hbs.edu",
+    "primary_affiliation": "companies/hbs"
+  }
+}

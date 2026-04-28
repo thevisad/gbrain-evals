@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/conference-for-new-enron-com-2000-05",
+  "type": "meeting",
+  "title": "Meeting: Conference For New Enron.Com",
+  "compiled_truth": "Meeting: \"Conference For New Enron.Com\". Occurred 2000-05-17 with 1 related emails. Participants included: [Beth Jensen](people/beth-jensen), [Biaggio Mcphee](people/biaggio-mcphee), [Daren Farmer](people/daren-farmer), [David Hultsman](people/david-hultsman), [Jo Williams](people/jo-williams), [Kevin Hyatt](people/kevin-hyatt), [Richard Shepherd](people/richard-shepherd), [Scott Coburn](people/scott-coburn)....",
+  "timeline": "- **2000-05-17** | Meeting: conference for new enron.com",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/conference-for-new-enron-com-2000-05",
+    "attendees": [
+      "people/beth-jensen",
+      "people/biaggio-mcphee",
+      "people/daren-farmer",
+      "people/david-hultsman",
+      "people/jo-williams",
+      "people/kevin-hyatt",
+      "people/richard-shepherd",
+      "people/scott-coburn",
+      "people/sharon-farrell",
+      "people/will-zamer"
+    ],
+    "date": "2000-05-17"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/wilson-wendy",
+  "type": "person",
+  "title": "Wilson Wendy",
+  "compiled_truth": "Wilson Wendy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-12 to 2001-10-12), Wilson Wendy sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-12** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wilson-wendy",
+    "name": "Wilson Wendy",
+    "email": "wilson.wendy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

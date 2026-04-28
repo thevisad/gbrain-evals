@@ -1,0 +1,14 @@
+{
+  "slug": "people/tross-mcnallytemple",
+  "type": "person",
+  "title": "Tross",
+  "compiled_truth": "Tross is an external contact at [Mcnallytemple](companies/mcnallytemple). Over the corpus period (2000-10-27 to 2001-07-31), Tross sent 1 and received 120 emails, totalling 121 interactions. Top correspondents: [Jmunoz](people/jmunoz-mcnallytemple) (1), [Abb](people/abb-eslawfirm) (1), [Andybrwn](people/andybrwn-earthlink) (1), [Cabaker](people/cabaker-duke-energy) (1), [Rescalante](people/rescalante-riobravo-gm) (1).",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tross-mcnallytemple",
+    "name": "Tross",
+    "email": "tross@mcnallytemple.com",
+    "primary_affiliation": "companies/mcnallytemple"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/roger-yang",
+  "type": "person",
+  "title": "Roger Yang",
+  "compiled_truth": "Roger Yang is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-09-01 to 2001-07-10), Roger Yang sent 53 and received 836 emails, totalling 889 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (48), [Susan Mara](people/susan-mara) (37), [Mona Petrochko](people/mona-petrochko) (32), [Dennis Benevides](people/dennis-benevides) (24), [Scott Stoness](people/scott-stoness) (24).",
+  "timeline": "- **1998-09-01** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roger-yang",
+    "name": "Roger Yang",
+    "email": "roger.yang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

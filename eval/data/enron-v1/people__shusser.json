@@ -1,0 +1,14 @@
+{
+  "slug": "people/shusser",
+  "type": "person",
+  "title": "Shusser",
+  "compiled_truth": "Shusser is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-26 to 2001-12-05), Shusser sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-04-26** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shusser",
+    "name": "Shusser",
+    "email": "shusser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

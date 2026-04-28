@@ -1,0 +1,14 @@
+{
+  "slug": "people/todd-roten",
+  "type": "person",
+  "title": "Todd Roten",
+  "compiled_truth": "Todd Roten is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2001-02-22), Todd Roten sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2001-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/todd-roten",
+    "name": "Todd Roten",
+    "email": "todd.roten@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

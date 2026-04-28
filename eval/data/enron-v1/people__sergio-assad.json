@@ -1,0 +1,14 @@
+{
+  "slug": "people/sergio-assad",
+  "type": "person",
+  "title": "Sergio Assad",
+  "compiled_truth": "Sergio Assad is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-10 to 2001-11-30), Sergio Assad sent 6 and received 141 emails, totalling 147 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (6), [Jose Bestard](people/jose-bestard) (3), [Luiz Maurer](people/luiz-maurer) (2), [Orlando Gonzalez](people/orlando-gonzalez) (1), [John Lavorato](people/john-lavorato) (1). Mailbox folders observed: deleted_items, southern_cone.",
+  "timeline": "- **2000-10-10** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sergio-assad",
+    "name": "Sergio Assad",
+    "email": "sergio.assad@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

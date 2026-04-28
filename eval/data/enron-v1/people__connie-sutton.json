@@ -1,0 +1,14 @@
+{
+  "slug": "people/connie-sutton",
+  "type": "person",
+  "title": "Connie Sutton",
+  "compiled_truth": "Connie Sutton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-30 to 2001-07-10), Connie Sutton sent 8 and received 376 emails, totalling 384 interactions. Top correspondents: [Mary Solmonson](people/mary-solmonson) (6), [Tana Jones](people/tana-jones) (5), [Debbie Brackett](people/debbie-brackett) (4), [David Hardy](people/david-hardy) (4), [Sally Beck](people/sally-beck) (3).",
+  "timeline": "- **1999-08-30** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/connie-sutton",
+    "name": "Connie Sutton",
+    "email": "connie.sutton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

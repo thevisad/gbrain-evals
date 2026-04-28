@@ -1,0 +1,14 @@
+{
+  "slug": "people/dawne-haight",
+  "type": "person",
+  "title": "Dawne Haight",
+  "compiled_truth": "Dawne Haight is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-03 to 2001-10-31), Dawne Haight sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-08-03** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dawne-haight",
+    "name": "Dawne Haight",
+    "email": "dawne.haight@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

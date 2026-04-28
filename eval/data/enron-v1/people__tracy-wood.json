@@ -1,0 +1,14 @@
+{
+  "slug": "people/tracy-wood",
+  "type": "person",
+  "title": "Tracy Wood",
+  "compiled_truth": "Tracy Wood is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-14 to 2001-12-05), Tracy Wood sent 0 and received 143 emails, totalling 143 interactions.",
+  "timeline": "- **2000-11-14** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tracy-wood",
+    "name": "Tracy Wood",
+    "email": "tracy.wood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-bailey",
+  "type": "person",
+  "title": "Susan Bailey",
+  "compiled_truth": "Susan Bailey is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Susan Bailey sent 243 and received 2936 emails, totalling 3179 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (94), [Tana Jones](people/tana-jones) (50), [Brent Hendry](people/brent-hendry) (46), [Diane Anderson](people/diane-anderson) (41), [Stephanie Panus](people/stephanie-panus) (40). Mailbox folders observed: bankrupt, deleted_items, inbox, sent_items, swap_group_project_lists, time_off.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-bailey",
+    "name": "Susan Bailey",
+    "email": "susan.bailey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

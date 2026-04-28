@@ -1,0 +1,14 @@
+{
+  "slug": "people/jrogers-cinergy",
+  "type": "person",
+  "title": "Jrogers",
+  "compiled_truth": "Jrogers is an external contact at [Cinergy](companies/cinergy). Over the corpus period (2000-01-07 to 2002-02-26), Jrogers sent 3 and received 42 emails, totalling 45 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (3).",
+  "timeline": "- **2000-01-07** | First recorded email in corpus\n- **2002-02-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jrogers-cinergy",
+    "name": "Jrogers",
+    "email": "jrogers@cinergy.com",
+    "primary_affiliation": "companies/cinergy"
+  }
+}

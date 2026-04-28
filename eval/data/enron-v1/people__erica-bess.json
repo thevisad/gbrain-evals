@@ -1,0 +1,14 @@
+{
+  "slug": "people/erica-bess",
+  "type": "person",
+  "title": "Erica Bess",
+  "compiled_truth": "Erica Bess is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2002-02-13), Erica Bess sent 9 and received 84 emails, totalling 93 interactions. Top correspondents: [Kal Shah](people/kal-shah) (4), [Louise Kitchen](people/louise-kitchen) (3), [Mark Greenberg](people/mark-greenberg) (2), [Tana Jones](people/tana-jones) (2), [ Taylor](people/taylor) (2). Mailbox folders observed: _americas, archive, inbox, online_trading.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/erica-bess",
+    "name": "Erica Bess",
+    "email": "erica.bess@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

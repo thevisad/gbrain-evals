@@ -1,0 +1,14 @@
+{
+  "slug": "people/ocallaghan-weatherwiseusa",
+  "type": "person",
+  "title": "Ocallaghan",
+  "compiled_truth": "Ocallaghan is an external contact at [Weatherwiseusa](companies/weatherwiseusa). Over the corpus period (2000-08-25 to 2000-08-25), Ocallaghan sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ocallaghan-weatherwiseusa",
+    "name": "Ocallaghan",
+    "email": "ocallaghan@weatherwiseusa.com",
+    "primary_affiliation": "companies/weatherwiseusa"
+  }
+}

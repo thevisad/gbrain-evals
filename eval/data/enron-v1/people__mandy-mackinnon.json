@@ -1,0 +1,14 @@
+{
+  "slug": "people/mandy-mackinnon",
+  "type": "person",
+  "title": "Mandy Mackinnon",
+  "compiled_truth": "Mandy Mackinnon is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2000-06-30), Mandy Mackinnon sent 9 and received 44 emails, totalling 53 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (9), [Stella Morris](people/stella-morris) (5), [Pat Clynes](people/pat-clynes) (5), [Jackie Young](people/jackie-young) (2), [Fred Boas](people/fred-boas) (2).",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2000-06-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mandy-mackinnon",
+    "name": "Mandy Mackinnon",
+    "email": "mandy.mackinnon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

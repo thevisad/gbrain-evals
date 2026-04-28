@@ -1,0 +1,14 @@
+{
+  "slug": "people/schmid-jack",
+  "type": "person",
+  "title": "Schmid Jack",
+  "compiled_truth": "Schmid Jack is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-19 to 2001-09-19), Schmid Jack sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-09-19** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/schmid-jack",
+    "name": "Schmid Jack",
+    "email": "schmid.jack@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

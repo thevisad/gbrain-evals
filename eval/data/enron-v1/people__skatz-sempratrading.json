@@ -1,0 +1,14 @@
+{
+  "slug": "people/skatz-sempratrading",
+  "type": "person",
+  "title": "Skatz",
+  "compiled_truth": "Skatz is an external contact at [Sempratrading](companies/sempratrading). Over the corpus period (2000-02-14 to 2001-07-31), Skatz sent 0 and received 162 emails, totalling 162 interactions.",
+  "timeline": "- **2000-02-14** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/skatz-sempratrading",
+    "name": "Skatz",
+    "email": "skatz@sempratrading.com",
+    "primary_affiliation": "companies/sempratrading"
+  }
+}

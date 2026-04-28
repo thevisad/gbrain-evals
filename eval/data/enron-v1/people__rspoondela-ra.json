@@ -1,0 +1,14 @@
+{
+  "slug": "people/rspoondela-ra",
+  "type": "person",
+  "title": "Rspoondela",
+  "compiled_truth": "Rspoondela is an external contact at [Ra](companies/ra). Over the corpus period (2000-06-01 to 2000-06-06), Rspoondela sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-06-01** | First recorded email in corpus\n- **2000-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rspoondela-ra",
+    "name": "Rspoondela",
+    "email": "rspoondela@ra.rockwell.com",
+    "primary_affiliation": "companies/ra"
+  }
+}

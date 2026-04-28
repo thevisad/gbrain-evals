@@ -1,0 +1,14 @@
+{
+  "slug": "people/asayrak-katz",
+  "type": "person",
+  "title": "Asayrak",
+  "compiled_truth": "Asayrak is an external contact at [Katz](companies/katz). Over the corpus period (2000-03-28 to 2001-04-09), Asayrak sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2001-04-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/asayrak-katz",
+    "name": "Asayrak",
+    "email": "asayrak@katz.pitt.edu",
+    "primary_affiliation": "companies/katz"
+  }
+}

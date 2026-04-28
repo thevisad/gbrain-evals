@@ -1,0 +1,14 @@
+{
+  "slug": "people/sandra-mccubbin",
+  "type": "person",
+  "title": "Sandra McCubbin",
+  "compiled_truth": "Sandra McCubbin is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-31), Sandra McCubbin sent 31 and received 2518 emails, totalling 2549 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (24), [Paul Kaufman](people/paul-kaufman) (20), [Susan Mara](people/susan-mara) (17), [James Steffes](people/james-steffes) (9), [Richard Shapiro](people/richard-shapiro) (8). Mailbox folders observed: iso__pricecaps.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sandra-mccubbin",
+    "name": "Sandra McCubbin",
+    "email": "sandra.mccubbin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

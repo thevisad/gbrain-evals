@@ -1,0 +1,14 @@
+{
+  "slug": "people/w-white",
+  "type": "person",
+  "title": "W  White",
+  "compiled_truth": "W  White is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-27 to 2002-05-13), W  White sent 497 and received 1566 emails, totalling 2063 interactions. Top correspondents: [John Postlethwaite](people/john-postlethwaite) (143), [Casey Evans](people/casey-evans) (106), [Andrea Dahlke](people/andrea-dahlke) (41), [Wayne Vinson](people/wayne-vinson) (40), [Leslie Reeves](people/leslie-reeves) (32). Mailbox folders observed: _americas, calendar, contacts, cya, deleted_items, inbox.",
+  "timeline": "- **2001-06-27** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/w-white",
+    "name": "W  White",
+    "email": "w..white@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

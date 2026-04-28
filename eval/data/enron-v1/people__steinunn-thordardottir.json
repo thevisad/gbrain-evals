@@ -1,0 +1,14 @@
+{
+  "slug": "people/steinunn-thordardottir",
+  "type": "person",
+  "title": "Steinunn Thordardottir",
+  "compiled_truth": "Steinunn Thordardottir is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-06 to 2001-10-12), Steinunn Thordardottir sent 2 and received 12 emails, totalling 14 interactions. Top correspondents: [Frank Hayden](people/frank-hayden) (2), [John Griffith](people/john-griffith) (2), [Randy Petersen](people/randy-petersen) (2), [Bjorn Hagelmann](people/bjorn-hagelmann) (2), [Tom Donohoe](people/tom-donohoe) (1).",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steinunn-thordardottir",
+    "name": "Steinunn Thordardottir",
+    "email": "steinunn.thordardottir@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

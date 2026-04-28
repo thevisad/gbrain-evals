@@ -1,0 +1,14 @@
+{
+  "slug": "people/wade-price",
+  "type": "person",
+  "title": "Wade Price",
+  "compiled_truth": "Wade Price is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2001-06-05), Wade Price sent 6 and received 128 emails, totalling 134 interactions. Top correspondents: [Chris Germany](people/chris-germany) (6), [Bryce Baxter](people/bryce-baxter) (5), [Katherine Kelly](people/katherine-kelly) (5), [Joan Veselack](people/joan-veselack) (2), [Robert Allwein](people/robert-allwein) (2).",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wade-price",
+    "name": "Wade Price",
+    "email": "wade.price@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

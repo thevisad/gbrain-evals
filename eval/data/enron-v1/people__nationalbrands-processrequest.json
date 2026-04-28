@@ -1,0 +1,14 @@
+{
+  "slug": "people/nationalbrands-processrequest",
+  "type": "person",
+  "title": "Nationalbrands",
+  "compiled_truth": "Nationalbrands is an external contact at [Processrequest](companies/processrequest). Over the corpus period (2001-09-27 to 2001-12-30), Nationalbrands sent 26 and received 4 emails, totalling 30 interactions. Top correspondents: [Plucci](people/plucci) (12), [Dfarmer](people/dfarmer) (8), [Kward](people/kward) (4), [Jason Wolfe](people/jason-wolfe) (2).",
+  "timeline": "- **2001-09-27** | First recorded email in corpus\n- **2001-12-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nationalbrands-processrequest",
+    "name": "Nationalbrands",
+    "email": "nationalbrands@processrequest.com",
+    "primary_affiliation": "companies/processrequest"
+  }
+}

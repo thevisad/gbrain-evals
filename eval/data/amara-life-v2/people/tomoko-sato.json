@@ -1,0 +1,16 @@
+{
+  "slug": "people/tomoko-sato",
+  "type": "person",
+  "title": "Tomoko Sato",
+  "compiled_truth": "Tomoko Sato is a peer VC. Email: tomoko@khosla.com. Tomoko Sato works at Khosla Ventures. Slack: @tomoko.",
+  "timeline": "- **2025-04-14** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tomoko-sato",
+    "name": "Tomoko Sato",
+    "email": "tomoko@khosla.com",
+    "slack_handle": "tomoko",
+    "relation_to_amara": "peer",
+    "primary_affiliation": "companies/khosla-ventures"
+  }
+}

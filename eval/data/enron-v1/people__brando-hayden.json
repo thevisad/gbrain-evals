@@ -1,0 +1,14 @@
+{
+  "slug": "people/brando-hayden",
+  "type": "person",
+  "title": "Brando Hayden",
+  "compiled_truth": "Brando Hayden is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-30 to 2001-05-13), Brando Hayden sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-05-30** | First recorded email in corpus\n- **2001-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brando-hayden",
+    "name": "Brando Hayden",
+    "email": "brando.hayden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

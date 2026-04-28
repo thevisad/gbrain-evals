@@ -1,0 +1,14 @@
+{
+  "slug": "people/vetterling-bvcpa",
+  "type": "person",
+  "title": "Vetterling",
+  "compiled_truth": "Vetterling is an external contact at [Bvcpa](companies/bvcpa). Over the corpus period (2000-11-13 to 2001-11-09), Vetterling sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vetterling-bvcpa",
+    "name": "Vetterling",
+    "email": "vetterling@bvcpa.com",
+    "primary_affiliation": "companies/bvcpa"
+  }
+}

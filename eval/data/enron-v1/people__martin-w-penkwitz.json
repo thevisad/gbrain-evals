@@ -1,0 +1,14 @@
+{
+  "slug": "people/martin-w-penkwitz",
+  "type": "person",
+  "title": "Martin W Penkwitz",
+  "compiled_truth": "Martin W Penkwitz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-06-04), Martin W Penkwitz sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martin-w-penkwitz",
+    "name": "Martin W Penkwitz",
+    "email": "martin.w.penkwitz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

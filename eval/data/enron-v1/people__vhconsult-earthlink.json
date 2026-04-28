@@ -1,0 +1,14 @@
+{
+  "slug": "people/vhconsult-earthlink",
+  "type": "person",
+  "title": "Vhconsult",
+  "compiled_truth": "Vhconsult is an external contact at [Earthlink](companies/earthlink). Over the corpus period (1999-09-24 to 2001-07-31), Vhconsult sent 0 and received 68 emails, totalling 68 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vhconsult-earthlink",
+    "name": "Vhconsult",
+    "email": "vhconsult@earthlink.net",
+    "primary_affiliation": "companies/earthlink"
+  }
+}

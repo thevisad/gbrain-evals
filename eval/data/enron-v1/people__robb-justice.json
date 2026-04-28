@@ -1,0 +1,14 @@
+{
+  "slug": "people/robb-justice",
+  "type": "person",
+  "title": "Robb Justice",
+  "compiled_truth": "Robb Justice is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-01 to 2001-03-11), Robb Justice sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-01** | First recorded email in corpus\n- **2001-03-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robb-justice",
+    "name": "Robb Justice",
+    "email": "robb.justice@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

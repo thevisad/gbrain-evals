@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-engel",
+  "type": "person",
+  "title": "Tom Engel",
+  "compiled_truth": "Tom Engel is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-03 to 2002-02-14), Tom Engel sent 4 and received 42 emails, totalling 46 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (3), [Stephanie Sever](people/stephanie-sever) (1), [M  Smith](people/m-smith) (1), [A  Allen](people/a-allen) (1), [Susan Amador](people/susan-amador) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2002-01-03** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-engel",
+    "name": "Tom Engel",
+    "email": "tom.engel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

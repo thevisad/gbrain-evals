@@ -1,0 +1,14 @@
+{
+  "slug": "people/genady-batrak",
+  "type": "person",
+  "title": "Genady Batrak",
+  "compiled_truth": "Genady Batrak is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-16 to 2002-02-19), Genady Batrak sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-02-16** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/genady-batrak",
+    "name": "Genady Batrak",
+    "email": "genady.batrak@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

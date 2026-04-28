@@ -1,0 +1,26 @@
+{
+  "slug": "companies/igservice",
+  "type": "company",
+  "title": "Igservice",
+  "compiled_truth": "Igservice is an external organization that appears in the Enron email corpus. Domain: igservice.com. Total email interactions with Enron: 440. Known contacts: 9 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (440 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/igservice",
+    "name": "Igservice",
+    "employees": [
+      "people/bbuxa-igservice",
+      "people/bpedersen-igservice",
+      "people/cprice-igservice",
+      "people/gsoong-igservice",
+      "people/jpainter-igservice",
+      "people/jyoung-igservice",
+      "people/mbaldwin-igservice",
+      "people/rhall-igservice",
+      "people/smcfadden-igservice"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kt-a-klaw",
+  "type": "person",
+  "title": "Kt",
+  "compiled_truth": "Kt is an external contact at [A-klaw](companies/a-klaw). Over the corpus period (2001-06-12 to 2001-11-07), Kt sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2001-06-12** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kt-a-klaw",
+    "name": "Kt",
+    "email": "kt@a-klaw.com",
+    "primary_affiliation": "companies/a-klaw"
+  }
+}

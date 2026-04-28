@@ -1,0 +1,14 @@
+{
+  "slug": "people/ads-nwnatural",
+  "type": "person",
+  "title": "Ads",
+  "compiled_truth": "Ads is an external contact at [Nwnatural](companies/nwnatural). Over the corpus period (2000-10-27 to 2001-05-11), Ads sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ads-nwnatural",
+    "name": "Ads",
+    "email": "ads@nwnatural.com",
+    "primary_affiliation": "companies/nwnatural"
+  }
+}

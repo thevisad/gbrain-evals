@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-garred-newpower",
+  "type": "person",
+  "title": "Michael Garred",
+  "compiled_truth": "Michael Garred is an external contact at [Newpower](companies/newpower). Over the corpus period (2001-05-02 to 2001-05-15), Michael Garred sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-garred-newpower",
+    "name": "Michael Garred",
+    "email": "michael.garred@newpower.com",
+    "primary_affiliation": "companies/newpower"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-motsinger",
+  "type": "person",
+  "title": "Matt Motsinger",
+  "compiled_truth": "Matt Motsinger is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2002-02-13), Matt Motsinger sent 54 and received 259 emails, totalling 313 interactions. Top correspondents: [Torrey Moorer](people/torrey-moorer) (48), [Andy Zipper](people/andy-zipper) (47), [Adam Johnson](people/adam-johnson) (37), [Louise Kitchen](people/louise-kitchen) (36), [Sheri Thomas](people/sheri-thomas) (33). Mailbox folders observed: broker_client, deleted_items, inbox.",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-motsinger",
+    "name": "Matt Motsinger",
+    "email": "matt.motsinger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

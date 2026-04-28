@@ -1,0 +1,14 @@
+{
+  "slug": "people/selena-gonzalez",
+  "type": "person",
+  "title": "Selena Gonzalez",
+  "compiled_truth": "Selena Gonzalez is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-15), Selena Gonzalez sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/selena-gonzalez",
+    "name": "Selena Gonzalez",
+    "email": "selena.gonzalez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

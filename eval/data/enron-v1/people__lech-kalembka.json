@@ -1,0 +1,14 @@
+{
+  "slug": "people/lech-kalembka",
+  "type": "person",
+  "title": "Lech Kalembka",
+  "compiled_truth": "Lech Kalembka is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-31 to 2001-11-28), Lech Kalembka sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2001-10-31** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lech-kalembka",
+    "name": "Lech Kalembka",
+    "email": "lech.kalembka@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

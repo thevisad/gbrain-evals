@@ -1,0 +1,14 @@
+{
+  "slug": "people/sharon-travelpark",
+  "type": "person",
+  "title": "Sharon",
+  "compiled_truth": "Sharon is an external contact at [Travelpark](companies/travelpark). Over the corpus period (1999-08-17 to 2000-12-12), Sharon sent 2 and received 26 emails, totalling 28 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (2), [Jhduncan](people/jhduncan-aol) (1).",
+  "timeline": "- **1999-08-17** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sharon-travelpark",
+    "name": "Sharon",
+    "email": "sharon@travelpark.com",
+    "primary_affiliation": "companies/travelpark"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/hatcher-elizabeth",
+  "type": "person",
+  "title": "Hatcher Elizabeth",
+  "compiled_truth": "Hatcher Elizabeth is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Hatcher Elizabeth sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hatcher-elizabeth",
+    "name": "Hatcher Elizabeth",
+    "email": "hatcher.elizabeth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lfeusi-caiso",
+  "type": "person",
+  "title": "Lfeusi",
+  "compiled_truth": "Lfeusi is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-07-25 to 2002-02-07), Lfeusi sent 5 and received 2 emails, totalling 7 interactions. Top correspondents: [Tswg](people/tswg-caiso) (5), [20Participants](people/20participants-caiso) (2), [Brenda Lopez](people/brenda-lopez) (2), [Caroline Emmert](people/caroline-emmert) (2), [Charles Byrom](people/charles-byrom) (2).",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lfeusi-caiso",
+    "name": "Lfeusi",
+    "email": "lfeusi@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

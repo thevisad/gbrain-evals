@@ -1,0 +1,14 @@
+{
+  "slug": "people/mmolland-brobeck",
+  "type": "person",
+  "title": "Mmolland",
+  "compiled_truth": "Mmolland is an external contact at [Brobeck](companies/brobeck). Over the corpus period (2000-12-06 to 2001-09-04), Mmolland sent 28 and received 71 emails, totalling 99 interactions. Top correspondents: [B  Sanders](people/b-sanders) (23), [C  Williams](people/c-williams) (19), [Pmeringolo](people/pmeringolo-brobeck) (16), [Adsmith](people/adsmith-brobeck) (13), [Meringolo](people/meringolo) (13).",
+  "timeline": "- **2000-12-06** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mmolland-brobeck",
+    "name": "Mmolland",
+    "email": "mmolland@brobeck.com",
+    "primary_affiliation": "companies/brobeck"
+  }
+}

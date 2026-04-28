@@ -1,0 +1,14 @@
+{
+  "slug": "people/hugh-connett",
+  "type": "person",
+  "title": "Hugh Connett",
+  "compiled_truth": "Hugh Connett is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-28 to 2002-06-24), Hugh Connett sent 3 and received 14 emails, totalling 17 interactions. Top correspondents: [Ragan Bond](people/ragan-bond) (3), [ Stephens](people/stephens) (3), [Joe Parks](people/joe-parks) (3), [Tiffany Smith](people/tiffany-smith) (3), [Briant Baker](people/briant-baker) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-09-28** | First recorded email in corpus\n- **2002-06-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hugh-connett",
+    "name": "Hugh Connett",
+    "email": "hugh.connett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

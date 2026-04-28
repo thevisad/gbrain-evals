@@ -1,0 +1,14 @@
+{
+  "slug": "people/denise-bradley",
+  "type": "person",
+  "title": "Denise Bradley",
+  "compiled_truth": "Denise Bradley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-05-08), Denise Bradley sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/denise-bradley",
+    "name": "Denise Bradley",
+    "email": "denise.bradley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

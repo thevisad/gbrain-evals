@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-burleigh",
+  "type": "person",
+  "title": "Matt Burleigh",
+  "compiled_truth": "Matt Burleigh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2002-02-06), Matt Burleigh sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-burleigh",
+    "name": "Matt Burleigh",
+    "email": "matt.burleigh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenneth-d-silva",
+  "type": "person",
+  "title": "Kenneth D'Silva",
+  "compiled_truth": "Kenneth D'Silva is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-28 to 2002-01-14), Kenneth D'Silva sent 2 and received 20 emails, totalling 22 interactions. Top correspondents: [Infinity Developers](people/infinity-developers) (2), [Infinity Users](people/infinity-users) (2), [Clara Carrington](people/clara-carrington) (2), [Sheila Glover](people/sheila-glover) (2), [Kevin Lee](people/kevin-lee) (2). Mailbox folders observed: savedmail.",
+  "timeline": "- **1999-07-28** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenneth-d-silva",
+    "name": "Kenneth D'Silva",
+    "email": "kenneth.d'silva@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/shawna-flynn",
+  "type": "person",
+  "title": "Shawna Flynn",
+  "compiled_truth": "Shawna Flynn is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2001-07-18), Shawna Flynn sent 9 and received 527 emails, totalling 536 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (3), [Gerald Nemec](people/gerald-nemec) (3), [Cheryl Dudley](people/cheryl-dudley) (2), [John Grass](people/john-grass) (2), [Gary Bryan](people/gary-bryan) (2). Mailbox folders observed: inbox, logistics.",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2001-07-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shawna-flynn",
+    "name": "Shawna Flynn",
+    "email": "shawna.flynn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

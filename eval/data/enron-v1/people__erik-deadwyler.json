@@ -1,0 +1,14 @@
+{
+  "slug": "people/erik-deadwyler",
+  "type": "person",
+  "title": "Erik Deadwyler",
+  "compiled_truth": "Erik Deadwyler is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-01 to 2002-05-06), Erik Deadwyler sent 2 and received 24 emails, totalling 26 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-03-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/erik-deadwyler",
+    "name": "Erik Deadwyler",
+    "email": "erik.deadwyler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

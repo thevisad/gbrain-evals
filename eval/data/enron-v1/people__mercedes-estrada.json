@@ -1,0 +1,14 @@
+{
+  "slug": "people/mercedes-estrada",
+  "type": "person",
+  "title": "Mercedes Estrada",
+  "compiled_truth": "Mercedes Estrada is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-07-25), Mercedes Estrada sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-07-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mercedes-estrada",
+    "name": "Mercedes Estrada",
+    "email": "mercedes.estrada@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

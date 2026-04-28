@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-winkler-compaq",
+  "type": "person",
+  "title": "Mike Winkler",
+  "compiled_truth": "Mike Winkler is an external contact at [Compaq](companies/compaq). Over the corpus period (2000-12-01 to 2001-11-09), Mike Winkler sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-winkler-compaq",
+    "name": "Mike Winkler",
+    "email": "mike.winkler@compaq.com",
+    "primary_affiliation": "companies/compaq"
+  }
+}

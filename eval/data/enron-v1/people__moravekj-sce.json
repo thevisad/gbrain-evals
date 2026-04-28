@@ -1,0 +1,14 @@
+{
+  "slug": "people/moravekj-sce",
+  "type": "person",
+  "title": "Moravekj",
+  "compiled_truth": "Moravekj is an external contact at [Sce](companies/sce). Over the corpus period (2000-08-10 to 2001-11-14), Moravekj sent 0 and received 48 emails, totalling 48 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/moravekj-sce",
+    "name": "Moravekj",
+    "email": "moravekj@sce.com",
+    "primary_affiliation": "companies/sce"
+  }
+}

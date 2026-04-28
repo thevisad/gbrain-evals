@@ -1,0 +1,14 @@
+{
+  "slug": "people/laquesha-dillingham",
+  "type": "person",
+  "title": "Laquesha Dillingham",
+  "compiled_truth": "Laquesha Dillingham is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-07-27), Laquesha Dillingham sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-07-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laquesha-dillingham",
+    "name": "Laquesha Dillingham",
+    "email": "laquesha.dillingham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/joan-collins",
+  "type": "person",
+  "title": "Joan Collins",
+  "compiled_truth": "Joan Collins is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2001-11-15), Joan Collins sent 8 and received 30 emails, totalling 38 interactions. Top correspondents: [Jim Schwieger](people/jim-schwieger) (8). Mailbox folders observed: deleted_items, inbox, outbox, personal.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2001-11-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joan-collins",
+    "name": "Joan Collins",
+    "email": "joan.collins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

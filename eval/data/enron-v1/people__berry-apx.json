@@ -1,0 +1,14 @@
+{
+  "slug": "people/berry-apx",
+  "type": "person",
+  "title": "Berry",
+  "compiled_truth": "Berry is an external contact at [Apx](companies/apx). Over the corpus period (2000-02-24 to 2001-12-21), Berry sent 0 and received 90 emails, totalling 90 interactions.",
+  "timeline": "- **2000-02-24** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/berry-apx",
+    "name": "Berry",
+    "email": "berry@apx.com",
+    "primary_affiliation": "companies/apx"
+  }
+}

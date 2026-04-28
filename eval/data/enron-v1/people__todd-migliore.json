@@ -1,0 +1,14 @@
+{
+  "slug": "people/todd-migliore",
+  "type": "person",
+  "title": "Todd Migliore",
+  "compiled_truth": "Todd Migliore is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-14 to 2001-12-21), Todd Migliore sent 2 and received 17 emails, totalling 19 interactions. Top correspondents: [Stephen Schwarzbach](people/stephen-schwarzbach) (1), [Greg Whiting](people/greg-whiting) (1), [John Mackel](people/john-mackel) (1), [Eric Bass](people/eric-bass) (1), [Luis Mena](people/luis-mena) (1). Mailbox folders observed: projects.",
+  "timeline": "- **2000-11-14** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/todd-migliore",
+    "name": "Todd Migliore",
+    "email": "todd.migliore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

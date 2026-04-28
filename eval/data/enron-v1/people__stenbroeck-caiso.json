@@ -1,0 +1,14 @@
+{
+  "slug": "people/stenbroeck-caiso",
+  "type": "person",
+  "title": "Stenbroeck",
+  "compiled_truth": "Stenbroeck is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-07-25 to 2000-08-29), Stenbroeck sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2000-08-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stenbroeck-caiso",
+    "name": "Stenbroeck",
+    "email": "stenbroeck@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

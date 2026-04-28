@@ -1,0 +1,14 @@
+{
+  "slug": "people/vittor-jose",
+  "type": "person",
+  "title": "Vittor Jose",
+  "compiled_truth": "Vittor Jose is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2001-09-20), Vittor Jose sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2001-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vittor-jose",
+    "name": "Vittor Jose",
+    "email": "vittor.jose@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

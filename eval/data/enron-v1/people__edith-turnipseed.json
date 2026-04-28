@@ -1,0 +1,14 @@
+{
+  "slug": "people/edith-turnipseed",
+  "type": "person",
+  "title": "Edith Turnipseed",
+  "compiled_truth": "Edith Turnipseed is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-11 to 2001-11-28), Edith Turnipseed sent 2 and received 46 emails, totalling 48 interactions. Top correspondents: [April Hrach](people/april-hrach) (2), [Amy Fitzpatrick](people/amy-fitzpatrick) (2), [Cristina Zavala](people/cristina-zavala) (2), [David Parquet](people/david-parquet) (2), [David Oxley](people/david-oxley) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-09-11** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edith-turnipseed",
+    "name": "Edith Turnipseed",
+    "email": "edith.turnipseed@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rggatto-shellus",
+  "type": "person",
+  "title": "Rggatto",
+  "compiled_truth": "Rggatto is an external contact at [Shellus](companies/shellus). Over the corpus period (2000-06-20 to 2000-11-25), Rggatto sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rggatto-shellus",
+    "name": "Rggatto",
+    "email": "rggatto@shellus.com",
+    "primary_affiliation": "companies/shellus"
+  }
+}

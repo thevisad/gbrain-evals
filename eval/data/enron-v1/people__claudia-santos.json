@@ -1,0 +1,14 @@
+{
+  "slug": "people/claudia-santos",
+  "type": "person",
+  "title": "Claudia Santos",
+  "compiled_truth": "Claudia Santos is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-21 to 2001-12-03), Claudia Santos sent 0 and received 53 emails, totalling 53 interactions.",
+  "timeline": "- **2000-10-21** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/claudia-santos",
+    "name": "Claudia Santos",
+    "email": "claudia.santos@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

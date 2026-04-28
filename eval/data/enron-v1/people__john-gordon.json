@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-gordon",
+  "type": "person",
+  "title": "John Gordon",
+  "compiled_truth": "John Gordon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2001-10-23), John Gordon sent 6 and received 74 emails, totalling 80 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (5), [John Griffith](people/john-griffith) (1), [Mark Knippa](people/mark-knippa) (1), [Andrew Miles](people/andrew-miles) (1), [Chris Hilgert](people/chris-hilgert) (1).",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2001-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-gordon",
+    "name": "John Gordon",
+    "email": "john.gordon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

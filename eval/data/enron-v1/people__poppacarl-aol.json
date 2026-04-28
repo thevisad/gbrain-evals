@@ -1,0 +1,14 @@
+{
+  "slug": "people/poppacarl-aol",
+  "type": "person",
+  "title": "Poppacarl",
+  "compiled_truth": "Poppacarl is an external contact at [AOL](companies/aol). Over the corpus period (2001-07-25 to 2001-07-25), Poppacarl sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/poppacarl-aol",
+    "name": "Poppacarl",
+    "email": "poppacarl@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

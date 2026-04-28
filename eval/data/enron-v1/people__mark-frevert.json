@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-frevert",
+  "type": "person",
+  "title": "Mark Frevert",
+  "compiled_truth": "Mark Frevert is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-24), Mark Frevert sent 12 and received 1297 emails, totalling 1309 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (3), [Greg Whalley](people/greg-whalley) (3), [Sally Beck](people/sally-beck) (2), [Wes Colwell](people/wes-colwell) (2), [David Oxley](people/david-oxley) (2). Mailbox folders observed: _americas, deleted_items, frevert__mark, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-frevert",
+    "name": "Mark Frevert",
+    "email": "mark.frevert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

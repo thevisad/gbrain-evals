@@ -1,0 +1,14 @@
+{
+  "slug": "people/lyn-malina",
+  "type": "person",
+  "title": "Lyn Malina",
+  "compiled_truth": "Lyn Malina is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-03-05), Lyn Malina sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [Shirley Crenshaw](people/shirley-crenshaw) (1), [Jarod Jenson](people/jarod-jenson) (1), [Vince Kaminski](people/vince-kaminski) (1), [Kevin Moore](people/kevin-moore) (1), [William Smith](people/william-smith) (1).",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-03-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lyn-malina",
+    "name": "Lyn Malina",
+    "email": "lyn.malina@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

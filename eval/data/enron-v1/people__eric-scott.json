@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-scott",
+  "type": "person",
+  "title": "Eric Scott",
+  "compiled_truth": "Eric Scott is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-19), Eric Scott sent 2 and received 77 emails, totalling 79 interactions. Top correspondents: [John Arnold](people/john-arnold) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-scott",
+    "name": "Eric Scott",
+    "email": "eric.scott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

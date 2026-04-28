@@ -1,0 +1,27 @@
+{
+  "slug": "companies/luce",
+  "type": "company",
+  "title": "Luce",
+  "compiled_truth": "Luce is an external organization that appears in the Enron email corpus. Domain: luce.com. Total email interactions with Enron: 415. Known contacts: 10 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (415 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/luce",
+    "name": "Luce",
+    "employees": [
+      "people/chealey-luce",
+      "people/jblackwell-luce",
+      "people/jleslie-luce",
+      "people/jstuart-luce",
+      "people/jtbrooks-luce",
+      "people/jvaughn-luce",
+      "people/lhernandez-luce",
+      "people/pjelsma-luce",
+      "people/rsteiner-luce",
+      "people/tkinnear-luce"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

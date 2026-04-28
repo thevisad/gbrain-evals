@@ -1,0 +1,14 @@
+{
+  "slug": "people/wendi-hoelschler",
+  "type": "person",
+  "title": "Wendi Hoelschler",
+  "compiled_truth": "Wendi Hoelschler is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-26 to 2001-04-26), Wendi Hoelschler sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wendi-hoelschler",
+    "name": "Wendi Hoelschler",
+    "email": "wendi.hoelschler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

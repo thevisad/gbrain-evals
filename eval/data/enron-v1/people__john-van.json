@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-van",
+  "type": "person",
+  "title": "John Van",
+  "compiled_truth": "John Van is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-16 to 2001-12-03), John Van sent 2 and received 31 emails, totalling 33 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2), [Playfair](people/playfair-tri-met) (1), [Christian Yoder](people/christian-yoder) (1), [John Malowney](people/john-malowney) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-16** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-van",
+    "name": "John Van",
+    "email": "john.van@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

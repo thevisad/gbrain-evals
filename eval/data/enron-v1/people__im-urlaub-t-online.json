@@ -1,0 +1,14 @@
+{
+  "slug": "people/im-urlaub-t-online",
+  "type": "person",
+  "title": "Im-Urlaub",
+  "compiled_truth": "Im-Urlaub is an external contact at [T-online](companies/t-online). Over the corpus period (2000-11-30 to 2001-11-20), Im-Urlaub sent 21 and received 14 emails, totalling 35 interactions. Top correspondents: [Scott Hendrickson](people/scott-hendrickson) (20), [Kimberly S Olinger](people/kimberly-s-olinger) (6), [Bdarter](people/bdarter-coral-energy) (5), [Melissa Barroso](people/melissa-barroso-compaq) (4), [Onvacation](people/onvacation-pdq) (4).",
+  "timeline": "- **2000-11-30** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/im-urlaub-t-online",
+    "name": "Im-Urlaub",
+    "email": "im-urlaub@t-online.de",
+    "primary_affiliation": "companies/t-online"
+  }
+}

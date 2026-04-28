@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas-araujo",
+  "type": "person",
+  "title": "Thomas Araujo",
+  "compiled_truth": "Thomas Araujo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-29 to 2001-11-16), Thomas Araujo sent 0 and received 37 emails, totalling 37 interactions.",
+  "timeline": "- **2000-06-29** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas-araujo",
+    "name": "Thomas Araujo",
+    "email": "thomas.araujo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

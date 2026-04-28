@@ -1,0 +1,14 @@
+{
+  "slug": "people/guy-sharfman",
+  "type": "person",
+  "title": "Guy Sharfman",
+  "compiled_truth": "Guy Sharfman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-30 to 2002-01-03), Guy Sharfman sent 1 and received 69 emails, totalling 70 interactions. Top correspondents: [L  Nicolay](people/l-nicolay) (1), [Harry Kingerski](people/harry-kingerski) (1), [D  Steffes](people/d-steffes) (1), [Rogers Herndon](people/rogers-herndon) (1), [Narsimha Misra](people/narsimha-misra) (1). Mailbox folders observed: power.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/guy-sharfman",
+    "name": "Guy Sharfman",
+    "email": "guy.sharfman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

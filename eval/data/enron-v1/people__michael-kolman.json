@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-kolman",
+  "type": "person",
+  "title": "Michael Kolman",
+  "compiled_truth": "Michael Kolman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2001-12-07), Michael Kolman sent 0 and received 61 emails, totalling 61 interactions.",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-kolman",
+    "name": "Michael Kolman",
+    "email": "michael.kolman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

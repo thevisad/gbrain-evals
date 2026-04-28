@@ -1,0 +1,14 @@
+{
+  "slug": "people/jerry-dempsey",
+  "type": "person",
+  "title": "Jerry Dempsey",
+  "compiled_truth": "Jerry Dempsey is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-13 to 2001-07-03), Jerry Dempsey sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2001-06-13** | First recorded email in corpus\n- **2001-07-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jerry-dempsey",
+    "name": "Jerry Dempsey",
+    "email": "jerry.dempsey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

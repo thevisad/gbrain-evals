@@ -1,0 +1,14 @@
+{
+  "slug": "people/daniel-jenkins",
+  "type": "person",
+  "title": "Daniel Jenkins",
+  "compiled_truth": "Daniel Jenkins is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2001-12-05), Daniel Jenkins sent 1 and received 102 emails, totalling 103 interactions. Top correspondents: [Rika Imai](people/rika-imai) (1), [Dustin Collins](people/dustin-collins) (1), [Ramanarao Tamma](people/ramanarao-tamma) (1), [Don Baughman](people/don-baughman) (1). Mailbox folders observed: calendar.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/daniel-jenkins",
+    "name": "Daniel Jenkins",
+    "email": "daniel.jenkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

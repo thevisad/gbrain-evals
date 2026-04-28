@@ -1,0 +1,14 @@
+{
+  "slug": "people/cooper",
+  "type": "person",
+  "title": " Cooper",
+  "compiled_truth": "Cooper is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-04 to 2001-11-27),  Cooper sent 6 and received 94 emails, totalling 100 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (6), [Ford Cooper](people/ford-cooper) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cooper",
+    "name": " Cooper",
+    "email": ".cooper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-smith",
+  "type": "person",
+  "title": "M  Smith",
+  "compiled_truth": "M  Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-18 to 2002-02-07), M  Smith sent 26 and received 65 emails, totalling 91 interactions. Top correspondents: [D  Winfree](people/d-winfree) (24), [Russ Severson](people/russ-severson) (23), [Andrea Dahlke](people/andrea-dahlke) (22), [D  Hare](people/d-hare) (22), [Errol Mclaughlin](people/errol-mclaughlin) (22). Mailbox folders observed: calendar, deleted_items, inbox, sent_items.",
+  "timeline": "- **2001-05-18** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-smith",
+    "name": "M  Smith",
+    "email": "m..smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

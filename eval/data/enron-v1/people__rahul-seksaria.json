@@ -1,0 +1,14 @@
+{
+  "slug": "people/rahul-seksaria",
+  "type": "person",
+  "title": "Rahul Seksaria",
+  "compiled_truth": "Rahul Seksaria is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-28), Rahul Seksaria sent 7 and received 87 emails, totalling 94 interactions. Top correspondents: [Clint Dean](people/clint-dean) (6), [Doug Gilbert-Smith](people/doug-gilbert-smith) (3), [Greg Trefz](people/greg-trefz) (2), [Steve Wang](people/steve-wang) (1), [Valerie Ramsower](people/valerie-ramsower) (1). Mailbox folders observed: calendar, deleted_items, inbox, info3.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rahul-seksaria",
+    "name": "Rahul Seksaria",
+    "email": "rahul.seksaria@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

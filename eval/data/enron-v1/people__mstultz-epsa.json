@@ -1,0 +1,14 @@
+{
+  "slug": "people/mstultz-epsa",
+  "type": "person",
+  "title": "Mstultz",
+  "compiled_truth": "Mstultz is an external contact at [Epsa](companies/epsa). Over the corpus period (2001-04-05 to 2001-07-31), Mstultz sent 0 and received 69 emails, totalling 69 interactions.",
+  "timeline": "- **2001-04-05** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mstultz-epsa",
+    "name": "Mstultz",
+    "email": "mstultz@epsa.org",
+    "primary_affiliation": "companies/epsa"
+  }
+}

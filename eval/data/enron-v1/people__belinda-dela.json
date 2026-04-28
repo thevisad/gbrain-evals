@@ -1,0 +1,14 @@
+{
+  "slug": "people/belinda-dela",
+  "type": "person",
+  "title": "Belinda Dela",
+  "compiled_truth": "Belinda Dela is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2001-10-19), Belinda Dela sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/belinda-dela",
+    "name": "Belinda Dela",
+    "email": "belinda.dela@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/danthony-stewart",
+  "type": "person",
+  "title": "Danthony",
+  "compiled_truth": "Danthony is an external contact at [Stewart](companies/stewart). Over the corpus period (2000-05-21 to 2001-02-12), Danthony sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2001-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/danthony-stewart",
+    "name": "Danthony",
+    "email": "danthony@stewart.com",
+    "primary_affiliation": "companies/stewart"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/arfan-aziz",
+  "type": "person",
+  "title": "Arfan Aziz",
+  "compiled_truth": "Arfan Aziz is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-08 to 2001-12-06), Arfan Aziz sent 6 and received 147 emails, totalling 153 interactions. Top correspondents: [Justin Boyd](people/justin-boyd) (5), [Mark Taylor](people/mark-taylor) (4), [Enron Group](people/enron-group) (4), [Patrick Markey](people/patrick-markey) (3), [David Forster](people/david-forster) (3). Mailbox folders observed: online_trading.",
+  "timeline": "- **1999-07-08** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/arfan-aziz",
+    "name": "Arfan Aziz",
+    "email": "arfan.aziz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

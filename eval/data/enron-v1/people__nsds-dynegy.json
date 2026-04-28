@@ -1,0 +1,14 @@
+{
+  "slug": "people/nsds-dynegy",
+  "type": "person",
+  "title": "Nsds",
+  "compiled_truth": "Nsds is an external contact at [Dynegy](companies/dynegy). Over the corpus period (2000-08-24 to 2000-11-22), Nsds sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-08-24** | First recorded email in corpus\n- **2000-11-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nsds-dynegy",
+    "name": "Nsds",
+    "email": "nsds@dynegy.com",
+    "primary_affiliation": "companies/dynegy"
+  }
+}

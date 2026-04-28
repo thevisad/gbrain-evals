@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarah-mulholland",
+  "type": "person",
+  "title": "Sarah Mulholland",
+  "compiled_truth": "Sarah Mulholland is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-27 to 2002-01-09), Sarah Mulholland sent 1 and received 324 emails, totalling 325 interactions. Top correspondents: [Jennifer Fraser](people/jennifer-fraser) (1), [John Arnold](people/john-arnold) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-12-27** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarah-mulholland",
+    "name": "Sarah Mulholland",
+    "email": "sarah.mulholland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

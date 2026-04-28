@@ -1,0 +1,34 @@
+{
+  "slug": "meetings/meeting-has-been-changed-2000-11",
+  "type": "meeting",
+  "title": "Meeting: Meeting Has Been Changed",
+  "compiled_truth": "Meeting: \"Meeting Has Been Changed\". Occurred 2000-11-27 with 1 related emails. Participants included: [Chad Starnes](people/chad-starnes), [Cyril Price](people/cyril-price), [Dean Laurent](people/dean-laurent), [Don Baughman](people/don-baughman), [Doug Miller](people/doug-miller), [Greg Trefz](people/greg-trefz), [Jay Wills](people/jay-wills), [Joe Errigo](people/joe-errigo)....",
+  "timeline": "- **2000-11-27** | Meeting: meeting has been changed",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-has-been-changed-2000-11",
+    "attendees": [
+      "people/chad-starnes",
+      "people/cyril-price",
+      "people/dean-laurent",
+      "people/don-baughman",
+      "people/doug-miller",
+      "people/greg-trefz",
+      "people/jay-wills",
+      "people/joe-errigo",
+      "people/joe-stepenovitch",
+      "people/john-kinser",
+      "people/juan-hernandez",
+      "people/kayne-coulter",
+      "people/keller-mayeaux",
+      "people/larry-campbell",
+      "people/lawrence-clayton",
+      "people/miguel-garcia",
+      "people/richard-hrabal",
+      "people/rudy-acevedo",
+      "people/russell-ballato",
+      "people/wayne-herndon"
+    ],
+    "date": "2000-11-27"
+  }
+}

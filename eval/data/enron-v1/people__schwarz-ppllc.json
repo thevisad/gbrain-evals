@@ -1,0 +1,14 @@
+{
+  "slug": "people/schwarz-ppllc",
+  "type": "person",
+  "title": "Schwarz",
+  "compiled_truth": "Schwarz is an external contact at [Ppllc](companies/ppllc). Over the corpus period (2000-05-18 to 2000-09-18), Schwarz sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/schwarz-ppllc",
+    "name": "Schwarz",
+    "email": "schwarz@ppllc.com",
+    "primary_affiliation": "companies/ppllc"
+  }
+}

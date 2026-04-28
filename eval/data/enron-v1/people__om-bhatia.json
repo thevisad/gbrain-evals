@@ -1,0 +1,14 @@
+{
+  "slug": "people/om-bhatia",
+  "type": "person",
+  "title": "Om Bhatia",
+  "compiled_truth": "Om Bhatia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2001-11-27), Om Bhatia sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/om-bhatia",
+    "name": "Om Bhatia",
+    "email": "om.bhatia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/nancy-bagot",
+  "type": "person",
+  "title": "Nancy Bagot",
+  "compiled_truth": "Nancy Bagot is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-15 to 2002-01-30), Nancy Bagot sent 18 and received 124 emails, totalling 142 interactions. Top correspondents: [Shelley Corman](people/shelley-corman) (17), [Robert Kilmer](people/robert-kilmer) (15), [Maria Pavlou](people/maria-pavlou) (15), [Janet Butler](people/janet-butler) (14), [Dari Dornan](people/dari-dornan) (14). Mailbox folders observed: deleted_items, ferc, inbox, tw, tw___transactional_requirements.",
+  "timeline": "- **2000-09-15** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nancy-bagot",
+    "name": "Nancy Bagot",
+    "email": "nancy.bagot@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

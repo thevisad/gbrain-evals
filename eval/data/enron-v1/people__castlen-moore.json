@@ -1,0 +1,14 @@
+{
+  "slug": "people/castlen-moore",
+  "type": "person",
+  "title": "Castlen Moore",
+  "compiled_truth": "Castlen Moore is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2002-01-25), Castlen Moore sent 3 and received 55 emails, totalling 58 interactions. Top correspondents: [Joe Stepenovitch](people/joe-stepenovitch) (2), [Don Baughman](people/don-baughman) (1), [Juan Hernandez](people/juan-hernandez) (1). Mailbox folders observed: deleted_items, power.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/castlen-moore",
+    "name": "Castlen Moore",
+    "email": "castlen.moore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

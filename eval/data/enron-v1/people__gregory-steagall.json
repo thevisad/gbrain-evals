@@ -1,0 +1,14 @@
+{
+  "slug": "people/gregory-steagall",
+  "type": "person",
+  "title": "Gregory Steagall",
+  "compiled_truth": "Gregory Steagall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-04 to 2001-10-29), Gregory Steagall sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **2000-02-04** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gregory-steagall",
+    "name": "Gregory Steagall",
+    "email": "gregory.steagall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

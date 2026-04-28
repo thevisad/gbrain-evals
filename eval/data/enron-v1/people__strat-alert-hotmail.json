@@ -1,0 +1,14 @@
+{
+  "slug": "people/strat-alert-hotmail",
+  "type": "person",
+  "title": "Strat Alert",
+  "compiled_truth": "Strat Alert is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-10-27 to 2001-11-27), Strat Alert sent 167 and received 2 emails, totalling 169 interactions. Top correspondents: [Rogers Herndon](people/rogers-herndon) (167), [Dana Davis](people/dana-davis) (166), [M  Presto](people/m-presto) (166), [J  Broderick](people/j-broderick) (166), [Garrett Tripp](people/garrett-tripp) (164).",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/strat-alert-hotmail",
+    "name": "Strat Alert",
+    "email": "strat_alert@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

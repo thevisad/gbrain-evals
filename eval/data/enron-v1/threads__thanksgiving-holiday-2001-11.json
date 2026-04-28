@@ -1,0 +1,23 @@
+{
+  "slug": "threads/thanksgiving-holiday-2001-11",
+  "type": "meeting",
+  "title": "Thread: Thanksgiving Holiday",
+  "compiled_truth": "Email thread: \"Thanksgiving Holiday\". Ran from 2001-11-20 to 2001-11-27 with 10 messages. Participants: [Enron Global Services - Us](people/enron-global-services-us), [Eveningmba](people/eveningmba-haas), [Frank Acuff](people/frank-acuff), [John Dushinske](people/john-dushinske), [Mitch Meyer](people/mitch-meyer), [No Address](people/no-address), [Stan Horton](people/stan-horton), [Stanley Horton](people/stanley-horton).",
+  "timeline": "- **2001-11-20** | Thread begins: thanksgiving holiday\n- **2001-11-27** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/thanksgiving-holiday-2001-11",
+    "attendees": [
+      "people/enron-global-services-us",
+      "people/eveningmba-haas",
+      "people/frank-acuff",
+      "people/john-dushinske",
+      "people/mitch-meyer",
+      "people/no-address",
+      "people/stan-horton",
+      "people/stanley-horton",
+      "people/tj-haas"
+    ],
+    "date": "2001-11-20"
+  }
+}

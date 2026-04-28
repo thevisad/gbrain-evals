@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-popkin",
+  "type": "person",
+  "title": "Michael Popkin",
+  "compiled_truth": "Michael Popkin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-03 to 2001-10-29), Michael Popkin sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1), [Shirley Crenshaw](people/shirley-crenshaw) (1).",
+  "timeline": "- **2000-04-03** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-popkin",
+    "name": "Michael Popkin",
+    "email": "michael.popkin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

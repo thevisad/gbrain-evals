@@ -1,0 +1,14 @@
+{
+  "slug": "people/peloqdr-selectenergy",
+  "type": "person",
+  "title": "Peloqdr",
+  "compiled_truth": "Peloqdr is an external contact at [Selectenergy](companies/selectenergy). Over the corpus period (2001-07-25 to 2001-10-18), Peloqdr sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peloqdr-selectenergy",
+    "name": "Peloqdr",
+    "email": "peloqdr@selectenergy.com",
+    "primary_affiliation": "companies/selectenergy"
+  }
+}

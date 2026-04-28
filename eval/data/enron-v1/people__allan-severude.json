@@ -1,0 +1,14 @@
+{
+  "slug": "people/allan-severude",
+  "type": "person",
+  "title": "Allan Severude",
+  "compiled_truth": "Allan Severude is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2000-10-25), Allan Severude sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [Stinson Gibner](people/stinson-gibner) (1), [Zhiyong Wei](people/zhiyong-wei) (1), [Jeremy Wong](people/jeremy-wong) (1), [Vince Kaminski](people/vince-kaminski) (1), [Paulo Issler](people/paulo-issler) (1).",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2000-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/allan-severude",
+    "name": "Allan Severude",
+    "email": "allan.severude@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

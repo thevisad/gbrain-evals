@@ -1,0 +1,14 @@
+{
+  "slug": "people/lauren-schlesinger",
+  "type": "person",
+  "title": "Lauren Schlesinger",
+  "compiled_truth": "Lauren Schlesinger is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2002-01-03), Lauren Schlesinger sent 0 and received 82 emails, totalling 82 interactions.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lauren-schlesinger",
+    "name": "Lauren Schlesinger",
+    "email": "lauren.schlesinger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

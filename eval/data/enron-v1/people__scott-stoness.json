@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-stoness",
+  "type": "person",
+  "title": "Scott Stoness",
+  "compiled_truth": "Scott Stoness is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-21 to 2001-11-06), Scott Stoness sent 39 and received 832 emails, totalling 871 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (38), [Harry Kingerski](people/harry-kingerski) (22), [Tamara Johnson](people/tamara-johnson) (15), [Don Black](people/don-black) (12), [Jbennett](people/jbennett-gmssr) (12).",
+  "timeline": "- **2000-03-21** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-stoness",
+    "name": "Scott Stoness",
+    "email": "scott.stoness@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

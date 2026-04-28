@@ -1,0 +1,14 @@
+{
+  "slug": "people/tyson-haas",
+  "type": "person",
+  "title": "Tyson",
+  "compiled_truth": "Tyson is an external contact at [Haas](companies/haas). Over the corpus period (2000-10-20 to 2001-11-27), Tyson sent 4 and received 29 emails, totalling 33 interactions. Top correspondents: [Eveningmba](people/eveningmba-haas) (4), [Mba03](people/mba03-haas) (3), [Mba02](people/mba02-haas) (3), [Mfe02](people/mfe02-haas) (3), [Allphds](people/allphds-haas) (3).",
+  "timeline": "- **2000-10-20** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tyson-haas",
+    "name": "Tyson",
+    "email": "tyson@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

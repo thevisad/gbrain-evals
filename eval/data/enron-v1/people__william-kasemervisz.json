@@ -1,0 +1,14 @@
+{
+  "slug": "people/william-kasemervisz",
+  "type": "person",
+  "title": "William Kasemervisz",
+  "compiled_truth": "William Kasemervisz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2001-04-11), William Kasemervisz sent 10 and received 63 emails, totalling 73 interactions. Top correspondents: [Martin Cuilla](people/martin-cuilla) (8), [Phillip Love](people/phillip-love) (3), [Jeffrey Gossett](people/jeffrey-gossett) (3), [Crystal Hyde](people/crystal-hyde) (2), [William Kelly](people/william-kelly) (2). Mailbox folders observed: 10_fantasy.",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2001-04-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/william-kasemervisz",
+    "name": "William Kasemervisz",
+    "email": "william.kasemervisz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

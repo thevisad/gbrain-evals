@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-smith",
+  "type": "person",
+  "title": "Matt Smith",
+  "compiled_truth": "Matt Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-01 to 2002-01-08), Matt Smith sent 755 and received 615 emails, totalling 1370 interactions. Top correspondents: [Ksiles](people/ksiles-hotmail) (54), [Kathy Scully](people/kathy-scully-milliman) (50), [Asalazar](people/asalazar-pirnie) (42), [Chris Hyde](people/chris-hyde) (37), [Angela Hylton](people/angela-hylton) (30). Mailbox folders observed: 07_saved, _sent_mail, calendar, deleted_items, netco, sent.",
+  "timeline": "- **2000-08-01** | First recorded email in corpus\n- **2002-01-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-smith",
+    "name": "Matt Smith",
+    "email": "matt.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

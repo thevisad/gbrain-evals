@@ -1,0 +1,14 @@
+{
+  "slug": "people/d-merril",
+  "type": "person",
+  "title": "D  Merril",
+  "compiled_truth": "D  Merril is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-01 to 2002-05-06), D  Merril sent 3 and received 15 emails, totalling 18 interactions. Top correspondents: [Richard Ring](people/richard-ring) (3), [Tina Holcombe](people/tina-holcombe) (1), [Liqun Pan](people/liqun-pan) (1), [Jeremy Blachman](people/jeremy-blachman) (1), [Todd Perry](people/todd-perry) (1). Mailbox folders observed: eesi_deleted_documents, inbox.",
+  "timeline": "- **2001-11-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d-merril",
+    "name": "D  Merril",
+    "email": "d..merril@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

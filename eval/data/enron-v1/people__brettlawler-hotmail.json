@@ -1,0 +1,14 @@
+{
+  "slug": "people/brettlawler-hotmail",
+  "type": "person",
+  "title": "Brettlawler",
+  "compiled_truth": "Brettlawler is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-01-07 to 2002-02-06), Brettlawler sent 19 and received 44 emails, totalling 63 interactions. Top correspondents: [Srhea](people/srhea-acm) (8), [Ebass](people/ebass) (8), [Chris A Regnier](people/chris-a-regnier-yahoo) (7), [Chmargau](people/chmargau-aol) (7), [Blawler875](people/blawler875-aol) (7).",
+  "timeline": "- **2000-01-07** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brettlawler-hotmail",
+    "name": "Brettlawler",
+    "email": "brettlawler@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

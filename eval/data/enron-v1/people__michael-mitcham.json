@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-mitcham",
+  "type": "person",
+  "title": "Michael Mitcham",
+  "compiled_truth": "Michael Mitcham is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-21 to 2001-10-26), Michael Mitcham sent 16 and received 28 emails, totalling 44 interactions. Top correspondents: [David Bush](people/david-bush) (16), [Mark Diedrich](people/mark-diedrich) (16), [Paul Fox](people/paul-fox) (16), [David Johnson](people/david-johnson) (16), [Robert Lee](people/robert-lee) (16). Mailbox folders observed: industrials.",
+  "timeline": "- **1999-12-21** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-mitcham",
+    "name": "Michael Mitcham",
+    "email": "michael.mitcham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

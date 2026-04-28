@@ -1,0 +1,14 @@
+{
+  "slug": "people/g-stage",
+  "type": "person",
+  "title": "G  Stage",
+  "compiled_truth": "G  Stage is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-27 to 2002-02-11), G  Stage sent 2 and received 178 emails, totalling 180 interactions. Top correspondents: [Jean Adams](people/jean-adams) (1), [Vernon Mercaldo](people/vernon-mercaldo) (1), [John Buchanan](people/john-buchanan) (1), [Lynn Blair](people/lynn-blair) (1), [Robert Benningfield](people/robert-benningfield) (1). Mailbox folders observed: deleted_items, misc_tw.",
+  "timeline": "- **2001-02-27** | First recorded email in corpus\n- **2002-02-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/g-stage",
+    "name": "G  Stage",
+    "email": "g..stage@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "meetings/action-required-attend-staff-meeting-fri-2001-07",
+  "type": "meeting",
+  "title": "Meeting: Action Required: Attend Staff Meeting Friday, July 20",
+  "compiled_truth": "Meeting: \"Action Required: Attend Staff Meeting Friday, July 20\". Occurred 2001-07-18 with 1 related emails. Participants included: [Amy Fitzpatrick](people/amy-fitzpatrick), [Bill Williams](people/bill-williams), [Cara Semperger](people/cara-semperger), [Chris Stokley](people/chris-stokley), [Debra Davidson](people/debra-davidson), [Diana Scholtes](people/diana-scholtes), [Elliot Mainzer](people/elliot-mainzer), [Greg Wolfe](people/greg-wolfe)....",
+  "timeline": "- **2001-07-18** | Meeting: action required: attend staff meeting friday, july 20",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/action-required-attend-staff-meeting-fri-2001-07",
+    "attendees": [
+      "people/amy-fitzpatrick",
+      "people/bill-williams",
+      "people/cara-semperger",
+      "people/chris-stokley",
+      "people/debra-davidson",
+      "people/diana-scholtes",
+      "people/elliot-mainzer",
+      "people/greg-wolfe",
+      "people/h-foster",
+      "people/jeff-richter",
+      "people/mark-fischer",
+      "people/matt-motley",
+      "people/mike-swerzbin",
+      "people/p-o-neil",
+      "people/robert-badeer",
+      "people/sean-crandall",
+      "people/tim-belden",
+      "people/tim-heizenrader",
+      "people/tom-alonso"
+    ],
+    "date": "2001-07-18"
+  }
+}

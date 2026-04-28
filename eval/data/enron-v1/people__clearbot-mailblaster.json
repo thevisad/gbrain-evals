@@ -1,0 +1,14 @@
+{
+  "slug": "people/clearbot-mailblaster",
+  "type": "person",
+  "title": "Clearbot",
+  "compiled_truth": "Clearbot is an external contact at [Mailblaster](companies/mailblaster). Over the corpus period (2000-12-13 to 2001-10-25), Clearbot sent 29 and received 0 emails, totalling 29 interactions. Top correspondents: [Kensey Subscriber](people/kensey-subscriber-mailman) (28), [Alewis](people/alewis) (1).",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clearbot-mailblaster",
+    "name": "Clearbot",
+    "email": "clearbot@mailblaster.clearstation.com",
+    "primary_affiliation": "companies/mailblaster"
+  }
+}

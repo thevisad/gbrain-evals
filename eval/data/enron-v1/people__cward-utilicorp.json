@@ -1,0 +1,14 @@
+{
+  "slug": "people/cward-utilicorp",
+  "type": "person",
+  "title": "Cward",
+  "compiled_truth": "Cward is an external contact at [Utilicorp](companies/utilicorp). Over the corpus period (2001-05-24 to 2001-06-11), Cward sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-05-24** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cward-utilicorp",
+    "name": "Cward",
+    "email": "cward@utilicorp.com",
+    "primary_affiliation": "companies/utilicorp"
+  }
+}

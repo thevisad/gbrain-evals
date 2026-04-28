@@ -1,0 +1,30 @@
+{
+  "slug": "meetings/investor-call-5-2026-11-02",
+  "type": "meeting",
+  "title": "Investor Call — Thornfield Capital (2026-11-02)",
+  "compiled_truth": "Call ran about 45 minutes. [Seren Voss](people/seren-voss) led most of the conversation on the commercial side while [Xen Castillo](people/xen-castillo) handled technical deep-dive questions. Thornfield Capital came in warm — their infrastructure analyst had apparently been tracking [Anchor Codec](companies/anchor) since the seed round and flagged the company after the Quartus Logistics deployment started generating referral interest.\n\nMain thread of discussion was Thornfield's appetite for a late-stage Series A check, somewhere in the $8–12M range. They're positioning themselves as a \"conviction-first\" fund, which in practice seems to mean they want a board seat or at least a formal observer role. Seren was noncommittal on governance but walked them through the current cap table structure and noted that earlier investors had been supportive of keeping the board lean. Thornfield didn't push hard on this — felt more like a marker they were laying down for term sheet negotiations.\n\nXen fielded questions about the single-pass architecture and how it compares to legacy multi-step pipelines. The Thornfield team seemed genuinely impressed by latency benchmarks but kept circling back to \"what's the moat\" — specifically whether the deterministic primitves could be replicated by a well-funded competitor. Xen's answer was measured: pointed to the compounding advantage of having already deployed in production environments where correctness guarantees are non-negotiable, plus the fact that the engineering team has deep domain knowledge that's hard to hire for on the open market.\n\nEnterprise focus came up repeatedly. Thornfield wants to see Anchor lean harder into regulated verticals — financial services, defense-adjacent, healthcare data transit. Seren acknowledged this is the direction but pushed back gently on timeline, noting that the current GTM motion through logistics and manufacturing is generating revenue now and shouldn't be starved to chase longer sales cycles. There was a brief but interesting tangent about whether Anchor should hire a dedicated enterprise sales lead before or after closing the round.\n\nFollow-up items: Thornfield wants to see a data room by mid-November. Seren agreed to send over the customer pipeline summary and audited financials. Next call tentatively scheduled for the week of November 16th, pending their IC review.",
+  "timeline": [
+    "- **2026-10-18** | Thornfield Capital's infrastructure analyst reaches out to [Seren Voss](people/seren-voss) via warm intro from a mutual contact",
+    "- **2026-10-25** | Preliminary deck and one-pager sent to Thornfield; initial screening call with their associate",
+    "- **2026-11-02** | Full investor call with Thornfield Capital — [Seren Voss](people/seren-voss) and [Xen Castillo](people/xen-castillo) present commercial and technical overview",
+    "- **2026-11-11** | Data room opened for Thornfield; includes audited financials, pipeline summary, and deployment case studies",
+    "- **2026-11-18** | Follow-up call with Thornfield's investment committee; deeper technical diligence with [Xen Castillo](people/xen-castillo)",
+    "- **2026-12-03** | Thornfield issues preliminary term sheet for $10M at $48M pre-money; board observer seat included",
+    "- **2026-12-19** | [Anchor Codec](companies/anchor) counters on valuation and governance terms; negotiations extend into January",
+    "- **2027-01-14** | Final Series A terms agreed with Thornfield as co-lead; round closes at $14.5M total",
+    "- **2027-03-01** | First Thornfield-sponsored board observer meeting; discussion centers on enterprise vertical prioritization"
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/investor-call-5-2026-11-02",
+    "name": "Investor Call — Thornfield Capital",
+    "meeting_type": "investor_call",
+    "date": "2026-11-02",
+    "attendees": [
+      "people/seren-voss",
+      "people/xen-castillo"
+    ],
+    "topic_company": "companies/anchor",
+    "topic": "Late-stage Series A interest — enterprise focus"
+  }
+}

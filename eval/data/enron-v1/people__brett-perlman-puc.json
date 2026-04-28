@@ -1,0 +1,14 @@
+{
+  "slug": "people/brett-perlman-puc",
+  "type": "person",
+  "title": "Brett Perlman",
+  "compiled_truth": "Brett Perlman is an external contact at [Puc](companies/puc). Over the corpus period (2000-11-13 to 2001-07-13), Brett Perlman sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-07-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brett-perlman-puc",
+    "name": "Brett Perlman",
+    "email": "brett.perlman@puc.state.tx.us",
+    "primary_affiliation": "companies/puc"
+  }
+}

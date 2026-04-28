@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-hnks",
+  "type": "person",
+  "title": "Kelly",
+  "compiled_truth": "Kelly is an external contact at [Hnks](companies/hnks). Over the corpus period (2000-09-01 to 2001-11-20), Kelly sent 1 and received 76 emails, totalling 77 interactions. Top correspondents: [Pross](people/pross-cmta) (1), [Kgough](people/kgough-calpine) (1), [Cmicheli](people/cmicheli-carpentersnodgrass) (1), [Cabaker](people/cabaker-duke-energy) (1), [David Parquet](people/david-parquet) (1).",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-hnks",
+    "name": "Kelly",
+    "email": "kelly@hnks.com",
+    "primary_affiliation": "companies/hnks"
+  }
+}

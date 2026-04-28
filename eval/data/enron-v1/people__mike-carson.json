@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-carson",
+  "type": "person",
+  "title": "Mike Carson",
+  "compiled_truth": "Mike Carson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-06 to 2002-02-28), Mike Carson sent 464 and received 655 emails, totalling 1119 interactions. Top correspondents: [Tpape](people/tpape-satake-usa) (41), [Carson](people/carson-us) (34), [Rgibbs](people/rgibbs-btubrokers) (28), [Dttowns](people/dttowns-swbell) (24), [Trpape](people/trpape-aol) (23). Mailbox folders observed: _sent_mail, sent, sent_items.",
+  "timeline": "- **2000-03-06** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-carson",
+    "name": "Mike Carson",
+    "email": "mike.carson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

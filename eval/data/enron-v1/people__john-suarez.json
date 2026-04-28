@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-suarez",
+  "type": "person",
+  "title": "John Suarez",
+  "compiled_truth": "John Suarez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-23 to 2002-02-25), John Suarez sent 37 and received 267 emails, totalling 304 interactions. Top correspondents: [M  Presto](people/m-presto) (21), [Robert Benson](people/robert-benson) (6), [J  Sturm](people/j-sturm) (6), [Mike Carson](people/mike-carson) (6), [Dana Davis](people/dana-davis) (5). Mailbox folders observed: _americas, deleted_items, inbox, koch.",
+  "timeline": "- **2000-03-23** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-suarez",
+    "name": "John Suarez",
+    "email": "john.suarez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

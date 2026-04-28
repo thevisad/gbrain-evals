@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-errigo",
+  "type": "person",
+  "title": "Joe Errigo",
+  "compiled_truth": "Joe Errigo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-11 to 2002-02-28), Joe Errigo sent 9 and received 566 emails, totalling 575 interactions. Top correspondents: [Don Baughman](people/don-baughman) (5), [Juan Hernandez](people/juan-hernandez) (4), [Corry Bentley](people/corry-bentley) (2), [John Kinser](people/john-kinser) (1). Mailbox folders observed: inbox, personal, power.",
+  "timeline": "- **2000-05-11** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-errigo",
+    "name": "Joe Errigo",
+    "email": "joe.errigo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

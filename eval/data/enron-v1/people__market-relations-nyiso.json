@@ -1,0 +1,14 @@
+{
+  "slug": "people/market-relations-nyiso",
+  "type": "person",
+  "title": "Market Relations",
+  "compiled_truth": "Market Relations is an external contact at [Nyiso](companies/nyiso). Over the corpus period (2000-11-14 to 2002-03-04), Market Relations sent 79 and received 131 emails, totalling 210 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (14), [Tie List Server](people/tie-list-server-nyiso) (7), [Rring](people/rring) (4), [D  Thomas](people/d-thomas) (3), [Nyiso Tech Exchange](people/nyiso-tech-exchange-global2000) (1).",
+  "timeline": "- **2000-11-14** | First recorded email in corpus\n- **2002-03-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/market-relations-nyiso",
+    "name": "Market Relations",
+    "email": "market_relations@nyiso.com",
+    "primary_affiliation": "companies/nyiso"
+  }
+}

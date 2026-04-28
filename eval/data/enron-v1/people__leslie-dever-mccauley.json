@@ -1,0 +1,14 @@
+{
+  "slug": "people/leslie-dever-mccauley",
+  "type": "person",
+  "title": "Leslie Dever-Mccauley",
+  "compiled_truth": "Leslie Dever-Mccauley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-08 to 2001-11-30), Leslie Dever-Mccauley sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-12-08** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leslie-dever-mccauley",
+    "name": "Leslie Dever-Mccauley",
+    "email": "leslie.dever-mccauley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

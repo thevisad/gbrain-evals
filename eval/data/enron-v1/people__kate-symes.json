@@ -1,0 +1,14 @@
+{
+  "slug": "people/kate-symes",
+  "type": "person",
+  "title": "Kate Symes",
+  "compiled_truth": "Kate Symes is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-30), Kate Symes sent 2859 and received 2609 emails, totalling 5468 interactions. Top correspondents: [Evelyn Metoyer](people/evelyn-metoyer) (470), [Kerri Thompson](people/kerri-thompson) (445), [Stephanie Piwetz](people/stephanie-piwetz) (216), [Sharen Cason](people/sharen-cason) (210), [Kimberly Hundl](people/kimberly-hundl) (149). Mailbox folders observed: _sent_mail, bill_williams_iii, deleted_items, inbox, scheduling, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kate-symes",
+    "name": "Kate Symes",
+    "email": "kate.symes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

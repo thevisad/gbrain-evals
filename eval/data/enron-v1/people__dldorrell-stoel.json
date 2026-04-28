@@ -1,0 +1,14 @@
+{
+  "slug": "people/dldorrell-stoel",
+  "type": "person",
+  "title": "Dldorrell",
+  "compiled_truth": "Dldorrell is an external contact at [Stoel](companies/stoel). Over the corpus period (2001-03-14 to 2001-04-11), Dldorrell sent 0 and received 59 emails, totalling 59 interactions.",
+  "timeline": "- **2001-03-14** | First recorded email in corpus\n- **2001-04-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dldorrell-stoel",
+    "name": "Dldorrell",
+    "email": "dldorrell@stoel.com",
+    "primary_affiliation": "companies/stoel"
+  }
+}

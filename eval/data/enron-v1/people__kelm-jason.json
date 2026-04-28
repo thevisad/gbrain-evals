@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelm-jason",
+  "type": "person",
+  "title": "Kelm Jason",
+  "compiled_truth": "Kelm Jason is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-17 to 2001-09-18), Kelm Jason sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelm-jason",
+    "name": "Kelm Jason",
+    "email": "kelm.jason@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

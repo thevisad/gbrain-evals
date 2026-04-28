@@ -1,0 +1,14 @@
+{
+  "slug": "people/danielle-saadia",
+  "type": "person",
+  "title": "Danielle Saadia",
+  "compiled_truth": "Danielle Saadia is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-30 to 2001-12-03), Danielle Saadia sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2001-01-30** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/danielle-saadia",
+    "name": "Danielle Saadia",
+    "email": "danielle.saadia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

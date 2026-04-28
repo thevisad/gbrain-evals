@@ -1,0 +1,14 @@
+{
+  "slug": "people/saulh-econnergy",
+  "type": "person",
+  "title": "Saulh",
+  "compiled_truth": "Saulh is an external contact at [Econnergy](companies/econnergy). Over the corpus period (2000-11-07 to 2001-09-11), Saulh sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/saulh-econnergy",
+    "name": "Saulh",
+    "email": "saulh@econnergy.com",
+    "primary_affiliation": "companies/econnergy"
+  }
+}

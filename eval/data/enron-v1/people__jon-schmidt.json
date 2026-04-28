@@ -1,0 +1,14 @@
+{
+  "slug": "people/jon-schmidt",
+  "type": "person",
+  "title": "Jon Schmidt",
+  "compiled_truth": "Jon Schmidt is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-13 to 2001-10-15), Jon Schmidt sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-09-13** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jon-schmidt",
+    "name": "Jon Schmidt",
+    "email": "jon.schmidt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

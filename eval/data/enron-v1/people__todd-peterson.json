@@ -1,0 +1,14 @@
+{
+  "slug": "people/todd-peterson",
+  "type": "person",
+  "title": "Todd Peterson",
+  "compiled_truth": "Todd Peterson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2001-05-09), Todd Peterson sent 25 and received 22 emails, totalling 47 interactions. Top correspondents: [Pybarbo](people/pybarbo) (14), [Paul Y'Barbo](people/paul-y-barbo) (11), [Dan Masters](people/dan-masters) (4), [Les Webber](people/les-webber) (3), [Tony Galt](people/tony-galt) (2).",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/todd-peterson",
+    "name": "Todd Peterson",
+    "email": "todd.peterson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

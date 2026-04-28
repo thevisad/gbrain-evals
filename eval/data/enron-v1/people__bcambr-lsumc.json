@@ -1,0 +1,14 @@
+{
+  "slug": "people/bcambr-lsumc",
+  "type": "person",
+  "title": "Bcambr",
+  "compiled_truth": "Bcambr is an external contact at [Lsumc](companies/lsumc). Over the corpus period (2000-06-01 to 2001-04-20), Bcambr sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-06-01** | First recorded email in corpus\n- **2001-04-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bcambr-lsumc",
+    "name": "Bcambr",
+    "email": "bcambr@lsumc.edu",
+    "primary_affiliation": "companies/lsumc"
+  }
+}

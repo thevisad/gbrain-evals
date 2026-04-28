@@ -1,0 +1,14 @@
+{
+  "slug": "people/prasanna-chari",
+  "type": "person",
+  "title": "Prasanna Chari",
+  "compiled_truth": "Prasanna Chari is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-02-20), Prasanna Chari sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-02-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/prasanna-chari",
+    "name": "Prasanna Chari",
+    "email": "prasanna.chari@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

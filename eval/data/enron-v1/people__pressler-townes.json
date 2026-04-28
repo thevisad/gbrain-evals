@@ -1,0 +1,14 @@
+{
+  "slug": "people/pressler-townes",
+  "type": "person",
+  "title": "Pressler Townes",
+  "compiled_truth": "Pressler Townes is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-08 to 2002-03-14), Pressler Townes sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pressler-townes",
+    "name": "Pressler Townes",
+    "email": "pressler.townes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

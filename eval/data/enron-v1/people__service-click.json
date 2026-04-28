@@ -1,0 +1,14 @@
+{
+  "slug": "people/service-click",
+  "type": "person",
+  "title": "Service",
+  "compiled_truth": "Service is an external contact at [Click](companies/click). Over the corpus period (2000-11-07 to 2001-12-10), Service sent 41 and received 0 emails, totalling 41 interactions. Top correspondents: [Lcampbel](people/lcampbel) (34), [Jason Wolfe](people/jason-wolfe) (4), [Shendri](people/shendri) (2), [Scott Hendrickson](people/scott-hendrickson) (1).",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/service-click",
+    "name": "Service",
+    "email": "service@click.jcrew.com",
+    "primary_affiliation": "companies/click"
+  }
+}

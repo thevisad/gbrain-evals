@@ -1,0 +1,14 @@
+{
+  "slug": "people/shirley-tijerina",
+  "type": "person",
+  "title": "Shirley Tijerina",
+  "compiled_truth": "Shirley Tijerina is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-13), Shirley Tijerina sent 5 and received 252 emails, totalling 257 interactions. Top correspondents: [Sally Beck](people/sally-beck) (3), [Georganne Hodges](people/georganne-hodges) (2), [Rick Buy](people/rick-buy) (2), [Christina Valdez](people/christina-valdez) (2), [K  Heathman](people/k-heathman) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shirley-tijerina",
+    "name": "Shirley Tijerina",
+    "email": "shirley.tijerina@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

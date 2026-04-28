@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristine-best",
+  "type": "person",
+  "title": "Kristine Best",
+  "compiled_truth": "Kristine Best is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-20 to 2001-11-29), Kristine Best sent 2 and received 26 emails, totalling 28 interactions. Top correspondents: [Richard Deming](people/richard-deming) (1), [Anne Bike](people/anne-bike) (1), [Carole Frank](people/carole-frank) (1), [Ryan O'Rourke](people/ryan-o-rourke) (1), [Elizabeth Shim](people/elizabeth-shim) (1). Mailbox folders observed: central.",
+  "timeline": "- **2001-03-20** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristine-best",
+    "name": "Kristine Best",
+    "email": "kristine.best@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

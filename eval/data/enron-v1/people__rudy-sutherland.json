@@ -1,0 +1,14 @@
+{
+  "slug": "people/rudy-sutherland",
+  "type": "person",
+  "title": "Rudy Sutherland",
+  "compiled_truth": "Rudy Sutherland is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-04-11), Rudy Sutherland sent 2 and received 3 emails, totalling 5 interactions. Top correspondents: [Anthony Tran](people/anthony-tran) (1), [Chad Landry](people/chad-landry) (1), [40Enron](people/40enron) (1), [Marc Pederson](people/marc-pederson) (1), [Sheila Knudsen](people/sheila-knudsen) (1). Mailbox folders observed: action_items_in.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-04-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rudy-sutherland",
+    "name": "Rudy Sutherland",
+    "email": "rudy.sutherland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tod-lindholm",
+  "type": "person",
+  "title": "Tod Lindholm",
+  "compiled_truth": "Tod Lindholm is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2001-04-25), Tod Lindholm sent 3 and received 52 emails, totalling 55 interactions. Top correspondents: [Sally Beck](people/sally-beck) (2), [Rod Hayslett](people/rod-hayslett) (2), [Wes Colwell](people/wes-colwell) (1), [Fernley Dyson](people/fernley-dyson) (1), [Kevin Hughes](people/kevin-hughes) (1).",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2001-04-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tod-lindholm",
+    "name": "Tod Lindholm",
+    "email": "tod.lindholm@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

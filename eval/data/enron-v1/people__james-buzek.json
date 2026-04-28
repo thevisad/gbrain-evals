@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-buzek",
+  "type": "person",
+  "title": "James Buzek",
+  "compiled_truth": "James Buzek is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-01-14), James Buzek sent 1 and received 4 emails, totalling 5 interactions. Top correspondents: [Rick Buy](people/rick-buy) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-buzek",
+    "name": "James Buzek",
+    "email": "james.buzek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

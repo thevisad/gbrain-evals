@@ -1,0 +1,14 @@
+{
+  "slug": "people/hilda-yount",
+  "type": "person",
+  "title": "Hilda Yount",
+  "compiled_truth": "Hilda Yount is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-29 to 2001-10-03), Hilda Yount sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-06-29** | First recorded email in corpus\n- **2001-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hilda-yount",
+    "name": "Hilda Yount",
+    "email": "hilda.yount@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

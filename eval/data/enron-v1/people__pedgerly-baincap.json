@@ -1,0 +1,14 @@
+{
+  "slug": "people/pedgerly-baincap",
+  "type": "person",
+  "title": "Pedgerly",
+  "compiled_truth": "Pedgerly is an external contact at [Baincap](companies/baincap). Over the corpus period (2000-11-17 to 2000-12-08), Pedgerly sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2000-12-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pedgerly-baincap",
+    "name": "Pedgerly",
+    "email": "pedgerly@baincap.com",
+    "primary_affiliation": "companies/baincap"
+  }
+}

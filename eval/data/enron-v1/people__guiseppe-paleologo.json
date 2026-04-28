@@ -1,0 +1,14 @@
+{
+  "slug": "people/guiseppe-paleologo",
+  "type": "person",
+  "title": "Guiseppe Paleologo",
+  "compiled_truth": "Guiseppe Paleologo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2000-09-15), Guiseppe Paleologo sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2000-09-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/guiseppe-paleologo",
+    "name": "Guiseppe Paleologo",
+    "email": "guiseppe.paleologo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

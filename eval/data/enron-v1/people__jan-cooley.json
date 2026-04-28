@@ -1,0 +1,14 @@
+{
+  "slug": "people/jan-cooley",
+  "type": "person",
+  "title": "Jan Cooley",
+  "compiled_truth": "Jan Cooley is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-28), Jan Cooley sent 24 and received 57 emails, totalling 81 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (14), [Joseph Alamo](people/joseph-alamo) (10), [Mday](people/mday-gmssr) (8), [Mike Smith](people/mike-smith) (7), [Linda Noske](people/linda-noske) (7). Mailbox folders observed: bill_williams_iii, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jan-cooley",
+    "name": "Jan Cooley",
+    "email": "jan.cooley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/walter",
+  "type": "person",
+  "title": " Walter",
+  "compiled_truth": "Walter is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-23 to 2001-12-21),  Walter sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-05-23** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/walter",
+    "name": " Walter",
+    "email": ".walter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

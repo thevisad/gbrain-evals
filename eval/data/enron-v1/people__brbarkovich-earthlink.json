@@ -1,0 +1,14 @@
+{
+  "slug": "people/brbarkovich-earthlink",
+  "type": "person",
+  "title": "Brbarkovich",
+  "compiled_truth": "Brbarkovich is an external contact at [Earthlink](companies/earthlink). Over the corpus period (2000-05-30 to 2002-06-12), Brbarkovich sent 6 and received 228 emails, totalling 234 interactions. Top correspondents: [Dhunter](people/dhunter-s-k-w) (5), [Jdasovic](people/jdasovic) (5), [Vjw](people/vjw-cleanpower) (4), [Fieldejr](people/fieldejr-sce) (4), [Schoongl](people/schoongl-sce) (4).",
+  "timeline": "- **2000-05-30** | First recorded email in corpus\n- **2002-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brbarkovich-earthlink",
+    "name": "Brbarkovich",
+    "email": "brbarkovich@earthlink.net",
+    "primary_affiliation": "companies/earthlink"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-veatch",
+  "type": "person",
+  "title": "Stephen Veatch",
+  "compiled_truth": "Stephen Veatch is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-17 to 2002-05-06), Stephen Veatch sent 1 and received 231 emails, totalling 232 interactions. Top correspondents: [John Keiser](people/john-keiser) (1), [Robert Kilmer](people/robert-kilmer) (1), [Teb Lokey](people/teb-lokey) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-01-17** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-veatch",
+    "name": "Stephen Veatch",
+    "email": "stephen.veatch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

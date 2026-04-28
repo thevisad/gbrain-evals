@@ -1,0 +1,14 @@
+{
+  "slug": "people/tamara-black",
+  "type": "person",
+  "title": "Tamara Black",
+  "compiled_truth": "Tamara Black is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-05-31), Tamara Black sent 50 and received 163 emails, totalling 213 interactions. Top correspondents: [Lloyd Will](people/lloyd-will) (36), [Kayne Coulter](people/kayne-coulter) (32), [Don Baughman](people/don-baughman) (32), [Larry Campbell](people/larry-campbell) (32), [Patrick Hanse](people/patrick-hanse) (32). Mailbox folders observed: _sent_mail, inbox, power, sent, trading_info.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tamara-black",
+    "name": "Tamara Black",
+    "email": "tamara.black@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

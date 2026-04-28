@@ -1,0 +1,24 @@
+{
+  "slug": "companies/rmi",
+  "type": "company",
+  "title": "Rmi",
+  "compiled_truth": "Rmi is an external organization that appears in the Enron email corpus. Domain: rmi.com. Total email interactions with Enron: 244. Known contacts: 7 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (244 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/rmi",
+    "name": "Rmi",
+    "employees": [
+      "people/ablovins-rmi",
+      "people/browning-rmi",
+      "people/donnancy-rmi",
+      "people/jbouillion-rmi",
+      "people/rabago-rmi",
+      "people/ralee-rmi",
+      "people/simonsen-rmi"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

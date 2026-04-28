@@ -1,0 +1,14 @@
+{
+  "slug": "people/regina-karsolich",
+  "type": "person",
+  "title": "Regina Karsolich",
+  "compiled_truth": "Regina Karsolich is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-31 to 2001-11-26), Regina Karsolich sent 2 and received 29 emails, totalling 31 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1), [Jeff Skilling](people/jeff-skilling) (1).",
+  "timeline": "- **2000-07-31** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/regina-karsolich",
+    "name": "Regina Karsolich",
+    "email": "regina.karsolich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

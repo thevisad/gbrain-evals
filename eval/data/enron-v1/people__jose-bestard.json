@@ -1,0 +1,14 @@
+{
+  "slug": "people/jose-bestard",
+  "type": "person",
+  "title": "Jose Bestard",
+  "compiled_truth": "Jose Bestard is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-12-03), Jose Bestard sent 38 and received 315 emails, totalling 353 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (19), [Charles Yeung](people/charles-yeung) (8), [Steven Kean](people/steven-kean) (7), [Keith Miceli](people/keith-miceli) (6), [D  Steffes](people/d-steffes) (6). Mailbox folders observed: deleted_items, humor, inbox, nerc, southern_cone.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jose-bestard",
+    "name": "Jose Bestard",
+    "email": "jose.bestard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

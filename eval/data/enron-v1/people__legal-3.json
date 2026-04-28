@@ -1,0 +1,14 @@
+{
+  "slug": "people/legal-3",
+  "type": "person",
+  "title": "Legal 3",
+  "compiled_truth": "Legal 3 is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-01 to 2001-06-07), Legal 3 sent 4 and received 45 emails, totalling 49 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (3), [Mark Evans](people/mark-evans) (2), [Janine Juggins](people/janine-juggins) (2), [Justin Boyd](people/justin-boyd) (2), [Alan Aronowitz](people/alan-aronowitz) (2).",
+  "timeline": "- **1999-04-01** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/legal-3",
+    "name": "Legal 3",
+    "email": "legal.3@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

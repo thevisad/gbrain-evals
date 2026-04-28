@@ -1,0 +1,14 @@
+{
+  "slug": "people/jobrien-sithe",
+  "type": "person",
+  "title": "Jobrien",
+  "compiled_truth": "Jobrien is an external contact at [Sithe](companies/sithe). Over the corpus period (2001-03-12 to 2001-10-18), Jobrien sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jobrien-sithe",
+    "name": "Jobrien",
+    "email": "jobrien@sithe.com",
+    "primary_affiliation": "companies/sithe"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/elaine-citizenspower",
+  "type": "person",
+  "title": "Elaine",
+  "compiled_truth": "Elaine is an external contact at [Citizenspower](companies/citizenspower). Over the corpus period (2000-03-31 to 2001-03-16), Elaine sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-03-31** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elaine-citizenspower",
+    "name": "Elaine",
+    "email": "elaine@citizenspower.com",
+    "primary_affiliation": "companies/citizenspower"
+  }
+}

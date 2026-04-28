@@ -1,0 +1,14 @@
+{
+  "slug": "people/nnieves-llgm",
+  "type": "person",
+  "title": "Nnieves",
+  "compiled_truth": "Nnieves is an external contact at [Llgm](companies/llgm). Over the corpus period (2001-03-09 to 2001-05-22), Nnieves sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-03-09** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nnieves-llgm",
+    "name": "Nnieves",
+    "email": "nnieves@llgm.com",
+    "primary_affiliation": "companies/llgm"
+  }
+}

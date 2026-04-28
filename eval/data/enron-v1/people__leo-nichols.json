@@ -1,0 +1,14 @@
+{
+  "slug": "people/leo-nichols",
+  "type": "person",
+  "title": "Leo Nichols",
+  "compiled_truth": "Leo Nichols is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-05 to 2002-01-24), Leo Nichols sent 4 and received 91 emails, totalling 95 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (3), [Ron Beidelman](people/ron-beidelman) (2), [Butch Russell](people/butch-russell) (2), [Louis Soldano](people/louis-soldano) (1), [Rick Cates](people/rick-cates) (1). Mailbox folders observed: 2000_goals_and_objectives, inbox.",
+  "timeline": "- **1999-04-05** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leo-nichols",
+    "name": "Leo Nichols",
+    "email": "leo.nichols@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

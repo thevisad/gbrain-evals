@@ -1,0 +1,14 @@
+{
+  "slug": "people/undisclosed-recipients-mailman",
+  "type": "person",
+  "title": "Undisclosed Recipients",
+  "compiled_truth": "Undisclosed Recipients is an external contact at [Mailman](companies/mailman). Over the corpus period (1986-04-26 to 2020-12-29), Undisclosed Recipients sent 0 and received 123 emails, totalling 123 interactions.",
+  "timeline": "- **1986-04-26** | First recorded email in corpus\n- **2020-12-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/undisclosed-recipients-mailman",
+    "name": "Undisclosed Recipients",
+    "email": "undisclosed.recipients@mailman.enron.com",
+    "primary_affiliation": "companies/mailman"
+  }
+}

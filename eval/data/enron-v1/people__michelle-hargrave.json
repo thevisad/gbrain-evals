@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-hargrave",
+  "type": "person",
+  "title": "Michelle Hargrave",
+  "compiled_truth": "Michelle Hargrave is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-12-03), Michelle Hargrave sent 7 and received 41 emails, totalling 48 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (3), [Kenneth Lay](people/kenneth-lay) (3), [Elizabeth Linnell](people/elizabeth-linnell) (1), [Mary Lessor](people/mary-lessor) (1), [Beverley Ashcroft](people/beverley-ashcroft) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-hargrave",
+    "name": "Michelle Hargrave",
+    "email": "michelle.hargrave@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

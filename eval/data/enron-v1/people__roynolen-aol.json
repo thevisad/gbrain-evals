@@ -1,0 +1,14 @@
+{
+  "slug": "people/roynolen-aol",
+  "type": "person",
+  "title": "Roynolen",
+  "compiled_truth": "Roynolen is an external contact at [AOL](companies/aol). Over the corpus period (2001-08-31 to 2001-11-19), Roynolen sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-08-31** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roynolen-aol",
+    "name": "Roynolen",
+    "email": "roynolen@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

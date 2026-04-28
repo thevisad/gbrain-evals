@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-riley",
+  "type": "person",
+  "title": "Jennifer Riley",
+  "compiled_truth": "Jennifer Riley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-24 to 2001-11-27), Jennifer Riley sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-01-24** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-riley",
+    "name": "Jennifer Riley",
+    "email": "jennifer.riley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

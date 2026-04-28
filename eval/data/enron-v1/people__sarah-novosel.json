@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarah-novosel",
+  "type": "person",
+  "title": "Sarah Novosel",
+  "compiled_truth": "Sarah Novosel is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-04 to 2002-02-06), Sarah Novosel sent 160 and received 2466 emails, totalling 2626 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (124), [Linda Robertson](people/linda-robertson) (79), [James Steffes](people/james-steffes) (76), [Steven Kean](people/steven-kean) (71), [Donna Fulton](people/donna-fulton) (56). Mailbox folders observed: _americas, credit_issues, deleted_items, eol, ferc, gas_issues.",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarah-novosel",
+    "name": "Sarah Novosel",
+    "email": "sarah.novosel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

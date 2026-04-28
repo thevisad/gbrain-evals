@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-monje",
+  "type": "person",
+  "title": "Patricia Monje",
+  "compiled_truth": "Patricia Monje is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-07 to 2001-06-07), Patricia Monje sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-06-07** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-monje",
+    "name": "Patricia Monje",
+    "email": "patricia.monje@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

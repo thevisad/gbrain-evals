@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-ladish",
+  "type": "person",
+  "title": "Kim Ladish",
+  "compiled_truth": "Kim Ladish is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-27 to 2002-03-25), Kim Ladish sent 2 and received 88 emails, totalling 90 interactions. Top correspondents: [Rich Jolly](people/rich-jolly) (1), [David Roensch](people/david-roensch) (1), [Larry Campbell](people/larry-campbell) (1), [Randy Rice](people/randy-rice) (1), [Sarita Garza](people/sarita-garza) (1).",
+  "timeline": "- **2000-03-27** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-ladish",
+    "name": "Kim Ladish",
+    "email": "kim.ladish@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lynch-sl",
+  "type": "person",
+  "title": "Lynch",
+  "compiled_truth": "Lynch is an external contact at [Sl](companies/sl). Over the corpus period (2000-09-01 to 2001-03-29), Lynch sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lynch-sl",
+    "name": "Lynch",
+    "email": "lynch@sl.net",
+    "primary_affiliation": "companies/sl"
+  }
+}

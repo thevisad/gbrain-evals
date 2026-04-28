@@ -1,0 +1,14 @@
+{
+  "slug": "people/olga-herrera",
+  "type": "person",
+  "title": "Olga Herrera",
+  "compiled_truth": "Olga Herrera is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-27 to 2002-06-21), Olga Herrera sent 1 and received 20 emails, totalling 21 interactions. Top correspondents: [Jeff Herrold](people/jeff-herrold) (1), [Mary Fischer](people/mary-fischer) (1), [K  Loukanis](people/k-loukanis) (1), [Frank Prejean](people/frank-prejean) (1), [Nicole White](people/nicole-white) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-09-27** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/olga-herrera",
+    "name": "Olga Herrera",
+    "email": "olga.herrera@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

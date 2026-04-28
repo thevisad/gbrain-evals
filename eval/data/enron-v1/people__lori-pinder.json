@@ -1,0 +1,14 @@
+{
+  "slug": "people/lori-pinder",
+  "type": "person",
+  "title": "Lori Pinder",
+  "compiled_truth": "Lori Pinder is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-11 to 2002-02-19), Lori Pinder sent 15 and received 78 emails, totalling 93 interactions. Top correspondents: [Tana Jones](people/tana-jones) (6), [Teresa Callahan](people/teresa-callahan) (5), [Frazier King](people/frazier-king) (4), [Greek Rice](people/greek-rice) (4), [Greg Whalley](people/greg-whalley) (4). Mailbox folders observed: deleted_items, inbox, ubswenergy_com.",
+  "timeline": "- **1999-10-11** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lori-pinder",
+    "name": "Lori Pinder",
+    "email": "lori.pinder@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

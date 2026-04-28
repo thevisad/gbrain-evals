@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-mcconomy-us",
+  "type": "person",
+  "title": "John Mcconomy",
+  "compiled_truth": "John Mcconomy is an external contact at [Us](companies/us). Over the corpus period (2000-09-01 to 2001-03-12), John Mcconomy sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-03-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-mcconomy-us",
+    "name": "John Mcconomy",
+    "email": "john.mcconomy@us.pwcglobal.com",
+    "primary_affiliation": "companies/us"
+  }
+}

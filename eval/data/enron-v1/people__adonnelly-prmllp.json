@@ -1,0 +1,14 @@
+{
+  "slug": "people/adonnelly-prmllp",
+  "type": "person",
+  "title": "Adonnelly",
+  "compiled_truth": "Adonnelly is an external contact at [Prmllp](companies/prmllp). Over the corpus period (2001-01-30 to 2001-07-31), Adonnelly sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-01-30** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adonnelly-prmllp",
+    "name": "Adonnelly",
+    "email": "adonnelly@prmllp.com",
+    "primary_affiliation": "companies/prmllp"
+  }
+}

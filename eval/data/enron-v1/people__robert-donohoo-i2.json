@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-donohoo-i2",
+  "type": "person",
+  "title": "Robert Donohoo",
+  "compiled_truth": "Robert Donohoo is an external contact at [I2](companies/i2). Over the corpus period (2000-10-02 to 2001-05-14), Robert Donohoo sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-10-02** | First recorded email in corpus\n- **2001-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-donohoo-i2",
+    "name": "Robert Donohoo",
+    "email": "robert_donohoo@i2.com",
+    "primary_affiliation": "companies/i2"
+  }
+}

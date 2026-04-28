@@ -1,0 +1,14 @@
+{
+  "slug": "people/bbrunel-smud",
+  "type": "person",
+  "title": "Bbrunel",
+  "compiled_truth": "Bbrunel is an external contact at [Smud](companies/smud). Over the corpus period (1999-09-24 to 2001-09-24), Bbrunel sent 1 and received 75 emails, totalling 76 interactions. Top correspondents: [Barry Tycholiz](people/barry-tycholiz) (1).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bbrunel-smud",
+    "name": "Bbrunel",
+    "email": "bbrunel@smud.org",
+    "primary_affiliation": "companies/smud"
+  }
+}

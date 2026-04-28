@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-gresch",
+  "type": "person",
+  "title": "Bob Gresch",
+  "compiled_truth": "Bob Gresch is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-29 to 2002-03-29), Bob Gresch sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-03-29** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-gresch",
+    "name": "Bob Gresch",
+    "email": "bob.gresch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

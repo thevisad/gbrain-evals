@@ -1,0 +1,14 @@
+{
+  "slug": "people/terri-clynes",
+  "type": "person",
+  "title": "Terri Clynes",
+  "compiled_truth": "Terri Clynes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-15 to 2001-12-05), Terri Clynes sent 16 and received 331 emails, totalling 347 interactions. Top correspondents: [Don Baughman](people/don-baughman) (14), [Matt Lorenz](people/matt-lorenz) (10), [Doug Sewell](people/doug-sewell) (6), [Maria Valdes](people/maria-valdes) (4), [David Forster](people/david-forster) (3). Mailbox folders observed: enron_power, inbox, power.",
+  "timeline": "- **2000-03-15** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terri-clynes",
+    "name": "Terri Clynes",
+    "email": "terri.clynes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

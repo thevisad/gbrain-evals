@@ -1,0 +1,14 @@
+{
+  "slug": "people/sean-crandall",
+  "type": "person",
+  "title": "Sean Crandall",
+  "compiled_truth": "Sean Crandall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-08 to 2002-02-21), Sean Crandall sent 167 and received 975 emails, totalling 1142 interactions. Top correspondents: [Diana Scholtes](people/diana-scholtes) (26), [Tim Belden](people/tim-belden) (23), [Stephen Thome](people/stephen-thome) (21), [Alan Comnes](people/alan-comnes) (14), [Bruce Sukaly](people/bruce-sukaly-cinergy) (10). Mailbox folders observed: calendar, deleted_items, ferc, sent_items, to_do, west_bank.",
+  "timeline": "- **2000-07-08** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sean-crandall",
+    "name": "Sean Crandall",
+    "email": "sean.crandall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

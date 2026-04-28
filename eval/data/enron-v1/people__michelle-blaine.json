@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-blaine",
+  "type": "person",
+  "title": "Michelle Blaine",
+  "compiled_truth": "Michelle Blaine is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-29), Michelle Blaine sent 33 and received 177 emails, totalling 210 interactions. Top correspondents: [John Novak](people/john-novak) (18), [B  Sanders](people/b-sanders) (15), [Bruce Lundstrom](people/bruce-lundstrom) (12), [Robert Williams](people/robert-williams) (9), [Peter Weidler](people/peter-weidler) (6). Mailbox folders observed: annex_5, cuiaba, deleted_items, inbox, southern_cone.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-blaine",
+    "name": "Michelle Blaine",
+    "email": "michelle.blaine@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

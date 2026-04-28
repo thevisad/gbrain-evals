@@ -1,0 +1,14 @@
+{
+  "slug": "people/christine-stokes",
+  "type": "person",
+  "title": "Christine Stokes",
+  "compiled_truth": "Christine Stokes is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2000-12-29), Christine Stokes sent 37 and received 480 emails, totalling 517 interactions. Top correspondents: [Michelle Lokay](people/michelle-lokay) (37), [Kevin Hyatt](people/kevin-hyatt) (33), [Tk Lohman](people/tk-lohman) (32), [Steven Harris](people/steven-harris) (31), [Lorraine Lindberg](people/lorraine-lindberg) (31).",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2000-12-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christine-stokes",
+    "name": "Christine Stokes",
+    "email": "christine.stokes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

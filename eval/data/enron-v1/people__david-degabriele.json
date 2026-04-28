@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-degabriele",
+  "type": "person",
+  "title": "David Degabriele",
+  "compiled_truth": "David Degabriele is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-13 to 2001-04-10), David Degabriele sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-01-13** | First recorded email in corpus\n- **2001-04-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-degabriele",
+    "name": "David Degabriele",
+    "email": "david.degabriele@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

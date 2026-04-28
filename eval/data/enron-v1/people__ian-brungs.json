@@ -1,0 +1,14 @@
+{
+  "slug": "people/ian-brungs",
+  "type": "person",
+  "title": "Ian Brungs",
+  "compiled_truth": "Ian Brungs is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-04 to 2001-11-08), Ian Brungs sent 8 and received 32 emails, totalling 40 interactions. Top correspondents: [Tana Jones](people/tana-jones) (3), [Justin Boyd](people/justin-boyd) (3), [Pierre Aury](people/pierre-aury) (2), [A  Price](people/a-price) (2), [Johnna Kokenge](people/johnna-kokenge) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ian-brungs",
+    "name": "Ian Brungs",
+    "email": "ian.brungs@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

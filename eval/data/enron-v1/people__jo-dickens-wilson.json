@@ -1,0 +1,14 @@
+{
+  "slug": "people/jo-dickens-wilson",
+  "type": "person",
+  "title": "Jo Dickens-Wilson",
+  "compiled_truth": "Jo Dickens-Wilson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-09 to 2002-03-19), Jo Dickens-Wilson sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2001-03-09** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jo-dickens-wilson",
+    "name": "Jo Dickens-Wilson",
+    "email": "jo.dickens-wilson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-postlethwaite",
+  "type": "person",
+  "title": "John Postlethwaite",
+  "compiled_truth": "John Postlethwaite is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-03-08), John Postlethwaite sent 109 and received 636 emails, totalling 745 interactions. Top correspondents: [W  White](people/w-white) (98), [Fran Chang](people/fran-chang) (18), [Heather Dunton](people/heather-dunton) (18), [Samantha Law](people/samantha-law) (18), [Nicholas Warner](people/nicholas-warner) (16). Mailbox folders observed: calendar, credit, cya, deleted_items, flash, inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-postlethwaite",
+    "name": "John Postlethwaite",
+    "email": "john.postlethwaite@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

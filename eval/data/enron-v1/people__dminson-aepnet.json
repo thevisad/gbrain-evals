@@ -1,0 +1,14 @@
+{
+  "slug": "people/dminson-aepnet",
+  "type": "person",
+  "title": "Dminson",
+  "compiled_truth": "Dminson is an external contact at [Aepnet](companies/aepnet). Over the corpus period (2001-03-20 to 2001-03-21), Dminson sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-03-20** | First recorded email in corpus\n- **2001-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dminson-aepnet",
+    "name": "Dminson",
+    "email": "dminson@aepnet.org",
+    "primary_affiliation": "companies/aepnet"
+  }
+}

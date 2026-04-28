@@ -1,0 +1,14 @@
+{
+  "slug": "people/kontko-home",
+  "type": "person",
+  "title": "Kontko",
+  "compiled_truth": "Kontko is an external contact at [Home](companies/home). Over the corpus period (2000-02-09 to 2001-12-13), Kontko sent 12 and received 20 emails, totalling 32 interactions. Top correspondents: [Jdasovic](people/jdasovic) (11), [Lnewmansciarrino](people/lnewmansciarrino-elanpharma) (11), [Lhom](people/lhom-hotmail) (11), [Pat Scatena](people/pat-scatena-ccm) (11), [Chedleston](people/chedleston-home) (11).",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2001-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kontko-home",
+    "name": "Kontko",
+    "email": "kontko@home.com",
+    "primary_affiliation": "companies/home"
+  }
+}

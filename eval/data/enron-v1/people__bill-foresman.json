@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-foresman",
+  "type": "person",
+  "title": "Bill Foresman",
+  "compiled_truth": "Bill Foresman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-13 to 2002-03-21), Bill Foresman sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2001-09-13** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-foresman",
+    "name": "Bill Foresman",
+    "email": "bill.foresman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

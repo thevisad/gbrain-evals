@@ -1,0 +1,14 @@
+{
+  "slug": "people/mason-hamlin",
+  "type": "person",
+  "title": "Mason Hamlin",
+  "compiled_truth": "Mason Hamlin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-01 to 2001-11-29), Mason Hamlin sent 1 and received 110 emails, totalling 111 interactions. Top correspondents: [Nick Hiemstra](people/nick-hiemstra) (1), [Joseph Piotrowski](people/joseph-piotrowski) (1), [John House](people/john-house) (1), [Lisa Gillette](people/lisa-gillette) (1), [Susan Scott](people/susan-scott) (1).",
+  "timeline": "- **2000-02-01** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mason-hamlin",
+    "name": "Mason Hamlin",
+    "email": "mason.hamlin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-ward",
+  "type": "person",
+  "title": "Linda Ward",
+  "compiled_truth": "Linda Ward is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-09 to 2002-03-25), Linda Ward sent 0 and received 466 emails, totalling 466 interactions.",
+  "timeline": "- **2000-06-09** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-ward",
+    "name": "Linda Ward",
+    "email": "linda.ward@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/zimin-lu",
+  "type": "person",
+  "title": "Zimin Lu",
+  "compiled_truth": "Zimin Lu is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-28), Zimin Lu sent 147 and received 427 emails, totalling 574 interactions. Top correspondents: [Stinson Gibner](people/stinson-gibner) (110), [Vince Kaminski](people/vince-kaminski) (105), [Bob Lee](people/bob-lee) (17), [Alex Huang](people/alex-huang) (13), [Paulo Issler](people/paulo-issler) (10). Mailbox folders observed: c, calendar, deleted_items, inbox, market, resumes.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zimin-lu",
+    "name": "Zimin Lu",
+    "email": "zimin.lu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

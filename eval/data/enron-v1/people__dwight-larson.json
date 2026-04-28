@@ -1,0 +1,14 @@
+{
+  "slug": "people/dwight-larson",
+  "type": "person",
+  "title": "Dwight Larson",
+  "compiled_truth": "Dwight Larson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-02-20), Dwight Larson sent 3 and received 36 emails, totalling 39 interactions. Top correspondents: [Joe Richards](people/joe-richards) (3), [John Goodpasture](people/john-goodpasture) (3), [Michael Ratner](people/michael-ratner) (3), [Ann Ballard](people/ann-ballard) (3), [Philip Crowley](people/philip-crowley) (3).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-02-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dwight-larson",
+    "name": "Dwight Larson",
+    "email": "dwight.larson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

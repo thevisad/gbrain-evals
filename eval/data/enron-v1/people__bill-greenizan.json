@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-greenizan",
+  "type": "person",
+  "title": "Bill Greenizan",
+  "compiled_truth": "Bill Greenizan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-09 to 2002-02-04), Bill Greenizan sent 2 and received 48 emails, totalling 50 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (1), [Greg Johnston](people/greg-johnston) (1). Mailbox folders observed: bill_williams_iii.",
+  "timeline": "- **1999-06-09** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-greenizan",
+    "name": "Bill Greenizan",
+    "email": "bill.greenizan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

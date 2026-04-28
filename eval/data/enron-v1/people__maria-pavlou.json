@@ -1,0 +1,14 @@
+{
+  "slug": "people/maria-pavlou",
+  "type": "person",
+  "title": "Maria Pavlou",
+  "compiled_truth": "Maria Pavlou is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-02-11), Maria Pavlou sent 37 and received 552 emails, totalling 589 interactions. Top correspondents: [Kay Miller](people/kay-miller) (13), [Lindy Donoho](people/lindy-donoho) (13), [Steven Harris](people/steven-harris) (13), [Bill Rapp](people/bill-rapp) (12), [Robert Kilmer](people/robert-kilmer) (10). Mailbox folders observed: deleted_items, inbox, tw, tw_commercial_group.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-02-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maria-pavlou",
+    "name": "Maria Pavlou",
+    "email": "maria.pavlou@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

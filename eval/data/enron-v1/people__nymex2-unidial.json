@@ -1,0 +1,14 @@
+{
+  "slug": "people/nymex2-unidial",
+  "type": "person",
+  "title": "Nymex2",
+  "compiled_truth": "Nymex2 is an external contact at [Unidial](companies/unidial). Over the corpus period (1999-11-15 to 2001-02-26), Nymex2 sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus\n- **2001-02-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nymex2-unidial",
+    "name": "Nymex2",
+    "email": "nymex2@unidial.com",
+    "primary_affiliation": "companies/unidial"
+  }
+}

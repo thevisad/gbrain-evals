@@ -1,0 +1,14 @@
+{
+  "slug": "people/austina-coned",
+  "type": "person",
+  "title": "Austina",
+  "compiled_truth": "Austina is an external contact at [Coned](companies/coned). Over the corpus period (2002-01-25 to 2002-01-29), Austina sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-25** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/austina-coned",
+    "name": "Austina",
+    "email": "austina@coned.com",
+    "primary_affiliation": "companies/coned"
+  }
+}

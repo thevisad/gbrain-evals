@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-barry",
+  "type": "person",
+  "title": "Mike Barry",
+  "compiled_truth": "Mike Barry is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2002-02-22), Mike Barry sent 2 and received 233 emails, totalling 235 interactions. Top correspondents: [Drew Fossum](people/drew-fossum) (1), [Mary Miller](people/mary-miller) (1), [Steven January](people/steven-january) (1), [Dave Neubauer](people/dave-neubauer) (1), [Doug Aschwege](people/doug-aschwege) (1).",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2002-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-barry",
+    "name": "Mike Barry",
+    "email": "mike.barry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

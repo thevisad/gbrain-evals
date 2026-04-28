@@ -1,0 +1,27 @@
+{
+  "slug": "companies/nytimes",
+  "type": "company",
+  "title": "Nytimes",
+  "compiled_truth": "Nytimes is an external organization that appears in the Enron email corpus. Domain: nytimes.com. Total email interactions with Enron: 261. Known contacts: 10 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (261 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/nytimes",
+    "name": "Nytimes",
+    "employees": [
+      "people/bohan-nytimes",
+      "people/brohan-nytimes",
+      "people/drohan-nytimes",
+      "people/insidenytimes-nytimes",
+      "people/iovine-nytimes",
+      "people/ireland-nytimes",
+      "people/letters-nytimes",
+      "people/nytdirect-nytimes",
+      "people/tang-nytimes",
+      "people/watsons-nytimes"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

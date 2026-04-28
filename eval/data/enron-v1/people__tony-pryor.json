@@ -1,0 +1,14 @@
+{
+  "slug": "people/tony-pryor",
+  "type": "person",
+  "title": "Tony Pryor",
+  "compiled_truth": "Tony Pryor is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2002-01-28), Tony Pryor sent 27 and received 384 emails, totalling 411 interactions. Top correspondents: [Drew Fossum](people/drew-fossum) (8), [Michelle Lokay](people/michelle-lokay) (8), [Steven Harris](people/steven-harris) (5), [Kevin Hyatt](people/kevin-hyatt) (5), [Glen Hass](people/glen-hass) (4). Mailbox folders observed: daily_balancing_report, deleted_items, inbox, projects, tw, tw_commercial_group.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tony-pryor",
+    "name": "Tony Pryor",
+    "email": "tony.pryor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/akinpa-email",
+  "type": "person",
+  "title": "Akinpa",
+  "compiled_truth": "Akinpa is an external contact at [Email](companies/email). Over the corpus period (2000-09-04 to 2000-11-16), Akinpa sent 1 and received 55 emails, totalling 56 interactions. Top correspondents: [Rharman](people/rharman-bass-associates) (1), [Fredinvt](people/fredinvt-juno) (1), [Bwall](people/bwall-copcp) (1), [Williamhjordan](people/williamhjordan-mindspring) (1), [Jansson](people/jansson-mindspring) (1).",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2000-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/akinpa-email",
+    "name": "Akinpa",
+    "email": "akinpa@email.msn.com",
+    "primary_affiliation": "companies/email"
+  }
+}

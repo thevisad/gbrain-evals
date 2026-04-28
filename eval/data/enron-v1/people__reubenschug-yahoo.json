@@ -1,0 +1,14 @@
+{
+  "slug": "people/reubenschug-yahoo",
+  "type": "person",
+  "title": "Reubenschug",
+  "compiled_truth": "Reubenschug is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-10-10 to 2001-04-30), Reubenschug sent 1 and received 29 emails, totalling 30 interactions. Top correspondents: [Wootk224](people/wootk224-bus) (1), [Ballo](people/ballo-pacwestcom) (1), [Boydjas](people/boydjas-hotmail) (1), [Jfbosu](people/jfbosu-hotmail) (1), [Sweetlou](people/sweetlou-nwrecruiting) (1).",
+  "timeline": "- **2000-10-10** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reubenschug-yahoo",
+    "name": "Reubenschug",
+    "email": "reubenschug@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

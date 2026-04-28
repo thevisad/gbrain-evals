@@ -1,0 +1,43 @@
+{
+  "slug": "companies/mofo",
+  "type": "company",
+  "title": "Mofo",
+  "compiled_truth": "Mofo is an external organization that appears in the Enron email corpus. Domain: mofo.com. Total email interactions with Enron: 244. Known contacts: 26 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (244 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/mofo",
+    "name": "Mofo",
+    "employees": [
+      "people/asilverstein-mofo",
+      "people/bbarnard-mofo",
+      "people/clester-mofo",
+      "people/cmoll-mofo",
+      "people/dlorie-mofo",
+      "people/dpritchard-mofo",
+      "people/eantolin-mofo",
+      "people/ecoffill-mofo",
+      "people/gerspamer-mofo",
+      "people/jcountee-mofo",
+      "people/jfeldman-mofo",
+      "people/jlonden-mofo",
+      "people/jlvittor-mofo",
+      "people/jrogers-mofo",
+      "people/jthomson-mofo",
+      "people/jtobin-mofo",
+      "people/kirvin-mofo",
+      "people/kverma-mofo",
+      "people/kzeitlin-mofo",
+      "people/lcottle-mofo",
+      "people/pfrankel-mofo",
+      "people/phanschen-mofo",
+      "people/pkanter-mofo",
+      "people/pmar-mofo",
+      "people/rloeffler-mofo",
+      "people/sdombo-mofo"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

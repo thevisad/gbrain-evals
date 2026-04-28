@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-rice",
+  "type": "person",
+  "title": "Tom Rice",
+  "compiled_truth": "Tom Rice is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-25 to 2002-03-25), Tom Rice sent 1 and received 63 emails, totalling 64 interactions. Top correspondents: [E  Anderson](people/e-anderson) (1), [Raetta Zadow](people/raetta-zadow) (1), [Donna Lachapelle](people/donna-lachapelle) (1), [Angeline Stewart](people/angeline-stewart) (1), [Team Farmington-Pipeline](people/team-farmington-pipeline) (1). Mailbox folders observed: acctg___measurement_issues.",
+  "timeline": "- **2000-02-25** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-rice",
+    "name": "Tom Rice",
+    "email": "tom.rice@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

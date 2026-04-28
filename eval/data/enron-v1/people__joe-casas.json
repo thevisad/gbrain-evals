@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-casas",
+  "type": "person",
+  "title": "Joe Casas",
+  "compiled_truth": "Joe Casas is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-24 to 2001-05-25), Joe Casas sent 17 and received 255 emails, totalling 272 interactions. Top correspondents: [Chris Germany](people/chris-germany) (12), [Tricia Bowen](people/tricia-bowen) (11), [Steve Gillespie](people/steve-gillespie) (7), [Scott Neal](people/scott-neal) (4), [Edward Terry](people/edward-terry) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **1998-11-24** | First recorded email in corpus\n- **2001-05-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-casas",
+    "name": "Joe Casas",
+    "email": "joe.casas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

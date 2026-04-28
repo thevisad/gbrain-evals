@@ -1,0 +1,14 @@
+{
+  "slug": "people/janet-h-moore",
+  "type": "person",
+  "title": "Janet H Moore",
+  "compiled_truth": "Janet H Moore is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-26 to 2001-06-05), Janet H Moore sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-02-26** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janet-h-moore",
+    "name": "Janet H Moore",
+    "email": "janet.h.moore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

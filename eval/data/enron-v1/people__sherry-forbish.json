@@ -1,0 +1,14 @@
+{
+  "slug": "people/sherry-forbish",
+  "type": "person",
+  "title": "Sherry Forbish",
+  "compiled_truth": "Sherry Forbish is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2002-05-06), Sherry Forbish sent 26 and received 304 emails, totalling 330 interactions. Top correspondents: [Randy Janzen](people/randy-janzen) (15), [John Buchanan](people/john-buchanan) (14), [Terry Kowalke](people/terry-kowalke) (14), [Joe Linhart](people/joe-linhart) (14), [Gary Spraggins](people/gary-spraggins) (14). Mailbox folders observed: deleted_items, inbox, meetings___tw_customer.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sherry-forbish",
+    "name": "Sherry Forbish",
+    "email": "sherry.forbish@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/june-walker",
+  "type": "person",
+  "title": "June Walker",
+  "compiled_truth": "June Walker is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-23 to 2001-10-19), June Walker sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-05-23** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/june-walker",
+    "name": "June Walker",
+    "email": "june.walker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

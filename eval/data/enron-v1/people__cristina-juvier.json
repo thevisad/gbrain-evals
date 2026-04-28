@@ -1,0 +1,14 @@
+{
+  "slug": "people/cristina-juvier",
+  "type": "person",
+  "title": "Cristina Juvier",
+  "compiled_truth": "Cristina Juvier is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-06), Cristina Juvier sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cristina-juvier",
+    "name": "Cristina Juvier",
+    "email": "cristina.juvier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

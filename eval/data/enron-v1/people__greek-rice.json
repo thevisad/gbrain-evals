@@ -1,0 +1,14 @@
+{
+  "slug": "people/greek-rice",
+  "type": "person",
+  "title": "Greek Rice",
+  "compiled_truth": "Greek Rice is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2002-01-09), Greek Rice sent 5 and received 144 emails, totalling 149 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (3), [Mark Mcconnell](people/mark-mcconnell) (2), [James Saunders](people/james-saunders) (1). Mailbox folders observed: inbox, projects, tw_projects.",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greek-rice",
+    "name": "Greek Rice",
+    "email": "greek.rice@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

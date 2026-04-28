@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-karr",
+  "type": "person",
+  "title": "David Karr",
+  "compiled_truth": "David Karr is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-11 to 2002-05-06), David Karr sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-05-11** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-karr",
+    "name": "David Karr",
+    "email": "david.karr@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

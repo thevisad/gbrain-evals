@@ -1,0 +1,14 @@
+{
+  "slug": "people/gilda-parker",
+  "type": "person",
+  "title": "Gilda Parker",
+  "compiled_truth": "Gilda Parker is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-07 to 2001-12-03), Gilda Parker sent 0 and received 73 emails, totalling 73 interactions.",
+  "timeline": "- **2001-05-07** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gilda-parker",
+    "name": "Gilda Parker",
+    "email": "gilda.parker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

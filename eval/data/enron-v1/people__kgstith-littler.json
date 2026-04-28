@@ -1,0 +1,14 @@
+{
+  "slug": "people/kgstith-littler",
+  "type": "person",
+  "title": "Kgstith",
+  "compiled_truth": "Kgstith is an external contact at [Littler](companies/littler). Over the corpus period (2000-09-01 to 2000-09-25), Kgstith sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2000-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kgstith-littler",
+    "name": "Kgstith",
+    "email": "kgstith@littler.com",
+    "primary_affiliation": "companies/littler"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-shimko-yahoo",
+  "type": "person",
+  "title": "David Shimko",
+  "compiled_truth": "David Shimko is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-05-18 to 2000-09-18), David Shimko sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-shimko-yahoo",
+    "name": "David Shimko",
+    "email": "david_shimko@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

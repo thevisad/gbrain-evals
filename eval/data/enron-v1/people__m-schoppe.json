@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-schoppe",
+  "type": "person",
+  "title": "M  Schoppe",
+  "compiled_truth": "M  Schoppe is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-12-06), M  Schoppe sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-schoppe",
+    "name": "M  Schoppe",
+    "email": "m..schoppe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

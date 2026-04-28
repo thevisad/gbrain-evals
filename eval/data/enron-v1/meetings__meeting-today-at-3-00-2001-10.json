@@ -1,0 +1,32 @@
+{
+  "slug": "meetings/meeting-today-at-3-00-2001-10",
+  "type": "meeting",
+  "title": "Meeting: Meeting Today At 3:00",
+  "compiled_truth": "Meeting: \"Meeting Today At 3:00\". Occurred 2001-10-10 through 2001-10-10 with 2 related emails. Participants included: [Barry Tycholiz](people/barry-tycholiz), [Daniel Lisk](people/daniel-lisk), [Jason Huang](people/jason-huang), [Jason Wolfe](people/jason-wolfe), [Jay Reitmeyer](people/jay-reitmeyer), [K  Allen](people/k-allen), [Keith Holst](people/keith-holst), [L  Gay](people/l-gay)....",
+  "timeline": "- **2001-10-10** | Meeting: meeting today at 3:00\n- **2001-10-10** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-today-at-3-00-2001-10",
+    "attendees": [
+      "people/barry-tycholiz",
+      "people/daniel-lisk",
+      "people/jason-huang",
+      "people/jason-wolfe",
+      "people/jay-reitmeyer",
+      "people/k-allen",
+      "people/keith-holst",
+      "people/l-gay",
+      "people/m-scott",
+      "people/m-tholt",
+      "people/matt-smith",
+      "people/matthew-lenhart",
+      "people/mike-grigsby",
+      "people/mog-heu",
+      "people/monique-sanchez",
+      "people/p-south",
+      "people/patti-sullivan",
+      "people/tori-kuykendall"
+    ],
+    "date": "2001-10-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "threads/warning-your-mailbox-is-approaching-the--2001-10",
+  "type": "meeting",
+  "title": "Thread: Warning: Your Mailbox Is Approaching The Size Limit",
+  "compiled_truth": "Email thread: \"Warning: Your Mailbox Is Approaching The Size Limit\". Ran from 2001-10-29 to 2001-11-28 with 60 messages. Participants: [B  Sanders](people/b-sanders), [Elizabeth Sager](people/elizabeth-sager), [Exchange Administrator](people/exchange-administrator), [Harry Arora](people/harry-arora), [Jeff Dasovich](people/jeff-dasovich), [Kevin Hyatt](people/kevin-hyatt), [Mike Grigsby](people/mike-grigsby), [Mike Swerzbin](people/mike-swerzbin).",
+  "timeline": "- **2001-10-29** | Thread begins: warning: your mailbox is approaching the size limit\n- **2001-11-28** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/warning-your-mailbox-is-approaching-the--2001-10",
+    "attendees": [
+      "people/b-sanders",
+      "people/elizabeth-sager",
+      "people/exchange-administrator",
+      "people/harry-arora",
+      "people/jeff-dasovich",
+      "people/kevin-hyatt",
+      "people/mike-grigsby",
+      "people/mike-swerzbin",
+      "people/richard-ring",
+      "people/rod-hayslett",
+      "people/tana-jones",
+      "people/tracy-geaccone",
+      "people/williams"
+    ],
+    "date": "2001-10-29"
+  }
+}

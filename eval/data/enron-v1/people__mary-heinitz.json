@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-heinitz",
+  "type": "person",
+  "title": "Mary Heinitz",
+  "compiled_truth": "Mary Heinitz is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2001-06-12), Mary Heinitz sent 3 and received 221 emails, totalling 224 interactions. Top correspondents: [Carol Clair](people/carol-clair) (2), [Tana Jones](people/tana-jones) (1).",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-heinitz",
+    "name": "Mary Heinitz",
+    "email": "mary.heinitz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

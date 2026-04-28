@@ -1,0 +1,14 @@
+{
+  "slug": "people/cfurtado-beaconenergy",
+  "type": "person",
+  "title": "Cfurtado",
+  "compiled_truth": "Cfurtado is an external contact at [Beaconenergy](companies/beaconenergy). Over the corpus period (2000-08-25 to 2001-08-10), Cfurtado sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-08-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cfurtado-beaconenergy",
+    "name": "Cfurtado",
+    "email": "cfurtado@beaconenergy.com",
+    "primary_affiliation": "companies/beaconenergy"
+  }
+}

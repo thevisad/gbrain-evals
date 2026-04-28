@@ -1,0 +1,14 @@
+{
+  "slug": "people/crimmj-ms",
+  "type": "person",
+  "title": "Crimmj",
+  "compiled_truth": "Crimmj is an external contact at [Ms](companies/ms). Over the corpus period (2000-05-18 to 2000-09-18), Crimmj sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/crimmj-ms",
+    "name": "Crimmj",
+    "email": "crimmj@ms.com",
+    "primary_affiliation": "companies/ms"
+  }
+}

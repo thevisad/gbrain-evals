@@ -1,0 +1,14 @@
+{
+  "slug": "people/robyn-zivic",
+  "type": "person",
+  "title": "Robyn Zivic",
+  "compiled_truth": "Robyn Zivic is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2002-01-18), Robyn Zivic sent 20 and received 75 emails, totalling 95 interactions. Top correspondents: [John Arnold](people/john-arnold) (10), [Kevin Ruscitti](people/kevin-ruscitti) (6), [Martin Cuilla](people/martin-cuilla) (1), [John Griffith](people/john-griffith) (1), [H  Lewis](people/h-lewis) (1). Mailbox folders observed: deleted_items, emailaddresses, inbox.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robyn-zivic",
+    "name": "Robyn Zivic",
+    "email": "robyn.zivic@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-sawyer",
+  "type": "person",
+  "title": "Lisa Sawyer",
+  "compiled_truth": "Lisa Sawyer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-11 to 2002-03-25), Lisa Sawyer sent 13 and received 224 emails, totalling 237 interactions. Top correspondents: [Steve Hotte](people/steve-hotte) (7), [Sheila Nacey](people/sheila-nacey) (6), [Lee Ferrell](people/lee-ferrell) (5), [Hasan Kedwaii](people/hasan-kedwaii) (5), [Shelley Corman](people/shelley-corman) (5). Mailbox folders observed: deleted_items, e_mail_bin, inbox, mike_reynolds, rm_work_order, tw.",
+  "timeline": "- **2000-06-11** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-sawyer",
+    "name": "Lisa Sawyer",
+    "email": "lisa.sawyer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

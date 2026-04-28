@@ -1,0 +1,14 @@
+{
+  "slug": "people/master-amar-hoegh",
+  "type": "person",
+  "title": "Master Amar",
+  "compiled_truth": "Master Amar is an external contact at [Hoegh](companies/hoegh). Over the corpus period (2001-03-12 to 2001-10-29), Master Amar sent 112 and received 5 emails, totalling 117 interactions. Top correspondents: [Tony Galt](people/tony-galt) (112), [Dan Masters](people/dan-masters) (112), [Jim Fernie](people/jim-fernie) (112), [Paul Y'Barbo](people/paul-y-barbo) (109), [Wayne Perry](people/wayne-perry) (96).",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/master-amar-hoegh",
+    "name": "Master Amar",
+    "email": "master.amar@hoegh.no",
+    "primary_affiliation": "companies/hoegh"
+  }
+}

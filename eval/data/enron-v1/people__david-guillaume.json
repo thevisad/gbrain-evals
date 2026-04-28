@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-guillaume",
+  "type": "person",
+  "title": "David Guillaume",
+  "compiled_truth": "David Guillaume is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2001-12-03), David Guillaume sent 0 and received 80 emails, totalling 80 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-guillaume",
+    "name": "David Guillaume",
+    "email": "david.guillaume@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

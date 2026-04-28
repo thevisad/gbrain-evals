@@ -1,0 +1,14 @@
+{
+  "slug": "people/laird-dyer",
+  "type": "person",
+  "title": "Laird Dyer",
+  "compiled_truth": "Laird Dyer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-30 to 2001-11-07), Laird Dyer sent 21 and received 137 emails, totalling 158 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (6), [Kim Ward](people/kim-ward) (6), [S  Ward](people/s-ward) (3), [ Ward](people/ward) (3), [Michael Mcdonald](people/michael-mcdonald) (2). Mailbox folders observed: gas_customers___chris_foster, glendale, inbox, knauf, lt_contracts, personal.",
+  "timeline": "- **1999-09-30** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laird-dyer",
+    "name": "Laird Dyer",
+    "email": "laird.dyer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

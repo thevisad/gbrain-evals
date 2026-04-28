@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/meeting-time-change-2000-03",
+  "type": "meeting",
+  "title": "Meeting: Meeting Time Change",
+  "compiled_truth": "Meeting: \"Meeting Time Change\". Occurred 2000-03-16 with 1 related emails. Participants included: [Alain Diza](people/alain-diza), [Angie Zeman](people/angie-zeman), [Barend Vanderhorst](people/barend-vanderhorst), [Chris Germany](people/chris-germany), [James Barker](people/james-barker), [Marde Driscoll](people/marde-driscoll), [Molly Lafuze](people/molly-lafuze), [Paul Tate](people/paul-tate)....",
+  "timeline": "- **2000-03-16** | Meeting: meeting time change",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-time-change-2000-03",
+    "attendees": [
+      "people/alain-diza",
+      "people/angie-zeman",
+      "people/barend-vanderhorst",
+      "people/chris-germany",
+      "people/james-barker",
+      "people/marde-driscoll",
+      "people/molly-lafuze",
+      "people/paul-tate",
+      "people/susan-weison",
+      "people/victor-lamadrid"
+    ],
+    "date": "2000-03-16"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-burrows",
+  "type": "person",
+  "title": "John Burrows",
+  "compiled_truth": "John Burrows is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-26 to 2001-10-29), John Burrows sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2000-07-26** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-burrows",
+    "name": "John Burrows",
+    "email": "john.burrows@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

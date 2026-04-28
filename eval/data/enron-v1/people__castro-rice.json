@@ -1,0 +1,14 @@
+{
+  "slug": "people/castro-rice",
+  "type": "person",
+  "title": "Castro",
+  "compiled_truth": "Castro is an external contact at [Rice](companies/rice). Over the corpus period (2000-11-10 to 2002-01-29), Castro sent 24 and received 37 emails, totalling 61 interactions. Top correspondents: [Vince J Kaminski](people/vince-j-kaminski) (19), [Vkaminski](people/vkaminski-aol) (4), [Vkamins](people/vkamins) (3), [Kenneth Parkhill](people/kenneth-parkhill) (1), [Swa](people/swa-rice) (1).",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/castro-rice",
+    "name": "Castro",
+    "email": "castro@rice.edu",
+    "primary_affiliation": "companies/rice"
+  }
+}

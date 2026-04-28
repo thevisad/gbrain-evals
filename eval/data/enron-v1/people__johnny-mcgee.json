@@ -1,0 +1,14 @@
+{
+  "slug": "people/johnny-mcgee",
+  "type": "person",
+  "title": "Johnny Mcgee",
+  "compiled_truth": "Johnny Mcgee is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-25 to 2002-02-27), Johnny Mcgee sent 1 and received 101 emails, totalling 102 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (1).",
+  "timeline": "- **1999-08-25** | First recorded email in corpus\n- **2002-02-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/johnny-mcgee",
+    "name": "Johnny Mcgee",
+    "email": "johnny.mcgee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

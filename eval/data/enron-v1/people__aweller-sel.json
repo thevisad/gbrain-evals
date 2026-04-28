@@ -1,0 +1,14 @@
+{
+  "slug": "people/aweller-sel",
+  "type": "person",
+  "title": "Aweller",
+  "compiled_truth": "Aweller is an external contact at [Sel](companies/sel). Over the corpus period (2000-11-06 to 2001-11-27), Aweller sent 3 and received 3 emails, totalling 6 interactions. Top correspondents: [Jsmollon](people/jsmollon-newwestenergy) (2), [Arem](people/arem-electric) (2), [Douglass' 'Dan](people/douglass-dan) (1), [Arm](people/arm) (1), [Johnson Tamara](people/johnson-tamara) (1).",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aweller-sel",
+    "name": "Aweller",
+    "email": "aweller@sel.com",
+    "primary_affiliation": "companies/sel"
+  }
+}

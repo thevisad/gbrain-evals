@@ -1,0 +1,14 @@
+{
+  "slug": "people/susmitha-nalluri",
+  "type": "person",
+  "title": "Susmitha Nalluri",
+  "compiled_truth": "Susmitha Nalluri is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-11-28), Susmitha Nalluri sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susmitha-nalluri",
+    "name": "Susmitha Nalluri",
+    "email": "susmitha.nalluri@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

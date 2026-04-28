@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebecca-cowart",
+  "type": "person",
+  "title": "Rebecca Cowart",
+  "compiled_truth": "Rebecca Cowart is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2000-08-24), Rebecca Cowart sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2000-08-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebecca-cowart",
+    "name": "Rebecca Cowart",
+    "email": "rebecca.cowart@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-spearman",
+  "type": "person",
+  "title": "Team Spearman",
+  "compiled_truth": "Team Spearman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-12 to 2002-03-25), Team Spearman sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **2001-10-12** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-spearman",
+    "name": "Team Spearman",
+    "email": "team.spearman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

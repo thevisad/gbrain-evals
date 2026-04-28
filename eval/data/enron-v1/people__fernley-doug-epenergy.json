@@ -1,0 +1,14 @@
+{
+  "slug": "people/fernley-doug-epenergy",
+  "type": "person",
+  "title": "Fernley Doug",
+  "compiled_truth": "Fernley Doug is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2000-11-28 to 2001-11-14), Fernley Doug sent 0 and received 153 emails, totalling 153 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fernley-doug-epenergy",
+    "name": "Fernley Doug",
+    "email": "fernley.doug@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

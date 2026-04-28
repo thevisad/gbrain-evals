@@ -1,0 +1,14 @@
+{
+  "slug": "people/trey-cash",
+  "type": "person",
+  "title": "Trey Cash",
+  "compiled_truth": "Trey Cash is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-01 to 2001-12-26), Trey Cash sent 19 and received 63 emails, totalling 82 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (17), [Marie Heard](people/marie-heard) (1), [Melinda Winn](people/melinda-winn) (1), [Marian Briscoe](people/marian-briscoe) (1), [Danny Wilson](people/danny-wilson) (1). Mailbox folders observed: deleted_items, inbox, organizational_announcements, personal, phone_lists.",
+  "timeline": "- **1999-12-01** | First recorded email in corpus\n- **2001-12-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/trey-cash",
+    "name": "Trey Cash",
+    "email": "trey.cash@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

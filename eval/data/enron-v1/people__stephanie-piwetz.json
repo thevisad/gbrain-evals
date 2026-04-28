@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephanie-piwetz",
+  "type": "person",
+  "title": "Stephanie Piwetz",
+  "compiled_truth": "Stephanie Piwetz is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-02-13), Stephanie Piwetz sent 143 and received 489 emails, totalling 632 interactions. Top correspondents: [Kate Symes](people/kate-symes) (119), [Clint Dean](people/clint-dean) (14), [Carla Hoffman](people/carla-hoffman) (7), [Evelyn Metoyer](people/evelyn-metoyer) (4), [Sara Shackleton](people/sara-shackleton) (3). Mailbox folders observed: credit, inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephanie-piwetz",
+    "name": "Stephanie Piwetz",
+    "email": "stephanie.piwetz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

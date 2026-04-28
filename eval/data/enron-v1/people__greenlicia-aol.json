@@ -1,0 +1,14 @@
+{
+  "slug": "people/greenlicia-aol",
+  "type": "person",
+  "title": "Greenlicia",
+  "compiled_truth": "Greenlicia is an external contact at [AOL](companies/aol). Over the corpus period (2001-06-04 to 2001-11-09), Greenlicia sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greenlicia-aol",
+    "name": "Greenlicia",
+    "email": "greenlicia@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

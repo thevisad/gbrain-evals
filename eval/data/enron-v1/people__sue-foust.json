@@ -1,0 +1,14 @@
+{
+  "slug": "people/sue-foust",
+  "type": "person",
+  "title": "Sue Foust",
+  "compiled_truth": "Sue Foust is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-09), Sue Foust sent 0 and received 45 emails, totalling 45 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sue-foust",
+    "name": "Sue Foust",
+    "email": "sue.foust@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

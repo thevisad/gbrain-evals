@@ -1,0 +1,14 @@
+{
+  "slug": "people/katie-stowers",
+  "type": "person",
+  "title": "Katie Stowers",
+  "compiled_truth": "Katie Stowers is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-02-22), Katie Stowers sent 1 and received 58 emails, totalling 59 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (1), [Shonnie Daniel](people/shonnie-daniel) (1).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/katie-stowers",
+    "name": "Katie Stowers",
+    "email": "katie.stowers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ashok-gurusamy",
+  "type": "person",
+  "title": "Ashok Gurusamy",
+  "compiled_truth": "Ashok Gurusamy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-04-20), Ashok Gurusamy sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-04-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ashok-gurusamy",
+    "name": "Ashok Gurusamy",
+    "email": "ashok.gurusamy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

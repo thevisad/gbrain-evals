@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristi-voinis",
+  "type": "person",
+  "title": "Kristi Voinis",
+  "compiled_truth": "Kristi Voinis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-01 to 2001-12-21), Kristi Voinis sent 1 and received 25 emails, totalling 26 interactions. Top correspondents: [Amy Quirsfeld](people/amy-quirsfeld) (1), [Stacy Hardy](people/stacy-hardy) (1), [Rosalyn Lum](people/rosalyn-lum) (1), [Lisa Kang](people/lisa-kang) (1), [K  Dawson](people/k-dawson) (1). Mailbox folders observed: personal.",
+  "timeline": "- **2001-08-01** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristi-voinis",
+    "name": "Kristi Voinis",
+    "email": "kristi.voinis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

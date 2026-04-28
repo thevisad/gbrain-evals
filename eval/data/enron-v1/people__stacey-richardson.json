@@ -1,0 +1,14 @@
+{
+  "slug": "people/stacey-richardson",
+  "type": "person",
+  "title": "Stacey Richardson",
+  "compiled_truth": "Stacey Richardson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-03 to 2002-06-21), Stacey Richardson sent 80 and received 729 emails, totalling 809 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (32), [Bridgette Anderson](people/bridgette-anderson) (25), [Debra Perlingiere](people/debra-perlingiere) (22), [Ellen Wallumrod](people/ellen-wallumrod) (21), [S  Theriot](people/s-theriot) (21). Mailbox folders observed: bankrupt, deleted_items, inbox, to_do_list, tufco.",
+  "timeline": "- **2000-04-03** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stacey-richardson",
+    "name": "Stacey Richardson",
+    "email": "stacey.richardson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

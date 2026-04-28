@@ -1,0 +1,14 @@
+{
+  "slug": "people/silver-breaux",
+  "type": "person",
+  "title": "Silver Breaux",
+  "compiled_truth": "Silver Breaux is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-02-06), Silver Breaux sent 1 and received 21 emails, totalling 22 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (1).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/silver-breaux",
+    "name": "Silver Breaux",
+    "email": "silver.breaux@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

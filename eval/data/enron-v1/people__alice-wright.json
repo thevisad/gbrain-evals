@@ -1,0 +1,14 @@
+{
+  "slug": "people/alice-wright",
+  "type": "person",
+  "title": "Alice Wright",
+  "compiled_truth": "Alice Wright is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-05 to 2001-11-27), Alice Wright sent 57 and received 152 emails, totalling 209 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (19), [Harlan Murphy](people/harlan-murphy) (12), [Kay Mann](people/kay-mann) (11), [Genia Fitzgerald](people/genia-fitzgerald) (9), [Carol St ](people/carol-st) (7). Mailbox folders observed: calendar, contacts, deleted_items, elizabeth_sager, inbox.",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alice-wright",
+    "name": "Alice Wright",
+    "email": "alice.wright@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/corey-wilkes",
+  "type": "person",
+  "title": "Corey Wilkes",
+  "compiled_truth": "Corey Wilkes is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-17 to 2001-11-30), Corey Wilkes sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **2001-10-17** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/corey-wilkes",
+    "name": "Corey Wilkes",
+    "email": "corey.wilkes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

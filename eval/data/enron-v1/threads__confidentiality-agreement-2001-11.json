@@ -1,0 +1,23 @@
+{
+  "slug": "threads/confidentiality-agreement-2001-11",
+  "type": "meeting",
+  "title": "Thread: Confidentiality Agreement",
+  "compiled_truth": "Email thread: \"Confidentiality Agreement\". Ran from 2001-11-13 to 2001-11-27 with 11 messages. Participants: [Bill Rapp](people/bill-rapp), [J Wood](people/j-wood-energydg), [Kevin Hyatt](people/kevin-hyatt), [Lorraine Lindberg](people/lorraine-lindberg), [Mark Mcconnell](people/mark-mcconnell), [Nicholas Thomas](people/nicholas-thomas), [Nthomas](people/nthomas-utilicorp), [Shelby Leibhart](people/shelby-leibhart).",
+  "timeline": "- **2001-11-13** | Thread begins: confidentiality agreement\n- **2001-11-27** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/confidentiality-agreement-2001-11",
+    "attendees": [
+      "people/bill-rapp",
+      "people/j-wood-energydg",
+      "people/kevin-hyatt",
+      "people/lorraine-lindberg",
+      "people/mark-mcconnell",
+      "people/nicholas-thomas",
+      "people/nthomas-utilicorp",
+      "people/shelby-leibhart",
+      "people/thomas"
+    ],
+    "date": "2001-11-13"
+  }
+}

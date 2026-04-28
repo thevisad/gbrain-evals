@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-williams",
+  "type": "person",
+  "title": "Bob Williams",
+  "compiled_truth": "Bob Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-07 to 2001-10-25), Bob Williams sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-07** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-williams",
+    "name": "Bob Williams",
+    "email": "bob.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

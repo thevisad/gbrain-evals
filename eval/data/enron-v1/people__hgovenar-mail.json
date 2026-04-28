@@ -1,0 +1,14 @@
+{
+  "slug": "people/hgovenar-mail",
+  "type": "person",
+  "title": "Hgovenar",
+  "compiled_truth": "Hgovenar is an external contact at [Mail](companies/mail). Over the corpus period (2001-02-16 to 2001-03-16), Hgovenar sent 0 and received 53 emails, totalling 53 interactions.",
+  "timeline": "- **2001-02-16** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hgovenar-mail",
+    "name": "Hgovenar",
+    "email": "hgovenar@mail.acom2.com",
+    "primary_affiliation": "companies/mail"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tammie-williams",
+  "type": "person",
+  "title": "Tammie Williams",
+  "compiled_truth": "Tammie Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-03 to 2001-11-25), Tammie Williams sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2001-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tammie-williams",
+    "name": "Tammie Williams",
+    "email": "tammie.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

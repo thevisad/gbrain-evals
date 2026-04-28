@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-heal",
+  "type": "person",
+  "title": "Kevin Heal",
+  "compiled_truth": "Kevin Heal is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-28 to 2002-05-16), Kevin Heal sent 28 and received 140 emails, totalling 168 interactions. Top correspondents: [Peggy Hedstrom](people/peggy-hedstrom) (21), [Geoff Storey](people/geoff-storey) (20), [Ruth Concannon](people/ruth-concannon) (20), [Martin Cuilla](people/martin-cuilla) (19), [Robert Hemstock](people/robert-hemstock) (19). Mailbox folders observed: deleted_items, inbox, tcpl.",
+  "timeline": "- **1999-12-28** | First recorded email in corpus\n- **2002-05-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-heal",
+    "name": "Kevin Heal",
+    "email": "kevin.heal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cwarnock-br-inc",
+  "type": "person",
+  "title": "Cwarnock",
+  "compiled_truth": "Cwarnock is an external contact at [Br-inc](companies/br-inc). Over the corpus period (2000-05-21 to 2000-11-25), Cwarnock sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cwarnock-br-inc",
+    "name": "Cwarnock",
+    "email": "cwarnock@br-inc.com",
+    "primary_affiliation": "companies/br-inc"
+  }
+}

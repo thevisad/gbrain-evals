@@ -1,0 +1,14 @@
+{
+  "slug": "people/huy-dinh",
+  "type": "person",
+  "title": "Huy Dinh",
+  "compiled_truth": "Huy Dinh is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-30), Huy Dinh sent 6 and received 25 emails, totalling 31 interactions. Top correspondents: [Tony Harris](people/tony-harris) (4), [Darran Binns](people/darran-binns) (4), [Eddie Sera](people/eddie-sera) (4), [Rafael Avila](people/rafael-avila) (4), [Scott Tackett](people/scott-tackett) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/huy-dinh",
+    "name": "Huy Dinh",
+    "email": "huy.dinh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

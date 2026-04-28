@@ -1,0 +1,14 @@
+{
+  "slug": "people/mspradling-velaw",
+  "type": "person",
+  "title": "Mspradling",
+  "compiled_truth": "Mspradling is an external contact at [Vinson & Elkins](companies/vinson-elkins). Over the corpus period (2000-03-10 to 2001-09-21), Mspradling sent 1 and received 44 emails, totalling 45 interactions. Top correspondents: [Brent Vasconcellos](people/brent-vasconcellos) (1), [Sshackl](people/sshackl) (1), [Julia H Chin](people/julia-h-chin) (1).",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-09-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mspradling-velaw",
+    "name": "Mspradling",
+    "email": "mspradling@velaw.com",
+    "primary_affiliation": "companies/vinson-elkins"
+  }
+}

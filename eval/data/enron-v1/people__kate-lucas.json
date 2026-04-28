@@ -1,0 +1,14 @@
+{
+  "slug": "people/kate-lucas",
+  "type": "person",
+  "title": "Kate Lucas",
+  "compiled_truth": "Kate Lucas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-17 to 2001-09-28), Kate Lucas sent 2 and received 69 emails, totalling 71 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (2), [Vasant Shanbhogue](people/vasant-shanbhogue) (2), [Nelson Neale](people/nelson-neale) (2), [Mauricio Mora](people/mauricio-mora) (2).",
+  "timeline": "- **2000-10-17** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kate-lucas",
+    "name": "Kate Lucas",
+    "email": "kate.lucas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

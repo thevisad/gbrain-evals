@@ -1,0 +1,25 @@
+{
+  "slug": "meetings/final-final-meeting-2000-08",
+  "type": "meeting",
+  "title": "Meeting: Final Final Meeting",
+  "compiled_truth": "Meeting: \"Final Final Meeting\". Occurred 2000-08-08 through 2000-08-09 with 2 related emails. Participants included: [Audrey Robertson](people/audrey-robertson), [Christine Stokes](people/christine-stokes), [David Foti](people/david-foti), [Jeffery Fawcett](people/jeffery-fawcett), [Kevin Hyatt](people/kevin-hyatt), [Lindy Donoho](people/lindy-donoho), [Lorraine Lindberg](people/lorraine-lindberg), [Michelle Lokay](people/michelle-lokay)....",
+  "timeline": "- **2000-08-08** | Meeting: final final meeting\n- **2000-08-09** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/final-final-meeting-2000-08",
+    "attendees": [
+      "people/audrey-robertson",
+      "people/christine-stokes",
+      "people/david-foti",
+      "people/jeffery-fawcett",
+      "people/kevin-hyatt",
+      "people/lindy-donoho",
+      "people/lorraine-lindberg",
+      "people/michelle-lokay",
+      "people/steven-harris",
+      "people/susan-scott",
+      "people/tk-lohman"
+    ],
+    "date": "2000-08-08"
+  }
+}

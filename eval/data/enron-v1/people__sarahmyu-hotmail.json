@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarahmyu-hotmail",
+  "type": "person",
+  "title": "Sarahmyu",
+  "compiled_truth": "Sarahmyu is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-11-17 to 2001-12-10), Sarahmyu sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarahmyu-hotmail",
+    "name": "Sarahmyu",
+    "email": "sarahmyu@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

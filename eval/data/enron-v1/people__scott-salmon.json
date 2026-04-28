@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-salmon",
+  "type": "person",
+  "title": "Scott Salmon",
+  "compiled_truth": "Scott Salmon is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-13 to 2001-06-08), Scott Salmon sent 2 and received 24 emails, totalling 26 interactions. Top correspondents: [Amitava Dhar](people/amitava-dhar) (2), [Mike Mumford](people/mike-mumford) (2), [Eric Kirkpatrick](people/eric-kirkpatrick) (2), [Iris Mack](people/iris-mack) (2), [Vasant Shanbhogue](people/vasant-shanbhogue) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-03-13** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-salmon",
+    "name": "Scott Salmon",
+    "email": "scott.salmon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

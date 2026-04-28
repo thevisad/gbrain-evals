@@ -1,0 +1,14 @@
+{
+  "slug": "people/herbert-goodwin",
+  "type": "person",
+  "title": "Herbert Goodwin",
+  "compiled_truth": "Herbert Goodwin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-26 to 2001-10-31), Herbert Goodwin sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1), [Fernley Dyson](people/fernley-dyson) (1), [S  Bradford](people/s-bradford) (1), [D  Sorenson](people/d-sorenson) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-02-26** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/herbert-goodwin",
+    "name": "Herbert Goodwin",
+    "email": "herbert.goodwin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

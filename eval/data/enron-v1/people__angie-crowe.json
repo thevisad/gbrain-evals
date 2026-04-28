@@ -1,0 +1,14 @@
+{
+  "slug": "people/angie-crowe",
+  "type": "person",
+  "title": "Angie Crowe",
+  "compiled_truth": "Angie Crowe is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-09 to 2000-12-04), Angie Crowe sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2000-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angie-crowe",
+    "name": "Angie Crowe",
+    "email": "angie.crowe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

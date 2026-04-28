@@ -1,0 +1,14 @@
+{
+  "slug": "people/marianne-arake",
+  "type": "person",
+  "title": "Marianne Arake",
+  "compiled_truth": "Marianne Arake is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-06 to 2001-11-16), Marianne Arake sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-12-06** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marianne-arake",
+    "name": "Marianne Arake",
+    "email": "marianne.arake@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

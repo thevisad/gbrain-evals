@@ -1,0 +1,14 @@
+{
+  "slug": "people/tennekoon-ravi",
+  "type": "person",
+  "title": "Tennekoon' 'Ravi",
+  "compiled_truth": "Tennekoon' 'Ravi is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-09 to 2001-07-09), Tennekoon' 'Ravi sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tennekoon-ravi",
+    "name": "Tennekoon' 'Ravi",
+    "email": "tennekoon'.'ravi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/it-dl-portland",
+  "type": "person",
+  "title": "It Dl-Portland",
+  "compiled_truth": "It Dl-Portland is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-17 to 2002-02-01), It Dl-Portland sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-07-17** | First recorded email in corpus\n- **2002-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/it-dl-portland",
+    "name": "It Dl-Portland",
+    "email": "it.dl-portland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tony-spruiell",
+  "type": "person",
+  "title": "Tony Spruiell",
+  "compiled_truth": "Tony Spruiell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-13 to 2001-11-26), Tony Spruiell sent 0 and received 548 emails, totalling 548 interactions.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tony-spruiell",
+    "name": "Tony Spruiell",
+    "email": "tony.spruiell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

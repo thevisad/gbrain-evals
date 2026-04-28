@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-gilbert",
+  "type": "person",
+  "title": "Jim Gilbert",
+  "compiled_truth": "Jim Gilbert is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2002-06-19), Jim Gilbert sent 1 and received 157 emails, totalling 158 interactions. Top correspondents: [Lisa Bills](people/lisa-bills) (1), [Roseann Engeldorf](people/roseann-engeldorf) (1), [Sheila Tweed](people/sheila-tweed) (1), [Catherine Clark](people/catherine-clark) (1), [Brian Kerrigan](people/brian-kerrigan) (1).",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2002-06-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-gilbert",
+    "name": "Jim Gilbert",
+    "email": "jim.gilbert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

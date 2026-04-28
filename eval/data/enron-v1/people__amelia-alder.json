@@ -1,0 +1,14 @@
+{
+  "slug": "people/amelia-alder",
+  "type": "person",
+  "title": "Amelia Alder",
+  "compiled_truth": "Amelia Alder is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-24 to 2002-03-19), Amelia Alder sent 59 and received 115 emails, totalling 174 interactions. Top correspondents: [Pat Bertotti](people/pat-bertotti-txh) (5), [Jeff Skilling](people/jeff-skilling) (4), [Mark Neagli](people/mark-neagli-txh) (4), [Benjamin Rogers](people/benjamin-rogers) (2), [Sgerrie](people/sgerrie-retailconcepts) (2). Mailbox folders observed: _sent_mail, deleted_items, inbox.",
+  "timeline": "- **2000-02-24** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amelia-alder",
+    "name": "Amelia Alder",
+    "email": "amelia.alder@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

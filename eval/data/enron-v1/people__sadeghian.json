@@ -1,0 +1,14 @@
+{
+  "slug": "people/sadeghian",
+  "type": "person",
+  "title": "Sadeghian",
+  "compiled_truth": "Sadeghian is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-25 to 2001-11-27), Sadeghian sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-10-25** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sadeghian",
+    "name": "Sadeghian",
+    "email": "sadeghian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

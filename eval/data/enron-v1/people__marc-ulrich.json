@@ -1,0 +1,14 @@
+{
+  "slug": "people/marc-ulrich",
+  "type": "person",
+  "title": "Marc Ulrich",
+  "compiled_truth": "Marc Ulrich is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-24 to 2001-12-18), Marc Ulrich sent 1 and received 47 emails, totalling 48 interactions. Top correspondents: [Janine Migden](people/janine-migden) (1), [Jeff Ader](people/jeff-ader) (1), [Mark Bernstein](people/mark-bernstein) (1), [Edward Baughman](people/edward-baughman) (1), [Harry Kingerski](people/harry-kingerski) (1).",
+  "timeline": "- **2001-01-24** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marc-ulrich",
+    "name": "Marc Ulrich",
+    "email": "marc.ulrich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

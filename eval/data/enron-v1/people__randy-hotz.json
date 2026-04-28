@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-hotz",
+  "type": "person",
+  "title": "Randy Hotz",
+  "compiled_truth": "Randy Hotz is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-05-18), Randy Hotz sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-hotz",
+    "name": "Randy Hotz",
+    "email": "randy.hotz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

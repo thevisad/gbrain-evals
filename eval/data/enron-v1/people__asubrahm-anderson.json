@@ -1,0 +1,14 @@
+{
+  "slug": "people/asubrahm-anderson",
+  "type": "person",
+  "title": "Asubrahm",
+  "compiled_truth": "Asubrahm is an external contact at [Anderson](companies/anderson). Over the corpus period (2000-03-28 to 2001-03-06), Asubrahm sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2001-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/asubrahm-anderson",
+    "name": "Asubrahm",
+    "email": "asubrahm@anderson.ucla.edu",
+    "primary_affiliation": "companies/anderson"
+  }
+}

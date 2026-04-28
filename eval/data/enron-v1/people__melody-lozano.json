@@ -1,0 +1,14 @@
+{
+  "slug": "people/melody-lozano",
+  "type": "person",
+  "title": "Melody Lozano",
+  "compiled_truth": "Melody Lozano is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-12 to 2000-09-12), Melody Lozano sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-09-12** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melody-lozano",
+    "name": "Melody Lozano",
+    "email": "melody.lozano@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

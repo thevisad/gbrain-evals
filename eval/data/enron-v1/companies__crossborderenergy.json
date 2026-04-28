@@ -1,0 +1,20 @@
+{
+  "slug": "companies/crossborderenergy",
+  "type": "company",
+  "title": "Crossborderenergy",
+  "compiled_truth": "Crossborderenergy is an external organization that appears in the Enron email corpus. Domain: crossborderenergy.com. Total email interactions with Enron: 270. Known contacts: 3 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (270 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/crossborderenergy",
+    "name": "Crossborderenergy",
+    "employees": [
+      "people/christa-crossborderenergy",
+      "people/patrickm-crossborderenergy",
+      "people/tomb-crossborderenergy"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

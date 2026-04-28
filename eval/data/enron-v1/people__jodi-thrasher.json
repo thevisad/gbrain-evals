@@ -1,0 +1,14 @@
+{
+  "slug": "people/jodi-thrasher",
+  "type": "person",
+  "title": "Jodi Thrasher",
+  "compiled_truth": "Jodi Thrasher is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-12-03), Jodi Thrasher sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jodi-thrasher",
+    "name": "Jodi Thrasher",
+    "email": "jodi.thrasher@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

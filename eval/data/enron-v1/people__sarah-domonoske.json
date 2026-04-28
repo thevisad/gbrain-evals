@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarah-domonoske",
+  "type": "person",
+  "title": "Sarah Domonoske",
+  "compiled_truth": "Sarah Domonoske is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-19 to 2001-11-08), Sarah Domonoske sent 1 and received 25 emails, totalling 26 interactions. Top correspondents: [Paul Y'Barbo](people/paul-y-barbo) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarah-domonoske",
+    "name": "Sarah Domonoske",
+    "email": "sarah.domonoske@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

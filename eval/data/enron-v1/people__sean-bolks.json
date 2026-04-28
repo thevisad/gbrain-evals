@@ -1,0 +1,14 @@
+{
+  "slug": "people/sean-bolks",
+  "type": "person",
+  "title": "Sean Bolks",
+  "compiled_truth": "Sean Bolks is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2002-01-31), Sean Bolks sent 3 and received 261 emails, totalling 264 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (2), [Mark Mcconnell](people/mark-mcconnell) (1), [Paul Y'Barbo](people/paul-y-barbo) (1). Mailbox folders observed: e_mail_bin, inbox, nng.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sean-bolks",
+    "name": "Sean Bolks",
+    "email": "sean.bolks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

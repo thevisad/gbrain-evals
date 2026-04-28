@@ -1,0 +1,14 @@
+{
+  "slug": "people/jaime-gualy",
+  "type": "person",
+  "title": "Jaime Gualy",
+  "compiled_truth": "Jaime Gualy is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-25), Jaime Gualy sent 36 and received 196 emails, totalling 232 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (20), [Don Baughman](people/don-baughman) (5), [Harry Arora](people/harry-arora) (4), [W  White](people/w-white) (2), [Robert Stalford](people/robert-stalford) (2). Mailbox folders observed: deleted_items, enron_power, inbox, personal, power, trading_info.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jaime-gualy",
+    "name": "Jaime Gualy",
+    "email": "jaime.gualy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/el00-95-listserv",
+  "type": "person",
+  "title": "El00-95",
+  "compiled_truth": "El00-95 is an external contact at [Listserv](companies/listserv). Over the corpus period (2001-10-19 to 2002-01-01), El00-95 sent 0 and received 164 emails, totalling 164 interactions.",
+  "timeline": "- **2001-10-19** | First recorded email in corpus\n- **2002-01-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/el00-95-listserv",
+    "name": "El00-95",
+    "email": "el00-95@listserv.gsa.gov",
+    "primary_affiliation": "companies/listserv"
+  }
+}

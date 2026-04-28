@@ -1,0 +1,26 @@
+{
+  "slug": "meetings/staff-meeting-2002-03",
+  "type": "meeting",
+  "title": "Meeting: Staff Meeting",
+  "compiled_truth": "Meeting: \"Staff Meeting\". Occurred 2002-03-06 through 2002-03-11 with 3 related emails. Participants included: [Alma Carrillo](people/alma-carrillo), [Ava Garcia](people/ava-garcia), [Bradley Holmes](people/bradley-holmes), [Donna Scott](people/donna-scott), [Lynn Blair](people/lynn-blair), [Mike Bryant](people/mike-bryant), [Rick Dietz](people/rick-dietz), [Ricki Winters](people/ricki-winters)....",
+  "timeline": "- **2002-03-06** | Meeting: staff meeting\n- **2002-03-11** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/staff-meeting-2002-03",
+    "attendees": [
+      "people/alma-carrillo",
+      "people/ava-garcia",
+      "people/bradley-holmes",
+      "people/donna-scott",
+      "people/lynn-blair",
+      "people/mike-bryant",
+      "people/rick-dietz",
+      "people/ricki-winters",
+      "people/sharon-brown",
+      "people/sheila-nacey",
+      "people/shelley-corman",
+      "people/steve-january"
+    ],
+    "date": "2002-03-06"
+  }
+}

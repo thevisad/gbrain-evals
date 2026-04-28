@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-neal-worldnet",
+  "type": "person",
+  "title": "Scott Neal",
+  "compiled_truth": "Scott Neal is an external contact at [Worldnet](companies/worldnet). Over the corpus period (2001-09-25 to 2001-12-19), Scott Neal sent 26 and received 12 emails, totalling 38 interactions. Top correspondents: [Scott Neal](people/scott-neal) (26), [Daddywolf](people/daddywolf-austin) (1), [Fxo](people/fxo-meekranchsales) (1).",
+  "timeline": "- **2001-09-25** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-neal-worldnet",
+    "name": "Scott Neal",
+    "email": "scott.neal@worldnet.att.net",
+    "primary_affiliation": "companies/worldnet"
+  }
+}

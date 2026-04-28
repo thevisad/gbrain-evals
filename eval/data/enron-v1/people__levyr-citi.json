@@ -1,0 +1,14 @@
+{
+  "slug": "people/levyr-citi",
+  "type": "person",
+  "title": "Levyr",
+  "compiled_truth": "Levyr is an external contact at [Citi](companies/citi). Over the corpus period (2001-11-06 to 2001-11-16), Levyr sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-11-06** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/levyr-citi",
+    "name": "Levyr",
+    "email": "levyr@citi.com",
+    "primary_affiliation": "companies/citi"
+  }
+}

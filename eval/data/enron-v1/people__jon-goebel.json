@@ -1,0 +1,14 @@
+{
+  "slug": "people/jon-goebel",
+  "type": "person",
+  "title": "Jon Goebel",
+  "compiled_truth": "Jon Goebel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-10-12), Jon Goebel sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jon-goebel",
+    "name": "Jon Goebel",
+    "email": "jon.goebel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-anderson",
+  "type": "person",
+  "title": "Gary Anderson",
+  "compiled_truth": "Gary Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-13 to 2001-06-13), Gary Anderson sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [Gary Hanks](people/gary-hanks) (1), [Lee Papayoti](people/lee-papayoti) (1), [Robert Lloyd](people/robert-lloyd) (1), [Pat Clynes](people/pat-clynes) (1), [Earl Tisdale](people/earl-tisdale) (1).",
+  "timeline": "- **2000-04-13** | First recorded email in corpus\n- **2001-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-anderson",
+    "name": "Gary Anderson",
+    "email": "gary.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

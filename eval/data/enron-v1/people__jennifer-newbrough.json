@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-newbrough",
+  "type": "person",
+  "title": "Jennifer Newbrough",
+  "compiled_truth": "Jennifer Newbrough is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-24 to 2002-01-24), Jennifer Newbrough sent 4 and received 26 emails, totalling 30 interactions. Top correspondents: [Susan Bailey](people/susan-bailey) (4), [Sara Shackleton](people/sara-shackleton) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-01-24** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-newbrough",
+    "name": "Jennifer Newbrough",
+    "email": "jennifer.newbrough@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

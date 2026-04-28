@@ -1,0 +1,14 @@
+{
+  "slug": "people/lys-a-klaw",
+  "type": "person",
+  "title": "Lys",
+  "compiled_truth": "Lys is an external contact at [A-klaw](companies/a-klaw). Over the corpus period (2001-06-29 to 2001-09-24), Lys sent 1 and received 69 emails, totalling 70 interactions. Top correspondents: [Dhunter](people/dhunter-s-k-w) (1), [Ann Cohn](people/ann-cohn-sce) (1), [Brbarkovich](people/brbarkovich-earthlink) (1), [Drothrock](people/drothrock-cmta) (1), [Fieldejr](people/fieldejr-sce) (1).",
+  "timeline": "- **2001-06-29** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lys-a-klaw",
+    "name": "Lys",
+    "email": "lys@a-klaw.com",
+    "primary_affiliation": "companies/a-klaw"
+  }
+}

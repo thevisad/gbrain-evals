@@ -1,0 +1,14 @@
+{
+  "slug": "people/ranendra-sengupta",
+  "type": "person",
+  "title": "Ranendra Sengupta",
+  "compiled_truth": "Ranendra Sengupta is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-01-24), Ranendra Sengupta sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ranendra-sengupta",
+    "name": "Ranendra Sengupta",
+    "email": "ranendra.sengupta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

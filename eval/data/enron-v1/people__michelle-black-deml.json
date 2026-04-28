@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-black-deml",
+  "type": "person",
+  "title": "Michelle Black",
+  "compiled_truth": "Michelle Black is an external contact at [Deml](companies/deml). Over the corpus period (2001-05-02 to 2001-05-15), Michelle Black sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-black-deml",
+    "name": "Michelle Black",
+    "email": "michelle.black@deml.com",
+    "primary_affiliation": "companies/deml"
+  }
+}

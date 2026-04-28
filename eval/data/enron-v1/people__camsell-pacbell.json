@@ -1,0 +1,14 @@
+{
+  "slug": "people/camsell-pacbell",
+  "type": "person",
+  "title": "Camsell",
+  "compiled_truth": "Camsell is an external contact at [Pacbell](companies/pacbell). Over the corpus period (2000-11-20 to 2001-04-18), Camsell sent 0 and received 39 emails, totalling 39 interactions.",
+  "timeline": "- **2000-11-20** | First recorded email in corpus\n- **2001-04-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/camsell-pacbell",
+    "name": "Camsell",
+    "email": "camsell@pacbell.net",
+    "primary_affiliation": "companies/pacbell"
+  }
+}

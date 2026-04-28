@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-king-utility",
+  "type": "person",
+  "title": "Chris King",
+  "compiled_truth": "Chris King is an external contact at [Utility](companies/utility). Over the corpus period (2000-04-04 to 2001-07-31), Chris King sent 1 and received 125 emails, totalling 126 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-king-utility",
+    "name": "Chris King",
+    "email": "chris.king@utility.com",
+    "primary_affiliation": "companies/utility"
+  }
+}

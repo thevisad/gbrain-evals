@@ -1,0 +1,14 @@
+{
+  "slug": "people/annas-cobs",
+  "type": "person",
+  "title": "Annas",
+  "compiled_truth": "Annas is an external contact at [Cobs](companies/cobs). Over the corpus period (2001-01-16 to 2001-04-24), Annas sent 7 and received 36 emails, totalling 43 interactions. Top correspondents: [Kate Symes](people/kate-symes) (7), [Marys](people/marys-tvapdx) (4), [Aligazarine](people/aligazarine-hotmail) (3), [Ootsybaby](people/ootsybaby-hotmail) (3), [Jaimetosio](people/jaimetosio-hotmail) (3).",
+  "timeline": "- **2001-01-16** | First recorded email in corpus\n- **2001-04-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/annas-cobs",
+    "name": "Annas",
+    "email": "annas@cobs.edu",
+    "primary_affiliation": "companies/cobs"
+  }
+}

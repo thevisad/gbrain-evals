@@ -1,0 +1,14 @@
+{
+  "slug": "people/wgander-twa",
+  "type": "person",
+  "title": "Wgander",
+  "compiled_truth": "Wgander is an external contact at [Twa](companies/twa). Over the corpus period (2000-09-04 to 2001-09-28), Wgander sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wgander-twa",
+    "name": "Wgander",
+    "email": "wgander@twa.com",
+    "primary_affiliation": "companies/twa"
+  }
+}

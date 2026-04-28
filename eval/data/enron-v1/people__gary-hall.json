@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-hall",
+  "type": "person",
+  "title": "Gary Hall",
+  "compiled_truth": "Gary Hall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2000-09-14), Gary Hall sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2000-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-hall",
+    "name": "Gary Hall",
+    "email": "gary.hall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

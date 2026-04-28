@@ -1,0 +1,14 @@
+{
+  "slug": "people/carrrn-bracepatt",
+  "type": "person",
+  "title": "Carrrn",
+  "compiled_truth": "Carrrn is an external contact at [Bracewell & Patterson](companies/bracewell). Over the corpus period (1999-06-25 to 2001-03-21), Carrrn sent 1 and received 68 emails, totalling 69 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (1).",
+  "timeline": "- **1999-06-25** | First recorded email in corpus\n- **2001-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carrrn-bracepatt",
+    "name": "Carrrn",
+    "email": "carrrn@bracepatt.com",
+    "primary_affiliation": "companies/bracewell"
+  }
+}

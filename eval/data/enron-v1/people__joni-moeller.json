@@ -1,0 +1,14 @@
+{
+  "slug": "people/joni-moeller",
+  "type": "person",
+  "title": "Joni Moeller",
+  "compiled_truth": "Joni Moeller is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-21 to 2001-10-19), Joni Moeller sent 1 and received 35 emails, totalling 36 interactions. Top correspondents: [Alice Weekley](people/alice-weekley) (1), [Ned Crady](people/ned-crady) (1), [Kenneth Krasny](people/kenneth-krasny) (1), [Teb Lokey](people/teb-lokey) (1), [Robert Kilmer](people/robert-kilmer) (1). Mailbox folders observed: calendar.",
+  "timeline": "- **2001-02-21** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joni-moeller",
+    "name": "Joni Moeller",
+    "email": "joni.moeller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

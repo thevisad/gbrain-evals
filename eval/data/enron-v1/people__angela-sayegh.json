@@ -1,0 +1,14 @@
+{
+  "slug": "people/angela-sayegh",
+  "type": "person",
+  "title": "Angela Sayegh",
+  "compiled_truth": "Angela Sayegh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-03-25), Angela Sayegh sent 1 and received 17 emails, totalling 18 interactions. Top correspondents: [Controllers Dl-Ets](people/controllers-dl-ets) (1), [Steve Littel](people/steve-littel) (1), [Dale Ratliff](people/dale-ratliff) (1), [J Smith](people/j-smith) (1), [Rodney Thompson](people/rodney-thompson) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angela-sayegh",
+    "name": "Angela Sayegh",
+    "email": "angela.sayegh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

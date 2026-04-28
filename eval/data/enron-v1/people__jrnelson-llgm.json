@@ -1,0 +1,14 @@
+{
+  "slug": "people/jrnelson-llgm",
+  "type": "person",
+  "title": "Jrnelson",
+  "compiled_truth": "Jrnelson is an external contact at [Llgm](companies/llgm). Over the corpus period (2001-03-20 to 2001-11-06), Jrnelson sent 6 and received 37 emails, totalling 43 interactions. Top correspondents: [B  Sanders](people/b-sanders) (4), [Ceklund](people/ceklund-llgm) (3), [Richard B Sanders](people/richard-b-sanders) (1), [Hweg](people/hweg-pgw) (1), [Marccohen](people/marccohen-kayescholer) (1).",
+  "timeline": "- **2001-03-20** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jrnelson-llgm",
+    "name": "Jrnelson",
+    "email": "jrnelson@llgm.com",
+    "primary_affiliation": "companies/llgm"
+  }
+}

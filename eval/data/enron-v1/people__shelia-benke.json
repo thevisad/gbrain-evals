@@ -1,0 +1,14 @@
+{
+  "slug": "people/shelia-benke",
+  "type": "person",
+  "title": "Shelia Benke",
+  "compiled_truth": "Shelia Benke is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-04 to 2001-11-08), Shelia Benke sent 0 and received 86 emails, totalling 86 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shelia-benke",
+    "name": "Shelia Benke",
+    "email": "shelia.benke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

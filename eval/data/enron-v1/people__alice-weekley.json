@@ -1,0 +1,14 @@
+{
+  "slug": "people/alice-weekley",
+  "type": "person",
+  "title": "Alice Weekley",
+  "compiled_truth": "Alice Weekley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-27 to 2002-03-21), Alice Weekley sent 3 and received 63 emails, totalling 66 interactions. Top correspondents: [Teb Lokey](people/teb-lokey) (3), [Teresa Dyar](people/teresa-dyar) (2), [Mike Smith](people/mike-smith) (1), [Jordan Hunter](people/jordan-hunter) (1), [Frank Wang](people/frank-wang) (1). Mailbox folders observed: calendar.",
+  "timeline": "- **2000-11-27** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alice-weekley",
+    "name": "Alice Weekley",
+    "email": "alice.weekley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

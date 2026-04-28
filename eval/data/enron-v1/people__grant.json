@@ -1,0 +1,14 @@
+{
+  "slug": "people/grant",
+  "type": "person",
+  "title": " Grant",
+  "compiled_truth": "Grant is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-17 to 2002-02-04),  Grant sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-04-17** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/grant",
+    "name": " Grant",
+    "email": ".grant@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

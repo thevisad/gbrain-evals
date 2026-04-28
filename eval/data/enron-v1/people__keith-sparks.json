@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-sparks",
+  "type": "person",
+  "title": "Keith Sparks",
+  "compiled_truth": "Keith Sparks is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2002-01-28), Keith Sparks sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-sparks",
+    "name": "Keith Sparks",
+    "email": "keith.sparks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/katherine-crosswhite",
+  "type": "person",
+  "title": "Katherine Crosswhite",
+  "compiled_truth": "Katherine Crosswhite is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-12-06), Katherine Crosswhite sent 7 and received 32 emails, totalling 39 interactions. Top correspondents: [Melissa Graves](people/melissa-graves) (4), [Daren Farmer](people/daren-farmer) (4), [Vance Taylor](people/vance-taylor) (3), [Pat Clynes](people/pat-clynes) (3), [Lauri Allen](people/lauri-allen) (3).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/katherine-crosswhite",
+    "name": "Katherine Crosswhite",
+    "email": "katherine.crosswhite@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

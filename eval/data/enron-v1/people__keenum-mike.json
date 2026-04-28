@@ -1,0 +1,14 @@
+{
+  "slug": "people/keenum-mike",
+  "type": "person",
+  "title": "Keenum Mike",
+  "compiled_truth": "Keenum Mike is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-26 to 2001-09-26), Keenum Mike sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-26** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keenum-mike",
+    "name": "Keenum Mike",
+    "email": "keenum.mike@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

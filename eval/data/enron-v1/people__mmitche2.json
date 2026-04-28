@@ -1,0 +1,14 @@
+{
+  "slug": "people/mmitche2",
+  "type": "person",
+  "title": "Mmitche2",
+  "compiled_truth": "Mmitche2 is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-22 to 2000-09-05), Mmitche2 sent 0 and received 64 emails, totalling 64 interactions.",
+  "timeline": "- **2000-02-22** | First recorded email in corpus\n- **2000-09-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mmitche2",
+    "name": "Mmitche2",
+    "email": "mmitche2@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

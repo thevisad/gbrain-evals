@@ -1,0 +1,14 @@
+{
+  "slug": "people/irene-flynn",
+  "type": "person",
+  "title": "Irene Flynn",
+  "compiled_truth": "Irene Flynn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-08 to 2001-06-08), Irene Flynn sent 2 and received 171 emails, totalling 173 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1), [Juanita Marchand](people/juanita-marchand) (1), [Cheryl Dudley](people/cheryl-dudley) (1), [Cathy Harris](people/cathy-harris) (1), [Jackie Morgan](people/jackie-morgan) (1). Mailbox folders observed: inbox, misc_.",
+  "timeline": "- **2000-02-08** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/irene-flynn",
+    "name": "Irene Flynn",
+    "email": "irene.flynn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

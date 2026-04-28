@@ -1,0 +1,14 @@
+{
+  "slug": "people/loneill-bear",
+  "type": "person",
+  "title": "Loneill",
+  "compiled_truth": "Loneill is an external contact at [Bear](companies/bear). Over the corpus period (2000-05-09 to 2001-11-16), Loneill sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-05-09** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/loneill-bear",
+    "name": "Loneill",
+    "email": "loneill@bear.com",
+    "primary_affiliation": "companies/bear"
+  }
+}

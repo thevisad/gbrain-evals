@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-reidy",
+  "type": "person",
+  "title": "John Reidy",
+  "compiled_truth": "John Reidy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-12 to 2001-11-12), John Reidy sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-12** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-reidy",
+    "name": "John Reidy",
+    "email": "john.reidy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jtownse-yahoo",
+  "type": "person",
+  "title": "Jtownse",
+  "compiled_truth": "Jtownse is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-03-07 to 2001-12-20), Jtownse sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **2000-03-07** | First recorded email in corpus\n- **2001-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jtownse-yahoo",
+    "name": "Jtownse",
+    "email": "jtownse@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gayla-seiter",
+  "type": "person",
+  "title": "Gayla Seiter",
+  "compiled_truth": "Gayla Seiter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-21 to 2000-12-13), Gayla Seiter sent 3 and received 20 emails, totalling 23 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1), [Jeff Skilling](people/jeff-skilling) (1), [Greg Whalley](people/greg-whalley) (1), [Liz Taylor](people/liz-taylor) (1).",
+  "timeline": "- **2000-07-21** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gayla-seiter",
+    "name": "Gayla Seiter",
+    "email": "gayla.seiter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

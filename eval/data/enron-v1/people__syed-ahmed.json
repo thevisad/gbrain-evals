@@ -1,0 +1,14 @@
+{
+  "slug": "people/syed-ahmed",
+  "type": "person",
+  "title": "Syed Ahmed",
+  "compiled_truth": "Syed Ahmed is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-09 to 2001-11-20), Syed Ahmed sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/syed-ahmed",
+    "name": "Syed Ahmed",
+    "email": "syed.ahmed@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

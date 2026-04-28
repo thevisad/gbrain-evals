@@ -1,0 +1,14 @@
+{
+  "slug": "people/shaaban-naim",
+  "type": "person",
+  "title": "Shaaban Naim",
+  "compiled_truth": "Shaaban Naim is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-07 to 2002-05-06), Shaaban Naim sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2002-03-07** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shaaban-naim",
+    "name": "Shaaban Naim",
+    "email": "shaaban.naim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

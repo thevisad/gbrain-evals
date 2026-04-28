@@ -1,0 +1,25 @@
+{
+  "slug": "people/ora-yamamoto",
+  "type": "person",
+  "title": "Ora Yamamoto",
+  "compiled_truth": "Ora Yamamoto is a partner at [Meridian Ventures](companies/meridian-ventures), where she leads the firm's developer tools and infrastructure practice. She's been investing in the space since before it was fashionable — her first fund allocation at Meridian was in 2019, back when most generalist VCs still lumped dev tools under \"enterprise\" and moved on. That early conviction is what makes her reputation: she's a long-term thinker who doesn't flinch at long adoption curves.\n\nBefore Meridian, Ora spent five years as a product lead at a mid-stage observability company (since aquired), which gave her an unusually hands-on understanding of how infrastructure gets adopted bottoms-up. She's known for doing deep technical diligence herself rather than outsourcing it to associates, and founders describe her pattern-matching as borderline eerie — she'll connect dots across portfolio companies that the founders themselves haven't seen yet.\n\nHer board seats include [Umbra Storage](companies/umbra-storage) and [Lattice Data](companies/lattice-data), both of which she led Series A rounds for. Umbra in particular has been a standout; Ora pushed the team to focus on the embedded storage use case early, which turned out to be the wedge that drove most of their enterprise pipeline. Her involvement with Lattice Data is more recent, but she's already been instrumental in shaping their go-to-market around data pipeline tooling.\n\nOra's connection to [Anchor Codec](companies/anchor) began in mid-2027 when she took the first meeting with the founding team through a warm intro. She'd been tracking the deterministic data infrastructure thesis independently and recognized the single-pass primitives approach as a potential platform shift. Meridian participated in Anchor's funding round, and Ora has since served as an informal advisor, particularly around positioning and developer adoption strategy. She's careful not to overextend — she typically limits herself to 2-3 new investments per year — but when she commits, she's deeply involved.\n\nColleagues describe Yamamoto as direct, occasionally blunt, and allergic to hype. She's been quoted internally as saying \"I don't invest in narratives, I invest in compile targets.\" Whether that's literally true is debatable, but it captures something real about her approach.",
+  "timeline": "- **2026-03-14** | Ora leads [Umbra Storage](companies/umbra-storage) Series A close at Meridian Ventures, takes board seat.\n- **2026-07-22** | Gives keynote at DevInfra Summit on \"Why Developer Tools Deserve Patient Capital.\"\n- **2026-11-05** | First meeting with [Lattice Data](companies/lattice-data) founders; begins diligence process.\n- **2027-02-18** | Closes [Lattice Data](companies/lattice-data) Series A, joins board as observer initially.\n- **2027-06-09** | Takes introductory call with [Anchor Codec](companies/anchor) founding team, flagged internally as high-priority deal.\n- **2027-08-03** | Attends Anchor technical deep-dive session; brings two Meridian associates for independent evaluation.\n- **2027-09-27** | [Meridian Ventures](companies/meridian-ventures) commits to [Anchor Codec](companies/anchor) funding round; Ora negotiates terms.\n- **2027-12-11** | Hosts cross-portfolio dinner connecting Anchor, Umbra, and Lattice Data teams to explore integration surface area.\n- **2028-03-20** | Publishes internal Meridian memo on deterministic infrastructure as emerging category; circulates to LP base.\n- **2028-06-15** | Participates in [Anchor Codec](companies/anchor) strategy offsite, advises on enterprise positioning ahead of product launch.",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ora-yamamoto",
+    "name": "Ora Yamamoto",
+    "role": "partner",
+    "title": "Partner, Meridian Ventures",
+    "primary_affiliation": "companies/meridian-ventures",
+    "secondary_affiliations": [
+      "companies/umbra-storage",
+      "companies/lattice-data",
+      "companies/anchor"
+    ],
+    "notable_traits": [
+      "long-term thinker",
+      "sharp pattern matcher"
+    ],
+    "background": "Partner at Meridian Ventures; focuses on developer tools investments"
+  }
+}

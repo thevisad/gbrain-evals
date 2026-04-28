@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-cothran",
+  "type": "person",
+  "title": "Robert Cothran",
+  "compiled_truth": "Robert Cothran is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-23 to 2001-11-26), Robert Cothran sent 4 and received 7 emails, totalling 11 interactions. Top correspondents: [James Armstrong](people/james-armstrong) (2), [Pam Becton](people/pam-becton) (2), [Frank Cernosek](people/frank-cernosek) (2), [Bernard Dahanayake](people/bernard-dahanayake) (2), [Dana Davis](people/dana-davis) (2). Mailbox folders observed: _americas, deleted_items.",
+  "timeline": "- **2001-10-23** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-cothran",
+    "name": "Robert Cothran",
+    "email": "robert.cothran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

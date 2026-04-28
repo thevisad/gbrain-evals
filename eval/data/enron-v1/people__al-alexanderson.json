@@ -1,0 +1,14 @@
+{
+  "slug": "people/al-alexanderson",
+  "type": "person",
+  "title": "Al Alexanderson",
+  "compiled_truth": "Al Alexanderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-27 to 2001-06-01), Al Alexanderson sent 1 and received 22 emails, totalling 23 interactions. Top correspondents: [James Derrick](people/james-derrick) (1).",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/al-alexanderson",
+    "name": "Al Alexanderson",
+    "email": "al.alexanderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

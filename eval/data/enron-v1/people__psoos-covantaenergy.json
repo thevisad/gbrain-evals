@@ -1,0 +1,14 @@
+{
+  "slug": "people/psoos-covantaenergy",
+  "type": "person",
+  "title": "Psoos",
+  "compiled_truth": "Psoos is an external contact at [Covantaenergy](companies/covantaenergy). Over the corpus period (2001-03-28 to 2001-07-31), Psoos sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **2001-03-28** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/psoos-covantaenergy",
+    "name": "Psoos",
+    "email": "psoos@covantaenergy.com",
+    "primary_affiliation": "companies/covantaenergy"
+  }
+}

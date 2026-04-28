@@ -1,0 +1,14 @@
+{
+  "slug": "people/rloeffler-mofo",
+  "type": "person",
+  "title": "Rloeffler",
+  "compiled_truth": "Rloeffler is an external contact at [Mofo](companies/mofo). Over the corpus period (2001-02-02 to 2001-05-03), Rloeffler sent 1 and received 32 emails, totalling 33 interactions. Top correspondents: [Hes](people/hes-vnf) (1), [Nolan Steiner](people/nolan-steiner-avistacorp) (1), [Dvermillion](people/dvermillion-avistaenergy) (1), [Asettanni](people/asettanni-bracepatt) (1), [Dwatkiss](people/dwatkiss-bracepatt) (1).",
+  "timeline": "- **2001-02-02** | First recorded email in corpus\n- **2001-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rloeffler-mofo",
+    "name": "Rloeffler",
+    "email": "rloeffler@mofo.com",
+    "primary_affiliation": "companies/mofo"
+  }
+}

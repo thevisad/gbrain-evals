@@ -1,0 +1,14 @@
+{
+  "slug": "people/jstewart-cmta",
+  "type": "person",
+  "title": "Jstewart",
+  "compiled_truth": "Jstewart is an external contact at [Cmta](companies/cmta). Over the corpus period (2000-08-10 to 2001-12-21), Jstewart sent 0 and received 122 emails, totalling 122 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jstewart-cmta",
+    "name": "Jstewart",
+    "email": "jstewart@cmta.net",
+    "primary_affiliation": "companies/cmta"
+  }
+}

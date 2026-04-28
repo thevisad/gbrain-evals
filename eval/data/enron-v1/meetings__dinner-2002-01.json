@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/dinner-2002-01",
+  "type": "meeting",
+  "title": "Meeting: Dinner",
+  "compiled_truth": "Meeting: \"Dinner\". Occurred 2002-01-30 through 2002-01-30 with 2 related emails. Participants included: [Jan Moore](people/jan-moore), [Kimberly Watson](people/kimberly-watson), [Lindy Donoho](people/lindy-donoho), [Lorraine Lindberg](people/lorraine-lindberg), [Mark Mcconnell](people/mark-mcconnell), [Michelle Lokay](people/michelle-lokay), [Paul Y'Barbo](people/paul-y-barbo), [Sarah Mcconnell](people/sarah-mcconnell-compaq)....",
+  "timeline": "- **2002-01-30** | Meeting: dinner\n- **2002-01-30** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/dinner-2002-01",
+    "attendees": [
+      "people/jan-moore",
+      "people/kimberly-watson",
+      "people/lindy-donoho",
+      "people/lorraine-lindberg",
+      "people/mark-mcconnell",
+      "people/michelle-lokay",
+      "people/paul-y-barbo",
+      "people/sarah-mcconnell-compaq",
+      "people/steven-harris",
+      "people/tk-lohman"
+    ],
+    "date": "2002-01-30"
+  }
+}

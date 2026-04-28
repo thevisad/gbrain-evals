@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-horng",
+  "type": "person",
+  "title": "Paul Horng",
+  "compiled_truth": "Paul Horng is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-27 to 2001-11-08), Paul Horng sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2001-06-27** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-horng",
+    "name": "Paul Horng",
+    "email": "paul.horng@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jhowe-amsuper",
+  "type": "person",
+  "title": "Jhowe",
+  "compiled_truth": "Jhowe is an external contact at [Amsuper](companies/amsuper). Over the corpus period (2001-07-13 to 2001-10-18), Jhowe sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-07-13** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jhowe-amsuper",
+    "name": "Jhowe",
+    "email": "jhowe@amsuper.com",
+    "primary_affiliation": "companies/amsuper"
+  }
+}

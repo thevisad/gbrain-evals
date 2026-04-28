@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennie-pai",
+  "type": "person",
+  "title": "Jennie Pai",
+  "compiled_truth": "Jennie Pai is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-18 to 2001-11-27), Jennie Pai sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **2001-04-18** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennie-pai",
+    "name": "Jennie Pai",
+    "email": "jennie.pai@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

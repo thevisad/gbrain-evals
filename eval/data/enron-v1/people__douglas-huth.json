@@ -1,0 +1,14 @@
+{
+  "slug": "people/douglas-huth",
+  "type": "person",
+  "title": "Douglas Huth",
+  "compiled_truth": "Douglas Huth is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-10 to 2001-10-31), Douglas Huth sent 1 and received 540 emails, totalling 541 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-01-10** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/douglas-huth",
+    "name": "Douglas Huth",
+    "email": "douglas.huth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

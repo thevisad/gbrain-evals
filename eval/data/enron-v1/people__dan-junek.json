@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-junek",
+  "type": "person",
+  "title": "Dan Junek",
+  "compiled_truth": "Dan Junek is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-10-12), Dan Junek sent 6 and received 462 emails, totalling 468 interactions. Top correspondents: [Chris Germany](people/chris-germany) (6), [Robin Barbe](people/robin-barbe) (2), [Clarissa Garcia](people/clarissa-garcia) (1), [Scott Hendrickson](people/scott-hendrickson) (1), [Molly Lafuze](people/molly-lafuze) (1).",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-junek",
+    "name": "Dan Junek",
+    "email": "dan.junek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/grover-portland",
+  "type": "person",
+  "title": "Grover",
+  "compiled_truth": "Grover is an external contact at [Portland](companies/portland). Over the corpus period (2001-07-25 to 2001-07-25), Grover sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/grover-portland",
+    "name": "Grover",
+    "email": "grover@portland.econw.com",
+    "primary_affiliation": "companies/portland"
+  }
+}

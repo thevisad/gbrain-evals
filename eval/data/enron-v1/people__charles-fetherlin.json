@@ -1,0 +1,14 @@
+{
+  "slug": "people/charles-fetherlin",
+  "type": "person",
+  "title": "Charles Fetherlin",
+  "compiled_truth": "Charles Fetherlin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-09-24), Charles Fetherlin sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charles-fetherlin",
+    "name": "Charles Fetherlin",
+    "email": "charles.fetherlin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

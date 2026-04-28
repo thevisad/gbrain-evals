@@ -1,0 +1,14 @@
+{
+  "slug": "people/toca-utility-savings",
+  "type": "person",
+  "title": "Toca",
+  "compiled_truth": "Toca is an external contact at [Utility-savings](companies/utility-savings). Over the corpus period (1999-11-22 to 2001-07-31), Toca sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/toca-utility-savings",
+    "name": "Toca",
+    "email": "toca@utility-savings.com",
+    "primary_affiliation": "companies/utility-savings"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/christopher-ahn",
+  "type": "person",
+  "title": "Christopher Ahn",
+  "compiled_truth": "Christopher Ahn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-14 to 2001-06-28), Christopher Ahn sent 4 and received 30 emails, totalling 34 interactions. Top correspondents: [Mike Curry](people/mike-curry) (2), [Doug Gilbert-Smith](people/doug-gilbert-smith) (2), [Clint Dean](people/clint-dean) (1), [Bob Svendsen](people/bob-svendsen-gpplp) (1), [Gary Gibson](people/gary-gibson-lgeenergy) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-11-14** | First recorded email in corpus\n- **2001-06-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christopher-ahn",
+    "name": "Christopher Ahn",
+    "email": "christopher.ahn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

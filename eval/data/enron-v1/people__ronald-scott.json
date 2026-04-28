@@ -1,0 +1,14 @@
+{
+  "slug": "people/ronald-scott",
+  "type": "person",
+  "title": "Ronald Scott",
+  "compiled_truth": "Ronald Scott is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-18 to 2001-12-27), Ronald Scott sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ronald-scott",
+    "name": "Ronald Scott",
+    "email": "ronald.scott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/joverdy",
+  "type": "person",
+  "title": "Joverdy",
+  "compiled_truth": "Joverdy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-09 to 2001-05-14), Joverdy sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2001-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joverdy",
+    "name": "Joverdy",
+    "email": "joverdy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dian-chu",
+  "type": "person",
+  "title": "Dian Chu",
+  "compiled_truth": "Dian Chu is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-08), Dian Chu sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dian-chu",
+    "name": "Dian Chu",
+    "email": "dian.chu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jubran-whalan",
+  "type": "person",
+  "title": "Jubran Whalan",
+  "compiled_truth": "Jubran Whalan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2001-11-01), Jubran Whalan sent 6 and received 709 emails, totalling 715 interactions. Top correspondents: [Neil Bresnan](people/neil-bresnan) (5), [Susan Mara](people/susan-mara) (4), [James Steffes](people/james-steffes) (4), [Harry Kingerski](people/harry-kingerski) (4), [Jeff Dasovich](people/jeff-dasovich) (3). Mailbox folders observed: personalfolder.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2001-11-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jubran-whalan",
+    "name": "Jubran Whalan",
+    "email": "jubran.whalan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

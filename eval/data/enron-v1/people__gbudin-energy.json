@@ -1,0 +1,14 @@
+{
+  "slug": "people/gbudin-energy",
+  "type": "person",
+  "title": "Gbudin",
+  "compiled_truth": "Gbudin is an external contact at [Energy](companies/energy). Over the corpus period (2000-04-04 to 2000-09-20), Gbudin sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2000-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gbudin-energy",
+    "name": "Gbudin",
+    "email": "gbudin@energy.state.ca.us",
+    "primary_affiliation": "companies/energy"
+  }
+}

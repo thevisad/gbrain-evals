@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-gcnet",
+  "type": "person",
+  "title": "Eric",
+  "compiled_truth": "Eric is an external contact at [Gcnet](companies/gcnet). Over the corpus period (1999-09-24 to 2000-08-25), Eric sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2000-08-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-gcnet",
+    "name": "Eric",
+    "email": "eric@gcnet.org",
+    "primary_affiliation": "companies/gcnet"
+  }
+}

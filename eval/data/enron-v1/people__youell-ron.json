@@ -1,0 +1,14 @@
+{
+  "slug": "people/youell-ron",
+  "type": "person",
+  "title": "Youell Ron",
+  "compiled_truth": "Youell Ron is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-17 to 2001-09-18), Youell Ron sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/youell-ron",
+    "name": "Youell Ron",
+    "email": "youell.ron@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

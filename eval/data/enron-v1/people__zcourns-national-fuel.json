@@ -1,0 +1,14 @@
+{
+  "slug": "people/zcourns-national-fuel",
+  "type": "person",
+  "title": "Zcourns",
+  "compiled_truth": "Zcourns is an external contact at [National-fuel](companies/national-fuel). Over the corpus period (2000-10-27 to 2001-05-11), Zcourns sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zcourns-national-fuel",
+    "name": "Zcourns",
+    "email": "zcourns@national-fuel.com",
+    "primary_affiliation": "companies/national-fuel"
+  }
+}

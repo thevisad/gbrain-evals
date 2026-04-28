@@ -1,0 +1,14 @@
+{
+  "slug": "people/jan-cobden",
+  "type": "person",
+  "title": "Jan Cobden",
+  "compiled_truth": "Jan Cobden is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-26 to 2001-12-28), Jan Cobden sent 9 and received 49 emails, totalling 58 interactions. Top correspondents: [Steven Harris](people/steven-harris) (5), [Stanley Horton](people/stanley-horton) (5), [Johnny Mcgee](people/johnny-mcgee) (5), [Cindy Stark](people/cindy-stark) (5), [Louis Soldano](people/louis-soldano) (4).",
+  "timeline": "- **2000-01-26** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jan-cobden",
+    "name": "Jan Cobden",
+    "email": "jan.cobden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

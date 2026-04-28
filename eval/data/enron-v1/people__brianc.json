@@ -1,0 +1,14 @@
+{
+  "slug": "people/brianc",
+  "type": "person",
+  "title": "Brianc",
+  "compiled_truth": "Brianc is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-13 to 2002-04-01), Brianc sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2002-02-13** | First recorded email in corpus\n- **2002-04-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brianc",
+    "name": "Brianc",
+    "email": "brianc@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

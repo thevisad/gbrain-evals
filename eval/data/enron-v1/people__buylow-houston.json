@@ -1,0 +1,14 @@
+{
+  "slug": "people/buylow-houston",
+  "type": "person",
+  "title": "Buylow",
+  "compiled_truth": "Buylow is an external contact at [Houston](companies/houston). Over the corpus period (2000-03-14 to 2001-12-31), Buylow sent 20 and received 39 emails, totalling 59 interactions. Top correspondents: [J  Farmer](people/j-farmer) (10), [Daren J Farmer](people/daren-j-farmer) (7), [Daren Farmer](people/daren-farmer) (2), [Norwalk](people/norwalk-wt) (1), [Howmarsh](people/howmarsh-gateway) (1).",
+  "timeline": "- **2000-03-14** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/buylow-houston",
+    "name": "Buylow",
+    "email": "buylow@houston.rr.com",
+    "primary_affiliation": "companies/houston"
+  }
+}

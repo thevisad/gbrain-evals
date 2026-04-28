@@ -1,0 +1,14 @@
+{
+  "slug": "people/marla-thompson",
+  "type": "person",
+  "title": "Marla Thompson",
+  "compiled_truth": "Marla Thompson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-15 to 2001-11-26), Marla Thompson sent 3 and received 29 emails, totalling 32 interactions. Top correspondents: [Group Dl-Forest](people/group-dl-forest) (2), [Tana Jones](people/tana-jones) (1), [ Taylor](people/taylor) (1), [Dale Neuner](people/dale-neuner) (1), [L  Davis](people/l-davis) (1). Mailbox folders observed: archive, deleted_items.",
+  "timeline": "- **2000-11-15** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marla-thompson",
+    "name": "Marla Thompson",
+    "email": "marla.thompson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

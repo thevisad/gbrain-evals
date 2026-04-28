@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheryl-lindeman",
+  "type": "person",
+  "title": "Cheryl Lindeman",
+  "compiled_truth": "Cheryl Lindeman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-15 to 2002-06-21), Cheryl Lindeman sent 2 and received 101 emails, totalling 103 interactions. Top correspondents: [Alan Aronowitz](people/alan-aronowitz) (2), [Robert Bruce](people/robert-bruce) (2), [Sara Shackleton](people/sara-shackleton) (2), [Sheila Tweed](people/sheila-tweed) (2), [Suzanne Adams](people/suzanne-adams) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-15** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheryl-lindeman",
+    "name": "Cheryl Lindeman",
+    "email": "cheryl.lindeman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

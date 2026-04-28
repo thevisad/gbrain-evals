@@ -1,0 +1,14 @@
+{
+  "slug": "people/cgoering-nyiso",
+  "type": "person",
+  "title": "Cgoering",
+  "compiled_truth": "Cgoering is an external contact at [Nyiso](companies/nyiso). Over the corpus period (2001-07-19 to 2002-10-09), Cgoering sent 103 and received 0 emails, totalling 103 interactions. Top correspondents: [Tie List Server](people/tie-list-server-nyiso) (60), [Benjamin Rogers](people/benjamin-rogers) (24), [Rring](people/rring) (12), [Nyiso Tech Exchange](people/nyiso-tech-exchange-global2000) (7), [Nyiso Tie](people/nyiso-tie-lyris) (3).",
+  "timeline": "- **2001-07-19** | First recorded email in corpus\n- **2002-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cgoering-nyiso",
+    "name": "Cgoering",
+    "email": "cgoering@nyiso.com",
+    "primary_affiliation": "companies/nyiso"
+  }
+}

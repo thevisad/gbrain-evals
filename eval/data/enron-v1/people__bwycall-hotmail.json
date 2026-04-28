@@ -1,0 +1,14 @@
+{
+  "slug": "people/bwycall-hotmail",
+  "type": "person",
+  "title": "Bwycall",
+  "compiled_truth": "Bwycall is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (1999-12-12 to 2001-05-08), Bwycall sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **1999-12-12** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bwycall-hotmail",
+    "name": "Bwycall",
+    "email": "bwycall@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

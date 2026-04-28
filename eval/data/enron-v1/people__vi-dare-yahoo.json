@@ -1,0 +1,14 @@
+{
+  "slug": "people/vi-dare-yahoo",
+  "type": "person",
+  "title": "Vi Dare",
+  "compiled_truth": "Vi Dare is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-11-13 to 2001-09-24), Vi Dare sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vi-dare-yahoo",
+    "name": "Vi Dare",
+    "email": "vi_dare@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

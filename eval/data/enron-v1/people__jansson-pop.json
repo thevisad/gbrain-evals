@@ -1,0 +1,14 @@
+{
+  "slug": "people/jansson-pop",
+  "type": "person",
+  "title": "Jansson",
+  "compiled_truth": "Jansson is an external contact at [Pop](companies/pop). Over the corpus period (2000-09-20 to 2000-10-02), Jansson sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-09-20** | First recorded email in corpus\n- **2000-10-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jansson-pop",
+    "name": "Jansson",
+    "email": "jansson@pop.mindspring.com",
+    "primary_affiliation": "companies/pop"
+  }
+}

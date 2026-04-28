@@ -1,0 +1,14 @@
+{
+  "slug": "people/lfastow-pdq",
+  "type": "person",
+  "title": "Lfastow",
+  "compiled_truth": "Lfastow is an external contact at [Pdq](companies/pdq). Over the corpus period (2000-09-19 to 2001-11-19), Lfastow sent 2 and received 10 emails, totalling 12 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (2), [Nrifkin](people/nrifkin-menil) (1), [Jeffrey A Shankman](people/jeffrey-a-shankman) (1).",
+  "timeline": "- **2000-09-19** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lfastow-pdq",
+    "name": "Lfastow",
+    "email": "lfastow@pdq.net",
+    "primary_affiliation": "companies/pdq"
+  }
+}

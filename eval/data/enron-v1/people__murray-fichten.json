@@ -1,0 +1,14 @@
+{
+  "slug": "people/murray-fichten",
+  "type": "person",
+  "title": "Murray Fichten",
+  "compiled_truth": "Murray Fichten is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-20 to 2001-11-19), Murray Fichten sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2001-04-20** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/murray-fichten",
+    "name": "Murray Fichten",
+    "email": "murray.fichten@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

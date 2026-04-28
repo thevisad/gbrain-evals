@@ -1,0 +1,14 @@
+{
+  "slug": "people/stacey-wales",
+  "type": "person",
+  "title": "Stacey Wales",
+  "compiled_truth": "Stacey Wales is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-07 to 2001-11-27), Stacey Wales sent 22 and received 52 emails, totalling 74 interactions. Top correspondents: [E  Carter](people/e-carter) (13), [Peggy Determeyer](people/peggy-determeyer) (13), [David Allan](people/david-allan) (13), [Monika Causholli](people/monika-causholli) (8), [Europe Dl-Lon](people/europe-dl-lon) (8). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **2001-04-07** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stacey-wales",
+    "name": "Stacey Wales",
+    "email": "stacey.wales@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

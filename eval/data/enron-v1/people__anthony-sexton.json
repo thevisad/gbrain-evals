@@ -1,0 +1,14 @@
+{
+  "slug": "people/anthony-sexton",
+  "type": "person",
+  "title": "Anthony Sexton",
+  "compiled_truth": "Anthony Sexton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-11-08), Anthony Sexton sent 1 and received 59 emails, totalling 60 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1).",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anthony-sexton",
+    "name": "Anthony Sexton",
+    "email": "anthony.sexton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

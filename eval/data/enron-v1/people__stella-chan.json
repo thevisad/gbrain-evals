@@ -1,0 +1,14 @@
+{
+  "slug": "people/stella-chan",
+  "type": "person",
+  "title": "Stella Chan",
+  "compiled_truth": "Stella Chan is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-19), Stella Chan sent 1 and received 261 emails, totalling 262 interactions. Top correspondents: [Harry Kingerski](people/harry-kingerski) (1), [Rick Bachmeier](people/rick-bachmeier) (1), [Frank Ferris](people/frank-ferris) (1), [Steve Montovano](people/steve-montovano) (1), [Howard Fromer](people/howard-fromer) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stella-chan",
+    "name": "Stella Chan",
+    "email": "stella.chan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

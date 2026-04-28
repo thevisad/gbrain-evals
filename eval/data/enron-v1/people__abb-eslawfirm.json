@@ -1,0 +1,14 @@
+{
+  "slug": "people/abb-eslawfirm",
+  "type": "person",
+  "title": "Abb",
+  "compiled_truth": "Abb is an external contact at [Eslawfirm](companies/eslawfirm). Over the corpus period (1999-09-24 to 2001-12-22), Abb sent 14 and received 304 emails, totalling 318 interactions. Top correspondents: [Jackp](people/jackp-calpine) (13), [Joer](people/joer-calpine) (13), [Kaplan](people/kaplan-iepa) (13), [Gtbl](people/gtbl-dynegy) (12), [Smutny](people/smutny-iepa) (12).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-12-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/abb-eslawfirm",
+    "name": "Abb",
+    "email": "abb@eslawfirm.com",
+    "primary_affiliation": "companies/eslawfirm"
+  }
+}

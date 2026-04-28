@@ -1,0 +1,20 @@
+{
+  "slug": "threads/warning-your-mailbox-is-approaching-the--2002-01",
+  "type": "meeting",
+  "title": "Thread: Warning: Your Mailbox Is Approaching The Size Limit",
+  "compiled_truth": "Email thread: \"Warning: Your Mailbox Is Approaching The Size Limit\". Ran from 2002-01-04 to 2002-01-29 with 37 messages. Participants: [Chris Dorland](people/chris-dorland), [Errol Mclaughlin](people/errol-mclaughlin), [Exchange Administrator](people/exchange-administrator), [Kevin Hyatt](people/kevin-hyatt), [Michelle Lokay](people/michelle-lokay), [Richard Ring](people/richard-ring).",
+  "timeline": "- **2002-01-04** | Thread begins: warning: your mailbox is approaching the size limit\n- **2002-01-29** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/warning-your-mailbox-is-approaching-the--2002-01",
+    "attendees": [
+      "people/chris-dorland",
+      "people/errol-mclaughlin",
+      "people/exchange-administrator",
+      "people/kevin-hyatt",
+      "people/michelle-lokay",
+      "people/richard-ring"
+    ],
+    "date": "2002-01-04"
+  }
+}

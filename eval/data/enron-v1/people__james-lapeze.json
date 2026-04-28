@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-lapeze",
+  "type": "person",
+  "title": "James Lapeze",
+  "compiled_truth": "James Lapeze is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-21 to 2002-03-29), James Lapeze sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2002-03-21** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-lapeze",
+    "name": "James Lapeze",
+    "email": "james.lapeze@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

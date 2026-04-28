@@ -1,0 +1,14 @@
+{
+  "slug": "people/gallen-bakerbotts",
+  "type": "person",
+  "title": "Gallen",
+  "compiled_truth": "Gallen is an external contact at [Bakerbotts](companies/bakerbotts). Over the corpus period (2001-01-11 to 2001-06-11), Gallen sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2001-01-11** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gallen-bakerbotts",
+    "name": "Gallen",
+    "email": "gallen@bakerbotts.com",
+    "primary_affiliation": "companies/bakerbotts"
+  }
+}

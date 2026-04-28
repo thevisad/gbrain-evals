@@ -1,0 +1,14 @@
+{
+  "slug": "people/vincek-leland",
+  "type": "person",
+  "title": "Vincek",
+  "compiled_truth": "Vincek is an external contact at [Leland](companies/leland). Over the corpus period (2000-02-15 to 2001-06-27), Vincek sent 0 and received 69 emails, totalling 69 interactions.",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vincek-leland",
+    "name": "Vincek",
+    "email": "vincek@leland.stanford.edu",
+    "primary_affiliation": "companies/leland"
+  }
+}

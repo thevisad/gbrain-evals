@@ -1,0 +1,14 @@
+{
+  "slug": "people/ryang",
+  "type": "person",
+  "title": "Ryang",
+  "compiled_truth": "Ryang is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-01 to 2001-02-20), Ryang sent 3 and received 34 emails, totalling 37 interactions. Top correspondents: [Mona L Petrochko](people/mona-l-petrochko) (3), [Susan J Mara](people/susan-j-mara) (3), [Sandra McCubbin](people/sandra-mccubbin) (3), [Joseph Alamo](people/joseph-alamo) (3), [Paul Kaufman](people/paul-kaufman) (3).",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-02-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ryang",
+    "name": "Ryang",
+    "email": "ryang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

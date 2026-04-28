@@ -1,0 +1,35 @@
+{
+  "slug": "companies/dwt",
+  "type": "company",
+  "title": "Dwt",
+  "compiled_truth": "Dwt is an external organization that appears in the Enron email corpus. Domain: dwt.com. Total email interactions with Enron: 641. Known contacts: 18 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (641 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/dwt",
+    "name": "Dwt",
+    "employees": [
+      "people/annelouis-dwt",
+      "people/barbaranielsen-dwt",
+      "people/craiggannett-dwt",
+      "people/edwardoneill-dwt",
+      "people/edwardoniell-dwt",
+      "people/hollymitchel-dwt",
+      "people/hollymitchell-dwt",
+      "people/janbrooker-dwt",
+      "people/johncameron-dwt",
+      "people/joycerauch-dwt",
+      "people/judypau-dwt",
+      "people/kerrymcelroy-dwt",
+      "people/lindseyhowdowning-dwt",
+      "people/pauj-dwt",
+      "people/salleyoo-dwt",
+      "people/tracigrundon-dwt",
+      "people/tracikirkpatrick-dwt",
+      "people/tregtremont-dwt"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

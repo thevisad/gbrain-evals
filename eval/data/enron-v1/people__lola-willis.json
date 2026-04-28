@@ -1,0 +1,14 @@
+{
+  "slug": "people/lola-willis",
+  "type": "person",
+  "title": "Lola Willis",
+  "compiled_truth": "Lola Willis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-28 to 2001-05-29), Lola Willis sent 18 and received 66 emails, totalling 84 interactions. Top correspondents: [Davis](people/davis) (11), [Valerie Mims](people/valerie-mims-bankofamerica) (7), [Debra Atkins](people/debra-atkins-co) (7), [Tana Jones](people/tana-jones) (7), [Lisa Lees](people/lisa-lees) (7).",
+  "timeline": "- **2000-04-28** | First recorded email in corpus\n- **2001-05-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lola-willis",
+    "name": "Lola Willis",
+    "email": "lola.willis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

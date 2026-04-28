@@ -1,0 +1,25 @@
+{
+  "slug": "people/eli-nakamura",
+  "type": "person",
+  "title": "Eli Nakamura",
+  "compiled_truth": "Eli Nakamura is a Partner at [Foundry Partners](companies/foundry-partners), where he leads AI applications investing across their Fund III and Fund IV vehicles. Known internally as one of the sharpest pattern matchers on the team, Eli has a reputation for connecting dots across portfolio companies faster than most founders can articulate the connections themselves. He joined Foundry in 2023 after a stint at a mid-stage growth fund, bringing with him a thesis around infrastructure convergence that would eventually shape much of how the firm evaluated deals in the 2026–2028 cycle.\n\nEli's board and observer seats span several companies relevant to the Anchor Codec orbit. He sits on the board of [Umbra Storage](companies/umbra-storage), where he was instrumental in pushing the team toward enterprise contracts rather than chasing developer-first adoption. He's also an observer at [Prism Protocol](companies/prism-protocol), a deal he sourced after meeting the founders at a private dinner in late 2026. More recently, he led Foundry's investment in [Vellum Systems](companies/vellum-systems), a company building middleware for AI inference pipelines — a deal that reportedly closed in under three weeks, which is fast even by Foundry standards.\n\nNakamura's analytical bent shows in how he runs diligence. He's known for building his own lightweight models to stress-test unit economics before even taking a second meeting. Several founders have described the experience of pitching him as \"like being cross-examined by someone who already read your cap table.\" He doesn't waste time on pleasantries but isn't cold — just efficient. His questions tend to zero in on data integrity and throughput guarantees, reflecting a personal conviction that the next wave of AI applications will be bottlenecked not by models but by deterministic data handling.\n\nHis interest in Anchor Codec stems from this thesis. Eli first encountered the company through an introduction from a mutual contact at [Umbra Storage](companies/umbra-storage), and he's been circling the deal since mid-2027. Whether Foundry ultimately invests depends on allocation dynamics within Fund IV, but Eli has been unusually vocal internally about Anchor's single-pass primitves and what they could mean for downstream AI workloads. He's the kind of investor who tracks companies for months before making a move, so his sustained attention is itself a signal.",
+  "timeline": "- **2026-04-12** | Eli promoted to Partner at [Foundry Partners](companies/foundry-partners) after leading three consecutive Fund III deals to markups.\n- **2026-09-18** | Joined the board of [Umbra Storage](companies/umbra-storage) following their Series A close.\n- **2026-11-03** | Sourced [Prism Protocol](companies/prism-protocol) deal at a private dinner in Brooklyn; took observer seat shortly after.\n- **2027-02-14** | Published internal memo at Foundry titled \"Infrastructure Convergence and the AI Bottleneck\" — circulated widely among portfolio CEOs.\n- **2027-05-22** | First intro call with Anchor Codec leadership, brokered through a contact at [Umbra Storage](companies/umbra-storage).\n- **2027-08-09** | Led [Vellum Systems](companies/vellum-systems) Series A on behalf of Foundry Fund IV. Deal closed in 18 days.\n- **2027-10-30** | Attended Anchor Codec's technical deep-dive session alongside two other prospective investors.\n- **2028-01-16** | Requested follow-up data room access from Anchor Codec; internal Foundry IC discussion scheduled for late January.\n- **2028-03-04** | Spoke on a panel at a private LP summit about deterministic infrastructure as a category, referencing anonymized Anchor metrics.\n- **2028-05-11** | Seen at [Prism Protocol](companies/prism-protocol) board offsite in Austin; reportedly discussed potential integration paths with Anchor's primitives.",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eli-nakamura",
+    "name": "Eli Nakamura",
+    "role": "partner",
+    "title": "Partner, Foundry Partners",
+    "primary_affiliation": "companies/foundry-partners",
+    "secondary_affiliations": [
+      "companies/umbra-storage",
+      "companies/prism-protocol",
+      "companies/vellum-systems"
+    ],
+    "notable_traits": [
+      "analytical",
+      "sharp pattern matcher"
+    ],
+    "background": "Partner at Foundry Partners; focuses on AI applications investments"
+  }
+}

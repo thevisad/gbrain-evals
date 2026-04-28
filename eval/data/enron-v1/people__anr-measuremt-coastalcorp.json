@@ -1,0 +1,14 @@
+{
+  "slug": "people/anr-measuremt-coastalcorp",
+  "type": "person",
+  "title": "Anr Measuremt",
+  "compiled_truth": "Anr Measuremt is an external contact at [Coastalcorp](companies/coastalcorp). Over the corpus period (2000-11-11 to 2000-11-11), Anr Measuremt sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anr-measuremt-coastalcorp",
+    "name": "Anr Measuremt",
+    "email": "anr.measuremt@coastalcorp.com",
+    "primary_affiliation": "companies/coastalcorp"
+  }
+}

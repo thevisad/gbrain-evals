@@ -1,0 +1,14 @@
+{
+  "slug": "people/rnagatani-venocoinc",
+  "type": "person",
+  "title": "Rnagatani",
+  "compiled_truth": "Rnagatani is an external contact at [Venocoinc](companies/venocoinc). Over the corpus period (2000-10-20 to 2001-07-31), Rnagatani sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-10-20** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rnagatani-venocoinc",
+    "name": "Rnagatani",
+    "email": "rnagatani@venocoinc.com",
+    "primary_affiliation": "companies/venocoinc"
+  }
+}

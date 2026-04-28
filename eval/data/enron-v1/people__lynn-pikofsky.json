@@ -1,0 +1,14 @@
+{
+  "slug": "people/lynn-pikofsky",
+  "type": "person",
+  "title": "Lynn Pikofsky",
+  "compiled_truth": "Lynn Pikofsky is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-21), Lynn Pikofsky sent 6 and received 80 emails, totalling 86 interactions. Top correspondents: [Richard Tomaski](people/richard-tomaski) (2), [Gregg Penman](people/gregg-penman) (2), [Laura Luce](people/laura-luce) (2), [Russell Murrell](people/russell-murrell) (2), [Hunter Shively](people/hunter-shively) (2). Mailbox folders observed: bankrupt, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lynn-pikofsky",
+    "name": "Lynn Pikofsky",
+    "email": "lynn.pikofsky@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

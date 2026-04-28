@@ -1,0 +1,14 @@
+{
+  "slug": "people/sean-riordan",
+  "type": "person",
+  "title": "Sean Riordan",
+  "compiled_truth": "Sean Riordan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-23 to 2002-01-31), Sean Riordan sent 14 and received 207 emails, totalling 221 interactions. Top correspondents: [Tom Donohoe](people/tom-donohoe) (2), [Larry May](people/larry-may) (2), [L  Mims](people/l-mims) (2), [Theresa Staab](people/theresa-staab) (2), [Mike Grigsby](people/mike-grigsby) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-03-23** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sean-riordan",
+    "name": "Sean Riordan",
+    "email": "sean.riordan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

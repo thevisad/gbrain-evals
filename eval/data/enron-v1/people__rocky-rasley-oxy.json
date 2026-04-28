@@ -1,0 +1,14 @@
+{
+  "slug": "people/rocky-rasley-oxy",
+  "type": "person",
+  "title": "Rocky Rasley",
+  "compiled_truth": "Rocky Rasley is an external contact at [Oxy](companies/oxy). Over the corpus period (2000-11-28 to 2001-07-31), Rocky Rasley sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rocky-rasley-oxy",
+    "name": "Rocky Rasley",
+    "email": "rocky_rasley@oxy.com",
+    "primary_affiliation": "companies/oxy"
+  }
+}

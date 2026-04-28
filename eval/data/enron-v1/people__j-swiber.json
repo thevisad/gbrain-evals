@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-swiber",
+  "type": "person",
+  "title": "J Swiber",
+  "compiled_truth": "J Swiber is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-28 to 2001-11-29), J Swiber sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-09-28** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-swiber",
+    "name": "J Swiber",
+    "email": "j.swiber@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

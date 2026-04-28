@@ -1,0 +1,14 @@
+{
+  "slug": "people/carrico-joe",
+  "type": "person",
+  "title": "Carrico Joe",
+  "compiled_truth": "Carrico Joe is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-09 to 2001-08-02), Carrico Joe sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-07-09** | First recorded email in corpus\n- **2001-08-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carrico-joe",
+    "name": "Carrico Joe",
+    "email": "carrico.joe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dixie-riddle",
+  "type": "person",
+  "title": "Dixie Riddle",
+  "compiled_truth": "Dixie Riddle is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-11-02), Dixie Riddle sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dixie-riddle",
+    "name": "Dixie Riddle",
+    "email": "dixie.riddle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

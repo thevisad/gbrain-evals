@@ -1,0 +1,14 @@
+{
+  "slug": "people/zhiyong-wei",
+  "type": "person",
+  "title": "Zhiyong Wei",
+  "compiled_truth": "Zhiyong Wei is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-10 to 2002-02-06), Zhiyong Wei sent 79 and received 153 emails, totalling 232 interactions. Top correspondents: [Geoff Storey](people/geoff-storey) (60), [Louise Kitchen](people/louise-kitchen) (49), [Stephen Stock](people/stephen-stock) (44), [Beth Perlman](people/beth-perlman) (36), [Colleen Sullivan](people/colleen-sullivan) (22). Mailbox folders observed: _americas, deleted_items, inbox, it.",
+  "timeline": "- **2000-01-10** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zhiyong-wei",
+    "name": "Zhiyong Wei",
+    "email": "zhiyong.wei@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

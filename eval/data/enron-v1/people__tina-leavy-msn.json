@@ -1,0 +1,14 @@
+{
+  "slug": "people/tina-leavy-msn",
+  "type": "person",
+  "title": "Tina Leavy",
+  "compiled_truth": "Tina Leavy is an external contact at [MSN](companies/msn). Over the corpus period (2001-11-19 to 2002-02-26), Tina Leavy sent 44 and received 1 emails, totalling 45 interactions. Top correspondents: [Nncymorgan](people/nncymorgan-msn) (24), [Elena Carver](people/elena-carver-yahoo) (23), [Mdockens79](people/mdockens79-msn) (23), [M011602](people/m011602-yahoo) (23), [Rda2C](people/rda2c-unix) (22).",
+  "timeline": "- **2001-11-19** | First recorded email in corpus\n- **2002-02-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tina-leavy-msn",
+    "name": "Tina Leavy",
+    "email": "tina_leavy@msn.com",
+    "primary_affiliation": "companies/msn"
+  }
+}

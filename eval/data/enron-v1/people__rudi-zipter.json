@@ -1,0 +1,14 @@
+{
+  "slug": "people/rudi-zipter",
+  "type": "person",
+  "title": "Rudi Zipter",
+  "compiled_truth": "Rudi Zipter is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-30 to 2002-05-06), Rudi Zipter sent 4 and received 138 emails, totalling 142 interactions. Top correspondents: [Rick Buy](people/rick-buy) (1), [Ted Murphy](people/ted-murphy) (1), [S  Bradford](people/s-bradford) (1), [David Port](people/david-port) (1), [Risk Patel](people/risk-patel) (1). Mailbox folders observed: archive, inbox.",
+  "timeline": "- **1999-11-30** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rudi-zipter",
+    "name": "Rudi Zipter",
+    "email": "rudi.zipter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

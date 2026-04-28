@@ -1,0 +1,14 @@
+{
+  "slug": "people/kruegerj-valero",
+  "type": "person",
+  "title": "Kruegerj",
+  "compiled_truth": "Kruegerj is an external contact at [Valero](companies/valero). Over the corpus period (2000-05-18 to 2000-09-18), Kruegerj sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kruegerj-valero",
+    "name": "Kruegerj",
+    "email": "kruegerj@valero.com",
+    "primary_affiliation": "companies/valero"
+  }
+}

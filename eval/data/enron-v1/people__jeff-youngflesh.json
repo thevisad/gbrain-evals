@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-youngflesh",
+  "type": "person",
+  "title": "Jeff Youngflesh",
+  "compiled_truth": "Jeff Youngflesh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-03 to 2000-12-19), Jeff Youngflesh sent 28 and received 13 emails, totalling 41 interactions. Top correspondents: [Jennifer Medcalf](people/jennifer-medcalf) (20), [Peter Goebel](people/peter-goebel) (6), [Jennifer Stewart](people/jennifer-stewart) (5), [Chaz Vaughan](people/chaz-vaughan) (5), [Stephen Morse](people/stephen-morse) (5).",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2000-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-youngflesh",
+    "name": "Jeff Youngflesh",
+    "email": "jeff.youngflesh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

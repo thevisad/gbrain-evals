@@ -1,0 +1,14 @@
+{
+  "slug": "people/martin-cuilla",
+  "type": "person",
+  "title": "Martin Cuilla",
+  "compiled_truth": "Martin Cuilla is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-25), Martin Cuilla sent 209 and received 361 emails, totalling 570 interactions. Top correspondents: [Zwharton](people/zwharton-dawray) (34), [S  Shively](people/s-shively) (17), [Mcuilla](people/mcuilla-houston) (16), [Greg Martin](people/greg-martin) (15), [Gary Lamphier](people/gary-lamphier) (12). Mailbox folders observed: 10_fantasy, _sent_mail, deleted_items, inbox, pictures, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martin-cuilla",
+    "name": "Martin Cuilla",
+    "email": "martin.cuilla@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

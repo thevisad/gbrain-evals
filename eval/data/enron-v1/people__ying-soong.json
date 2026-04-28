@@ -1,0 +1,14 @@
+{
+  "slug": "people/ying-soong",
+  "type": "person",
+  "title": "Ying Soong",
+  "compiled_truth": "Ying Soong is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-06 to 2000-12-11), Ying Soong sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ying-soong",
+    "name": "Ying Soong",
+    "email": "ying.soong@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

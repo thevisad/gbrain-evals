@@ -1,0 +1,14 @@
+{
+  "slug": "people/alexander-martinez-exxon",
+  "type": "person",
+  "title": "Alexander Martinez",
+  "compiled_truth": "Alexander Martinez is an external contact at [Exxon](companies/exxon). Over the corpus period (2001-03-08 to 2001-03-29), Alexander Martinez sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-08** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alexander-martinez-exxon",
+    "name": "Alexander Martinez",
+    "email": "alexander.martinez@exxon.sprint.com",
+    "primary_affiliation": "companies/exxon"
+  }
+}

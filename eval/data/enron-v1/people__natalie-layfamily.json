@@ -1,0 +1,14 @@
+{
+  "slug": "people/natalie-layfamily",
+  "type": "person",
+  "title": "Natalie",
+  "compiled_truth": "Natalie is an external contact at [Layfamily](companies/layfamily). Over the corpus period (2000-12-12 to 2002-01-04), Natalie sent 1 and received 14 emails, totalling 15 interactions. Top correspondents: [Yao Apasu](people/yao-apasu) (1), [Timothy Rivali](people/timothy-rivali-compaq) (1), [Sweison](people/sweison) (1), [Ssamoff](people/ssamoff-mccoyinc) (1), [Smoe](people/smoe-aol) (1).",
+  "timeline": "- **2000-12-12** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/natalie-layfamily",
+    "name": "Natalie",
+    "email": "natalie@layfamily.com",
+    "primary_affiliation": "companies/layfamily"
+  }
+}

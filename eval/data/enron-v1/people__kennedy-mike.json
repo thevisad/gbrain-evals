@@ -1,0 +1,14 @@
+{
+  "slug": "people/kennedy-mike",
+  "type": "person",
+  "title": "Kennedy Mike",
+  "compiled_truth": "Kennedy Mike is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-04 to 2001-11-06), Kennedy Mike sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-04** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kennedy-mike",
+    "name": "Kennedy Mike",
+    "email": "kennedy.mike@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

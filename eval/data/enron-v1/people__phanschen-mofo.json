@@ -1,0 +1,14 @@
+{
+  "slug": "people/phanschen-mofo",
+  "type": "person",
+  "title": "Phanschen",
+  "compiled_truth": "Phanschen is an external contact at [Mofo](companies/mofo). Over the corpus period (2000-05-08 to 2001-11-03), Phanschen sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2001-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/phanschen-mofo",
+    "name": "Phanschen",
+    "email": "phanschen@mofo.com",
+    "primary_affiliation": "companies/mofo"
+  }
+}

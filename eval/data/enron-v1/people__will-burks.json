@@ -1,0 +1,14 @@
+{
+  "slug": "people/will-burks",
+  "type": "person",
+  "title": "Will Burks",
+  "compiled_truth": "Will Burks is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-04-19), Will Burks sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-04-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/will-burks",
+    "name": "Will Burks",
+    "email": "will.burks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

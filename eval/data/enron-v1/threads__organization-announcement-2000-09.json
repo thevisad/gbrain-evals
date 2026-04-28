@@ -1,0 +1,33 @@
+{
+  "slug": "threads/organization-announcement-2000-09",
+  "type": "meeting",
+  "title": "Thread: Organization Announcement",
+  "compiled_truth": "Email thread: \"Organization Announcement\". Ran from 2000-09-22 to 2000-10-17 with 9 messages. Participants: [Bill Fowler](people/bill-fowler), [David Delainey](people/david-delainey), [Dennis Vegas](people/dennis-vegas), [Dutch Quigley](people/dutch-quigley), [Ena Employees](people/ena-employees), [Enron Europe](people/enron-europe), [Enron Everyone Et&S Houston](people/enron-everyone-et-s-houston), [Enron Markets](people/enron-markets).",
+  "timeline": "- **2000-09-22** | Thread begins: organization announcement\n- **2000-10-17** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/organization-announcement-2000-09",
+    "attendees": [
+      "people/bill-fowler",
+      "people/david-delainey",
+      "people/dennis-vegas",
+      "people/dutch-quigley",
+      "people/ena-employees",
+      "people/enron-europe",
+      "people/enron-everyone-et-s-houston",
+      "people/enron-markets",
+      "people/executive-assistants",
+      "people/ginger-dernehl",
+      "people/gloria-solis",
+      "people/john-ambler",
+      "people/john-lavorato",
+      "people/lisa-yoho",
+      "people/richard-shapiro",
+      "people/sally-beck",
+      "people/sheri-thomas",
+      "people/steven-kean",
+      "people/susan-scott"
+    ],
+    "date": "2000-09-22"
+  }
+}

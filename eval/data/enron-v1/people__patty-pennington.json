@@ -1,0 +1,14 @@
+{
+  "slug": "people/patty-pennington",
+  "type": "person",
+  "title": "Patty Pennington",
+  "compiled_truth": "Patty Pennington is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2000-03-06), Patty Pennington sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2000-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patty-pennington",
+    "name": "Patty Pennington",
+    "email": "patty.pennington@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

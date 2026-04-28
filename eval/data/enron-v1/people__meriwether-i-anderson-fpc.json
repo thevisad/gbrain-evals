@@ -1,0 +1,14 @@
+{
+  "slug": "people/meriwether-i-anderson-fpc",
+  "type": "person",
+  "title": "Meriwether I Anderson",
+  "compiled_truth": "Meriwether I Anderson is an external contact at [Fpc](companies/fpc). Over the corpus period (2000-05-18 to 2000-09-18), Meriwether I Anderson sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/meriwether-i-anderson-fpc",
+    "name": "Meriwether I Anderson",
+    "email": "meriwether.i.anderson@fpc.com",
+    "primary_affiliation": "companies/fpc"
+  }
+}

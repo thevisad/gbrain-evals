@@ -1,0 +1,14 @@
+{
+  "slug": "people/prabhaka-haas",
+  "type": "person",
+  "title": "Prabhaka",
+  "compiled_truth": "Prabhaka is an external contact at [Haas](companies/haas). Over the corpus period (2000-01-29 to 2001-09-05), Prabhaka sent 0 and received 39 emails, totalling 39 interactions.",
+  "timeline": "- **2000-01-29** | First recorded email in corpus\n- **2001-09-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/prabhaka-haas",
+    "name": "Prabhaka",
+    "email": "prabhaka@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

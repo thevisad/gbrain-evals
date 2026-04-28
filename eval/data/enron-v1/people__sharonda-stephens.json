@@ -1,0 +1,14 @@
+{
+  "slug": "people/sharonda-stephens",
+  "type": "person",
+  "title": "Sharonda Stephens",
+  "compiled_truth": "Sharonda Stephens is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-12-21), Sharonda Stephens sent 36 and received 133 emails, totalling 169 interactions. Top correspondents: [Mark Palmer](people/mark-palmer) (24), [Meredith Philipp](people/meredith-philipp) (23), [Steven Kean](people/steven-kean) (23), [Elizabeth Linnell](people/elizabeth-linnell) (23), [Eric Thode](people/eric-thode) (23). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sharonda-stephens",
+    "name": "Sharonda Stephens",
+    "email": "sharonda.stephens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

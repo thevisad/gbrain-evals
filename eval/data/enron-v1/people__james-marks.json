@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-marks",
+  "type": "person",
+  "title": "James Marks",
+  "compiled_truth": "James Marks is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-11-20), James Marks sent 1 and received 25 emails, totalling 26 interactions. Top correspondents: [Lindsay Renaud](people/lindsay-renaud) (1), [Randy Bhatia](people/randy-bhatia) (1), [Sarah Driscoll](people/sarah-driscoll) (1), [David Marye](people/david-marye) (1), [Ryan O'Rourke](people/ryan-o-rourke) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-marks",
+    "name": "James Marks",
+    "email": "james.marks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

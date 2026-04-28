@@ -1,0 +1,14 @@
+{
+  "slug": "people/matthew-frank",
+  "type": "person",
+  "title": "Matthew Frank",
+  "compiled_truth": "Matthew Frank is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-22 to 2001-08-21), Matthew Frank sent 2 and received 25 emails, totalling 27 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1), [Charles Weldon](people/charles-weldon) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-11-22** | First recorded email in corpus\n- **2001-08-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matthew-frank",
+    "name": "Matthew Frank",
+    "email": "matthew.frank@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/louise-kitchen",
+  "type": "person",
+  "title": "Louise Kitchen",
+  "compiled_truth": "Louise Kitchen is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-14), Louise Kitchen sent 1384 and received 5568 emails, totalling 6952 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (173), [Tammie Schoppe](people/tammie-schoppe) (154), [David Forster](people/david-forster) (130), [F  Calger](people/f-calger) (89), [David Oxley](people/david-oxley) (89). Mailbox folders observed: _americas, agency_com, calendar, deleted_items, espeed, genco_jv_ipo.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/louise-kitchen",
+    "name": "Louise Kitchen",
+    "email": "louise.kitchen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

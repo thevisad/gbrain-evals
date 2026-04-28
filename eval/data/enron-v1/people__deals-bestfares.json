@@ -1,0 +1,14 @@
+{
+  "slug": "people/deals-bestfares",
+  "type": "person",
+  "title": "Deals",
+  "compiled_truth": "Deals is an external contact at [Bestfares](companies/bestfares). Over the corpus period (2001-04-17 to 2002-02-06), Deals sent 63 and received 0 emails, totalling 63 interactions. Top correspondents: [Pkeavey](people/pkeavey) (33), [Ebass](people/ebass) (23), [Mcuilla](people/mcuilla) (7).",
+  "timeline": "- **2001-04-17** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deals-bestfares",
+    "name": "Deals",
+    "email": "deals@bestfares.com",
+    "primary_affiliation": "companies/bestfares"
+  }
+}

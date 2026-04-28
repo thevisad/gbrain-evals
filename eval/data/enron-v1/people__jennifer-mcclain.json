@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-mcclain",
+  "type": "person",
+  "title": "Jennifer Mcclain",
+  "compiled_truth": "Jennifer Mcclain is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-07 to 2001-11-28), Jennifer Mcclain sent 1 and received 31 emails, totalling 32 interactions. Top correspondents: [Barry Tycholiz](people/barry-tycholiz) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-07** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-mcclain",
+    "name": "Jennifer Mcclain",
+    "email": "jennifer.mcclain@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

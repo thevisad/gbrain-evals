@@ -1,0 +1,14 @@
+{
+  "slug": "people/w-cantrell",
+  "type": "person",
+  "title": "W  Cantrell",
+  "compiled_truth": "W  Cantrell is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-21 to 2002-03-12), W  Cantrell sent 87 and received 257 emails, totalling 344 interactions. Top correspondents: [Leslie Lawner](people/leslie-lawner) (63), [D  Steffes](people/d-steffes) (56), [M  Tholt](people/m-tholt) (49), [Stephanie Miller](people/stephanie-miller) (46), [Barry Tycholiz](people/barry-tycholiz) (45). Mailbox folders observed: affiliate_codes_of_conduct, aga_storage_report, calendar, california_issues, credit_issues, deleted_items.",
+  "timeline": "- **2001-06-21** | First recorded email in corpus\n- **2002-03-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/w-cantrell",
+    "name": "W  Cantrell",
+    "email": "w..cantrell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

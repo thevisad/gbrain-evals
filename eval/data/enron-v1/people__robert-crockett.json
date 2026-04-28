@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-crockett",
+  "type": "person",
+  "title": "Robert Crockett",
+  "compiled_truth": "Robert Crockett is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-15), Robert Crockett sent 3 and received 44 emails, totalling 47 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (3), [Trent Taylor](people/trent-taylor-eott) (2), [Michael Sanchez](people/michael-sanchez-eott) (2), [John Handley](people/john-handley) (2), [Barbara Sargent](people/barbara-sargent) (2).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-crockett",
+    "name": "Robert Crockett",
+    "email": "robert.crockett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

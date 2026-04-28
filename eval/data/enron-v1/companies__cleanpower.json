@@ -1,0 +1,19 @@
+{
+  "slug": "companies/cleanpower",
+  "type": "company",
+  "title": "Cleanpower",
+  "compiled_truth": "Cleanpower is an external organization that appears in the Enron email corpus. Domain: cleanpower.com. Total email interactions with Enron: 280. Known contacts: 2 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (280 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/cleanpower",
+    "name": "Cleanpower",
+    "employees": [
+      "people/rachel-cleanpower",
+      "people/vjw-cleanpower"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-williams-elpaso",
+  "type": "person",
+  "title": "Bob Williams",
+  "compiled_truth": "Bob Williams is an external contact at [El Paso Energy](companies/el-paso). Over the corpus period (2001-09-26 to 2001-12-28), Bob Williams sent 13 and received 27 emails, totalling 40 interactions. Top correspondents: [Plucci](people/plucci) (9), ['Bevans](people/bevans) (6), [Larry Bevans](people/larry-bevans-elpaso) (6), ['Dougherty](people/dougherty) (6), [Nathan Dougherty](people/nathan-dougherty-eprime) (6).",
+  "timeline": "- **2001-09-26** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-williams-elpaso",
+    "name": "Bob Williams",
+    "email": "bob.williams@elpaso.com",
+    "primary_affiliation": "companies/el-paso"
+  }
+}

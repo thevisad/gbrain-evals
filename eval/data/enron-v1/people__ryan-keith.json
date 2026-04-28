@@ -1,0 +1,14 @@
+{
+  "slug": "people/ryan-keith",
+  "type": "person",
+  "title": "Ryan Keith",
+  "compiled_truth": "Ryan Keith is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-26 to 2001-09-28), Ryan Keith sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2001-02-26** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ryan-keith",
+    "name": "Ryan Keith",
+    "email": "ryan.keith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

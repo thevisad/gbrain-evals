@@ -1,0 +1,14 @@
+{
+  "slug": "people/gail-tholen",
+  "type": "person",
+  "title": "Gail Tholen",
+  "compiled_truth": "Gail Tholen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-25 to 2001-11-12), Gail Tholen sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-01-25** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gail-tholen",
+    "name": "Gail Tholen",
+    "email": "gail.tholen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

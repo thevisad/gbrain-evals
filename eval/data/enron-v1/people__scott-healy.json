@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-healy",
+  "type": "person",
+  "title": "Scott Healy",
+  "compiled_truth": "Scott Healy is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-09-10), Scott Healy sent 37 and received 269 emails, totalling 306 interactions. Top correspondents: [Kay Mann](people/kay-mann) (30), [Stephen Plauche](people/stephen-plauche) (23), [Heather Kroll](people/heather-kroll) (12), [Jeffery Ader](people/jeffery-ader) (10), [Benjamin Rogers](people/benjamin-rogers) (7).",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-09-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-healy",
+    "name": "Scott Healy",
+    "email": "scott.healy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

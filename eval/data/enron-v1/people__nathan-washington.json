@@ -1,0 +1,14 @@
+{
+  "slug": "people/nathan-washington",
+  "type": "person",
+  "title": "Nathan Washington",
+  "compiled_truth": "Nathan Washington is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-23 to 2001-10-23), Nathan Washington sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-23** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nathan-washington",
+    "name": "Nathan Washington",
+    "email": "nathan.washington@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

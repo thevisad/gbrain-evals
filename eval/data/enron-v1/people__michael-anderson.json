@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-anderson",
+  "type": "person",
+  "title": "Michael Anderson",
+  "compiled_truth": "Michael Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-24 to 2001-12-28), Michael Anderson sent 4 and received 61 emails, totalling 65 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (3), [Bob Lee](people/bob-lee) (2), [Stinson Gibner](people/stinson-gibner) (2), [Zimin Lu](people/zimin-lu) (2), [Rod Hayslett](people/rod-hayslett) (1).",
+  "timeline": "- **2000-02-24** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-anderson",
+    "name": "Michael Anderson",
+    "email": "michael.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

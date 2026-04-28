@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-centilli",
+  "type": "person",
+  "title": "James Centilli",
+  "compiled_truth": "James Centilli is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-26 to 2002-05-06), James Centilli sent 41 and received 273 emails, totalling 314 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (20), [Tracy Geaccone](people/tracy-geaccone) (18), [Steven Harris](people/steven-harris) (10), [Kevin Hyatt](people/kevin-hyatt) (10), [Lorraine Lindberg](people/lorraine-lindberg) (8). Mailbox folders observed: accounting, action_items_in, deleted_items, inbox, pemex_trans_pecos, projects.",
+  "timeline": "- **2000-01-26** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-centilli",
+    "name": "James Centilli",
+    "email": "james.centilli@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

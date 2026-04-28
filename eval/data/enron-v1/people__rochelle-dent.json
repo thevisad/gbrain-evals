@@ -1,0 +1,14 @@
+{
+  "slug": "people/rochelle-dent",
+  "type": "person",
+  "title": "Rochelle Dent",
+  "compiled_truth": "Rochelle Dent is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-27 to 2001-10-01), Rochelle Dent sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-09-27** | First recorded email in corpus\n- **2001-10-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rochelle-dent",
+    "name": "Rochelle Dent",
+    "email": "rochelle.dent@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

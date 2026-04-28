@@ -1,0 +1,14 @@
+{
+  "slug": "people/kippen-jim",
+  "type": "person",
+  "title": "Kippen Jim",
+  "compiled_truth": "Kippen Jim is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-26 to 2001-09-26), Kippen Jim sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-26** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kippen-jim",
+    "name": "Kippen Jim",
+    "email": "kippen.jim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-mathews",
+  "type": "person",
+  "title": "Bill Mathews",
+  "compiled_truth": "Bill Mathews is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-04 to 2001-11-02), Bill Mathews sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-09-04** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-mathews",
+    "name": "Bill Mathews",
+    "email": "bill.mathews@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

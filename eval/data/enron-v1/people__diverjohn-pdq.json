@@ -1,0 +1,14 @@
+{
+  "slug": "people/diverjohn-pdq",
+  "type": "person",
+  "title": "Diverjohn",
+  "compiled_truth": "Diverjohn is an external contact at [Pdq](companies/pdq). Over the corpus period (2000-05-21 to 2000-11-25), Diverjohn sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diverjohn-pdq",
+    "name": "Diverjohn",
+    "email": "diverjohn@pdq.net",
+    "primary_affiliation": "companies/pdq"
+  }
+}

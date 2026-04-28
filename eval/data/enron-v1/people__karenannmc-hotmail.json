@@ -1,0 +1,14 @@
+{
+  "slug": "people/karenannmc-hotmail",
+  "type": "person",
+  "title": "Karenannmc",
+  "compiled_truth": "Karenannmc is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-12-15 to 2000-12-21), Karenannmc sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-12-15** | First recorded email in corpus\n- **2000-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karenannmc-hotmail",
+    "name": "Karenannmc",
+    "email": "karenannmc@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

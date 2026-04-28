@@ -1,0 +1,14 @@
+{
+  "slug": "people/theresa-maire",
+  "type": "person",
+  "title": "Theresa Maire",
+  "compiled_truth": "Theresa Maire is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-02-24), Theresa Maire sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-02-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/theresa-maire",
+    "name": "Theresa Maire",
+    "email": "theresa.maire@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

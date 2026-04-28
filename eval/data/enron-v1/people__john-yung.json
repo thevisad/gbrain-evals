@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-yung",
+  "type": "person",
+  "title": "John Yung",
+  "compiled_truth": "John Yung is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-27 to 2001-09-06), John Yung sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-06-27** | First recorded email in corpus\n- **2001-09-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-yung",
+    "name": "John Yung",
+    "email": "john.yung@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

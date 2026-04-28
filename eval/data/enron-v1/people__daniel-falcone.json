@@ -1,0 +1,14 @@
+{
+  "slug": "people/daniel-falcone",
+  "type": "person",
+  "title": "Daniel Falcone",
+  "compiled_truth": "Daniel Falcone is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-22 to 2001-11-25), Daniel Falcone sent 1 and received 120 emails, totalling 121 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1), [John Lavorato](people/john-lavorato) (1), [John Sherriff](people/john-sherriff) (1), [Jeffrey Shankman](people/jeffrey-shankman) (1), [Mark Frevert](people/mark-frevert) (1).",
+  "timeline": "- **2000-02-22** | First recorded email in corpus\n- **2001-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/daniel-falcone",
+    "name": "Daniel Falcone",
+    "email": "daniel.falcone@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/chaun-roberts",
+  "type": "person",
+  "title": "Chaun Roberts",
+  "compiled_truth": "Chaun Roberts is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-30 to 2001-11-29), Chaun Roberts sent 1 and received 63 emails, totalling 64 interactions. Top correspondents: [Greg Trefz](people/greg-trefz) (1), [Doug Gilbert-Smith](people/doug-gilbert-smith) (1), [Alex Huang](people/alex-huang) (1), [Chonawee Supatgiat](people/chonawee-supatgiat) (1), [Clint Dean](people/clint-dean) (1). Mailbox folders observed: calendar.",
+  "timeline": "- **2000-08-30** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chaun-roberts",
+    "name": "Chaun Roberts",
+    "email": "chaun.roberts@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

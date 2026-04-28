@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-maggi",
+  "type": "person",
+  "title": "Mike Maggi",
+  "compiled_truth": "Mike Maggi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-29 to 2002-05-22), Mike Maggi sent 745 and received 1218 emails, totalling 1963 interactions. Top correspondents: [Michelle Nelson](people/michelle-nelson) (452), [Amanda Rybarski](people/amanda-rybarski) (139), [Amanda Huble](people/amanda-huble) (95), [John Arnold](people/john-arnold) (10), [Capstone](people/capstone-texas) (7). Mailbox folders observed: _sent_mail, deleted_items, inbox, sent, sent_items, to_do.",
+  "timeline": "- **2000-03-29** | First recorded email in corpus\n- **2002-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-maggi",
+    "name": "Mike Maggi",
+    "email": "mike.maggi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

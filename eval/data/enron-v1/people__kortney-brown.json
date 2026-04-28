@@ -1,0 +1,14 @@
+{
+  "slug": "people/kortney-brown",
+  "type": "person",
+  "title": "Kortney Brown",
+  "compiled_truth": "Kortney Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-24 to 2002-02-07), Kortney Brown sent 32 and received 129 emails, totalling 161 interactions. Top correspondents: [Tracy Ngo](people/tracy-ngo) (13), [Paul Radous](people/paul-radous) (13), [Jeff Dasovich](people/jeff-dasovich) (13), [Jeffrey Soo](people/jeffrey-soo) (13), [S  Bradford](people/s-bradford) (12). Mailbox folders observed: asset_management_documents, deleted_items, inbox.",
+  "timeline": "- **2000-04-24** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kortney-brown",
+    "name": "Kortney Brown",
+    "email": "kortney.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrea-reed",
+  "type": "person",
+  "title": "Andrea Reed",
+  "compiled_truth": "Andrea Reed is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2001-07-19), Andrea Reed sent 4 and received 111 emails, totalling 115 interactions. Top correspondents: [Julia Murray](people/julia-murray) (3), [Sara Shackleton](people/sara-shackleton) (3), [Mary Cook](people/mary-cook) (2), [Stuart Zisman](people/stuart-zisman) (2), [Vince Kaminski](people/vince-kaminski) (1).",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrea-reed",
+    "name": "Andrea Reed",
+    "email": "andrea.reed@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

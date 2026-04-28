@@ -1,0 +1,14 @@
+{
+  "slug": "people/ed-tomeo-uaecorp",
+  "type": "person",
+  "title": "Ed Tomeo",
+  "compiled_truth": "Ed Tomeo is an external contact at [Uaecorp](companies/uaecorp). Over the corpus period (2000-08-31 to 2001-07-31), Ed Tomeo sent 0 and received 217 emails, totalling 217 interactions.",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ed-tomeo-uaecorp",
+    "name": "Ed Tomeo",
+    "email": "ed.tomeo@uaecorp.com",
+    "primary_affiliation": "companies/uaecorp"
+  }
+}

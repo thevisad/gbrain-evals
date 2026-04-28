@@ -1,0 +1,14 @@
+{
+  "slug": "people/t-brogan",
+  "type": "person",
+  "title": "T  Brogan",
+  "compiled_truth": "T  Brogan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-20 to 2001-12-04), T  Brogan sent 10 and received 33 emails, totalling 43 interactions. Top correspondents: [Marie Heard](people/marie-heard) (8), [Sara Shackleton](people/sara-shackleton) (4), [Donna Lowry](people/donna-lowry) (1), [Cassandra Schultz](people/cassandra-schultz) (1), [S  Bradford](people/s-bradford) (1). Mailbox folders observed: brokerage_agreements, inbox.",
+  "timeline": "- **2001-06-20** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/t-brogan",
+    "name": "T  Brogan",
+    "email": "t..brogan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jdasovic",
+  "type": "person",
+  "title": "Jdasovic",
+  "compiled_truth": "Jdasovic is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-06 to 2002-01-02), Jdasovic sent 2 and received 1997 emails, totalling 1999 interactions. Top correspondents: [Steven J Kean](people/steven-j-kean) (2), [Smara](people/smara) (1), [Smccubbi](people/smccubbi) (1), [Mpetroch](people/mpetroch) (1), [Gavin Dillingham Enron Development Enron](people/gavin-dillingham-enron-development-enron) (1).",
+  "timeline": "- **2000-02-06** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jdasovic",
+    "name": "Jdasovic",
+    "email": "jdasovic@ees.enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

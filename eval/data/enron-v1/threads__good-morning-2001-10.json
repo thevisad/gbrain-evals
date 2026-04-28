@@ -1,0 +1,26 @@
+{
+  "slug": "threads/good-morning-2001-10",
+  "type": "meeting",
+  "title": "Thread: Good Morning",
+  "compiled_truth": "Email thread: \"Good Morning\". Ran from 2001-10-23 to 2001-11-19 with 32 messages. Participants: [Alewis](people/alewis), [Atanpoco](people/atanpoco-telesto-inc), [Dana Davis](people/dana-davis), [Dutch Quigley](people/dutch-quigley), [Edna L Lopez](people/edna-l-lopez-us), [Frank Telemaque](people/frank-telemaque-flexitallic), [J  Legler](people/j-legler), [Jim Schwieger](people/jim-schwieger).",
+  "timeline": "- **2001-10-23** | Thread begins: good morning\n- **2001-11-19** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/good-morning-2001-10",
+    "attendees": [
+      "people/alewis",
+      "people/atanpoco-telesto-inc",
+      "people/dana-davis",
+      "people/dutch-quigley",
+      "people/edna-l-lopez-us",
+      "people/frank-telemaque-flexitallic",
+      "people/j-legler",
+      "people/jim-schwieger",
+      "people/kay-quigley",
+      "people/m-tholt",
+      "people/matt-smith",
+      "people/mfischer"
+    ],
+    "date": "2001-10-23"
+  }
+}

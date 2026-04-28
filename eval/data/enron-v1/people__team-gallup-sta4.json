@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-gallup-sta4",
+  "type": "person",
+  "title": "Team Gallup-Sta4",
+  "compiled_truth": "Team Gallup-Sta4 is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-01 to 2002-03-18), Team Gallup-Sta4 sent 2 and received 59 emails, totalling 61 interactions. Top correspondents: [Jerry Graves](people/jerry-graves) (2), [Darrell Schoolcraft](people/darrell-schoolcraft) (2), [Rick Smith](people/rick-smith) (2), [Ronnie Morse](people/ronnie-morse) (2), [Randy Johnson](people/randy-johnson) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-01** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-gallup-sta4",
+    "name": "Team Gallup-Sta4",
+    "email": "team.gallup-sta4@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

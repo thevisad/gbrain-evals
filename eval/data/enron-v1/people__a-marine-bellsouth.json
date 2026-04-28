@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-marine-bellsouth",
+  "type": "person",
+  "title": "A Marine",
+  "compiled_truth": "A Marine is an external contact at [Bellsouth](companies/bellsouth). Over the corpus period (2000-11-02 to 2000-12-12), A Marine sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-marine-bellsouth",
+    "name": "A Marine",
+    "email": "a_marine@bellsouth.net",
+    "primary_affiliation": "companies/bellsouth"
+  }
+}

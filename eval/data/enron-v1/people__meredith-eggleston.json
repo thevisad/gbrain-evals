@@ -1,0 +1,14 @@
+{
+  "slug": "people/meredith-eggleston",
+  "type": "person",
+  "title": "Meredith' 'Eggleston",
+  "compiled_truth": "Meredith' 'Eggleston is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2001-11-08), Meredith' 'Eggleston sent 1 and received 642 emails, totalling 643 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1), [Patti Thompson](people/patti-thompson) (1).",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/meredith-eggleston",
+    "name": "Meredith' 'Eggleston",
+    "email": "meredith'.'eggleston@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

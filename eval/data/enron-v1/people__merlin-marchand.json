@@ -1,0 +1,14 @@
+{
+  "slug": "people/merlin-marchand",
+  "type": "person",
+  "title": "Merlin Marchand",
+  "compiled_truth": "Merlin Marchand is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-10-09), Merlin Marchand sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/merlin-marchand",
+    "name": "Merlin Marchand",
+    "email": "merlin.marchand@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

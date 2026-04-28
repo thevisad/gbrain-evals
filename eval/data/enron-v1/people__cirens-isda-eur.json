@@ -1,0 +1,14 @@
+{
+  "slug": "people/cirens-isda-eur",
+  "type": "person",
+  "title": "Cirens",
+  "compiled_truth": "Cirens is an external contact at [Isda-eur](companies/isda-eur). Over the corpus period (2000-09-08 to 2001-06-11), Cirens sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cirens-isda-eur",
+    "name": "Cirens",
+    "email": "cirens@isda-eur.org",
+    "primary_affiliation": "companies/isda-eur"
+  }
+}

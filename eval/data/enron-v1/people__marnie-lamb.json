@@ -1,0 +1,14 @@
+{
+  "slug": "people/marnie-lamb",
+  "type": "person",
+  "title": "Marnie Lamb",
+  "compiled_truth": "Marnie Lamb is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-12 to 2002-04-20), Marnie Lamb sent 20 and received 125 emails, totalling 145 interactions. Top correspondents: [Dana Davis](people/dana-davis) (20), [Brian Schwertner](people/brian-schwertner) (3), [Rufino Doroteo](people/rufino-doroteo) (3), [Lisa King](people/lisa-king) (2), [Stacy Hardy](people/stacy-hardy) (2). Mailbox folders observed: inbox, personal, save_the_date, vargas_becton_lamb.",
+  "timeline": "- **2000-10-12** | First recorded email in corpus\n- **2002-04-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marnie-lamb",
+    "name": "Marnie Lamb",
+    "email": "marnie.lamb@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

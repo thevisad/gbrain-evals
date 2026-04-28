@@ -1,0 +1,14 @@
+{
+  "slug": "people/justin-rostant",
+  "type": "person",
+  "title": "Justin Rostant",
+  "compiled_truth": "Justin Rostant is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-03-04), Justin Rostant sent 128 and received 378 emails, totalling 506 interactions. Top correspondents: [Andy Zipper](people/andy-zipper) (102), [David Forster](people/david-forster) (93), [Savita Puthigai](people/savita-puthigai) (81), [Bob Shults](people/bob-shults) (80), [Louise Kitchen](people/louise-kitchen) (59). Mailbox folders observed: _americas, archive, charges, deleted_items, discussion_threads, emetra.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-03-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/justin-rostant",
+    "name": "Justin Rostant",
+    "email": "justin.rostant@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

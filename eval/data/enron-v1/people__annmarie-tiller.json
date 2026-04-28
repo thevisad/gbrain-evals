@@ -1,0 +1,14 @@
+{
+  "slug": "people/annmarie-tiller",
+  "type": "person",
+  "title": "Annmarie Tiller",
+  "compiled_truth": "Annmarie Tiller is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-01 to 2001-05-09), Annmarie Tiller sent 2 and received 135 emails, totalling 137 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2), [Brent Vasconcellos](people/brent-vasconcellos) (2), [Clint Freeland](people/clint-freeland) (1), [Gareth Bahlmann](people/gareth-bahlmann) (1), [Rastin](people/rastin-velaw) (1).",
+  "timeline": "- **1999-11-01** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/annmarie-tiller",
+    "name": "Annmarie Tiller",
+    "email": "annmarie.tiller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

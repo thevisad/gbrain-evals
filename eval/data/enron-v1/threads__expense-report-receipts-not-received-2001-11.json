@@ -1,0 +1,22 @@
+{
+  "slug": "threads/expense-report-receipts-not-received-2001-11",
+  "type": "meeting",
+  "title": "Thread: Expense Report Receipts Not Received",
+  "compiled_truth": "Email thread: \"Expense Report Receipts Not Received\". Ran from 2001-11-09 to 2001-12-06 with 14 messages. Participants: [Andrea Ring](people/andrea-ring), [Barry Tycholiz](people/barry-tycholiz), [Brad Mckay](people/brad-mckay), [Enron Update](people/enron-update-concureworkplace), [Jessica Presas](people/jessica-presas), [Larry Campbell](people/larry-campbell), [Monika Causholli](people/monika-causholli), [Nyree Chanaba](people/nyree-chanaba).",
+  "timeline": "- **2001-11-09** | Thread begins: expense report receipts not received\n- **2001-12-06** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/expense-report-receipts-not-received-2001-11",
+    "attendees": [
+      "people/andrea-ring",
+      "people/barry-tycholiz",
+      "people/brad-mckay",
+      "people/enron-update-concureworkplace",
+      "people/jessica-presas",
+      "people/larry-campbell",
+      "people/monika-causholli",
+      "people/nyree-chanaba"
+    ],
+    "date": "2001-11-09"
+  }
+}

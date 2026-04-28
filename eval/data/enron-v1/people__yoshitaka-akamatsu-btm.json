@@ -1,0 +1,14 @@
+{
+  "slug": "people/yoshitaka-akamatsu-btm",
+  "type": "person",
+  "title": "Yoshitaka Akamatsu",
+  "compiled_truth": "Yoshitaka Akamatsu is an external contact at [Btm](companies/btm). Over the corpus period (2000-09-07 to 2001-06-04), Yoshitaka Akamatsu sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yoshitaka-akamatsu-btm",
+    "name": "Yoshitaka Akamatsu",
+    "email": "yoshitaka_akamatsu@btm.co.jp",
+    "primary_affiliation": "companies/btm"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/debi-vanwey",
+  "type": "person",
+  "title": "Debi Vanwey",
+  "compiled_truth": "Debi Vanwey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-07 to 2001-11-19), Debi Vanwey sent 5 and received 25 emails, totalling 30 interactions. Top correspondents: [Robert Jones](people/robert-jones) (5), [Neil Davies](people/neil-davies) (5), [Harry Arora](people/harry-arora) (3), [Amanda Curless](people/amanda-curless) (3), [Philippe Bibi](people/philippe-bibi) (2). Mailbox folders observed: hr_data, savedmail.",
+  "timeline": "- **2000-08-07** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debi-vanwey",
+    "name": "Debi Vanwey",
+    "email": "debi.vanwey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

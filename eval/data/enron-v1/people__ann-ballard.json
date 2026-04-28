@@ -1,0 +1,14 @@
+{
+  "slug": "people/ann-ballard",
+  "type": "person",
+  "title": "Ann Ballard",
+  "compiled_truth": "Ann Ballard is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-24), Ann Ballard sent 6 and received 91 emails, totalling 97 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (5), [Shonnie Daniel](people/shonnie-daniel) (4), [Michelle Cash](people/michelle-cash) (1), [Carol Essig](people/carol-essig) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ann-ballard",
+    "name": "Ann Ballard",
+    "email": "ann.ballard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

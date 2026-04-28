@@ -1,0 +1,14 @@
+{
+  "slug": "people/maxine-levingston",
+  "type": "person",
+  "title": "Maxine Levingston",
+  "compiled_truth": "Maxine Levingston is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-13 to 2001-07-19), Maxine Levingston sent 4 and received 16 emails, totalling 20 interactions. Top correspondents: [Hunter Shively](people/hunter-shively) (4), [Jeffrey Mcmahon](people/jeffrey-mcmahon) (4), [Phillip Allen](people/phillip-allen) (4), [Ina Rangel](people/ina-rangel) (4), [Eric Shaw](people/eric-shaw) (4). Mailbox folders observed: prc.",
+  "timeline": "- **2000-04-13** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maxine-levingston",
+    "name": "Maxine Levingston",
+    "email": "maxine.levingston@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

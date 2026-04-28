@@ -1,0 +1,22 @@
+{
+  "slug": "threads/good-morning-2001-01",
+  "type": "meeting",
+  "title": "Thread: Good Morning",
+  "compiled_truth": "Email thread: \"Good Morning\". Ran from 2001-01-22 to 2001-02-20 with 15 messages. Participants: [Casey415](people/casey415-earthlink), [Debra Perlingiere](people/debra-perlingiere), [J Martin](people/j-martin-baylor), [Kate Symes](people/kate-symes), [Kay Mann](people/kay-mann), [Nmann](people/nmann-erac), [Roths](people/roths-orbitworld), [Vkamins](people/vkamins).",
+  "timeline": "- **2001-01-22** | Thread begins: good morning\n- **2001-02-20** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/good-morning-2001-01",
+    "attendees": [
+      "people/casey415-earthlink",
+      "people/debra-perlingiere",
+      "people/j-martin-baylor",
+      "people/kate-symes",
+      "people/kay-mann",
+      "people/nmann-erac",
+      "people/roths-orbitworld",
+      "people/vkamins"
+    ],
+    "date": "2001-01-22"
+  }
+}

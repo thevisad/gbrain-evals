@@ -1,0 +1,14 @@
+{
+  "slug": "people/margaret-rhee",
+  "type": "person",
+  "title": "Margaret Rhee",
+  "compiled_truth": "Margaret Rhee is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-29 to 2001-11-09), Margaret Rhee sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-06-29** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margaret-rhee",
+    "name": "Margaret Rhee",
+    "email": "margaret.rhee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

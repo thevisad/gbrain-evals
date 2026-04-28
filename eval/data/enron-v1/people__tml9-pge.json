@@ -1,0 +1,14 @@
+{
+  "slug": "people/tml9-pge",
+  "type": "person",
+  "title": "Tml9",
+  "compiled_truth": "Tml9 is an external contact at [PG&E](companies/pge). Over the corpus period (2000-07-25 to 2000-08-29), Tml9 sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2000-08-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tml9-pge",
+    "name": "Tml9",
+    "email": "tml9@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

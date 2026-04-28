@@ -1,0 +1,28 @@
+{
+  "slug": "threads/test-2001-08",
+  "type": "meeting",
+  "title": "Thread: Test",
+  "compiled_truth": "Email thread: \"Test\". Ran from 2001-08-12 to 2001-09-07 with 10 messages. Participants: [Chuck Paul](people/chuck-paul-a-closer-look), [Dana Davis](people/dana-davis), [Elizabeth Sager](people/elizabeth-sager), [Fergus](people/fergus), [Froby](people/froby-holmesmurphy), [Gfergus](people/gfergus-brobeck), [J Kaminski](people/j-kaminski), [Lynn Blair](people/lynn-blair).",
+  "timeline": "- **2001-08-12** | Thread begins: test\n- **2001-09-07** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/test-2001-08",
+    "attendees": [
+      "people/chuck-paul-a-closer-look",
+      "people/dana-davis",
+      "people/elizabeth-sager",
+      "people/fergus",
+      "people/froby-holmesmurphy",
+      "people/gfergus-brobeck",
+      "people/j-kaminski",
+      "people/lynn-blair",
+      "people/lynnblair",
+      "people/rdziurzy-aigi",
+      "people/sean-crandall",
+      "people/smu-betas-yahoogroups",
+      "people/taylor",
+      "people/wendykoeb-springisd"
+    ],
+    "date": "2001-08-12"
+  }
+}

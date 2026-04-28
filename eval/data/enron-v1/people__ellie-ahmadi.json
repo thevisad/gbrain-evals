@@ -1,0 +1,14 @@
+{
+  "slug": "people/ellie-ahmadi",
+  "type": "person",
+  "title": "Ellie Ahmadi",
+  "compiled_truth": "Ellie Ahmadi is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-05 to 2001-12-21), Ellie Ahmadi sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ellie-ahmadi",
+    "name": "Ellie Ahmadi",
+    "email": "ellie.ahmadi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

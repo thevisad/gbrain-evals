@@ -1,0 +1,14 @@
+{
+  "slug": "people/ashok-mehta",
+  "type": "person",
+  "title": "Ashok Mehta",
+  "compiled_truth": "Ashok Mehta is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-19 to 2001-11-06), Ashok Mehta sent 2 and received 8 emails, totalling 10 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-10-19** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ashok-mehta",
+    "name": "Ashok Mehta",
+    "email": "ashok.mehta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

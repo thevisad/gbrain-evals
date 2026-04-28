@@ -1,0 +1,14 @@
+{
+  "slug": "people/pcopello-industrialinfo",
+  "type": "person",
+  "title": "Pcopello",
+  "compiled_truth": "Pcopello is an external contact at [Industrialinfo](companies/industrialinfo). Over the corpus period (2001-09-18 to 2002-02-06), Pcopello sent 0 and received 151 emails, totalling 151 interactions.",
+  "timeline": "- **2001-09-18** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pcopello-industrialinfo",
+    "name": "Pcopello",
+    "email": "pcopello@industrialinfo.com",
+    "primary_affiliation": "companies/industrialinfo"
+  }
+}

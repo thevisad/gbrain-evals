@@ -1,0 +1,14 @@
+{
+  "slug": "people/simonf-atg",
+  "type": "person",
+  "title": "Simonf",
+  "compiled_truth": "Simonf is an external contact at [Atg](companies/atg). Over the corpus period (2001-02-20 to 2001-04-27), Simonf sent 0 and received 65 emails, totalling 65 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/simonf-atg",
+    "name": "Simonf",
+    "email": "simonf@atg.wa.gov",
+    "primary_affiliation": "companies/atg"
+  }
+}

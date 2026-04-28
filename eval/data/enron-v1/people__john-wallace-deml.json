@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-wallace-deml",
+  "type": "person",
+  "title": "John Wallace",
+  "compiled_truth": "John Wallace is an external contact at [Deml](companies/deml). Over the corpus period (2000-08-25 to 2001-05-10), John Wallace sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-wallace-deml",
+    "name": "John Wallace",
+    "email": "john.wallace@deml.com",
+    "primary_affiliation": "companies/deml"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-hilliard",
+  "type": "person",
+  "title": "Kathy Hilliard",
+  "compiled_truth": "Kathy Hilliard is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-24 to 2001-02-06), Kathy Hilliard sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-04-24** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-hilliard",
+    "name": "Kathy Hilliard",
+    "email": "kathy.hilliard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

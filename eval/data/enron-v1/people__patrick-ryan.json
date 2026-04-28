@@ -1,0 +1,14 @@
+{
+  "slug": "people/patrick-ryan",
+  "type": "person",
+  "title": "Patrick Ryan",
+  "compiled_truth": "Patrick Ryan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2002-02-20), Patrick Ryan sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2002-02-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patrick-ryan",
+    "name": "Patrick Ryan",
+    "email": "patrick.ryan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

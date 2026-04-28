@@ -1,0 +1,14 @@
+{
+  "slug": "people/hector-ruiz",
+  "type": "person",
+  "title": "Hector Ruiz",
+  "compiled_truth": "Hector Ruiz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2001-09-10), Hector Ruiz sent 1 and received 6 emails, totalling 7 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (1), [Janette Elbertson](people/janette-elbertson) (1).",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-09-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hector-ruiz",
+    "name": "Hector Ruiz",
+    "email": "hector.ruiz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

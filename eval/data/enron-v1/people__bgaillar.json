@@ -1,0 +1,14 @@
+{
+  "slug": "people/bgaillar",
+  "type": "person",
+  "title": "Bgaillar",
+  "compiled_truth": "Bgaillar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2001-07-31), Bgaillar sent 0 and received 74 emails, totalling 74 interactions.",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bgaillar",
+    "name": "Bgaillar",
+    "email": "bgaillar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mechelle-stevens",
+  "type": "person",
+  "title": "Mechelle Stevens",
+  "compiled_truth": "Mechelle Stevens is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-02 to 2002-05-02), Mechelle Stevens sent 7 and received 195 emails, totalling 202 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (3), [D  Winfree](people/d-winfree) (2), [Kevin Bosse](people/kevin-bosse) (2), [Brent Price](people/brent-price) (1), [Tommy Yanowski](people/tommy-yanowski) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-08-02** | First recorded email in corpus\n- **2002-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mechelle-stevens",
+    "name": "Mechelle Stevens",
+    "email": "mechelle.stevens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

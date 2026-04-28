@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-ted",
+  "type": "person",
+  "title": "Mike Ted",
+  "compiled_truth": "Mike Ted is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-19 to 2001-03-19), Mike Ted sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-03-19** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-ted",
+    "name": "Mike Ted",
+    "email": "mike.ted@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

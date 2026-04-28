@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-kirk",
+  "type": "person",
+  "title": "Steve Kirk",
+  "compiled_truth": "Steve Kirk is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2002-01-16), Steve Kirk sent 13 and received 297 emails, totalling 310 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (5), [Kay Miller](people/kay-miller) (4), [W  Mcgowan](people/w-mcgowan) (3), [Steve January](people/steve-january) (3), [Kent Miller](people/kent-miller) (3). Mailbox folders observed: action_items_in, deleted_items, inbox, nng___sla_settlement, storage___alloc_process, tw_options_sales_program.",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-kirk",
+    "name": "Steve Kirk",
+    "email": "steve.kirk@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

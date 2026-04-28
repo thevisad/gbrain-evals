@@ -1,0 +1,14 @@
+{
+  "slug": "people/sbm2-pge",
+  "type": "person",
+  "title": "Sbm2",
+  "compiled_truth": "Sbm2 is an external contact at [PG&E](companies/pge). Over the corpus period (2000-05-25 to 2000-07-05), Sbm2 sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-05-25** | First recorded email in corpus\n- **2000-07-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sbm2-pge",
+    "name": "Sbm2",
+    "email": "sbm2@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

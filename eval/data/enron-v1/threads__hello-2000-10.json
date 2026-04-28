@@ -1,0 +1,20 @@
+{
+  "slug": "threads/hello-2000-10",
+  "type": "meeting",
+  "title": "Thread: Hello!",
+  "compiled_truth": "Email thread: \"Hello!\". Ran from 2000-10-17 to 2000-11-14 with 25 messages. Participants: [Dowlena](people/dowlena-camerondiv), [Gerald Nemec](people/gerald-nemec), [Katiemcmahon99](people/katiemcmahon99-hotmail), [Kay Mann](people/kay-mann), [Mbeckworth](people/mbeckworth-velaw), [Sophiedavenport](people/sophiedavenport-hotmail).",
+  "timeline": "- **2000-10-17** | Thread begins: hello!\n- **2000-11-14** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/hello-2000-10",
+    "attendees": [
+      "people/dowlena-camerondiv",
+      "people/gerald-nemec",
+      "people/katiemcmahon99-hotmail",
+      "people/kay-mann",
+      "people/mbeckworth-velaw",
+      "people/sophiedavenport-hotmail"
+    ],
+    "date": "2000-10-17"
+  }
+}

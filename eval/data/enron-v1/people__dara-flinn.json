@@ -1,0 +1,14 @@
+{
+  "slug": "people/dara-flinn",
+  "type": "person",
+  "title": "Dara Flinn",
+  "compiled_truth": "Dara Flinn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-10-29), Dara Flinn sent 3 and received 17 emails, totalling 20 interactions. Top correspondents: [Mary Fischer](people/mary-fischer) (3), [Jas Somrah](people/jas-somrah) (1), [Kimberley Nelson](people/kimberley-nelson) (1). Mailbox folders observed: current_estimate.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dara-flinn",
+    "name": "Dara Flinn",
+    "email": "dara.flinn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

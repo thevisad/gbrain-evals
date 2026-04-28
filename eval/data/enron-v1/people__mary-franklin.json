@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-franklin",
+  "type": "person",
+  "title": "Mary Franklin",
+  "compiled_truth": "Mary Franklin is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-06-05), Mary Franklin sent 5 and received 177 emails, totalling 182 interactions. Top correspondents: [Chris Germany](people/chris-germany) (5), [Wade Price](people/wade-price) (2), [Gloria Barkowsky](people/gloria-barkowsky) (1), [Angie Zeman](people/angie-zeman) (1), [Sherry Anastas](people/sherry-anastas) (1).",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-franklin",
+    "name": "Mary Franklin",
+    "email": "mary.franklin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

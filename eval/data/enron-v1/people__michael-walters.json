@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-walters",
+  "type": "person",
+  "title": "Michael Walters",
+  "compiled_truth": "Michael Walters is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-06-01), Michael Walters sent 3 and received 340 emails, totalling 343 interactions. Top correspondents: [Bryan Hull](people/bryan-hull) (2), [Eric Bass](people/eric-bass) (2), [Matthew Lenhart](people/matthew-lenhart) (2), [Harry Bucalo](people/harry-bucalo) (2), [Paul Lucci](people/paul-lucci) (2).",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-walters",
+    "name": "Michael Walters",
+    "email": "michael.walters@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "people/logan-lindqvist",
+  "type": "person",
+  "title": "Logan Lindqvist",
+  "compiled_truth": "Logan Lindqvist is a Senior Engineer at [Anchor Codec](companies/anchor), where he works primarily on the networking and protocol layers of their deterministic data infrastructure stack. He joined in May 2027 after spending roughly six years in satellite communications and edge computing — a background that gave him a somewhat unusual perspective on low-bandwidth, high-latency environments that most software engineers never have to think about.\n\nBefore Anchor, Logan worked at a mid-size satellite operator building out ground-station software and on-orbit data routing. He's talked openly about how that experience shaped his thinking: when your uplink budget is measured in kilobits and your round-trip time is 600ms, you learn to care deeply about every byte and every handshake. That mindset translated almost directly into the kind of work [Anchor Codec](companies/anchor) does with single-pass primitives, where redundancy and wasted cycles are treated as design failures rather than acceptable overhead.\n\nLogan is known internally as someone with serious technical depth — the kind of engineer who'll disappear into a protocol spec for three days and come back with a working implementation and a list of edge cases nobody else had considered. He's not particularly loud in meetings, but when he speaks up it tends to be because he's found something important. His early weeks at Anchor were spent auditing the transmission layer and filing a long internal document outlining places where the system was making assumptions that wouldn't hold in degraded network conditions. That document reportedly led to a non-trivial refactor in Q3 2027.\n\nHe's based in the Portland office but works remotely about half the time. Colleagues describe him as methodical, sometimes frustratingly thorough, but ultimately someone you want reviewing your code before it ships. Lindqvist has also been involved in some of the company's outreach to potential partners in defense-adjacent and logistics sectors, where his satellite background gives him credibility that pure software folks might lack.\n\nOutside of work, Logan is an amature radio operator and occasionally posts long technical write-ups on protocol design to a personal blog that has a small but dedicated following.",
+  "timeline": "- **2021-03-15** | Logan begins work at a satellite communications company, focusing on ground-station software and on-orbit data routing.\n- **2026-11-08** | First contact with [Anchor Codec](companies/anchor) — Logan attends a networking meetup in Portland where an Anchor engineer presents on single-pass transmission primitives.\n- **2027-02-20** | Formal interview process begins with [Anchor Codec](companies/anchor); Logan completes a systems design exercise focused on degraded-network scenarios.\n- **2027-05-01** | Logan Lindqvist officially joins Anchor Codec as Senior Engineer.\n- **2027-06-12** | Submits internal audit document on transmission layer assumptions; triggers review and eventual refactor.\n- **2027-09-04** | Leads a refactor of the protocol handshake logic to better handle high-latency and intermittent connections.\n- **2027-11-15** | Participates in a partner meeting with a logistics company exploring Anchor's infrastructure for edge deployments.\n- **2028-01-22** | Gives an internal tech talk on lessons from satellite systems and their applicability to deterministic data pipelines.\n- **2028-03-10** | Co-authors a blog post on the Anchor engineering blog about protocol design under constrained conditions.",
+  "_facts": {
+    "type": "person",
+    "slug": "people/logan-lindqvist",
+    "name": "Logan Lindqvist",
+    "role": "employee",
+    "title": "Senior Engineer",
+    "primary_affiliation": "companies/anchor",
+    "notable_traits": [
+      "systems builder",
+      "technical depth"
+    ],
+    "background": "Protocol and networking engineer; previous experience in satellite and edge computing systems",
+    "joined_anchor": "2027-05-01"
+  }
+}

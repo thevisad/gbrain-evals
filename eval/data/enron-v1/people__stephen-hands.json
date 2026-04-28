@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-hands",
+  "type": "person",
+  "title": "Stephen Hands",
+  "compiled_truth": "Stephen Hands is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-23 to 2001-11-09), Stephen Hands sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-10-23** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-hands",
+    "name": "Stephen Hands",
+    "email": "stephen.hands@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

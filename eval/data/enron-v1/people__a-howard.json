@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-howard",
+  "type": "person",
+  "title": "A  Howard",
+  "compiled_truth": "A  Howard is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-20 to 2002-03-25), A  Howard sent 135 and received 349 emails, totalling 484 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (62), [Lindy Donoho](people/lindy-donoho) (22), [Tracy Geaccone](people/tracy-geaccone) (21), [Shelley Corman](people/shelley-corman) (20), [Kimberly Watson](people/kimberly-watson) (19). Mailbox folders observed: deleted_items, e_mail_bin, inbox, projects, sent_items, tw_commercial_group.",
+  "timeline": "- **2001-06-20** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-howard",
+    "name": "A  Howard",
+    "email": "a..howard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

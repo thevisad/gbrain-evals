@@ -1,0 +1,14 @@
+{
+  "slug": "people/weavertr-yakima-wa",
+  "type": "person",
+  "title": "Weavertr",
+  "compiled_truth": "Weavertr is an external contact at [Yakima-wa](companies/yakima-wa). Over the corpus period (2001-03-14 to 2001-04-27), Weavertr sent 0 and received 63 emails, totalling 63 interactions.",
+  "timeline": "- **2001-03-14** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/weavertr-yakima-wa",
+    "name": "Weavertr",
+    "email": "weavertr@yakima-wa.com",
+    "primary_affiliation": "companies/yakima-wa"
+  }
+}

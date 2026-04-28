@@ -1,0 +1,14 @@
+{
+  "slug": "people/sevil",
+  "type": "person",
+  "title": " Sevil",
+  "compiled_truth": "Sevil is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-01 to 2002-01-15),  Sevil sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2001-06-01** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sevil",
+    "name": " Sevil",
+    "email": ".sevil@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gravestk-cs",
+  "type": "person",
+  "title": "Gravestk",
+  "compiled_truth": "Gravestk is an external contact at [Cs](companies/cs). Over the corpus period (2001-03-21 to 2001-05-30), Gravestk sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-03-21** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gravestk-cs",
+    "name": "Gravestk",
+    "email": "gravestk@cs.com",
+    "primary_affiliation": "companies/cs"
+  }
+}

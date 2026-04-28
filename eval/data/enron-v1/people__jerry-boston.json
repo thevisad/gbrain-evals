@@ -1,0 +1,14 @@
+{
+  "slug": "people/jerry-boston",
+  "type": "person",
+  "title": "Jerry Boston",
+  "compiled_truth": "Jerry Boston is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-14 to 2002-03-13), Jerry Boston sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **2000-03-14** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jerry-boston",
+    "name": "Jerry Boston",
+    "email": "jerry.boston@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

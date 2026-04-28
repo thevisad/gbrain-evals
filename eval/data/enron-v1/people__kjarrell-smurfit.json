@@ -1,0 +1,14 @@
+{
+  "slug": "people/kjarrell-smurfit",
+  "type": "person",
+  "title": "Kjarrell",
+  "compiled_truth": "Kjarrell is an external contact at [Smurfit](companies/smurfit). Over the corpus period (2000-08-10 to 2001-11-14), Kjarrell sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kjarrell-smurfit",
+    "name": "Kjarrell",
+    "email": "kjarrell@smurfit.com",
+    "primary_affiliation": "companies/smurfit"
+  }
+}

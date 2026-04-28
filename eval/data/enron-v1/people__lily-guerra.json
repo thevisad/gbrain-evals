@@ -1,0 +1,14 @@
+{
+  "slug": "people/lily-guerra",
+  "type": "person",
+  "title": "Lily Guerra",
+  "compiled_truth": "Lily Guerra is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-01-12), Lily Guerra sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-01-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lily-guerra",
+    "name": "Lily Guerra",
+    "email": "lily.guerra@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

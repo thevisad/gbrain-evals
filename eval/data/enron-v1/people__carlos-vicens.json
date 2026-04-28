@@ -1,0 +1,14 @@
+{
+  "slug": "people/carlos-vicens",
+  "type": "person",
+  "title": "Carlos Vicens",
+  "compiled_truth": "Carlos Vicens is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-10-19), Carlos Vicens sent 1 and received 14 emails, totalling 15 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carlos-vicens",
+    "name": "Carlos Vicens",
+    "email": "carlos.vicens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

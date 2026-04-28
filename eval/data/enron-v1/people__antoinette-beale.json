@@ -1,0 +1,14 @@
+{
+  "slug": "people/antoinette-beale",
+  "type": "person",
+  "title": "Antoinette Beale",
+  "compiled_truth": "Antoinette Beale is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-30 to 2002-06-20), Antoinette Beale sent 5 and received 33 emails, totalling 38 interactions. Top correspondents: [J  Farmer](people/j-farmer) (4), [Ann Chance](people/ann-chance) (2), [Michael Olsen](people/michael-olsen) (2), [D Smith](people/d-smith) (1), [Rita Wynne](people/rita-wynne) (1). Mailbox folders observed: inbox, logistics.",
+  "timeline": "- **2001-03-30** | First recorded email in corpus\n- **2002-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/antoinette-beale",
+    "name": "Antoinette Beale",
+    "email": "antoinette.beale@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

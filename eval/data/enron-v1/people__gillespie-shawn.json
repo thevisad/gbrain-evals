@@ -1,0 +1,14 @@
+{
+  "slug": "people/gillespie-shawn",
+  "type": "person",
+  "title": "Gillespie Shawn",
+  "compiled_truth": "Gillespie Shawn is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-12-10 to 2001-12-10), Gillespie Shawn sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-12-10** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gillespie-shawn",
+    "name": "Gillespie Shawn",
+    "email": "gillespie.shawn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristy-carnes",
+  "type": "person",
+  "title": "Kristy Carnes",
+  "compiled_truth": "Kristy Carnes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2001-02-14), Kristy Carnes sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristy-carnes",
+    "name": "Kristy Carnes",
+    "email": "kristy.carnes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

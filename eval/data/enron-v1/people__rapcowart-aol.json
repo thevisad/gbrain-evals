@@ -1,0 +1,14 @@
+{
+  "slug": "people/rapcowart-aol",
+  "type": "person",
+  "title": "Rapcowart",
+  "compiled_truth": "Rapcowart is an external contact at [AOL](companies/aol). Over the corpus period (2001-06-21 to 2001-10-18), Rapcowart sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-21** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rapcowart-aol",
+    "name": "Rapcowart",
+    "email": "rapcowart@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

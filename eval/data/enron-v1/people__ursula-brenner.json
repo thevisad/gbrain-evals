@@ -1,0 +1,14 @@
+{
+  "slug": "people/ursula-brenner",
+  "type": "person",
+  "title": "Ursula Brenner",
+  "compiled_truth": "Ursula Brenner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-13 to 2001-10-16), Ursula Brenner sent 14 and received 45 emails, totalling 59 interactions. Top correspondents: [Steven Kean](people/steven-kean) (11), [Maureen Mcvicker](people/maureen-mcvicker) (7), [Karen Denne](people/karen-denne) (3), [Rob Bradley](people/rob-bradley) (2), [Rpon](people/rpon-bellatlantic) (2). Mailbox folders observed: inbox, presentations.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2001-10-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ursula-brenner",
+    "name": "Ursula Brenner",
+    "email": "ursula.brenner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

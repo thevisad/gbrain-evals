@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-coffey",
+  "type": "person",
+  "title": "James Coffey",
+  "compiled_truth": "James Coffey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-19 to 2001-12-19), James Coffey sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-07-19** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-coffey",
+    "name": "James Coffey",
+    "email": "james.coffey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

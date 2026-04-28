@@ -1,0 +1,14 @@
+{
+  "slug": "people/jpjordan-swidlaw",
+  "type": "person",
+  "title": "Jpjordan",
+  "compiled_truth": "Jpjordan is an external contact at [Swidlaw](companies/swidlaw). Over the corpus period (2000-09-08 to 2001-08-22), Jpjordan sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2001-08-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jpjordan-swidlaw",
+    "name": "Jpjordan",
+    "email": "jpjordan@swidlaw.com",
+    "primary_affiliation": "companies/swidlaw"
+  }
+}

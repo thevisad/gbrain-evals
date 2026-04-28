@@ -1,0 +1,14 @@
+{
+  "slug": "people/noah-jacobs",
+  "type": "person",
+  "title": "Noah Jacobs",
+  "compiled_truth": "Noah Jacobs is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-27 to 2001-09-28), Noah Jacobs sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-27** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/noah-jacobs",
+    "name": "Noah Jacobs",
+    "email": "noah.jacobs@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

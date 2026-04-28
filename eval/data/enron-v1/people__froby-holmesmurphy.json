@@ -1,0 +1,14 @@
+{
+  "slug": "people/froby-holmesmurphy",
+  "type": "person",
+  "title": "Froby",
+  "compiled_truth": "Froby is an external contact at [Holmesmurphy](companies/holmesmurphy). Over the corpus period (2000-09-14 to 2001-09-28), Froby sent 2 and received 45 emails, totalling 47 interactions. Top correspondents: [Smu-Betas](people/smu-betas-yahoogroups) (2).",
+  "timeline": "- **2000-09-14** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/froby-holmesmurphy",
+    "name": "Froby",
+    "email": "froby@holmesmurphy.com",
+    "primary_affiliation": "companies/holmesmurphy"
+  }
+}

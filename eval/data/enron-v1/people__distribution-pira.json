@@ -1,0 +1,14 @@
+{
+  "slug": "people/distribution-pira",
+  "type": "person",
+  "title": "Distribution",
+  "compiled_truth": "Distribution is an external contact at [Pira](companies/pira). Over the corpus period (2001-06-08 to 2002-06-26), Distribution sent 64 and received 0 emails, totalling 64 interactions. Top correspondents: [Sande](people/sande-pira) (25), [Eileen](people/eileen-pira) (15), [Cathy](people/cathy-pira) (10), [Vwatkins](people/vwatkins-pira) (7), [Greg](people/greg-pira) (6).",
+  "timeline": "- **2001-06-08** | First recorded email in corpus\n- **2002-06-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/distribution-pira",
+    "name": "Distribution",
+    "email": "distribution@pira.com",
+    "primary_affiliation": "companies/pira"
+  }
+}

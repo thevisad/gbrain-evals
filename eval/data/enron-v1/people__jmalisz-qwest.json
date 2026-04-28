@@ -1,0 +1,14 @@
+{
+  "slug": "people/jmalisz-qwest",
+  "type": "person",
+  "title": "Jmalisz",
+  "compiled_truth": "Jmalisz is an external contact at [Qwest](companies/qwest). Over the corpus period (2001-10-24 to 2001-11-27), Jmalisz sent 22 and received 19 emails, totalling 41 interactions. Top correspondents: [M  Tholt](people/m-tholt) (22).",
+  "timeline": "- **2001-10-24** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jmalisz-qwest",
+    "name": "Jmalisz",
+    "email": "jmalisz@qwest.com",
+    "primary_affiliation": "companies/qwest"
+  }
+}

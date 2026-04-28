@@ -1,0 +1,14 @@
+{
+  "slug": "people/nolan-steiner-avistacorp",
+  "type": "person",
+  "title": "Nolan Steiner",
+  "compiled_truth": "Nolan Steiner is an external contact at [Avistacorp](companies/avistacorp). Over the corpus period (2001-02-06 to 2001-05-03), Nolan Steiner sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2001-02-06** | First recorded email in corpus\n- **2001-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nolan-steiner-avistacorp",
+    "name": "Nolan Steiner",
+    "email": "nolan.steiner@avistacorp.com",
+    "primary_affiliation": "companies/avistacorp"
+  }
+}

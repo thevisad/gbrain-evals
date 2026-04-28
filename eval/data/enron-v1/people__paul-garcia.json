@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-garcia",
+  "type": "person",
+  "title": "Paul Garcia",
+  "compiled_truth": "Paul Garcia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-29 to 2002-03-07), Paul Garcia sent 3 and received 64 emails, totalling 67 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2), [Louise Kitchen](people/louise-kitchen) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-03-29** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-garcia",
+    "name": "Paul Garcia",
+    "email": "paul.garcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

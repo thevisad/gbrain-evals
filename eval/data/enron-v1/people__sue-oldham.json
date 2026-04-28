@@ -1,0 +1,14 @@
+{
+  "slug": "people/sue-oldham",
+  "type": "person",
+  "title": "Sue Oldham",
+  "compiled_truth": "Sue Oldham is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-26 to 2001-10-26), Sue Oldham sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sue-oldham",
+    "name": "Sue Oldham",
+    "email": "sue.oldham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

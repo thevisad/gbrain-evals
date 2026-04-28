@@ -1,0 +1,14 @@
+{
+  "slug": "people/elizabeth-navarro",
+  "type": "person",
+  "title": "Elizabeth Navarro",
+  "compiled_truth": "Elizabeth Navarro is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-03 to 2001-10-17), Elizabeth Navarro sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-08-03** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elizabeth-navarro",
+    "name": "Elizabeth Navarro",
+    "email": "elizabeth.navarro@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

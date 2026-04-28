@@ -1,0 +1,14 @@
+{
+  "slug": "people/allen-elliott",
+  "type": "person",
+  "title": "Allen Elliott",
+  "compiled_truth": "Allen Elliott is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-01), Allen Elliott sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/allen-elliott",
+    "name": "Allen Elliott",
+    "email": "allen.elliott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

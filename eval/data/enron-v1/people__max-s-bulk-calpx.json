@@ -1,0 +1,14 @@
+{
+  "slug": "people/max-s-bulk-calpx",
+  "type": "person",
+  "title": "Max S Bulk",
+  "compiled_truth": "Max S Bulk is an external contact at [Calpx](companies/calpx). Over the corpus period (2000-08-27 to 2001-02-16), Max S Bulk sent 1 and received 3 emails, totalling 4 interactions. Top correspondents: [Foothi19](people/foothi19-idt) (1), [Billr](people/billr-calpine) (1), [Robert Anderson](people/robert-anderson-apses) (1), [Cabaker](people/cabaker-duke-energy) (1), [Jcgardin](people/jcgardin-newwestenergy) (1).",
+  "timeline": "- **2000-08-27** | First recorded email in corpus\n- **2001-02-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/max-s-bulk-calpx",
+    "name": "Max S Bulk",
+    "email": "max_s_bulk@calpx.com",
+    "primary_affiliation": "companies/calpx"
+  }
+}

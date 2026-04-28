@@ -1,0 +1,14 @@
+{
+  "slug": "people/d-j-herron",
+  "type": "person",
+  "title": "D J  Herron",
+  "compiled_truth": "D J  Herron is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-06 to 2002-01-24), D J  Herron sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2001-09-06** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d-j-herron",
+    "name": "D J  Herron",
+    "email": "d.j..herron@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

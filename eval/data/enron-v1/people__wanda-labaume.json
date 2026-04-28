@@ -1,0 +1,14 @@
+{
+  "slug": "people/wanda-labaume",
+  "type": "person",
+  "title": "Wanda Labaume",
+  "compiled_truth": "Wanda Labaume is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Wanda Labaume sent 0 and received 105 emails, totalling 105 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wanda-labaume",
+    "name": "Wanda Labaume",
+    "email": "wanda.labaume@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

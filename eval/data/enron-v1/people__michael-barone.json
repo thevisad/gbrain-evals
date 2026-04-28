@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-barone",
+  "type": "person",
+  "title": "Michael Barone",
+  "compiled_truth": "Michael Barone is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-14 to 2002-03-08), Michael Barone sent 9 and received 12 emails, totalling 21 interactions. Top correspondents: [M  Scott](people/m-scott) (9), [Tim Bowler](people/tim-bowler) (8), [F  Brawner](people/f-brawner) (6), [Joe Parks](people/joe-parks) (6), [Troy Denetsosie](people/troy-denetsosie) (6). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2002-02-14** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-barone",
+    "name": "Michael Barone",
+    "email": "michael.barone@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

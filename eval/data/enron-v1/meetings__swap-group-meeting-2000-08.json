@@ -1,0 +1,27 @@
+{
+  "slug": "meetings/swap-group-meeting-2000-08",
+  "type": "meeting",
+  "title": "Meeting: Swap Group Meeting",
+  "compiled_truth": "Meeting: \"Swap Group Meeting\". Occurred 2000-08-29 through 2000-08-29 with 3 related emails. Participants included: [Brent Hendry](people/brent-hendry), [Carol Clair](people/carol-clair), [Jason Peters](people/jason-peters), [Kaye Ellis](people/kaye-ellis), [Mark Taylor](people/mark-taylor), [Mary Cook](people/mary-cook), [Robert Bruce](people/robert-bruce), [Samantha Boyd](people/samantha-boyd)....",
+  "timeline": "- **2000-08-29** | Meeting: swap group meeting\n- **2000-08-29** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/swap-group-meeting-2000-08",
+    "attendees": [
+      "people/brent-hendry",
+      "people/carol-clair",
+      "people/jason-peters",
+      "people/kaye-ellis",
+      "people/mark-taylor",
+      "people/mary-cook",
+      "people/robert-bruce",
+      "people/samantha-boyd",
+      "people/sara-shackleton",
+      "people/susan-bailey",
+      "people/susan-flynn",
+      "people/taffy-milligan",
+      "people/tana-jones"
+    ],
+    "date": "2000-08-29"
+  }
+}

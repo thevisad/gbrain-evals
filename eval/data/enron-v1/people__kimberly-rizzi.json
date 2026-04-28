@@ -1,0 +1,14 @@
+{
+  "slug": "people/kimberly-rizzi",
+  "type": "person",
+  "title": "Kimberly Rizzi",
+  "compiled_truth": "Kimberly Rizzi is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-12-03), Kimberly Rizzi sent 2 and received 48 emails, totalling 50 interactions. Top correspondents: [Richard Causey](people/richard-causey) (2), [Sally Beck](people/sally-beck) (2), [Celeste Roberts](people/celeste-roberts) (1), [Teresa Bosien](people/teresa-bosien) (1), [Susan Carrera](people/susan-carrera) (1).",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kimberly-rizzi",
+    "name": "Kimberly Rizzi",
+    "email": "kimberly.rizzi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

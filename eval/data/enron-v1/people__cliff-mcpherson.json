@@ -1,0 +1,14 @@
+{
+  "slug": "people/cliff-mcpherson",
+  "type": "person",
+  "title": "Cliff Mcpherson",
+  "compiled_truth": "Cliff Mcpherson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-21 to 2002-03-19), Cliff Mcpherson sent 4 and received 22 emails, totalling 26 interactions. Top correspondents: [Dale Ratliff](people/dale-ratliff) (4), [Darrell Schoolcraft](people/darrell-schoolcraft) (4), [Steve January](people/steve-january) (3), [Mike Bryant](people/mike-bryant) (3), [Dannis Bellard](people/dannis-bellard) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-21** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cliff-mcpherson",
+    "name": "Cliff Mcpherson",
+    "email": "cliff.mcpherson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

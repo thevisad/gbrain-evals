@@ -1,0 +1,14 @@
+{
+  "slug": "people/sue-neville",
+  "type": "person",
+  "title": "Sue Neville",
+  "compiled_truth": "Sue Neville is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-30 to 2002-02-08), Sue Neville sent 6 and received 359 emails, totalling 365 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (3), [Michael Bodnar](people/michael-bodnar) (2), [Steve Thomas](people/steve-thomas) (2), [Kimberly Watson](people/kimberly-watson) (2), [Tk Lohman](people/tk-lohman) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-30** | First recorded email in corpus\n- **2002-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sue-neville",
+    "name": "Sue Neville",
+    "email": "sue.neville@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

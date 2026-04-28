@@ -1,0 +1,14 @@
+{
+  "slug": "people/kthompson-pepco-services",
+  "type": "person",
+  "title": "Kthompson",
+  "compiled_truth": "Kthompson is an external contact at [Pepco-services](companies/pepco-services). Over the corpus period (2000-11-11 to 2000-11-11), Kthompson sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kthompson-pepco-services",
+    "name": "Kthompson",
+    "email": "kthompson@pepco-services.com",
+    "primary_affiliation": "companies/pepco-services"
+  }
+}

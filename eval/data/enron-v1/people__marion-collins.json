@@ -1,0 +1,14 @@
+{
+  "slug": "people/marion-collins",
+  "type": "person",
+  "title": "Marion Collins",
+  "compiled_truth": "Marion Collins is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-13 to 2002-03-15), Marion Collins sent 1 and received 94 emails, totalling 95 interactions. Top correspondents: [Dannis Bellard](people/dannis-bellard) (1), [Mike Bryant](people/mike-bryant) (1), [Shelley Corman](people/shelley-corman) (1), [Sheila Nacey](people/sheila-nacey) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-01-13** | First recorded email in corpus\n- **2002-03-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marion-collins",
+    "name": "Marion Collins",
+    "email": "marion.collins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

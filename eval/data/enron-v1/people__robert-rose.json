@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-rose",
+  "type": "person",
+  "title": "Robert Rose",
+  "compiled_truth": "Robert Rose is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-07 to 2001-06-01), Robert Rose sent 3 and received 23 emails, totalling 26 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (3), [Taffy Milligan](people/taffy-milligan) (1), [Barbara Gray](people/barbara-gray) (1), [John Towles](people/john-towles) (1).",
+  "timeline": "- **2000-03-07** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-rose",
+    "name": "Robert Rose",
+    "email": "robert.rose@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

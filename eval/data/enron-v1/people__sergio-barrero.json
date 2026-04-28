@@ -1,0 +1,14 @@
+{
+  "slug": "people/sergio-barrero",
+  "type": "person",
+  "title": "Sergio Barrero",
+  "compiled_truth": "Sergio Barrero is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-20 to 2001-10-20), Sergio Barrero sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-20** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sergio-barrero",
+    "name": "Sergio Barrero",
+    "email": "sergio.barrero@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

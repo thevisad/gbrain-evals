@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-artesia",
+  "type": "person",
+  "title": "Team Artesia",
+  "compiled_truth": "Team Artesia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-26 to 2002-03-18), Team Artesia sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **2000-01-26** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-artesia",
+    "name": "Team Artesia",
+    "email": "team.artesia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

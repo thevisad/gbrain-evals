@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-constantine",
+  "type": "person",
+  "title": "Chris Constantine",
+  "compiled_truth": "Chris Constantine is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2002-05-21), Chris Constantine sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2002-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-constantine",
+    "name": "Chris Constantine",
+    "email": "chris.constantine@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

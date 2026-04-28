@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-delaney",
+  "type": "person",
+  "title": "Tom Delaney",
+  "compiled_truth": "Tom Delaney is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-15 to 2001-05-10), Tom Delaney sent 4 and received 125 emails, totalling 129 interactions. Top correspondents: [Mary Hain](people/mary-hain) (4), [Robert Badeer](people/robert-badeer) (3), [Paul Kaufman](people/paul-kaufman) (3), [Tom Alonso](people/tom-alonso) (2), [Tim Belden](people/tim-belden) (2).",
+  "timeline": "- **1999-11-15** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-delaney",
+    "name": "Tom Delaney",
+    "email": "tom.delaney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

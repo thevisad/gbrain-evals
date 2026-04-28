@@ -1,0 +1,14 @@
+{
+  "slug": "people/osman-sezgen",
+  "type": "person",
+  "title": "Osman Sezgen",
+  "compiled_truth": "Osman Sezgen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2002-01-15), Osman Sezgen sent 9 and received 205 emails, totalling 214 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (5), [Pinnamaneni Krishnarao](people/pinnamaneni-krishnarao) (4), [J Kaminski](people/j-kaminski) (3), [Enernet](people/enernet-hicom) (1), [Michael Lassle](people/michael-lassle) (1). Mailbox folders observed: calendar, deleted_items, ees.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/osman-sezgen",
+    "name": "Osman Sezgen",
+    "email": "osman.sezgen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "companies/turn",
+  "type": "company",
+  "title": "Turn",
+  "compiled_truth": "Turn is an external organization that appears in the Enron email corpus. Domain: turn.com. Total email interactions with Enron: 420. Known contacts: 7 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (420 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/turn",
+    "name": "Turn",
+    "employees": [
+      "people/bfinkelstein-turn",
+      "people/freedman-turn",
+      "people/hayley-turn",
+      "people/marcel-turn",
+      "people/mflorio-turn",
+      "people/nhoge-turn",
+      "people/rcosta-turn"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

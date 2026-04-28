@@ -1,0 +1,14 @@
+{
+  "slug": "people/summe-kimberly",
+  "type": "person",
+  "title": "Summe' 'Kimberly",
+  "compiled_truth": "Summe' 'Kimberly is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-09 to 2001-10-24), Summe' 'Kimberly sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-07-09** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/summe-kimberly",
+    "name": "Summe' 'Kimberly",
+    "email": "summe'.'kimberly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

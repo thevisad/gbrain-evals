@@ -1,0 +1,14 @@
+{
+  "slug": "people/heather-mitchell",
+  "type": "person",
+  "title": "Heather Mitchell",
+  "compiled_truth": "Heather Mitchell is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-20 to 2001-11-19), Heather Mitchell sent 1 and received 70 emails, totalling 71 interactions. Top correspondents: [Elliot Mainzer](people/elliot-mainzer) (1), [Jesse Bryson](people/jesse-bryson) (1), [Stacey Bolton](people/stacey-bolton) (1), [Richard Ring](people/richard-ring) (1). Mailbox folders observed: eesirenewableenergy.",
+  "timeline": "- **1998-11-20** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heather-mitchell",
+    "name": "Heather Mitchell",
+    "email": "heather.mitchell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

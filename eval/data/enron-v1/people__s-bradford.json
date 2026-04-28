@@ -1,0 +1,14 @@
+{
+  "slug": "people/s-bradford",
+  "type": "person",
+  "title": "S  Bradford",
+  "compiled_truth": "S  Bradford is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-26 to 2002-03-07), S  Bradford sent 119 and received 973 emails, totalling 1092 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (50), [Rick Buy](people/rick-buy) (28), [Elizabeth Sager](people/elizabeth-sager) (19), [R  Brackett](people/r-brackett) (12), [Carol St ](people/carol-st) (12). Mailbox folders observed: _americas, calendar, deleted_items, inbox, projects, ring_trades.",
+  "timeline": "- **2000-11-26** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/s-bradford",
+    "name": "S  Bradford",
+    "email": "s..bradford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

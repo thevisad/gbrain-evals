@@ -1,0 +1,14 @@
+{
+  "slug": "people/ilan-caplan",
+  "type": "person",
+  "title": "Ilan Caplan",
+  "compiled_truth": "Ilan Caplan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-01 to 2002-05-20), Ilan Caplan sent 11 and received 46 emails, totalling 57 interactions. Top correspondents: [Mark Fisher](people/mark-fisher) (10), [Hollis Kimbrough](people/hollis-kimbrough) (8), [Mark Walker](people/mark-walker) (7), [Alan Nueman](people/alan-nueman) (4), [Mark Eilers](people/mark-eilers) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-02-01** | First recorded email in corpus\n- **2002-05-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ilan-caplan",
+    "name": "Ilan Caplan",
+    "email": "ilan.caplan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

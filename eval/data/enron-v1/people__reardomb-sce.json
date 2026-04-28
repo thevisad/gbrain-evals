@@ -1,0 +1,14 @@
+{
+  "slug": "people/reardomb-sce",
+  "type": "person",
+  "title": "Reardomb",
+  "compiled_truth": "Reardomb is an external contact at [Sce](companies/sce). Over the corpus period (2000-07-25 to 2000-08-29), Reardomb sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2000-08-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reardomb-sce",
+    "name": "Reardomb",
+    "email": "reardomb@sce.com",
+    "primary_affiliation": "companies/sce"
+  }
+}

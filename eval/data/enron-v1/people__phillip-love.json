@@ -1,0 +1,14 @@
+{
+  "slug": "people/phillip-love",
+  "type": "person",
+  "title": "Phillip Love",
+  "compiled_truth": "Phillip Love is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-06-02), Phillip Love sent 1782 and received 642 emails, totalling 2424 interactions. Top correspondents: [Bruce Mills](people/bruce-mills) (244), [Victor Guggenheim](people/victor-guggenheim) (118), [Mjillard](people/mjillard-beaconelectric) (111), [Alove770](people/alove770-cs) (107), [Bryan Hull](people/bryan-hull) (106). Mailbox folders observed: _sent_mail, discussion_threads, sent, to_do.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-06-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/phillip-love",
+    "name": "Phillip Love",
+    "email": "phillip.love@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

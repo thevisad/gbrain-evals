@@ -1,0 +1,14 @@
+{
+  "slug": "people/jonathan-mckay",
+  "type": "person",
+  "title": "Jonathan Mckay",
+  "compiled_truth": "Jonathan Mckay is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-04-30), Jonathan Mckay sent 319 and received 863 emails, totalling 1182 interactions. Top correspondents: [Beth Jenkins](people/beth-jenkins) (30), [John Lavorato](people/john-lavorato) (29), [Chris Lambie](people/chris-lambie) (26), [Chance Rabon](people/chance-rabon) (16), [Kate Joslyn](people/kate-joslyn) (16). Mailbox folders observed: calendar, contacts, deleted_items, enron, inbox, personal.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jonathan-mckay",
+    "name": "Jonathan Mckay",
+    "email": "jonathan.mckay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

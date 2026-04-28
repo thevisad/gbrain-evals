@@ -1,0 +1,14 @@
+{
+  "slug": "people/indigo-ecs-yahoo",
+  "type": "person",
+  "title": "Indigo Ecs",
+  "compiled_truth": "Indigo Ecs is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-05-21 to 2000-11-25), Indigo Ecs sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/indigo-ecs-yahoo",
+    "name": "Indigo Ecs",
+    "email": "indigo_ecs@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mac-mcclelland",
+  "type": "person",
+  "title": "Mac Mcclelland",
+  "compiled_truth": "Mac Mcclelland is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-06-06), Mac Mcclelland sent 1 and received 79 emails, totalling 80 interactions. Top correspondents: [Scott Reblitz](people/scott-reblitz) (1), [Rick Bergsieker](people/rick-bergsieker) (1), [Andrew Makk](people/andrew-makk) (1), [Jeffrey Hammad](people/jeffrey-hammad) (1), [Terence Thorn](people/terence-thorn) (1). Mailbox folders observed: aadepartment.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mac-mcclelland",
+    "name": "Mac Mcclelland",
+    "email": "mac.mcclelland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

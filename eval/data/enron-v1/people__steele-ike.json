@@ -1,0 +1,14 @@
+{
+  "slug": "people/steele-ike",
+  "type": "person",
+  "title": "Steele Ike",
+  "compiled_truth": "Steele Ike is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-08-21), Steele Ike sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steele-ike",
+    "name": "Steele Ike",
+    "email": "steele.ike@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

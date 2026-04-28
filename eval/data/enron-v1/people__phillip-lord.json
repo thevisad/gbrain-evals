@@ -1,0 +1,14 @@
+{
+  "slug": "people/phillip-lord",
+  "type": "person",
+  "title": "Phillip Lord",
+  "compiled_truth": "Phillip Lord is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-20 to 2001-07-05), Phillip Lord sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-04-20** | First recorded email in corpus\n- **2001-07-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/phillip-lord",
+    "name": "Phillip Lord",
+    "email": "phillip.lord@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

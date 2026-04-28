@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-mowrer",
+  "type": "person",
+  "title": "Dan Mowrer",
+  "compiled_truth": "Dan Mowrer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-06 to 2002-03-25), Dan Mowrer sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-01-06** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-mowrer",
+    "name": "Dan Mowrer",
+    "email": "dan.mowrer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

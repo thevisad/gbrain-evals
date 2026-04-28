@@ -1,0 +1,14 @@
+{
+  "slug": "people/valerie-curtis",
+  "type": "person",
+  "title": "Valerie Curtis",
+  "compiled_truth": "Valerie Curtis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-09 to 2001-11-01), Valerie Curtis sent 3 and received 36 emails, totalling 39 interactions. Top correspondents: [W  Pereira](people/w-pereira) (2), [Tom Donohoe](people/tom-donohoe) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2001-11-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/valerie-curtis",
+    "name": "Valerie Curtis",
+    "email": "valerie.curtis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

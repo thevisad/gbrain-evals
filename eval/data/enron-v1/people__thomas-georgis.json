@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas-georgis",
+  "type": "person",
+  "title": "Thomas Georgis",
+  "compiled_truth": "Thomas Georgis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-28 to 2000-08-30), Thomas Georgis sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2000-08-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas-georgis",
+    "name": "Thomas Georgis",
+    "email": "thomas.georgis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

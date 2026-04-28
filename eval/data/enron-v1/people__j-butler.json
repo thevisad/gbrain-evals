@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-butler",
+  "type": "person",
+  "title": "J  Butler",
+  "compiled_truth": "J  Butler is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-04 to 2001-10-25), J  Butler sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-09-04** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-butler",
+    "name": "J  Butler",
+    "email": "j..butler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

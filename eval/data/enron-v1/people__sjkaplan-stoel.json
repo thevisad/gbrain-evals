@@ -1,0 +1,14 @@
+{
+  "slug": "people/sjkaplan-stoel",
+  "type": "person",
+  "title": "Sjkaplan",
+  "compiled_truth": "Sjkaplan is an external contact at [Stoel](companies/stoel). Over the corpus period (2001-03-09 to 2001-05-03), Sjkaplan sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2001-03-09** | First recorded email in corpus\n- **2001-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sjkaplan-stoel",
+    "name": "Sjkaplan",
+    "email": "sjkaplan@stoel.com",
+    "primary_affiliation": "companies/stoel"
+  }
+}

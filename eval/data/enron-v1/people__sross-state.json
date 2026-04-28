@@ -1,0 +1,14 @@
+{
+  "slug": "people/sross-state",
+  "type": "person",
+  "title": "Sross",
+  "compiled_truth": "Sross is an external contact at [State](companies/state). Over the corpus period (2000-09-08 to 2001-07-31), Sross sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sross-state",
+    "name": "Sross",
+    "email": "sross@state.nm.us",
+    "primary_affiliation": "companies/state"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/inderpal-singh",
+  "type": "person",
+  "title": "Inderpal Singh",
+  "compiled_truth": "Inderpal Singh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-19 to 2001-11-27), Inderpal Singh sent 1 and received 32 emails, totalling 33 interactions.",
+  "timeline": "- **2000-07-19** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/inderpal-singh",
+    "name": "Inderpal Singh",
+    "email": "inderpal.singh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

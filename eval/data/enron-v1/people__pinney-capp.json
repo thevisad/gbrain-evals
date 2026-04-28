@@ -1,0 +1,14 @@
+{
+  "slug": "people/pinney-capp",
+  "type": "person",
+  "title": "Pinney",
+  "compiled_truth": "Pinney is an external contact at [Capp](companies/capp). Over the corpus period (2000-09-08 to 2001-07-31), Pinney sent 0 and received 33 emails, totalling 33 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pinney-capp",
+    "name": "Pinney",
+    "email": "pinney@capp.ca",
+    "primary_affiliation": "companies/capp"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/nick-mooney",
+  "type": "person",
+  "title": "Nick Mooney",
+  "compiled_truth": "Nick Mooney is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-20 to 2001-05-17), Nick Mooney sent 4 and received 76 emails, totalling 80 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (2), [Mark Taylor](people/mark-taylor) (2), [Vince Kaminski](people/vince-kaminski) (1), [Mark Tawney](people/mark-tawney) (1), [Dave Samuels](people/dave-samuels) (1).",
+  "timeline": "- **1999-08-20** | First recorded email in corpus\n- **2001-05-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nick-mooney",
+    "name": "Nick Mooney",
+    "email": "nick.mooney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

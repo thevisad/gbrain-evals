@@ -1,0 +1,14 @@
+{
+  "slug": "people/benjamin-schoene",
+  "type": "person",
+  "title": "Benjamin Schoene",
+  "compiled_truth": "Benjamin Schoene is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-14 to 2001-11-30), Benjamin Schoene sent 3 and received 29 emails, totalling 32 interactions. Top correspondents: [Jason Wolfe](people/jason-wolfe) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-11-14** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/benjamin-schoene",
+    "name": "Benjamin Schoene",
+    "email": "benjamin.schoene@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

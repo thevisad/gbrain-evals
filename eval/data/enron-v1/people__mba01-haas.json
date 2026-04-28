@@ -1,0 +1,14 @@
+{
+  "slug": "people/mba01-haas",
+  "type": "person",
+  "title": "Mba01",
+  "compiled_truth": "Mba01 is an external contact at [Haas](companies/haas). Over the corpus period (1999-10-27 to 2001-12-13), Mba01 sent 0 and received 103 emails, totalling 103 interactions.",
+  "timeline": "- **1999-10-27** | First recorded email in corpus\n- **2001-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mba01-haas",
+    "name": "Mba01",
+    "email": "mba01@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

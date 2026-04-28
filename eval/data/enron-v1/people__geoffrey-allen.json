@@ -1,0 +1,14 @@
+{
+  "slug": "people/geoffrey-allen",
+  "type": "person",
+  "title": "Geoffrey Allen",
+  "compiled_truth": "Geoffrey Allen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2001-11-28), Geoffrey Allen sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/geoffrey-allen",
+    "name": "Geoffrey Allen",
+    "email": "geoffrey.allen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/thughes-ou",
+  "type": "person",
+  "title": "Thughes",
+  "compiled_truth": "Thughes is an external contact at [Ou](companies/ou). Over the corpus period (2001-07-25 to 2001-07-25), Thughes sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thughes-ou",
+    "name": "Thughes",
+    "email": "thughes@ou.edu",
+    "primary_affiliation": "companies/ou"
+  }
+}

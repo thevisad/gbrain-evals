@@ -1,0 +1,14 @@
+{
+  "slug": "people/clarissa-garcia",
+  "type": "person",
+  "title": "Clarissa Garcia",
+  "compiled_truth": "Clarissa Garcia is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-04-23), Clarissa Garcia sent 8 and received 564 emails, totalling 572 interactions. Top correspondents: [Chris Germany](people/chris-germany) (6), [Chuck Ames](people/chuck-ames) (2), [Jonathan Mckay](people/jonathan-mckay) (2), [Meredith Homco](people/meredith-homco) (1), [Chris Ordway](people/chris-ordway) (1). Mailbox folders observed: pipeinfo.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-04-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clarissa-garcia",
+    "name": "Clarissa Garcia",
+    "email": "clarissa.garcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

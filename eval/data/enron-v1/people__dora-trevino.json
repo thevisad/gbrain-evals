@@ -1,0 +1,14 @@
+{
+  "slug": "people/dora-trevino",
+  "type": "person",
+  "title": "Dora Trevino",
+  "compiled_truth": "Dora Trevino is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-24 to 2001-11-26), Dora Trevino sent 2 and received 11 emails, totalling 13 interactions. Top correspondents: [Monika Causholli](people/monika-causholli) (2), [Ana Alcantara](people/ana-alcantara) (1), [Fraser Allen](people/fraser-allen) (1), [Om Bhatia](people/om-bhatia) (1), [Finley Biggerstaff](people/finley-biggerstaff) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-08-24** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dora-trevino",
+    "name": "Dora Trevino",
+    "email": "dora.trevino@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

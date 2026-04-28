@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-maschka",
+  "type": "person",
+  "title": "Dan Maschka",
+  "compiled_truth": "Dan Maschka is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2002-03-19), Dan Maschka sent 0 and received 33 emails, totalling 33 interactions.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-maschka",
+    "name": "Dan Maschka",
+    "email": "dan.maschka@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

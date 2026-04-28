@@ -1,0 +1,14 @@
+{
+  "slug": "people/isas-wscc",
+  "type": "person",
+  "title": "Isas",
+  "compiled_truth": "Isas is an external contact at [Wscc](companies/wscc). Over the corpus period (2001-04-06 to 2002-02-07), Isas sent 0 and received 54 emails, totalling 54 interactions.",
+  "timeline": "- **2001-04-06** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/isas-wscc",
+    "name": "Isas",
+    "email": "isas@wscc.com",
+    "primary_affiliation": "companies/wscc"
+  }
+}

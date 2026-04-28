@@ -1,0 +1,14 @@
+{
+  "slug": "people/marla",
+  "type": "person",
+  "title": " Marla",
+  "compiled_truth": "Marla is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-06 to 2001-06-06),  Marla sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-06-06** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marla",
+    "name": " Marla",
+    "email": ".marla@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/e-ramirez",
+  "type": "person",
+  "title": "E  Ramirez",
+  "compiled_truth": "E  Ramirez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-02 to 2001-11-13), E  Ramirez sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-10-02** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/e-ramirez",
+    "name": "E  Ramirez",
+    "email": "e..ramirez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

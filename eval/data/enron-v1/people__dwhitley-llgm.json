@@ -1,0 +1,14 @@
+{
+  "slug": "people/dwhitley-llgm",
+  "type": "person",
+  "title": "Dwhitley",
+  "compiled_truth": "Dwhitley is an external contact at [Llgm](companies/llgm). Over the corpus period (2001-03-20 to 2001-07-10), Dwhitley sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2001-03-20** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dwhitley-llgm",
+    "name": "Dwhitley",
+    "email": "dwhitley@llgm.com",
+    "primary_affiliation": "companies/llgm"
+  }
+}

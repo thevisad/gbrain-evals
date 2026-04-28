@@ -1,0 +1,14 @@
+{
+  "slug": "people/gwendolyn-gray",
+  "type": "person",
+  "title": "Gwendolyn Gray",
+  "compiled_truth": "Gwendolyn Gray is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-21 to 2001-12-03), Gwendolyn Gray sent 8 and received 31 emails, totalling 39 interactions. Top correspondents: [Mark Tawney](people/mark-tawney) (3), [Carl Tricoli](people/carl-tricoli) (3), [Sally Beck](people/sally-beck) (3), [Jennifer Bagwell](people/jennifer-bagwell) (2), [Scott Baukney](people/scott-baukney) (2). Mailbox folders observed: misc_.",
+  "timeline": "- **2000-07-21** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gwendolyn-gray",
+    "name": "Gwendolyn Gray",
+    "email": "gwendolyn.gray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

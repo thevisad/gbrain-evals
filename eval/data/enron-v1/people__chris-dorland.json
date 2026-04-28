@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-dorland",
+  "type": "person",
+  "title": "Chris Dorland",
+  "compiled_truth": "Chris Dorland is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-21), Chris Dorland sent 1493 and received 533 emails, totalling 2026 interactions. Top correspondents: [Dan Dorland](people/dan-dorland) (141), [Mmolloy](people/mmolloy-oebi) (86), [Kdorland](people/kdorland-titanelectric) (82), [Bgabrielson](people/bgabrielson-cdnam) (75), [Ddorland](people/ddorland-smednet) (70). Mailbox folders observed: _sent_mail, deleted_items, sent, sent_items, to_do.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-dorland",
+    "name": "Chris Dorland",
+    "email": "chris.dorland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

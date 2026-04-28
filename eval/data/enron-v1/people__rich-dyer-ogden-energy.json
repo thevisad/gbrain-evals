@@ -1,0 +1,14 @@
+{
+  "slug": "people/rich-dyer-ogden-energy",
+  "type": "person",
+  "title": "Rich Dyer",
+  "compiled_truth": "Rich Dyer is an external contact at [Ogden-energy](companies/ogden-energy). Over the corpus period (2000-12-29 to 2001-03-26), Rich Dyer sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **2000-12-29** | First recorded email in corpus\n- **2001-03-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rich-dyer-ogden-energy",
+    "name": "Rich Dyer",
+    "email": "rich_dyer@ogden-energy.com",
+    "primary_affiliation": "companies/ogden-energy"
+  }
+}

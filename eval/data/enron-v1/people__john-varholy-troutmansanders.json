@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-varholy-troutmansanders",
+  "type": "person",
+  "title": "John Varholy",
+  "compiled_truth": "John Varholy is an external contact at [Troutmansanders](companies/troutmansanders). Over the corpus period (1999-12-01 to 2001-10-20), John Varholy sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **1999-12-01** | First recorded email in corpus\n- **2001-10-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-varholy-troutmansanders",
+    "name": "John Varholy",
+    "email": "john.varholy@troutmansanders.com",
+    "primary_affiliation": "companies/troutmansanders"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "threads/broker-quotes-2001-12",
+  "type": "meeting",
+  "title": "Thread: Broker Quotes",
+  "compiled_truth": "Email thread: \"Broker Quotes\". Ran from 2001-12-19 to 2002-01-16 with 13 messages. Participants: [C  Gossett](people/c-gossett), [D  Winfree](people/d-winfree), [Dutch Quigley](people/dutch-quigley), [John Arnold](people/john-arnold), [Kam Keiser](people/kam-keiser), [M  Love](people/m-love), [Mark Allan Smith](people/mark-allan-smith-us), [Mike Grigsby](people/mike-grigsby).",
+  "timeline": "- **2001-12-19** | Thread begins: broker quotes\n- **2002-01-16** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/broker-quotes-2001-12",
+    "attendees": [
+      "people/c-gossett",
+      "people/d-winfree",
+      "people/dutch-quigley",
+      "people/john-arnold",
+      "people/kam-keiser",
+      "people/m-love",
+      "people/mark-allan-smith-us",
+      "people/mike-grigsby",
+      "people/randy-bhatia",
+      "people/scott-palmer",
+      "people/sladana-anna-kulic",
+      "people/williams"
+    ],
+    "date": "2001-12-19"
+  }
+}

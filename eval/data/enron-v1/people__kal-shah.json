@@ -1,0 +1,14 @@
+{
+  "slug": "people/kal-shah",
+  "type": "person",
+  "title": "Kal Shah",
+  "compiled_truth": "Kal Shah is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-13), Kal Shah sent 58 and received 489 emails, totalling 547 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (21), [Andy Zipper](people/andy-zipper) (10), [Tana Jones](people/tana-jones) (9), [Mark Taylor](people/mark-taylor) (9), [Michelle Lokay](people/michelle-lokay) (4). Mailbox folders observed: _americas, archive, bill_williams_iii, deleted_items, inbox, tw_commercial_group.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kal-shah",
+    "name": "Kal Shah",
+    "email": "kal.shah@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

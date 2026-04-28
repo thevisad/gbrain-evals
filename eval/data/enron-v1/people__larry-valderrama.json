@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-valderrama",
+  "type": "person",
+  "title": "Larry Valderrama",
+  "compiled_truth": "Larry Valderrama is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-28), Larry Valderrama sent 1 and received 358 emails, totalling 359 interactions. Top correspondents: [F  Campbell](people/f-campbell) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-valderrama",
+    "name": "Larry Valderrama",
+    "email": "larry.valderrama@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

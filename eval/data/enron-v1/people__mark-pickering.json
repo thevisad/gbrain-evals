@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-pickering",
+  "type": "person",
+  "title": "Mark Pickering",
+  "compiled_truth": "Mark Pickering is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2002-01-24), Mark Pickering sent 60 and received 472 emails, totalling 532 interactions. Top correspondents: [Sally Beck](people/sally-beck) (30), [Greg Piper](people/greg-piper) (22), [Louise Kitchen](people/louise-kitchen) (15), [Marla Barnard](people/marla-barnard) (7), [J  Kean](people/j-kean) (7). Mailbox folders observed: _americas, deleted_items, inbox, internet_sites, junk_mail.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-pickering",
+    "name": "Mark Pickering",
+    "email": "mark.pickering@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

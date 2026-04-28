@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-harris",
+  "type": "person",
+  "title": "Matt Harris",
+  "compiled_truth": "Matt Harris is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-17 to 2001-08-23), Matt Harris sent 6 and received 25 emails, totalling 31 interactions. Top correspondents: [Jennifer Medcalf](people/jennifer-medcalf) (4), [Dale Clark](people/dale-clark) (3), [Patrick Tucker](people/patrick-tucker) (3), [Dorothy Woster](people/dorothy-woster) (2), [Sarah-Joy Hunter](people/sarah-joy-hunter) (1).",
+  "timeline": "- **2000-02-17** | First recorded email in corpus\n- **2001-08-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-harris",
+    "name": "Matt Harris",
+    "email": "matt.harris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

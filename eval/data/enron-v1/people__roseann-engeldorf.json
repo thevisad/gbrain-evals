@@ -1,0 +1,14 @@
+{
+  "slug": "people/roseann-engeldorf",
+  "type": "person",
+  "title": "Roseann Engeldorf",
+  "compiled_truth": "Roseann Engeldorf is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-31), Roseann Engeldorf sent 50 and received 772 emails, totalling 822 interactions. Top correspondents: [Kay Mann](people/kay-mann) (48), [Lisa Bills](people/lisa-bills) (20), [Sheila Tweed](people/sheila-tweed) (17), [Taylr](people/taylr-andrews-kurth) (11), [Michael Barnas](people/michael-barnas-ps) (5). Mailbox folders observed: general_research, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roseann-engeldorf",
+    "name": "Roseann Engeldorf",
+    "email": "roseann.engeldorf@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

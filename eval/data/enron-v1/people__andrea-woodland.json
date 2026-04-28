@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrea-woodland",
+  "type": "person",
+  "title": "Andrea Woodland",
+  "compiled_truth": "Andrea Woodland is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-11 to 2002-05-07), Andrea Woodland sent 12 and received 59 emails, totalling 71 interactions. Top correspondents: [Sean Crandall](people/sean-crandall) (8), [ Hall](people/hall) (8), [Diane Cutsforth](people/diane-cutsforth) (3), [Mike Swerzbin](people/mike-swerzbin) (3), [H  Foster](people/h-foster) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-03-11** | First recorded email in corpus\n- **2002-05-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrea-woodland",
+    "name": "Andrea Woodland",
+    "email": "andrea.woodland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

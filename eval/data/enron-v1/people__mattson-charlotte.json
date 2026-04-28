@@ -1,0 +1,14 @@
+{
+  "slug": "people/mattson-charlotte",
+  "type": "person",
+  "title": "Mattson Charlotte",
+  "compiled_truth": "Mattson Charlotte is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-08-21), Mattson Charlotte sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mattson-charlotte",
+    "name": "Mattson Charlotte",
+    "email": "mattson.charlotte@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tim-muller-williams",
+  "type": "person",
+  "title": "Tim Muller",
+  "compiled_truth": "Tim Muller is an external contact at [Williams Companies](companies/williams). Over the corpus period (2001-01-30 to 2001-11-21), Tim Muller sent 1 and received 26 emails, totalling 27 interactions. Top correspondents: [El00-95](people/el00-95-listserv) (1).",
+  "timeline": "- **2001-01-30** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tim-muller-williams",
+    "name": "Tim Muller",
+    "email": "tim.muller@williams.com",
+    "primary_affiliation": "companies/williams"
+  }
+}

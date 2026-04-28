@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-garberding",
+  "type": "person",
+  "title": "Michael Garberding",
+  "compiled_truth": "Michael Garberding is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-11-27), Michael Garberding sent 24 and received 58 emails, totalling 82 interactions. Top correspondents: [John Griffith](people/john-griffith) (12), [Lisa Bills](people/lisa-bills) (7), [Eric Moon](people/eric-moon) (7), [Charles Weldon](people/charles-weldon) (7), [Morris Clark](people/morris-clark) (4). Mailbox folders observed: citibank, deleted_items, inbox.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-garberding",
+    "name": "Michael Garberding",
+    "email": "michael.garberding@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

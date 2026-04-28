@@ -1,0 +1,14 @@
+{
+  "slug": "people/ross-prevatt",
+  "type": "person",
+  "title": "Ross Prevatt",
+  "compiled_truth": "Ross Prevatt is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-05-23), Ross Prevatt sent 1 and received 57 emails, totalling 58 interactions. Top correspondents: [Nelson Ferries](people/nelson-ferries) (1), [Tom Donohoe](people/tom-donohoe) (1).",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ross-prevatt",
+    "name": "Ross Prevatt",
+    "email": "ross.prevatt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

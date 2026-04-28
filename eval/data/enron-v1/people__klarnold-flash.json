@@ -1,0 +1,14 @@
+{
+  "slug": "people/klarnold-flash",
+  "type": "person",
+  "title": "Klarnold",
+  "compiled_truth": "Klarnold is an external contact at [Flash](companies/flash). Over the corpus period (2000-08-31 to 2001-12-31), Klarnold sent 9 and received 18 emails, totalling 27 interactions. Top correspondents: [John Arnold](people/john-arnold) (9), [Matthew Arnold](people/matthew-arnold) (4).",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/klarnold-flash",
+    "name": "Klarnold",
+    "email": "klarnold@flash.net",
+    "primary_affiliation": "companies/flash"
+  }
+}

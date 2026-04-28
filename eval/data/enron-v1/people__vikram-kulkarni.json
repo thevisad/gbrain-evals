@@ -1,0 +1,14 @@
+{
+  "slug": "people/vikram-kulkarni",
+  "type": "person",
+  "title": "Vikram Kulkarni",
+  "compiled_truth": "Vikram Kulkarni is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-09-24), Vikram Kulkarni sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vikram-kulkarni",
+    "name": "Vikram Kulkarni",
+    "email": "vikram.kulkarni@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

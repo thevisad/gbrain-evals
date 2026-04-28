@@ -1,0 +1,14 @@
+{
+  "slug": "people/tpape-satake-usa",
+  "type": "person",
+  "title": "Tpape",
+  "compiled_truth": "Tpape is an external contact at [Satake-usa](companies/satake-usa). Over the corpus period (2000-03-30 to 2001-09-04), Tpape sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tpape-satake-usa",
+    "name": "Tpape",
+    "email": "tpape@satake-usa.com",
+    "primary_affiliation": "companies/satake-usa"
+  }
+}

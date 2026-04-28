@@ -1,0 +1,14 @@
+{
+  "slug": "people/sabrina-minnis",
+  "type": "person",
+  "title": "Sabrina Minnis",
+  "compiled_truth": "Sabrina Minnis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-17 to 2002-06-20), Sabrina Minnis sent 2 and received 17 emails, totalling 19 interactions. Top correspondents: [Lisa Gang](people/lisa-gang) (2), [Virginia Thompson](people/virginia-thompson) (1), [Mo Elafandi](people/mo-elafandi) (1), [Jennifer Thome](people/jennifer-thome) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-10-17** | First recorded email in corpus\n- **2002-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sabrina-minnis",
+    "name": "Sabrina Minnis",
+    "email": "sabrina.minnis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

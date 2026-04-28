@@ -1,0 +1,14 @@
+{
+  "slug": "people/jwatz-mit",
+  "type": "person",
+  "title": "Jwatz",
+  "compiled_truth": "Jwatz is an external contact at [Mit](companies/mit). Over the corpus period (2001-10-18 to 2001-10-18), Jwatz sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jwatz-mit",
+    "name": "Jwatz",
+    "email": "jwatz@mit.edu",
+    "primary_affiliation": "companies/mit"
+  }
+}

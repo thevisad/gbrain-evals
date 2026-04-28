@@ -1,0 +1,14 @@
+{
+  "slug": "people/schurmgr-er",
+  "type": "person",
+  "title": "Schurmgr",
+  "compiled_truth": "Schurmgr is an external contact at [Er](companies/er). Over the corpus period (2001-05-02 to 2001-10-19), Schurmgr sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/schurmgr-er",
+    "name": "Schurmgr",
+    "email": "schurmgr@er.oge.com",
+    "primary_affiliation": "companies/er"
+  }
+}

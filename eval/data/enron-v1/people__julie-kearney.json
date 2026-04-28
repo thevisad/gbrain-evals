@@ -1,0 +1,14 @@
+{
+  "slug": "people/julie-kearney",
+  "type": "person",
+  "title": "Julie Kearney",
+  "compiled_truth": "Julie Kearney is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-01 to 2002-05-31), Julie Kearney sent 85 and received 74 emails, totalling 159 interactions. Top correspondents: [Grace Rodriguez](people/grace-rodriguez) (35), [Bill Williams](people/bill-williams) (27), [M  Driscoll](people/m-driscoll) (26), [Gordon Savage](people/gordon-savage) (25), [Center Dl-Portland](people/center-dl-portland) (24). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-01** | First recorded email in corpus\n- **2002-05-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julie-kearney",
+    "name": "Julie Kearney",
+    "email": "julie.kearney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

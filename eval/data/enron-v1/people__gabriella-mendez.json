@@ -1,0 +1,14 @@
+{
+  "slug": "people/gabriella-mendez",
+  "type": "person",
+  "title": "Gabriella Mendez",
+  "compiled_truth": "Gabriella Mendez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-12 to 2001-11-12), Gabriella Mendez sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-12** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gabriella-mendez",
+    "name": "Gabriella Mendez",
+    "email": "gabriella.mendez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

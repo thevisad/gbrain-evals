@@ -1,0 +1,14 @@
+{
+  "slug": "people/doug-linebarger-i2",
+  "type": "person",
+  "title": "Doug Linebarger",
+  "compiled_truth": "Doug Linebarger is an external contact at [I2](companies/i2). Over the corpus period (2000-11-22 to 2000-12-06), Doug Linebarger sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-22** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/doug-linebarger-i2",
+    "name": "Doug Linebarger",
+    "email": "doug_linebarger@i2.com",
+    "primary_affiliation": "companies/i2"
+  }
+}

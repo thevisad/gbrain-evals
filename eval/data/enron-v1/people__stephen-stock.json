@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-stock",
+  "type": "person",
+  "title": "Stephen Stock",
+  "compiled_truth": "Stephen Stock is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-13), Stephen Stock sent 20 and received 231 emails, totalling 251 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (10), [Sally Beck](people/sally-beck) (7), [Richard Burchfield](people/richard-burchfield) (2), [Jeff Johnson](people/jeff-johnson) (2), [Ramesh Rao](people/ramesh-rao) (2). Mailbox folders observed: _americas, calendar, inbox.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-stock",
+    "name": "Stephen Stock",
+    "email": "stephen.stock@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

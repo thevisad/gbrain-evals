@@ -1,0 +1,14 @@
+{
+  "slug": "people/liz-taylor",
+  "type": "person",
+  "title": "Liz Taylor",
+  "compiled_truth": "Liz Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-07), Liz Taylor sent 402 and received 624 emails, totalling 1026 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (63), [Mike McConnell](people/mike-mcconnell) (57), [Jeffrey Mcmahon](people/jeffrey-mcmahon) (57), [Cathy Phillips](people/cathy-phillips) (55), [Louise Kitchen](people/louise-kitchen) (51). Mailbox folders observed: _americas, _sent_mail, calendar, contacts, deleted_items, discussion_threads.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/liz-taylor",
+    "name": "Liz Taylor",
+    "email": "liz.taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

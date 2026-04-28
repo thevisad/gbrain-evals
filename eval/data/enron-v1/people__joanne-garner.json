@@ -1,0 +1,14 @@
+{
+  "slug": "people/joanne-garner",
+  "type": "person",
+  "title": "Joanne Garner",
+  "compiled_truth": "Joanne Garner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2002-03-29), Joanne Garner sent 3 and received 26 emails, totalling 29 interactions. Top correspondents: [E  Haedicke](people/e-haedicke) (1), [Elizabeth Sager](people/elizabeth-sager) (1), [John Lavorato](people/john-lavorato) (1), [Louise Kitchen](people/louise-kitchen) (1), [ Taylor](people/taylor) (1). Mailbox folders observed: _americas, deleted_items.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joanne-garner",
+    "name": "Joanne Garner",
+    "email": "joanne.garner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

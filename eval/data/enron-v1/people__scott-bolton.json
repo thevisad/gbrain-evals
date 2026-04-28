@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-bolton",
+  "type": "person",
+  "title": "Scott Bolton",
+  "compiled_truth": "Scott Bolton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-22 to 2001-12-03), Scott Bolton sent 80 and received 533 emails, totalling 613 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (72), [Sue Nord](people/sue-nord) (60), [Marchris Robinson](people/marchris-robinson) (53), [Susan Landwehr](people/susan-landwehr) (52), [Lisa Yoho](people/lisa-yoho) (32). Mailbox folders observed: 2001_objectives, deleted_items, inbox, personal.",
+  "timeline": "- **1999-10-22** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-bolton",
+    "name": "Scott Bolton",
+    "email": "scott.bolton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

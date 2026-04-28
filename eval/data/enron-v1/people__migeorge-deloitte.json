@@ -1,0 +1,14 @@
+{
+  "slug": "people/migeorge-deloitte",
+  "type": "person",
+  "title": "Migeorge",
+  "compiled_truth": "Migeorge is an external contact at [Deloitte](companies/deloitte). Over the corpus period (2000-10-30 to 2002-01-11), Migeorge sent 1 and received 40 emails, totalling 41 interactions. Top correspondents: ['Arny'](people/arny) (1), [Cheryl' 'Auntie](people/cheryl-auntie) (1), [Chris Dorland](people/chris-dorland) (1), ['Coni'](people/coni) (1), ['Corinne'](people/corinne) (1).",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/migeorge-deloitte",
+    "name": "Migeorge",
+    "email": "migeorge@deloitte.ca",
+    "primary_affiliation": "companies/deloitte"
+  }
+}

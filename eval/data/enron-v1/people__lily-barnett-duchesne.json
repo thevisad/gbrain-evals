@@ -1,0 +1,14 @@
+{
+  "slug": "people/lily-barnett-duchesne",
+  "type": "person",
+  "title": "Lily Barnett",
+  "compiled_truth": "Lily Barnett is an external contact at [Duchesne](companies/duchesne). Over the corpus period (2001-10-25 to 2001-11-27), Lily Barnett sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-10-25** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lily-barnett-duchesne",
+    "name": "Lily Barnett",
+    "email": "lily.barnett@duchesne.org",
+    "primary_affiliation": "companies/duchesne"
+  }
+}

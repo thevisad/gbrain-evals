@@ -1,0 +1,14 @@
+{
+  "slug": "people/lajunebush-aol",
+  "type": "person",
+  "title": "Lajunebush",
+  "compiled_truth": "Lajunebush is an external contact at [AOL](companies/aol). Over the corpus period (2001-04-12 to 2001-05-23), Lajunebush sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-04-12** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lajunebush-aol",
+    "name": "Lajunebush",
+    "email": "lajunebush@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

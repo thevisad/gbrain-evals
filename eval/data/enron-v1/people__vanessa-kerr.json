@@ -1,0 +1,14 @@
+{
+  "slug": "people/vanessa-kerr",
+  "type": "person",
+  "title": "Vanessa Kerr",
+  "compiled_truth": "Vanessa Kerr is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-23 to 2001-12-03), Vanessa Kerr sent 2 and received 7 emails, totalling 9 interactions. Top correspondents: [Meliza Evanson](people/meliza-evanson) (2), [Toni Graham](people/toni-graham) (2), [C  Bland](people/c-bland) (2), [Johnny Palmer](people/johnny-palmer) (2), [Molly Magee](people/molly-magee) (2). Mailbox folders observed: calendar.",
+  "timeline": "- **2001-02-23** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vanessa-kerr",
+    "name": "Vanessa Kerr",
+    "email": "vanessa.kerr@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

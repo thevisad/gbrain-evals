@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-bailey",
+  "type": "person",
+  "title": "Mike Bailey",
+  "compiled_truth": "Mike Bailey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-12-11), Mike Bailey sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-bailey",
+    "name": "Mike Bailey",
+    "email": "mike.bailey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

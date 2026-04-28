@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-bilberry",
+  "type": "person",
+  "title": "Michael Bilberry",
+  "compiled_truth": "Michael Bilberry is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-22), Michael Bilberry sent 4 and received 54 emails, totalling 58 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (4), [Eric Gillaspie](people/eric-gillaspie) (1), [William E Nicus](people/william-e-nicus-exxon) (1), [Joanne Wagstaff](people/joanne-wagstaff) (1), [James Haden](people/james-haden) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-bilberry",
+    "name": "Michael Bilberry",
+    "email": "michael.bilberry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

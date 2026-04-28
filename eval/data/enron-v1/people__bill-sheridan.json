@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-sheridan",
+  "type": "person",
+  "title": "Bill Sheridan",
+  "compiled_truth": "Bill Sheridan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2001-03-22), Bill Sheridan sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2001-03-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-sheridan",
+    "name": "Bill Sheridan",
+    "email": "bill.sheridan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

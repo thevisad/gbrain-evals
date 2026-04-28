@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-gallup-sta5",
+  "type": "person",
+  "title": "Team Gallup-Sta5",
+  "compiled_truth": "Team Gallup-Sta5 is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-28 to 2002-03-18), Team Gallup-Sta5 sent 2 and received 51 emails, totalling 53 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (1), [Team Gallup-Sta4](people/team-gallup-sta4) (1), [Team Gallup](people/team-gallup) (1), [Jonny Hendricks](people/jonny-hendricks) (1), [Matt Francis](people/matt-francis) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-gallup-sta5",
+    "name": "Team Gallup-Sta5",
+    "email": "team.gallup-sta5@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

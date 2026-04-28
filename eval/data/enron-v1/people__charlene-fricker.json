@@ -1,0 +1,14 @@
+{
+  "slug": "people/charlene-fricker",
+  "type": "person",
+  "title": "Charlene Fricker",
+  "compiled_truth": "Charlene Fricker is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-21 to 2001-11-13), Charlene Fricker sent 1 and received 10 emails, totalling 11 interactions. Top correspondents: [Y  Yu](people/y-yu) (1), [Tantra Invedy](people/tantra-invedy) (1). Mailbox folders observed: chris_stokley.",
+  "timeline": "- **2001-04-21** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charlene-fricker",
+    "name": "Charlene Fricker",
+    "email": "charlene.fricker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

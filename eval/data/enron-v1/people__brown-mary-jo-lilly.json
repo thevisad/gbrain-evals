@@ -1,0 +1,14 @@
+{
+  "slug": "people/brown-mary-jo-lilly",
+  "type": "person",
+  "title": "Brown Mary Jo",
+  "compiled_truth": "Brown Mary Jo is an external contact at [Lilly](companies/lilly). Over the corpus period (2000-09-06 to 2001-11-29), Brown Mary Jo sent 32 and received 1 emails, totalling 33 interactions. Top correspondents: [Alfred Gilman](people/alfred-gilman-email) (19), [Jterzuoli](people/jterzuoli-ibjwhitehall) (19), [Kseifert](people/kseifert-kcc) (19), [Prendergast](people/prendergast-mayo) (19), [Scb](people/scb-purdue) (18).",
+  "timeline": "- **2000-09-06** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brown-mary-jo-lilly",
+    "name": "Brown Mary Jo",
+    "email": "brown_mary_jo@lilly.com",
+    "primary_affiliation": "companies/lilly"
+  }
+}

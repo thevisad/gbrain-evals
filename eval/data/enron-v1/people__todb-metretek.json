@@ -1,0 +1,14 @@
+{
+  "slug": "people/todb-metretek",
+  "type": "person",
+  "title": "Todb",
+  "compiled_truth": "Todb is an external contact at [Metretek](companies/metretek). Over the corpus period (2000-05-25 to 2000-09-25), Todb sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-05-25** | First recorded email in corpus\n- **2000-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/todb-metretek",
+    "name": "Todb",
+    "email": "todb@metretek.com",
+    "primary_affiliation": "companies/metretek"
+  }
+}

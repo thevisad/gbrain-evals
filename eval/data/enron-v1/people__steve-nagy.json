@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-nagy",
+  "type": "person",
+  "title": "Steve Nagy",
+  "compiled_truth": "Steve Nagy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-05 to 2000-08-26), Steve Nagy sent 2 and received 25 emails, totalling 27 interactions. Top correspondents: [Joe Kishkill](people/joe-kishkill) (2), [Mike McConnell](people/mike-mcconnell) (2), [Julie Ramos](people/julie-ramos) (2), [D'Arcy Carroll](people/d-arcy-carroll) (2), [Sueli Soave](people/sueli-soave) (1).",
+  "timeline": "- **2000-05-05** | First recorded email in corpus\n- **2000-08-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-nagy",
+    "name": "Steve Nagy",
+    "email": "steve.nagy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

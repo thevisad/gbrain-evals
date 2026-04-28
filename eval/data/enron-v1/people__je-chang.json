@@ -1,0 +1,14 @@
+{
+  "slug": "people/je-chang",
+  "type": "person",
+  "title": "Je Chang",
+  "compiled_truth": "Je Chang is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-12), Je Chang sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/je-chang",
+    "name": "Je Chang",
+    "email": "je.chang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-tudon",
+  "type": "person",
+  "title": "Mary Tudon",
+  "compiled_truth": "Mary Tudon is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-02 to 2000-10-27), Mary Tudon sent 4 and received 30 emails, totalling 34 interactions. Top correspondents: [Tana Jones](people/tana-jones) (3), [Tom Moran](people/tom-moran) (3), [Russell Diamond](people/russell-diamond) (2), [Brant Reves](people/brant-reves) (2), [John Suttle](people/john-suttle) (2).",
+  "timeline": "- **1999-08-02** | First recorded email in corpus\n- **2000-10-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-tudon",
+    "name": "Mary Tudon",
+    "email": "mary.tudon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

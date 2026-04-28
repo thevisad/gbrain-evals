@@ -1,0 +1,14 @@
+{
+  "slug": "people/benito-resendez",
+  "type": "person",
+  "title": "Benito Resendez",
+  "compiled_truth": "Benito Resendez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-02 to 2002-05-06), Benito Resendez sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-01-02** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/benito-resendez",
+    "name": "Benito Resendez",
+    "email": "benito.resendez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

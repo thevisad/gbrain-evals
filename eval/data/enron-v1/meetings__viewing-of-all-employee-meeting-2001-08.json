@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/viewing-of-all-employee-meeting-2001-08",
+  "type": "meeting",
+  "title": "Meeting: Viewing Of All Employee Meeting",
+  "compiled_truth": "Meeting: \"Viewing Of All Employee Meeting\". Occurred 2001-08-16 with 1 related emails. Participants included: [Backbone Ens](people/backbone-ens), [Bruce Smith](people/bruce-smith), [Calgary It](people/calgary-it), [Center Dl-Portland](people/center-dl-portland), [Chris Behney](people/chris-behney), [Dan Dietrich](people/dan-dietrich), [Dl-Ga-Canada Calgary](people/dl-ga-canada-calgary), [Dl-Ga-Canada Enrondirect Calgary](people/dl-ga-canada-enrondirect-calgary)....",
+  "timeline": "- **2001-08-16** | Meeting: viewing of all employee meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/viewing-of-all-employee-meeting-2001-08",
+    "attendees": [
+      "people/backbone-ens",
+      "people/bruce-smith",
+      "people/calgary-it",
+      "people/center-dl-portland",
+      "people/chris-behney",
+      "people/dan-dietrich",
+      "people/dl-ga-canada-calgary",
+      "people/dl-ga-canada-enrondirect-calgary",
+      "people/edward-ray",
+      "people/it-dl-portland"
+    ],
+    "date": "2001-08-16"
+  }
+}

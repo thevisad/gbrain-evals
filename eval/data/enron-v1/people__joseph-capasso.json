@@ -1,0 +1,14 @@
+{
+  "slug": "people/joseph-capasso",
+  "type": "person",
+  "title": "Joseph Capasso",
+  "compiled_truth": "Joseph Capasso is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-01 to 2001-10-12), Joseph Capasso sent 4 and received 6 emails, totalling 10 interactions. Top correspondents: [Don Baughman](people/don-baughman) (4). Mailbox folders observed: enron_power, power.",
+  "timeline": "- **2000-03-01** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joseph-capasso",
+    "name": "Joseph Capasso",
+    "email": "joseph.capasso@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

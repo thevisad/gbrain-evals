@@ -1,0 +1,14 @@
+{
+  "slug": "people/shirley-crenshaw",
+  "type": "person",
+  "title": "Shirley Crenshaw",
+  "compiled_truth": "Shirley Crenshaw is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2002-01-30), Shirley Crenshaw sent 396 and received 1752 emails, totalling 2148 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (285), [Stinson Gibner](people/stinson-gibner) (96), [Pinnamaneni Krishnarao](people/pinnamaneni-krishnarao) (80), [Vasant Shanbhogue](people/vasant-shanbhogue) (76), [Zimin Lu](people/zimin-lu) (74). Mailbox folders observed: accounting, c, calendar, conferences, consultants, deleted_items.",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shirley-crenshaw",
+    "name": "Shirley Crenshaw",
+    "email": "shirley.crenshaw@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

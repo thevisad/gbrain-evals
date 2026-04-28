@@ -1,0 +1,14 @@
+{
+  "slug": "people/martin-bucknell",
+  "type": "person",
+  "title": "Martin Bucknell",
+  "compiled_truth": "Martin Bucknell is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-29 to 2002-05-06), Martin Bucknell sent 3 and received 36 emails, totalling 39 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (3), [Bill Donovan](people/bill-donovan) (3), [Wes Colwell](people/wes-colwell) (2), [Jenny Rub](people/jenny-rub) (2), [Paul Cline](people/paul-cline) (2). Mailbox folders observed: _americas, deleted_items.",
+  "timeline": "- **2001-03-29** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martin-bucknell",
+    "name": "Martin Bucknell",
+    "email": "martin.bucknell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

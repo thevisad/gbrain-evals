@@ -1,0 +1,14 @@
+{
+  "slug": "people/darlene-forsyth",
+  "type": "person",
+  "title": "Darlene Forsyth",
+  "compiled_truth": "Darlene Forsyth is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-07), Darlene Forsyth sent 19 and received 77 emails, totalling 96 interactions. Top correspondents: [Rob Walls](people/rob-walls) (4), [Kristina Mordaunt](people/kristina-mordaunt) (4), [Vicki Sharp](people/vicki-sharp) (4), [Jordan Mintz](people/jordan-mintz) (4), [Ben Glisan](people/ben-glisan) (3).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darlene-forsyth",
+    "name": "Darlene Forsyth",
+    "email": "darlene.forsyth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

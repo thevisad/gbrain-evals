@@ -1,0 +1,14 @@
+{
+  "slug": "people/fiona-skinner",
+  "type": "person",
+  "title": "Fiona Skinner",
+  "compiled_truth": "Fiona Skinner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-30 to 2001-11-13), Fiona Skinner sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fiona-skinner",
+    "name": "Fiona Skinner",
+    "email": "fiona.skinner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/vicki-sharp",
+  "type": "person",
+  "title": "Vicki Sharp",
+  "compiled_truth": "Vicki Sharp is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Vicki Sharp sent 73 and received 1433 emails, totalling 1506 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (32), [Mike Smith](people/mike-smith) (16), [Harry Kingerski](people/harry-kingerski) (12), [Dan Leff](people/dan-leff) (10), [Richard Shapiro](people/richard-shapiro) (9). Mailbox folders observed: california_issues, clinton_energy, deleted_items, inbox, personal, security___collateral.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vicki-sharp",
+    "name": "Vicki Sharp",
+    "email": "vicki.sharp@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

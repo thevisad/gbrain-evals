@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-scott",
+  "type": "person",
+  "title": "Mark Scott",
+  "compiled_truth": "Mark Scott is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-01 to 2000-11-14), Mark Scott sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-08-01** | First recorded email in corpus\n- **2000-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-scott",
+    "name": "Mark Scott",
+    "email": "mark.scott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-draper",
+  "type": "person",
+  "title": "David Draper",
+  "compiled_truth": "David Draper is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-20), David Draper sent 4 and received 66 emails, totalling 70 interactions. Top correspondents: [Scott Mills](people/scott-mills) (3), [Ed Mcmichael](people/ed-mcmichael) (3), [Joe Parks](people/joe-parks) (3), [Louis Dicarlo](people/louis-dicarlo) (3), [P  Hewitt](people/p-hewitt) (3). Mailbox folders observed: bankrupt, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-draper",
+    "name": "David Draper",
+    "email": "david.draper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

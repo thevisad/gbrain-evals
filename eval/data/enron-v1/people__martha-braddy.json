@@ -1,0 +1,14 @@
+{
+  "slug": "people/martha-braddy",
+  "type": "person",
+  "title": "Martha Braddy",
+  "compiled_truth": "Martha Braddy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-02 to 2002-06-21), Martha Braddy sent 1 and received 171 emails, totalling 172 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (1).",
+  "timeline": "- **2000-05-02** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martha-braddy",
+    "name": "Martha Braddy",
+    "email": "martha.braddy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

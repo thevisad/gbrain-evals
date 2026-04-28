@@ -1,0 +1,14 @@
+{
+  "slug": "people/nytdirect-nytimes",
+  "type": "person",
+  "title": "Nytdirect",
+  "compiled_truth": "Nytdirect is an external contact at [Nytimes](companies/nytimes). Over the corpus period (2000-12-13 to 2002-04-10), Nytdirect sent 243 and received 0 emails, totalling 243 interactions. Top correspondents: [Khyatt](people/khyatt) (48), [Skean](people/skean) (31), [Bmckay](people/bmckay) (29), [Don Baughman](people/don-baughman) (22), [Chuck Randall](people/chuck-randall) (20).",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2002-04-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nytdirect-nytimes",
+    "name": "Nytdirect",
+    "email": "nytdirect@nytimes.com",
+    "primary_affiliation": "companies/nytimes"
+  }
+}

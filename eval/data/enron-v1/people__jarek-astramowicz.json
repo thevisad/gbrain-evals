@@ -1,0 +1,14 @@
+{
+  "slug": "people/jarek-astramowicz",
+  "type": "person",
+  "title": "Jarek Astramowicz",
+  "compiled_truth": "Jarek Astramowicz is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-12-14), Jarek Astramowicz sent 10 and received 45 emails, totalling 55 interactions. Top correspondents: [Anne Edgley](people/anne-edgley) (7), [Ed Cattigan](people/ed-cattigan) (7), [James Derrick](people/james-derrick) (7), [Adam Overfield](people/adam-overfield) (6), [Krzysztof Forycki](people/krzysztof-forycki) (6). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jarek-astramowicz",
+    "name": "Jarek Astramowicz",
+    "email": "jarek.astramowicz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

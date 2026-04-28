@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/fuel-meeting-2002-02",
+  "type": "meeting",
+  "title": "Meeting: Fuel Meeting",
+  "compiled_truth": "Meeting: \"Fuel Meeting\". Occurred 2002-02-07 through 2002-02-11 with 6 related emails. Participants included: [Dan Fancler](people/dan-fancler), [Jan Moore](people/jan-moore), [John Cobb](people/john-cobb), [Lindy Donoho](people/lindy-donoho), [Paul Y'Barbo](people/paul-y-barbo), [Richard Hanagriff](people/richard-hanagriff), [Robert Kilmer](people/robert-kilmer), [Teb Lokey](people/teb-lokey)....",
+  "timeline": "- **2002-02-07** | Meeting: fuel meeting\n- **2002-02-11** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/fuel-meeting-2002-02",
+    "attendees": [
+      "people/dan-fancler",
+      "people/jan-moore",
+      "people/john-cobb",
+      "people/lindy-donoho",
+      "people/paul-y-barbo",
+      "people/richard-hanagriff",
+      "people/robert-kilmer",
+      "people/teb-lokey",
+      "people/tk-lohman",
+      "people/tracy-geaccone"
+    ],
+    "date": "2002-02-07"
+  }
+}

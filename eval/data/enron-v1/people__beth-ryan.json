@@ -1,0 +1,14 @@
+{
+  "slug": "people/beth-ryan",
+  "type": "person",
+  "title": "Beth Ryan",
+  "compiled_truth": "Beth Ryan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-04), Beth Ryan sent 2 and received 48 emails, totalling 50 interactions. Top correspondents: [John Allario](people/john-allario) (1), [Patricia Anderson](people/patricia-anderson) (1), [Jeffrey Austin](people/jeffrey-austin) (1), [Harold Bertram](people/harold-bertram) (1), [Michael Bilberry](people/michael-bilberry) (1).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beth-ryan",
+    "name": "Beth Ryan",
+    "email": "beth.ryan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

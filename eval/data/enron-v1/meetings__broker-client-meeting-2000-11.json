@@ -1,0 +1,29 @@
+{
+  "slug": "meetings/broker-client-meeting-2000-11",
+  "type": "meeting",
+  "title": "Meeting: Broker Client Meeting",
+  "compiled_truth": "Meeting: \"Broker Client Meeting\". Occurred 2000-11-30 with 1 related emails. Participants included: [Andy Zipper](people/andy-zipper), [Bob Shults](people/bob-shults), [Debbie Brackett](people/debbie-brackett), [Diana Ovalle](people/diana-ovalle), [Dorothy Youngblood](people/dorothy-youngblood), [Jay Webb](people/jay-webb), [Leslie Reeves](people/leslie-reeves), [Lorraine Becker](people/lorraine-becker)....",
+  "timeline": "- **2000-11-30** | Meeting: broker client meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/broker-client-meeting-2000-11",
+    "attendees": [
+      "people/andy-zipper",
+      "people/bob-shults",
+      "people/debbie-brackett",
+      "people/diana-ovalle",
+      "people/dorothy-youngblood",
+      "people/jay-webb",
+      "people/leslie-reeves",
+      "people/lorraine-becker",
+      "people/lydia-cannon",
+      "people/mark-taylor",
+      "people/mary-weatherstone",
+      "people/michael-bridges",
+      "people/taffy-milligan",
+      "people/teresa-smith",
+      "people/yolanda-ford"
+    ],
+    "date": "2000-11-30"
+  }
+}

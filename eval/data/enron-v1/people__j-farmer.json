@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-farmer",
+  "type": "person",
+  "title": "J  Farmer",
+  "compiled_truth": "J  Farmer is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-10 to 2002-05-13), J  Farmer sent 226 and received 601 emails, totalling 827 interactions. Top correspondents: [Megan Parker](people/megan-parker) (25), [Michael Olsen](people/michael-olsen) (24), [Buylow](people/buylow-houston) (11), [Robert Superty](people/robert-superty) (10), [Juliann Kemp](people/juliann-kemp) (9). Mailbox folders observed: calendar, contacts, deleted_items, inbox, sent_items, term_proposals.",
+  "timeline": "- **2001-04-10** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-farmer",
+    "name": "J  Farmer",
+    "email": "j..farmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

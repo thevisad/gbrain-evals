@@ -1,0 +1,14 @@
+{
+  "slug": "people/johan-zaayman",
+  "type": "person",
+  "title": "Johan Zaayman",
+  "compiled_truth": "Johan Zaayman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-24 to 2002-01-11), Johan Zaayman sent 2 and received 105 emails, totalling 107 interactions. Top correspondents: [Kelly Kimberly](people/kelly-kimberly) (1), [Richard Leibert](people/richard-leibert) (1), [Steven Kean](people/steven-kean) (1).",
+  "timeline": "- **2000-03-24** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/johan-zaayman",
+    "name": "Johan Zaayman",
+    "email": "johan.zaayman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

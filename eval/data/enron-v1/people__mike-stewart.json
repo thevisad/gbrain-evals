@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-stewart",
+  "type": "person",
+  "title": "Mike Stewart",
+  "compiled_truth": "Mike Stewart is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-13 to 2002-02-12), Mike Stewart sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-04-13** | First recorded email in corpus\n- **2002-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-stewart",
+    "name": "Mike Stewart",
+    "email": "mike.stewart@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

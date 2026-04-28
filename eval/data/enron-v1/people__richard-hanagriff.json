@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-hanagriff",
+  "type": "person",
+  "title": "Richard Hanagriff",
+  "compiled_truth": "Richard Hanagriff is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2002-03-25), Richard Hanagriff sent 60 and received 277 emails, totalling 337 interactions. Top correspondents: [Michelle Lokay](people/michelle-lokay) (37), [Rick Dietz](people/rick-dietz) (36), [Darrell Schoolcraft](people/darrell-schoolcraft) (32), [Amy Mulligan](people/amy-mulligan) (27), [Lynn Blair](people/lynn-blair) (27). Mailbox folders observed: corporate, deleted_items, inbox, misc_tw, tw___imbalances___netting_trading, tw_commercial_group.",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-hanagriff",
+    "name": "Richard Hanagriff",
+    "email": "richard.hanagriff@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

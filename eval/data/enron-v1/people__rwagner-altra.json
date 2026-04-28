@@ -1,0 +1,14 @@
+{
+  "slug": "people/rwagner-altra",
+  "type": "person",
+  "title": "Rwagner",
+  "compiled_truth": "Rwagner is an external contact at [Altra](companies/altra). Over the corpus period (2000-09-05 to 2001-04-04), Rwagner sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus\n- **2001-04-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rwagner-altra",
+    "name": "Rwagner",
+    "email": "rwagner@altra.com",
+    "primary_affiliation": "companies/altra"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-flagstaff",
+  "type": "person",
+  "title": "Team Flagstaff",
+  "compiled_truth": "Team Flagstaff is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-07 to 2002-03-25), Team Flagstaff sent 3 and received 50 emails, totalling 53 interactions. Top correspondents: [Jerry Graves](people/jerry-graves) (3), [Darrell Schoolcraft](people/darrell-schoolcraft) (3), [David Roensch](people/david-roensch) (3), [Jeff Whippo](people/jeff-whippo) (2), [Ron Matthews](people/ron-matthews) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-03-07** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-flagstaff",
+    "name": "Team Flagstaff",
+    "email": "team.flagstaff@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

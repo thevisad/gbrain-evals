@@ -1,0 +1,14 @@
+{
+  "slug": "people/program-associate",
+  "type": "person",
+  "title": "Program Associate",
+  "compiled_truth": "Program Associate is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-25 to 2001-10-29), Program Associate sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-25** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/program-associate",
+    "name": "Program Associate",
+    "email": "program.associate@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

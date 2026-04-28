@@ -1,0 +1,14 @@
+{
+  "slug": "people/lleibman",
+  "type": "person",
+  "title": "Lleibman",
+  "compiled_truth": "Lleibman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-04 to 2000-12-07), Lleibman sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2000-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lleibman",
+    "name": "Lleibman",
+    "email": "lleibman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

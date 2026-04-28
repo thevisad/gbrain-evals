@@ -1,0 +1,14 @@
+{
+  "slug": "people/mollie-gustafson",
+  "type": "person",
+  "title": "Mollie Gustafson",
+  "compiled_truth": "Mollie Gustafson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-27), Mollie Gustafson sent 59 and received 233 emails, totalling 292 interactions. Top correspondents: [Portland Desk](people/portland-desk) (23), [Center Dl-Portland](people/center-dl-portland) (21), [Jonalan Page](people/jonalan-page) (10), [Jeff Shields](people/jeff-shields) (10), [Jim Buerkle](people/jim-buerkle) (9). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mollie-gustafson",
+    "name": "Mollie Gustafson",
+    "email": "mollie.gustafson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

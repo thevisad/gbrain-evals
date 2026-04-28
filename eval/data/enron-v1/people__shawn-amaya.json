@@ -1,0 +1,14 @@
+{
+  "slug": "people/shawn-amaya",
+  "type": "person",
+  "title": "Shawn Amaya",
+  "compiled_truth": "Shawn Amaya is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-29 to 2001-10-03), Shawn Amaya sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-06-29** | First recorded email in corpus\n- **2001-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shawn-amaya",
+    "name": "Shawn Amaya",
+    "email": "shawn.amaya@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

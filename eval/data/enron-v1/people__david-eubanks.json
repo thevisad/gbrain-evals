@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-eubanks",
+  "type": "person",
+  "title": "David Eubanks",
+  "compiled_truth": "David Eubanks is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-03 to 2001-06-11), David Eubanks sent 0 and received 103 emails, totalling 103 interactions.",
+  "timeline": "- **2000-04-03** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-eubanks",
+    "name": "David Eubanks",
+    "email": "david.eubanks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

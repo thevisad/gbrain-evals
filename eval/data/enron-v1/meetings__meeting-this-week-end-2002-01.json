@@ -1,0 +1,29 @@
+{
+  "slug": "meetings/meeting-this-week-end-2002-01",
+  "type": "meeting",
+  "title": "Meeting: Meeting This Week-End",
+  "compiled_truth": "Meeting: \"Meeting This Week-End\". Occurred 2002-01-18 through 2002-01-19 with 5 related emails. Participants included: [Dana Davis](people/dana-davis), [David Oxley](people/david-oxley), [Doug Gilbert-Smith](people/doug-gilbert-smith), [F  Calger](people/f-calger), [Greg Whalley](people/greg-whalley), [Harry Arora](people/harry-arora), [J  Sturm](people/j-sturm), [John Lavorato](people/john-lavorato)....",
+  "timeline": "- **2002-01-18** | Meeting: meeting this week-end\n- **2002-01-19** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-this-week-end-2002-01",
+    "attendees": [
+      "people/dana-davis",
+      "people/david-oxley",
+      "people/doug-gilbert-smith",
+      "people/f-calger",
+      "people/greg-whalley",
+      "people/harry-arora",
+      "people/j-sturm",
+      "people/john-lavorato",
+      "people/louise-kitchen",
+      "people/m-presto",
+      "people/rob-milnthorp",
+      "people/robert-benson",
+      "people/s-shively",
+      "people/tammie-schoppe",
+      "people/tim-belden"
+    ],
+    "date": "2002-01-18"
+  }
+}

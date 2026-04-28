@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-jones",
+  "type": "person",
+  "title": "Paul Jones",
+  "compiled_truth": "Paul Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-06 to 2002-02-07), Paul Jones sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [Philippe Penet](people/philippe-penet) (1), [Antony Steiner](people/antony-steiner) (1), [Neven Dujic](people/neven-dujic) (1), [Tana Jones](people/tana-jones) (1).",
+  "timeline": "- **2000-09-06** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-jones",
+    "name": "Paul Jones",
+    "email": "paul.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

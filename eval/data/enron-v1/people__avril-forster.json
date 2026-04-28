@@ -1,0 +1,14 @@
+{
+  "slug": "people/avril-forster",
+  "type": "person",
+  "title": "Avril Forster",
+  "compiled_truth": "Avril Forster is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-03 to 2001-11-27), Avril Forster sent 29 and received 72 emails, totalling 101 interactions. Top correspondents: [Monika Causholli](people/monika-causholli) (22), [Greg Bruch](people/greg-bruch) (18), [James Bryja](people/james-bryja) (18), [R  Conner](people/r-conner) (18), [Dirk Dimitry](people/dirk-dimitry) (18). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **2000-04-03** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/avril-forster",
+    "name": "Avril Forster",
+    "email": "avril.forster@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

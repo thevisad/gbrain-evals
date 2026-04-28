@@ -1,0 +1,14 @@
+{
+  "slug": "people/ragayle-pellum",
+  "type": "person",
+  "title": "Ragayle Pellum",
+  "compiled_truth": "Ragayle Pellum is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2000-04-14), Ragayle Pellum sent 3 and received 44 emails, totalling 47 interactions. Top correspondents: [Tom Acton](people/tom-acton) (3), [Pat Clynes](people/pat-clynes) (3), [Daren Farmer](people/daren-farmer) (3), [Carlos Rodriguez](people/carlos-rodriguez) (3), [Brenda Herod](people/brenda-herod) (2).",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2000-04-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ragayle-pellum",
+    "name": "Ragayle Pellum",
+    "email": "ragayle.pellum@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

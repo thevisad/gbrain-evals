@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-j-kean",
+  "type": "person",
+  "title": "Steven J Kean",
+  "compiled_truth": "Steven J Kean is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-14 to 2001-07-27), Steven J Kean sent 0 and received 195 emails, totalling 195 interactions.",
+  "timeline": "- **2000-03-14** | First recorded email in corpus\n- **2001-07-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-j-kean",
+    "name": "Steven J Kean",
+    "email": "steven.j.kean@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

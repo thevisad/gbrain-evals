@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheryl-perchal",
+  "type": "person",
+  "title": "Cheryl Perchal",
+  "compiled_truth": "Cheryl Perchal is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-14 to 2002-01-16), Cheryl Perchal sent 10 and received 58 emails, totalling 68 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (8), [Jerry Peters](people/jerry-peters) (7), [Lee Ferrell](people/lee-ferrell) (4), [Vincent Strohmeyer](people/vincent-strohmeyer) (4), [Dan Fancler](people/dan-fancler) (4). Mailbox folders observed: deleted_items, inbox, projects.",
+  "timeline": "- **2000-03-14** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheryl-perchal",
+    "name": "Cheryl Perchal",
+    "email": "cheryl.perchal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/shelley-corman",
+  "type": "person",
+  "title": "Shelley Corman",
+  "compiled_truth": "Shelley Corman is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-26), Shelley Corman sent 736 and received 2206 emails, totalling 2942 interactions. Top correspondents: [Ricki Winters](people/ricki-winters) (84), [Rick Dietz](people/rick-dietz) (67), [Lynn Blair](people/lynn-blair) (66), [Sheila Nacey](people/sheila-nacey) (52), [Bradley Holmes](people/bradley-holmes) (48). Mailbox folders observed: _americas, affiliate_rules, calendar, deleted_items, dra_info, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shelley-corman",
+    "name": "Shelley Corman",
+    "email": "shelley.corman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

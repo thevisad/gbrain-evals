@@ -1,0 +1,14 @@
+{
+  "slug": "people/andy-pace",
+  "type": "person",
+  "title": "Andy Pace",
+  "compiled_truth": "Andy Pace is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-29 to 2002-02-28), Andy Pace sent 8 and received 230 emails, totalling 238 interactions. Top correspondents: [Bryce Schneider](people/bryce-schneider) (8), [F  Campbell](people/f-campbell) (8), [Carter Ellis](people/carter-ellis) (8), [Richard Broussard](people/richard-broussard) (7), [Joe Stepenovitch](people/joe-stepenovitch) (7). Mailbox folders observed: deleted_items, inbox, personal.",
+  "timeline": "- **2000-09-29** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andy-pace",
+    "name": "Andy Pace",
+    "email": "andy.pace@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jana-giovannini",
+  "type": "person",
+  "title": "Jana Giovannini",
+  "compiled_truth": "Jana Giovannini is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-08), Jana Giovannini sent 10 and received 105 emails, totalling 115 interactions. Top correspondents: [Shelly Butler](people/shelly-butler) (4), [Amy Fitzpatrick](people/amy-fitzpatrick) (3), [Vince Kaminski](people/vince-kaminski) (3), [John Lavorato](people/john-lavorato) (3), [Jeffrey Shankman](people/jeffrey-shankman) (3). Mailbox folders observed: associate, inbox.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jana-giovannini",
+    "name": "Jana Giovannini",
+    "email": "jana.giovannini@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

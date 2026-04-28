@@ -1,0 +1,14 @@
+{
+  "slug": "people/shelly-wood",
+  "type": "person",
+  "title": "Shelly Wood",
+  "compiled_truth": "Shelly Wood is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-08 to 2002-05-06), Shelly Wood sent 0 and received 45 emails, totalling 45 interactions.",
+  "timeline": "- **2001-06-08** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shelly-wood",
+    "name": "Shelly Wood",
+    "email": "shelly.wood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

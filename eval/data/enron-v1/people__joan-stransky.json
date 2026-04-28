@@ -1,0 +1,14 @@
+{
+  "slug": "people/joan-stransky",
+  "type": "person",
+  "title": "Joan Stransky",
+  "compiled_truth": "Joan Stransky is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-27 to 2001-12-03), Joan Stransky sent 9 and received 164 emails, totalling 173 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (5), [James Steffes](people/james-steffes) (5), [Richard Shapiro](people/richard-shapiro) (3), [Margaret Carson](people/margaret-carson) (3), [Steven Kean](people/steven-kean) (3).",
+  "timeline": "- **1999-09-27** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joan-stransky",
+    "name": "Joan Stransky",
+    "email": "joan.stransky@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

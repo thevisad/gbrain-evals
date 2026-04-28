@@ -1,0 +1,14 @@
+{
+  "slug": "people/swadding-europa",
+  "type": "person",
+  "title": "Swadding",
+  "compiled_truth": "Swadding is an external contact at [Europa](companies/europa). Over the corpus period (2000-06-23 to 2001-03-16), Swadding sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/swadding-europa",
+    "name": "Swadding",
+    "email": "swadding@europa.com",
+    "primary_affiliation": "companies/europa"
+  }
+}

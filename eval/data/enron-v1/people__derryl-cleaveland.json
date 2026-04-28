@@ -1,0 +1,14 @@
+{
+  "slug": "people/derryl-cleaveland",
+  "type": "person",
+  "title": "Derryl Cleaveland",
+  "compiled_truth": "Derryl Cleaveland is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Derryl Cleaveland sent 2 and received 41 emails, totalling 43 interactions. Top correspondents: [George Wasaff](people/george-wasaff) (2), [Kelly Higgason](people/kelly-higgason) (1), [Robert Johansen](people/robert-johansen) (1), [Calvin Eakins](people/calvin-eakins) (1), [Jennifer Medcalf](people/jennifer-medcalf) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/derryl-cleaveland",
+    "name": "Derryl Cleaveland",
+    "email": "derryl.cleaveland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

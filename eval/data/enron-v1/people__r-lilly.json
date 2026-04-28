@@ -1,0 +1,14 @@
+{
+  "slug": "people/r-lilly",
+  "type": "person",
+  "title": "R  Lilly",
+  "compiled_truth": "R  Lilly is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-21 to 2002-01-31), R  Lilly sent 1 and received 38 emails, totalling 39 interactions. Top correspondents: [M  Love](people/m-love) (1), [Kevin Bosse](people/kevin-bosse) (1). Mailbox folders observed: personal.",
+  "timeline": "- **2001-05-21** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/r-lilly",
+    "name": "R  Lilly",
+    "email": "r..lilly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

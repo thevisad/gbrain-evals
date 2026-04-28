@@ -1,0 +1,14 @@
+{
+  "slug": "people/jmtaggart-duke-energy",
+  "type": "person",
+  "title": "Jmtaggart",
+  "compiled_truth": "Jmtaggart is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2002-01-28 to 2002-03-25), Jmtaggart sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2002-01-28** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jmtaggart-duke-energy",
+    "name": "Jmtaggart",
+    "email": "jmtaggart@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

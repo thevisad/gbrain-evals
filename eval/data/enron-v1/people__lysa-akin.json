@@ -1,0 +1,14 @@
+{
+  "slug": "people/lysa-akin",
+  "type": "person",
+  "title": "Lysa Akin",
+  "compiled_truth": "Lysa Akin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-06 to 2001-07-31), Lysa Akin sent 119 and received 508 emails, totalling 627 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (31), [Mary Hain](people/mary-hain) (27), [Paul Kaufman](people/paul-kaufman) (23), [Joseph Alamo](people/joseph-alamo) (21), [Susan Mara](people/susan-mara) (20). Mailbox folders observed: _sent_mail, read.",
+  "timeline": "- **2000-01-06** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lysa-akin",
+    "name": "Lysa Akin",
+    "email": "lysa.akin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

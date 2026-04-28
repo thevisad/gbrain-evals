@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-heidecker",
+  "type": "person",
+  "title": "Bill Heidecker",
+  "compiled_truth": "Bill Heidecker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-03-29), Bill Heidecker sent 2 and received 17 emails, totalling 19 interactions. Top correspondents: [Richard Ring](people/richard-ring) (2), [Humberto Cubillos-Uejbe](people/humberto-cubillos-uejbe) (1). Mailbox folders observed: eesirenewableenergy.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-heidecker",
+    "name": "Bill Heidecker",
+    "email": "bill.heidecker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

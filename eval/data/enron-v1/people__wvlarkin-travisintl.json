@@ -1,0 +1,14 @@
+{
+  "slug": "people/wvlarkin-travisintl",
+  "type": "person",
+  "title": "Wvlarkin",
+  "compiled_truth": "Wvlarkin is an external contact at [Travisintl](companies/travisintl). Over the corpus period (1998-01-06 to 2001-09-13), Wvlarkin sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **1998-01-06** | First recorded email in corpus\n- **2001-09-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wvlarkin-travisintl",
+    "name": "Wvlarkin",
+    "email": "wvlarkin@travisintl.com",
+    "primary_affiliation": "companies/travisintl"
+  }
+}

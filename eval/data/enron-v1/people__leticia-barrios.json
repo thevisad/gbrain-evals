@@ -1,0 +1,14 @@
+{
+  "slug": "people/leticia-barrios",
+  "type": "person",
+  "title": "Leticia Barrios",
+  "compiled_truth": "Leticia Barrios is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-12-17), Leticia Barrios sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-12-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leticia-barrios",
+    "name": "Leticia Barrios",
+    "email": "leticia.barrios@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

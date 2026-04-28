@@ -1,0 +1,14 @@
+{
+  "slug": "people/feedback-intcx",
+  "type": "person",
+  "title": "Feedback",
+  "compiled_truth": "Feedback is an external contact at [Intcx](companies/intcx). Over the corpus period (2001-09-27 to 2002-03-25), Feedback sent 91 and received 3 emails, totalling 94 interactions. Top correspondents: [Icehelpdesk](people/icehelpdesk-intcx) (47), [Sales](people/sales-intcx) (46), [Iceuserslist](people/iceuserslist-list) (43), [Powerindex](people/powerindex-list) (37), [Gasindex](people/gasindex-list) (11).",
+  "timeline": "- **2001-09-27** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/feedback-intcx",
+    "name": "Feedback",
+    "email": "feedback@intcx.com",
+    "primary_affiliation": "companies/intcx"
+  }
+}

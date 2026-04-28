@@ -1,0 +1,14 @@
+{
+  "slug": "people/tina-spiller",
+  "type": "person",
+  "title": "Tina Spiller",
+  "compiled_truth": "Tina Spiller is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2002-05-06), Tina Spiller sent 30 and received 392 emails, totalling 422 interactions. Top correspondents: [Sally Beck](people/sally-beck) (23), [Brenda Flores-Cuellar](people/brenda-flores-cuellar) (17), [Lydia Cannon](people/lydia-cannon) (16), [Beth Perlman](people/beth-perlman) (16), [Mary Weatherstone](people/mary-weatherstone) (16). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tina-spiller",
+    "name": "Tina Spiller",
+    "email": "tina.spiller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

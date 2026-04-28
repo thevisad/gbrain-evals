@@ -1,0 +1,14 @@
+{
+  "slug": "people/frank-stabler",
+  "type": "person",
+  "title": "Frank Stabler",
+  "compiled_truth": "Frank Stabler is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Frank Stabler sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frank-stabler",
+    "name": "Frank Stabler",
+    "email": "frank.stabler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

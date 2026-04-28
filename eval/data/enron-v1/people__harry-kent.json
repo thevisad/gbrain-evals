@@ -1,0 +1,14 @@
+{
+  "slug": "people/harry-kent",
+  "type": "person",
+  "title": "Harry Kent",
+  "compiled_truth": "Harry Kent is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-10-19), Harry Kent sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/harry-kent",
+    "name": "Harry Kent",
+    "email": "harry.kent@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

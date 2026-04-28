@@ -1,0 +1,14 @@
+{
+  "slug": "people/farzad-farhangnia",
+  "type": "person",
+  "title": "Farzad Farhangnia",
+  "compiled_truth": "Farzad Farhangnia is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-01), Farzad Farhangnia sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/farzad-farhangnia",
+    "name": "Farzad Farhangnia",
+    "email": "farzad.farhangnia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

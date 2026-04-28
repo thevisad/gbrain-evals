@@ -1,0 +1,14 @@
+{
+  "slug": "people/ed-cazalet",
+  "type": "person",
+  "title": "Ed",
+  "compiled_truth": "Ed is an external contact at [Cazalet](companies/cazalet). Over the corpus period (2000-11-10 to 2001-07-27), Ed sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-07-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ed-cazalet",
+    "name": "Ed",
+    "email": "ed@cazalet.com",
+    "primary_affiliation": "companies/cazalet"
+  }
+}

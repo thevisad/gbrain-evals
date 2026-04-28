@@ -1,0 +1,14 @@
+{
+  "slug": "people/denise-ward-elpaso",
+  "type": "person",
+  "title": "Denise Ward",
+  "compiled_truth": "Denise Ward is an external contact at [El Paso Energy](companies/el-paso). Over the corpus period (2001-06-04 to 2001-11-09), Denise Ward sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/denise-ward-elpaso",
+    "name": "Denise Ward",
+    "email": "denise.ward@elpaso.com",
+    "primary_affiliation": "companies/el-paso"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/marlene-devotto",
+  "type": "person",
+  "title": "Marlene Devotto",
+  "compiled_truth": "Marlene Devotto is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-06-27), Marlene Devotto sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marlene-devotto",
+    "name": "Marlene Devotto",
+    "email": "marlene.devotto@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

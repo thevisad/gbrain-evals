@@ -1,0 +1,14 @@
+{
+  "slug": "people/showard-milbank",
+  "type": "person",
+  "title": "Showard",
+  "compiled_truth": "Showard is an external contact at [Milbank](companies/milbank). Over the corpus period (1980-01-01 to 2000-12-29), Showard sent 53 and received 49 emails, totalling 102 interactions. Top correspondents: [Richard B Sanders](people/richard-b-sanders) (53), [Lmellen](people/lmellen) (8), [Paronzon](people/paronzon-milbank) (4), [Sbhalla](people/sbhalla-milbank) (3), [Rtellis](people/rtellis-milbank) (3).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2000-12-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/showard-milbank",
+    "name": "Showard",
+    "email": "showard@milbank.com",
+    "primary_affiliation": "companies/milbank"
+  }
+}

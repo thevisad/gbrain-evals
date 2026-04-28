@@ -1,0 +1,14 @@
+{
+  "slug": "people/markpa-gateway",
+  "type": "person",
+  "title": "Markpa",
+  "compiled_truth": "Markpa is an external contact at [Gateway](companies/gateway). Over the corpus period (2000-09-04 to 2000-11-16), Markpa sent 0 and received 56 emails, totalling 56 interactions.",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2000-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/markpa-gateway",
+    "name": "Markpa",
+    "email": "markpa@gateway.net",
+    "primary_affiliation": "companies/gateway"
+  }
+}

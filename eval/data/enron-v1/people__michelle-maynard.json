@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-maynard",
+  "type": "person",
+  "title": "Michelle Maynard",
+  "compiled_truth": "Michelle Maynard is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-06-21), Michelle Maynard sent 2 and received 55 emails, totalling 57 interactions. Top correspondents: [Jeffrey Hodge](people/jeffrey-hodge) (2), [Mike Smith](people/mike-smith) (2), [Tom Prisk](people/tom-prisk) (1), [Mark Ziolkowski](people/mark-ziolkowski) (1), [Jodi Thrasher](people/jodi-thrasher) (1).",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-maynard",
+    "name": "Michelle Maynard",
+    "email": "michelle.maynard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

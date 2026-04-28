@@ -1,0 +1,14 @@
+{
+  "slug": "people/olivia-nigh",
+  "type": "person",
+  "title": "Olivia Nigh",
+  "compiled_truth": "Olivia Nigh is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-11-08), Olivia Nigh sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/olivia-nigh",
+    "name": "Olivia Nigh",
+    "email": "olivia.nigh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

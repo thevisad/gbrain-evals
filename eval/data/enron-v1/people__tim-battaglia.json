@@ -1,0 +1,14 @@
+{
+  "slug": "people/tim-battaglia",
+  "type": "person",
+  "title": "Tim Battaglia",
+  "compiled_truth": "Tim Battaglia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2001-11-16), Tim Battaglia sent 1 and received 20 emails, totalling 21 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (1).",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tim-battaglia",
+    "name": "Tim Battaglia",
+    "email": "tim.battaglia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

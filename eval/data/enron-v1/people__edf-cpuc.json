@@ -1,0 +1,14 @@
+{
+  "slug": "people/edf-cpuc",
+  "type": "person",
+  "title": "Edf",
+  "compiled_truth": "Edf is an external contact at [Cpuc](companies/cpuc). Over the corpus period (1999-09-24 to 2001-07-31), Edf sent 0 and received 149 emails, totalling 149 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edf-cpuc",
+    "name": "Edf",
+    "email": "edf@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

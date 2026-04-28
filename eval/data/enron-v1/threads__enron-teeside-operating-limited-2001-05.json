@@ -1,0 +1,22 @@
+{
+  "slug": "threads/enron-teeside-operating-limited-2001-05",
+  "type": "meeting",
+  "title": "Thread: Enron Teeside Operating Limited",
+  "compiled_truth": "Email thread: \"Enron Teeside Operating Limited\". Ran from 2001-05-10 to 2001-05-30 with 18 messages. Participants: [Jorge Garcia](people/jorge-garcia), [Karolina Moran](people/karolina-moran), [Laurel Adams](people/laurel-adams), [Mary Cook](people/mary-cook), [Rhett Jackson](people/rhett-jackson), [Rod Nelson](people/rod-nelson), [Sara Shackleton](people/sara-shackleton), [Susan Bailey](people/susan-bailey).",
+  "timeline": "- **2001-05-10** | Thread begins: enron teeside operating limited\n- **2001-05-30** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-teeside-operating-limited-2001-05",
+    "attendees": [
+      "people/jorge-garcia",
+      "people/karolina-moran",
+      "people/laurel-adams",
+      "people/mary-cook",
+      "people/rhett-jackson",
+      "people/rod-nelson",
+      "people/sara-shackleton",
+      "people/susan-bailey"
+    ],
+    "date": "2001-05-10"
+  }
+}

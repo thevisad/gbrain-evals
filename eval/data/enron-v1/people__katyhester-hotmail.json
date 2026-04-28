@@ -1,0 +1,14 @@
+{
+  "slug": "people/katyhester-hotmail",
+  "type": "person",
+  "title": "Katyhester",
+  "compiled_truth": "Katyhester is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-09-12 to 2002-03-11), Katyhester sent 5 and received 65 emails, totalling 70 interactions. Top correspondents: [M  Scott](people/m-scott) (3), [Lisa Gillette](people/lisa-gillette) (1).",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2002-03-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/katyhester-hotmail",
+    "name": "Katyhester",
+    "email": "katyhester@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

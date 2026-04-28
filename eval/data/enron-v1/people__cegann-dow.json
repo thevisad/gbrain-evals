@@ -1,0 +1,14 @@
+{
+  "slug": "people/cegann-dow",
+  "type": "person",
+  "title": "Cegann",
+  "compiled_truth": "Cegann is an external contact at [Dow](companies/dow). Over the corpus period (2000-11-15 to 2001-06-01), Cegann sent 2 and received 25 emails, totalling 27 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (2), [Gboldig](people/gboldig-aol) (1), [Fsintl](people/fsintl-swbell) (1).",
+  "timeline": "- **2000-11-15** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cegann-dow",
+    "name": "Cegann",
+    "email": "cegann@dow.com",
+    "primary_affiliation": "companies/dow"
+  }
+}

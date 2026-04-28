@@ -1,0 +1,14 @@
+{
+  "slug": "people/hotdeals-mail",
+  "type": "person",
+  "title": "Hotdeals",
+  "compiled_truth": "Hotdeals is an external contact at [Mail](companies/mail). Over the corpus period (2000-11-07 to 2001-12-19), Hotdeals sent 21 and received 10 emails, totalling 31 interactions. Top correspondents: [Specials1](people/specials1-mail) (14), [Clone](people/clone-mail) (3), [Specials2](people/specials2-mail) (2), [Newcust1](people/newcust1-mail) (2).",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hotdeals-mail",
+    "name": "Hotdeals",
+    "email": "hotdeals@mail.bestfares.net",
+    "primary_affiliation": "companies/mail"
+  }
+}

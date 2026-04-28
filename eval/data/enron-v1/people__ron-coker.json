@@ -1,0 +1,14 @@
+{
+  "slug": "people/ron-coker",
+  "type": "person",
+  "title": "Ron Coker",
+  "compiled_truth": "Ron Coker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2002-05-06), Ron Coker sent 39 and received 114 emails, totalling 153 interactions. Top correspondents: [Andrew Kelemen](people/andrew-kelemen) (28), [Benjamin Rogers](people/benjamin-rogers) (23), [Don Miller](people/don-miller) (20), [David Parquet](people/david-parquet) (16), [Christopher Calger](people/christopher-calger) (11). Mailbox folders observed: _americas, discussion_threads, misc, new_england_ny.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ron-coker",
+    "name": "Ron Coker",
+    "email": "ron.coker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sharon-stringfellow",
+  "type": "person",
+  "title": "Sharon Stringfellow",
+  "compiled_truth": "Sharon Stringfellow is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2001-11-29), Sharon Stringfellow sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sharon-stringfellow",
+    "name": "Sharon Stringfellow",
+    "email": "sharon.stringfellow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

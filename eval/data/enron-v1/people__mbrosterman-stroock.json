@@ -1,0 +1,14 @@
+{
+  "slug": "people/mbrosterman-stroock",
+  "type": "person",
+  "title": "Mbrosterman",
+  "compiled_truth": "Mbrosterman is an external contact at [Stroock](companies/stroock). Over the corpus period (2001-02-02 to 2001-03-19), Mbrosterman sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2001-02-02** | First recorded email in corpus\n- **2001-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mbrosterman-stroock",
+    "name": "Mbrosterman",
+    "email": "mbrosterman@stroock.com",
+    "primary_affiliation": "companies/stroock"
+  }
+}

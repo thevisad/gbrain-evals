@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-terwilliger",
+  "type": "person",
+  "title": "Jason Terwilliger",
+  "compiled_truth": "Jason Terwilliger is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-21 to 2002-03-29), Jason Terwilliger sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2002-03-21** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-terwilliger",
+    "name": "Jason Terwilliger",
+    "email": "jason.terwilliger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

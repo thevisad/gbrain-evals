@@ -1,0 +1,37 @@
+{
+  "slug": "companies/arthur-andersen",
+  "type": "company",
+  "title": "Arthur Andersen",
+  "compiled_truth": "Arthur Andersen is an external organization that appears in the Enron email corpus. Domain: arthurandersen.com. Total email interactions with Enron: 55. Known contacts: 20 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (55 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/arthur-andersen",
+    "name": "Arthur Andersen",
+    "employees": [
+      "people/barry-r-wallach-arthurandersen",
+      "people/carrie-k-anderson-arthurandersen",
+      "people/douglas-lecocq-arthurandersen",
+      "people/g-kregg-lunsford-arthurandersen",
+      "people/h-ronald-weissman-arthurandersen",
+      "people/howard-l-margolin-arthurandersen",
+      "people/karihale-arthurandersen",
+      "people/kimberly-r-scardino-arthurandersen",
+      "people/marjorie-b-marker-arthurandersen",
+      "people/michael-p-riordan-arthurandersen",
+      "people/michael-r-boyden-arthurandersen",
+      "people/michael-r-levin-arthurandersen",
+      "people/nicholas-swingler-arthurandersen",
+      "people/pauline-wallace-arthurandersen",
+      "people/robert-w-nagel-arthurandersen",
+      "people/s-jack-ehrig-arthurandersen",
+      "people/sharon-k-smith-arthurandersen",
+      "people/thomas-m-myers-arthurandersen",
+      "people/w-roger-gregory-arthurandersen",
+      "people/wendy-dunford-arthurandersen"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

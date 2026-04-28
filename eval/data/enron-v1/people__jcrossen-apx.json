@@ -1,0 +1,14 @@
+{
+  "slug": "people/jcrossen-apx",
+  "type": "person",
+  "title": "Jcrossen",
+  "compiled_truth": "Jcrossen is an external contact at [Apx](companies/apx). Over the corpus period (2001-02-16 to 2001-12-04), Jcrossen sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [Crossen Jim](people/crossen-jim) (1), [Marccohen](people/marccohen-kayescholer) (1).",
+  "timeline": "- **2001-02-16** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jcrossen-apx",
+    "name": "Jcrossen",
+    "email": "jcrossen@apx.com",
+    "primary_affiliation": "companies/apx"
+  }
+}

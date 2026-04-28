@@ -1,0 +1,14 @@
+{
+  "slug": "people/jan-erland-bekeng",
+  "type": "person",
+  "title": "Jan-Erland Bekeng",
+  "compiled_truth": "Jan-Erland Bekeng is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-30 to 2001-11-08), Jan-Erland Bekeng sent 4 and received 46 emails, totalling 50 interactions. Top correspondents: [Sally Beck](people/sally-beck) (4), [Shona Wilson](people/shona-wilson) (2), [James New](people/james-new) (1), [Tim Poullain-Patterson](people/tim-poullain-patterson) (1), [Cassandra Schultz](people/cassandra-schultz) (1).",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jan-erland-bekeng",
+    "name": "Jan-Erland Bekeng",
+    "email": "jan-erland.bekeng@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

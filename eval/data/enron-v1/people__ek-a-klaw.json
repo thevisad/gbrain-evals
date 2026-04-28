@@ -1,0 +1,14 @@
+{
+  "slug": "people/ek-a-klaw",
+  "type": "person",
+  "title": "Ek",
+  "compiled_truth": "Ek is an external contact at [A-klaw](companies/a-klaw). Over the corpus period (2001-04-19 to 2001-12-21), Ek sent 21 and received 77 emails, totalling 98 interactions. Top correspondents: [Jdasovic](people/jdasovic) (11), [Wbooth](people/wbooth-booth-law) (10), [Drothrock](people/drothrock-camfg) (10), [Isenberg](people/isenberg-hmot) (10), [Mkahl](people/mkahl-ka-pow) (10).",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ek-a-klaw",
+    "name": "Ek",
+    "email": "ek@a-klaw.com",
+    "primary_affiliation": "companies/a-klaw"
+  }
+}

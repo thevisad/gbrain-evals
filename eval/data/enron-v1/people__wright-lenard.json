@@ -1,0 +1,14 @@
+{
+  "slug": "people/wright-lenard",
+  "type": "person",
+  "title": "Wright Lenard",
+  "compiled_truth": "Wright Lenard is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-16 to 2002-01-16), Wright Lenard sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wright-lenard",
+    "name": "Wright Lenard",
+    "email": "wright.lenard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

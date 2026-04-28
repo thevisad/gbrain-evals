@@ -1,0 +1,14 @@
+{
+  "slug": "people/rob-wilson",
+  "type": "person",
+  "title": "Rob Wilson",
+  "compiled_truth": "Rob Wilson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-25 to 2002-03-19), Rob Wilson sent 1 and received 186 emails, totalling 187 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1).",
+  "timeline": "- **2000-02-25** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rob-wilson",
+    "name": "Rob Wilson",
+    "email": "rob.wilson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

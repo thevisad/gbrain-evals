@@ -1,0 +1,14 @@
+{
+  "slug": "people/angie-o-brian",
+  "type": "person",
+  "title": "Angie O'Brian",
+  "compiled_truth": "Angie O'Brian is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-05-06), Angie O'Brian sent 2 and received 22 emails, totalling 24 interactions. Top correspondents: [Shanna Funkhouser](people/shanna-funkhouser) (1), [Michelle Cash](people/michelle-cash) (1), [A  Shankman](people/a-shankman) (1), [A  Hope](people/a-hope) (1), [Sarah Domonoske](people/sarah-domonoske) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angie-o-brian",
+    "name": "Angie O'Brian",
+    "email": "angie.o'brian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

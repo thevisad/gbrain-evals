@@ -1,0 +1,14 @@
+{
+  "slug": "people/debruyn-haas",
+  "type": "person",
+  "title": "Debruyn",
+  "compiled_truth": "Debruyn is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2001-11-07), Debruyn sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debruyn-haas",
+    "name": "Debruyn",
+    "email": "debruyn@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/xi-xi",
+  "type": "person",
+  "title": "Xi Xi",
+  "compiled_truth": "Xi Xi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2001-09-20), Xi Xi sent 16 and received 258 emails, totalling 274 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (13), [Lara Leibman](people/lara-leibman) (12), [Donald Lassere](people/donald-lassere) (12), [Sue Nord](people/sue-nord) (10), [Susan Landwehr](people/susan-landwehr) (9).",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2001-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/xi-xi",
+    "name": "Xi Xi",
+    "email": "xi.xi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

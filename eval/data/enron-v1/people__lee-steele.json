@@ -1,0 +1,14 @@
+{
+  "slug": "people/lee-steele",
+  "type": "person",
+  "title": "Lee Steele",
+  "compiled_truth": "Lee Steele is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-13 to 2001-09-24), Lee Steele sent 3 and received 6 emails, totalling 9 interactions. Top correspondents: [Dorothy Youngblood](people/dorothy-youngblood) (1), [Debbie Brackett](people/debbie-brackett) (1), [Rick Buy](people/rick-buy) (1), [Angela Brown](people/angela-brown) (1), [Lesli Campbell](people/lesli-campbell) (1).",
+  "timeline": "- **2000-04-13** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lee-steele",
+    "name": "Lee Steele",
+    "email": "lee.steele@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-hodge",
+  "type": "person",
+  "title": "Jeffrey Hodge",
+  "compiled_truth": "Jeffrey Hodge is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-13), Jeffrey Hodge sent 129 and received 2276 emails, totalling 2405 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (19), [Richard Sanders](people/richard-sanders) (18), [Mark Taylor](people/mark-taylor) (13), [Mark Haedicke](people/mark-haedicke) (12), [Tana Jones](people/tana-jones) (12). Mailbox folders observed: inbox, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-hodge",
+    "name": "Jeffrey Hodge",
+    "email": "jeffrey.hodge@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

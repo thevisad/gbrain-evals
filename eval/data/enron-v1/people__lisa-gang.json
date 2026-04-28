@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-gang",
+  "type": "person",
+  "title": "Lisa Gang",
+  "compiled_truth": "Lisa Gang is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-15 to 2002-06-25), Lisa Gang sent 106 and received 657 emails, totalling 763 interactions. Top correspondents: [Jennifer Thome](people/jennifer-thome) (10), [Julie Sarnowski](people/julie-sarnowski) (8), [Virginia Thompson](people/virginia-thompson) (8), [Mo Elafandi](people/mo-elafandi) (8), [Shift Dl-Portland](people/shift-dl-portland) (6). Mailbox folders observed: bill_williams_iii, inbox, outbox, scheduling, sent_items.",
+  "timeline": "- **2000-09-15** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-gang",
+    "name": "Lisa Gang",
+    "email": "lisa.gang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

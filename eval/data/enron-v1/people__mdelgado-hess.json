@@ -1,0 +1,14 @@
+{
+  "slug": "people/mdelgado-hess",
+  "type": "person",
+  "title": "Mdelgado",
+  "compiled_truth": "Mdelgado is an external contact at [Hess](companies/hess). Over the corpus period (2001-11-08 to 2001-11-09), Mdelgado sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-11-08** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mdelgado-hess",
+    "name": "Mdelgado",
+    "email": "mdelgado@hess.com",
+    "primary_affiliation": "companies/hess"
+  }
+}

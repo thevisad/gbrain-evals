@@ -1,0 +1,14 @@
+{
+  "slug": "people/brad-carey",
+  "type": "person",
+  "title": "Brad Carey",
+  "compiled_truth": "Brad Carey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-10-31), Brad Carey sent 6 and received 70 emails, totalling 76 interactions. Top correspondents: [Dana Davis](people/dana-davis) (6), [Stacy Hardy](people/stacy-hardy) (1), [Rosalyn Lum](people/rosalyn-lum) (1), [Laynie East](people/laynie-east) (1), [Lisa Best](people/lisa-best) (1). Mailbox folders observed: save_the_date.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brad-carey",
+    "name": "Brad Carey",
+    "email": "brad.carey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

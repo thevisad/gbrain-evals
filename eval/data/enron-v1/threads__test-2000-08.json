@@ -1,0 +1,24 @@
+{
+  "slug": "threads/test-2000-08",
+  "type": "meeting",
+  "title": "Thread: Test",
+  "compiled_truth": "Email thread: \"Test\". Ran from 2000-08-01 to 2000-09-01 with 14 messages. Participants: [Benjamin Rogers](people/benjamin-rogers), [Daren Farmer](people/daren-farmer), [Jeff Dasovich](people/jeff-dasovich), [Kscully](people/kscully-hushmail), [Kscully](people/kscully-pirnie), [Matt Smith](people/matt-smith), [Mike Hernandez](people/mike-hernandez), [Schwerdtfegerm](people/schwerdtfegerm-kindermorgan).",
+  "timeline": "- **2000-08-01** | Thread begins: test\n- **2000-09-01** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/test-2000-08",
+    "attendees": [
+      "people/benjamin-rogers",
+      "people/daren-farmer",
+      "people/jeff-dasovich",
+      "people/kscully-hushmail",
+      "people/kscully-pirnie",
+      "people/matt-smith",
+      "people/mike-hernandez",
+      "people/schwerdtfegerm-kindermorgan",
+      "people/steven-kean",
+      "people/yvette-connevey"
+    ],
+    "date": "2000-08-01"
+  }
+}

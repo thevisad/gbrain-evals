@@ -1,0 +1,14 @@
+{
+  "slug": "people/rms-ercot",
+  "type": "person",
+  "title": "Rms",
+  "compiled_truth": "Rms is an external contact at [Ercot](companies/ercot). Over the corpus period (2001-10-18 to 2002-02-05), Rms sent 0 and received 37 emails, totalling 37 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rms-ercot",
+    "name": "Rms",
+    "email": "rms@ercot.com",
+    "primary_affiliation": "companies/ercot"
+  }
+}

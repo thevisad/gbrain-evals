@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-dasovich",
+  "type": "person",
+  "title": "Jeff Dasovich",
+  "compiled_truth": "Jeff Dasovich is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-06), Jeff Dasovich sent 9470 and received 7788 emails, totalling 17258 interactions. Top correspondents: [Paul Kaufman](people/paul-kaufman) (1798), [Susan Mara](people/susan-mara) (1797), [James Steffes](people/james-steffes) (1786), [Richard Shapiro](people/richard-shapiro) (1733), [Karen Denne](people/karen-denne) (1440). Mailbox folders observed: _americas, bill_williams_iii, california, california___working_group, california_campaign, california_issues.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-dasovich",
+    "name": "Jeff Dasovich",
+    "email": "jeff.dasovich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

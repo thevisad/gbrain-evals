@@ -1,0 +1,14 @@
+{
+  "slug": "people/shannon-mcpearson",
+  "type": "person",
+  "title": "Shannon Mcpearson",
+  "compiled_truth": "Shannon Mcpearson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-25 to 2002-02-13), Shannon Mcpearson sent 21 and received 70 emails, totalling 91 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (21), [Kori Loibl](people/kori-loibl) (5), [Chance Rabon](people/chance-rabon) (5), [George Huan](people/george-huan) (4), [Cheryl Dawes](people/cheryl-dawes) (2). Mailbox folders observed: deleted_items, inbox, monthly_pma_s.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shannon-mcpearson",
+    "name": "Shannon Mcpearson",
+    "email": "shannon.mcpearson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

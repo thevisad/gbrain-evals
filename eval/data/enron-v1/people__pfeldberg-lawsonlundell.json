@@ -1,0 +1,14 @@
+{
+  "slug": "people/pfeldberg-lawsonlundell",
+  "type": "person",
+  "title": "Pfeldberg",
+  "compiled_truth": "Pfeldberg is an external contact at [Lawsonlundell](companies/lawsonlundell). Over the corpus period (2000-06-21 to 2001-04-26), Pfeldberg sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pfeldberg-lawsonlundell",
+    "name": "Pfeldberg",
+    "email": "pfeldberg@lawsonlundell.com",
+    "primary_affiliation": "companies/lawsonlundell"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gabby-garcia",
+  "type": "person",
+  "title": "Gabby Garcia",
+  "compiled_truth": "Gabby Garcia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-31 to 2000-10-31), Gabby Garcia sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-31** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gabby-garcia",
+    "name": "Gabby Garcia",
+    "email": "gabby.garcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

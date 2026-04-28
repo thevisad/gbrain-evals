@@ -1,0 +1,14 @@
+{
+  "slug": "people/abutler-finance",
+  "type": "person",
+  "title": "Abutler",
+  "compiled_truth": "Abutler is an external contact at [Finance](companies/finance). Over the corpus period (1999-12-28 to 2001-03-06), Abutler sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **1999-12-28** | First recorded email in corpus\n- **2001-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/abutler-finance",
+    "name": "Abutler",
+    "email": "abutler@finance.bus.lsu.edu",
+    "primary_affiliation": "companies/finance"
+  }
+}

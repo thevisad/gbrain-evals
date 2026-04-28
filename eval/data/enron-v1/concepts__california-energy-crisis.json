@@ -1,0 +1,23 @@
+{
+  "slug": "concepts/california-energy-crisis",
+  "type": "concept",
+  "title": "California Energy Crisis 2000–2001",
+  "compiled_truth": "The 2000–2001 California electricity crisis, Enron's trading strategies, and FERC investigations into market manipulation. Related organizations: [Enron](companies/enron), [CAISO](companies/caiso), [FERC](companies/ferc), [Reliant Energy](companies/reliant-energy).",
+  "timeline": "- **2000-06-01** | California electricity market deregulation fully takes effect\n- **2000-12-01** | Rolling blackouts begin across California\n- **2001-01-17** | California Governor declares state of emergency\n- **2001-06-19** | FERC opens investigation into Western energy market manipulation\n- **2002-05-06** | FERC releases transcripts showing Enron traders discussing market strategies",
+  "_facts": {
+    "type": "concept",
+    "slug": "concepts/california-energy-crisis",
+    "related_companies": [
+      "companies/enron",
+      "companies/caiso",
+      "companies/ferc",
+      "companies/reliant-energy"
+    ],
+    "related_people": [
+      "people/kenneth-lay",
+      "people/jeffrey-skilling",
+      "people/andrew-fastow",
+      "people/richard-causey"
+    ]
+  }
+}

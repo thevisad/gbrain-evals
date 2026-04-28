@@ -1,0 +1,14 @@
+{
+  "slug": "people/juanita-ruffeno",
+  "type": "person",
+  "title": "Juanita Ruffeno",
+  "compiled_truth": "Juanita Ruffeno is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-12 to 2000-10-03), Juanita Ruffeno sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **1999-12-12** | First recorded email in corpus\n- **2000-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/juanita-ruffeno",
+    "name": "Juanita Ruffeno",
+    "email": "juanita.ruffeno@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

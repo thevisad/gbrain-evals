@@ -1,0 +1,23 @@
+{
+  "slug": "threads/hot-list-2001-10",
+  "type": "meeting",
+  "title": "Thread: Hot List",
+  "compiled_truth": "Email thread: \"Hot List\". Ran from 2001-10-08 to 2001-11-05 with 13 messages. Participants: [Barry Tycholiz](people/barry-tycholiz), [Dave Fuller](people/dave-fuller), [Mara Bronstein](people/mara-bronstein), [Mark Whitt](people/mark-whitt), [Phil Polsky](people/phil-polsky), [Stephanie Miller](people/stephanie-miller), [T  Lucci](people/t-lucci), [Tyrell Harrison](people/tyrell-harrison).",
+  "timeline": "- **2001-10-08** | Thread begins: hot list\n- **2001-11-05** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/hot-list-2001-10",
+    "attendees": [
+      "people/barry-tycholiz",
+      "people/dave-fuller",
+      "people/mara-bronstein",
+      "people/mark-whitt",
+      "people/phil-polsky",
+      "people/stephanie-miller",
+      "people/t-lucci",
+      "people/tyrell-harrison",
+      "people/ward"
+    ],
+    "date": "2001-10-08"
+  }
+}

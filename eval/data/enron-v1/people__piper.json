@@ -1,0 +1,14 @@
+{
+  "slug": "people/piper",
+  "type": "person",
+  "title": "Piper",
+  "compiled_truth": "Piper is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-31 to 2001-11-27), Piper sent 1 and received 10 emails, totalling 11 interactions. Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-31** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/piper",
+    "name": "Piper",
+    "email": "piper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

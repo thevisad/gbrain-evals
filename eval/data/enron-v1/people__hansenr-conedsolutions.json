@@ -1,0 +1,14 @@
+{
+  "slug": "people/hansenr-conedsolutions",
+  "type": "person",
+  "title": "Hansenr",
+  "compiled_truth": "Hansenr is an external contact at [Conedsolutions](companies/conedsolutions). Over the corpus period (2001-05-03 to 2001-09-11), Hansenr sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-05-03** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hansenr-conedsolutions",
+    "name": "Hansenr",
+    "email": "hansenr@conedsolutions.com",
+    "primary_affiliation": "companies/conedsolutions"
+  }
+}

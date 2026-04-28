@@ -1,0 +1,34 @@
+{
+  "slug": "meetings/monthly-meeting-2000-11",
+  "type": "meeting",
+  "title": "Meeting: Monthly Meeting",
+  "compiled_truth": "Meeting: \"Monthly Meeting\". Occurred 2000-11-16 through 2000-11-17 with 2 related emails. Participants included: [Chad Starnes](people/chad-starnes), [Cyril Price](people/cyril-price), [Dean Laurent](people/dean-laurent), [Don Baughman](people/don-baughman), [Doug Miller](people/doug-miller), [Greg Trefz](people/greg-trefz), [Jay Wills](people/jay-wills), [Joe Errigo](people/joe-errigo)....",
+  "timeline": "- **2000-11-16** | Meeting: monthly meeting\n- **2000-11-17** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/monthly-meeting-2000-11",
+    "attendees": [
+      "people/chad-starnes",
+      "people/cyril-price",
+      "people/dean-laurent",
+      "people/don-baughman",
+      "people/doug-miller",
+      "people/greg-trefz",
+      "people/jay-wills",
+      "people/joe-errigo",
+      "people/joe-stepenovitch",
+      "people/john-kinser",
+      "people/juan-hernandez",
+      "people/kayne-coulter",
+      "people/keller-mayeaux",
+      "people/larry-campbell",
+      "people/lawrence-clayton",
+      "people/miguel-garcia",
+      "people/richard-hrabal",
+      "people/rudy-acevedo",
+      "people/russell-ballato",
+      "people/wayne-herndon"
+    ],
+    "date": "2000-11-16"
+  }
+}

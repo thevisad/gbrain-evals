@@ -1,0 +1,14 @@
+{
+  "slug": "people/rahul-saxena",
+  "type": "person",
+  "title": "Rahul Saxena",
+  "compiled_truth": "Rahul Saxena is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-11-28), Rahul Saxena sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rahul-saxena",
+    "name": "Rahul Saxena",
+    "email": "rahul.saxena@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

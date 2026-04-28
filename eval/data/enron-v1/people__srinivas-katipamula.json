@@ -1,0 +1,14 @@
+{
+  "slug": "people/srinivas-katipamula",
+  "type": "person",
+  "title": "Srinivas Katipamula",
+  "compiled_truth": "Srinivas Katipamula is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-11-06), Srinivas Katipamula sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/srinivas-katipamula",
+    "name": "Srinivas Katipamula",
+    "email": "srinivas.katipamula@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "companies/founders-fund",
+  "type": "company",
+  "title": "Founders Fund",
+  "compiled_truth": "Founders Fund is a venture capital firm. Employees: ravi-gupta.",
+  "timeline": "- **2025-04-14** | company indexed",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/founders-fund",
+    "name": "Founders Fund",
+    "founders": [],
+    "employees": [
+      "people/ravi-gupta"
+    ],
+    "investors": [],
+    "advisors": []
+  }
+}

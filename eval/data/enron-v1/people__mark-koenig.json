@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-koenig",
+  "type": "person",
+  "title": "Mark Koenig",
+  "compiled_truth": "Mark Koenig is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-14 to 2002-01-29), Mark Koenig sent 29 and received 785 emails, totalling 814 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (10), [Steven Kean](people/steven-kean) (6), [Paula Rieker](people/paula-rieker) (5), [J  Kean](people/j-kean) (5), [ Palmer](people/palmer) (5). Mailbox folders observed: _americas, deleted_items, inbox, pr_crisis_management.",
+  "timeline": "- **1999-10-14** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-koenig",
+    "name": "Mark Koenig",
+    "email": "mark.koenig@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

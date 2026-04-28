@@ -1,0 +1,14 @@
+{
+  "slug": "people/sally-shuler",
+  "type": "person",
+  "title": "Sally Shuler",
+  "compiled_truth": "Sally Shuler is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-21 to 2001-11-26), Sally Shuler sent 0 and received 57 emails, totalling 57 interactions.",
+  "timeline": "- **1999-12-21** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sally-shuler",
+    "name": "Sally Shuler",
+    "email": "sally.shuler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

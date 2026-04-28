@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-earnest",
+  "type": "person",
+  "title": "Scott Earnest",
+  "compiled_truth": "Scott Earnest is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-31), Scott Earnest sent 5 and received 243 emails, totalling 248 interactions. Top correspondents: [Sally Beck](people/sally-beck) (5), [Eric Groves](people/eric-groves) (2), [Bjorn Hagelmann](people/bjorn-hagelmann) (2), [Kevin Sweeney](people/kevin-sweeney) (2), [Shona Wilson](people/shona-wilson) (2).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-earnest",
+    "name": "Scott Earnest",
+    "email": "scott.earnest@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

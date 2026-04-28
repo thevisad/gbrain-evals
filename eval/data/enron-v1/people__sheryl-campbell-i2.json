@@ -1,0 +1,14 @@
+{
+  "slug": "people/sheryl-campbell-i2",
+  "type": "person",
+  "title": "Sheryl Campbell",
+  "compiled_truth": "Sheryl Campbell is an external contact at [I2](companies/i2). Over the corpus period (2000-10-02 to 2000-12-05), Sheryl Campbell sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-10-02** | First recorded email in corpus\n- **2000-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sheryl-campbell-i2",
+    "name": "Sheryl Campbell",
+    "email": "sheryl_campbell@i2.com",
+    "primary_affiliation": "companies/i2"
+  }
+}

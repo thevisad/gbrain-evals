@@ -1,0 +1,26 @@
+{
+  "slug": "companies/govadv",
+  "type": "company",
+  "title": "Govadv",
+  "compiled_truth": "Govadv is an external organization that appears in the Enron email corpus. Domain: govadv.com. Total email interactions with Enron: 1,990. Known contacts: 9 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (1,990 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/govadv",
+    "name": "Govadv",
+    "employees": [
+      "people/agovenar-govadv",
+      "people/hgovenar-govadv",
+      "people/hgovenor-govadv",
+      "people/hgovernor-govadv",
+      "people/mcortez-govadv",
+      "people/rtom-govadv",
+      "people/sgovenar-govadv",
+      "people/sgovernor-govadv",
+      "people/thackbarth-govadv"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

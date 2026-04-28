@@ -1,0 +1,24 @@
+{
+  "slug": "threads/scheduling-time-constant-2001-10",
+  "type": "meeting",
+  "title": "Thread: Scheduling Time Constant",
+  "compiled_truth": "Email thread: \"Scheduling Time Constant\". Ran from 2001-10-10 to 2001-10-16 with 9 messages. Participants: [Bharsh](people/bharsh-puget), [Chris M Turner](people/chris-m-turner-mirant), [Dlacen](people/dlacen-pnm), [Doug Hincks](people/doug-hincks-powerpool), [Isas](people/isas-wscc), [Jodi Droll](people/jodi-droll-xcelenergy), [Mark Hackney](people/mark-hackney-aps), [Mfranz](people/mfranz-sppc).",
+  "timeline": "- **2001-10-10** | Thread begins: scheduling time constant\n- **2001-10-16** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/scheduling-time-constant-2001-10",
+    "attendees": [
+      "people/bharsh-puget",
+      "people/chris-m-turner-mirant",
+      "people/dlacen-pnm",
+      "people/doug-hincks-powerpool",
+      "people/isas-wscc",
+      "people/jodi-droll-xcelenergy",
+      "people/mark-hackney-aps",
+      "people/mfranz-sppc",
+      "people/paul-rice-pacificorp",
+      "people/rbrugger-mtpower"
+    ],
+    "date": "2001-10-10"
+  }
+}

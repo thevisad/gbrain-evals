@@ -1,0 +1,14 @@
+{
+  "slug": "people/julie-mccoy",
+  "type": "person",
+  "title": "Julie Mccoy",
+  "compiled_truth": "Julie Mccoy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-24 to 2002-02-07), Julie Mccoy sent 5 and received 129 emails, totalling 134 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (4), [Lorna Brennan](people/lorna-brennan) (2), [Lynn Blair](people/lynn-blair) (1), [Steve January](people/steve-january) (1), [W  Mcgowan](people/w-mcgowan) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-01-24** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julie-mccoy",
+    "name": "Julie Mccoy",
+    "email": "julie.mccoy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

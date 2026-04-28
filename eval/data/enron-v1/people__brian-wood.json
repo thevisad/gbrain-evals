@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-wood",
+  "type": "person",
+  "title": "Brian Wood",
+  "compiled_truth": "Brian Wood is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-13 to 2001-12-03), Brian Wood sent 2 and received 31 emails, totalling 33 interactions. Top correspondents: [Mark Mcconnell](people/mark-mcconnell) (1), [Barry Tycholiz](people/barry-tycholiz) (1). Mailbox folders observed: inbox, misc.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-wood",
+    "name": "Brian Wood",
+    "email": "brian.wood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

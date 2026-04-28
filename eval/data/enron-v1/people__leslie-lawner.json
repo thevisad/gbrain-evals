@@ -1,0 +1,14 @@
+{
+  "slug": "people/leslie-lawner",
+  "type": "person",
+  "title": "Leslie Lawner",
+  "compiled_truth": "Leslie Lawner is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-12 to 2001-12-03), Leslie Lawner sent 91 and received 1302 emails, totalling 1393 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (52), [Harry Kingerski](people/harry-kingerski) (44), [Paul Kaufman](people/paul-kaufman) (35), [James Steffes](people/james-steffes) (26), [Rebecca Cantrell](people/rebecca-cantrell) (20). Mailbox folders observed: affiliate_codes_of_conduct, arizona, deleted_items, ferc, inbox, janie.",
+  "timeline": "- **1999-10-12** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leslie-lawner",
+    "name": "Leslie Lawner",
+    "email": "leslie.lawner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

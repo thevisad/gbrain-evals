@@ -1,0 +1,14 @@
+{
+  "slug": "people/william-kendrick",
+  "type": "person",
+  "title": "William Kendrick",
+  "compiled_truth": "William Kendrick is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-05), William Kendrick sent 6 and received 427 emails, totalling 433 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (6), [Ron Beidelman](people/ron-beidelman) (4), [Ron Harkrader](people/ron-harkrader) (4), [Ruth Jensen](people/ruth-jensen) (4), [Leo Nichols](people/leo-nichols) (4). Mailbox folders observed: 2001_goals_and_objectives.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/william-kendrick",
+    "name": "William Kendrick",
+    "email": "william.kendrick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

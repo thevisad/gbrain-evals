@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-miceli",
+  "type": "person",
+  "title": "Keith Miceli",
+  "compiled_truth": "Keith Miceli is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-19 to 2002-01-11), Keith Miceli sent 9 and received 104 emails, totalling 113 interactions. Top correspondents: [Mark Palmer](people/mark-palmer) (4), [John Ambler](people/john-ambler) (4), [Dennis Vegas](people/dennis-vegas) (3), [James Bannantine](people/james-bannantine) (2), [Diomedes Christodoulou](people/diomedes-christodoulou) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-04-19** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-miceli",
+    "name": "Keith Miceli",
+    "email": "keith.miceli@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

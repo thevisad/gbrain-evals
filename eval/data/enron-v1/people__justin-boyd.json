@@ -1,0 +1,14 @@
+{
+  "slug": "people/justin-boyd",
+  "type": "person",
+  "title": "Justin Boyd",
+  "compiled_truth": "Justin Boyd is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-05 to 2001-11-28), Justin Boyd sent 125 and received 651 emails, totalling 776 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (62), [Tana Jones](people/tana-jones) (37), [Andy Zipper](people/andy-zipper) (14), [Sara Shackleton](people/sara-shackleton) (10), [Amita Gosalia](people/amita-gosalia) (10). Mailbox folders observed: archive, deleted_items, inbox, isda, notes_inbox.",
+  "timeline": "- **1998-11-05** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/justin-boyd",
+    "name": "Justin Boyd",
+    "email": "justin.boyd@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

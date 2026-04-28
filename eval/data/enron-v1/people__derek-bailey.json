@@ -1,0 +1,14 @@
+{
+  "slug": "people/derek-bailey",
+  "type": "person",
+  "title": "Derek Bailey",
+  "compiled_truth": "Derek Bailey is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-13), Derek Bailey sent 9 and received 321 emails, totalling 330 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (4), [Diane Anderson](people/diane-anderson) (2), [Sara Shackleton](people/sara-shackleton) (2), [Jason Williams](people/jason-williams) (2), [Patrick Mulvany](people/patrick-mulvany) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/derek-bailey",
+    "name": "Derek Bailey",
+    "email": "derek.bailey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-johnson",
+  "type": "person",
+  "title": "Jennifer Johnson",
+  "compiled_truth": "Jennifer Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-06 to 2001-11-12), Jennifer Johnson sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-12-06** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-johnson",
+    "name": "Jennifer Johnson",
+    "email": "jennifer.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

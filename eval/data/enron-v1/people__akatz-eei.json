@@ -1,0 +1,14 @@
+{
+  "slug": "people/akatz-eei",
+  "type": "person",
+  "title": "Akatz",
+  "compiled_truth": "Akatz is an external contact at [Eei](companies/eei). Over the corpus period (1999-09-28 to 2001-11-09), Akatz sent 38 and received 65 emails, totalling 103 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (24), [Rosteen](people/rosteen-powersrc) (17), [Hemu](people/hemu-dynegy) (16), [Wfhenze](people/wfhenze-jonesday) (16), [Dperlman](people/dperlman-powersrc) (14).",
+  "timeline": "- **1999-09-28** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/akatz-eei",
+    "name": "Akatz",
+    "email": "akatz@eei.org",
+    "primary_affiliation": "companies/eei"
+  }
+}

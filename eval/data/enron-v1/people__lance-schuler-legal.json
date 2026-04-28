@@ -1,0 +1,14 @@
+{
+  "slug": "people/lance-schuler-legal",
+  "type": "person",
+  "title": "Lance Schuler-Legal",
+  "compiled_truth": "Lance Schuler-Legal is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-29 to 2001-07-11), Lance Schuler-Legal sent 20 and received 363 emails, totalling 383 interactions. Top correspondents: [Steven Kean](people/steven-kean) (11), [Richard Shapiro](people/richard-shapiro) (7), [Frank Sayre](people/frank-sayre) (6), [Bruce Lundstrom](people/bruce-lundstrom) (6), [Daniel Rogers](people/daniel-rogers) (6). Mailbox folders observed: inbox, personal.",
+  "timeline": "- **1999-09-29** | First recorded email in corpus\n- **2001-07-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lance-schuler-legal",
+    "name": "Lance Schuler-Legal",
+    "email": "lance.schuler-legal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

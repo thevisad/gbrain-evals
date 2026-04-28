@@ -1,0 +1,14 @@
+{
+  "slug": "people/energybulletin-platts",
+  "type": "person",
+  "title": "Energybulletin",
+  "compiled_truth": "Energybulletin is an external contact at [Platts](companies/platts). Over the corpus period (2002-01-18 to 2002-03-07), Energybulletin sent 29 and received 0 emails, totalling 29 interactions. Top correspondents: [Platts](people/platts-listserv) (29).",
+  "timeline": "- **2002-01-18** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/energybulletin-platts",
+    "name": "Energybulletin",
+    "email": "energybulletin@platts.com",
+    "primary_affiliation": "companies/platts"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-ayers",
+  "type": "person",
+  "title": "David Ayers",
+  "compiled_truth": "David Ayers is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-27 to 2001-02-21), David Ayers sent 2 and received 29 emails, totalling 31 interactions. Top correspondents: [Rick Loveless](people/rick-loveless) (2), [Larry Campbell](people/larry-campbell) (2), [Sonny Meador](people/sonny-meador) (1), [Anji Bordelon](people/anji-bordelon) (1), [Ron Beidelman](people/ron-beidelman) (1).",
+  "timeline": "- **1999-05-27** | First recorded email in corpus\n- **2001-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-ayers",
+    "name": "David Ayers",
+    "email": "david.ayers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

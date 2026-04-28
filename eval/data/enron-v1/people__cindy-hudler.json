@@ -1,0 +1,14 @@
+{
+  "slug": "people/cindy-hudler",
+  "type": "person",
+  "title": "Cindy Hudler",
+  "compiled_truth": "Cindy Hudler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-29 to 2001-11-27), Cindy Hudler sent 2 and received 60 emails, totalling 62 interactions. Top correspondents: [Credit Dl-Rac](people/credit-dl-rac) (2), [Mgmt Dl-Rac](people/mgmt-dl-rac) (1), [Portfolio Dl-Rac](people/portfolio-dl-rac) (1), [Underwriting Dl-Rac](people/underwriting-dl-rac) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-29** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cindy-hudler",
+    "name": "Cindy Hudler",
+    "email": "cindy.hudler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

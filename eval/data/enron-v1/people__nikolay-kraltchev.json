@@ -1,0 +1,14 @@
+{
+  "slug": "people/nikolay-kraltchev",
+  "type": "person",
+  "title": "Nikolay Kraltchev",
+  "compiled_truth": "Nikolay Kraltchev is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2001-11-27), Nikolay Kraltchev sent 2 and received 20 emails, totalling 22 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (1), [Holden Salisbury](people/holden-salisbury) (1). Mailbox folders observed: inbox, personal.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nikolay-kraltchev",
+    "name": "Nikolay Kraltchev",
+    "email": "nikolay.kraltchev@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

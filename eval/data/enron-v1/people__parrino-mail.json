@@ -1,0 +1,14 @@
+{
+  "slug": "people/parrino-mail",
+  "type": "person",
+  "title": "Parrino",
+  "compiled_truth": "Parrino is an external contact at [Mail](companies/mail). Over the corpus period (2000-02-20 to 2001-04-09), Parrino sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (1).",
+  "timeline": "- **2000-02-20** | First recorded email in corpus\n- **2001-04-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/parrino-mail",
+    "name": "Parrino",
+    "email": "parrino@mail.utexas.edu",
+    "primary_affiliation": "companies/mail"
+  }
+}

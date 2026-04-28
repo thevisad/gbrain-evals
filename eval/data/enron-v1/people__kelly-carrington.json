@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-carrington",
+  "type": "person",
+  "title": "Kelly Carrington",
+  "compiled_truth": "Kelly Carrington is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-22 to 2001-12-06), Kelly Carrington sent 0 and received 33 emails, totalling 33 interactions.",
+  "timeline": "- **2001-02-22** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-carrington",
+    "name": "Kelly Carrington",
+    "email": "kelly.carrington@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

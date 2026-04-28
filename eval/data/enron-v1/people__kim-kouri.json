@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-kouri",
+  "type": "person",
+  "title": "Kim Kouri",
+  "compiled_truth": "Kim Kouri is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-11-23), Kim Kouri sent 8 and received 45 emails, totalling 53 interactions. Top correspondents: [Michelle Lokay](people/michelle-lokay) (6), [Kimberly Watson](people/kimberly-watson) (4), [Ben Asante](people/ben-asante) (2), [Sean Bolks](people/sean-bolks) (1). Mailbox folders observed: inbox, tw_commercial_group.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-11-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-kouri",
+    "name": "Kim Kouri",
+    "email": "kim.kouri@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

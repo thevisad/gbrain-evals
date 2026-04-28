@@ -1,0 +1,14 @@
+{
+  "slug": "people/gloria-gammaconst",
+  "type": "person",
+  "title": "Gloria",
+  "compiled_truth": "Gloria is an external contact at [Gammaconst](companies/gammaconst). Over the corpus period (2000-06-28 to 2001-10-05), Gloria sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-06-28** | First recorded email in corpus\n- **2001-10-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gloria-gammaconst",
+    "name": "Gloria",
+    "email": "gloria@gammaconst.com",
+    "primary_affiliation": "companies/gammaconst"
+  }
+}

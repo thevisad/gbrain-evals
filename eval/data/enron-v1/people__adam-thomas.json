@@ -1,0 +1,14 @@
+{
+  "slug": "people/adam-thomas",
+  "type": "person",
+  "title": "Adam Thomas",
+  "compiled_truth": "Adam Thomas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2000-07-19), Adam Thomas sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2000-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adam-thomas",
+    "name": "Adam Thomas",
+    "email": "adam.thomas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

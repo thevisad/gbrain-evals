@@ -1,0 +1,14 @@
+{
+  "slug": "people/lara-berry",
+  "type": "person",
+  "title": "Lara Berry",
+  "compiled_truth": "Lara Berry is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-11-19), Lara Berry sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1), [John Pavetto](people/john-pavetto) (1), [Radu Tutos](people/radu-tutos) (1), [Denise Rancour](people/denise-rancour) (1), [Ashley Baxter](people/ashley-baxter) (1).",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lara-berry",
+    "name": "Lara Berry",
+    "email": "lara.berry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

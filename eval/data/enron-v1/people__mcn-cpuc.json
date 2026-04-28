@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcn-cpuc",
+  "type": "person",
+  "title": "Mcn",
+  "compiled_truth": "Mcn is an external contact at [Cpuc](companies/cpuc). Over the corpus period (2000-04-04 to 2000-12-12), Mcn sent 0 and received 94 emails, totalling 94 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcn-cpuc",
+    "name": "Mcn",
+    "email": "mcn@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

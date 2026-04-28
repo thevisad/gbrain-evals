@@ -1,0 +1,19 @@
+{
+  "slug": "companies/bcjlaw",
+  "type": "company",
+  "title": "Bcjlaw",
+  "compiled_truth": "Bcjlaw is an external organization that appears in the Enron email corpus. Domain: bcjlaw.com. Total email interactions with Enron: 247. Known contacts: 2 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (247 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/bcjlaw",
+    "name": "Bcjlaw",
+    "employees": [
+      "people/johnj-bcjlaw",
+      "people/rogerberliner-bcjlaw"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sparks2-sppc",
+  "type": "person",
+  "title": "Sparks2",
+  "compiled_truth": "Sparks2 is an external contact at [Sppc](companies/sppc). Over the corpus period (2001-03-11 to 2001-04-26), Sparks2 sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-03-11** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sparks2-sppc",
+    "name": "Sparks2",
+    "email": "sparks2@sppc.com",
+    "primary_affiliation": "companies/sppc"
+  }
+}

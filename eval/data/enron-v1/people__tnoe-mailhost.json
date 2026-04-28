@@ -1,0 +1,14 @@
+{
+  "slug": "people/tnoe-mailhost",
+  "type": "person",
+  "title": "Tnoe",
+  "compiled_truth": "Tnoe is an external contact at [Mailhost](companies/mailhost). Over the corpus period (1999-12-28 to 2001-03-06), Tnoe sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **1999-12-28** | First recorded email in corpus\n- **2001-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tnoe-mailhost",
+    "name": "Tnoe",
+    "email": "tnoe@mailhost.tcs.tulane.edu",
+    "primary_affiliation": "companies/mailhost"
+  }
+}

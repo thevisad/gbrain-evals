@@ -1,0 +1,14 @@
+{
+  "slug": "people/matheson-api",
+  "type": "person",
+  "title": "Matheson",
+  "compiled_truth": "Matheson is an external contact at [Api](companies/api). Over the corpus period (2001-11-20 to 2001-12-18), Matheson sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-11-20** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matheson-api",
+    "name": "Matheson",
+    "email": "matheson@api.org",
+    "primary_affiliation": "companies/api"
+  }
+}

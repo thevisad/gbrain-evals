@@ -1,0 +1,14 @@
+{
+  "slug": "people/mjillard-beaconelectric",
+  "type": "person",
+  "title": "Mjillard",
+  "compiled_truth": "Mjillard is an external contact at [Beaconelectric](companies/beaconelectric). Over the corpus period (2000-06-23 to 2002-01-31), Mjillard sent 10 and received 139 emails, totalling 149 interactions. Top correspondents: [M  Love](people/m-love) (9), [Phillip M Love](people/phillip-m-love) (1).",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mjillard-beaconelectric",
+    "name": "Mjillard",
+    "email": "mjillard@beaconelectric.com",
+    "primary_affiliation": "companies/beaconelectric"
+  }
+}

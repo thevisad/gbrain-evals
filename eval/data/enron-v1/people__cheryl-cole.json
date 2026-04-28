@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheryl-cole",
+  "type": "person",
+  "title": "Cheryl Cole",
+  "compiled_truth": "Cheryl Cole is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-06 to 2002-03-19), Cheryl Cole sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [Ben Asante](people/ben-asante) (1), [Jerry Graves](people/jerry-graves) (1), [Ron Matthews](people/ron-matthews) (1), [Bob Mcchane](people/bob-mcchane) (1), [Darrell Schoolcraft](people/darrell-schoolcraft) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-02-06** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheryl-cole",
+    "name": "Cheryl Cole",
+    "email": "cheryl.cole@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

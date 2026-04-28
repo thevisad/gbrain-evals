@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-garred",
+  "type": "person",
+  "title": "Michael Garred",
+  "compiled_truth": "Michael Garred is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-25 to 2001-10-23), Michael Garred sent 6 and received 84 emails, totalling 90 interactions. Top correspondents: [Chris Germany](people/chris-germany) (6), [Jeffrey Porter](people/jeffrey-porter) (3), [Suresh Guddanti](people/suresh-guddanti) (1), [Geoff Guenther](people/geoff-guenther) (1), [Keith Maccrimmon](people/keith-maccrimmon) (1).",
+  "timeline": "- **2000-04-25** | First recorded email in corpus\n- **2001-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-garred",
+    "name": "Michael Garred",
+    "email": "michael.garred@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

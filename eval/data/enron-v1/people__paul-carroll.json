@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-carroll",
+  "type": "person",
+  "title": "Paul Carroll",
+  "compiled_truth": "Paul Carroll is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-02 to 2000-10-09), Paul Carroll sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-05-02** | First recorded email in corpus\n- **2000-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-carroll",
+    "name": "Paul Carroll",
+    "email": "paul.carroll@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

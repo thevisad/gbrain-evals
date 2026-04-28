@@ -1,0 +1,14 @@
+{
+  "slug": "people/roger-clayton-neg",
+  "type": "person",
+  "title": "Roger Clayton",
+  "compiled_truth": "Roger Clayton is an external contact at [Neg](companies/neg). Over the corpus period (2001-04-25 to 2002-02-19), Roger Clayton sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-04-25** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roger-clayton-neg",
+    "name": "Roger Clayton",
+    "email": "roger.clayton@neg.pge.com",
+    "primary_affiliation": "companies/neg"
+  }
+}

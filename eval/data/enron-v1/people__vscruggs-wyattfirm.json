@@ -1,0 +1,14 @@
+{
+  "slug": "people/vscruggs-wyattfirm",
+  "type": "person",
+  "title": "Vscruggs",
+  "compiled_truth": "Vscruggs is an external contact at [Wyattfirm](companies/wyattfirm). Over the corpus period (2001-01-26 to 2001-11-19), Vscruggs sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-01-26** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vscruggs-wyattfirm",
+    "name": "Vscruggs",
+    "email": "vscruggs@wyattfirm.com",
+    "primary_affiliation": "companies/wyattfirm"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/julie-davidson",
+  "type": "person",
+  "title": "Julie Davidson",
+  "compiled_truth": "Julie Davidson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-12-03), Julie Davidson sent 10 and received 31 emails, totalling 41 interactions. Top correspondents: [J  Kean](people/j-kean) (7), [Mark Courtney](people/mark-courtney) (6), [Maureen Mcvicker](people/maureen-mcvicker) (6), [Andrew Miles](people/andrew-miles) (6), [Traci Warner](people/traci-warner) (6). Mailbox folders observed: deleted_items, inbox, rice.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julie-davidson",
+    "name": "Julie Davidson",
+    "email": "julie.davidson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mpersad-vistaar",
+  "type": "person",
+  "title": "Mpersad",
+  "compiled_truth": "Mpersad is an external contact at [Vistaar](companies/vistaar). Over the corpus period (2000-10-12 to 2000-10-17), Mpersad sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-10-12** | First recorded email in corpus\n- **2000-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mpersad-vistaar",
+    "name": "Mpersad",
+    "email": "mpersad@vistaar.com",
+    "primary_affiliation": "companies/vistaar"
+  }
+}

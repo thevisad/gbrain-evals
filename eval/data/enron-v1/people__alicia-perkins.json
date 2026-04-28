@@ -1,0 +1,14 @@
+{
+  "slug": "people/alicia-perkins",
+  "type": "person",
+  "title": "Alicia Perkins",
+  "compiled_truth": "Alicia Perkins is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-03-13), Alicia Perkins sent 2 and received 123 emails, totalling 125 interactions. Top correspondents: [Chris Germany](people/chris-germany) (1), [Sscott5](people/sscott5) (1).",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alicia-perkins",
+    "name": "Alicia Perkins",
+    "email": "alicia.perkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

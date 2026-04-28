@@ -1,0 +1,14 @@
+{
+  "slug": "people/roukema-haas",
+  "type": "person",
+  "title": "Roukema",
+  "compiled_truth": "Roukema is an external contact at [Haas](companies/haas). Over the corpus period (2000-01-29 to 2001-10-22), Roukema sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-01-29** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roukema-haas",
+    "name": "Roukema",
+    "email": "roukema@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

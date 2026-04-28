@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-austin",
+  "type": "person",
+  "title": "Jeffrey Austin",
+  "compiled_truth": "Jeffrey Austin is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-06-01), Jeffrey Austin sent 0 and received 75 emails, totalling 75 interactions.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-austin",
+    "name": "Jeffrey Austin",
+    "email": "jeffrey.austin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

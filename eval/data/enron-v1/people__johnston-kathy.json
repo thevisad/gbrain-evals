@@ -1,0 +1,14 @@
+{
+  "slug": "people/johnston-kathy",
+  "type": "person",
+  "title": "Johnston Kathy",
+  "compiled_truth": "Johnston Kathy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-19 to 2002-01-25), Johnston Kathy sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-09-19** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/johnston-kathy",
+    "name": "Johnston Kathy",
+    "email": "johnston.kathy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

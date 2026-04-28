@@ -1,0 +1,14 @@
+{
+  "slug": "people/rjnewson-duke-energy",
+  "type": "person",
+  "title": "Rjnewson",
+  "compiled_truth": "Rjnewson is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2001-05-25 to 2002-03-25), Rjnewson sent 9 and received 40 emails, totalling 49 interactions. Top correspondents: [Amy Mulligan](people/amy-mulligan) (8), [Bert Hernandez](people/bert-hernandez) (8), [Beverly Miller](people/beverly-miller) (8), [Linda Ward](people/linda-ward) (8), [Christine Mcevoy](people/christine-mcevoy) (8).",
+  "timeline": "- **2001-05-25** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rjnewson-duke-energy",
+    "name": "Rjnewson",
+    "email": "rjnewson@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

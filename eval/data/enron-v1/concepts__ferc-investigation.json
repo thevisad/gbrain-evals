@@ -1,0 +1,22 @@
+{
+  "slug": "concepts/ferc-investigation",
+  "type": "concept",
+  "title": "FERC Investigation into Enron",
+  "compiled_truth": "The Federal Energy Regulatory Commission investigated Enron and other energy companies for market manipulation during the California energy crisis and broader Western power market. Related organizations: [Enron](companies/enron), [FERC](companies/ferc), [CAISO](companies/caiso).",
+  "timeline": "- **2001-06-19** | FERC opens formal investigation into Western electricity market\n- **2002-02-04** | FERC releases Enron internal trading strategy memos (Death Star, Get Shorty, Fat Boy)\n- **2003-07-16** | FERC orders Enron to pay $1.52B in refunds to California\n- **2005-01-01** | Final FERC orders against Enron and traders concluded",
+  "_facts": {
+    "type": "concept",
+    "slug": "concepts/ferc-investigation",
+    "related_companies": [
+      "companies/enron",
+      "companies/ferc",
+      "companies/caiso"
+    ],
+    "related_people": [
+      "people/kenneth-lay",
+      "people/jeffrey-skilling",
+      "people/andrew-fastow",
+      "people/richard-causey"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-wack",
+  "type": "person",
+  "title": "John Wack",
+  "compiled_truth": "John Wack is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2001-10-11), John Wack sent 2 and received 19 emails, totalling 21 interactions. Top correspondents: [Harry Arora](people/harry-arora) (2), [Samuel Harrell](people/samuel-harrell) (2), [Brad Snyder](people/brad-snyder) (2), [Ross Mesquita](people/ross-mesquita) (2), [Suresh Raghavan](people/suresh-raghavan) (2). Mailbox folders observed: savedmail.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-10-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-wack",
+    "name": "John Wack",
+    "email": "john.wack@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

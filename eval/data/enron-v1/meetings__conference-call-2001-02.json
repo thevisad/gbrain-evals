@@ -1,0 +1,35 @@
+{
+  "slug": "meetings/conference-call-2001-02",
+  "type": "meeting",
+  "title": "Meeting: Conference Call",
+  "compiled_truth": "Meeting: \"Conference Call\". Occurred 2001-02-23 with 1 related emails. Participants included: [Allison Navin](people/allison-navin), [Barbara Hueter](people/barbara-hueter), [Carmen Perez](people/carmen-perez), [Donald Lassere](people/donald-lassere), [Eric Benson](people/eric-benson), [Jeff Dasovich](people/jeff-dasovich), [John Neslage](people/john-neslage), [Karen Huang](people/karen-huang)....",
+  "timeline": "- **2001-02-23** | Meeting: conference call",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/conference-call-2001-02",
+    "attendees": [
+      "people/allison-navin",
+      "people/barbara-hueter",
+      "people/carmen-perez",
+      "people/donald-lassere",
+      "people/eric-benson",
+      "people/jeff-dasovich",
+      "people/john-neslage",
+      "people/karen-huang",
+      "people/lara-leibman",
+      "people/linda-robertson",
+      "people/marchris-robinson",
+      "people/margo-reyna",
+      "people/mike-dahlke",
+      "people/mona-petrochko",
+      "people/ricardo-charvel",
+      "people/richard-shapiro",
+      "people/scott-bolton",
+      "people/stephen-burns",
+      "people/sue-nord",
+      "people/susan-landwehr",
+      "people/xi-xi"
+    ],
+    "date": "2001-02-23"
+  }
+}

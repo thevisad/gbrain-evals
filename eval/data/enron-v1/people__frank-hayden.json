@@ -1,0 +1,14 @@
+{
+  "slug": "people/frank-hayden",
+  "type": "person",
+  "title": "Frank Hayden",
+  "compiled_truth": "Frank Hayden is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-14 to 2002-04-12), Frank Hayden sent 166 and received 688 emails, totalling 854 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (40), [Joe Parks](people/joe-parks) (36), [W  White](people/w-white) (25), [David Port](people/david-port) (25), [John Arnold](people/john-arnold) (18). Mailbox folders observed: _americas, calendar, deleted_items, inbox, old_inbox, personal.",
+  "timeline": "- **2000-04-14** | First recorded email in corpus\n- **2002-04-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frank-hayden",
+    "name": "Frank Hayden",
+    "email": "frank.hayden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

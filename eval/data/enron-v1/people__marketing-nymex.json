@@ -1,0 +1,14 @@
+{
+  "slug": "people/marketing-nymex",
+  "type": "person",
+  "title": "Marketing",
+  "compiled_truth": "Marketing is an external contact at [Nymex](companies/nymex). Over the corpus period (2000-11-22 to 2002-03-25), Marketing sent 171 and received 2 emails, totalling 173 interactions. Top correspondents: [Pressoffice](people/pressoffice-nymex) (1).",
+  "timeline": "- **2000-11-22** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marketing-nymex",
+    "name": "Marketing",
+    "email": "marketing@nymex.com",
+    "primary_affiliation": "companies/nymex"
+  }
+}

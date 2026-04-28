@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-goodman",
+  "type": "person",
+  "title": "Michael Goodman",
+  "compiled_truth": "Michael Goodman is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2000-12-04), Michael Goodman sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2000-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-goodman",
+    "name": "Michael Goodman",
+    "email": "michael.goodman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

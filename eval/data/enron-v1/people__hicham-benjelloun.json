@@ -1,0 +1,14 @@
+{
+  "slug": "people/hicham-benjelloun",
+  "type": "person",
+  "title": "Hicham Benjelloun",
+  "compiled_truth": "Hicham Benjelloun is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-20 to 2001-12-05), Hicham Benjelloun sent 1 and received 145 emails, totalling 146 interactions. Top correspondents: [D  Thomas](people/d-thomas) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-04-20** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hicham-benjelloun",
+    "name": "Hicham Benjelloun",
+    "email": "hicham.benjelloun@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

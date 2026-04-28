@@ -1,0 +1,16 @@
+{
+  "slug": "people/anna-petrov",
+  "type": "person",
+  "title": "Anna Petrov",
+  "compiled_truth": "Anna Petrov is a mentor to Amara Okafor. Email: anna@petrov-capital.com. Anna Petrov works at Petrov Capital. Slack: @anna.",
+  "timeline": "- **2026-04-13** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anna-petrov",
+    "name": "Anna Petrov",
+    "email": "anna@petrov-capital.com",
+    "slack_handle": "anna",
+    "relation_to_amara": "mentor",
+    "primary_affiliation": "companies/petrov-capital"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/fran-deltoro",
+  "type": "person",
+  "title": "Fran Deltoro",
+  "compiled_truth": "Fran Deltoro is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-27 to 2001-12-03), Fran Deltoro sent 0 and received 536 emails, totalling 536 interactions.",
+  "timeline": "- **2000-12-27** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fran-deltoro",
+    "name": "Fran Deltoro",
+    "email": "fran.deltoro@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

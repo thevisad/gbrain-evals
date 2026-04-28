@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-friedman",
+  "type": "person",
+  "title": "Mark Friedman",
+  "compiled_truth": "Mark Friedman is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-04 to 2001-11-27), Mark Friedman sent 10 and received 108 emails, totalling 118 interactions. Top correspondents: [Martin Cuilla](people/martin-cuilla) (5), [Mcuilla](people/mcuilla) (2), [E Taylor](people/e-taylor) (2), [Trevor Woods](people/trevor-woods) (2), [Tricia Bowen](people/tricia-bowen) (1). Mailbox folders observed: 10_fantasy, inbox.",
+  "timeline": "- **1999-08-04** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-friedman",
+    "name": "Mark Friedman",
+    "email": "mark.friedman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

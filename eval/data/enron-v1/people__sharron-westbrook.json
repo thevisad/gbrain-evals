@@ -1,0 +1,14 @@
+{
+  "slug": "people/sharron-westbrook",
+  "type": "person",
+  "title": "Sharron Westbrook",
+  "compiled_truth": "Sharron Westbrook is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-15 to 2002-03-29), Sharron Westbrook sent 46 and received 360 emails, totalling 406 interactions. Top correspondents: [Sally Beck](people/sally-beck) (36), [Wes Colwell](people/wes-colwell) (33), [Shirley Tijerina](people/shirley-tijerina) (26), [Fernley Dyson](people/fernley-dyson) (23), [Kent Castleman](people/kent-castleman) (22). Mailbox folders observed: _americas, causey__rick, deleted_items, inbox, internet_sites.",
+  "timeline": "- **1999-10-15** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sharron-westbrook",
+    "name": "Sharron Westbrook",
+    "email": "sharron.westbrook@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

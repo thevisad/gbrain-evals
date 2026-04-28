@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathleen-wagner",
+  "type": "person",
+  "title": "Kathleen Wagner",
+  "compiled_truth": "Kathleen Wagner is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-15 to 2001-03-12), Kathleen Wagner sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **1999-10-15** | First recorded email in corpus\n- **2001-03-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathleen-wagner",
+    "name": "Kathleen Wagner",
+    "email": "kathleen_wagner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

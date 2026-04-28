@@ -1,0 +1,14 @@
+{
+  "slug": "people/minal-dalia",
+  "type": "person",
+  "title": "Minal Dalia",
+  "compiled_truth": "Minal Dalia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-14 to 2002-01-10), Minal Dalia sent 4 and received 120 emails, totalling 124 interactions. Top correspondents: [Matt Motley](people/matt-motley) (4), [Mike Swerzbin](people/mike-swerzbin) (4), [Frank Hayden](people/frank-hayden) (3), [Tim Belden](people/tim-belden) (3), [Robert Badeer](people/robert-badeer) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-02-14** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/minal-dalia",
+    "name": "Minal Dalia",
+    "email": "minal.dalia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ron-nolte",
+  "type": "person",
+  "title": "Ron Nolte",
+  "compiled_truth": "Ron Nolte is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2002-02-07), Ron Nolte sent 5 and received 100 emails, totalling 105 interactions. Top correspondents: [Jeff Johnson](people/jeff-johnson) (5), [Kim Theriot](people/kim-theriot) (4), [Jefferson Sorenson](people/jefferson-sorenson) (4), [Debbie Nicholls](people/debbie-nicholls) (4), [Bob Bowen](people/bob-bowen) (4).",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ron-nolte",
+    "name": "Ron Nolte",
+    "email": "ron.nolte@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

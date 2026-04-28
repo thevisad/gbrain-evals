@@ -1,0 +1,14 @@
+{
+  "slug": "people/benjamin-thompson",
+  "type": "person",
+  "title": "Benjamin Thompson",
+  "compiled_truth": "Benjamin Thompson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-13), Benjamin Thompson sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/benjamin-thompson",
+    "name": "Benjamin Thompson",
+    "email": "benjamin.thompson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

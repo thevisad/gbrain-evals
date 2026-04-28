@@ -1,0 +1,14 @@
+{
+  "slug": "people/jonathan-ryan",
+  "type": "person",
+  "title": "Jonathan Ryan",
+  "compiled_truth": "Jonathan Ryan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-20 to 2002-02-06), Jonathan Ryan sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-04-20** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jonathan-ryan",
+    "name": "Jonathan Ryan",
+    "email": "jonathan.ryan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

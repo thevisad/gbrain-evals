@@ -1,0 +1,14 @@
+{
+  "slug": "people/joynton-olin",
+  "type": "person",
+  "title": "Joynton Olin",
+  "compiled_truth": "Joynton Olin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-26 to 2001-11-26), Joynton Olin sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joynton-olin",
+    "name": "Joynton Olin",
+    "email": "joynton.olin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gsnapka-pdq",
+  "type": "person",
+  "title": "Gsnapka",
+  "compiled_truth": "Gsnapka is an external contact at [Pdq](companies/pdq). Over the corpus period (2000-11-06 to 2000-12-20), Gsnapka sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2000-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gsnapka-pdq",
+    "name": "Gsnapka",
+    "email": "gsnapka@pdq.net",
+    "primary_affiliation": "companies/pdq"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-cain",
+  "type": "person",
+  "title": "Richard Cain",
+  "compiled_truth": "Richard Cain is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-03 to 2002-06-21), Richard Cain sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2002-01-03** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-cain",
+    "name": "Richard Cain",
+    "email": "richard.cain@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

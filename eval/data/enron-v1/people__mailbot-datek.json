@@ -1,0 +1,14 @@
+{
+  "slug": "people/mailbot-datek",
+  "type": "person",
+  "title": "Mailbot",
+  "compiled_truth": "Mailbot is an external contact at [Datek](companies/datek). Over the corpus period (2000-11-03 to 2001-08-02), Mailbot sent 73 and received 0 emails, totalling 73 interactions. Top correspondents: [Lcampbel](people/lcampbel) (71), [Tgeacco](people/tgeacco) (2).",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2001-08-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mailbot-datek",
+    "name": "Mailbot",
+    "email": "mailbot@datek.com",
+    "primary_affiliation": "companies/datek"
+  }
+}

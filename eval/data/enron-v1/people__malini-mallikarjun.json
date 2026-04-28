@@ -1,0 +1,14 @@
+{
+  "slug": "people/malini-mallikarjun",
+  "type": "person",
+  "title": "Malini Mallikarjun",
+  "compiled_truth": "Malini Mallikarjun is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-08 to 2001-06-20), Malini Mallikarjun sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2001-01-08** | First recorded email in corpus\n- **2001-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/malini-mallikarjun",
+    "name": "Malini Mallikarjun",
+    "email": "malini.mallikarjun@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

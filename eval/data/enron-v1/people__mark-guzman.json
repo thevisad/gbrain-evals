@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-guzman",
+  "type": "person",
+  "title": "Mark Guzman",
+  "compiled_truth": "Mark Guzman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2002-03-13), Mark Guzman sent 376 and received 4444 emails, totalling 4820 interactions. Top correspondents: [Katie Trullinger](people/katie-trullinger-wfsg) (117), [Chartman](people/chartman-nbsrealtors) (25), [Kate Symes](people/kate-symes) (19), [Bill Iii](people/bill-iii) (12), [Valerie Dewille](people/valerie-dewille-infocus) (12). Mailbox folders observed: _sent_mail, bill_williams_iii, deleted_items, discussion_threads, inbox, read.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-guzman",
+    "name": "Mark Guzman",
+    "email": "mark.guzman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

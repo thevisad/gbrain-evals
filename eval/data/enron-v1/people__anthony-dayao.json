@@ -1,0 +1,14 @@
+{
+  "slug": "people/anthony-dayao",
+  "type": "person",
+  "title": "Anthony Dayao",
+  "compiled_truth": "Anthony Dayao is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2002-01-24), Anthony Dayao sent 14 and received 167 emails, totalling 181 interactions. Top correspondents: [Sally Beck](people/sally-beck) (6), [John Lavorato](people/john-lavorato) (4), [Greg Piper](people/greg-piper) (4), [Don Black](people/don-black) (3), [Mark Pickering](people/mark-pickering) (3). Mailbox folders observed: deleted_items, inbox, personal, personalfolder.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anthony-dayao",
+    "name": "Anthony Dayao",
+    "email": "anthony.dayao@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

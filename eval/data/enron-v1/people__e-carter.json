@@ -1,0 +1,14 @@
+{
+  "slug": "people/e-carter",
+  "type": "person",
+  "title": "E  Carter",
+  "compiled_truth": "E  Carter is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-15 to 2001-11-28), E  Carter sent 29 and received 242 emails, totalling 271 interactions. Top correspondents: [Monika Causholli](people/monika-causholli) (29), [David Allan](people/david-allan) (11), [Ayesha Kanji](people/ayesha-kanji) (6), [Teresa Aguilera-Peon](people/teresa-aguilera-peon) (6), [Peggy Determeyer](people/peggy-determeyer) (5). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-06-15** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/e-carter",
+    "name": "E  Carter",
+    "email": "e..carter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

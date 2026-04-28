@@ -1,0 +1,14 @@
+{
+  "slug": "people/craigl-calpine",
+  "type": "person",
+  "title": "Craigl",
+  "compiled_truth": "Craigl is an external contact at [Calpine](companies/calpine). Over the corpus period (2000-09-29 to 2000-12-07), Craigl sent 17 and received 13 emails, totalling 30 interactions. Top correspondents: [Susan Scott](people/susan-scott) (17).",
+  "timeline": "- **2000-09-29** | First recorded email in corpus\n- **2000-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/craigl-calpine",
+    "name": "Craigl",
+    "email": "craigl@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

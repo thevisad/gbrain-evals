@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenny-nicoll",
+  "type": "person",
+  "title": "Kenny Nicoll",
+  "compiled_truth": "Kenny Nicoll is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-15 to 2001-10-19), Kenny Nicoll sent 1 and received 22 emails, totalling 23 interactions. Top correspondents: [Chris Abel](people/chris-abel) (1), [Susan Trevino](people/susan-trevino) (1), [Homan Amiry](people/homan-amiry) (1), [Shona Wilson](people/shona-wilson) (1), [Dimitri Taylor](people/dimitri-taylor) (1).",
+  "timeline": "- **2000-09-15** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenny-nicoll",
+    "name": "Kenny Nicoll",
+    "email": "kenny.nicoll@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

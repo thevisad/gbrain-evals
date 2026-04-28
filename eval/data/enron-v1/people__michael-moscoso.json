@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-moscoso",
+  "type": "person",
+  "title": "Michael Moscoso",
+  "compiled_truth": "Michael Moscoso is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-04-03), Michael Moscoso sent 26 and received 243 emails, totalling 269 interactions. Top correspondents: [Sally Beck](people/sally-beck) (20), [Shona Wilson](people/shona-wilson) (8), [Brent Price](people/brent-price) (5), [Chris Abel](people/chris-abel) (5), [Patti Thompson](people/patti-thompson) (3).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-04-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-moscoso",
+    "name": "Michael Moscoso",
+    "email": "michael.moscoso@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

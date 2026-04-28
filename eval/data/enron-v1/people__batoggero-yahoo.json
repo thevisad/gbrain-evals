@@ -1,0 +1,14 @@
+{
+  "slug": "people/batoggero-yahoo",
+  "type": "person",
+  "title": "Batoggero",
+  "compiled_truth": "Batoggero is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-11-09 to 2002-01-16), Batoggero sent 4 and received 5 emails, totalling 9 interactions. Top correspondents: [Don Baughman](people/don-baughman) (4), [Henderson Mark](people/henderson-mark) (2), [Lansford David](people/lansford-david) (2), [Medcorpsafety](people/medcorpsafety-pdq) (1), [Cvirgg](people/cvirgg-aol) (1).",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/batoggero-yahoo",
+    "name": "Batoggero",
+    "email": "batoggero@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

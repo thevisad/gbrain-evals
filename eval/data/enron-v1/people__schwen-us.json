@@ -1,0 +1,14 @@
+{
+  "slug": "people/schwen-us",
+  "type": "person",
+  "title": "Schwen",
+  "compiled_truth": "Schwen is an external contact at [Us](companies/us). Over the corpus period (2001-10-18 to 2001-10-18), Schwen sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/schwen-us",
+    "name": "Schwen",
+    "email": "schwen@us.ngrid.com",
+    "primary_affiliation": "companies/us"
+  }
+}

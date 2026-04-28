@@ -1,0 +1,14 @@
+{
+  "slug": "people/jilallen-deloitte",
+  "type": "person",
+  "title": "Jilallen",
+  "compiled_truth": "Jilallen is an external contact at [Deloitte](companies/deloitte). Over the corpus period (2000-10-02 to 2001-11-27), Jilallen sent 23 and received 155 emails, totalling 178 interactions. Top correspondents: [Matthew Lenhart](people/matthew-lenhart) (23).",
+  "timeline": "- **2000-10-02** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jilallen-deloitte",
+    "name": "Jilallen",
+    "email": "jilallen@deloitte.com",
+    "primary_affiliation": "companies/deloitte"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mzeleanor-juno",
+  "type": "person",
+  "title": "Mzeleanor",
+  "compiled_truth": "Mzeleanor is an external contact at [Juno](companies/juno). Over the corpus period (1998-12-10 to 2001-11-27), Mzeleanor sent 20 and received 67 emails, totalling 87 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (15), [ Taylor](people/taylor) (4), [Mtaylo1](people/mtaylo1) (1), [Timothy Taylor](people/timothy-taylor-apg) (1).",
+  "timeline": "- **1998-12-10** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mzeleanor-juno",
+    "name": "Mzeleanor",
+    "email": "mzeleanor@juno.com",
+    "primary_affiliation": "companies/juno"
+  }
+}

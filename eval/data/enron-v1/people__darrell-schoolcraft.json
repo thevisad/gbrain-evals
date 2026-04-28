@@ -1,0 +1,14 @@
+{
+  "slug": "people/darrell-schoolcraft",
+  "type": "person",
+  "title": "Darrell Schoolcraft",
+  "compiled_truth": "Darrell Schoolcraft is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-13 to 2002-05-06), Darrell Schoolcraft sent 597 and received 1204 emails, totalling 1801 interactions. Top correspondents: [Controllers Dl-Ets](people/controllers-dl-ets) (185), [Dl-Etsgascontrollers](people/dl-etsgascontrollers) (69), [Amy Mulligan](people/amy-mulligan) (68), [Linda Ward](people/linda-ward) (66), [Christine Mcevoy](people/christine-mcevoy) (65). Mailbox folders observed: _sent_mail, california, deleted_items, inbox, personal, projects.",
+  "timeline": "- **2000-04-13** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darrell-schoolcraft",
+    "name": "Darrell Schoolcraft",
+    "email": "darrell.schoolcraft@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

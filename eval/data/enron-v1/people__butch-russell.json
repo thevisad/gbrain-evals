@@ -1,0 +1,14 @@
+{
+  "slug": "people/butch-russell",
+  "type": "person",
+  "title": "Butch Russell",
+  "compiled_truth": "Butch Russell is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-02 to 2001-10-26), Butch Russell sent 1 and received 134 emails, totalling 135 interactions. Top correspondents: [Louis Soldano](people/louis-soldano) (1), [Larry Campbell](people/larry-campbell) (1).",
+  "timeline": "- **1999-04-02** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/butch-russell",
+    "name": "Butch Russell",
+    "email": "butch.russell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

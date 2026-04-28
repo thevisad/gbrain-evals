@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-duncan",
+  "type": "person",
+  "title": "Lisa Duncan",
+  "compiled_truth": "Lisa Duncan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2001-06-14), Lisa Duncan sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-duncan",
+    "name": "Lisa Duncan",
+    "email": "lisa.duncan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

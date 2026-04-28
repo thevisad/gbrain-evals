@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-connor",
+  "type": "person",
+  "title": "A  Connor",
+  "compiled_truth": "A  Connor is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-06 to 2002-02-06), A  Connor sent 5 and received 0 emails, totalling 5 interactions. Top correspondents: [R  Brackett](people/r-brackett) (5), [Stephanie Mcginnis](people/stephanie-mcginnis) (5), [C  Gossett](people/c-gossett) (5), [W  White](people/w-white) (5), [S  Theriot](people/s-theriot) (5). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2002-02-06** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-connor",
+    "name": "A  Connor",
+    "email": "a..connor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

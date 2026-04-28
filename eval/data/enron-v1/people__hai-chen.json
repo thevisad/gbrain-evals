@@ -1,0 +1,14 @@
+{
+  "slug": "people/hai-chen",
+  "type": "person",
+  "title": "Hai Chen",
+  "compiled_truth": "Hai Chen is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-23 to 2002-02-25), Hai Chen sent 10 and received 136 emails, totalling 146 interactions. Top correspondents: [Harry Arora](people/harry-arora) (9), [Elizabeth Sager](people/elizabeth-sager) (7), [Carlos Alatorre](people/carlos-alatorre) (7), [Robert Stalford](people/robert-stalford) (5), [Carol Clair](people/carol-clair) (4). Mailbox folders observed: cya, elizabeth_sager, inbox.",
+  "timeline": "- **2001-04-23** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hai-chen",
+    "name": "Hai Chen",
+    "email": "hai.chen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

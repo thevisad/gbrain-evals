@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-lawrence",
+  "type": "person",
+  "title": "L  Lawrence",
+  "compiled_truth": "L  Lawrence is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-16 to 2001-12-03), L  Lawrence sent 4 and received 81 emails, totalling 85 interactions. Top correspondents: [L  Nicolay](people/l-nicolay) (4), [J  Kean](people/j-kean) (3), [Elizabeth Linnell](people/elizabeth-linnell) (3), [Sarah Novosel](people/sarah-novosel) (3), [Richard Shapiro](people/richard-shapiro) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-07-16** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-lawrence",
+    "name": "L  Lawrence",
+    "email": "l..lawrence@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

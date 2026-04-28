@@ -1,0 +1,14 @@
+{
+  "slug": "people/elaine-concklin",
+  "type": "person",
+  "title": "Elaine Concklin",
+  "compiled_truth": "Elaine Concklin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-18 to 2001-12-27), Elaine Concklin sent 25 and received 120 emails, totalling 145 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (20), [Rositza Smilenova](people/rositza-smilenova) (8), [Rod Hayslett](people/rod-hayslett) (8), [Vera Apodaca](people/vera-apodaca) (7), [James Weitekamp](people/james-weitekamp) (6). Mailbox folders observed: accounting, deleted_items, et_s, gpg_ops, inbox, rm_work_order.",
+  "timeline": "- **2000-07-18** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elaine-concklin",
+    "name": "Elaine Concklin",
+    "email": "elaine.concklin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

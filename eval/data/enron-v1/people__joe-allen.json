@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-allen",
+  "type": "person",
+  "title": "Joe Allen",
+  "compiled_truth": "Joe Allen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-16 to 2002-02-12), Joe Allen sent 0 and received 286 emails, totalling 286 interactions.",
+  "timeline": "- **1999-10-16** | First recorded email in corpus\n- **2002-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-allen",
+    "name": "Joe Allen",
+    "email": "joe.allen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

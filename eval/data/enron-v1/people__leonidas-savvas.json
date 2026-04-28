@@ -1,0 +1,14 @@
+{
+  "slug": "people/leonidas-savvas",
+  "type": "person",
+  "title": "Leonidas Savvas",
+  "compiled_truth": "Leonidas Savvas is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2001-12-13), Leonidas Savvas sent 1 and received 91 emails, totalling 92 interactions. Top correspondents: [F  Brawner](people/f-brawner) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2001-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leonidas-savvas",
+    "name": "Leonidas Savvas",
+    "email": "leonidas.savvas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

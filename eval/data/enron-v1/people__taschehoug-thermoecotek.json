@@ -1,0 +1,14 @@
+{
+  "slug": "people/taschehoug-thermoecotek",
+  "type": "person",
+  "title": "Taschehoug",
+  "compiled_truth": "Taschehoug is an external contact at [Thermoecotek](companies/thermoecotek). Over the corpus period (2000-09-01 to 2001-06-22), Taschehoug sent 0 and received 75 emails, totalling 75 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-06-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/taschehoug-thermoecotek",
+    "name": "Taschehoug",
+    "email": "taschehoug@thermoecotek.com",
+    "primary_affiliation": "companies/thermoecotek"
+  }
+}

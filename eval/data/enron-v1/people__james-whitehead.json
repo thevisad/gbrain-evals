@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-whitehead",
+  "type": "person",
+  "title": "James Whitehead",
+  "compiled_truth": "James Whitehead is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-11-26), James Whitehead sent 1 and received 96 emails, totalling 97 interactions. Top correspondents: [Tina Spiller](people/tina-spiller) (1), [D  Gros](people/d-gros) (1), [Sally Beck](people/sally-beck) (1), [Beth Perlman](people/beth-perlman) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-whitehead",
+    "name": "James Whitehead",
+    "email": "james.whitehead@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

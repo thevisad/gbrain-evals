@@ -1,0 +1,14 @@
+{
+  "slug": "people/rhyte-keyspanenergy",
+  "type": "person",
+  "title": "Rhyte",
+  "compiled_truth": "Rhyte is an external contact at [Keyspanenergy](companies/keyspanenergy). Over the corpus period (2000-11-07 to 2001-09-04), Rhyte sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rhyte-keyspanenergy",
+    "name": "Rhyte",
+    "email": "rhyte@keyspanenergy.com",
+    "primary_affiliation": "companies/keyspanenergy"
+  }
+}

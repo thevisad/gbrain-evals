@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephens",
+  "type": "person",
+  "title": " Stephens",
+  "compiled_truth": "Stephens is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-04-23 to 2002-06-24),  Stephens sent 0 and received 37 emails, totalling 37 interactions.",
+  "timeline": "- **2002-04-23** | First recorded email in corpus\n- **2002-06-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephens",
+    "name": " Stephens",
+    "email": ".stephens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

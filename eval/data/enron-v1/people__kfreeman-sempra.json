@@ -1,0 +1,14 @@
+{
+  "slug": "people/kfreeman-sempra",
+  "type": "person",
+  "title": "Kfreeman",
+  "compiled_truth": "Kfreeman is an external contact at [Sempra Energy](companies/sempra). Over the corpus period (2000-04-11 to 2001-05-10), Kfreeman sent 0 and received 39 emails, totalling 39 interactions.",
+  "timeline": "- **2000-04-11** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kfreeman-sempra",
+    "name": "Kfreeman",
+    "email": "kfreeman@sempra.com",
+    "primary_affiliation": "companies/sempra"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-adame",
+  "type": "person",
+  "title": "Robert Adame",
+  "compiled_truth": "Robert Adame is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-15 to 2002-02-12), Robert Adame sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-10-15** | First recorded email in corpus\n- **2002-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-adame",
+    "name": "Robert Adame",
+    "email": "robert.adame@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

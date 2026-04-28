@@ -1,0 +1,14 @@
+{
+  "slug": "people/julia-white",
+  "type": "person",
+  "title": "Julia White",
+  "compiled_truth": "Julia White is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2001-06-22), Julia White sent 8 and received 355 emails, totalling 363 interactions. Top correspondents: [Steven January](people/steven-january) (5), [Shelley Corman](people/shelley-corman) (5), [Mary Miller](people/mary-miller) (4), [Drew Fossum](people/drew-fossum) (4), [Sheila Nacey](people/sheila-nacey) (4).",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2001-06-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julia-white",
+    "name": "Julia White",
+    "email": "julia.white@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

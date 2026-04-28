@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-mcisaac",
+  "type": "person",
+  "title": "Lisa Mcisaac",
+  "compiled_truth": "Lisa Mcisaac is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-09 to 2002-02-04), Lisa Mcisaac sent 1 and received 16 emails, totalling 17 interactions. Top correspondents: [Chris Dorland](people/chris-dorland) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-03-09** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-mcisaac",
+    "name": "Lisa Mcisaac",
+    "email": "lisa.mcisaac@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

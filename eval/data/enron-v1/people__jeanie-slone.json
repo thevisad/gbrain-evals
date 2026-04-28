@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeanie-slone",
+  "type": "person",
+  "title": "Jeanie Slone",
+  "compiled_truth": "Jeanie Slone is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2002-02-19), Jeanie Slone sent 64 and received 314 emails, totalling 378 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (26), [John Lavorato](people/john-lavorato) (12), [Michelle Cash](people/michelle-cash) (5), [David Oxley](people/david-oxley) (5), [A  Martin](people/a-martin) (5). Mailbox folders observed: _americas, deleted_items, gas, inbox, personal.",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeanie-slone",
+    "name": "Jeanie Slone",
+    "email": "jeanie.slone@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

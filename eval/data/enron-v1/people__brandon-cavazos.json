@@ -1,0 +1,14 @@
+{
+  "slug": "people/brandon-cavazos",
+  "type": "person",
+  "title": "Brandon Cavazos",
+  "compiled_truth": "Brandon Cavazos is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-11-20), Brandon Cavazos sent 0 and received 57 emails, totalling 57 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brandon-cavazos",
+    "name": "Brandon Cavazos",
+    "email": "brandon.cavazos@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

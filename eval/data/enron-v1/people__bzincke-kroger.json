@@ -1,0 +1,14 @@
+{
+  "slug": "people/bzincke-kroger",
+  "type": "person",
+  "title": "Bzincke",
+  "compiled_truth": "Bzincke is an external contact at [Kroger](companies/kroger). Over the corpus period (2000-11-13 to 2001-06-06), Bzincke sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bzincke-kroger",
+    "name": "Bzincke",
+    "email": "bzincke@kroger.com",
+    "primary_affiliation": "companies/kroger"
+  }
+}

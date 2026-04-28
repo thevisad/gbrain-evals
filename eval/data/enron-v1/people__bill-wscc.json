@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-wscc",
+  "type": "person",
+  "title": "Bill",
+  "compiled_truth": "Bill is an external contact at [Wscc](companies/wscc). Over the corpus period (2001-08-14 to 2001-08-14), Bill sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-wscc",
+    "name": "Bill",
+    "email": "bill@wscc.com",
+    "primary_affiliation": "companies/wscc"
+  }
+}

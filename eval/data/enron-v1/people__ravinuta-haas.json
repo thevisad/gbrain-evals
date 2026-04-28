@@ -1,0 +1,14 @@
+{
+  "slug": "people/ravinuta-haas",
+  "type": "person",
+  "title": "Ravinuta",
+  "compiled_truth": "Ravinuta is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-09-05), Ravinuta sent 0 and received 44 emails, totalling 44 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-09-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ravinuta-haas",
+    "name": "Ravinuta",
+    "email": "ravinuta@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

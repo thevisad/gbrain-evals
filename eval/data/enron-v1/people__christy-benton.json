@@ -1,0 +1,14 @@
+{
+  "slug": "people/christy-benton",
+  "type": "person",
+  "title": "Christy Benton",
+  "compiled_truth": "Christy Benton is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-18 to 2002-05-06), Christy Benton sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-04-18** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christy-benton",
+    "name": "Christy Benton",
+    "email": "christy.benton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

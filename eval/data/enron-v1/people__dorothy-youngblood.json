@@ -1,0 +1,14 @@
+{
+  "slug": "people/dorothy-youngblood",
+  "type": "person",
+  "title": "Dorothy Youngblood",
+  "compiled_truth": "Dorothy Youngblood is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-22 to 2001-07-10), Dorothy Youngblood sent 4 and received 531 emails, totalling 535 interactions. Top correspondents: [Rick Buy](people/rick-buy) (3), [William Bradford](people/william-bradford) (2), [Debbie Brackett](people/debbie-brackett) (2), [Karen Heathman](people/karen-heathman) (2), [Molly Harris](people/molly-harris) (2).",
+  "timeline": "- **2000-06-22** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dorothy-youngblood",
+    "name": "Dorothy Youngblood",
+    "email": "dorothy.youngblood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

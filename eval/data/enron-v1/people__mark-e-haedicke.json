@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-e-haedicke",
+  "type": "person",
+  "title": "Mark E Haedicke",
+  "compiled_truth": "Mark E Haedicke is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-28), Mark E Haedicke sent 1 and received 316 emails, totalling 317 interactions. Top correspondents: [Julia Murray](people/julia-murray) (1), [Lance Schuler](people/lance-schuler) (1), [Deb Korkmas](people/deb-korkmas) (1), [Vivian Nguyen](people/vivian-nguyen) (1), [Edie Leschber](people/edie-leschber) (1). Mailbox folders observed: sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-e-haedicke",
+    "name": "Mark E Haedicke",
+    "email": "mark.e.haedicke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-fairley",
+  "type": "person",
+  "title": "David Fairley",
+  "compiled_truth": "David Fairley is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-24 to 2001-11-28), David Fairley sent 42 and received 503 emails, totalling 545 interactions. Top correspondents: [Kay Mann](people/kay-mann) (23), [Reagan Rorschach](people/reagan-rorschach) (17), [Dan Hyvl](people/dan-hyvl) (11), [Heather Kroll](people/heather-kroll) (6), [Tom May](people/tom-may) (5). Mailbox folders observed: ft__pierce, yazoo_city.",
+  "timeline": "- **1999-05-24** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-fairley",
+    "name": "David Fairley",
+    "email": "david.fairley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

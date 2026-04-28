@@ -1,0 +1,14 @@
+{
+  "slug": "people/dlawrence-wcp",
+  "type": "person",
+  "title": "Dlawrence",
+  "compiled_truth": "Dlawrence is an external contact at [Wcp](companies/wcp). Over the corpus period (1999-11-15 to 2000-04-05), Dlawrence sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus\n- **2000-04-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dlawrence-wcp",
+    "name": "Dlawrence",
+    "email": "dlawrence@wcp.twc.com",
+    "primary_affiliation": "companies/wcp"
+  }
+}

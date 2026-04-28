@@ -1,0 +1,14 @@
+{
+  "slug": "people/todd-ingalls",
+  "type": "person",
+  "title": "Todd Ingalls",
+  "compiled_truth": "Todd Ingalls is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-06 to 2002-03-25), Todd Ingalls sent 4 and received 68 emails, totalling 72 interactions. Top correspondents: [Darrell Schoolcraft](people/darrell-schoolcraft) (4), [Donald Montgomery](people/donald-montgomery) (2), [Angela Sayegh](people/angela-sayegh) (2), [Team Gallup-Sta5](people/team-gallup-sta5) (2), [David Roensch](people/david-roensch) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-01-06** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/todd-ingalls",
+    "name": "Todd Ingalls",
+    "email": "todd.ingalls@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

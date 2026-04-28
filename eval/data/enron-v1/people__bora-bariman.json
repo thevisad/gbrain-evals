@@ -1,0 +1,14 @@
+{
+  "slug": "people/bora-bariman",
+  "type": "person",
+  "title": "Bora Bariman",
+  "compiled_truth": "Bora Bariman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-30 to 2001-08-28), Bora Bariman sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-11-30** | First recorded email in corpus\n- **2001-08-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bora-bariman",
+    "name": "Bora Bariman",
+    "email": "bora.bariman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/vtapia-pulsar",
+  "type": "person",
+  "title": "Vtapia",
+  "compiled_truth": "Vtapia is an external contact at [Pulsar](companies/pulsar). Over the corpus period (2001-03-16 to 2001-07-11), Vtapia sent 15 and received 15 emails, totalling 30 interactions. Top correspondents: [Geoff Storey](people/geoff-storey) (13), [Gstorey](people/gstorey) (2).",
+  "timeline": "- **2001-03-16** | First recorded email in corpus\n- **2001-07-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vtapia-pulsar",
+    "name": "Vtapia",
+    "email": "vtapia@pulsar.com.mx",
+    "primary_affiliation": "companies/pulsar"
+  }
+}

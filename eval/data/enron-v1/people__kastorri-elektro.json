@@ -1,0 +1,14 @@
+{
+  "slug": "people/kastorri-elektro",
+  "type": "person",
+  "title": "Kastorri",
+  "compiled_truth": "Kastorri is an external contact at [Elektro](companies/elektro). Over the corpus period (2001-04-26 to 2001-05-17), Kastorri sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [Jmargalith](people/jmargalith-elektro) (1), [Malmeida](people/malmeida-elektro) (1), [Tcalvao](people/tcalvao-elektro) (1), [Aline Merone](people/aline-merone) (1), [Andrea Calo](people/andrea-calo) (1).",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2001-05-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kastorri-elektro",
+    "name": "Kastorri",
+    "email": "kastorri@elektro.com.br",
+    "primary_affiliation": "companies/elektro"
+  }
+}

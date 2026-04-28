@@ -1,0 +1,14 @@
+{
+  "slug": "people/willie-harrell",
+  "type": "person",
+  "title": "Willie Harrell",
+  "compiled_truth": "Willie Harrell is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-21), Willie Harrell sent 10 and received 222 emails, totalling 232 interactions. Top correspondents: [Steve Venturatos](people/steve-venturatos) (5), [Michael Eiben](people/michael-eiben) (5), [Kate Symes](people/kate-symes) (4), [Kelly Lombardi](people/kelly-lombardi) (3), [Cecilia Cheung](people/cecilia-cheung) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/willie-harrell",
+    "name": "Willie Harrell",
+    "email": "willie.harrell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

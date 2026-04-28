@@ -1,0 +1,27 @@
+{
+  "slug": "meetings/meeting-change-2001-11",
+  "type": "meeting",
+  "title": "Meeting: Meeting Change",
+  "compiled_truth": "Meeting: \"Meeting Change\". Occurred 2001-11-27 with 1 related emails. Participants included: [B  Sanders](people/b-sanders), [C  Forsyth](people/c-forsyth), [Carol St ](people/carol-st), [Carolyn George](people/carolyn-george), [Elizabeth Sager](people/elizabeth-sager), [Georgeanne Hodges](people/georgeanne-hodges), [J  Simmons](people/j-simmons), [Joel Ephross](people/joel-ephross)....",
+  "timeline": "- **2001-11-27** | Meeting: meeting change",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-change-2001-11",
+    "attendees": [
+      "people/b-sanders",
+      "people/c-forsyth",
+      "people/carol-st",
+      "people/carolyn-george",
+      "people/elizabeth-sager",
+      "people/georgeanne-hodges",
+      "people/j-simmons",
+      "people/joel-ephross",
+      "people/jordan-mintz",
+      "people/julia-murray",
+      "people/michael-tribolet",
+      "people/twanda-sweet",
+      "people/vicki-sharp"
+    ],
+    "date": "2001-11-27"
+  }
+}

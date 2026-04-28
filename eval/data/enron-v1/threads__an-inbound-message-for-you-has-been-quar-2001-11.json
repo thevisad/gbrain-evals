@@ -1,0 +1,37 @@
+{
+  "slug": "threads/an-inbound-message-for-you-has-been-quar-2001-11",
+  "type": "meeting",
+  "title": "Thread: An Inbound Message For You Has Been Quarantined",
+  "compiled_truth": "Email thread: \"An Inbound Message For You Has Been Quarantined\". Ran from 2001-11-07 to 2001-12-07 with 11 messages. Participants: [Admin Enron](people/admin-enron), [Alan Comnes](people/alan-comnes), [Bill Williams](people/bill-williams), [Chris Mallory](people/chris-mallory), [Chris Stokley](people/chris-stokley), [Enron Mailsweeper Admin](people/enron-mailsweeper-admin), [Heather Dunton](people/heather-dunton), [Jeff Dasovich](people/jeff-dasovich).",
+  "timeline": "- **2001-11-07** | Thread begins: an inbound message for you has been quarantined\n- **2001-12-07** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/an-inbound-message-for-you-has-been-quar-2001-11",
+    "attendees": [
+      "people/admin-enron",
+      "people/alan-comnes",
+      "people/bill-williams",
+      "people/chris-mallory",
+      "people/chris-stokley",
+      "people/enron-mailsweeper-admin",
+      "people/heather-dunton",
+      "people/jeff-dasovich",
+      "people/jeff-richter",
+      "people/jhodge2-notes",
+      "people/kay-mann",
+      "people/kourtney-nelson",
+      "people/lester-rawson",
+      "people/mark-fischer",
+      "people/michael-spruiell",
+      "people/p-o-neil",
+      "people/ray-alvarez",
+      "people/rick-wurlitzer",
+      "people/rsander-notes",
+      "people/sarah-novosel",
+      "people/sean-crandall",
+      "people/theresa-staab",
+      "people/tom-alonso"
+    ],
+    "date": "2001-11-07"
+  }
+}

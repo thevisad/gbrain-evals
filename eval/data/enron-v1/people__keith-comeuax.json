@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-comeuax",
+  "type": "person",
+  "title": "Keith Comeuax",
+  "compiled_truth": "Keith Comeuax is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-27 to 2001-06-27), Keith Comeuax sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-06-27** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-comeuax",
+    "name": "Keith Comeuax",
+    "email": "keith.comeuax@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

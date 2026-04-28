@@ -1,0 +1,14 @@
+{
+  "slug": "people/robin-tompkins",
+  "type": "person",
+  "title": "Robin Tompkins",
+  "compiled_truth": "Robin Tompkins is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-26 to 2001-09-19), Robin Tompkins sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-04-26** | First recorded email in corpus\n- **2001-09-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robin-tompkins",
+    "name": "Robin Tompkins",
+    "email": "robin.tompkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

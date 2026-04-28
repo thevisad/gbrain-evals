@@ -1,0 +1,28 @@
+{
+  "slug": "meetings/meeting-2000-04",
+  "type": "meeting",
+  "title": "Meeting: Meeting",
+  "compiled_truth": "Meeting: \"Meeting\". Occurred 2000-04-11 through 2000-04-12 with 6 related emails. Participants included: [Brenda Fletcher](people/brenda-fletcher), [Chris Germany](people/chris-germany), [David Oliver](people/david-oliver), [Elizabeth Hernandez](people/elizabeth-hernandez), [Jeff Westover](people/jeff-westover), [Joan Veselack](people/joan-veselack), [Joann Collins](people/joann-collins), [Kimberly Brown](people/kimberly-brown)....",
+  "timeline": "- **2000-04-11** | Meeting: meeting\n- **2000-04-12** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-2000-04",
+    "attendees": [
+      "people/brenda-fletcher",
+      "people/chris-germany",
+      "people/david-oliver",
+      "people/elizabeth-hernandez",
+      "people/jeff-westover",
+      "people/joan-veselack",
+      "people/joann-collins",
+      "people/kimberly-brown",
+      "people/mark-feldman",
+      "people/molly-johnson",
+      "people/robert-allwein",
+      "people/scott-goodell",
+      "people/sherry-anastas",
+      "people/victor-lamadrid"
+    ],
+    "date": "2000-04-11"
+  }
+}

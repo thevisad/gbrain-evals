@@ -1,0 +1,14 @@
+{
+  "slug": "people/khoffman-caithnessenergy",
+  "type": "person",
+  "title": "Khoffman",
+  "compiled_truth": "Khoffman is an external contact at [Caithnessenergy](companies/caithnessenergy). Over the corpus period (2000-08-31 to 2001-07-31), Khoffman sent 0 and received 224 emails, totalling 224 interactions.",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/khoffman-caithnessenergy",
+    "name": "Khoffman",
+    "email": "khoffman@caithnessenergy.com",
+    "primary_affiliation": "companies/caithnessenergy"
+  }
+}

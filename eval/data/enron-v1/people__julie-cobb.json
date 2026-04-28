@@ -1,0 +1,14 @@
+{
+  "slug": "people/julie-cobb",
+  "type": "person",
+  "title": "Julie Cobb",
+  "compiled_truth": "Julie Cobb is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-14 to 2001-10-12), Julie Cobb sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1), [Jeff Skilling](people/jeff-skilling) (1).",
+  "timeline": "- **2000-03-14** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julie-cobb",
+    "name": "Julie Cobb",
+    "email": "julie.cobb@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

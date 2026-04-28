@@ -1,0 +1,14 @@
+{
+  "slug": "people/henderson-jay",
+  "type": "person",
+  "title": "Henderson' 'Jay",
+  "compiled_truth": "Henderson' 'Jay is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-04 to 2001-10-26), Henderson' 'Jay sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-10-04** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/henderson-jay",
+    "name": "Henderson' 'Jay",
+    "email": "henderson'.'jay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

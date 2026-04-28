@@ -1,0 +1,14 @@
+{
+  "slug": "people/tantra-invedy",
+  "type": "person",
+  "title": "Tantra Invedy",
+  "compiled_truth": "Tantra Invedy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-27 to 2002-02-19), Tantra Invedy sent 2 and received 16 emails, totalling 18 interactions. Top correspondents: [Tony Marquez](people/tony-marquez) (1), [Joe Stepenovitch](people/joe-stepenovitch) (1), [Monika Causholli](people/monika-causholli) (1), [Duong Luu](people/duong-luu) (1), [Kroum Kroumov](people/kroum-kroumov) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-12-27** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tantra-invedy",
+    "name": "Tantra Invedy",
+    "email": "tantra.invedy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

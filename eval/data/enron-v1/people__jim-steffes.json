@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-steffes",
+  "type": "person",
+  "title": "Jim Steffes",
+  "compiled_truth": "Jim Steffes is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-05 to 2002-01-24), Jim Steffes sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-03-05** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-steffes",
+    "name": "Jim Steffes",
+    "email": "jim.steffes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rpkinney-nyseg",
+  "type": "person",
+  "title": "Rpkinney",
+  "compiled_truth": "Rpkinney is an external contact at [Nyseg](companies/nyseg). Over the corpus period (2000-11-28 to 2002-02-19), Rpkinney sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rpkinney-nyseg",
+    "name": "Rpkinney",
+    "email": "rpkinney@nyseg.com",
+    "primary_affiliation": "companies/nyseg"
+  }
+}

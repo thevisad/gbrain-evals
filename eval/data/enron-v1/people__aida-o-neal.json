@@ -1,0 +1,14 @@
+{
+  "slug": "people/aida-o-neal",
+  "type": "person",
+  "title": "Aida O'Neal",
+  "compiled_truth": "Aida O'Neal is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-06 to 2001-11-28), Aida O'Neal sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **2000-09-06** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aida-o-neal",
+    "name": "Aida O'Neal",
+    "email": "aida.o'neal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

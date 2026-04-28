@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-miller",
+  "type": "person",
+  "title": "Mary Miller",
+  "compiled_truth": "Mary Miller is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-22), Mary Miller sent 21 and received 774 emails, totalling 795 interactions. Top correspondents: [Drew Fossum](people/drew-fossum) (18), [Glen Hass](people/glen-hass) (14), [Mary Darveaux](people/mary-darveaux) (12), [Susan Scott](people/susan-scott) (10), [Shelley Corman](people/shelley-corman) (8). Mailbox folders observed: tw.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-miller",
+    "name": "Mary Miller",
+    "email": "mary.miller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

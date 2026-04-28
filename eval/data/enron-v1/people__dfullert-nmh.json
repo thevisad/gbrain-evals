@@ -1,0 +1,14 @@
+{
+  "slug": "people/dfullert-nmh",
+  "type": "person",
+  "title": "Dfullert",
+  "compiled_truth": "Dfullert is an external contact at [Nmh](companies/nmh). Over the corpus period (2000-09-20 to 2001-10-22), Dfullert sent 1 and received 33 emails, totalling 34 interactions. Top correspondents: [Smu-Betas](people/smu-betas-yahoogroups) (1).",
+  "timeline": "- **2000-09-20** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dfullert-nmh",
+    "name": "Dfullert",
+    "email": "dfullert@nmh.org",
+    "primary_affiliation": "companies/nmh"
+  }
+}

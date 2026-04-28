@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-richard",
+  "type": "person",
+  "title": "Robert Richard",
+  "compiled_truth": "Robert Richard is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-30 to 2002-06-21), Robert Richard sent 1 and received 30 emails, totalling 31 interactions. Top correspondents: [Susan Bailey](people/susan-bailey) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-12-30** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-richard",
+    "name": "Robert Richard",
+    "email": "robert.richard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

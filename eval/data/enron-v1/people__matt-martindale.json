@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-martindale",
+  "type": "person",
+  "title": "Matt Martindale",
+  "compiled_truth": "Matt Martindale is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-20 to 2001-10-03), Matt Martindale sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-09-20** | First recorded email in corpus\n- **2001-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-martindale",
+    "name": "Matt Martindale",
+    "email": "matt.martindale@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

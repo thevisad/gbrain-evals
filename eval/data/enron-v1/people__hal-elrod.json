@@ -1,0 +1,14 @@
+{
+  "slug": "people/hal-elrod",
+  "type": "person",
+  "title": "Hal Elrod",
+  "compiled_truth": "Hal Elrod is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-04 to 2001-11-26), Hal Elrod sent 1 and received 55 emails, totalling 56 interactions. Top correspondents: [Robert Superty](people/robert-superty) (1), [Daren Farmer](people/daren-farmer) (1), [Dave Mcmullan](people/dave-mcmullan) (1), [Edward Terry](people/edward-terry) (1), [George Smith](people/george-smith) (1).",
+  "timeline": "- **2000-02-04** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hal-elrod",
+    "name": "Hal Elrod",
+    "email": "hal.elrod@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

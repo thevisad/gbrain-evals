@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-glessner",
+  "type": "person",
+  "title": "David Glessner",
+  "compiled_truth": "David Glessner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-05-06), David Glessner sent 1 and received 61 emails, totalling 62 interactions. Top correspondents: [Paul Y'Barbo](people/paul-y-barbo) (1), [Eric Groves](people/eric-groves) (1), [Rick Sierra](people/rick-sierra) (1), [Greg Curran](people/greg-curran) (1). Mailbox folders observed: enron_lng.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-glessner",
+    "name": "David Glessner",
+    "email": "david.glessner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

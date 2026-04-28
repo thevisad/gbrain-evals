@@ -1,0 +1,14 @@
+{
+  "slug": "people/wayne-gardner",
+  "type": "person",
+  "title": "Wayne Gardner",
+  "compiled_truth": "Wayne Gardner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-03 to 2001-11-29), Wayne Gardner sent 16 and received 61 emails, totalling 77 interactions. Top correspondents: [James Ginty](people/james-ginty) (14), [Jeff Dasovich](people/jeff-dasovich) (14), [Robbi Rossi](people/robbi-rossi) (14), [Sue Nord](people/sue-nord) (14), [Donald Lassere](people/donald-lassere) (13). Mailbox folders observed: notes_inbox.",
+  "timeline": "- **2000-10-03** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wayne-gardner",
+    "name": "Wayne Gardner",
+    "email": "wayne.gardner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

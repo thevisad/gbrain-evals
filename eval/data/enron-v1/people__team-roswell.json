@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-roswell",
+  "type": "person",
+  "title": "Team Roswell",
+  "compiled_truth": "Team Roswell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-13 to 2002-03-18), Team Roswell sent 0 and received 53 emails, totalling 53 interactions.",
+  "timeline": "- **2000-03-13** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-roswell",
+    "name": "Team Roswell",
+    "email": "team.roswell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kmoxness-cencoast",
+  "type": "person",
+  "title": "Kmoxness",
+  "compiled_truth": "Kmoxness is an external contact at [Cencoast](companies/cencoast). Over the corpus period (2001-02-20 to 2001-04-27), Kmoxness sent 0 and received 68 emails, totalling 68 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kmoxness-cencoast",
+    "name": "Kmoxness",
+    "email": "kmoxness@cencoast.com",
+    "primary_affiliation": "companies/cencoast"
+  }
+}

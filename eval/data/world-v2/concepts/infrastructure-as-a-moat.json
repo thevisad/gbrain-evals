@@ -1,0 +1,32 @@
+{
+  "slug": "concepts/infrastructure-as-a-moat",
+  "type": "concept",
+  "title": "Infrastructure as a Moat",
+  "compiled_truth": "The core thesis is deceptively simple: once a customer integrates your primitives deep enough into their data pipeline, the cost of ripping you out exceeds the cost of staying — and that asymmetry grows with every month of tenure. This is the strategic foundation that [Avery Johansson](people/avery-johansson) articulated early in Anchor Codec's life, and it remains the gravitational center of the company's go-to-market thinking.\n\nInfrastructure-as-a-moat differs from conventional product stickiness in a few important ways. A SaaS tool with a good UI might retain users through habit or preference. But infrastructure that sits in the critical path of data ingestion, authentication, and delivery creates dependencies that are architectural, not behavioral. When Anchor's single-pass primitives handle compression and auth simultaneously in a customer's pipeline, removing them means re-engineering not just the integration point but the downstream assumptions every other system has made about throughput, latency, and data integrity. The switching cost isn't the migration — it's the regression testing, the re-certification, and the operational risk of touching a system that already works.\n\n[Sol Mensah](people/sol-mensah) has been instrumental in quantifying this effect. His work on customer cohort analysis showed that net revenue retention climbs almost linearly with integration depth, measured by the number of distinct pipeline stages that touch Anchor primitives. Customers with three or more integration points had retention above 140% after 18 months, compared to roughly 105% for single-point integrations. This data became a central part of the pitch to [Thornfield Capital](companies/thornfield-capital) during the Series A process, and it's what convinced [Lacework Fund](companies/lacework-fund) to lead the seed — they'd seen this pattern before in devtools infrastructure and recognized the compounding dynamic.\n\nThe concept isn't without risks. Deep integration can slow down initial sales cycles because customers are, reasonably, cautious about embedding a young startup's technology into critical infrastructure. The team has countered this with a \"shallow-first\" deployment model: start with a single non-critical pipeline, prove reliability, then expand. It's working, but the ramp time per account is still longer than a typical SaaS land-and-expand. There's also the question of whether the moat holds if a well-funded compettitor builds a compatible drop-in replacement — something the engineering team worries about more than the business side does.\n\nUltimately, the thesis bets on a truth about enterprise software: nobody wants to touch infrastructure that works. Inertia is the strongest force in technology, and Anchor Codec is building to exploit it.",
+  "timeline": [
+    "- **2026-03-12** | [Avery Johansson](people/avery-johansson) circulates first internal memo titled \"Why Infrastructure Wins\" outlining the moat thesis for the founding team.",
+    "- **2026-06-01** | Early design decision to structure Anchor's SDK as a pipeline-native primitive rather than a standalone API — directly influenced by moat thesis.",
+    "- **2026-09-18** | [Lacework Fund](companies/lacework-fund) seed investment closes; partners cite infrastructure moat dynamics as a key factor in their conviction.",
+    "- **2027-01-22** | [Sol Mensah](people/sol-mensah) presents first cohort retention analysis at internal all-hands, showing correlation between integration depth and NRR.",
+    "- **2027-04-10** | \"Shallow-first\" deployment model formally adopted after feedback from three enterprise prospects who balked at deep initial integration.",
+    "- **2027-07-15** | Moat thesis stress-tested during [Thornfield Capital](companies/thornfield-capital) due diligence; Sol presents updated retention data showing 140%+ NRR for deep integrations.",
+    "- **2027-09-03** | Avery gives a talk at a private infrastructure founders dinner on switching cost compounding — draws interest from two later-stage investors.",
+    "- **2028-01-11** | First customer reaches five distinct pipeline integration points; becomes internal case study for maximum moat depth.",
+    "- **2028-04-29** | Competitive threat assessment initiated after a well-funded startup announces compatible primitives; engineering begins work on protocol-level differentiation.",
+    "- **2028-06-20** | Updated moat thesis doc published internally, incorporating 2+ years of retention data and competitive positioning analysis."
+  ],
+  "_facts": {
+    "type": "concept",
+    "slug": "concepts/infrastructure-as-a-moat",
+    "name": "infrastructure as a moat",
+    "description": "Deep integration into data pipelines creates switching costs that compound with customer tenure",
+    "related_companies": [
+      "companies/lacework-fund",
+      "companies/thornfield-capital"
+    ],
+    "related_people": [
+      "people/avery-johansson",
+      "people/sol-mensah"
+    ]
+  }
+}

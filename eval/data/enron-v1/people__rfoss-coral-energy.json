@@ -1,0 +1,14 @@
+{
+  "slug": "people/rfoss-coral-energy",
+  "type": "person",
+  "title": "Rfoss",
+  "compiled_truth": "Rfoss is an external contact at [Coral-energy](companies/coral-energy). Over the corpus period (1999-10-04 to 2001-07-31), Rfoss sent 0 and received 177 emails, totalling 177 interactions.",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rfoss-coral-energy",
+    "name": "Rfoss",
+    "email": "rfoss@coral-energy.com",
+    "primary_affiliation": "companies/coral-energy"
+  }
+}

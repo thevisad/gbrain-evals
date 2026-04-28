@@ -1,0 +1,14 @@
+{
+  "slug": "people/brandee-sanborn",
+  "type": "person",
+  "title": "Brandee Sanborn",
+  "compiled_truth": "Brandee Sanborn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2002-01-12), Brandee Sanborn sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2002-01-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brandee-sanborn",
+    "name": "Brandee Sanborn",
+    "email": "brandee.sanborn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

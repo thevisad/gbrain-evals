@@ -1,0 +1,39 @@
+{
+  "slug": "companies/apsc",
+  "type": "company",
+  "title": "Apsc",
+  "compiled_truth": "Apsc is an external organization that appears in the Enron email corpus. Domain: apsc.com. Total email interactions with Enron: 280. Known contacts: 22 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (280 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/apsc",
+    "name": "Apsc",
+    "employees": [
+      "people/anyoung-apsc",
+      "people/barbara-klemstine-apsc",
+      "people/cathy-pocock-apsc",
+      "people/curt-brechtel-apsc",
+      "people/dahansen-apsc",
+      "people/diane-wood-apsc",
+      "people/gretchen-kitchel-apsc",
+      "people/mferrara-apsc",
+      "people/mhackney-apsc",
+      "people/oasis502-apsc",
+      "people/oasissvcs-apsc",
+      "people/rsmith03-apsc",
+      "people/rstultin-apsc",
+      "people/ryoung05-apsc",
+      "people/scaps-apsc",
+      "people/skesler-apsc",
+      "people/smaest01-apsc",
+      "people/tcarlson-apsc",
+      "people/wkotzman-apsc",
+      "people/z61913-apsc",
+      "people/z69945-apsc",
+      "people/zb4622-apsc"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

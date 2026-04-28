@@ -1,0 +1,14 @@
+{
+  "slug": "people/vitaly-lee-aes",
+  "type": "person",
+  "title": "Vitaly Lee",
+  "compiled_truth": "Vitaly Lee is an external contact at [Aes](companies/aes). Over the corpus period (2001-12-31 to 2002-01-02), Vitaly Lee sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-12-31** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vitaly-lee-aes",
+    "name": "Vitaly Lee",
+    "email": "vitaly.lee@aes.com",
+    "primary_affiliation": "companies/aes"
+  }
+}

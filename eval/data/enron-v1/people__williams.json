@@ -1,0 +1,14 @@
+{
+  "slug": "people/williams",
+  "type": "person",
+  "title": " Williams",
+  "compiled_truth": "Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-20 to 2002-05-13),  Williams sent 110 and received 875 emails, totalling 985 interactions. Top correspondents: [ Ward](people/ward) (13), [Debra Perlingiere](people/debra-perlingiere) (12), [Marie Heard](people/marie-heard) (8), [T  Hodge](people/t-hodge) (7), [Gerald Nemec](people/gerald-nemec) (5). Mailbox folders observed: _americas, bhp, deleted_items, frito_lay, gas_customers___chris_foster, hesco.",
+  "timeline": "- **2001-03-20** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/williams",
+    "name": " Williams",
+    "email": ".williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

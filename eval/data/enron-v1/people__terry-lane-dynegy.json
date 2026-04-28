@@ -1,0 +1,14 @@
+{
+  "slug": "people/terry-lane-dynegy",
+  "type": "person",
+  "title": "Terry Lane",
+  "compiled_truth": "Terry Lane is an external contact at [Dynegy](companies/dynegy). Over the corpus period (2001-03-12 to 2001-06-29), Terry Lane sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-06-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terry-lane-dynegy",
+    "name": "Terry Lane",
+    "email": "terry.lane@dynegy.com",
+    "primary_affiliation": "companies/dynegy"
+  }
+}

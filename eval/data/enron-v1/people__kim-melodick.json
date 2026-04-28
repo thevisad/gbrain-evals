@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-melodick",
+  "type": "person",
+  "title": "Kim Melodick",
+  "compiled_truth": "Kim Melodick is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-12-03), Kim Melodick sent 55 and received 276 emails, totalling 331 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (26), [Doug Gilbert-Smith](people/doug-gilbert-smith) (10), [John Lavorato](people/john-lavorato) (9), [Kevin Presto](people/kevin-presto) (8), [Rogers Herndon](people/rogers-herndon) (7). Mailbox folders observed: _americas, deleted_items, enron_power, inbox, performance, presto_working_files.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-melodick",
+    "name": "Kim Melodick",
+    "email": "kim.melodick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

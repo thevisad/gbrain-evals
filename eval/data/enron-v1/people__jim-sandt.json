@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-sandt",
+  "type": "person",
+  "title": "Jim Sandt",
+  "compiled_truth": "Jim Sandt is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-07 to 2002-05-06), Jim Sandt sent 2 and received 20 emails, totalling 22 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (1), [Dee Svatos](people/dee-svatos) (1), [Rod Hayslett](people/rod-hayslett) (1), [Jerry Peters](people/jerry-peters) (1), [Janet Place](people/janet-place) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-07** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-sandt",
+    "name": "Jim Sandt",
+    "email": "jim.sandt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

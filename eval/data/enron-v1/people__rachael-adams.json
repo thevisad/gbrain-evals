@@ -1,0 +1,14 @@
+{
+  "slug": "people/rachael-adams",
+  "type": "person",
+  "title": "Rachael Adams",
+  "compiled_truth": "Rachael Adams is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-31 to 2001-09-27), Rachael Adams sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-07-31** | First recorded email in corpus\n- **2001-09-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rachael-adams",
+    "name": "Rachael Adams",
+    "email": "rachael.adams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

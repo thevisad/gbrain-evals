@@ -1,0 +1,14 @@
+{
+  "slug": "people/rcsstl-cdmnet",
+  "type": "person",
+  "title": "Rcsstl",
+  "compiled_truth": "Rcsstl is an external contact at [Cdmnet](companies/cdmnet). Over the corpus period (2000-05-08 to 2001-05-10), Rcsstl sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rcsstl-cdmnet",
+    "name": "Rcsstl",
+    "email": "rcsstl@cdmnet.com",
+    "primary_affiliation": "companies/cdmnet"
+  }
+}

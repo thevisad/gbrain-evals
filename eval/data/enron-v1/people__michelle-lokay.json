@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-lokay",
+  "type": "person",
+  "title": "Michelle Lokay",
+  "compiled_truth": "Michelle Lokay is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Michelle Lokay sent 613 and received 2040 emails, totalling 2653 interactions. Top correspondents: [Lorraine Lindberg](people/lorraine-lindberg) (119), [Tk Lohman](people/tk-lohman) (116), [Steven Harris](people/steven-harris) (113), [Kimberly Watson](people/kimberly-watson) (100), [Lindy Donoho](people/lindy-donoho) (97). Mailbox folders observed: _sent_mail, calendar, california, contacts, deleted_items, enron_t_s.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-lokay",
+    "name": "Michelle Lokay",
+    "email": "michelle.lokay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

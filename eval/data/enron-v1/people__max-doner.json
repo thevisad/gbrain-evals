@@ -1,0 +1,14 @@
+{
+  "slug": "people/max-doner",
+  "type": "person",
+  "title": "Max Doner",
+  "compiled_truth": "Max Doner is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2002-06-24), Max Doner sent 10 and received 77 emails, totalling 87 interactions. Top correspondents: [Chris Germany](people/chris-germany) (8), [Margaret Dhont](people/margaret-dhont) (3), [James Hungerford](people/james-hungerford) (2), [M  Love](people/m-love) (2), [Kevin Brady](people/kevin-brady) (1). Mailbox folders observed: bankrupt, deleted_items, inbox.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2002-06-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/max-doner",
+    "name": "Max Doner",
+    "email": "max.doner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

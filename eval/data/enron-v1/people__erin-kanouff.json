@@ -1,0 +1,14 @@
+{
+  "slug": "people/erin-kanouff",
+  "type": "person",
+  "title": "Erin Kanouff",
+  "compiled_truth": "Erin Kanouff is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-11-19), Erin Kanouff sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/erin-kanouff",
+    "name": "Erin Kanouff",
+    "email": "erin.kanouff@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "threads/enron-kids-2000-11",
+  "type": "meeting",
+  "title": "Thread: Enron Kids",
+  "compiled_truth": "Email thread: \"Enron Kids\". Ran from 2000-11-14 to 2000-12-08 with 8 messages. Participants: [Carey Metz](people/carey-metz), [Dana Davis](people/dana-davis), [Danny Conner](people/danny-conner), [Daren Farmer](people/daren-farmer), [Edward Gottlob](people/edward-gottlob), [Elsa Villarreal](people/elsa-villarreal), [Eric Bass](people/eric-bass), [Gary Lamphier](people/gary-lamphier).",
+  "timeline": "- **2000-11-14** | Thread begins: enron kids\n- **2000-12-08** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-kids-2000-11",
+    "attendees": [
+      "people/carey-metz",
+      "people/dana-davis",
+      "people/danny-conner",
+      "people/daren-farmer",
+      "people/edward-gottlob",
+      "people/elsa-villarreal",
+      "people/eric-bass",
+      "people/gary-lamphier",
+      "people/greg-mcclendon",
+      "people/james-mckay",
+      "people/janet-wallis",
+      "people/jim-schwieger",
+      "people/kimberly-brown",
+      "people/laura-harder",
+      "people/lauri-allen",
+      "people/liz-bellamy",
+      "people/nicole-mendez",
+      "people/sandra-brawner",
+      "people/scott-neal",
+      "people/stacey-neuweiler",
+      "people/susan-rance",
+      "people/thomas-martin"
+    ],
+    "date": "2000-11-14"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jbradley-svmg",
+  "type": "person",
+  "title": "Jbradley",
+  "compiled_truth": "Jbradley is an external contact at [Svmg](companies/svmg). Over the corpus period (2001-02-08 to 2001-12-05), Jbradley sent 4 and received 31 emails, totalling 35 interactions. Top correspondents: [Cguardino](people/cguardino-svmg) (1), [Lgoldseth](people/lgoldseth-svmg) (1), [Jeff Dasovich](people/jeff-dasovich) (1).",
+  "timeline": "- **2001-02-08** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jbradley-svmg",
+    "name": "Jbradley",
+    "email": "jbradley@svmg.org",
+    "primary_affiliation": "companies/svmg"
+  }
+}

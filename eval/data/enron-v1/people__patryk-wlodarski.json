@@ -1,0 +1,14 @@
+{
+  "slug": "people/patryk-wlodarski",
+  "type": "person",
+  "title": "Patryk Wlodarski",
+  "compiled_truth": "Patryk Wlodarski is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-16 to 2001-10-19), Patryk Wlodarski sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-11-16** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patryk-wlodarski",
+    "name": "Patryk Wlodarski",
+    "email": "patryk.wlodarski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/buddy-aiken",
+  "type": "person",
+  "title": "Buddy Aiken",
+  "compiled_truth": "Buddy Aiken is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-11-20), Buddy Aiken sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/buddy-aiken",
+    "name": "Buddy Aiken",
+    "email": "buddy.aiken@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

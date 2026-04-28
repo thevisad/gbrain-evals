@@ -1,0 +1,14 @@
+{
+  "slug": "people/jerald-surface",
+  "type": "person",
+  "title": "Jerald Surface",
+  "compiled_truth": "Jerald Surface is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-12-04), Jerald Surface sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jerald-surface",
+    "name": "Jerald Surface",
+    "email": "jerald.surface@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

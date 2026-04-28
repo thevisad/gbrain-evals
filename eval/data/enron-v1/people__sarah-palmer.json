@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarah-palmer",
+  "type": "person",
+  "title": "Sarah Palmer",
+  "compiled_truth": "Sarah Palmer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-05 to 2002-02-06), Sarah Palmer sent 57 and received 82 emails, totalling 139 interactions. Top correspondents: [J  Kean](people/j-kean) (7), [Karen Denne](people/karen-denne) (5), [ Palmer](people/palmer) (5), [Cindy Olson](people/cindy-olson) (3), [Mary Clark](people/mary-clark) (3). Mailbox folders observed: aadepartment, bankruptcy, deleted_items, inbox, internal_communications, pr___notre_dame.",
+  "timeline": "- **2000-01-05** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarah-palmer",
+    "name": "Sarah Palmer",
+    "email": "sarah.palmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

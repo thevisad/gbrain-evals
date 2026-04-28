@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-wilson",
+  "type": "person",
+  "title": "Jeffrey Wilson",
+  "compiled_truth": "Jeffrey Wilson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-09-14), Jeffrey Wilson sent 2 and received 34 emails, totalling 36 interactions. Top correspondents: [Scott Hendrickson](people/scott-hendrickson) (2), [Keith Fraley](people/keith-fraley) (1), [Julie Gomez](people/julie-gomez) (1), [Todd Neugebauer](people/todd-neugebauer) (1).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-wilson",
+    "name": "Jeffrey Wilson",
+    "email": "jeffrey.wilson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

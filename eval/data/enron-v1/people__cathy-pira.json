@@ -1,0 +1,14 @@
+{
+  "slug": "people/cathy-pira",
+  "type": "person",
+  "title": "Cathy",
+  "compiled_truth": "Cathy is an external contact at [Pira](companies/pira). Over the corpus period (2000-12-13 to 2002-06-26), Cathy sent 35 and received 10 emails, totalling 45 interactions. Top correspondents: [Greg](people/greg-pira) (14), [Sande](people/sande-pira) (10), [Eileen](people/eileen-pira) (9), [Vwatkins](people/vwatkins-pira) (2).",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2002-06-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cathy-pira",
+    "name": "Cathy",
+    "email": "cathy@pira.com",
+    "primary_affiliation": "companies/pira"
+  }
+}

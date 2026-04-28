@@ -1,0 +1,14 @@
+{
+  "slug": "people/gackerman-wptf",
+  "type": "person",
+  "title": "Gackerman",
+  "compiled_truth": "Gackerman is an external contact at [Wptf](companies/wptf). Over the corpus period (2000-05-08 to 2001-07-10), Gackerman sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gackerman-wptf",
+    "name": "Gackerman",
+    "email": "gackerman@wptf.org",
+    "primary_affiliation": "companies/wptf"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/aderich2-exxon",
+  "type": "person",
+  "title": "Aderich2",
+  "compiled_truth": "Aderich2 is an external contact at [Exxon](companies/exxon). Over the corpus period (2001-03-08 to 2001-03-29), Aderich2 sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-08** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aderich2-exxon",
+    "name": "Aderich2",
+    "email": "aderich2@exxon.sprint.com",
+    "primary_affiliation": "companies/exxon"
+  }
+}

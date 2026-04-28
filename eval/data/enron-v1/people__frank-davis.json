@@ -1,0 +1,14 @@
+{
+  "slug": "people/frank-davis",
+  "type": "person",
+  "title": "Frank Davis",
+  "compiled_truth": "Frank Davis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-08 to 2001-06-06), Frank Davis sent 36 and received 1117 emails, totalling 1153 interactions. Top correspondents: [Tana Jones](people/tana-jones) (29), [Tom Moran](people/tom-moran) (15), [Karen Lambert](people/karen-lambert) (13), [Mark Taylor](people/mark-taylor) (12), [Bob Shults](people/bob-shults) (7).",
+  "timeline": "- **1999-09-08** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frank-davis",
+    "name": "Frank Davis",
+    "email": "frank.davis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

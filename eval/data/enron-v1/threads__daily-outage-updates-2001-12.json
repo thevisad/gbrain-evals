@@ -1,0 +1,18 @@
+{
+  "slug": "threads/daily-outage-updates-2001-12",
+  "type": "meeting",
+  "title": "Thread: Daily Outage Updates",
+  "compiled_truth": "Email thread: \"Daily Outage Updates\". Ran from 2001-12-28 to 2002-01-26 with 31 messages. Participants: [Customerservice](people/customerservice-industrialinfo), [D  Thomas](people/d-thomas), [Esaibi](people/esaibi), [Mailer](people/mailer-industrialinfo).",
+  "timeline": "- **2001-12-28** | Thread begins: daily outage updates\n- **2002-01-26** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/daily-outage-updates-2001-12",
+    "attendees": [
+      "people/customerservice-industrialinfo",
+      "people/d-thomas",
+      "people/esaibi",
+      "people/mailer-industrialinfo"
+    ],
+    "date": "2001-12-28"
+  }
+}

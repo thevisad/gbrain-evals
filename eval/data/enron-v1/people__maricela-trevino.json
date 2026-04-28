@@ -1,0 +1,14 @@
+{
+  "slug": "people/maricela-trevino",
+  "type": "person",
+  "title": "Maricela Trevino",
+  "compiled_truth": "Maricela Trevino is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-20 to 2002-05-06), Maricela Trevino sent 2 and received 26 emails, totalling 28 interactions. Top correspondents: [Sally Beck](people/sally-beck) (2), [Patti Thompson](people/patti-thompson) (2).",
+  "timeline": "- **2000-01-20** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maricela-trevino",
+    "name": "Maricela Trevino",
+    "email": "maricela.trevino@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

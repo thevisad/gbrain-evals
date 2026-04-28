@@ -1,0 +1,14 @@
+{
+  "slug": "people/snord",
+  "type": "person",
+  "title": "Snord",
+  "compiled_truth": "Snord is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2001-10-18), Snord sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/snord",
+    "name": "Snord",
+    "email": "snord@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

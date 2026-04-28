@@ -1,0 +1,14 @@
+{
+  "slug": "people/doornbos-socrates",
+  "type": "person",
+  "title": "Doornbos",
+  "compiled_truth": "Doornbos is an external contact at [Socrates](companies/socrates). Over the corpus period (2000-08-04 to 2000-10-06), Doornbos sent 1 and received 39 emails, totalling 40 interactions. Top correspondents: [Gramlr](people/gramlr-pjm) (1), [Amosher](people/amosher-appanet) (1), [Jeff Dasovich](people/jeff-dasovich) (1), [Lfried](people/lfried-uclink) (1), [Hcameron](people/hcameron-uclink) (1).",
+  "timeline": "- **2000-08-04** | First recorded email in corpus\n- **2000-10-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/doornbos-socrates",
+    "name": "Doornbos",
+    "email": "doornbos@socrates.berkeley.edu",
+    "primary_affiliation": "companies/socrates"
+  }
+}

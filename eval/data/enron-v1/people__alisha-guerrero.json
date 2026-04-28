@@ -1,0 +1,14 @@
+{
+  "slug": "people/alisha-guerrero",
+  "type": "person",
+  "title": "Alisha Guerrero",
+  "compiled_truth": "Alisha Guerrero is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-24 to 2002-05-06), Alisha Guerrero sent 2 and received 57 emails, totalling 59 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (2), [Karen Gruesen](people/karen-gruesen) (2), [Lisa Lunz](people/lisa-lunz) (2), [Shonnie Daniel](people/shonnie-daniel) (1), [Jim Coffey](people/jim-coffey) (1).",
+  "timeline": "- **2000-04-24** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alisha-guerrero",
+    "name": "Alisha Guerrero",
+    "email": "alisha.guerrero@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/laurie-willemyns",
+  "type": "person",
+  "title": "Laurie Willemyns",
+  "compiled_truth": "Laurie Willemyns is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-14 to 2002-02-14), Laurie Willemyns sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-03-14** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laurie-willemyns",
+    "name": "Laurie Willemyns",
+    "email": "laurie.willemyns@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

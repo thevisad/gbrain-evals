@@ -1,0 +1,14 @@
+{
+  "slug": "people/mveal-texicangas",
+  "type": "person",
+  "title": "Mveal",
+  "compiled_truth": "Mveal is an external contact at [Texicangas](companies/texicangas). Over the corpus period (2000-11-11 to 2000-12-05), Mveal sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus\n- **2000-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mveal-texicangas",
+    "name": "Mveal",
+    "email": "mveal@texicangas.com",
+    "primary_affiliation": "companies/texicangas"
+  }
+}

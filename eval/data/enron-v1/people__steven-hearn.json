@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-hearn",
+  "type": "person",
+  "title": "Steven Hearn",
+  "compiled_truth": "Steven Hearn is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-10 to 2002-05-06), Steven Hearn sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2001-10-10** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-hearn",
+    "name": "Steven Hearn",
+    "email": "steven.hearn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

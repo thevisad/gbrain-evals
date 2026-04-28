@@ -1,0 +1,14 @@
+{
+  "slug": "people/cris-crixell",
+  "type": "person",
+  "title": "Cris Crixell",
+  "compiled_truth": "Cris Crixell is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2002-05-06), Cris Crixell sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cris-crixell",
+    "name": "Cris Crixell",
+    "email": "cris.crixell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

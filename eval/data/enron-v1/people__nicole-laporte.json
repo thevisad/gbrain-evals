@@ -1,0 +1,14 @@
+{
+  "slug": "people/nicole-laporte",
+  "type": "person",
+  "title": "Nicole Laporte",
+  "compiled_truth": "Nicole Laporte is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-02 to 2002-02-21), Nicole Laporte sent 8 and received 123 emails, totalling 131 interactions. Top correspondents: [Barry Tycholiz](people/barry-tycholiz) (4), [Chris Germany](people/chris-germany) (2), [Robin Rodrigue](people/robin-rodrigue) (1). Mailbox folders observed: deleted_items, inbox, westgas.",
+  "timeline": "- **2000-06-02** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nicole-laporte",
+    "name": "Nicole Laporte",
+    "email": "nicole.laporte@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

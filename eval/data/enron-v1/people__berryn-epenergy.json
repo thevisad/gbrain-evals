@@ -1,0 +1,14 @@
+{
+  "slug": "people/berryn-epenergy",
+  "type": "person",
+  "title": "Berryn",
+  "compiled_truth": "Berryn is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2000-07-17 to 2001-04-24), Berryn sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus\n- **2001-04-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/berryn-epenergy",
+    "name": "Berryn",
+    "email": "berryn@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

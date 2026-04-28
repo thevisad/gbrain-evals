@@ -1,0 +1,14 @@
+{
+  "slug": "people/steved-nepco",
+  "type": "person",
+  "title": "Steved",
+  "compiled_truth": "Steved is an external contact at [Nepco](companies/nepco). Over the corpus period (2000-04-17 to 2001-05-03), Steved sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2001-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steved-nepco",
+    "name": "Steved",
+    "email": "steved@nepco.com",
+    "primary_affiliation": "companies/nepco"
+  }
+}

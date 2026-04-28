@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-thurber",
+  "type": "person",
+  "title": "Bob Thurber",
+  "compiled_truth": "Bob Thurber is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-01-24), Bob Thurber sent 2 and received 25 emails, totalling 27 interactions. Top correspondents: [Kay Miller](people/kay-miller) (2), [Tim Kissner](people/tim-kissner) (2), [Jill Erwin](people/jill-erwin) (1), [Michelle Lokay](people/michelle-lokay) (1), [Teb Lokey](people/teb-lokey) (1). Mailbox folders observed: inbox, tw_commercial_group.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-thurber",
+    "name": "Bob Thurber",
+    "email": "bob.thurber@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

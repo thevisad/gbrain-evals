@@ -1,0 +1,14 @@
+{
+  "slug": "people/jdixon-calpine",
+  "type": "person",
+  "title": "Jdixon",
+  "compiled_truth": "Jdixon is an external contact at [Calpine](companies/calpine). Over the corpus period (2000-12-28 to 2001-05-10), Jdixon sent 1 and received 5 emails, totalling 6 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (1), [Bradb](people/bradb-calpine) (1), [Joego](people/joego-calpine) (1), [Stephanie Miller](people/stephanie-miller) (1).",
+  "timeline": "- **2000-12-28** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jdixon-calpine",
+    "name": "Jdixon",
+    "email": "jdixon@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

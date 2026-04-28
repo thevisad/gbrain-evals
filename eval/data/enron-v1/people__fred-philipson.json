@@ -1,0 +1,14 @@
+{
+  "slug": "people/fred-philipson",
+  "type": "person",
+  "title": "Fred Philipson",
+  "compiled_truth": "Fred Philipson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-23 to 2001-09-24), Fred Philipson sent 26 and received 47 emails, totalling 73 interactions. Top correspondents: [Sally Beck](people/sally-beck) (17), [Beth Apollo](people/beth-apollo) (10), [Rahil Jafry](people/rahil-jafry) (8), [James Scribner](people/james-scribner) (8), [Tana Jones](people/tana-jones) (6). Mailbox folders observed: commercialization, deleted_items, inbox.",
+  "timeline": "- **2000-07-23** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fred-philipson",
+    "name": "Fred Philipson",
+    "email": "fred.philipson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

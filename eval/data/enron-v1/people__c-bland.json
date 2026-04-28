@@ -1,0 +1,14 @@
+{
+  "slug": "people/c-bland",
+  "type": "person",
+  "title": "C  Bland",
+  "compiled_truth": "C  Bland is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-28 to 2001-11-19), C  Bland sent 13 and received 60 emails, totalling 73 interactions. Top correspondents: [Billy Lemmons](people/billy-lemmons) (7), [John Lavorato](people/john-lavorato) (5), [Sally Beck](people/sally-beck) (3), [Janet Dietrich](people/janet-dietrich) (3), [Louise Kitchen](people/louise-kitchen) (3). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/c-bland",
+    "name": "C  Bland",
+    "email": "c..bland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

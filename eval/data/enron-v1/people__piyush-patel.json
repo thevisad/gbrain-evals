@@ -1,0 +1,14 @@
+{
+  "slug": "people/piyush-patel",
+  "type": "person",
+  "title": "Piyush Patel",
+  "compiled_truth": "Piyush Patel is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2002-02-06), Piyush Patel sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/piyush-patel",
+    "name": "Piyush Patel",
+    "email": "piyush.patel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

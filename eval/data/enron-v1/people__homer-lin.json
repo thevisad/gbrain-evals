@@ -1,0 +1,14 @@
+{
+  "slug": "people/homer-lin",
+  "type": "person",
+  "title": "Homer Lin",
+  "compiled_truth": "Homer Lin is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-11-13), Homer Lin sent 9 and received 156 emails, totalling 165 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (7), [Carlos Alatorre](people/carlos-alatorre) (2), [Kevin Meredith](people/kevin-meredith) (2), [Savita Puthigai](people/savita-puthigai) (1), [Joe King](people/joe-king) (1). Mailbox folders observed: deleted_items, online_trading.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/homer-lin",
+    "name": "Homer Lin",
+    "email": "homer.lin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-couvillon",
+  "type": "person",
+  "title": "Paul Couvillon",
+  "compiled_truth": "Paul Couvillon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-12 to 2001-06-12), Paul Couvillon sent 2 and received 67 emails, totalling 69 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (2).",
+  "timeline": "- **2000-04-12** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-couvillon",
+    "name": "Paul Couvillon",
+    "email": "paul.couvillon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

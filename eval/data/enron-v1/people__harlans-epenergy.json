@@ -1,0 +1,14 @@
+{
+  "slug": "people/harlans-epenergy",
+  "type": "person",
+  "title": "Harlans",
+  "compiled_truth": "Harlans is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2001-01-19 to 2001-04-15), Harlans sent 0 and received 39 emails, totalling 39 interactions.",
+  "timeline": "- **2001-01-19** | First recorded email in corpus\n- **2001-04-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/harlans-epenergy",
+    "name": "Harlans",
+    "email": "harlans@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

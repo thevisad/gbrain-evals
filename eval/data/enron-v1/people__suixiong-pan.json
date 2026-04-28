@@ -1,0 +1,14 @@
+{
+  "slug": "people/suixiong-pan",
+  "type": "person",
+  "title": "Suixiong Pan",
+  "compiled_truth": "Suixiong Pan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2001-12-18), Suixiong Pan sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suixiong-pan",
+    "name": "Suixiong Pan",
+    "email": "suixiong.pan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

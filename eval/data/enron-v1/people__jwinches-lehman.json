@@ -1,0 +1,14 @@
+{
+  "slug": "people/jwinches-lehman",
+  "type": "person",
+  "title": "Jwinches",
+  "compiled_truth": "Jwinches is an external contact at [Lehman](companies/lehman). Over the corpus period (2000-05-03 to 2001-11-16), Jwinches sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-05-03** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jwinches-lehman",
+    "name": "Jwinches",
+    "email": "jwinches@lehman.com",
+    "primary_affiliation": "companies/lehman"
+  }
+}

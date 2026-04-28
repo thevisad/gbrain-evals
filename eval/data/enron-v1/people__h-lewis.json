@@ -1,0 +1,14 @@
+{
+  "slug": "people/h-lewis",
+  "type": "person",
+  "title": "H  Lewis",
+  "compiled_truth": "H  Lewis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-28 to 2002-05-13), H  Lewis sent 20 and received 479 emails, totalling 499 interactions. Top correspondents: [Monica L Brown](people/monica-l-brown-accenture) (2), [Ann S Chen](people/ann-s-chen-accenture) (2), [Daniel Diamond](people/daniel-diamond) (1), [S  Pollan](people/s-pollan) (1), [Transportation Parking](people/transportation-parking) (1). Mailbox folders observed: sent_items.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/h-lewis",
+    "name": "H  Lewis",
+    "email": "h..lewis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

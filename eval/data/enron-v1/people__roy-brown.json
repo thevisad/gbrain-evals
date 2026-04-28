@@ -1,0 +1,14 @@
+{
+  "slug": "people/roy-brown",
+  "type": "person",
+  "title": "Roy Brown",
+  "compiled_truth": "Roy Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-08-21), Roy Brown sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roy-brown",
+    "name": "Roy Brown",
+    "email": "roy.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/juan-hernandez",
+  "type": "person",
+  "title": "Juan Hernandez",
+  "compiled_truth": "Juan Hernandez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-16 to 2002-01-29), Juan Hernandez sent 228 and received 756 emails, totalling 984 interactions. Top correspondents: [Don Baughman](people/don-baughman) (17), [Rudy Acevedo](people/rudy-acevedo) (15), [Sandra Hernandez](people/sandra-hernandez-crescentcom) (15), [Wayne Herndon](people/wayne-herndon) (14), [Kayne Coulter](people/kayne-coulter) (12). Mailbox folders observed: _sent_mail, enron_power, power, sent, sent_items, to_do.",
+  "timeline": "- **2000-06-16** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/juan-hernandez",
+    "name": "Juan Hernandez",
+    "email": "juan.hernandez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sharkb8-teleport",
+  "type": "person",
+  "title": "Sharkb8",
+  "compiled_truth": "Sharkb8 is an external contact at [Teleport](companies/teleport). Over the corpus period (2000-10-23 to 2001-04-30), Sharkb8 sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-10-23** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sharkb8-teleport",
+    "name": "Sharkb8",
+    "email": "sharkb8@teleport.com",
+    "primary_affiliation": "companies/teleport"
+  }
+}

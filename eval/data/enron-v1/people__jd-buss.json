@@ -1,0 +1,14 @@
+{
+  "slug": "people/jd-buss",
+  "type": "person",
+  "title": "Jd Buss",
+  "compiled_truth": "Jd Buss is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-03-15), Jd Buss sent 20 and received 64 emails, totalling 84 interactions. Top correspondents: [Gary Bryan](people/gary-bryan) (9), [A  Martin](people/a-martin) (8), [J  Farmer](people/j-farmer) (7), [Brian Redmond](people/brian-redmond) (6), [David Baumbach](people/david-baumbach) (4). Mailbox folders observed: _americas, calendar, deleted_items, inbox, pipelines, term_proposals.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-03-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jd-buss",
+    "name": "Jd Buss",
+    "email": "jd.buss@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

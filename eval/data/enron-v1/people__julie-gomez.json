@@ -1,0 +1,14 @@
+{
+  "slug": "people/julie-gomez",
+  "type": "person",
+  "title": "Julie Gomez",
+  "compiled_truth": "Julie Gomez is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2001-07-19), Julie Gomez sent 28 and received 315 emails, totalling 343 interactions. Top correspondents: [Scott Hendrickson](people/scott-hendrickson) (10), [John Hodge](people/john-hodge) (6), [Gerald Nemec](people/gerald-nemec) (5), [Stephanie Miller](people/stephanie-miller) (3), [Chris Meyer](people/chris-meyer) (2). Mailbox folders observed: _americas, administrative, old.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julie-gomez",
+    "name": "Julie Gomez",
+    "email": "julie.gomez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

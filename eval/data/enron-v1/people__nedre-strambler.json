@@ -1,0 +1,14 @@
+{
+  "slug": "people/nedre-strambler",
+  "type": "person",
+  "title": "Nedre Strambler",
+  "compiled_truth": "Nedre Strambler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-12 to 2001-12-03), Nedre Strambler sent 2 and received 34 emails, totalling 36 interactions. Top correspondents: [Elizabeth Grant](people/elizabeth-grant) (1), [Mark Taylor](people/mark-taylor) (1), [Barton Clark](people/barton-clark) (1), [Deborah Culver](people/deborah-culver) (1).",
+  "timeline": "- **2000-04-12** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nedre-strambler",
+    "name": "Nedre Strambler",
+    "email": "nedre.strambler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

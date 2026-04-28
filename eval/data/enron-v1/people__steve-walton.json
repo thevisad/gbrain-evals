@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-walton",
+  "type": "person",
+  "title": "Steve Walton",
+  "compiled_truth": "Steve Walton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-01-30), Steve Walton sent 40 and received 892 emails, totalling 932 interactions. Top correspondents: [James Steffes](people/james-steffes) (20), [Alan Comnes](people/alan-comnes) (19), [Richard Shapiro](people/richard-shapiro) (19), [Jeff Dasovich](people/jeff-dasovich) (17), [Paul Kaufman](people/paul-kaufman) (13). Mailbox folders observed: deleted_items, ferc, inbox, nerc, top_10_issues_6_1_01, west.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-walton",
+    "name": "Steve Walton",
+    "email": "steve.walton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

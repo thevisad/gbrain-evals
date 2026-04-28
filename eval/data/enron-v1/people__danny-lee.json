@@ -1,0 +1,14 @@
+{
+  "slug": "people/danny-lee",
+  "type": "person",
+  "title": "Danny Lee",
+  "compiled_truth": "Danny Lee is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-21 to 2001-08-31), Danny Lee sent 4 and received 12 emails, totalling 16 interactions. Top correspondents: [Ekrapels](people/ekrapels-esaibos) (1), [Kevin Ruscitti](people/kevin-ruscitti) (1), [Jim Perrello](people/jim-perrello-reuters) (1), [Simon Cheshire](people/simon-cheshire-reuters) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-07-21** | First recorded email in corpus\n- **2001-08-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/danny-lee",
+    "name": "Danny Lee",
+    "email": "danny.lee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

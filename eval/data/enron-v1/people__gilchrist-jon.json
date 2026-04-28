@@ -1,0 +1,14 @@
+{
+  "slug": "people/gilchrist-jon",
+  "type": "person",
+  "title": "Gilchrist Jon",
+  "compiled_truth": "Gilchrist Jon is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-07 to 2002-01-02), Gilchrist Jon sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-06-07** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gilchrist-jon",
+    "name": "Gilchrist Jon",
+    "email": "gilchrist.jon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

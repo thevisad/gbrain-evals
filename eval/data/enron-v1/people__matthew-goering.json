@@ -1,0 +1,14 @@
+{
+  "slug": "people/matthew-goering",
+  "type": "person",
+  "title": "Matthew Goering",
+  "compiled_truth": "Matthew Goering is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-28 to 2001-02-27), Matthew Goering sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2001-02-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matthew-goering",
+    "name": "Matthew Goering",
+    "email": "matthew.goering@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

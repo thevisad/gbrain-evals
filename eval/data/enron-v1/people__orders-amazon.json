@@ -1,0 +1,14 @@
+{
+  "slug": "people/orders-amazon",
+  "type": "person",
+  "title": "Orders",
+  "compiled_truth": "Orders is an external contact at [Amazon](companies/amazon). Over the corpus period (1999-09-21 to 2001-07-13), Orders sent 32 and received 5 emails, totalling 37 interactions. Top correspondents: [Ebass](people/ebass) (6), [Errol Mclaughlin](people/errol-mclaughlin) (6), [Mark Taylor](people/mark-taylor) (6), [Dfarmer](people/dfarmer) (4), [Sscott3](people/sscott3) (3).",
+  "timeline": "- **1999-09-21** | First recorded email in corpus\n- **2001-07-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/orders-amazon",
+    "name": "Orders",
+    "email": "orders@amazon.com",
+    "primary_affiliation": "companies/amazon"
+  }
+}

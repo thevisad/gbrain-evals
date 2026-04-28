@@ -1,0 +1,14 @@
+{
+  "slug": "people/denis-o-connell",
+  "type": "person",
+  "title": "Denis O'Connell",
+  "compiled_truth": "Denis O'Connell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-19 to 2001-10-22), Denis O'Connell sent 25 and received 149 emails, totalling 174 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (13), [Mark Taylor](people/mark-taylor) (12), [Tana Jones](people/tana-jones) (7), [Matthew Dawson](people/matthew-dawson) (6), [Jeff Kinneman](people/jeff-kinneman) (5).",
+  "timeline": "- **2000-05-19** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/denis-o-connell",
+    "name": "Denis O'Connell",
+    "email": "denis.o'connell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

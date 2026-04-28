@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeanette-doll",
+  "type": "person",
+  "title": "Jeanette Doll",
+  "compiled_truth": "Jeanette Doll is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-20 to 2002-03-25), Jeanette Doll sent 39 and received 220 emails, totalling 259 interactions. Top correspondents: [Lindy Donoho](people/lindy-donoho) (18), [Lorraine Lindberg](people/lorraine-lindberg) (16), [Steve Gilbert](people/steve-gilbert) (16), [Steven Harris](people/steven-harris) (15), [Jeffery Fawcett](people/jeffery-fawcett) (15). Mailbox folders observed: deleted_items, inbox, personal, tw, tw_commercial_group.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeanette-doll",
+    "name": "Jeanette Doll",
+    "email": "jeanette.doll@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

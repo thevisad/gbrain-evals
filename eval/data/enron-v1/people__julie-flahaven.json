@@ -1,0 +1,14 @@
+{
+  "slug": "people/julie-flahaven",
+  "type": "person",
+  "title": "Julie Flahaven",
+  "compiled_truth": "Julie Flahaven is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2002-01-09), Julie Flahaven sent 2 and received 14 emails, totalling 16 interactions. Top correspondents: [Btaylor](people/btaylor-wsgr) (2), [Dao](people/dao-mv) (2), [Pevans](people/pevans-mv) (2), [David Parquet](people/david-parquet) (2), [Dean Russell](people/dean-russell) (2).",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julie-flahaven",
+    "name": "Julie Flahaven",
+    "email": "julie.flahaven@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

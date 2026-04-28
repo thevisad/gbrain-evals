@@ -1,0 +1,14 @@
+{
+  "slug": "people/ken-anderson",
+  "type": "person",
+  "title": "Ken Anderson",
+  "compiled_truth": "Ken Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2002-03-25), Ken Anderson sent 0 and received 153 emails, totalling 153 interactions.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ken-anderson",
+    "name": "Ken Anderson",
+    "email": "ken.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

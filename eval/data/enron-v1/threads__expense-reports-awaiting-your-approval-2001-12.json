@@ -1,0 +1,23 @@
+{
+  "slug": "threads/expense-reports-awaiting-your-approval-2001-12",
+  "type": "meeting",
+  "title": "Thread: Expense Reports Awaiting Your Approval",
+  "compiled_truth": "Email thread: \"Expense Reports Awaiting Your Approval\". Ran from 2001-12-10 to 2002-01-08 with 16 messages. Participants: [Elizabeth Sager](people/elizabeth-sager), [Enron Update](people/enron-update-concureworkplace), [J  Kean](people/j-kean), [Kenneth Lay](people/kenneth-lay), [Maureen Mcvicker](people/maureen-mcvicker), [Shelley Corman](people/shelley-corman), [Skean](people/skean), [Stanley Horton](people/stanley-horton).",
+  "timeline": "- **2001-12-10** | Thread begins: expense reports awaiting your approval\n- **2002-01-08** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/expense-reports-awaiting-your-approval-2001-12",
+    "attendees": [
+      "people/elizabeth-sager",
+      "people/enron-update-concureworkplace",
+      "people/j-kean",
+      "people/kenneth-lay",
+      "people/maureen-mcvicker",
+      "people/shelley-corman",
+      "people/skean",
+      "people/stanley-horton",
+      "people/vkamins"
+    ],
+    "date": "2001-12-10"
+  }
+}

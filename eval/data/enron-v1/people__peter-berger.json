@@ -1,0 +1,14 @@
+{
+  "slug": "people/peter-berger",
+  "type": "person",
+  "title": "Peter Berger",
+  "compiled_truth": "Peter Berger is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2002-01-11), Peter Berger sent 1 and received 55 emails, totalling 56 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1), [Jeff Skilling](people/jeff-skilling) (1), [Joseph Sutton](people/joseph-sutton) (1), [Mark Koenig](people/mark-koenig) (1), [Paula Rieker](people/paula-rieker) (1).",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peter-berger",
+    "name": "Peter Berger",
+    "email": "peter.berger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

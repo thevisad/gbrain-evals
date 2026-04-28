@@ -1,0 +1,14 @@
+{
+  "slug": "people/jessica-burry",
+  "type": "person",
+  "title": "Jessica Burry",
+  "compiled_truth": "Jessica Burry is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-01 to 2001-12-03), Jessica Burry sent 11 and received 69 emails, totalling 80 interactions. Top correspondents: [Portland Desk](people/portland-desk) (6), [Center Dl-Portland](people/center-dl-portland) (2), [Michael Mcdonald](people/michael-mcdonald) (1), [Michael Danielson](people/michael-danielson) (1), [Laird Dyer](people/laird-dyer) (1). Mailbox folders observed: _americas, bill_williams_iii, deleted_items, read.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jessica-burry",
+    "name": "Jessica Burry",
+    "email": "jessica.burry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-wei",
+  "type": "person",
+  "title": "Dave Wei",
+  "compiled_truth": "Dave Wei is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-02 to 2001-11-27), Dave Wei sent 10 and received 29 emails, totalling 39 interactions. Top correspondents: [Jeremy Wong](people/jeremy-wong) (9), [John Griffith](people/john-griffith) (9), [Dutch Quigley](people/dutch-quigley) (8), [Errol Mclaughlin](people/errol-mclaughlin) (6), [Larry May](people/larry-may) (6). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-01-02** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-wei",
+    "name": "Dave Wei",
+    "email": "dave.wei@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

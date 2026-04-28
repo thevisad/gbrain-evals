@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-coneway",
+  "type": "person",
+  "title": "J  Coneway",
+  "compiled_truth": "J  Coneway is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2002-05-06), J  Coneway sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-coneway",
+    "name": "J  Coneway",
+    "email": "j..coneway@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

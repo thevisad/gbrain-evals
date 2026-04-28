@@ -1,0 +1,14 @@
+{
+  "slug": "people/mons-ellingson",
+  "type": "person",
+  "title": "Mons Ellingson",
+  "compiled_truth": "Mons Ellingson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-22 to 2001-07-03), Mons Ellingson sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2001-05-22** | First recorded email in corpus\n- **2001-07-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mons-ellingson",
+    "name": "Mons Ellingson",
+    "email": "mons.ellingson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/charles-jacobs",
+  "type": "person",
+  "title": "Charles Jacobs",
+  "compiled_truth": "Charles Jacobs is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-09 to 2002-02-13), Charles Jacobs sent 5 and received 63 emails, totalling 68 interactions. Top correspondents: [Frank Ermis](people/frank-ermis) (2), [M  Love](people/m-love) (2), [C  James](people/c-james) (2), [Kevin Ruscitti](people/kevin-ruscitti) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charles-jacobs",
+    "name": "Charles Jacobs",
+    "email": "charles.jacobs@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

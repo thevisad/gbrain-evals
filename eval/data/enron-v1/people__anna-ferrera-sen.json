@@ -1,0 +1,14 @@
+{
+  "slug": "people/anna-ferrera-sen",
+  "type": "person",
+  "title": "Anna Ferrera",
+  "compiled_truth": "Anna Ferrera is an external contact at [Sen](companies/sen). Over the corpus period (2000-08-10 to 2001-11-14), Anna Ferrera sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anna-ferrera-sen",
+    "name": "Anna Ferrera",
+    "email": "anna.ferrera@sen.ca.gov",
+    "primary_affiliation": "companies/sen"
+  }
+}

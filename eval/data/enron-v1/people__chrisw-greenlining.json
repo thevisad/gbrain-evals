@@ -1,0 +1,14 @@
+{
+  "slug": "people/chrisw-greenlining",
+  "type": "person",
+  "title": "Chrisw",
+  "compiled_truth": "Chrisw is an external contact at [Greenlining](companies/greenlining). Over the corpus period (2000-05-08 to 2001-05-10), Chrisw sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chrisw-greenlining",
+    "name": "Chrisw",
+    "email": "chrisw@greenlining.org",
+    "primary_affiliation": "companies/greenlining"
+  }
+}

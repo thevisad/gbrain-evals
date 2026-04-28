@@ -1,0 +1,14 @@
+{
+  "slug": "people/margot1-ppcpdx",
+  "type": "person",
+  "title": "Margot1",
+  "compiled_truth": "Margot1 is an external contact at [Ppcpdx](companies/ppcpdx). Over the corpus period (2001-03-16 to 2001-03-16), Margot1 sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-03-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margot1-ppcpdx",
+    "name": "Margot1",
+    "email": "margot1@ppcpdx.org",
+    "primary_affiliation": "companies/ppcpdx"
+  }
+}

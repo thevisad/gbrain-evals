@@ -1,0 +1,14 @@
+{
+  "slug": "people/cedric-burgher",
+  "type": "person",
+  "title": "Cedric Burgher",
+  "compiled_truth": "Cedric Burgher is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-12), Cedric Burgher sent 2 and received 136 emails, totalling 138 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (2), [Jeff Skilling](people/jeff-skilling) (2), [Mark Koenig](people/mark-koenig) (2), [Paula Rieker](people/paula-rieker) (2), [Scott Vonderheide](people/scott-vonderheide) (2).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cedric-burgher",
+    "name": "Cedric Burgher",
+    "email": "cedric.burgher@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

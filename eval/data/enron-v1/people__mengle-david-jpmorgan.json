@@ -1,0 +1,14 @@
+{
+  "slug": "people/mengle-david-jpmorgan",
+  "type": "person",
+  "title": "Mengle David",
+  "compiled_truth": "Mengle David is an external contact at [Jpmorgan](companies/jpmorgan). Over the corpus period (2000-09-07 to 2001-06-11), Mengle David sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mengle-david-jpmorgan",
+    "name": "Mengle David",
+    "email": "mengle_david@jpmorgan.com",
+    "primary_affiliation": "companies/jpmorgan"
+  }
+}

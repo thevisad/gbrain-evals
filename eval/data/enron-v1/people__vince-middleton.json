@@ -1,0 +1,14 @@
+{
+  "slug": "people/vince-middleton",
+  "type": "person",
+  "title": "Vince Middleton",
+  "compiled_truth": "Vince Middleton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2002-03-29), Vince Middleton sent 2 and received 44 emails, totalling 46 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (1), [Marcus Nettelton](people/marcus-nettelton) (1), [Michael Beyer](people/michael-beyer) (1), [Jeff Skilling](people/jeff-skilling) (1).",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vince-middleton",
+    "name": "Vince Middleton",
+    "email": "vince.middleton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

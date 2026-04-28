@@ -1,0 +1,14 @@
+{
+  "slug": "people/davis-thames",
+  "type": "person",
+  "title": "Davis Thames",
+  "compiled_truth": "Davis Thames is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-03-20), Davis Thames sent 13 and received 116 emails, totalling 129 interactions. Top correspondents: [Brad Mckay](people/brad-mckay) (8), [A  Howard](people/a-howard) (4), [Lindy Donoho](people/lindy-donoho) (4), [Rod Hayslett](people/rod-hayslett) (2), [Tracy Geaccone](people/tracy-geaccone) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-03-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/davis-thames",
+    "name": "Davis Thames",
+    "email": "davis.thames@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

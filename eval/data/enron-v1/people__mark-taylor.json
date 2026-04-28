@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-taylor",
+  "type": "person",
+  "title": "Mark Taylor",
+  "compiled_truth": "Mark Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-23), Mark Taylor sent 3832 and received 5663 emails, totalling 9495 interactions. Top correspondents: [Tana Jones](people/tana-jones) (335), [Sara Shackleton](people/sara-shackleton) (242), [David Forster](people/david-forster) (218), [Carol Clair](people/carol-clair) (203), [Brent Hendry](people/brent-hendry) (151). Mailbox folders observed: agency_com, archive, contacts, isda, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-taylor",
+    "name": "Mark Taylor",
+    "email": "mark.taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

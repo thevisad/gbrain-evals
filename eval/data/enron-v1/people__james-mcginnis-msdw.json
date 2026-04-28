@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-mcginnis-msdw",
+  "type": "person",
+  "title": "James Mcginnis",
+  "compiled_truth": "James Mcginnis is an external contact at [Msdw](companies/msdw). Over the corpus period (2000-03-24 to 2000-04-20), James Mcginnis sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-03-24** | First recorded email in corpus\n- **2000-04-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-mcginnis-msdw",
+    "name": "James Mcginnis",
+    "email": "james.mcginnis@msdw.com",
+    "primary_affiliation": "companies/msdw"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/suarez-cemfi",
+  "type": "person",
+  "title": "Suarez",
+  "compiled_truth": "Suarez is an external contact at [Cemfi](companies/cemfi). Over the corpus period (2000-03-28 to 2001-03-06), Suarez sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2001-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suarez-cemfi",
+    "name": "Suarez",
+    "email": "suarez@cemfi.es",
+    "primary_affiliation": "companies/cemfi"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas-perkins",
+  "type": "person",
+  "title": "\"'Thomas Perkins'\"",
+  "compiled_truth": "\"'Thomas Perkins'\" is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-24 to 2000-10-24), \"'Thomas Perkins'\" sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-24** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas-perkins",
+    "name": "\"'Thomas Perkins'\"",
+    "email": "\"'thomas.perkins'\"@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

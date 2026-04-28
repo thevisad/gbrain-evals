@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-lauer",
+  "type": "person",
+  "title": "Richard Lauer",
+  "compiled_truth": "Richard Lauer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-04 to 2001-11-06), Richard Lauer sent 5 and received 52 emails, totalling 57 interactions. Top correspondents: [Sally Beck](people/sally-beck) (5), [Rick Carson](people/rick-carson) (1), [Ted Murphy](people/ted-murphy) (1), [John Sorrells](people/john-sorrells) (1), [Donna Lowry](people/donna-lowry) (1).",
+  "timeline": "- **2000-02-04** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-lauer",
+    "name": "Richard Lauer",
+    "email": "richard.lauer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

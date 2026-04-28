@@ -1,0 +1,14 @@
+{
+  "slug": "people/dnelsen-msn",
+  "type": "person",
+  "title": "Dnelsen",
+  "compiled_truth": "Dnelsen is an external contact at [MSN](companies/msn). Over the corpus period (2000-11-28 to 2001-06-22), Dnelsen sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-06-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dnelsen-msn",
+    "name": "Dnelsen",
+    "email": "dnelsen@msn.com",
+    "primary_affiliation": "companies/msn"
+  }
+}

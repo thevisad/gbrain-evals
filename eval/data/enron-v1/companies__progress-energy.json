@@ -1,0 +1,16 @@
+{
+  "slug": "companies/progress-energy",
+  "type": "company",
+  "title": "Progress Energy",
+  "compiled_truth": "Progress Energy is an external organization that appears in the Enron email corpus. Domain: psnc.com. Total email interactions with Enron: 0. ",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (0 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/progress-energy",
+    "name": "Progress Energy",
+    "employees": [],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

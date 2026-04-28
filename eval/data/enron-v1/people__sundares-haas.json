@@ -1,0 +1,14 @@
+{
+  "slug": "people/sundares-haas",
+  "type": "person",
+  "title": "Sundares",
+  "compiled_truth": "Sundares is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2001-10-22), Sundares sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sundares-haas",
+    "name": "Sundares",
+    "email": "sundares@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

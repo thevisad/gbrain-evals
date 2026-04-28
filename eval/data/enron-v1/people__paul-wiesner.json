@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-wiesner",
+  "type": "person",
+  "title": "Paul Wiesner",
+  "compiled_truth": "Paul Wiesner is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-19 to 2001-12-07), Paul Wiesner sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-wiesner",
+    "name": "Paul Wiesner",
+    "email": "paul.wiesner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "companies/pkns",
+  "type": "company",
+  "title": "Pkns",
+  "compiled_truth": "Pkns is an external organization that appears in the Enron email corpus. Domain: pkns.com. Total email interactions with Enron: 305. Known contacts: 6 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (305 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/pkns",
+    "name": "Pkns",
+    "employees": [
+      "people/blh-pkns",
+      "people/cfred-pkns",
+      "people/dcastro-pkns",
+      "people/djn-pkns",
+      "people/enron-com-dcastro-jfrizzel-pkns",
+      "people/mlk-pkns"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

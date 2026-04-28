@@ -1,0 +1,14 @@
+{
+  "slug": "people/joseph-taylor",
+  "type": "person",
+  "title": "Joseph Taylor",
+  "compiled_truth": "Joseph Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-26 to 2002-02-06), Joseph Taylor sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-02-26** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joseph-taylor",
+    "name": "Joseph Taylor",
+    "email": "joseph.taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

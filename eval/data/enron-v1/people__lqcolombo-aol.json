@@ -1,0 +1,14 @@
+{
+  "slug": "people/lqcolombo-aol",
+  "type": "person",
+  "title": "Lqcolombo",
+  "compiled_truth": "Lqcolombo is an external contact at [AOL](companies/aol). Over the corpus period (2000-06-30 to 2002-01-10), Lqcolombo sent 3 and received 125 emails, totalling 128 interactions. Top correspondents: [Eric Bass](people/eric-bass) (3).",
+  "timeline": "- **2000-06-30** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lqcolombo-aol",
+    "name": "Lqcolombo",
+    "email": "lqcolombo@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jdasovi",
+  "type": "person",
+  "title": "Jdasovi",
+  "compiled_truth": "Jdasovi is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-29 to 2001-08-20), Jdasovi sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **1999-09-29** | First recorded email in corpus\n- **2001-08-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jdasovi",
+    "name": "Jdasovi",
+    "email": "jdasovi@ect.enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

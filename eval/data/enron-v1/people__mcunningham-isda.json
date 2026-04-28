@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcunningham-isda",
+  "type": "person",
+  "title": "Mcunningham",
+  "compiled_truth": "Mcunningham is an external contact at [Isda](companies/isda). Over the corpus period (1980-01-01 to 2001-12-07), Mcunningham sent 11 and received 113 emails, totalling 124 interactions. Top correspondents: [Board](people/board-isda) (9), [Rpickel](people/rpickel-isda) (8), [Rainslie](people/rainslie-isda) (3), [Skawano](people/skawano-isda) (3), [Apapesch](people/apapesch-isda) (3).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcunningham-isda",
+    "name": "Mcunningham",
+    "email": "mcunningham@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

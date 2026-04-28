@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-ullom",
+  "type": "person",
+  "title": "Mike Ullom",
+  "compiled_truth": "Mike Ullom is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2000-12-18), Mike Ullom sent 0 and received 125 emails, totalling 125 interactions.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2000-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-ullom",
+    "name": "Mike Ullom",
+    "email": "mike.ullom@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

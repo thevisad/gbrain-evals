@@ -1,0 +1,14 @@
+{
+  "slug": "people/tlthomas1-duke-energy",
+  "type": "person",
+  "title": "Tlthomas1",
+  "compiled_truth": "Tlthomas1 is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2001-05-02 to 2001-05-15), Tlthomas1 sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tlthomas1-duke-energy",
+    "name": "Tlthomas1",
+    "email": "tlthomas1@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

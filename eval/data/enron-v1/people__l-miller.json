@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-miller",
+  "type": "person",
+  "title": "L  Miller",
+  "compiled_truth": "L  Miller is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-02 to 2002-03-25), L  Miller sent 1 and received 201 emails, totalling 202 interactions. Top correspondents: [Darrell Schoolcraft](people/darrell-schoolcraft) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-miller",
+    "name": "L  Miller",
+    "email": "l..miller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

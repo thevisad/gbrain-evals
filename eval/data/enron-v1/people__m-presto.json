@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-presto",
+  "type": "person",
+  "title": "M  Presto",
+  "compiled_truth": "M  Presto is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-25 to 2004-02-04), M  Presto sent 840 and received 1370 emails, totalling 2210 interactions. Top correspondents: [Rogers Herndon](people/rogers-herndon) (118), [Jae Black](people/jae-black) (99), [Lloyd Will](people/lloyd-will) (63), [John Lavorato](people/john-lavorato) (58), [Louise Kitchen](people/louise-kitchen) (52). Mailbox folders observed: _americas, deleted_items, enron_power, inbox, old_inbox, personal.",
+  "timeline": "- **2001-05-25** | First recorded email in corpus\n- **2004-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-presto",
+    "name": "M  Presto",
+    "email": "m..presto@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

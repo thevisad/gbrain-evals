@@ -1,0 +1,14 @@
+{
+  "slug": "people/carey-sloan",
+  "type": "person",
+  "title": "Carey Sloan",
+  "compiled_truth": "Carey Sloan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-15 to 2001-08-30), Carey Sloan sent 2 and received 7 emails, totalling 9 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (1).",
+  "timeline": "- **1999-11-15** | First recorded email in corpus\n- **2001-08-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carey-sloan",
+    "name": "Carey Sloan",
+    "email": "carey.sloan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

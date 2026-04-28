@@ -1,0 +1,14 @@
+{
+  "slug": "people/mable-tang",
+  "type": "person",
+  "title": "Mable Tang",
+  "compiled_truth": "Mable Tang is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2002-02-06), Mable Tang sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mable-tang",
+    "name": "Mable Tang",
+    "email": "mable.tang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

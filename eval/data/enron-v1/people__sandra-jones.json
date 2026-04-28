@@ -1,0 +1,14 @@
+{
+  "slug": "people/sandra-jones",
+  "type": "person",
+  "title": "Sandra Jones",
+  "compiled_truth": "Sandra Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-05-21), Sandra Jones sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sandra-jones",
+    "name": "Sandra Jones",
+    "email": "sandra.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

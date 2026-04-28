@@ -1,0 +1,14 @@
+{
+  "slug": "people/hector-mcloughlin",
+  "type": "person",
+  "title": "Hector Mcloughlin",
+  "compiled_truth": "Hector Mcloughlin is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Hector Mcloughlin sent 79 and received 227 emails, totalling 306 interactions. Top correspondents: [Sally Beck](people/sally-beck) (60), [James Scribner](people/james-scribner) (18), [Steve Venturatos](people/steve-venturatos) (17), [Bryce Baxter](people/bryce-baxter) (17), [Shona Wilson](people/shona-wilson) (16). Mailbox folders observed: deleted_items, hr, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hector-mcloughlin",
+    "name": "Hector Mcloughlin",
+    "email": "hector.mcloughlin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

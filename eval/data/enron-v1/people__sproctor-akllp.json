@@ -1,0 +1,14 @@
+{
+  "slug": "people/sproctor-akllp",
+  "type": "person",
+  "title": "Sproctor",
+  "compiled_truth": "Sproctor is an external contact at [Andrews Kurth](companies/andrews-kurth). Over the corpus period (2002-02-20 to 2002-06-21), Sproctor sent 52 and received 51 emails, totalling 103 interactions. Top correspondents: [Joe Parks](people/joe-parks) (38), [Chris Germany](people/chris-germany) (14), [Ruth Concannon](people/ruth-concannon) (7), [Stuart Zisman](people/stuart-zisman) (7), [Chris Meyer](people/chris-meyer) (6).",
+  "timeline": "- **2002-02-20** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sproctor-akllp",
+    "name": "Sproctor",
+    "email": "sproctor@akllp.com",
+    "primary_affiliation": "companies/andrews-kurth"
+  }
+}

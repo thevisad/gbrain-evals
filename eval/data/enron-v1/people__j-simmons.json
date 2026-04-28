@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-simmons",
+  "type": "person",
+  "title": "J  Simmons",
+  "compiled_truth": "J  Simmons is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-15 to 2002-03-29), J  Simmons sent 7 and received 66 emails, totalling 73 interactions. Top correspondents: [Michael Tribolet](people/michael-tribolet) (4), [B  Sanders](people/b-sanders) (4), [Elizabeth Sager](people/elizabeth-sager) (2), [Twanda Sweet](people/twanda-sweet) (2), [Marcus Nettelton](people/marcus-nettelton) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-06-15** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-simmons",
+    "name": "J  Simmons",
+    "email": "j..simmons@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ain-worldnet",
+  "type": "person",
+  "title": "Ain",
+  "compiled_truth": "Ain is an external contact at [Worldnet](companies/worldnet). Over the corpus period (2000-12-14 to 2001-07-31), Ain sent 0 and received 132 emails, totalling 132 interactions.",
+  "timeline": "- **2000-12-14** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ain-worldnet",
+    "name": "Ain",
+    "email": "ain@worldnet.att.net",
+    "primary_affiliation": "companies/worldnet"
+  }
+}

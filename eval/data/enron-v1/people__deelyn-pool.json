@@ -1,0 +1,14 @@
+{
+  "slug": "people/deelyn-pool",
+  "type": "person",
+  "title": "Deelyn Pool",
+  "compiled_truth": "Deelyn Pool is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-03 to 2002-01-18), Deelyn Pool sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deelyn-pool",
+    "name": "Deelyn Pool",
+    "email": "deelyn.pool@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

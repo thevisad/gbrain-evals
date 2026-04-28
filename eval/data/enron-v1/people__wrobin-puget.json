@@ -1,0 +1,14 @@
+{
+  "slug": "people/wrobin-puget",
+  "type": "person",
+  "title": "Wrobin",
+  "compiled_truth": "Wrobin is an external contact at [Puget](companies/puget). Over the corpus period (2001-03-11 to 2001-08-14), Wrobin sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-03-11** | First recorded email in corpus\n- **2001-08-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wrobin-puget",
+    "name": "Wrobin",
+    "email": "wrobin@puget.com",
+    "primary_affiliation": "companies/puget"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/donna-maloney",
+  "type": "person",
+  "title": "Donna Maloney",
+  "compiled_truth": "Donna Maloney is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-08 to 2001-05-09), Donna Maloney sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donna-maloney",
+    "name": "Donna Maloney",
+    "email": "donna.maloney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

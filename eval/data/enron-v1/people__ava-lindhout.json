@@ -1,0 +1,14 @@
+{
+  "slug": "people/ava-lindhout",
+  "type": "person",
+  "title": "Ava Lindhout",
+  "compiled_truth": "Ava Lindhout is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-20 to 2001-10-22), Ava Lindhout sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-20** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ava-lindhout",
+    "name": "Ava Lindhout",
+    "email": "ava.lindhout@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

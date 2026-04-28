@@ -1,0 +1,14 @@
+{
+  "slug": "people/csulzer-grenergy",
+  "type": "person",
+  "title": "Csulzer",
+  "compiled_truth": "Csulzer is an external contact at [Grenergy](companies/grenergy). Over the corpus period (2000-08-17 to 2001-11-30), Csulzer sent 10 and received 13 emails, totalling 23 interactions. Top correspondents: [C  Giron](people/c-giron) (10), [Jo' 'Lewis](people/jo-lewis) (3), ['Lewis](people/lewis) (2), [Mjlewis](people/mjlewis-mnpower) (2), [Janet Bowers](people/janet-bowers) (2).",
+  "timeline": "- **2000-08-17** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/csulzer-grenergy",
+    "name": "Csulzer",
+    "email": "csulzer@grenergy.com",
+    "primary_affiliation": "companies/grenergy"
+  }
+}

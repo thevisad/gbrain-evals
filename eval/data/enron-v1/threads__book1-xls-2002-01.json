@@ -1,0 +1,30 @@
+{
+  "slug": "threads/book1-xls-2002-01",
+  "type": "meeting",
+  "title": "Thread: Book1.Xls",
+  "compiled_truth": "Email thread: \"Book1.Xls\". Ran from 2002-01-03 to 2002-01-16 with 6 messages. Participants: [Bartley](people/bartley), [Bryant](people/bryant), [Butler](people/butler), [Chris Lackey](people/chris-lackey), [Cmartin1](people/cmartin1-pnm), [Elopez1](people/elopez1-pnm), [Holden Salisbury](people/holden-salisbury), [Jbutler](people/jbutler-pnm).",
+  "timeline": "- **2002-01-03** | Thread begins: book1.xls\n- **2002-01-16** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/book1-xls-2002-01",
+    "attendees": [
+      "people/bartley",
+      "people/bryant",
+      "people/butler",
+      "people/chris-lackey",
+      "people/cmartin1-pnm",
+      "people/elopez1-pnm",
+      "people/holden-salisbury",
+      "people/jbutler-pnm",
+      "people/jim-butler",
+      "people/kbartle-pnm",
+      "people/lbryant-pnm",
+      "people/lopez",
+      "people/martinez",
+      "people/rwinn-pnm",
+      "people/tom-alonso",
+      "people/winn"
+    ],
+    "date": "2002-01-03"
+  }
+}

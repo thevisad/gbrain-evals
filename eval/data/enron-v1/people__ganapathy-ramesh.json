@@ -1,0 +1,14 @@
+{
+  "slug": "people/ganapathy-ramesh",
+  "type": "person",
+  "title": "Ganapathy Ramesh",
+  "compiled_truth": "Ganapathy Ramesh is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-30 to 2002-02-07), Ganapathy Ramesh sent 16 and received 202 emails, totalling 218 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (10), [W  White](people/w-white) (6), [C  Gossett](people/c-gossett) (4), [Frank Hayden](people/frank-hayden) (3), [R  Brackett](people/r-brackett) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-11-30** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ganapathy-ramesh",
+    "name": "Ganapathy Ramesh",
+    "email": "ganapathy.ramesh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jtalcott",
+  "type": "person",
+  "title": "Jtalcott",
+  "compiled_truth": "Jtalcott is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-05-30), Jtalcott sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jtalcott",
+    "name": "Jtalcott",
+    "email": "jtalcott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

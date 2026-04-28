@@ -1,0 +1,14 @@
+{
+  "slug": "people/ebe4476b-2d94882a-86256a14-75ff3b",
+  "type": "person",
+  "title": "Ebe4476B-2D94882A-86256A14-75Ff3B",
+  "compiled_truth": "Ebe4476B-2D94882A-86256A14-75Ff3B is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-25 to 2001-07-25), Ebe4476B-2D94882A-86256A14-75Ff3B sent 1 and received 1 emails, totalling 2 interactions. Top correspondents: [Tim Belden](people/tim-belden) (1), [Mike Swerzbin](people/mike-swerzbin) (1), [M  Driscoll](people/m-driscoll) (1), [Matt Motley](people/matt-motley) (1), [Robert Badeer](people/robert-badeer) (1). Mailbox folders observed: ferc.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus\n- **2001-07-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ebe4476b-2d94882a-86256a14-75ff3b",
+    "name": "Ebe4476B-2D94882A-86256A14-75Ff3B",
+    "email": "ebe4476b-2d94882a-86256a14-75ff3b@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

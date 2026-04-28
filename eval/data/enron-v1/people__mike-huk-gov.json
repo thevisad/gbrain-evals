@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-huk-gov",
+  "type": "person",
+  "title": "Mike Huk",
+  "compiled_truth": "Mike Huk is an external contact at [Gov](companies/gov). Over the corpus period (2000-04-14 to 2001-07-31), Mike Huk sent 0 and received 60 emails, totalling 60 interactions.",
+  "timeline": "- **2000-04-14** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-huk-gov",
+    "name": "Mike Huk",
+    "email": "mike.huk@gov.ab.ca",
+    "primary_affiliation": "companies/gov"
+  }
+}

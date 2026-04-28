@@ -1,0 +1,14 @@
+{
+  "slug": "people/cashley-poha",
+  "type": "person",
+  "title": "Cashley",
+  "compiled_truth": "Cashley is an external contact at [Poha](companies/poha). Over the corpus period (2000-06-22 to 2001-11-09), Cashley sent 10 and received 30 emails, totalling 40 interactions. Top correspondents: [Dana Davis](people/dana-davis) (10), [Abraham5](people/abraham5-flash) (2), [Denise Moore](people/denise-moore-dhs) (1), [Jwashing](people/jwashing-mail) (1), [Witness4Him3](people/witness4him3-juno) (1).",
+  "timeline": "- **2000-06-22** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cashley-poha",
+    "name": "Cashley",
+    "email": "cashley@poha.com",
+    "primary_affiliation": "companies/poha"
+  }
+}

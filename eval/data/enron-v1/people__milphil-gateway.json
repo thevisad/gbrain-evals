@@ -1,0 +1,14 @@
+{
+  "slug": "people/milphil-gateway",
+  "type": "person",
+  "title": "Milphil",
+  "compiled_truth": "Milphil is an external contact at [Gateway](companies/gateway). Over the corpus period (2000-09-07 to 2001-06-11), Milphil sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/milphil-gateway",
+    "name": "Milphil",
+    "email": "milphil@gateway.net",
+    "primary_affiliation": "companies/gateway"
+  }
+}

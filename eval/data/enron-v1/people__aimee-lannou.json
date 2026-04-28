@@ -1,0 +1,14 @@
+{
+  "slug": "people/aimee-lannou",
+  "type": "person",
+  "title": "Aimee Lannou",
+  "compiled_truth": "Aimee Lannou is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-03-26), Aimee Lannou sent 87 and received 343 emails, totalling 430 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (87), [Pat Clynes](people/pat-clynes) (11), [George Grant](people/george-grant) (6), [Fred Boas](people/fred-boas) (6), [Juliann Kemp](people/juliann-kemp) (5). Mailbox folders observed: industrials, logistics.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-03-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aimee-lannou",
+    "name": "Aimee Lannou",
+    "email": "aimee.lannou@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

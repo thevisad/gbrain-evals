@@ -1,0 +1,14 @@
+{
+  "slug": "people/herron-carol",
+  "type": "person",
+  "title": "Herron Carol",
+  "compiled_truth": "Herron Carol is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-08 to 2002-03-14), Herron Carol sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/herron-carol",
+    "name": "Herron Carol",
+    "email": "herron.carol@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

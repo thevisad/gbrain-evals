@@ -1,0 +1,14 @@
+{
+  "slug": "people/ppipitone-andrews-kurth",
+  "type": "person",
+  "title": "Ppipitone",
+  "compiled_truth": "Ppipitone is an external contact at [Andrews-kurth](companies/andrews-kurth). Over the corpus period (2000-05-08 to 2000-11-17), Ppipitone sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2000-11-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ppipitone-andrews-kurth",
+    "name": "Ppipitone",
+    "email": "ppipitone@andrews-kurth.com",
+    "primary_affiliation": "companies/andrews-kurth"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/zarin-imam",
+  "type": "person",
+  "title": "Zarin' 'Imam",
+  "compiled_truth": "Zarin' 'Imam is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-18 to 2001-10-08), Zarin' 'Imam sent 6 and received 59 emails, totalling 65 interactions. Top correspondents: [Don Baughman](people/don-baughman) (4), [Larry Campbell](people/larry-campbell) (2). Mailbox folders observed: enron_power, power.",
+  "timeline": "- **2000-04-18** | First recorded email in corpus\n- **2001-10-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zarin-imam",
+    "name": "Zarin' 'Imam",
+    "email": "zarin'.'imam@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

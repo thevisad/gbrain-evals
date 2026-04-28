@@ -1,0 +1,14 @@
+{
+  "slug": "people/madhup",
+  "type": "person",
+  "title": " Madhup",
+  "compiled_truth": "Madhup is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-01 to 2001-12-18),  Madhup sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-01** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/madhup",
+    "name": " Madhup",
+    "email": ".madhup@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

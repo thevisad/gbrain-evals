@@ -1,0 +1,14 @@
+{
+  "slug": "people/margaret-dhont",
+  "type": "person",
+  "title": "Margaret Dhont",
+  "compiled_truth": "Margaret Dhont is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-14 to 2002-06-25), Margaret Dhont sent 4 and received 180 emails, totalling 184 interactions. Top correspondents: [Chris Germany](people/chris-germany) (4), [Beth Apollo](people/beth-apollo) (1). Mailbox folders observed: bankrupt, deleted_items.",
+  "timeline": "- **2001-11-14** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margaret-dhont",
+    "name": "Margaret Dhont",
+    "email": "margaret.dhont@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

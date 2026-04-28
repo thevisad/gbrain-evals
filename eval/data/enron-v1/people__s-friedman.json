@@ -1,0 +1,14 @@
+{
+  "slug": "people/s-friedman",
+  "type": "person",
+  "title": "S  Friedman",
+  "compiled_truth": "S  Friedman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-04 to 2001-11-14), S  Friedman sent 0 and received 47 emails, totalling 47 interactions.",
+  "timeline": "- **2001-05-04** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/s-friedman",
+    "name": "S  Friedman",
+    "email": "s..friedman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

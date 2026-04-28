@@ -1,0 +1,21 @@
+{
+  "slug": "threads/location-2001-04",
+  "type": "meeting",
+  "title": "Thread: Location",
+  "compiled_truth": "Email thread: \"Location\". Ran from 2001-04-02 to 2001-04-11 with 14 messages. Participants: [Jane Tholt](people/jane-tholt), [Jhinson](people/jhinson-wt), [Judy Townsend](people/judy-townsend), [Matt Smith](people/matt-smith), [Phillip Allen](people/phillip-allen), [Sara Solorio](people/sara-solorio), [Tori Kuykendall](people/tori-kuykendall).",
+  "timeline": "- **2001-04-02** | Thread begins: location\n- **2001-04-11** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/location-2001-04",
+    "attendees": [
+      "people/jane-tholt",
+      "people/jhinson-wt",
+      "people/judy-townsend",
+      "people/matt-smith",
+      "people/phillip-allen",
+      "people/sara-solorio",
+      "people/tori-kuykendall"
+    ],
+    "date": "2001-04-02"
+  }
+}

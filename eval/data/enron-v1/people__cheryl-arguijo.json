@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheryl-arguijo",
+  "type": "person",
+  "title": "Cheryl Arguijo",
+  "compiled_truth": "Cheryl Arguijo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-24 to 2002-03-25), Cheryl Arguijo sent 4 and received 49 emails, totalling 53 interactions. Top correspondents: [Bcc](people/bcc) (1), [Adupont](people/adupont) (1).",
+  "timeline": "- **2000-05-24** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheryl-arguijo",
+    "name": "Cheryl Arguijo",
+    "email": "cheryl.arguijo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

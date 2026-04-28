@@ -1,0 +1,14 @@
+{
+  "slug": "people/rachel-peckenpaugh",
+  "type": "person",
+  "title": "Rachel Peckenpaugh",
+  "compiled_truth": "Rachel Peckenpaugh is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-29 to 2001-09-25), Rachel Peckenpaugh sent 1 and received 3 emails, totalling 4 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-29** | First recorded email in corpus\n- **2001-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rachel-peckenpaugh",
+    "name": "Rachel Peckenpaugh",
+    "email": "rachel.peckenpaugh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

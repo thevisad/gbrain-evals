@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-laipple",
+  "type": "person",
+  "title": "Dave Laipple",
+  "compiled_truth": "Dave Laipple is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-18 to 2001-11-19), Dave Laipple sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-04-18** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-laipple",
+    "name": "Dave Laipple",
+    "email": "dave.laipple@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

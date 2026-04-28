@@ -1,0 +1,14 @@
+{
+  "slug": "people/dorie-hitchcock",
+  "type": "person",
+  "title": "Dorie Hitchcock",
+  "compiled_truth": "Dorie Hitchcock is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2002-01-11), Dorie Hitchcock sent 40 and received 103 emails, totalling 143 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (19), [Louise Kitchen](people/louise-kitchen) (18), [Mike McConnell](people/mike-mcconnell) (6), [Jeffrey Mcmahon](people/jeffrey-mcmahon) (6), [Raymond Bowen](people/raymond-bowen) (6). Mailbox folders observed: _americas, deleted_items, inbox, personal.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dorie-hitchcock",
+    "name": "Dorie Hitchcock",
+    "email": "dorie.hitchcock@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

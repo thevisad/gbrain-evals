@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-landwehr",
+  "type": "person",
+  "title": "Susan Landwehr",
+  "compiled_truth": "Susan Landwehr is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-31), Susan Landwehr sent 61 and received 734 emails, totalling 795 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (47), [Richard Shapiro](people/richard-shapiro) (31), [Paul Kaufman](people/paul-kaufman) (26), [James Steffes](people/james-steffes) (21), [Janel Guerrero](people/janel-guerrero) (13). Mailbox folders observed: affiliate_rules, deleted_items, hedging, west.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-landwehr",
+    "name": "Susan Landwehr",
+    "email": "susan.landwehr@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

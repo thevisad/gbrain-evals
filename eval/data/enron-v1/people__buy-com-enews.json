@@ -1,0 +1,14 @@
+{
+  "slug": "people/buy-com-enews",
+  "type": "person",
+  "title": "Buy Com",
+  "compiled_truth": "Buy Com is an external contact at [Enews](companies/enews). Over the corpus period (2001-06-04 to 2002-01-23), Buy Com sent 50 and received 0 emails, totalling 50 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (15), [Jarnold](people/jarnold) (10), [Don Baughman](people/don-baughman) (9), [Mike Carson](people/mike-carson) (7), [Dgiron](people/dgiron) (7).",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2002-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/buy-com-enews",
+    "name": "Buy Com",
+    "email": "buy.com@enews.buy.com",
+    "primary_affiliation": "companies/enews"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/renata-teke",
+  "type": "person",
+  "title": "Renata Teke",
+  "compiled_truth": "Renata Teke is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-21 to 2000-06-26), Renata Teke sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2000-06-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/renata-teke",
+    "name": "Renata Teke",
+    "email": "renata.teke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

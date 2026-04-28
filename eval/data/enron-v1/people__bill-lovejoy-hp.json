@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-lovejoy-hp",
+  "type": "person",
+  "title": "Bill Lovejoy",
+  "compiled_truth": "Bill Lovejoy is an external contact at [Hp](companies/hp). Over the corpus period (2000-12-01 to 2000-12-07), Bill Lovejoy sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2000-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-lovejoy-hp",
+    "name": "Bill Lovejoy",
+    "email": "bill_lovejoy@hp.com",
+    "primary_affiliation": "companies/hp"
+  }
+}

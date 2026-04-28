@@ -1,0 +1,14 @@
+{
+  "slug": "people/angel-shollandco",
+  "type": "person",
+  "title": "Angel",
+  "compiled_truth": "Angel is an external contact at [Shollandco](companies/shollandco). Over the corpus period (2000-09-05 to 2001-03-23), Angel sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus\n- **2001-03-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angel-shollandco",
+    "name": "Angel",
+    "email": "angel@shollandco.com",
+    "primary_affiliation": "companies/shollandco"
+  }
+}

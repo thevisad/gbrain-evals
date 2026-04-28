@@ -1,0 +1,14 @@
+{
+  "slug": "people/kinneary-bellatlantic",
+  "type": "person",
+  "title": "Kinneary",
+  "compiled_truth": "Kinneary is an external contact at [Bellatlantic](companies/bellatlantic). Over the corpus period (2000-11-07 to 2001-09-04), Kinneary sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kinneary-bellatlantic",
+    "name": "Kinneary",
+    "email": "kinneary@bellatlantic.net",
+    "primary_affiliation": "companies/bellatlantic"
+  }
+}

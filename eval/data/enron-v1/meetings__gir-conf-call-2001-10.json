@@ -1,0 +1,28 @@
+{
+  "slug": "meetings/gir-conf-call-2001-10",
+  "type": "meeting",
+  "title": "Meeting: Gir Conf. Call",
+  "compiled_truth": "Meeting: \"Gir Conf. Call\". Occurred 2001-10-16 through 2001-10-16 with 4 related emails. Participants included: [Blair Lichtenwalter](people/blair-lichtenwalter), [Glen Hass](people/glen-hass), [Jeff Dasovich](people/jeff-dasovich), [Kay Miller](people/kay-miller), [Kimberly Watson](people/kimberly-watson), [Lindy Donoho](people/lindy-donoho), [Lorraine Lindberg](people/lorraine-lindberg), [ Mark](people/mark)....",
+  "timeline": "- **2001-10-16** | Meeting: gir conf. call\n- **2001-10-16** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/gir-conf-call-2001-10",
+    "attendees": [
+      "people/blair-lichtenwalter",
+      "people/glen-hass",
+      "people/jeff-dasovich",
+      "people/kay-miller",
+      "people/kimberly-watson",
+      "people/lindy-donoho",
+      "people/lorraine-lindberg",
+      "people/mark",
+      "people/michelle-lokay",
+      "people/robert-kilmer",
+      "people/steven-harris",
+      "people/teb-lokey",
+      "people/tk-lohman",
+      "people/tony-pryor"
+    ],
+    "date": "2001-10-16"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristen-hand",
+  "type": "person",
+  "title": "Kristen Hand",
+  "compiled_truth": "Kristen Hand is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-13 to 2000-07-18), Kristen Hand sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-01-13** | First recorded email in corpus\n- **2000-07-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristen-hand",
+    "name": "Kristen Hand",
+    "email": "kristen.hand@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/craig-ingerto",
+  "type": "person",
+  "title": "Craig Ingerto",
+  "compiled_truth": "Craig Ingerto is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-05-09), Craig Ingerto sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/craig-ingerto",
+    "name": "Craig Ingerto",
+    "email": "craig.ingerto@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

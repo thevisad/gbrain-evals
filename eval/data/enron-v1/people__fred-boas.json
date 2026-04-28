@@ -1,0 +1,14 @@
+{
+  "slug": "people/fred-boas",
+  "type": "person",
+  "title": "Fred Boas",
+  "compiled_truth": "Fred Boas is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2002-05-13), Fred Boas sent 10 and received 199 emails, totalling 209 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (10), [Howard Camp](people/howard-camp) (4), [Robert Lloyd](people/robert-lloyd) (3), [Tom Acton](people/tom-acton) (3), [Aimee Lannou](people/aimee-lannou) (3).",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fred-boas",
+    "name": "Fred Boas",
+    "email": "fred.boas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

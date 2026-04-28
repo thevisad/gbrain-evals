@@ -1,0 +1,14 @@
+{
+  "slug": "people/sonia-trevino",
+  "type": "person",
+  "title": "Sonia Trevino",
+  "compiled_truth": "Sonia Trevino is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-21 to 2002-03-29), Sonia Trevino sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2002-03-21** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sonia-trevino",
+    "name": "Sonia Trevino",
+    "email": "sonia.trevino@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

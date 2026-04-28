@@ -1,0 +1,14 @@
+{
+  "slug": "people/pallen",
+  "type": "person",
+  "title": "Pallen",
+  "compiled_truth": "Pallen is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-01), Pallen sent 0 and received 186 emails, totalling 186 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pallen",
+    "name": "Pallen",
+    "email": "pallen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

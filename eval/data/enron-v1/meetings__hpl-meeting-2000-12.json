@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/hpl-meeting-2000-12",
+  "type": "meeting",
+  "title": "Meeting: Hpl Meeting",
+  "compiled_truth": "Meeting: \"Hpl Meeting\". Occurred 2000-12-21 with 2 related emails. Participants included: [Brian Redmond](people/brian-redmond), [Edward Gottlob](people/edward-gottlob), [John Lavorato](people/john-lavorato), [Kay Chapman](people/kay-chapman), [Kimberly Hillis](people/kimberly-hillis), [Laura Vuittonet](people/laura-vuittonet), [Lillian Carroll](people/lillian-carroll), [Shirley Tijerina](people/shirley-tijerina)....",
+  "timeline": "- **2000-12-21** | Meeting: hpl meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/hpl-meeting-2000-12",
+    "attendees": [
+      "people/brian-redmond",
+      "people/edward-gottlob",
+      "people/john-lavorato",
+      "people/kay-chapman",
+      "people/kimberly-hillis",
+      "people/laura-vuittonet",
+      "people/lillian-carroll",
+      "people/shirley-tijerina",
+      "people/thomas-martin",
+      "people/wes-colwell"
+    ],
+    "date": "2000-12-21"
+  }
+}

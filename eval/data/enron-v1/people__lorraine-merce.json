@@ -1,0 +1,14 @@
+{
+  "slug": "people/lorraine-merce",
+  "type": "person",
+  "title": "Lorraine Merce",
+  "compiled_truth": "Lorraine Merce is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-11-03), Lorraine Merce sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lorraine-merce",
+    "name": "Lorraine Merce",
+    "email": "lorraine.merce@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

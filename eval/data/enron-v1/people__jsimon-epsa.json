@@ -1,0 +1,14 @@
+{
+  "slug": "people/jsimon-epsa",
+  "type": "person",
+  "title": "Jsimon",
+  "compiled_truth": "Jsimon is an external contact at [Epsa](companies/epsa). Over the corpus period (2000-11-10 to 2001-12-01), Jsimon sent 2 and received 55 emails, totalling 57 interactions. Top correspondents: [Jweisgall](people/jweisgall-aol) (1), [Freesrj](people/freesrj-apci) (1), [Hellertj](people/hellertj-apci) (1), [Bfpjv](people/bfpjv-c-zone) (1), [Jgreco](people/jgreco-caithnessenergy) (1).",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-12-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jsimon-epsa",
+    "name": "Jsimon",
+    "email": "jsimon@epsa.org",
+    "primary_affiliation": "companies/epsa"
+  }
+}

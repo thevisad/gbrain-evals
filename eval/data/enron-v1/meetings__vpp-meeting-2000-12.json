@@ -1,0 +1,28 @@
+{
+  "slug": "meetings/vpp-meeting-2000-12",
+  "type": "meeting",
+  "title": "Meeting: Vpp Meeting",
+  "compiled_truth": "Meeting: \"Vpp Meeting\". Occurred 2000-12-15 through 2000-12-15 with 3 related emails. Participants included: [Alan Aronowitz](people/alan-aronowitz), [Amy Rios](people/amy-rios), [Chantelle Villanueva](people/chantelle-villanueva), [Dan Hyvl](people/dan-hyvl), [Eric Groves](people/eric-groves), [Eric Moon](people/eric-moon), [Jeffrey Hodge](people/jeffrey-hodge), [Jesus Melendrez](people/jesus-melendrez)....",
+  "timeline": "- **2000-12-15** | Meeting: vpp meeting\n- **2000-12-15** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/vpp-meeting-2000-12",
+    "attendees": [
+      "people/alan-aronowitz",
+      "people/amy-rios",
+      "people/chantelle-villanueva",
+      "people/dan-hyvl",
+      "people/eric-groves",
+      "people/eric-moon",
+      "people/jeffrey-hodge",
+      "people/jesus-melendrez",
+      "people/joan-quick",
+      "people/john-griffith",
+      "people/joya-williams",
+      "people/mary-cook",
+      "people/sheri-cromwell",
+      "people/teresa-bushman"
+    ],
+    "date": "2000-12-15"
+  }
+}

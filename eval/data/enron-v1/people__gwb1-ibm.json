@@ -1,0 +1,14 @@
+{
+  "slug": "people/gwb1-ibm",
+  "type": "person",
+  "title": "Gwb1",
+  "compiled_truth": "Gwb1 is an external contact at [Ibm](companies/ibm). Over the corpus period (2000-05-21 to 2000-07-26), Gwb1 sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-07-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gwb1-ibm",
+    "name": "Gwb1",
+    "email": "gwb1@ibm.net",
+    "primary_affiliation": "companies/ibm"
+  }
+}

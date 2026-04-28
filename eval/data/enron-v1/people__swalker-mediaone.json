@@ -1,0 +1,14 @@
+{
+  "slug": "people/swalker-mediaone",
+  "type": "person",
+  "title": "Swalker",
+  "compiled_truth": "Swalker is an external contact at [Mediaone](companies/mediaone). Over the corpus period (2001-10-18 to 2001-10-18), Swalker sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/swalker-mediaone",
+    "name": "Swalker",
+    "email": "swalker@mediaone.net",
+    "primary_affiliation": "companies/mediaone"
+  }
+}

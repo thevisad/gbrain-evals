@@ -1,0 +1,14 @@
+{
+  "slug": "people/margaret-dennison",
+  "type": "person",
+  "title": "Margaret Dennison",
+  "compiled_truth": "Margaret Dennison is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-27), Margaret Dennison sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margaret-dennison",
+    "name": "Margaret Dennison",
+    "email": "margaret.dennison@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-kneisley",
+  "type": "person",
+  "title": "George Kneisley",
+  "compiled_truth": "George Kneisley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-06 to 2002-03-25), George Kneisley sent 1 and received 38 emails, totalling 39 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (1).",
+  "timeline": "- **2000-01-06** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-kneisley",
+    "name": "George Kneisley",
+    "email": "george.kneisley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

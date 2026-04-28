@@ -1,0 +1,22 @@
+{
+  "slug": "companies/caithnessenergy",
+  "type": "company",
+  "title": "Caithnessenergy",
+  "compiled_truth": "Caithnessenergy is an external organization that appears in the Enron email corpus. Domain: caithnessenergy.com. Total email interactions with Enron: 557. Known contacts: 5 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (557 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/caithnessenergy",
+    "name": "Caithnessenergy",
+    "employees": [
+      "people/fmisseldine-caithnessenergy",
+      "people/jgreco-caithnessenergy",
+      "people/khoffman-caithnessenergy",
+      "people/rain-caithnessenergy",
+      "people/wscobee-caithnessenergy"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

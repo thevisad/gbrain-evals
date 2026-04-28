@@ -1,0 +1,14 @@
+{
+  "slug": "people/info-forexnews",
+  "type": "person",
+  "title": "Info",
+  "compiled_truth": "Info is an external contact at [Forexnews](companies/forexnews). Over the corpus period (2001-10-17 to 2002-03-21), Info sent 106 and received 0 emails, totalling 106 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (106).",
+  "timeline": "- **2001-10-17** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/info-forexnews",
+    "name": "Info",
+    "email": "info@forexnews.com",
+    "primary_affiliation": "companies/forexnews"
+  }
+}

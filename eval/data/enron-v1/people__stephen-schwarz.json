@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-schwarz",
+  "type": "person",
+  "title": "Stephen Schwarz",
+  "compiled_truth": "Stephen Schwarz is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-04), Stephen Schwarz sent 5 and received 90 emails, totalling 95 interactions. Top correspondents: [Sally Beck](people/sally-beck) (5), [Cynthia Morrow](people/cynthia-morrow) (2), [Melissa White](people/melissa-white) (2), [Inja Chun](people/inja-chun) (1), [Pamela Lebrane](people/pamela-lebrane) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-schwarz",
+    "name": "Stephen Schwarz",
+    "email": "stephen.schwarz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

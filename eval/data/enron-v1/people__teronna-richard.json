@@ -1,0 +1,14 @@
+{
+  "slug": "people/teronna-richard",
+  "type": "person",
+  "title": "Teronna Richard",
+  "compiled_truth": "Teronna Richard is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-15 to 2002-05-06), Teronna Richard sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-10-15** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teronna-richard",
+    "name": "Teronna Richard",
+    "email": "teronna.richard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

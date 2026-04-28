@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-mcellin",
+  "type": "person",
+  "title": "David Mcellin",
+  "compiled_truth": "David Mcellin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2002-02-14), David Mcellin sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-mcellin",
+    "name": "David Mcellin",
+    "email": "david.mcellin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

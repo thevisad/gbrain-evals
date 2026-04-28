@@ -1,0 +1,14 @@
+{
+  "slug": "people/amanda-huble",
+  "type": "person",
+  "title": "Amanda Huble",
+  "compiled_truth": "Amanda Huble is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-30 to 2002-01-22), Amanda Huble sent 81 and received 185 emails, totalling 266 interactions. Top correspondents: [Mike Maggi](people/mike-maggi) (62), [Chris Gaskill](people/chris-gaskill) (4), [Mog Heu](people/mog-heu) (4), [Hunter Shively](people/hunter-shively) (4), [Geoff Storey](people/geoff-storey) (4). Mailbox folders observed: _americas, deleted_items, enron, inbox.",
+  "timeline": "- **2000-08-30** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amanda-huble",
+    "name": "Amanda Huble",
+    "email": "amanda.huble@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

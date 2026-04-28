@@ -1,0 +1,14 @@
+{
+  "slug": "people/siddiqi-haas",
+  "type": "person",
+  "title": "Siddiqi",
+  "compiled_truth": "Siddiqi is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-05-07), Siddiqi sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-05-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/siddiqi-haas",
+    "name": "Siddiqi",
+    "email": "siddiqi@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kmjohnson-bpa",
+  "type": "person",
+  "title": "Kmjohnson",
+  "compiled_truth": "Kmjohnson is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2000-07-25 to 2001-08-14), Kmjohnson sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2001-08-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kmjohnson-bpa",
+    "name": "Kmjohnson",
+    "email": "kmjohnson@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

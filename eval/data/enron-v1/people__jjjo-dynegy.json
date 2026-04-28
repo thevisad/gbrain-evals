@@ -1,0 +1,14 @@
+{
+  "slug": "people/jjjo-dynegy",
+  "type": "person",
+  "title": "Jjjo",
+  "compiled_truth": "Jjjo is an external contact at [Dynegy](companies/dynegy). Over the corpus period (2000-07-25 to 2000-08-29), Jjjo sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2000-08-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jjjo-dynegy",
+    "name": "Jjjo",
+    "email": "jjjo@dynegy.com",
+    "primary_affiliation": "companies/dynegy"
+  }
+}

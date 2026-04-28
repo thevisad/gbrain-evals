@@ -1,0 +1,14 @@
+{
+  "slug": "people/clara-carrington",
+  "type": "person",
+  "title": "Clara Carrington",
+  "compiled_truth": "Clara Carrington is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-05), Clara Carrington sent 11 and received 220 emails, totalling 231 interactions. Top correspondents: [Sheila Glover](people/sheila-glover) (7), [Kam Keiser](people/kam-keiser) (4), [William Kelly](people/william-kelly) (4), [David Baumbach](people/david-baumbach) (4), [Jenny Latham](people/jenny-latham) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clara-carrington",
+    "name": "Clara Carrington",
+    "email": "clara.carrington@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

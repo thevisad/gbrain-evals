@@ -1,0 +1,23 @@
+{
+  "slug": "threads/vacation-2000-12",
+  "type": "meeting",
+  "title": "Thread: Vacation",
+  "compiled_truth": "Email thread: \"Vacation\". Ran from 2000-12-12 to 2001-01-09 with 10 messages. Participants: [Chris Germany](people/chris-germany), [Dave Scott](people/dave-scott), [Jeffrey Hodge](people/jeffrey-hodge), [Mark Haedicke](people/mark-haedicke), [Mark Taylor](people/mark-taylor), [Shirley Crenshaw](people/shirley-crenshaw), [Stephanie Panus](people/stephanie-panus), [Taffy Milligan](people/taffy-milligan).",
+  "timeline": "- **2000-12-12** | Thread begins: vacation\n- **2001-01-09** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/vacation-2000-12",
+    "attendees": [
+      "people/chris-germany",
+      "people/dave-scott",
+      "people/jeffrey-hodge",
+      "people/mark-haedicke",
+      "people/mark-taylor",
+      "people/shirley-crenshaw",
+      "people/stephanie-panus",
+      "people/taffy-milligan",
+      "people/vince-kaminski"
+    ],
+    "date": "2000-12-12"
+  }
+}

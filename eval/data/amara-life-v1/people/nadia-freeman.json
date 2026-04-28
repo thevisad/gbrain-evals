@@ -1,0 +1,16 @@
+{
+  "slug": "people/nadia-freeman",
+  "type": "person",
+  "title": "Nadia Freeman",
+  "compiled_truth": "Nadia Freeman is a mentor to Amara Okafor. Email: nadia@unionsq.vc. Nadia Freeman works at Union Square Ventures. Slack: @nadia.",
+  "timeline": "- **2026-04-13** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nadia-freeman",
+    "name": "Nadia Freeman",
+    "email": "nadia@unionsq.vc",
+    "slack_handle": "nadia",
+    "relation_to_amara": "mentor",
+    "primary_affiliation": "companies/union-square-ventures"
+  }
+}

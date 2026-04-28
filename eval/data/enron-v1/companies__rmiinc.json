@@ -1,0 +1,26 @@
+{
+  "slug": "companies/rmiinc",
+  "type": "company",
+  "title": "Rmiinc",
+  "compiled_truth": "Rmiinc is an external organization that appears in the Enron email corpus. Domain: rmiinc.com. Total email interactions with Enron: 243. Known contacts: 9 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (243 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/rmiinc",
+    "name": "Rmiinc",
+    "employees": [
+      "people/aaron-breidenbaugh-rmiinc",
+      "people/charles-doering-rmiinc",
+      "people/david-cohen-rmiinc",
+      "people/jim-parmelee-rmiinc",
+      "people/john-baird-rmiinc",
+      "people/john-little-rmiinc",
+      "people/katie-elder-rmiinc",
+      "people/melanie-gillette-rmiinc",
+      "people/ron-oechsler-rmiinc"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

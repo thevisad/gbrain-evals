@@ -1,0 +1,14 @@
+{
+  "slug": "people/lsilva-ci",
+  "type": "person",
+  "title": "Lsilva",
+  "compiled_truth": "Lsilva is an external contact at [Ci](companies/ci). Over the corpus period (1999-10-04 to 2001-12-07), Lsilva sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lsilva-ci",
+    "name": "Lsilva",
+    "email": "lsilva@ci.glendale.ca.us",
+    "primary_affiliation": "companies/ci"
+  }
+}

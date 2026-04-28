@@ -1,0 +1,14 @@
+{
+  "slug": "people/brandee-jackson",
+  "type": "person",
+  "title": "Brandee Jackson",
+  "compiled_truth": "Brandee Jackson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-09 to 2002-05-06), Brandee Jackson sent 37 and received 98 emails, totalling 135 interactions. Top correspondents: [Patti Sullivan](people/patti-sullivan) (28), [Lisa Kinsey](people/lisa-kinsey) (27), [Victor Lamadrid](people/victor-lamadrid) (26), [Robert Superty](people/robert-superty) (25), [Suzanne Calcagno](people/suzanne-calcagno) (23). Mailbox folders observed: 07_saved, 08_saved, calendar, deleted_items, inbox, logistics.",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brandee-jackson",
+    "name": "Brandee Jackson",
+    "email": "brandee.jackson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

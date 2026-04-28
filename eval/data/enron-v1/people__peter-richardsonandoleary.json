@@ -1,0 +1,14 @@
+{
+  "slug": "people/peter-richardsonandoleary",
+  "type": "person",
+  "title": "Peter",
+  "compiled_truth": "Peter is an external contact at [Richardsonandoleary](companies/richardsonandoleary). Over the corpus period (2001-02-20 to 2001-04-27), Peter sent 4 and received 63 emails, totalling 67 interactions. Top correspondents: [Abuckley](people/abuckley-wutc) (4), [Alan](people/alan-epud) (4), [Ali Rodol](people/ali-rodol-ci) (4), [Archive-Power-Ratecase](people/archive-power-ratecase-bpa) (4), [Aw Turner](people/aw-turner-pgn) (4).",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peter-richardsonandoleary",
+    "name": "Peter",
+    "email": "peter@richardsonandoleary.com",
+    "primary_affiliation": "companies/richardsonandoleary"
+  }
+}

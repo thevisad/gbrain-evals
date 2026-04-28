@@ -1,0 +1,14 @@
+{
+  "slug": "people/stan-horton",
+  "type": "person",
+  "title": "Stan Horton",
+  "compiled_truth": "Stan Horton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-30 to 2001-11-20), Stan Horton sent 5 and received 23 emails, totalling 28 interactions. Top correspondents: [Enron Operations](people/enron-operations) (2), [Enron Global Services - Us](people/enron-global-services-us) (1). Mailbox folders observed: deleted_items, enron_t_s.",
+  "timeline": "- **1999-12-30** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stan-horton",
+    "name": "Stan Horton",
+    "email": "stan.horton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

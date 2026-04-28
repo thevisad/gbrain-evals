@@ -1,0 +1,14 @@
+{
+  "slug": "people/d-hall",
+  "type": "person",
+  "title": "D Hall",
+  "compiled_truth": "D Hall is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-21), D Hall sent 13 and received 202 emails, totalling 215 interactions. Top correspondents: [Sally Beck](people/sally-beck) (12), [Joe Gold](people/joe-gold) (2), [Gregor Baumerich](people/gregor-baumerich) (2), [Paul Mead](people/paul-mead) (2), [James New](people/james-new) (2).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d-hall",
+    "name": "D Hall",
+    "email": "d.hall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

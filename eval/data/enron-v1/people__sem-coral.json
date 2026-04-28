@@ -1,0 +1,14 @@
+{
+  "slug": "people/sem-coral",
+  "type": "person",
+  "title": "Sem",
+  "compiled_truth": "Sem is an external contact at [Coral](companies/coral). Over the corpus period (2000-10-05 to 2000-10-05), Sem sent 2 and received 0 emails, totalling 2 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (2), [Jeff Skilling](people/jeff-skilling) (2), [Ken Rice](people/ken-rice) (2), [Katherine Brown](people/katherine-brown) (1), [Sherri Sera](people/sherri-sera) (1).",
+  "timeline": "- **2000-10-05** | First recorded email in corpus\n- **2000-10-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sem-coral",
+    "name": "Sem",
+    "email": "sem@coral.ocn.ne.jp",
+    "primary_affiliation": "companies/coral"
+  }
+}

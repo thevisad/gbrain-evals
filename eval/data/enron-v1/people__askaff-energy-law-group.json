@@ -1,0 +1,14 @@
+{
+  "slug": "people/askaff-energy-law-group",
+  "type": "person",
+  "title": "Askaff",
+  "compiled_truth": "Askaff is an external contact at [Energy-law-group](companies/energy-law-group). Over the corpus period (2000-04-04 to 2001-07-31), Askaff sent 0 and received 143 emails, totalling 143 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/askaff-energy-law-group",
+    "name": "Askaff",
+    "email": "askaff@energy-law-group.com",
+    "primary_affiliation": "companies/energy-law-group"
+  }
+}

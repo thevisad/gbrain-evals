@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcm-vnf",
+  "type": "person",
+  "title": "Mcm",
+  "compiled_truth": "Mcm is an external contact at [Vnf](companies/vnf). Over the corpus period (2000-06-24 to 2001-04-26), Mcm sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-06-24** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcm-vnf",
+    "name": "Mcm",
+    "email": "mcm@vnf.com",
+    "primary_affiliation": "companies/vnf"
+  }
+}

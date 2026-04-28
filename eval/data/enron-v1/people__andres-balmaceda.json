@@ -1,0 +1,14 @@
+{
+  "slug": "people/andres-balmaceda",
+  "type": "person",
+  "title": "Andres Balmaceda",
+  "compiled_truth": "Andres Balmaceda is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-17 to 2001-10-12), Andres Balmaceda sent 0 and received 131 emails, totalling 131 interactions.",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andres-balmaceda",
+    "name": "Andres Balmaceda",
+    "email": "andres.balmaceda@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

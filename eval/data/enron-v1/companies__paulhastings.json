@@ -1,0 +1,35 @@
+{
+  "slug": "companies/paulhastings",
+  "type": "company",
+  "title": "Paulhastings",
+  "compiled_truth": "Paulhastings is an external organization that appears in the Enron email corpus. Domain: paulhastings.com. Total email interactions with Enron: 252. Known contacts: 18 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (252 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/paulhastings",
+    "name": "Paulhastings",
+    "employees": [
+      "people/connieargento-paulhastings",
+      "people/dianekonsky-paulhastings",
+      "people/eileenschreiber-paulhastings",
+      "people/gregory-lang-paulhastings",
+      "people/gregorylang-paulhastings",
+      "people/hydeefeldstein-paulhastings",
+      "people/janmorency-paulhastings",
+      "people/jeremiahdeberry-paulhastings",
+      "people/johnhawkins-paulhastings",
+      "people/johnstaikos-paulhastings",
+      "people/margaretkahn-paulhastings",
+      "people/margueritekahn-paulhastings",
+      "people/moonkim-paulhastings",
+      "people/peterweiner-paulhastings",
+      "people/sandramcgregor-paulhastings",
+      "people/susanchow-paulhastings",
+      "people/suzannepepe-paulhastings",
+      "people/tremainewright-paulhastings"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

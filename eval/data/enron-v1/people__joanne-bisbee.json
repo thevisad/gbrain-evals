@@ -1,0 +1,14 @@
+{
+  "slug": "people/joanne-bisbee",
+  "type": "person",
+  "title": "Joanne Bisbee",
+  "compiled_truth": "Joanne Bisbee is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2002-03-07), Joanne Bisbee sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joanne-bisbee",
+    "name": "Joanne Bisbee",
+    "email": "joanne.bisbee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lkitchen-enron",
+  "type": "person",
+  "title": "Lkitchen",
+  "compiled_truth": "Lkitchen is an external contact at [Enron](companies/enron). Over the corpus period (1999-05-20 to 2001-05-07), Lkitchen sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **1999-05-20** | First recorded email in corpus\n- **2001-05-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lkitchen-enron",
+    "name": "Lkitchen",
+    "email": "lkitchen@enron.co.uk",
+    "primary_affiliation": "companies/enron"
+  }
+}

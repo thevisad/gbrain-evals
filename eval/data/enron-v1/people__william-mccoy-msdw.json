@@ -1,0 +1,14 @@
+{
+  "slug": "people/william-mccoy-msdw",
+  "type": "person",
+  "title": "William Mccoy",
+  "compiled_truth": "William Mccoy is an external contact at [Msdw](companies/msdw). Over the corpus period (2000-03-31 to 2001-06-11), William Mccoy sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-03-31** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/william-mccoy-msdw",
+    "name": "William Mccoy",
+    "email": "william.mccoy@msdw.com",
+    "primary_affiliation": "companies/msdw"
+  }
+}

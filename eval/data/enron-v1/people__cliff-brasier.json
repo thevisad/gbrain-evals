@@ -1,0 +1,14 @@
+{
+  "slug": "people/cliff-brasier",
+  "type": "person",
+  "title": "Cliff Brasier",
+  "compiled_truth": "Cliff Brasier is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-18 to 2001-12-27), Cliff Brasier sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cliff-brasier",
+    "name": "Cliff Brasier",
+    "email": "cliff.brasier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/martin-lin",
+  "type": "person",
+  "title": "Martin Lin",
+  "compiled_truth": "Martin Lin is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2002-02-13), Martin Lin sent 15 and received 252 emails, totalling 267 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (7), [J Kaminski](people/j-kaminski) (5), [Doug Gilbert-Smith](people/doug-gilbert-smith) (3), [Ryan Williams](people/ryan-williams) (2), [Lance Cunningham](people/lance-cunningham) (1). Mailbox folders observed: deleted_items, inbox, rice.",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martin-lin",
+    "name": "Martin Lin",
+    "email": "martin.lin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

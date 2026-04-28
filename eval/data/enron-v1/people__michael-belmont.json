@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-belmont",
+  "type": "person",
+  "title": "Michael Belmont",
+  "compiled_truth": "Michael Belmont is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-07 to 2002-02-06), Michael Belmont sent 0 and received 37 emails, totalling 37 interactions.",
+  "timeline": "- **2000-02-07** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-belmont",
+    "name": "Michael Belmont",
+    "email": "michael.belmont@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/norman-levine",
+  "type": "person",
+  "title": "Norman Levine",
+  "compiled_truth": "Norman Levine is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-11-16), Norman Levine sent 6 and received 21 emails, totalling 27 interactions. Top correspondents: [Joe' 'Hirko](people/joe-hirko) (2), [Ken Rice](people/ken-rice) (2), [Kevin Hannon](people/kevin-hannon) (2), [David Cox](people/david-cox) (2), [Ed Smida](people/ed-smida) (2). Mailbox folders observed: general_research.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/norman-levine",
+    "name": "Norman Levine",
+    "email": "norman_levine@enron.net",
+    "primary_affiliation": "companies/enron"
+  }
+}

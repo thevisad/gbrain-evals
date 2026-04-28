@@ -1,0 +1,14 @@
+{
+  "slug": "people/jun-wang",
+  "type": "person",
+  "title": "Jun Wang",
+  "compiled_truth": "Jun Wang is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-24 to 2001-09-24), Jun Wang sent 2 and received 25 emails, totalling 27 interactions. Top correspondents: [Sally Beck](people/sally-beck) (2).",
+  "timeline": "- **2000-01-24** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jun-wang",
+    "name": "Jun Wang",
+    "email": "jun.wang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

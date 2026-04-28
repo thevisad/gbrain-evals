@@ -1,0 +1,14 @@
+{
+  "slug": "people/dpugh-energygateway",
+  "type": "person",
+  "title": "Dpugh",
+  "compiled_truth": "Dpugh is an external contact at [Energygateway](companies/energygateway). Over the corpus period (2001-05-02 to 2001-10-15), Dpugh sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [H  Lewis](people/h-lewis) (1).",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dpugh-energygateway",
+    "name": "Dpugh",
+    "email": "dpugh@energygateway.com",
+    "primary_affiliation": "companies/energygateway"
+  }
+}

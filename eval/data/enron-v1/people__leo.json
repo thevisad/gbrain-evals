@@ -1,0 +1,14 @@
+{
+  "slug": "people/leo",
+  "type": "person",
+  "title": " Leo",
+  "compiled_truth": "Leo is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-06),  Leo sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leo",
+    "name": " Leo",
+    "email": ".leo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "threads/hello-2001-01",
+  "type": "meeting",
+  "title": "Thread: Hello!",
+  "compiled_truth": "Email thread: \"Hello!\". Ran from 2001-01-16 to 2001-01-24 with 11 messages. Participants: [Airam Arteaga](people/airam-arteaga), [Alex Saldana](people/alex-saldana), [Andrea Guillen](people/andrea-guillen), [Bernice Rodriguez](people/bernice-rodriguez), [Brenda Barreda](people/brenda-barreda), [Chantelle Villanueva](people/chantelle-villanueva), [Claudia Clark](people/claudia-clark), [Elizabeth Soto](people/elizabeth-soto).",
+  "timeline": "- **2001-01-16** | Thread begins: hello!\n- **2001-01-24** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/hello-2001-01",
+    "attendees": [
+      "people/airam-arteaga",
+      "people/alex-saldana",
+      "people/andrea-guillen",
+      "people/bernice-rodriguez",
+      "people/brenda-barreda",
+      "people/chantelle-villanueva",
+      "people/claudia-clark",
+      "people/elizabeth-soto",
+      "people/gerald-nemec",
+      "people/howton-k-ghc",
+      "people/judy-hernandez",
+      "people/kjurica-syntexsolutions",
+      "people/leslie-smith",
+      "people/lisa-shoemake",
+      "people/maria-sandoval",
+      "people/melba-lozano",
+      "people/melissa-rodriguez",
+      "people/phenicia-olivier"
+    ],
+    "date": "2001-01-16"
+  }
+}

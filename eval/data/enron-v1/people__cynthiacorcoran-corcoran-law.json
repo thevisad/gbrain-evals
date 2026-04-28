@@ -1,0 +1,14 @@
+{
+  "slug": "people/cynthiacorcoran-corcoran-law",
+  "type": "person",
+  "title": "Cynthiacorcoran",
+  "compiled_truth": "Cynthiacorcoran is an external contact at [Corcoran-law](companies/corcoran-law). Over the corpus period (2000-04-03 to 2000-12-01), Cynthiacorcoran sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-04-03** | First recorded email in corpus\n- **2000-12-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cynthiacorcoran-corcoran-law",
+    "name": "Cynthiacorcoran",
+    "email": "cynthiacorcoran@corcoran-law.com",
+    "primary_affiliation": "companies/corcoran-law"
+  }
+}

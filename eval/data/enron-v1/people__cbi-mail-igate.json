@@ -1,0 +1,14 @@
+{
+  "slug": "people/cbi-mail-igate",
+  "type": "person",
+  "title": "Cbi Mail",
+  "compiled_truth": "Cbi Mail is an external contact at [Igate](companies/igate). Over the corpus period (2000-11-09 to 2002-01-30), Cbi Mail sent 42 and received 1 emails, totalling 43 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (16), [Mark E Haedicke](people/mark-e-haedicke) (8), [Skean](people/skean) (6), [Dfossum](people/dfossum) (4), [Scorman](people/scorman) (3).",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cbi-mail-igate",
+    "name": "Cbi Mail",
+    "email": "cbi_mail@igate.cbinet.com",
+    "primary_affiliation": "companies/igate"
+  }
+}

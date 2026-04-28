@@ -1,0 +1,14 @@
+{
+  "slug": "people/judy-barnes",
+  "type": "person",
+  "title": "Judy Barnes",
+  "compiled_truth": "Judy Barnes is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2000-09-01), Judy Barnes sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2000-09-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/judy-barnes",
+    "name": "Judy Barnes",
+    "email": "judy.barnes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

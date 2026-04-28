@@ -1,0 +1,14 @@
+{
+  "slug": "people/ram7-pge",
+  "type": "person",
+  "title": "Ram7",
+  "compiled_truth": "Ram7 is an external contact at [PG&E](companies/pge). Over the corpus period (1999-06-02 to 2001-11-21), Ram7 sent 3 and received 16 emails, totalling 19 interactions. Top correspondents: [Lcampbe](people/lcampbe) (2), [Larry Campbell](people/larry-campbell) (1).",
+  "timeline": "- **1999-06-02** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ram7-pge",
+    "name": "Ram7",
+    "email": "ram7@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

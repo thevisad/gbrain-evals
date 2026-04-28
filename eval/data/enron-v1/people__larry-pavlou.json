@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-pavlou",
+  "type": "person",
+  "title": "Larry Pavlou",
+  "compiled_truth": "Larry Pavlou is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-30 to 2002-01-22), Larry Pavlou sent 11 and received 237 emails, totalling 248 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (11), [Jo Williams](people/jo-williams) (8), [Theresa Branney](people/theresa-branney) (7), [Vernon Mercaldo](people/vernon-mercaldo) (7), [John Pritchard](people/john-pritchard) (7). Mailbox folders observed: inbox, nymex_prices.",
+  "timeline": "- **1999-12-30** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-pavlou",
+    "name": "Larry Pavlou",
+    "email": "larry.pavlou@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

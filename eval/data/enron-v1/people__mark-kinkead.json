@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-kinkead",
+  "type": "person",
+  "title": "Mark Kinkead",
+  "compiled_truth": "Mark Kinkead is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2002-02-06), Mark Kinkead sent 3 and received 10 emails, totalling 13 interactions. Top correspondents: [Cooper Richey](people/cooper-richey) (3), [Colin Poon](people/colin-poon) (1). Mailbox folders observed: infrastructure.",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-kinkead",
+    "name": "Mark Kinkead",
+    "email": "mark.kinkead@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

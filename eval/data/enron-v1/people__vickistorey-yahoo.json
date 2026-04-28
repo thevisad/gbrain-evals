@@ -1,0 +1,14 @@
+{
+  "slug": "people/vickistorey-yahoo",
+  "type": "person",
+  "title": "Vickistorey",
+  "compiled_truth": "Vickistorey is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2001-04-02 to 2002-02-06), Vickistorey sent 32 and received 24 emails, totalling 56 interactions. Top correspondents: [Gstorey](people/gstorey) (29), [Geoff Storey](people/geoff-storey) (2).",
+  "timeline": "- **2001-04-02** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vickistorey-yahoo",
+    "name": "Vickistorey",
+    "email": "vickistorey@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

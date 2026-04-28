@@ -1,0 +1,14 @@
+{
+  "slug": "people/shilpa-kadakia",
+  "type": "person",
+  "title": "Shilpa Kadakia",
+  "compiled_truth": "Shilpa Kadakia is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-08), Shilpa Kadakia sent 1 and received 61 emails, totalling 62 interactions. Top correspondents: [Sunita Katyal](people/sunita-katyal) (1), [Doug Arnell](people/doug-arnell) (1), [Rick Bergsieker](people/rick-bergsieker) (1), [Nancy Corbet](people/nancy-corbet) (1), [Ned Crady](people/ned-crady) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shilpa-kadakia",
+    "name": "Shilpa Kadakia",
+    "email": "shilpa.kadakia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-rahaim",
+  "type": "person",
+  "title": "Chris Rahaim",
+  "compiled_truth": "Chris Rahaim is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-24 to 2001-11-09), Chris Rahaim sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-24** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-rahaim",
+    "name": "Chris Rahaim",
+    "email": "chris.rahaim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

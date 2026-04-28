@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-rosado",
+  "type": "person",
+  "title": "Jennifer Rosado",
+  "compiled_truth": "Jennifer Rosado is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-13), Jennifer Rosado sent 5 and received 223 emails, totalling 228 interactions. Top correspondents: [C  Giron](people/c-giron) (5), [Houston Product](people/houston-product) (4), [Joan Quick](people/joan-quick) (3), [C  Gossett](people/c-gossett) (3), [M  Love](people/m-love) (3). Mailbox folders observed: 05_saved, 06_saved, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-rosado",
+    "name": "Jennifer Rosado",
+    "email": "jennifer.rosado@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

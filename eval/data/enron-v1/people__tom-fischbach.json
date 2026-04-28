@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-fischbach",
+  "type": "person",
+  "title": "Tom Fischbach",
+  "compiled_truth": "Tom Fischbach is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-23 to 2001-11-07), Tom Fischbach sent 1 and received 1 emails, totalling 2 interactions. Top correspondents: [Sean Riordan](people/sean-riordan) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-10-23** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-fischbach",
+    "name": "Tom Fischbach",
+    "email": "tom.fischbach@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

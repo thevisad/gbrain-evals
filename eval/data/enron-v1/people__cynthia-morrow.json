@@ -1,0 +1,14 @@
+{
+  "slug": "people/cynthia-morrow",
+  "type": "person",
+  "title": "Cynthia Morrow",
+  "compiled_truth": "Cynthia Morrow is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-27 to 2002-01-22), Cynthia Morrow sent 10 and received 40 emails, totalling 50 interactions. Top correspondents: [Bryce Baxter](people/bryce-baxter) (6), [Rita Wynne](people/rita-wynne) (6), [Lisa Csikos](people/lisa-csikos) (6), [Theresa Kotrla](people/theresa-kotrla) (6), [Bob Klein](people/bob-klein) (6). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-27** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cynthia-morrow",
+    "name": "Cynthia Morrow",
+    "email": "cynthia.morrow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

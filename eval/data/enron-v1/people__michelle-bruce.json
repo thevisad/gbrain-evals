@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-bruce",
+  "type": "person",
+  "title": "Michelle Bruce",
+  "compiled_truth": "Michelle Bruce is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2002-02-19), Michelle Bruce sent 7 and received 176 emails, totalling 183 interactions. Top correspondents: [Sally Beck](people/sally-beck) (3), [A  Price](people/a-price) (2), [P  O'Neil](people/p-o-neil) (2), [Cara Semperger](people/cara-semperger) (2), [Kevin Sweeney](people/kevin-sweeney) (1). Mailbox folders observed: deleted_items, inbox, scheduling.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-bruce",
+    "name": "Michelle Bruce",
+    "email": "michelle.bruce@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

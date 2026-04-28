@@ -1,0 +1,14 @@
+{
+  "slug": "people/suew2-aol",
+  "type": "person",
+  "title": "Suew2",
+  "compiled_truth": "Suew2 is an external contact at [AOL](companies/aol). Over the corpus period (2000-03-19 to 2002-01-09), Suew2 sent 7 and received 32 emails, totalling 39 interactions. Top correspondents: [Sally Beck](people/sally-beck) (6), [Cwhite](people/cwhite-viviance) (2).",
+  "timeline": "- **2000-03-19** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suew2-aol",
+    "name": "Suew2",
+    "email": "suew2@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

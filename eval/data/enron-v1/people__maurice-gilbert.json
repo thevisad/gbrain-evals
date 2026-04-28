@@ -1,0 +1,14 @@
+{
+  "slug": "people/maurice-gilbert",
+  "type": "person",
+  "title": "Maurice Gilbert",
+  "compiled_truth": "Maurice Gilbert is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-13 to 2002-02-08), Maurice Gilbert sent 4 and received 15 emails, totalling 19 interactions. Top correspondents: [Morgan Gottsponer](people/morgan-gottsponer) (3), [Kevin Hyatt](people/kevin-hyatt) (2), [John Goodpasture](people/john-goodpasture) (1), [Michael Ratner](people/michael-ratner) (1), [Tom Donohoe](people/tom-donohoe) (1). Mailbox folders observed: inbox, projects.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2002-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maurice-gilbert",
+    "name": "Maurice Gilbert",
+    "email": "maurice.gilbert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/amelia-alland",
+  "type": "person",
+  "title": "Amelia Alland",
+  "compiled_truth": "Amelia Alland is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-06-08), Amelia Alland sent 3 and received 188 emails, totalling 191 interactions. Top correspondents: [Elsa Villarreal](people/elsa-villarreal) (1), [Daren Farmer](people/daren-farmer) (1), [Karen Lambert](people/karen-lambert) (1), [Tana Jones](people/tana-jones) (1), [Marilyn Colbert](people/marilyn-colbert) (1).",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amelia-alland",
+    "name": "Amelia Alland",
+    "email": "amelia.alland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

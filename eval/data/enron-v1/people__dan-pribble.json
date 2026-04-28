@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-pribble",
+  "type": "person",
+  "title": "Dan Pribble",
+  "compiled_truth": "Dan Pribble is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-03 to 2002-05-06), Dan Pribble sent 5 and received 339 emails, totalling 344 interactions. Top correspondents: [Bill Rapp](people/bill-rapp) (2), [Darrell Schoolcraft](people/darrell-schoolcraft) (2), [Steven Harris](people/steven-harris) (1), [Jeff Whippo](people/jeff-whippo) (1), [Jonny Hendricks](people/jonny-hendricks) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-04-03** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-pribble",
+    "name": "Dan Pribble",
+    "email": "dan.pribble@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/frank-rishe",
+  "type": "person",
+  "title": "Frank Rishe",
+  "compiled_truth": "Frank Rishe is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-05 to 2001-12-03), Frank Rishe sent 5 and received 288 emails, totalling 293 interactions. Top correspondents: [Alex Hidalgo](people/alex-hidalgo) (4), [Richard Ring](people/richard-ring) (3), [Rebecca Fite](people/rebecca-fite) (1), [Richard Shapiro](people/richard-shapiro) (1), [Chris Hendrix](people/chris-hendrix) (1). Mailbox folders observed: deleted_items, eesiisonewengland, eesiphysicalpowerdelivery, inbox, personnel.",
+  "timeline": "- **2000-05-05** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frank-rishe",
+    "name": "Frank Rishe",
+    "email": "frank.rishe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-yarbrough",
+  "type": "person",
+  "title": "Lisa Yarbrough",
+  "compiled_truth": "Lisa Yarbrough is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-04-11), Lisa Yarbrough sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-04-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-yarbrough",
+    "name": "Lisa Yarbrough",
+    "email": "lisa.yarbrough@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

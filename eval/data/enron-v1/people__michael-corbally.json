@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-corbally",
+  "type": "person",
+  "title": "Michael Corbally",
+  "compiled_truth": "Michael Corbally is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-15 to 2000-03-02), Michael Corbally sent 1 and received 14 emails, totalling 15 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (1), [Lynda Clemmons](people/lynda-clemmons) (1), [Nick Mooney](people/nick-mooney) (1), [Steven Vu](people/steven-vu) (1).",
+  "timeline": "- **1999-08-15** | First recorded email in corpus\n- **2000-03-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-corbally",
+    "name": "Michael Corbally",
+    "email": "michael.corbally@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

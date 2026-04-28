@@ -1,0 +1,14 @@
+{
+  "slug": "people/rbaird-velaw",
+  "type": "person",
+  "title": "Rbaird",
+  "compiled_truth": "Rbaird is an external contact at [Vinson & Elkins](companies/vinson-elkins). Over the corpus period (1999-05-12 to 2001-07-04), Rbaird sent 9 and received 59 emails, totalling 68 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (6), [Mark E Haedicke](people/mark-e-haedicke) (4), [Nora Dobin](people/nora-dobin) (4), [Rrogers](people/rrogers) (4), [Jarmogi](people/jarmogi) (4).",
+  "timeline": "- **1999-05-12** | First recorded email in corpus\n- **2001-07-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rbaird-velaw",
+    "name": "Rbaird",
+    "email": "rbaird@velaw.com",
+    "primary_affiliation": "companies/vinson-elkins"
+  }
+}

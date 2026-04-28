@@ -1,0 +1,14 @@
+{
+  "slug": "people/jaimep-ctr",
+  "type": "person",
+  "title": "Jaimep",
+  "compiled_truth": "Jaimep is an external contact at [Ctr](companies/ctr). Over the corpus period (2000-12-15 to 2000-12-21), Jaimep sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-12-15** | First recorded email in corpus\n- **2000-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jaimep-ctr",
+    "name": "Jaimep",
+    "email": "jaimep@ctr.com",
+    "primary_affiliation": "companies/ctr"
+  }
+}

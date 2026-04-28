@@ -1,0 +1,14 @@
+{
+  "slug": "people/knipe3-msn",
+  "type": "person",
+  "title": "Knipe3",
+  "compiled_truth": "Knipe3 is an external contact at [MSN](companies/msn). Over the corpus period (2001-10-08 to 2002-06-19), Knipe3 sent 79 and received 47 emails, totalling 126 interactions. Top correspondents: [Wollam Erik](people/wollam-erik) (75), [Constantine' 'Brian](people/constantine-brian) (70), [Joe Parks](people/joe-parks) (62), [Fenner Chet](people/fenner-chet) (56), [Corrier' 'Brad](people/corrier-brad) (27).",
+  "timeline": "- **2001-10-08** | First recorded email in corpus\n- **2002-06-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/knipe3-msn",
+    "name": "Knipe3",
+    "email": "knipe3@msn.com",
+    "primary_affiliation": "companies/msn"
+  }
+}

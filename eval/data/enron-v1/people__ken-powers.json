@@ -1,0 +1,14 @@
+{
+  "slug": "people/ken-powers",
+  "type": "person",
+  "title": "Ken Powers",
+  "compiled_truth": "Ken Powers is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2002-01-29), Ken Powers sent 26 and received 253 emails, totalling 279 interactions. Top correspondents: [Lindy Donoho](people/lindy-donoho) (23), [Kimberly Watson](people/kimberly-watson) (23), [Jeanette Doll](people/jeanette-doll) (22), [Dan Fancler](people/dan-fancler) (21), [Tracy Geaccone](people/tracy-geaccone) (21). Mailbox folders observed: daily_balancing_report, inbox, personnel___prc_2001_year_end.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ken-powers",
+    "name": "Ken Powers",
+    "email": "ken.powers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

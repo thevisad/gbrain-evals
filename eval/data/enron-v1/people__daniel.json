@@ -1,0 +1,14 @@
+{
+  "slug": "people/daniel",
+  "type": "person",
+  "title": " Daniel",
+  "compiled_truth": "Daniel is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2002-04-03),  Daniel sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2002-04-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/daniel",
+    "name": " Daniel",
+    "email": ".daniel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

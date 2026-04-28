@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-kinsey",
+  "type": "person",
+  "title": "Lisa Kinsey",
+  "compiled_truth": "Lisa Kinsey is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2002-02-13), Lisa Kinsey sent 44 and received 393 emails, totalling 437 interactions. Top correspondents: [Tom Donohoe](people/tom-donohoe) (27), [Tammy Gilmore](people/tammy-gilmore) (20), [S  Shively](people/s-shively) (11), [Robert Superty](people/robert-superty) (7), [Victor Lamadrid](people/victor-lamadrid) (5). Mailbox folders observed: deleted_items, inbox, logistics, unify.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-kinsey",
+    "name": "Lisa Kinsey",
+    "email": "lisa.kinsey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

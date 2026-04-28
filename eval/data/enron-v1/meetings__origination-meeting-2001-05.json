@@ -1,0 +1,29 @@
+{
+  "slug": "meetings/origination-meeting-2001-05",
+  "type": "meeting",
+  "title": "Meeting: Origination Meeting",
+  "compiled_truth": "Meeting: \"Origination Meeting\". Occurred 2001-05-24 through 2001-05-25 with 4 related emails. Participants included: [Andy Zipper](people/andy-zipper), [Bob Shults](people/bob-shults), [Carl Carter](people/carl-carter), [Daniel Diamond](people/daniel-diamond), [David Forster](people/david-forster), [Greg Piper](people/greg-piper), [Jake Staffel](people/jake-staffel), [John Allario](people/john-allario)....",
+  "timeline": "- **2001-05-24** | Meeting: origination meeting\n- **2001-05-25** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/origination-meeting-2001-05",
+    "attendees": [
+      "people/andy-zipper",
+      "people/bob-shults",
+      "people/carl-carter",
+      "people/daniel-diamond",
+      "people/david-forster",
+      "people/greg-piper",
+      "people/jake-staffel",
+      "people/john-allario",
+      "people/john-pavetto",
+      "people/leonardo-pacheco",
+      "people/lorraine-becker",
+      "people/lydia-cannon",
+      "people/michael-bridges",
+      "people/mike-haney",
+      "people/s-palmer"
+    ],
+    "date": "2001-05-24"
+  }
+}

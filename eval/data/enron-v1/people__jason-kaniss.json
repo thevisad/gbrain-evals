@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-kaniss",
+  "type": "person",
+  "title": "Jason Kaniss",
+  "compiled_truth": "Jason Kaniss is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-08 to 2002-02-28), Jason Kaniss sent 4 and received 202 emails, totalling 206 interactions. Top correspondents: [D  Thomas](people/d-thomas) (2), [Eric Saibi](people/eric-saibi) (1), [E Taylor](people/e-taylor) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-kaniss",
+    "name": "Jason Kaniss",
+    "email": "jason.kaniss@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

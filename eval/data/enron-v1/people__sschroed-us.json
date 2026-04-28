@@ -1,0 +1,14 @@
+{
+  "slug": "people/sschroed-us",
+  "type": "person",
+  "title": "Sschroed",
+  "compiled_truth": "Sschroed is an external contact at [Us](companies/us). Over the corpus period (2001-01-19 to 2002-01-24), Sschroed sent 13 and received 32 emails, totalling 45 interactions. Top correspondents: [Dgiron](people/dgiron) (11), [Randy G Kruger Jr](people/randy-g-kruger-jr-arthuranderson) (10), [Mikeshaw](people/mikeshaw-andrews-kurth) (10), [Todd W Taylor](people/todd-w-taylor-bakernet) (10), [C  Giron](people/c-giron) (2).",
+  "timeline": "- **2001-01-19** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sschroed-us",
+    "name": "Sschroed",
+    "email": "sschroed@us.ca-indosuez.com",
+    "primary_affiliation": "companies/us"
+  }
+}

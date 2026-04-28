@@ -1,0 +1,14 @@
+{
+  "slug": "people/carrie-evans",
+  "type": "person",
+  "title": "Carrie Evans",
+  "compiled_truth": "Carrie Evans is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-11-19), Carrie Evans sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carrie-evans",
+    "name": "Carrie Evans",
+    "email": "carrie.evans@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

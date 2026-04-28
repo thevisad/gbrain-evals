@@ -1,0 +1,14 @@
+{
+  "slug": "people/ross-stewart-charles",
+  "type": "person",
+  "title": "Ross-Stewart' 'Charles",
+  "compiled_truth": "Ross-Stewart' 'Charles is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-09 to 2001-07-09), Ross-Stewart' 'Charles sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ross-stewart-charles",
+    "name": "Ross-Stewart' 'Charles",
+    "email": "ross-stewart'.'charles@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

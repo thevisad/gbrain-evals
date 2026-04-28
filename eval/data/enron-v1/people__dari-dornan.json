@@ -1,0 +1,14 @@
+{
+  "slug": "people/dari-dornan",
+  "type": "person",
+  "title": "Dari Dornan",
+  "compiled_truth": "Dari Dornan is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-05), Dari Dornan sent 13 and received 410 emails, totalling 423 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (7), [Harry Woodson](people/harry-woodson) (5), [Kathy Ringblom](people/kathy-ringblom) (5), [Mary Darveaux](people/mary-darveaux) (5), [Gregory Porter](people/gregory-porter) (5). Mailbox folders observed: customer___oneok, deleted_items, discussion_threads, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dari-dornan",
+    "name": "Dari Dornan",
+    "email": "dari.dornan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

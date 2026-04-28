@@ -1,0 +1,14 @@
+{
+  "slug": "people/r-westbrook",
+  "type": "person",
+  "title": "R  Westbrook",
+  "compiled_truth": "R  Westbrook is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-02 to 2002-05-06), R  Westbrook sent 0 and received 77 emails, totalling 77 interactions.",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/r-westbrook",
+    "name": "R  Westbrook",
+    "email": "r..westbrook@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/wduran",
+  "type": "person",
+  "title": "Wduran",
+  "compiled_truth": "Wduran is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-10 to 2001-07-12), Wduran sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2001-04-10** | First recorded email in corpus\n- **2001-07-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wduran",
+    "name": "Wduran",
+    "email": "wduran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

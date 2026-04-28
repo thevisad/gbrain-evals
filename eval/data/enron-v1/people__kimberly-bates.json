@@ -1,0 +1,14 @@
+{
+  "slug": "people/kimberly-bates",
+  "type": "person",
+  "title": "Kimberly Bates",
+  "compiled_truth": "Kimberly Bates is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-28 to 2001-12-12), Kimberly Bates sent 55 and received 153 emails, totalling 208 interactions. Top correspondents: [Scott Neal](people/scott-neal) (39), [Andrea Ring](people/andrea-ring) (29), [Chris Germany](people/chris-germany) (29), [Judy Townsend](people/judy-townsend) (29), [Brad Mckay](people/brad-mckay) (29). Mailbox folders observed: deleted_items, inbox, personal.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kimberly-bates",
+    "name": "Kimberly Bates",
+    "email": "kimberly.bates@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

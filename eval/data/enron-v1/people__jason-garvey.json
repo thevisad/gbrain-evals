@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-garvey",
+  "type": "person",
+  "title": "Jason Garvey",
+  "compiled_truth": "Jason Garvey is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-22 to 2001-11-30), Jason Garvey sent 3 and received 12 emails, totalling 15 interactions. Top correspondents: [Jonathan Mckay](people/jonathan-mckay) (3), [Chris Lambie](people/chris-lambie) (2), [John Lavorato](people/john-lavorato) (1), [Dawn Doucet](people/dawn-doucet) (1), [K  Berry](people/k-berry) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-01-22** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-garvey",
+    "name": "Jason Garvey",
+    "email": "jason.garvey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

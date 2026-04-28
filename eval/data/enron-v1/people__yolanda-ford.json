@@ -1,0 +1,14 @@
+{
+  "slug": "people/yolanda-ford",
+  "type": "person",
+  "title": "Yolanda Ford",
+  "compiled_truth": "Yolanda Ford is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-03 to 2001-11-13), Yolanda Ford sent 3 and received 82 emails, totalling 85 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2), [Mary Cook](people/mary-cook) (2), [Susan Bailey](people/susan-bailey) (2), [Tana Jones](people/tana-jones) (2), [Samantha Boyd](people/samantha-boyd) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-02-03** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yolanda-ford",
+    "name": "Yolanda Ford",
+    "email": "yolanda.ford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jwpowell-duke-energy",
+  "type": "person",
+  "title": "Jwpowell",
+  "compiled_truth": "Jwpowell is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-10-30 to 2001-05-10), Jwpowell sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jwpowell-duke-energy",
+    "name": "Jwpowell",
+    "email": "jwpowell@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-carrera",
+  "type": "person",
+  "title": "Susan Carrera",
+  "compiled_truth": "Susan Carrera is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-11-16), Susan Carrera sent 2 and received 22 emails, totalling 24 interactions. Top correspondents: [Pam Butler](people/pam-butler) (2), [Michelle Cash](people/michelle-cash) (2), [A  Knudsen](people/a-knudsen) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-carrera",
+    "name": "Susan Carrera",
+    "email": "susan.carrera@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

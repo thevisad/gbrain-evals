@@ -1,0 +1,14 @@
+{
+  "slug": "people/gdeeley-uschamber",
+  "type": "person",
+  "title": "Gdeeley",
+  "compiled_truth": "Gdeeley is an external contact at [Uschamber](companies/uschamber). Over the corpus period (1999-11-15 to 2000-08-11), Gdeeley sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus\n- **2000-08-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gdeeley-uschamber",
+    "name": "Gdeeley",
+    "email": "gdeeley@uschamber.com",
+    "primary_affiliation": "companies/uschamber"
+  }
+}

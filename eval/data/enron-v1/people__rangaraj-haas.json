@@ -1,0 +1,14 @@
+{
+  "slug": "people/rangaraj-haas",
+  "type": "person",
+  "title": "Rangaraj",
+  "compiled_truth": "Rangaraj is an external contact at [Haas](companies/haas). Over the corpus period (2000-08-25 to 2001-05-07), Rangaraj sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-05-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rangaraj-haas",
+    "name": "Rangaraj",
+    "email": "rangaraj@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

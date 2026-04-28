@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-janzen",
+  "type": "person",
+  "title": "Randy Janzen",
+  "compiled_truth": "Randy Janzen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2002-03-25), Randy Janzen sent 63 and received 284 emails, totalling 347 interactions. Top correspondents: [Janet Mcdaniel](people/janet-mcdaniel) (57), [Robert Benningfield](people/robert-benningfield) (56), [Chris Greaney](people/chris-greaney) (53), [Harry Woodson](people/harry-woodson) (53), [Joe Linhart](people/joe-linhart) (52). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-janzen",
+    "name": "Randy Janzen",
+    "email": "randy.janzen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

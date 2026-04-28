@@ -1,0 +1,14 @@
+{
+  "slug": "people/prescorw-bp",
+  "type": "person",
+  "title": "Prescorw",
+  "compiled_truth": "Prescorw is an external contact at [Bp](companies/bp). Over the corpus period (2000-10-09 to 2001-07-31), Prescorw sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/prescorw-bp",
+    "name": "Prescorw",
+    "email": "prescorw@bp.com",
+    "primary_affiliation": "companies/bp"
+  }
+}

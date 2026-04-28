@@ -1,0 +1,14 @@
+{
+  "slug": "people/beverly-sullivan",
+  "type": "person",
+  "title": "Beverly Sullivan",
+  "compiled_truth": "Beverly Sullivan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-28 to 2002-06-13), Beverly Sullivan sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-03-28** | First recorded email in corpus\n- **2002-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beverly-sullivan",
+    "name": "Beverly Sullivan",
+    "email": "beverly.sullivan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

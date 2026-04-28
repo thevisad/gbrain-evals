@@ -1,0 +1,14 @@
+{
+  "slug": "people/yvonne-acosta",
+  "type": "person",
+  "title": "Yvonne Acosta",
+  "compiled_truth": "Yvonne Acosta is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2000-04-26), Yvonne Acosta sent 2 and received 36 emails, totalling 38 interactions. Top correspondents: [Judy Hernandez](people/judy-hernandez) (2), [Noemi Camacho](people/noemi-camacho) (2), [Laura Gutierrez](people/laura-gutierrez) (2), [Amber Ebow](people/amber-ebow) (2), [Lorena Luna1](people/lorena-luna1-halliburton) (1).",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2000-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yvonne-acosta",
+    "name": "Yvonne Acosta",
+    "email": "yvonne.acosta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

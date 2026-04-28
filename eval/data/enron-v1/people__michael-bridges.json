@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-bridges",
+  "type": "person",
+  "title": "Michael Bridges",
+  "compiled_truth": "Michael Bridges is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-27 to 2002-06-25), Michael Bridges sent 47 and received 481 emails, totalling 528 interactions. Top correspondents: [Andy Zipper](people/andy-zipper) (17), [Sara Shackleton](people/sara-shackleton) (9), [Tana Jones](people/tana-jones) (8), [Chris Germany](people/chris-germany) (4), [J  Sturm](people/j-sturm) (3). Mailbox folders observed: bankrupt, calendar, deleted_items, inbox, reuters, tss.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-bridges",
+    "name": "Michael Bridges",
+    "email": "michael.bridges@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

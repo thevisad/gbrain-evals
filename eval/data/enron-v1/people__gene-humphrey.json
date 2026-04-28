@@ -1,0 +1,14 @@
+{
+  "slug": "people/gene-humphrey",
+  "type": "person",
+  "title": "Gene Humphrey",
+  "compiled_truth": "Gene Humphrey is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-06), Gene Humphrey sent 8 and received 65 emails, totalling 73 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (6), [Kenneth Lay](people/kenneth-lay) (2), [Rosalee Fleming](people/rosalee-fleming) (2), [Ken Rice](people/ken-rice) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gene-humphrey",
+    "name": "Gene Humphrey",
+    "email": "gene.humphrey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

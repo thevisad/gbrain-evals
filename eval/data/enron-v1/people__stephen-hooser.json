@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-hooser",
+  "type": "person",
+  "title": "Stephen Hooser",
+  "compiled_truth": "Stephen Hooser is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-12-22 to 2001-01-09), Stephen Hooser sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **1998-12-22** | First recorded email in corpus\n- **2001-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-hooser",
+    "name": "Stephen Hooser",
+    "email": "stephen.hooser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

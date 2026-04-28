@@ -1,0 +1,14 @@
+{
+  "slug": "people/wng-fpl",
+  "type": "person",
+  "title": "Wng",
+  "compiled_truth": "Wng is an external contact at [Fpl](companies/fpl). Over the corpus period (2000-10-09 to 2001-07-31), Wng sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wng-fpl",
+    "name": "Wng",
+    "email": "wng@fpl.com",
+    "primary_affiliation": "companies/fpl"
+  }
+}

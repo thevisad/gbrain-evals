@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-gossett",
+  "type": "person",
+  "title": "Jeffrey Gossett",
+  "compiled_truth": "Jeffrey Gossett is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-07-19), Jeffrey Gossett sent 90 and received 659 emails, totalling 749 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (51), [Kam Keiser](people/kam-keiser) (39), [Darron Giron](people/darron-giron) (37), [David Baumbach](people/david-baumbach) (37), [Sally Beck](people/sally-beck) (29). Mailbox folders observed: 10_fantasy, deleted_items, gossett, gossett__jeff, inbox, jean.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-gossett",
+    "name": "Jeffrey Gossett",
+    "email": "jeffrey.gossett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

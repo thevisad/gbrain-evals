@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-harvey",
+  "type": "person",
+  "title": "James Harvey",
+  "compiled_truth": "James Harvey is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-27 to 2001-01-02), James Harvey sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **1999-05-27** | First recorded email in corpus\n- **2001-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-harvey",
+    "name": "James Harvey",
+    "email": "james.harvey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

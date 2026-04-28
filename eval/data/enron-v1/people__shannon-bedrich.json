@@ -1,0 +1,14 @@
+{
+  "slug": "people/shannon-bedrich",
+  "type": "person",
+  "title": "Shannon Bedrich",
+  "compiled_truth": "Shannon Bedrich is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-31 to 2000-06-02), Shannon Bedrich sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-03-31** | First recorded email in corpus\n- **2000-06-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shannon-bedrich",
+    "name": "Shannon Bedrich",
+    "email": "shannon.bedrich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

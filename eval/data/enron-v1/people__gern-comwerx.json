@@ -1,0 +1,14 @@
+{
+  "slug": "people/gern-comwerx",
+  "type": "person",
+  "title": "Gern",
+  "compiled_truth": "Gern is an external contact at [Comwerx](companies/comwerx). Over the corpus period (2000-05-21 to 2000-05-21), Gern sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gern-comwerx",
+    "name": "Gern",
+    "email": "gern@comwerx.net",
+    "primary_affiliation": "companies/comwerx"
+  }
+}

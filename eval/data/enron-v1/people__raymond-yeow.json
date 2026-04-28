@@ -1,0 +1,14 @@
+{
+  "slug": "people/raymond-yeow",
+  "type": "person",
+  "title": "Raymond Yeow",
+  "compiled_truth": "Raymond Yeow is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-31 to 2001-04-20), Raymond Yeow sent 9 and received 52 emails, totalling 61 interactions. Top correspondents: [Paul Quilkey](people/paul-quilkey) (7), [Vince Kaminski](people/vince-kaminski) (4), [Grant Masson](people/grant-masson) (2), [Hanley](people/hanley-risk) (2), [Christian Werner](people/christian-werner) (2).",
+  "timeline": "- **2000-03-31** | First recorded email in corpus\n- **2001-04-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/raymond-yeow",
+    "name": "Raymond Yeow",
+    "email": "raymond.yeow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/plerro-transportgas",
+  "type": "person",
+  "title": "Plerro",
+  "compiled_truth": "Plerro is an external contact at [Transportgas](companies/transportgas). Over the corpus period (2001-05-02 to 2001-05-15), Plerro sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/plerro-transportgas",
+    "name": "Plerro",
+    "email": "plerro@transportgas.com",
+    "primary_affiliation": "companies/transportgas"
+  }
+}

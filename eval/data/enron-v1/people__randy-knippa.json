@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-knippa",
+  "type": "person",
+  "title": "Randy",
+  "compiled_truth": "Randy is an external contact at [Knippa](companies/knippa). Over the corpus period (2000-05-21 to 2000-10-16), Randy sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-10-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-knippa",
+    "name": "Randy",
+    "email": "randy@knippa.com",
+    "primary_affiliation": "companies/knippa"
+  }
+}

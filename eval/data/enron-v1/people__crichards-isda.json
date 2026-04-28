@@ -1,0 +1,14 @@
+{
+  "slug": "people/crichards-isda",
+  "type": "person",
+  "title": "Crichards",
+  "compiled_truth": "Crichards is an external contact at [Isda](companies/isda). Over the corpus period (2000-12-29 to 2001-11-13), Crichards sent 5 and received 35 emails, totalling 40 interactions. Top correspondents: [Board](people/board-isda) (5), [Apapesch](people/apapesch-isda) (2), [Skawano](people/skawano-isda) (2), [Rpickel](people/rpickel-isda) (1), [Esebton](people/esebton-isda-eur) (1).",
+  "timeline": "- **2000-12-29** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/crichards-isda",
+    "name": "Crichards",
+    "email": "crichards@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

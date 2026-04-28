@@ -1,0 +1,14 @@
+{
+  "slug": "people/joann-scott-ferc",
+  "type": "person",
+  "title": "Joann Scott",
+  "compiled_truth": "Joann Scott is an external contact at [Ferc](companies/ferc). Over the corpus period (2001-08-14 to 2001-12-04), Joann Scott sent 43 and received 2 emails, totalling 45 interactions. Top correspondents: [El00-95](people/el00-95-listserv) (40), [Linda Robertson](people/linda-robertson) (3), [Ray Alvarez](people/ray-alvarez) (3).",
+  "timeline": "- **2001-08-14** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joann-scott-ferc",
+    "name": "Joann Scott",
+    "email": "joann.scott@ferc.fed.us",
+    "primary_affiliation": "companies/ferc"
+  }
+}

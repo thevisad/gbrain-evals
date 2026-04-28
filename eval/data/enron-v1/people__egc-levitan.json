@@ -1,0 +1,14 @@
+{
+  "slug": "people/egc-levitan",
+  "type": "person",
+  "title": "Egc",
+  "compiled_truth": "Egc is an external contact at [Levitan](companies/levitan). Over the corpus period (2001-10-18 to 2001-10-18), Egc sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/egc-levitan",
+    "name": "Egc",
+    "email": "egc@levitan.com",
+    "primary_affiliation": "companies/levitan"
+  }
+}

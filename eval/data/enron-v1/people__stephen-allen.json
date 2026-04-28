@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-allen",
+  "type": "person",
+  "title": "Stephen Allen",
+  "compiled_truth": "Stephen Allen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-14 to 2001-08-06), Stephen Allen sent 1 and received 23 emails, totalling 24 interactions. Top correspondents: [Tonyb](people/tonyb-nepco) (1), [Herb Caballero](people/herb-caballero) (1), [Kenneth Lovejoy](people/kenneth-lovejoy) (1), [Roger Raney](people/roger-raney) (1), [Henry Van](people/henry-van) (1).",
+  "timeline": "- **2000-03-14** | First recorded email in corpus\n- **2001-08-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-allen",
+    "name": "Stephen Allen",
+    "email": "stephen.allen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

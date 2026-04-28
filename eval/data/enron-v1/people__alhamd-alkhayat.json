@@ -1,0 +1,14 @@
+{
+  "slug": "people/alhamd-alkhayat",
+  "type": "person",
+  "title": "Alhamd Alkhayat",
+  "compiled_truth": "Alhamd Alkhayat is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-25 to 2001-11-10), Alhamd Alkhayat sent 32 and received 104 emails, totalling 136 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (9), [Steven Kean](people/steven-kean) (8), [Greg Whalley](people/greg-whalley) (5), [Margaret Carson](people/margaret-carson) (4), [Rob Bradley](people/rob-bradley) (4). Mailbox folders observed: discussion_threads, inbox.",
+  "timeline": "- **2000-06-25** | First recorded email in corpus\n- **2001-11-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alhamd-alkhayat",
+    "name": "Alhamd Alkhayat",
+    "email": "alhamd.alkhayat@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

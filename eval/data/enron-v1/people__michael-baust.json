@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-baust",
+  "type": "person",
+  "title": "Michael Baust",
+  "compiled_truth": "Michael Baust is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-10-29), Michael Baust sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-baust",
+    "name": "Michael Baust",
+    "email": "michael.baust@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

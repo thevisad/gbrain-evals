@@ -1,0 +1,14 @@
+{
+  "slug": "people/andy-apbenergy",
+  "type": "person",
+  "title": "Andy",
+  "compiled_truth": "Andy is an external contact at [Apbenergy](companies/apbenergy). Over the corpus period (2001-10-15 to 2002-02-06), Andy sent 43 and received 0 emails, totalling 43 interactions. Top correspondents: [Weathernews](people/weathernews-apbenergy) (43), [Newweather](people/newweather-apbenergy) (23).",
+  "timeline": "- **2001-10-15** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andy-apbenergy",
+    "name": "Andy",
+    "email": "andy@apbenergy.com",
+    "primary_affiliation": "companies/apbenergy"
+  }
+}

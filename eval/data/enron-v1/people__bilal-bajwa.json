@@ -1,0 +1,14 @@
+{
+  "slug": "people/bilal-bajwa",
+  "type": "person",
+  "title": "Bilal Bajwa",
+  "compiled_truth": "Bilal Bajwa is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-07 to 2002-01-10), Bilal Bajwa sent 10 and received 272 emails, totalling 282 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (4), [John Griffith](people/john-griffith) (2), [Susan Scott](people/susan-scott) (2), [Christine Milliner](people/christine-milliner) (1), [Jeremy Lo](people/jeremy-lo) (1). Mailbox folders observed: deleted_items, inbox, kcs.",
+  "timeline": "- **2000-08-07** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bilal-bajwa",
+    "name": "Bilal Bajwa",
+    "email": "bilal.bajwa@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

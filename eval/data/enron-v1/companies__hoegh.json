@@ -1,0 +1,31 @@
+{
+  "slug": "companies/hoegh",
+  "type": "company",
+  "title": "Hoegh",
+  "compiled_truth": "Hoegh is an external organization that appears in the Enron email corpus. Domain: hoegh.com. Total email interactions with Enron: 317. Known contacts: 14 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (317 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/hoegh",
+    "name": "Hoegh",
+    "employees": [
+      "people/0013374792521-fax-hoegh",
+      "people/00968447774-fax-hoegh",
+      "people/00968708221-fax-hoegh",
+      "people/bjv-hoegh",
+      "people/bulkpc-bulkpc-hoegh",
+      "people/gall-hoegh",
+      "people/hfmarp-hoegh",
+      "people/joa-hoegh",
+      "people/kgk-hoegh",
+      "people/lhgas-hoegh",
+      "people/master-amar-hoegh",
+      "people/nbr-hoegh",
+      "people/rln-hoegh",
+      "people/ska-hoegh"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

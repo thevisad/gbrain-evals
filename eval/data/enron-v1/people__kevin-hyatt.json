@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-hyatt",
+  "type": "person",
+  "title": "Kevin Hyatt",
+  "compiled_truth": "Kevin Hyatt is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2007-02-11), Kevin Hyatt sent 609 and received 1856 emails, totalling 2465 interactions. Top correspondents: [Eric Gadd](people/eric-gadd) (94), [Michelle Lokay](people/michelle-lokay) (55), [Kimberly Watson](people/kimberly-watson) (49), [Susan Wadle](people/susan-wadle) (45), [Lorraine Lindberg](people/lorraine-lindberg) (38). Mailbox folders observed: articles, calendar, contacts, deleted_items, inbox, personal.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2007-02-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-hyatt",
+    "name": "Kevin Hyatt",
+    "email": "kevin.hyatt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

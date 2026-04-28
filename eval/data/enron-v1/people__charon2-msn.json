@@ -1,0 +1,14 @@
+{
+  "slug": "people/charon2-msn",
+  "type": "person",
+  "title": "Charon2",
+  "compiled_truth": "Charon2 is an external contact at [MSN](companies/msn). Over the corpus period (2001-10-18 to 2001-10-18), Charon2 sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charon2-msn",
+    "name": "Charon2",
+    "email": "charon2@msn.com",
+    "primary_affiliation": "companies/msn"
+  }
+}

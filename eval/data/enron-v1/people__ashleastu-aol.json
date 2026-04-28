@@ -1,0 +1,14 @@
+{
+  "slug": "people/ashleastu-aol",
+  "type": "person",
+  "title": "Ashleastu",
+  "compiled_truth": "Ashleastu is an external contact at [AOL](companies/aol). Over the corpus period (2000-01-31 to 2002-01-22), Ashleastu sent 10 and received 48 emails, totalling 58 interactions. Top correspondents: [Susan M Scott](people/susan-m-scott) (7), [Lisa A Meador](people/lisa-a-meador-chase) (6), [Sarah C Buck](people/sarah-c-buck-hotmail) (6), [Jkbowles](people/jkbowles-hotmail) (5), [Rebeccacooke](people/rebeccacooke-hotmail) (5).",
+  "timeline": "- **2000-01-31** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ashleastu-aol",
+    "name": "Ashleastu",
+    "email": "ashleastu@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

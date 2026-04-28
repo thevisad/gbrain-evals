@@ -1,0 +1,14 @@
+{
+  "slug": "people/atiller",
+  "type": "person",
+  "title": "Atiller",
+  "compiled_truth": "Atiller is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-25 to 2000-07-17), Atiller sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-05-25** | First recorded email in corpus\n- **2000-07-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/atiller",
+    "name": "Atiller",
+    "email": "atiller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

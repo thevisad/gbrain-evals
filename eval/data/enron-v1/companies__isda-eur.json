@@ -1,0 +1,30 @@
+{
+  "slug": "companies/isda-eur",
+  "type": "company",
+  "title": "Isda-eur",
+  "compiled_truth": "Isda-eur is an external organization that appears in the Enron email corpus. Domain: isda-eur.com. Total email interactions with Enron: 264. Known contacts: 13 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (264 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/isda-eur",
+    "name": "Isda-eur",
+    "employees": [
+      "people/abarbagallo-isda-eur",
+      "people/aelia-isda-eur",
+      "people/apapesch-isda-eur",
+      "people/cirens-isda-eur",
+      "people/cwhitehead-isda-eur",
+      "people/esebton-isda-eur",
+      "people/jberry-isda-eur",
+      "people/jbirch-isda-eur",
+      "people/kdhulster-isda-eur",
+      "people/mhitchcock-isda-eur",
+      "people/ncollier-isda-eur",
+      "people/pwerner-isda-eur",
+      "people/rmetcalfe-isda-eur"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

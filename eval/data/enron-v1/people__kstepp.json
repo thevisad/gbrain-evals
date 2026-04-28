@@ -1,0 +1,14 @@
+{
+  "slug": "people/kstepp",
+  "type": "person",
+  "title": "Kstepp",
+  "compiled_truth": "Kstepp is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-17 to 2000-04-25), Kstepp sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2000-04-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kstepp",
+    "name": "Kstepp",
+    "email": "kstepp@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

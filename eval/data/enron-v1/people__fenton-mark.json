@@ -1,0 +1,14 @@
+{
+  "slug": "people/fenton-mark",
+  "type": "person",
+  "title": "Fenton Mark",
+  "compiled_truth": "Fenton Mark is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-15 to 2001-11-13), Fenton Mark sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-08-15** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fenton-mark",
+    "name": "Fenton Mark",
+    "email": "fenton.mark@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

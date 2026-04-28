@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathleen-carnahan",
+  "type": "person",
+  "title": "Kathleen Carnahan",
+  "compiled_truth": "Kathleen Carnahan is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Kathleen Carnahan sent 118 and received 911 emails, totalling 1029 interactions. Top correspondents: [Kay Mann](people/kay-mann) (112), [Ben Jacoby](people/ben-jacoby) (11), [Carlos Sole](people/carlos-sole) (8), [Fred Mitro](people/fred-mitro) (6), [Greg Krause](people/greg-krause) (6). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathleen-carnahan",
+    "name": "Kathleen Carnahan",
+    "email": "kathleen.carnahan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

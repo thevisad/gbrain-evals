@@ -1,0 +1,14 @@
+{
+  "slug": "people/west-marcia",
+  "type": "person",
+  "title": "West Marcia",
+  "compiled_truth": "West Marcia is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), West Marcia sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/west-marcia",
+    "name": "West Marcia",
+    "email": "west.marcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/keffer-haas",
+  "type": "person",
+  "title": "Keffer",
+  "compiled_truth": "Keffer is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-29 to 2001-11-07), Keffer sent 0 and received 33 emails, totalling 33 interactions.",
+  "timeline": "- **1999-09-29** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keffer-haas",
+    "name": "Keffer",
+    "email": "keffer@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

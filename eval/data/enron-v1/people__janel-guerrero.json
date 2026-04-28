@@ -1,0 +1,14 @@
+{
+  "slug": "people/janel-guerrero",
+  "type": "person",
+  "title": "Janel Guerrero",
+  "compiled_truth": "Janel Guerrero is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-03), Janel Guerrero sent 138 and received 1553 emails, totalling 1691 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (81), [Jeff Dasovich](people/jeff-dasovich) (75), [Paul Kaufman](people/paul-kaufman) (51), [James Steffes](people/james-steffes) (42), [Karen Denne](people/karen-denne) (42). Mailbox folders observed: compliments, deleted_items, inbox, internet_sites, new_england_ny, notre_dame.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janel-guerrero",
+    "name": "Janel Guerrero",
+    "email": "janel.guerrero@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

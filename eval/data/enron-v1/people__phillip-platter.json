@@ -1,0 +1,14 @@
+{
+  "slug": "people/phillip-platter",
+  "type": "person",
+  "title": "Phillip Platter",
+  "compiled_truth": "Phillip Platter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-03 to 2002-05-13), Phillip Platter sent 119 and received 763 emails, totalling 882 interactions. Top correspondents: [Platter Oregon](people/platter-oregon-verizon) (21), [Jeffrey Miller](people/jeffrey-miller) (11), [Chris Mallory](people/chris-mallory) (9), [Jeff Richter](people/jeff-richter) (7), ['Franksen](people/franksen) (7). Mailbox folders observed: deleted_items, sent_items, to_do.",
+  "timeline": "- **2000-08-03** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/phillip-platter",
+    "name": "Phillip Platter",
+    "email": "phillip.platter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

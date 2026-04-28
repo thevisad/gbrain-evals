@@ -1,0 +1,14 @@
+{
+  "slug": "people/ted-ballinger",
+  "type": "person",
+  "title": "Ted Ballinger",
+  "compiled_truth": "Ted Ballinger is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-26 to 2002-02-28), Ted Ballinger sent 0 and received 174 emails, totalling 174 interactions.",
+  "timeline": "- **2000-09-26** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ted-ballinger",
+    "name": "Ted Ballinger",
+    "email": "ted.ballinger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

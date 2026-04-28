@@ -1,0 +1,14 @@
+{
+  "slug": "people/pegi-newhouse",
+  "type": "person",
+  "title": "Pegi Newhouse",
+  "compiled_truth": "Pegi Newhouse is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-11 to 2001-10-26), Pegi Newhouse sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-06-11** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pegi-newhouse",
+    "name": "Pegi Newhouse",
+    "email": "pegi.newhouse@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

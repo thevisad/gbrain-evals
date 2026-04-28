@@ -1,0 +1,14 @@
+{
+  "slug": "people/bwanarol-hotmail",
+  "type": "person",
+  "title": "Bwanarol",
+  "compiled_truth": "Bwanarol is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (1980-01-01 to 2001-11-30), Bwanarol sent 9 and received 19 emails, totalling 28 interactions. Top correspondents: [Mrmslane](people/mrmslane-aol) (6), [Namuathome](people/namuathome-aol) (6), [Johnbepa](people/johnbepa-macol) (6), [Richard Sanders](people/richard-sanders) (6), [Pardevelop](people/pardevelop-aol) (5).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bwanarol-hotmail",
+    "name": "Bwanarol",
+    "email": "bwanarol@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

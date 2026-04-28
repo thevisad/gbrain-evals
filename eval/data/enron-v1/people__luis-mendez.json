@@ -1,0 +1,14 @@
+{
+  "slug": "people/luis-mendez",
+  "type": "person",
+  "title": "Luis Mendez",
+  "compiled_truth": "Luis Mendez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-30 to 2001-12-03), Luis Mendez sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-01-30** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/luis-mendez",
+    "name": "Luis Mendez",
+    "email": "luis.mendez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

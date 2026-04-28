@@ -1,0 +1,14 @@
+{
+  "slug": "people/cahoonc-conedsolutions",
+  "type": "person",
+  "title": "Cahoonc",
+  "compiled_truth": "Cahoonc is an external contact at [Conedsolutions](companies/conedsolutions). Over the corpus period (2001-05-03 to 2001-09-11), Cahoonc sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-05-03** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cahoonc-conedsolutions",
+    "name": "Cahoonc",
+    "email": "cahoonc@conedsolutions.com",
+    "primary_affiliation": "companies/conedsolutions"
+  }
+}

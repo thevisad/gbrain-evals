@@ -1,0 +1,14 @@
+{
+  "slug": "people/r-rogers",
+  "type": "person",
+  "title": "R  Rogers",
+  "compiled_truth": "R  Rogers is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-15 to 2002-06-21), R  Rogers sent 6 and received 100 emails, totalling 106 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (3), [N  Anderson](people/n-anderson) (2), [Alan Aronowitz](people/alan-aronowitz) (2), [Paul Y'Barbo](people/paul-y-barbo) (2), [Justin Boyd](people/justin-boyd) (1). Mailbox folders observed: dabhol, deleted_items, inbox.",
+  "timeline": "- **2001-06-15** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/r-rogers",
+    "name": "R  Rogers",
+    "email": "r..rogers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kdirks-utilicorp",
+  "type": "person",
+  "title": "Kdirks",
+  "compiled_truth": "Kdirks is an external contact at [Utilicorp](companies/utilicorp). Over the corpus period (2000-09-21 to 2001-09-27), Kdirks sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-09-21** | First recorded email in corpus\n- **2001-09-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kdirks-utilicorp",
+    "name": "Kdirks",
+    "email": "kdirks@utilicorp.com",
+    "primary_affiliation": "companies/utilicorp"
+  }
+}

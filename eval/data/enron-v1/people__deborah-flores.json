@@ -1,0 +1,14 @@
+{
+  "slug": "people/deborah-flores",
+  "type": "person",
+  "title": "Deborah Flores",
+  "compiled_truth": "Deborah Flores is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2001-09-14), Deborah Flores sent 2 and received 0 emails, totalling 2 interactions. Top correspondents: [S  Olinger](people/s-olinger) (2), [M  Love](people/m-love) (2), [Natalie Baker](people/natalie-baker) (2), [Jim Pond](people/jim-pond) (2), [Rita Wynne](people/rita-wynne) (2). Mailbox folders observed: calendar.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2001-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deborah-flores",
+    "name": "Deborah Flores",
+    "email": "deborah.flores@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

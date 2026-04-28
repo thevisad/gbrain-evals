@@ -1,0 +1,14 @@
+{
+  "slug": "people/sheetal-patel",
+  "type": "person",
+  "title": "Sheetal Patel",
+  "compiled_truth": "Sheetal Patel is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2002-02-21), Sheetal Patel sent 22 and received 319 emails, totalling 341 interactions. Top correspondents: [Tana Jones](people/tana-jones) (5), [Sara Shackleton](people/sara-shackleton) (5), [Larry Hunter](people/larry-hunter) (5), [Errol Mclaughlin](people/errol-mclaughlin) (5), [Susan Bailey](people/susan-bailey) (3). Mailbox folders observed: calendar, deleted_items, inbox, mid_market, netco.",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sheetal-patel",
+    "name": "Sheetal Patel",
+    "email": "sheetal.patel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

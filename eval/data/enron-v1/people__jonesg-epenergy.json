@@ -1,0 +1,14 @@
+{
+  "slug": "people/jonesg-epenergy",
+  "type": "person",
+  "title": "Jonesg",
+  "compiled_truth": "Jonesg is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2000-07-17 to 2000-12-01), Jonesg sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus\n- **2000-12-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jonesg-epenergy",
+    "name": "Jonesg",
+    "email": "jonesg@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

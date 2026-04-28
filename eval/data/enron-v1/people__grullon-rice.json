@@ -1,0 +1,14 @@
+{
+  "slug": "people/grullon-rice",
+  "type": "person",
+  "title": "Grullon",
+  "compiled_truth": "Grullon is an external contact at [Rice](companies/rice). Over the corpus period (1999-12-28 to 2001-10-24), Grullon sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Jgsfac](people/jgsfac-listserv) (1).",
+  "timeline": "- **1999-12-28** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/grullon-rice",
+    "name": "Grullon",
+    "email": "grullon@rice.edu",
+    "primary_affiliation": "companies/rice"
+  }
+}

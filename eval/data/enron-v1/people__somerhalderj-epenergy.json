@@ -1,0 +1,14 @@
+{
+  "slug": "people/somerhalderj-epenergy",
+  "type": "person",
+  "title": "Somerhalderj",
+  "compiled_truth": "Somerhalderj is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2000-02-12 to 2000-06-06), Somerhalderj sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus\n- **2000-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/somerhalderj-epenergy",
+    "name": "Somerhalderj",
+    "email": "somerhalderj@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/moshuffle-hotmail",
+  "type": "person",
+  "title": "Moshuffle",
+  "compiled_truth": "Moshuffle is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-09-12 to 2002-03-25), Moshuffle sent 26 and received 60 emails, totalling 86 interactions. Top correspondents: [M  Scott](people/m-scott) (9), [Tori Kuykendall](people/tori-kuykendall) (3), [Sscott5](people/sscott5) (3), [Matt Smith](people/matt-smith) (2), [Dutch Quigley](people/dutch-quigley) (1).",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/moshuffle-hotmail",
+    "name": "Moshuffle",
+    "email": "moshuffle@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sanjeev-khanna",
+  "type": "person",
+  "title": "Sanjeev Khanna",
+  "compiled_truth": "Sanjeev Khanna is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-10 to 2001-11-14), Sanjeev Khanna sent 7 and received 33 emails, totalling 40 interactions. Top correspondents: [Andy Zipper](people/andy-zipper) (2), [John Arnold](people/john-arnold) (1), [Sandra Brawner](people/sandra-brawner) (1), [Brad Mckay](people/brad-mckay) (1), [John Griffith](people/john-griffith) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-10-10** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sanjeev-khanna",
+    "name": "Sanjeev Khanna",
+    "email": "sanjeev.khanna@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

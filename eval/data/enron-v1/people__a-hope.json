@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-hope",
+  "type": "person",
+  "title": "A  Hope",
+  "compiled_truth": "A  Hope is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-12 to 2002-01-14), A  Hope sent 5 and received 62 emails, totalling 67 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (5), [Ben Herman](people/ben-herman) (2), [Mecole Brown](people/mecole-brown) (1), [Ryan Seleznov](people/ryan-seleznov) (1), [Bonne Castellano](people/bonne-castellano) (1). Mailbox folders observed: deleted_items, hr_risk_management, inbox.",
+  "timeline": "- **2001-06-12** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-hope",
+    "name": "A  Hope",
+    "email": "a..hope@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

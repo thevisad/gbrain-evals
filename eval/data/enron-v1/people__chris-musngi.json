@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-musngi",
+  "type": "person",
+  "title": "Chris Musngi",
+  "compiled_truth": "Chris Musngi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-06-11), Chris Musngi sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-musngi",
+    "name": "Chris Musngi",
+    "email": "chris.musngi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

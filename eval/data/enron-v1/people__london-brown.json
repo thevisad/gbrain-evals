@@ -1,0 +1,14 @@
+{
+  "slug": "people/london-brown",
+  "type": "person",
+  "title": "London Brown",
+  "compiled_truth": "London Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-12-14), London Brown sent 6 and received 249 emails, totalling 255 interactions. Top correspondents: [John Sherriff](people/john-sherriff) (4), [Louise Kitchen](people/louise-kitchen) (3), [Rick Buy](people/rick-buy) (2), [Raymond Bowen](people/raymond-bowen) (2), [James Derrick](people/james-derrick) (2). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/london-brown",
+    "name": "London Brown",
+    "email": "london.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dcazalet-apx",
+  "type": "person",
+  "title": "Dcazalet",
+  "compiled_truth": "Dcazalet is an external contact at [Apx](companies/apx). Over the corpus period (2000-08-09 to 2001-11-14), Dcazalet sent 0 and received 106 emails, totalling 106 interactions.",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dcazalet-apx",
+    "name": "Dcazalet",
+    "email": "dcazalet@apx.com",
+    "primary_affiliation": "companies/apx"
+  }
+}

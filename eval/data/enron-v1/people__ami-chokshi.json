@@ -1,0 +1,14 @@
+{
+  "slug": "people/ami-chokshi",
+  "type": "person",
+  "title": "Ami Chokshi",
+  "compiled_truth": "Ami Chokshi is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-03 to 2000-11-02), Ami Chokshi sent 187 and received 444 emails, totalling 631 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (185), [Carlos Rodriguez](people/carlos-rodriguez) (73), [Thu Nguyen](people/thu-nguyen) (66), [Kyle Lilly](people/kyle-lilly) (52), [George Grant](people/george-grant) (51).",
+  "timeline": "- **1999-12-03** | First recorded email in corpus\n- **2000-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ami-chokshi",
+    "name": "Ami Chokshi",
+    "email": "ami.chokshi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

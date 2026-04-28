@@ -1,0 +1,14 @@
+{
+  "slug": "people/rlarson-caiso",
+  "type": "person",
+  "title": "Rlarson",
+  "compiled_truth": "Rlarson is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-08-10 to 2001-11-14), Rlarson sent 2 and received 43 emails, totalling 45 interactions. Top correspondents: [Kedson](people/kedson-ns) (2), [Dhunter](people/dhunter-smithandkempton) (2), [Athomas](people/athomas-newenergy) (2), [Alippin](people/alippin-mail) (2), [Cohnap](people/cohnap-sce) (2).",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rlarson-caiso",
+    "name": "Rlarson",
+    "email": "rlarson@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

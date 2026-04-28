@@ -1,0 +1,14 @@
+{
+  "slug": "people/eveningmba-haas",
+  "type": "person",
+  "title": "Eveningmba",
+  "compiled_truth": "Eveningmba is an external contact at [Haas](companies/haas). Over the corpus period (1999-10-01 to 2002-01-02), Eveningmba sent 0 and received 406 emails, totalling 406 interactions.",
+  "timeline": "- **1999-10-01** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eveningmba-haas",
+    "name": "Eveningmba",
+    "email": "eveningmba@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

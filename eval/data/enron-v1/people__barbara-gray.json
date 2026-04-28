@@ -1,0 +1,14 @@
+{
+  "slug": "people/barbara-gray",
+  "type": "person",
+  "title": "Barbara Gray",
+  "compiled_truth": "Barbara Gray is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-13), Barbara Gray sent 41 and received 977 emails, totalling 1018 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (21), [Dan Hyvl](people/dan-hyvl) (8), [Steve Hooser](people/steve-hooser) (8), [Sandi Braband](people/sandi-braband) (7), [Jeffrey Hodge](people/jeffrey-hodge) (5). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barbara-gray",
+    "name": "Barbara Gray",
+    "email": "barbara.gray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

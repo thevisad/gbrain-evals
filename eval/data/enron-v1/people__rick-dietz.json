@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-dietz",
+  "type": "person",
+  "title": "Rick Dietz",
+  "compiled_truth": "Rick Dietz is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-25), Rick Dietz sent 65 and received 960 emails, totalling 1025 interactions. Top correspondents: [Shelley Corman](people/shelley-corman) (45), [Lynn Blair](people/lynn-blair) (29), [Alma Carrillo](people/alma-carrillo) (9), [Richard Hanagriff](people/richard-hanagriff) (7), [Raetta Zadow](people/raetta-zadow) (6). Mailbox folders observed: customer___oneok, deleted_items, inbox, outlook_instructions, personnel___paa.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-dietz",
+    "name": "Rick Dietz",
+    "email": "rick.dietz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

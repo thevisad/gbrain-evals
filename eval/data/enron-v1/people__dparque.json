@@ -1,0 +1,14 @@
+{
+  "slug": "people/dparque",
+  "type": "person",
+  "title": "Dparque",
+  "compiled_truth": "Dparque is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-01 to 2002-03-26), Dparque sent 0 and received 106 emails, totalling 106 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2002-03-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dparque",
+    "name": "Dparque",
+    "email": "dparque@ect.enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

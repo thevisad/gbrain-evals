@@ -1,0 +1,14 @@
+{
+  "slug": "people/janet-moore",
+  "type": "person",
+  "title": "Janet Moore",
+  "compiled_truth": "Janet Moore is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2001-06-12), Janet Moore sent 8 and received 362 emails, totalling 370 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (8), [Genia Fitzgerald](people/genia-fitzgerald) (3), [Carol Clair](people/carol-clair) (2), [William Bradford](people/william-bradford) (1), [Edward Baughman](people/edward-baughman) (1).",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janet-moore",
+    "name": "Janet Moore",
+    "email": "janet.moore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

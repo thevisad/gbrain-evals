@@ -1,0 +1,28 @@
+{
+  "slug": "meetings/important-meeting-tomorrow-2001-07",
+  "type": "meeting",
+  "title": "Meeting: Important Meeting Tomorrow",
+  "compiled_truth": "Meeting: \"Important Meeting Tomorrow\". Occurred 2001-07-12 through 2001-07-13 with 6 related emails. Participants included: [Brian Kelly](people/brian-kelly-sen), [Cohnap](people/cohnap-sce), [Dhunter](people/dhunter-s-k-w), [Dominic Dimare](people/dominic-dimare-calchamber), [Drothrock](people/drothrock-cmta), [Fieldejr](people/fieldejr-sce), [Isenberg](people/isenberg-hmot), [Jdasovic](people/jdasovic)....",
+  "timeline": "- **2001-07-12** | Meeting: important meeting tomorrow\n- **2001-07-13** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/important-meeting-tomorrow-2001-07",
+    "attendees": [
+      "people/brian-kelly-sen",
+      "people/cohnap-sce",
+      "people/dhunter-s-k-w",
+      "people/dominic-dimare-calchamber",
+      "people/drothrock-cmta",
+      "people/fieldejr-sce",
+      "people/isenberg-hmot",
+      "people/jdasovic",
+      "people/jeff-dasovich",
+      "people/kip-lipper-sen",
+      "people/mikahl-ka-pow",
+      "people/rick-simpson-asm",
+      "people/schoongl-sce",
+      "people/vjw-cleanpower"
+    ],
+    "date": "2001-07-12"
+  }
+}

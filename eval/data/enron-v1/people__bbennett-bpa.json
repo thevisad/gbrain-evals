@@ -1,0 +1,14 @@
+{
+  "slug": "people/bbennett-bpa",
+  "type": "person",
+  "title": "Bbennett",
+  "compiled_truth": "Bbennett is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2001-02-14 to 2001-03-28), Bbennett sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-02-14** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bbennett-bpa",
+    "name": "Bbennett",
+    "email": "bbennett@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

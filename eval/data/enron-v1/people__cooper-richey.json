@@ -1,0 +1,14 @@
+{
+  "slug": "people/cooper-richey",
+  "type": "person",
+  "title": "Cooper Richey",
+  "compiled_truth": "Cooper Richey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2002-02-21), Cooper Richey sent 372 and received 311 emails, totalling 683 interactions. Top correspondents: [Jhawker](people/jhawker-petersco) (101), [Colin Tip](people/colin-tip) (23), [Epurtzki](people/epurtzki-deloitte) (16), [Tim Heizenrader](people/tim-heizenrader) (12), [Chris Wiebe](people/chris-wiebe) (10). Mailbox folders observed: _sent_mail, calendar, contacts, fundamentals, inbox, personal.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cooper-richey",
+    "name": "Cooper Richey",
+    "email": "cooper.richey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

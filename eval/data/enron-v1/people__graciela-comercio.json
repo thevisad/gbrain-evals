@@ -1,0 +1,14 @@
+{
+  "slug": "people/graciela-comercio",
+  "type": "person",
+  "title": "Graciela Comercio",
+  "compiled_truth": "Graciela Comercio is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-24 to 1999-06-24), Graciela Comercio sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-06-24** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/graciela-comercio",
+    "name": "Graciela Comercio",
+    "email": "graciela.comercio@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

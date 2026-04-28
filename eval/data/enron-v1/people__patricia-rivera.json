@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-rivera",
+  "type": "person",
+  "title": "Patricia Rivera",
+  "compiled_truth": "Patricia Rivera is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-26 to 2001-11-30), Patricia Rivera sent 10 and received 17 emails, totalling 27 interactions. Top correspondents: [Carlos Albuquerque](people/carlos-albuquerque) (10), [Sergio Assad](people/sergio-assad) (10), [Jose Bestard](people/jose-bestard) (10), [Federico Cerisoli](people/federico-cerisoli) (10), [Remi Collonges](people/remi-collonges) (10). Mailbox folders observed: deleted_items, inbox, south_america.",
+  "timeline": "- **2001-02-26** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-rivera",
+    "name": "Patricia Rivera",
+    "email": "patricia.rivera@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

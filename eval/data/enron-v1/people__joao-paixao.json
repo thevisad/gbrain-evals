@@ -1,0 +1,14 @@
+{
+  "slug": "people/joao-paixao",
+  "type": "person",
+  "title": "Joao Paixao",
+  "compiled_truth": "Joao Paixao is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-27 to 2001-07-20), Joao Paixao sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-07-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joao-paixao",
+    "name": "Joao Paixao",
+    "email": "joao.paixao@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

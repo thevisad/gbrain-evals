@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheryl-dudley",
+  "type": "person",
+  "title": "Cheryl Dudley",
+  "compiled_truth": "Cheryl Dudley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-29 to 2001-06-08), Cheryl Dudley sent 22 and received 195 emails, totalling 217 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (16), [Shawna Flynn](people/shawna-flynn) (14), [Mary Smith](people/mary-smith) (14), [Elsa Villarreal](people/elsa-villarreal) (13), [Kimberlee Bennick](people/kimberlee-bennick) (13). Mailbox folders observed: contracts, logistics.",
+  "timeline": "- **2000-02-29** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheryl-dudley",
+    "name": "Cheryl Dudley",
+    "email": "cheryl.dudley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/pyoung-eei",
+  "type": "person",
+  "title": "Pyoung",
+  "compiled_truth": "Pyoung is an external contact at [Eei](companies/eei). Over the corpus period (2000-02-09 to 2001-06-06), Pyoung sent 2 and received 8 emails, totalling 10 interactions. Top correspondents: [Hemu](people/hemu-dynegy) (2), [Wfhenze](people/wfhenze-jonesday) (2), [Dmperlman](people/dmperlman-powersrc) (2), [Rosteen](people/rosteen-powersrc) (2), [Drusso](people/drusso-reliantenergy) (2).",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pyoung-eei",
+    "name": "Pyoung",
+    "email": "pyoung@eei.org",
+    "primary_affiliation": "companies/eei"
+  }
+}

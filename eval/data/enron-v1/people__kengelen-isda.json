@@ -1,0 +1,14 @@
+{
+  "slug": "people/kengelen-isda",
+  "type": "person",
+  "title": "Kengelen",
+  "compiled_truth": "Kengelen is an external contact at [Isda](companies/isda). Over the corpus period (2001-03-01 to 2002-01-04), Kengelen sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2001-03-01** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kengelen-isda",
+    "name": "Kengelen",
+    "email": "kengelen@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

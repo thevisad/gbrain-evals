@@ -1,0 +1,14 @@
+{
+  "slug": "people/barbara-lo",
+  "type": "person",
+  "title": "Barbara Lo",
+  "compiled_truth": "Barbara Lo is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-04 to 2002-02-06), Barbara Lo sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2002-02-04** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barbara-lo",
+    "name": "Barbara Lo",
+    "email": "barbara.lo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

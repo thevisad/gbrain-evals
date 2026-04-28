@@ -1,0 +1,14 @@
+{
+  "slug": "people/cellison-ix",
+  "type": "person",
+  "title": "Cellison",
+  "compiled_truth": "Cellison is an external contact at [Ix](companies/ix). Over the corpus period (2000-12-16 to 2000-12-16), Cellison sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-12-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cellison-ix",
+    "name": "Cellison",
+    "email": "cellison@ix.netcom.com",
+    "primary_affiliation": "companies/ix"
+  }
+}

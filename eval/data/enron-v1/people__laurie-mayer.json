@@ -1,0 +1,14 @@
+{
+  "slug": "people/laurie-mayer",
+  "type": "person",
+  "title": "Laurie Mayer",
+  "compiled_truth": "Laurie Mayer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-27 to 2001-11-29), Laurie Mayer sent 13 and received 268 emails, totalling 281 interactions. Top correspondents: [Tana Jones](people/tana-jones) (9), [Limor Nissan](people/limor-nissan) (3), [Shawna Flynn](people/shawna-flynn) (3), [Marie Heard](people/marie-heard) (2), [Mark Greenberg](people/mark-greenberg) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-10-27** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laurie-mayer",
+    "name": "Laurie Mayer",
+    "email": "laurie.mayer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

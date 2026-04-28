@@ -1,0 +1,14 @@
+{
+  "slug": "people/nina-garcia",
+  "type": "person",
+  "title": "Nina Garcia",
+  "compiled_truth": "Nina Garcia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2002-05-06), Nina Garcia sent 4 and received 37 emails, totalling 41 interactions. Top correspondents: [Steven Kean](people/steven-kean) (3), [Maureen Mcvicker](people/maureen-mcvicker) (2), [Kenneth Lay](people/kenneth-lay) (1), [Lfastow](people/lfastow-pop) (1), [Bill Donovan](people/bill-donovan) (1). Mailbox folders observed: calendar.",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nina-garcia",
+    "name": "Nina Garcia",
+    "email": "nina.garcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

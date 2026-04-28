@@ -1,0 +1,14 @@
+{
+  "slug": "people/jfawcet",
+  "type": "person",
+  "title": "Jfawcet",
+  "compiled_truth": "Jfawcet is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-24 to 2001-07-31), Jfawcet sent 0 and received 193 emails, totalling 193 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jfawcet",
+    "name": "Jfawcet",
+    "email": "jfawcet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

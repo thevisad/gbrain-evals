@@ -1,0 +1,14 @@
+{
+  "slug": "people/kriste-sullivan",
+  "type": "person",
+  "title": "Kriste Sullivan",
+  "compiled_truth": "Kriste Sullivan is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-28), Kriste Sullivan sent 4 and received 257 emails, totalling 261 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (4), [Catherine Huynh](people/catherine-huynh) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kriste-sullivan",
+    "name": "Kriste Sullivan",
+    "email": "kriste.sullivan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

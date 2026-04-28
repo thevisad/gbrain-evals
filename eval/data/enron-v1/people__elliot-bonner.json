@@ -1,0 +1,14 @@
+{
+  "slug": "people/elliot-bonner",
+  "type": "person",
+  "title": "Elliot Bonner",
+  "compiled_truth": "Elliot Bonner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2001-12-03), Elliot Bonner sent 4 and received 12 emails, totalling 16 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (3), [Monika Causholli](people/monika-causholli) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elliot-bonner",
+    "name": "Elliot Bonner",
+    "email": "elliot.bonner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

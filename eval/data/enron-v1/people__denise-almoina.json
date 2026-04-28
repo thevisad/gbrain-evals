@@ -1,0 +1,14 @@
+{
+  "slug": "people/denise-almoina",
+  "type": "person",
+  "title": "Denise Almoina",
+  "compiled_truth": "Denise Almoina is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-02 to 2001-05-14), Denise Almoina sent 1 and received 9 emails, totalling 10 interactions.",
+  "timeline": "- **2000-05-02** | First recorded email in corpus\n- **2001-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/denise-almoina",
+    "name": "Denise Almoina",
+    "email": "denise.almoina@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

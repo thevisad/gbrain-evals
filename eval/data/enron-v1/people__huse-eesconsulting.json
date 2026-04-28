@@ -1,0 +1,14 @@
+{
+  "slug": "people/huse-eesconsulting",
+  "type": "person",
+  "title": "Huse",
+  "compiled_truth": "Huse is an external contact at [Eesconsulting](companies/eesconsulting). Over the corpus period (2001-02-20 to 2001-05-10), Huse sent 0 and received 69 emails, totalling 69 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/huse-eesconsulting",
+    "name": "Huse",
+    "email": "huse@eesconsulting.com",
+    "primary_affiliation": "companies/eesconsulting"
+  }
+}

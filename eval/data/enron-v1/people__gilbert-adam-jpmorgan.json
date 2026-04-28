@@ -1,0 +1,14 @@
+{
+  "slug": "people/gilbert-adam-jpmorgan",
+  "type": "person",
+  "title": "Gilbert Adam",
+  "compiled_truth": "Gilbert Adam is an external contact at [Jpmorgan](companies/jpmorgan). Over the corpus period (2000-10-24 to 2001-06-04), Gilbert Adam sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-10-24** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gilbert-adam-jpmorgan",
+    "name": "Gilbert Adam",
+    "email": "gilbert_adam@jpmorgan.com",
+    "primary_affiliation": "companies/jpmorgan"
+  }
+}

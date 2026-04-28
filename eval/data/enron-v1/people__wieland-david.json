@@ -1,0 +1,14 @@
+{
+  "slug": "people/wieland-david",
+  "type": "person",
+  "title": "Wieland David",
+  "compiled_truth": "Wieland David is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-04-01 to 2002-04-01), Wieland David sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-04-01** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wieland-david",
+    "name": "Wieland David",
+    "email": "wieland.david@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

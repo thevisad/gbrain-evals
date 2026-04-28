@@ -1,0 +1,14 @@
+{
+  "slug": "people/chuck-ames",
+  "type": "person",
+  "title": "Chuck Ames",
+  "compiled_truth": "Chuck Ames is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-10 to 2002-02-28), Chuck Ames sent 9 and received 435 emails, totalling 444 interactions. Top correspondents: [Vladi Pimenov](people/vladi-pimenov) (3), [Geoff Storey](people/geoff-storey) (2), [F  Keavey](people/f-keavey) (1), [Kam Keiser](people/kam-keiser) (1), [Phillip Love](people/phillip-love) (1). Mailbox folders observed: deleted_items, inbox, it, personal.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chuck-ames",
+    "name": "Chuck Ames",
+    "email": "chuck.ames@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

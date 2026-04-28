@@ -1,0 +1,14 @@
+{
+  "slug": "people/arsystem-mailman",
+  "type": "person",
+  "title": "Arsystem",
+  "compiled_truth": "Arsystem is an external contact at [Mailman](companies/mailman). Over the corpus period (2000-10-18 to 2002-03-01), Arsystem sent 1188 and received 37 emails, totalling 1225 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (135), [M  Presto](people/m-presto) (108), [Tana Jones](people/tana-jones) (71), [J  Sturm](people/j-sturm) (68), [M  Love](people/m-love) (67).",
+  "timeline": "- **2000-10-18** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/arsystem-mailman",
+    "name": "Arsystem",
+    "email": "arsystem@mailman.enron.com",
+    "primary_affiliation": "companies/mailman"
+  }
+}

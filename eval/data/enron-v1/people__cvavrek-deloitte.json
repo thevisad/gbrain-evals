@@ -1,0 +1,14 @@
+{
+  "slug": "people/cvavrek-deloitte",
+  "type": "person",
+  "title": "Cvavrek",
+  "compiled_truth": "Cvavrek is an external contact at [Deloitte](companies/deloitte). Over the corpus period (2000-10-18 to 2001-09-14), Cvavrek sent 29 and received 133 emails, totalling 162 interactions. Top correspondents: [Mark Guinney](people/mark-guinney-watsonwyatt) (21), [Jeff Dasovich](people/jeff-dasovich) (19), [Asama](people/asama-yahoo) (16), [Jeff Dasovich](people/jeff-dasovich) (10), [Chin](people/chin-haas) (5).",
+  "timeline": "- **2000-10-18** | First recorded email in corpus\n- **2001-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cvavrek-deloitte",
+    "name": "Cvavrek",
+    "email": "cvavrek@deloitte.com",
+    "primary_affiliation": "companies/deloitte"
+  }
+}

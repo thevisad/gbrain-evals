@@ -1,0 +1,14 @@
+{
+  "slug": "people/sherryl-stone",
+  "type": "person",
+  "title": "Sherryl Stone",
+  "compiled_truth": "Sherryl Stone is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-15 to 2001-05-23), Sherryl Stone sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [Dan Badger](people/dan-badger) (1), [James Bannantine](people/james-bannantine) (1), [Cliff Baxter](people/cliff-baxter) (1), [Pam Benson](people/pam-benson) (1), [Rick Bergsieker](people/rick-bergsieker) (1).",
+  "timeline": "- **1999-10-15** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sherryl-stone",
+    "name": "Sherryl Stone",
+    "email": "sherryl.stone@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

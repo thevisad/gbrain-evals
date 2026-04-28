@@ -1,0 +1,14 @@
+{
+  "slug": "people/craig-hall",
+  "type": "person",
+  "title": "Craig Hall",
+  "compiled_truth": "Craig Hall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-06 to 2000-12-11), Craig Hall sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/craig-hall",
+    "name": "Craig Hall",
+    "email": "craig.hall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

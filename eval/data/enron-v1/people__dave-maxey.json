@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-maxey",
+  "type": "person",
+  "title": "Dave Maxey",
+  "compiled_truth": "Dave Maxey is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2001-12-28), Dave Maxey sent 1 and received 17 emails, totalling 18 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (1). Mailbox folders observed: projects.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-maxey",
+    "name": "Dave Maxey",
+    "email": "dave.maxey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

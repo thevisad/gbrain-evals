@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-bernstein",
+  "type": "person",
+  "title": "Mark Bernstein",
+  "compiled_truth": "Mark Bernstein is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-03), Mark Bernstein sent 3 and received 199 emails, totalling 202 interactions. Top correspondents: [Jeff Ader](people/jeff-ader) (2), [Kay Mann](people/kay-mann) (2), [Clement Lau](people/clement-lau) (1), [Benjamin Rogers](people/benjamin-rogers) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-bernstein",
+    "name": "Mark Bernstein",
+    "email": "mark.bernstein@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

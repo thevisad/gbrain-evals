@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-welsch",
+  "type": "person",
+  "title": "Karen Welsch",
+  "compiled_truth": "Karen Welsch is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-25 to 2000-12-20), Karen Welsch sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2000-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-welsch",
+    "name": "Karen Welsch",
+    "email": "karen.welsch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

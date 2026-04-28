@@ -1,0 +1,14 @@
+{
+  "slug": "people/ram-cpuc",
+  "type": "person",
+  "title": "Ram",
+  "compiled_truth": "Ram is an external contact at [Cpuc](companies/cpuc). Over the corpus period (2000-04-04 to 2001-04-13), Ram sent 0 and received 108 emails, totalling 108 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2001-04-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ram-cpuc",
+    "name": "Ram",
+    "email": "ram@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

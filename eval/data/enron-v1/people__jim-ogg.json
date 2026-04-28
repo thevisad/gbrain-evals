@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-ogg",
+  "type": "person",
+  "title": "Jim Ogg",
+  "compiled_truth": "Jim Ogg is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-11-16), Jim Ogg sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-ogg",
+    "name": "Jim Ogg",
+    "email": "jim.ogg@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

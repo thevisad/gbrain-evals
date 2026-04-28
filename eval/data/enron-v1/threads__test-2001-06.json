@@ -1,0 +1,29 @@
+{
+  "slug": "threads/test-2001-06",
+  "type": "meeting",
+  "title": "Thread: Test",
+  "compiled_truth": "Email thread: \"Test\". Ran from 2001-06-05 to 2001-07-05 with 11 messages. Participants: [8772371787](people/8772371787-pagenetmessage), [Chris Germany](people/chris-germany), [Edis-By-Email](people/edis-by-email-incident), [Edismail](people/edismail-incident), [Janette Elbertson](people/janette-elbertson), [Jeffrey Hodge](people/jeffrey-hodge), [John Buchanan](people/john-buchanan), [Larry Berger](people/larry-berger).",
+  "timeline": "- **2001-06-05** | Thread begins: test\n- **2001-07-05** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/test-2001-06",
+    "attendees": [
+      "people/8772371787-pagenetmessage",
+      "people/chris-germany",
+      "people/edis-by-email-incident",
+      "people/edismail-incident",
+      "people/janette-elbertson",
+      "people/jeffrey-hodge",
+      "people/john-buchanan",
+      "people/larry-berger",
+      "people/lynn-blair",
+      "people/maureen-mcvicker",
+      "people/michael-bodnar",
+      "people/raetta-zadow",
+      "people/rcarey278-home",
+      "people/steven-kean",
+      "people/terry-kowalke"
+    ],
+    "date": "2001-06-05"
+  }
+}

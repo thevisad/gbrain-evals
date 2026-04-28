@@ -1,0 +1,14 @@
+{
+  "slug": "people/staci-holtzman",
+  "type": "person",
+  "title": "Staci Holtzman",
+  "compiled_truth": "Staci Holtzman is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-27 to 2002-03-12), Staci Holtzman sent 23 and received 207 emails, totalling 230 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (19), [Robert Kilmer](people/robert-kilmer) (8), [Teb Lokey](people/teb-lokey) (7), [Mark Knippa](people/mark-knippa) (6), [Iris Waser](people/iris-waser) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-09-27** | First recorded email in corpus\n- **2002-03-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/staci-holtzman",
+    "name": "Staci Holtzman",
+    "email": "staci.holtzman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

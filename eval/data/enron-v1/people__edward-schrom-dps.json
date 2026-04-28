@@ -1,0 +1,14 @@
+{
+  "slug": "people/edward-schrom-dps",
+  "type": "person",
+  "title": "Edward Schrom",
+  "compiled_truth": "Edward Schrom is an external contact at [Dps](companies/dps). Over the corpus period (2001-04-18 to 2002-02-25), Edward Schrom sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2001-04-18** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edward-schrom-dps",
+    "name": "Edward Schrom",
+    "email": "edward_schrom@dps.state.ny.us",
+    "primary_affiliation": "companies/dps"
+  }
+}

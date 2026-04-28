@@ -1,0 +1,14 @@
+{
+  "slug": "people/angie-buis",
+  "type": "person",
+  "title": "Angie Buis",
+  "compiled_truth": "Angie Buis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-24 to 2001-10-29), Angie Buis sent 14 and received 21 emails, totalling 35 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (12), [James Ginty](people/james-ginty) (11), [Beth Wapner](people/beth-wapner) (11), [Cynthia Harkness](people/cynthia-harkness) (11), [Donald Lassere](people/donald-lassere) (11). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-02-24** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angie-buis",
+    "name": "Angie Buis",
+    "email": "angie.buis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

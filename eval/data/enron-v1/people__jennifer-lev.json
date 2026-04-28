@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-lev",
+  "type": "person",
+  "title": "Jennifer Lev",
+  "compiled_truth": "Jennifer Lev is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2002-02-14), Jennifer Lev sent 2 and received 62 emails, totalling 64 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (2), [Mary Botello](people/mary-botello) (1), [Judy Lin](people/judy-lin) (1), [Bob Chandler](people/bob-chandler) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-lev",
+    "name": "Jennifer Lev",
+    "email": "jennifer.lev@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

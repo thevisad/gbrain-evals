@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-alexander-sce",
+  "type": "person",
+  "title": "Michael Alexander",
+  "compiled_truth": "Michael Alexander is an external contact at [Sce](companies/sce). Over the corpus period (2000-08-23 to 2001-10-19), Michael Alexander sent 10 and received 55 emails, totalling 65 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (8), [Jdasovic](people/jdasovic) (6), [Burkee](people/burkee-cts) (5), [Mday](people/mday-gmssr) (5), [Rick Counihan](people/rick-counihan-greenmountain) (5).",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-alexander-sce",
+    "name": "Michael Alexander",
+    "email": "michael.alexander@sce.com",
+    "primary_affiliation": "companies/sce"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/misha-siegel",
+  "type": "person",
+  "title": "Misha Siegel",
+  "compiled_truth": "Misha Siegel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-06 to 2001-11-29), Misha Siegel sent 8 and received 47 emails, totalling 55 interactions. Top correspondents: [Elyse Kalmans](people/elyse-kalmans) (3), [Rod Hayslett](people/rod-hayslett) (2), [Sally Beck](people/sally-beck) (1), [Michelle Cash](people/michelle-cash) (1), [Janet Moore](people/janet-moore) (1). Mailbox folders observed: deleted_items, enron_kids, inbox, projects.",
+  "timeline": "- **2000-04-06** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/misha-siegel",
+    "name": "Misha Siegel",
+    "email": "misha.siegel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

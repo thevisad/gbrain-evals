@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-merris",
+  "type": "person",
+  "title": "Steven Merris",
+  "compiled_truth": "Steven Merris is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-29 to 2002-01-02), Steven Merris sent 4 and received 430 emails, totalling 434 interactions. Top correspondents: [Stevehallock](people/stevehallock-qwest) (1), [Pete Davis](people/pete-davis-enroon) (1), [Ryan Slinger](people/ryan-slinger) (1), [Shift Portland](people/shift-portland) (1). Mailbox folders observed: _sent_mail, inbox.",
+  "timeline": "- **2001-03-29** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-merris",
+    "name": "Steven Merris",
+    "email": "steven.merris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

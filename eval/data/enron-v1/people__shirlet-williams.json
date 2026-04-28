@@ -1,0 +1,14 @@
+{
+  "slug": "people/shirlet-williams",
+  "type": "person",
+  "title": "Shirlet Williams",
+  "compiled_truth": "Shirlet Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-05-06), Shirlet Williams sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shirlet-williams",
+    "name": "Shirlet Williams",
+    "email": "shirlet.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

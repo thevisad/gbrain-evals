@@ -1,0 +1,16 @@
+{
+  "slug": "people/priya-patel",
+  "type": "person",
+  "title": "Priya Patel",
+  "compiled_truth": "Priya Patel is an investor in Halfway Capital's portfolio companies. Email: priya@sequoia.com. Priya Patel works at Sequoia Capital. Slack: @priya.",
+  "timeline": "- **2025-04-14** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/priya-patel",
+    "name": "Priya Patel",
+    "email": "priya@sequoia.com",
+    "slack_handle": "priya",
+    "relation_to_amara": "investor",
+    "primary_affiliation": "companies/sequoia"
+  }
+}

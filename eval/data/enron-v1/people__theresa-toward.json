@@ -1,0 +1,14 @@
+{
+  "slug": "people/theresa-toward",
+  "type": "person",
+  "title": "Theresa Toward",
+  "compiled_truth": "Theresa Toward is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-07 to 2002-01-31), Theresa Toward sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-12-07** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/theresa-toward",
+    "name": "Theresa Toward",
+    "email": "theresa.toward@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

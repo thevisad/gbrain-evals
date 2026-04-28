@@ -1,0 +1,14 @@
+{
+  "slug": "people/georgene-moore",
+  "type": "person",
+  "title": "Georgene Moore",
+  "compiled_truth": "Georgene Moore is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-13 to 2002-01-11), Georgene Moore sent 6 and received 15 emails, totalling 21 interactions. Top correspondents: [Rick Buy](people/rick-buy) (4), [Kenneth Lay](people/kenneth-lay) (3), [Raymond Bowen](people/raymond-bowen) (2), [Richard Causey](people/richard-causey) (2), [James Derrick](people/james-derrick) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/georgene-moore",
+    "name": "Georgene Moore",
+    "email": "georgene.moore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

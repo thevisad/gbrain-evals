@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-hardy",
+  "type": "person",
+  "title": "John Hardy",
+  "compiled_truth": "John Hardy is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-16 to 2002-03-06), John Hardy sent 19 and received 188 emails, totalling 207 interactions. Top correspondents: [Rob Walls](people/rob-walls) (8), [Stanley Horton](people/stanley-horton) (7), [A  Hughes](people/a-hughes) (7), [Kenneth Lay](people/kenneth-lay) (7), [Steven Kean](people/steven-kean) (7). Mailbox folders observed: 2001_budget, deleted_items, inbox, india, venezuela_colombia.",
+  "timeline": "- **1999-10-16** | First recorded email in corpus\n- **2002-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-hardy",
+    "name": "John Hardy",
+    "email": "john.hardy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

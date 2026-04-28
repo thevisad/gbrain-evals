@@ -1,0 +1,14 @@
+{
+  "slug": "people/sendo-ci",
+  "type": "person",
+  "title": "Sendo",
+  "compiled_truth": "Sendo is an external contact at [Ci](companies/ci). Over the corpus period (2000-06-15 to 2001-12-27), Sendo sent 14 and received 13 emails, totalling 27 interactions. Top correspondents: [Tori Kuykendall](people/tori-kuykendall) (10), [ Ward](people/ward) (7), [Suzanne Christiansen](people/suzanne-christiansen) (5), [ Jan](people/jan) (4), [Kim Ward](people/kim-ward) (3).",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sendo-ci",
+    "name": "Sendo",
+    "email": "sendo@ci.pasadena.ca.us",
+    "primary_affiliation": "companies/ci"
+  }
+}

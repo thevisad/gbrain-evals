@@ -1,0 +1,25 @@
+{
+  "slug": "threads/stuff-2000-09",
+  "type": "meeting",
+  "title": "Thread: Stuff",
+  "compiled_truth": "Email thread: \"Stuff\". Ran from 2000-09-13 to 2000-10-13 with 12 messages. Participants: [Beth Apollo](people/beth-apollo), [Camp2Scott](people/camp2scott-aol), [Cwhite](people/cwhite-viviance), [Darron Giron](people/darron-giron), [Fletcher Sturm](people/fletcher-sturm), [John Lavorato](people/john-lavorato), [Kay Mann](people/kay-mann), [Richard Tomaski](people/richard-tomaski).",
+  "timeline": "- **2000-09-13** | Thread begins: stuff\n- **2000-10-13** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/stuff-2000-09",
+    "attendees": [
+      "people/beth-apollo",
+      "people/camp2scott-aol",
+      "people/cwhite-viviance",
+      "people/darron-giron",
+      "people/fletcher-sturm",
+      "people/john-lavorato",
+      "people/kay-mann",
+      "people/richard-tomaski",
+      "people/sally-beck",
+      "people/susan-scott",
+      "people/suzanne-adams"
+    ],
+    "date": "2000-09-13"
+  }
+}

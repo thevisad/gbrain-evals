@@ -1,0 +1,14 @@
+{
+  "slug": "people/billc-rosequarter",
+  "type": "person",
+  "title": "Billc",
+  "compiled_truth": "Billc is an external contact at [Rosequarter](companies/rosequarter). Over the corpus period (2000-10-10 to 2001-04-30), Billc sent 0 and received 37 emails, totalling 37 interactions.",
+  "timeline": "- **2000-10-10** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/billc-rosequarter",
+    "name": "Billc",
+    "email": "billc@rosequarter.com",
+    "primary_affiliation": "companies/rosequarter"
+  }
+}

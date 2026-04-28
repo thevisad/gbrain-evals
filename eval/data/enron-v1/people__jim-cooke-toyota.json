@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-cooke-toyota",
+  "type": "person",
+  "title": "Jim Cooke",
+  "compiled_truth": "Jim Cooke is an external contact at [Toyota](companies/toyota). Over the corpus period (2001-07-25 to 2001-07-25), Jim Cooke sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-cooke-toyota",
+    "name": "Jim Cooke",
+    "email": "jim_cooke@toyota.com",
+    "primary_affiliation": "companies/toyota"
+  }
+}

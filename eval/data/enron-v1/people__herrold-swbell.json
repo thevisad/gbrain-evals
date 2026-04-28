@@ -1,0 +1,14 @@
+{
+  "slug": "people/herrold-swbell",
+  "type": "person",
+  "title": "Herrold",
+  "compiled_truth": "Herrold is an external contact at [Swbell](companies/swbell). Over the corpus period (2001-03-02 to 2002-01-04), Herrold sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [Barblpl](people/barblpl-yahoo) (1), [Mary Bourne](people/mary-bourne-showtime) (1), [Tdh](people/tdh-y2kenergy) (1), [Heather](people/heather-layfam) (1), [Beau](people/beau-layfam) (1).",
+  "timeline": "- **2001-03-02** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/herrold-swbell",
+    "name": "Herrold",
+    "email": "herrold@swbell.net",
+    "primary_affiliation": "companies/swbell"
+  }
+}

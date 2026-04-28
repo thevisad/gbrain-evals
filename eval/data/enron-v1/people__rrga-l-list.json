@@ -1,0 +1,14 @@
+{
+  "slug": "people/rrga-l-list",
+  "type": "person",
+  "title": "Rrga-L",
+  "compiled_truth": "Rrga-L is an external contact at [List](companies/list). Over the corpus period (2001-05-15 to 2002-02-07), Rrga-L sent 41 and received 37 emails, totalling 78 interactions.",
+  "timeline": "- **2001-05-15** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rrga-l-list",
+    "name": "Rrga-L",
+    "email": "rrga-l@list.rtowest.org",
+    "primary_affiliation": "companies/list"
+  }
+}

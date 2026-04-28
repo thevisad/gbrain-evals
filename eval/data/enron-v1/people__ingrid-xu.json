@@ -1,0 +1,14 @@
+{
+  "slug": "people/ingrid-xu",
+  "type": "person",
+  "title": "Ingrid Xu",
+  "compiled_truth": "Ingrid Xu is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2001-11-16), Ingrid Xu sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ingrid-xu",
+    "name": "Ingrid Xu",
+    "email": "ingrid.xu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rrossell-capital",
+  "type": "person",
+  "title": "Rrossell",
+  "compiled_truth": "Rrossell is an external contact at [Capital](companies/capital). Over the corpus period (2000-09-20 to 2000-10-02), Rrossell sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-09-20** | First recorded email in corpus\n- **2000-10-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rrossell-capital",
+    "name": "Rrossell",
+    "email": "rrossell@capital.net",
+    "primary_affiliation": "companies/capital"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/per-sekse",
+  "type": "person",
+  "title": "Per Sekse",
+  "compiled_truth": "Per Sekse is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-13 to 2002-03-25), Per Sekse sent 30 and received 366 emails, totalling 396 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (13), [Sara Shackleton](people/sara-shackleton) (9), [Jeffrey Shankman](people/jeffrey-shankman) (8), [A  Shankman](people/a-shankman) (6), [John Lavorato](people/john-lavorato) (4). Mailbox folders observed: _hedgefunds, deleted_items, inbox.",
+  "timeline": "- **1998-11-13** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/per-sekse",
+    "name": "Per Sekse",
+    "email": "per.sekse@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

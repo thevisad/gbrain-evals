@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-zoch",
+  "type": "person",
+  "title": "Jennifer Zoch",
+  "compiled_truth": "Jennifer Zoch is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-11 to 2001-07-20), Jennifer Zoch sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-06-11** | First recorded email in corpus\n- **2001-07-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-zoch",
+    "name": "Jennifer Zoch",
+    "email": "jennifer.zoch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

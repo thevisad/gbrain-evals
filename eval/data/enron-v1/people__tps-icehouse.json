@@ -1,0 +1,14 @@
+{
+  "slug": "people/tps-icehouse",
+  "type": "person",
+  "title": "Tps",
+  "compiled_truth": "Tps is an external contact at [Icehouse](companies/icehouse). Over the corpus period (2001-03-21 to 2001-03-21), Tps sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-03-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tps-icehouse",
+    "name": "Tps",
+    "email": "tps@icehouse.net",
+    "primary_affiliation": "companies/icehouse"
+  }
+}

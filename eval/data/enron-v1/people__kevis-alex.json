@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevis-alex",
+  "type": "person",
+  "title": "Kevis Alex",
+  "compiled_truth": "Kevis Alex is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-01 to 2002-02-05), Kevis Alex sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-02-01** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevis-alex",
+    "name": "Kevis Alex",
+    "email": "kevis.alex@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

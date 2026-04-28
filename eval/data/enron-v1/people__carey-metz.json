@@ -1,0 +1,14 @@
+{
+  "slug": "people/carey-metz",
+  "type": "person",
+  "title": "Carey Metz",
+  "compiled_truth": "Carey Metz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-06 to 2001-05-15), Carey Metz sent 4 and received 176 emails, totalling 180 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (4), [Stacey Neuweiler](people/stacey-neuweiler) (1).",
+  "timeline": "- **2000-01-06** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carey-metz",
+    "name": "Carey Metz",
+    "email": "carey.metz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

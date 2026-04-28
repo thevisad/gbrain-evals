@@ -1,0 +1,14 @@
+{
+  "slug": "people/kyle-patrick",
+  "type": "person",
+  "title": "Kyle Patrick",
+  "compiled_truth": "Kyle Patrick is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-24 to 2002-01-24), Kyle Patrick sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-24** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kyle-patrick",
+    "name": "Kyle Patrick",
+    "email": "kyle.patrick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

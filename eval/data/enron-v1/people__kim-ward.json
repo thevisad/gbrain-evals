@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-ward",
+  "type": "person",
+  "title": "Kim Ward",
+  "compiled_truth": "Kim Ward is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-31), Kim Ward sent 365 and received 621 emails, totalling 986 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (33), [Chris Foster](people/chris-foster) (27), [Barry Tycholiz](people/barry-tycholiz) (17), [Jason Williams](people/jason-williams) (16), [Sara Shackleton](people/sara-shackleton) (15). Mailbox folders observed: _sent_mail, deleted_items, inbox, personal, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-ward",
+    "name": "Kim Ward",
+    "email": "kim.ward@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

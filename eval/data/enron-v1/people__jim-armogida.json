@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-armogida",
+  "type": "person",
+  "title": "Jim Armogida",
+  "compiled_truth": "Jim Armogida is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2002-03-11), Jim Armogida sent 21 and received 188 emails, totalling 209 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (17), [Clint Freeland](people/clint-freeland) (13), [Rex Rogers](people/rex-rogers) (9), [Jeff Nogid](people/jeff-nogid) (6), [Rbaird](people/rbaird-velaw) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2002-03-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-armogida",
+    "name": "Jim Armogida",
+    "email": "jim.armogida@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

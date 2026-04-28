@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-goddard",
+  "type": "person",
+  "title": "Paul Goddard",
+  "compiled_truth": "Paul Goddard is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-27 to 2002-02-04), Paul Goddard sent 13 and received 246 emails, totalling 259 interactions. Top correspondents: [Justin Boyd](people/justin-boyd) (10), [Mark Taylor](people/mark-taylor) (9), [Dave Samuels](people/dave-samuels) (5), [Louise Kitchen](people/louise-kitchen) (4), [Rahil Jafry](people/rahil-jafry) (4). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **1999-05-27** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-goddard",
+    "name": "Paul Goddard",
+    "email": "paul.goddard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

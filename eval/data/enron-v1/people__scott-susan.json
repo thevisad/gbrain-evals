@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-susan",
+  "type": "person",
+  "title": "Scott' 'Susan",
+  "compiled_truth": "Scott' 'Susan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-26 to 2002-01-31), Scott' 'Susan sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-06-26** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-susan",
+    "name": "Scott' 'Susan",
+    "email": "scott'.'susan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

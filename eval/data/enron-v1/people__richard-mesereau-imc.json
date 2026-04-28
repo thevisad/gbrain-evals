@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-mesereau-imc",
+  "type": "person",
+  "title": "Richard Mesereau",
+  "compiled_truth": "Richard Mesereau is an external contact at [Imc](companies/imc). Over the corpus period (2001-05-04 to 2001-05-17), Richard Mesereau sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-05-04** | First recorded email in corpus\n- **2001-05-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-mesereau-imc",
+    "name": "Richard Mesereau",
+    "email": "richard.mesereau@imc.asm.ca.gov",
+    "primary_affiliation": "companies/imc"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas-engel",
+  "type": "person",
+  "title": "Thomas Engel",
+  "compiled_truth": "Thomas Engel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2001-11-30), Thomas Engel sent 18 and received 85 emails, totalling 103 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (14), [Scott Mills](people/scott-mills) (8), [George Smith](people/george-smith) (8), [Edward Terry](people/edward-terry) (8), [Tricia Bowen](people/tricia-bowen) (8). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas-engel",
+    "name": "Thomas Engel",
+    "email": "thomas.engel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

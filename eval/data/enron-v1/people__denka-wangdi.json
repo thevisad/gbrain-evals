@@ -1,0 +1,14 @@
+{
+  "slug": "people/denka-wangdi",
+  "type": "person",
+  "title": "Denka Wangdi",
+  "compiled_truth": "Denka Wangdi is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-01 to 2001-09-25), Denka Wangdi sent 1 and received 10 emails, totalling 11 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (1). Mailbox folders observed: projects.",
+  "timeline": "- **2001-05-01** | First recorded email in corpus\n- **2001-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/denka-wangdi",
+    "name": "Denka Wangdi",
+    "email": "denka.wangdi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

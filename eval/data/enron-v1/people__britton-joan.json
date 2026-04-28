@@ -1,0 +1,14 @@
+{
+  "slug": "people/britton-joan",
+  "type": "person",
+  "title": "Britton Joan",
+  "compiled_truth": "Britton Joan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-04 to 2002-01-24), Britton Joan sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/britton-joan",
+    "name": "Britton Joan",
+    "email": "britton.joan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

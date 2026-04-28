@@ -1,0 +1,14 @@
+{
+  "slug": "people/ruth-concannon",
+  "type": "person",
+  "title": "Ruth Concannon",
+  "compiled_truth": "Ruth Concannon is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-26 to 2002-06-25), Ruth Concannon sent 114 and received 459 emails, totalling 573 interactions. Top correspondents: [Chris Germany](people/chris-germany) (58), [Ed Mcmichael](people/ed-mcmichael) (47), [Maria Garza](people/maria-garza) (46), [Kay Mann](people/kay-mann) (23), [Robin Barbe](people/robin-barbe) (22). Mailbox folders observed: bankrupt, deleted_items, inbox, new_jersey_natural, tcpl.",
+  "timeline": "- **1999-05-26** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ruth-concannon",
+    "name": "Ruth Concannon",
+    "email": "ruth.concannon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

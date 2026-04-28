@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-besch-yahoo",
+  "type": "person",
+  "title": "M Besch",
+  "compiled_truth": "M Besch is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-03-28 to 2002-01-11), M Besch sent 6 and received 28 emails, totalling 34 interactions. Top correspondents: [Mike Carson](people/mike-carson) (6), [Vogel David](people/vogel-david) (2), [Burns Jerrod](people/burns-jerrod) (2), [Bower Matthew](people/bower-matthew) (2), [Villanuevar](people/villanuevar-broncos) (1).",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-besch-yahoo",
+    "name": "M Besch",
+    "email": "m_besch@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ann-vaughn",
+  "type": "person",
+  "title": "Ann Vaughn",
+  "compiled_truth": "Ann Vaughn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-24 to 2002-05-06), Ann Vaughn sent 4 and received 46 emails, totalling 50 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (1), [Michelle Cash](people/michelle-cash) (1), [Gary Smith](people/gary-smith) (1), [A  Hope](people/a-hope) (1), [Tracy Geaccone](people/tracy-geaccone) (1). Mailbox folders observed: deleted_items, gpg.",
+  "timeline": "- **2000-05-24** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ann-vaughn",
+    "name": "Ann Vaughn",
+    "email": "ann.vaughn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

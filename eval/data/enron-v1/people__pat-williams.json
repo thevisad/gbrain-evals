@@ -1,0 +1,14 @@
+{
+  "slug": "people/pat-williams",
+  "type": "person",
+  "title": "Pat Williams",
+  "compiled_truth": "Pat Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2002-03-05), Pat Williams sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2002-03-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pat-williams",
+    "name": "Pat Williams",
+    "email": "pat.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

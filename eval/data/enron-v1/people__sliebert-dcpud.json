@@ -1,0 +1,14 @@
+{
+  "slug": "people/sliebert-dcpud",
+  "type": "person",
+  "title": "Sliebert",
+  "compiled_truth": "Sliebert is an external contact at [Dcpud](companies/dcpud). Over the corpus period (2001-08-14 to 2001-10-25), Sliebert sent 2 and received 1 emails, totalling 3 interactions. Top correspondents: [Diana Scholtes](people/diana-scholtes) (2), [Cwagers](people/cwagers-dcpud) (2).",
+  "timeline": "- **2001-08-14** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sliebert-dcpud",
+    "name": "Sliebert",
+    "email": "sliebert@dcpud.org",
+    "primary_affiliation": "companies/dcpud"
+  }
+}

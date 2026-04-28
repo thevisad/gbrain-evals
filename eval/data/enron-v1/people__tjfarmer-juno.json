@@ -1,0 +1,14 @@
+{
+  "slug": "people/tjfarmer-juno",
+  "type": "person",
+  "title": "Tjfarmer",
+  "compiled_truth": "Tjfarmer is an external contact at [Juno](companies/juno). Over the corpus period (2000-02-04 to 2001-12-08), Tjfarmer sent 7 and received 55 emails, totalling 62 interactions. Top correspondents: [Dfarmer](people/dfarmer) (4), [Daren Farmer](people/daren-farmer) (3).",
+  "timeline": "- **2000-02-04** | First recorded email in corpus\n- **2001-12-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tjfarmer-juno",
+    "name": "Tjfarmer",
+    "email": "tjfarmer@juno.com",
+    "primary_affiliation": "companies/juno"
+  }
+}

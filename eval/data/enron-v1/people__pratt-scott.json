@@ -1,0 +1,14 @@
+{
+  "slug": "people/pratt-scott",
+  "type": "person",
+  "title": "Pratt Scott",
+  "compiled_truth": "Pratt Scott is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-08 to 2002-01-16), Pratt Scott sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pratt-scott",
+    "name": "Pratt Scott",
+    "email": "pratt.scott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

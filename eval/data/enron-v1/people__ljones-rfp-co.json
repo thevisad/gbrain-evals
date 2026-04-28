@@ -1,0 +1,14 @@
+{
+  "slug": "people/ljones-rfp-co",
+  "type": "person",
+  "title": "Ljones",
+  "compiled_truth": "Ljones is an external contact at [Rfp-co](companies/rfp-co). Over the corpus period (2000-10-20 to 2001-11-19), Ljones sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-10-20** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ljones-rfp-co",
+    "name": "Ljones",
+    "email": "ljones@rfp-co.com",
+    "primary_affiliation": "companies/rfp-co"
+  }
+}

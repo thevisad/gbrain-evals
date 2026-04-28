@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-grant",
+  "type": "person",
+  "title": "George Grant",
+  "compiled_truth": "George Grant is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2002-01-31), George Grant sent 11 and received 196 emails, totalling 207 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (7), [Luis Aybar](people/luis-aybar) (6), [Vance Taylor](people/vance-taylor) (5), [Robert Cotten](people/robert-cotten) (5), [Dat Truong](people/dat-truong) (4). Mailbox folders observed: deleted_items, inbox, wellhead.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-grant",
+    "name": "George Grant",
+    "email": "george.grant@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

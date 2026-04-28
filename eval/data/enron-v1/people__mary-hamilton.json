@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-hamilton",
+  "type": "person",
+  "title": "Mary Hamilton",
+  "compiled_truth": "Mary Hamilton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-04-17), Mary Hamilton sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-04-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-hamilton",
+    "name": "Mary Hamilton",
+    "email": "mary.hamilton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

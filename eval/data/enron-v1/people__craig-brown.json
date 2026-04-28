@@ -1,0 +1,14 @@
+{
+  "slug": "people/craig-brown",
+  "type": "person",
+  "title": "Craig Brown",
+  "compiled_truth": "Craig Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-12-11), Craig Brown sent 4 and received 6 emails, totalling 10 interactions. Top correspondents: [Jennifer Medcalf](people/jennifer-medcalf) (4), [Heidi Smith](people/heidi-smith) (2), [Jeff Youngflesh](people/jeff-youngflesh) (1), [John Bone](people/john-bone) (1), [Sarah-Joy Hunter](people/sarah-joy-hunter) (1).",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/craig-brown",
+    "name": "Craig Brown",
+    "email": "craig.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

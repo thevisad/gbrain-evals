@@ -1,0 +1,14 @@
+{
+  "slug": "people/drehfeldt-tnpe",
+  "type": "person",
+  "title": "Drehfeldt",
+  "compiled_truth": "Drehfeldt is an external contact at [Tnpe](companies/tnpe). Over the corpus period (2002-01-08 to 2002-01-14), Drehfeldt sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: ['Schrab](people/schrab) (1), [Heidi Schrab](people/heidi-schrab-greenmountain) (1), [Careed](people/careed-aep) (1), [Set](people/set-ercot) (1).",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/drehfeldt-tnpe",
+    "name": "Drehfeldt",
+    "email": "drehfeldt@tnpe.com",
+    "primary_affiliation": "companies/tnpe"
+  }
+}

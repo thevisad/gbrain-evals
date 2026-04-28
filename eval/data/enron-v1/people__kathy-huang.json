@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-huang",
+  "type": "person",
+  "title": "Kathy Huang",
+  "compiled_truth": "Kathy Huang is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-28 to 2001-03-01), Kathy Huang sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-02-28** | First recorded email in corpus\n- **2001-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-huang",
+    "name": "Kathy Huang",
+    "email": "kathy.huang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

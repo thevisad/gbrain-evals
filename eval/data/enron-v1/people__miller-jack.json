@@ -1,0 +1,14 @@
+{
+  "slug": "people/miller-jack",
+  "type": "person",
+  "title": "Miller Jack",
+  "compiled_truth": "Miller Jack is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-07 to 2002-01-02), Miller Jack sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-06-07** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/miller-jack",
+    "name": "Miller Jack",
+    "email": "miller.jack@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/hilda-bourgeois-galloway",
+  "type": "person",
+  "title": "Hilda Bourgeois-Galloway",
+  "compiled_truth": "Hilda Bourgeois-Galloway is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-27), Hilda Bourgeois-Galloway sent 4 and received 22 emails, totalling 26 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (2), [Twanda Sweet](people/twanda-sweet) (2), [Sharon Butcher](people/sharon-butcher) (1), [Kriste Sullivan](people/kriste-sullivan) (1), [Exec Jones](people/exec-jones) (1). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hilda-bourgeois-galloway",
+    "name": "Hilda Bourgeois-Galloway",
+    "email": "hilda.bourgeois-galloway@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rcampos-eldoradocorp",
+  "type": "person",
+  "title": "Rcampos",
+  "compiled_truth": "Rcampos is an external contact at [Eldoradocorp](companies/eldoradocorp). Over the corpus period (2001-01-25 to 2001-05-09), Rcampos sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2001-01-25** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rcampos-eldoradocorp",
+    "name": "Rcampos",
+    "email": "rcampos@eldoradocorp.com",
+    "primary_affiliation": "companies/eldoradocorp"
+  }
+}

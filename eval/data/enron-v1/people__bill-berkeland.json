@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-berkeland",
+  "type": "person",
+  "title": "Bill Berkeland",
+  "compiled_truth": "Bill Berkeland is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2002-01-03), Bill Berkeland sent 2 and received 89 emails, totalling 91 interactions. Top correspondents: [John Arnold](people/john-arnold) (1), [Vince Kaminski](people/vince-kaminski) (1), [Kim Melodick](people/kim-melodick) (1).",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-berkeland",
+    "name": "Bill Berkeland",
+    "email": "bill.berkeland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

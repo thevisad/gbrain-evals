@@ -1,0 +1,14 @@
+{
+  "slug": "people/carol-carter",
+  "type": "person",
+  "title": "Carol Carter",
+  "compiled_truth": "Carol Carter is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-11-12), Carol Carter sent 3 and received 84 emails, totalling 87 interactions. Top correspondents: [Barry Tycholiz](people/barry-tycholiz) (2), [Louise Kitchen](people/louise-kitchen) (1), [Faith Killen](people/faith-killen) (1). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carol-carter",
+    "name": "Carol Carter",
+    "email": "carol.carter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

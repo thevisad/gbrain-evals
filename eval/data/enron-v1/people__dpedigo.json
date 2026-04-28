@@ -1,0 +1,14 @@
+{
+  "slug": "people/dpedigo",
+  "type": "person",
+  "title": "Dpedigo",
+  "compiled_truth": "Dpedigo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2000-10-25), Dpedigo sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2000-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dpedigo",
+    "name": "Dpedigo",
+    "email": "dpedigo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

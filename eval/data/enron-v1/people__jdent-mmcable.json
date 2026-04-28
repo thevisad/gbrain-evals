@@ -1,0 +1,14 @@
+{
+  "slug": "people/jdent-mmcable",
+  "type": "person",
+  "title": "Jdent",
+  "compiled_truth": "Jdent is an external contact at [Mmcable](companies/mmcable). Over the corpus period (2000-09-13 to 2001-11-05), Jdent sent 20 and received 44 emails, totalling 64 interactions. Top correspondents: [Smu-Betas](people/smu-betas-yahoogroups) (20).",
+  "timeline": "- **2000-09-13** | First recorded email in corpus\n- **2001-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jdent-mmcable",
+    "name": "Jdent",
+    "email": "jdent@mmcable.com",
+    "primary_affiliation": "companies/mmcable"
+  }
+}

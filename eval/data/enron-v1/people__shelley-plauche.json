@@ -1,0 +1,14 @@
+{
+  "slug": "people/shelley-plauche",
+  "type": "person",
+  "title": "Shelley Plauche",
+  "compiled_truth": "Shelley Plauche is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-19 to 2001-10-19), Shelley Plauche sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2001-06-19** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shelley-plauche",
+    "name": "Shelley Plauche",
+    "email": "shelley.plauche@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

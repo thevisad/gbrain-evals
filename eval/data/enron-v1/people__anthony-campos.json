@@ -1,0 +1,14 @@
+{
+  "slug": "people/anthony-campos",
+  "type": "person",
+  "title": "Anthony Campos",
+  "compiled_truth": "Anthony Campos is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-02), Anthony Campos sent 15 and received 649 emails, totalling 664 interactions. Top correspondents: [Tana Jones](people/tana-jones) (12), [Stacey Richardson](people/stacey-richardson) (5), [Linda Bryan](people/linda-bryan) (5), [Bridgette Anderson](people/bridgette-anderson) (4), [Georgi Landau](people/georgi-landau) (3). Mailbox folders observed: inbox, tufco.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anthony-campos",
+    "name": "Anthony Campos",
+    "email": "anthony.campos@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

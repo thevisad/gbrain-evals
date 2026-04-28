@@ -1,0 +1,14 @@
+{
+  "slug": "people/stacy-runswick",
+  "type": "person",
+  "title": "Stacy Runswick",
+  "compiled_truth": "Stacy Runswick is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-15 to 2002-01-29), Stacy Runswick sent 27 and received 182 emails, totalling 209 interactions. Top correspondents: [Cara Semperger](people/cara-semperger) (11), [Holden Salisbury](people/holden-salisbury) (10), [Tom Alonso](people/tom-alonso) (9), [Diana Scholtes](people/diana-scholtes) (9), [Mark Fischer](people/mark-fischer) (7). Mailbox folders observed: bill_williams_iii, inbox, outbox, scheduling, stf, stuff.",
+  "timeline": "- **2000-09-15** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stacy-runswick",
+    "name": "Stacy Runswick",
+    "email": "stacy.runswick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

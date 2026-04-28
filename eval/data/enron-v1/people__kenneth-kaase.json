@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenneth-kaase",
+  "type": "person",
+  "title": "Kenneth Kaase",
+  "compiled_truth": "Kenneth Kaase is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-14 to 2001-07-16), Kenneth Kaase sent 1 and received 107 emails, totalling 108 interactions. Top correspondents: [Lee Papayoti](people/lee-papayoti) (1), [Dan Hyvl](people/dan-hyvl) (1).",
+  "timeline": "- **1999-06-14** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenneth-kaase",
+    "name": "Kenneth Kaase",
+    "email": "kenneth.kaase@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

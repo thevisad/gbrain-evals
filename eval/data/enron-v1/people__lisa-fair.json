@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-fair",
+  "type": "person",
+  "title": "Lisa Fair",
+  "compiled_truth": "Lisa Fair is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-13 to 2001-03-19), Lisa Fair sent 5 and received 0 emails, totalling 5 interactions. Top correspondents: [Shona Wilson](people/shona-wilson) (5), [Sally Beck](people/sally-beck) (4), [Richard Causey](people/richard-causey) (4), [Ted Murphy](people/ted-murphy) (4), [Eric Gonzales](people/eric-gonzales) (3). Mailbox folders observed: calendar.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus\n- **2001-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-fair",
+    "name": "Lisa Fair",
+    "email": "lisa.fair@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/silvia-dalton",
+  "type": "person",
+  "title": "Silvia Dalton",
+  "compiled_truth": "Silvia Dalton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-26 to 2001-02-22), Silvia Dalton sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-08-26** | First recorded email in corpus\n- **2001-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/silvia-dalton",
+    "name": "Silvia Dalton",
+    "email": "silvia.dalton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

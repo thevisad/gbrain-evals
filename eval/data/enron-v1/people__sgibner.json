@@ -1,0 +1,14 @@
+{
+  "slug": "people/sgibner",
+  "type": "person",
+  "title": "Sgibner",
+  "compiled_truth": "Sgibner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-26 to 2002-01-13), Sgibner sent 1 and received 25 emails, totalling 26 interactions. Top correspondents: [Vkamins](people/vkamins) (1).",
+  "timeline": "- **2000-03-26** | First recorded email in corpus\n- **2002-01-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sgibner",
+    "name": "Sgibner",
+    "email": "sgibner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebecca-torres",
+  "type": "person",
+  "title": "Rebecca Torres",
+  "compiled_truth": "Rebecca Torres is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-31 to 2001-12-03), Rebecca Torres sent 12 and received 60 emails, totalling 72 interactions. Top correspondents: [Monika Causholli](people/monika-causholli) (2), [Chetan Paipanandiker](people/chetan-paipanandiker) (2), [Binh Pham](people/binh-pham) (2), [Ibrahim Qureishi](people/ibrahim-qureishi) (2), [Jason Biever](people/jason-biever) (1). Mailbox folders observed: 10_saved, inbox.",
+  "timeline": "- **2000-01-31** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebecca-torres",
+    "name": "Rebecca Torres",
+    "email": "rebecca.torres@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ron-mcnamara",
+  "type": "person",
+  "title": "Ron Mcnamara",
+  "compiled_truth": "Ron Mcnamara is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-16 to 2001-07-31), Ron Mcnamara sent 1 and received 278 emails, totalling 279 interactions. Top correspondents: [Doug Gilbert-Smith](people/doug-gilbert-smith) (1).",
+  "timeline": "- **2000-06-16** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ron-mcnamara",
+    "name": "Ron Mcnamara",
+    "email": "ron.mcnamara@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gray",
+  "type": "person",
+  "title": "\"\"Gray",
+  "compiled_truth": "\"\"Gray is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-17 to 2001-11-27), \"\"Gray sent 1 and received 15 emails, totalling 16 interactions. Top correspondents: [Jim Schwieger](people/jim-schwieger) (1), [Brian Redmond](people/brian-redmond) (1), [John Lavorato](people/john-lavorato) (1), [A  Martin](people/a-martin) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-05-17** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gray",
+    "name": "\"\"Gray",
+    "email": "\"\"gray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

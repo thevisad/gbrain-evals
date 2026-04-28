@@ -1,0 +1,14 @@
+{
+  "slug": "people/rjl9-pge",
+  "type": "person",
+  "title": "Rjl9",
+  "compiled_truth": "Rjl9 is an external contact at [PG&E](companies/pge). Over the corpus period (1999-09-24 to 2001-07-31), Rjl9 sent 12 and received 52 emails, totalling 64 interactions. Top correspondents: [Andy Bettwy](people/andy-bettwy-swgas) (12), [Bcragg](people/bcragg-gmssr) (12), [Bjeider](people/bjeider-ci) (12), [Burkee](people/burkee-cts) (12), [Bwood](people/bwood-energy) (12).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rjl9-pge",
+    "name": "Rjl9",
+    "email": "rjl9@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

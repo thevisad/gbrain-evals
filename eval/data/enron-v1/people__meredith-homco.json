@@ -1,0 +1,14 @@
+{
+  "slug": "people/meredith-homco",
+  "type": "person",
+  "title": "Meredith Homco",
+  "compiled_truth": "Meredith Homco is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-10 to 2002-04-24), Meredith Homco sent 1 and received 229 emails, totalling 230 interactions. Top correspondents: [Chris Germany](people/chris-germany) (1). Mailbox folders observed: memos.",
+  "timeline": "- **2001-01-10** | First recorded email in corpus\n- **2002-04-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/meredith-homco",
+    "name": "Meredith Homco",
+    "email": "meredith.homco@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

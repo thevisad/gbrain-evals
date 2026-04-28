@@ -1,0 +1,40 @@
+{
+  "slug": "companies/list",
+  "type": "company",
+  "title": "List",
+  "compiled_truth": "List is an external organization that appears in the Enron email corpus. Domain: list.com. Total email interactions with Enron: 274. Known contacts: 23 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (274 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/list",
+    "name": "List",
+    "employees": [
+      "people/asme-cei-section8-list",
+      "people/asme-cei0210-list",
+      "people/asme-cei0211-list",
+      "people/asme-pd0210-list",
+      "people/asme-pvrc-list",
+      "people/capitol-news-list",
+      "people/christen-list",
+      "people/customers-help-list",
+      "people/gasindex-list",
+      "people/iceuserslist-list",
+      "people/infobeat-list",
+      "people/list-list",
+      "people/mailer-list",
+      "people/mapquest-list",
+      "people/mgam-list",
+      "people/nastynikky-list",
+      "people/nikkyspecial-list",
+      "people/oasispostings-l-list",
+      "people/partypass-list",
+      "people/powerindex-list",
+      "people/rrga-l-list",
+      "people/sexxxmail-list",
+      "people/ws-i-list"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

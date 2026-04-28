@@ -1,0 +1,14 @@
+{
+  "slug": "people/anna-kirk",
+  "type": "person",
+  "title": "Anna Kirk",
+  "compiled_truth": "Anna Kirk is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-22 to 2001-08-28), Anna Kirk sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-08-22** | First recorded email in corpus\n- **2001-08-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anna-kirk",
+    "name": "Anna Kirk",
+    "email": "anna.kirk@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

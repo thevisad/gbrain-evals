@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-harris",
+  "type": "person",
+  "title": "Michael Harris",
+  "compiled_truth": "Michael Harris is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-14 to 2001-11-29), Michael Harris sent 3 and received 21 emails, totalling 24 interactions. Top correspondents: [Steven Kean](people/steven-kean) (1), [J  Kean](people/j-kean) (1), [Kenneth Lay](people/kenneth-lay) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-10-14** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-harris",
+    "name": "Michael Harris",
+    "email": "michael.harris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "meetings/dpl-meeting-on-thursday-2000-10",
+  "type": "meeting",
+  "title": "Meeting: Dpl Meeting On Thursday",
+  "compiled_truth": "Meeting: \"Dpl Meeting On Thursday\". Occurred 2000-10-25 through 2000-10-25 with 2 related emails. Participants included: [Benjamin Rogers](people/benjamin-rogers), [Chris Norris](people/chris-norris), [Dave Kellermeyer](people/dave-kellermeyer), [Don Miller](people/don-miller), [Gus Eghneim](people/gus-eghneim), [Jeffrey Keenan](people/jeffrey-keenan), [Jinsung Myung](people/jinsung-myung), [Jonathan Hoff](people/jonathan-hoff)....",
+  "timeline": "- **2000-10-25** | Meeting: dpl meeting on thursday\n- **2000-10-25** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/dpl-meeting-on-thursday-2000-10",
+    "attendees": [
+      "people/benjamin-rogers",
+      "people/chris-norris",
+      "people/dave-kellermeyer",
+      "people/don-miller",
+      "people/gus-eghneim",
+      "people/jeffrey-keenan",
+      "people/jinsung-myung",
+      "people/jonathan-hoff",
+      "people/lloyd-will",
+      "people/mike-miller",
+      "people/mitch-robinson",
+      "people/ross-newlin",
+      "people/stuart-zisman"
+    ],
+    "date": "2000-10-25"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/khatz-titanenergy",
+  "type": "person",
+  "title": "Khatz",
+  "compiled_truth": "Khatz is an external contact at [Titanenergy](companies/titanenergy). Over the corpus period (2000-09-20 to 2001-07-31), Khatz sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-09-20** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/khatz-titanenergy",
+    "name": "Khatz",
+    "email": "khatz@titanenergy.com",
+    "primary_affiliation": "companies/titanenergy"
+  }
+}

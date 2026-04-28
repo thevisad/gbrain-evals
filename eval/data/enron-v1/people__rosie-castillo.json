@@ -1,0 +1,14 @@
+{
+  "slug": "people/rosie-castillo",
+  "type": "person",
+  "title": "Rosie Castillo",
+  "compiled_truth": "Rosie Castillo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-24 to 2002-05-06), Rosie Castillo sent 1 and received 45 emails, totalling 46 interactions. Top correspondents: [Bill Brown](people/bill-brown) (1), [Greg Whalley](people/greg-whalley) (1), [Jeffrey Mcmahon](people/jeffrey-mcmahon) (1), [Szide](people/szide-bain) (1), [Mnunnelly](people/mnunnelly-baincap) (1).",
+  "timeline": "- **2000-03-24** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rosie-castillo",
+    "name": "Rosie Castillo",
+    "email": "rosie.castillo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/fangf-wharton",
+  "type": "person",
+  "title": "Fangf",
+  "compiled_truth": "Fangf is an external contact at [Wharton](companies/wharton). Over the corpus period (2001-03-12 to 2001-11-27), Fangf sent 2 and received 6 emails, totalling 8 interactions. Top correspondents: [Vkamins](people/vkamins) (1), [Piazzet](people/piazzet-wharton) (1), [Kunreuth](people/kunreuth-wharton) (1), [Kleindorfer](people/kleindorfer-wharton) (1), [Tconvery](people/tconvery-wharton) (1).",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fangf-wharton",
+    "name": "Fangf",
+    "email": "fangf@wharton.upenn.edu",
+    "primary_affiliation": "companies/wharton"
+  }
+}

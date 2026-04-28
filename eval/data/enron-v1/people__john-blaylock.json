@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-blaylock",
+  "type": "person",
+  "title": "John Blaylock",
+  "compiled_truth": "John Blaylock is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-21), John Blaylock sent 1 and received 26 emails, totalling 27 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-blaylock",
+    "name": "John Blaylock",
+    "email": "john.blaylock@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

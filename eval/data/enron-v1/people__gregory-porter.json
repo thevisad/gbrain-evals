@@ -1,0 +1,14 @@
+{
+  "slug": "people/gregory-porter",
+  "type": "person",
+  "title": "Gregory Porter",
+  "compiled_truth": "Gregory Porter is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-12 to 2002-02-14), Gregory Porter sent 16 and received 96 emails, totalling 112 interactions. Top correspondents: [Bill Rapp](people/bill-rapp) (15), [Maria Pavlou](people/maria-pavlou) (5), [Drew Fossum](people/drew-fossum) (3), [Steven Harris](people/steven-harris) (2), [Kimberly Watson](people/kimberly-watson) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-07-12** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gregory-porter",
+    "name": "Gregory Porter",
+    "email": "gregory.porter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

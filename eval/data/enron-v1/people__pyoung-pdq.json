@@ -1,0 +1,14 @@
+{
+  "slug": "people/pyoung-pdq",
+  "type": "person",
+  "title": "Pyoung",
+  "compiled_truth": "Pyoung is an external contact at [Pdq](companies/pdq). Over the corpus period (2000-02-18 to 2000-12-05), Pyoung sent 46 and received 48 emails, totalling 94 interactions. Top correspondents: [Tana Jones](people/tana-jones) (46), [Jefree](people/jefree-pdq) (4), [Sherrscher](people/sherrscher-belmontvillage) (3), [Mabrown](people/mabrown-ev1) (3), [Swkeystone](people/swkeystone-aol) (3).",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2000-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pyoung-pdq",
+    "name": "Pyoung",
+    "email": "pyoung@pdq.net",
+    "primary_affiliation": "companies/pdq"
+  }
+}

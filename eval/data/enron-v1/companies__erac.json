@@ -1,0 +1,20 @@
+{
+  "slug": "companies/erac",
+  "type": "company",
+  "title": "Erac",
+  "compiled_truth": "Erac is an external organization that appears in the Enron email corpus. Domain: erac.com. Total email interactions with Enron: 661. Known contacts: 3 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (661 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/erac",
+    "name": "Erac",
+    "employees": [
+      "people/lbrown1-erac",
+      "people/nmann-erac",
+      "people/rparker-erac"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

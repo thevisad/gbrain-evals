@@ -1,0 +1,14 @@
+{
+  "slug": "people/kulvinder-fowler",
+  "type": "person",
+  "title": "Kulvinder Fowler",
+  "compiled_truth": "Kulvinder Fowler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-17 to 2002-06-21), Kulvinder Fowler sent 19 and received 167 emails, totalling 186 interactions. Top correspondents: [Hal Mckinney](people/hal-mckinney) (11), [Scott Palmer](people/scott-palmer) (11), [Dayem Khandker](people/dayem-khandker) (7), [L  Kelly](people/l-kelly) (7), [Matthew Lenhart](people/matthew-lenhart) (7). Mailbox folders observed: deleted_items, inbox, to_do.",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kulvinder-fowler",
+    "name": "Kulvinder Fowler",
+    "email": "kulvinder.fowler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

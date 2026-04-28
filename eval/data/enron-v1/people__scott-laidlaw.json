@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-laidlaw",
+  "type": "person",
+  "title": "Scott Laidlaw",
+  "compiled_truth": "Scott Laidlaw is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-09-28), Scott Laidlaw sent 15 and received 47 emails, totalling 62 interactions. Top correspondents: [Kay Mann](people/kay-mann) (12), [Dan Shultz](people/dan-shultz) (10), [Matthew Tezyk](people/matthew-tezyk) (7), [Ben Jacoby](people/ben-jacoby) (7), [Chris Booth](people/chris-booth) (6).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-laidlaw",
+    "name": "Scott Laidlaw",
+    "email": "scott.laidlaw@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

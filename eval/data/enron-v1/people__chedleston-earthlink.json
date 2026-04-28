@@ -1,0 +1,14 @@
+{
+  "slug": "people/chedleston-earthlink",
+  "type": "person",
+  "title": "Chedleston",
+  "compiled_truth": "Chedleston is an external contact at [Earthlink](companies/earthlink). Over the corpus period (1999-11-16 to 2000-10-15), Chedleston sent 1 and received 5 emails, totalling 6 interactions. Top correspondents: [Madeleinet](people/madeleinet-earthlink) (1), [Jdasovic](people/jdasovic) (1), [Lnewman](people/lnewman-elanpharma) (1), [Lhom](people/lhom-hotmail) (1), [Pat Scatena](people/pat-scatena-ccm) (1).",
+  "timeline": "- **1999-11-16** | First recorded email in corpus\n- **2000-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chedleston-earthlink",
+    "name": "Chedleston",
+    "email": "chedleston@earthlink.net",
+    "primary_affiliation": "companies/earthlink"
+  }
+}

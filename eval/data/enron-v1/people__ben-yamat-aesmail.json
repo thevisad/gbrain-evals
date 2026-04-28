@@ -1,0 +1,14 @@
+{
+  "slug": "people/ben-yamat-aesmail",
+  "type": "person",
+  "title": "Ben Yamat",
+  "compiled_truth": "Ben Yamat is an external contact at [Aesmail](companies/aesmail). Over the corpus period (2002-01-25 to 2002-01-29), Ben Yamat sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-25** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ben-yamat-aesmail",
+    "name": "Ben Yamat",
+    "email": "ben.yamat@aesmail.com",
+    "primary_affiliation": "companies/aesmail"
+  }
+}

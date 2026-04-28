@@ -1,0 +1,14 @@
+{
+  "slug": "people/jkradin-marathon-com",
+  "type": "person",
+  "title": "Jkradin",
+  "compiled_truth": "Jkradin is an external contact at [Marathon-com](companies/marathon-com). Over the corpus period (2000-11-14 to 2001-07-31), Jkradin sent 0 and received 113 emails, totalling 113 interactions.",
+  "timeline": "- **2000-11-14** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jkradin-marathon-com",
+    "name": "Jkradin",
+    "email": "jkradin@marathon-com.com",
+    "primary_affiliation": "companies/marathon-com"
+  }
+}

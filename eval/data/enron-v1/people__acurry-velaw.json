@@ -1,0 +1,14 @@
+{
+  "slug": "people/acurry-velaw",
+  "type": "person",
+  "title": "Acurry",
+  "compiled_truth": "Acurry is an external contact at [Vinson & Elkins](companies/vinson-elkins). Over the corpus period (2000-04-10 to 2000-11-13), Acurry sent 6 and received 64 emails, totalling 70 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (6), [Andrea V Reed](people/andrea-v-reed) (5), [Anne C Koehler](people/anne-c-koehler) (5), [Dkeyes](people/dkeyes-velaw) (5), [Ehalbert](people/ehalbert-velaw) (3).",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2000-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/acurry-velaw",
+    "name": "Acurry",
+    "email": "acurry@velaw.com",
+    "primary_affiliation": "companies/vinson-elkins"
+  }
+}

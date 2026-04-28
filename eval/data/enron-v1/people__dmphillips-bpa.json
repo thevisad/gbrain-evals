@@ -1,0 +1,14 @@
+{
+  "slug": "people/dmphillips-bpa",
+  "type": "person",
+  "title": "Dmphillips",
+  "compiled_truth": "Dmphillips is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2001-03-11 to 2001-11-20), Dmphillips sent 1 and received 7 emails, totalling 8 interactions. Top correspondents: [Isas](people/isas-wscc) (1).",
+  "timeline": "- **2001-03-11** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dmphillips-bpa",
+    "name": "Dmphillips",
+    "email": "dmphillips@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/scarey-isda",
+  "type": "person",
+  "title": "Scarey",
+  "compiled_truth": "Scarey is an external contact at [Isda](companies/isda). Over the corpus period (2000-03-30 to 2002-02-04), Scarey sent 66 and received 76 emails, totalling 142 interactions. Top correspondents: [Usregcomm](people/usregcomm-isda) (40), [Mark E Haedicke](people/mark-e-haedicke) (11), [ Taylor](people/taylor) (11), [Rainslie](people/rainslie-isda) (10), [Fhampton](people/fhampton-bondmarkets) (8).",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scarey-isda",
+    "name": "Scarey",
+    "email": "scarey@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lynnj-iname",
+  "type": "person",
+  "title": "Lynnj",
+  "compiled_truth": "Lynnj is an external contact at [Iname](companies/iname). Over the corpus period (2000-03-22 to 2001-05-16), Lynnj sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-03-22** | First recorded email in corpus\n- **2001-05-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lynnj-iname",
+    "name": "Lynnj",
+    "email": "lynnj@iname.com",
+    "primary_affiliation": "companies/iname"
+  }
+}

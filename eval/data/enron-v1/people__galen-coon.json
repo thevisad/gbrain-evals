@@ -1,0 +1,14 @@
+{
+  "slug": "people/galen-coon",
+  "type": "person",
+  "title": "Galen Coon",
+  "compiled_truth": "Galen Coon is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-15), Galen Coon sent 3 and received 103 emails, totalling 106 interactions. Top correspondents: [Sheila Nacey](people/sheila-nacey) (2), [Teb Lokey](people/teb-lokey) (2), [Shelley Corman](people/shelley-corman) (1), [Rachel Cady](people/rachel-cady) (1), [James Studebaker](people/james-studebaker) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/galen-coon",
+    "name": "Galen Coon",
+    "email": "galen.coon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

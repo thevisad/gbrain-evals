@@ -1,0 +1,14 @@
+{
+  "slug": "people/stacy-hardy",
+  "type": "person",
+  "title": "Stacy Hardy",
+  "compiled_truth": "Stacy Hardy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2002-02-13), Stacy Hardy sent 0 and received 110 emails, totalling 110 interactions.",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stacy-hardy",
+    "name": "Stacy Hardy",
+    "email": "stacy.hardy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

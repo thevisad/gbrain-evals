@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-wasaff",
+  "type": "person",
+  "title": "George Wasaff",
+  "compiled_truth": "George Wasaff is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-20 to 2002-05-06), George Wasaff sent 17 and received 209 emails, totalling 226 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (4), [Fernley Dyson](people/fernley-dyson) (3), [Sam Kemp](people/sam-kemp) (3), [Tracy Ramsey](people/tracy-ramsey) (3), [Derryl Cleaveland](people/derryl-cleaveland) (3). Mailbox folders observed: _americas, deleted_items, inbox, read.",
+  "timeline": "- **1999-10-20** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-wasaff",
+    "name": "George Wasaff",
+    "email": "george.wasaff@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

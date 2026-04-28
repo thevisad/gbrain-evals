@@ -1,0 +1,14 @@
+{
+  "slug": "people/jsteffes",
+  "type": "person",
+  "title": "Jsteffes",
+  "compiled_truth": "Jsteffes is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-04-02), Jsteffes sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-04-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jsteffes",
+    "name": "Jsteffes",
+    "email": "jsteffes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

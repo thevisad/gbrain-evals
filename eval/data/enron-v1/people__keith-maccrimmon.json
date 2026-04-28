@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-maccrimmon",
+  "type": "person",
+  "title": "Keith Maccrimmon",
+  "compiled_truth": "Keith Maccrimmon is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-05-09), Keith Maccrimmon sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-maccrimmon",
+    "name": "Keith Maccrimmon",
+    "email": "keith.maccrimmon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

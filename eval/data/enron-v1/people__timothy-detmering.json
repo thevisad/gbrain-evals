@@ -1,0 +1,14 @@
+{
+  "slug": "people/timothy-detmering",
+  "type": "person",
+  "title": "Timothy Detmering",
+  "compiled_truth": "Timothy Detmering is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-03), Timothy Detmering sent 1 and received 93 emails, totalling 94 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/timothy-detmering",
+    "name": "Timothy Detmering",
+    "email": "timothy.detmering@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

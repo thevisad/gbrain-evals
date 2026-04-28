@@ -1,0 +1,14 @@
+{
+  "slug": "people/jones-roger",
+  "type": "person",
+  "title": "Jones Roger",
+  "compiled_truth": "Jones Roger is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-25 to 2002-03-25), Jones Roger sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2002-02-25** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jones-roger",
+    "name": "Jones Roger",
+    "email": "jones.roger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

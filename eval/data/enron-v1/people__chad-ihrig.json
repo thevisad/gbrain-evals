@@ -1,0 +1,14 @@
+{
+  "slug": "people/chad-ihrig",
+  "type": "person",
+  "title": "Chad Ihrig",
+  "compiled_truth": "Chad Ihrig is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-02 to 2001-11-21), Chad Ihrig sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2001-04-02** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chad-ihrig",
+    "name": "Chad Ihrig",
+    "email": "chad.ihrig@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

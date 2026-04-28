@@ -1,0 +1,14 @@
+{
+  "slug": "people/yuan-tian",
+  "type": "person",
+  "title": "Yuan Tian",
+  "compiled_truth": "Yuan Tian is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-15 to 2002-06-25), Yuan Tian sent 5 and received 169 emails, totalling 174 interactions. Top correspondents: [Eric Boyt](people/eric-boyt) (4), [Joe Parks](people/joe-parks) (3), [Louis Dicarlo](people/louis-dicarlo) (2), [Ed Mcmichael](people/ed-mcmichael) (2), [Phil Polsky](people/phil-polsky) (2). Mailbox folders observed: deleted_items, to_do.",
+  "timeline": "- **2000-09-15** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yuan-tian",
+    "name": "Yuan Tian",
+    "email": "yuan.tian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

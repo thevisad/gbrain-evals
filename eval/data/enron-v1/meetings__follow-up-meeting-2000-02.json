@@ -1,0 +1,27 @@
+{
+  "slug": "meetings/follow-up-meeting-2000-02",
+  "type": "meeting",
+  "title": "Meeting: Follow Up Meeting",
+  "compiled_truth": "Meeting: \"Follow Up Meeting\". Occurred 2000-02-17 through 2000-02-17 with 3 related emails. Participants included: [Alexus Rhone](people/alexus-rhone), [Daren Farmer](people/daren-farmer), [Jennifer Jordan](people/jennifer-jordan), [Kim Melodick](people/kim-melodick), [Lisa Csikos](people/lisa-csikos), [Mary Smith](people/mary-smith), [Norma Villarreal](people/norma-villarreal), [Pamela Chambers](people/pamela-chambers)....",
+  "timeline": "- **2000-02-17** | Meeting: follow up meeting\n- **2000-02-17** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/follow-up-meeting-2000-02",
+    "attendees": [
+      "people/alexus-rhone",
+      "people/daren-farmer",
+      "people/jennifer-jordan",
+      "people/kim-melodick",
+      "people/lisa-csikos",
+      "people/mary-smith",
+      "people/norma-villarreal",
+      "people/pamela-chambers",
+      "people/pat-clynes",
+      "people/ragayle-pellum",
+      "people/rita-wynne",
+      "people/steve-venturatos",
+      "people/yvette-connevey"
+    ],
+    "date": "2000-02-17"
+  }
+}

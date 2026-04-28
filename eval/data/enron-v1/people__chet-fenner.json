@@ -1,0 +1,14 @@
+{
+  "slug": "people/chet-fenner",
+  "type": "person",
+  "title": "Chet Fenner",
+  "compiled_truth": "Chet Fenner is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-10 to 2002-06-19), Chet Fenner sent 0 and received 79 emails, totalling 79 interactions.",
+  "timeline": "- **2001-05-10** | First recorded email in corpus\n- **2002-06-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chet-fenner",
+    "name": "Chet Fenner",
+    "email": "chet.fenner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

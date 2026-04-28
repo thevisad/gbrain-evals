@@ -1,0 +1,14 @@
+{
+  "slug": "people/dcagle-mariner-energy",
+  "type": "person",
+  "title": "Dcagle",
+  "compiled_truth": "Dcagle is an external contact at [Mariner-energy](companies/mariner-energy). Over the corpus period (2001-08-20 to 2002-01-25), Dcagle sent 18 and received 1 emails, totalling 19 interactions. Top correspondents: [Jesus Melendrez](people/jesus-melendrez) (18), [Rick Buy](people/rick-buy) (18), [Allan Keel](people/allan-keel) (15), [D  Josey](people/d-josey) (13), [Richard Clark](people/richard-clark) (13).",
+  "timeline": "- **2001-08-20** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dcagle-mariner-energy",
+    "name": "Dcagle",
+    "email": "dcagle@mariner-energy.com",
+    "primary_affiliation": "companies/mariner-energy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/katherine-brown",
+  "type": "person",
+  "title": "Katherine Brown",
+  "compiled_truth": "Katherine Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2001-02-20), Katherine Brown sent 48 and received 121 emails, totalling 169 interactions. Top correspondents: [Cindy Stark](people/cindy-stark) (23), [Sherri Sera](people/sherri-sera) (23), [Steven Kean](people/steven-kean) (20), [Maureen Mcvicker](people/maureen-mcvicker) (20), [James Bannantine](people/james-bannantine) (19). Mailbox folders observed: _sent_mail, sent.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2001-02-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/katherine-brown",
+    "name": "Katherine Brown",
+    "email": "katherine.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

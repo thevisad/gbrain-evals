@@ -1,0 +1,14 @@
+{
+  "slug": "people/william-stuart",
+  "type": "person",
+  "title": "William Stuart",
+  "compiled_truth": "William Stuart is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-04-30), William Stuart sent 10 and received 217 emails, totalling 227 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (7), [Jonathan Mckay](people/jonathan-mckay) (2), [Justin Rostant](people/justin-rostant) (2), [Carlos Alatorre](people/carlos-alatorre) (2), [David Forster](people/david-forster) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/william-stuart",
+    "name": "William Stuart",
+    "email": "william.stuart@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

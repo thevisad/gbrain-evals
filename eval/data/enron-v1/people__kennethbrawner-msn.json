@@ -1,0 +1,14 @@
+{
+  "slug": "people/kennethbrawner-msn",
+  "type": "person",
+  "title": "Kennethbrawner",
+  "compiled_truth": "Kennethbrawner is an external contact at [MSN](companies/msn). Over the corpus period (2000-11-10 to 2001-10-12), Kennethbrawner sent 0 and received 33 emails, totalling 33 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kennethbrawner-msn",
+    "name": "Kennethbrawner",
+    "email": "kennethbrawner@msn.com",
+    "primary_affiliation": "companies/msn"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/alan-blarcum",
+  "type": "person",
+  "title": "Alan Blarcum",
+  "compiled_truth": "Alan Blarcum is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2000-04-17), Alan Blarcum sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2000-04-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alan-blarcum",
+    "name": "Alan Blarcum",
+    "email": "alan.blarcum@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

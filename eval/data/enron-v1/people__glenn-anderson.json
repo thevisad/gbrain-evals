@@ -1,0 +1,14 @@
+{
+  "slug": "people/glenn-anderson",
+  "type": "person",
+  "title": "Glenn Anderson",
+  "compiled_truth": "Glenn Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2001-07-26), Glenn Anderson sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2001-07-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/glenn-anderson",
+    "name": "Glenn Anderson",
+    "email": "glenn.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

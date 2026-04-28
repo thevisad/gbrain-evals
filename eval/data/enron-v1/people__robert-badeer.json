@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-badeer",
+  "type": "person",
+  "title": "Robert Badeer",
+  "compiled_truth": "Robert Badeer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-10 to 2002-05-22), Robert Badeer sent 89 and received 1332 emails, totalling 1421 interactions. Top correspondents: [Tim Belden](people/tim-belden) (11), [Jeff Dasovich](people/jeff-dasovich) (5), [Susan Mara](people/susan-mara) (4), [David Parquet](people/david-parquet) (4), [Matt Motley](people/matt-motley) (4). Mailbox folders observed: _sent_mail, contacts, inbox, outbox, sent_items.",
+  "timeline": "- **2000-01-10** | First recorded email in corpus\n- **2002-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-badeer",
+    "name": "Robert Badeer",
+    "email": "robert.badeer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

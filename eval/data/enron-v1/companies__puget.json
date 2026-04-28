@@ -1,0 +1,42 @@
+{
+  "slug": "companies/puget",
+  "type": "company",
+  "title": "Puget",
+  "compiled_truth": "Puget is an external organization that appears in the Enron email corpus. Domain: puget.com. Total email interactions with Enron: 273. Known contacts: 25 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (273 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/puget",
+    "name": "Puget",
+    "employees": [
+      "people/bharsh-puget",
+      "people/bmoret-puget",
+      "people/cmcgra-puget",
+      "people/cnelso-puget",
+      "people/creese-puget",
+      "people/cridin-puget",
+      "people/dbarre-puget",
+      "people/dbrack-puget",
+      "people/dfaulk-puget",
+      "people/dhoff-puget",
+      "people/gastrans-puget",
+      "people/gmarsh-puget",
+      "people/investor-puget",
+      "people/jlewis-puget",
+      "people/jquint-puget",
+      "people/jspell-puget",
+      "people/kfinic-puget",
+      "people/kharri-puget",
+      "people/klambe-puget",
+      "people/lreed-puget",
+      "people/mhunte-puget",
+      "people/rhawle-puget",
+      "people/rneate-puget",
+      "people/smorus-puget",
+      "people/wrobin-puget"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

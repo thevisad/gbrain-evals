@@ -1,0 +1,14 @@
+{
+  "slug": "people/francis-roemer",
+  "type": "person",
+  "title": "Francis' 'Roemer",
+  "compiled_truth": "Francis' 'Roemer is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-13 to 2002-03-20), Francis' 'Roemer sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2002-03-13** | First recorded email in corpus\n- **2002-03-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/francis-roemer",
+    "name": "Francis' 'Roemer",
+    "email": "francis'.'roemer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tdizona-coral-energy",
+  "type": "person",
+  "title": "Tdizona",
+  "compiled_truth": "Tdizona is an external contact at [Coral-energy](companies/coral-energy). Over the corpus period (2000-10-27 to 2001-05-11), Tdizona sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tdizona-coral-energy",
+    "name": "Tdizona",
+    "email": "tdizona@coral-energy.com",
+    "primary_affiliation": "companies/coral-energy"
+  }
+}

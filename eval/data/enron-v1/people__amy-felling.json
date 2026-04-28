@@ -1,0 +1,14 @@
+{
+  "slug": "people/amy-felling",
+  "type": "person",
+  "title": "Amy Felling",
+  "compiled_truth": "Amy Felling is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-12-12), Amy Felling sent 12 and received 95 emails, totalling 107 interactions. Top correspondents: [T  Lucci](people/t-lucci) (5), [Theresa Staab](people/theresa-staab) (5), [Mark Whitt](people/mark-whitt) (3), [ Cody](people/cody) (2), [Tyrell Harrison](people/tyrell-harrison) (2). Mailbox folders observed: deleted_items, humor, inbox, personal.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amy-felling",
+    "name": "Amy Felling",
+    "email": "amy.felling@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

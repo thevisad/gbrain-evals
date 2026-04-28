@@ -1,0 +1,14 @@
+{
+  "slug": "people/y-gonzalez",
+  "type": "person",
+  "title": "Y  Gonzalez",
+  "compiled_truth": "Y  Gonzalez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-08 to 2001-10-15), Y  Gonzalez sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/y-gonzalez",
+    "name": "Y  Gonzalez",
+    "email": "y..gonzalez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

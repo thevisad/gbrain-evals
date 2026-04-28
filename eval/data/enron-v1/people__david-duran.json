@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-duran",
+  "type": "person",
+  "title": "David Duran",
+  "compiled_truth": "David Duran is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-14 to 2002-01-31), David Duran sent 7 and received 274 emails, totalling 281 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (4), [M  Presto](people/m-presto) (3), [David Forster](people/david-forster) (1), [F  Calger](people/f-calger) (1), [Brett Wiggs](people/brett-wiggs) (1). Mailbox folders observed: _americas, deleted_items.",
+  "timeline": "- **2000-12-14** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-duran",
+    "name": "David Duran",
+    "email": "david.duran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

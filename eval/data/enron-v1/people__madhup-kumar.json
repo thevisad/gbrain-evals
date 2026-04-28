@@ -1,0 +1,14 @@
+{
+  "slug": "people/madhup-kumar",
+  "type": "person",
+  "title": "Madhup Kumar",
+  "compiled_truth": "Madhup Kumar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2001-11-28), Madhup Kumar sent 8 and received 233 emails, totalling 241 interactions. Top correspondents: [Lloyd Will](people/lloyd-will) (6), [Steve Nat](people/steve-nat) (6), [Debra Bailey](people/debra-bailey) (3), [Kevin Presto](people/kevin-presto) (3), [John Lavorato](people/john-lavorato) (3). Mailbox folders observed: _americas, calendar, deleted_items, inbox, meetings, sent_items.",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/madhup-kumar",
+    "name": "Madhup Kumar",
+    "email": "madhup.kumar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

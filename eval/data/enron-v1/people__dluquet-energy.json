@@ -1,0 +1,14 @@
+{
+  "slug": "people/dluquet-energy",
+  "type": "person",
+  "title": "Dluquet",
+  "compiled_truth": "Dluquet is an external contact at [Energy](companies/energy). Over the corpus period (2000-11-11 to 2000-11-11), Dluquet sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dluquet-energy",
+    "name": "Dluquet",
+    "email": "dluquet@energy.twc.com",
+    "primary_affiliation": "companies/energy"
+  }
+}

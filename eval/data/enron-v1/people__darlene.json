@@ -1,0 +1,14 @@
+{
+  "slug": "people/darlene",
+  "type": "person",
+  "title": " Darlene",
+  "compiled_truth": "Darlene is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-06 to 2001-10-12),  Darlene sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-06** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darlene",
+    "name": " Darlene",
+    "email": ".darlene@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

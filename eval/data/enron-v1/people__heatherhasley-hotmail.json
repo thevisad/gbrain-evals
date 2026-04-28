@@ -1,0 +1,14 @@
+{
+  "slug": "people/heatherhasley-hotmail",
+  "type": "person",
+  "title": "Heatherhasley",
+  "compiled_truth": "Heatherhasley is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-09-05 to 2001-03-23), Heatherhasley sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus\n- **2001-03-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heatherhasley-hotmail",
+    "name": "Heatherhasley",
+    "email": "heatherhasley@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

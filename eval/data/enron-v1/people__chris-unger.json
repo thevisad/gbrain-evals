@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-unger",
+  "type": "person",
+  "title": "Chris Unger",
+  "compiled_truth": "Chris Unger is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-13 to 2002-02-06), Chris Unger sent 1 and received 21 emails, totalling 22 interactions. Top correspondents: [Chelsea Bardal](people/chelsea-bardal) (1), [Chad Bruce](people/chad-bruce) (1), [Kristen Clause](people/kristen-clause) (1), [Ian Cooke](people/ian-cooke) (1), [F Cooper](people/f-cooper) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-08-13** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-unger",
+    "name": "Chris Unger",
+    "email": "chris.unger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

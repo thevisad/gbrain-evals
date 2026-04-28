@@ -1,0 +1,14 @@
+{
+  "slug": "people/mrmslane-aol",
+  "type": "person",
+  "title": "Mrmslane",
+  "compiled_truth": "Mrmslane is an external contact at [AOL](companies/aol). Over the corpus period (1980-01-01 to 2001-11-30), Mrmslane sent 4 and received 36 emails, totalling 40 interactions. Top correspondents: [Dmlmdphd](people/dmlmdphd-aol) (1), [Jimpar](people/jimpar-bellatlantic) (1), [Lisafanning](people/lisafanning-homecomings) (1), [Lparker](people/lparker-jump) (1), [Rwbaird](people/rwbaird-io) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mrmslane-aol",
+    "name": "Mrmslane",
+    "email": "mrmslane@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

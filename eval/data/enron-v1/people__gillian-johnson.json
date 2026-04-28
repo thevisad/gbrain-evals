@@ -1,0 +1,14 @@
+{
+  "slug": "people/gillian-johnson",
+  "type": "person",
+  "title": "Gillian Johnson",
+  "compiled_truth": "Gillian Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-03 to 2001-12-03), Gillian Johnson sent 12 and received 67 emails, totalling 79 interactions. Top correspondents: [Tana Jones](people/tana-jones) (7), [Michele Raque](people/michele-raque) (4), [Richard Ring](people/richard-ring) (4), [Liqun Pan](people/liqun-pan) (3), [Leslie Hansen](people/leslie-hansen) (2). Mailbox folders observed: eesiisopjm.",
+  "timeline": "- **2000-05-03** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gillian-johnson",
+    "name": "Gillian Johnson",
+    "email": "gillian.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

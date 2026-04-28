@@ -1,0 +1,14 @@
+{
+  "slug": "people/pulaski-eric",
+  "type": "person",
+  "title": "Pulaski Eric",
+  "compiled_truth": "Pulaski Eric is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-17 to 2001-08-20), Pulaski Eric sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-07-17** | First recorded email in corpus\n- **2001-08-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pulaski-eric",
+    "name": "Pulaski Eric",
+    "email": "pulaski.eric@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

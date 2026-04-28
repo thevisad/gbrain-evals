@@ -1,0 +1,14 @@
+{
+  "slug": "people/ted-ryther",
+  "type": "person",
+  "title": "Ted Ryther",
+  "compiled_truth": "Ted Ryther is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-09 to 2001-12-05), Ted Ryther sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **1999-08-09** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ted-ryther",
+    "name": "Ted Ryther",
+    "email": "ted.ryther@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

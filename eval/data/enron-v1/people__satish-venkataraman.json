@@ -1,0 +1,14 @@
+{
+  "slug": "people/satish-venkataraman",
+  "type": "person",
+  "title": "Satish Venkataraman",
+  "compiled_truth": "Satish Venkataraman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-12 to 2001-10-19), Satish Venkataraman sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2000-07-12** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/satish-venkataraman",
+    "name": "Satish Venkataraman",
+    "email": "satish.venkataraman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

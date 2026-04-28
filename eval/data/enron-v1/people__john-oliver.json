@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-oliver",
+  "type": "person",
+  "title": "John Oliver",
+  "compiled_truth": "John Oliver is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-16 to 2001-11-19), John Oliver sent 2 and received 20 emails, totalling 22 interactions. Top correspondents: [Lisa Jacobson](people/lisa-jacobson) (2), [Louis Redshaw](people/louis-redshaw) (2), [Diana Profir](people/diana-profir) (2), [Dan Badger](people/dan-badger) (2), [Mustafa Hussain](people/mustafa-hussain) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-11-16** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-oliver",
+    "name": "John Oliver",
+    "email": "john.oliver@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jamjohnson-dttus",
+  "type": "person",
+  "title": "Jamjohnson",
+  "compiled_truth": "Jamjohnson is an external contact at [Dttus](companies/dttus). Over the corpus period (2000-05-18 to 2000-09-18), Jamjohnson sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jamjohnson-dttus",
+    "name": "Jamjohnson",
+    "email": "jamjohnson@dttus.com",
+    "primary_affiliation": "companies/dttus"
+  }
+}

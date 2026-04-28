@@ -1,0 +1,14 @@
+{
+  "slug": "people/terry-donovan",
+  "type": "person",
+  "title": "Terry Donovan",
+  "compiled_truth": "Terry Donovan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2002-02-22), Terry Donovan sent 1 and received 46 emails, totalling 47 interactions. Top correspondents: [Jeffrey Hodge](people/jeffrey-hodge) (1).",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2002-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terry-donovan",
+    "name": "Terry Donovan",
+    "email": "terry.donovan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

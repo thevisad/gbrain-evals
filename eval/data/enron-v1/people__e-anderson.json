@@ -1,0 +1,14 @@
+{
+  "slug": "people/e-anderson",
+  "type": "person",
+  "title": "E  Anderson",
+  "compiled_truth": "E  Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-08 to 2002-03-25), E  Anderson sent 10 and received 127 emails, totalling 137 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (9), [Ellis Stern](people/ellis-stern) (6), [Raetta Zadow](people/raetta-zadow) (3), [Rick Dietz](people/rick-dietz) (3), [Jodie Floyd](people/jodie-floyd) (3). Mailbox folders observed: acctg___customer_issues_on_billing, acctg___measurement_issues, deleted_items, inbox, tw.",
+  "timeline": "- **2001-06-08** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/e-anderson",
+    "name": "E  Anderson",
+    "email": "e..anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

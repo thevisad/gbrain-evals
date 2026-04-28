@@ -1,0 +1,14 @@
+{
+  "slug": "people/alisa-christensen",
+  "type": "person",
+  "title": "Alisa Christensen",
+  "compiled_truth": "Alisa Christensen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2001-11-12), Alisa Christensen sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alisa-christensen",
+    "name": "Alisa Christensen",
+    "email": "alisa.christensen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

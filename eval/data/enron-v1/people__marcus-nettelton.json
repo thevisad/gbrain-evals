@@ -1,0 +1,14 @@
+{
+  "slug": "people/marcus-nettelton",
+  "type": "person",
+  "title": "Marcus Nettelton",
+  "compiled_truth": "Marcus Nettelton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-13 to 2002-02-07), Marcus Nettelton sent 156 and received 864 emails, totalling 1020 interactions. Top correspondents: [Tana Jones](people/tana-jones) (81), [Elizabeth Sager](people/elizabeth-sager) (42), [Mark Taylor](people/mark-taylor) (15), [L  Nicolay](people/l-nicolay) (9), [D  Steffes](people/d-steffes) (9). Mailbox folders observed: archive, deleted_items, important_information, inbox, power.",
+  "timeline": "- **2000-07-13** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marcus-nettelton",
+    "name": "Marcus Nettelton",
+    "email": "marcus.nettelton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

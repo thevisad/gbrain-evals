@@ -1,0 +1,14 @@
+{
+  "slug": "people/melanie-facundo",
+  "type": "person",
+  "title": "Melanie Facundo",
+  "compiled_truth": "Melanie Facundo is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-12-03), Melanie Facundo sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melanie-facundo",
+    "name": "Melanie Facundo",
+    "email": "melanie.facundo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

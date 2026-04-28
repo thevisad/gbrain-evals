@@ -1,0 +1,14 @@
+{
+  "slug": "people/alex-hsieh",
+  "type": "person",
+  "title": "Alex Hsieh",
+  "compiled_truth": "Alex Hsieh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-10-19), Alex Hsieh sent 1 and received 14 emails, totalling 15 interactions. Top correspondents: [Shawn Calloway](people/shawn-calloway) (1).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alex-hsieh",
+    "name": "Alex Hsieh",
+    "email": "alex.hsieh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gina-calderon",
+  "type": "person",
+  "title": "Gina Calderon",
+  "compiled_truth": "Gina Calderon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2001-11-30), Gina Calderon sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gina-calderon",
+    "name": "Gina Calderon",
+    "email": "gina.calderon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

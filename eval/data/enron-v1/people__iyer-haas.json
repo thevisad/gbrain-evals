@@ -1,0 +1,14 @@
+{
+  "slug": "people/iyer-haas",
+  "type": "person",
+  "title": "Iyer",
+  "compiled_truth": "Iyer is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2001-10-22), Iyer sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/iyer-haas",
+    "name": "Iyer",
+    "email": "iyer@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

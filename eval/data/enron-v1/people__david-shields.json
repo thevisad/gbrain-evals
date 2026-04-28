@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-shields",
+  "type": "person",
+  "title": "David Shields",
+  "compiled_truth": "David Shields is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-26), David Shields sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-shields",
+    "name": "David Shields",
+    "email": "david.shields@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

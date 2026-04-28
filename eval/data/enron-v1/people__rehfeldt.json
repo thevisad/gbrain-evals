@@ -1,0 +1,14 @@
+{
+  "slug": "people/rehfeldt",
+  "type": "person",
+  "title": "Rehfeldt",
+  "compiled_truth": "Rehfeldt is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-14 to 2002-01-14), Rehfeldt sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rehfeldt",
+    "name": "Rehfeldt",
+    "email": "rehfeldt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

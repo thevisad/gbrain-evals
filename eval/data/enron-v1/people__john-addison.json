@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-addison",
+  "type": "person",
+  "title": "John Addison",
+  "compiled_truth": "John Addison is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-11-09), John Addison sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-addison",
+    "name": "John Addison",
+    "email": "john.addison@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

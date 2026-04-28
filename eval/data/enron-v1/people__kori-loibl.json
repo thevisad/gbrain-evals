@@ -1,0 +1,14 @@
+{
+  "slug": "people/kori-loibl",
+  "type": "person",
+  "title": "Kori Loibl",
+  "compiled_truth": "Kori Loibl is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-05-13), Kori Loibl sent 22 and received 463 emails, totalling 485 interactions. Top correspondents: [Susan Scott](people/susan-scott) (13), [Stephanie Sever](people/stephanie-sever) (10), [Sherry Dawson](people/sherry-dawson) (8), [Alicia Perkins](people/alicia-perkins) (8), [Errol Mclaughlin](people/errol-mclaughlin) (7). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kori-loibl",
+    "name": "Kori Loibl",
+    "email": "kori.loibl@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

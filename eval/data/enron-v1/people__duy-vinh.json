@@ -1,0 +1,14 @@
+{
+  "slug": "people/duy-vinh",
+  "type": "person",
+  "title": "Duy Vinh",
+  "compiled_truth": "Duy Vinh is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-29 to 2001-09-24), Duy Vinh sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-05-29** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/duy-vinh",
+    "name": "Duy Vinh",
+    "email": "duy.vinh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

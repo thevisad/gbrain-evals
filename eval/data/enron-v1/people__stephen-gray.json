@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-gray",
+  "type": "person",
+  "title": "Stephen Gray",
+  "compiled_truth": "Stephen Gray is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2000-12-22), Stephen Gray sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2000-12-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-gray",
+    "name": "Stephen Gray",
+    "email": "stephen.gray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

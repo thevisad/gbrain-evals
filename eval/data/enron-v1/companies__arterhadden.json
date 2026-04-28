@@ -1,0 +1,20 @@
+{
+  "slug": "companies/arterhadden",
+  "type": "company",
+  "title": "Arterhadden",
+  "compiled_truth": "Arterhadden is an external organization that appears in the Enron email corpus. Domain: arterhadden.com. Total email interactions with Enron: 301. Known contacts: 3 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (301 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/arterhadden",
+    "name": "Arterhadden",
+    "employees": [
+      "people/douglass-arterhadden",
+      "people/eduncan2-arterhadden",
+      "people/rmehta-arterhadden"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

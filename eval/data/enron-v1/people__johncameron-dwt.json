@@ -1,0 +1,14 @@
+{
+  "slug": "people/johncameron-dwt",
+  "type": "person",
+  "title": "Johncameron",
+  "compiled_truth": "Johncameron is an external contact at [Dwt](companies/dwt). Over the corpus period (2000-06-30 to 2001-04-27), Johncameron sent 1 and received 76 emails, totalling 77 interactions. Top correspondents: [John Malowney](people/john-malowney) (1), [Robert](people/robert-mresearch) (1), [Doug Thomas](people/doug-thomas-bellcold) (1), [Tracy Ngo](people/tracy-ngo) (1), [Shari Stack](people/shari-stack) (1).",
+  "timeline": "- **2000-06-30** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/johncameron-dwt",
+    "name": "Johncameron",
+    "email": "johncameron@dwt.com",
+    "primary_affiliation": "companies/dwt"
+  }
+}

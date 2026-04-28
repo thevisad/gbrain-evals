@@ -1,0 +1,14 @@
+{
+  "slug": "people/d-hunsucker",
+  "type": "person",
+  "title": "D Hunsucker",
+  "compiled_truth": "D Hunsucker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-07 to 2001-06-05), D Hunsucker sent 10 and received 98 emails, totalling 108 interactions. Top correspondents: [Portland Shift](people/portland-shift) (10), [Phillip Platter](people/phillip-platter) (7), [Chris Mallory](people/chris-mallory) (7), [Carla Hoffman](people/carla-hoffman) (7), [Lester Rawson](people/lester-rawson) (4).",
+  "timeline": "- **2000-08-07** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d-hunsucker",
+    "name": "D Hunsucker",
+    "email": "d.hunsucker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

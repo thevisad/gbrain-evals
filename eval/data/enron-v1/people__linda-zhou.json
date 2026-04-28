@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-zhou",
+  "type": "person",
+  "title": "Linda Zhou",
+  "compiled_truth": "Linda Zhou is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-01-29), Linda Zhou sent 4 and received 3 emails, totalling 7 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (3), [Shirley Crenshaw](people/shirley-crenshaw) (2), [Jeff Youngflesh](people/jeff-youngflesh) (1), [Jennifer Medcalf](people/jennifer-medcalf) (1), [Anita Dupont](people/anita-dupont) (1).",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-zhou",
+    "name": "Linda Zhou",
+    "email": "linda.zhou@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/joern-schmidt",
+  "type": "person",
+  "title": "Joern Schmidt",
+  "compiled_truth": "Joern Schmidt is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-31 to 2001-11-26), Joern Schmidt sent 1 and received 32 emails, totalling 33 interactions. Top correspondents: [Monika Causholli](people/monika-causholli) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-08-31** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joern-schmidt",
+    "name": "Joern Schmidt",
+    "email": "joern.schmidt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

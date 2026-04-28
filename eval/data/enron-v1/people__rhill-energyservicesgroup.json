@@ -1,0 +1,14 @@
+{
+  "slug": "people/rhill-energyservicesgroup",
+  "type": "person",
+  "title": "Rhill",
+  "compiled_truth": "Rhill is an external contact at [Energyservicesgroup](companies/energyservicesgroup). Over the corpus period (2002-01-13 to 2002-01-14), Rhill sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-13** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rhill-energyservicesgroup",
+    "name": "Rhill",
+    "email": "rhill@energyservicesgroup.net",
+    "primary_affiliation": "companies/energyservicesgroup"
+  }
+}

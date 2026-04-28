@@ -1,0 +1,14 @@
+{
+  "slug": "people/webster-shirley",
+  "type": "person",
+  "title": "Webster Shirley",
+  "compiled_truth": "Webster Shirley is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Webster Shirley sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/webster-shirley",
+    "name": "Webster Shirley",
+    "email": "webster.shirley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/fgent-thermoecotek",
+  "type": "person",
+  "title": "Fgent",
+  "compiled_truth": "Fgent is an external contact at [Thermoecotek](companies/thermoecotek). Over the corpus period (2000-12-08 to 2001-03-29), Fgent sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2000-12-08** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fgent-thermoecotek",
+    "name": "Fgent",
+    "email": "fgent@thermoecotek.com",
+    "primary_affiliation": "companies/thermoecotek"
+  }
+}

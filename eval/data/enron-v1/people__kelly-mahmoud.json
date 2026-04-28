@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-mahmoud",
+  "type": "person",
+  "title": "Kelly Mahmoud",
+  "compiled_truth": "Kelly Mahmoud is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-24 to 2001-03-28), Kelly Mahmoud sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-01-24** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-mahmoud",
+    "name": "Kelly Mahmoud",
+    "email": "kelly.mahmoud@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

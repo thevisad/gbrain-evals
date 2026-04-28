@@ -1,0 +1,14 @@
+{
+  "slug": "people/julia-chin",
+  "type": "person",
+  "title": "Julia Chin",
+  "compiled_truth": "Julia Chin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-06-05), Julia Chin sent 11 and received 72 emails, totalling 83 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (10), [Rex Rogers](people/rex-rogers) (1), [Jim Armogida](people/jim-armogida) (1), [Angela Davis](people/angela-davis) (1), [Mary Cook](people/mary-cook) (1).",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julia-chin",
+    "name": "Julia Chin",
+    "email": "julia.chin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/albernita-travis",
+  "type": "person",
+  "title": "Albernita Travis",
+  "compiled_truth": "Albernita Travis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-05 to 2001-05-09), Albernita Travis sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1), [Daniel Muschar](people/daniel-muschar) (1).",
+  "timeline": "- **2000-07-05** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/albernita-travis",
+    "name": "Albernita Travis",
+    "email": "albernita.travis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathryn-greer",
+  "type": "person",
+  "title": "Kathryn Greer",
+  "compiled_truth": "Kathryn Greer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-01-02), Kathryn Greer sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathryn-greer",
+    "name": "Kathryn Greer",
+    "email": "kathryn.greer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

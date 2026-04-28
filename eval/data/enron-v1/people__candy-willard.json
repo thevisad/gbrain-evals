@@ -1,0 +1,14 @@
+{
+  "slug": "people/candy-willard",
+  "type": "person",
+  "title": "Candy Willard",
+  "compiled_truth": "Candy Willard is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2001-05-22), Candy Willard sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/candy-willard",
+    "name": "Candy Willard",
+    "email": "candy.willard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

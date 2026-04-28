@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-rigby",
+  "type": "person",
+  "title": "John Rigby",
+  "compiled_truth": "John Rigby is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-01), John Rigby sent 23 and received 117 emails, totalling 140 interactions. Top correspondents: [Kay Mann](people/kay-mann) (23), [Scott Dieball](people/scott-dieball) (16), [Sheila Tweed](people/sheila-tweed) (15), [Pthompson](people/pthompson-akllp) (11), [Ben Jacoby](people/ben-jacoby) (8).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-rigby",
+    "name": "John Rigby",
+    "email": "john.rigby@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

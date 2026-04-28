@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelli-little",
+  "type": "person",
+  "title": "Kelli Little",
+  "compiled_truth": "Kelli Little is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-30 to 2002-01-29), Kelli Little sent 15 and received 168 emails, totalling 183 interactions. Top correspondents: [ Ward](people/ward) (4), [Eric Moon](people/eric-moon) (3), [Dutch Quigley](people/dutch-quigley) (3), [Mark Whitt](people/mark-whitt) (2), [John Griffith](people/john-griffith) (1). Mailbox folders observed: deleted_items, inbox, mid_market.",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelli-little",
+    "name": "Kelli Little",
+    "email": "kelli.little@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

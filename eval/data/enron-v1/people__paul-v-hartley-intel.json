@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-v-hartley-intel",
+  "type": "person",
+  "title": "Paul V Hartley",
+  "compiled_truth": "Paul V Hartley is an external contact at [Intel](companies/intel). Over the corpus period (2000-10-27 to 2000-12-21), Paul V Hartley sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2000-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-v-hartley-intel",
+    "name": "Paul V Hartley",
+    "email": "paul.v.hartley@intel.com",
+    "primary_affiliation": "companies/intel"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sam-garner",
+  "type": "person",
+  "title": "Sam Garner",
+  "compiled_truth": "Sam Garner is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-02-06), Sam Garner sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sam-garner",
+    "name": "Sam Garner",
+    "email": "sam.garner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

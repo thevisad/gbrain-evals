@@ -1,0 +1,14 @@
+{
+  "slug": "people/gregory-jones",
+  "type": "person",
+  "title": "Gregory Jones",
+  "compiled_truth": "Gregory Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-09-24), Gregory Jones sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gregory-jones",
+    "name": "Gregory Jones",
+    "email": "gregory.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

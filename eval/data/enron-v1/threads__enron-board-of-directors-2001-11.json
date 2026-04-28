@@ -1,0 +1,30 @@
+{
+  "slug": "threads/enron-board-of-directors-2001-11",
+  "type": "meeting",
+  "title": "Thread: Enron Board Of Directors",
+  "compiled_truth": "Email thread: \"Enron Board Of Directors\". Ran from 2001-11-12 to 2001-11-19 with 7 messages. Participants: [A  Martin](people/a-martin), [A  Roberts](people/a-roberts), [Beth Jenkins](people/beth-jenkins), [Chris Gaskill](people/chris-gaskill), [Danny Mccarty](people/danny-mccarty), [Jim Schwieger](people/jim-schwieger), [Joan Collins](people/joan-collins), [Jonathan Mckay](people/jonathan-mckay).",
+  "timeline": "- **2001-11-12** | Thread begins: enron board of directors\n- **2001-11-19** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-board-of-directors-2001-11",
+    "attendees": [
+      "people/a-martin",
+      "people/a-roberts",
+      "people/beth-jenkins",
+      "people/chris-gaskill",
+      "people/danny-mccarty",
+      "people/jim-schwieger",
+      "people/joan-collins",
+      "people/jonathan-mckay",
+      "people/julie-armstrong",
+      "people/keith-holst",
+      "people/larry-may",
+      "people/louise-kitchen",
+      "people/m-scott",
+      "people/marcus-nettelton",
+      "people/rahil-jafry",
+      "people/steve-young"
+    ],
+    "date": "2001-11-12"
+  }
+}

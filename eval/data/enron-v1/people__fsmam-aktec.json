@@ -1,0 +1,14 @@
+{
+  "slug": "people/fsmam-aktec",
+  "type": "person",
+  "title": "Fsmam",
+  "compiled_truth": "Fsmam is an external contact at [Aktec](companies/aktec). Over the corpus period (2000-09-13 to 2000-09-13), Fsmam sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fsmam-aktec",
+    "name": "Fsmam",
+    "email": "fsmam@aktec.com",
+    "primary_affiliation": "companies/aktec"
+  }
+}

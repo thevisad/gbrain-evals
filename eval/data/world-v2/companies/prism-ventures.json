@@ -1,0 +1,21 @@
+{
+  "slug": "companies/prism-ventures",
+  "type": "company",
+  "title": "Prism Ventures",
+  "compiled_truth": "Prism Ventures is a Series A/B fund based out of Chicago with a satellite office in San Francisco. They focus exclusively on AI infrastructure and data primitives — the unsexy-but-critical layers that sit beneath the model providers and application companies getting all the press. The fund was raised in late 2025 with roughly $380M in committed capital, and they've been deploying steadily since early 2026.\n\nThe firm is led by [Piper Bergmann](people/piper-bergmann), who cut her teeth at a mid-tier crossover fund before deciding she wanted to go narrower. Piper has a reputation for being deeply technical in diligence — she'll read through white papers and ask pointed questions about memory layout and serialization overhead in first meetings. Her partner [Nash Moreau](people/nash-moreau) handles more of the growth-stage evaluation and portfolio ops side. Nash came from an operating background (VP Eng at a data pipeline company that was acqui-hired) and tends to think in terms of deployment friction and customer concentration risk.\n\nPrism's thesis is straightforward: the AI stack is still missing reliable, deterministic primitives at the data layer. They belive that as models commoditize, the companies that own the plumbing — compression, authentication, transport — will capture durable value. This thesis brought them into contact with [Anchor Codec](companies/anchor-codec) in mid-2027, and they participated in diligence around Anchor's Series A. The relationship started when Piper attended a panel at a data infrastructure conference where Anchor's approach to single-pass primitives was discussed.\n\nPrism has a portfolio of about 14 companies as of late 2027, mostly in adjacent spaces: vector database tooling, inference routing, data lineage tracking. They're known for relatively clean term sheets and a willingness to co-lead with larger funds. They don't typically take board seats at Series A but push for observer rights and quarterly deep-dives.\n\nOne quirk worth noting: Prism runs an internal research blog that's technically public but not promoted. Nash posts quarterly analyses of data infrastructure market maps that have quietly become influential among founders in the space. The blog has been cited in a couple of industry newsletters, which has helped Prism's dealflow disproportionately relative to their fund size.",
+  "timeline": "- **2025-11-15** | Prism Ventures closes Fund I at $380M, focused on AI infrastructure and data primitives.\n- **2026-03-08** | [Piper Bergmann](people/piper-bergmann) and [Nash Moreau](people/nash-moreau) make their first three investments — all pre-revenue data layer companies.\n- **2026-07-22** | Nash publishes inaugural market map post on the Prism research blog, covering the \"missing middle\" of AI data infrastructure.\n- **2026-11-01** | Prism leads a $28M Series A for a vector database tooling startup, their largest check to date.\n- **2027-02-14** | Piper attends DataPrimitives Summit in Austin; first exposure to [Anchor Codec](companies/anchor-codec)'s approach during a panel session.\n- **2027-05-30** | Initial outreach from Prism to Anchor Codec; exploratory call between Piper and Anchor's founding team.\n- **2027-08-19** | Prism enters diligence on Anchor Codec's Series A round; Nash conducts customer reference calls.\n- **2027-10-03** | Prism participates in Anchor Codec's Series A close as a co-lead investor.\n- **2028-01-12** | Fund I hits 40% deployed; Prism begins early conversations about Fund II timing.\n- **2028-04-07** | Nash presents updated AI infrastructure market map at a limited partner meeting, highlighting single-pass primitives as an emerging category.",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/prism-ventures",
+    "name": "Prism Ventures",
+    "category": "vc",
+    "industry": "venture capital",
+    "description": "Series A/B fund investing in AI infrastructure and data primitives",
+    "employees": [
+      "people/piper-bergmann",
+      "people/nash-moreau"
+    ],
+    "investors": [],
+    "advisors": []
+  }
+}

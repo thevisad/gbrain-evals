@@ -1,0 +1,14 @@
+{
+  "slug": "people/mershanlaw-aol",
+  "type": "person",
+  "title": "Mershanlaw",
+  "compiled_truth": "Mershanlaw is an external contact at [AOL](companies/aol). Over the corpus period (2001-02-20 to 2001-04-27), Mershanlaw sent 0 and received 66 emails, totalling 66 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mershanlaw-aol",
+    "name": "Mershanlaw",
+    "email": "mershanlaw@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/reagan-rorschach",
+  "type": "person",
+  "title": "Reagan Rorschach",
+  "compiled_truth": "Reagan Rorschach is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-21), Reagan Rorschach sent 130 and received 525 emails, totalling 655 interactions. Top correspondents: [Kay Mann](people/kay-mann) (121), [David Fairley](people/david-fairley) (44), [Lloyd Will](people/lloyd-will) (29), [Kayne Coulter](people/kayne-coulter) (27), [Ozzie Pagan](people/ozzie-pagan) (24). Mailbox folders observed: asset_management_documents, deleted_items, inbox, notes_inbox, yazoo_city.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reagan-rorschach",
+    "name": "Reagan Rorschach",
+    "email": "reagan.rorschach@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

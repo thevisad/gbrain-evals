@@ -1,0 +1,14 @@
+{
+  "slug": "people/christa-aguilar",
+  "type": "person",
+  "title": "Christa Aguilar",
+  "compiled_truth": "Christa Aguilar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-12-03), Christa Aguilar sent 3 and received 10 emails, totalling 13 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (2), [Felecia Acevedo](people/felecia-acevedo) (1), [Sharon Butcher](people/sharon-butcher) (1), [Steven Kean](people/steven-kean) (1), [Cindy Olson](people/cindy-olson) (1).",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christa-aguilar",
+    "name": "Christa Aguilar",
+    "email": "christa.aguilar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

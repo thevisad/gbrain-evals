@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-lewis",
+  "type": "person",
+  "title": "Paul Lewis",
+  "compiled_truth": "Paul Lewis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-24 to 2002-02-07), Paul Lewis sent 13 and received 174 emails, totalling 187 interactions. Top correspondents: [W  White](people/w-white) (12), [Casey Evans](people/casey-evans) (9), [Andrea Dahlke](people/andrea-dahlke) (5), [Wayne Vinson](people/wayne-vinson) (4), [Tom Chapman](people/tom-chapman) (4). Mailbox folders observed: central, deleted_items, inbox.",
+  "timeline": "- **2001-05-24** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-lewis",
+    "name": "Paul Lewis",
+    "email": "paul.lewis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

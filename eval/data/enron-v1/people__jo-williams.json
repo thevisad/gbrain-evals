@@ -1,0 +1,14 @@
+{
+  "slug": "people/jo-williams",
+  "type": "person",
+  "title": "Jo Williams",
+  "compiled_truth": "Jo Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2002-03-21), Jo Williams sent 8 and received 469 emails, totalling 477 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (4), [Michael Eiben](people/michael-eiben) (4), [Daren Farmer](people/daren-farmer) (4), [Scott Coburn](people/scott-coburn) (4), [Richard Shepherd](people/richard-shepherd) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jo-williams",
+    "name": "Jo Williams",
+    "email": "jo.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

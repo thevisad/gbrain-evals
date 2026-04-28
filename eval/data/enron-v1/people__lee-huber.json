@@ -1,0 +1,14 @@
+{
+  "slug": "people/lee-huber",
+  "type": "person",
+  "title": "Lee Huber",
+  "compiled_truth": "Lee Huber is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-21 to 2002-01-16), Lee Huber sent 16 and received 410 emails, totalling 426 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (7), [Drew Fossum](people/drew-fossum) (5), [Mark Mcconnell](people/mark-mcconnell) (4), [Steven Harris](people/steven-harris) (3), [Jeff Dasovich](people/jeff-dasovich) (2). Mailbox folders observed: deleted_items, inbox, interconnect_agreement_sample, pemex_trans_pecos, questar, tw_accounts.",
+  "timeline": "- **1999-12-21** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lee-huber",
+    "name": "Lee Huber",
+    "email": "lee.huber@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

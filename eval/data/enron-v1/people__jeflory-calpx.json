@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeflory-calpx",
+  "type": "person",
+  "title": "Jeflory",
+  "compiled_truth": "Jeflory is an external contact at [Calpx](companies/calpx). Over the corpus period (2000-11-10 to 2001-02-16), Jeflory sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-02-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeflory-calpx",
+    "name": "Jeflory",
+    "email": "jeflory@calpx.com",
+    "primary_affiliation": "companies/calpx"
+  }
+}

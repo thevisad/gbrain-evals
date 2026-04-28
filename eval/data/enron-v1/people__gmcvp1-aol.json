@@ -1,0 +1,14 @@
+{
+  "slug": "people/gmcvp1-aol",
+  "type": "person",
+  "title": "Gmcvp1",
+  "compiled_truth": "Gmcvp1 is an external contact at [AOL](companies/aol). Over the corpus period (2000-11-02 to 2001-09-24), Gmcvp1 sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gmcvp1-aol",
+    "name": "Gmcvp1",
+    "email": "gmcvp1@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

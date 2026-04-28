@@ -1,0 +1,14 @@
+{
+  "slug": "people/bouncing98-hotmail",
+  "type": "person",
+  "title": "Bouncing98",
+  "compiled_truth": "Bouncing98 is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-02-28 to 2000-11-29), Bouncing98 sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-02-28** | First recorded email in corpus\n- **2000-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bouncing98-hotmail",
+    "name": "Bouncing98",
+    "email": "bouncing98@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

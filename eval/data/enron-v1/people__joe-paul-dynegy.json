@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-paul-dynegy",
+  "type": "person",
+  "title": "Joe Paul",
+  "compiled_truth": "Joe Paul is an external contact at [Dynegy](companies/dynegy). Over the corpus period (2000-12-01 to 2001-11-20), Joe Paul sent 2 and received 45 emails, totalling 47 interactions. Top correspondents: [Roger Pelote](people/roger-pelote-williams) (2), [Barbara Klemstine](people/barbara-klemstine-apsc) (1), [Dcazalet](people/dcazalet-apx) (1), [Billr](people/billr-calpine) (1), [Jackp](people/jackp-calpine) (1).",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-paul-dynegy",
+    "name": "Joe Paul",
+    "email": "joe.paul@dynegy.com",
+    "primary_affiliation": "companies/dynegy"
+  }
+}

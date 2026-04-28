@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-bowen",
+  "type": "person",
+  "title": "Bob Bowen",
+  "compiled_truth": "Bob Bowen is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-24 to 2002-03-01), Bob Bowen sent 26 and received 908 emails, totalling 934 interactions. Top correspondents: [Tana Jones](people/tana-jones) (16), [Mark Taylor](people/mark-taylor) (9), [Jeffrey Hodge](people/jeffrey-hodge) (6), [Kim Theriot](people/kim-theriot) (3), [Larry Hunter](people/larry-hunter) (3). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1998-11-24** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-bowen",
+    "name": "Bob Bowen",
+    "email": "bob.bowen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

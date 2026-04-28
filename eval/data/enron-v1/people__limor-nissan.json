@@ -1,0 +1,14 @@
+{
+  "slug": "people/limor-nissan",
+  "type": "person",
+  "title": "Limor Nissan",
+  "compiled_truth": "Limor Nissan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-04 to 2002-06-21), Limor Nissan sent 19 and received 78 emails, totalling 97 interactions. Top correspondents: [Tana Jones](people/tana-jones) (6), [ Taylor](people/taylor) (4), [Alan Aronowitz](people/alan-aronowitz) (4), [Marie Heard](people/marie-heard) (2), [ T](people/t) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-01-04** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/limor-nissan",
+    "name": "Limor Nissan",
+    "email": "limor.nissan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

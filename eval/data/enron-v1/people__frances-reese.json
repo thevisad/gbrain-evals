@@ -1,0 +1,14 @@
+{
+  "slug": "people/frances-reese",
+  "type": "person",
+  "title": "Frances Reese",
+  "compiled_truth": "Frances Reese is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-17 to 2001-11-27), Frances Reese sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frances-reese",
+    "name": "Frances Reese",
+    "email": "frances.reese@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

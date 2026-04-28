@@ -1,0 +1,14 @@
+{
+  "slug": "people/joni-bollinger",
+  "type": "person",
+  "title": "Joni Bollinger",
+  "compiled_truth": "Joni Bollinger is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-21 to 2002-02-22), Joni Bollinger sent 1 and received 223 emails, totalling 224 interactions. Top correspondents: [James Carr](people/james-carr) (1), [Frankie Adams](people/frankie-adams) (1), [Raetta Zadow](people/raetta-zadow) (1), [Lynn Blair](people/lynn-blair) (1), [E  Anderson](people/e-anderson) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-04-21** | First recorded email in corpus\n- **2002-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joni-bollinger",
+    "name": "Joni Bollinger",
+    "email": "joni.bollinger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

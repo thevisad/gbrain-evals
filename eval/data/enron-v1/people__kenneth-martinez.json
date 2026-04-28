@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenneth-martinez",
+  "type": "person",
+  "title": "Kenneth Martinez",
+  "compiled_truth": "Kenneth Martinez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-08-31), Kenneth Martinez sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-08-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenneth-martinez",
+    "name": "Kenneth Martinez",
+    "email": "kenneth.martinez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

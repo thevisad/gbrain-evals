@@ -1,0 +1,14 @@
+{
+  "slug": "people/t-lucci",
+  "type": "person",
+  "title": "T  Lucci",
+  "compiled_truth": "T  Lucci is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-28 to 2002-02-26), T  Lucci sent 295 and received 348 emails, totalling 643 interactions. Top correspondents: [Christina 122367](people/christina-122367-hotmail) (44), [Lisab](people/lisab-int) (22), [Mark Whitt](people/mark-whitt) (21), [Kltaylor](people/kltaylor-duke-energy) (21), [Tyrell Harrison](people/tyrell-harrison) (20). Mailbox folders observed: citizens, contract_bids, deleted_items, inbox, sent_items, to_do_list.",
+  "timeline": "- **2001-08-28** | First recorded email in corpus\n- **2002-02-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/t-lucci",
+    "name": "T  Lucci",
+    "email": "t..lucci@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

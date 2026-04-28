@@ -1,0 +1,14 @@
+{
+  "slug": "people/chaundra-woods",
+  "type": "person",
+  "title": "Chaundra Woods",
+  "compiled_truth": "Chaundra Woods is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-24 to 2001-02-07), Chaundra Woods sent 8 and received 234 emails, totalling 242 interactions. Top correspondents: [Angela Davis](people/angela-davis) (5), [Kevin Liss](people/kevin-liss) (3), [Brad Alford](people/brad-alford) (3), [Lewis Worthy](people/lewis-worthy) (3), [Brian Kerrigan](people/brian-kerrigan) (3).",
+  "timeline": "- **1999-06-24** | First recorded email in corpus\n- **2001-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chaundra-woods",
+    "name": "Chaundra Woods",
+    "email": "chaundra.woods@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

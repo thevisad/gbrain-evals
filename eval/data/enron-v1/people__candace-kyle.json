@@ -1,0 +1,14 @@
+{
+  "slug": "people/candace-kyle",
+  "type": "person",
+  "title": "Candace Kyle",
+  "compiled_truth": "Candace Kyle is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-12-03), Candace Kyle sent 0 and received 39 emails, totalling 39 interactions.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/candace-kyle",
+    "name": "Candace Kyle",
+    "email": "candace.kyle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-power",
+  "type": "person",
+  "title": "Keith Power",
+  "compiled_truth": "Keith Power is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2001-08-24), Keith Power sent 3 and received 4 emails, totalling 7 interactions. Top correspondents: [Mark Haedicke](people/mark-haedicke) (2), [Liz Taylor](people/liz-taylor) (1), [Greg Whalley](people/greg-whalley) (1).",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2001-08-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-power",
+    "name": "Keith Power",
+    "email": "keith.power@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

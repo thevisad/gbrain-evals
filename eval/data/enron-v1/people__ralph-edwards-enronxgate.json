@@ -1,0 +1,14 @@
+{
+  "slug": "people/ralph-edwards-enronxgate",
+  "type": "person",
+  "title": "Ralph Edwards Enronxgate",
+  "compiled_truth": "Ralph Edwards Enronxgate is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-27 to 2001-11-02), Ralph Edwards Enronxgate sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-10-27** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ralph-edwards-enronxgate",
+    "name": "Ralph Edwards Enronxgate",
+    "email": "ralph.edwards.enronxgate@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/npryse-hotmail",
+  "type": "person",
+  "title": "Npryse",
+  "compiled_truth": "Npryse is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2000-11-02 to 2001-09-24), Npryse sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/npryse-hotmail",
+    "name": "Npryse",
+    "email": "npryse@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

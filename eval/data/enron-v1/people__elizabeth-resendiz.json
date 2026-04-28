@@ -1,0 +1,14 @@
+{
+  "slug": "people/elizabeth-resendiz",
+  "type": "person",
+  "title": "Elizabeth Resendiz",
+  "compiled_truth": "Elizabeth Resendiz is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2002-01-16), Elizabeth Resendiz sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elizabeth-resendiz",
+    "name": "Elizabeth Resendiz",
+    "email": "elizabeth.resendiz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

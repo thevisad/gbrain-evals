@@ -1,0 +1,14 @@
+{
+  "slug": "people/rhonda-morgan-williams",
+  "type": "person",
+  "title": "Rhonda Morgan",
+  "compiled_truth": "Rhonda Morgan is an external contact at [Williams Companies](companies/williams). Over the corpus period (2000-07-25 to 2000-08-29), Rhonda Morgan sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2000-08-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rhonda-morgan-williams",
+    "name": "Rhonda Morgan",
+    "email": "rhonda.morgan@williams.com",
+    "primary_affiliation": "companies/williams"
+  }
+}

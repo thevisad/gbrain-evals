@@ -1,0 +1,25 @@
+{
+  "slug": "threads/enron-email-2001-11",
+  "type": "meeting",
+  "title": "Thread: Enron Email",
+  "compiled_truth": "Email thread: \"Enron Email\". Ran from 2001-11-05 to 2001-11-08 with 8 messages. Participants: [Alan Aronowitz](people/alan-aronowitz), [Brogan](people/brogan), [Carol St ](people/carol-st), [Elizabeth Sager](people/elizabeth-sager), [Marie Heard](people/marie-heard), [Mary Cook](people/mary-cook), [Michael Brogan](people/michael-brogan-gs), [N  Gray](people/n-gray).",
+  "timeline": "- **2001-11-05** | Thread begins: enron email\n- **2001-11-08** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-email-2001-11",
+    "attendees": [
+      "people/alan-aronowitz",
+      "people/brogan",
+      "people/carol-st",
+      "people/elizabeth-sager",
+      "people/marie-heard",
+      "people/mary-cook",
+      "people/michael-brogan-gs",
+      "people/n-gray",
+      "people/steven-bunkin-gs",
+      "people/taylor",
+      "people/williams"
+    ],
+    "date": "2001-11-05"
+  }
+}

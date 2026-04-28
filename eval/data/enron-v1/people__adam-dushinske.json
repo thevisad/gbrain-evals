@@ -1,0 +1,14 @@
+{
+  "slug": "people/adam-dushinske",
+  "type": "person",
+  "title": "Adam Dushinske",
+  "compiled_truth": "Adam Dushinske is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-02 to 2001-11-14), Adam Dushinske sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-01-02** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adam-dushinske",
+    "name": "Adam Dushinske",
+    "email": "adam.dushinske@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

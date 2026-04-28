@@ -1,0 +1,14 @@
+{
+  "slug": "people/kay-threet",
+  "type": "person",
+  "title": "Kay Threet",
+  "compiled_truth": "Kay Threet is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2002-02-08), Kay Threet sent 6 and received 291 emails, totalling 297 interactions. Top correspondents: [Kent Miller](people/kent-miller) (3), [Sue Neville](people/sue-neville) (3), [Lynn Blair](people/lynn-blair) (3), [Michelle Lokay](people/michelle-lokay) (3), [Tim Johanson](people/tim-johanson) (2). Mailbox folders observed: customer___uses, inbox, tw_commercial_group.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2002-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kay-threet",
+    "name": "Kay Threet",
+    "email": "kay.threet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

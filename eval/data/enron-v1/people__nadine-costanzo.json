@@ -1,0 +1,14 @@
+{
+  "slug": "people/nadine-costanzo",
+  "type": "person",
+  "title": "Nadine Costanzo",
+  "compiled_truth": "Nadine Costanzo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-09-24), Nadine Costanzo sent 6 and received 8 emails, totalling 14 interactions. Top correspondents: [Kate Symes](people/kate-symes) (6), [Laura Aldis](people/laura-aldis) (5), [Corry Bentley](people/corry-bentley) (4), [Duong Luu](people/duong-luu) (4), [Kroum Kroumov](people/kroum-kroumov) (3).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nadine-costanzo",
+    "name": "Nadine Costanzo",
+    "email": "nadine.costanzo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

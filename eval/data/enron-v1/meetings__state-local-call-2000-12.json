@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/state-local-call-2000-12",
+  "type": "meeting",
+  "title": "Meeting: State/Local Call",
+  "compiled_truth": "Meeting: \"State/Local Call\". Occurred 2000-12-04 through 2000-12-04 with 3 related emails. Participants included: [Barbara Hueter](people/barbara-hueter), [Jeff Dasovich](people/jeff-dasovich), [Lara Leibman](people/lara-leibman), [Lleibman](people/lleibman), [Marchris Robinson](people/marchris-robinson), [Margo Reyna](people/margo-reyna), [Scott Bolton](people/scott-bolton), [Stephen Burns](people/stephen-burns)....",
+  "timeline": "- **2000-12-04** | Meeting: state/local call\n- **2000-12-04** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/state-local-call-2000-12",
+    "attendees": [
+      "people/barbara-hueter",
+      "people/jeff-dasovich",
+      "people/lara-leibman",
+      "people/lleibman",
+      "people/marchris-robinson",
+      "people/margo-reyna",
+      "people/scott-bolton",
+      "people/stephen-burns",
+      "people/sue-nord",
+      "people/susan-landwehr"
+    ],
+    "date": "2000-12-04"
+  }
+}

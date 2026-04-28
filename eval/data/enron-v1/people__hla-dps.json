@@ -1,0 +1,14 @@
+{
+  "slug": "people/hla-dps",
+  "type": "person",
+  "title": "Hla",
+  "compiled_truth": "Hla is an external contact at [Dps](companies/dps). Over the corpus period (2002-01-25 to 2002-01-29), Hla sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-25** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hla-dps",
+    "name": "Hla",
+    "email": "hla@dps.state.ny.us",
+    "primary_affiliation": "companies/dps"
+  }
+}

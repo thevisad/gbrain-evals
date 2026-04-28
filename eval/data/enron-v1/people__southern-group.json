@@ -1,0 +1,14 @@
+{
+  "slug": "people/southern-group",
+  "type": "person",
+  "title": "Southern Group",
+  "compiled_truth": "Southern Group is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-29 to 2000-02-29), Southern Group sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-02-29** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/southern-group",
+    "name": "Southern Group",
+    "email": "southern.group@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-keiser",
+  "type": "person",
+  "title": "John Keiser",
+  "compiled_truth": "John Keiser is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-17 to 2002-05-06), John Keiser sent 42 and received 211 emails, totalling 253 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (17), [Tracy Geaccone](people/tracy-geaccone) (9), [Robert Hayes](people/robert-hayes) (7), [Kam Keiser](people/kam-keiser) (7), [Teb Lokey](people/teb-lokey) (6). Mailbox folders observed: calendar, deleted_items, inbox, projects, vacations.",
+  "timeline": "- **2000-01-17** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-keiser",
+    "name": "John Keiser",
+    "email": "john.keiser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

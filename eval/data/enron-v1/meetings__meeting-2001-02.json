@@ -1,0 +1,35 @@
+{
+  "slug": "meetings/meeting-2001-02",
+  "type": "meeting",
+  "title": "Meeting: Meeting",
+  "compiled_truth": "Meeting: \"Meeting\". Occurred 2001-02-01 with 2 related emails. Participants included: [Carol Moffett](people/carol-moffett), [Dan Leff](people/dan-leff), [David Delainey](people/david-delainey), [Don Black](people/don-black), [Ginger Dernehl](people/ginger-dernehl), [Greg Whalley](people/greg-whalley), [Janette Elbertson](people/janette-elbertson), [John Lavorato](people/john-lavorato)....",
+  "timeline": "- **2001-02-01** | Meeting: meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-2001-02",
+    "attendees": [
+      "people/carol-moffett",
+      "people/dan-leff",
+      "people/david-delainey",
+      "people/don-black",
+      "people/ginger-dernehl",
+      "people/greg-whalley",
+      "people/janette-elbertson",
+      "people/john-lavorato",
+      "people/karen-heathman",
+      "people/kathy-dodgen",
+      "people/kay-chapman",
+      "people/kimberly-hillis",
+      "people/leasa-lopez",
+      "people/liz-taylor",
+      "people/mark-haedicke",
+      "people/marty-sunde",
+      "people/rachel-bryant",
+      "people/richard-shapiro",
+      "people/rick-buy",
+      "people/vicki-sharp",
+      "people/william-bradford"
+    ],
+    "date": "2001-02-01"
+  }
+}

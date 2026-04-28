@@ -1,0 +1,14 @@
+{
+  "slug": "people/barbara-lewis",
+  "type": "person",
+  "title": "Barbara Lewis",
+  "compiled_truth": "Barbara Lewis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-17 to 2001-09-28), Barbara Lewis sent 13 and received 116 emails, totalling 129 interactions. Top correspondents: [Thomas Martin](people/thomas-martin) (7), [Brenda Herod](people/brenda-herod) (6), [Daren Farmer](people/daren-farmer) (5), [Janet Wallis](people/janet-wallis) (5), [Ami Chokshi](people/ami-chokshi) (5). Mailbox folders observed: savedmail.",
+  "timeline": "- **1999-09-17** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barbara-lewis",
+    "name": "Barbara Lewis",
+    "email": "barbara.lewis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

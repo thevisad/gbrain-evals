@@ -1,0 +1,14 @@
+{
+  "slug": "people/aleck-dadson",
+  "type": "person",
+  "title": "Aleck Dadson",
+  "compiled_truth": "Aleck Dadson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-03 to 2001-11-01), Aleck Dadson sent 78 and received 422 emails, totalling 500 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (69), [James Steffes](people/james-steffes) (15), [Rob Milnthorp](people/rob-milnthorp) (11), [Eric Thode](people/eric-thode) (10), [Paul Devries](people/paul-devries) (8). Mailbox folders observed: 2001_objectives, canada, reg_risk.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-11-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aleck-dadson",
+    "name": "Aleck Dadson",
+    "email": "aleck.dadson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

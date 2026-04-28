@@ -1,0 +1,14 @@
+{
+  "slug": "people/alton-honore",
+  "type": "person",
+  "title": "Alton Honore",
+  "compiled_truth": "Alton Honore is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2001-10-12), Alton Honore sent 0 and received 47 emails, totalling 47 interactions.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alton-honore",
+    "name": "Alton Honore",
+    "email": "alton.honore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

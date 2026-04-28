@@ -1,0 +1,14 @@
+{
+  "slug": "people/denise-squirrel",
+  "type": "person",
+  "title": "Denise Squirrel",
+  "compiled_truth": "Denise Squirrel is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2000-06-30), Denise Squirrel sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2000-06-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/denise-squirrel",
+    "name": "Denise Squirrel",
+    "email": "denise.squirrel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

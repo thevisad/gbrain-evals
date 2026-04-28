@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-poole",
+  "type": "person",
+  "title": "Susan Poole",
+  "compiled_truth": "Susan Poole is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-28 to 2001-12-27), Susan Poole sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-08-28** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-poole",
+    "name": "Susan Poole",
+    "email": "susan.poole@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

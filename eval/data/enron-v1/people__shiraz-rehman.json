@@ -1,0 +1,14 @@
+{
+  "slug": "people/shiraz-rehman",
+  "type": "person",
+  "title": "Shiraz Rehman",
+  "compiled_truth": "Shiraz Rehman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-09-10), Shiraz Rehman sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-09-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shiraz-rehman",
+    "name": "Shiraz Rehman",
+    "email": "shiraz.rehman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

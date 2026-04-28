@@ -1,0 +1,14 @@
+{
+  "slug": "people/wsmith-wordsmith",
+  "type": "person",
+  "title": "Wsmith",
+  "compiled_truth": "Wsmith is an external contact at [Wordsmith](companies/wordsmith). Over the corpus period (2000-03-10 to 2002-03-25), Wsmith sent 266 and received 0 emails, totalling 266 interactions. Top correspondents: [Linguaphile](people/linguaphile-wordsmith) (266).",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wsmith-wordsmith",
+    "name": "Wsmith",
+    "email": "wsmith@wordsmith.org",
+    "primary_affiliation": "companies/wordsmith"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/stanley-farmer",
+  "type": "person",
+  "title": "Stanley Farmer",
+  "compiled_truth": "Stanley Farmer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-12 to 2001-11-18), Stanley Farmer sent 2 and received 50 emails, totalling 52 interactions. Top correspondents: [Jody Pierce](people/jody-pierce) (1), [Melissa Allen](people/melissa-allen) (1), [Wade Stubblefield](people/wade-stubblefield) (1), [E  Sommers](people/e-sommers) (1), [A  Lindholm](people/a-lindholm) (1). Mailbox folders observed: projects.",
+  "timeline": "- **2000-04-12** | First recorded email in corpus\n- **2001-11-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stanley-farmer",
+    "name": "Stanley Farmer",
+    "email": "stanley.farmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mara-susan",
+  "type": "person",
+  "title": "Mara",
+  "compiled_truth": "Mara is an external contact at [Susan](companies/susan). Over the corpus period (2001-07-13 to 2001-11-26), Mara sent 0 and received 57 emails, totalling 57 interactions.",
+  "timeline": "- **2001-07-13** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mara-susan",
+    "name": "Mara",
+    "email": "mara@susan.mara",
+    "primary_affiliation": "companies/susan"
+  }
+}

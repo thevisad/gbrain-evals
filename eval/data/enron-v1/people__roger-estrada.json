@@ -1,0 +1,14 @@
+{
+  "slug": "people/roger-estrada",
+  "type": "person",
+  "title": "Roger Estrada",
+  "compiled_truth": "Roger Estrada is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-29), Roger Estrada sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roger-estrada",
+    "name": "Roger Estrada",
+    "email": "roger.estrada@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

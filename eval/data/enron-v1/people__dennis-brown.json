@@ -1,0 +1,14 @@
+{
+  "slug": "people/dennis-brown",
+  "type": "person",
+  "title": "Dennis Brown",
+  "compiled_truth": "Dennis Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-07-05), Dennis Brown sent 3 and received 9 emails, totalling 12 interactions. Top correspondents: [Don Baughman](people/don-baughman) (2), [Dana Davis](people/dana-davis) (1). Mailbox folders observed: enron_power.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-07-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dennis-brown",
+    "name": "Dennis Brown",
+    "email": "dennis.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

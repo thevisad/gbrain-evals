@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-johnson",
+  "type": "person",
+  "title": "Rick Johnson",
+  "compiled_truth": "Rick Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-03 to 2001-12-20), Rick Johnson sent 36 and received 214 emails, totalling 250 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (34), [A  Hope](people/a-hope) (11), [Kriste Sullivan](people/kriste-sullivan) (11), [Sharon Butcher](people/sharon-butcher) (11), [Diane Goode](people/diane-goode) (10). Mailbox folders observed: bankruptcy, deleted_items, ethics_ljm_notre_dame, hr_risk_management, inbox, n_form.",
+  "timeline": "- **2000-04-03** | First recorded email in corpus\n- **2001-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-johnson",
+    "name": "Rick Johnson",
+    "email": "rick.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/zulie-flores",
+  "type": "person",
+  "title": "Zulie Flores",
+  "compiled_truth": "Zulie Flores is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-20 to 2001-11-30), Zulie Flores sent 3 and received 38 emails, totalling 41 interactions. Top correspondents: [Cindy Olson](people/cindy-olson) (3), [Marla Barnard](people/marla-barnard) (2), [Cynthia Barrow](people/cynthia-barrow) (2), [Melissa Becker](people/melissa-becker) (2), [Sharon Butcher](people/sharon-butcher) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-08-20** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zulie-flores",
+    "name": "Zulie Flores",
+    "email": "zulie.flores@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-hanz",
+  "type": "person",
+  "title": "Chris Hanz",
+  "compiled_truth": "Chris Hanz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-06 to 2001-05-29), Chris Hanz sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Beth Perlman](people/beth-perlman) (1), [Stephen Stock](people/stephen-stock) (1), [Wenyao Jia](people/wenyao-jia) (1), [Zhiyong Wei](people/zhiyong-wei) (1), [Iain Greig](people/iain-greig) (1).",
+  "timeline": "- **2000-06-06** | First recorded email in corpus\n- **2001-05-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-hanz",
+    "name": "Chris Hanz",
+    "email": "chris.hanz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

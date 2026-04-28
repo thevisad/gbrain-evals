@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-merola",
+  "type": "person",
+  "title": "Jeff Merola",
+  "compiled_truth": "Jeff Merola is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-18 to 2001-11-29), Jeff Merola sent 5 and received 52 emails, totalling 57 interactions. Top correspondents: [Don Baughman](people/don-baughman) (3), [Guy Sharfman](people/guy-sharfman) (3), [Jeffrey Miller](people/jeffrey-miller) (2), [Rogers Herndon](people/rogers-herndon) (2), [Richard Ring](people/richard-ring) (2). Mailbox folders observed: eesirenewableenergy, enron_power, personalfolder.",
+  "timeline": "- **2001-05-18** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-merola",
+    "name": "Jeff Merola",
+    "email": "jeff.merola@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

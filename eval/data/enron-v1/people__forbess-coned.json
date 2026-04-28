@@ -1,0 +1,14 @@
+{
+  "slug": "people/forbess-coned",
+  "type": "person",
+  "title": "Forbess",
+  "compiled_truth": "Forbess is an external contact at [Coned](companies/coned). Over the corpus period (2002-01-25 to 2002-01-29), Forbess sent 2 and received 0 emails, totalling 2 interactions. Top correspondents: [Rbrophy](people/rbrophy-nyiso) (2), [Adesell](people/adesell-nyiso) (2), [Hla](people/hla-dps) (2), [Richard Roman](people/richard-roman-dps) (2), [Frederick Carr](people/frederick-carr-dps) (2).",
+  "timeline": "- **2002-01-25** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/forbess-coned",
+    "name": "Forbess",
+    "email": "forbess@coned.com",
+    "primary_affiliation": "companies/coned"
+  }
+}

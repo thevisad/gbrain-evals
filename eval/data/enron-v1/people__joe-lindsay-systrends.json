@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-lindsay-systrends",
+  "type": "person",
+  "title": "Joe Lindsay",
+  "compiled_truth": "Joe Lindsay is an external contact at [Systrends](companies/systrends). Over the corpus period (2002-01-13 to 2002-01-14), Joe Lindsay sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-13** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-lindsay-systrends",
+    "name": "Joe Lindsay",
+    "email": "joe.lindsay@systrends.com",
+    "primary_affiliation": "companies/systrends"
+  }
+}

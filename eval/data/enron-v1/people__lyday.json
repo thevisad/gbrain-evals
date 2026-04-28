@@ -1,0 +1,14 @@
+{
+  "slug": "people/lyday",
+  "type": "person",
+  "title": "Lyday",
+  "compiled_truth": "Lyday is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-04-01 to 2002-04-01), Lyday sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-04-01** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lyday",
+    "name": "Lyday",
+    "email": "lyday@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

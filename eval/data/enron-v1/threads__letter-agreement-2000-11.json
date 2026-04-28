@@ -1,0 +1,23 @@
+{
+  "slug": "threads/letter-agreement-2000-11",
+  "type": "meeting",
+  "title": "Thread: Letter Agreement",
+  "compiled_truth": "Email thread: \"Letter Agreement\". Ran from 2000-11-30 to 2000-12-13 with 12 messages. Participants: [Ben Jacoby](people/ben-jacoby), [Ccampbell](people/ccampbell-kslaw), [Dekrey](people/dekrey-swpc), [Don Miller](people/don-miller), [Jkeffer](people/jkeffer-kslaw), [Kay Mann](people/kay-mann), [Lynn Dekrey](people/lynn-dekrey-swpc), [Mitch Robinson](people/mitch-robinson).",
+  "timeline": "- **2000-11-30** | Thread begins: letter agreement\n- **2000-12-13** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/letter-agreement-2000-11",
+    "attendees": [
+      "people/ben-jacoby",
+      "people/ccampbell-kslaw",
+      "people/dekrey-swpc",
+      "people/don-miller",
+      "people/jkeffer-kslaw",
+      "people/kay-mann",
+      "people/lynn-dekrey-swpc",
+      "people/mitch-robinson",
+      "people/ross-newlin"
+    ],
+    "date": "2000-11-30"
+  }
+}

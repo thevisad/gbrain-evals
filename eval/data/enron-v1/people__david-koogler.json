@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-koogler",
+  "type": "person",
+  "title": "David Koogler",
+  "compiled_truth": "David Koogler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-03 to 2001-12-27), David Koogler sent 3 and received 33 emails, totalling 36 interactions. Top correspondents: [Jeff Donahue](people/jeff-donahue) (3), [E  Haedicke](people/e-haedicke) (3), [Jordan Mintz](people/jordan-mintz) (3), [Cullen Duke](people/cullen-duke) (3), [David Gorte](people/david-gorte) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-10-03** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-koogler",
+    "name": "David Koogler",
+    "email": "david.koogler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

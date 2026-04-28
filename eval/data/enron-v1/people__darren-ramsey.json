@@ -1,0 +1,14 @@
+{
+  "slug": "people/darren-ramsey",
+  "type": "person",
+  "title": "Darren Ramsey",
+  "compiled_truth": "Darren Ramsey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-11-09), Darren Ramsey sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darren-ramsey",
+    "name": "Darren Ramsey",
+    "email": "darren.ramsey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

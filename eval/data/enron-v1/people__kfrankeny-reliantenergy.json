@@ -1,0 +1,14 @@
+{
+  "slug": "people/kfrankeny-reliantenergy",
+  "type": "person",
+  "title": "Kfrankeny",
+  "compiled_truth": "Kfrankeny is an external contact at [Reliant Energy](companies/reliant-energy). Over the corpus period (2000-07-25 to 2000-08-29), Kfrankeny sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2000-08-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kfrankeny-reliantenergy",
+    "name": "Kfrankeny",
+    "email": "kfrankeny@reliantenergy.com",
+    "primary_affiliation": "companies/reliant-energy"
+  }
+}

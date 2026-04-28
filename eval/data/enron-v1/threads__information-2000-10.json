@@ -1,0 +1,22 @@
+{
+  "slug": "threads/information-2000-10",
+  "type": "meeting",
+  "title": "Thread: Information",
+  "compiled_truth": "Email thread: \"Information\". Ran from 2000-10-16 to 2000-11-10 with 13 messages. Participants: [Christopher Calger](people/christopher-calger), [Grosenbl](people/grosenbl-exchange), [John Lavorato](people/john-lavorato), [Kimberly Hillis](people/kimberly-hillis), [Max Yzaguirre](people/max-yzaguirre), [Rob Milnthorp](people/rob-milnthorp), [Sara Shackleton](people/sara-shackleton), [Tim Belden](people/tim-belden).",
+  "timeline": "- **2000-10-16** | Thread begins: information\n- **2000-11-10** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/information-2000-10",
+    "attendees": [
+      "people/christopher-calger",
+      "people/grosenbl-exchange",
+      "people/john-lavorato",
+      "people/kimberly-hillis",
+      "people/max-yzaguirre",
+      "people/rob-milnthorp",
+      "people/sara-shackleton",
+      "people/tim-belden"
+    ],
+    "date": "2000-10-16"
+  }
+}

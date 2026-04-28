@@ -1,0 +1,14 @@
+{
+  "slug": "people/p-hewitt",
+  "type": "person",
+  "title": "P  Hewitt",
+  "compiled_truth": "P  Hewitt is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-24 to 2002-06-13), P  Hewitt sent 2 and received 55 emails, totalling 57 interactions. Top correspondents: [David Draper](people/david-draper) (1), [Ed Mcmichael](people/ed-mcmichael) (1), [Louis Dicarlo](people/louis-dicarlo) (1), [Joe Parks](people/joe-parks) (1), [Barry Vanderhorst](people/barry-vanderhorst) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-08-24** | First recorded email in corpus\n- **2002-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/p-hewitt",
+    "name": "P  Hewitt",
+    "email": "p..hewitt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

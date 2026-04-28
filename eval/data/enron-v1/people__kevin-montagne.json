@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-montagne",
+  "type": "person",
+  "title": "Kevin Montagne",
+  "compiled_truth": "Kevin Montagne is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-22 to 2002-02-06), Kevin Montagne sent 4 and received 66 emails, totalling 70 interactions. Top correspondents: [Tana Jones](people/tana-jones) (2), [Mark Palmer](people/mark-palmer) (1), [Stephanie Panus](people/stephanie-panus) (1), [Richard Sanders](people/richard-sanders) (1), [David Forster](people/david-forster) (1). Mailbox folders observed: agency_com, deleted_items, inbox.",
+  "timeline": "- **1999-07-22** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-montagne",
+    "name": "Kevin Montagne",
+    "email": "kevin.montagne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

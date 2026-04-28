@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-thatcher",
+  "type": "person",
+  "title": "Stephen Thatcher",
+  "compiled_truth": "Stephen Thatcher is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-05), Stephen Thatcher sent 1 and received 31 emails, totalling 32 interactions. Top correspondents: [Bus All-Hou](people/bus-all-hou) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-thatcher",
+    "name": "Stephen Thatcher",
+    "email": "stephen.thatcher@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

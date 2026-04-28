@@ -1,0 +1,14 @@
+{
+  "slug": "people/dloon-uschamber",
+  "type": "person",
+  "title": "Dloon",
+  "compiled_truth": "Dloon is an external contact at [Uschamber](companies/uschamber). Over the corpus period (2000-02-18 to 2001-04-03), Dloon sent 2 and received 31 emails, totalling 33 interactions. Top correspondents: [Dfossum](people/dfossum) (2).",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2001-04-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dloon-uschamber",
+    "name": "Dloon",
+    "email": "dloon@uschamber.com",
+    "primary_affiliation": "companies/uschamber"
+  }
+}

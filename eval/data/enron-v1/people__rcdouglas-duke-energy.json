@@ -1,0 +1,14 @@
+{
+  "slug": "people/rcdouglas-duke-energy",
+  "type": "person",
+  "title": "Rcdouglas",
+  "compiled_truth": "Rcdouglas is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-09-07 to 2001-09-05), Rcdouglas sent 1 and received 36 emails, totalling 37 interactions. Top correspondents: [Dfarmer](people/dfarmer) (1).",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-09-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rcdouglas-duke-energy",
+    "name": "Rcdouglas",
+    "email": "rcdouglas@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

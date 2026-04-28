@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-t-hodge",
+  "type": "person",
+  "title": "Jeffrey T Hodge",
+  "compiled_truth": "Jeffrey T Hodge is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-06-07), Jeffrey T Hodge sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-t-hodge",
+    "name": "Jeffrey T Hodge",
+    "email": "jeffrey.t.hodge@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

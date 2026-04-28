@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-paskin",
+  "type": "person",
+  "title": "John Paskin",
+  "compiled_truth": "John Paskin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-14 to 2001-11-27), John Paskin sent 1 and received 34 emails, totalling 35 interactions. Top correspondents: [Marvia Jefferson](people/marvia-jefferson) (1), [Sally Beck](people/sally-beck) (1), [Mike Jordan](people/mike-jordan) (1).",
+  "timeline": "- **2000-01-14** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-paskin",
+    "name": "John Paskin",
+    "email": "john.paskin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

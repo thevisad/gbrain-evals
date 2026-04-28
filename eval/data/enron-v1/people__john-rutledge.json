@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-rutledge",
+  "type": "person",
+  "title": "John Rutledge",
+  "compiled_truth": "John Rutledge is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-22 to 2001-08-23), John Rutledge sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [Michael Frazier](people/michael-frazier) (1), [Chris Stokley](people/chris-stokley) (1), [Neil Bresnan](people/neil-bresnan) (1), [Charles Alvarez](people/charles-alvarez) (1). Mailbox folders observed: chris_stokley.",
+  "timeline": "- **2001-06-22** | First recorded email in corpus\n- **2001-08-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-rutledge",
+    "name": "John Rutledge",
+    "email": "john.rutledge@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

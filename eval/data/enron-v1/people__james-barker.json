@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-barker",
+  "type": "person",
+  "title": "James Barker",
+  "compiled_truth": "James Barker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-16 to 2001-07-27), James Barker sent 3 and received 111 emails, totalling 114 interactions. Top correspondents: [Brad Mckay](people/brad-mckay) (1), [Dutch Quigley](people/dutch-quigley) (1), [Geoff Storey](people/geoff-storey) (1), [Martin Cuilla](people/martin-cuilla) (1). Mailbox folders observed: deleted_items, mid_market.",
+  "timeline": "- **2000-03-16** | First recorded email in corpus\n- **2001-07-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-barker",
+    "name": "James Barker",
+    "email": "james.barker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

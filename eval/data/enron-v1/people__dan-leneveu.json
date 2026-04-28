@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-leneveu",
+  "type": "person",
+  "title": "Dan Leneveu",
+  "compiled_truth": "Dan Leneveu is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-25 to 2002-05-06), Dan Leneveu sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-09-25** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-leneveu",
+    "name": "Dan Leneveu",
+    "email": "dan.leneveu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

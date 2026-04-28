@@ -1,0 +1,14 @@
+{
+  "slug": "people/dfranklin-hanovermeasurement",
+  "type": "person",
+  "title": "Dfranklin",
+  "compiled_truth": "Dfranklin is an external contact at [Hanovermeasurement](companies/hanovermeasurement). Over the corpus period (2000-11-14 to 2000-12-18), Dfranklin sent 2 and received 24 emails, totalling 26 interactions. Top correspondents: [Eric Bass](people/eric-bass) (2).",
+  "timeline": "- **2000-11-14** | First recorded email in corpus\n- **2000-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dfranklin-hanovermeasurement",
+    "name": "Dfranklin",
+    "email": "dfranklin@hanovermeasurement.com",
+    "primary_affiliation": "companies/hanovermeasurement"
+  }
+}

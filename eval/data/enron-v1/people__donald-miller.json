@@ -1,0 +1,14 @@
+{
+  "slug": "people/donald-miller",
+  "type": "person",
+  "title": "Donald Miller",
+  "compiled_truth": "Donald Miller is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2001-07-10), Donald Miller sent 4 and received 5 emails, totalling 9 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (4), [Susan Mara](people/susan-mara) (1), [Sandra McCubbin](people/sandra-mccubbin) (1), [Mona Petrochko](people/mona-petrochko) (1), [Bruno Gaillard](people/bruno-gaillard) (1). Mailbox folders observed: administrative.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donald-miller",
+    "name": "Donald Miller",
+    "email": "donald.miller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

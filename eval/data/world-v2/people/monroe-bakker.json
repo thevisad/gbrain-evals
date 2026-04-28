@@ -1,0 +1,31 @@
+{
+  "slug": "people/monroe-bakker",
+  "type": "person",
+  "title": "Monroe Bakker — Senior Engineer, Anchor Codec",
+  "compiled_truth": "Monroe Bakker is a senior engineer at [Anchor Codec](companies/anchor), where he works on tooling, build infrastructure, and the internal developer workflow that supports the company's deterministic data infrastructure stack. He joined in July 2027, roughly eighteen months into Anchor's existence, and quickly became one of the faster shippers on the engineering team.\n\nBefore Anchor, Monroe spent the better part of a decade in the compilers and tooling space. He contributed meaningfully to several open-source build systems and package managers — the kind of work that doesn't make headlines but keeps thousands of other projects running. His background gave him an unusually sharp instinct for dependency resolution, caching strategies, and reproducible builds, all of which turned out to be directly relevant to the single-pass primitives at the core of [Anchor Codec](companies/anchor)'s platform.\n\nBakker is known internally for being analytical almost to a fault. He'll spend a day modeling a problem space on paper before writing a line of code, then ship the implementation in a single afternoon. Teammates sometimes joke that his commit history looks like nothing, nothing, nothing, then a massive diff that just works. This pattern has made him a natural fit for high-stakes integration work — the kind of thing where getting it wrong means days of debugging across multiple subsystems.\n\nMonroe is relatively quiet in large group settings but vocal in code reviews and design docs. He has a tendency to leave long, detailed comments that border on mini-essays, which newer engineers either love or find intimidating. He's been a mentor to at least two junior hires since joining, though he'd probably downplay that if asked.\n\nOutside of Anchor, Monroe still maintains a couple of open-source packages. He occasionally gives talks at tooling-focused meetups, though he prefers workshops over keynotes. He's based out of the main office but works remotely one or two days a week.\n\nOne thing people notice: he types on a split keyboard with a layout nobody else on the team can use. It's become a minor running joke during pair programming sesions.",
+  "timeline": [
+    "- **2026-11-15** | Monroe Bakker's name first surfaces in Anchor Codec's hiring pipeline after a referral from an existing team member.",
+    "- **2027-03-22** | Bakker does a take-home architecture exercise as part of the interview loop for [Anchor Codec](companies/anchor); reviewers note his unusually thorough write-up on caching invariants.",
+    "- **2027-07-01** | Monroe officially joins [Anchor Codec](companies/anchor) as Senior Engineer, assigned to the internal tooling and build systems team.",
+    "- **2027-08-10** | Ships a revamped local build pipeline that cuts full-rebuild times by roughly 40%. Team adopts it within the week.",
+    "- **2027-10-04** | Presents an internal tech talk on reproducible artifact generation and its implications for Anchor's single-pass architecture.",
+    "- **2027-12-18** | Leads a two-week sprint to overhaul the CI/CD system, reducing flaky test rates significantly across the main repo.",
+    "- **2028-02-07** | Begins mentoring two newer engineers on the platform team; sets up a weekly pairing session focused on systems-level debugging.",
+    "- **2028-04-25** | Gives a workshop at an open-source tooling meetup on dependency resolution strategies, drawing from both his pre-Anchor and current work.",
+    "- **2028-06-11** | Starts scoping a new internal package management layer designed to support Anchor's growing number of service modules."
+  ],
+  "_facts": {
+    "type": "person",
+    "slug": "people/monroe-bakker",
+    "name": "Monroe Bakker",
+    "role": "employee",
+    "title": "Senior Engineer",
+    "primary_affiliation": "companies/anchor",
+    "notable_traits": [
+      "analytical",
+      "fast-shipping"
+    ],
+    "background": "Compilers and tooling engineer; contributed to open-source build systems and package managers",
+    "joined_anchor": "2027-07-01"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jmeyer-reliant",
+  "type": "person",
+  "title": "Jmeyer",
+  "compiled_truth": "Jmeyer is an external contact at [Reliant](companies/reliant). Over the corpus period (2001-07-13 to 2001-07-13), Jmeyer sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-13** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jmeyer-reliant",
+    "name": "Jmeyer",
+    "email": "jmeyer@reliant.com",
+    "primary_affiliation": "companies/reliant"
+  }
+}

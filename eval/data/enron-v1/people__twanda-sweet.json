@@ -1,0 +1,14 @@
+{
+  "slug": "people/twanda-sweet",
+  "type": "person",
+  "title": "Twanda Sweet",
+  "compiled_truth": "Twanda Sweet is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-29), Twanda Sweet sent 393 and received 982 emails, totalling 1375 interactions. Top correspondents: [Mark Haedicke](people/mark-haedicke) (97), [Julia Murray](people/julia-murray) (46), [Richard Shapiro](people/richard-shapiro) (41), [Steven Kean](people/steven-kean) (37), [Jeffrey Hodge](people/jeffrey-hodge) (33). Mailbox folders observed: calendar, california, contacts, deleted_items, inbox, ofccp_audit.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/twanda-sweet",
+    "name": "Twanda Sweet",
+    "email": "twanda.sweet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

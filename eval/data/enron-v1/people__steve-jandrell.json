@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-jandrell",
+  "type": "person",
+  "title": "Steve Jandrell",
+  "compiled_truth": "Steve Jandrell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-23 to 2000-05-18), Steve Jandrell sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-03-23** | First recorded email in corpus\n- **2000-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-jandrell",
+    "name": "Steve Jandrell",
+    "email": "steve.jandrell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

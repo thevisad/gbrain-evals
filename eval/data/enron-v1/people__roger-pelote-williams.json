@@ -1,0 +1,14 @@
+{
+  "slug": "people/roger-pelote-williams",
+  "type": "person",
+  "title": "Roger Pelote",
+  "compiled_truth": "Roger Pelote is an external contact at [Williams Companies](companies/williams). Over the corpus period (2000-05-05 to 2002-01-02), Roger Pelote sent 1 and received 326 emails, totalling 327 interactions. Top correspondents: [Kaplan](people/kaplan-iepa) (1), [Alex Sugaoka](people/alex-sugaoka-uaecorp) (1), [William Carlson](people/william-carlson-wastemanagement) (1), [Billw](people/billw-calpine) (1), [Bellery](people/bellery-spi-ind) (1).",
+  "timeline": "- **2000-05-05** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roger-pelote-williams",
+    "name": "Roger Pelote",
+    "email": "roger.pelote@williams.com",
+    "primary_affiliation": "companies/williams"
+  }
+}

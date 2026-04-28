@@ -1,0 +1,14 @@
+{
+  "slug": "people/tori-wells",
+  "type": "person",
+  "title": "Tori Wells",
+  "compiled_truth": "Tori Wells is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-25), Tori Wells sent 35 and received 95 emails, totalling 130 interactions. Top correspondents: [Rosalee Fleming](people/rosalee-fleming) (9), [Steven Kean](people/steven-kean) (5), [Katherine Brown](people/katherine-brown) (4), [Mark Koenig](people/mark-koenig) (4), [Kenneth Lay](people/kenneth-lay) (4). Mailbox folders observed: _sent, discussion_threads, ken_lay, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tori-wells",
+    "name": "Tori Wells",
+    "email": "tori.wells@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

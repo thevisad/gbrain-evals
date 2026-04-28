@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-beck",
+  "type": "person",
+  "title": "Steve Beck",
+  "compiled_truth": "Steve Beck is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-24 to 2001-05-10), Steve Beck sent 4 and received 8 emails, totalling 12 interactions. Top correspondents: [Sally Beck](people/sally-beck) (3), [Jeff Dasovich](people/jeff-dasovich) (1), [Richard Shapiro](people/richard-shapiro) (1).",
+  "timeline": "- **2000-01-24** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-beck",
+    "name": "Steve Beck",
+    "email": "steve.beck@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

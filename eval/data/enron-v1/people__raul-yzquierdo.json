@@ -1,0 +1,14 @@
+{
+  "slug": "people/raul-yzquierdo",
+  "type": "person",
+  "title": "Raul Yzquierdo",
+  "compiled_truth": "Raul Yzquierdo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-01 to 2001-11-15), Raul Yzquierdo sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-02-01** | First recorded email in corpus\n- **2001-11-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/raul-yzquierdo",
+    "name": "Raul Yzquierdo",
+    "email": "raul.yzquierdo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

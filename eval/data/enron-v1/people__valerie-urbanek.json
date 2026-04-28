@@ -1,0 +1,14 @@
+{
+  "slug": "people/valerie-urbanek",
+  "type": "person",
+  "title": "Valerie Urbanek",
+  "compiled_truth": "Valerie Urbanek is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-08-15), Valerie Urbanek sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-08-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/valerie-urbanek",
+    "name": "Valerie Urbanek",
+    "email": "valerie.urbanek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

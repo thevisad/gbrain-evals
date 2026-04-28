@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-gale",
+  "type": "person",
+  "title": "Jeff Gale",
+  "compiled_truth": "Jeff Gale is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-16 to 2002-03-29), Jeff Gale sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Angela Schwarz](people/angela-schwarz) (1), [D  Steffes](people/d-steffes) (1), [Timothy Blanchard](people/timothy-blanchard) (1). Mailbox folders observed: credit_issues.",
+  "timeline": "- **2001-08-16** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-gale",
+    "name": "Jeff Gale",
+    "email": "jeff.gale@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

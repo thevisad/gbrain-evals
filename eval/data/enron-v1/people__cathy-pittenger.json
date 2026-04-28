@@ -1,0 +1,14 @@
+{
+  "slug": "people/cathy-pittenger",
+  "type": "person",
+  "title": "Cathy Pittenger",
+  "compiled_truth": "Cathy Pittenger is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-22 to 2001-11-12), Cathy Pittenger sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-02-22** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cathy-pittenger",
+    "name": "Cathy Pittenger",
+    "email": "cathy.pittenger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

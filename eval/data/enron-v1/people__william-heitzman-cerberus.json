@@ -1,0 +1,14 @@
+{
+  "slug": "people/william-heitzman-cerberus",
+  "type": "person",
+  "title": "William Heitzman",
+  "compiled_truth": "William Heitzman is an external contact at [Cerberus](companies/cerberus). Over the corpus period (2000-08-25 to 2000-08-25), William Heitzman sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/william-heitzman-cerberus",
+    "name": "William Heitzman",
+    "email": "william_heitzman@cerberus.city.palo-alto.ca.us",
+    "primary_affiliation": "companies/cerberus"
+  }
+}

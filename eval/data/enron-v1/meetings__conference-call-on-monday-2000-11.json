@@ -1,0 +1,30 @@
+{
+  "slug": "meetings/conference-call-on-monday-2000-11",
+  "type": "meeting",
+  "title": "Meeting: Conference Call On Monday",
+  "compiled_truth": "Meeting: \"Conference Call On Monday\". Occurred 2000-11-17 with 1 related emails. Participants included: [Andy West](people/andy-west), [Bill Sperry](people/bill-sperry-chase), [Bill W Brown](people/bill-w-brown), [Catherine Pernot](people/catherine-pernot), [Greg Whalley](people/greg-whalley), [Jeffrey Mcmahon](people/jeffrey-mcmahon), [Jwoolbert](people/jwoolbert-baincap), [Ksmalls](people/ksmalls-baincap)....",
+  "timeline": "- **2000-11-17** | Meeting: conference call on monday",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/conference-call-on-monday-2000-11",
+    "attendees": [
+      "people/andy-west",
+      "people/bill-sperry-chase",
+      "people/bill-w-brown",
+      "people/catherine-pernot",
+      "people/greg-whalley",
+      "people/jeffrey-mcmahon",
+      "people/jwoolbert-baincap",
+      "people/ksmalls-baincap",
+      "people/mnunnelly-baincap",
+      "people/pedgerly-baincap",
+      "people/richard-walker-chase",
+      "people/sbhargava-baincap",
+      "people/scott-musch-chase",
+      "people/slava-brin-chase",
+      "people/susan-maceachron-chase",
+      "people/szide-baincap"
+    ],
+    "date": "2000-11-17"
+  }
+}

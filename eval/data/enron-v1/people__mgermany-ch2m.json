@@ -1,0 +1,14 @@
+{
+  "slug": "people/mgermany-ch2m",
+  "type": "person",
+  "title": "Mgermany",
+  "compiled_truth": "Mgermany is an external contact at [Ch2m](companies/ch2m). Over the corpus period (2000-01-10 to 2002-06-25), Mgermany sent 6 and received 103 emails, totalling 109 interactions. Top correspondents: [Chris Germany](people/chris-germany) (6), [Richardson' 'James](people/richardson-james) (2), [Corby' 'Jennifer](people/corby-jennifer) (2), [Morrison' 'Laura](people/morrison-laura) (2), [Swillia1](people/swillia1-ch2m) (1).",
+  "timeline": "- **2000-01-10** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mgermany-ch2m",
+    "name": "Mgermany",
+    "email": "mgermany@ch2m.com",
+    "primary_affiliation": "companies/ch2m"
+  }
+}

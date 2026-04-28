@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-rodriguez",
+  "type": "person",
+  "title": "A  Rodriguez",
+  "compiled_truth": "A  Rodriguez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-11 to 2001-11-21), A  Rodriguez sent 1 and received 4 emails, totalling 5 interactions. Top correspondents: [ Taylor](people/taylor) (1), [Holly Keiser](people/holly-keiser) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-06-11** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-rodriguez",
+    "name": "A  Rodriguez",
+    "email": "a..rodriguez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

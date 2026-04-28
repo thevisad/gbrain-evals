@@ -1,0 +1,14 @@
+{
+  "slug": "people/galin",
+  "type": "person",
+  "title": " Galin",
+  "compiled_truth": "Galin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2001-06-05),  Galin sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/galin",
+    "name": " Galin",
+    "email": ".galin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

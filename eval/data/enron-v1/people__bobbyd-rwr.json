@@ -1,0 +1,14 @@
+{
+  "slug": "people/bobbyd-rwr",
+  "type": "person",
+  "title": "Bobbyd",
+  "compiled_truth": "Bobbyd is an external contact at [Rwr](companies/rwr). Over the corpus period (2000-05-21 to 2001-02-12), Bobbyd sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2001-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bobbyd-rwr",
+    "name": "Bobbyd",
+    "email": "bobbyd@rwr.com",
+    "primary_affiliation": "companies/rwr"
+  }
+}

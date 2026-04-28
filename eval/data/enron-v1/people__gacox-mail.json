@@ -1,0 +1,14 @@
+{
+  "slug": "people/gacox-mail",
+  "type": "person",
+  "title": "Gacox",
+  "compiled_truth": "Gacox is an external contact at [Mail](companies/mail). Over the corpus period (2000-03-16 to 2001-12-12), Gacox sent 9 and received 48 emails, totalling 57 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (9).",
+  "timeline": "- **2000-03-16** | First recorded email in corpus\n- **2001-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gacox-mail",
+    "name": "Gacox",
+    "email": "gacox@mail.gsi-net.com",
+    "primary_affiliation": "companies/mail"
+  }
+}

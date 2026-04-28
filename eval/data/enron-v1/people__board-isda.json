@@ -1,0 +1,14 @@
+{
+  "slug": "people/board-isda",
+  "type": "person",
+  "title": "Board",
+  "compiled_truth": "Board is an external contact at [Isda](companies/isda). Over the corpus period (2000-09-07 to 2001-12-07), Board sent 0 and received 92 emails, totalling 92 interactions.",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/board-isda",
+    "name": "Board",
+    "email": "board@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

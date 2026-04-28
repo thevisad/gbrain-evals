@@ -1,0 +1,14 @@
+{
+  "slug": "people/bianca-ornelas",
+  "type": "person",
+  "title": "Bianca Ornelas",
+  "compiled_truth": "Bianca Ornelas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2001-11-27), Bianca Ornelas sent 6 and received 171 emails, totalling 177 interactions. Top correspondents: [T  Lucci](people/t-lucci) (2), [Ryan O'Rourke](people/ryan-o-rourke) (2), [Errol Mclaughlin](people/errol-mclaughlin) (2), [Susan Bailey](people/susan-bailey) (1), [Craig Breslau](people/craig-breslau) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bianca-ornelas",
+    "name": "Bianca Ornelas",
+    "email": "bianca.ornelas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

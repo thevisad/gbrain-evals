@@ -1,0 +1,14 @@
+{
+  "slug": "people/mbennett-epsa",
+  "type": "person",
+  "title": "Mbennett",
+  "compiled_truth": "Mbennett is an external contact at [Epsa](companies/epsa). Over the corpus period (2001-02-26 to 2001-10-29), Mbennett sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2001-02-26** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mbennett-epsa",
+    "name": "Mbennett",
+    "email": "mbennett@epsa.org",
+    "primary_affiliation": "companies/epsa"
+  }
+}

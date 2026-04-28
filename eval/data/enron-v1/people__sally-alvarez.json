@@ -1,0 +1,14 @@
+{
+  "slug": "people/sally-alvarez",
+  "type": "person",
+  "title": "Sally Alvarez",
+  "compiled_truth": "Sally Alvarez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-07 to 2001-12-03), Sally Alvarez sent 2 and received 14 emails, totalling 16 interactions. Top correspondents: [Steven Kean](people/steven-kean) (1), [Sarah Davis](people/sarah-davis) (1), [Robbin Stewart](people/robbin-stewart) (1), [Mary Clark](people/mary-clark) (1), [L  Mims](people/l-mims) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sally-alvarez",
+    "name": "Sally Alvarez",
+    "email": "sally.alvarez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

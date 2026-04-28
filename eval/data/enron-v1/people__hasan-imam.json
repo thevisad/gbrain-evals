@@ -1,0 +1,14 @@
+{
+  "slug": "people/hasan-imam",
+  "type": "person",
+  "title": "Hasan Imam",
+  "compiled_truth": "Hasan Imam is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-11-13), Hasan Imam sent 1 and received 4 emails, totalling 5 interactions. Top correspondents: [Lance Jameson](people/lance-jameson) (1), [Keith Dziadek](people/keith-dziadek) (1), [Martin Bucknell](people/martin-bucknell) (1), [Pete Castrejana](people/pete-castrejana) (1), [ Taylor](people/taylor) (1). Mailbox folders observed: archive.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hasan-imam",
+    "name": "Hasan Imam",
+    "email": "hasan.imam@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

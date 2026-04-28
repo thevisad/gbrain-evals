@@ -1,0 +1,14 @@
+{
+  "slug": "people/ttanton-epri",
+  "type": "person",
+  "title": "Ttanton",
+  "compiled_truth": "Ttanton is an external contact at [Epri](companies/epri). Over the corpus period (2001-07-25 to 2001-07-25), Ttanton sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ttanton-epri",
+    "name": "Ttanton",
+    "email": "ttanton@epri.com",
+    "primary_affiliation": "companies/epri"
+  }
+}

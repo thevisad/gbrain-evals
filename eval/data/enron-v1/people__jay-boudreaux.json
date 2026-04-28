@@ -1,0 +1,14 @@
+{
+  "slug": "people/jay-boudreaux",
+  "type": "person",
+  "title": "Jay Boudreaux",
+  "compiled_truth": "Jay Boudreaux is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-10 to 2001-11-27), Jay Boudreaux sent 2 and received 151 emails, totalling 153 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2), [Tana Jones](people/tana-jones) (2), [Richard Robinson](people/richard-robinson) (2), [Finley Biggerstaff](people/finley-biggerstaff) (2), [Peter Vecchio](people/peter-vecchio) (2).",
+  "timeline": "- **1999-11-10** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jay-boudreaux",
+    "name": "Jay Boudreaux",
+    "email": "jay.boudreaux@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

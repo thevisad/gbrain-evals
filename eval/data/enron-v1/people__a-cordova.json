@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-cordova",
+  "type": "person",
+  "title": "A  Cordova",
+  "compiled_truth": "A  Cordova is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-30 to 2002-06-21), A  Cordova sent 1 and received 32 emails, totalling 33 interactions. Top correspondents: [Stephanie Panus](people/stephanie-panus) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-11-30** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-cordova",
+    "name": "A  Cordova",
+    "email": "a..cordova@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

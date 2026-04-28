@@ -1,0 +1,14 @@
+{
+  "slug": "people/val-generes-ac",
+  "type": "person",
+  "title": "Val Generes",
+  "compiled_truth": "Val Generes is an external contact at [Ac](companies/ac). Over the corpus period (2000-02-09 to 2001-04-20), Val Generes sent 0 and received 219 emails, totalling 219 interactions.",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2001-04-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/val-generes-ac",
+    "name": "Val Generes",
+    "email": "val.generes@ac.com",
+    "primary_affiliation": "companies/ac"
+  }
+}

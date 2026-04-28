@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-robison",
+  "type": "person",
+  "title": "Michael Robison",
+  "compiled_truth": "Michael Robison is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2001-06-12), Michael Robison sent 7 and received 342 emails, totalling 349 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (4), [Alan Aronowitz](people/alan-aronowitz) (3), [Mark Haedicke](people/mark-haedicke) (2), [John Viverito](people/john-viverito) (2), [Paul Simons](people/paul-simons) (1).",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-robison",
+    "name": "Michael Robison",
+    "email": "michael.robison@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

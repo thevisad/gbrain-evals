@@ -1,0 +1,14 @@
+{
+  "slug": "people/shirley-isbell",
+  "type": "person",
+  "title": "Shirley Isbell",
+  "compiled_truth": "Shirley Isbell is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-26 to 2001-11-20), Shirley Isbell sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shirley-isbell",
+    "name": "Shirley Isbell",
+    "email": "shirley.isbell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

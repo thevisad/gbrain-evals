@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-moore",
+  "type": "person",
+  "title": "Mary Moore",
+  "compiled_truth": "Mary Moore is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-16), Mary Moore sent 11 and received 5 emails, totalling 16 interactions. Top correspondents: [Melissa Knightstep](people/melissa-knightstep) (11), [Marlene Clifford](people/marlene-clifford) (11), [Juan Barba](people/juan-barba) (11), [Rita Ramirez](people/rita-ramirez) (11), [Denise Naiser](people/denise-naiser) (11).",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-moore",
+    "name": "Mary Moore",
+    "email": "mary.moore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

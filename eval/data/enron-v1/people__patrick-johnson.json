@@ -1,0 +1,14 @@
+{
+  "slug": "people/patrick-johnson",
+  "type": "person",
+  "title": "Patrick Johnson",
+  "compiled_truth": "Patrick Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-10 to 2001-11-20), Patrick Johnson sent 5 and received 45 emails, totalling 50 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (5), [Mary Ogden](people/mary-ogden) (1), [Roger Westbrook](people/roger-westbrook) (1), [Rakhi Israni](people/rakhi-israni) (1), [N  Gray](people/n-gray) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-11-10** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patrick-johnson",
+    "name": "Patrick Johnson",
+    "email": "patrick.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mvincigu-lehman",
+  "type": "person",
+  "title": "Mvincigu",
+  "compiled_truth": "Mvincigu is an external contact at [Lehman](companies/lehman). Over the corpus period (1999-12-08 to 2000-05-09), Mvincigu sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **1999-12-08** | First recorded email in corpus\n- **2000-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mvincigu-lehman",
+    "name": "Mvincigu",
+    "email": "mvincigu@lehman.com",
+    "primary_affiliation": "companies/lehman"
+  }
+}

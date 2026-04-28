@@ -1,0 +1,14 @@
+{
+  "slug": "people/jpelti-lsuhsc",
+  "type": "person",
+  "title": "Jpelti",
+  "compiled_truth": "Jpelti is an external contact at [Lsuhsc](companies/lsuhsc). Over the corpus period (2000-07-24 to 2001-06-08), Jpelti sent 1 and received 24 emails, totalling 25 interactions. Top correspondents: [Chad Landry](people/chad-landry) (1).",
+  "timeline": "- **2000-07-24** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jpelti-lsuhsc",
+    "name": "Jpelti",
+    "email": "jpelti@lsuhsc.edu",
+    "primary_affiliation": "companies/lsuhsc"
+  }
+}

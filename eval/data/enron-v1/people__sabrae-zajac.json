@@ -1,0 +1,14 @@
+{
+  "slug": "people/sabrae-zajac",
+  "type": "person",
+  "title": "Sabrae Zajac",
+  "compiled_truth": "Sabrae Zajac is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2001-11-05), Sabrae Zajac sent 12 and received 139 emails, totalling 151 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (10), [Lauri Allen](people/lauri-allen) (6), [Carlos Rodriguez](people/carlos-rodriguez) (6), [Pat Clynes](people/pat-clynes) (6), [Gary Hanks](people/gary-hanks) (5). Mailbox folders observed: logistics, tufco.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2001-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sabrae-zajac",
+    "name": "Sabrae Zajac",
+    "email": "sabrae.zajac@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gregs-mid",
+  "type": "person",
+  "title": "Gregs",
+  "compiled_truth": "Gregs is an external contact at [Mid](companies/mid). Over the corpus period (1999-11-22 to 2001-07-31), Gregs sent 0 and received 61 emails, totalling 61 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gregs-mid",
+    "name": "Gregs",
+    "email": "gregs@mid.org",
+    "primary_affiliation": "companies/mid"
+  }
+}

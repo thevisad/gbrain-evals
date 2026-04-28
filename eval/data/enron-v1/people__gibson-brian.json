@@ -1,0 +1,14 @@
+{
+  "slug": "people/gibson-brian",
+  "type": "person",
+  "title": "Gibson Brian",
+  "compiled_truth": "Gibson Brian is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-11 to 2002-01-30), Gibson Brian sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2002-01-11** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gibson-brian",
+    "name": "Gibson Brian",
+    "email": "gibson.brian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

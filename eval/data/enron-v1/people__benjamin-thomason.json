@@ -1,0 +1,14 @@
+{
+  "slug": "people/benjamin-thomason",
+  "type": "person",
+  "title": "Benjamin Thomason",
+  "compiled_truth": "Benjamin Thomason is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-09), Benjamin Thomason sent 5 and received 59 emails, totalling 64 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (5), [Thomas Suffield](people/thomas-suffield) (1), [Tina Tennant](people/tina-tennant) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/benjamin-thomason",
+    "name": "Benjamin Thomason",
+    "email": "benjamin.thomason@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-mason",
+  "type": "person",
+  "title": "Robert Mason",
+  "compiled_truth": "Robert Mason is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2002-05-06), Robert Mason sent 10 and received 201 emails, totalling 211 interactions. Top correspondents: [Martha Janousek](people/martha-janousek) (8), [Paul Y'Barbo](people/paul-y-barbo) (8), [Vernon Mercaldo](people/vernon-mercaldo) (7), [Tk Lohman](people/tk-lohman) (7), [Mark Mcconnell](people/mark-mcconnell) (6). Mailbox folders observed: calendar, inbox.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-mason",
+    "name": "Robert Mason",
+    "email": "robert.mason@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sonia-garcia",
+  "type": "person",
+  "title": "Sonia Garcia",
+  "compiled_truth": "Sonia Garcia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-11-12), Sonia Garcia sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sonia-garcia",
+    "name": "Sonia Garcia",
+    "email": "sonia.garcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

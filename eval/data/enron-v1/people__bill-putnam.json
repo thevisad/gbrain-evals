@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-putnam",
+  "type": "person",
+  "title": "Bill Putnam",
+  "compiled_truth": "Bill Putnam is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-29 to 2001-10-03), Bill Putnam sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-06-29** | First recorded email in corpus\n- **2001-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-putnam",
+    "name": "Bill Putnam",
+    "email": "bill.putnam@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

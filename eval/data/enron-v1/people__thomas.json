@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas",
+  "type": "person",
+  "title": " Thomas",
+  "compiled_truth": "Thomas is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2002-05-17),  Thomas sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2002-05-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas",
+    "name": " Thomas",
+    "email": ".thomas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

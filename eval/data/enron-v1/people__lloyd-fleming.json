@@ -1,0 +1,14 @@
+{
+  "slug": "people/lloyd-fleming",
+  "type": "person",
+  "title": "Lloyd Fleming",
+  "compiled_truth": "Lloyd Fleming is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-28 to 2001-11-10), Lloyd Fleming sent 2 and received 93 emails, totalling 95 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (2), [Maureen Raymond](people/maureen-raymond) (1), [Tanya Tamarchenko](people/tanya-tamarchenko) (1).",
+  "timeline": "- **2000-06-28** | First recorded email in corpus\n- **2001-11-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lloyd-fleming",
+    "name": "Lloyd Fleming",
+    "email": "lloyd.fleming@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

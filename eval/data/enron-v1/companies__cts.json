@@ -1,0 +1,20 @@
+{
+  "slug": "companies/cts",
+  "type": "company",
+  "title": "Cts",
+  "compiled_truth": "Cts is an external organization that appears in the Enron email corpus. Domain: cts.com. Total email interactions with Enron: 300. Known contacts: 3 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (300 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/cts",
+    "name": "Cts",
+    "employees": [
+      "people/alewis-cts",
+      "people/burkee-cts",
+      "people/tomlong-cts"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

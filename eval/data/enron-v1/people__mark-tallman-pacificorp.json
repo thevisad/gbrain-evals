@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-tallman-pacificorp",
+  "type": "person",
+  "title": "Mark Tallman",
+  "compiled_truth": "Mark Tallman is an external contact at [Pacificorp](companies/pacificorp). Over the corpus period (2000-08-24 to 2001-12-19), Mark Tallman sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-08-24** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-tallman-pacificorp",
+    "name": "Mark Tallman",
+    "email": "mark.tallman@pacificorp.com",
+    "primary_affiliation": "companies/pacificorp"
+  }
+}

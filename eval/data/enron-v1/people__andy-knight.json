@@ -1,0 +1,14 @@
+{
+  "slug": "people/andy-knight",
+  "type": "person",
+  "title": "Andy Knight",
+  "compiled_truth": "Andy Knight is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-17 to 2001-02-08), Andy Knight sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2001-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andy-knight",
+    "name": "Andy Knight",
+    "email": "andy.knight@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

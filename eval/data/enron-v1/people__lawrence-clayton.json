@@ -1,0 +1,14 @@
+{
+  "slug": "people/lawrence-clayton",
+  "type": "person",
+  "title": "Lawrence Clayton",
+  "compiled_truth": "Lawrence Clayton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-11 to 2002-02-28), Lawrence Clayton sent 3 and received 275 emails, totalling 278 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (2), [Larry Campbell](people/larry-campbell) (1), [Kayne Coulter](people/kayne-coulter) (1), [Tom May](people/tom-may) (1), [Lori Maddox](people/lori-maddox) (1). Mailbox folders observed: deleted_items, projects.",
+  "timeline": "- **2000-05-11** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lawrence-clayton",
+    "name": "Lawrence Clayton",
+    "email": "lawrence.clayton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

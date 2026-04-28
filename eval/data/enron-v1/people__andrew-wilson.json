@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrew-wilson",
+  "type": "person",
+  "title": "Andrew Wilson",
+  "compiled_truth": "Andrew Wilson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-19), Andrew Wilson sent 4 and received 53 emails, totalling 57 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (4), [Lou Stoler](people/lou-stoler) (2), [Glenn Wright](people/glenn-wright) (2), [Christopher Helfrich](people/christopher-helfrich) (1), [Ken Sissingh](people/ken-sissingh) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrew-wilson",
+    "name": "Andrew Wilson",
+    "email": "andrew.wilson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

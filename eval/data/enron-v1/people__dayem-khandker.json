@@ -1,0 +1,14 @@
+{
+  "slug": "people/dayem-khandker",
+  "type": "person",
+  "title": "Dayem Khandker",
+  "compiled_truth": "Dayem Khandker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-25 to 2001-12-05), Dayem Khandker sent 1 and received 116 emails, totalling 117 interactions. Top correspondents: [John Griffith](people/john-griffith) (1).",
+  "timeline": "- **2000-04-25** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dayem-khandker",
+    "name": "Dayem Khandker",
+    "email": "dayem.khandker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

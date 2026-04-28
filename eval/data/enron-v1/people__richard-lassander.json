@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-lassander",
+  "type": "person",
+  "title": "Richard Lassander",
+  "compiled_truth": "Richard Lassander is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-22 to 2001-11-30), Richard Lassander sent 2 and received 35 emails, totalling 37 interactions. Top correspondents: [T  Hodge](people/t-hodge) (2), [A  Shankman](people/a-shankman) (2), [Jennifer Fraser](people/jennifer-fraser) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-02-22** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-lassander",
+    "name": "Richard Lassander",
+    "email": "richard.lassander@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-roland",
+  "type": "person",
+  "title": "David Roland",
+  "compiled_truth": "David Roland is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), David Roland sent 5 and received 55 emails, totalling 60 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (3), [Vicki Sharp](people/vicki-sharp) (2), [S  Muller](people/s-muller) (2), [W  Delainey](people/w-delainey) (2), [Jimmie Williams](people/jimmie-williams) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-roland",
+    "name": "David Roland",
+    "email": "david.roland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

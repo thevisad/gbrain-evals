@@ -1,0 +1,14 @@
+{
+  "slug": "people/eva-neufeld",
+  "type": "person",
+  "title": "Eva Neufeld",
+  "compiled_truth": "Eva Neufeld is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-12-21), Eva Neufeld sent 13 and received 76 emails, totalling 89 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (13), [Shonnie Daniel](people/shonnie-daniel) (11), [Janet Place](people/janet-place) (8), [Paul Miller](people/paul-miller) (6), [Robert Hill](people/robert-hill) (5).",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eva-neufeld",
+    "name": "Eva Neufeld",
+    "email": "eva.neufeld@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

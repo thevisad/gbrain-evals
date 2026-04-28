@@ -1,0 +1,14 @@
+{
+  "slug": "people/nicole-vo",
+  "type": "person",
+  "title": "Nicole Vo",
+  "compiled_truth": "Nicole Vo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2000-12-26), Nicole Vo sent 1 and received 15 emails, totalling 16 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (1).",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2000-12-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nicole-vo",
+    "name": "Nicole Vo",
+    "email": "nicole.vo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-lucky-yahoo",
+  "type": "person",
+  "title": "Bob Lucky",
+  "compiled_truth": "Bob Lucky is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-06-20 to 2000-11-25), Bob Lucky sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-lucky-yahoo",
+    "name": "Bob Lucky",
+    "email": "bob_lucky@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

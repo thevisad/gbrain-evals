@@ -1,0 +1,14 @@
+{
+  "slug": "people/april-gregory",
+  "type": "person",
+  "title": "April Gregory",
+  "compiled_truth": "April Gregory is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-25 to 2002-05-06), April Gregory sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2002-02-25** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/april-gregory",
+    "name": "April Gregory",
+    "email": "april.gregory@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

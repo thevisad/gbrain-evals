@@ -1,0 +1,14 @@
+{
+  "slug": "people/misti-day",
+  "type": "person",
+  "title": "Misti Day",
+  "compiled_truth": "Misti Day is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-30 to 2002-02-13), Misti Day sent 7 and received 84 emails, totalling 91 interactions. Top correspondents: [Faith Killen](people/faith-killen) (6), [Sarah Brown](people/sarah-brown) (5), [Louise Kitchen](people/louise-kitchen) (4), [Tammie Schoppe](people/tammie-schoppe) (4), [Ben Jacoby](people/ben-jacoby) (3). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/misti-day",
+    "name": "Misti Day",
+    "email": "misti.day@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

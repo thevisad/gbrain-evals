@@ -1,0 +1,14 @@
+{
+  "slug": "people/emitra-nelson",
+  "type": "person",
+  "title": "Emitra Nelson",
+  "compiled_truth": "Emitra Nelson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-28), Emitra Nelson sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/emitra-nelson",
+    "name": "Emitra Nelson",
+    "email": "emitra.nelson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

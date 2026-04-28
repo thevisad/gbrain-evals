@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-joyce",
+  "type": "person",
+  "title": "Mary Joyce",
+  "compiled_truth": "Mary Joyce is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-14 to 2002-01-18), Mary Joyce sent 21 and received 207 emails, totalling 228 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (10), [Pam Butler](people/pam-butler) (7), [David Oxley](people/david-oxley) (4), [Greg Whalley](people/greg-whalley) (3), [Timothy Callahan](people/timothy-callahan) (2). Mailbox folders observed: _americas, calendar, deleted_items, ei_execs, inbox.",
+  "timeline": "- **2000-02-14** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-joyce",
+    "name": "Mary Joyce",
+    "email": "mary.joyce@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

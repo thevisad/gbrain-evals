@@ -1,0 +1,14 @@
+{
+  "slug": "people/t-zivley",
+  "type": "person",
+  "title": "T  Zivley",
+  "compiled_truth": "T  Zivley is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-26 to 2001-12-07), T  Zivley sent 14 and received 62 emails, totalling 76 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (9), [Judy Thorne](people/judy-thorne) (6), [J  Farmer](people/j-farmer) (3), [A  Martin](people/a-martin) (3), [Debra Perlingiere](people/debra-perlingiere) (3). Mailbox folders observed: enron_news, inbox, logistics, term_proposals.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/t-zivley",
+    "name": "T  Zivley",
+    "email": "t..zivley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

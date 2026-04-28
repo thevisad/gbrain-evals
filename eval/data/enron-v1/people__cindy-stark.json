@@ -1,0 +1,14 @@
+{
+  "slug": "people/cindy-stark",
+  "type": "person",
+  "title": "Cindy Stark",
+  "compiled_truth": "Cindy Stark is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-16 to 2002-03-22), Cindy Stark sent 167 and received 412 emails, totalling 579 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (53), [Shelley Corman](people/shelley-corman) (42), [Danny Mccarty](people/danny-mccarty) (40), [Steve Hotte](people/steve-hotte) (39), [Phil Lowry](people/phil-lowry) (36). Mailbox folders observed: _sent_mail, action_items_in, deleted_items, e_mail_bin, inbox, projects.",
+  "timeline": "- **1999-08-16** | First recorded email in corpus\n- **2002-03-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cindy-stark",
+    "name": "Cindy Stark",
+    "email": "cindy.stark@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

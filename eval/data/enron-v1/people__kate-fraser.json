@@ -1,0 +1,14 @@
+{
+  "slug": "people/kate-fraser",
+  "type": "person",
+  "title": "Kate Fraser",
+  "compiled_truth": "Kate Fraser is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-07-16), Kate Fraser sent 4 and received 259 emails, totalling 263 interactions. Top correspondents: [Scott Neal](people/scott-neal) (3), [Kyle Etter](people/kyle-etter) (2), [Mreges](people/mreges-keyspanenergy) (1), [Dan Junek](people/dan-junek) (1), [Chris Germany](people/chris-germany) (1).",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kate-fraser",
+    "name": "Kate Fraser",
+    "email": "kate.fraser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

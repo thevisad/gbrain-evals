@@ -1,0 +1,14 @@
+{
+  "slug": "people/bordenr-macleoddixon",
+  "type": "person",
+  "title": "Bordenr",
+  "compiled_truth": "Bordenr is an external contact at [Macleoddixon](companies/macleoddixon). Over the corpus period (2000-09-19 to 2000-09-29), Bordenr sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-09-19** | First recorded email in corpus\n- **2000-09-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bordenr-macleoddixon",
+    "name": "Bordenr",
+    "email": "bordenr@macleoddixon.com",
+    "primary_affiliation": "companies/macleoddixon"
+  }
+}

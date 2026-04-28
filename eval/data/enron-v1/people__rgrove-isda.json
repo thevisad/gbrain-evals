@@ -1,0 +1,14 @@
+{
+  "slug": "people/rgrove-isda",
+  "type": "person",
+  "title": "Rgrove",
+  "compiled_truth": "Rgrove is an external contact at [Isda](companies/isda). Over the corpus period (1999-09-24 to 2001-01-03), Rgrove sent 4 and received 50 emails, totalling 54 interactions. Top correspondents: [Board](people/board-isda) (2), [Rpickel](people/rpickel-isda) (2), [Rainslie](people/rainslie-isda) (2), [Scarey](people/scarey-isda) (2), [Isdalondon](people/isdalondon-isda) (1).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rgrove-isda",
+    "name": "Rgrove",
+    "email": "rgrove@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

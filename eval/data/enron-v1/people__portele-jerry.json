@@ -1,0 +1,14 @@
+{
+  "slug": "people/portele-jerry",
+  "type": "person",
+  "title": "Portele Jerry",
+  "compiled_truth": "Portele Jerry is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-20 to 2002-01-30), Portele Jerry sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-09-20** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/portele-jerry",
+    "name": "Portele Jerry",
+    "email": "portele.jerry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

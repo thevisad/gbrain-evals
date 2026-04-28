@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-hawkins",
+  "type": "person",
+  "title": "Linda Hawkins",
+  "compiled_truth": "Linda Hawkins is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2002-02-12), Linda Hawkins sent 2 and received 61 emails, totalling 63 interactions. Top correspondents: [Gerry Chatham](people/gerry-chatham) (2), [Mike Stewart](people/mike-stewart) (2), [Rick Phillips](people/rick-phillips) (1), [Bob Berry](people/bob-berry) (1), [Benjamin Rogers](people/benjamin-rogers) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2002-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-hawkins",
+    "name": "Linda Hawkins",
+    "email": "linda.hawkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

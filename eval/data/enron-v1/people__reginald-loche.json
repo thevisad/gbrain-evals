@@ -1,0 +1,14 @@
+{
+  "slug": "people/reginald-loche",
+  "type": "person",
+  "title": "Reginald Loche",
+  "compiled_truth": "Reginald Loche is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-08 to 2000-11-03), Reginald Loche sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-03-08** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reginald-loche",
+    "name": "Reginald Loche",
+    "email": "reginald.loche@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

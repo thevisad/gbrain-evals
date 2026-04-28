@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-hudson",
+  "type": "person",
+  "title": "John Hudson",
+  "compiled_truth": "John Hudson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-10-24), John Hudson sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-hudson",
+    "name": "John Hudson",
+    "email": "john.hudson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mpmanion-mtpower",
+  "type": "person",
+  "title": "Mpmanion",
+  "compiled_truth": "Mpmanion is an external contact at [Mtpower](companies/mtpower). Over the corpus period (2000-06-23 to 2001-03-16), Mpmanion sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mpmanion-mtpower",
+    "name": "Mpmanion",
+    "email": "mpmanion@mtpower.com",
+    "primary_affiliation": "companies/mtpower"
+  }
+}

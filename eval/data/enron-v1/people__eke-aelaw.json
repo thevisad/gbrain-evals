@@ -1,0 +1,14 @@
+{
+  "slug": "people/eke-aelaw",
+  "type": "person",
+  "title": "Eke",
+  "compiled_truth": "Eke is an external contact at [Aelaw](companies/aelaw). Over the corpus period (1999-09-24 to 2001-11-08), Eke sent 16 and received 346 emails, totalling 362 interactions. Top correspondents: [Kmccrea](people/kmccrea-sablaw) (8), [Jdasovic](people/jdasovic) (7), [Jeff Dasovich](people/jeff-dasovich) (6), [Rcavanagh](people/rcavanagh-nrdc) (5), [Wbooth](people/wbooth-booth-law) (5).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eke-aelaw",
+    "name": "Eke",
+    "email": "eke@aelaw.com",
+    "primary_affiliation": "companies/aelaw"
+  }
+}

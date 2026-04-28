@@ -1,0 +1,14 @@
+{
+  "slug": "people/jbarnett-coral-energy",
+  "type": "person",
+  "title": "Jbarnett",
+  "compiled_truth": "Jbarnett is an external contact at [Coral-energy](companies/coral-energy). Over the corpus period (2000-11-10 to 2001-03-16), Jbarnett sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jbarnett-coral-energy",
+    "name": "Jbarnett",
+    "email": "jbarnett@coral-energy.com",
+    "primary_affiliation": "companies/coral-energy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dgioffre-hotmail",
+  "type": "person",
+  "title": "Dgioffre",
+  "compiled_truth": "Dgioffre is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (1999-12-12 to 2001-10-17), Dgioffre sent 66 and received 25 emails, totalling 91 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (50), [Clukawski](people/clukawski-hitt-gc) (37), [Jpenney](people/jpenney-hollandlessard) (36), [Jverre99](people/jverre99-hotmail) (34), [Ptrintis](people/ptrintis-cs) (31).",
+  "timeline": "- **1999-12-12** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dgioffre-hotmail",
+    "name": "Dgioffre",
+    "email": "dgioffre@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

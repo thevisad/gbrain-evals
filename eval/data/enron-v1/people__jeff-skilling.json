@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-skilling",
+  "type": "person",
+  "title": "Jeff Skilling",
+  "compiled_truth": "Jeff Skilling is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-01-06 to 2001-11-16), Jeff Skilling sent 79 and received 1650 emails, totalling 1729 interactions. Top correspondents: [Sherri Sera](people/sherri-sera) (16), [Kevin Hannon](people/kevin-hannon) (7), [Joannie Williamson](people/joannie-williamson) (7), [Rick Buy](people/rick-buy) (6), [Rebecca Carter](people/rebecca-carter) (6). Mailbox folders observed: _americas, _sent_mail, sent, sent_items.",
+  "timeline": "- **1998-01-06** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-skilling",
+    "name": "Jeff Skilling",
+    "email": "jeff.skilling@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

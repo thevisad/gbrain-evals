@@ -1,0 +1,14 @@
+{
+  "slug": "people/allison-mchenry",
+  "type": "person",
+  "title": "Allison Mchenry",
+  "compiled_truth": "Allison Mchenry is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-04-16), Allison Mchenry sent 3 and received 102 emails, totalling 105 interactions. Top correspondents: [Debra Perlingiere](people/debra-perlingiere) (3), [Tami Scrudder](people/tami-scrudder) (1).",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-04-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/allison-mchenry",
+    "name": "Allison Mchenry",
+    "email": "allison.mchenry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

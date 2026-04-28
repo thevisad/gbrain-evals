@@ -1,0 +1,14 @@
+{
+  "slug": "people/kpoole-adamsbroadwell",
+  "type": "person",
+  "title": "Kpoole",
+  "compiled_truth": "Kpoole is an external contact at [Adamsbroadwell](companies/adamsbroadwell). Over the corpus period (1999-09-24 to 2001-07-31), Kpoole sent 0 and received 57 emails, totalling 57 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kpoole-adamsbroadwell",
+    "name": "Kpoole",
+    "email": "kpoole@adamsbroadwell.com",
+    "primary_affiliation": "companies/adamsbroadwell"
+  }
+}

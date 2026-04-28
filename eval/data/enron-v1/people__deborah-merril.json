@@ -1,0 +1,14 @@
+{
+  "slug": "people/deborah-merril",
+  "type": "person",
+  "title": "Deborah Merril",
+  "compiled_truth": "Deborah Merril is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2002-01-30), Deborah Merril sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deborah-merril",
+    "name": "Deborah Merril",
+    "email": "deborah.merril@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

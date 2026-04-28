@@ -1,0 +1,14 @@
+{
+  "slug": "people/lummis-fred",
+  "type": "person",
+  "title": "Lummis' 'Fred",
+  "compiled_truth": "Lummis' 'Fred is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-17 to 2001-08-24), Lummis' 'Fred sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-07-17** | First recorded email in corpus\n- **2001-08-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lummis-fred",
+    "name": "Lummis' 'Fred",
+    "email": "lummis'.'fred@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

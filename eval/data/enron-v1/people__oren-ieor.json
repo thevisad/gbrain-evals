@@ -1,0 +1,14 @@
+{
+  "slug": "people/oren-ieor",
+  "type": "person",
+  "title": "Oren",
+  "compiled_truth": "Oren is an external contact at [Ieor](companies/ieor). Over the corpus period (2000-08-08 to 2001-10-12), Oren sent 13 and received 17 emails, totalling 30 interactions. Top correspondents: [Vince J Kaminski](people/vince-j-kaminski) (5), [Tyson](people/tyson-haas) (3), [Tom Campbell](people/tom-campbell-law) (3), [Shmuel](people/shmuel-euler) (3), [Willrichm](people/willrichm-aol) (3).",
+  "timeline": "- **2000-08-08** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/oren-ieor",
+    "name": "Oren",
+    "email": "oren@ieor.berkeley.edu",
+    "primary_affiliation": "companies/ieor"
+  }
+}

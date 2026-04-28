@@ -1,0 +1,14 @@
+{
+  "slug": "people/deborah-guillory",
+  "type": "person",
+  "title": "Deborah Guillory",
+  "compiled_truth": "Deborah Guillory is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-11 to 2001-10-12), Deborah Guillory sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-05-11** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deborah-guillory",
+    "name": "Deborah Guillory",
+    "email": "deborah.guillory@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

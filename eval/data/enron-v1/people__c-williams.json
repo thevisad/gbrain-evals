@@ -1,0 +1,14 @@
+{
+  "slug": "people/c-williams",
+  "type": "person",
+  "title": "C  Williams",
+  "compiled_truth": "C  Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-11 to 2002-02-05), C  Williams sent 80 and received 396 emails, totalling 476 interactions. Top correspondents: [B  Sanders](people/b-sanders) (31), [D  Steffes](people/d-steffes) (29), [James Derrick](people/james-derrick) (18), [Jeff Dasovich](people/jeff-dasovich) (18), [Susan Mara](people/susan-mara) (12). Mailbox folders observed: california_issues, deleted_items, ees_neg_ctc, inbox, senator_dunn_inv_.",
+  "timeline": "- **2001-02-11** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/c-williams",
+    "name": "C  Williams",
+    "email": "c..williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

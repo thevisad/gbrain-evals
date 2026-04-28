@@ -1,0 +1,14 @@
+{
+  "slug": "people/judy-martinez",
+  "type": "person",
+  "title": "Judy Martinez",
+  "compiled_truth": "Judy Martinez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2001-11-20), Judy Martinez sent 2 and received 59 emails, totalling 61 interactions. Top correspondents: [Mike Curry](people/mike-curry) (2), [Doug Gilbert-Smith](people/doug-gilbert-smith) (2), [M  Forney](people/m-forney) (1), [L  Day](people/l-day) (1), [Madhup Kumar](people/madhup-kumar) (1). Mailbox folders observed: calendar, personal.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/judy-martinez",
+    "name": "Judy Martinez",
+    "email": "judy.martinez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

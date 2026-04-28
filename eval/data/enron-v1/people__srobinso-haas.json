@@ -1,0 +1,14 @@
+{
+  "slug": "people/srobinso-haas",
+  "type": "person",
+  "title": "Srobinso",
+  "compiled_truth": "Srobinso is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-04-06), Srobinso sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-04-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/srobinso-haas",
+    "name": "Srobinso",
+    "email": "srobinso@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

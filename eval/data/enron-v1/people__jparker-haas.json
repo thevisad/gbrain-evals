@@ -1,0 +1,14 @@
+{
+  "slug": "people/jparker-haas",
+  "type": "person",
+  "title": "Jparker",
+  "compiled_truth": "Jparker is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-12-05), Jparker sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jparker-haas",
+    "name": "Jparker",
+    "email": "jparker@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

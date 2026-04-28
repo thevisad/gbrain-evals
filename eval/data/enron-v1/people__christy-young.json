@@ -1,0 +1,14 @@
+{
+  "slug": "people/christy-young",
+  "type": "person",
+  "title": "Christy Young",
+  "compiled_truth": "Christy Young is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-17 to 2000-08-11), Christy Young sent 1 and received 10 emails, totalling 11 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1).",
+  "timeline": "- **2000-01-17** | First recorded email in corpus\n- **2000-08-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christy-young",
+    "name": "Christy Young",
+    "email": "christy.young@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

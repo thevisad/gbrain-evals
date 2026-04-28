@@ -1,0 +1,14 @@
+{
+  "slug": "people/brians-rwr",
+  "type": "person",
+  "title": "Brians",
+  "compiled_truth": "Brians is an external contact at [Rwr](companies/rwr). Over the corpus period (2000-06-20 to 2000-11-25), Brians sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brians-rwr",
+    "name": "Brians",
+    "email": "brians@rwr.com",
+    "primary_affiliation": "companies/rwr"
+  }
+}

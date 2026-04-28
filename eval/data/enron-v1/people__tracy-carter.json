@@ -1,0 +1,14 @@
+{
+  "slug": "people/tracy-carter",
+  "type": "person",
+  "title": "Tracy Carter",
+  "compiled_truth": "Tracy Carter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-12-04), Tracy Carter sent 1 and received 16 emails, totalling 17 interactions. Top correspondents: [Gail Brownfeld](people/gail-brownfeld) (1), [B  Sanders](people/b-sanders) (1), [Eileen Kisluk](people/eileen-kisluk) (1), [David Lund](people/david-lund) (1), [Robert Vote](people/robert-vote) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tracy-carter",
+    "name": "Tracy Carter",
+    "email": "tracy.carter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

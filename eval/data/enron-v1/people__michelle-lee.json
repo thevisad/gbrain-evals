@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-lee",
+  "type": "person",
+  "title": "Michelle Lee",
+  "compiled_truth": "Michelle Lee is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-24 to 2000-08-29), Michelle Lee sent 1 and received 6 emails, totalling 7 interactions. Top correspondents: [Matthias Lee](people/matthias-lee) (1), [Christopher Hunt](people/christopher-hunt) (1), [Joseph Hirl](people/joseph-hirl) (1), [David Forster](people/david-forster) (1), [John Ambler](people/john-ambler) (1).",
+  "timeline": "- **2000-08-24** | First recorded email in corpus\n- **2000-08-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-lee",
+    "name": "Michelle Lee",
+    "email": "michelle.lee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

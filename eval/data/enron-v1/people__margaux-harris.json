@@ -1,0 +1,14 @@
+{
+  "slug": "people/margaux-harris",
+  "type": "person",
+  "title": "Margaux Harris",
+  "compiled_truth": "Margaux Harris is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-13 to 2001-10-26), Margaux Harris sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [Tricia Despain](people/tricia-despain) (1), [Rick Buy](people/rick-buy) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-09-13** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margaux-harris",
+    "name": "Margaux Harris",
+    "email": "margaux.harris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

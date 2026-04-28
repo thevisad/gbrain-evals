@@ -1,0 +1,14 @@
+{
+  "slug": "people/peter-feltman",
+  "type": "person",
+  "title": "Peter Feltman",
+  "compiled_truth": "Peter Feltman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-08-22), Peter Feltman sent 7 and received 46 emails, totalling 53 interactions. Top correspondents: [Tana Jones](people/tana-jones) (7), [Mathis Conner](people/mathis-conner) (6), [Mark Greenberg](people/mark-greenberg) (5), [Lbautista](people/lbautista-flagtelecom) (2), [Rex Shelby](people/rex-shelby) (2).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-08-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peter-feltman",
+    "name": "Peter Feltman",
+    "email": "peter.feltman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

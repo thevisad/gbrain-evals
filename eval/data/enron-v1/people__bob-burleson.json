@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-burleson",
+  "type": "person",
+  "title": "Bob Burleson",
+  "compiled_truth": "Bob Burleson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-09 to 2002-02-11), Bob Burleson sent 19 and received 388 emails, totalling 407 interactions. Top correspondents: [Michelle Lokay](people/michelle-lokay) (13), [Earl Chanley](people/earl-chanley) (6), [Darrell Schoolcraft](people/darrell-schoolcraft) (5), [Lkunkel](people/lkunkel-trigon-sheehan) (4), [Lee Huber](people/lee-huber) (3). Mailbox folders observed: deleted_items, inbox, projects, tw_commercial_group.",
+  "timeline": "- **2000-06-09** | First recorded email in corpus\n- **2002-02-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-burleson",
+    "name": "Bob Burleson",
+    "email": "bob.burleson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

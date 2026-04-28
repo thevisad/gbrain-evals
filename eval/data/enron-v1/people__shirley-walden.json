@@ -1,0 +1,14 @@
+{
+  "slug": "people/shirley-walden",
+  "type": "person",
+  "title": "Shirley Walden",
+  "compiled_truth": "Shirley Walden is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2002-03-25), Shirley Walden sent 0 and received 196 emails, totalling 196 interactions.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shirley-walden",
+    "name": "Shirley Walden",
+    "email": "shirley.walden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rusty-belflower",
+  "type": "person",
+  "title": "Rusty Belflower",
+  "compiled_truth": "Rusty Belflower is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-12 to 2001-06-01), Rusty Belflower sent 6 and received 93 emails, totalling 99 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (6), [Lhand](people/lhand-lemle) (5), [Abaird](people/abaird-lemle) (2), [David Owen](people/david-owen) (2), [Robert Morgan](people/robert-morgan) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-05-12** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rusty-belflower",
+    "name": "Rusty Belflower",
+    "email": "rusty.belflower@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

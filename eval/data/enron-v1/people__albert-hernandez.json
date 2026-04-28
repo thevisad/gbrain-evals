@@ -1,0 +1,14 @@
+{
+  "slug": "people/albert-hernandez",
+  "type": "person",
+  "title": "Albert Hernandez",
+  "compiled_truth": "Albert Hernandez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-06-27), Albert Hernandez sent 0 and received 90 emails, totalling 90 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/albert-hernandez",
+    "name": "Albert Hernandez",
+    "email": "albert.hernandez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

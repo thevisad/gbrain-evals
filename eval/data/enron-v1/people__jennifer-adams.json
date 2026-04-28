@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-adams",
+  "type": "person",
+  "title": "Jennifer Adams",
+  "compiled_truth": "Jennifer Adams is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-12-03), Jennifer Adams sent 0 and received 82 emails, totalling 82 interactions.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-adams",
+    "name": "Jennifer Adams",
+    "email": "jennifer.adams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

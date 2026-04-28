@@ -1,0 +1,14 @@
+{
+  "slug": "people/caletc-ix",
+  "type": "person",
+  "title": "Caletc",
+  "compiled_truth": "Caletc is an external contact at [Ix](companies/ix). Over the corpus period (2001-04-11 to 2001-04-19), Caletc sent 2 and received 0 emails, totalling 2 interactions. Top correspondents: [Smccabe](people/smccabe-mccabeandcompany) (2), [Sgovenar](people/sgovenar-govadv) (2), [Thackbarth](people/thackbarth-govadv) (2), [Robbiz](people/robbiz-cwo) (2), [Rventurini](people/rventurini-teamgsi) (2).",
+  "timeline": "- **2001-04-11** | First recorded email in corpus\n- **2001-04-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/caletc-ix",
+    "name": "Caletc",
+    "email": "caletc@ix.netcom.com",
+    "primary_affiliation": "companies/ix"
+  }
+}

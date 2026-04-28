@@ -1,0 +1,14 @@
+{
+  "slug": "people/tony-wolfe",
+  "type": "person",
+  "title": "Tony Wolfe",
+  "compiled_truth": "Tony Wolfe is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-13 to 2001-11-17), Tony Wolfe sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2001-11-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tony-wolfe",
+    "name": "Tony Wolfe",
+    "email": "tony.wolfe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

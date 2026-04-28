@@ -1,0 +1,14 @@
+{
+  "slug": "people/karie-hastings",
+  "type": "person",
+  "title": "Karie Hastings",
+  "compiled_truth": "Karie Hastings is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-07 to 2001-10-17), Karie Hastings sent 2 and received 24 emails, totalling 26 interactions. Top correspondents: [Julie Meyers](people/julie-meyers) (2), [Daren Farmer](people/daren-farmer) (2), [Scott Mills](people/scott-mills) (1).",
+  "timeline": "- **2000-01-07** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karie-hastings",
+    "name": "Karie Hastings",
+    "email": "karie.hastings@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

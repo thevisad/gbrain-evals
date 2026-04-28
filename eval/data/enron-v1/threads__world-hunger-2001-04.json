@@ -1,0 +1,27 @@
+{
+  "slug": "threads/world-hunger-2001-04",
+  "type": "meeting",
+  "title": "Thread: World Hunger",
+  "compiled_truth": "Email thread: \"World Hunger\". Ran from 2001-04-16 to 2001-04-27 with 12 messages. Participants: [Bob Carter](people/bob-carter), [Dean Russell](people/dean-russell), [Ed B Hearn Iii](people/ed-b-hearn-iii), [Ed Iii](people/ed-iii), [John G Rigby](people/john-g-rigby), [Kay Mann](people/kay-mann), [Kent Shoemaker](people/kent-shoemaker-ae), [Michael Barnas](people/michael-barnas-ps).",
+  "timeline": "- **2001-04-16** | Thread begins: world hunger\n- **2001-04-27** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/world-hunger-2001-04",
+    "attendees": [
+      "people/bob-carter",
+      "people/dean-russell",
+      "people/ed-b-hearn-iii",
+      "people/ed-iii",
+      "people/john-g-rigby",
+      "people/kay-mann",
+      "people/kent-shoemaker-ae",
+      "people/michael-barnas-ps",
+      "people/pthompson-akllp",
+      "people/roseann-engeldorf",
+      "people/scott-dieball",
+      "people/sheila-tweed",
+      "people/stephen-swift-ps"
+    ],
+    "date": "2001-04-16"
+  }
+}

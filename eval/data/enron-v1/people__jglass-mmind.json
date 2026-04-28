@@ -1,0 +1,14 @@
+{
+  "slug": "people/jglass-mmind",
+  "type": "person",
+  "title": "Jglass",
+  "compiled_truth": "Jglass is an external contact at [Mmind](companies/mmind). Over the corpus period (2000-09-14 to 2001-09-28), Jglass sent 0 and received 45 emails, totalling 45 interactions.",
+  "timeline": "- **2000-09-14** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jglass-mmind",
+    "name": "Jglass",
+    "email": "jglass@mmind.net",
+    "primary_affiliation": "companies/mmind"
+  }
+}

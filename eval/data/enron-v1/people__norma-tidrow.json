@@ -1,0 +1,14 @@
+{
+  "slug": "people/norma-tidrow",
+  "type": "person",
+  "title": "Norma Tidrow",
+  "compiled_truth": "Norma Tidrow is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-27), Norma Tidrow sent 2 and received 14 emails, totalling 16 interactions. Top correspondents: [James Derrick](people/james-derrick) (2), [Stephanie Harris](people/stephanie-harris) (2), [Amanda Martin](people/amanda-martin) (1), [Michael Wood](people/michael-wood) (1), [Susan Kalich](people/susan-kalich) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/norma-tidrow",
+    "name": "Norma Tidrow",
+    "email": "norma.tidrow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

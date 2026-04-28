@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeldredge-velaw",
+  "type": "person",
+  "title": "Jeldredge",
+  "compiled_truth": "Jeldredge is an external contact at [Vinson & Elkins](companies/vinson-elkins). Over the corpus period (2000-04-12 to 2000-06-21), Jeldredge sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-04-12** | First recorded email in corpus\n- **2000-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeldredge-velaw",
+    "name": "Jeldredge",
+    "email": "jeldredge@velaw.com",
+    "primary_affiliation": "companies/vinson-elkins"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/n-gray",
+  "type": "person",
+  "title": "N  Gray",
+  "compiled_truth": "N  Gray is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-13 to 2002-06-21), N  Gray sent 47 and received 471 emails, totalling 518 interactions. Top correspondents: [ Taylor](people/taylor) (13), [Gerald Nemec](people/gerald-nemec) (9), [Susan Bailey](people/susan-bailey) (6), [Marie Heard](people/marie-heard) (6), [Sara Shackleton](people/sara-shackleton) (6). Mailbox folders observed: _americas, archive, bammel_stg, bankrupt, deleted_items, inbox.",
+  "timeline": "- **2001-06-13** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/n-gray",
+    "name": "N  Gray",
+    "email": "n..gray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

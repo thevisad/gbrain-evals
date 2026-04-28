@@ -1,0 +1,14 @@
+{
+  "slug": "people/regaffairs-sf",
+  "type": "person",
+  "title": "Regaffairs",
+  "compiled_truth": "Regaffairs is an external contact at [Sf](companies/sf). Over the corpus period (2000-07-07 to 2001-07-31), Regaffairs sent 0 and received 59 emails, totalling 59 interactions.",
+  "timeline": "- **2000-07-07** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/regaffairs-sf",
+    "name": "Regaffairs",
+    "email": "regaffairs@sf.whitecase.com",
+    "primary_affiliation": "companies/sf"
+  }
+}

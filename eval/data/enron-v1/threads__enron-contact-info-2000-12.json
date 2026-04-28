@@ -1,0 +1,41 @@
+{
+  "slug": "threads/enron-contact-info-2000-12",
+  "type": "meeting",
+  "title": "Thread: Enron Contact Info",
+  "compiled_truth": "Email thread: \"Enron Contact Info\". Ran from 2000-12-07 to 2000-12-19 with 7 messages. Participants: [Bassalo](people/bassalo-wharton), [Bhallat](people/bhallat-wharton), [Camoglum](people/camoglum-wharton), [Christie Patrick](people/christie-patrick), [Clayton Degiacinto Wg02](people/clayton-degiacinto-wg02-wharton), [Dennis Feerick Wg02](people/dennis-feerick-wg02-wharton), [Edsono](people/edsono-wharton), [Fap](people/fap-management).",
+  "timeline": "- **2000-12-07** | Thread begins: enron contact info\n- **2000-12-19** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-contact-info-2000-12",
+    "attendees": [
+      "people/bassalo-wharton",
+      "people/bhallat-wharton",
+      "people/camoglum-wharton",
+      "people/christie-patrick",
+      "people/clayton-degiacinto-wg02-wharton",
+      "people/dennis-feerick-wg02-wharton",
+      "people/edsono-wharton",
+      "people/fap-management",
+      "people/gustavop-wharton",
+      "people/hethorne-wharton",
+      "people/jack-rejtman-wg02-wharton",
+      "people/jeffrey-shankman",
+      "people/levent86-wharton",
+      "people/mallikd-wharton",
+      "people/marc-cummins-wg02-wharton",
+      "people/marcjc-wharton",
+      "people/mhenahan-wharton",
+      "people/mvittal-wharton",
+      "people/nicholas-levitt-wg02-wharton",
+      "people/singhjai-wharton",
+      "people/stephen-lessar-wg02-wharton",
+      "people/thomas-wharton",
+      "people/vince-kaminski",
+      "people/vincent-chen-wg02-wharton",
+      "people/vkamins",
+      "people/weigelt-wharton",
+      "people/whitselk-wharton"
+    ],
+    "date": "2000-12-07"
+  }
+}

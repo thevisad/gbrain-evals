@@ -1,0 +1,14 @@
+{
+  "slug": "people/silio-aparicio",
+  "type": "person",
+  "title": "Silio Aparicio",
+  "compiled_truth": "Silio Aparicio is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2001-11-20), Silio Aparicio sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/silio-aparicio",
+    "name": "Silio Aparicio",
+    "email": "silio.aparicio@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

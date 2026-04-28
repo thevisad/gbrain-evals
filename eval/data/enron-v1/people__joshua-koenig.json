@@ -1,0 +1,14 @@
+{
+  "slug": "people/joshua-koenig",
+  "type": "person",
+  "title": "Joshua Koenig",
+  "compiled_truth": "Joshua Koenig is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-30 to 2000-12-11), Joshua Koenig sent 1 and received 16 emails, totalling 17 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1).",
+  "timeline": "- **2000-06-30** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joshua-koenig",
+    "name": "Joshua Koenig",
+    "email": "joshua.koenig@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

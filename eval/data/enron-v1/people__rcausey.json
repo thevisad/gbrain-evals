@@ -1,0 +1,14 @@
+{
+  "slug": "people/rcausey",
+  "type": "person",
+  "title": "Rcausey",
+  "compiled_truth": "Rcausey is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-04-30), Rcausey sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rcausey",
+    "name": "Rcausey",
+    "email": "rcausey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/robbinkr-bp",
+  "type": "person",
+  "title": "Robbinkr",
+  "compiled_truth": "Robbinkr is an external contact at [Bp](companies/bp). Over the corpus period (2000-10-30 to 2001-04-25), Robbinkr sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2001-04-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robbinkr-bp",
+    "name": "Robbinkr",
+    "email": "robbinkr@bp.com",
+    "primary_affiliation": "companies/bp"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tp2jxv-socalgas",
+  "type": "person",
+  "title": "Tp2Jxv",
+  "compiled_truth": "Tp2Jxv is an external contact at [Socalgas](companies/socalgas). Over the corpus period (2000-03-30 to 2000-07-31), Tp2Jxv sent 0 and received 73 emails, totalling 73 interactions.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2000-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tp2jxv-socalgas",
+    "name": "Tp2Jxv",
+    "email": "tp2jxv@socalgas.com",
+    "primary_affiliation": "companies/socalgas"
+  }
+}

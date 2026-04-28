@@ -1,0 +1,14 @@
+{
+  "slug": "people/dchezar-bug",
+  "type": "person",
+  "title": "Dchezar",
+  "compiled_truth": "Dchezar is an external contact at [Bug](companies/bug). Over the corpus period (2000-02-12 to 2000-02-12), Dchezar sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dchezar-bug",
+    "name": "Dchezar",
+    "email": "dchezar@bug.com",
+    "primary_affiliation": "companies/bug"
+  }
+}

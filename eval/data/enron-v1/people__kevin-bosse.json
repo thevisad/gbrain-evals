@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-bosse",
+  "type": "person",
+  "title": "Kevin Bosse",
+  "compiled_truth": "Kevin Bosse is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-03 to 2002-05-02), Kevin Bosse sent 2 and received 227 emails, totalling 229 interactions. Mailbox folders observed: personal.",
+  "timeline": "- **2000-04-03** | First recorded email in corpus\n- **2002-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-bosse",
+    "name": "Kevin Bosse",
+    "email": "kevin.bosse@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jmartinez-sel",
+  "type": "person",
+  "title": "Jmartinez",
+  "compiled_truth": "Jmartinez is an external contact at [Sel](companies/sel). Over the corpus period (2002-01-25 to 2002-01-29), Jmartinez sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-25** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jmartinez-sel",
+    "name": "Jmartinez",
+    "email": "jmartinez@sel.com",
+    "primary_affiliation": "companies/sel"
+  }
+}

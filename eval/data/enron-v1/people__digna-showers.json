@@ -1,0 +1,14 @@
+{
+  "slug": "people/digna-showers",
+  "type": "person",
+  "title": "Digna Showers",
+  "compiled_truth": "Digna Showers is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-26), Digna Showers sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/digna-showers",
+    "name": "Digna Showers",
+    "email": "digna.showers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

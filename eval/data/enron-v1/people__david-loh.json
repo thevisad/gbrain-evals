@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-loh",
+  "type": "person",
+  "title": "David Loh",
+  "compiled_truth": "David Loh is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-17 to 2001-11-27), David Loh sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2001-10-17** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-loh",
+    "name": "David Loh",
+    "email": "david.loh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

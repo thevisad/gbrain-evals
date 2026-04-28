@@ -1,0 +1,14 @@
+{
+  "slug": "people/nikki-slade",
+  "type": "person",
+  "title": "Nikki Slade",
+  "compiled_truth": "Nikki Slade is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-02 to 2002-01-11), Nikki Slade sent 2 and received 25 emails, totalling 27 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (2), [Mark Taylor](people/mark-taylor) (1), [David Forster](people/david-forster) (1), [Bob Shults](people/bob-shults) (1), [Marcello Romano](people/marcello-romano) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-08-02** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nikki-slade",
+    "name": "Nikki Slade",
+    "email": "nikki.slade@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

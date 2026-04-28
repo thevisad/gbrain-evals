@@ -1,0 +1,14 @@
+{
+  "slug": "people/grace-i-davis-intel",
+  "type": "person",
+  "title": "Grace I Davis",
+  "compiled_truth": "Grace I Davis is an external contact at [Intel](companies/intel). Over the corpus period (2001-05-16 to 2001-11-14), Grace I Davis sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-05-16** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/grace-i-davis-intel",
+    "name": "Grace I Davis",
+    "email": "grace.i.davis@intel.com",
+    "primary_affiliation": "companies/intel"
+  }
+}

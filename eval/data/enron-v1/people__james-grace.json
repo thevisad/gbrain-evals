@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-grace",
+  "type": "person",
+  "title": "James Grace",
+  "compiled_truth": "James Grace is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-08 to 2002-02-25), James Grace sent 8 and received 209 emails, totalling 217 interactions. Top correspondents: [Travis Mccullough](people/travis-mccullough) (5), [Eddy Daniels](people/eddy-daniels) (5), [Gerald Nemec](people/gerald-nemec) (5), [Stuart Zisman](people/stuart-zisman) (3), [Sheila Tweed](people/sheila-tweed) (3). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-02-08** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-grace",
+    "name": "James Grace",
+    "email": "james.grace@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

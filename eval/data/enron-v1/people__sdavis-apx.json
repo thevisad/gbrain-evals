@@ -1,0 +1,14 @@
+{
+  "slug": "people/sdavis-apx",
+  "type": "person",
+  "title": "Sdavis",
+  "compiled_truth": "Sdavis is an external contact at [Apx](companies/apx). Over the corpus period (2000-07-25 to 2001-05-10), Sdavis sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sdavis-apx",
+    "name": "Sdavis",
+    "email": "sdavis@apx.com",
+    "primary_affiliation": "companies/apx"
+  }
+}

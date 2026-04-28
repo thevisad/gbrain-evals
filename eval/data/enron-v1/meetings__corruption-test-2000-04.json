@@ -1,0 +1,29 @@
+{
+  "slug": "meetings/corruption-test-2000-04",
+  "type": "meeting",
+  "title": "Meeting: Corruption Test",
+  "compiled_truth": "Meeting: \"Corruption Test\". Occurred 2000-04-26 through 2000-04-28 with 10 related emails. Participants included: [Brian Hoskins](people/brian-hoskins), [Bryan Hull](people/bryan-hull), [Danielles](people/danielles-jonesgranger), [David Baumbach](people/david-baumbach), [Eric Bass](people/eric-bass), [Hector Campos](people/hector-campos), [Jason Bass2](people/jason-bass2-compaq), [Lwbthemarine](people/lwbthemarine-bigplanet)....",
+  "timeline": "- **2000-04-26** | Meeting: corruption test\n- **2000-04-28** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/corruption-test-2000-04",
+    "attendees": [
+      "people/brian-hoskins",
+      "people/bryan-hull",
+      "people/danielles-jonesgranger",
+      "people/david-baumbach",
+      "people/eric-bass",
+      "people/hector-campos",
+      "people/jason-bass2-compaq",
+      "people/lwbthemarine-bigplanet",
+      "people/mballases-hotmail",
+      "people/michael-walters",
+      "people/o-neal-winfree",
+      "people/phillip-love",
+      "people/shelleyzee-mail",
+      "people/shusser",
+      "people/timothy-blanchard"
+    ],
+    "date": "2000-04-26"
+  }
+}

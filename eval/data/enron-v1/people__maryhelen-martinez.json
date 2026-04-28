@@ -1,0 +1,14 @@
+{
+  "slug": "people/maryhelen-martinez",
+  "type": "person",
+  "title": "Maryhelen Martinez",
+  "compiled_truth": "Maryhelen Martinez is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2001-12-03), Maryhelen Martinez sent 4 and received 110 emails, totalling 114 interactions. Top correspondents: [Robert Bruce](people/robert-bruce) (3), [Mark Taylor](people/mark-taylor) (3), [Sara Shackleton](people/sara-shackleton) (3), [Carol Clair](people/carol-clair) (3), [Holly Keiser](people/holly-keiser) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maryhelen-martinez",
+    "name": "Maryhelen Martinez",
+    "email": "maryhelen.martinez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/retailpilot-ercot",
+  "type": "person",
+  "title": "Retailpilot",
+  "compiled_truth": "Retailpilot is an external contact at [Ercot](companies/ercot). Over the corpus period (2001-10-22 to 2001-11-26), Retailpilot sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-10-22** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/retailpilot-ercot",
+    "name": "Retailpilot",
+    "email": "retailpilot@ercot.com",
+    "primary_affiliation": "companies/ercot"
+  }
+}

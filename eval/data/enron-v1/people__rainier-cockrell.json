@@ -1,0 +1,14 @@
+{
+  "slug": "people/rainier-cockrell",
+  "type": "person",
+  "title": "Rainier Cockrell",
+  "compiled_truth": "Rainier Cockrell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2002-03-29), Rainier Cockrell sent 3 and received 25 emails, totalling 28 interactions. Top correspondents: [Kristen Hanson](people/kristen-hanson) (3), [Sally Beck](people/sally-beck) (2), [Kathy Kokas](people/kathy-kokas) (2), [Kim Lesley](people/kim-lesley) (2), [Emitra Nelson](people/emitra-nelson) (2).",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rainier-cockrell",
+    "name": "Rainier Cockrell",
+    "email": "rainier.cockrell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

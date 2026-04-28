@@ -1,0 +1,14 @@
+{
+  "slug": "people/suzanne-nicholie",
+  "type": "person",
+  "title": "Suzanne Nicholie",
+  "compiled_truth": "Suzanne Nicholie is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-11-27), Suzanne Nicholie sent 3 and received 68 emails, totalling 71 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (3), [Larry Hunter](people/larry-hunter) (1), [Mark Thorne](people/mark-thorne) (1), [Linda Bryan](people/linda-bryan) (1), [Mary Gosnell](people/mary-gosnell) (1).",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suzanne-nicholie",
+    "name": "Suzanne Nicholie",
+    "email": "suzanne.nicholie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

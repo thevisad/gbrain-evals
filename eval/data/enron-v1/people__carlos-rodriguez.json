@@ -1,0 +1,14 @@
+{
+  "slug": "people/carlos-rodriguez",
+  "type": "person",
+  "title": "Carlos Rodriguez",
+  "compiled_truth": "Carlos Rodriguez is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-07-10), Carlos Rodriguez sent 14 and received 475 emails, totalling 489 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (12), [Jackie Young](people/jackie-young) (7), [Tom Acton](people/tom-acton) (7), [Mark Mccoy](people/mark-mccoy) (7), [Sabrae Zajac](people/sabrae-zajac) (7). Mailbox folders observed: logistics.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carlos-rodriguez",
+    "name": "Carlos Rodriguez",
+    "email": "carlos.rodriguez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

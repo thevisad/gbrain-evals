@@ -1,0 +1,14 @@
+{
+  "slug": "people/brad-alford",
+  "type": "person",
+  "title": "Brad Alford",
+  "compiled_truth": "Brad Alford is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-18 to 2001-10-30), Brad Alford sent 13 and received 62 emails, totalling 75 interactions. Top correspondents: [Lisa Mellencamp](people/lisa-mellencamp) (11), [Lewis Worthy](people/lewis-worthy) (10), [Christopher Coffman](people/christopher-coffman) (10), [Todd Busby](people/todd-busby) (10), [John Griffith](people/john-griffith) (10).",
+  "timeline": "- **2000-01-18** | First recorded email in corpus\n- **2001-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brad-alford",
+    "name": "Brad Alford",
+    "email": "brad.alford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

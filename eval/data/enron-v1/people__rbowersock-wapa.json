@@ -1,0 +1,14 @@
+{
+  "slug": "people/rbowersock-wapa",
+  "type": "person",
+  "title": "Rbowersock",
+  "compiled_truth": "Rbowersock is an external contact at [Wapa](companies/wapa). Over the corpus period (2001-03-11 to 2001-04-26), Rbowersock sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-03-11** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rbowersock-wapa",
+    "name": "Rbowersock",
+    "email": "rbowersock@wapa.gov",
+    "primary_affiliation": "companies/wapa"
+  }
+}

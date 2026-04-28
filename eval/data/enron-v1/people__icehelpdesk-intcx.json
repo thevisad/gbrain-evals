@@ -1,0 +1,14 @@
+{
+  "slug": "people/icehelpdesk-intcx",
+  "type": "person",
+  "title": "Icehelpdesk",
+  "compiled_truth": "Icehelpdesk is an external contact at [Intcx](companies/intcx). Over the corpus period (2001-02-15 to 2002-03-25), Icehelpdesk sent 5 and received 57 emails, totalling 62 interactions. Top correspondents: [John Griffith](people/john-griffith) (2), [Stephanie Sever](people/stephanie-sever) (1), [Larry May](people/larry-may) (1), [**Icehelpdesk](people/icehelpdesk) (1), [Marketing **Internal](people/marketing-internal) (1).",
+  "timeline": "- **2001-02-15** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/icehelpdesk-intcx",
+    "name": "Icehelpdesk",
+    "email": "icehelpdesk@intcx.com",
+    "primary_affiliation": "companies/intcx"
+  }
+}

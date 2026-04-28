@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-zilkha",
+  "type": "person",
+  "title": "Michael",
+  "compiled_truth": "Michael is an external contact at [Zilkha](companies/zilkha). Over the corpus period (2001-09-17 to 2002-05-27), Michael sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2002-05-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-zilkha",
+    "name": "Michael",
+    "email": "michael@zilkha.com",
+    "primary_affiliation": "companies/zilkha"
+  }
+}

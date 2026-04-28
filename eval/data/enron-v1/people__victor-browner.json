@@ -1,0 +1,14 @@
+{
+  "slug": "people/victor-browner",
+  "type": "person",
+  "title": "Victor Browner",
+  "compiled_truth": "Victor Browner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2001-11-28), Victor Browner sent 7 and received 88 emails, totalling 95 interactions. Top correspondents: [Dave Samuels](people/dave-samuels) (4), [Mark Taylor](people/mark-taylor) (4), [Leslie Hansen](people/leslie-hansen) (3), [Jeff Dasovich](people/jeff-dasovich) (2), [Rahil Jafry](people/rahil-jafry) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/victor-browner",
+    "name": "Victor Browner",
+    "email": "victor.browner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

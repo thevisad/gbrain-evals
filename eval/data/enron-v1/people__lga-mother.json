@@ -1,0 +1,14 @@
+{
+  "slug": "people/lga-mother",
+  "type": "person",
+  "title": "Lga",
+  "compiled_truth": "Lga is an external contact at [Mother](companies/mother). Over the corpus period (2000-08-22 to 2001-12-21), Lga sent 1 and received 114 emails, totalling 115 interactions. Top correspondents: [Wbooth](people/wbooth-booth-law) (1), [Jeff Dasovich](people/jeff-dasovich) (1), [Ann Cohn](people/ann-cohn-sce) (1), [Kmccrea](people/kmccrea-sablaw) (1), [Mkahl](people/mkahl-ka-pow) (1).",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lga-mother",
+    "name": "Lga",
+    "email": "lga@mother.com",
+    "primary_affiliation": "companies/mother"
+  }
+}

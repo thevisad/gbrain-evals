@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-kunkel",
+  "type": "person",
+  "title": "Laura Kunkel",
+  "compiled_truth": "Laura Kunkel is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-11 to 2002-03-21), Laura Kunkel sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **1999-11-11** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-kunkel",
+    "name": "Laura Kunkel",
+    "email": "laura.kunkel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

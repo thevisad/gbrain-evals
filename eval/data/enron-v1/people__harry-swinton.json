@@ -1,0 +1,14 @@
+{
+  "slug": "people/harry-swinton",
+  "type": "person",
+  "title": "Harry Swinton",
+  "compiled_truth": "Harry Swinton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-09-10), Harry Swinton sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-09-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/harry-swinton",
+    "name": "Harry Swinton",
+    "email": "harry.swinton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

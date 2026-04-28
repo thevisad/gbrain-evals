@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-keeler",
+  "type": "person",
+  "title": "Jeffrey Keeler",
+  "compiled_truth": "Jeffrey Keeler is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-27 to 2001-08-21), Jeffrey Keeler sent 69 and received 261 emails, totalling 330 interactions. Top correspondents: [Michael Terraso](people/michael-terraso) (57), [Steven Kean](people/steven-kean) (55), [Richard Shapiro](people/richard-shapiro) (46), [Marc Phillips](people/marc-phillips) (36), [Susan Worthen](people/susan-worthen) (34). Mailbox folders observed: environmental_issues, inbox.",
+  "timeline": "- **1999-01-27** | First recorded email in corpus\n- **2001-08-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-keeler",
+    "name": "Jeffrey Keeler",
+    "email": "jeffrey.keeler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

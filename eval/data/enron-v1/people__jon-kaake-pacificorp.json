@@ -1,0 +1,14 @@
+{
+  "slug": "people/jon-kaake-pacificorp",
+  "type": "person",
+  "title": "Jon Kaake",
+  "compiled_truth": "Jon Kaake is an external contact at [Pacificorp](companies/pacificorp). Over the corpus period (2001-03-11 to 2001-04-26), Jon Kaake sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-03-11** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jon-kaake-pacificorp",
+    "name": "Jon Kaake",
+    "email": "jon.kaake@pacificorp.com",
+    "primary_affiliation": "companies/pacificorp"
+  }
+}

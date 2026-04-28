@@ -1,0 +1,14 @@
+{
+  "slug": "people/dlevine-caiso",
+  "type": "person",
+  "title": "Dlevine",
+  "compiled_truth": "Dlevine is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-08-17 to 2001-10-30), Dlevine sent 2 and received 22 emails, totalling 24 interactions. Top correspondents: [20Participants](people/20participants-caiso) (2).",
+  "timeline": "- **2000-08-17** | First recorded email in corpus\n- **2001-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dlevine-caiso",
+    "name": "Dlevine",
+    "email": "dlevine@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

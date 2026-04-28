@@ -1,0 +1,14 @@
+{
+  "slug": "people/amy-moore",
+  "type": "person",
+  "title": "Amy Moore",
+  "compiled_truth": "Amy Moore is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-12 to 2001-12-03), Amy Moore sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amy-moore",
+    "name": "Amy Moore",
+    "email": "amy.moore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

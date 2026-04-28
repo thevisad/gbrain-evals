@@ -1,0 +1,14 @@
+{
+  "slug": "people/theresa-staab",
+  "type": "person",
+  "title": "Theresa Staab",
+  "compiled_truth": "Theresa Staab is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-02-25), Theresa Staab sent 162 and received 404 emails, totalling 566 interactions. Top correspondents: [Jay Reitmeyer](people/jay-reitmeyer) (31), [Shelly Mendel](people/shelly-mendel) (25), [T  Lucci](people/t-lucci) (25), [Mark Whitt](people/mark-whitt) (19), [G  Barkowsky](people/g-barkowsky) (19). Mailbox folders observed: contract_bids, deleted_items, inbox, sent_items, wordsmith.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/theresa-staab",
+    "name": "Theresa Staab",
+    "email": "theresa.staab@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

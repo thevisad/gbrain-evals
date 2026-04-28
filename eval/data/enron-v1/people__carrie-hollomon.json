@@ -1,0 +1,14 @@
+{
+  "slug": "people/carrie-hollomon",
+  "type": "person",
+  "title": "Carrie Hollomon",
+  "compiled_truth": "Carrie Hollomon is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2000-09-19), Carrie Hollomon sent 11 and received 86 emails, totalling 97 interactions. Top correspondents: [Phillip Love](people/phillip-love) (10), [Jeff Coates](people/jeff-coates) (5), [Monique Sanchez](people/monique-sanchez) (5), [Mary Franklin](people/mary-franklin) (5), [Cathy Torre](people/cathy-torre) (5). Mailbox folders observed: accomplish.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2000-09-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carrie-hollomon",
+    "name": "Carrie Hollomon",
+    "email": "carrie.hollomon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

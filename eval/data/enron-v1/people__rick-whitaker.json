@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-whitaker",
+  "type": "person",
+  "title": "Rick Whitaker",
+  "compiled_truth": "Rick Whitaker is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-06), Rick Whitaker sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-whitaker",
+    "name": "Rick Whitaker",
+    "email": "rick.whitaker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

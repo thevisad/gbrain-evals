@@ -1,0 +1,14 @@
+{
+  "slug": "people/ljohnson-wapa",
+  "type": "person",
+  "title": "Ljohnson",
+  "compiled_truth": "Ljohnson is an external contact at [Wapa](companies/wapa). Over the corpus period (2001-03-21 to 2001-03-21), Ljohnson sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-03-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ljohnson-wapa",
+    "name": "Ljohnson",
+    "email": "ljohnson@wapa.gov",
+    "primary_affiliation": "companies/wapa"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/szablyal-epenergy",
+  "type": "person",
+  "title": "Szablyal",
+  "compiled_truth": "Szablyal is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2000-08-10 to 2001-09-24), Szablyal sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/szablyal-epenergy",
+    "name": "Szablyal",
+    "email": "szablyal@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

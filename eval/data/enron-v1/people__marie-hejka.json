@@ -1,0 +1,14 @@
+{
+  "slug": "people/marie-hejka",
+  "type": "person",
+  "title": "Marie Hejka",
+  "compiled_truth": "Marie Hejka is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-06 to 2001-10-24), Marie Hejka sent 27 and received 71 emails, totalling 98 interactions. Top correspondents: [Steven Kean](people/steven-kean) (24), [Andrea Yowman](people/andrea-yowman) (10), [George Wasaff](people/george-wasaff) (10), [Anthony Mends](people/anthony-mends) (10), [Cindy Olson](people/cindy-olson) (8). Mailbox folders observed: africa, c, inbox.",
+  "timeline": "- **2000-01-06** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marie-hejka",
+    "name": "Marie Hejka",
+    "email": "marie.hejka@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

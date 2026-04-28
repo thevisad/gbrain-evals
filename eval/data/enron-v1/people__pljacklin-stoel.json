@@ -1,0 +1,14 @@
+{
+  "slug": "people/pljacklin-stoel",
+  "type": "person",
+  "title": "Pljacklin",
+  "compiled_truth": "Pljacklin is an external contact at [Stoel](companies/stoel). Over the corpus period (2000-12-01 to 2001-04-27), Pljacklin sent 5 and received 71 emails, totalling 76 interactions. Top correspondents: [Mhain](people/mhain) (5), [Abuckley](people/abuckley-wutc) (4), [Alan](people/alan-epud) (4), [Ali Rodol](people/ali-rodol-ci) (4), [Archive-Power-Ratecase](people/archive-power-ratecase-bpa) (4).",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pljacklin-stoel",
+    "name": "Pljacklin",
+    "email": "pljacklin@stoel.com",
+    "primary_affiliation": "companies/stoel"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/alberto-levy",
+  "type": "person",
+  "title": "Alberto Levy",
+  "compiled_truth": "Alberto Levy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-17 to 2002-01-11), Alberto Levy sent 16 and received 216 emails, totalling 232 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (14), [Emilio Vicens](people/emilio-vicens) (8), [Guido Caranti](people/guido-caranti) (4), [Robert Johnston](people/robert-johnston) (3), [Scott Tholan](people/scott-tholan) (3). Mailbox folders observed: deleted_items, security___collateral, venezuela_colombia.",
+  "timeline": "- **2000-02-17** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alberto-levy",
+    "name": "Alberto Levy",
+    "email": "alberto.levy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

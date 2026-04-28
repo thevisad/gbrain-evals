@@ -1,0 +1,21 @@
+{
+  "slug": "threads/29th-floor-2001-12",
+  "type": "meeting",
+  "title": "Thread: 29Th Floor",
+  "compiled_truth": "Email thread: \"29Th Floor\". Ran from 2001-12-19 to 2001-12-21 with 24 messages. Participants: [Esmeralda Gonzalez](people/esmeralda-gonzalez), [Joe Witherspoon](people/joe-witherspoon), [Lance Jameson](people/lance-jameson), [Mary Cook](people/mary-cook), [Scott Tholan](people/scott-tholan), [Steve Van](people/steve-van), [Tana Jones](people/tana-jones).",
+  "timeline": "- **2001-12-19** | Thread begins: 29th floor\n- **2001-12-21** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/29th-floor-2001-12",
+    "attendees": [
+      "people/esmeralda-gonzalez",
+      "people/joe-witherspoon",
+      "people/lance-jameson",
+      "people/mary-cook",
+      "people/scott-tholan",
+      "people/steve-van",
+      "people/tana-jones"
+    ],
+    "date": "2001-12-19"
+  }
+}

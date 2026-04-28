@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-baehr",
+  "type": "person",
+  "title": "Kevin Baehr",
+  "compiled_truth": "Kevin Baehr is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-21 to 2001-06-14), Kevin Baehr sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-07-21** | First recorded email in corpus\n- **2001-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-baehr",
+    "name": "Kevin Baehr",
+    "email": "kevin.baehr@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ermes-melinchon",
+  "type": "person",
+  "title": "Ermes Melinchon",
+  "compiled_truth": "Ermes Melinchon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-21 to 2001-12-01), Ermes Melinchon sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-12-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ermes-melinchon",
+    "name": "Ermes Melinchon",
+    "email": "ermes.melinchon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

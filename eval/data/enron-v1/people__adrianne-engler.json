@@ -1,0 +1,14 @@
+{
+  "slug": "people/adrianne-engler",
+  "type": "person",
+  "title": "Adrianne Engler",
+  "compiled_truth": "Adrianne Engler is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-16 to 2001-12-03), Adrianne Engler sent 33 and received 62 emails, totalling 95 interactions. Top correspondents: [Karen Buckley](people/karen-buckley) (15), [K  Allen](people/k-allen) (10), [Scott Neal](people/scott-neal) (9), [M  Presto](people/m-presto) (8), [John Arnold](people/john-arnold) (8). Mailbox folders observed: 06_saved, 07_saved, associate, deleted_items, inbox.",
+  "timeline": "- **2001-05-16** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adrianne-engler",
+    "name": "Adrianne Engler",
+    "email": "adrianne.engler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

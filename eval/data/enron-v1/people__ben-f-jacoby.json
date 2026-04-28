@@ -1,0 +1,14 @@
+{
+  "slug": "people/ben-f-jacoby",
+  "type": "person",
+  "title": "Ben F Jacoby",
+  "compiled_truth": "Ben F Jacoby is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-13 to 2001-05-16), Ben F Jacoby sent 0 and received 79 emails, totalling 79 interactions.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus\n- **2001-05-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ben-f-jacoby",
+    "name": "Ben F Jacoby",
+    "email": "ben.f.jacoby@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

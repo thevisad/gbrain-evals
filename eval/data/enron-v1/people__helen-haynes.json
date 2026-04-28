@@ -1,0 +1,14 @@
+{
+  "slug": "people/helen-haynes",
+  "type": "person",
+  "title": "Helen Haynes",
+  "compiled_truth": "Helen Haynes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-11-05), Helen Haynes sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Jason Wolfe](people/jason-wolfe) (1), [Ruby Robinson](people/ruby-robinson) (1). Mailbox folders observed: 08_saved.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/helen-haynes",
+    "name": "Helen Haynes",
+    "email": "helen.haynes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

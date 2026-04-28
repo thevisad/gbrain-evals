@@ -1,0 +1,14 @@
+{
+  "slug": "people/johnston-synapse-energy",
+  "type": "person",
+  "title": "Johnston",
+  "compiled_truth": "Johnston is an external contact at [Synapse-energy](companies/synapse-energy). Over the corpus period (2001-10-18 to 2001-10-18), Johnston sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/johnston-synapse-energy",
+    "name": "Johnston",
+    "email": "johnston@synapse-energy.com",
+    "primary_affiliation": "companies/synapse-energy"
+  }
+}

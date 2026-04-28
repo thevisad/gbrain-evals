@@ -1,0 +1,14 @@
+{
+  "slug": "people/christopher-hunt",
+  "type": "person",
+  "title": "Christopher Hunt",
+  "compiled_truth": "Christopher Hunt is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2001-05-26), Christopher Hunt sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2001-05-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christopher-hunt",
+    "name": "Christopher Hunt",
+    "email": "christopher.hunt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

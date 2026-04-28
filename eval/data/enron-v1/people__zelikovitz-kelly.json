@@ -1,0 +1,14 @@
+{
+  "slug": "people/zelikovitz-kelly",
+  "type": "person",
+  "title": "Zelikovitz Kelly",
+  "compiled_truth": "Zelikovitz Kelly is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-20 to 2001-08-20), Zelikovitz Kelly sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-20** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zelikovitz-kelly",
+    "name": "Zelikovitz Kelly",
+    "email": "zelikovitz.kelly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

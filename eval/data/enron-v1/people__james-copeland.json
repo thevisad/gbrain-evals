@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-copeland",
+  "type": "person",
+  "title": "James Copeland",
+  "compiled_truth": "James Copeland is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-02 to 2001-08-23), James Copeland sent 6 and received 25 emails, totalling 31 interactions. Top correspondents: [Susan Bailey](people/susan-bailey) (3), [Samantha Boyd](people/samantha-boyd) (3), [Tana Jones](people/tana-jones) (3), [Richard Ring](people/richard-ring) (3), [Paul Radous](people/paul-radous) (2). Mailbox folders observed: eesidealsgsaregion1.",
+  "timeline": "- **2000-08-02** | First recorded email in corpus\n- **2001-08-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-copeland",
+    "name": "James Copeland",
+    "email": "james.copeland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

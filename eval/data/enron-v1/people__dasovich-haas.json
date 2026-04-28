@@ -1,0 +1,14 @@
+{
+  "slug": "people/dasovich-haas",
+  "type": "person",
+  "title": "Dasovich",
+  "compiled_truth": "Dasovich is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-20 to 2001-12-14), Dasovich sent 0 and received 239 emails, totalling 239 interactions.",
+  "timeline": "- **1999-09-20** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dasovich-haas",
+    "name": "Dasovich",
+    "email": "dasovich@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

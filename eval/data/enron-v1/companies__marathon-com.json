@@ -1,0 +1,21 @@
+{
+  "slug": "companies/marathon-com",
+  "type": "company",
+  "title": "Marathon-com",
+  "compiled_truth": "Marathon-com is an external organization that appears in the Enron email corpus. Domain: marathon-com.com. Total email interactions with Enron: 341. Known contacts: 4 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (341 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/marathon-com",
+    "name": "Marathon-com",
+    "employees": [
+      "people/jkradin-marathon-com",
+      "people/jyork-marathon-com",
+      "people/rlichtenstein-marathon-com",
+      "people/syamane-marathon-com"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

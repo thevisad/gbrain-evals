@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathleen-sullivan",
+  "type": "person",
+  "title": "Kathleen Sullivan",
+  "compiled_truth": "Kathleen Sullivan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-12-03), Kathleen Sullivan sent 2 and received 466 emails, totalling 468 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (1), [D  Steffes](people/d-steffes) (1). Mailbox folders observed: deleted_items, notre_dame.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathleen-sullivan",
+    "name": "Kathleen Sullivan",
+    "email": "kathleen.sullivan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

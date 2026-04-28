@@ -1,0 +1,14 @@
+{
+  "slug": "people/edmund-cooper",
+  "type": "person",
+  "title": "Edmund Cooper",
+  "compiled_truth": "Edmund Cooper is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2002-01-03), Edmund Cooper sent 65 and received 483 emails, totalling 548 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (31), [Tana Jones](people/tana-jones) (23), [Justin Boyd](people/justin-boyd) (17), [David Forster](people/david-forster) (13), [Paul Simons](people/paul-simons) (12). Mailbox folders observed: brokerage_agreements, deleted_items, inbox.",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edmund-cooper",
+    "name": "Edmund Cooper",
+    "email": "edmund.cooper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

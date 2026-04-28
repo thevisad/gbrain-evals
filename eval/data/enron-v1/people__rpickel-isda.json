@@ -1,0 +1,14 @@
+{
+  "slug": "people/rpickel-isda",
+  "type": "person",
+  "title": "Rpickel",
+  "compiled_truth": "Rpickel is an external contact at [Isda](companies/isda). Over the corpus period (1999-07-12 to 2001-12-07), Rpickel sent 19 and received 154 emails, totalling 173 interactions. Top correspondents: [Board](people/board-isda) (16), [Isdalondon](people/isdalondon-isda) (8), [Isdanyoffice](people/isdanyoffice-isda) (8), [Isdasingapore](people/isdasingapore-isda) (8), [Isdatokyooffice](people/isdatokyooffice-isda) (8).",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rpickel-isda",
+    "name": "Rpickel",
+    "email": "rpickel@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

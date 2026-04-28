@@ -1,0 +1,14 @@
+{
+  "slug": "people/yasumasa-nishi-ibjbank",
+  "type": "person",
+  "title": "Yasumasa Nishi",
+  "compiled_truth": "Yasumasa Nishi is an external contact at [Ibjbank](companies/ibjbank). Over the corpus period (2000-09-07 to 2001-06-11), Yasumasa Nishi sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yasumasa-nishi-ibjbank",
+    "name": "Yasumasa Nishi",
+    "email": "yasumasa.nishi@ibjbank.co.jp",
+    "primary_affiliation": "companies/ibjbank"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jogg-jhenergy",
+  "type": "person",
+  "title": "Jogg",
+  "compiled_truth": "Jogg is an external contact at [Jhenergy](companies/jhenergy). Over the corpus period (1999-09-24 to 2001-05-10), Jogg sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jogg-jhenergy",
+    "name": "Jogg",
+    "email": "jogg@jhenergy.com",
+    "primary_affiliation": "companies/jhenergy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jshankm",
+  "type": "person",
+  "title": "Jshankm",
+  "compiled_truth": "Jshankm is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2002-01-01), Jshankm sent 0 and received 105 emails, totalling 105 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2002-01-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jshankm",
+    "name": "Jshankm",
+    "email": "jshankm@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

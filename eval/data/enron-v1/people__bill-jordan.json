@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-jordan",
+  "type": "person",
+  "title": "Bill Jordan",
+  "compiled_truth": "Bill Jordan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-10-27), Bill Jordan sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-10-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-jordan",
+    "name": "Bill Jordan",
+    "email": "bill.jordan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

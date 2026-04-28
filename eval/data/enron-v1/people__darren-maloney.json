@@ -1,0 +1,14 @@
+{
+  "slug": "people/darren-maloney",
+  "type": "person",
+  "title": "Darren Maloney",
+  "compiled_truth": "Darren Maloney is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2001-11-27), Darren Maloney sent 8 and received 100 emails, totalling 108 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (4), [Alan Aronowitz](people/alan-aronowitz) (4), [Jay Fitzgerald](people/jay-fitzgerald) (4), [Susan Scott](people/susan-scott) (3), [Ted Noble](people/ted-noble) (3).",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darren-maloney",
+    "name": "Darren Maloney",
+    "email": "darren.maloney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

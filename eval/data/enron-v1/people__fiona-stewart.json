@@ -1,0 +1,14 @@
+{
+  "slug": "people/fiona-stewart",
+  "type": "person",
+  "title": "Fiona Stewart",
+  "compiled_truth": "Fiona Stewart is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-19 to 2001-04-05), Fiona Stewart sent 1 and received 29 emails, totalling 30 interactions. Top correspondents: [Tana Jones](people/tana-jones) (1).",
+  "timeline": "- **2000-10-19** | First recorded email in corpus\n- **2001-04-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fiona-stewart",
+    "name": "Fiona Stewart",
+    "email": "fiona.stewart@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

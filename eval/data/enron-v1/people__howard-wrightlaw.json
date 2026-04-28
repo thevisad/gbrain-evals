@@ -1,0 +1,14 @@
+{
+  "slug": "people/howard-wrightlaw",
+  "type": "person",
+  "title": "Howard",
+  "compiled_truth": "Howard is an external contact at [Wrightlaw](companies/wrightlaw). Over the corpus period (1999-08-19 to 2001-12-21), Howard sent 19 and received 10 emails, totalling 29 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (18), [Jhartso](people/jhartso) (9), [Christian Yoder](people/christian-yoder) (2), [Holli Krebs](people/holli-krebs) (2), [Lysa Akin](people/lysa-akin) (2).",
+  "timeline": "- **1999-08-19** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/howard-wrightlaw",
+    "name": "Howard",
+    "email": "howard@wrightlaw.com",
+    "primary_affiliation": "companies/wrightlaw"
+  }
+}

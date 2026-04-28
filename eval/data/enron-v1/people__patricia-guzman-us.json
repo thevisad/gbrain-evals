@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-guzman-us",
+  "type": "person",
+  "title": "Patricia Guzman",
+  "compiled_truth": "Patricia Guzman is an external contact at [Us](companies/us). Over the corpus period (2001-02-23 to 2001-04-18), Patricia Guzman sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-02-23** | First recorded email in corpus\n- **2001-04-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-guzman-us",
+    "name": "Patricia Guzman",
+    "email": "patricia.guzman@us.pwcglobal.com",
+    "primary_affiliation": "companies/us"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-halpin",
+  "type": "person",
+  "title": "Tom Halpin",
+  "compiled_truth": "Tom Halpin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2002-01-24), Tom Halpin sent 1 and received 73 emails, totalling 74 interactions. Top correspondents: [Steve Thomas](people/steve-thomas) (1), [Stephanie Korbelik](people/stephanie-korbelik) (1), [Allen Cohrs](people/allen-cohrs) (1), [John Pritchard](people/john-pritchard) (1), [Larry Pavlou](people/larry-pavlou) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-halpin",
+    "name": "Tom Halpin",
+    "email": "tom.halpin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

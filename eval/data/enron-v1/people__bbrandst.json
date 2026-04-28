@@ -1,0 +1,14 @@
+{
+  "slug": "people/bbrandst",
+  "type": "person",
+  "title": "Bbrandst",
+  "compiled_truth": "Bbrandst is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-26 to 2001-05-09), Bbrandst sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bbrandst",
+    "name": "Bbrandst",
+    "email": "bbrandst@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

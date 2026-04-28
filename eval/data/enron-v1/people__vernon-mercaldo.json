@@ -1,0 +1,14 @@
+{
+  "slug": "people/vernon-mercaldo",
+  "type": "person",
+  "title": "Vernon Mercaldo",
+  "compiled_truth": "Vernon Mercaldo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2002-03-08), Vernon Mercaldo sent 25 and received 383 emails, totalling 408 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (15), [Jo Williams](people/jo-williams) (9), [John Buchanan](people/john-buchanan) (7), [Kent Miller](people/kent-miller) (4), [Greg Hathaway](people/greg-hathaway-dom) (4). Mailbox folders observed: customer___virginia_power_dominion, deleted_items, enron_online, inbox, meetings___general, meetings___nng_customer_mtg.",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vernon-mercaldo",
+    "name": "Vernon Mercaldo",
+    "email": "vernon.mercaldo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

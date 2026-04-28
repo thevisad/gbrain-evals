@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarah-white",
+  "type": "person",
+  "title": "Sarah White",
+  "compiled_truth": "Sarah White is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-26 to 2000-10-26), Sarah White sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarah-white",
+    "name": "Sarah White",
+    "email": "sarah.white@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

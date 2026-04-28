@@ -1,0 +1,14 @@
+{
+  "slug": "people/wcarlson-wm",
+  "type": "person",
+  "title": "Wcarlson",
+  "compiled_truth": "Wcarlson is an external contact at [Wm](companies/wm). Over the corpus period (2000-10-20 to 2001-03-29), Wcarlson sent 0 and received 77 emails, totalling 77 interactions.",
+  "timeline": "- **2000-10-20** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wcarlson-wm",
+    "name": "Wcarlson",
+    "email": "wcarlson@wm.com",
+    "primary_affiliation": "companies/wm"
+  }
+}

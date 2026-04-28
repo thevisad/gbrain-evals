@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-stepenovitch",
+  "type": "person",
+  "title": "Joe Stepenovitch",
+  "compiled_truth": "Joe Stepenovitch is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-11 to 2002-03-18), Joe Stepenovitch sent 96 and received 991 emails, totalling 1087 interactions. Top correspondents: [Heather Kroll](people/heather-kroll) (23), [Linda Stepenovitch](people/linda-stepenovitch-bankofamerica) (9), [Jls](people/jls-fullenweider) (9), [Peter Makkai](people/peter-makkai) (7), [Don Baughman](people/don-baughman) (6). Mailbox folders observed: deleted_items, inbox, power, sent_items.",
+  "timeline": "- **2000-05-11** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-stepenovitch",
+    "name": "Joe Stepenovitch",
+    "email": "joe.stepenovitch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

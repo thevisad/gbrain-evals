@@ -1,0 +1,21 @@
+{
+  "slug": "people/miro-bergmann",
+  "type": "person",
+  "title": "Miro Bergmann — Head of Product, Anchor Codec",
+  "compiled_truth": "Miro Bergmann is Head of Product at [Anchor Codec](companies/anchor), where he's been since March 2026. Before joining he spent nearly a decade in developer-tools land — first at a CLI-focused startup where he shipped an API gateway product that crossed 10K active developers, and then at a slightly larger series-B company where he ran the platform team's roadmap. He's known internally as the person who will kill a feature rather than ship it ugly, which endears him to engineers and occasionally frustrates the go-to-market side.\n\nMiro joined [Anchor Codec](companies/anchor) after a series of conversations with the founding team in late 2025. The pitch was simple: deterministic data infrastructure was going to need a product surface that developers actually wanted to touch, and Miro had done exactly that kind of work before. His first six months were consumed by the developer console — the primary interface through which early customers interact with Anchor's single-pass primitives. He obsessed over the onboarding flow, insisting on a \"time to first payload\" metric that the team now tracks religiously. Several beta users have cited the console experience as a reason they stuck around past evaluation.\n\nPersonality-wise, Bergmann is quiet in large groups but extremely direct in 1:1s. He sketches UI flows on paper before ever opening a design tool, and he has a habit of leaving hand-drawn wireframes taped to the wall near his desk. He reads a lot of old HCI research — sometimes referencing papers from the 1990s in product reviews, which the younger engineers find either charming or bewildering. He's also the person who pushed for Anchor's public changelog and the weekly \"build notes\" email that goes out to the developer community.\n\nOne tension worth noting: Miro has been vocal internally about not rushing an enterprise dashboard before the core API experience is airtight. This has put him at odds with some on the commercial side who see large-contract customers wanting admin tooling sooner. So far leadership has sided with his sequencing, but the debate is ongoing as of mid-2027.\n\nHe lives in the same city as Anchor's main office, bikes to work, and is reportedly terrible at the office ping-pong table despite playing almost every day.",
+  "timeline": "- **2026-03-15** | Miro Bergmann officially joins [Anchor Codec](companies/anchor) as Head of Product, relocating from his previous role at a series-B developer-tools company.\n- **2026-05-22** | Kicks off the developer console project internally, setting the \"time to first payload\" metric as the north-star for onboarding.\n- **2026-09-10** | Developer console ships in closed beta; early feedback from ~40 users is overwhelmingly positive on UX, mixed on documentation depth.\n- **2026-12-01** | Launches Anchor's public changelog and weekly \"build notes\" email, which reaches ~1,200 subscribers by end of month.\n- **2027-03-08** | Presents internally on product sequencing — argues enterprise dashboard should wait until core API ergonomics hit a specific quality bar. Leadership agrees to delay.\n- **2027-06-19** | Speaks at a small developer infrastructure meetup on \"Why Onboarding Is Your Real API\" — the talk circulates widely on social platforms.\n- **2027-09-02** | Ships v2 of the developer console with revamped key management and payload inspection tooling. Time-to-first-payload drops below 4 minutes for new users.\n- **2027-12-14** | Begins scoping enterprise admin features after core API satisfaction scores cross internal threshold. Tension with commercial team largely resolved.\n- **2028-02-20** | Leads a cross-functional offsite focused on Anchor's 2028 product roadmap; attendees include engineering, design, and developer relations leads.",
+  "_facts": {
+    "type": "person",
+    "slug": "people/miro-bergmann",
+    "name": "Miro Bergmann",
+    "role": "employee",
+    "title": "Head of Product",
+    "primary_affiliation": "companies/anchor",
+    "notable_traits": [
+      "product-obsessed",
+      "design taste"
+    ],
+    "background": "Former PM at two developer-tools companies; led launch of an API product used by 10K+ developers",
+    "joined_anchor": "2026-03-15"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/chad-gardner",
+  "type": "person",
+  "title": "Chad Gardner",
+  "compiled_truth": "Chad Gardner is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2001-10-29), Chad Gardner sent 3 and received 9 emails, totalling 12 interactions. Top correspondents: [Mary Fischer](people/mary-fischer) (3), [Cathy Pittenger](people/cathy-pittenger) (1). Mailbox folders observed: inbox, personal.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chad-gardner",
+    "name": "Chad Gardner",
+    "email": "chad.gardner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

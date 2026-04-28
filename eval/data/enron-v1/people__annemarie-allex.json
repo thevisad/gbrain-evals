@@ -1,0 +1,14 @@
+{
+  "slug": "people/annemarie-allex",
+  "type": "person",
+  "title": "Annemarie Allex",
+  "compiled_truth": "Annemarie Allex is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-29 to 2001-06-11), Annemarie Allex sent 3 and received 9 emails, totalling 12 interactions. Top correspondents: [Sally Beck](people/sally-beck) (3), [Hector Mcloughlin](people/hector-mcloughlin) (2), [Steve Jackson](people/steve-jackson) (1), [Leslie Reeves](people/leslie-reeves) (1), [Brenda Herod](people/brenda-herod) (1).",
+  "timeline": "- **2000-08-29** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/annemarie-allex",
+    "name": "Annemarie Allex",
+    "email": "annemarie.allex@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenneth-chow",
+  "type": "person",
+  "title": "Kenneth Chow",
+  "compiled_truth": "Kenneth Chow is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-11-02), Kenneth Chow sent 1 and received 54 emails, totalling 55 interactions. Top correspondents: [Rick Suderman](people/rick-suderman-eott) (1), [Randy Rice](people/randy-rice) (1), [Kevin Hyatt](people/kevin-hyatt) (1), [Rich Jolly](people/rich-jolly) (1), [David Roensch](people/david-roensch) (1). Mailbox folders observed: projects.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenneth-chow",
+    "name": "Kenneth Chow",
+    "email": "kenneth.chow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

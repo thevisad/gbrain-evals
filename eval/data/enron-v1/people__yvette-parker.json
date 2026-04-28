@@ -1,0 +1,14 @@
+{
+  "slug": "people/yvette-parker",
+  "type": "person",
+  "title": "Yvette Parker",
+  "compiled_truth": "Yvette Parker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-30 to 2001-05-02), Yvette Parker sent 2 and received 65 emails, totalling 67 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (2), [Taffy Milligan](people/taffy-milligan) (1).",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2001-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yvette-parker",
+    "name": "Yvette Parker",
+    "email": "yvette.parker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

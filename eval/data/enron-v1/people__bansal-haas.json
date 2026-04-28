@@ -1,0 +1,14 @@
+{
+  "slug": "people/bansal-haas",
+  "type": "person",
+  "title": "Bansal",
+  "compiled_truth": "Bansal is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2001-10-22), Bansal sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bansal-haas",
+    "name": "Bansal",
+    "email": "bansal@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

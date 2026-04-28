@@ -1,0 +1,14 @@
+{
+  "slug": "people/vladi-pimenov",
+  "type": "person",
+  "title": "Vladi Pimenov",
+  "compiled_truth": "Vladi Pimenov is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-10 to 2004-02-04), Vladi Pimenov sent 82 and received 441 emails, totalling 523 interactions. Top correspondents: [Natalie Bondareva](people/natalie-bondareva) (9), [Nxb](people/nxb-allegrodevelopment) (8), [Csilva](people/csilva-uamericas) (6), [Jonathan Mckay](people/jonathan-mckay) (5), [David Dronet](people/david-dronet) (5). Mailbox folders observed: _sent_mail, deleted_items, enron, inbox, sent_items.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2004-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vladi-pimenov",
+    "name": "Vladi Pimenov",
+    "email": "vladi.pimenov@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

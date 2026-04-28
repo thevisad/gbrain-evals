@@ -1,0 +1,14 @@
+{
+  "slug": "people/peggy-cameron",
+  "type": "person",
+  "title": "Peggy Cameron",
+  "compiled_truth": "Peggy Cameron is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-13 to 2001-05-08), Peggy Cameron sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Mary Poorman](people/mary-poorman) (1), [Patricia Kirkwood](people/patricia-kirkwood) (1), [Daren Farmer](people/daren-farmer) (1), [Pat Clynes](people/pat-clynes) (1).",
+  "timeline": "- **2000-04-13** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peggy-cameron",
+    "name": "Peggy Cameron",
+    "email": "peggy.cameron@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

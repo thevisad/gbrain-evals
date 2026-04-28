@@ -1,0 +1,14 @@
+{
+  "slug": "people/eddie-janzen",
+  "type": "person",
+  "title": "Eddie Janzen",
+  "compiled_truth": "Eddie Janzen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-04 to 2001-01-22), Eddie Janzen sent 2 and received 61 emails, totalling 63 interactions. Top correspondents: [Clem Cernosek](people/clem-cernosek) (2), [Jackie Young](people/jackie-young) (2), [Sabrae Zajac](people/sabrae-zajac) (2), [Carlos Rodriguez](people/carlos-rodriguez) (2), [Mary Poorman](people/mary-poorman) (2).",
+  "timeline": "- **2000-06-04** | First recorded email in corpus\n- **2001-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eddie-janzen",
+    "name": "Eddie Janzen",
+    "email": "eddie.janzen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

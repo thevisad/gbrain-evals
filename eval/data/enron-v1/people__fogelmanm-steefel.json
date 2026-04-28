@@ -1,0 +1,14 @@
+{
+  "slug": "people/fogelmanm-steefel",
+  "type": "person",
+  "title": "Fogelmanm",
+  "compiled_truth": "Fogelmanm is an external contact at [Steefel](companies/steefel). Over the corpus period (1999-09-24 to 2001-07-31), Fogelmanm sent 0 and received 63 emails, totalling 63 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fogelmanm-steefel",
+    "name": "Fogelmanm",
+    "email": "fogelmanm@steefel.com",
+    "primary_affiliation": "companies/steefel"
+  }
+}

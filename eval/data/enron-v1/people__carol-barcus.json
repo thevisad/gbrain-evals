@@ -1,0 +1,14 @@
+{
+  "slug": "people/carol-barcus",
+  "type": "person",
+  "title": "Carol Barcus",
+  "compiled_truth": "Carol Barcus is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2001-05-09), Carol Barcus sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [Joseph Hirl](people/joseph-hirl) (1), [Nicholas O'Day](people/nicholas-o-day) (1), [Michael Gantt](people/michael-gantt) (1), [Loretta Brelsford](people/loretta-brelsford) (1), [Cassandra Schultz](people/cassandra-schultz) (1).",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carol-barcus",
+    "name": "Carol Barcus",
+    "email": "carol.barcus@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

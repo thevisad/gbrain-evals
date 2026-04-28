@@ -1,0 +1,26 @@
+{
+  "slug": "companies/lattice-data",
+  "type": "company",
+  "title": "Lattice Data",
+  "compiled_truth": "Lattice Data is a data infrastructure startup founded in 2026 by [Miro Yamamoto](people/miro-yamamoto), focused on building a structured data lake and query engine tailored for enterprise analytics workloads. The company's pitch is straightforward: unify the messy sprawl of data lakes with the performance expectations of traditional warehouses, all in a single platform that doesn't require teams to maintain separate ETL pipelines. Miro has talked publicly about the \"lake-warehouse convergence\" thesis, arguing that most enterprises are wasting 30-40% of their data engineering budget on stitching together tools that should never have been separate in the first place.\n\nThe seed round was backed by a small but notable group of angels: [Ora Yamamoto](people/ora-yamamoto), [Cal Suzuki](people/cal-suzuki), and [Ren Khalil](people/ren-khalil). Ora's involvement raises eyebrows occasionally since she shares a surname with Miro — they are siblings, which Miro has been transparent about in interviews. Cal Suzuki brought operational experience from prior infrastructure investments, and Ren Khalil contributed both capital and introductions into the Middle Eastern enterprise market, which Lattice has started exploring as of mid-2027.\n\nLattice's query engine uses a columnar execution model that competes with a crowded field, but the team argues their edge is in schema flexibility — customers can ingest semi-structured data and retroactively impose schemas at query time without performance penalties. Early adopters include a handful of mid-market financial services firms and one large logistics company.\n\nBy late 2027, Lattice Data had grown to roughly 30 employees, mostly engineers, with a small go-to-market team based out of their Portland office. There's been some chatter in the ecosystem about whether Lattice's approach overlaps with or complements Anchor Codec's deterministic data infrastructure. Miro has been cautious about partnerships, preferring to build in-house, though a few exploratory converations happened in Q3 2027. The company raised a Series A in early 2028, which gave them runway through at least mid-2029.\n\nLattice is not yet profitable but unit economics on their managed cloud offering are reportedly improving quarter over quarter. Miro tends to run the company with an engineering-first culture — design docs are public internally, and there's a weekly \"query teardown\" meeting where the team dissects slow queries from production customers.",
+  "timeline": "- **2026-03-14** | Lattice Data incorporated in Delaware; [Miro Yamamoto](people/miro-yamamoto) listed as sole founder and CEO.\n- **2026-05-02** | Seed round closed with participation from [Ora Yamamoto](people/ora-yamamoto), [Cal Suzuki](people/cal-suzuki), and [Ren Khalil](people/ren-khalil). Undisclosed amount, rumored ~$2.8M.\n- **2026-08-19** | First internal demo of the structured data lake prototype; columnar query engine hits sub-second latency on 50GB test datasets.\n- **2026-12-01** | Portland office lease signed; first three engineering hires start.\n- **2027-02-17** | Private beta launched with four enterprise customers, including a mid-market financial services firm.\n- **2027-06-10** | [Ren Khalil](people/ren-khalil) facilitates introductions to two logistics companies in the Gulf region; one signs a pilot agreement.\n- **2027-09-22** | Exploratory meeting with Anchor Codec team to discuss potential integration of single-pass primitives into Lattice's ingestion layer. No formal partnership announced.\n- **2027-11-05** | Lattice Data publicly launches managed cloud offering; announces 12 paying customers.\n- **2028-01-30** | Series A closed, led by an undisclosed institutional investor. [Cal Suzuki](people/cal-suzuki) participates in the round again as an angel.\n- **2028-04-12** | Miro Yamamoto speaks at DataFabric Summit in Austin on \"Schema-on-Read Without the Performance Tax.\"",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/lattice-data",
+    "name": "Lattice Data",
+    "category": "startup",
+    "industry": "data infrastructure",
+    "description": "Structured data lake and query engine for enterprise analytics",
+    "founded_year": 2026,
+    "founders": [
+      "people/miro-yamamoto"
+    ],
+    "employees": [],
+    "investors": [
+      "people/ora-yamamoto",
+      "people/cal-suzuki",
+      "people/ren-khalil"
+    ],
+    "advisors": []
+  }
+}

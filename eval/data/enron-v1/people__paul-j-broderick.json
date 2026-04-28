@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-j-broderick",
+  "type": "person",
+  "title": "Paul J Broderick",
+  "compiled_truth": "Paul J Broderick is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-05-21), Paul J Broderick sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-j-broderick",
+    "name": "Paul J Broderick",
+    "email": "paul.j.broderick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

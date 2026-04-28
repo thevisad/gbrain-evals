@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-anderson-apses",
+  "type": "person",
+  "title": "Robert Anderson",
+  "compiled_truth": "Robert Anderson is an external contact at [Apses](companies/apses). Over the corpus period (2000-02-24 to 2002-01-02), Robert Anderson sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-02-24** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-anderson-apses",
+    "name": "Robert Anderson",
+    "email": "robert_anderson@apses.com",
+    "primary_affiliation": "companies/apses"
+  }
+}

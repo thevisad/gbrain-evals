@@ -1,0 +1,30 @@
+{
+  "slug": "meetings/organization-meeting-2002-03",
+  "type": "meeting",
+  "title": "Meeting: Organization Meeting",
+  "compiled_truth": "Meeting: \"Organization Meeting\". Occurred 2002-03-22 through 2002-03-22 with 5 related emails. Participants included: [Audrey Robertson](people/audrey-robertson), [Bradley Holmes](people/bradley-holmes), [Donna Scott](people/donna-scott), [Kevin Hyatt](people/kevin-hyatt), [Lindy Donoho](people/lindy-donoho), [Lynn Blair](people/lynn-blair), [Mark Mcconnell](people/mark-mcconnell), [Michelle Lokay](people/michelle-lokay)....",
+  "timeline": "- **2002-03-22** | Meeting: organization meeting\n- **2002-03-22** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/organization-meeting-2002-03",
+    "attendees": [
+      "people/audrey-robertson",
+      "people/bradley-holmes",
+      "people/donna-scott",
+      "people/kevin-hyatt",
+      "people/lindy-donoho",
+      "people/lynn-blair",
+      "people/mark-mcconnell",
+      "people/michelle-lokay",
+      "people/mike-bryant",
+      "people/paul-y-barbo",
+      "people/rick-dietz",
+      "people/sheila-nacey",
+      "people/shelley-corman",
+      "people/stanley-horton",
+      "people/steve-january",
+      "people/tk-lohman"
+    ],
+    "date": "2002-03-22"
+  }
+}

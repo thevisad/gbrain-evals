@@ -1,0 +1,27 @@
+{
+  "slug": "threads/survey-2000-05",
+  "type": "meeting",
+  "title": "Thread: Survey",
+  "compiled_truth": "Email thread: \"Survey\". Ran from 2000-05-29 to 2000-06-12 with 9 messages. Participants: [Andrea Calo](people/andrea-calo), [B Palmer](people/b-palmer), [Brent Hendry](people/brent-hendry), [Cathy Sprowls](people/cathy-sprowls), [Darron Giron](people/darron-giron), [Jackson Logan](people/jackson-logan), [Jeff Coates](people/jeff-coates), [Lynn Aven](people/lynn-aven).",
+  "timeline": "- **2000-05-29** | Thread begins: survey\n- **2000-06-12** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/survey-2000-05",
+    "attendees": [
+      "people/andrea-calo",
+      "people/b-palmer",
+      "people/brent-hendry",
+      "people/cathy-sprowls",
+      "people/darron-giron",
+      "people/jackson-logan",
+      "people/jeff-coates",
+      "people/lynn-aven",
+      "people/mark-taylor",
+      "people/phillip-love",
+      "people/rick-hopkinson",
+      "people/shawna-johnson",
+      "people/victor-guggenheim"
+    ],
+    "date": "2000-05-29"
+  }
+}

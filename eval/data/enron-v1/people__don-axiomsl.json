@@ -1,0 +1,14 @@
+{
+  "slug": "people/don-axiomsl",
+  "type": "person",
+  "title": "Don",
+  "compiled_truth": "Don is an external contact at [Axiomsl](companies/axiomsl). Over the corpus period (2000-05-18 to 2000-12-22), Don sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-12-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/don-axiomsl",
+    "name": "Don",
+    "email": "don@axiomsl.com",
+    "primary_affiliation": "companies/axiomsl"
+  }
+}

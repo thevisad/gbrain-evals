@@ -1,0 +1,14 @@
+{
+  "slug": "people/lhom-hotmail",
+  "type": "person",
+  "title": "Lhom",
+  "compiled_truth": "Lhom is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (1999-11-16 to 2001-11-13), Lhom sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **1999-11-16** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lhom-hotmail",
+    "name": "Lhom",
+    "email": "lhom@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

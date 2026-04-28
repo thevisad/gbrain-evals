@@ -1,0 +1,14 @@
+{
+  "slug": "people/margaret-stull",
+  "type": "person",
+  "title": "Margaret Stull",
+  "compiled_truth": "Margaret Stull is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-09-25), Margaret Stull sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margaret-stull",
+    "name": "Margaret Stull",
+    "email": "margaret.stull@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

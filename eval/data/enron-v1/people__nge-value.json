@@ -1,0 +1,14 @@
+{
+  "slug": "people/nge-value",
+  "type": "person",
+  "title": "Nge",
+  "compiled_truth": "Nge is an external contact at [Value](companies/value). Over the corpus period (1999-09-24 to 2001-07-31), Nge sent 0 and received 63 emails, totalling 63 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nge-value",
+    "name": "Nge",
+    "email": "nge@value.net",
+    "primary_affiliation": "companies/value"
+  }
+}

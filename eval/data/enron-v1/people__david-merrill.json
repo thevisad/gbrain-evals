@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-merrill",
+  "type": "person",
+  "title": "David Merrill",
+  "compiled_truth": "David Merrill is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-15 to 2001-02-08), David Merrill sent 4 and received 46 emails, totalling 50 interactions. Top correspondents: [Wayne Gardner](people/wayne-gardner) (4), [Jane Wilson](people/jane-wilson) (4), [Mike Dahlke](people/mike-dahlke) (4), [Michael Grimes](people/michael-grimes) (4), [Donald Lassere](people/donald-lassere) (3).",
+  "timeline": "- **1999-11-15** | First recorded email in corpus\n- **2001-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-merrill",
+    "name": "David Merrill",
+    "email": "david.merrill@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "companies/seiworldwide",
+  "type": "company",
+  "title": "Seiworldwide",
+  "compiled_truth": "Seiworldwide is an external organization that appears in the Enron email corpus. Domain: seiworldwide.com. Total email interactions with Enron: 460. Known contacts: 10 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (460 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/seiworldwide",
+    "name": "Seiworldwide",
+    "employees": [
+      "people/begreen-seiworldwide",
+      "people/bjcampo-seiworldwide",
+      "people/dwemmons-seiworldwide",
+      "people/gphogue-seiworldwide",
+      "people/jrharris-seiworldwide",
+      "people/kaheinz-seiworldwide",
+      "people/kfyip-seiworldwide",
+      "people/rllamkin-seiworldwide",
+      "people/teri-goodrich-seiworldwide",
+      "people/tlgoodri-seiworldwide"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

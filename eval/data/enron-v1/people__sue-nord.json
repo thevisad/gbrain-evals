@@ -1,0 +1,14 @@
+{
+  "slug": "people/sue-nord",
+  "type": "person",
+  "title": "Sue Nord",
+  "compiled_truth": "Sue Nord is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-25 to 2002-01-28), Sue Nord sent 118 and received 754 emails, totalling 872 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (87), [Jeff Dasovich](people/jeff-dasovich) (78), [Scott Bolton](people/scott-bolton) (61), [Lara Leibman](people/lara-leibman) (54), [Margo Reyna](people/margo-reyna) (53). Mailbox folders observed: 2001_budget, 2001_budget__cost_cutting, 2001_objectives, compliments, deleted_items, inbox.",
+  "timeline": "- **1999-10-25** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sue-nord",
+    "name": "Sue Nord",
+    "email": "sue.nord@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

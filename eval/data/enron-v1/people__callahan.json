@@ -1,0 +1,14 @@
+{
+  "slug": "people/callahan",
+  "type": "person",
+  "title": "Callahan",
+  "compiled_truth": "Callahan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-04 to 2002-02-19), Callahan sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [A  Aune](people/a-aune) (1), [Cynthia Barrow](people/cynthia-barrow) (1), [L  Bouillion](people/l-bouillion) (1), [Charles Cheek](people/charles-cheek) (1), [Kate Cole](people/kate-cole) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/callahan",
+    "name": "Callahan",
+    "email": "callahan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

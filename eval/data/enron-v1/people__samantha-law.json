@@ -1,0 +1,14 @@
+{
+  "slug": "people/samantha-law",
+  "type": "person",
+  "title": "Samantha Law",
+  "compiled_truth": "Samantha Law is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-26 to 2002-02-08), Samantha Law sent 67 and received 323 emails, totalling 390 interactions. Top correspondents: [John Postlethwaite](people/john-postlethwaite) (64), [W  White](people/w-white) (60), [Fran Chang](people/fran-chang) (59), [Heather Dunton](people/heather-dunton) (59), [Nicholas Warner](people/nicholas-warner) (47). Mailbox folders observed: bill_williams_iii, credit, deleted_items, inbox.",
+  "timeline": "- **2001-02-26** | First recorded email in corpus\n- **2002-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/samantha-law",
+    "name": "Samantha Law",
+    "email": "samantha.law@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

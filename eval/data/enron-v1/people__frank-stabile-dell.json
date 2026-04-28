@@ -1,0 +1,14 @@
+{
+  "slug": "people/frank-stabile-dell",
+  "type": "person",
+  "title": "Frank Stabile",
+  "compiled_truth": "Frank Stabile is an external contact at [Dell](companies/dell). Over the corpus period (2001-03-02 to 2001-04-30), Frank Stabile sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-03-02** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frank-stabile-dell",
+    "name": "Frank Stabile",
+    "email": "frank_stabile@dell.com",
+    "primary_affiliation": "companies/dell"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/elsa-villarreal",
+  "type": "person",
+  "title": "Elsa Villarreal",
+  "compiled_truth": "Elsa Villarreal is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-12-06), Elsa Villarreal sent 9 and received 288 emails, totalling 297 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (8), [Amelia Alland](people/amelia-alland) (2), [Cheryl Dudley](people/cheryl-dudley) (2), [Mcook](people/mcook-utilicorp) (1), [Stacey Neuweiler](people/stacey-neuweiler) (1). Mailbox folders observed: inbox, logistics.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elsa-villarreal",
+    "name": "Elsa Villarreal",
+    "email": "elsa.villarreal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jteeter-sdge",
+  "type": "person",
+  "title": "Jteeter",
+  "compiled_truth": "Jteeter is an external contact at [Sdge](companies/sdge). Over the corpus period (2000-04-17 to 2000-07-31), Jteeter sent 0 and received 69 emails, totalling 69 interactions.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2000-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jteeter-sdge",
+    "name": "Jteeter",
+    "email": "jteeter@sdge.com",
+    "primary_affiliation": "companies/sdge"
+  }
+}

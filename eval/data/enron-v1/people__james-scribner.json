@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-scribner",
+  "type": "person",
+  "title": "James Scribner",
+  "compiled_truth": "James Scribner is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-06), James Scribner sent 21 and received 351 emails, totalling 372 interactions. Top correspondents: [Sally Beck](people/sally-beck) (12), [Shari Mao](people/shari-mao) (8), [Bryce Baxter](people/bryce-baxter) (7), [Daren Farmer](people/daren-farmer) (7), [Kim Theriot](people/kim-theriot) (7). Mailbox folders observed: commercialization, deleted_items, inbox, meetings.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-scribner",
+    "name": "James Scribner",
+    "email": "james.scribner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/claudia-guerra",
+  "type": "person",
+  "title": "Claudia Guerra",
+  "compiled_truth": "Claudia Guerra is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-06 to 2002-02-28), Claudia Guerra sent 7 and received 188 emails, totalling 195 interactions. Top correspondents: [Don Baughman](people/don-baughman) (4), [Fletcher Sturm](people/fletcher-sturm) (2), [M  Presto](people/m-presto) (2), [Chris Dorland](people/chris-dorland) (1), [Jeff King](people/jeff-king) (1). Mailbox folders observed: calendar, deleted_items, personal.",
+  "timeline": "- **2001-02-06** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/claudia-guerra",
+    "name": "Claudia Guerra",
+    "email": "claudia.guerra@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

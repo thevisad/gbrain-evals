@@ -1,0 +1,14 @@
+{
+  "slug": "people/zaib-iqtidar",
+  "type": "person",
+  "title": "Zaib Iqtidar",
+  "compiled_truth": "Zaib Iqtidar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-24 to 2000-12-14), Zaib Iqtidar sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-01-24** | First recorded email in corpus\n- **2000-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zaib-iqtidar",
+    "name": "Zaib Iqtidar",
+    "email": "zaib.iqtidar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

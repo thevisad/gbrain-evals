@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-aguirre",
+  "type": "person",
+  "title": "Larry Aguirre",
+  "compiled_truth": "Larry Aguirre is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-30 to 2001-09-28), Larry Aguirre sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2001-03-30** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-aguirre",
+    "name": "Larry Aguirre",
+    "email": "larry.aguirre@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

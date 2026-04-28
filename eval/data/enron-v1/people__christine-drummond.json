@@ -1,0 +1,14 @@
+{
+  "slug": "people/christine-drummond",
+  "type": "person",
+  "title": "Christine Drummond",
+  "compiled_truth": "Christine Drummond is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-10-29), Christine Drummond sent 1 and received 18 emails, totalling 19 interactions. Top correspondents: [Wes Colwell](people/wes-colwell) (1), [Rod Hayslett](people/rod-hayslett) (1), [Keith Marlow](people/keith-marlow) (1), [Richard Lydecker](people/richard-lydecker) (1), [Kathy Campos](people/kathy-campos) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christine-drummond",
+    "name": "Christine Drummond",
+    "email": "christine.drummond@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

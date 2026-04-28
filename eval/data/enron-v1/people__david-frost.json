@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-frost",
+  "type": "person",
+  "title": "David Frost",
+  "compiled_truth": "David Frost is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-22 to 2001-11-28), David Frost sent 0 and received 55 emails, totalling 55 interactions.",
+  "timeline": "- **2001-02-22** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-frost",
+    "name": "David Frost",
+    "email": "david.frost@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

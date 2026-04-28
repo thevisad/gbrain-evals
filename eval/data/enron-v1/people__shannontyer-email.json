@@ -1,0 +1,14 @@
+{
+  "slug": "people/shannontyer-email",
+  "type": "person",
+  "title": "Shannontyer",
+  "compiled_truth": "Shannontyer is an external contact at [Email](companies/email). Over the corpus period (2000-11-09 to 2002-02-05), Shannontyer sent 9 and received 11 emails, totalling 20 interactions. Top correspondents: [Don Baughman](people/don-baughman) (9), [Marshall Mary](people/marshall-mary) (5), [Smith Jeannie](people/smith-jeannie) (4), [Catherine](people/catherine) (4), [Tracey Kari](people/tracey-kari) (4).",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shannontyer-email",
+    "name": "Shannontyer",
+    "email": "shannontyer@email.msn.com",
+    "primary_affiliation": "companies/email"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/blair-wood",
+  "type": "person",
+  "title": "Blair Wood",
+  "compiled_truth": "Blair Wood is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-13 to 2002-02-28), Blair Wood sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/blair-wood",
+    "name": "Blair Wood",
+    "email": "blair.wood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

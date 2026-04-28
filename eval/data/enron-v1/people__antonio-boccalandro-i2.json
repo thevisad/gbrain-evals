@@ -1,0 +1,14 @@
+{
+  "slug": "people/antonio-boccalandro-i2",
+  "type": "person",
+  "title": "Antonio Boccalandro",
+  "compiled_truth": "Antonio Boccalandro is an external contact at [I2](companies/i2). Over the corpus period (2000-11-22 to 2000-12-06), Antonio Boccalandro sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-11-22** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/antonio-boccalandro-i2",
+    "name": "Antonio Boccalandro",
+    "email": "antonio_boccalandro@i2.com",
+    "primary_affiliation": "companies/i2"
+  }
+}

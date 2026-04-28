@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-ingersoll",
+  "type": "person",
+  "title": "Richard Ingersoll",
+  "compiled_truth": "Richard Ingersoll is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-24 to 2001-11-29), Richard Ingersoll sent 10 and received 303 emails, totalling 313 interactions. Top correspondents: [Joe Hartsoe](people/joe-hartsoe) (7), [James Steffes](people/james-steffes) (6), [Richard Shapiro](people/richard-shapiro) (6), [Steven Kean](people/steven-kean) (6), [Christi Nicolay](people/christi-nicolay) (5).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-ingersoll",
+    "name": "Richard Ingersoll",
+    "email": "richard.ingersoll@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

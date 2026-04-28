@@ -1,0 +1,14 @@
+{
+  "slug": "people/margaret-rhodes",
+  "type": "person",
+  "title": "Margaret Rhodes",
+  "compiled_truth": "Margaret Rhodes is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-09 to 2001-11-09), Margaret Rhodes sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margaret-rhodes",
+    "name": "Margaret Rhodes",
+    "email": "margaret.rhodes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

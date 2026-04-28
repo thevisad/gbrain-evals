@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-myer",
+  "type": "person",
+  "title": "Karen Myer",
+  "compiled_truth": "Karen Myer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2001-12-06), Karen Myer sent 8 and received 47 emails, totalling 55 interactions. Top correspondents: [Bob Butts](people/bob-butts) (7), [Rick Buy](people/rick-buy) (7), [Richard Causey](people/richard-causey) (7), [Andrew Fastow](people/andrew-fastow) (7), [Ben Glisan](people/ben-glisan) (7). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-myer",
+    "name": "Karen Myer",
+    "email": "karen.myer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

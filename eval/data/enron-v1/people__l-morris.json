@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-morris",
+  "type": "person",
+  "title": "L  Morris",
+  "compiled_truth": "L  Morris is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-05 to 2002-03-29), L  Morris sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-10-05** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-morris",
+    "name": "L  Morris",
+    "email": "l..morris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

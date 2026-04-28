@@ -1,0 +1,14 @@
+{
+  "slug": "people/djunek-aeglobalmarkets",
+  "type": "person",
+  "title": "Djunek",
+  "compiled_truth": "Djunek is an external contact at [Aeglobalmarkets](companies/aeglobalmarkets). Over the corpus period (2001-05-14 to 2001-11-12), Djunek sent 3 and received 25 emails, totalling 28 interactions. Top correspondents: [Chris Germany](people/chris-germany) (2), [Andrea Ring](people/andrea-ring) (1).",
+  "timeline": "- **2001-05-14** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/djunek-aeglobalmarkets",
+    "name": "Djunek",
+    "email": "djunek@aeglobalmarkets.com",
+    "primary_affiliation": "companies/aeglobalmarkets"
+  }
+}

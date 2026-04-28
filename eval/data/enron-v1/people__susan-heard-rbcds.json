@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-heard-rbcds",
+  "type": "person",
+  "title": "Susan Heard",
+  "compiled_truth": "Susan Heard is an external contact at [Rbcds](companies/rbcds). Over the corpus period (2000-09-26 to 2001-10-26), Susan Heard sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-09-26** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-heard-rbcds",
+    "name": "Susan Heard",
+    "email": "susan.heard@rbcds.com",
+    "primary_affiliation": "companies/rbcds"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dgiron1-pdq",
+  "type": "person",
+  "title": "Dgiron1",
+  "compiled_truth": "Dgiron1 is an external contact at [Pdq](companies/pdq). Over the corpus period (2000-06-08 to 2001-11-21), Dgiron1 sent 0 and received 167 emails, totalling 167 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dgiron1-pdq",
+    "name": "Dgiron1",
+    "email": "dgiron1@pdq.net",
+    "primary_affiliation": "companies/pdq"
+  }
+}

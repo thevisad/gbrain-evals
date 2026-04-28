@@ -1,0 +1,14 @@
+{
+  "slug": "people/willis-philip",
+  "type": "person",
+  "title": "Willis Philip",
+  "compiled_truth": "Willis Philip is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-01 to 2002-02-28), Willis Philip sent 16 and received 160 emails, totalling 176 interactions. Top correspondents: [Robert Benson](people/robert-benson) (6), [Benjamin Rogers](people/benjamin-rogers) (5), [Gautam Gupta](people/gautam-gupta) (4), [J  Broderick](people/j-broderick) (4), [J  Sturm](people/j-sturm) (3). Mailbox folders observed: deleted_items, inbox, trading_info.",
+  "timeline": "- **2001-06-01** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/willis-philip",
+    "name": "Willis Philip",
+    "email": "willis.philip@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

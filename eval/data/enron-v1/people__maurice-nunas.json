@@ -1,0 +1,14 @@
+{
+  "slug": "people/maurice-nunas",
+  "type": "person",
+  "title": "Maurice Nunas",
+  "compiled_truth": "Maurice Nunas is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-12 to 2001-11-09), Maurice Nunas sent 1 and received 18 emails, totalling 19 interactions.",
+  "timeline": "- **2001-07-12** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maurice-nunas",
+    "name": "Maurice Nunas",
+    "email": "maurice.nunas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

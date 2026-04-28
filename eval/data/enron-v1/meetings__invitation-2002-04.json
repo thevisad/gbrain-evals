@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/invitation-2002-04",
+  "type": "meeting",
+  "title": "Meeting: Invitation",
+  "compiled_truth": "Meeting: \"Invitation\". Occurred 2002-04-11 through 2002-04-11 with 2 related emails. Participants included: [Caroline Emmert](people/caroline-emmert), [Darren Cavanaugh](people/darren-cavanaugh), [Grace Rodriguez](people/grace-rodriguez), [Julie Sarnowski](people/julie-sarnowski), [Kathryn Sheppard](people/kathryn-sheppard), [Lisa Gang](people/lisa-gang), [M  Driscoll](people/m-driscoll), [Robert Anderson](people/robert-anderson)....",
+  "timeline": "- **2002-04-11** | Meeting: invitation\n- **2002-04-11** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/invitation-2002-04",
+    "attendees": [
+      "people/caroline-emmert",
+      "people/darren-cavanaugh",
+      "people/grace-rodriguez",
+      "people/julie-sarnowski",
+      "people/kathryn-sheppard",
+      "people/lisa-gang",
+      "people/m-driscoll",
+      "people/robert-anderson",
+      "people/susan-rance",
+      "people/virginia-thompson"
+    ],
+    "date": "2002-04-11"
+  }
+}

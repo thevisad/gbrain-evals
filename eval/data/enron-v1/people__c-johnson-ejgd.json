@@ -1,0 +1,14 @@
+{
+  "slug": "people/c-johnson-ejgd",
+  "type": "person",
+  "title": "C Johnson",
+  "compiled_truth": "C Johnson is an external contact at [Ejgd](companies/ejgd). Over the corpus period (2001-01-25 to 2001-03-29), C Johnson sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-01-25** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/c-johnson-ejgd",
+    "name": "C Johnson",
+    "email": "c.johnson@ejgd.com",
+    "primary_affiliation": "companies/ejgd"
+  }
+}

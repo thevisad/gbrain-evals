@@ -1,0 +1,14 @@
+{
+  "slug": "people/cards-wdni",
+  "type": "person",
+  "title": "Cards",
+  "compiled_truth": "Cards is an external contact at [Wdni](companies/wdni). Over the corpus period (2000-11-09 to 2001-05-11), Cards sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cards-wdni",
+    "name": "Cards",
+    "email": "cards@wdni.com",
+    "primary_affiliation": "companies/wdni"
+  }
+}

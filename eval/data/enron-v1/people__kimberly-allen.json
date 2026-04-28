@@ -1,0 +1,14 @@
+{
+  "slug": "people/kimberly-allen",
+  "type": "person",
+  "title": "Kimberly Allen",
+  "compiled_truth": "Kimberly Allen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-11-27), Kimberly Allen sent 32 and received 234 emails, totalling 266 interactions. Top correspondents: [Kate Symes](people/kate-symes) (32), [Melissa Murphy](people/melissa-murphy) (2), [Monica Lande](people/monica-lande) (2), [Kerri Thompson](people/kerri-thompson) (1).",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kimberly-allen",
+    "name": "Kimberly Allen",
+    "email": "kimberly.allen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tdexe-bpa",
+  "type": "person",
+  "title": "Tdexe",
+  "compiled_truth": "Tdexe is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2001-04-26 to 2001-12-05), Tdexe sent 1 and received 3 emails, totalling 4 interactions. Top correspondents: [Cara Semperger](people/cara-semperger) (1).",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tdexe-bpa",
+    "name": "Tdexe",
+    "email": "tdexe@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

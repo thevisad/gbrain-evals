@@ -1,0 +1,14 @@
+{
+  "slug": "people/sheri-strickland",
+  "type": "person",
+  "title": "Sheri Strickland",
+  "compiled_truth": "Sheri Strickland is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-05-09), Sheri Strickland sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sheri-strickland",
+    "name": "Sheri Strickland",
+    "email": "sheri.strickland@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

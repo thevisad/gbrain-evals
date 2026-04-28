@@ -1,0 +1,14 @@
+{
+  "slug": "people/veronica-hill",
+  "type": "person",
+  "title": "Veronica Hill",
+  "compiled_truth": "Veronica Hill is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-27 to 2001-12-03), Veronica Hill sent 1 and received 47 emails, totalling 48 interactions. Top correspondents: [Jeff Wolfe](people/jeff-wolfe) (1), [Jason Wolfe](people/jason-wolfe) (1). Mailbox folders observed: 06_saved.",
+  "timeline": "- **2000-09-27** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/veronica-hill",
+    "name": "Veronica Hill",
+    "email": "veronica.hill@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

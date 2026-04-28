@@ -1,0 +1,14 @@
+{
+  "slug": "people/markw-citizenspower",
+  "type": "person",
+  "title": "Markw",
+  "compiled_truth": "Markw is an external contact at [Citizenspower](companies/citizenspower). Over the corpus period (2000-02-16 to 2001-02-27), Markw sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-02-16** | First recorded email in corpus\n- **2001-02-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/markw-citizenspower",
+    "name": "Markw",
+    "email": "markw@citizenspower.com",
+    "primary_affiliation": "companies/citizenspower"
+  }
+}

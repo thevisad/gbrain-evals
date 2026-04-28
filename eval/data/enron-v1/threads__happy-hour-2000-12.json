@@ -1,0 +1,24 @@
+{
+  "slug": "threads/happy-hour-2000-12",
+  "type": "meeting",
+  "title": "Thread: Happy Hour",
+  "compiled_truth": "Email thread: \"Happy Hour\". Ran from 2000-12-20 to 2001-01-11 with 25 messages. Participants: [Brian Hoskins](people/brian-hoskins), [Bryan Hull](people/bryan-hull), [Dan Bump](people/dan-bump), [Eric Bass](people/eric-bass), [Gerald Nemec](people/gerald-nemec), [Hector Campos](people/hector-campos), [Luis Mena](people/luis-mena), [Matthew Lenhart](people/matthew-lenhart).",
+  "timeline": "- **2000-12-20** | Thread begins: happy hour\n- **2001-01-11** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/happy-hour-2000-12",
+    "attendees": [
+      "people/brian-hoskins",
+      "people/bryan-hull",
+      "people/dan-bump",
+      "people/eric-bass",
+      "people/gerald-nemec",
+      "people/hector-campos",
+      "people/luis-mena",
+      "people/matthew-lenhart",
+      "people/paul-lucci",
+      "people/timothy-blanchard"
+    ],
+    "date": "2000-12-20"
+  }
+}

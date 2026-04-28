@@ -1,0 +1,14 @@
+{
+  "slug": "people/shase-aesc",
+  "type": "person",
+  "title": "Shase",
+  "compiled_truth": "Shase is an external contact at [Aesc](companies/aesc). Over the corpus period (2001-04-30 to 2001-05-11), Shase sent 8 and received 16 emails, totalling 24 interactions. Top correspondents: [Aroffwarg](people/aroffwarg-bracepatt) (8), [Prollin](people/prollin-aesc) (8), [Szisman](people/szisman) (8), [Ben F Jacoby](people/ben-f-jacoby) (8), [Chris Booth](people/chris-booth) (8).",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shase-aesc",
+    "name": "Shase",
+    "email": "shase@aesc.com",
+    "primary_affiliation": "companies/aesc"
+  }
+}

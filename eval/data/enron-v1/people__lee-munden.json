@@ -1,0 +1,14 @@
+{
+  "slug": "people/lee-munden",
+  "type": "person",
+  "title": "Lee Munden",
+  "compiled_truth": "Lee Munden is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-22 to 2001-04-02), Lee Munden sent 5 and received 51 emails, totalling 56 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (4), [Paul Radous](people/paul-radous) (2), [David Hardy](people/david-hardy) (2), [Neil Anderson](people/neil-anderson) (2), [Dbf](people/dbf-vitol) (1).",
+  "timeline": "- **1999-01-22** | First recorded email in corpus\n- **2001-04-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lee-munden",
+    "name": "Lee Munden",
+    "email": "lee.munden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

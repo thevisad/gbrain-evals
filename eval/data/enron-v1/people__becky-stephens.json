@@ -1,0 +1,14 @@
+{
+  "slug": "people/becky-stephens",
+  "type": "person",
+  "title": "Becky Stephens",
+  "compiled_truth": "Becky Stephens is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Becky Stephens sent 16 and received 79 emails, totalling 95 interactions. Top correspondents: [Richard Sanders](people/richard-sanders) (14), [Linda Guinn](people/linda-guinn) (14), [Bonnie White](people/bonnie-white) (13), [Robert Vote](people/robert-vote) (3), [B  Sanders](people/b-sanders) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/becky-stephens",
+    "name": "Becky Stephens",
+    "email": "becky.stephens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

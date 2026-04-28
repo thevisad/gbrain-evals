@@ -1,0 +1,14 @@
+{
+  "slug": "people/cynthia-rivers",
+  "type": "person",
+  "title": "Cynthia Rivers",
+  "compiled_truth": "Cynthia Rivers is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-03-15), Cynthia Rivers sent 0 and received 213 emails, totalling 213 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-03-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cynthia-rivers",
+    "name": "Cynthia Rivers",
+    "email": "cynthia.rivers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

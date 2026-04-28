@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-weaver-lw",
+  "type": "person",
+  "title": "Mike Weaver",
+  "compiled_truth": "Mike Weaver is an external contact at [Lw](companies/lw). Over the corpus period (2001-01-30 to 2001-06-11), Mike Weaver sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2001-01-30** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-weaver-lw",
+    "name": "Mike Weaver",
+    "email": "mike.weaver@lw.com",
+    "primary_affiliation": "companies/lw"
+  }
+}

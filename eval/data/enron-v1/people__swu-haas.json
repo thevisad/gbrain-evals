@@ -1,0 +1,14 @@
+{
+  "slug": "people/swu-haas",
+  "type": "person",
+  "title": "Swu",
+  "compiled_truth": "Swu is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2001-09-04), Swu sent 0 and received 39 emails, totalling 39 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/swu-haas",
+    "name": "Swu",
+    "email": "swu@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

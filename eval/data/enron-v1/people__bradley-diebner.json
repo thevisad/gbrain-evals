@@ -1,0 +1,14 @@
+{
+  "slug": "people/bradley-diebner",
+  "type": "person",
+  "title": "Bradley Diebner",
+  "compiled_truth": "Bradley Diebner is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-05 to 2001-11-25), Bradley Diebner sent 17 and received 271 emails, totalling 288 interactions. Top correspondents: [Tana Jones](people/tana-jones) (14), [Tom Moran](people/tom-moran) (11), [Lisa Lees](people/lisa-lees) (11), [Stephanie Sever](people/stephanie-sever) (10), [Brant Reves](people/brant-reves) (9).",
+  "timeline": "- **1999-08-05** | First recorded email in corpus\n- **2001-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bradley-diebner",
+    "name": "Bradley Diebner",
+    "email": "bradley.diebner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/young-randy",
+  "type": "person",
+  "title": "Young' 'Randy",
+  "compiled_truth": "Young' 'Randy is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-22 to 2002-03-22), Young' 'Randy sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-03-22** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/young-randy",
+    "name": "Young' 'Randy",
+    "email": "young'.'randy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

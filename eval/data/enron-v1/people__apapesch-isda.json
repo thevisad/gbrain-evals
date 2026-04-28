@@ -1,0 +1,14 @@
+{
+  "slug": "people/apapesch-isda",
+  "type": "person",
+  "title": "Apapesch",
+  "compiled_truth": "Apapesch is an external contact at [Isda](companies/isda). Over the corpus period (2000-11-13 to 2001-11-13), Apapesch sent 3 and received 46 emails, totalling 49 interactions. Top correspondents: [Mark E Haedicke](people/mark-e-haedicke) (3), [Azam Mistry](people/azam-mistry-hsbc) (1), [Damian Kissane](people/damian-kissane-db) (1), [Genova Diane](people/genova-diane-jpmorgan) (1), [Douglas Bongartz-Renaud](people/douglas-bongartz-renaud-nl) (1).",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/apapesch-isda",
+    "name": "Apapesch",
+    "email": "apapesch@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

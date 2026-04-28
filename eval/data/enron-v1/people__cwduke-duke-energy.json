@@ -1,0 +1,14 @@
+{
+  "slug": "people/cwduke-duke-energy",
+  "type": "person",
+  "title": "Cwduke",
+  "compiled_truth": "Cwduke is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2001-04-19 to 2001-05-11), Cwduke sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cwduke-duke-energy",
+    "name": "Cwduke",
+    "email": "cwduke@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

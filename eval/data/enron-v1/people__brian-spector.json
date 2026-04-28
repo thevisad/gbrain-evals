@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-spector",
+  "type": "person",
+  "title": "Brian Spector",
+  "compiled_truth": "Brian Spector is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-07 to 2001-11-30), Brian Spector sent 5 and received 49 emails, totalling 54 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (5), [Dan Minter](people/dan-minter) (3), [Dax Sanders](people/dax-sanders) (2), [Rob Mcdonald](people/rob-mcdonald) (2), [John Mcpherson](people/john-mcpherson) (1).",
+  "timeline": "- **2000-01-07** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-spector",
+    "name": "Brian Spector",
+    "email": "brian.spector@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

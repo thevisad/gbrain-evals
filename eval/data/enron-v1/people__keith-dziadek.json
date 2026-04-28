@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-dziadek",
+  "type": "person",
+  "title": "Keith Dziadek",
+  "compiled_truth": "Keith Dziadek is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2002-03-20), Keith Dziadek sent 1 and received 60 emails, totalling 61 interactions. Top correspondents: [Dan Dietrich](people/dan-dietrich) (1), [Tim Belden](people/tim-belden) (1), [Murray O'Neil](people/murray-o-neil) (1), [Arshak Sarkissian](people/arshak-sarkissian) (1), [Chip Cox](people/chip-cox) (1).",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2002-03-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-dziadek",
+    "name": "Keith Dziadek",
+    "email": "keith.dziadek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

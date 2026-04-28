@@ -1,0 +1,14 @@
+{
+  "slug": "people/jkho-dynegy",
+  "type": "person",
+  "title": "Jkho",
+  "compiled_truth": "Jkho is an external contact at [Dynegy](companies/dynegy). Over the corpus period (2000-01-31 to 2000-12-06), Jkho sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-01-31** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jkho-dynegy",
+    "name": "Jkho",
+    "email": "jkho@dynegy.com",
+    "primary_affiliation": "companies/dynegy"
+  }
+}

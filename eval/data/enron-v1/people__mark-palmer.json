@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-palmer",
+  "type": "person",
+  "title": "Mark Palmer",
+  "compiled_truth": "Mark Palmer is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-02), Mark Palmer sent 72 and received 1550 emails, totalling 1622 interactions. Top correspondents: [Steven Kean](people/steven-kean) (47), [Richard Shapiro](people/richard-shapiro) (26), [Karen Denne](people/karen-denne) (19), [Jeff Dasovich](people/jeff-dasovich) (16), [James Steffes](people/james-steffes) (15). Mailbox folders observed: _americas, aadepartment, advertising, california_campaign, deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-palmer",
+    "name": "Mark Palmer",
+    "email": "mark.palmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

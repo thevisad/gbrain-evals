@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-reed",
+  "type": "person",
+  "title": "Jennifer Reed",
+  "compiled_truth": "Jennifer Reed is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-09-28), Jennifer Reed sent 4 and received 25 emails, totalling 29 interactions. Top correspondents: [Dana Davis](people/dana-davis) (3), [Latrice Adeyinka](people/latrice-adeyinka) (1), [Ellen Alexander](people/ellen-alexander) (1), [Peggy Alix](people/peggy-alix) (1), [Patricia Anderson](people/patricia-anderson) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-reed",
+    "name": "Jennifer Reed",
+    "email": "jennifer.reed@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jweisgall-aol",
+  "type": "person",
+  "title": "Jweisgall",
+  "compiled_truth": "Jweisgall is an external contact at [AOL](companies/aol). Over the corpus period (2000-08-11 to 2001-07-31), Jweisgall sent 0 and received 235 emails, totalling 235 interactions.",
+  "timeline": "- **2000-08-11** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jweisgall-aol",
+    "name": "Jweisgall",
+    "email": "jweisgall@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/peter-prelli",
+  "type": "person",
+  "title": "Peter Prelli",
+  "compiled_truth": "Peter Prelli is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-17 to 2001-11-12), Peter Prelli sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-10-17** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peter-prelli",
+    "name": "Peter Prelli",
+    "email": "peter.prelli@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-hooser",
+  "type": "person",
+  "title": "Steve Hooser",
+  "compiled_truth": "Steve Hooser is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-27 to 2001-06-12), Steve Hooser sent 90 and received 539 emails, totalling 629 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (69), [Barbara Gray](people/barbara-gray) (18), [Pat Radford](people/pat-radford) (15), [Cthompson](people/cthompson-bracepatt) (14), [Dan Hyvl](people/dan-hyvl) (13). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-07-27** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-hooser",
+    "name": "Steve Hooser",
+    "email": "steve.hooser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

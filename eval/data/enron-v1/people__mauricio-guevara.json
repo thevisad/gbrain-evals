@@ -1,0 +1,14 @@
+{
+  "slug": "people/mauricio-guevara",
+  "type": "person",
+  "title": "Mauricio Guevara",
+  "compiled_truth": "Mauricio Guevara is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-21 to 2001-10-19), Mauricio Guevara sent 3 and received 20 emails, totalling 23 interactions. Top correspondents: [John Ambler](people/john-ambler) (2), [Doug Arnell](people/doug-arnell) (2), [Curly Baca](people/curly-baca) (2), [Habiba Bayi](people/habiba-bayi) (2), [Rick Bergsieker](people/rick-bergsieker) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-04-21** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mauricio-guevara",
+    "name": "Mauricio Guevara",
+    "email": "mauricio.guevara@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

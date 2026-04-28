@@ -1,0 +1,14 @@
+{
+  "slug": "people/christopher-f-calger",
+  "type": "person",
+  "title": "Christopher F Calger",
+  "compiled_truth": "Christopher F Calger is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-03-23), Christopher F Calger sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-03-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christopher-f-calger",
+    "name": "Christopher F Calger",
+    "email": "christopher.f.calger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

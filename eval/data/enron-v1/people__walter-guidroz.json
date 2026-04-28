@@ -1,0 +1,14 @@
+{
+  "slug": "people/walter-guidroz",
+  "type": "person",
+  "title": "Walter Guidroz",
+  "compiled_truth": "Walter Guidroz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-03 to 2001-06-08), Walter Guidroz sent 65 and received 289 emails, totalling 354 interactions. Top correspondents: [Tana Jones](people/tana-jones) (58), [Tom Moran](people/tom-moran) (50), [Tanya Rohauer](people/tanya-rohauer) (43), [Karen Lambert](people/karen-lambert) (42), [Samuel Schott](people/samuel-schott) (41). Mailbox folders observed: notes_inbox, online_trading.",
+  "timeline": "- **2000-10-03** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/walter-guidroz",
+    "name": "Walter Guidroz",
+    "email": "walter.guidroz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

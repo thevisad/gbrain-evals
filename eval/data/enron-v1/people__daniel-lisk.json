@@ -1,0 +1,14 @@
+{
+  "slug": "people/daniel-lisk",
+  "type": "person",
+  "title": "Daniel Lisk",
+  "compiled_truth": "Daniel Lisk is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-10 to 2001-12-14), Daniel Lisk sent 5 and received 165 emails, totalling 170 interactions. Top correspondents: [Jason Wolfe](people/jason-wolfe) (3), [Frank Ermis](people/frank-ermis) (1), [Matthew Lenhart](people/matthew-lenhart) (1). Mailbox folders observed: 06_saved, inbox.",
+  "timeline": "- **2001-01-10** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/daniel-lisk",
+    "name": "Daniel Lisk",
+    "email": "daniel.lisk@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/brogers2",
+  "type": "person",
+  "title": "Brogers2",
+  "compiled_truth": "Brogers2 is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2002-02-26), Brogers2 sent 0 and received 74 emails, totalling 74 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2002-02-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brogers2",
+    "name": "Brogers2",
+    "email": "brogers2@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

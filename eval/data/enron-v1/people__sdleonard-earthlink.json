@@ -1,0 +1,14 @@
+{
+  "slug": "people/sdleonard-earthlink",
+  "type": "person",
+  "title": "Sdleonard",
+  "compiled_truth": "Sdleonard is an external contact at [Earthlink](companies/earthlink). Over the corpus period (2000-06-21 to 2001-08-23), Sdleonard sent 12 and received 34 emails, totalling 46 interactions. Top correspondents: [Bmspeckman](people/bmspeckman-aol) (11), [Kristiwallis](people/kristiwallis-sprintmail) (9), [Ekrogh](people/ekrogh-serv) (9), [Judyrtowest](people/judyrtowest-earthlink) (9), [Chrisrtowest](people/chrisrtowest-earthlink) (9).",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-08-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sdleonard-earthlink",
+    "name": "Sdleonard",
+    "email": "sdleonard@earthlink.net",
+    "primary_affiliation": "companies/earthlink"
+  }
+}

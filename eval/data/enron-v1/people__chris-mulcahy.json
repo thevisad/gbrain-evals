@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-mulcahy",
+  "type": "person",
+  "title": "Chris Mulcahy",
+  "compiled_truth": "Chris Mulcahy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-26 to 2001-05-09), Chris Mulcahy sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2001-02-26** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-mulcahy",
+    "name": "Chris Mulcahy",
+    "email": "chris.mulcahy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

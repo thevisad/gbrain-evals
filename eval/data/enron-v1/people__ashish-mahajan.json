@@ -1,0 +1,14 @@
+{
+  "slug": "people/ashish-mahajan",
+  "type": "person",
+  "title": "Ashish Mahajan",
+  "compiled_truth": "Ashish Mahajan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-12-05), Ashish Mahajan sent 0 and received 106 emails, totalling 106 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ashish-mahajan",
+    "name": "Ashish Mahajan",
+    "email": "ashish.mahajan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

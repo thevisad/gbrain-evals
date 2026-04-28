@@ -1,0 +1,14 @@
+{
+  "slug": "people/ben-glisan",
+  "type": "person",
+  "title": "Ben Glisan",
+  "compiled_truth": "Ben Glisan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2001-11-23), Ben Glisan sent 8 and received 307 emails, totalling 315 interactions. Top correspondents: [Greg Whalley](people/greg-whalley) (5), [Don Miller](people/don-miller) (3), [Louise Kitchen](people/louise-kitchen) (3), [Mark Frevert](people/mark-frevert) (2), [Andrew Fastow](people/andrew-fastow) (2). Mailbox folders observed: _americas, accounting, genco_jv_ipo, inbox.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-11-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ben-glisan",
+    "name": "Ben Glisan",
+    "email": "ben.glisan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

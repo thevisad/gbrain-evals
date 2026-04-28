@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-metts",
+  "type": "person",
+  "title": "J Metts",
+  "compiled_truth": "J Metts is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-01-21), J Metts sent 6 and received 111 emails, totalling 117 interactions. Top correspondents: [Steven Kean](people/steven-kean) (4), [Mark Palmer](people/mark-palmer) (4), [Mark Koenig](people/mark-koenig) (3), [Rex Rogers](people/rex-rogers) (2), [Paula Rieker](people/paula-rieker) (2).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-01-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-metts",
+    "name": "J Metts",
+    "email": "j.metts@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

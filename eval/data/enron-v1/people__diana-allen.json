@@ -1,0 +1,14 @@
+{
+  "slug": "people/diana-allen",
+  "type": "person",
+  "title": "Diana Allen",
+  "compiled_truth": "Diana Allen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-13 to 2002-02-28), Diana Allen sent 0 and received 235 emails, totalling 235 interactions.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diana-allen",
+    "name": "Diana Allen",
+    "email": "diana.allen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

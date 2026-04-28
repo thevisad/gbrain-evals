@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-shannon",
+  "type": "person",
+  "title": "Patricia Shannon",
+  "compiled_truth": "Patricia Shannon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2002-01-22), Patricia Shannon sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-shannon",
+    "name": "Patricia Shannon",
+    "email": "patricia.shannon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

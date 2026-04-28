@@ -1,0 +1,14 @@
+{
+  "slug": "people/ihalasz-blackrock",
+  "type": "person",
+  "title": "Ihalasz",
+  "compiled_truth": "Ihalasz is an external contact at [Blackrock](companies/blackrock). Over the corpus period (2000-05-18 to 2000-09-18), Ihalasz sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ihalasz-blackrock",
+    "name": "Ihalasz",
+    "email": "ihalasz@blackrock.com",
+    "primary_affiliation": "companies/blackrock"
+  }
+}

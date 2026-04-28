@@ -1,0 +1,14 @@
+{
+  "slug": "people/rodney-reagor",
+  "type": "person",
+  "title": "Rodney Reagor",
+  "compiled_truth": "Rodney Reagor is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-11 to 2001-12-21), Rodney Reagor sent 1 and received 32 emails, totalling 33 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-06-11** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rodney-reagor",
+    "name": "Rodney Reagor",
+    "email": "rodney.reagor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

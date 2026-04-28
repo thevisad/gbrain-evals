@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevinscott-onlinemailbox",
+  "type": "person",
+  "title": "Kevinscott",
+  "compiled_truth": "Kevinscott is an external contact at [Onlinemailbox](companies/onlinemailbox). Over the corpus period (2001-04-25 to 2001-07-31), Kevinscott sent 18 and received 10 emails, totalling 28 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (16), [Skean](people/skean) (7), [Sherri Sera](people/sherri-sera) (6), [Kean Steve](people/kean-steve) (2), [Skeane](people/skeane) (1).",
+  "timeline": "- **2001-04-25** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevinscott-onlinemailbox",
+    "name": "Kevinscott",
+    "email": "kevinscott@onlinemailbox.net",
+    "primary_affiliation": "companies/onlinemailbox"
+  }
+}

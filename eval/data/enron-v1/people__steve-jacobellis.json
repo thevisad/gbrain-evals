@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-jacobellis",
+  "type": "person",
+  "title": "Steve Jacobellis",
+  "compiled_truth": "Steve Jacobellis is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-15), Steve Jacobellis sent 2 and received 49 emails, totalling 51 interactions. Top correspondents: [Charles Weldon](people/charles-weldon) (2), [Steven Curlee](people/steven-curlee) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-jacobellis",
+    "name": "Steve Jacobellis",
+    "email": "steve.jacobellis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

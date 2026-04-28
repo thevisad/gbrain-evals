@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-greer",
+  "type": "person",
+  "title": "Robert Greer",
+  "compiled_truth": "Robert Greer is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-03-28), Robert Greer sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-greer",
+    "name": "Robert Greer",
+    "email": "robert.greer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

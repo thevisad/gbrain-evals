@@ -1,0 +1,14 @@
+{
+  "slug": "people/alex-wong",
+  "type": "person",
+  "title": "Alex Wong",
+  "compiled_truth": "Alex Wong is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-26 to 2001-11-19), Alex Wong sent 1 and received 114 emails, totalling 115 interactions. Top correspondents: [Kayne Coulter](people/kayne-coulter) (1), [Rudy Acevedo](people/rudy-acevedo) (1), [Juan Hernandez](people/juan-hernandez) (1), [Mitch Robinson](people/mitch-robinson) (1), [Doug Gilbert-Smith](people/doug-gilbert-smith) (1). Mailbox folders observed: 24_hr_power.",
+  "timeline": "- **2000-09-26** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alex-wong",
+    "name": "Alex Wong",
+    "email": "alex.wong@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

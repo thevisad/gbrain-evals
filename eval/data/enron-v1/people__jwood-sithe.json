@@ -1,0 +1,14 @@
+{
+  "slug": "people/jwood-sithe",
+  "type": "person",
+  "title": "Jwood",
+  "compiled_truth": "Jwood is an external contact at [Sithe](companies/sithe). Over the corpus period (2000-09-01 to 2001-01-23), Jwood sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jwood-sithe",
+    "name": "Jwood",
+    "email": "jwood@sithe.com",
+    "primary_affiliation": "companies/sithe"
+  }
+}

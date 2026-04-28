@@ -1,0 +1,14 @@
+{
+  "slug": "people/staff-haas",
+  "type": "person",
+  "title": "Staff",
+  "compiled_truth": "Staff is an external contact at [Haas](companies/haas). Over the corpus period (1999-12-06 to 2001-12-21), Staff sent 0 and received 56 emails, totalling 56 interactions.",
+  "timeline": "- **1999-12-06** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/staff-haas",
+    "name": "Staff",
+    "email": "staff@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

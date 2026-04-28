@@ -1,0 +1,14 @@
+{
+  "slug": "people/showard-agsk",
+  "type": "person",
+  "title": "Showard",
+  "compiled_truth": "Showard is an external contact at [Agsk](companies/agsk). Over the corpus period (2001-01-02 to 2001-11-26), Showard sent 48 and received 43 emails, totalling 91 interactions. Top correspondents: [Richard B Sanders](people/richard-b-sanders) (40), [Wcp](people/wcp-quinnemanuel) (11), [Rtellis](people/rtellis-milbank) (6), [Jgoldblatt](people/jgoldblatt-agsk) (5), [Razzanof](people/razzanof-dsmo) (4).",
+  "timeline": "- **2001-01-02** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/showard-agsk",
+    "name": "Showard",
+    "email": "showard@agsk.com",
+    "primary_affiliation": "companies/agsk"
+  }
+}

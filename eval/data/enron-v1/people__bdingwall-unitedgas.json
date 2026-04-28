@@ -1,0 +1,14 @@
+{
+  "slug": "people/bdingwall-unitedgas",
+  "type": "person",
+  "title": "Bdingwall",
+  "compiled_truth": "Bdingwall is an external contact at [Unitedgas](companies/unitedgas). Over the corpus period (1999-11-22 to 2000-12-13), Bdingwall sent 0 and received 126 emails, totalling 126 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bdingwall-unitedgas",
+    "name": "Bdingwall",
+    "email": "bdingwall@unitedgas.com",
+    "primary_affiliation": "companies/unitedgas"
+  }
+}

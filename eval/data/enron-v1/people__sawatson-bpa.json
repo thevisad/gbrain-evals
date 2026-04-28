@@ -1,0 +1,14 @@
+{
+  "slug": "people/sawatson-bpa",
+  "type": "person",
+  "title": "Sawatson",
+  "compiled_truth": "Sawatson is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2000-06-23 to 2001-04-26), Sawatson sent 1 and received 18 emails, totalling 19 interactions. Top correspondents: [Mary Hain](people/mary-hain) (1).",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sawatson-bpa",
+    "name": "Sawatson",
+    "email": "sawatson@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

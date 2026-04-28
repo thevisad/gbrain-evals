@@ -1,0 +1,14 @@
+{
+  "slug": "people/erik-simpson",
+  "type": "person",
+  "title": "Erik Simpson",
+  "compiled_truth": "Erik Simpson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-14 to 2001-11-30), Erik Simpson sent 2 and received 77 emails, totalling 79 interactions. Top correspondents: [J  Sturm](people/j-sturm) (2), [M  Presto](people/m-presto) (1). Mailbox folders observed: inbox, presto_working_files.",
+  "timeline": "- **2000-02-14** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/erik-simpson",
+    "name": "Erik Simpson",
+    "email": "erik.simpson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

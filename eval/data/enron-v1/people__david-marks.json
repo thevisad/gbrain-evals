@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-marks",
+  "type": "person",
+  "title": "David Marks",
+  "compiled_truth": "David Marks is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2001-11-20), David Marks sent 0 and received 77 emails, totalling 77 interactions.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-marks",
+    "name": "David Marks",
+    "email": "david.marks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

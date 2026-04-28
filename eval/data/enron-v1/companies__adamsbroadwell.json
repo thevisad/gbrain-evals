@@ -1,0 +1,19 @@
+{
+  "slug": "companies/adamsbroadwell",
+  "type": "company",
+  "title": "Adamsbroadwell",
+  "compiled_truth": "Adamsbroadwell is an external organization that appears in the Enron email corpus. Domain: adamsbroadwell.com. Total email interactions with Enron: 340. Known contacts: 2 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (340 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/adamsbroadwell",
+    "name": "Adamsbroadwell",
+    "employees": [
+      "people/kpoole-adamsbroadwell",
+      "people/mdjoseph-adamsbroadwell"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

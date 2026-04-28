@@ -1,0 +1,14 @@
+{
+  "slug": "people/webmaster-cera",
+  "type": "person",
+  "title": "Webmaster",
+  "compiled_truth": "Webmaster is an external contact at [Cambridge Energy Research](companies/cera). Over the corpus period (2000-03-01 to 2002-02-07), Webmaster sent 137 and received 5 emails, totalling 142 interactions. Top correspondents: [Clients](people/clients-cera) (86), [Insights](people/insights-cera) (11), [Nsights](people/nsights-cera) (11), [Vkamins](people/vkamins) (5), [Vince J Kaminski](people/vince-j-kaminski) (3).",
+  "timeline": "- **2000-03-01** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/webmaster-cera",
+    "name": "Webmaster",
+    "email": "webmaster@cera.com",
+    "primary_affiliation": "companies/cera"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/herber",
+  "type": "person",
+  "title": " Herber",
+  "compiled_truth": "Herber is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-13 to 2002-03-13),  Herber sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-03-13** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/herber",
+    "name": " Herber",
+    "email": ".herber@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

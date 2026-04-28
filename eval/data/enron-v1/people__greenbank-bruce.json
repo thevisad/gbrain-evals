@@ -1,0 +1,14 @@
+{
+  "slug": "people/greenbank-bruce",
+  "type": "person",
+  "title": "Greenbank Bruce",
+  "compiled_truth": "Greenbank Bruce is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-22 to 2002-01-23), Greenbank Bruce sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2002-01-22** | First recorded email in corpus\n- **2002-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greenbank-bruce",
+    "name": "Greenbank Bruce",
+    "email": "greenbank.bruce@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

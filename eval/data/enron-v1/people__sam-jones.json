@@ -1,0 +1,14 @@
+{
+  "slug": "people/sam-jones",
+  "type": "person",
+  "title": "Sam Jones",
+  "compiled_truth": "Sam Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-22 to 2001-11-26), Sam Jones sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-02-22** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sam-jones",
+    "name": "Sam Jones",
+    "email": "sam.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

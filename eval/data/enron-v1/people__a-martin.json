@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-martin",
+  "type": "person",
+  "title": "A  Martin",
+  "compiled_truth": "A  Martin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-10 to 2002-02-21), A  Martin sent 221 and received 531 emails, totalling 752 interactions. Top correspondents: [Laura Vuittonet](people/laura-vuittonet) (37), [Lynemartin](people/lynemartin-msn) (21), [Eric Bass](people/eric-bass) (15), [John Lavorato](people/john-lavorato) (15), [David Baumbach](people/david-baumbach) (12). Mailbox folders observed: _americas, calendar, deleted_items, enron_news, inbox, logistics.",
+  "timeline": "- **2001-04-10** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-martin",
+    "name": "A  Martin",
+    "email": "a..martin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

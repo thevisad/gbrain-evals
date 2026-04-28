@@ -1,0 +1,14 @@
+{
+  "slug": "people/tracy-ramsey",
+  "type": "person",
+  "title": "Tracy Ramsey",
+  "compiled_truth": "Tracy Ramsey is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-17 to 2002-01-24), Tracy Ramsey sent 6 and received 23 emails, totalling 29 interactions. Top correspondents: [J  Kean](people/j-kean) (5), [Derryl Cleaveland](people/derryl-cleaveland) (4), [John Brindle](people/john-brindle) (2), [Jeff Leath](people/jeff-leath) (2), [Colleen Koenig](people/colleen-koenig) (1). Mailbox folders observed: active_international, inbox, pr_crisis_management, security.",
+  "timeline": "- **1999-08-17** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tracy-ramsey",
+    "name": "Tracy Ramsey",
+    "email": "tracy.ramsey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

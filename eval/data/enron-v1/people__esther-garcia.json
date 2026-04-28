@@ -1,0 +1,14 @@
+{
+  "slug": "people/esther-garcia",
+  "type": "person",
+  "title": "Esther Garcia",
+  "compiled_truth": "Esther Garcia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-10 to 2001-10-19), Esther Garcia sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [Karen Lindley](people/karen-lindley) (1), [Fred Boas](people/fred-boas) (1), [Mark Mccoy](people/mark-mccoy) (1), [Charlene Richmond](people/charlene-richmond) (1), [Gary Anderson](people/gary-anderson) (1).",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/esther-garcia",
+    "name": "Esther Garcia",
+    "email": "esther.garcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

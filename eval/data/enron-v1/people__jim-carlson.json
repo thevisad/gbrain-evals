@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-carlson",
+  "type": "person",
+  "title": "Jim Carlson",
+  "compiled_truth": "Jim Carlson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-04 to 2001-11-21), Jim Carlson sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-carlson",
+    "name": "Jim Carlson",
+    "email": "jim.carlson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bhabersack-gasbiz",
+  "type": "person",
+  "title": "Bhabersack",
+  "compiled_truth": "Bhabersack is an external contact at [Gasbiz](companies/gasbiz). Over the corpus period (2000-11-28 to 2001-07-31), Bhabersack sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bhabersack-gasbiz",
+    "name": "Bhabersack",
+    "email": "bhabersack@gasbiz.com",
+    "primary_affiliation": "companies/gasbiz"
+  }
+}

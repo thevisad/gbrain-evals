@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-charbonneau",
+  "type": "person",
+  "title": "Chris Charbonneau",
+  "compiled_truth": "Chris Charbonneau is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-01 to 2001-11-27), Chris Charbonneau sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-charbonneau",
+    "name": "Chris Charbonneau",
+    "email": "chris.charbonneau@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-bagwell",
+  "type": "person",
+  "title": "Jennifer Bagwell",
+  "compiled_truth": "Jennifer Bagwell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-09 to 2001-08-23), Jennifer Bagwell sent 10 and received 184 emails, totalling 194 interactions. Top correspondents: [V Weldon](people/v-weldon) (4), [Susan Scott](people/susan-scott) (3), [Darron Giron](people/darron-giron) (2), [Jason Wolfe](people/jason-wolfe) (2), [Chris Walker](people/chris-walker) (2). Mailbox folders observed: deleted_items, ft__pierce.",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2001-08-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-bagwell",
+    "name": "Jennifer Bagwell",
+    "email": "jennifer.bagwell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

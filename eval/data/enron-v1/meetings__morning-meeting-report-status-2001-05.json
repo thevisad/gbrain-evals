@@ -1,0 +1,25 @@
+{
+  "slug": "meetings/morning-meeting-report-status-2001-05",
+  "type": "meeting",
+  "title": "Meeting: Morning Meeting Report Status",
+  "compiled_truth": "Meeting: \"Morning Meeting Report Status\". Occurred 2001-05-31 through 2001-05-31 with 6 related emails. Participants included: [Alice Johnson](people/alice-johnson), [Ava Garcia](people/ava-garcia), [Dale Ratliff](people/dale-ratliff), [Darrell Schoolcraft](people/darrell-schoolcraft), [Don Powell](people/don-powell), [Gary Spraggins](people/gary-spraggins), [John Buchanan](people/john-buchanan), [Lynn Blair](people/lynn-blair)....",
+  "timeline": "- **2001-05-31** | Meeting: morning meeting report status\n- **2001-05-31** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/morning-meeting-report-status-2001-05",
+    "attendees": [
+      "people/alice-johnson",
+      "people/ava-garcia",
+      "people/dale-ratliff",
+      "people/darrell-schoolcraft",
+      "people/don-powell",
+      "people/gary-spraggins",
+      "people/john-buchanan",
+      "people/lynn-blair",
+      "people/sharon-brown",
+      "people/steven-january",
+      "people/terry-kowalke"
+    ],
+    "date": "2001-05-31"
+  }
+}

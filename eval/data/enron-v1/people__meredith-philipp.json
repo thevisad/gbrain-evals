@@ -1,0 +1,14 @@
+{
+  "slug": "people/meredith-philipp",
+  "type": "person",
+  "title": "Meredith Philipp",
+  "compiled_truth": "Meredith Philipp is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-19 to 2002-01-11), Meredith Philipp sent 31 and received 368 emails, totalling 399 interactions. Top correspondents: [Karen Denne](people/karen-denne) (15), [Steven Kean](people/steven-kean) (11), [Vance Meyer](people/vance-meyer) (11), [J  Kean](people/j-kean) (11), [Mark Palmer](people/mark-palmer) (10). Mailbox folders observed: deleted_items, internet_sites, pr___notre_dame, pr_crisis_management.",
+  "timeline": "- **2000-04-19** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/meredith-philipp",
+    "name": "Meredith Philipp",
+    "email": "meredith.philipp@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

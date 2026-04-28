@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-anderson",
+  "type": "person",
+  "title": "Bob Anderson",
+  "compiled_truth": "Bob Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2002-05-30), Bob Anderson sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2002-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-anderson",
+    "name": "Bob Anderson",
+    "email": "bob.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

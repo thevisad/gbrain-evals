@@ -1,0 +1,14 @@
+{
+  "slug": "people/d-morgan",
+  "type": "person",
+  "title": "D  Morgan",
+  "compiled_truth": "D  Morgan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-15 to 2002-06-21), D  Morgan sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-10-15** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d-morgan",
+    "name": "D  Morgan",
+    "email": "d..morgan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

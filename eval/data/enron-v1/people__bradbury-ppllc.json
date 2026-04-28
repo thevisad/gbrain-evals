@@ -1,0 +1,14 @@
+{
+  "slug": "people/bradbury-ppllc",
+  "type": "person",
+  "title": "Bradbury",
+  "compiled_truth": "Bradbury is an external contact at [Ppllc](companies/ppllc). Over the corpus period (2000-05-18 to 2000-09-18), Bradbury sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bradbury-ppllc",
+    "name": "Bradbury",
+    "email": "bradbury@ppllc.com",
+    "primary_affiliation": "companies/ppllc"
+  }
+}

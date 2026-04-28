@@ -1,0 +1,14 @@
+{
+  "slug": "people/foss-michelle",
+  "type": "person",
+  "title": "Foss Michelle",
+  "compiled_truth": "Foss Michelle is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Foss Michelle sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/foss-michelle",
+    "name": "Foss Michelle",
+    "email": "foss.michelle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

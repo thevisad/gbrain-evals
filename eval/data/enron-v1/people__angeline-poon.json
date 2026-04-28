@@ -1,0 +1,14 @@
+{
+  "slug": "people/angeline-poon",
+  "type": "person",
+  "title": "Angeline Poon",
+  "compiled_truth": "Angeline Poon is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-12), Angeline Poon sent 2 and received 114 emails, totalling 116 interactions. Top correspondents: [Tana Jones](people/tana-jones) (1), [Linda Guinn](people/linda-guinn) (1), [Richard Sanders](people/richard-sanders) (1), [Britt Davis](people/britt-davis) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angeline-poon",
+    "name": "Angeline Poon",
+    "email": "angeline.poon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

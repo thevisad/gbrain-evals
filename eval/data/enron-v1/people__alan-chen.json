@@ -1,0 +1,14 @@
+{
+  "slug": "people/alan-chen",
+  "type": "person",
+  "title": "Alan Chen",
+  "compiled_truth": "Alan Chen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-21 to 2002-02-28), Alan Chen sent 7 and received 135 emails, totalling 142 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (5), [Madhup Kumar](people/madhup-kumar) (2), [Smith Day](people/smith-day) (2), [Clint Dean](people/clint-dean) (2), [Mpatterson](people/mpatterson-ercot) (1). Mailbox folders observed: trading_info.",
+  "timeline": "- **2000-08-21** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alan-chen",
+    "name": "Alan Chen",
+    "email": "alan.chen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

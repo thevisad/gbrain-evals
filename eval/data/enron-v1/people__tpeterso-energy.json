@@ -1,0 +1,14 @@
+{
+  "slug": "people/tpeterso-energy",
+  "type": "person",
+  "title": "Tpeterso",
+  "compiled_truth": "Tpeterso is an external contact at [Energy](companies/energy). Over the corpus period (2000-10-09 to 2001-07-31), Tpeterso sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tpeterso-energy",
+    "name": "Tpeterso",
+    "email": "tpeterso@energy.state.ca.us",
+    "primary_affiliation": "companies/energy"
+  }
+}

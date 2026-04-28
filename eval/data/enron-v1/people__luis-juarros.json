@@ -1,0 +1,14 @@
+{
+  "slug": "people/luis-juarros",
+  "type": "person",
+  "title": "Luis Juarros",
+  "compiled_truth": "Luis Juarros is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-16 to 2000-12-12), Luis Juarros sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **1999-11-16** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/luis-juarros",
+    "name": "Luis Juarros",
+    "email": "luis.juarros@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

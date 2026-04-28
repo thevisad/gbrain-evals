@@ -1,0 +1,14 @@
+{
+  "slug": "people/sonia-hennessy",
+  "type": "person",
+  "title": "Sonia Hennessy",
+  "compiled_truth": "Sonia Hennessy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-20 to 2002-02-06), Sonia Hennessy sent 48 and received 53 emails, totalling 101 interactions. Top correspondents: [W  White](people/w-white) (43), [Casey Evans](people/casey-evans) (15), [Leslie Reeves](people/leslie-reeves) (13), [Andrea Dahlke](people/andrea-dahlke) (13), [Tim Carter](people/tim-carter) (12). Mailbox folders observed: calendar, deleted_items, doorstep, inbox, itinerary_receipt, meetings.",
+  "timeline": "- **2001-07-20** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sonia-hennessy",
+    "name": "Sonia Hennessy",
+    "email": "sonia.hennessy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

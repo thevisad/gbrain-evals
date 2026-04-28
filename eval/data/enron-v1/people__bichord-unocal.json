@@ -1,0 +1,14 @@
+{
+  "slug": "people/bichord-unocal",
+  "type": "person",
+  "title": "Bichord",
+  "compiled_truth": "Bichord is an external contact at [Unocal](companies/unocal). Over the corpus period (1999-11-15 to 1999-11-15), Bichord sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bichord-unocal",
+    "name": "Bichord",
+    "email": "bichord@unocal.com",
+    "primary_affiliation": "companies/unocal"
+  }
+}

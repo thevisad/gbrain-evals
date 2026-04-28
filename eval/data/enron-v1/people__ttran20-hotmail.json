@@ -1,0 +1,14 @@
+{
+  "slug": "people/ttran20-hotmail",
+  "type": "person",
+  "title": "Ttran20",
+  "compiled_truth": "Ttran20 is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (1999-12-12 to 2001-05-08), Ttran20 sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **1999-12-12** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ttran20-hotmail",
+    "name": "Ttran20",
+    "email": "ttran20@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

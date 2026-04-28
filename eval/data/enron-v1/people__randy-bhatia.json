@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-bhatia",
+  "type": "person",
+  "title": "Randy Bhatia",
+  "compiled_truth": "Randy Bhatia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-09 to 2002-02-13), Randy Bhatia sent 34 and received 93 emails, totalling 127 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (10), [M  Love](people/m-love) (10), [K  Allen](people/k-allen) (6), [Matthew Lenhart](people/matthew-lenhart) (6), [Ryan O'Rourke](people/ryan-o-rourke) (6). Mailbox folders observed: deleted_items, inbox, west.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-bhatia",
+    "name": "Randy Bhatia",
+    "email": "randy.bhatia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

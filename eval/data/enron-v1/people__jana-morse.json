@@ -1,0 +1,14 @@
+{
+  "slug": "people/jana-morse",
+  "type": "person",
+  "title": "Jana Morse",
+  "compiled_truth": "Jana Morse is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-03 to 2001-10-19), Jana Morse sent 3 and received 185 emails, totalling 188 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (2), [Tana Jones](people/tana-jones) (1), [Juana Fayett](people/juana-fayett) (1).",
+  "timeline": "- **1999-08-03** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jana-morse",
+    "name": "Jana Morse",
+    "email": "jana.morse@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "people/ari-leclerc",
+  "type": "person",
+  "title": "Ari Leclerc — Senior Engineer, Anchor Codec",
+  "compiled_truth": "Ari Leclerc is a senior engineer at [Anchor Codec](companies/anchor), where they work primarily on protocol design and wire format optimization within the company's deterministic data infrastructure stack. Ari joined the team on July 1, 2026 — relatively early in Anchor's life — and quickly became one of the fastest shippers on the engineering side. Colleagues describe them as someone who moves from spec to implementation with almost unsettling speed, though never at the expense of rigor.\n\nBefore Anchor, Leclerc spent roughly five years building backend systems at mid-stage infrastructure startups, none of which survived long enough to become household names. That experience left Ari with strong opinions about wire format bloat, protocol negotiation overhead, and the general tendency of distributed systems teams to over-abstract before they've proven anything works. They've written internal memos at [Anchor Codec](companies/anchor) arguing that the single-pass primitives approach only holds up if the wire format is designed to be parseable in constant stack space — a constraint most of the team now takes for granted, but which was contentious in the early months.\n\nAri is analytical almost to a fault. They maintain a personal spreadsheet tracking latency regressions across every build, updated daily. On more than one occassion, Ari has flagged a performance cliff before the CI pipeline caught it. This habit earned them an informal reputation as the team's \"canary.\" They're not particularly loud in meetings but tend to write long, precise design docs that other engineers reference months later.\n\nOutside of core protocol work, Leclerc has contributed to Anchor's internal benchmarking harness and helped define the company's approach to backward-compatible format evolution. They gave a short internal talk in early 2027 about lessons learned from previous jobs' failed migration strategies, which reportedly influenced how the team handled its first breaking change later that year.\n\nAri lives in Montreal, works remotely, and is known to keep odd hours — often pushing commits between midnight and 3 AM Eastern. They're quiet on social media but occasionally surface on protocol-design forums under a pseudoynm, sharing thoughts on encoding efficiency and authentication overhead.",
+  "timeline": "- **2026-07-01** | Ari Leclerc joins [Anchor Codec](companies/anchor) as Senior Engineer, initially focused on wire format prototyping.\n- **2026-08-14** | Submits first internal RFC proposing constant-stack-space parsing constraints for the core wire format.\n- **2026-11-02** | Ships initial benchmarking harness used across the engineering team for latency regression tracking.\n- **2027-01-19** | Gives internal talk titled \"Migration Graveyards\" on lessons from failed format migrations at previous companies.\n- **2027-04-07** | Co-authors design doc for backward-compatible format evolution strategy with two other engineers.\n- **2027-06-22** | Flags a latency regression in a pre-release build three days before CI would have caught it; incident referenced in team retro.\n- **2027-09-10** | Leads implementation of Anchor's first breaking wire format change, applying the migration framework defined earlier that year.\n- **2028-01-15** | Promoted informally to protocol team lead, though Ari resists the title and continues listing themselves as Senior Engineer.\n- **2028-03-28** | Posts a widely-read thread on an encoding design forum analyzing authentication overhead tradeoffs in single-pass systems, without naming [Anchor Codec](companies/anchor) directly.",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ari-leclerc",
+    "name": "Ari Leclerc",
+    "role": "employee",
+    "title": "Senior Engineer",
+    "primary_affiliation": "companies/anchor",
+    "notable_traits": [
+      "fast-shipping",
+      "analytical"
+    ],
+    "background": "Backend systems engineer; specialized in protocol design and wire format optimization",
+    "joined_anchor": "2026-07-01"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/h-george",
+  "type": "person",
+  "title": "H  George",
+  "compiled_truth": "H  George is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-15 to 2002-06-21), H  George sent 3 and received 79 emails, totalling 82 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2), [E  Haedicke](people/e-haedicke) (1), [Sheila Glover](people/sheila-glover) (1), [Donna Lowry](people/donna-lowry) (1), [Gary Hickerson](people/gary-hickerson) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-06-15** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/h-george",
+    "name": "H  George",
+    "email": "h..george@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

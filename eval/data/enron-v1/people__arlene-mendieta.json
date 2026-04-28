@@ -1,0 +1,14 @@
+{
+  "slug": "people/arlene-mendieta",
+  "type": "person",
+  "title": "Arlene Mendieta",
+  "compiled_truth": "Arlene Mendieta is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-09 to 2000-12-07), Arlene Mendieta sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-06-09** | First recorded email in corpus\n- **2000-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/arlene-mendieta",
+    "name": "Arlene Mendieta",
+    "email": "arlene.mendieta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

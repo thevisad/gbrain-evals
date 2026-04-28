@@ -1,0 +1,14 @@
+{
+  "slug": "people/newsletter-quickinspirations",
+  "type": "person",
+  "title": "Newsletter",
+  "compiled_truth": "Newsletter is an external contact at [Quickinspirations](companies/quickinspirations). Over the corpus period (2001-10-17 to 2002-01-01), Newsletter sent 37 and received 0 emails, totalling 37 interactions. Top correspondents: [Lblair](people/lblair) (37).",
+  "timeline": "- **2001-10-17** | First recorded email in corpus\n- **2002-01-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/newsletter-quickinspirations",
+    "name": "Newsletter",
+    "email": "newsletter@quickinspirations.com",
+    "primary_affiliation": "companies/quickinspirations"
+  }
+}

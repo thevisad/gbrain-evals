@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-superty",
+  "type": "person",
+  "title": "Robert Superty",
+  "compiled_truth": "Robert Superty is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-27), Robert Superty sent 59 and received 843 emails, totalling 902 interactions. Top correspondents: [Victor Lamadrid](people/victor-lamadrid) (19), [Sally Beck](people/sally-beck) (17), [J  Farmer](people/j-farmer) (17), [Suzanne Calcagno](people/suzanne-calcagno) (15), [Patti Sullivan](people/patti-sullivan) (14). Mailbox folders observed: _americas, bankruptcy, calendar, commoditylogic, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-superty",
+    "name": "Robert Superty",
+    "email": "robert.superty@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-stabile-acnenergy",
+  "type": "person",
+  "title": "Tom Stabile",
+  "compiled_truth": "Tom Stabile is an external contact at [Acnenergy](companies/acnenergy). Over the corpus period (2002-01-25 to 2002-01-29), Tom Stabile sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-25** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-stabile-acnenergy",
+    "name": "Tom Stabile",
+    "email": "tom.stabile@acnenergy.com",
+    "primary_affiliation": "companies/acnenergy"
+  }
+}

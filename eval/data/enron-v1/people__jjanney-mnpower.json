@@ -1,0 +1,14 @@
+{
+  "slug": "people/jjanney-mnpower",
+  "type": "person",
+  "title": "Jjanney",
+  "compiled_truth": "Jjanney is an external contact at [Mnpower](companies/mnpower). Over the corpus period (2000-05-18 to 2000-09-18), Jjanney sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jjanney-mnpower",
+    "name": "Jjanney",
+    "email": "jjanney@mnpower.com",
+    "primary_affiliation": "companies/mnpower"
+  }
+}

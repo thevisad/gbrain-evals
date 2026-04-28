@@ -1,0 +1,14 @@
+{
+  "slug": "people/kimberly-bragg",
+  "type": "person",
+  "title": "Kimberly Bragg",
+  "compiled_truth": "Kimberly Bragg is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-08 to 2002-02-14), Kimberly Bragg sent 4 and received 10 emails, totalling 14 interactions. Top correspondents: [John Cobb](people/john-cobb) (4), [Tracy Geaccone](people/tracy-geaccone) (2), [Amelia Williams](people/amelia-williams) (2), [Lisa Sutton](people/lisa-sutton) (2), [Robert Chandler](people/robert-chandler) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kimberly-bragg",
+    "name": "Kimberly Bragg",
+    "email": "kimberly.bragg@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

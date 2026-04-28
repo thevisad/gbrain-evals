@@ -1,0 +1,14 @@
+{
+  "slug": "people/fredrik-eriksson",
+  "type": "person",
+  "title": "Fredrik Eriksson",
+  "compiled_truth": "Fredrik Eriksson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-12 to 2002-06-19), Fredrik Eriksson sent 1 and received 126 emails, totalling 127 interactions. Top correspondents: [John Van](people/john-van) (1), [David Guillaume](people/david-guillaume) (1), [Jeffrey Oh](people/jeffrey-oh) (1), [Todd Perry](people/todd-perry) (1), [Bill Williams](people/bill-williams) (1). Mailbox folders observed: bill_williams_iii.",
+  "timeline": "- **2001-02-12** | First recorded email in corpus\n- **2002-06-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fredrik-eriksson",
+    "name": "Fredrik Eriksson",
+    "email": "fredrik.eriksson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

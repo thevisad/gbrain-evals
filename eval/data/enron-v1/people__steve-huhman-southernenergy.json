@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-huhman-southernenergy",
+  "type": "person",
+  "title": "Steve Huhman",
+  "compiled_truth": "Steve Huhman is an external contact at [Southernenergy](companies/southernenergy). Over the corpus period (2000-03-30 to 2001-05-30), Steve Huhman sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-huhman-southernenergy",
+    "name": "Steve Huhman",
+    "email": "steve.huhman@southernenergy.com",
+    "primary_affiliation": "companies/southernenergy"
+  }
+}

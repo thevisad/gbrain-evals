@@ -1,0 +1,14 @@
+{
+  "slug": "people/ei-editor-ftenergy",
+  "type": "person",
+  "title": "Ei Editor",
+  "compiled_truth": "Ei Editor is an external contact at [Ftenergy](companies/ftenergy). Over the corpus period (2000-12-12 to 2001-11-03), Ei Editor sent 37 and received 0 emails, totalling 37 interactions. Top correspondents: [Einsighthtml](people/einsighthtml-spector) (25), [Einsighthtml](people/einsighthtml-list1) (5), [Einsighthtml](people/einsighthtml-listserv) (4), [Energyinsight](people/energyinsight-spector) (2), [Einsighttext](people/einsighttext-spector) (1).",
+  "timeline": "- **2000-12-12** | First recorded email in corpus\n- **2001-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ei-editor-ftenergy",
+    "name": "Ei Editor",
+    "email": "ei_editor@ftenergy.com",
+    "primary_affiliation": "companies/ftenergy"
+  }
+}

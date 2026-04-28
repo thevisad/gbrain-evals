@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-olinger",
+  "type": "person",
+  "title": "Kim Olinger",
+  "compiled_truth": "Kim Olinger is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-31 to 2001-04-07), Kim Olinger sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-05-31** | First recorded email in corpus\n- **2001-04-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-olinger",
+    "name": "Kim Olinger",
+    "email": "kim.olinger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/holden-salisbury",
+  "type": "person",
+  "title": "Holden Salisbury",
+  "compiled_truth": "Holden Salisbury is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-22), Holden Salisbury sent 151 and received 1137 emails, totalling 1288 interactions. Top correspondents: [Mark Fischer](people/mark-fischer) (14), [Portland Shift](people/portland-shift) (11), [Mike Purcell](people/mike-purcell) (10), [Stacy Runswick](people/stacy-runswick) (10), [Stephen Thome](people/stephen-thome) (9). Mailbox folders observed: sent_items.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/holden-salisbury",
+    "name": "Holden Salisbury",
+    "email": "holden.salisbury@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

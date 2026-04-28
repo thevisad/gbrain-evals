@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas-lowell",
+  "type": "person",
+  "title": "Thomas Lowell",
+  "compiled_truth": "Thomas Lowell is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2001-12-10), Thomas Lowell sent 2 and received 166 emails, totalling 168 interactions. Top correspondents: [J  Sturm](people/j-sturm) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas-lowell",
+    "name": "Thomas Lowell",
+    "email": "thomas.lowell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

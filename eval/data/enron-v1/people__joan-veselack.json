@@ -1,0 +1,14 @@
+{
+  "slug": "people/joan-veselack",
+  "type": "person",
+  "title": "Joan Veselack",
+  "compiled_truth": "Joan Veselack is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2000-08-21), Joan Veselack sent 61 and received 339 emails, totalling 400 interactions. Top correspondents: [Chris Germany](people/chris-germany) (61), [Robert Allwein](people/robert-allwein) (46), [Joann Collins](people/joann-collins) (42), [Katherine Kelly](people/katherine-kelly) (39), [Victor Lamadrid](people/victor-lamadrid) (39).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2000-08-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joan-veselack",
+    "name": "Joan Veselack",
+    "email": "joan.veselack@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

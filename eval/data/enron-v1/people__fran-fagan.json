@@ -1,0 +1,14 @@
+{
+  "slug": "people/fran-fagan",
+  "type": "person",
+  "title": "Fran Fagan",
+  "compiled_truth": "Fran Fagan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-06-13), Fran Fagan sent 29 and received 99 emails, totalling 128 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (10), [Danny Mccarty](people/danny-mccarty) (7), [Kimberly Watson](people/kimberly-watson) (6), [Sheila Nacey](people/sheila-nacey) (4), [Shelley Corman](people/shelley-corman) (4). Mailbox folders observed: deleted_items, inbox, personal, personnel___paa, personnel___prc_2001_mid_yr, personnel___promotions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fran-fagan",
+    "name": "Fran Fagan",
+    "email": "fran.fagan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

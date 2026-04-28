@@ -1,0 +1,14 @@
+{
+  "slug": "people/ttorion-aol",
+  "type": "person",
+  "title": "Ttorion",
+  "compiled_truth": "Ttorion is an external contact at [AOL](companies/aol). Over the corpus period (2000-06-20 to 2000-07-11), Ttorion sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2000-07-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ttorion-aol",
+    "name": "Ttorion",
+    "email": "ttorion@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

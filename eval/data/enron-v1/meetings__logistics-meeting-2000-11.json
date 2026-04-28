@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/logistics-meeting-2000-11",
+  "type": "meeting",
+  "title": "Meeting: Logistics Meeting",
+  "compiled_truth": "Meeting: \"Logistics Meeting\". Occurred 2000-11-15 with 1 related emails. Participants included: [Daren Farmer](people/daren-farmer), [Donald Reinhardt](people/donald-reinhardt), [Julie Meyers](people/julie-meyers), [Katherine Crosswhite](people/katherine-crosswhite), [Lauri Allen](people/lauri-allen), [Melissa Graves](people/melissa-graves), [Pat Clynes](people/pat-clynes), [Robert Cotten](people/robert-cotten)....",
+  "timeline": "- **2000-11-15** | Meeting: logistics meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/logistics-meeting-2000-11",
+    "attendees": [
+      "people/daren-farmer",
+      "people/donald-reinhardt",
+      "people/julie-meyers",
+      "people/katherine-crosswhite",
+      "people/lauri-allen",
+      "people/melissa-graves",
+      "people/pat-clynes",
+      "people/robert-cotten",
+      "people/susan-smith",
+      "people/vance-taylor"
+    ],
+    "date": "2000-11-15"
+  }
+}

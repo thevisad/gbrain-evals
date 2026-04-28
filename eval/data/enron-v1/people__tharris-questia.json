@@ -1,0 +1,14 @@
+{
+  "slug": "people/tharris-questia",
+  "type": "person",
+  "title": "Tharris",
+  "compiled_truth": "Tharris is an external contact at [Questia](companies/questia). Over the corpus period (2000-10-31 to 2000-10-31), Tharris sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-31** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tharris-questia",
+    "name": "Tharris",
+    "email": "tharris@questia.com",
+    "primary_affiliation": "companies/questia"
+  }
+}

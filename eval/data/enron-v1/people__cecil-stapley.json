@@ -1,0 +1,14 @@
+{
+  "slug": "people/cecil-stapley",
+  "type": "person",
+  "title": "Cecil Stapley",
+  "compiled_truth": "Cecil Stapley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2001-11-27), Cecil Stapley sent 0 and received 99 emails, totalling 99 interactions.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cecil-stapley",
+    "name": "Cecil Stapley",
+    "email": "cecil.stapley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

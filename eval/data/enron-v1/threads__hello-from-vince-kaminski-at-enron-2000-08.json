@@ -1,0 +1,21 @@
+{
+  "slug": "threads/hello-from-vince-kaminski-at-enron-2000-08",
+  "type": "meeting",
+  "title": "Thread: Hello From Vince Kaminski At Enron",
+  "compiled_truth": "Email thread: \"Hello From Vince Kaminski At Enron\". Ran from 2000-08-08 to 2000-08-30 with 20 messages. Participants: [Ashley Baxter](people/ashley-baxter), [Donna Jones](people/donna-jones), [Oren](people/oren-ieor), [Shirley Crenshaw](people/shirley-crenshaw), [Vince J Kaminski](people/vince-j-kaminski), [Vince Kaminski](people/vince-kaminski), [Vkamins](people/vkamins).",
+  "timeline": "- **2000-08-08** | Thread begins: hello from vince kaminski at enron\n- **2000-08-30** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/hello-from-vince-kaminski-at-enron-2000-08",
+    "attendees": [
+      "people/ashley-baxter",
+      "people/donna-jones",
+      "people/oren-ieor",
+      "people/shirley-crenshaw",
+      "people/vince-j-kaminski",
+      "people/vince-kaminski",
+      "people/vkamins"
+    ],
+    "date": "2000-08-08"
+  }
+}

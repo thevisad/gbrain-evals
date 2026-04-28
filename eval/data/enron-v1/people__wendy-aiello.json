@@ -1,0 +1,14 @@
+{
+  "slug": "people/wendy-aiello",
+  "type": "person",
+  "title": "Wendy Aiello",
+  "compiled_truth": "Wendy Aiello is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-01 to 2000-11-02), Wendy Aiello sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2000-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wendy-aiello",
+    "name": "Wendy Aiello",
+    "email": "wendy.aiello@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

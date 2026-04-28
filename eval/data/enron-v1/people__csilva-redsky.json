@@ -1,0 +1,14 @@
+{
+  "slug": "people/csilva-redsky",
+  "type": "person",
+  "title": "Csilva",
+  "compiled_truth": "Csilva is an external contact at [Redsky](companies/redsky). Over the corpus period (1999-11-08 to 2001-07-24), Csilva sent 15 and received 38 emails, totalling 53 interactions. Top correspondents: [Cameron](people/cameron-perfect) (9), [Scottwl](people/scottwl-hotmail) (8), [Psellers](people/psellers-pacbell) (7), [Jeff Dasovich](people/jeff-dasovich) (5), [Prentice W Sellers](people/prentice-w-sellers-lecg) (5).",
+  "timeline": "- **1999-11-08** | First recorded email in corpus\n- **2001-07-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/csilva-redsky",
+    "name": "Csilva",
+    "email": "csilva@redsky.com",
+    "primary_affiliation": "companies/redsky"
+  }
+}

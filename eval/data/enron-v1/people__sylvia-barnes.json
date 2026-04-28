@@ -1,0 +1,14 @@
+{
+  "slug": "people/sylvia-barnes",
+  "type": "person",
+  "title": "Sylvia Barnes",
+  "compiled_truth": "Sylvia Barnes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-28 to 2001-11-19), Sylvia Barnes sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sylvia-barnes",
+    "name": "Sylvia Barnes",
+    "email": "sylvia.barnes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

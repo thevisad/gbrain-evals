@@ -1,0 +1,14 @@
+{
+  "slug": "people/donna-consemiu",
+  "type": "person",
+  "title": "Donna Consemiu",
+  "compiled_truth": "Donna Consemiu is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2001-06-08), Donna Consemiu sent 1 and received 166 emails, totalling 167 interactions. Top correspondents: [Molly Carriere](people/molly-carriere) (1), [Clem Cernosek](people/clem-cernosek) (1), [Mary Cook](people/mary-cook) (1), [Daren Farmer](people/daren-farmer) (1), [Gary Hanks](people/gary-hanks) (1).",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donna-consemiu",
+    "name": "Donna Consemiu",
+    "email": "donna.consemiu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jill-erwin",
+  "type": "person",
+  "title": "Jill Erwin",
+  "compiled_truth": "Jill Erwin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-25 to 2002-01-22), Jill Erwin sent 3 and received 54 emails, totalling 57 interactions. Top correspondents: [Georgeanne Hodges](people/georgeanne-hodges) (2), [Steve Ross](people/steve-ross) (2), [Jeff Nogid](people/jeff-nogid) (2), [Eugenio Perez](people/eugenio-perez) (2), [Tony Harris](people/tony-harris) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-01-25** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jill-erwin",
+    "name": "Jill Erwin",
+    "email": "jill.erwin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

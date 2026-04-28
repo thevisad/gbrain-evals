@@ -1,0 +1,14 @@
+{
+  "slug": "people/luchene-katie",
+  "type": "person",
+  "title": "Luchene Katie",
+  "compiled_truth": "Luchene Katie is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2002-01-25), Luchene Katie sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/luchene-katie",
+    "name": "Luchene Katie",
+    "email": "luchene.katie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

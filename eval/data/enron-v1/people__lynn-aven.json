@@ -1,0 +1,14 @@
+{
+  "slug": "people/lynn-aven",
+  "type": "person",
+  "title": "Lynn Aven",
+  "compiled_truth": "Lynn Aven is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-10 to 2002-01-09), Lynn Aven sent 18 and received 222 emails, totalling 240 interactions. Top correspondents: [Brent Hendry](people/brent-hendry) (11), [Michael Guerriero](people/michael-guerriero) (6), [Andrea Calo](people/andrea-calo) (5), [Sara Shackleton](people/sara-shackleton) (4), [Julian Poole](people/julian-poole) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-09-10** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lynn-aven",
+    "name": "Lynn Aven",
+    "email": "lynn.aven@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

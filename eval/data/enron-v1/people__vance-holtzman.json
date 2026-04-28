@@ -1,0 +1,14 @@
+{
+  "slug": "people/vance-holtzman",
+  "type": "person",
+  "title": "Vance Holtzman",
+  "compiled_truth": "Vance Holtzman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-06-27), Vance Holtzman sent 4 and received 12 emails, totalling 16 interactions. Top correspondents: [Charles Weldon](people/charles-weldon) (4), [Eric Schneider](people/eric-schneider) (3). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vance-holtzman",
+    "name": "Vance Holtzman",
+    "email": "vance.holtzman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

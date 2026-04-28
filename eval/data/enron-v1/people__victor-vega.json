@@ -1,0 +1,14 @@
+{
+  "slug": "people/victor-vega",
+  "type": "person",
+  "title": "Victor Vega",
+  "compiled_truth": "Victor Vega is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-12 to 2001-11-02), Victor Vega sent 2 and received 46 emails, totalling 48 interactions. Top correspondents: [Dan Masters](people/dan-masters) (2), [Oscar Cedeno](people/oscar-cedeno) (2), [Paul Y'Barbo](people/paul-y-barbo) (2), [Larry Snyder](people/larry-snyder) (1), [Rick Sierra](people/rick-sierra) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-02-12** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/victor-vega",
+    "name": "Victor Vega",
+    "email": "victor.vega@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/clombardi-advanix",
+  "type": "person",
+  "title": "Clombardi",
+  "compiled_truth": "Clombardi is an external contact at [Advanix](companies/advanix). Over the corpus period (2000-11-07 to 2001-05-11), Clombardi sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clombardi-advanix",
+    "name": "Clombardi",
+    "email": "clombardi@advanix.net",
+    "primary_affiliation": "companies/advanix"
+  }
+}

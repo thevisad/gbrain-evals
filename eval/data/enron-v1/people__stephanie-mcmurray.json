@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephanie-mcmurray",
+  "type": "person",
+  "title": "Stephanie Mcmurray",
+  "compiled_truth": "Stephanie Mcmurray is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-22 to 2001-11-09), Stephanie Mcmurray sent 1 and received 51 emails, totalling 52 interactions. Top correspondents: [Ca Team](people/ca-team) (1).",
+  "timeline": "- **2000-02-22** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephanie-mcmurray",
+    "name": "Stephanie Mcmurray",
+    "email": "stephanie.mcmurray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

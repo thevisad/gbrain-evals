@@ -1,0 +1,14 @@
+{
+  "slug": "people/mgoldstein-stroock",
+  "type": "person",
+  "title": "Mgoldstein",
+  "compiled_truth": "Mgoldstein is an external contact at [Stroock](companies/stroock). Over the corpus period (2001-02-02 to 2001-05-29), Mgoldstein sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2001-02-02** | First recorded email in corpus\n- **2001-05-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mgoldstein-stroock",
+    "name": "Mgoldstein",
+    "email": "mgoldstein@stroock.com",
+    "primary_affiliation": "companies/stroock"
+  }
+}

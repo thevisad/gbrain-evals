@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephanie-newell-reliantenergy",
+  "type": "person",
+  "title": "Stephanie-Newell",
+  "compiled_truth": "Stephanie-Newell is an external contact at [Reliant Energy](companies/reliant-energy). Over the corpus period (2000-09-01 to 2001-07-31), Stephanie-Newell sent 0 and received 226 emails, totalling 226 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephanie-newell-reliantenergy",
+    "name": "Stephanie-Newell",
+    "email": "stephanie-newell@reliantenergy.com",
+    "primary_affiliation": "companies/reliant-energy"
+  }
+}

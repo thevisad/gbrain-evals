@@ -1,0 +1,14 @@
+{
+  "slug": "people/laurel-bolt",
+  "type": "person",
+  "title": "Laurel Bolt",
+  "compiled_truth": "Laurel Bolt is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2002-06-21), Laurel Bolt sent 17 and received 140 emails, totalling 157 interactions. Top correspondents: [W  White](people/w-white) (5), [Lisa Gang](people/lisa-gang) (4), [Don Baughman](people/don-baughman) (3), [Juan Hernandez](people/juan-hernandez) (3), [Dean Laurent](people/dean-laurent) (3). Mailbox folders observed: 24_hr_power, calendar, deleted_items, floorspace, inbox, info2.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laurel-bolt",
+    "name": "Laurel Bolt",
+    "email": "laurel.bolt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

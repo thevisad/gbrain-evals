@@ -1,0 +1,14 @@
+{
+  "slug": "people/eileen-peebles",
+  "type": "person",
+  "title": "Eileen Peebles",
+  "compiled_truth": "Eileen Peebles is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2001-04-06), Eileen Peebles sent 0 and received 202 emails, totalling 202 interactions.",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2001-04-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eileen-peebles",
+    "name": "Eileen Peebles",
+    "email": "eileen.peebles@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/peclasa-pdq",
+  "type": "person",
+  "title": "Peclasa",
+  "compiled_truth": "Peclasa is an external contact at [Pdq](companies/pdq). Over the corpus period (2000-05-21 to 2001-02-12), Peclasa sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2001-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peclasa-pdq",
+    "name": "Peclasa",
+    "email": "peclasa@pdq.net",
+    "primary_affiliation": "companies/pdq"
+  }
+}

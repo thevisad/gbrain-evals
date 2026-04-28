@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-heinitz",
+  "type": "person",
+  "title": "J  Heinitz",
+  "compiled_truth": "J  Heinitz is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-15 to 2002-06-21), J  Heinitz sent 10 and received 81 emails, totalling 91 interactions. Top correspondents: [Tana Jones](people/tana-jones) (5), [Rod Hayslett](people/rod-hayslett) (4), [Marie Heard](people/marie-heard) (3), [Deb Korkmas](people/deb-korkmas) (3), [Kathleen Carnahan](people/kathleen-carnahan) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-06-15** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-heinitz",
+    "name": "J  Heinitz",
+    "email": "j..heinitz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

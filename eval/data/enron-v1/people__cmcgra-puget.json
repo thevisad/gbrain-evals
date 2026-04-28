@@ -1,0 +1,14 @@
+{
+  "slug": "people/cmcgra-puget",
+  "type": "person",
+  "title": "Cmcgra",
+  "compiled_truth": "Cmcgra is an external contact at [Puget](companies/puget). Over the corpus period (2000-10-27 to 2001-05-11), Cmcgra sent 0 and received 33 emails, totalling 33 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cmcgra-puget",
+    "name": "Cmcgra",
+    "email": "cmcgra@puget.com",
+    "primary_affiliation": "companies/puget"
+  }
+}

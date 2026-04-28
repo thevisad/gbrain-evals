@@ -1,0 +1,14 @@
+{
+  "slug": "people/jluckhardt-dbsr",
+  "type": "person",
+  "title": "Jluckhardt",
+  "compiled_truth": "Jluckhardt is an external contact at [Dbsr](companies/dbsr). Over the corpus period (2000-09-01 to 2001-01-23), Jluckhardt sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jluckhardt-dbsr",
+    "name": "Jluckhardt",
+    "email": "jluckhardt@dbsr.com",
+    "primary_affiliation": "companies/dbsr"
+  }
+}

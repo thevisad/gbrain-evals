@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/organization-staff-meeting-2000-08",
+  "type": "meeting",
+  "title": "Meeting: Organization Staff Meeting",
+  "compiled_truth": "Meeting: \"Organization Staff Meeting\". Occurred 2000-08-02 with 1 related emails. Participants included: [Brenda Herod](people/brenda-herod), [Daren Farmer](people/daren-farmer), [Kristen Hanson](people/kristen-hanson), [Lisa Csikos](people/lisa-csikos), [Mary Smith](people/mary-smith), [Michael Eiben](people/michael-eiben), [Pat Clynes](people/pat-clynes), [Rita Wynne](people/rita-wynne)....",
+  "timeline": "- **2000-08-02** | Meeting: organization staff meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/organization-staff-meeting-2000-08",
+    "attendees": [
+      "people/brenda-herod",
+      "people/daren-farmer",
+      "people/kristen-hanson",
+      "people/lisa-csikos",
+      "people/mary-smith",
+      "people/michael-eiben",
+      "people/pat-clynes",
+      "people/rita-wynne",
+      "people/steve-venturatos",
+      "people/yvette-connevey"
+    ],
+    "date": "2000-08-02"
+  }
+}

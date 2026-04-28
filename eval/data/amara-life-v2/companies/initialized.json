@@ -1,0 +1,18 @@
+{
+  "slug": "companies/initialized",
+  "type": "company",
+  "title": "Initialized Capital",
+  "compiled_truth": "Initialized Capital is a venture capital firm. Employees: lena-park.",
+  "timeline": "- **2025-04-14** | company indexed",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/initialized",
+    "name": "Initialized Capital",
+    "founders": [],
+    "employees": [
+      "people/lena-park"
+    ],
+    "investors": [],
+    "advisors": []
+  }
+}

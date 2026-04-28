@@ -1,0 +1,14 @@
+{
+  "slug": "people/katie99-tamu",
+  "type": "person",
+  "title": "Katie99",
+  "compiled_truth": "Katie99 is an external contact at [Tamu](companies/tamu). Over the corpus period (2000-03-22 to 2000-09-20), Katie99 sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-03-22** | First recorded email in corpus\n- **2000-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/katie99-tamu",
+    "name": "Katie99",
+    "email": "katie99@tamu.edu",
+    "primary_affiliation": "companies/tamu"
+  }
+}

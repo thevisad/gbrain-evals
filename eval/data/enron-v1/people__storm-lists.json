@@ -1,0 +1,14 @@
+{
+  "slug": "people/storm-lists",
+  "type": "person",
+  "title": "Storm",
+  "compiled_truth": "Storm is an external contact at [Lists](companies/lists). Over the corpus period (2001-06-05 to 2001-11-28), Storm sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/storm-lists",
+    "name": "Storm",
+    "email": "storm@lists.hurricanecentral.com",
+    "primary_affiliation": "companies/lists"
+  }
+}

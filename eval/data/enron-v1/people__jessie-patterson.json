@@ -1,0 +1,14 @@
+{
+  "slug": "people/jessie-patterson",
+  "type": "person",
+  "title": "Jessie Patterson",
+  "compiled_truth": "Jessie Patterson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-12-03), Jessie Patterson sent 1 and received 120 emails, totalling 121 interactions. Top correspondents: [Billy Lemmons](people/billy-lemmons) (1), [Ted Bland](people/ted-bland) (1), [Shelly Butler](people/shelly-butler) (1), [Michelle Cash](people/michelle-cash) (1), [Donna Lowry](people/donna-lowry) (1).",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jessie-patterson",
+    "name": "Jessie Patterson",
+    "email": "jessie.patterson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

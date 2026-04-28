@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-hines-hines",
+  "type": "person",
+  "title": "Jeff Hines",
+  "compiled_truth": "Jeff Hines is an external contact at [Hines](companies/hines). Over the corpus period (2000-03-09 to 2001-12-03), Jeff Hines sent 2 and received 15 emails, totalling 17 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (2), [Gerald Hines](people/gerald-hines-hines) (1).",
+  "timeline": "- **2000-03-09** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-hines-hines",
+    "name": "Jeff Hines",
+    "email": "jeff_hines@hines.com",
+    "primary_affiliation": "companies/hines"
+  }
+}

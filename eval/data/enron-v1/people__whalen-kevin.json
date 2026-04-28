@@ -1,0 +1,14 @@
+{
+  "slug": "people/whalen-kevin",
+  "type": "person",
+  "title": "Whalen Kevin",
+  "compiled_truth": "Whalen Kevin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-15 to 2001-08-20), Whalen Kevin sent 1 and received 5 emails, totalling 6 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-15** | First recorded email in corpus\n- **2001-08-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/whalen-kevin",
+    "name": "Whalen Kevin",
+    "email": "whalen.kevin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

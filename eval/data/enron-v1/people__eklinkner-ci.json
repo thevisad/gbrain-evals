@@ -1,0 +1,14 @@
+{
+  "slug": "people/eklinkner-ci",
+  "type": "person",
+  "title": "Eklinkner",
+  "compiled_truth": "Eklinkner is an external contact at [Ci](companies/ci). Over the corpus period (1999-09-24 to 2001-11-15), Eklinkner sent 2 and received 164 emails, totalling 166 interactions. Top correspondents: [Kim Ward](people/kim-ward) (2), [Sendo](people/sendo-ci) (2), ['Endo](people/endo) (1).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-11-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eklinkner-ci",
+    "name": "Eklinkner",
+    "email": "eklinkner@ci.pasadena.ca.us",
+    "primary_affiliation": "companies/ci"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ellen-wallumrod",
+  "type": "person",
+  "title": "Ellen Wallumrod",
+  "compiled_truth": "Ellen Wallumrod is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2002-05-13), Ellen Wallumrod sent 68 and received 608 emails, totalling 676 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (33), [Debra Perlingiere](people/debra-perlingiere) (27), [Stacey Richardson](people/stacey-richardson) (15), [E  Dickson](people/e-dickson) (12), [Judy Thorne](people/judy-thorne) (10). Mailbox folders observed: calendar, deleted_items, inbox, logistics, mesa, smurfit.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ellen-wallumrod",
+    "name": "Ellen Wallumrod",
+    "email": "ellen.wallumrod@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

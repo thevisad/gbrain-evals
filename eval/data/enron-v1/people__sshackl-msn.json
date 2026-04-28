@@ -1,0 +1,14 @@
+{
+  "slug": "people/sshackl-msn",
+  "type": "person",
+  "title": "Sshackl",
+  "compiled_truth": "Sshackl is an external contact at [MSN](companies/msn). Over the corpus period (1999-10-25 to 2000-03-09), Sshackl sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **1999-10-25** | First recorded email in corpus\n- **2000-03-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sshackl-msn",
+    "name": "Sshackl",
+    "email": "sshackl@msn.com",
+    "primary_affiliation": "companies/msn"
+  }
+}

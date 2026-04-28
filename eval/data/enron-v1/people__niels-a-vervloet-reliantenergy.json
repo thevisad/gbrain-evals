@@ -1,0 +1,14 @@
+{
+  "slug": "people/niels-a-vervloet-reliantenergy",
+  "type": "person",
+  "title": "Niels A Vervloet",
+  "compiled_truth": "Niels A Vervloet is an external contact at [Reliant Energy](companies/reliant-energy). Over the corpus period (2000-10-27 to 2001-05-11), Niels A Vervloet sent 0 and received 33 emails, totalling 33 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/niels-a-vervloet-reliantenergy",
+    "name": "Niels A Vervloet",
+    "email": "niels_a_vervloet@reliantenergy.com",
+    "primary_affiliation": "companies/reliant-energy"
+  }
+}

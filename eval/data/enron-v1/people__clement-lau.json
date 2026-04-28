@@ -1,0 +1,14 @@
+{
+  "slug": "people/clement-lau",
+  "type": "person",
+  "title": "Clement Lau",
+  "compiled_truth": "Clement Lau is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-12 to 2000-12-11), Clement Lau sent 29 and received 79 emails, totalling 108 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (29), [Jinsung Myung](people/jinsung-myung) (15), [Don Miller](people/don-miller) (9), [Mathew Gimble](people/mathew-gimble) (6), [Marilyn Baker](people/marilyn-baker) (5).",
+  "timeline": "- **2000-01-12** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clement-lau",
+    "name": "Clement Lau",
+    "email": "clement.lau@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

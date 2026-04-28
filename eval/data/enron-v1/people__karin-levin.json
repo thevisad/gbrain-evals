@@ -1,0 +1,14 @@
+{
+  "slug": "people/karin-levin",
+  "type": "person",
+  "title": "Karin Levin",
+  "compiled_truth": "Karin Levin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2001-09-10), Karin Levin sent 4 and received 4 emails, totalling 8 interactions. Top correspondents: [Jarek Astramowicz](people/jarek-astramowicz) (4), [John Bottomley](people/john-bottomley) (4), [S  Bradford](people/s-bradford) (4), [London Brown](people/london-brown) (4), [Rick Buy](people/rick-buy) (4). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2001-09-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karin-levin",
+    "name": "Karin Levin",
+    "email": "karin.levin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "meetings/internal-pool-meeting-2000-02",
+  "type": "meeting",
+  "title": "Meeting: Internal Pool Meeting",
+  "compiled_truth": "Meeting: \"Internal Pool Meeting\". Occurred 2000-02-01 through 2000-02-01 with 5 related emails. Participants included: [Alex Saldana](people/alex-saldana), [Brenda Herod](people/brenda-herod), [Bryce Baxter](people/bryce-baxter), [Daren Farmer](people/daren-farmer), [Edward Terry](people/edward-terry), [George Smith](people/george-smith), [Heather Choate](people/heather-choate), [Katherine Kelly](people/katherine-kelly)....",
+  "timeline": "- **2000-02-01** | Meeting: internal pool meeting\n- **2000-02-01** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/internal-pool-meeting-2000-02",
+    "attendees": [
+      "people/alex-saldana",
+      "people/brenda-herod",
+      "people/bryce-baxter",
+      "people/daren-farmer",
+      "people/edward-terry",
+      "people/george-smith",
+      "people/heather-choate",
+      "people/katherine-kelly",
+      "people/pat-clynes",
+      "people/ragayle-pellum",
+      "people/randall-gay",
+      "people/robert-superty",
+      "people/scotty-gilbert",
+      "people/yvette-connevey"
+    ],
+    "date": "2000-02-01"
+  }
+}

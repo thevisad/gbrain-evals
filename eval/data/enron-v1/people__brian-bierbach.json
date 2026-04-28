@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-bierbach",
+  "type": "person",
+  "title": "Brian Bierbach",
+  "compiled_truth": "Brian Bierbach is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-06 to 2001-12-10), Brian Bierbach sent 3 and received 146 emails, totalling 149 interactions. Top correspondents: [Mark Mcconnell](people/mark-mcconnell) (1), [Gerald Nemec](people/gerald-nemec) (1), [Paul Miller](people/paul-miller) (1), [Don Baldridge](people/don-baldridge) (1), [Mark Whitt](people/mark-whitt) (1). Mailbox folders observed: inbox, misc.",
+  "timeline": "- **1999-08-06** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-bierbach",
+    "name": "Brian Bierbach",
+    "email": "brian.bierbach@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

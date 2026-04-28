@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-willard",
+  "type": "person",
+  "title": "Kathy Willard",
+  "compiled_truth": "Kathy Willard is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2002-05-06), Kathy Willard sent 2 and received 21 emails, totalling 23 interactions. Top correspondents: [David Ayers](people/david-ayers) (1), [Ron Beidelman](people/ron-beidelman) (1), [Larry Campbell](people/larry-campbell) (1), [Cheryl Dawson](people/cheryl-dawson) (1), [Ron Harkrader](people/ron-harkrader) (1).",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-willard",
+    "name": "Kathy Willard",
+    "email": "kathy.willard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/iepa-iepa",
+  "type": "person",
+  "title": "Iepa",
+  "compiled_truth": "Iepa is an external contact at [Iepa](companies/iepa). Over the corpus period (2000-10-30 to 2000-11-06), Iepa sent 1 and received 3 emails, totalling 4 interactions. Top correspondents: [Steven](people/steven-iepa) (1), [Wfhall2](people/wfhall2-duke-energy) (1), [Wscobee](people/wscobee-caithnessenergy) (1), [Twetzel](people/twetzel-thermoecotek) (1), [Hellertj](people/hellertj-apci) (1).",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2000-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/iepa-iepa",
+    "name": "Iepa",
+    "email": "iepa@iepa.com",
+    "primary_affiliation": "companies/iepa"
+  }
+}

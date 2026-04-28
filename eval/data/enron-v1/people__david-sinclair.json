@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-sinclair",
+  "type": "person",
+  "title": "David Sinclair",
+  "compiled_truth": "David Sinclair is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-12-08), David Sinclair sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-12-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-sinclair",
+    "name": "David Sinclair",
+    "email": "david.sinclair@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sgoodel-columbiaenergy",
+  "type": "person",
+  "title": "Sgoodel",
+  "compiled_truth": "Sgoodel is an external contact at [Columbiaenergy](companies/columbiaenergy). Over the corpus period (2000-11-11 to 2000-11-11), Sgoodel sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sgoodel-columbiaenergy",
+    "name": "Sgoodel",
+    "email": "sgoodel@columbiaenergy.com",
+    "primary_affiliation": "companies/columbiaenergy"
+  }
+}

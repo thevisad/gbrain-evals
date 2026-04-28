@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-simpson-asm",
+  "type": "person",
+  "title": "Rick Simpson",
+  "compiled_truth": "Rick Simpson is an external contact at [Asm](companies/asm). Over the corpus period (2001-06-21 to 2001-07-13), Rick Simpson sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [Dhunter](people/dhunter-s-k-w) (1), [Brbarkovich](people/brbarkovich-earthlink) (1), [Dominic Dimare](people/dominic-dimare-calchamber) (1), [Drothrock](people/drothrock-cmta) (1), [Fieldejr](people/fieldejr-sce) (1).",
+  "timeline": "- **2001-06-21** | First recorded email in corpus\n- **2001-07-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-simpson-asm",
+    "name": "Rick Simpson",
+    "email": "rick.simpson@asm.ca.gov",
+    "primary_affiliation": "companies/asm"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rek-blakes",
+  "type": "person",
+  "title": "Rek",
+  "compiled_truth": "Rek is an external contact at [Blakes](companies/blakes). Over the corpus period (2000-06-07 to 2000-10-24), Rek sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2000-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rek-blakes",
+    "name": "Rek",
+    "email": "rek@blakes.com",
+    "primary_affiliation": "companies/blakes"
+  }
+}

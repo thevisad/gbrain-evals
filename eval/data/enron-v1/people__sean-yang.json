@@ -1,0 +1,14 @@
+{
+  "slug": "people/sean-yang",
+  "type": "person",
+  "title": "Sean Yang",
+  "compiled_truth": "Sean Yang is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2002-02-06), Sean Yang sent 4 and received 13 emails, totalling 17 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (4), [Karthik Rajan](people/karthik-rajan) (2), [Steve Stock](people/steve-stock) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sean-yang",
+    "name": "Sean Yang",
+    "email": "sean.yang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

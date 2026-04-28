@@ -1,0 +1,14 @@
+{
+  "slug": "people/jschmidt-ensr",
+  "type": "person",
+  "title": "Jschmidt",
+  "compiled_truth": "Jschmidt is an external contact at [Ensr](companies/ensr). Over the corpus period (2001-08-22 to 2001-09-26), Jschmidt sent 1 and received 11 emails, totalling 12 interactions. Top correspondents: [John Shafer](people/john-shafer) (1), [Scott' 'Patti](people/scott-patti) (1), [Larry Campbell](people/larry-campbell) (1), [Eric Gadd](people/eric-gadd) (1), [Kevin Hyatt](people/kevin-hyatt) (1).",
+  "timeline": "- **2001-08-22** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jschmidt-ensr",
+    "name": "Jschmidt",
+    "email": "jschmidt@ensr.com",
+    "primary_affiliation": "companies/ensr"
+  }
+}

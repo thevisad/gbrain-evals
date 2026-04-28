@@ -1,0 +1,14 @@
+{
+  "slug": "people/gtbl-dynegy",
+  "type": "person",
+  "title": "Gtbl",
+  "compiled_truth": "Gtbl is an external contact at [Dynegy](companies/dynegy). Over the corpus period (1999-09-24 to 2002-01-02), Gtbl sent 1 and received 547 emails, totalling 548 interactions. Top correspondents: [Steven](people/steven-iepa) (1), [Wfhall2](people/wfhall2-duke-energy) (1), [Wscobee](people/wscobee-caithnessenergy) (1), [Twetzel](people/twetzel-thermoecotek) (1), [Hellertj](people/hellertj-apci) (1).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gtbl-dynegy",
+    "name": "Gtbl",
+    "email": "gtbl@dynegy.com",
+    "primary_affiliation": "companies/dynegy"
+  }
+}

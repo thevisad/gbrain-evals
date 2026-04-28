@@ -1,0 +1,14 @@
+{
+  "slug": "people/warrick-franklin",
+  "type": "person",
+  "title": "Warrick Franklin",
+  "compiled_truth": "Warrick Franklin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-18 to 2001-12-12), Warrick Franklin sent 2 and received 38 emails, totalling 40 interactions. Top correspondents: [D  Thomas](people/d-thomas) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-07-18** | First recorded email in corpus\n- **2001-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/warrick-franklin",
+    "name": "Warrick Franklin",
+    "email": "warrick.franklin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/don-furman-pacificorp",
+  "type": "person",
+  "title": "Don Furman",
+  "compiled_truth": "Don Furman is an external contact at [Pacificorp](companies/pacificorp). Over the corpus period (2000-06-23 to 2001-03-28), Don Furman sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/don-furman-pacificorp",
+    "name": "Don Furman",
+    "email": "don.furman@pacificorp.com",
+    "primary_affiliation": "companies/pacificorp"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rachana-iyengar",
+  "type": "person",
+  "title": "Rachana Iyengar",
+  "compiled_truth": "Rachana Iyengar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2002-01-11), Rachana Iyengar sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rachana-iyengar",
+    "name": "Rachana Iyengar",
+    "email": "rachana.iyengar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

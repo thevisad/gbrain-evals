@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-allwein",
+  "type": "person",
+  "title": "Robert Allwein",
+  "compiled_truth": "Robert Allwein is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-04-24), Robert Allwein sent 6 and received 710 emails, totalling 716 interactions. Top correspondents: [Chris Germany](people/chris-germany) (3), [Jonathan Mckay](people/jonathan-mckay) (3), [Chuck Ames](people/chuck-ames) (3), [Robert Superty](people/robert-superty) (3), [Joan Veselack](people/joan-veselack) (2). Mailbox folders observed: inbox, pipeinfo.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-04-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-allwein",
+    "name": "Robert Allwein",
+    "email": "robert.allwein@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

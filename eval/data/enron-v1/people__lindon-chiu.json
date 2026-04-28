@@ -1,0 +1,14 @@
+{
+  "slug": "people/lindon-chiu",
+  "type": "person",
+  "title": "Lindon Chiu",
+  "compiled_truth": "Lindon Chiu is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-23 to 2001-11-30), Lindon Chiu sent 5 and received 38 emails, totalling 43 interactions. Top correspondents: [Colin Tonks](people/colin-tonks) (5), [Sean Boyle](people/sean-boyle) (2), [John Taylor](people/john-taylor) (2), [Tammi Depaolis](people/tammi-depaolis) (2), [Victoria Versen](people/victoria-versen) (2). Mailbox folders observed: deleted_items, systems.",
+  "timeline": "- **2001-03-23** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lindon-chiu",
+    "name": "Lindon Chiu",
+    "email": "lindon.chiu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

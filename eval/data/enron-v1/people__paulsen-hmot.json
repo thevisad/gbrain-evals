@@ -1,0 +1,14 @@
+{
+  "slug": "people/paulsen-hmot",
+  "type": "person",
+  "title": "Paulsen",
+  "compiled_truth": "Paulsen is an external contact at [Hmot](companies/hmot). Over the corpus period (2000-11-21 to 2001-01-08), Paulsen sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-11-21** | First recorded email in corpus\n- **2001-01-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paulsen-hmot",
+    "name": "Paulsen",
+    "email": "paulsen@hmot.com",
+    "primary_affiliation": "companies/hmot"
+  }
+}

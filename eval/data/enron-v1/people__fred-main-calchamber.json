@@ -1,0 +1,14 @@
+{
+  "slug": "people/fred-main-calchamber",
+  "type": "person",
+  "title": "Fred Main",
+  "compiled_truth": "Fred Main is an external contact at [Calchamber](companies/calchamber). Over the corpus period (2001-04-12 to 2001-05-23), Fred Main sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-04-12** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fred-main-calchamber",
+    "name": "Fred Main",
+    "email": "fred.main@calchamber.com",
+    "primary_affiliation": "companies/calchamber"
+  }
+}

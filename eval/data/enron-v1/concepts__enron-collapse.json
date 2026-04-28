@@ -1,0 +1,24 @@
+{
+  "slug": "concepts/enron-collapse",
+  "type": "concept",
+  "title": "Enron Collapse 2001",
+  "compiled_truth": "The sequence of events from the October 2001 earnings restatement through the December 2001 bankruptcy — the largest US corporate bankruptcy at the time. Related organizations: [Enron](companies/enron), [SEC](companies/sec), [DOJ](companies/doj), [Dynegy](companies/dynegy).",
+  "timeline": "- **2001-10-16** | Enron announces $618M Q3 loss and $1.01B write-down\n- **2001-10-22** | SEC opens formal investigation into Enron\n- **2001-10-24** | CFO Andrew Fastow forced out\n- **2001-11-08** | Enron restates five years of earnings; stock falls to $8\n- **2001-11-28** | Dynegy terminates $8.9B acquisition; Enron stock hits $0.61\n- **2001-12-02** | Enron files Chapter 11 bankruptcy ($63.4B in assets)\n- **2002-01-25** | Enron VP Cliff Baxter found dead; suicide ruled",
+  "_facts": {
+    "type": "concept",
+    "slug": "concepts/enron-collapse",
+    "related_companies": [
+      "companies/enron",
+      "companies/sec",
+      "companies/doj",
+      "companies/dynegy",
+      "companies/arthur-andersen"
+    ],
+    "related_people": [
+      "people/kenneth-lay",
+      "people/jeffrey-skilling",
+      "people/andrew-fastow",
+      "people/richard-causey"
+    ]
+  }
+}

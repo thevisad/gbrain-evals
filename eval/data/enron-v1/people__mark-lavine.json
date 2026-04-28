@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-lavine",
+  "type": "person",
+  "title": "Mark Lavine",
+  "compiled_truth": "Mark Lavine is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-18 to 2002-03-05), Mark Lavine sent 9 and received 18 emails, totalling 27 interactions. Top correspondents: [James Centilli](people/james-centilli) (9), [Earl Chanley](people/earl-chanley) (9), [Steve Crabtree](people/steve-crabtree) (9), [L  Eisenstein](people/l-eisenstein) (9), [Steven Harris](people/steven-harris) (9). Mailbox folders observed: deleted_items, e_mail_bin, inbox.",
+  "timeline": "- **2001-04-18** | First recorded email in corpus\n- **2002-03-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-lavine",
+    "name": "Mark Lavine",
+    "email": "mark.lavine@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

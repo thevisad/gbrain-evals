@@ -1,0 +1,14 @@
+{
+  "slug": "people/debra-davidson",
+  "type": "person",
+  "title": "Debra Davidson",
+  "compiled_truth": "Debra Davidson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-08), Debra Davidson sent 75 and received 325 emails, totalling 400 interactions. Top correspondents: [Portland Desk](people/portland-desk) (28), [Cara Semperger](people/cara-semperger) (15), [Jeff Richter](people/jeff-richter) (14), [Anna Mehrer](people/anna-mehrer) (14), [Robert Badeer](people/robert-badeer) (13). Mailbox folders observed: bill_williams_iii, calendar, deleted_items, inbox, read, scheduling.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/debra-davidson",
+    "name": "Debra Davidson",
+    "email": "debra.davidson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

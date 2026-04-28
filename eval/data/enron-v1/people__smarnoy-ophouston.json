@@ -1,0 +1,14 @@
+{
+  "slug": "people/smarnoy-ophouston",
+  "type": "person",
+  "title": "Smarnoy",
+  "compiled_truth": "Smarnoy is an external contact at [Ophouston](companies/ophouston). Over the corpus period (1998-01-06 to 2001-09-13), Smarnoy sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **1998-01-06** | First recorded email in corpus\n- **2001-09-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/smarnoy-ophouston",
+    "name": "Smarnoy",
+    "email": "smarnoy@ophouston.com",
+    "primary_affiliation": "companies/ophouston"
+  }
+}

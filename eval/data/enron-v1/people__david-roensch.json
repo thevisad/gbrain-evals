@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-roensch",
+  "type": "person",
+  "title": "David Roensch",
+  "compiled_truth": "David Roensch is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-02 to 2002-03-25), David Roensch sent 50 and received 390 emails, totalling 440 interactions. Top correspondents: [Darrell Schoolcraft](people/darrell-schoolcraft) (31), [Kimberly Watson](people/kimberly-watson) (24), [Rich Jolly](people/rich-jolly) (14), [Jeff Whippo](people/jeff-whippo) (14), [Jerry Graves](people/jerry-graves) (13). Mailbox folders observed: deleted_items, e_mail_bin, inbox, projects, questar, tw.",
+  "timeline": "- **1999-04-02** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-roensch",
+    "name": "David Roensch",
+    "email": "david.roensch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

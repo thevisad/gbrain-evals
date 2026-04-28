@@ -1,0 +1,14 @@
+{
+  "slug": "people/kate-chaney",
+  "type": "person",
+  "title": "Kate Chaney",
+  "compiled_truth": "Kate Chaney is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-23 to 2000-12-13), Kate Chaney sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-01-23** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kate-chaney",
+    "name": "Kate Chaney",
+    "email": "kate.chaney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

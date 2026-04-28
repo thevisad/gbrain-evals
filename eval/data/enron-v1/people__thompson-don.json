@@ -1,0 +1,14 @@
+{
+  "slug": "people/thompson-don",
+  "type": "person",
+  "title": "Thompson Don",
+  "compiled_truth": "Thompson Don is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-09 to 2001-09-25), Thompson Don sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-07-09** | First recorded email in corpus\n- **2001-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thompson-don",
+    "name": "Thompson Don",
+    "email": "thompson.don@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

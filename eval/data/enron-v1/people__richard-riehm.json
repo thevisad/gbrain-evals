@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-riehm",
+  "type": "person",
+  "title": "Richard Riehm",
+  "compiled_truth": "Richard Riehm is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-13 to 2002-01-25), Richard Riehm sent 4 and received 58 emails, totalling 62 interactions. Top correspondents: [Paul Y'Barbo](people/paul-y-barbo) (3), [Kimberly Watson](people/kimberly-watson) (2), [Sean Bolks](people/sean-bolks) (2), [Steven Harris](people/steven-harris) (1), [Lorraine Lindberg](people/lorraine-lindberg) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-08-13** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-riehm",
+    "name": "Richard Riehm",
+    "email": "richard.riehm@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

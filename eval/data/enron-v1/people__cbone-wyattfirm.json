@@ -1,0 +1,14 @@
+{
+  "slug": "people/cbone-wyattfirm",
+  "type": "person",
+  "title": "Cbone",
+  "compiled_truth": "Cbone is an external contact at [Wyattfirm](companies/wyattfirm). Over the corpus period (2000-10-23 to 2001-05-22), Cbone sent 1 and received 16 emails, totalling 17 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (1).",
+  "timeline": "- **2000-10-23** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cbone-wyattfirm",
+    "name": "Cbone",
+    "email": "cbone@wyattfirm.com",
+    "primary_affiliation": "companies/wyattfirm"
+  }
+}

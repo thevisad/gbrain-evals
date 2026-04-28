@@ -1,0 +1,14 @@
+{
+  "slug": "people/ditz-calpine",
+  "type": "person",
+  "title": "Ditz",
+  "compiled_truth": "Ditz is an external contact at [Calpine](companies/calpine). Over the corpus period (2001-05-10 to 2001-05-10), Ditz sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-05-10** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ditz-calpine",
+    "name": "Ditz",
+    "email": "ditz@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-j-williams-us",
+  "type": "person",
+  "title": "Lisa J Williams",
+  "compiled_truth": "Lisa J Williams is an external contact at [Us](companies/us). Over the corpus period (2000-05-18 to 2000-09-18), Lisa J Williams sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-j-williams-us",
+    "name": "Lisa J Williams",
+    "email": "lisa.j.williams@us.arthurandersen.com",
+    "primary_affiliation": "companies/us"
+  }
+}

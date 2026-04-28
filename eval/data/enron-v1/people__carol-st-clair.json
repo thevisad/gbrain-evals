@@ -1,0 +1,14 @@
+{
+  "slug": "people/carol-st-clair",
+  "type": "person",
+  "title": "Carol St Clair",
+  "compiled_truth": "Carol St Clair is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-07), Carol St Clair sent 0 and received 66 emails, totalling 66 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carol-st-clair",
+    "name": "Carol St Clair",
+    "email": "carol.st.clair@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

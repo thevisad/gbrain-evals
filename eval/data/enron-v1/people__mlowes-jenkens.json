@@ -1,0 +1,14 @@
+{
+  "slug": "people/mlowes-jenkens",
+  "type": "person",
+  "title": "Mlowes",
+  "compiled_truth": "Mlowes is an external contact at [Jenkens](companies/jenkens). Over the corpus period (2000-11-13 to 2001-11-09), Mlowes sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mlowes-jenkens",
+    "name": "Mlowes",
+    "email": "mlowes@jenkens.com",
+    "primary_affiliation": "companies/jenkens"
+  }
+}

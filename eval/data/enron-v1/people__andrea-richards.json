@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrea-richards",
+  "type": "person",
+  "title": "Andrea Richards",
+  "compiled_truth": "Andrea Richards is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-27 to 2001-12-03), Andrea Richards sent 9 and received 70 emails, totalling 79 interactions. Top correspondents: [C  Bland](people/c-bland) (4), [Jana Giovannini](people/jana-giovannini) (4), [Aaron Martinsen](people/aaron-martinsen) (4), [Adnan Patel](people/adnan-patel) (4), [Amanda Schultz](people/amanda-schultz) (4). Mailbox folders observed: deleted_items, inbox, read.",
+  "timeline": "- **2000-11-27** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrea-richards",
+    "name": "Andrea Richards",
+    "email": "andrea.richards@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

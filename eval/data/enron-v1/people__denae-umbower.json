@@ -1,0 +1,14 @@
+{
+  "slug": "people/denae-umbower",
+  "type": "person",
+  "title": "Denae Umbower",
+  "compiled_truth": "Denae Umbower is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-12-04), Denae Umbower sent 1 and received 50 emails, totalling 51 interactions. Top correspondents: [Sheila Glover](people/sheila-glover) (1), [Clara Carrington](people/clara-carrington) (1), [Theresa Brogan](people/theresa-brogan) (1), [Tanya Rohauer](people/tanya-rohauer) (1), [Michael Moscoso](people/michael-moscoso) (1).",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/denae-umbower",
+    "name": "Denae Umbower",
+    "email": "denae.umbower@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/pauline-reyes",
+  "type": "person",
+  "title": "Pauline Reyes",
+  "compiled_truth": "Pauline Reyes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-11 to 2001-11-20), Pauline Reyes sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-12-11** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pauline-reyes",
+    "name": "Pauline Reyes",
+    "email": "pauline.reyes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

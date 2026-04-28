@@ -1,0 +1,14 @@
+{
+  "slug": "people/wise-jim",
+  "type": "person",
+  "title": "Wise Jim",
+  "compiled_truth": "Wise Jim is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-07 to 2002-01-02), Wise Jim sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-06-07** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wise-jim",
+    "name": "Wise Jim",
+    "email": "wise.jim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

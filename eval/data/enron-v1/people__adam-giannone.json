@@ -1,0 +1,14 @@
+{
+  "slug": "people/adam-giannone",
+  "type": "person",
+  "title": "Adam Giannone",
+  "compiled_truth": "Adam Giannone is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-17 to 2001-11-27), Adam Giannone sent 2 and received 27 emails, totalling 29 interactions. Top correspondents: [E Taylor](people/e-taylor) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adam-giannone",
+    "name": "Adam Giannone",
+    "email": "adam.giannone@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/william-kendrick-enronxgate",
+  "type": "person",
+  "title": "William Kendrick Enronxgate",
+  "compiled_truth": "William Kendrick Enronxgate is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-21 to 2001-11-02), William Kendrick Enronxgate sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-05-21** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/william-kendrick-enronxgate",
+    "name": "William Kendrick Enronxgate",
+    "email": "william.kendrick.enronxgate@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

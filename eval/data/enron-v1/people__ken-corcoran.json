@@ -1,0 +1,14 @@
+{
+  "slug": "people/ken-corcoran",
+  "type": "person",
+  "title": "Ken Corcoran",
+  "compiled_truth": "Ken Corcoran is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-14 to 2002-01-14), Ken Corcoran sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ken-corcoran",
+    "name": "Ken Corcoran",
+    "email": "ken.corcoran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

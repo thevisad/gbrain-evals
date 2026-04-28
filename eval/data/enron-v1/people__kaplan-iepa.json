@@ -1,0 +1,14 @@
+{
+  "slug": "people/kaplan-iepa",
+  "type": "person",
+  "title": "Kaplan",
+  "compiled_truth": "Kaplan is an external contact at [Iepa](companies/iepa). Over the corpus period (2000-08-31 to 2001-12-22), Kaplan sent 47 and received 258 emails, totalling 305 interactions. Top correspondents: [Gtbl](people/gtbl-dynegy) (46), [Jackp](people/jackp-calpine) (46), [Joer](people/joer-calpine) (46), [Curtis L Kebler](people/curtis-l-kebler-reliantenergy) (45), [Cabaker](people/cabaker-duke-energy) (44).",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-12-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kaplan-iepa",
+    "name": "Kaplan",
+    "email": "kaplan@iepa.com",
+    "primary_affiliation": "companies/iepa"
+  }
+}

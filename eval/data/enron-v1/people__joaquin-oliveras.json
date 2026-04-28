@@ -1,0 +1,14 @@
+{
+  "slug": "people/joaquin-oliveras",
+  "type": "person",
+  "title": "Joaquin Oliveras",
+  "compiled_truth": "Joaquin Oliveras is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-20 to 2001-10-12), Joaquin Oliveras sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-12-20** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joaquin-oliveras",
+    "name": "Joaquin Oliveras",
+    "email": "joaquin.oliveras@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

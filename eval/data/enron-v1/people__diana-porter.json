@@ -1,0 +1,14 @@
+{
+  "slug": "people/diana-porter",
+  "type": "person",
+  "title": "Diana Porter",
+  "compiled_truth": "Diana Porter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-03-25), Diana Porter sent 0 and received 181 emails, totalling 181 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diana-porter",
+    "name": "Diana Porter",
+    "email": "diana.porter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

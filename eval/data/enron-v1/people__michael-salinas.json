@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-salinas",
+  "type": "person",
+  "title": "Michael Salinas",
+  "compiled_truth": "Michael Salinas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-06 to 2001-12-12), Michael Salinas sent 1 and received 50 emails, totalling 51 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (1), [Kevin Hannon](people/kevin-hannon) (1), [Joe' 'Hirko](people/joe-hirko) (1), [Ken Rice](people/ken-rice) (1), [Jim Crowder](people/jim-crowder) (1).",
+  "timeline": "- **2000-06-06** | First recorded email in corpus\n- **2001-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-salinas",
+    "name": "Michael Salinas",
+    "email": "michael.salinas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

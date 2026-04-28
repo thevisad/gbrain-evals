@@ -1,0 +1,14 @@
+{
+  "slug": "people/jackie-hewett",
+  "type": "person",
+  "title": "Jackie Hewett",
+  "compiled_truth": "Jackie Hewett is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-06 to 2002-03-25), Jackie Hewett sent 1 and received 25 emails, totalling 26 interactions. Top correspondents: [Jan Anderson](people/jan-anderson) (1), [Larry Campbell](people/larry-campbell) (1), [Hershy](people/hershy-home) (1), [Jansgrapevine](people/jansgrapevine-home) (1), [Ed Lawrence](people/ed-lawrence) (1).",
+  "timeline": "- **2000-01-06** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jackie-hewett",
+    "name": "Jackie Hewett",
+    "email": "jackie.hewett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

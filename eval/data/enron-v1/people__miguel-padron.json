@@ -1,0 +1,14 @@
+{
+  "slug": "people/miguel-padron",
+  "type": "person",
+  "title": "Miguel Padron",
+  "compiled_truth": "Miguel Padron is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-06-06), Miguel Padron sent 0 and received 57 emails, totalling 57 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/miguel-padron",
+    "name": "Miguel Padron",
+    "email": "miguel.padron@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

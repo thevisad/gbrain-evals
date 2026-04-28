@@ -1,0 +1,14 @@
+{
+  "slug": "people/hgleason-energyamerica",
+  "type": "person",
+  "title": "Hgleason",
+  "compiled_truth": "Hgleason is an external contact at [Energyamerica](companies/energyamerica). Over the corpus period (1999-11-22 to 2001-07-31), Hgleason sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hgleason-energyamerica",
+    "name": "Hgleason",
+    "email": "hgleason@energyamerica.com",
+    "primary_affiliation": "companies/energyamerica"
+  }
+}

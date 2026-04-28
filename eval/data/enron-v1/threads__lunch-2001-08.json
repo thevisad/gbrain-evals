@@ -1,0 +1,23 @@
+{
+  "slug": "threads/lunch-2001-08",
+  "type": "meeting",
+  "title": "Thread: Lunch",
+  "compiled_truth": "Email thread: \"Lunch\". Ran from 2001-08-13 to 2001-09-07 with 12 messages. Participants: [Center Dl-Portland](people/center-dl-portland), [Chris Stokley](people/chris-stokley), [Clarissa Cooper](people/clarissa-cooper), [Debra Perlingiere](people/debra-perlingiere), [Genia Fitzgerald](people/genia-fitzgerald), [Gerald Nemec](people/gerald-nemec), [Heather Dunton](people/heather-dunton), [Nabil](people/nabil).",
+  "timeline": "- **2001-08-13** | Thread begins: lunch\n- **2001-09-07** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/lunch-2001-08",
+    "attendees": [
+      "people/center-dl-portland",
+      "people/chris-stokley",
+      "people/clarissa-cooper",
+      "people/debra-perlingiere",
+      "people/genia-fitzgerald",
+      "people/gerald-nemec",
+      "people/heather-dunton",
+      "people/nabil",
+      "people/nnachawa-central"
+    ],
+    "date": "2001-08-13"
+  }
+}

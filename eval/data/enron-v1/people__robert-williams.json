@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-williams",
+  "type": "person",
+  "title": "Robert Williams",
+  "compiled_truth": "Robert Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-04), Robert Williams sent 36 and received 871 emails, totalling 907 interactions. Top correspondents: [Vicki Sharp](people/vicki-sharp) (16), [Richard Sanders](people/richard-sanders) (14), [James Steffes](people/james-steffes) (13), [Mark Haedicke](people/mark-haedicke) (12), [Jeff Dasovich](people/jeff-dasovich) (8). Mailbox folders observed: california_issues, caliornia___investigations, ees_neg_ctc.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-williams",
+    "name": "Robert Williams",
+    "email": "robert.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

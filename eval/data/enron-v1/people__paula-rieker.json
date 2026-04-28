@@ -1,0 +1,14 @@
+{
+  "slug": "people/paula-rieker",
+  "type": "person",
+  "title": "Paula Rieker",
+  "compiled_truth": "Paula Rieker is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2002-05-21), Paula Rieker sent 61 and received 527 emails, totalling 588 interactions. Top correspondents: [Rick Buy](people/rick-buy) (30), [James Derrick](people/james-derrick) (26), [Raymond Bowen](people/raymond-bowen) (20), [Richard Causey](people/richard-causey) (20), [Mark Koenig](people/mark-koenig) (17). Mailbox folders observed: _americas, deleted_items, inbox, projects.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2002-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paula-rieker",
+    "name": "Paula Rieker",
+    "email": "paula.rieker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

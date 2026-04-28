@@ -1,0 +1,14 @@
+{
+  "slug": "people/faye-ellis",
+  "type": "person",
+  "title": "Faye Ellis",
+  "compiled_truth": "Faye Ellis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-29 to 2001-05-15), Faye Ellis sent 1 and received 156 emails, totalling 157 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (1), [Donna Consemiu](people/donna-consemiu) (1).",
+  "timeline": "- **1999-12-29** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/faye-ellis",
+    "name": "Faye Ellis",
+    "email": "faye.ellis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

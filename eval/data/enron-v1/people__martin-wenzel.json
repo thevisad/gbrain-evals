@@ -1,0 +1,14 @@
+{
+  "slug": "people/martin-wenzel",
+  "type": "person",
+  "title": "Martin Wenzel",
+  "compiled_truth": "Martin Wenzel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-01 to 2001-07-23), Martin Wenzel sent 0 and received 422 emails, totalling 422 interactions.",
+  "timeline": "- **2000-03-01** | First recorded email in corpus\n- **2001-07-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martin-wenzel",
+    "name": "Martin Wenzel",
+    "email": "martin.wenzel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

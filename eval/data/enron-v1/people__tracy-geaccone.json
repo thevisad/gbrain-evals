@@ -1,0 +1,14 @@
+{
+  "slug": "people/tracy-geaccone",
+  "type": "person",
+  "title": "Tracy Geaccone",
+  "compiled_truth": "Tracy Geaccone is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-21 to 2004-02-04), Tracy Geaccone sent 683 and received 1174 emails, totalling 1857 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (139), [John Keiser](people/john-keiser) (53), [Steven Harris](people/steven-harris) (50), [Mary Botello](people/mary-botello) (48), [Jan Moore](people/jan-moore) (46). Mailbox folders observed: _sent_mail, accounting, deleted_items, e_mail_bin, elpaso_pipeline, inbox.",
+  "timeline": "- **2000-01-21** | First recorded email in corpus\n- **2004-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tracy-geaccone",
+    "name": "Tracy Geaccone",
+    "email": "tracy.geaccone@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

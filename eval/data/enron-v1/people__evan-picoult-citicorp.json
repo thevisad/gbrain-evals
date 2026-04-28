@@ -1,0 +1,14 @@
+{
+  "slug": "people/evan-picoult-citicorp",
+  "type": "person",
+  "title": "Evan Picoult",
+  "compiled_truth": "Evan Picoult is an external contact at [Citicorp](companies/citicorp). Over the corpus period (2000-12-04 to 2001-11-01), Evan Picoult sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2001-11-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/evan-picoult-citicorp",
+    "name": "Evan Picoult",
+    "email": "evan.picoult@citicorp.com",
+    "primary_affiliation": "companies/citicorp"
+  }
+}

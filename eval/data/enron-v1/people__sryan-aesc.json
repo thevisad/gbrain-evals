@@ -1,0 +1,14 @@
+{
+  "slug": "people/sryan-aesc",
+  "type": "person",
+  "title": "Sryan",
+  "compiled_truth": "Sryan is an external contact at [Aesc](companies/aesc). Over the corpus period (2001-05-10 to 2001-05-21), Sryan sent 3 and received 16 emails, totalling 19 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (1), [Steven J Kean](people/steven-j-kean) (1), [Skean](people/skean) (1).",
+  "timeline": "- **2001-05-10** | First recorded email in corpus\n- **2001-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sryan-aesc",
+    "name": "Sryan",
+    "email": "sryan@aesc.com",
+    "primary_affiliation": "companies/aesc"
+  }
+}

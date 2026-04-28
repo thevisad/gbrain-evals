@@ -1,0 +1,14 @@
+{
+  "slug": "people/christy-chapman",
+  "type": "person",
+  "title": "Christy Chapman",
+  "compiled_truth": "Christy Chapman is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-29), Christy Chapman sent 2 and received 148 emails, totalling 150 interactions. Top correspondents: [Ozzie Pagan](people/ozzie-pagan) (2), [Osman Sezgen](people/osman-sezgen) (1), [Mallik Avs](people/mallik-avs) (1), [Greg Woulfe](people/greg-woulfe) (1), [Vladimir Gorny](people/vladimir-gorny) (1). Mailbox folders observed: _americas, deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christy-chapman",
+    "name": "Christy Chapman",
+    "email": "christy.chapman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

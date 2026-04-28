@@ -1,0 +1,14 @@
+{
+  "slug": "people/jae-moo-lee",
+  "type": "person",
+  "title": "Jae-Moo Lee",
+  "compiled_truth": "Jae-Moo Lee is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-24 to 2001-05-23), Jae-Moo Lee sent 2 and received 9 emails, totalling 11 interactions. Top correspondents: [Christopher Hunt](people/christopher-hunt) (2), [Joseph Hirl](people/joseph-hirl) (2), [David Forster](people/david-forster) (2), [John Ambler](people/john-ambler) (2), [Mike Dahlke](people/mike-dahlke) (2).",
+  "timeline": "- **2000-07-24** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jae-moo-lee",
+    "name": "Jae-Moo Lee",
+    "email": "jae-moo.lee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-edison",
+  "type": "person",
+  "title": "J  Edison",
+  "compiled_truth": "J  Edison is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-22 to 2001-11-19), J  Edison sent 15 and received 11 emails, totalling 26 interactions. Top correspondents: [Rick Buy](people/rick-buy) (15), [A  Fox](people/a-fox) (15), [E  Haedicke](people/e-haedicke) (15), [Scott Josey](people/scott-josey) (15), [Allan Keel](people/allan-keel) (15). Mailbox folders observed: inbox, mariner.",
+  "timeline": "- **2001-06-22** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-edison",
+    "name": "J  Edison",
+    "email": "j..edison@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

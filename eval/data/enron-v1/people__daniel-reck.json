@@ -1,0 +1,14 @@
+{
+  "slug": "people/daniel-reck",
+  "type": "person",
+  "title": "Daniel Reck",
+  "compiled_truth": "Daniel Reck is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2002-02-19), Daniel Reck sent 18 and received 594 emails, totalling 612 interactions. Top correspondents: [A  Shankman](people/a-shankman) (8), [Mike McConnell](people/mike-mcconnell) (6), [Greg Whalley](people/greg-whalley) (4), [Jeffrey Shankman](people/jeffrey-shankman) (3), [George Mcclellan](people/george-mcclellan) (3). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/daniel-reck",
+    "name": "Daniel Reck",
+    "email": "daniel.reck@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-lee",
+  "type": "person",
+  "title": "Jennifer Lee",
+  "compiled_truth": "Jennifer Lee is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-16 to 2002-01-31), Jennifer Lee sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-10-16** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-lee",
+    "name": "Jennifer Lee",
+    "email": "jennifer.lee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gift-amazon",
+  "type": "person",
+  "title": "Gift",
+  "compiled_truth": "Gift is an external contact at [Amazon](companies/amazon). Over the corpus period (2001-05-30 to 2002-02-04), Gift sent 49 and received 0 emails, totalling 49 interactions. Top correspondents: [Jarnold](people/jarnold) (3), [Dfarmer](people/dfarmer) (3), [Gerald Nemec](people/gerald-nemec) (3), [Sara Shackleton](people/sara-shackleton) (3), [Pallen](people/pallen) (2).",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gift-amazon",
+    "name": "Gift",
+    "email": "gift@amazon.com",
+    "primary_affiliation": "companies/amazon"
+  }
+}

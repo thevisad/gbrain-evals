@@ -1,0 +1,14 @@
+{
+  "slug": "people/lon-draper",
+  "type": "person",
+  "title": "Lon Draper",
+  "compiled_truth": "Lon Draper is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-02 to 2002-02-21), Lon Draper sent 1 and received 91 emails, totalling 92 interactions. Top correspondents: [Jonathan Mckay](people/jonathan-mckay) (1). Mailbox folders observed: retail.",
+  "timeline": "- **1999-09-02** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lon-draper",
+    "name": "Lon Draper",
+    "email": "lon.draper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

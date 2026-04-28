@@ -1,0 +1,14 @@
+{
+  "slug": "people/evon",
+  "type": "person",
+  "title": "Evon",
+  "compiled_truth": "Evon is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-14 to 2002-01-14), Evon sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/evon",
+    "name": "Evon",
+    "email": "evon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

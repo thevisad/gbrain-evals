@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-crowder",
+  "type": "person",
+  "title": "Jim Crowder",
+  "compiled_truth": "Jim Crowder is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-08 to 2001-07-30), Jim Crowder sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2000-03-08** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-crowder",
+    "name": "Jim Crowder",
+    "email": "jim.crowder@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

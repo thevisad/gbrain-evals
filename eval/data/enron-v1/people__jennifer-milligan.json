@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-milligan",
+  "type": "person",
+  "title": "Jennifer Milligan",
+  "compiled_truth": "Jennifer Milligan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2001-12-03), Jennifer Milligan sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-milligan",
+    "name": "Jennifer Milligan",
+    "email": "jennifer.milligan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

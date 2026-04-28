@@ -1,0 +1,14 @@
+{
+  "slug": "people/johng-nepco",
+  "type": "person",
+  "title": "Johng",
+  "compiled_truth": "Johng is an external contact at [Nepco](companies/nepco). Over the corpus period (2000-04-17 to 2001-06-11), Johng sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/johng-nepco",
+    "name": "Johng",
+    "email": "johng@nepco.com",
+    "primary_affiliation": "companies/nepco"
+  }
+}

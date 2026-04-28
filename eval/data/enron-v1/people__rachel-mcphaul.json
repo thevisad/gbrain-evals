@@ -1,0 +1,14 @@
+{
+  "slug": "people/rachel-mcphaul",
+  "type": "person",
+  "title": "Rachel Mcphaul",
+  "compiled_truth": "Rachel Mcphaul is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2001-11-09), Rachel Mcphaul sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rachel-mcphaul",
+    "name": "Rachel Mcphaul",
+    "email": "rachel.mcphaul@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

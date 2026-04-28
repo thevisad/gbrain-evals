@@ -1,0 +1,14 @@
+{
+  "slug": "people/2labs-ou",
+  "type": "person",
+  "title": "2Labs",
+  "compiled_truth": "2Labs is an external contact at [Ou](companies/ou). Over the corpus period (2000-09-13 to 2000-09-13), 2Labs sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/2labs-ou",
+    "name": "2Labs",
+    "email": "2labs@ou.edu",
+    "primary_affiliation": "companies/ou"
+  }
+}

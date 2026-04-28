@@ -1,0 +1,14 @@
+{
+  "slug": "people/smith",
+  "type": "person",
+  "title": " Smith",
+  "compiled_truth": "Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-10 to 2002-06-13),  Smith sent 3 and received 51 emails, totalling 54 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (2), [Rod Hayslett](people/rod-hayslett) (1), [Phil Lowry](people/phil-lowry) (1), [Danny Mccarty](people/danny-mccarty) (1), [Shelley Corman](people/shelley-corman) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-05-10** | First recorded email in corpus\n- **2002-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/smith",
+    "name": " Smith",
+    "email": ".smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

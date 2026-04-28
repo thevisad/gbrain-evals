@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-beckstead",
+  "type": "person",
+  "title": "Jason Beckstead",
+  "compiled_truth": "Jason Beckstead is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-08 to 2001-11-19), Jason Beckstead sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-beckstead",
+    "name": "Jason Beckstead",
+    "email": "jason.beckstead@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

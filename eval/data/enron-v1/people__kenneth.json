@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenneth",
+  "type": "person",
+  "title": " Kenneth",
+  "compiled_truth": "Kenneth is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-05 to 2002-01-31),  Kenneth sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenneth",
+    "name": " Kenneth",
+    "email": ".kenneth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

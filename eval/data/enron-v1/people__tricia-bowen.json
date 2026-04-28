@@ -1,0 +1,14 @@
+{
+  "slug": "people/tricia-bowen",
+  "type": "person",
+  "title": "Tricia Bowen",
+  "compiled_truth": "Tricia Bowen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-27 to 2000-10-18), Tricia Bowen sent 2 and received 228 emails, totalling 230 interactions. Top correspondents: [George Smith](people/george-smith) (1), [Daren Farmer](people/daren-farmer) (1), [Chris Germany](people/chris-germany) (1), [Dan Junek](people/dan-junek) (1), [Judy Townsend](people/judy-townsend) (1).",
+  "timeline": "- **1999-12-27** | First recorded email in corpus\n- **2000-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tricia-bowen",
+    "name": "Tricia Bowen",
+    "email": "tricia.bowen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

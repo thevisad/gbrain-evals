@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathleen-hardeman",
+  "type": "person",
+  "title": "Kathleen Hardeman",
+  "compiled_truth": "Kathleen Hardeman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-06-24), Kathleen Hardeman sent 5 and received 42 emails, totalling 47 interactions. Top correspondents: [Rick Bergsieker](people/rick-bergsieker) (4), [Ned Crady](people/ned-crady) (4), [Mike McConnell](people/mike-mcconnell) (3), [Brenda Johnston](people/brenda-johnston) (3), [Martha Braddy](people/martha-braddy) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-06-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathleen-hardeman",
+    "name": "Kathleen Hardeman",
+    "email": "kathleen.hardeman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

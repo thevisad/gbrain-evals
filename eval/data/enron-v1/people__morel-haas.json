@@ -1,0 +1,14 @@
+{
+  "slug": "people/morel-haas",
+  "type": "person",
+  "title": "Morel",
+  "compiled_truth": "Morel is an external contact at [Haas](companies/haas). Over the corpus period (1999-12-08 to 2001-12-17), Morel sent 24 and received 2 emails, totalling 26 interactions. Top correspondents: [Eveningmba](people/eveningmba-haas) (19), [F99Evmba](people/f99evmba-haas) (1).",
+  "timeline": "- **1999-12-08** | First recorded email in corpus\n- **2001-12-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/morel-haas",
+    "name": "Morel",
+    "email": "morel@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

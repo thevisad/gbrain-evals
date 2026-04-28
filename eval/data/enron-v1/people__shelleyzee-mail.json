@@ -1,0 +1,14 @@
+{
+  "slug": "people/shelleyzee-mail",
+  "type": "person",
+  "title": "Shelleyzee",
+  "compiled_truth": "Shelleyzee is an external contact at [Mail](companies/mail). Over the corpus period (1999-12-13 to 2000-11-05), Shelleyzee sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2000-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shelleyzee-mail",
+    "name": "Shelleyzee",
+    "email": "shelleyzee@mail.utexas.edu",
+    "primary_affiliation": "companies/mail"
+  }
+}

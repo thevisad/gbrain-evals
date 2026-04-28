@@ -1,0 +1,23 @@
+{
+  "slug": "threads/e234-2001-01",
+  "type": "meeting",
+  "title": "Thread: E234",
+  "compiled_truth": "Email thread: \"E234\". Ran from 2001-01-23 to 2001-01-29 with 14 messages. Participants: [Dasovich](people/dasovich-haas), [Dimeff](people/dimeff-haas), [Dwindham](people/dwindham-uclink4), [Guinney](people/guinney-haas), [Jcja](people/jcja-chevron), [Jeff Dasovich](people/jeff-dasovich), [Jjackson](people/jjackson-haas), [Mark Guinney](people/mark-guinney-watsonwyatt).",
+  "timeline": "- **2001-01-23** | Thread begins: e234\n- **2001-01-29** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/e234-2001-01",
+    "attendees": [
+      "people/dasovich-haas",
+      "people/dimeff-haas",
+      "people/dwindham-uclink4",
+      "people/guinney-haas",
+      "people/jcja-chevron",
+      "people/jeff-dasovich",
+      "people/jjackson-haas",
+      "people/mark-guinney-watsonwyatt",
+      "people/mukesh-bajaj-lecg"
+    ],
+    "date": "2001-01-23"
+  }
+}

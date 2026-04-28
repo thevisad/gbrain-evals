@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-kuehler",
+  "type": "person",
+  "title": "Kevin Kuehler",
+  "compiled_truth": "Kevin Kuehler is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-01), Kevin Kuehler sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-kuehler",
+    "name": "Kevin Kuehler",
+    "email": "kevin.kuehler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/acheng-reliant",
+  "type": "person",
+  "title": "Acheng",
+  "compiled_truth": "Acheng is an external contact at [Reliant](companies/reliant). Over the corpus period (2002-01-13 to 2002-01-14), Acheng sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-13** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/acheng-reliant",
+    "name": "Acheng",
+    "email": "acheng@reliant.com",
+    "primary_affiliation": "companies/reliant"
+  }
+}

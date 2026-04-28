@@ -1,0 +1,14 @@
+{
+  "slug": "people/henderson-denny",
+  "type": "person",
+  "title": "Henderson Denny",
+  "compiled_truth": "Henderson Denny is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-10 to 2001-10-10), Henderson Denny sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-10** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/henderson-denny",
+    "name": "Henderson Denny",
+    "email": "henderson.denny@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

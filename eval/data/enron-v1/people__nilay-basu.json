@@ -1,0 +1,14 @@
+{
+  "slug": "people/nilay-basu",
+  "type": "person",
+  "title": "Nilay Basu",
+  "compiled_truth": "Nilay Basu is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-17 to 2002-02-19), Nilay Basu sent 1 and received 31 emails, totalling 32 interactions. Top correspondents: [Tom Victorio](people/tom-victorio) (1), [Clara Carrington](people/clara-carrington) (1), [Wayne Vinson](people/wayne-vinson) (1), [Kam Keiser](people/kam-keiser) (1), [Scott Mills](people/scott-mills) (1). Mailbox folders observed: to_do.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nilay-basu",
+    "name": "Nilay Basu",
+    "email": "nilay.basu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

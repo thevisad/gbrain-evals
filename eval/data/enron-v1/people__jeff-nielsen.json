@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-nielsen",
+  "type": "person",
+  "title": "Jeff Nielsen",
+  "compiled_truth": "Jeff Nielsen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2002-04-30), Jeff Nielsen sent 3 and received 210 emails, totalling 213 interactions. Top correspondents: [Jo Williams](people/jo-williams) (2), [Kevin Hyatt](people/kevin-hyatt) (2), [Michael Mitcham](people/michael-mitcham) (1), [Stanley Horton](people/stanley-horton) (1), [Dave Neubauer](people/dave-neubauer) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2002-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-nielsen",
+    "name": "Jeff Nielsen",
+    "email": "jeff.nielsen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

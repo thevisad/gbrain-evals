@@ -1,0 +1,14 @@
+{
+  "slug": "people/calvin-dodd",
+  "type": "person",
+  "title": "Calvin Dodd",
+  "compiled_truth": "Calvin Dodd is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-01), Calvin Dodd sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/calvin-dodd",
+    "name": "Calvin Dodd",
+    "email": "calvin.dodd@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

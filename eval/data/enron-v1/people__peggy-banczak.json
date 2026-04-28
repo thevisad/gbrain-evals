@@ -1,0 +1,14 @@
+{
+  "slug": "people/peggy-banczak",
+  "type": "person",
+  "title": "Peggy Banczak",
+  "compiled_truth": "Peggy Banczak is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-09-10), Peggy Banczak sent 11 and received 370 emails, totalling 381 interactions. Top correspondents: [Mark Haedicke](people/mark-haedicke) (6), [Richard Sanders](people/richard-sanders) (6), [Max Yzaguirre](people/max-yzaguirre) (2), [Jeffrey Hodge](people/jeffrey-hodge) (2), [Barbara Gray](people/barbara-gray) (2).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-09-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peggy-banczak",
+    "name": "Peggy Banczak",
+    "email": "peggy.banczak@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

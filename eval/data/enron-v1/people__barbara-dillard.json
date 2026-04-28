@@ -1,0 +1,14 @@
+{
+  "slug": "people/barbara-dillard",
+  "type": "person",
+  "title": "Barbara Dillard",
+  "compiled_truth": "Barbara Dillard is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-20), Barbara Dillard sent 5 and received 35 emails, totalling 40 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (3), [Jeffrey Hodge](people/jeffrey-hodge) (1), [Vince Kaminski](people/vince-kaminski) (1), [Gregg Penman](people/gregg-penman) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barbara-dillard",
+    "name": "Barbara Dillard",
+    "email": "barbara.dillard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

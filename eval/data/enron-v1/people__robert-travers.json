@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-travers",
+  "type": "person",
+  "title": "Robert Travers",
+  "compiled_truth": "Robert Travers is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2002-03-05), Robert Travers sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2002-03-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-travers",
+    "name": "Robert Travers",
+    "email": "robert.travers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

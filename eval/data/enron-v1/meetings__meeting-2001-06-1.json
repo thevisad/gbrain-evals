@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/meeting-2001-06-1",
+  "type": "meeting",
+  "title": "Meeting: Meeting",
+  "compiled_truth": "Meeting: \"Meeting\". Occurred 2001-06-20 with 1 related emails. Participants included: [Bill Williams](people/bill-williams), [Chris Smith](people/chris-smith), [Ctilghman](people/ctilghman-tucsonelectric), [Demetrios Fotiou](people/demetrios-fotiou), [Jerry Dempsey](people/jerry-dempsey), [John Underwood](people/john-underwood), [Lisa Grow](people/lisa-grow), [Mons Ellingson](people/mons-ellingson)....",
+  "timeline": "- **2001-06-20** | Meeting: meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-2001-06-1",
+    "attendees": [
+      "people/bill-williams",
+      "people/chris-smith",
+      "people/ctilghman-tucsonelectric",
+      "people/demetrios-fotiou",
+      "people/jerry-dempsey",
+      "people/john-underwood",
+      "people/lisa-grow",
+      "people/mons-ellingson",
+      "people/robert-harshbarger",
+      "people/susan-holden-baker"
+    ],
+    "date": "2001-06-20"
+  }
+}

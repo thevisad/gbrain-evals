@@ -1,0 +1,14 @@
+{
+  "slug": "people/aplin-arch",
+  "type": "person",
+  "title": "Aplin' 'Arch",
+  "compiled_truth": "Aplin' 'Arch is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-04 to 2001-10-26), Aplin' 'Arch sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-10-04** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aplin-arch",
+    "name": "Aplin' 'Arch",
+    "email": "aplin'.'arch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

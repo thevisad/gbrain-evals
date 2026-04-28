@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-purvi",
+  "type": "person",
+  "title": "Paul Purvi",
+  "compiled_truth": "Paul Purvi is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-11 to 2001-06-25), Paul Purvi sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-11** | First recorded email in corpus\n- **2001-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-purvi",
+    "name": "Paul Purvi",
+    "email": "paul.purvi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

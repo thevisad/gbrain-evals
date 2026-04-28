@@ -1,0 +1,14 @@
+{
+  "slug": "people/brett-wiggs",
+  "type": "person",
+  "title": "Brett Wiggs",
+  "compiled_truth": "Brett Wiggs is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-29 to 2002-01-14), Brett Wiggs sent 17 and received 177 emails, totalling 194 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (6), [Orlando Gonzalez](people/orlando-gonzalez) (4), [Louise Kitchen](people/louise-kitchen) (3), [Joe Kishkill](people/joe-kishkill) (2), [Chip Schneider](people/chip-schneider) (2). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **2000-03-29** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brett-wiggs",
+    "name": "Brett Wiggs",
+    "email": "brett.wiggs@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

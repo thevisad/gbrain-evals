@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-rosenberg",
+  "type": "person",
+  "title": "David Rosenberg",
+  "compiled_truth": "David Rosenberg is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-27 to 2001-10-18), David Rosenberg sent 8 and received 44 emails, totalling 52 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (4), [Denis Tu](people/denis-tu) (4), [Jack Boatman](people/jack-boatman) (3), [Robert Kilmer](people/robert-kilmer) (3), [James Saunders](people/james-saunders) (3). Mailbox folders observed: inbox, misc_, vacations.",
+  "timeline": "- **2000-03-27** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-rosenberg",
+    "name": "David Rosenberg",
+    "email": "david.rosenberg@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

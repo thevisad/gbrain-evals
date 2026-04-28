@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrea-guillen",
+  "type": "person",
+  "title": "Andrea Guillen",
+  "compiled_truth": "Andrea Guillen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-26 to 2001-06-08), Andrea Guillen sent 2 and received 415 emails, totalling 417 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (2).",
+  "timeline": "- **1999-05-26** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrea-guillen",
+    "name": "Andrea Guillen",
+    "email": "andrea.guillen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

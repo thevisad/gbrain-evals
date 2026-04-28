@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-row",
+  "type": "person",
+  "title": "James Row",
+  "compiled_truth": "James Row is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2000-09-01), James Row sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2000-09-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-row",
+    "name": "James Row",
+    "email": "james.row@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

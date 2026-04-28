@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-reid",
+  "type": "person",
+  "title": "Paul Reid",
+  "compiled_truth": "Paul Reid is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-16 to 2000-11-28), Paul Reid sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-10-16** | First recorded email in corpus\n- **2000-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-reid",
+    "name": "Paul Reid",
+    "email": "paul.reid@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

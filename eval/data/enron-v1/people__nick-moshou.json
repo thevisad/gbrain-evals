@@ -1,0 +1,14 @@
+{
+  "slug": "people/nick-moshou",
+  "type": "person",
+  "title": "Nick Moshou",
+  "compiled_truth": "Nick Moshou is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-11-21), Nick Moshou sent 4 and received 35 emails, totalling 39 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (4), [Mary Poorman](people/mary-poorman) (4), [Donald Reinhardt](people/donald-reinhardt) (3), [Brian Riley](people/brian-riley) (3), [Pat Clynes](people/pat-clynes) (3).",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nick-moshou",
+    "name": "Nick Moshou",
+    "email": "nick.moshou@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/marty-sunde",
+  "type": "person",
+  "title": "Marty Sunde",
+  "compiled_truth": "Marty Sunde is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-15 to 2001-09-19), Marty Sunde sent 13 and received 878 emails, totalling 891 interactions. Top correspondents: [Steven Kean](people/steven-kean) (6), [Jeff Dasovich](people/jeff-dasovich) (5), [Vicki Sharp](people/vicki-sharp) (5), [Dan Leff](people/dan-leff) (5), [John Lavorato](people/john-lavorato) (5). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-03-15** | First recorded email in corpus\n- **2001-09-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marty-sunde",
+    "name": "Marty Sunde",
+    "email": "marty.sunde@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

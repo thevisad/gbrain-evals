@@ -1,0 +1,26 @@
+{
+  "slug": "meetings/california-meeting-2000-09",
+  "type": "meeting",
+  "title": "Meeting: California Meeting",
+  "compiled_truth": "Meeting: \"California Meeting\". Occurred 2000-09-07 through 2000-09-08 with 6 related emails. Participants included: [Dennis Benevides](people/dennis-benevides), [James Steffes](people/james-steffes), [Jeff Dasovich](people/jeff-dasovich), [Joe Hartsoe](people/joe-hartsoe), [Lysa Akin](people/lysa-akin), [Mary Hain](people/mary-hain), [Mona Petrochko](people/mona-petrochko), [Paul Kaufman](people/paul-kaufman)....",
+  "timeline": "- **2000-09-07** | Meeting: california meeting\n- **2000-09-08** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/california-meeting-2000-09",
+    "attendees": [
+      "people/dennis-benevides",
+      "people/james-steffes",
+      "people/jeff-dasovich",
+      "people/joe-hartsoe",
+      "people/lysa-akin",
+      "people/mary-hain",
+      "people/mona-petrochko",
+      "people/paul-kaufman",
+      "people/richard-sanders",
+      "people/sandra-mccubbin",
+      "people/sarah-novosel",
+      "people/susan-mara"
+    ],
+    "date": "2000-09-07"
+  }
+}

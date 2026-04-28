@@ -1,0 +1,14 @@
+{
+  "slug": "people/arnold-eisenstein",
+  "type": "person",
+  "title": "Arnold Eisenstein",
+  "compiled_truth": "Arnold Eisenstein is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-21 to 2001-11-21), Arnold Eisenstein sent 11 and received 76 emails, totalling 87 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (10), [Earl Chanley](people/earl-chanley) (6), [Rich Jolly](people/rich-jolly) (5), [Byron Rance](people/byron-rance) (5), [Kevin Hyatt](people/kevin-hyatt) (5). Mailbox folders observed: tw.",
+  "timeline": "- **1999-10-21** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/arnold-eisenstein",
+    "name": "Arnold Eisenstein",
+    "email": "arnold.eisenstein@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

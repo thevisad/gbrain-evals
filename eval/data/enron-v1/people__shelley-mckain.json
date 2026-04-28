@@ -1,0 +1,14 @@
+{
+  "slug": "people/shelley-mckain",
+  "type": "person",
+  "title": "Shelley Mckain",
+  "compiled_truth": "Shelley Mckain is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-14 to 2002-01-14), Shelley Mckain sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shelley-mckain",
+    "name": "Shelley Mckain",
+    "email": "shelley.mckain@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

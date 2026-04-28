@@ -1,0 +1,14 @@
+{
+  "slug": "people/monica-jordan",
+  "type": "person",
+  "title": "Monica Jordan",
+  "compiled_truth": "Monica Jordan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2000-10-25), Monica Jordan sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2000-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/monica-jordan",
+    "name": "Monica Jordan",
+    "email": "monica.jordan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

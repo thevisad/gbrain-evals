@@ -1,0 +1,14 @@
+{
+  "slug": "people/frank-oldenhuis",
+  "type": "person",
+  "title": "Frank Oldenhuis",
+  "compiled_truth": "Frank Oldenhuis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2002-01-22), Frank Oldenhuis sent 1 and received 223 emails, totalling 224 interactions. Top correspondents: [John Dushinske](people/john-dushinske) (1), [Kent Miller](people/kent-miller) (1), [Drew Fossum](people/drew-fossum) (1), [Mary Miller](people/mary-miller) (1), [Sue Neville](people/sue-neville) (1).",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frank-oldenhuis",
+    "name": "Frank Oldenhuis",
+    "email": "frank.oldenhuis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

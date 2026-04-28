@@ -1,0 +1,14 @@
+{
+  "slug": "people/neil-bresnan",
+  "type": "person",
+  "title": "Neil Bresnan",
+  "compiled_truth": "Neil Bresnan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-11 to 2001-12-04), Neil Bresnan sent 27 and received 785 emails, totalling 812 interactions. Top correspondents: [Chris Stokley](people/chris-stokley) (23), [Jeff Richter](people/jeff-richter) (10), [Stewart Rosman](people/stewart-rosman) (4), [Phillip Platter](people/phillip-platter) (4), [Kate Symes](people/kate-symes) (3). Mailbox folders observed: bill_williams_iii, chris_stokley.",
+  "timeline": "- **2000-09-11** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/neil-bresnan",
+    "name": "Neil Bresnan",
+    "email": "neil.bresnan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

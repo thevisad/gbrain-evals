@@ -1,0 +1,14 @@
+{
+  "slug": "people/customercare-match",
+  "type": "person",
+  "title": "Customercare",
+  "compiled_truth": "Customercare is an external contact at [Match](companies/match). Over the corpus period (2001-11-21 to 2001-12-29), Customercare sent 71 and received 0 emails, totalling 71 interactions. Top correspondents: [Plucci](people/plucci) (68), [T  Lucci](people/t-lucci) (2), [Brapp](people/brapp) (1).",
+  "timeline": "- **2001-11-21** | First recorded email in corpus\n- **2001-12-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/customercare-match",
+    "name": "Customercare",
+    "email": "customercare@match.com",
+    "primary_affiliation": "companies/match"
+  }
+}

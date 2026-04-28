@@ -1,0 +1,14 @@
+{
+  "slug": "people/fyanney-fulbright",
+  "type": "person",
+  "title": "Fyanney",
+  "compiled_truth": "Fyanney is an external contact at [Fulbright](companies/fulbright). Over the corpus period (2001-02-06 to 2001-05-03), Fyanney sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-02-06** | First recorded email in corpus\n- **2001-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fyanney-fulbright",
+    "name": "Fyanney",
+    "email": "fyanney@fulbright.com",
+    "primary_affiliation": "companies/fulbright"
+  }
+}

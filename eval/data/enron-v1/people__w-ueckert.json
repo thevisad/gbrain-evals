@@ -1,0 +1,14 @@
+{
+  "slug": "people/w-ueckert",
+  "type": "person",
+  "title": "W  Ueckert",
+  "compiled_truth": "W  Ueckert is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-19 to 2002-06-21), W  Ueckert sent 0 and received 45 emails, totalling 45 interactions.",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/w-ueckert",
+    "name": "W  Ueckert",
+    "email": "w..ueckert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

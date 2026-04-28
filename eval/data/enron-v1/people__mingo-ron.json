@@ -1,0 +1,14 @@
+{
+  "slug": "people/mingo-ron",
+  "type": "person",
+  "title": "Mingo Ron",
+  "compiled_truth": "Mingo Ron is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-27 to 2001-04-27), Mingo Ron sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-04-27** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mingo-ron",
+    "name": "Mingo Ron",
+    "email": "mingo.ron@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

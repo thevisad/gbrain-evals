@@ -1,0 +1,14 @@
+{
+  "slug": "people/mhain",
+  "type": "person",
+  "title": "Mhain",
+  "compiled_truth": "Mhain is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-05-30), Mhain sent 0 and received 129 emails, totalling 129 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mhain",
+    "name": "Mhain",
+    "email": "mhain@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/restella-logica",
+  "type": "person",
+  "title": "Restella",
+  "compiled_truth": "Restella is an external contact at [Logica](companies/logica). Over the corpus period (2002-01-13 to 2002-01-14), Restella sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-13** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/restella-logica",
+    "name": "Restella",
+    "email": "restella@logica.com",
+    "primary_affiliation": "companies/logica"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "threads/gallup-2000-01",
+  "type": "meeting",
+  "title": "Thread: Gallup",
+  "compiled_truth": "Email thread: \"Gallup\". Ran from 2000-01-06 to 2000-02-01 with 12 messages. Participants: [David Foti](people/david-foti), [Drew Fossum](people/drew-fossum), [Fkelly](people/fkelly-gbmdc), [Keith Petersen](people/keith-petersen), [Mark Courtney](people/mark-courtney), [Mark Knippa](people/mark-knippa), [Mary Miller](people/mary-miller), [Rich Plachy](people/rich-plachy).",
+  "timeline": "- **2000-01-06** | Thread begins: gallup\n- **2000-02-01** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/gallup-2000-01",
+    "attendees": [
+      "people/david-foti",
+      "people/drew-fossum",
+      "people/fkelly-gbmdc",
+      "people/keith-petersen",
+      "people/mark-courtney",
+      "people/mark-knippa",
+      "people/mary-miller",
+      "people/rich-plachy",
+      "people/sstojic-gbmdc",
+      "people/susan-scott",
+      "people/tim-aron"
+    ],
+    "date": "2000-01-06"
+  }
+}

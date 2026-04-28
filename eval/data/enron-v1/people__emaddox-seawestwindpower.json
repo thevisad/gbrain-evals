@@ -1,0 +1,14 @@
+{
+  "slug": "people/emaddox-seawestwindpower",
+  "type": "person",
+  "title": "Emaddox",
+  "compiled_truth": "Emaddox is an external contact at [Seawestwindpower](companies/seawestwindpower). Over the corpus period (2000-08-31 to 2001-04-15), Emaddox sent 0 and received 124 emails, totalling 124 interactions.",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-04-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/emaddox-seawestwindpower",
+    "name": "Emaddox",
+    "email": "emaddox@seawestwindpower.com",
+    "primary_affiliation": "companies/seawestwindpower"
+  }
+}

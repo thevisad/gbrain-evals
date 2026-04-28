@@ -1,0 +1,14 @@
+{
+  "slug": "people/edward-anderson",
+  "type": "person",
+  "title": "Edward Anderson",
+  "compiled_truth": "Edward Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-11 to 2000-10-25), Edward Anderson sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-08-11** | First recorded email in corpus\n- **2000-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edward-anderson",
+    "name": "Edward Anderson",
+    "email": "edward.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

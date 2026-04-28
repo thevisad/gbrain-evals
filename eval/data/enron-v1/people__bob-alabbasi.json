@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-alabbasi",
+  "type": "person",
+  "title": "Bob Alabbasi",
+  "compiled_truth": "Bob Alabbasi is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-19 to 2002-03-25), Bob Alabbasi sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2002-02-19** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-alabbasi",
+    "name": "Bob Alabbasi",
+    "email": "bob.alabbasi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

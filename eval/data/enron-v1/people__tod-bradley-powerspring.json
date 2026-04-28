@@ -1,0 +1,14 @@
+{
+  "slug": "people/tod-bradley-powerspring",
+  "type": "person",
+  "title": "Tod Bradley",
+  "compiled_truth": "Tod Bradley is an external contact at [Powerspring](companies/powerspring). Over the corpus period (2000-06-20 to 2001-02-05), Tod Bradley sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2001-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tod-bradley-powerspring",
+    "name": "Tod Bradley",
+    "email": "tod_bradley@powerspring.com",
+    "primary_affiliation": "companies/powerspring"
+  }
+}

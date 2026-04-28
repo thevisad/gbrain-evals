@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-hanson",
+  "type": "person",
+  "title": "J  Hanson",
+  "compiled_truth": "J  Hanson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-30 to 2002-02-13), J  Hanson sent 1 and received 109 emails, totalling 110 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1), [Kevin Sweeney](people/kevin-sweeney) (1), [L  Davis](people/l-davis) (1), [E  Moscoso](people/e-moscoso) (1), [Sam Leuschen](people/sam-leuschen) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-hanson",
+    "name": "J  Hanson",
+    "email": "j..hanson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

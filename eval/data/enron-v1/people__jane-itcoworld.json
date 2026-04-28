@@ -1,0 +1,14 @@
+{
+  "slug": "people/jane-itcoworld",
+  "type": "person",
+  "title": "Jane",
+  "compiled_truth": "Jane is an external contact at [Itcoworld](companies/itcoworld). Over the corpus period (2000-11-29 to 2001-05-11), Jane sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-11-29** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jane-itcoworld",
+    "name": "Jane",
+    "email": "jane@itcoworld.com",
+    "primary_affiliation": "companies/itcoworld"
+  }
+}

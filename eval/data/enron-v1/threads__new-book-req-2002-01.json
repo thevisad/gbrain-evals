@@ -1,0 +1,23 @@
+{
+  "slug": "threads/new-book-req-2002-01",
+  "type": "meeting",
+  "title": "Thread: New Book Req",
+  "compiled_truth": "Email thread: \"New Book Req\". Ran from 2002-01-04 to 2002-01-07 with 12 messages. Participants: [C  Giron](people/c-giron), [C  Gossett](people/c-gossett), [D  Winfree](people/d-winfree), [Errol Mclaughlin](people/errol-mclaughlin), [Kam Keiser](people/kam-keiser), [M  Love](people/m-love), [Scott Palmer](people/scott-palmer), [Shona Wilson](people/shona-wilson).",
+  "timeline": "- **2002-01-04** | Thread begins: new book req\n- **2002-01-07** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/new-book-req-2002-01",
+    "attendees": [
+      "people/c-giron",
+      "people/c-gossett",
+      "people/d-winfree",
+      "people/errol-mclaughlin",
+      "people/kam-keiser",
+      "people/m-love",
+      "people/scott-palmer",
+      "people/shona-wilson",
+      "people/susan-trevino"
+    ],
+    "date": "2002-01-04"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tammy-giffrow",
+  "type": "person",
+  "title": "Tammy Giffrow",
+  "compiled_truth": "Tammy Giffrow is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-11-02), Tammy Giffrow sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tammy-giffrow",
+    "name": "Tammy Giffrow",
+    "email": "tammy.giffrow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

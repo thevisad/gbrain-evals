@@ -1,0 +1,14 @@
+{
+  "slug": "people/pam-boxx",
+  "type": "person",
+  "title": "Pam Boxx",
+  "compiled_truth": "Pam Boxx is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-06-11), Pam Boxx sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pam-boxx",
+    "name": "Pam Boxx",
+    "email": "pam.boxx@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

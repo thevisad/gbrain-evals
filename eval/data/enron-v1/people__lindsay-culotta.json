@@ -1,0 +1,14 @@
+{
+  "slug": "people/lindsay-culotta",
+  "type": "person",
+  "title": "Lindsay Culotta",
+  "compiled_truth": "Lindsay Culotta is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2002-01-16), Lindsay Culotta sent 6 and received 95 emails, totalling 101 interactions. Top correspondents: [C  Giron](people/c-giron) (5), [Bryant Frihart](people/bryant-frihart) (5), [S  Pollan](people/s-pollan) (4), [E Murrell](people/e-murrell) (4), [L  Mims](people/l-mims) (4). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lindsay-culotta",
+    "name": "Lindsay Culotta",
+    "email": "lindsay.culotta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

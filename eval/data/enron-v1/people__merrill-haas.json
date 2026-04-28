@@ -1,0 +1,14 @@
+{
+  "slug": "people/merrill-haas",
+  "type": "person",
+  "title": "Merrill Haas",
+  "compiled_truth": "Merrill Haas is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2001-06-12), Merrill Haas sent 0 and received 146 emails, totalling 146 interactions.",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/merrill-haas",
+    "name": "Merrill Haas",
+    "email": "merrill.haas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

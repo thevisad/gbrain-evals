@@ -1,0 +1,14 @@
+{
+  "slug": "people/javier-marrero",
+  "type": "person",
+  "title": "Javier Marrero",
+  "compiled_truth": "Javier Marrero is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2001-11-21), Javier Marrero sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/javier-marrero",
+    "name": "Javier Marrero",
+    "email": "javier.marrero@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

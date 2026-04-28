@@ -1,0 +1,14 @@
+{
+  "slug": "people/ed-mcmichael",
+  "type": "person",
+  "title": "Ed Mcmichael",
+  "compiled_truth": "Ed Mcmichael is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2002-06-25), Ed Mcmichael sent 111 and received 761 emails, totalling 872 interactions. Top correspondents: [Chris Germany](people/chris-germany) (40), [Ruth Concannon](people/ruth-concannon) (23), [Louis Dicarlo](people/louis-dicarlo) (18), [Joe Parks](people/joe-parks) (17), [Robin Barbe](people/robin-barbe) (16). Mailbox folders observed: _americas, bankrupt, calendar, deleted_items, inbox, memos.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ed-mcmichael",
+    "name": "Ed Mcmichael",
+    "email": "ed.mcmichael@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

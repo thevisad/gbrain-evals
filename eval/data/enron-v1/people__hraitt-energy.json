@@ -1,0 +1,14 @@
+{
+  "slug": "people/hraitt-energy",
+  "type": "person",
+  "title": "Hraitt",
+  "compiled_truth": "Hraitt is an external contact at [Energy](companies/energy). Over the corpus period (2000-08-21 to 2001-10-15), Hraitt sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-08-21** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hraitt-energy",
+    "name": "Hraitt",
+    "email": "hraitt@energy.state.ca.us",
+    "primary_affiliation": "companies/energy"
+  }
+}

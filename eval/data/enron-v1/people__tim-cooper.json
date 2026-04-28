@@ -1,0 +1,14 @@
+{
+  "slug": "people/tim-cooper",
+  "type": "person",
+  "title": "Tim Cooper",
+  "compiled_truth": "Tim Cooper is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-13 to 2002-05-06), Tim Cooper sent 12 and received 87 emails, totalling 99 interactions. Top correspondents: [Shelley Corman](people/shelley-corman) (12), [Sheila Nacey](people/sheila-nacey) (11), [Robert Hayes](people/robert-hayes) (9), [Dan Swanson](people/dan-swanson) (8), [Thomas Nestor](people/thomas-nestor) (8). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-01-13** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tim-cooper",
+    "name": "Tim Cooper",
+    "email": "tim.cooper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

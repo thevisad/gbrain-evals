@@ -1,0 +1,14 @@
+{
+  "slug": "people/anne-beylin",
+  "type": "person",
+  "title": "Anne Beylin",
+  "compiled_truth": "Anne Beylin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-06-05), Anne Beylin sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anne-beylin",
+    "name": "Anne Beylin",
+    "email": "anne.beylin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

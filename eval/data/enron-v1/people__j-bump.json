@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-bump",
+  "type": "person",
+  "title": "J  Bump",
+  "compiled_truth": "J  Bump is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-02 to 2001-12-19), J  Bump sent 24 and received 65 emails, totalling 89 interactions. Top correspondents: [Mark Whitt](people/mark-whitt) (19), [T  Lucci](people/t-lucci) (11), [Ken Choyce](people/ken-choyce) (3), [Gerald Nemec](people/gerald-nemec) (3), [Tyrell Harrison](people/tyrell-harrison) (3). Mailbox folders observed: crestone, deleted_items, inbox.",
+  "timeline": "- **2001-07-02** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-bump",
+    "name": "J  Bump",
+    "email": "j..bump@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

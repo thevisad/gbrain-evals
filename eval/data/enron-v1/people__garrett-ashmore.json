@@ -1,0 +1,14 @@
+{
+  "slug": "people/garrett-ashmore",
+  "type": "person",
+  "title": "Garrett Ashmore",
+  "compiled_truth": "Garrett Ashmore is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2001-10-12), Garrett Ashmore sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/garrett-ashmore",
+    "name": "Garrett Ashmore",
+    "email": "garrett.ashmore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

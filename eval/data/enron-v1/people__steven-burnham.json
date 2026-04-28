@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-burnham",
+  "type": "person",
+  "title": "Steven Burnham",
+  "compiled_truth": "Steven Burnham is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-27 to 2002-02-06), Steven Burnham sent 2 and received 46 emails, totalling 48 interactions. Top correspondents: [Geoff Storey](people/geoff-storey) (2), [Nicole Laporte](people/nicole-laporte) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-09-27** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-burnham",
+    "name": "Steven Burnham",
+    "email": "steven.burnham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

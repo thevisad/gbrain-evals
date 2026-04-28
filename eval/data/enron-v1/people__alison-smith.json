@@ -1,0 +1,14 @@
+{
+  "slug": "people/alison-smith",
+  "type": "person",
+  "title": "Alison Smith",
+  "compiled_truth": "Alison Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-04 to 2002-01-03), Alison Smith sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-05-04** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alison-smith",
+    "name": "Alison Smith",
+    "email": "alison.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

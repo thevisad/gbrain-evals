@@ -1,0 +1,14 @@
+{
+  "slug": "people/angela-jones-duchesne",
+  "type": "person",
+  "title": "Angela Jones",
+  "compiled_truth": "Angela Jones is an external contact at [Duchesne](companies/duchesne). Over the corpus period (2001-10-25 to 2001-11-27), Angela Jones sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-10-25** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angela-jones-duchesne",
+    "name": "Angela Jones",
+    "email": "angela.jones@duchesne.org",
+    "primary_affiliation": "companies/duchesne"
+  }
+}

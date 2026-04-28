@@ -1,0 +1,14 @@
+{
+  "slug": "people/paula-craft",
+  "type": "person",
+  "title": "Paula Craft",
+  "compiled_truth": "Paula Craft is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-03 to 2001-12-03), Paula Craft sent 0 and received 88 emails, totalling 88 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paula-craft",
+    "name": "Paula Craft",
+    "email": "paula.craft@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

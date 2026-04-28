@@ -1,0 +1,14 @@
+{
+  "slug": "people/christina-brandli",
+  "type": "person",
+  "title": "Christina Brandli",
+  "compiled_truth": "Christina Brandli is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-28 to 2002-02-19), Christina Brandli sent 0 and received 37 emails, totalling 37 interactions.",
+  "timeline": "- **2001-03-28** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christina-brandli",
+    "name": "Christina Brandli",
+    "email": "christina.brandli@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

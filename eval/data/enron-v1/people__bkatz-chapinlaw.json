@@ -1,0 +1,14 @@
+{
+  "slug": "people/bkatz-chapinlaw",
+  "type": "person",
+  "title": "Bkatz",
+  "compiled_truth": "Bkatz is an external contact at [Chapinlaw](companies/chapinlaw). Over the corpus period (2001-01-30 to 2001-06-11), Bkatz sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2001-01-30** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bkatz-chapinlaw",
+    "name": "Bkatz",
+    "email": "bkatz@chapinlaw.com",
+    "primary_affiliation": "companies/chapinlaw"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ss1g-andrew",
+  "type": "person",
+  "title": "Ss1G",
+  "compiled_truth": "Ss1G is an external contact at [Andrew](companies/andrew). Over the corpus period (2001-10-19 to 2001-11-01), Ss1G sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-19** | First recorded email in corpus\n- **2001-11-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ss1g-andrew",
+    "name": "Ss1G",
+    "email": "ss1g@andrew.cmu.edu",
+    "primary_affiliation": "companies/andrew"
+  }
+}

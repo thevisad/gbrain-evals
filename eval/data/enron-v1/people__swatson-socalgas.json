@@ -1,0 +1,14 @@
+{
+  "slug": "people/swatson-socalgas",
+  "type": "person",
+  "title": "Swatson",
+  "compiled_truth": "Swatson is an external contact at [Socalgas](companies/socalgas). Over the corpus period (1999-09-24 to 2001-07-31), Swatson sent 1 and received 131 emails, totalling 132 interactions. Top correspondents: [Jleslie](people/jleslie-luce) (1), [Jeffery Fawcett](people/jeffery-fawcett) (1), [Bcherry](people/bcherry-sempra) (1), [Tomb](people/tomb-crossborderenergy) (1), [Counihan](people/counihan-greenmountain) (1).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/swatson-socalgas",
+    "name": "Swatson",
+    "email": "swatson@socalgas.com",
+    "primary_affiliation": "companies/socalgas"
+  }
+}

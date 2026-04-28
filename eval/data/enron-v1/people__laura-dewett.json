@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-dewett",
+  "type": "person",
+  "title": "Laura Dewett",
+  "compiled_truth": "Laura Dewett is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-02-06), Laura Dewett sent 0 and received 69 emails, totalling 69 interactions.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-dewett",
+    "name": "Laura Dewett",
+    "email": "laura.dewett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

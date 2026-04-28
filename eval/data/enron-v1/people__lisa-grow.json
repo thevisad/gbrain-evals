@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-grow",
+  "type": "person",
+  "title": "Lisa Grow",
+  "compiled_truth": "Lisa Grow is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-22 to 2001-07-03), Lisa Grow sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2001-05-22** | First recorded email in corpus\n- **2001-07-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-grow",
+    "name": "Lisa Grow",
+    "email": "lisa.grow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

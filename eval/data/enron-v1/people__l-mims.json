@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-mims",
+  "type": "person",
+  "title": "L  Mims",
+  "compiled_truth": "L  Mims is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-19 to 2002-02-07), L  Mims sent 203 and received 462 emails, totalling 665 interactions. Top correspondents: [Ora Cross](people/ora-cross) (14), [Debra Perlingiere](people/debra-perlingiere) (14), [Nytasha Sims](people/nytasha-sims-dynegy) (14), [Vbrawne](people/vbrawne-nicor) (12), [Hope-Frelix](people/hope-frelix-reliantenergy) (11). Mailbox folders observed: _americas, inbox, sent_items.",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-mims",
+    "name": "L  Mims",
+    "email": "l..mims@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

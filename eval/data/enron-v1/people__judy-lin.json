@@ -1,0 +1,14 @@
+{
+  "slug": "people/judy-lin",
+  "type": "person",
+  "title": "Judy Lin",
+  "compiled_truth": "Judy Lin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-29 to 2002-02-12), Judy Lin sent 3 and received 32 emails, totalling 35 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (1), [Michael Ratner](people/michael-ratner) (1), [Jennifer Lev](people/jennifer-lev) (1), [Kevin Hyatt](people/kevin-hyatt) (1), [Susan Wadle](people/susan-wadle) (1). Mailbox folders observed: inbox, projects.",
+  "timeline": "- **2001-01-29** | First recorded email in corpus\n- **2002-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/judy-lin",
+    "name": "Judy Lin",
+    "email": "judy.lin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

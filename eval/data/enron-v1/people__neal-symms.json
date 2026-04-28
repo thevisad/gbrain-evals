@@ -1,0 +1,14 @@
+{
+  "slug": "people/neal-symms",
+  "type": "person",
+  "title": "Neal Symms",
+  "compiled_truth": "Neal Symms is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Neal Symms sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/neal-symms",
+    "name": "Neal Symms",
+    "email": "neal.symms@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

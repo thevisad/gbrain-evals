@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-clark",
+  "type": "person",
+  "title": "Mary Clark",
+  "compiled_truth": "Mary Clark is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-11), Mary Clark sent 24 and received 232 emails, totalling 256 interactions. Top correspondents: [Karen Denne](people/karen-denne) (13), [Steven Kean](people/steven-kean) (11), [Maureen Mcvicker](people/maureen-mcvicker) (7), [Jeff Skilling](people/jeff-skilling) (6), [J  Kean](people/j-kean) (6). Mailbox folders observed: deleted_items, inbox, internal_communications, pr___notre_dame.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-clark",
+    "name": "Mary Clark",
+    "email": "mary.clark@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

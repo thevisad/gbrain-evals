@@ -1,0 +1,14 @@
+{
+  "slug": "people/barbara-mcauliffe",
+  "type": "person",
+  "title": "Barbara Mcauliffe",
+  "compiled_truth": "Barbara Mcauliffe is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-19 to 2001-06-20), Barbara Mcauliffe sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2001-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barbara-mcauliffe",
+    "name": "Barbara Mcauliffe",
+    "email": "barbara.mcauliffe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

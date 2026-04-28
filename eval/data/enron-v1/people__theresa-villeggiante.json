@@ -1,0 +1,14 @@
+{
+  "slug": "people/theresa-villeggiante",
+  "type": "person",
+  "title": "Theresa Villeggiante",
+  "compiled_truth": "Theresa Villeggiante is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-30 to 2002-04-29), Theresa Villeggiante sent 14 and received 47 emails, totalling 61 interactions. Top correspondents: [Matt Motley](people/matt-motley) (8), [M  Driscoll](people/m-driscoll) (7), [Mike Swerzbin](people/mike-swerzbin) (7), [Bill Williams](people/bill-williams) (7), [Robert Badeer](people/robert-badeer) (6). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-11-30** | First recorded email in corpus\n- **2002-04-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/theresa-villeggiante",
+    "name": "Theresa Villeggiante",
+    "email": "theresa.villeggiante@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

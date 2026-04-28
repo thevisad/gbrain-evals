@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenny-soignet",
+  "type": "person",
+  "title": "Kenny Soignet",
+  "compiled_truth": "Kenny Soignet is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-06), Kenny Soignet sent 61 and received 62 emails, totalling 123 interactions. Top correspondents: [Jim Schwieger](people/jim-schwieger) (54), [Janet Dietrich](people/janet-dietrich) (53), [Calvin Johnson](people/calvin-johnson) (53), [Heather Kendall](people/heather-kendall) (53), [Colleen Sullivan](people/colleen-sullivan) (53). Mailbox folders observed: deleted_items, inbox, storage.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenny-soignet",
+    "name": "Kenny Soignet",
+    "email": "kenny.soignet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

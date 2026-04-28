@@ -1,0 +1,14 @@
+{
+  "slug": "people/renee-anderson",
+  "type": "person",
+  "title": "Renee Anderson",
+  "compiled_truth": "Renee Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-15 to 2001-07-19), Renee Anderson sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-12-15** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/renee-anderson",
+    "name": "Renee Anderson",
+    "email": "renee.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

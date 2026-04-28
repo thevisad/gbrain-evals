@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-sandling",
+  "type": "person",
+  "title": "Robert Sandling",
+  "compiled_truth": "Robert Sandling is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-06), Robert Sandling sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Tana Jones](people/tana-jones) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-sandling",
+    "name": "Robert Sandling",
+    "email": "robert.sandling@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

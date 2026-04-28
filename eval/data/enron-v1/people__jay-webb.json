@@ -1,0 +1,14 @@
+{
+  "slug": "people/jay-webb",
+  "type": "person",
+  "title": "Jay Webb",
+  "compiled_truth": "Jay Webb is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-27 to 2002-02-06), Jay Webb sent 78 and received 552 emails, totalling 630 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (62), [John Lavorato](people/john-lavorato) (14), [Mark Pickering](people/mark-pickering) (11), [Greg Piper](people/greg-piper) (11), [Andy Zipper](people/andy-zipper) (10). Mailbox folders observed: _americas, deleted_items, inbox, pr_crisis_management.",
+  "timeline": "- **1999-05-27** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jay-webb",
+    "name": "Jay Webb",
+    "email": "jay.webb@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cindy-olson",
+  "type": "person",
+  "title": "Cindy Olson",
+  "compiled_truth": "Cindy Olson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Cindy Olson sent 30 and received 565 emails, totalling 595 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (10), [Steven Kean](people/steven-kean) (5), [Danny Mccarty](people/danny-mccarty) (5), [Michelle Cash](people/michelle-cash) (4), [Elyse Kalmans](people/elyse-kalmans) (4). Mailbox folders observed: _americas, deleted_items, inbox, integration, meeting_invites_confirms.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cindy-olson",
+    "name": "Cindy Olson",
+    "email": "cindy.olson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

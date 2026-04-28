@@ -1,0 +1,14 @@
+{
+  "slug": "people/davis-maxey",
+  "type": "person",
+  "title": "Davis Maxey",
+  "compiled_truth": "Davis Maxey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-02 to 2001-03-28), Davis Maxey sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-05-02** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/davis-maxey",
+    "name": "Davis Maxey",
+    "email": "davis.maxey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

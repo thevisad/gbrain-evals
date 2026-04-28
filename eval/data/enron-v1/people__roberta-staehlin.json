@@ -1,0 +1,14 @@
+{
+  "slug": "people/roberta-staehlin",
+  "type": "person",
+  "title": "Roberta Staehlin",
+  "compiled_truth": "Roberta Staehlin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2001-11-30), Roberta Staehlin sent 3 and received 100 emails, totalling 103 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (3), [Susan Mara](people/susan-mara) (1), [Chris Holmes](people/chris-holmes) (1), [Joseph Alamo](people/joseph-alamo) (1).",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roberta-staehlin",
+    "name": "Roberta Staehlin",
+    "email": "roberta.staehlin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

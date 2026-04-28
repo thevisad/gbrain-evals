@@ -1,0 +1,14 @@
+{
+  "slug": "people/erika-breen",
+  "type": "person",
+  "title": "Erika Breen",
+  "compiled_truth": "Erika Breen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-11-08), Erika Breen sent 0 and received 47 emails, totalling 47 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/erika-breen",
+    "name": "Erika Breen",
+    "email": "erika.breen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

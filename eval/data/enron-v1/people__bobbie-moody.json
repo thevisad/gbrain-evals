@@ -1,0 +1,14 @@
+{
+  "slug": "people/bobbie-moody",
+  "type": "person",
+  "title": "Bobbie Moody",
+  "compiled_truth": "Bobbie Moody is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2002-05-06), Bobbie Moody sent 3 and received 36 emails, totalling 39 interactions. Top correspondents: [Tax Worldwide](people/tax-worldwide) (1), [Kent Castleman](people/kent-castleman) (1), [Sally Beck](people/sally-beck) (1), [Howard Selzer](people/howard-selzer) (1), [Wes Colwell](people/wes-colwell) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bobbie-moody",
+    "name": "Bobbie Moody",
+    "email": "bobbie.moody@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

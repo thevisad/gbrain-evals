@@ -1,0 +1,14 @@
+{
+  "slug": "people/dshah-haas",
+  "type": "person",
+  "title": "Dshah",
+  "compiled_truth": "Dshah is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-02 to 2001-12-14), Dshah sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **1999-11-02** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dshah-haas",
+    "name": "Dshah",
+    "email": "dshah@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

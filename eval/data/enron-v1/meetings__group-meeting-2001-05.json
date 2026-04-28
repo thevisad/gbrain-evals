@@ -1,0 +1,27 @@
+{
+  "slug": "meetings/group-meeting-2001-05",
+  "type": "meeting",
+  "title": "Meeting: Group Meeting",
+  "compiled_truth": "Meeting: \"Group Meeting\". Occurred 2001-05-01 through 2001-05-01 with 3 related emails. Participants included: [Anne Koehler](people/anne-koehler), [Brent Hendry](people/brent-hendry), [Carol Clair](people/carol-clair), [Cheryl Nelson](people/cheryl-nelson), [Francisco Leite](people/francisco-leite), [Frank Sayre](people/frank-sayre), [Mark Taylor](people/mark-taylor), [Mary Cook](people/mary-cook)....",
+  "timeline": "- **2001-05-01** | Meeting: group meeting\n- **2001-05-01** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/group-meeting-2001-05",
+    "attendees": [
+      "people/anne-koehler",
+      "people/brent-hendry",
+      "people/carol-clair",
+      "people/cheryl-nelson",
+      "people/francisco-leite",
+      "people/frank-sayre",
+      "people/mark-taylor",
+      "people/mary-cook",
+      "people/samantha-boyd",
+      "people/sara-shackleton",
+      "people/stephanie-panus",
+      "people/susan-bailey",
+      "people/tana-jones"
+    ],
+    "date": "2001-05-01"
+  }
+}

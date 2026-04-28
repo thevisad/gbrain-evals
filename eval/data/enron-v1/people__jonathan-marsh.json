@@ -1,0 +1,14 @@
+{
+  "slug": "people/jonathan-marsh",
+  "type": "person",
+  "title": "Jonathan Marsh",
+  "compiled_truth": "Jonathan Marsh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2001-11-10), Jonathan Marsh sent 3 and received 50 emails, totalling 53 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2), [Robert Bruce](people/robert-bruce) (1), [Justin Boyd](people/justin-boyd) (1), [ Taylor](people/taylor) (1), [Paul Simons](people/paul-simons) (1). Mailbox folders observed: inbox, stored_messages.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jonathan-marsh",
+    "name": "Jonathan Marsh",
+    "email": "jonathan.marsh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

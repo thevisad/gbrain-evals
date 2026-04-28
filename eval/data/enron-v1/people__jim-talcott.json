@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-talcott",
+  "type": "person",
+  "title": "Jim Talcott",
+  "compiled_truth": "Jim Talcott is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2002-02-26), Jim Talcott sent 1 and received 198 emails, totalling 199 interactions. Top correspondents: [Mary Miller](people/mary-miller) (1), [Tim Kissner](people/tim-kissner) (1), [Mike Mcgowan](people/mike-mcgowan) (1), [Drew Fossum](people/drew-fossum) (1), [Fkelly](people/fkelly-gbmdc) (1).",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2002-02-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-talcott",
+    "name": "Jim Talcott",
+    "email": "jim.talcott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

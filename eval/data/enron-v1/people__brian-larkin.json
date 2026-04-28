@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-larkin",
+  "type": "person",
+  "title": "Brian Larkin",
+  "compiled_truth": "Brian Larkin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-13), Brian Larkin sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-larkin",
+    "name": "Brian Larkin",
+    "email": "brian.larkin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

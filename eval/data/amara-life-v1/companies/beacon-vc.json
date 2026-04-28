@@ -1,0 +1,18 @@
+{
+  "slug": "companies/beacon-vc",
+  "type": "company",
+  "title": "Beacon VC",
+  "compiled_truth": "Beacon VC is a venture capital firm. Employees: kofi-mensah.",
+  "timeline": "- **2026-04-13** | company indexed",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/beacon-vc",
+    "name": "Beacon VC",
+    "founders": [],
+    "employees": [
+      "people/kofi-mensah"
+    ],
+    "investors": [],
+    "advisors": []
+  }
+}

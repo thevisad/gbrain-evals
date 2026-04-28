@@ -1,0 +1,14 @@
+{
+  "slug": "people/frthis-aol",
+  "type": "person",
+  "title": "Frthis",
+  "compiled_truth": "Frthis is an external contact at [AOL](companies/aol). Over the corpus period (2001-07-02 to 2002-01-29), Frthis sent 11 and received 24 emails, totalling 35 interactions. Top correspondents: [Dutch Quigley](people/dutch-quigley) (4), [Kayquigs](people/kayquigs-yahoo) (1), [Bwdunlavy](people/bwdunlavy-yahoo) (1), [Uhffl2001](people/uhffl2001-football) (1).",
+  "timeline": "- **2001-07-02** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frthis-aol",
+    "name": "Frthis",
+    "email": "frthis@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

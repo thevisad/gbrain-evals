@@ -1,0 +1,14 @@
+{
+  "slug": "people/gerald-skertich",
+  "type": "person",
+  "title": "Gerald Skertich",
+  "compiled_truth": "Gerald Skertich is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-26 to 2002-02-20), Gerald Skertich sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2001-07-26** | First recorded email in corpus\n- **2002-02-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gerald-skertich",
+    "name": "Gerald Skertich",
+    "email": "gerald.skertich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

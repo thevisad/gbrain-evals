@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebecca-griffin",
+  "type": "person",
+  "title": "Rebecca Griffin",
+  "compiled_truth": "Rebecca Griffin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2001-07-17), Rebecca Griffin sent 13 and received 69 emails, totalling 82 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (9), [Danny Conner](people/danny-conner) (1), [Megan Parker](people/megan-parker) (1), [Sherlyn Schumack](people/sherlyn-schumack) (1), [J  Farmer](people/j-farmer) (1). Mailbox folders observed: industrials, logistics, tufco.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2001-07-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebecca-griffin",
+    "name": "Rebecca Griffin",
+    "email": "rebecca.griffin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

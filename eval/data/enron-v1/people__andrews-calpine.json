@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrews-calpine",
+  "type": "person",
+  "title": "Andrews",
+  "compiled_truth": "Andrews is an external contact at [Calpine](companies/calpine). Over the corpus period (2000-02-01 to 2002-02-22), Andrews sent 5 and received 40 emails, totalling 45 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (4), [Bryan Kimzey](people/bryan-kimzey-csfb) (1), [Mark](people/mark-junell) (1), [Johnston Nicholas](people/johnston-nicholas-jpmorgan) (1), [Rpaddock](people/rpaddock-hotmail) (1).",
+  "timeline": "- **2000-02-01** | First recorded email in corpus\n- **2002-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrews-calpine",
+    "name": "Andrews",
+    "email": "andrews@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

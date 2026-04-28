@@ -1,0 +1,14 @@
+{
+  "slug": "people/ava-syon",
+  "type": "person",
+  "title": "Ava Syon",
+  "compiled_truth": "Ava Syon is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2002-05-06), Ava Syon sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ava-syon",
+    "name": "Ava Syon",
+    "email": "ava.syon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

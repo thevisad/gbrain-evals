@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-metts",
+  "type": "person",
+  "title": "Mark Metts",
+  "compiled_truth": "Mark Metts is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-24), Mark Metts sent 18 and received 242 emails, totalling 260 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (9), [Adam Umanoff](people/adam-umanoff) (6), [Amit Walia](people/amit-walia) (4), [Lance Schuler-Legal](people/lance-schuler-legal) (3), [Jessica Uhl](people/jessica-uhl) (2). Mailbox folders observed: deleted_items, granite__2_, inbox, tax_issues.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-metts",
+    "name": "Mark Metts",
+    "email": "mark.metts@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mschneider-duke-energy",
+  "type": "person",
+  "title": "Mschneider",
+  "compiled_truth": "Mschneider is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2001-06-11 to 2002-03-25), Mschneider sent 32 and received 7 emails, totalling 39 interactions. Top correspondents: [Amy Mulligan](people/amy-mulligan) (32), [Bert Hernandez](people/bert-hernandez) (32), [Beverly Miller](people/beverly-miller) (32), [Linda Ward](people/linda-ward) (32), [Christine Mcevoy](people/christine-mcevoy) (32).",
+  "timeline": "- **2001-06-11** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mschneider-duke-energy",
+    "name": "Mschneider",
+    "email": "mschneider@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

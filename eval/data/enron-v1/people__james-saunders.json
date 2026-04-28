@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-saunders",
+  "type": "person",
+  "title": "James Saunders",
+  "compiled_truth": "James Saunders is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-04-26), James Saunders sent 102 and received 537 emails, totalling 639 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (85), [John Cobb](people/john-cobb) (35), [Bob Chandler](people/bob-chandler) (32), [Tracy Geaccone](people/tracy-geaccone) (28), [Lisa Sutton](people/lisa-sutton) (18). Mailbox folders observed: accounting, calendar, deleted_items, inbox, projects.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-saunders",
+    "name": "James Saunders",
+    "email": "james.saunders@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

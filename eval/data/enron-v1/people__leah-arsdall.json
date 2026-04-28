@@ -1,0 +1,14 @@
+{
+  "slug": "people/leah-arsdall",
+  "type": "person",
+  "title": "Leah Arsdall",
+  "compiled_truth": "Leah Arsdall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-11-22), Leah Arsdall sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Enron Staff](people/enron-staff) (1).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2000-11-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leah-arsdall",
+    "name": "Leah Arsdall",
+    "email": "leah.arsdall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

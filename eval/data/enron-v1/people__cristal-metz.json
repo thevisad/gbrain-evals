@@ -1,0 +1,14 @@
+{
+  "slug": "people/cristal-metz",
+  "type": "person",
+  "title": "Cristal Metz",
+  "compiled_truth": "Cristal Metz is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2002-01-08), Cristal Metz sent 5 and received 5 emails, totalling 10 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (5), [Rick Buy](people/rick-buy) (4), [Kristin Stathis](people/kristin-stathis) (3), [Frank Hayden](people/frank-hayden) (3), [Jim Piro](people/jim-piro) (2). Mailbox folders observed: deleted_items, inbox, projects.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2002-01-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cristal-metz",
+    "name": "Cristal Metz",
+    "email": "cristal.metz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

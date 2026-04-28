@@ -1,0 +1,14 @@
+{
+  "slug": "people/gerald-nemec",
+  "type": "person",
+  "title": "Gerald Nemec",
+  "compiled_truth": "Gerald Nemec is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2002-03-01), Gerald Nemec sent 3814 and received 3952 emails, totalling 7766 interactions. Top correspondents: [Eric Gillaspie](people/eric-gillaspie) (282), [Mark Whitt](people/mark-whitt) (226), [Mark Knippa](people/mark-knippa) (200), [Barry Tycholiz](people/barry-tycholiz) (185), [Shonnie Daniel](people/shonnie-daniel) (159). Mailbox folders observed: _americas, cleburne_plant____cornhusker_, deleted_items, inbox, sent, sent_items.",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gerald-nemec",
+    "name": "Gerald Nemec",
+    "email": "gerald.nemec@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-krause",
+  "type": "person",
+  "title": "Greg Krause",
+  "compiled_truth": "Greg Krause is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-10 to 2001-12-06), Greg Krause sent 37 and received 133 emails, totalling 170 interactions. Top correspondents: [Kay Mann](people/kay-mann) (37), [Ben Jacoby](people/ben-jacoby) (6), [\"\"Boehler](people/boehler) (4), [Chrisboehler](people/chrisboehler-akllp) (4), [Laymand](people/laymand-gtlaw) (4). Mailbox folders observed: florida, inbox, notes_inbox.",
+  "timeline": "- **2000-05-10** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-krause",
+    "name": "Greg Krause",
+    "email": "greg.krause@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

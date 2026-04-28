@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-tobias",
+  "type": "person",
+  "title": "Kevin Tobias",
+  "compiled_truth": "Kevin Tobias is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-21 to 2002-03-21), Kevin Tobias sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-03-21** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-tobias",
+    "name": "Kevin Tobias",
+    "email": "kevin.tobias@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

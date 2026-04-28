@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-yanowski",
+  "type": "person",
+  "title": "J  Yanowski",
+  "compiled_truth": "J  Yanowski is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-30 to 2002-05-18), J  Yanowski sent 9 and received 37 emails, totalling 46 interactions. Top correspondents: [Beth Perlman](people/beth-perlman) (5), [Sally Beck](people/sally-beck) (5), [Greg Piper](people/greg-piper) (5), [Mark Pickering](people/mark-pickering) (4), [Kerry Roper](people/kerry-roper) (4). Mailbox folders observed: _americas, inbox, it.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2002-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-yanowski",
+    "name": "J  Yanowski",
+    "email": "j..yanowski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/pdiaz-khou",
+  "type": "person",
+  "title": "Pdiaz",
+  "compiled_truth": "Pdiaz is an external contact at [Khou](companies/khou). Over the corpus period (2000-11-13 to 2001-11-09), Pdiaz sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pdiaz-khou",
+    "name": "Pdiaz",
+    "email": "pdiaz@khou.com",
+    "primary_affiliation": "companies/khou"
+  }
+}

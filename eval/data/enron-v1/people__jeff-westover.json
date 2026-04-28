@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-westover",
+  "type": "person",
+  "title": "Jeff Westover",
+  "compiled_truth": "Jeff Westover is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2000-10-31), Jeff Westover sent 2 and received 88 emails, totalling 90 interactions. Top correspondents: [Chris Germany](people/chris-germany) (2).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2000-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-westover",
+    "name": "Jeff Westover",
+    "email": "jeff.westover@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

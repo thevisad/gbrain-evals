@@ -1,0 +1,14 @@
+{
+  "slug": "people/darralyn-briskey",
+  "type": "person",
+  "title": "Darralyn Briskey",
+  "compiled_truth": "Darralyn Briskey is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-21 to 2002-05-06), Darralyn Briskey sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2002-03-21** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darralyn-briskey",
+    "name": "Darralyn Briskey",
+    "email": "darralyn.briskey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

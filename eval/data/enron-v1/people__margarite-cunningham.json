@@ -1,0 +1,14 @@
+{
+  "slug": "people/margarite-cunningham",
+  "type": "person",
+  "title": "Margarite Cunningham",
+  "compiled_truth": "Margarite Cunningham is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2001-11-27), Margarite Cunningham sent 2 and received 30 emails, totalling 32 interactions. Top correspondents: [Beth Apollo](people/beth-apollo) (2), [Sally Beck](people/sally-beck) (2), [Philippe Bibi](people/philippe-bibi) (2), [Bob Butts](people/bob-butts) (2), [Cindy Olson](people/cindy-olson) (2).",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margarite-cunningham",
+    "name": "Margarite Cunningham",
+    "email": "margarite.cunningham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

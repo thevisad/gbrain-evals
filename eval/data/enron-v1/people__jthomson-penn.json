@@ -1,0 +1,14 @@
+{
+  "slug": "people/jthomson-penn",
+  "type": "person",
+  "title": "Jthomson",
+  "compiled_truth": "Jthomson is an external contact at [Penn](companies/penn). Over the corpus period (1999-09-24 to 2001-01-26), Jthomson sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-01-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jthomson-penn",
+    "name": "Jthomson",
+    "email": "jthomson@penn.com",
+    "primary_affiliation": "companies/penn"
+  }
+}

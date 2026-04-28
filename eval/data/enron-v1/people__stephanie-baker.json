@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephanie-baker",
+  "type": "person",
+  "title": "Stephanie Baker",
+  "compiled_truth": "Stephanie Baker is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-24 to 2001-10-12), Stephanie Baker sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-09-24** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephanie-baker",
+    "name": "Stephanie Baker",
+    "email": "stephanie.baker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

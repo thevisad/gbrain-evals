@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-bergsieker",
+  "type": "person",
+  "title": "Rick Bergsieker",
+  "compiled_truth": "Rick Bergsieker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2001-09-17), Rick Bergsieker sent 22 and received 191 emails, totalling 213 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (21), [Clay Harris](people/clay-harris) (4), [Daniel Rogers](people/daniel-rogers) (2), [Maurizio Noce](people/maurizio-noce) (2), [John Ambler](people/john-ambler) (2).",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2001-09-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-bergsieker",
+    "name": "Rick Bergsieker",
+    "email": "rick.bergsieker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

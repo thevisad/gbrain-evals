@@ -1,0 +1,14 @@
+{
+  "slug": "people/neil-hand-dell",
+  "type": "person",
+  "title": "Neil Hand",
+  "compiled_truth": "Neil Hand is an external contact at [Dell](companies/dell). Over the corpus period (2001-03-02 to 2001-04-30), Neil Hand sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-03-02** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/neil-hand-dell",
+    "name": "Neil Hand",
+    "email": "neil_hand@dell.com",
+    "primary_affiliation": "companies/dell"
+  }
+}

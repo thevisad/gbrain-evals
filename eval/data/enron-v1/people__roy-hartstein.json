@@ -1,0 +1,14 @@
+{
+  "slug": "people/roy-hartstein",
+  "type": "person",
+  "title": "Roy Hartstein",
+  "compiled_truth": "Roy Hartstein is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2002-02-25), Roy Hartstein sent 3 and received 18 emails, totalling 21 interactions. Top correspondents: [Danielle Marcinkowski](people/danielle-marcinkowski) (3), [Avril Forster](people/avril-forster) (3), [W  Vickers](people/w-vickers) (3), [Barry Tycholiz](people/barry-tycholiz) (3), [S  Shively](people/s-shively) (3). Mailbox folders observed: calendar, inbox.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roy-hartstein",
+    "name": "Roy Hartstein",
+    "email": "roy.hartstein@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

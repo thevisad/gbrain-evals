@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas-meyers",
+  "type": "person",
+  "title": "Thomas Meyers",
+  "compiled_truth": "Thomas Meyers is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-18 to 2002-01-15), Thomas Meyers sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-07-18** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas-meyers",
+    "name": "Thomas Meyers",
+    "email": "thomas.meyers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

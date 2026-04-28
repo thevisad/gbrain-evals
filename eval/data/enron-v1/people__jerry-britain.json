@@ -1,0 +1,14 @@
+{
+  "slug": "people/jerry-britain",
+  "type": "person",
+  "title": "Jerry Britain",
+  "compiled_truth": "Jerry Britain is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-06-11), Jerry Britain sent 2 and received 14 emails, totalling 16 interactions. Top correspondents: [James Armstrong](people/james-armstrong) (2), [A  Aune](people/a-aune) (2), [Tammy Barta](people/tammy-barta) (2), [Lisa Best](people/lisa-best) (2), [Toni Bustamante](people/toni-bustamante) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jerry-britain",
+    "name": "Jerry Britain",
+    "email": "jerry.britain@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

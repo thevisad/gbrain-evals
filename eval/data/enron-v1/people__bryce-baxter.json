@@ -1,0 +1,14 @@
+{
+  "slug": "people/bryce-baxter",
+  "type": "person",
+  "title": "Bryce Baxter",
+  "compiled_truth": "Bryce Baxter is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2002-03-01), Bryce Baxter sent 17 and received 465 emails, totalling 482 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (5), [Leslie Reeves](people/leslie-reeves) (4), [T  Hodge](people/t-hodge) (4), [Melissa Ratnala](people/melissa-ratnala) (3), [Susan Harrison](people/susan-harrison) (3). Mailbox folders observed: deleted_items, inbox, logistics, to_do.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bryce-baxter",
+    "name": "Bryce Baxter",
+    "email": "bryce.baxter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

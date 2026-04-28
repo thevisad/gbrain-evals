@@ -1,0 +1,14 @@
+{
+  "slug": "people/don-baldridge",
+  "type": "person",
+  "title": "Don Baldridge",
+  "compiled_truth": "Don Baldridge is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-12-10), Don Baldridge sent 5 and received 46 emails, totalling 51 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (4), [Mark Whitt](people/mark-whitt) (2), [Shonnie Daniel](people/shonnie-daniel) (2), [T  Lucci](people/t-lucci) (1), [Tyrell Harrison](people/tyrell-harrison) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/don-baldridge",
+    "name": "Don Baldridge",
+    "email": "don.baldridge@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-dieball",
+  "type": "person",
+  "title": "Scott Dieball",
+  "compiled_truth": "Scott Dieball is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Scott Dieball sent 36 and received 284 emails, totalling 320 interactions. Top correspondents: [Kay Mann](people/kay-mann) (33), [Sheila Tweed](people/sheila-tweed) (31), [Roseann Engeldorf](people/roseann-engeldorf) (16), [John Rigby](people/john-rigby) (16), [Pthompson](people/pthompson-akllp) (12). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-dieball",
+    "name": "Scott Dieball",
+    "email": "scott.dieball@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-frank",
+  "type": "person",
+  "title": "Mark Frank",
+  "compiled_truth": "Mark Frank is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-29), Mark Frank sent 3 and received 63 emails, totalling 66 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (2), [James Saunders](people/james-saunders) (2), [Melissa Becker](people/melissa-becker) (2), [David Mcellin](people/david-mcellin) (2), [Ozlem Mahmood](people/ozlem-mahmood) (2).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-frank",
+    "name": "Mark Frank",
+    "email": "mark.frank@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

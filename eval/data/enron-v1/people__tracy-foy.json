@@ -1,0 +1,14 @@
+{
+  "slug": "people/tracy-foy",
+  "type": "person",
+  "title": "Tracy Foy",
+  "compiled_truth": "Tracy Foy is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-11 to 2001-11-16), Tracy Foy sent 5 and received 36 emails, totalling 41 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (2), [Bimonthly](people/bimonthly) (1), [Mark Haedicke](people/mark-haedicke) (1), [Janette Elbertson](people/janette-elbertson) (1), [Mark Schroeder](people/mark-schroeder) (1).",
+  "timeline": "- **1999-06-11** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tracy-foy",
+    "name": "Tracy Foy",
+    "email": "tracy.foy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

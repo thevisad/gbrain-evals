@@ -1,0 +1,14 @@
+{
+  "slug": "people/smiller-aba",
+  "type": "person",
+  "title": "Smiller",
+  "compiled_truth": "Smiller is an external contact at [Aba](companies/aba). Over the corpus period (2001-11-06 to 2001-11-16), Smiller sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-11-06** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/smiller-aba",
+    "name": "Smiller",
+    "email": "smiller@aba.com",
+    "primary_affiliation": "companies/aba"
+  }
+}

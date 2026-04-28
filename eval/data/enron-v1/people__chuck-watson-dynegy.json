@@ -1,0 +1,14 @@
+{
+  "slug": "people/chuck-watson-dynegy",
+  "type": "person",
+  "title": "Chuck Watson",
+  "compiled_truth": "Chuck Watson is an external contact at [Dynegy](companies/dynegy). Over the corpus period (2001-06-04 to 2002-01-05), Chuck Watson sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2002-01-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chuck-watson-dynegy",
+    "name": "Chuck Watson",
+    "email": "chuck.watson@dynegy.com",
+    "primary_affiliation": "companies/dynegy"
+  }
+}

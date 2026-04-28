@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-kennedy",
+  "type": "person",
+  "title": "L  Kennedy",
+  "compiled_truth": "L  Kennedy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-18 to 2002-05-06), L  Kennedy sent 2 and received 10 emails, totalling 12 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (2). Mailbox folders observed: personal.",
+  "timeline": "- **2001-05-18** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-kennedy",
+    "name": "L  Kennedy",
+    "email": "l..kennedy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

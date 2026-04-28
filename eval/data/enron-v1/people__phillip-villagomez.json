@@ -1,0 +1,14 @@
+{
+  "slug": "people/phillip-villagomez",
+  "type": "person",
+  "title": "Phillip Villagomez",
+  "compiled_truth": "Phillip Villagomez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-25 to 2000-06-30), Phillip Villagomez sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Chris Germany](people/chris-germany) (1).",
+  "timeline": "- **2000-01-25** | First recorded email in corpus\n- **2000-06-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/phillip-villagomez",
+    "name": "Phillip Villagomez",
+    "email": "phillip.villagomez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

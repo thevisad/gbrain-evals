@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/meeting-confirmation-monday-dec-11-2000-12",
+  "type": "meeting",
+  "title": "Meeting: Meeting Confirmation - Monday, Dec. 11",
+  "compiled_truth": "Meeting: \"Meeting Confirmation - Monday, Dec. 11\". Occurred 2000-12-08 through 2000-12-11 with 2 related emails. Participants included: [Deb Cappiello](people/deb-cappiello), [Drew Fossum](people/drew-fossum), [Frank Oldenhuis](people/frank-oldenhuis), [John Dushinske](people/john-dushinske), [Kent Miller](people/kent-miller), [Martha Benner](people/martha-benner), [Mary Miller](people/mary-miller), [Rosemary Gracey](people/rosemary-gracey)....",
+  "timeline": "- **2000-12-08** | Meeting: meeting confirmation - monday, dec. 11\n- **2000-12-11** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-confirmation-monday-dec-11-2000-12",
+    "attendees": [
+      "people/deb-cappiello",
+      "people/drew-fossum",
+      "people/frank-oldenhuis",
+      "people/john-dushinske",
+      "people/kent-miller",
+      "people/martha-benner",
+      "people/mary-miller",
+      "people/rosemary-gracey",
+      "people/sharon-solon",
+      "people/sue-neville"
+    ],
+    "date": "2000-12-08"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bfpjv-c-zone",
+  "type": "person",
+  "title": "Bfpjv",
+  "compiled_truth": "Bfpjv is an external contact at [C-zone](companies/c-zone). Over the corpus period (2000-08-31 to 2001-04-15), Bfpjv sent 1 and received 116 emails, totalling 117 interactions. Top correspondents: [Steven](people/steven-iepa) (1), [Wfhall2](people/wfhall2-duke-energy) (1), [Wscobee](people/wscobee-caithnessenergy) (1), [Taschehoug](people/taschehoug-thermoecotek) (1), [Twetzel](people/twetzel-thermoecotek) (1).",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-04-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bfpjv-c-zone",
+    "name": "Bfpjv",
+    "email": "bfpjv@c-zone.net",
+    "primary_affiliation": "companies/c-zone"
+  }
+}

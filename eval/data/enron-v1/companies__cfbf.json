@@ -1,0 +1,20 @@
+{
+  "slug": "companies/cfbf",
+  "type": "company",
+  "title": "Cfbf",
+  "compiled_truth": "Cfbf is an external organization that appears in the Enron email corpus. Domain: cfbf.com. Total email interactions with Enron: 293. Known contacts: 3 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (293 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/cfbf",
+    "name": "Cfbf",
+    "employees": [
+      "people/kmills-cfbf",
+      "people/pvenosdel-cfbf",
+      "people/rliebert-cfbf"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

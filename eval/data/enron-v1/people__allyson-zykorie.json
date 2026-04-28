@@ -1,0 +1,14 @@
+{
+  "slug": "people/allyson-zykorie",
+  "type": "person",
+  "title": "Allyson Zykorie",
+  "compiled_truth": "Allyson Zykorie is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-11 to 2001-10-23), Allyson Zykorie sent 4 and received 5 emails, totalling 9 interactions. Top correspondents: [Gina Corteselli](people/gina-corteselli) (3), [Richard Shapiro](people/richard-shapiro) (3), [Ginger Dernehl](people/ginger-dernehl) (3), [Erin Kanouff](people/erin-kanouff) (2), [Elspeth Inglis](people/elspeth-inglis) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-06-11** | First recorded email in corpus\n- **2001-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/allyson-zykorie",
+    "name": "Allyson Zykorie",
+    "email": "allyson.zykorie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

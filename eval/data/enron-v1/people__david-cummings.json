@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-cummings",
+  "type": "person",
+  "title": "David Cummings",
+  "compiled_truth": "David Cummings is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2001-05-03), David Cummings sent 1 and received 6 emails, totalling 7 interactions. Top correspondents: [Lucy Marshall](people/lucy-marshall) (1), [Tamara Black](people/tamara-black) (1), [Angie Collins](people/angie-collins) (1), [Betty Coneway](people/betty-coneway) (1), [Stacy Weatherly](people/stacy-weatherly) (1).",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2001-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-cummings",
+    "name": "David Cummings",
+    "email": "david.cummings@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

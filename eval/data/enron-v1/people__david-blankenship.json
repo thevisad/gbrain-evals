@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-blankenship",
+  "type": "person",
+  "title": "David Blankenship",
+  "compiled_truth": "David Blankenship is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2000-10-09), David Blankenship sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [Maureen Mcvicker](people/maureen-mcvicker) (1), [Steven Kean](people/steven-kean) (1), [Michael Slayton](people/michael-slayton) (1).",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2000-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-blankenship",
+    "name": "David Blankenship",
+    "email": "david.blankenship@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

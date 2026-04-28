@@ -1,0 +1,14 @@
+{
+  "slug": "people/smith-donna",
+  "type": "person",
+  "title": "Smith Donna",
+  "compiled_truth": "Smith Donna is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Smith Donna sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/smith-donna",
+    "name": "Smith Donna",
+    "email": "smith.donna@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

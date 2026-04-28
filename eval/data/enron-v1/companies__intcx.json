@@ -1,0 +1,40 @@
+{
+  "slug": "companies/intcx",
+  "type": "company",
+  "title": "Intcx",
+  "compiled_truth": "Intcx is an external organization that appears in the Enron email corpus. Domain: intcx.com. Total email interactions with Enron: 247. Known contacts: 23 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (247 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/intcx",
+    "name": "Intcx",
+    "employees": [
+      "people/chuck-mackie-intcx",
+      "people/chuck-vice-intcx",
+      "people/clowe-intcx",
+      "people/feedback-intcx",
+      "people/gaslist-intcx",
+      "people/helpdesk-intcx",
+      "people/ice-administration-intcx",
+      "people/icehelpdesk-intcx",
+      "people/iceoperations-intcx",
+      "people/internalmarketing-intcx",
+      "people/jeff-sprecher-intcx",
+      "people/jeffrey-sprecher-intcx",
+      "people/john-harding-intcx",
+      "people/ken-adams-intcx",
+      "people/kristi-tharpe-intcx",
+      "people/mark-cartwright-intcx",
+      "people/nyadmin-intcx",
+      "people/panderson-intcx",
+      "people/postmaster-intcx",
+      "people/powerlist-intcx",
+      "people/rudolph-reynolds-intcx",
+      "people/sales-intcx",
+      "people/terry-porter-intcx"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

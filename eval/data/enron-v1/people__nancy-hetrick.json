@@ -1,0 +1,14 @@
+{
+  "slug": "people/nancy-hetrick",
+  "type": "person",
+  "title": "Nancy Hetrick",
+  "compiled_truth": "Nancy Hetrick is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-15 to 2001-12-03), Nancy Hetrick sent 29 and received 278 emails, totalling 307 interactions. Top correspondents: [D  Steffes](people/d-steffes) (14), [Set](people/set-ercot) (10), [Testplan](people/testplan-ercot) (9), [Rms](people/rms-ercot) (8), [L  Nicolay](people/l-nicolay) (7). Mailbox folders observed: credit_issues, deleted_items, inbox, outbox, retail_operations, texas.",
+  "timeline": "- **2000-08-15** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nancy-hetrick",
+    "name": "Nancy Hetrick",
+    "email": "nancy.hetrick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

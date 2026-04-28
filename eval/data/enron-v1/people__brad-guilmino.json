@@ -1,0 +1,14 @@
+{
+  "slug": "people/brad-guilmino",
+  "type": "person",
+  "title": "Brad Guilmino",
+  "compiled_truth": "Brad Guilmino is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-19 to 2001-11-08), Brad Guilmino sent 4 and received 31 emails, totalling 35 interactions. Top correspondents: [E Taylor](people/e-taylor) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-03-19** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brad-guilmino",
+    "name": "Brad Guilmino",
+    "email": "brad.guilmino@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

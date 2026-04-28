@@ -1,0 +1,14 @@
+{
+  "slug": "people/khensman-aeraenergy",
+  "type": "person",
+  "title": "Khensman",
+  "compiled_truth": "Khensman is an external contact at [Aeraenergy](companies/aeraenergy). Over the corpus period (2000-10-09 to 2001-07-31), Khensman sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/khensman-aeraenergy",
+    "name": "Khensman",
+    "email": "khensman@aeraenergy.com",
+    "primary_affiliation": "companies/aeraenergy"
+  }
+}

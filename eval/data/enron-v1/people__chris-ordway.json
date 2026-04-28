@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-ordway",
+  "type": "person",
+  "title": "Chris Ordway",
+  "compiled_truth": "Chris Ordway is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-10 to 2002-02-28), Chris Ordway sent 8 and received 188 emails, totalling 196 interactions. Top correspondents: [Judy Townsend](people/judy-townsend) (8), [Victoria Versen](people/victoria-versen) (7), [Shanna Boudreaux](people/shanna-boudreaux) (2), [Clarissa Garcia](people/clarissa-garcia) (2), [Victor Lamadrid](people/victor-lamadrid) (2). Mailbox folders observed: deleted_items, inbox, pipeinfo.",
+  "timeline": "- **2001-01-10** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-ordway",
+    "name": "Chris Ordway",
+    "email": "chris.ordway@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

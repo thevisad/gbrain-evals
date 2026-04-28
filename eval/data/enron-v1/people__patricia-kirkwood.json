@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-kirkwood",
+  "type": "person",
+  "title": "Patricia Kirkwood",
+  "compiled_truth": "Patricia Kirkwood is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-10 to 2001-05-08), Patricia Kirkwood sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-kirkwood",
+    "name": "Patricia Kirkwood",
+    "email": "patricia.kirkwood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

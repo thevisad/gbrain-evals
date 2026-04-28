@@ -1,0 +1,14 @@
+{
+  "slug": "people/stuart-cichosz",
+  "type": "person",
+  "title": "Stuart Cichosz",
+  "compiled_truth": "Stuart Cichosz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-07 to 2001-11-20), Stuart Cichosz sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-08-07** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stuart-cichosz",
+    "name": "Stuart Cichosz",
+    "email": "stuart.cichosz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

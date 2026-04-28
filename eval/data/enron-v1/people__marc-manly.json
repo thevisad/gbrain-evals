@@ -1,0 +1,14 @@
+{
+  "slug": "people/marc-manly",
+  "type": "person",
+  "title": "Marc Manly",
+  "compiled_truth": "Marc Manly is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-27 to 2001-11-16), Marc Manly sent 3 and received 30 emails, totalling 33 interactions. Top correspondents: [James Derrick](people/james-derrick) (2), [Kathleen Magruder](people/kathleen-magruder) (1), [Mark Haedicke](people/mark-haedicke) (1), [Mark Muller](people/mark-muller) (1), [Jimmie Williams](people/jimmie-williams) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-09-27** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marc-manly",
+    "name": "Marc Manly",
+    "email": "marc.manly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

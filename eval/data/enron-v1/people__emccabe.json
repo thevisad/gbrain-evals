@@ -1,0 +1,14 @@
+{
+  "slug": "people/emccabe",
+  "type": "person",
+  "title": "Emccabe",
+  "compiled_truth": "Emccabe is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-17 to 2000-04-25), Emccabe sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2000-04-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/emccabe",
+    "name": "Emccabe",
+    "email": "emccabe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

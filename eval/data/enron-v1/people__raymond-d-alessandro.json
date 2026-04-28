@@ -1,0 +1,14 @@
+{
+  "slug": "people/raymond-d-alessandro",
+  "type": "person",
+  "title": "Raymond D'Alessandro",
+  "compiled_truth": "Raymond D'Alessandro is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-20 to 2001-11-08), Raymond D'Alessandro sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/raymond-d-alessandro",
+    "name": "Raymond D'Alessandro",
+    "email": "raymond.d'alessandro@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

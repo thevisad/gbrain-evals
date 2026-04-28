@@ -1,0 +1,14 @@
+{
+  "slug": "people/russ-turner-usahq",
+  "type": "person",
+  "title": "Russ Turner",
+  "compiled_truth": "Russ Turner is an external contact at [Usahq](companies/usahq). Over the corpus period (2000-11-13 to 2001-11-09), Russ Turner sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/russ-turner-usahq",
+    "name": "Russ Turner",
+    "email": "russ.turner@usahq.unitedspacealliance.com",
+    "primary_affiliation": "companies/usahq"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/grant-kolling-cerberus",
+  "type": "person",
+  "title": "Grant Kolling",
+  "compiled_truth": "Grant Kolling is an external contact at [Cerberus](companies/cerberus). Over the corpus period (1999-09-24 to 2000-12-13), Grant Kolling sent 0 and received 106 emails, totalling 106 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/grant-kolling-cerberus",
+    "name": "Grant Kolling",
+    "email": "grant_kolling@cerberus.city.palo-alto.ca.us",
+    "primary_affiliation": "companies/cerberus"
+  }
+}

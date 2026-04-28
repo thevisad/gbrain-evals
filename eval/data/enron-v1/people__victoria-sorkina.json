@@ -1,0 +1,14 @@
+{
+  "slug": "people/victoria-sorkina",
+  "type": "person",
+  "title": "Victoria Sorkina",
+  "compiled_truth": "Victoria Sorkina is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-21 to 2002-02-06), Victoria Sorkina sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-07-21** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/victoria-sorkina",
+    "name": "Victoria Sorkina",
+    "email": "victoria.sorkina@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

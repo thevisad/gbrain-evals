@@ -1,0 +1,14 @@
+{
+  "slug": "people/gaby-adamek",
+  "type": "person",
+  "title": "Gaby Adamek",
+  "compiled_truth": "Gaby Adamek is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-19 to 2002-02-14), Gaby Adamek sent 3 and received 9 emails, totalling 12 interactions. Top correspondents: [Amelia Alder](people/amelia-alder) (2), [Betty Alexander](people/betty-alexander) (2), [Kelly Allen](people/kelly-allen) (2), [Monica Eagle](people/monica-eagle) (2), [L  Eisenstein](people/l-eisenstein) (2). Mailbox folders observed: inbox, sent_items.",
+  "timeline": "- **2001-10-19** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gaby-adamek",
+    "name": "Gaby Adamek",
+    "email": "gaby.adamek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

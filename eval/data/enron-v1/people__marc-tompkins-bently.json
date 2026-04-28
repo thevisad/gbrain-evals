@@ -1,0 +1,14 @@
+{
+  "slug": "people/marc-tompkins-bently",
+  "type": "person",
+  "title": "Marc Tompkins",
+  "compiled_truth": "Marc Tompkins is an external contact at [Bently](companies/bently). Over the corpus period (2000-09-01 to 2001-01-23), Marc Tompkins sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marc-tompkins-bently",
+    "name": "Marc Tompkins",
+    "email": "marc.tompkins@bently.com",
+    "primary_affiliation": "companies/bently"
+  }
+}

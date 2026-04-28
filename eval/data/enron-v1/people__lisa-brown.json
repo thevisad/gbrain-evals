@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-brown",
+  "type": "person",
+  "title": "Lisa Brown",
+  "compiled_truth": "Lisa Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-16 to 2002-05-06), Lisa Brown sent 0 and received 80 emails, totalling 80 interactions.",
+  "timeline": "- **2000-11-16** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-brown",
+    "name": "Lisa Brown",
+    "email": "lisa.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

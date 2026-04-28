@@ -1,0 +1,14 @@
+{
+  "slug": "people/gragg-pape",
+  "type": "person",
+  "title": "Gragg Pape",
+  "compiled_truth": "Gragg Pape is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-18 to 2001-12-27), Gragg Pape sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gragg-pape",
+    "name": "Gragg Pape",
+    "email": "gragg.pape@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

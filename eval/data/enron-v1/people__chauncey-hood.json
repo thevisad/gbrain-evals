@@ -1,0 +1,14 @@
+{
+  "slug": "people/chauncey-hood",
+  "type": "person",
+  "title": "Chauncey Hood",
+  "compiled_truth": "Chauncey Hood is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-26 to 2001-10-03), Chauncey Hood sent 1 and received 136 emails, totalling 137 interactions. Top correspondents: [Susan Landwehr](people/susan-landwehr) (1), [Harry Kingerski](people/harry-kingerski) (1), [Lisa Yoho](people/lisa-yoho) (1), [Janine Migden](people/janine-migden) (1), [Barbara Hueter](people/barbara-hueter) (1).",
+  "timeline": "- **2000-05-26** | First recorded email in corpus\n- **2001-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chauncey-hood",
+    "name": "Chauncey Hood",
+    "email": "chauncey.hood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

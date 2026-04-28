@@ -1,0 +1,32 @@
+{
+  "slug": "threads/an-inbound-message-for-you-has-been-quar-2002-01",
+  "type": "meeting",
+  "title": "Thread: An Inbound Message For You Has Been Quarantined",
+  "compiled_truth": "Email thread: \"An Inbound Message For You Has Been Quarantined\". Ran from 2002-01-13 to 2002-02-06 with 40 messages. Participants: [Admin Enron](people/admin-enron), [Christi Culwell](people/christi-culwell), [Crandall](people/crandall-notes), [Dbaughm](people/dbaughm-notes), [Enron Mailsweeper Admin](people/enron-mailsweeper-admin), [Eric Bass](people/eric-bass), [Hshivel](people/hshivel-notes), [Kevin Hyatt](people/kevin-hyatt).",
+  "timeline": "- **2002-01-13** | Thread begins: an inbound message for you has been quarantined\n- **2002-02-06** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/an-inbound-message-for-you-has-been-quar-2002-01",
+    "attendees": [
+      "people/admin-enron",
+      "people/christi-culwell",
+      "people/crandall-notes",
+      "people/dbaughm-notes",
+      "people/enron-mailsweeper-admin",
+      "people/eric-bass",
+      "people/hshivel-notes",
+      "people/kevin-hyatt",
+      "people/lmay2-notes",
+      "people/m-love",
+      "people/melody-gray",
+      "people/michelle-lokay",
+      "people/mmaggi-notes",
+      "people/plove-notes",
+      "people/shanna-husser",
+      "people/swhite-notes",
+      "people/teb-lokey",
+      "people/vkamins-notes"
+    ],
+    "date": "2002-01-13"
+  }
+}

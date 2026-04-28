@@ -1,0 +1,14 @@
+{
+  "slug": "people/kb-quinnemanuel",
+  "type": "person",
+  "title": "Kb",
+  "compiled_truth": "Kb is an external contact at [Quinnemanuel](companies/quinnemanuel). Over the corpus period (2001-01-27 to 2001-05-14), Kb sent 9 and received 34 emails, totalling 43 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (7), [Mtl](people/mtl-quinnemanuel) (2), [Msmith1](people/msmith1) (2), [Awu](people/awu-quinnemanuel) (2), [Dh](people/dh-quinnemanuel) (2).",
+  "timeline": "- **2001-01-27** | First recorded email in corpus\n- **2001-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kb-quinnemanuel",
+    "name": "Kb",
+    "email": "kb@quinnemanuel.com",
+    "primary_affiliation": "companies/quinnemanuel"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-gray",
+  "type": "person",
+  "title": "Mary Gray",
+  "compiled_truth": "Mary Gray is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2001-06-07), Mary Gray sent 31 and received 75 emails, totalling 106 interactions. Top correspondents: [Tana Jones](people/tana-jones) (30), [Claudia Clark](people/claudia-clark) (5), [Stephanie Sever](people/stephanie-sever) (3), [Walter Guidroz](people/walter-guidroz) (2), [Tom Moran](people/tom-moran) (2). Mailbox folders observed: 24_hr_power.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-gray",
+    "name": "Mary Gray",
+    "email": "mary.gray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

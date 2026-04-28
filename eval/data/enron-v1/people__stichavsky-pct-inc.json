@@ -1,0 +1,14 @@
+{
+  "slug": "people/stichavsky-pct-inc",
+  "type": "person",
+  "title": "Stichavsky",
+  "compiled_truth": "Stichavsky is an external contact at [Pct-inc](companies/pct-inc). Over the corpus period (2000-11-06 to 2002-02-06), Stichavsky sent 27 and received 16 emails, totalling 43 interactions. Top correspondents: [Don Baughman](people/don-baughman) (27), [Kubala David](people/kubala-david) (11), [Harrison Dale](people/harrison-dale) (9), [Baughman' 'Travis](people/baughman-travis) (9), [Hoffmann Richard](people/hoffmann-richard) (8).",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stichavsky-pct-inc",
+    "name": "Stichavsky",
+    "email": "stichavsky@pct-inc.com",
+    "primary_affiliation": "companies/pct-inc"
+  }
+}

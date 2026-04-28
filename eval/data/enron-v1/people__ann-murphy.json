@@ -1,0 +1,14 @@
+{
+  "slug": "people/ann-murphy",
+  "type": "person",
+  "title": "Ann Murphy",
+  "compiled_truth": "Ann Murphy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-23 to 2002-01-10), Ann Murphy sent 9 and received 209 emails, totalling 218 interactions. Top correspondents: [W  White](people/w-white) (3), [S  Theriot](people/s-theriot) (3), [Casey Evans](people/casey-evans) (3), [Diana Scholtes](people/diana-scholtes) (2), [Marie Heard](people/marie-heard) (1). Mailbox folders observed: deleted_items, elizabeth_sager, inbox, lt_contracts.",
+  "timeline": "- **2001-03-23** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ann-murphy",
+    "name": "Ann Murphy",
+    "email": "ann.murphy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jayanta-sengupta",
+  "type": "person",
+  "title": "Jayanta Sengupta",
+  "compiled_truth": "Jayanta Sengupta is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-14 to 2002-02-19), Jayanta Sengupta sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-08-14** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jayanta-sengupta",
+    "name": "Jayanta Sengupta",
+    "email": "jayanta.sengupta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

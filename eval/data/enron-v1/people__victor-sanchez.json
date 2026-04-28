@@ -1,0 +1,14 @@
+{
+  "slug": "people/victor-sanchez",
+  "type": "person",
+  "title": "Victor Sanchez",
+  "compiled_truth": "Victor Sanchez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2000-08-15), Victor Sanchez sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2000-08-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/victor-sanchez",
+    "name": "Victor Sanchez",
+    "email": "victor.sanchez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/c-lewis",
+  "type": "person",
+  "title": "C  Lewis",
+  "compiled_truth": "C  Lewis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2002-05-06), C  Lewis sent 3 and received 42 emails, totalling 45 interactions. Top correspondents: [A  Shankman](people/a-shankman) (1), [Raymond Bowen](people/raymond-bowen) (1), [Louise Kitchen](people/louise-kitchen) (1), [Larry Lawyer](people/larry-lawyer) (1), [W  Brown](people/w-brown) (1). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/c-lewis",
+    "name": "C  Lewis",
+    "email": "c..lewis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

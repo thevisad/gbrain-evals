@@ -1,0 +1,14 @@
+{
+  "slug": "people/htebs-huber",
+  "type": "person",
+  "title": "Htebs",
+  "compiled_truth": "Htebs is an external contact at [Huber](companies/huber). Over the corpus period (2000-08-16 to 2001-11-21), Htebs sent 5 and received 31 emails, totalling 36 interactions. Top correspondents: [Mark Whitt](people/mark-whitt) (5), [Gerald Nemec](people/gerald-nemec) (3), [Chris Meyer](people/chris-meyer) (1), [Stephanie Miller](people/stephanie-miller) (1).",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/htebs-huber",
+    "name": "Htebs",
+    "email": "htebs@huber.com",
+    "primary_affiliation": "companies/huber"
+  }
+}

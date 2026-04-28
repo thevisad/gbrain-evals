@@ -1,0 +1,14 @@
+{
+  "slug": "people/johnson-glenn",
+  "type": "person",
+  "title": "Johnson Glenn",
+  "compiled_truth": "Johnson Glenn is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-09 to 2002-03-14), Johnson Glenn sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2002-01-09** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/johnson-glenn",
+    "name": "Johnson Glenn",
+    "email": "johnson.glenn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

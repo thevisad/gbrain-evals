@@ -1,0 +1,14 @@
+{
+  "slug": "people/haedicke-mark",
+  "type": "person",
+  "title": "Haedicke Mark",
+  "compiled_truth": "Haedicke Mark is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-25 to 2001-11-11), Haedicke Mark sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-05-25** | First recorded email in corpus\n- **2001-11-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/haedicke-mark",
+    "name": "Haedicke Mark",
+    "email": "haedicke.mark@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/beth-perlman",
+  "type": "person",
+  "title": "Beth Perlman",
+  "compiled_truth": "Beth Perlman is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-05), Beth Perlman sent 15 and received 562 emails, totalling 577 interactions. Top correspondents: [Sally Beck](people/sally-beck) (8), [Greg Piper](people/greg-piper) (5), [Tim Belden](people/tim-belden) (4), [Louise Kitchen](people/louise-kitchen) (4), [John Lavorato](people/john-lavorato) (3). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beth-perlman",
+    "name": "Beth Perlman",
+    "email": "beth.perlman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

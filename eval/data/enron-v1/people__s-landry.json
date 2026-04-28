@@ -1,0 +1,14 @@
+{
+  "slug": "people/s-landry",
+  "type": "person",
+  "title": "S  Landry",
+  "compiled_truth": "S  Landry is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-23 to 2001-12-06), S  Landry sent 5 and received 132 emails, totalling 137 interactions. Top correspondents: [Marie Heard](people/marie-heard) (2), [Stephanie Panus](people/stephanie-panus) (2), [Susan Bailey](people/susan-bailey) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-04-23** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/s-landry",
+    "name": "S  Landry",
+    "email": "s..landry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

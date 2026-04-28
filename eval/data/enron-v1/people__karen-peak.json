@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-peak",
+  "type": "person",
+  "title": "Karen Peak",
+  "compiled_truth": "Karen Peak is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2000-10-03), Karen Peak sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2000-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-peak",
+    "name": "Karen Peak",
+    "email": "karen.peak@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

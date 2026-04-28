@@ -1,0 +1,14 @@
+{
+  "slug": "people/billw-calpine",
+  "type": "person",
+  "title": "Billw",
+  "compiled_truth": "Billw is an external contact at [Calpine](companies/calpine). Over the corpus period (1999-11-02 to 2001-07-31), Billw sent 0 and received 233 emails, totalling 233 interactions.",
+  "timeline": "- **1999-11-02** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/billw-calpine",
+    "name": "Billw",
+    "email": "billw@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

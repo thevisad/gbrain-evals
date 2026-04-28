@@ -1,0 +1,14 @@
+{
+  "slug": "people/mansoor-abdmoulaie",
+  "type": "person",
+  "title": "Mansoor Abdmoulaie",
+  "compiled_truth": "Mansoor Abdmoulaie is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-09 to 2002-05-06), Mansoor Abdmoulaie sent 37 and received 138 emails, totalling 175 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (22), [Michelle Lokay](people/michelle-lokay) (14), [Morgan Gottsponer](people/morgan-gottsponer) (12), [Perry Frazier](people/perry-frazier) (11), [Kevin Hyatt](people/kevin-hyatt) (10). Mailbox folders observed: deleted_items, e_mail_bin, inbox, projects, tw, tw_commercial_group.",
+  "timeline": "- **2000-06-09** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mansoor-abdmoulaie",
+    "name": "Mansoor Abdmoulaie",
+    "email": "mansoor.abdmoulaie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

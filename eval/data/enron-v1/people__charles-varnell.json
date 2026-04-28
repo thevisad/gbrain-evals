@@ -1,0 +1,14 @@
+{
+  "slug": "people/charles-varnell",
+  "type": "person",
+  "title": "Charles Varnell",
+  "compiled_truth": "Charles Varnell is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-12-19), Charles Varnell sent 0 and received 83 emails, totalling 83 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charles-varnell",
+    "name": "Charles Varnell",
+    "email": "charles.varnell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

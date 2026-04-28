@@ -1,0 +1,14 @@
+{
+  "slug": "people/rahul-basu",
+  "type": "person",
+  "title": "Rahul Basu",
+  "compiled_truth": "Rahul Basu is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-04 to 2001-11-16), Rahul Basu sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Sheila Glover](people/sheila-glover) (1), [David Vitrella](people/david-vitrella) (1), [John Greene](people/john-greene) (1), [Donna Lowry](people/donna-lowry) (1), [Lauren Hagerty](people/lauren-hagerty) (1).",
+  "timeline": "- **1999-11-04** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rahul-basu",
+    "name": "Rahul Basu",
+    "email": "rahul.basu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

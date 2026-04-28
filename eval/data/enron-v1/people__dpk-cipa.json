@@ -1,0 +1,14 @@
+{
+  "slug": "people/dpk-cipa",
+  "type": "person",
+  "title": "Dpk",
+  "compiled_truth": "Dpk is an external contact at [Cipa](companies/cipa). Over the corpus period (2000-02-14 to 2001-07-31), Dpk sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-02-14** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dpk-cipa",
+    "name": "Dpk",
+    "email": "dpk@cipa.org",
+    "primary_affiliation": "companies/cipa"
+  }
+}

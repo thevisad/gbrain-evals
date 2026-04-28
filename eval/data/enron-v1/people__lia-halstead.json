@@ -1,0 +1,14 @@
+{
+  "slug": "people/lia-halstead",
+  "type": "person",
+  "title": "Lia Halstead",
+  "compiled_truth": "Lia Halstead is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-09 to 2002-02-01), Lia Halstead sent 2 and received 191 emails, totalling 193 interactions. Top correspondents: [Chris Germany](people/chris-germany) (1), [W  Pereira](people/w-pereira) (1), [Kelly Loocke](people/kelly-loocke) (1), [Jesse Villarreal](people/jesse-villarreal) (1), [Robert Ramirez](people/robert-ramirez) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2002-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lia-halstead",
+    "name": "Lia Halstead",
+    "email": "lia.halstead@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

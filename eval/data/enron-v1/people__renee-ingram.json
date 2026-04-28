@@ -1,0 +1,14 @@
+{
+  "slug": "people/renee-ingram",
+  "type": "person",
+  "title": "Renee Ingram",
+  "compiled_truth": "Renee Ingram is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-26), Renee Ingram sent 6 and received 56 emails, totalling 62 interactions. Top correspondents: [Michael Galvan](people/michael-galvan) (3), [Brad Carey](people/brad-carey) (3), [Stephen Wolfe](people/stephen-wolfe) (3), [Tammy Barta](people/tammy-barta) (3), [Lisa Best](people/lisa-best) (3). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/renee-ingram",
+    "name": "Renee Ingram",
+    "email": "renee.ingram@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

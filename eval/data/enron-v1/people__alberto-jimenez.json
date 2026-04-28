@@ -1,0 +1,14 @@
+{
+  "slug": "people/alberto-jimenez",
+  "type": "person",
+  "title": "Alberto Jimenez",
+  "compiled_truth": "Alberto Jimenez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2000-12-11), Alberto Jimenez sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alberto-jimenez",
+    "name": "Alberto Jimenez",
+    "email": "alberto.jimenez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/wscobee-caithnessenergy",
+  "type": "person",
+  "title": "Wscobee",
+  "compiled_truth": "Wscobee is an external contact at [Caithnessenergy](companies/caithnessenergy). Over the corpus period (2000-08-31 to 2001-04-15), Wscobee sent 0 and received 121 emails, totalling 121 interactions.",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-04-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wscobee-caithnessenergy",
+    "name": "Wscobee",
+    "email": "wscobee@caithnessenergy.com",
+    "primary_affiliation": "companies/caithnessenergy"
+  }
+}

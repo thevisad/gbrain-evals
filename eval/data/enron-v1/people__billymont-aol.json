@@ -1,0 +1,14 @@
+{
+  "slug": "people/billymont-aol",
+  "type": "person",
+  "title": "Billymont",
+  "compiled_truth": "Billymont is an external contact at [AOL](companies/aol). Over the corpus period (1998-01-06 to 2001-09-13), Billymont sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **1998-01-06** | First recorded email in corpus\n- **2001-09-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/billymont-aol",
+    "name": "Billymont",
+    "email": "billymont@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cynthia-hakemack",
+  "type": "person",
+  "title": "Cynthia Hakemack",
+  "compiled_truth": "Cynthia Hakemack is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-06-12), Cynthia Hakemack sent 5 and received 124 emails, totalling 129 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (3), [Charles Howard](people/charles-howard) (1), [Charlene Richmond](people/charlene-richmond) (1). Mailbox folders observed: logistics.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cynthia-hakemack",
+    "name": "Cynthia Hakemack",
+    "email": "cynthia.hakemack@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

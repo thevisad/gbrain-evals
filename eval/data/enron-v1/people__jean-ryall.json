@@ -1,0 +1,14 @@
+{
+  "slug": "people/jean-ryall",
+  "type": "person",
+  "title": "Jean Ryall",
+  "compiled_truth": "Jean Ryall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-29 to 2001-12-03), Jean Ryall sent 24 and received 434 emails, totalling 458 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (16), [D  Steffes](people/d-steffes) (5), [Steven Kean](people/steven-kean) (5), [Thane Twiggs](people/thane-twiggs) (4), [Doug Gilbert-Smith](people/doug-gilbert-smith) (3). Mailbox folders observed: contributions, deleted_items, inbox, texas.",
+  "timeline": "- **2000-11-29** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jean-ryall",
+    "name": "Jean Ryall",
+    "email": "jean.ryall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

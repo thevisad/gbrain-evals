@@ -1,0 +1,14 @@
+{
+  "slug": "people/pulhamus-aol",
+  "type": "person",
+  "title": "Pulhamus",
+  "compiled_truth": "Pulhamus is an external contact at [AOL](companies/aol). Over the corpus period (2000-06-01 to 2001-11-27), Pulhamus sent 20 and received 56 emails, totalling 76 interactions. Top correspondents: [Egongert](people/egongert-aol) (11), [B2Nusbaum](people/b2nusbaum-qwest) (9), [Mbp1832](people/mbp1832-aol) (9), [Mary Pulhamus](people/mary-pulhamus-colorado) (8), [Tlenhart](people/tlenhart-corealty) (7).",
+  "timeline": "- **2000-06-01** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pulhamus-aol",
+    "name": "Pulhamus",
+    "email": "pulhamus@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

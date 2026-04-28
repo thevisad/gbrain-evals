@@ -1,0 +1,14 @@
+{
+  "slug": "people/will-smith",
+  "type": "person",
+  "title": "Will Smith",
+  "compiled_truth": "Will Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-13 to 2002-02-06), Will Smith sent 71 and received 114 emails, totalling 185 interactions. Top correspondents: [Cara Semperger](people/cara-semperger) (54), [Corry Bentley](people/corry-bentley) (30), [Vishwanatha Venkataswami](people/vishwanatha-venkataswami) (15), [Asem Atta](people/asem-atta) (15), [Duong Luu](people/duong-luu) (11). Mailbox folders observed: deleted_items, inbox, it, renewable_power, scheduling, stuff.",
+  "timeline": "- **2000-03-13** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/will-smith",
+    "name": "Will Smith",
+    "email": "will.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

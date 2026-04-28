@@ -1,0 +1,14 @@
+{
+  "slug": "people/sogborn-goiac",
+  "type": "person",
+  "title": "Sogborn",
+  "compiled_truth": "Sogborn is an external contact at [Goiac](companies/goiac). Over the corpus period (2000-09-04 to 2000-10-15), Sogborn sent 0 and received 44 emails, totalling 44 interactions.",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2000-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sogborn-goiac",
+    "name": "Sogborn",
+    "email": "sogborn@goiac.com",
+    "primary_affiliation": "companies/goiac"
+  }
+}

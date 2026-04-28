@@ -1,0 +1,14 @@
+{
+  "slug": "people/jaime",
+  "type": "person",
+  "title": " Jaime",
+  "compiled_truth": "Jaime is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2001-12-20),  Jaime sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2001-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jaime",
+    "name": " Jaime",
+    "email": ".jaime@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

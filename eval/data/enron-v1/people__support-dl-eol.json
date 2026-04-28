@@ -1,0 +1,14 @@
+{
+  "slug": "people/support-dl-eol",
+  "type": "person",
+  "title": "Support Dl-Eol",
+  "compiled_truth": "Support Dl-Eol is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-28 to 2002-02-07), Support Dl-Eol sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2002-01-28** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/support-dl-eol",
+    "name": "Support Dl-Eol",
+    "email": "support.dl-eol@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

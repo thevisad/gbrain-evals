@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-weldon",
+  "type": "person",
+  "title": "Kim Weldon",
+  "compiled_truth": "Kim Weldon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-25 to 2001-11-20), Kim Weldon sent 3 and received 61 emails, totalling 64 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (3), [Pat Clynes](people/pat-clynes) (3), [Rita Wynne](people/rita-wynne) (3), [Mary Smith](people/mary-smith) (3), [Steve Venturatos](people/steve-venturatos) (3).",
+  "timeline": "- **2000-04-25** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-weldon",
+    "name": "Kim Weldon",
+    "email": "kim.weldon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

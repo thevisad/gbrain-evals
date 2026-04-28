@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-youngson",
+  "type": "person",
+  "title": "Karen Youngson",
+  "compiled_truth": "Karen Youngson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-08 to 2002-03-12), Karen Youngson sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2002-03-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-youngson",
+    "name": "Karen Youngson",
+    "email": "karen.youngson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bcragg-gmssr",
+  "type": "person",
+  "title": "Bcragg",
+  "compiled_truth": "Bcragg is an external contact at [Gmssr](companies/gmssr). Over the corpus period (1999-09-24 to 2001-11-20), Bcragg sent 8 and received 189 emails, totalling 197 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (4), [Jdasovic](people/jdasovic) (4), [Robert Frank](people/robert-frank) (3), [Bgaillar](people/bgaillar) (3), [Alan Comnes](people/alan-comnes) (2).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bcragg-gmssr",
+    "name": "Bcragg",
+    "email": "bcragg@gmssr.com",
+    "primary_affiliation": "companies/gmssr"
+  }
+}

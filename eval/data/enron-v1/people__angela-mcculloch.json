@@ -1,0 +1,14 @@
+{
+  "slug": "people/angela-mcculloch",
+  "type": "person",
+  "title": "Angela Mcculloch",
+  "compiled_truth": "Angela Mcculloch is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-06), Angela Mcculloch sent 31 and received 124 emails, totalling 155 interactions. Top correspondents: [Jason Biever](people/jason-biever) (15), [Derek Davies](people/derek-davies) (15), [Lon Draper](people/lon-draper) (15), [Howard Sangwine](people/howard-sangwine) (15), [Chris Dorland](people/chris-dorland) (15). Mailbox folders observed: _sent_mail, deleted_items, inbox, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angela-mcculloch",
+    "name": "Angela Mcculloch",
+    "email": "angela.mcculloch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

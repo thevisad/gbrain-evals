@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-curry",
+  "type": "person",
+  "title": "Mike Curry",
+  "compiled_truth": "Mike Curry is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-20 to 2002-02-21), Mike Curry sent 59 and received 392 emails, totalling 451 interactions. Top correspondents: [Doug Gilbert-Smith](people/doug-gilbert-smith) (35), [Clint Dean](people/clint-dean) (21), [David Portz](people/david-portz) (20), [Bruce Sukaly](people/bruce-sukaly) (13), [Lance Cunningham](people/lance-cunningham) (12). Mailbox folders observed: _americas, cya, deleted_items, emailaddresses, ercot, inbox.",
+  "timeline": "- **1999-07-20** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-curry",
+    "name": "Mike Curry",
+    "email": "mike.curry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

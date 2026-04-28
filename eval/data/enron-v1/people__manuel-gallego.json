@@ -1,0 +1,14 @@
+{
+  "slug": "people/manuel-gallego",
+  "type": "person",
+  "title": "Manuel Gallego",
+  "compiled_truth": "Manuel Gallego is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-15 to 2001-05-26), Manuel Gallego sent 2 and received 1 emails, totalling 3 interactions. Top correspondents: [Christopher Hunt](people/christopher-hunt) (2).",
+  "timeline": "- **1999-11-15** | First recorded email in corpus\n- **2001-05-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/manuel-gallego",
+    "name": "Manuel Gallego",
+    "email": "manuel.gallego@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/melanie",
+  "type": "person",
+  "title": " Melanie",
+  "compiled_truth": "Melanie is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2002-03-15),  Melanie sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2002-03-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melanie",
+    "name": " Melanie",
+    "email": ".melanie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

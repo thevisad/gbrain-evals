@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-o-dell",
+  "type": "person",
+  "title": "David O'Dell",
+  "compiled_truth": "David O'Dell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-12-17), David O'Dell sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-12-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-o-dell",
+    "name": "David O'Dell",
+    "email": "david.o'dell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

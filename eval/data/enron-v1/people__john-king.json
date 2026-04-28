@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-king",
+  "type": "person",
+  "title": "John King",
+  "compiled_truth": "John King is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-24 to 2001-10-30), John King sent 1 and received 65 emails, totalling 66 interactions. Top correspondents: [Andrew Kelemen](people/andrew-kelemen) (1), [Carl Tricoli](people/carl-tricoli) (1), [Garrick Hill](people/garrick-hill) (1), [John House](people/john-house) (1), [Jeff Hoover](people/jeff-hoover) (1).",
+  "timeline": "- **2000-01-24** | First recorded email in corpus\n- **2001-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-king",
+    "name": "John King",
+    "email": "john.king@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-phillips",
+  "type": "person",
+  "title": "George Phillips",
+  "compiled_truth": "George Phillips is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-18 to 2002-03-29), George Phillips sent 15 and received 85 emails, totalling 100 interactions. Top correspondents: [M  Forney](people/m-forney) (9), [Joe Capasso](people/joe-capasso) (3), [Steve Olinde](people/steve-olinde) (2), [Seung-Taek Oh](people/seung-taek-oh) (2), [Eric Saibi](people/eric-saibi) (2). Mailbox folders observed: chris_stokley, deleted_items, eesirenewableenergy, enron_power, inbox, personalfolder.",
+  "timeline": "- **2000-08-18** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-phillips",
+    "name": "George Phillips",
+    "email": "george.phillips@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

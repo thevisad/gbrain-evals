@@ -1,0 +1,14 @@
+{
+  "slug": "people/kay-young",
+  "type": "person",
+  "title": "Kay Young",
+  "compiled_truth": "Kay Young is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-12-18 to 2002-06-21), Kay Young sent 123 and received 490 emails, totalling 613 interactions. Top correspondents: [Tana Jones](people/tana-jones) (62), [Gerald Nemec](people/gerald-nemec) (44), [Travis Mccullough](people/travis-mccullough) (16), [Sheila Tweed](people/sheila-tweed) (11), [Elizabeth Sager](people/elizabeth-sager) (11). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1998-12-18** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kay-young",
+    "name": "Kay Young",
+    "email": "kay.young@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/weekly-meeting-2000-06",
+  "type": "meeting",
+  "title": "Meeting: Weekly Meeting",
+  "compiled_truth": "Meeting: \"Weekly Meeting\". Occurred 2000-06-28 with 1 related emails. Participants included: [Brenda Herod](people/brenda-herod), [Daren Farmer](people/daren-farmer), [Lisa Csikos](people/lisa-csikos), [Mary Smith](people/mary-smith), [Michael Eiben](people/michael-eiben), [Pat Clynes](people/pat-clynes), [Rita Wynne](people/rita-wynne), [Steve Venturatos](people/steve-venturatos)....",
+  "timeline": "- **2000-06-28** | Meeting: weekly meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/weekly-meeting-2000-06",
+    "attendees": [
+      "people/brenda-herod",
+      "people/daren-farmer",
+      "people/lisa-csikos",
+      "people/mary-smith",
+      "people/michael-eiben",
+      "people/pat-clynes",
+      "people/rita-wynne",
+      "people/steve-venturatos",
+      "people/tommy-yanowski",
+      "people/trevor-mihalik"
+    ],
+    "date": "2000-06-28"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/julia-sudduth",
+  "type": "person",
+  "title": "Julia Sudduth",
+  "compiled_truth": "Julia Sudduth is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-24 to 2001-11-29), Julia Sudduth sent 4 and received 34 emails, totalling 38 interactions. Top correspondents: [Jennifer Adams](people/jennifer-adams) (2), [Harry Arora](people/harry-arora) (2), [Moises Benchluch](people/moises-benchluch) (2), [Dennis Benevides](people/dennis-benevides) (2), [Hicham Benjelloun](people/hicham-benjelloun) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-09-24** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/julia-sudduth",
+    "name": "Julia Sudduth",
+    "email": "julia.sudduth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

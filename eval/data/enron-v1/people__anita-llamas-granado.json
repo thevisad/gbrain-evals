@@ -1,0 +1,14 @@
+{
+  "slug": "people/anita-llamas-granado",
+  "type": "person",
+  "title": "Anita Llamas-Granado",
+  "compiled_truth": "Anita Llamas-Granado is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-07 to 2001-11-16), Anita Llamas-Granado sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [Enron Services](people/enron-services) (1).",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anita-llamas-granado",
+    "name": "Anita Llamas-Granado",
+    "email": "anita.llamas-granado@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

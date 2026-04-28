@@ -1,0 +1,14 @@
+{
+  "slug": "people/anders-glader-greenmountain",
+  "type": "person",
+  "title": "Anders Glader",
+  "compiled_truth": "Anders Glader is an external contact at [Greenmountain](companies/greenmountain). Over the corpus period (2000-11-10 to 2001-05-28), Anders Glader sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-05-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anders-glader-greenmountain",
+    "name": "Anders Glader",
+    "email": "anders.glader@greenmountain.com",
+    "primary_affiliation": "companies/greenmountain"
+  }
+}

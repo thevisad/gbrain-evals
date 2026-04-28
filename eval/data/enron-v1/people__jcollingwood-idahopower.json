@@ -1,0 +1,14 @@
+{
+  "slug": "people/jcollingwood-idahopower",
+  "type": "person",
+  "title": "Jcollingwood",
+  "compiled_truth": "Jcollingwood is an external contact at [Idahopower](companies/idahopower). Over the corpus period (2000-07-08 to 2001-03-16), Jcollingwood sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-07-08** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jcollingwood-idahopower",
+    "name": "Jcollingwood",
+    "email": "jcollingwood@idahopower.com",
+    "primary_affiliation": "companies/idahopower"
+  }
+}

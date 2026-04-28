@@ -1,0 +1,14 @@
+{
+  "slug": "people/heather-tindall",
+  "type": "person",
+  "title": "Heather Tindall",
+  "compiled_truth": "Heather Tindall is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-26 to 2001-11-26), Heather Tindall sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heather-tindall",
+    "name": "Heather Tindall",
+    "email": "heather.tindall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

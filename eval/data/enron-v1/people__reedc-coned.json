@@ -1,0 +1,14 @@
+{
+  "slug": "people/reedc-coned",
+  "type": "person",
+  "title": "Reedc",
+  "compiled_truth": "Reedc is an external contact at [Coned](companies/coned). Over the corpus period (2002-01-10 to 2002-02-04), Reedc sent 3 and received 2 emails, totalling 5 interactions. Top correspondents: [Electric4](people/electric4-coned) (3), [Gasesco](people/gasesco-coned) (1), [Barko](people/barko) (1), [Barkod](people/barkod-coned) (1), [D'Amadeo](people/d-amadeo) (1).",
+  "timeline": "- **2002-01-10** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reedc-coned",
+    "name": "Reedc",
+    "email": "reedc@coned.com",
+    "primary_affiliation": "companies/coned"
+  }
+}

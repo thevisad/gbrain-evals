@@ -1,0 +1,14 @@
+{
+  "slug": "people/bret-turner-csfb",
+  "type": "person",
+  "title": "Bret Turner",
+  "compiled_truth": "Bret Turner is an external contact at [Csfb](companies/csfb). Over the corpus period (2000-07-07 to 2001-04-20), Bret Turner sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **2000-07-07** | First recorded email in corpus\n- **2001-04-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bret-turner-csfb",
+    "name": "Bret Turner",
+    "email": "bret.turner@csfb.com",
+    "primary_affiliation": "companies/csfb"
+  }
+}

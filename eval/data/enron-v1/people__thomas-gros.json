@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas-gros",
+  "type": "person",
+  "title": "Thomas Gros",
+  "compiled_truth": "Thomas Gros is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-04), Thomas Gros sent 15 and received 171 emails, totalling 186 interactions. Top correspondents: [Sally Beck](people/sally-beck) (11), [Louise Kitchen](people/louise-kitchen) (5), [Mary Solmonson](people/mary-solmonson) (4), [Susan Harrison](people/susan-harrison) (3), [Greg Whalley](people/greg-whalley) (3). Mailbox folders observed: commoditylogic.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas-gros",
+    "name": "Thomas Gros",
+    "email": "thomas.gros@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

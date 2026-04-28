@@ -1,0 +1,26 @@
+{
+  "slug": "threads/hello-2000-12",
+  "type": "meeting",
+  "title": "Thread: Hello!",
+  "compiled_truth": "Email thread: \"Hello!\". Ran from 2000-12-01 to 2000-12-17 with 15 messages. Participants: [Cfair](people/cfair-worldnet), [Chrisjneale](people/chrisjneale-hotmail), [Dasovich](people/dasovich-haas), [David Delainey](people/david-delainey), [Gerald Nemec](people/gerald-nemec), [Jeff Dasovich](people/jeff-dasovich), [Jkelly](people/jkelly-fairisaac), [Kay Chapman](people/kay-chapman).",
+  "timeline": "- **2000-12-01** | Thread begins: hello!\n- **2000-12-17** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/hello-2000-12",
+    "attendees": [
+      "people/cfair-worldnet",
+      "people/chrisjneale-hotmail",
+      "people/dasovich-haas",
+      "people/david-delainey",
+      "people/gerald-nemec",
+      "people/jeff-dasovich",
+      "people/jkelly-fairisaac",
+      "people/kay-chapman",
+      "people/kupiecki-haas",
+      "people/li-sun",
+      "people/mbeckworth-velaw",
+      "people/tedchin-hotmail"
+    ],
+    "date": "2000-12-01"
+  }
+}

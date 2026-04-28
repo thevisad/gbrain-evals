@@ -1,0 +1,14 @@
+{
+  "slug": "people/luann-mitchell",
+  "type": "person",
+  "title": "Luann Mitchell",
+  "compiled_truth": "Luann Mitchell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-30 to 2001-09-28), Luann Mitchell sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-06-30** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/luann-mitchell",
+    "name": "Luann Mitchell",
+    "email": "luann.mitchell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

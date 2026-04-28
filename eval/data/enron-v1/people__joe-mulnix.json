@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-mulnix",
+  "type": "person",
+  "title": "Joe Mulnix",
+  "compiled_truth": "Joe Mulnix is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-14 to 2000-03-14), Joe Mulnix sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-03-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-mulnix",
+    "name": "Joe Mulnix",
+    "email": "joe.mulnix@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

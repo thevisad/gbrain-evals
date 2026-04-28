@@ -1,0 +1,14 @@
+{
+  "slug": "people/frank-prejean",
+  "type": "person",
+  "title": "Frank Prejean",
+  "compiled_truth": "Frank Prejean is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Frank Prejean sent 1 and received 160 emails, totalling 161 interactions. Top correspondents: [Hal Mckinney](people/hal-mckinney) (1), [Chris Abel](people/chris-abel) (1), [Shona Wilson](people/shona-wilson) (1), [Anita Luong](people/anita-luong) (1), [Kenneth Thibodeaux](people/kenneth-thibodeaux) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frank-prejean",
+    "name": "Frank Prejean",
+    "email": "frank.prejean@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

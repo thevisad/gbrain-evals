@@ -1,0 +1,14 @@
+{
+  "slug": "people/srlarson-bpa",
+  "type": "person",
+  "title": "Srlarson",
+  "compiled_truth": "Srlarson is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2000-06-21 to 2001-04-26), Srlarson sent 1 and received 25 emails, totalling 26 interactions. Top correspondents: [Mary Hain](people/mary-hain) (1).",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/srlarson-bpa",
+    "name": "Srlarson",
+    "email": "srlarson@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

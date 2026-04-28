@@ -1,0 +1,14 @@
+{
+  "slug": "people/bensons3-airmail",
+  "type": "person",
+  "title": "Bensons3",
+  "compiled_truth": "Bensons3 is an external contact at [Airmail](companies/airmail). Over the corpus period (2000-09-04 to 2001-10-25), Bensons3 sent 2 and received 55 emails, totalling 57 interactions. Top correspondents: [Akinpa](people/akinpa-email) (1), [Azaremba](people/azaremba-fzci) (1), [Boardwalk](people/boardwalk-iquest) (1), [Boethia](people/boethia-hotmail) (1), [Bwall](people/bwall-copcp) (1).",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bensons3-airmail",
+    "name": "Bensons3",
+    "email": "bensons3@airmail.net",
+    "primary_affiliation": "companies/airmail"
+  }
+}

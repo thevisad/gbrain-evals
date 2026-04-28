@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-neal",
+  "type": "person",
+  "title": "Scott Neal",
+  "compiled_truth": "Scott Neal is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-28), Scott Neal sent 1140 and received 1556 emails, totalling 2696 interactions. Top correspondents: [Sneal12](people/sneal12-mindspring) (125), [Kimberly Brown](people/kimberly-brown) (92), [Dick Jenkins](people/dick-jenkins) (63), [Andrea Ring](people/andrea-ring) (51), [Hunter Shively](people/hunter-shively) (50). Mailbox folders observed: _americas, _sent_mail, deleted_items, enron, inbox, old_inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-neal",
+    "name": "Scott Neal",
+    "email": "scott.neal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

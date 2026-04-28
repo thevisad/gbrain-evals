@@ -1,0 +1,14 @@
+{
+  "slug": "people/emily-neyra-helal",
+  "type": "person",
+  "title": "Emily Neyra-Helal",
+  "compiled_truth": "Emily Neyra-Helal is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-03 to 2001-11-12), Emily Neyra-Helal sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-08-03** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/emily-neyra-helal",
+    "name": "Emily Neyra-Helal",
+    "email": "emily.neyra-helal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

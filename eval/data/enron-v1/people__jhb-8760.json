@@ -1,0 +1,14 @@
+{
+  "slug": "people/jhb-8760",
+  "type": "person",
+  "title": "Jhb",
+  "compiled_truth": "Jhb is an external contact at [8760](companies/8760). Over the corpus period (2000-03-30 to 2000-09-22), Jhb sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2000-09-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jhb-8760",
+    "name": "Jhb",
+    "email": "jhb@8760.com",
+    "primary_affiliation": "companies/8760"
+  }
+}

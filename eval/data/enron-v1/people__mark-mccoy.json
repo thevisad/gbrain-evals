@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-mccoy",
+  "type": "person",
+  "title": "Mark Mccoy",
+  "compiled_truth": "Mark Mccoy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-23 to 2001-06-12), Mark Mccoy sent 68 and received 166 emails, totalling 234 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (59), [Stacey Neuweiler](people/stacey-neuweiler) (25), [Pat Clynes](people/pat-clynes) (15), [Edward Terry](people/edward-terry) (9), [Sabrae Zajac](people/sabrae-zajac) (8). Mailbox folders observed: cleburne_plant____cornhusker_, deleted_items, logistics, pan_energy_swap.",
+  "timeline": "- **2000-05-23** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-mccoy",
+    "name": "Mark Mccoy",
+    "email": "mark.mccoy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

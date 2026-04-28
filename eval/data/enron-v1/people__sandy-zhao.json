@@ -1,0 +1,14 @@
+{
+  "slug": "people/sandy-zhao",
+  "type": "person",
+  "title": "Sandy Zhao",
+  "compiled_truth": "Sandy Zhao is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-06 to 2000-10-17), Sandy Zhao sent 2 and received 0 emails, totalling 2 interactions. Top correspondents: [David Oxley](people/david-oxley) (2), [Cindy Olson](people/cindy-olson) (2), [Kevin Hannon](people/kevin-hannon) (2), [Rob Walls](people/rob-walls) (2), [Lavorato](people/lavorato) (2).",
+  "timeline": "- **2000-10-06** | First recorded email in corpus\n- **2000-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sandy-zhao",
+    "name": "Sandy Zhao",
+    "email": "sandy.zhao@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

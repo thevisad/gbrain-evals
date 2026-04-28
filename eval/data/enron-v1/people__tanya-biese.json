@@ -1,0 +1,14 @@
+{
+  "slug": "people/tanya-biese",
+  "type": "person",
+  "title": "Tanya Biese",
+  "compiled_truth": "Tanya Biese is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 1999-07-09), Tanya Biese sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tanya-biese",
+    "name": "Tanya Biese",
+    "email": "tanya.biese@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

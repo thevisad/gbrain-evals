@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-connor",
+  "type": "person",
+  "title": "Joe Connor",
+  "compiled_truth": "Joe Connor is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-20 to 2001-12-03), Joe Connor sent 9 and received 329 emails, totalling 338 interactions. Top correspondents: [Dan Staines](people/dan-staines) (6), [Sarah Novosel](people/sarah-novosel) (6), [Donna Fulton](people/donna-fulton) (5), [Steve Montovano](people/steve-montovano) (5), [James Steffes](people/james-steffes) (4). Mailbox folders observed: inbox, nerc.",
+  "timeline": "- **2000-09-20** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-connor",
+    "name": "Joe Connor",
+    "email": "joe.connor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

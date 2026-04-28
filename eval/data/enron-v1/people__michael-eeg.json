@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-eeg",
+  "type": "person",
+  "title": "Michael",
+  "compiled_truth": "Michael is an external contact at [Eeg](companies/eeg). Over the corpus period (1999-09-22 to 2001-05-22), Michael sent 2 and received 43 emails, totalling 45 interactions. Top correspondents: [Dasovich](people/dasovich-haas) (2), [Hudacko](people/hudacko-haas) (2), [Jkelly](people/jkelly-fairisaac) (1), [Mendelso](people/mendelso-haas) (1), [Kazi](people/kazi-haas) (1).",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-eeg",
+    "name": "Michael",
+    "email": "michael@eeg.com",
+    "primary_affiliation": "companies/eeg"
+  }
+}

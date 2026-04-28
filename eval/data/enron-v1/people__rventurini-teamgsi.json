@@ -1,0 +1,14 @@
+{
+  "slug": "people/rventurini-teamgsi",
+  "type": "person",
+  "title": "Rventurini",
+  "compiled_truth": "Rventurini is an external contact at [Teamgsi](companies/teamgsi). Over the corpus period (2001-03-16 to 2001-11-20), Rventurini sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **2001-03-16** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rventurini-teamgsi",
+    "name": "Rventurini",
+    "email": "rventurini@teamgsi.net",
+    "primary_affiliation": "companies/teamgsi"
+  }
+}

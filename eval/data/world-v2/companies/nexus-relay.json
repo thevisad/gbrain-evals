@@ -1,0 +1,29 @@
+{
+  "slug": "companies/nexus-relay",
+  "type": "company",
+  "title": "Nexus Relay",
+  "compiled_truth": "Nexus Relay is a managed inference routing and caching layer for foundation models, founded in 2024 by [Tatum Andersen](people/tatum-andersen). The company sits at a chokepoint in the AI infrastructure stack: it intercepts inference requests, deduplicates semantically similar prompts, routes to the cheapest or fastest available model endpoint, and caches deterministic outputs so repeat queries never hit a GPU twice. Their pitch is simple — most enterprise AI spend is wasted on redundant computation, and Nexus can cut that by 40–60%.\n\nThe founding round was backed by [Gil Papadopoulos](people/gil-papadopoulos), [Bex Andersen](people/bex-andersen), and [Dev Osei](people/dev-osei). Gil came in through his AI infra thesis and was reportedly the one who introduced Tatum to the broader infrastructure ecosystem in late 2024. Bex Andersen — yes, same surname, Tatum's older sibling — wrote a smaller angel check early on and has stayed involved as an informal advisor. Dev Osei's involvement is more recent and strategic; his network in the enterprise MLOps world has helped Nexus land several design partners.\n\nBy mid-2027, Nexus Relay had grown to around 35 people, mostly distributed across North America and Western Europe. The engineering team is known for being opinionated about latency budgets — their internal SLA target is sub-8ms overhead per routed request, which they've hit consistently in production. They operate a tiered caching architecture: a hot layer for exact-match prompt hashes, a warm layer for semantic similarity lookups, and a cold fallback that routes to live inference.\n\nNexus's relationship with Anchor Codec began in early 2027 when the two teams started exploring whether Anchor's single-pass primitives could reduce overhead in the caching pipeline. The idea was that deterministic data infrastructure might allow Nexus to collapse serialization, integrity checks, and compression into one step before writing to the warm cache tier. An integration prototype shipped in Q3 2027, and early benchmarks suggested a meaningful reduction in cache-write latency.\n\nThe company is sometimes referred to internally as just \"Relay\" or \"NR\" in Slack channels. Tatum has been vocal at infrastructure conferences about the unsustainability of current inference economics, and has a somewhat polarizing presence on social media — alternating between detailed technical threads and blunt criticsm of GPU cloud pricing. Nexus is reportedly exploring a Series B in 2028, though nothing has been formally anounced.",
+  "timeline": "- **2026-03-12** | Nexus Relay closes seed extension led by [Gil Papadopoulos](people/gil-papadopoulos), bringing total raised to ~$9M.\n- **2026-07-19** | Tatum Andersen presents \"The Inference Tax\" talk at InfraConf Berlin; slides circulate widely in AI infrastructure circles.\n- **2026-11-02** | Nexus hits 100M routed inference requests per day across production customers.\n- **2027-01-15** | Initial conversation between Nexus Relay and Anchor Codec engineering teams about cache-layer integration.\n- **2027-04-08** | [Dev Osei](people/dev-osei) introduces Nexus to two Fortune 500 design partners through his enterprise network.\n- **2027-06-22** | Nexus hires former model-serving lead from a major cloud provider as VP Engineering.\n- **2027-09-10** | Prototype integration with Anchor Codec single-pass primitives ships to staging; early latency benchmarks look promising.\n- **2027-12-03** | [Bex Andersen](people/bex-andersen) joins a board observer seat as part of governance restructuring ahead of potential Series B.\n- **2028-02-14** | Nexus Relay surpasses 500M daily routed requests; team size reaches ~45.\n- **2028-05-20** | Series B conversations reportedly underway; [Tatum Andersen](people/tatum-andersen) seen at multiple investor meetings in San Francisco.",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/nexus-relay",
+    "name": "Nexus Relay",
+    "category": "startup",
+    "industry": "AI infrastructure",
+    "description": "Managed inference routing and caching layer for foundation models",
+    "founded_year": 2024,
+    "founders": [
+      "people/tatum-andersen"
+    ],
+    "employees": [],
+    "investors": [
+      "people/gil-papadopoulos",
+      "people/bex-andersen",
+      "people/dev-osei",
+      "people/ren-khalil",
+      "people/uri-ramirez",
+      "people/piper-bergmann"
+    ],
+    "advisors": []
+  }
+}

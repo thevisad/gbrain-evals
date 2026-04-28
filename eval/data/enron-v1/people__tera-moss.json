@@ -1,0 +1,14 @@
+{
+  "slug": "people/tera-moss",
+  "type": "person",
+  "title": "Tera Moss",
+  "compiled_truth": "Tera Moss is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-06 to 2001-01-04), Tera Moss sent 5 and received 1 emails, totalling 6 interactions. Top correspondents: [John Griffith](people/john-griffith) (5), [Eric Moon](people/eric-moon) (4), [Ed Mcmichael](people/ed-mcmichael) (4), [John King](people/john-king) (4), [Thomas Martin](people/thomas-martin) (4).",
+  "timeline": "- **2000-07-06** | First recorded email in corpus\n- **2001-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tera-moss",
+    "name": "Tera Moss",
+    "email": "tera.moss@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

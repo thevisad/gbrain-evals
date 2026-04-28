@@ -1,0 +1,14 @@
+{
+  "slug": "people/sfrier-kjcsolar",
+  "type": "person",
+  "title": "Sfrier",
+  "compiled_truth": "Sfrier is an external contact at [Kjcsolar](companies/kjcsolar). Over the corpus period (2001-01-21 to 2001-01-21), Sfrier sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-01-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sfrier-kjcsolar",
+    "name": "Sfrier",
+    "email": "sfrier@kjcsolar.com",
+    "primary_affiliation": "companies/kjcsolar"
+  }
+}

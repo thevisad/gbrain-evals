@@ -1,0 +1,14 @@
+{
+  "slug": "people/fred-lagrasta",
+  "type": "person",
+  "title": "Fred Lagrasta",
+  "compiled_truth": "Fred Lagrasta is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-25), Fred Lagrasta sent 3 and received 573 emails, totalling 576 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (2), [Sally Beck](people/sally-beck) (1), [John Lavorato](people/john-lavorato) (1). Mailbox folders observed: _americas, deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fred-lagrasta",
+    "name": "Fred Lagrasta",
+    "email": "fred.lagrasta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

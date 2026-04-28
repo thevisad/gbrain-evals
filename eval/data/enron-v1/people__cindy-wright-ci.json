@@ -1,0 +1,14 @@
+{
+  "slug": "people/cindy-wright-ci",
+  "type": "person",
+  "title": "Cindy Wright",
+  "compiled_truth": "Cindy Wright is an external contact at [Ci](companies/ci). Over the corpus period (2000-06-21 to 2000-07-10), Cindy Wright sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2000-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cindy-wright-ci",
+    "name": "Cindy Wright",
+    "email": "cindy.wright@ci.seattle.wa.us",
+    "primary_affiliation": "companies/ci"
+  }
+}

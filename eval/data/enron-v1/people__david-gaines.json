@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-gaines",
+  "type": "person",
+  "title": "David Gaines",
+  "compiled_truth": "David Gaines is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2002-03-25), David Gaines sent 1 and received 87 emails, totalling 88 interactions. Top correspondents: [Frank Semin](people/frank-semin) (1), [Shelley Corman](people/shelley-corman) (1), [Lynn Blair](people/lynn-blair) (1), [Caroline Barnes](people/caroline-barnes) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-gaines",
+    "name": "David Gaines",
+    "email": "david.gaines@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-young",
+  "type": "person",
+  "title": "Steve Young",
+  "compiled_truth": "Steve Young is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-02 to 2002-03-06), Steve Young sent 15 and received 94 emails, totalling 109 interactions. Top correspondents: [Rick Buy](people/rick-buy) (10), [Ted Murphy](people/ted-murphy) (7), [Eric Gadd](people/eric-gadd) (3), [Fernley Dyson](people/fernley-dyson) (2), [David Hardy](people/david-hardy) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-07-02** | First recorded email in corpus\n- **2002-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-young",
+    "name": "Steve Young",
+    "email": "steve.young@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

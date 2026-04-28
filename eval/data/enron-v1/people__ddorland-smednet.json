@@ -1,0 +1,14 @@
+{
+  "slug": "people/ddorland-smednet",
+  "type": "person",
+  "title": "Ddorland",
+  "compiled_truth": "Ddorland is an external contact at [Smednet](companies/smednet). Over the corpus period (2000-03-10 to 2000-06-12), Ddorland sent 0 and received 70 emails, totalling 70 interactions.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2000-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ddorland-smednet",
+    "name": "Ddorland",
+    "email": "ddorland@smednet.com",
+    "primary_affiliation": "companies/smednet"
+  }
+}

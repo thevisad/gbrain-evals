@@ -1,0 +1,14 @@
+{
+  "slug": "people/lgoodric-cngc",
+  "type": "person",
+  "title": "Lgoodric",
+  "compiled_truth": "Lgoodric is an external contact at [Cngc](companies/cngc). Over the corpus period (2000-10-27 to 2001-05-11), Lgoodric sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lgoodric-cngc",
+    "name": "Lgoodric",
+    "email": "lgoodric@cngc.com",
+    "primary_affiliation": "companies/cngc"
+  }
+}

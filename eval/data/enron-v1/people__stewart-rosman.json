@@ -1,0 +1,14 @@
+{
+  "slug": "people/stewart-rosman",
+  "type": "person",
+  "title": "Stewart Rosman",
+  "compiled_truth": "Stewart Rosman is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-08), Stewart Rosman sent 37 and received 462 emails, totalling 499 interactions. Top correspondents: [Sean Crandall](people/sean-crandall) (9), [Diana Scholtes](people/diana-scholtes) (9), [Sara Shackleton](people/sara-shackleton) (8), [Mike Swerzbin](people/mike-swerzbin) (6), [Bill Williams](people/bill-williams) (4). Mailbox folders observed: bill_williams_iii, credit, deleted_items, inbox, lt_contracts, mid_columbia.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stewart-rosman",
+    "name": "Stewart Rosman",
+    "email": "stewart.rosman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sandra-lighthill",
+  "type": "person",
+  "title": "Sandra Lighthill",
+  "compiled_truth": "Sandra Lighthill is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-03), Sandra Lighthill sent 7 and received 43 emails, totalling 50 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (5), [A  Hope](people/a-hope) (3), [Rick Johnson](people/rick-johnson) (3), [Andrea Yowman](people/andrea-yowman) (2), [Felecia Acevedo](people/felecia-acevedo) (2). Mailbox folders observed: deleted_items, general_research, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sandra-lighthill",
+    "name": "Sandra Lighthill",
+    "email": "sandra.lighthill@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

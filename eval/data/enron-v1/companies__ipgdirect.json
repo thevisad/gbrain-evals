@@ -1,0 +1,36 @@
+{
+  "slug": "companies/ipgdirect",
+  "type": "company",
+  "title": "Ipgdirect",
+  "compiled_truth": "Ipgdirect is an external organization that appears in the Enron email corpus. Domain: ipgdirect.com. Total email interactions with Enron: 267. Known contacts: 19 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (267 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/ipgdirect",
+    "name": "Ipgdirect",
+    "employees": [
+      "people/audrey-varga-ipgdirect",
+      "people/barbara-clancey-ipgdirect",
+      "people/bobette-riner-ipgdirect",
+      "people/bonnie-damstra-ipgdirect",
+      "people/chuck-kaniuka-ipgdirect",
+      "people/craig-allsopp-ipgdirect",
+      "people/ellen-clardy-ipgdirect",
+      "people/gene-simpson-ipgdirect",
+      "people/gregg-daileda-ipgdirect",
+      "people/jeff-maack-ipgdirect",
+      "people/jennifer-prewit-ipgdirect",
+      "people/marjorie-adis-ipgdirect",
+      "people/mark-nutter-ipgdirect",
+      "people/michael-weinstein-ipgdirect",
+      "people/miles-weigel-ipgdirect",
+      "people/rachel-steffens-ipgdirect",
+      "people/rich-heidorn-ipgdirect",
+      "people/suzanna-strangmeier-ipgdirect",
+      "people/tradersnewsindexes-ipgdirect"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sona-khanova",
+  "type": "person",
+  "title": "Sona Khanova",
+  "compiled_truth": "Sona Khanova is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2001-11-08), Sona Khanova sent 1 and received 18 emails, totalling 19 interactions. Top correspondents: [A Nichols](people/a-nichols) (1), [Claire Harvey](people/claire-harvey) (1), [Michelle Akers](people/michelle-akers) (1), [C  Anderson](people/c-anderson) (1), [Adam Bayer](people/adam-bayer) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sona-khanova",
+    "name": "Sona Khanova",
+    "email": "sona.khanova@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

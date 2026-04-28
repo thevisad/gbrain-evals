@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-clements",
+  "type": "person",
+  "title": "David Clements",
+  "compiled_truth": "David Clements is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2002-01-24), David Clements sent 1 and received 56 emails, totalling 57 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-clements",
+    "name": "David Clements",
+    "email": "david.clements@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

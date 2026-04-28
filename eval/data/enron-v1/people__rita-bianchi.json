@@ -1,0 +1,14 @@
+{
+  "slug": "people/rita-bianchi",
+  "type": "person",
+  "title": "Rita Bianchi",
+  "compiled_truth": "Rita Bianchi is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2002-01-31), Rita Bianchi sent 8 and received 142 emails, totalling 150 interactions. Top correspondents: [Elizabeth Brown](people/elizabeth-brown) (4), [Kimberly Watson](people/kimberly-watson) (3), [Jeanette Doll](people/jeanette-doll) (3), [Lynn Blair](people/lynn-blair) (2), [Shelley Corman](people/shelley-corman) (2). Mailbox folders observed: inbox, negotiated_rates, nng___sla_settlement, tw___transactional_requirements.",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rita-bianchi",
+    "name": "Rita Bianchi",
+    "email": "rita.bianchi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

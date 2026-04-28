@@ -1,0 +1,14 @@
+{
+  "slug": "people/ehudson-allenergy",
+  "type": "person",
+  "title": "Ehudson",
+  "compiled_truth": "Ehudson is an external contact at [Allenergy](companies/allenergy). Over the corpus period (2001-05-03 to 2001-09-11), Ehudson sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-05-03** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ehudson-allenergy",
+    "name": "Ehudson",
+    "email": "ehudson@allenergy.com",
+    "primary_affiliation": "companies/allenergy"
+  }
+}

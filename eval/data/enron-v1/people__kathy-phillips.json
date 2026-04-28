@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-phillips",
+  "type": "person",
+  "title": "Kathy Phillips",
+  "compiled_truth": "Kathy Phillips is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-27 to 2001-09-27), Kathy Phillips sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-09-27** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-phillips",
+    "name": "Kathy Phillips",
+    "email": "kathy.phillips@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

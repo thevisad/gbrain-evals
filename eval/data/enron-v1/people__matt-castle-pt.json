@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-castle-pt",
+  "type": "person",
+  "title": "Matt",
+  "compiled_truth": "Matt is an external contact at [Castle-pt](companies/castle-pt). Over the corpus period (2000-12-15 to 2000-12-21), Matt sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-12-15** | First recorded email in corpus\n- **2000-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-castle-pt",
+    "name": "Matt",
+    "email": "matt@castle-pt.com",
+    "primary_affiliation": "companies/castle-pt"
+  }
+}

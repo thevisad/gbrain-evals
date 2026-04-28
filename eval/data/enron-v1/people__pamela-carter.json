@@ -1,0 +1,14 @@
+{
+  "slug": "people/pamela-carter",
+  "type": "person",
+  "title": "Pamela Carter",
+  "compiled_truth": "Pamela Carter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-21 to 2002-05-06), Pamela Carter sent 13 and received 34 emails, totalling 47 interactions. Top correspondents: [Richard Ring](people/richard-ring) (10), [George Phillips](people/george-phillips) (5), [P  O'Neil](people/p-o-neil) (3), [Martha Cormier](people/martha-cormier) (2), [Teresa Mcomber](people/teresa-mcomber) (2). Mailbox folders observed: eesirenewableenergy, personalfolder.",
+  "timeline": "- **2000-04-21** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pamela-carter",
+    "name": "Pamela Carter",
+    "email": "pamela.carter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

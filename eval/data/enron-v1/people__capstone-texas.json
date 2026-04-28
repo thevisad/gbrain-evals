@@ -1,0 +1,14 @@
+{
+  "slug": "people/capstone-texas",
+  "type": "person",
+  "title": "Capstone",
+  "compiled_truth": "Capstone is an external contact at [Texas](companies/texas). Over the corpus period (2000-11-30 to 2002-02-06), Capstone sent 34 and received 9 emails, totalling 43 interactions. Top correspondents: [Bob Mckinney](people/bob-mckinney-capstone-ta) (13), [Mmaggi](people/mmaggi) (3).",
+  "timeline": "- **2000-11-30** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/capstone-texas",
+    "name": "Capstone",
+    "email": "capstone@texas.net",
+    "primary_affiliation": "companies/texas"
+  }
+}

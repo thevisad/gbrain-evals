@@ -1,0 +1,14 @@
+{
+  "slug": "people/danny-stahl",
+  "type": "person",
+  "title": "Danny' 'Stahl",
+  "compiled_truth": "Danny' 'Stahl is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-13 to 2002-03-20), Danny' 'Stahl sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2002-03-13** | First recorded email in corpus\n- **2002-03-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/danny-stahl",
+    "name": "Danny' 'Stahl",
+    "email": "danny'.'stahl@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

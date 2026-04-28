@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-cousino",
+  "type": "person",
+  "title": "Lisa Cousino",
+  "compiled_truth": "Lisa Cousino is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-12-06), Lisa Cousino sent 21 and received 150 emails, totalling 171 interactions. Top correspondents: [Sally Beck](people/sally-beck) (20), [Leslie Reeves](people/leslie-reeves) (12), [Michael Moscoso](people/michael-moscoso) (12), [Sheri Thomas](people/sheri-thomas) (12), [Mary Solmonson](people/mary-solmonson) (12). Mailbox folders observed: 2001_plan, inbox.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-cousino",
+    "name": "Lisa Cousino",
+    "email": "lisa.cousino@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-moore",
+  "type": "person",
+  "title": "Tom Moore",
+  "compiled_truth": "Tom Moore is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-04 to 2002-03-08), Tom Moore sent 1 and received 104 emails, totalling 105 interactions. Top correspondents: [Tara Rozen](people/tara-rozen) (1), [D Hall](people/d-hall) (1), [Sally Beck](people/sally-beck) (1).",
+  "timeline": "- **2000-01-04** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-moore",
+    "name": "Tom Moore",
+    "email": "tom.moore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

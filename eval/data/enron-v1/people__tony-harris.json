@@ -1,0 +1,14 @@
+{
+  "slug": "people/tony-harris",
+  "type": "person",
+  "title": "Tony Harris",
+  "compiled_truth": "Tony Harris is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-01 to 2001-11-30), Tony Harris sent 8 and received 122 emails, totalling 130 interactions. Top correspondents: [Martin Cuilla](people/martin-cuilla) (4), [Greg Martin](people/greg-martin) (3), [Gary Lamphier](people/gary-lamphier) (2), [Mark Friedman](people/mark-friedman) (2), [Scott Earnest](people/scott-earnest) (2). Mailbox folders observed: 10_fantasy, deleted_items, inbox.",
+  "timeline": "- **1999-11-01** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tony-harris",
+    "name": "Tony Harris",
+    "email": "tony.harris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

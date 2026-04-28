@@ -1,0 +1,14 @@
+{
+  "slug": "people/r-ortiz",
+  "type": "person",
+  "title": "R  Ortiz",
+  "compiled_truth": "R  Ortiz is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-19 to 2001-11-16), R  Ortiz sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-10-19** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/r-ortiz",
+    "name": "R  Ortiz",
+    "email": "r..ortiz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

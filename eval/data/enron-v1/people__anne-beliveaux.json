@@ -1,0 +1,14 @@
+{
+  "slug": "people/anne-beliveaux",
+  "type": "person",
+  "title": "Anne Beliveaux",
+  "compiled_truth": "Anne Beliveaux is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-18 to 2002-05-06), Anne Beliveaux sent 1 and received 18 emails, totalling 19 interactions. Top correspondents: [Houston Tax](people/houston-tax) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anne-beliveaux",
+    "name": "Anne Beliveaux",
+    "email": "anne.beliveaux@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

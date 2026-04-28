@@ -1,0 +1,14 @@
+{
+  "slug": "people/cassandra-moses",
+  "type": "person",
+  "title": "Cassandra Moses",
+  "compiled_truth": "Cassandra Moses is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2000-12-12), Cassandra Moses sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cassandra-moses",
+    "name": "Cassandra Moses",
+    "email": "cassandra.moses@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/janice",
+  "type": "person",
+  "title": " Janice",
+  "compiled_truth": "Janice is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2002-01-16),  Janice sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janice",
+    "name": " Janice",
+    "email": ".janice@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

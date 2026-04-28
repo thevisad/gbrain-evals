@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-vargas",
+  "type": "person",
+  "title": "Robert Vargas",
+  "compiled_truth": "Robert Vargas is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-25 to 2001-12-18), Robert Vargas sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-vargas",
+    "name": "Robert Vargas",
+    "email": "robert.vargas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

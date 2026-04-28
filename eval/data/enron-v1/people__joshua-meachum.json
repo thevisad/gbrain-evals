@@ -1,0 +1,14 @@
+{
+  "slug": "people/joshua-meachum",
+  "type": "person",
+  "title": "Joshua Meachum",
+  "compiled_truth": "Joshua Meachum is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-30 to 2001-09-28), Joshua Meachum sent 0 and received 54 emails, totalling 54 interactions.",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joshua-meachum",
+    "name": "Joshua Meachum",
+    "email": "joshua.meachum@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

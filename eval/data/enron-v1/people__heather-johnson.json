@@ -1,0 +1,14 @@
+{
+  "slug": "people/heather-johnson",
+  "type": "person",
+  "title": "Heather Johnson",
+  "compiled_truth": "Heather Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-02 to 2001-06-13), Heather Johnson sent 2 and received 15 emails, totalling 17 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (2), [Allan Grimm](people/allan-grimm) (1), [Amita Gosalia](people/amita-gosalia) (1), [Andrea Reed](people/andrea-reed) (1), [Andrew Kelemen](people/andrew-kelemen) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-08-02** | First recorded email in corpus\n- **2001-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heather-johnson",
+    "name": "Heather Johnson",
+    "email": "heather.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

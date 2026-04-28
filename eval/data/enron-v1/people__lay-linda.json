@@ -1,0 +1,14 @@
+{
+  "slug": "people/lay-linda",
+  "type": "person",
+  "title": "Lay Linda",
+  "compiled_truth": "Lay Linda is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2001-12-05), Lay Linda sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lay-linda",
+    "name": "Lay Linda",
+    "email": "lay.linda@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

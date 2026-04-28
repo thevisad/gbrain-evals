@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-gulka",
+  "type": "person",
+  "title": "Michelle Gulka",
+  "compiled_truth": "Michelle Gulka is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-08-13), Michelle Gulka sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-08-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-gulka",
+    "name": "Michelle Gulka",
+    "email": "michelle.gulka@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

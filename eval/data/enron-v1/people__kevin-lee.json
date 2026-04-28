@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-lee",
+  "type": "person",
+  "title": "Kevin Lee",
+  "compiled_truth": "Kevin Lee is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-26 to 2002-02-05), Kevin Lee sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-08-26** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-lee",
+    "name": "Kevin Lee",
+    "email": "kevin.lee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

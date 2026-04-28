@@ -1,0 +1,14 @@
+{
+  "slug": "people/lewis-may",
+  "type": "person",
+  "title": "Lewis May",
+  "compiled_truth": "Lewis May is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-23 to 2001-10-12), Lewis May sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-05-23** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lewis-may",
+    "name": "Lewis May",
+    "email": "lewis.may@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

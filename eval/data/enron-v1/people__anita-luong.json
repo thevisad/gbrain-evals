@@ -1,0 +1,14 @@
+{
+  "slug": "people/anita-luong",
+  "type": "person",
+  "title": "Anita Luong",
+  "compiled_truth": "Anita Luong is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2001-12-03), Anita Luong sent 21 and received 163 emails, totalling 184 interactions. Top correspondents: [Chris Abel](people/chris-abel) (12), [Sally Beck](people/sally-beck) (11), [Sheila Glover](people/sheila-glover) (8), [W  White](people/w-white) (8), [Mark Fondren](people/mark-fondren) (7). Mailbox folders observed: _americas, central, deleted_items, east_desk, inbox, schedule_c.",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anita-luong",
+    "name": "Anita Luong",
+    "email": "anita.luong@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

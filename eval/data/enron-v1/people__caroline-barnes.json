@@ -1,0 +1,14 @@
+{
+  "slug": "people/caroline-barnes",
+  "type": "person",
+  "title": "Caroline Barnes",
+  "compiled_truth": "Caroline Barnes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2002-05-06), Caroline Barnes sent 38 and received 177 emails, totalling 215 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (18), [Shelley Corman](people/shelley-corman) (14), [Tracy Geaccone](people/tracy-geaccone) (11), [Steve Hotte](people/steve-hotte) (8), [Amy Krone](people/amy-krone) (6). Mailbox folders observed: action_items_in, calendar, deleted_items, inbox, projects, vacations.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/caroline-barnes",
+    "name": "Caroline Barnes",
+    "email": "caroline.barnes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/russell-kelley",
+  "type": "person",
+  "title": "Russell Kelley",
+  "compiled_truth": "Russell Kelley is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-04 to 2001-06-05), Russell Kelley sent 0 and received 70 emails, totalling 70 interactions.",
+  "timeline": "- **1999-06-04** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/russell-kelley",
+    "name": "Russell Kelley",
+    "email": "russell.kelley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "companies/ccomad3",
+  "type": "company",
+  "title": "Ccomad3",
+  "compiled_truth": "Ccomad3 is an external organization that appears in the Enron email corpus. Domain: ccomad3.com. Total email interactions with Enron: 583. Known contacts: 1 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (583 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/ccomad3",
+    "name": "Ccomad3",
+    "employees": [
+      "people/noreply-ccomad3"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

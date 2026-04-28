@@ -1,0 +1,14 @@
+{
+  "slug": "people/cdak-earthlink",
+  "type": "person",
+  "title": "Cdak",
+  "compiled_truth": "Cdak is an external contact at [Earthlink](companies/earthlink). Over the corpus period (2000-09-05 to 2001-12-08), Cdak sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus\n- **2001-12-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cdak-earthlink",
+    "name": "Cdak",
+    "email": "cdak@earthlink.net",
+    "primary_affiliation": "companies/earthlink"
+  }
+}

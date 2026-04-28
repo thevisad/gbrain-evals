@@ -1,0 +1,14 @@
+{
+  "slug": "people/terry-sanvido",
+  "type": "person",
+  "title": "Terry Sanvido",
+  "compiled_truth": "Terry Sanvido is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-05 to 2002-05-18), Terry Sanvido sent 15 and received 55 emails, totalling 70 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (10), [Patti Sullivan](people/patti-sullivan) (9), [Stacey Richardson](people/stacey-richardson) (9), [Russ Severson](people/russ-severson) (9), [Marlene Hilliard](people/marlene-hilliard) (9). Mailbox folders observed: calendar, deleted_items, inbox, sent_items.",
+  "timeline": "- **2000-07-05** | First recorded email in corpus\n- **2002-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terry-sanvido",
+    "name": "Terry Sanvido",
+    "email": "terry.sanvido@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mlenhart-juno",
+  "type": "person",
+  "title": "Mlenhart",
+  "compiled_truth": "Mlenhart is an external contact at [Juno](companies/juno). Over the corpus period (2000-07-05 to 2001-05-01), Mlenhart sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-07-05** | First recorded email in corpus\n- **2001-05-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mlenhart-juno",
+    "name": "Mlenhart",
+    "email": "mlenhart@juno.com",
+    "primary_affiliation": "companies/juno"
+  }
+}

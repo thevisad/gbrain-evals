@@ -1,0 +1,14 @@
+{
+  "slug": "people/jacquelyn-matthews",
+  "type": "person",
+  "title": "Jacquelyn Matthews",
+  "compiled_truth": "Jacquelyn Matthews is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-12 to 2001-10-29), Jacquelyn Matthews sent 2 and received 23 emails, totalling 25 interactions. Top correspondents: [Darren Ramsey](people/darren-ramsey) (2), [Helen Ding](people/helen-ding) (2), [Michelle Merritt](people/michelle-merritt) (2), [Song Gao](people/song-gao) (2), [Todd Richards](people/todd-richards) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-12** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jacquelyn-matthews",
+    "name": "Jacquelyn Matthews",
+    "email": "jacquelyn.matthews@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jesse-logan",
+  "type": "person",
+  "title": "Jesse Logan",
+  "compiled_truth": "Jesse Logan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2001-02-06), Jesse Logan sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jesse-logan",
+    "name": "Jesse Logan",
+    "email": "jesse.logan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

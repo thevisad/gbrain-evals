@@ -1,0 +1,14 @@
+{
+  "slug": "people/cedric-belt",
+  "type": "person",
+  "title": "Cedric Belt",
+  "compiled_truth": "Cedric Belt is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-24 to 2002-02-13), Cedric Belt sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-09-24** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cedric-belt",
+    "name": "Cedric Belt",
+    "email": "cedric.belt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

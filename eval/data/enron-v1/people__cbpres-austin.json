@@ -1,0 +1,14 @@
+{
+  "slug": "people/cbpres-austin",
+  "type": "person",
+  "title": "Cbpres",
+  "compiled_truth": "Cbpres is an external contact at [Austin](companies/austin). Over the corpus period (2000-09-19 to 2001-03-13), Cbpres sent 2 and received 46 emails, totalling 48 interactions. Top correspondents: [Pallen](people/pallen) (2).",
+  "timeline": "- **2000-09-19** | First recorded email in corpus\n- **2001-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cbpres-austin",
+    "name": "Cbpres",
+    "email": "cbpres@austin.rr.com",
+    "primary_affiliation": "companies/austin"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/iain-russell",
+  "type": "person",
+  "title": "Iain Russell",
+  "compiled_truth": "Iain Russell is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-10-16), Iain Russell sent 6 and received 10 emails, totalling 16 interactions. Top correspondents: [Kevin Moore](people/kevin-moore) (6), [Mike Roberts](people/mike-roberts) (6), [Vince Kaminski](people/vince-kaminski) (6), [Shirley Crenshaw](people/shirley-crenshaw) (4), [Carole Rogers](people/carole-rogers) (2).",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-10-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/iain-russell",
+    "name": "Iain Russell",
+    "email": "iain.russell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

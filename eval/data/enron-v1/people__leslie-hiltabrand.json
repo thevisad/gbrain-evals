@@ -1,0 +1,14 @@
+{
+  "slug": "people/leslie-hiltabrand",
+  "type": "person",
+  "title": "Leslie Hiltabrand",
+  "compiled_truth": "Leslie Hiltabrand is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-05-06), Leslie Hiltabrand sent 9 and received 49 emails, totalling 58 interactions. Top correspondents: [J  Kean](people/j-kean) (8), [ Palmer](people/palmer) (6), [Ellie Ahmadi](people/ellie-ahmadi) (4), [Margaret Allen](people/margaret-allen) (4), [John Ambler](people/john-ambler) (4). Mailbox folders observed: deleted_items, humor, inbox, internal_communications, pr_crisis_management, press_releases.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leslie-hiltabrand",
+    "name": "Leslie Hiltabrand",
+    "email": "leslie.hiltabrand@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

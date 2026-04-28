@@ -1,0 +1,14 @@
+{
+  "slug": "people/robtaylor-andrews-kurth",
+  "type": "person",
+  "title": "Robtaylor",
+  "compiled_truth": "Robtaylor is an external contact at [Andrews-kurth](companies/andrews-kurth). Over the corpus period (1980-01-01 to 2000-12-14), Robtaylor sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2000-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robtaylor-andrews-kurth",
+    "name": "Robtaylor",
+    "email": "robtaylor@andrews-kurth.com",
+    "primary_affiliation": "companies/andrews-kurth"
+  }
+}

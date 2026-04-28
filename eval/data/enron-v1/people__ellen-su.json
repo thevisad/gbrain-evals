@@ -1,0 +1,14 @@
+{
+  "slug": "people/ellen-su",
+  "type": "person",
+  "title": "Ellen Su",
+  "compiled_truth": "Ellen Su is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-07), Ellen Su sent 11 and received 94 emails, totalling 105 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (9), [Pushkar Shahi](people/pushkar-shahi) (2), [Clara Carrington](people/clara-carrington) (2), [Darren Delage](people/darren-delage) (1), [N  Anderson](people/n-anderson) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ellen-su",
+    "name": "Ellen Su",
+    "email": "ellen.su@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

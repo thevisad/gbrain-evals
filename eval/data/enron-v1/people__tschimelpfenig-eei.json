@@ -1,0 +1,14 @@
+{
+  "slug": "people/tschimelpfenig-eei",
+  "type": "person",
+  "title": "Tschimelpfenig",
+  "compiled_truth": "Tschimelpfenig is an external contact at [Eei](companies/eei). Over the corpus period (2000-05-18 to 2000-09-18), Tschimelpfenig sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tschimelpfenig-eei",
+    "name": "Tschimelpfenig",
+    "email": "tschimelpfenig@eei.org",
+    "primary_affiliation": "companies/eei"
+  }
+}

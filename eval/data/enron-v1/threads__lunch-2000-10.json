@@ -1,0 +1,30 @@
+{
+  "slug": "threads/lunch-2000-10",
+  "type": "meeting",
+  "title": "Thread: Lunch",
+  "compiled_truth": "Email thread: \"Lunch\". Ran from 2000-10-24 to 2000-11-17 with 25 messages. Participants: [Alli Parent](people/alli-parent), [Becky Spencer](people/becky-spencer), [Benjamin Rogers](people/benjamin-rogers), [Brogers2](people/brogers2), [Carol Clair](people/carol-clair), [Debra Perlingiere](people/debra-perlingiere), [Ellen Wallumrod](people/ellen-wallumrod), [Genia Fitzgerald](people/genia-fitzgerald).",
+  "timeline": "- **2000-10-24** | Thread begins: lunch\n- **2000-11-17** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/lunch-2000-10",
+    "attendees": [
+      "people/alli-parent",
+      "people/becky-spencer",
+      "people/benjamin-rogers",
+      "people/brogers2",
+      "people/carol-clair",
+      "people/debra-perlingiere",
+      "people/ellen-wallumrod",
+      "people/genia-fitzgerald",
+      "people/mark-taylor",
+      "people/mary-cook",
+      "people/nony-flores",
+      "people/samantha-boyd",
+      "people/sara-shackleton",
+      "people/stephanie-panus",
+      "people/susan-bailey",
+      "people/tana-jones"
+    ],
+    "date": "2000-10-24"
+  }
+}

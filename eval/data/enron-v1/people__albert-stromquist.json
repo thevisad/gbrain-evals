@@ -1,0 +1,14 @@
+{
+  "slug": "people/albert-stromquist",
+  "type": "person",
+  "title": "Albert Stromquist",
+  "compiled_truth": "Albert Stromquist is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-21 to 2001-05-11), Albert Stromquist sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-04-21** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/albert-stromquist",
+    "name": "Albert Stromquist",
+    "email": "albert.stromquist@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

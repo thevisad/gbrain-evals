@@ -1,0 +1,14 @@
+{
+  "slug": "people/alice-johnson",
+  "type": "person",
+  "title": "Alice Johnson",
+  "compiled_truth": "Alice Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2002-03-19), Alice Johnson sent 7 and received 91 emails, totalling 98 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (4), [Jean Adams](people/jean-adams) (3), [Patrick Barry](people/patrick-barry) (3), [Robert Benningfield](people/robert-benningfield) (3), [Larry Berger](people/larry-berger) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alice-johnson",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

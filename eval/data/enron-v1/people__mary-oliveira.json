@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-oliveira",
+  "type": "person",
+  "title": "Mary Oliveira",
+  "compiled_truth": "Mary Oliveira is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2000-06-27), Mary Oliveira sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2000-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-oliveira",
+    "name": "Mary Oliveira",
+    "email": "mary.oliveira@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

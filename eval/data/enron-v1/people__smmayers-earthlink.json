@@ -1,0 +1,14 @@
+{
+  "slug": "people/smmayers-earthlink",
+  "type": "person",
+  "title": "Smmayers",
+  "compiled_truth": "Smmayers is an external contact at [Earthlink](companies/earthlink). Over the corpus period (2000-06-12 to 2001-04-03), Smmayers sent 0 and received 88 emails, totalling 88 interactions.",
+  "timeline": "- **2000-06-12** | First recorded email in corpus\n- **2001-04-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/smmayers-earthlink",
+    "name": "Smmayers",
+    "email": "smmayers@earthlink.net",
+    "primary_affiliation": "companies/earthlink"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jones-mca-architects",
+  "type": "person",
+  "title": "Jones",
+  "compiled_truth": "Jones is an external contact at [Mca-architects](companies/mca-architects). Over the corpus period (2000-09-21 to 2001-04-23), Jones sent 6 and received 28 emails, totalling 34 interactions. Top correspondents: [Mark Guzman](people/mark-guzman) (6), [Andym](people/andym-vlmk) (3), [Chartman](people/chartman-nbsrealtors) (3), [Joev](people/joev-ripcity) (3), [Ben Pacewic](people/ben-pacewic-phs) (2).",
+  "timeline": "- **2000-09-21** | First recorded email in corpus\n- **2001-04-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jones-mca-architects",
+    "name": "Jones",
+    "email": "jones@mca-architects.com",
+    "primary_affiliation": "companies/mca-architects"
+  }
+}

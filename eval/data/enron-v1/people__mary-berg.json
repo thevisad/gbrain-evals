@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-berg",
+  "type": "person",
+  "title": "Mary Berg",
+  "compiled_truth": "Mary Berg is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-07-10), Mary Berg sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-berg",
+    "name": "Mary Berg",
+    "email": "mary.berg@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

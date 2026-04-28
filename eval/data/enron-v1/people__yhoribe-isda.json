@@ -1,0 +1,14 @@
+{
+  "slug": "people/yhoribe-isda",
+  "type": "person",
+  "title": "Yhoribe",
+  "compiled_truth": "Yhoribe is an external contact at [Isda](companies/isda). Over the corpus period (2000-09-07 to 2001-07-09), Yhoribe sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-07-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yhoribe-isda",
+    "name": "Yhoribe",
+    "email": "yhoribe@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

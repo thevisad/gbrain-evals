@@ -1,0 +1,14 @@
+{
+  "slug": "people/gregory-schockling",
+  "type": "person",
+  "title": "Gregory Schockling",
+  "compiled_truth": "Gregory Schockling is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-24 to 2002-04-22), Gregory Schockling sent 66 and received 194 emails, totalling 260 interactions. Top correspondents: [Joe Parks](people/joe-parks) (65), [Jay Knoblauh](people/jay-knoblauh) (27), [Ragan Bond](people/ragan-bond) (26), [Tiffany Smith](people/tiffany-smith) (26), [Jeffery Stephens](people/jeffery-stephens) (19). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-04-24** | First recorded email in corpus\n- **2002-04-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gregory-schockling",
+    "name": "Gregory Schockling",
+    "email": "gregory.schockling@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

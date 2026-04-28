@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-redding-gene",
+  "type": "person",
+  "title": "John Redding",
+  "compiled_truth": "John Redding is an external contact at [Gene](companies/gene). Over the corpus period (2001-03-07 to 2001-11-14), John Redding sent 1 and received 61 emails, totalling 62 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (1).",
+  "timeline": "- **2001-03-07** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-redding-gene",
+    "name": "John Redding",
+    "email": "john.redding@gene.ge.com",
+    "primary_affiliation": "companies/gene"
+  }
+}

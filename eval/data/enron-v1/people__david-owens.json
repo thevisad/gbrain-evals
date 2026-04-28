@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-owens",
+  "type": "person",
+  "title": "David Owens",
+  "compiled_truth": "David Owens is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-23 to 2001-09-27), David Owens sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-03-23** | First recorded email in corpus\n- **2001-09-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-owens",
+    "name": "David Owens",
+    "email": "david.owens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/diane-ellstrom",
+  "type": "person",
+  "title": "Diane Ellstrom",
+  "compiled_truth": "Diane Ellstrom is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-24 to 2001-12-06), Diane Ellstrom sent 0 and received 417 emails, totalling 417 interactions.",
+  "timeline": "- **1998-11-24** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diane-ellstrom",
+    "name": "Diane Ellstrom",
+    "email": "diane.ellstrom@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

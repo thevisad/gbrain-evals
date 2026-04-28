@@ -1,0 +1,14 @@
+{
+  "slug": "people/engler-cheryl",
+  "type": "person",
+  "title": "Engler Cheryl",
+  "compiled_truth": "Engler Cheryl is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Engler Cheryl sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/engler-cheryl",
+    "name": "Engler Cheryl",
+    "email": "engler.cheryl@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

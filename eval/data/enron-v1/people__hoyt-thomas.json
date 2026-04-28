@@ -1,0 +1,14 @@
+{
+  "slug": "people/hoyt-thomas",
+  "type": "person",
+  "title": "Hoyt Thomas",
+  "compiled_truth": "Hoyt Thomas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2000-09-27), Hoyt Thomas sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2000-09-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hoyt-thomas",
+    "name": "Hoyt Thomas",
+    "email": "hoyt.thomas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

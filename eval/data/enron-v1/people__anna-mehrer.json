@@ -1,0 +1,14 @@
+{
+  "slug": "people/anna-mehrer",
+  "type": "person",
+  "title": "Anna Mehrer",
+  "compiled_truth": "Anna Mehrer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-01 to 2002-01-11), Anna Mehrer sent 48 and received 178 emails, totalling 226 interactions. Top correspondents: [Holden Salisbury](people/holden-salisbury) (18), [Sean Crandall](people/sean-crandall) (14), [Debra Davidson](people/debra-davidson) (14), [Tom Alonso](people/tom-alonso) (11), [Diana Scholtes](people/diana-scholtes) (11). Mailbox folders observed: bill_williams_iii, calendar, inbox, read, stuff.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anna-mehrer",
+    "name": "Anna Mehrer",
+    "email": "anna.mehrer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

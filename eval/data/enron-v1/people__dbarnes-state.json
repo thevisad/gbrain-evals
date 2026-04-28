@@ -1,0 +1,14 @@
+{
+  "slug": "people/dbarnes-state",
+  "type": "person",
+  "title": "Dbarnes",
+  "compiled_truth": "Dbarnes is an external contact at [State](companies/state). Over the corpus period (2001-04-30 to 2001-04-30), Dbarnes sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dbarnes-state",
+    "name": "Dbarnes",
+    "email": "dbarnes@state.pa.us",
+    "primary_affiliation": "companies/state"
+  }
+}

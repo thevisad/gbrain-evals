@@ -1,0 +1,14 @@
+{
+  "slug": "people/wayne-andrews",
+  "type": "person",
+  "title": "Wayne Andrews",
+  "compiled_truth": "Wayne Andrews is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-10 to 2001-11-20), Wayne Andrews sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-05-10** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wayne-andrews",
+    "name": "Wayne Andrews",
+    "email": "wayne.andrews@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

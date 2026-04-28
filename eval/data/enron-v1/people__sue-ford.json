@@ -1,0 +1,14 @@
+{
+  "slug": "people/sue-ford",
+  "type": "person",
+  "title": "Sue Ford",
+  "compiled_truth": "Sue Ford is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-15 to 2002-05-06), Sue Ford sent 15 and received 305 emails, totalling 320 interactions. Top correspondents: [Marsha Schiller](people/marsha-schiller) (9), [Raymond Bowen](people/raymond-bowen) (8), [Rick Buy](people/rick-buy) (8), [K  Heathman](people/k-heathman) (8), [Greg Whalley](people/greg-whalley) (8). Mailbox folders observed: deleted_items, inbox, pr_crisis_management.",
+  "timeline": "- **1999-10-15** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sue-ford",
+    "name": "Sue Ford",
+    "email": "sue.ford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

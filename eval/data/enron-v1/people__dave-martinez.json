@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-martinez",
+  "type": "person",
+  "title": "Dave Martinez",
+  "compiled_truth": "Dave Martinez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-15 to 2001-11-21), Dave Martinez sent 1 and received 7 emails, totalling 8 interactions. Top correspondents: [David Berberian](people/david-berberian) (1), [Rick Bergsieker](people/rick-bergsieker) (1), [Philippe Bibi](people/philippe-bibi) (1), [Jeremy Blachman](people/jeremy-blachman) (1), [Raymond Bowen](people/raymond-bowen) (1).",
+  "timeline": "- **2000-09-15** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-martinez",
+    "name": "Dave Martinez",
+    "email": "dave.martinez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

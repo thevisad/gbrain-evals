@@ -1,0 +1,14 @@
+{
+  "slug": "people/bryan-jurecek",
+  "type": "person",
+  "title": "Bryan Jurecek",
+  "compiled_truth": "Bryan Jurecek is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-20 to 2001-02-06), Bryan Jurecek sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bryan-jurecek",
+    "name": "Bryan Jurecek",
+    "email": "bryan.jurecek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

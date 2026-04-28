@@ -1,0 +1,14 @@
+{
+  "slug": "people/ssefton-enron",
+  "type": "person",
+  "title": "Ssefton",
+  "compiled_truth": "Ssefton is an external contact at [Enron](companies/enron). Over the corpus period (1999-07-07 to 1999-08-10), Ssefton sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **1999-07-07** | First recorded email in corpus\n- **1999-08-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ssefton-enron",
+    "name": "Ssefton",
+    "email": "ssefton@enron.co.uk",
+    "primary_affiliation": "companies/enron"
+  }
+}

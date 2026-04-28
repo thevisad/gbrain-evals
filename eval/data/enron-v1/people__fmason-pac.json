@@ -1,0 +1,14 @@
+{
+  "slug": "people/fmason-pac",
+  "type": "person",
+  "title": "Fmason",
+  "compiled_truth": "Fmason is an external contact at [Pac](companies/pac). Over the corpus period (2000-08-29 to 2000-08-29), Fmason sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-08-29** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fmason-pac",
+    "name": "Fmason",
+    "email": "fmason@pac.state.ca.us",
+    "primary_affiliation": "companies/pac"
+  }
+}

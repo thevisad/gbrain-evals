@@ -1,0 +1,14 @@
+{
+  "slug": "people/brad-lawson",
+  "type": "person",
+  "title": "Brad Lawson",
+  "compiled_truth": "Brad Lawson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-11 to 2001-10-31), Brad Lawson sent 3 and received 10 emails, totalling 13 interactions. Top correspondents: [Tana Jones](people/tana-jones) (3).",
+  "timeline": "- **2000-10-11** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brad-lawson",
+    "name": "Brad Lawson",
+    "email": "brad.lawson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

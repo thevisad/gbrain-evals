@@ -1,0 +1,14 @@
+{
+  "slug": "people/suetens-david",
+  "type": "person",
+  "title": "Suetens' 'David",
+  "compiled_truth": "Suetens' 'David is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-09 to 2001-07-09), Suetens' 'David sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suetens-david",
+    "name": "Suetens' 'David",
+    "email": "suetens'.'david@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

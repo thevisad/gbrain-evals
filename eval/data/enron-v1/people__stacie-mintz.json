@@ -1,0 +1,14 @@
+{
+  "slug": "people/stacie-mintz",
+  "type": "person",
+  "title": "Stacie Mintz",
+  "compiled_truth": "Stacie Mintz is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-05-09), Stacie Mintz sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stacie-mintz",
+    "name": "Stacie Mintz",
+    "email": "stacie.mintz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

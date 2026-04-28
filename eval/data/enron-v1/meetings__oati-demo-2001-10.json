@@ -1,0 +1,26 @@
+{
+  "slug": "meetings/oati-demo-2001-10",
+  "type": "meeting",
+  "title": "Meeting: Oati Demo",
+  "compiled_truth": "Meeting: \"Oati Demo\". Occurred 2001-10-19 with 1 related emails. Participants included: [Andy Rodriquez](people/andy-rodriquez), [Corry Bentley](people/corry-bentley), [David Poston](people/david-poston), [Debra Bailey](people/debra-bailey), [Don Baughman](people/don-baughman), [Jason Choate](people/jason-choate), [Juan Hernandez](people/juan-hernandez), [Kayne Coulter](people/kayne-coulter)....",
+  "timeline": "- **2001-10-19** | Meeting: oati demo",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/oati-demo-2001-10",
+    "attendees": [
+      "people/andy-rodriquez",
+      "people/corry-bentley",
+      "people/david-poston",
+      "people/debra-bailey",
+      "people/don-baughman",
+      "people/jason-choate",
+      "people/juan-hernandez",
+      "people/kayne-coulter",
+      "people/l-day",
+      "people/lloyd-will",
+      "people/patrick-hanse",
+      "people/rika-imai"
+    ],
+    "date": "2001-10-19"
+  }
+}

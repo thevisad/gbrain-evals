@@ -1,0 +1,14 @@
+{
+  "slug": "people/barry-tycholiz",
+  "type": "person",
+  "title": "Barry Tycholiz",
+  "compiled_truth": "Barry Tycholiz is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-21), Barry Tycholiz sent 623 and received 1527 emails, totalling 2150 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (64), [Mark Whitt](people/mark-whitt) (58), [Stephanie Miller](people/stephanie-miller) (57), [Jessica Presas](people/jessica-presas) (54), [Jeff Dasovich](people/jeff-dasovich) (38). Mailbox folders observed: _americas, _sent_mail, cdwr, citizens_utilities, contacts, deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barry-tycholiz",
+    "name": "Barry Tycholiz",
+    "email": "barry.tycholiz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

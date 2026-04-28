@@ -1,0 +1,14 @@
+{
+  "slug": "people/kgk-hoegh",
+  "type": "person",
+  "title": "Kgk",
+  "compiled_truth": "Kgk is an external contact at [Hoegh](companies/hoegh). Over the corpus period (2001-03-09 to 2001-06-08), Kgk sent 12 and received 44 emails, totalling 56 interactions. Top correspondents: [Dan Masters](people/dan-masters) (12), [Jim Fernie](people/jim-fernie) (12), [Tony Galt](people/tony-galt) (12), [Paul Y'Barbo](people/paul-y-barbo) (12), [Wayne Perry](people/wayne-perry) (12).",
+  "timeline": "- **2001-03-09** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kgk-hoegh",
+    "name": "Kgk",
+    "email": "kgk@hoegh.no",
+    "primary_affiliation": "companies/hoegh"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-saindon",
+  "type": "person",
+  "title": "David Saindon",
+  "compiled_truth": "David Saindon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-11-12), David Saindon sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-saindon",
+    "name": "David Saindon",
+    "email": "david.saindon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

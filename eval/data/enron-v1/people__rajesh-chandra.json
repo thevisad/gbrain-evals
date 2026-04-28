@@ -1,0 +1,14 @@
+{
+  "slug": "people/rajesh-chandra",
+  "type": "person",
+  "title": "Rajesh Chandra",
+  "compiled_truth": "Rajesh Chandra is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-10 to 2001-10-19), Rajesh Chandra sent 7 and received 35 emails, totalling 42 interactions. Top correspondents: [Paul Y'Barbo](people/paul-y-barbo) (4), [Daniel Rogers](people/daniel-rogers) (1), [Tony Paul](people/tony-paul) (1). Mailbox folders observed: inbox, oman_lng.",
+  "timeline": "- **2001-04-10** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rajesh-chandra",
+    "name": "Rajesh Chandra",
+    "email": "rajesh.chandra@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

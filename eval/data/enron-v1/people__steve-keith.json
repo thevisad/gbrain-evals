@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-keith",
+  "type": "person",
+  "title": "Steve Keith",
+  "compiled_truth": "Steve Keith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-11-03), Steve Keith sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-keith",
+    "name": "Steve Keith",
+    "email": "steve.keith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

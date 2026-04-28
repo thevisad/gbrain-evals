@@ -1,0 +1,14 @@
+{
+  "slug": "people/sally-keepers",
+  "type": "person",
+  "title": "Sally Keepers",
+  "compiled_truth": "Sally Keepers is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-17), Sally Keepers sent 13 and received 48 emails, totalling 61 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (13), [Rosalee Fleming](people/rosalee-fleming) (6), [Mrslinda](people/mrslinda-lplpi) (4), [Vermeil](people/vermeil-ev1) (2), [Nlay](people/nlay-worldnet) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sally-keepers",
+    "name": "Sally Keepers",
+    "email": "sally.keepers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

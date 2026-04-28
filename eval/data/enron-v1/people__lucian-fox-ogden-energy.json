@@ -1,0 +1,14 @@
+{
+  "slug": "people/lucian-fox-ogden-energy",
+  "type": "person",
+  "title": "Lucian Fox",
+  "compiled_truth": "Lucian Fox is an external contact at [Ogden-energy](companies/ogden-energy). Over the corpus period (2000-12-29 to 2001-03-26), Lucian Fox sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **2000-12-29** | First recorded email in corpus\n- **2001-03-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lucian-fox-ogden-energy",
+    "name": "Lucian Fox",
+    "email": "lucian_fox@ogden-energy.com",
+    "primary_affiliation": "companies/ogden-energy"
+  }
+}

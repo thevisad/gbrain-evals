@@ -1,0 +1,14 @@
+{
+  "slug": "people/caltech-ns",
+  "type": "person",
+  "title": "Caltech",
+  "compiled_truth": "Caltech is an external contact at [Ns](companies/ns). Over the corpus period (2000-09-01 to 2001-02-15), Caltech sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-02-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/caltech-ns",
+    "name": "Caltech",
+    "email": "caltech@ns.net",
+    "primary_affiliation": "companies/ns"
+  }
+}

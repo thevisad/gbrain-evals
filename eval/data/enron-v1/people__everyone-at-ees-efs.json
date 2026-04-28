@@ -1,0 +1,14 @@
+{
+  "slug": "people/everyone-at-ees-efs",
+  "type": "person",
+  "title": "Everyone At Ees Efs",
+  "compiled_truth": "Everyone At Ees Efs is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-27 to 1999-09-27), Everyone At Ees Efs sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-09-27** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/everyone-at-ees-efs",
+    "name": "Everyone At Ees Efs",
+    "email": "everyone_at_ees_efs@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

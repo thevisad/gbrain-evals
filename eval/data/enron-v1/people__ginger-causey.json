@@ -1,0 +1,14 @@
+{
+  "slug": "people/ginger-causey",
+  "type": "person",
+  "title": "Ginger Causey",
+  "compiled_truth": "Ginger Causey is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-11-13), Ginger Causey sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ginger-causey",
+    "name": "Ginger Causey",
+    "email": "ginger.causey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

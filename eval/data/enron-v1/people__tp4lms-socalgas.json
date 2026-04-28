@@ -1,0 +1,14 @@
+{
+  "slug": "people/tp4lms-socalgas",
+  "type": "person",
+  "title": "Tp4Lms",
+  "compiled_truth": "Tp4Lms is an external contact at [Socalgas](companies/socalgas). Over the corpus period (2000-02-23 to 2000-07-06), Tp4Lms sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2000-07-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tp4lms-socalgas",
+    "name": "Tp4Lms",
+    "email": "tp4lms@socalgas.com",
+    "primary_affiliation": "companies/socalgas"
+  }
+}

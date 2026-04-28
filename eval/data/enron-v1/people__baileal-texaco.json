@@ -1,0 +1,14 @@
+{
+  "slug": "people/baileal-texaco",
+  "type": "person",
+  "title": "Baileal",
+  "compiled_truth": "Baileal is an external contact at [Texaco](companies/texaco). Over the corpus period (2000-02-12 to 2001-09-04), Baileal sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/baileal-texaco",
+    "name": "Baileal",
+    "email": "baileal@texaco.com",
+    "primary_affiliation": "companies/texaco"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/claire-wright",
+  "type": "person",
+  "title": "Claire Wright",
+  "compiled_truth": "Claire Wright is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-09 to 2002-01-10), Claire Wright sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-05-09** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/claire-wright",
+    "name": "Claire Wright",
+    "email": "claire.wright@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

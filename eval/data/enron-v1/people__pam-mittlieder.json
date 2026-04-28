@@ -1,0 +1,14 @@
+{
+  "slug": "people/pam-mittlieder",
+  "type": "person",
+  "title": "Pam Mittlieder",
+  "compiled_truth": "Pam Mittlieder is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-25 to 2001-11-28), Pam Mittlieder sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-09-25** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pam-mittlieder",
+    "name": "Pam Mittlieder",
+    "email": "pam.mittlieder@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/peter-lund-neg",
+  "type": "person",
+  "title": "Peter Lund",
+  "compiled_truth": "Peter Lund is an external contact at [Neg](companies/neg). Over the corpus period (2001-10-25 to 2001-11-27), Peter Lund sent 1 and received 3 emails, totalling 4 interactions. Top correspondents: [Donnelly' 'Joyce](people/donnelly-joyce) (1), [Palmer Tony](people/palmer-tony) (1), [Eric Gadd](people/eric-gadd) (1), [Patrick Steve](people/patrick-steve) (1), [Purcell Bill](people/purcell-bill) (1).",
+  "timeline": "- **2001-10-25** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peter-lund-neg",
+    "name": "Peter Lund",
+    "email": "peter.lund@neg.pge.com",
+    "primary_affiliation": "companies/neg"
+  }
+}

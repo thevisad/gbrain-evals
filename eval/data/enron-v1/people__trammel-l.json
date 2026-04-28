@@ -1,0 +1,14 @@
+{
+  "slug": "people/trammel-l",
+  "type": "person",
+  "title": "Trammel L ",
+  "compiled_truth": "Trammel L  is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Trammel L  sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/trammel-l",
+    "name": "Trammel L ",
+    "email": "trammel.l.@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

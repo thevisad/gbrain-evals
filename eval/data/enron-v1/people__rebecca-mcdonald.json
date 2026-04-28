@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebecca-mcdonald",
+  "type": "person",
+  "title": "Rebecca Mcdonald",
+  "compiled_truth": "Rebecca Mcdonald is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-13 to 2001-10-18), Rebecca Mcdonald sent 4 and received 286 emails, totalling 290 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1), [Sanjay Bhatnagar](people/sanjay-bhatnagar) (1), [James Hughes](people/james-hughes) (1), [Rob Walls](people/rob-walls) (1), [Wade Cline](people/wade-cline) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-10-13** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebecca-mcdonald",
+    "name": "Rebecca Mcdonald",
+    "email": "rebecca.mcdonald@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

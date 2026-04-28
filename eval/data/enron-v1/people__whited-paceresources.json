@@ -1,0 +1,14 @@
+{
+  "slug": "people/whited-paceresources",
+  "type": "person",
+  "title": "Whited",
+  "compiled_truth": "Whited is an external contact at [Paceresources](companies/paceresources). Over the corpus period (1999-09-24 to 2000-08-25), Whited sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2000-08-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/whited-paceresources",
+    "name": "Whited",
+    "email": "whited@paceresources.com",
+    "primary_affiliation": "companies/paceresources"
+  }
+}

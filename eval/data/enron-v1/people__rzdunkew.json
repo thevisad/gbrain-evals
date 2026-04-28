@@ -1,0 +1,14 @@
+{
+  "slug": "people/rzdunkew",
+  "type": "person",
+  "title": "Rzdunkew",
+  "compiled_truth": "Rzdunkew is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-17 to 2000-05-15), Rzdunkew sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2000-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rzdunkew",
+    "name": "Rzdunkew",
+    "email": "rzdunkew@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

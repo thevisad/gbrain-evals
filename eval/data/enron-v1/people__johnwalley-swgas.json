@@ -1,0 +1,14 @@
+{
+  "slug": "people/johnwalley-swgas",
+  "type": "person",
+  "title": "Johnwalley",
+  "compiled_truth": "Johnwalley is an external contact at [Swgas](companies/swgas). Over the corpus period (2000-07-07 to 2000-12-12), Johnwalley sent 0 and received 45 emails, totalling 45 interactions.",
+  "timeline": "- **2000-07-07** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/johnwalley-swgas",
+    "name": "Johnwalley",
+    "email": "johnwalley@swgas.com",
+    "primary_affiliation": "companies/swgas"
+  }
+}

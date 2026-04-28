@@ -1,0 +1,14 @@
+{
+  "slug": "people/lnpena-telemundo",
+  "type": "person",
+  "title": "Lnpena",
+  "compiled_truth": "Lnpena is an external contact at [Telemundo](companies/telemundo). Over the corpus period (2001-06-04 to 2001-11-06), Lnpena sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lnpena-telemundo",
+    "name": "Lnpena",
+    "email": "lnpena@telemundo.com",
+    "primary_affiliation": "companies/telemundo"
+  }
+}

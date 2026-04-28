@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-destefano",
+  "type": "person",
+  "title": "Michael Destefano",
+  "compiled_truth": "Michael Destefano is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-08 to 2001-03-22), Michael Destefano sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-02-08** | First recorded email in corpus\n- **2001-03-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-destefano",
+    "name": "Michael Destefano",
+    "email": "michael.destefano@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

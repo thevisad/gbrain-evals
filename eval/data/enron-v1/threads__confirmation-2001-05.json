@@ -1,0 +1,21 @@
+{
+  "slug": "threads/confirmation-2001-05",
+  "type": "meeting",
+  "title": "Thread: Confirmation",
+  "compiled_truth": "Email thread: \"Confirmation\". Ran from 2001-05-01 to 2001-05-16 with 13 messages. Participants: [Chris Stokley](people/chris-stokley), [Dan Hyvl](people/dan-hyvl), [Donna Johnson](people/donna-johnson), [Elizabeth Sager](people/elizabeth-sager), [Joseph Wagner](people/joseph-wagner), [Kalmeida](people/kalmeida-caiso), [Phil Demoes](people/phil-demoes).",
+  "timeline": "- **2001-05-01** | Thread begins: confirmation\n- **2001-05-16** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/confirmation-2001-05",
+    "attendees": [
+      "people/chris-stokley",
+      "people/dan-hyvl",
+      "people/donna-johnson",
+      "people/elizabeth-sager",
+      "people/joseph-wagner",
+      "people/kalmeida-caiso",
+      "people/phil-demoes"
+    ],
+    "date": "2001-05-01"
+  }
+}

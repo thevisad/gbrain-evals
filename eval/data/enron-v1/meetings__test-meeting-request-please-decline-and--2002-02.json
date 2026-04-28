@@ -1,0 +1,25 @@
+{
+  "slug": "meetings/test-meeting-request-please-decline-and--2002-02",
+  "type": "meeting",
+  "title": "Meeting: Test Meeting Request - Please Decline And Delete",
+  "compiled_truth": "Meeting: \"Test Meeting Request - Please Decline And Delete\". Occurred 2002-02-06 with 2 related emails. Participants included: [A  Connor](people/a-connor), [C  Gossett](people/c-gossett), [C  Koehler](people/c-koehler), [ Carter](people/carter), [Frank Hayden](people/frank-hayden), [R  Brackett](people/r-brackett), [Rahil Jafry](people/rahil-jafry), [S  Theriot](people/s-theriot)....",
+  "timeline": "- **2002-02-06** | Meeting: test meeting request - please decline and delete",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/test-meeting-request-please-decline-and--2002-02",
+    "attendees": [
+      "people/a-connor",
+      "people/c-gossett",
+      "people/c-koehler",
+      "people/carter",
+      "people/frank-hayden",
+      "people/r-brackett",
+      "people/rahil-jafry",
+      "people/s-theriot",
+      "people/stephanie-mcginnis",
+      "people/vladimir-gorny",
+      "people/w-white"
+    ],
+    "date": "2002-02-06"
+  }
+}

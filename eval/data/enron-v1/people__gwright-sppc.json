@@ -1,0 +1,14 @@
+{
+  "slug": "people/gwright-sppc",
+  "type": "person",
+  "title": "Gwright",
+  "compiled_truth": "Gwright is an external contact at [Sppc](companies/sppc). Over the corpus period (2001-03-21 to 2001-03-21), Gwright sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-03-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gwright-sppc",
+    "name": "Gwright",
+    "email": "gwright@sppc.com",
+    "primary_affiliation": "companies/sppc"
+  }
+}

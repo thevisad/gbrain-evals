@@ -1,0 +1,14 @@
+{
+  "slug": "people/marc-janichen",
+  "type": "person",
+  "title": "Marc Janichen",
+  "compiled_truth": "Marc Janichen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-15 to 2001-10-19), Marc Janichen sent 2 and received 32 emails, totalling 34 interactions. Top correspondents: [Eric Gonzales](people/eric-gonzales) (2), [Jonathan Whitehead](people/jonathan-whitehead) (2), [Greg Curran](people/greg-curran) (2), [Doug Arnell](people/doug-arnell) (2), [Clay Harris](people/clay-harris) (2). Mailbox folders observed: enron_lng.",
+  "timeline": "- **2000-09-15** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marc-janichen",
+    "name": "Marc Janichen",
+    "email": "marc.janichen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

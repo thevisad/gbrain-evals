@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/meeting-location-agenda-2002-01",
+  "type": "meeting",
+  "title": "Meeting: Meeting Location & Agenda",
+  "compiled_truth": "Meeting: \"Meeting Location & Agenda\". Occurred 2002-01-30 with 1 related emails. Participants included: [A  Martin](people/a-martin), [D  Steffes](people/d-steffes), [Frank Vickers](people/frank-vickers), [Mike Grigsby](people/mike-grigsby), [Robert Superty](people/robert-superty), [S  Shively](people/s-shively), [Scott Neal](people/scott-neal), [Stephanie Miller](people/stephanie-miller)....",
+  "timeline": "- **2002-01-30** | Meeting: meeting location & agenda",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-location-agenda-2002-01",
+    "attendees": [
+      "people/a-martin",
+      "people/d-steffes",
+      "people/frank-vickers",
+      "people/mike-grigsby",
+      "people/robert-superty",
+      "people/s-shively",
+      "people/scott-neal",
+      "people/stephanie-miller",
+      "people/suzanne-calcagno",
+      "people/t-hodge"
+    ],
+    "date": "2002-01-30"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/edward-quin",
+  "type": "person",
+  "title": "Edward Quin",
+  "compiled_truth": "Edward Quin is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-09-24), Edward Quin sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edward-quin",
+    "name": "Edward Quin",
+    "email": "edward.quin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

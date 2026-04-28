@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-shelk",
+  "type": "person",
+  "title": "John Shelk",
+  "compiled_truth": "John Shelk is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-24 to 2002-01-11), John Shelk sent 89 and received 545 emails, totalling 634 interactions. Top correspondents: [Linda Robertson](people/linda-robertson) (74), [Richard Shapiro](people/richard-shapiro) (72), [Sarah Novosel](people/sarah-novosel) (61), [D  Steffes](people/d-steffes) (52), [Carin Nersesian](people/carin-nersesian) (39). Mailbox folders observed: _americas, congress, deleted_items, fed_legis_2001, federal_legis_, federal_legislation.",
+  "timeline": "- **2001-04-24** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-shelk",
+    "name": "John Shelk",
+    "email": "john.shelk@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

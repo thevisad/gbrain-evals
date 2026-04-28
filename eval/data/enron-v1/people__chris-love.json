@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-love",
+  "type": "person",
+  "title": "Chris Love",
+  "compiled_truth": "Chris Love is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2002-05-06), Chris Love sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-love",
+    "name": "Chris Love",
+    "email": "chris.love@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/morela-hernandez",
+  "type": "person",
+  "title": "Morela Hernandez",
+  "compiled_truth": "Morela Hernandez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-12 to 2001-12-03), Morela Hernandez sent 11 and received 82 emails, totalling 93 interactions. Top correspondents: [Monika Causholli](people/monika-causholli) (5), [Brian Falik](people/brian-falik) (4), [Gerald Nemec](people/gerald-nemec) (3), [Michelle Akers](people/michelle-akers) (3), [Adam Bayer](people/adam-bayer) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-06-12** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/morela-hernandez",
+    "name": "Morela Hernandez",
+    "email": "morela.hernandez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/steuber-c",
+  "type": "person",
+  "title": "Steuber C ",
+  "compiled_truth": "Steuber C  is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-08 to 2002-01-09), Steuber C  sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steuber-c",
+    "name": "Steuber C ",
+    "email": "steuber.c.@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

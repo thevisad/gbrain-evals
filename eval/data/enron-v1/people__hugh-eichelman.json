@@ -1,0 +1,14 @@
+{
+  "slug": "people/hugh-eichelman",
+  "type": "person",
+  "title": "Hugh Eichelman",
+  "compiled_truth": "Hugh Eichelman is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-09-25), Hugh Eichelman sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hugh-eichelman",
+    "name": "Hugh Eichelman",
+    "email": "hugh.eichelman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

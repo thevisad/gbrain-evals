@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheryl-kondo",
+  "type": "person",
+  "title": "Cheryl Kondo",
+  "compiled_truth": "Cheryl Kondo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-02 to 2001-05-22), Cheryl Kondo sent 3 and received 5 emails, totalling 8 interactions. Top correspondents: [Richard Sanders](people/richard-sanders) (3), [Kenton Erwin](people/kenton-erwin) (2), [Dhassem](people/dhassem-citgo) (2), [Twanda Sweet](people/twanda-sweet) (2), [Tsweet](people/tsweet) (1).",
+  "timeline": "- **2000-05-02** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheryl-kondo",
+    "name": "Cheryl Kondo",
+    "email": "cheryl_kondo@enron.net",
+    "primary_affiliation": "companies/enron"
+  }
+}

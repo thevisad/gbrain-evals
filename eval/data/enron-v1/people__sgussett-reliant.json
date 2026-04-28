@@ -1,0 +1,14 @@
+{
+  "slug": "people/sgussett-reliant",
+  "type": "person",
+  "title": "Sgussett",
+  "compiled_truth": "Sgussett is an external contact at [Reliant](companies/reliant). Over the corpus period (2001-09-11 to 2001-12-21), Sgussett sent 2 and received 4 emails, totalling 6 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (1).",
+  "timeline": "- **2001-09-11** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sgussett-reliant",
+    "name": "Sgussett",
+    "email": "sgussett@reliant.com",
+    "primary_affiliation": "companies/reliant"
+  }
+}

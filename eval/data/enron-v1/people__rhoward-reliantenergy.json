@@ -1,0 +1,14 @@
+{
+  "slug": "people/rhoward-reliantenergy",
+  "type": "person",
+  "title": "Rhoward",
+  "compiled_truth": "Rhoward is an external contact at [Reliant Energy](companies/reliant-energy). Over the corpus period (2000-08-24 to 2001-03-16), Rhoward sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-08-24** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rhoward-reliantenergy",
+    "name": "Rhoward",
+    "email": "rhoward@reliantenergy.com",
+    "primary_affiliation": "companies/reliant-energy"
+  }
+}

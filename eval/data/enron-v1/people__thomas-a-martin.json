@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas-a-martin",
+  "type": "person",
+  "title": "Thomas A Martin",
+  "compiled_truth": "Thomas A Martin is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-16), Thomas A Martin sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas-a-martin",
+    "name": "Thomas A Martin",
+    "email": "thomas.a.martin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

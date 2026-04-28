@@ -1,0 +1,14 @@
+{
+  "slug": "people/berk-haas",
+  "type": "person",
+  "title": "Berk",
+  "compiled_truth": "Berk is an external contact at [Haas](companies/haas). Over the corpus period (2000-08-25 to 2001-02-13), Berk sent 10 and received 28 emails, totalling 38 interactions. Top correspondents: [Abilla](people/abilla-haas) (10), [Asbo](people/asbo-haas) (10), [Bansal](people/bansal-haas) (10), [Sboyle](people/sboyle-haas) (10), [Bukowski](people/bukowski-haas) (10).",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/berk-haas",
+    "name": "Berk",
+    "email": "berk@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-sokolov",
+  "type": "person",
+  "title": "Jason Sokolov",
+  "compiled_truth": "Jason Sokolov is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2002-01-15), Jason Sokolov sent 25 and received 137 emails, totalling 162 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (23), [Isranir](people/isranir-rice) (4), [Otaylor](people/otaylor-rice) (4), [Wankhade](people/wankhade-rice) (4), [Zhangn](people/zhangn-rice) (4). Mailbox folders observed: deleted_items, inbox, rice.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-sokolov",
+    "name": "Jason Sokolov",
+    "email": "jason.sokolov@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

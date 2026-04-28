@@ -1,0 +1,14 @@
+{
+  "slug": "people/p-moran",
+  "type": "person",
+  "title": "P  Moran",
+  "compiled_truth": "P  Moran is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-09 to 2001-06-18), P  Moran sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-02-09** | First recorded email in corpus\n- **2001-06-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/p-moran",
+    "name": "P  Moran",
+    "email": "p..moran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

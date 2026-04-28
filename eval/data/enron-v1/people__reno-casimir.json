@@ -1,0 +1,14 @@
+{
+  "slug": "people/reno-casimir",
+  "type": "person",
+  "title": "Reno Casimir",
+  "compiled_truth": "Reno Casimir is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-29 to 2001-11-21), Reno Casimir sent 1 and received 16 emails, totalling 17 interactions. Top correspondents: [Brad Jones](people/brad-jones) (1), [Errol Mclaughlin](people/errol-mclaughlin) (1), [William Kelly](people/william-kelly) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-01-29** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reno-casimir",
+    "name": "Reno Casimir",
+    "email": "reno.casimir@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/stella-ely",
+  "type": "person",
+  "title": "Stella Ely",
+  "compiled_truth": "Stella Ely is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2000-12-07), Stella Ely sent 1 and received 68 emails, totalling 69 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1), [Patricia Tlapek](people/patricia-tlapek) (1), [Jeff Kinneman](people/jeff-kinneman) (1).",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2000-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stella-ely",
+    "name": "Stella Ely",
+    "email": "stella.ely@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

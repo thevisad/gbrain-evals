@@ -1,0 +1,14 @@
+{
+  "slug": "people/jgalvan-kpmg",
+  "type": "person",
+  "title": "Jgalvan",
+  "compiled_truth": "Jgalvan is an external contact at [Kpmg](companies/kpmg). Over the corpus period (2001-08-23 to 2001-10-12), Jgalvan sent 26 and received 14 emails, totalling 40 interactions. Top correspondents: [Chris Stokley](people/chris-stokley) (26), [Wilson](people/wilson) (10), [Rdwilson](people/rdwilson-kpmg) (10), [Steven Fisher](people/steven-fisher) (10), [D  Wilson](people/d-wilson) (9).",
+  "timeline": "- **2001-08-23** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jgalvan-kpmg",
+    "name": "Jgalvan",
+    "email": "jgalvan@kpmg.com",
+    "primary_affiliation": "companies/kpmg"
+  }
+}

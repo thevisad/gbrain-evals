@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-simpson",
+  "type": "person",
+  "title": "George Simpson",
+  "compiled_truth": "George Simpson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-10-12), George Simpson sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-simpson",
+    "name": "George Simpson",
+    "email": "george.simpson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

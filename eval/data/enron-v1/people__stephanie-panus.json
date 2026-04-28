@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephanie-panus",
+  "type": "person",
+  "title": "Stephanie Panus",
+  "compiled_truth": "Stephanie Panus is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Stephanie Panus sent 400 and received 2209 emails, totalling 2609 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (211), [Susan Bailey](people/susan-bailey) (134), [Brent Hendry](people/brent-hendry) (111), [Tana Jones](people/tana-jones) (107), [Mary Cook](people/mary-cook) (104). Mailbox folders observed: bankrupt, confirms___equity, contacts, credit, deleted_items, gas_customers___chris_foster.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephanie-panus",
+    "name": "Stephanie Panus",
+    "email": "stephanie.panus@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

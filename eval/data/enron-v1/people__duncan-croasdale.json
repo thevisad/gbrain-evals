@@ -1,0 +1,14 @@
+{
+  "slug": "people/duncan-croasdale",
+  "type": "person",
+  "title": "Duncan Croasdale",
+  "compiled_truth": "Duncan Croasdale is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-23 to 2001-08-13), Duncan Croasdale sent 1 and received 11 emails, totalling 12 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (1).",
+  "timeline": "- **2000-01-23** | First recorded email in corpus\n- **2001-08-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/duncan-croasdale",
+    "name": "Duncan Croasdale",
+    "email": "duncan.croasdale@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

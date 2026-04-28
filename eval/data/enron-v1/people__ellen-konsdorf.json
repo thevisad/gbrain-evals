@@ -1,0 +1,14 @@
+{
+  "slug": "people/ellen-konsdorf",
+  "type": "person",
+  "title": "Ellen Konsdorf",
+  "compiled_truth": "Ellen Konsdorf is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-13 to 2001-11-27), Ellen Konsdorf sent 1 and received 22 emails, totalling 23 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (1), [Larry Deroin](people/larry-deroin) (1), [Bill Cordes](people/bill-cordes) (1), [Jerry Peters](people/jerry-peters) (1), [Mark Koenig](people/mark-koenig) (1).",
+  "timeline": "- **2000-01-13** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ellen-konsdorf",
+    "name": "Ellen Konsdorf",
+    "email": "ellen.konsdorf@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

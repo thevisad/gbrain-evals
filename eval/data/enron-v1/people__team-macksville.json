@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-macksville",
+  "type": "person",
+  "title": "Team Macksville",
+  "compiled_truth": "Team Macksville is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-12 to 2002-03-25), Team Macksville sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2001-10-12** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-macksville",
+    "name": "Team Macksville",
+    "email": "team.macksville@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

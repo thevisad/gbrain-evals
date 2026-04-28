@@ -1,0 +1,14 @@
+{
+  "slug": "people/jinsung-myung",
+  "type": "person",
+  "title": "Jinsung Myung",
+  "compiled_truth": "Jinsung Myung is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2001-08-06), Jinsung Myung sent 83 and received 211 emails, totalling 294 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (81), [Don Miller](people/don-miller) (26), [Jonathan Hoff](people/jonathan-hoff) (17), [Thomas Suffield](people/thomas-suffield) (8), [Scott Healy](people/scott-healy) (7). Mailbox folders observed: florida.",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2001-08-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jinsung-myung",
+    "name": "Jinsung Myung",
+    "email": "jinsung.myung@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

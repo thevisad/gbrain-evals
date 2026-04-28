@@ -1,0 +1,14 @@
+{
+  "slug": "people/christim-crowedunlevy",
+  "type": "person",
+  "title": "Christim",
+  "compiled_truth": "Christim is an external contact at [Crowedunlevy](companies/crowedunlevy). Over the corpus period (2000-11-21 to 2001-10-16), Christim sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-21** | First recorded email in corpus\n- **2001-10-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christim-crowedunlevy",
+    "name": "Christim",
+    "email": "christim@crowedunlevy.com",
+    "primary_affiliation": "companies/crowedunlevy"
+  }
+}

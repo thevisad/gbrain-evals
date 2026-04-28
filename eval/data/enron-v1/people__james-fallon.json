@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-fallon",
+  "type": "person",
+  "title": "James Fallon",
+  "compiled_truth": "James Fallon is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2001-06-18), James Fallon sent 1 and received 110 emails, totalling 111 interactions. Top correspondents: [Greg Whalley](people/greg-whalley) (1).",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2001-06-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-fallon",
+    "name": "James Fallon",
+    "email": "james.fallon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

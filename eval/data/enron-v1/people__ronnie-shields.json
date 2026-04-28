@@ -1,0 +1,14 @@
+{
+  "slug": "people/ronnie-shields",
+  "type": "person",
+  "title": "Ronnie Shields",
+  "compiled_truth": "Ronnie Shields is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-25 to 2001-01-05), Ronnie Shields sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-01-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ronnie-shields",
+    "name": "Ronnie Shields",
+    "email": "ronnie.shields@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

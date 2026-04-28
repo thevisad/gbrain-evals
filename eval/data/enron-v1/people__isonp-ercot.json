@@ -1,0 +1,14 @@
+{
+  "slug": "people/isonp-ercot",
+  "type": "person",
+  "title": "Isonp",
+  "compiled_truth": "Isonp is an external contact at [Ercot](companies/ercot). Over the corpus period (2000-11-15 to 2001-10-17), Isonp sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **2000-11-15** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/isonp-ercot",
+    "name": "Isonp",
+    "email": "isonp@ercot.com",
+    "primary_affiliation": "companies/ercot"
+  }
+}

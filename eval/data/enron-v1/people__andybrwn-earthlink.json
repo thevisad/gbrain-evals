@@ -1,0 +1,14 @@
+{
+  "slug": "people/andybrwn-earthlink",
+  "type": "person",
+  "title": "Andybrwn",
+  "compiled_truth": "Andybrwn is an external contact at [Earthlink](companies/earthlink). Over the corpus period (2000-10-27 to 2001-07-31), Andybrwn sent 3 and received 122 emails, totalling 125 interactions. Top correspondents: [Kaplan](people/kaplan-iepa) (3), [Billw](people/billw-calpine) (3), [Rescalante](people/rescalante-riobravo-gm) (3), [Cabaker](people/cabaker-duke-energy) (3), [Cody Carter](people/cody-carter-williams) (3).",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andybrwn-earthlink",
+    "name": "Andybrwn",
+    "email": "andybrwn@earthlink.net",
+    "primary_affiliation": "companies/earthlink"
+  }
+}

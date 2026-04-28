@@ -1,0 +1,25 @@
+{
+  "slug": "meetings/nerc-meeting-today-2001-08",
+  "type": "meeting",
+  "title": "Meeting: Nerc Meeting Today",
+  "compiled_truth": "Meeting: \"Nerc Meeting Today\". Occurred 2001-08-09 with 1 related emails. Participants included: [Andy Rodriquez](people/andy-rodriquez), [Charles Yeung](people/charles-yeung), [D  Steffes](people/d-steffes), [Dave Perrino](people/dave-perrino), [John Shelk](people/john-shelk), [L  Nicolay](people/l-nicolay), [Linda Robertson](people/linda-robertson), [Richard Shapiro](people/richard-shapiro)....",
+  "timeline": "- **2001-08-09** | Meeting: nerc meeting today",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/nerc-meeting-today-2001-08",
+    "attendees": [
+      "people/andy-rodriquez",
+      "people/charles-yeung",
+      "people/d-steffes",
+      "people/dave-perrino",
+      "people/john-shelk",
+      "people/l-nicolay",
+      "people/linda-robertson",
+      "people/richard-shapiro",
+      "people/sarah-novosel",
+      "people/steve-walton",
+      "people/susan-scott"
+    ],
+    "date": "2001-08-09"
+  }
+}

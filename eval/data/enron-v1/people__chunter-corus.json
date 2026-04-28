@@ -1,0 +1,14 @@
+{
+  "slug": "people/chunter-corus",
+  "type": "person",
+  "title": "Chunter",
+  "compiled_truth": "Chunter is an external contact at [Corus](companies/corus). Over the corpus period (2001-07-25 to 2001-07-25), Chunter sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chunter-corus",
+    "name": "Chunter",
+    "email": "chunter@corus.jnj.com",
+    "primary_affiliation": "companies/corus"
+  }
+}

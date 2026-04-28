@@ -1,0 +1,30 @@
+{
+  "slug": "meetings/organisational-meeting-2000-08",
+  "type": "meeting",
+  "title": "Meeting: Organisational Meeting",
+  "compiled_truth": "Meeting: \"Organisational Meeting\". Occurred 2000-08-15 with 1 related emails. Participants included: [Bob Hall](people/bob-hall), [Bryce Baxter](people/bryce-baxter), [Daren Farmer](people/daren-farmer), [Jefferson Sorenson](people/jefferson-sorenson), [Katherine Kelly](people/katherine-kelly), [Leslie Reeves](people/leslie-reeves), [Lisa Csikos](people/lisa-csikos), [Mary Smith](people/mary-smith)....",
+  "timeline": "- **2000-08-15** | Meeting: organisational meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/organisational-meeting-2000-08",
+    "attendees": [
+      "people/bob-hall",
+      "people/bryce-baxter",
+      "people/daren-farmer",
+      "people/jefferson-sorenson",
+      "people/katherine-kelly",
+      "people/leslie-reeves",
+      "people/lisa-csikos",
+      "people/mary-smith",
+      "people/michael-eiben",
+      "people/pat-clynes",
+      "people/patti-thompson",
+      "people/rita-wynne",
+      "people/robert-superty",
+      "people/sally-beck",
+      "people/steve-jackson",
+      "people/steve-venturatos"
+    ],
+    "date": "2000-08-15"
+  }
+}

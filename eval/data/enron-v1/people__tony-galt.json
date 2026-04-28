@@ -1,0 +1,14 @@
+{
+  "slug": "people/tony-galt",
+  "type": "person",
+  "title": "Tony Galt",
+  "compiled_truth": "Tony Galt is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-27 to 2001-10-29), Tony Galt sent 3 and received 229 emails, totalling 232 interactions. Top correspondents: [Dan Masters](people/dan-masters) (3), [Wayne Perry](people/wayne-perry) (3), ['Enron'](people/enron) (2), [Paul Y'Barbo](people/paul-y-barbo) (2), [Rlakey](people/rlakey-rjla) (2). Mailbox folders observed: dabhol___cond__of_use.",
+  "timeline": "- **2000-11-27** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tony-galt",
+    "name": "Tony Galt",
+    "email": "tony.galt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bruce-golden",
+  "type": "person",
+  "title": "Bruce Golden",
+  "compiled_truth": "Bruce Golden is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2002-05-06), Bruce Golden sent 18 and received 71 emails, totalling 89 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (6), [Mike Coleman](people/mike-coleman) (2), [Reed Wills](people/reed-wills-uaecorp) (1), [Oscar Dalton](people/oscar-dalton) (1), [Tracee Bersani](people/tracee-bersani) (1).",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bruce-golden",
+    "name": "Bruce Golden",
+    "email": "bruce.golden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

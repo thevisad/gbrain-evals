@@ -1,0 +1,14 @@
+{
+  "slug": "people/tdickers-westerngas",
+  "type": "person",
+  "title": "Tdickers",
+  "compiled_truth": "Tdickers is an external contact at [Westerngas](companies/westerngas). Over the corpus period (1999-09-24 to 2002-03-25), Tdickers sent 17 and received 157 emails, totalling 174 interactions. Top correspondents: [Michelle Lokay](people/michelle-lokay) (16), [Kevin Hyatt](people/kevin-hyatt) (1).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tdickers-westerngas",
+    "name": "Tdickers",
+    "email": "tdickers@westerngas.com",
+    "primary_affiliation": "companies/westerngas"
+  }
+}

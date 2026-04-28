@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-hall",
+  "type": "person",
+  "title": "Mark Hall",
+  "compiled_truth": "Mark Hall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-13), Mark Hall sent 4 and received 9 emails, totalling 13 interactions. Top correspondents: [Cooper Richey](people/cooper-richey) (4), [Faheem Qavi](people/faheem-qavi) (3), [Dan Dietrich](people/dan-dietrich) (3), [Simon Burgess](people/simon-burgess) (2). Mailbox folders observed: infrastructure.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-hall",
+    "name": "Mark Hall",
+    "email": "mark.hall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-newell",
+  "type": "person",
+  "title": "Eric Newell",
+  "compiled_truth": "Eric Newell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-02 to 2002-05-14), Eric Newell sent 2 and received 58 emails, totalling 60 interactions. Top correspondents: [Rob Walls](people/rob-walls) (2), [James Derrick](people/james-derrick) (2), [J Harris](people/j-harris) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-05-02** | First recorded email in corpus\n- **2002-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-newell",
+    "name": "Eric Newell",
+    "email": "eric.newell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

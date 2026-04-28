@@ -1,0 +1,14 @@
+{
+  "slug": "people/rfbarreno-calpx",
+  "type": "person",
+  "title": "Rfbarreno",
+  "compiled_truth": "Rfbarreno is an external contact at [Calpx](companies/calpx). Over the corpus period (2000-08-25 to 2001-02-16), Rfbarreno sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-02-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rfbarreno-calpx",
+    "name": "Rfbarreno",
+    "email": "rfbarreno@calpx.com",
+    "primary_affiliation": "companies/calpx"
+  }
+}

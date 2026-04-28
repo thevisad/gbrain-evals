@@ -1,0 +1,14 @@
+{
+  "slug": "people/schwabalerts-marketupdates-schwab",
+  "type": "person",
+  "title": "Schwabalerts Marketupdates",
+  "compiled_truth": "Schwabalerts Marketupdates is an external contact at [Schwab](companies/schwab). Over the corpus period (2001-05-15 to 2002-01-02), Schwabalerts Marketupdates sent 132 and received 0 emails, totalling 132 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (132).",
+  "timeline": "- **2001-05-15** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/schwabalerts-marketupdates-schwab",
+    "name": "Schwabalerts Marketupdates",
+    "email": "schwabalerts.marketupdates@schwab.com",
+    "primary_affiliation": "companies/schwab"
+  }
+}

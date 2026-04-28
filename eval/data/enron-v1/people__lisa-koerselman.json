@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-koerselman",
+  "type": "person",
+  "title": "Lisa Koerselman",
+  "compiled_truth": "Lisa Koerselman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-06 to 2002-05-06), Lisa Koerselman sent 2 and received 25 emails, totalling 27 interactions. Top correspondents: [W  White](people/w-white) (2), [C  Gossett](people/c-gossett) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-08-06** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-koerselman",
+    "name": "Lisa Koerselman",
+    "email": "lisa.koerselman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

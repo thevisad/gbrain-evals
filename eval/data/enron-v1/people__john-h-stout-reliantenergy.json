@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-h-stout-reliantenergy",
+  "type": "person",
+  "title": "John H Stout",
+  "compiled_truth": "John H Stout is an external contact at [Reliant Energy](companies/reliant-energy). Over the corpus period (2000-09-01 to 2001-06-22), John H Stout sent 0 and received 181 emails, totalling 181 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-06-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-h-stout-reliantenergy",
+    "name": "John H Stout",
+    "email": "john_h_stout@reliantenergy.com",
+    "primary_affiliation": "companies/reliant-energy"
+  }
+}

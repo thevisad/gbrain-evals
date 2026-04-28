@@ -1,0 +1,14 @@
+{
+  "slug": "people/jack-mcadoo",
+  "type": "person",
+  "title": "Jack Mcadoo",
+  "compiled_truth": "Jack Mcadoo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-05 to 2001-03-26), Jack Mcadoo sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-06-05** | First recorded email in corpus\n- **2001-03-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jack-mcadoo",
+    "name": "Jack Mcadoo",
+    "email": "jack.mcadoo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

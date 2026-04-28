@@ -1,0 +1,14 @@
+{
+  "slug": "people/fred-biery",
+  "type": "person",
+  "title": "Fred Biery",
+  "compiled_truth": "Fred Biery is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-02-06), Fred Biery sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fred-biery",
+    "name": "Fred Biery",
+    "email": "fred.biery@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

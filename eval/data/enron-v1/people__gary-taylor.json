@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-taylor",
+  "type": "person",
+  "title": "Gary Taylor",
+  "compiled_truth": "Gary Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-04 to 2001-11-29), Gary Taylor sent 7 and received 133 emails, totalling 140 interactions. Top correspondents: [Mcuilla](people/mcuilla) (2), [Toni Graham](people/toni-graham) (1), [Sally Beck](people/sally-beck) (1), [Martin Cuilla](people/martin-cuilla) (1), [Gary Lamphier](people/gary-lamphier) (1). Mailbox folders observed: 10_fantasy, deleted_items.",
+  "timeline": "- **2000-01-04** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-taylor",
+    "name": "Gary Taylor",
+    "email": "gary.taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

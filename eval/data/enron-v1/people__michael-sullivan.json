@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-sullivan",
+  "type": "person",
+  "title": "Michael Sullivan",
+  "compiled_truth": "Michael Sullivan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-07 to 2002-05-06), Michael Sullivan sent 3 and received 65 emails, totalling 68 interactions. Top correspondents: [Caroline Barnes](people/caroline-barnes) (1), [Steve Hotte](people/steve-hotte) (1), [Tony Mayer](people/tony-mayer) (1), [Amy Krone](people/amy-krone) (1), [Nick Rahn](people/nick-rahn) (1).",
+  "timeline": "- **2000-03-07** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-sullivan",
+    "name": "Michael Sullivan",
+    "email": "michael.sullivan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

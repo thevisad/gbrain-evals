@@ -1,0 +1,14 @@
+{
+  "slug": "people/gwyn",
+  "type": "person",
+  "title": " Gwyn",
+  "compiled_truth": "Gwyn is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-05 to 2002-01-15),  Gwyn sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gwyn",
+    "name": " Gwyn",
+    "email": ".gwyn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-thibodeaux",
+  "type": "person",
+  "title": "Mark Thibodeaux",
+  "compiled_truth": "Mark Thibodeaux is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-11 to 2002-01-09), Mark Thibodeaux sent 3 and received 6 emails, totalling 9 interactions. Top correspondents: [Barbara Gray](people/barbara-gray) (2), [Anne Koehler](people/anne-koehler) (2), [Sandi Braband](people/sandi-braband) (2), [James Ducote](people/james-ducote) (2), [Janet Wallis](people/janet-wallis) (2). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-07-11** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-thibodeaux",
+    "name": "Mark Thibodeaux",
+    "email": "mark.thibodeaux@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

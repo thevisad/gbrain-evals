@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-hickok",
+  "type": "person",
+  "title": "Kim Hickok",
+  "compiled_truth": "Kim Hickok is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-05-06), Kim Hickok sent 2 and received 43 emails, totalling 45 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-hickok",
+    "name": "Kim Hickok",
+    "email": "kim.hickok@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

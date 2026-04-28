@@ -1,0 +1,14 @@
+{
+  "slug": "people/bobfraser-aec",
+  "type": "person",
+  "title": "Bobfraser",
+  "compiled_truth": "Bobfraser is an external contact at [Aec](companies/aec). Over the corpus period (2000-10-20 to 2001-07-31), Bobfraser sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-10-20** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bobfraser-aec",
+    "name": "Bobfraser",
+    "email": "bobfraser@aec.ca",
+    "primary_affiliation": "companies/aec"
+  }
+}

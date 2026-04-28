@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-harris",
+  "type": "person",
+  "title": "Steven Harris",
+  "compiled_truth": "Steven Harris is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-22), Steven Harris sent 152 and received 2349 emails, totalling 2501 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (40), [Lindy Donoho](people/lindy-donoho) (25), [Tracy Geaccone](people/tracy-geaccone) (22), [Michelle Lokay](people/michelle-lokay) (20), [Lorraine Lindberg](people/lorraine-lindberg) (19). Mailbox folders observed: deleted_items, e_mail_bin, inbox, pemex_trans_pecos, projects, rc_0946.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-harris",
+    "name": "Steven Harris",
+    "email": "steven.harris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

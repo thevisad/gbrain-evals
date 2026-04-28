@@ -1,0 +1,14 @@
+{
+  "slug": "people/susanne-lindgren",
+  "type": "person",
+  "title": "Susanne Lindgren",
+  "compiled_truth": "Susanne Lindgren is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-24 to 2001-06-08), Susanne Lindgren sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **1999-06-24** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susanne-lindgren",
+    "name": "Susanne Lindgren",
+    "email": "susanne.lindgren@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

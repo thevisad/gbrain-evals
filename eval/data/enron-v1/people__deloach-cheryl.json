@@ -1,0 +1,14 @@
+{
+  "slug": "people/deloach-cheryl",
+  "type": "person",
+  "title": "Deloach Cheryl",
+  "compiled_truth": "Deloach Cheryl is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Deloach Cheryl sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deloach-cheryl",
+    "name": "Deloach Cheryl",
+    "email": "deloach.cheryl@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-mcconnell",
+  "type": "person",
+  "title": "Mike McConnell",
+  "compiled_truth": "Mike McConnell is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-07), Mike McConnell sent 1561 and received 1381 emails, totalling 2942 interactions. Top correspondents: [Jeffrey Shankman](people/jeffrey-shankman) (222), [Cathy Phillips](people/cathy-phillips) (137), [Eric Gonzales](people/eric-gonzales) (69), [John Nowlan](people/john-nowlan) (67), [George Mcclellan](people/george-mcclellan) (66). Mailbox folders observed: _americas, _sent_mail, deleted_items, discussion_threads, enron_global_markets, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-mcconnell",
+    "name": "Mike McConnell",
+    "email": "mike.mcconnell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

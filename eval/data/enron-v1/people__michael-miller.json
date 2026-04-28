@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-miller",
+  "type": "person",
+  "title": "Michael Miller",
+  "compiled_truth": "Michael Miller is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-07-10), Michael Miller sent 3 and received 128 emails, totalling 131 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (3), [Louise Kitchen](people/louise-kitchen) (3), [Kevin Garland](people/kevin-garland) (1), [Wes Colwell](people/wes-colwell) (1), [Mark Frevert](people/mark-frevert) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-miller",
+    "name": "Michael Miller",
+    "email": "michael.miller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/corey-hollander",
+  "type": "person",
+  "title": "Corey Hollander",
+  "compiled_truth": "Corey Hollander is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-09 to 2001-09-24), Corey Hollander sent 5 and received 29 emails, totalling 34 interactions. Top correspondents: [Tana Jones](people/tana-jones) (5), [Jason Moore](people/jason-moore) (1).",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/corey-hollander",
+    "name": "Corey Hollander",
+    "email": "corey.hollander@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

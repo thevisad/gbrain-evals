@@ -1,0 +1,14 @@
+{
+  "slug": "people/reports-reedwasden",
+  "type": "person",
+  "title": "Reports",
+  "compiled_truth": "Reports is an external contact at [Reedwasden](companies/reedwasden). Over the corpus period (2001-08-12 to 2002-04-05), Reports sent 49 and received 0 emails, totalling 49 interactions. Top correspondents: [Matt Motley](people/matt-motley) (10), [Robert Benson](people/robert-benson) (3), [Mike Carson](people/mike-carson) (3), [Sean Crandall](people/sean-crandall) (3), [Doug Gilbert-Smith](people/doug-gilbert-smith) (3).",
+  "timeline": "- **2001-08-12** | First recorded email in corpus\n- **2002-04-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reports-reedwasden",
+    "name": "Reports",
+    "email": "reports@reedwasden.com",
+    "primary_affiliation": "companies/reedwasden"
+  }
+}

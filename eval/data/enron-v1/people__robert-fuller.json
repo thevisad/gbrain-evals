@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-fuller",
+  "type": "person",
+  "title": "Robert Fuller",
+  "compiled_truth": "Robert Fuller is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-28 to 2002-01-03), Robert Fuller sent 2 and received 77 emails, totalling 79 interactions. Top correspondents: [Tom Moran](people/tom-moran) (2), [A  Shankman](people/a-shankman) (2), [S  Bradford](people/s-bradford) (2), [L  Nowlan](people/l-nowlan) (1), [Patrick Danaher](people/patrick-danaher) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-02-28** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-fuller",
+    "name": "Robert Fuller",
+    "email": "robert.fuller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

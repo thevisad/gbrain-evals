@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-bell-williams",
+  "type": "person",
+  "title": "Jeffrey Bell",
+  "compiled_truth": "Jeffrey Bell is an external contact at [Williams Companies](companies/williams). Over the corpus period (2000-11-10 to 2001-03-16), Jeffrey Bell sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-bell-williams",
+    "name": "Jeffrey Bell",
+    "email": "jeffrey.bell@williams.com",
+    "primary_affiliation": "companies/williams"
+  }
+}

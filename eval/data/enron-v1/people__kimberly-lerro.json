@@ -1,0 +1,14 @@
+{
+  "slug": "people/kimberly-lerro",
+  "type": "person",
+  "title": "Kimberly Lerro",
+  "compiled_truth": "Kimberly Lerro is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-27 to 2001-10-26), Kimberly Lerro sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-03-27** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kimberly-lerro",
+    "name": "Kimberly Lerro",
+    "email": "kimberly.lerro@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

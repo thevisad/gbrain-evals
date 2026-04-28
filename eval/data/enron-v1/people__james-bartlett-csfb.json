@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-bartlett-csfb",
+  "type": "person",
+  "title": "James Bartlett",
+  "compiled_truth": "James Bartlett is an external contact at [Csfb](companies/csfb). Over the corpus period (2000-05-19 to 2000-10-04), James Bartlett sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2000-05-19** | First recorded email in corpus\n- **2000-10-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-bartlett-csfb",
+    "name": "James Bartlett",
+    "email": "james.bartlett@csfb.com",
+    "primary_affiliation": "companies/csfb"
+  }
+}

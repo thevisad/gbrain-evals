@@ -1,0 +1,14 @@
+{
+  "slug": "people/sylvia-sauseda",
+  "type": "person",
+  "title": "Sylvia Sauseda",
+  "compiled_truth": "Sylvia Sauseda is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-12 to 2002-02-21), Sylvia Sauseda sent 3 and received 48 emails, totalling 51 interactions. Top correspondents: [Kristina Mordaunt](people/kristina-mordaunt) (3), [Peter Keohane](people/peter-keohane) (1), [Nella Cappelletto](people/nella-cappelletto) (1), [Suzanne Adams](people/suzanne-adams) (1), [Erica Braden](people/erica-braden) (1). Mailbox folders observed: sent.",
+  "timeline": "- **1999-01-12** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sylvia-sauseda",
+    "name": "Sylvia Sauseda",
+    "email": "sylvia.sauseda@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

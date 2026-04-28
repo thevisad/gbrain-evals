@@ -1,0 +1,14 @@
+{
+  "slug": "people/ronknecht-aol",
+  "type": "person",
+  "title": "Ronknecht",
+  "compiled_truth": "Ronknecht is an external contact at [AOL](companies/aol). Over the corpus period (2000-04-04 to 2001-07-31), Ronknecht sent 0 and received 127 emails, totalling 127 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ronknecht-aol",
+    "name": "Ronknecht",
+    "email": "ronknecht@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

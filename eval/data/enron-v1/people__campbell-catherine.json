@@ -1,0 +1,14 @@
+{
+  "slug": "people/campbell-catherine",
+  "type": "person",
+  "title": "Campbell Catherine",
+  "compiled_truth": "Campbell Catherine is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-13 to 2002-04-01), Campbell Catherine sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-09-13** | First recorded email in corpus\n- **2002-04-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/campbell-catherine",
+    "name": "Campbell Catherine",
+    "email": "campbell.catherine@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-ewing",
+  "type": "person",
+  "title": "Linda Ewing",
+  "compiled_truth": "Linda Ewing is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2001-08-27), Linda Ewing sent 1 and received 103 emails, totalling 104 interactions. Top correspondents: [Theresa Staab](people/theresa-staab) (1), [Bryce Baxter](people/bryce-baxter) (1), [Lisa Valderrama](people/lisa-valderrama) (1). Mailbox folders observed: accounting_issues.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2001-08-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-ewing",
+    "name": "Linda Ewing",
+    "email": "linda.ewing@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

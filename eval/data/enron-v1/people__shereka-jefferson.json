@@ -1,0 +1,14 @@
+{
+  "slug": "people/shereka-jefferson",
+  "type": "person",
+  "title": "Shereka Jefferson",
+  "compiled_truth": "Shereka Jefferson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-07 to 2001-11-08), Shereka Jefferson sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2001-05-07** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shereka-jefferson",
+    "name": "Shereka Jefferson",
+    "email": "shereka.jefferson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

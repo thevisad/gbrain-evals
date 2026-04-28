@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-petersen",
+  "type": "person",
+  "title": "Keith Petersen",
+  "compiled_truth": "Keith Petersen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2002-03-21), Keith Petersen sent 14 and received 294 emails, totalling 308 interactions. Top correspondents: [Drew Fossum](people/drew-fossum) (6), [Kay Miller](people/kay-miller) (6), [Stephen Veatch](people/stephen-veatch) (5), [Donna Martens](people/donna-martens) (5), [Teb Lokey](people/teb-lokey) (5). Mailbox folders observed: deleted_items, inbox, projects.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-petersen",
+    "name": "Keith Petersen",
+    "email": "keith.petersen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

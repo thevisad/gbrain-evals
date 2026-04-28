@@ -1,0 +1,14 @@
+{
+  "slug": "people/people-venturewire",
+  "type": "person",
+  "title": "People",
+  "compiled_truth": "People is an external contact at [Venturewire](companies/venturewire). Over the corpus period (2001-05-16 to 2001-11-27), People sent 32 and received 0 emails, totalling 32 interactions. Top correspondents: [Jdasovic](people/jdasovic) (32).",
+  "timeline": "- **2001-05-16** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/people-venturewire",
+    "name": "People",
+    "email": "people@venturewire.com",
+    "primary_affiliation": "companies/venturewire"
+  }
+}

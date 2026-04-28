@@ -1,0 +1,14 @@
+{
+  "slug": "people/sivakumar-govindasamy",
+  "type": "person",
+  "title": "Sivakumar Govindasamy",
+  "compiled_truth": "Sivakumar Govindasamy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-03 to 2002-02-19), Sivakumar Govindasamy sent 4 and received 28 emails, totalling 32 interactions. Top correspondents: [W  White](people/w-white) (4), [Casey Evans](people/casey-evans) (4), [Hai Chen](people/hai-chen) (3), [Norman Lee](people/norman-lee) (3), [Zhiyun Yang](people/zhiyun-yang) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-03** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sivakumar-govindasamy",
+    "name": "Sivakumar Govindasamy",
+    "email": "sivakumar.govindasamy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dub-morris",
+  "type": "person",
+  "title": "Dub Morris",
+  "compiled_truth": "Dub Morris is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-03 to 2001-10-19), Dub Morris sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-10-03** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dub-morris",
+    "name": "Dub Morris",
+    "email": "dub.morris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

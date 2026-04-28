@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcoleman-puc",
+  "type": "person",
+  "title": "Mcoleman",
+  "compiled_truth": "Mcoleman is an external contact at [Puc](companies/puc). Over the corpus period (2001-10-18 to 2001-10-18), Mcoleman sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcoleman-puc",
+    "name": "Mcoleman",
+    "email": "mcoleman@puc.state.nh.us",
+    "primary_affiliation": "companies/puc"
+  }
+}

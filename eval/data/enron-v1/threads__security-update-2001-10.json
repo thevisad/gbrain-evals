@@ -1,0 +1,30 @@
+{
+  "slug": "threads/security-update-2001-10",
+  "type": "meeting",
+  "title": "Thread: Security Update",
+  "compiled_truth": "Email thread: \"Security Update\". Ran from 2001-10-10 to 2001-10-31 with 10 messages. Participants: [40Enron](people/40enron), [Barry Tycholiz](people/barry-tycholiz), [Bill Donovan](people/bill-donovan), [F  Calger](people/f-calger), [J Harris](people/j-harris), [J  Kean](people/j-kean), [James Derrick](people/james-derrick), [John Brindle](people/john-brindle).",
+  "timeline": "- **2001-10-10** | Thread begins: security update\n- **2001-10-31** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/security-update-2001-10",
+    "attendees": [
+      "people/40enron",
+      "people/barry-tycholiz",
+      "people/bill-donovan",
+      "people/f-calger",
+      "people/j-harris",
+      "people/j-kean",
+      "people/james-derrick",
+      "people/john-brindle",
+      "people/john-presley",
+      "people/laura-luce",
+      "people/lillian-villarreal-enronxgate",
+      "people/louise-kitchen",
+      "people/mervyn-lowe",
+      "people/michael-terraso",
+      "people/no-address",
+      "people/tim-belden"
+    ],
+    "date": "2001-10-10"
+  }
+}

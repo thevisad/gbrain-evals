@@ -1,0 +1,14 @@
+{
+  "slug": "people/cthompson-bracepatt",
+  "type": "person",
+  "title": "Cthompson",
+  "compiled_truth": "Cthompson is an external contact at [Bracewell & Patterson](companies/bracewell). Over the corpus period (2000-07-19 to 2001-06-29), Cthompson sent 0 and received 74 emails, totalling 74 interactions.",
+  "timeline": "- **2000-07-19** | First recorded email in corpus\n- **2001-06-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cthompson-bracepatt",
+    "name": "Cthompson",
+    "email": "cthompson@bracepatt.com",
+    "primary_affiliation": "companies/bracewell"
+  }
+}

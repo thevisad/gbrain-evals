@@ -1,0 +1,14 @@
+{
+  "slug": "people/jstremel-energy-exchange",
+  "type": "person",
+  "title": "Jstremel",
+  "compiled_truth": "Jstremel is an external contact at [Energy-exchange](companies/energy-exchange). Over the corpus period (2000-11-10 to 2001-02-16), Jstremel sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-02-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jstremel-energy-exchange",
+    "name": "Jstremel",
+    "email": "jstremel@energy-exchange.com",
+    "primary_affiliation": "companies/energy-exchange"
+  }
+}

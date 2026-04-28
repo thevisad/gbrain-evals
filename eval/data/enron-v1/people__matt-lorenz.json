@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-lorenz",
+  "type": "person",
+  "title": "Matt Lorenz",
+  "compiled_truth": "Matt Lorenz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2001-12-05), Matt Lorenz sent 2 and received 337 emails, totalling 339 interactions. Top correspondents: [Don Baughman](people/don-baughman) (2), [Larry Valderrama](people/larry-valderrama) (1), [Corry Bentley](people/corry-bentley) (1), [Patrick Hanse](people/patrick-hanse) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-lorenz",
+    "name": "Matt Lorenz",
+    "email": "matt.lorenz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ben-herman",
+  "type": "person",
+  "title": "Ben Herman",
+  "compiled_truth": "Ben Herman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-05 to 2001-11-29), Ben Herman sent 2 and received 32 emails, totalling 34 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (1), [Steven Kean](people/steven-kean) (1), [Drew Lynch](people/drew-lynch) (1), [Kate Bruges](people/kate-bruges) (1), [Ryan Seleznov](people/ryan-seleznov) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-03-05** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ben-herman",
+    "name": "Ben Herman",
+    "email": "ben.herman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-schroeder",
+  "type": "person",
+  "title": "Mark Schroeder",
+  "compiled_truth": "Mark Schroeder is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-18 to 2001-11-26), Mark Schroeder sent 112 and received 446 emails, totalling 558 interactions. Top correspondents: [Steven Kean](people/steven-kean) (90), [Richard Shapiro](people/richard-shapiro) (22), [John Sherriff](people/john-sherriff) (21), [Jeff Dasovich](people/jeff-dasovich) (18), [Michael Brown](people/michael-brown) (15). Mailbox folders observed: 2001_prc__midyear, aadepartment, budget, deleted_items.",
+  "timeline": "- **1999-10-18** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-schroeder",
+    "name": "Mark Schroeder",
+    "email": "mark.schroeder@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

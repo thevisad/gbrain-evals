@@ -1,0 +1,14 @@
+{
+  "slug": "people/wayne-herndon",
+  "type": "person",
+  "title": "Wayne Herndon",
+  "compiled_truth": "Wayne Herndon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-19 to 2001-02-14), Wayne Herndon sent 1 and received 177 emails, totalling 178 interactions. Top correspondents: [Jeff King](people/jeff-king) (1), [Lloyd Will](people/lloyd-will) (1), [Christopher Watts](people/christopher-watts) (1), [Jay Wills](people/jay-wills) (1), [Cyril Price](people/cyril-price) (1).",
+  "timeline": "- **2000-06-19** | First recorded email in corpus\n- **2001-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wayne-herndon",
+    "name": "Wayne Herndon",
+    "email": "wayne.herndon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

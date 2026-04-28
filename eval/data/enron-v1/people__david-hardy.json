@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-hardy",
+  "type": "person",
+  "title": "David Hardy",
+  "compiled_truth": "David Hardy is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-22 to 2002-05-13), David Hardy sent 2 and received 414 emails, totalling 416 interactions. Top correspondents: [Ted Murphy](people/ted-murphy) (1), [S  Bradford](people/s-bradford) (1), [R  Brackett](people/r-brackett) (1), [Fernley Dyson](people/fernley-dyson) (1), [Mike Jordan](people/mike-jordan) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-07-22** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-hardy",
+    "name": "David Hardy",
+    "email": "david.hardy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/issuealert-scientech",
+  "type": "person",
+  "title": "Issuealert",
+  "compiled_truth": "Issuealert is an external contact at [Scientech](companies/scientech). Over the corpus period (2000-09-26 to 2001-12-28), Issuealert sent 140 and received 1 emails, totalling 141 interactions. Top correspondents: [Issuealerthtml](people/issuealerthtml-listserv) (52).",
+  "timeline": "- **2000-09-26** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/issuealert-scientech",
+    "name": "Issuealert",
+    "email": "issuealert@scientech.com",
+    "primary_affiliation": "companies/scientech"
+  }
+}

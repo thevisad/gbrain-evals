@@ -1,0 +1,14 @@
+{
+  "slug": "people/messenger-smartreminders",
+  "type": "person",
+  "title": "Messenger",
+  "compiled_truth": "Messenger is an external contact at [Smartreminders](companies/smartreminders). Over the corpus period (2001-08-14 to 2002-02-04), Messenger sent 93 and received 0 emails, totalling 93 interactions. Top correspondents: [Lcampbel](people/lcampbel) (30), [M  Tholt](people/m-tholt) (21), [Joe Stepenovitch](people/joe-stepenovitch) (18), [Dutch Quigley](people/dutch-quigley) (16), [Mike Grigsby](people/mike-grigsby) (8).",
+  "timeline": "- **2001-08-14** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/messenger-smartreminders",
+    "name": "Messenger",
+    "email": "messenger@smartreminders.com",
+    "primary_affiliation": "companies/smartreminders"
+  }
+}

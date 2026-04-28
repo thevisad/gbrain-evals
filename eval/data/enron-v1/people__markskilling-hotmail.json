@@ -1,0 +1,14 @@
+{
+  "slug": "people/markskilling-hotmail",
+  "type": "person",
+  "title": "Markskilling",
+  "compiled_truth": "Markskilling is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (1999-02-14 to 2001-08-13), Markskilling sent 56 and received 37 emails, totalling 93 interactions. Top correspondents: [Tskilling](people/tskilling-tribune) (47), [Tomskilljr](people/tomskilljr-aol) (46), [Ermak](people/ermak-gte) (38), [Jeff Skilling](people/jeff-skilling) (37), [Mmmmisha](people/mmmmisha-ix) (26).",
+  "timeline": "- **1999-02-14** | First recorded email in corpus\n- **2001-08-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/markskilling-hotmail",
+    "name": "Markskilling",
+    "email": "markskilling@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

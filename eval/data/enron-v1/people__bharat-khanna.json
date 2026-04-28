@@ -1,0 +1,14 @@
+{
+  "slug": "people/bharat-khanna",
+  "type": "person",
+  "title": "Bharat Khanna",
+  "compiled_truth": "Bharat Khanna is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-16 to 2001-11-28), Bharat Khanna sent 4 and received 76 emails, totalling 80 interactions. Top correspondents: [Frank Hayden](people/frank-hayden) (2), [Nilay Basu](people/nilay-basu) (1), [Kam Keiser](people/kam-keiser) (1), [Burton Mcintyre](people/burton-mcintyre) (1), [Wei Hu](people/wei-hu) (1). Mailbox folders observed: _americas, calendar, central, deleted_items.",
+  "timeline": "- **2000-12-16** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bharat-khanna",
+    "name": "Bharat Khanna",
+    "email": "bharat.khanna@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

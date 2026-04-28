@@ -1,0 +1,14 @@
+{
+  "slug": "people/lynn-tippery",
+  "type": "person",
+  "title": "Lynn Tippery",
+  "compiled_truth": "Lynn Tippery is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-07-02), Lynn Tippery sent 0 and received 46 emails, totalling 46 interactions.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-07-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lynn-tippery",
+    "name": "Lynn Tippery",
+    "email": "lynn.tippery@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

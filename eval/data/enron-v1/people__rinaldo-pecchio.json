@@ -1,0 +1,14 @@
+{
+  "slug": "people/rinaldo-pecchio",
+  "type": "person",
+  "title": "Rinaldo Pecchio",
+  "compiled_truth": "Rinaldo Pecchio is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-07 to 2001-05-23), Rinaldo Pecchio sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-04-07** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rinaldo-pecchio",
+    "name": "Rinaldo Pecchio",
+    "email": "rinaldo.pecchio@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

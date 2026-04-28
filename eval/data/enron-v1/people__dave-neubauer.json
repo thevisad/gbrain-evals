@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-neubauer",
+  "type": "person",
+  "title": "Dave Neubauer",
+  "compiled_truth": "Dave Neubauer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2002-03-13), Dave Neubauer sent 9 and received 671 emails, totalling 680 interactions. Top correspondents: [Kay Miller](people/kay-miller) (3), [Danny Mccarty](people/danny-mccarty) (3), [Dari Dornan](people/dari-dornan) (2), [Lynn Blair](people/lynn-blair) (2), [Kenneth Cessac](people/kenneth-cessac) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-neubauer",
+    "name": "Dave Neubauer",
+    "email": "dave.neubauer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

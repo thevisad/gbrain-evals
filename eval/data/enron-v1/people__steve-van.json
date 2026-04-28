@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-van",
+  "type": "person",
+  "title": "Steve Van",
+  "compiled_truth": "Steve Van is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-30 to 2002-02-06), Steve Van sent 49 and received 290 emails, totalling 339 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (22), [T  Hodge](people/t-hodge) (16), [Deb Korkmas](people/deb-korkmas) (9), [Tana Jones](people/tana-jones) (8), [Mary Ogden](people/mary-ogden) (8). Mailbox folders observed: bankrupt, deleted_items, inbox.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-van",
+    "name": "Steve Van",
+    "email": "steve.van@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

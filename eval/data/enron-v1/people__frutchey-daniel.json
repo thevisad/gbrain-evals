@@ -1,0 +1,14 @@
+{
+  "slug": "people/frutchey-daniel",
+  "type": "person",
+  "title": "Frutchey Daniel",
+  "compiled_truth": "Frutchey Daniel is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-16 to 2002-01-16), Frutchey Daniel sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/frutchey-daniel",
+    "name": "Frutchey Daniel",
+    "email": "frutchey.daniel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kingram-lockeliddell",
+  "type": "person",
+  "title": "Kingram",
+  "compiled_truth": "Kingram is an external contact at [Lockeliddell](companies/lockeliddell). Over the corpus period (2000-05-18 to 2001-12-11), Kingram sent 3 and received 5 emails, totalling 8 interactions. Top correspondents: [Mark E Haedicke](people/mark-e-haedicke) (2), [Bswanstrom](people/bswanstrom-lockeliddell) (2), [Sbrownell](people/sbrownell-lockeliddell) (1), [B  Sanders](people/b-sanders) (1), [Lance Schuler-Legal](people/lance-schuler-legal) (1).",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2001-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kingram-lockeliddell",
+    "name": "Kingram",
+    "email": "kingram@lockeliddell.com",
+    "primary_affiliation": "companies/lockeliddell"
+  }
+}

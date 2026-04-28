@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristin-walsh",
+  "type": "person",
+  "title": "Kristin Walsh",
+  "compiled_truth": "Kristin Walsh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-06 to 2002-02-07), Kristin Walsh sent 122 and received 230 emails, totalling 352 interactions. Top correspondents: [Scott Tholan](people/scott-tholan) (117), [Mike Grigsby](people/mike-grigsby) (115), [John Lavorato](people/john-lavorato) (110), [Rob Milnthorp](people/rob-milnthorp) (108), [Louise Kitchen](people/louise-kitchen) (107). Mailbox folders observed: _americas, c, california, california___working_group, deleted_items, iso__pricecaps.",
+  "timeline": "- **2000-03-06** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristin-walsh",
+    "name": "Kristin Walsh",
+    "email": "kristin.walsh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

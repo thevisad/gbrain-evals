@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrea-bennett",
+  "type": "person",
+  "title": "Andrea Bennett",
+  "compiled_truth": "Andrea Bennett is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-27 to 2002-03-21), Andrea Bennett sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-09-27** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrea-bennett",
+    "name": "Andrea Bennett",
+    "email": "andrea.bennett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

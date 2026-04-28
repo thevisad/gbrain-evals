@@ -1,0 +1,14 @@
+{
+  "slug": "people/fred-kelly",
+  "type": "person",
+  "title": "Fred Kelly",
+  "compiled_truth": "Fred Kelly is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-29), Fred Kelly sent 4 and received 53 emails, totalling 57 interactions. Top correspondents: [Ben Jacoby](people/ben-jacoby) (2), [Keith Dodson](people/keith-dodson) (2), [Kay Mann](people/kay-mann) (2), [John Schwartzenburg](people/john-schwartzenburg) (2), [Sally Beck](people/sally-beck) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fred-kelly",
+    "name": "Fred Kelly",
+    "email": "fred.kelly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

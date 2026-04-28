@@ -1,0 +1,14 @@
+{
+  "slug": "people/trevor-woods",
+  "type": "person",
+  "title": "Trevor Woods",
+  "compiled_truth": "Trevor Woods is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-17 to 2001-11-30), Trevor Woods sent 70 and received 161 emails, totalling 231 interactions. Top correspondents: [E Taylor](people/e-taylor) (65), [John Massey](people/john-massey) (7), [Marc Phillips](people/marc-phillips) (4), [James Prentice](people/james-prentice) (3), [John Goodpasture](people/john-goodpasture) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-05-17** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/trevor-woods",
+    "name": "Trevor Woods",
+    "email": "trevor.woods@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

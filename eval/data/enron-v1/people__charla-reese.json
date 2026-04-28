@@ -1,0 +1,14 @@
+{
+  "slug": "people/charla-reese",
+  "type": "person",
+  "title": "Charla Reese",
+  "compiled_truth": "Charla Reese is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-04 to 2001-06-04), Charla Reese sent 2 and received 19 emails, totalling 21 interactions. Top correspondents: [David Haug](people/david-haug) (1), [Steven Kean](people/steven-kean) (1), [Wade Cline](people/wade-cline) (1), [James Hughes](people/james-hughes) (1), [Mike McConnell](people/mike-mcconnell) (1).",
+  "timeline": "- **2000-05-04** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charla-reese",
+    "name": "Charla Reese",
+    "email": "charla.reese@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

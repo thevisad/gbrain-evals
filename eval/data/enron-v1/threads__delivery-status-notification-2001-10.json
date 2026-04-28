@@ -1,0 +1,27 @@
+{
+  "slug": "threads/delivery-status-notification-2001-10",
+  "type": "meeting",
+  "title": "Thread: Delivery Status Notification",
+  "compiled_truth": "Email thread: \"Delivery Status Notification\". Ran from 2001-10-16 to 2001-11-14 with 31 messages. Participants: [D  Steffes](people/d-steffes), [Dutch Quigley](people/dutch-quigley), [F  Keavey](people/f-keavey), [Joe Stepenovitch](people/joe-stepenovitch), [John Hodge](people/john-hodge), [Marie Heard](people/marie-heard), [Michelle Cash](people/michelle-cash), [Monika Causholli](people/monika-causholli).",
+  "timeline": "- **2001-10-16** | Thread begins: delivery status notification\n- **2001-11-14** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/delivery-status-notification-2001-10",
+    "attendees": [
+      "people/d-steffes",
+      "people/dutch-quigley",
+      "people/f-keavey",
+      "people/joe-stepenovitch",
+      "people/john-hodge",
+      "people/marie-heard",
+      "people/michelle-cash",
+      "people/monika-causholli",
+      "people/postmaster",
+      "people/richard-shapiro",
+      "people/sara-shackleton",
+      "people/stephanie-panus",
+      "people/tana-jones"
+    ],
+    "date": "2001-10-16"
+  }
+}

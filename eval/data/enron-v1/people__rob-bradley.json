@@ -1,0 +1,14 @@
+{
+  "slug": "people/rob-bradley",
+  "type": "person",
+  "title": "Rob Bradley",
+  "compiled_truth": "Rob Bradley is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-14 to 2001-11-29), Rob Bradley sent 67 and received 525 emails, totalling 592 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (39), [Richard Shapiro](people/richard-shapiro) (18), [James Steffes](people/james-steffes) (16), [Steven Kean](people/steven-kean) (14), [Kenneth Lay](people/kenneth-lay) (12). Mailbox folders observed: california, deleted_items, inbox, presentations.",
+  "timeline": "- **1999-10-14** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rob-bradley",
+    "name": "Rob Bradley",
+    "email": "rob.bradley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

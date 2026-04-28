@@ -1,0 +1,14 @@
+{
+  "slug": "people/w-martinez",
+  "type": "person",
+  "title": "W Martinez",
+  "compiled_truth": "W Martinez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-24 to 2001-11-30), W Martinez sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-09-24** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/w-martinez",
+    "name": "W Martinez",
+    "email": "w.martinez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/barbara",
+  "type": "person",
+  "title": " Barbara",
+  "compiled_truth": "Barbara is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-25 to 2002-03-26),  Barbara sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2001-09-25** | First recorded email in corpus\n- **2002-03-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barbara",
+    "name": " Barbara",
+    "email": ".barbara@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tdrake-idahopower",
+  "type": "person",
+  "title": "Tdrake",
+  "compiled_truth": "Tdrake is an external contact at [Idahopower](companies/idahopower). Over the corpus period (2001-07-25 to 2001-07-25), Tdrake sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tdrake-idahopower",
+    "name": "Tdrake",
+    "email": "tdrake@idahopower.com",
+    "primary_affiliation": "companies/idahopower"
+  }
+}

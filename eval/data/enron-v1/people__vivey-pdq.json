@@ -1,0 +1,14 @@
+{
+  "slug": "people/vivey-pdq",
+  "type": "person",
+  "title": "Vivey",
+  "compiled_truth": "Vivey is an external contact at [Pdq](companies/pdq). Over the corpus period (2000-05-21 to 2000-11-25), Vivey sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vivey-pdq",
+    "name": "Vivey",
+    "email": "vivey@pdq.net",
+    "primary_affiliation": "companies/pdq"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jwr-cpuc",
+  "type": "person",
+  "title": "Jwr",
+  "compiled_truth": "Jwr is an external contact at [Cpuc](companies/cpuc). Over the corpus period (2000-04-04 to 2000-12-12), Jwr sent 0 and received 92 emails, totalling 92 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jwr-cpuc",
+    "name": "Jwr",
+    "email": "jwr@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

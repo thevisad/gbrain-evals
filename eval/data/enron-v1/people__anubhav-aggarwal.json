@@ -1,0 +1,14 @@
+{
+  "slug": "people/anubhav-aggarwal",
+  "type": "person",
+  "title": "Anubhav Aggarwal",
+  "compiled_truth": "Anubhav Aggarwal is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-12-18), Anubhav Aggarwal sent 0 and received 71 emails, totalling 71 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anubhav-aggarwal",
+    "name": "Anubhav Aggarwal",
+    "email": "anubhav.aggarwal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

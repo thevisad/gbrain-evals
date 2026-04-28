@@ -1,0 +1,14 @@
+{
+  "slug": "people/judy-gray",
+  "type": "person",
+  "title": "Judy Gray",
+  "compiled_truth": "Judy Gray is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-07 to 2001-12-21), Judy Gray sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/judy-gray",
+    "name": "Judy Gray",
+    "email": "judy.gray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

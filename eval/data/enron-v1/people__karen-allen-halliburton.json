@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-allen-halliburton",
+  "type": "person",
+  "title": "Karen Allen",
+  "compiled_truth": "Karen Allen is an external contact at [Halliburton](companies/halliburton). Over the corpus period (2000-06-20 to 2001-02-12), Karen Allen sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2001-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-allen-halliburton",
+    "name": "Karen Allen",
+    "email": "karen.allen@halliburton.com",
+    "primary_affiliation": "companies/halliburton"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "threads/stuff-2001-10",
+  "type": "meeting",
+  "title": "Thread: Stuff",
+  "compiled_truth": "Email thread: \"Stuff\". Ran from 2001-10-03 to 2001-11-02 with 8 messages. Participants: [Alice Wright](people/alice-wright), [David Forster](people/david-forster), [Jarnold](people/jarnold), [Jdasovic](people/jdasovic), [Jeff Dasovich](people/jeff-dasovich), [Kay Mann](people/kay-mann), [Kimberly Watson](people/kimberly-watson), [Lee Huber](people/lee-huber).",
+  "timeline": "- **2001-10-03** | Thread begins: stuff\n- **2001-11-02** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/stuff-2001-10",
+    "attendees": [
+      "people/alice-wright",
+      "people/david-forster",
+      "people/jarnold",
+      "people/jdasovic",
+      "people/jeff-dasovich",
+      "people/kay-mann",
+      "people/kimberly-watson",
+      "people/lee-huber",
+      "people/louise-kitchen",
+      "people/mark-mcconnell",
+      "people/psellers49-yahoo",
+      "people/steve-lafontaine-bankofamerica"
+    ],
+    "date": "2001-10-03"
+  }
+}

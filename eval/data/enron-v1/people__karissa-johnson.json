@@ -1,0 +1,14 @@
+{
+  "slug": "people/karissa-johnson",
+  "type": "person",
+  "title": "Karissa Johnson",
+  "compiled_truth": "Karissa Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-02-15), Karissa Johnson sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-02-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karissa-johnson",
+    "name": "Karissa Johnson",
+    "email": "karissa.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

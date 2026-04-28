@@ -1,0 +1,14 @@
+{
+  "slug": "people/bryan-williams",
+  "type": "person",
+  "title": "Bryan Williams",
+  "compiled_truth": "Bryan Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-19 to 2001-10-01), Bryan Williams sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-12-19** | First recorded email in corpus\n- **2001-10-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bryan-williams",
+    "name": "Bryan Williams",
+    "email": "bryan.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

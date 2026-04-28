@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-podurgiel",
+  "type": "person",
+  "title": "Laura Podurgiel",
+  "compiled_truth": "Laura Podurgiel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-29 to 2001-12-05), Laura Podurgiel sent 5 and received 212 emails, totalling 217 interactions. Top correspondents: [Tana Jones](people/tana-jones) (2), [Kim Theriot](people/kim-theriot) (2), [Larry Valderrama](people/larry-valderrama) (2), [Elizabeth Sager](people/elizabeth-sager) (2), [Juan Hernandez](people/juan-hernandez) (1). Mailbox folders observed: 24_hr_power, inbox.",
+  "timeline": "- **2000-08-29** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-podurgiel",
+    "name": "Laura Podurgiel",
+    "email": "laura.podurgiel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

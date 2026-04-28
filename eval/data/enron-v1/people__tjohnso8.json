@@ -1,0 +1,14 @@
+{
+  "slug": "people/tjohnso8",
+  "type": "person",
+  "title": "Tjohnso8",
+  "compiled_truth": "Tjohnso8 is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-11 to 2001-11-20), Tjohnso8 sent 0 and received 98 emails, totalling 98 interactions.",
+  "timeline": "- **2000-12-11** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tjohnso8",
+    "name": "Tjohnso8",
+    "email": "tjohnso8@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

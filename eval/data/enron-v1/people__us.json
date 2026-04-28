@@ -1,0 +1,14 @@
+{
+  "slug": "people/us",
+  "type": "person",
+  "title": "Us",
+  "compiled_truth": "Us is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2000-03-02), Us sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2000-03-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/us",
+    "name": "Us",
+    "email": "us@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/oharen-hmot",
+  "type": "person",
+  "title": "Oharen",
+  "compiled_truth": "Oharen is an external contact at [Hmot](companies/hmot). Over the corpus period (2000-11-21 to 2001-06-22), Oharen sent 0 and received 65 emails, totalling 65 interactions.",
+  "timeline": "- **2000-11-21** | First recorded email in corpus\n- **2001-06-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/oharen-hmot",
+    "name": "Oharen",
+    "email": "oharen@hmot.com",
+    "primary_affiliation": "companies/hmot"
+  }
+}

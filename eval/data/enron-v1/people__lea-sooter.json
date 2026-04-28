@@ -1,0 +1,14 @@
+{
+  "slug": "people/lea-sooter",
+  "type": "person",
+  "title": "Lea Sooter",
+  "compiled_truth": "Lea Sooter is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-15 to 2001-12-21), Lea Sooter sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2001-02-15** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lea-sooter",
+    "name": "Lea Sooter",
+    "email": "lea.sooter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ress-young",
+  "type": "person",
+  "title": "Ress Young",
+  "compiled_truth": "Ress Young is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-26 to 2001-11-19), Ress Young sent 2 and received 38 emails, totalling 40 interactions. Top correspondents: [Jeff Nieland](people/jeff-nieland) (1), [Jeff Dasovich](people/jeff-dasovich) (1), [John Wack](people/john-wack) (1), [Jess Galura](people/jess-galura) (1), [Roger Yang](people/roger-yang) (1). Mailbox folders observed: eesirenewableenergy.",
+  "timeline": "- **2000-09-26** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ress-young",
+    "name": "Ress Young",
+    "email": "ress.young@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

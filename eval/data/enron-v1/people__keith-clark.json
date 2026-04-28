@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-clark",
+  "type": "person",
+  "title": "Keith Clark",
+  "compiled_truth": "Keith Clark is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-21 to 2001-10-19), Keith Clark sent 2 and received 81 emails, totalling 83 interactions. Top correspondents: [Larry May](people/larry-may) (1), [Misha Siegel](people/misha-siegel) (1), [Jeff Skilling](people/jeff-skilling) (1), [Kenneth Lay](people/kenneth-lay) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-07-21** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-clark",
+    "name": "Keith Clark",
+    "email": "keith.clark@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/adriana-wynn",
+  "type": "person",
+  "title": "Adriana Wynn",
+  "compiled_truth": "Adriana Wynn is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-23 to 2002-03-29), Adriana Wynn sent 10 and received 16 emails, totalling 26 interactions. Top correspondents: [Kay Mann](people/kay-mann) (9), [Allan Grimm](people/allan-grimm) (5), [Brenda Bonhame](people/brenda-bonhame) (3), [Michelle Hicks](people/michelle-hicks) (2), [Kenneth Lay](people/kenneth-lay) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-10-23** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adriana-wynn",
+    "name": "Adriana Wynn",
+    "email": "adriana.wynn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-brogan",
+  "type": "person",
+  "title": "Bill Brogan",
+  "compiled_truth": "Bill Brogan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-02 to 2001-03-12), Bill Brogan sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [Paul Bieniawski](people/paul-bieniawski) (1), [Chris Sonneborn](people/chris-sonneborn) (1), [Chris Hilgert](people/chris-hilgert) (1), [Steven Curlee](people/steven-curlee) (1), [Laura Luce](people/laura-luce) (1).",
+  "timeline": "- **2000-08-02** | First recorded email in corpus\n- **2001-03-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-brogan",
+    "name": "Bill Brogan",
+    "email": "bill.brogan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

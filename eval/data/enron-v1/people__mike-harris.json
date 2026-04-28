@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-harris",
+  "type": "person",
+  "title": "Mike Harris",
+  "compiled_truth": "Mike Harris is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-04 to 2001-11-19), Mike Harris sent 3 and received 24 emails, totalling 27 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (2), [Dennis Benevides](people/dennis-benevides) (2), [Richard Shapiro](people/richard-shapiro) (2), [Mona Petrochko](people/mona-petrochko) (1), [Greg Cordell](people/greg-cordell) (1).",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-harris",
+    "name": "Mike Harris",
+    "email": "mike.harris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

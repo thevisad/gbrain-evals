@@ -1,0 +1,14 @@
+{
+  "slug": "people/ramesh-rao",
+  "type": "person",
+  "title": "Ramesh Rao",
+  "compiled_truth": "Ramesh Rao is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-18 to 2002-02-07), Ramesh Rao sent 5 and received 83 emails, totalling 88 interactions. Top correspondents: [Beth Perlman](people/beth-perlman) (3), [Sally Beck](people/sally-beck) (3), [Jeff Johnson](people/jeff-johnson) (2), [A  Price](people/a-price) (2), [Cindy Horn](people/cindy-horn) (2). Mailbox folders observed: calendar, inbox, it.",
+  "timeline": "- **2000-08-18** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ramesh-rao",
+    "name": "Ramesh Rao",
+    "email": "ramesh.rao@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

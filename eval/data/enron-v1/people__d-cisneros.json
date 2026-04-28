@@ -1,0 +1,14 @@
+{
+  "slug": "people/d-cisneros",
+  "type": "person",
+  "title": "D  Cisneros",
+  "compiled_truth": "D  Cisneros is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-01 to 2001-11-02), D  Cisneros sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2001-06-01** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d-cisneros",
+    "name": "D  Cisneros",
+    "email": "d..cisneros@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

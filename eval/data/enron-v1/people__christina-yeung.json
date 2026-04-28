@@ -1,0 +1,14 @@
+{
+  "slug": "people/christina-yeung",
+  "type": "person",
+  "title": "Christina Yeung",
+  "compiled_truth": "Christina Yeung is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-14), Christina Yeung sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Stacy Hardy](people/stacy-hardy) (1), [Dennis Brown](people/dennis-brown) (1), [Rebecca Sanchez](people/rebecca-sanchez) (1), [Laynie East](people/laynie-east) (1), [Lisa King](people/lisa-king) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christina-yeung",
+    "name": "Christina Yeung",
+    "email": "christina.yeung@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

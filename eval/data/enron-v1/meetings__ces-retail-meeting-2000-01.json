@@ -1,0 +1,25 @@
+{
+  "slug": "meetings/ces-retail-meeting-2000-01",
+  "type": "meeting",
+  "title": "Meeting: Ces Retail Meeting",
+  "compiled_truth": "Meeting: \"Ces Retail Meeting\". Occurred 2000-01-06 with 1 related emails. Participants included: [Chris Germany](people/chris-germany), [Colleen Sullivan](people/colleen-sullivan), [Ed Mcmichael](people/ed-mcmichael), [Jeffrey Hodge](people/jeffrey-hodge), [Kimberly Brown](people/kimberly-brown), [Kjames](people/kjames-columbiaenergroup), [Mflewelyn](people/mflewelyn-columbiaenergygroup), [Nbartlo](people/nbartlo-columbiaenergygroup)....",
+  "timeline": "- **2000-01-06** | Meeting: ces retail meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/ces-retail-meeting-2000-01",
+    "attendees": [
+      "people/chris-germany",
+      "people/colleen-sullivan",
+      "people/ed-mcmichael",
+      "people/jeffrey-hodge",
+      "people/kimberly-brown",
+      "people/kjames-columbiaenergroup",
+      "people/mflewelyn-columbiaenergygroup",
+      "people/nbartlo-columbiaenergygroup",
+      "people/pglaess-columbiaenergygroup",
+      "people/robin-barbe",
+      "people/scott-neal"
+    ],
+    "date": "2000-01-06"
+  }
+}

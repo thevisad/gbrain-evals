@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-rahal-acnpower",
+  "type": "person",
+  "title": "George Rahal",
+  "compiled_truth": "George Rahal is an external contact at [Acnpower](companies/acnpower). Over the corpus period (2000-02-07 to 2001-09-04), George Rahal sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-02-07** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-rahal-acnpower",
+    "name": "George Rahal",
+    "email": "george.rahal@acnpower.com",
+    "primary_affiliation": "companies/acnpower"
+  }
+}

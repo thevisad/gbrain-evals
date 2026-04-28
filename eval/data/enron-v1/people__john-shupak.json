@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-shupak",
+  "type": "person",
+  "title": "John Shupak",
+  "compiled_truth": "John Shupak is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-03 to 2002-02-13), John Shupak sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-05-03** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-shupak",
+    "name": "John Shupak",
+    "email": "john.shupak@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

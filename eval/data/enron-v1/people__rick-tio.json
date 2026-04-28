@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-tio",
+  "type": "person",
+  "title": "Rick Tio",
+  "compiled_truth": "Rick Tio is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2001-10-10), Rick Tio sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2001-10-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-tio",
+    "name": "Rick Tio",
+    "email": "rick.tio@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

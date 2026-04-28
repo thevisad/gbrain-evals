@@ -1,0 +1,14 @@
+{
+  "slug": "people/lindsay-long",
+  "type": "person",
+  "title": "Lindsay Long",
+  "compiled_truth": "Lindsay Long is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-06-25), Lindsay Long sent 3 and received 39 emails, totalling 42 interactions. Top correspondents: [James Armstrong](people/james-armstrong) (3), [Pam Becton](people/pam-becton) (3), [Frank Cernosek](people/frank-cernosek) (3), [Robert Cothran](people/robert-cothran) (3), [Bernard Dahanayake](people/bernard-dahanayake) (3). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lindsay-long",
+    "name": "Lindsay Long",
+    "email": "lindsay.long@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

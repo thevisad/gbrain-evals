@@ -1,0 +1,14 @@
+{
+  "slug": "people/merle-glen",
+  "type": "person",
+  "title": "Merle Glen",
+  "compiled_truth": "Merle Glen is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-27 to 2001-11-08), Merle Glen sent 2 and received 29 emails, totalling 31 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (2), [Philip Davies](people/philip-davies) (1), [Paul Dawson](people/paul-dawson) (1), [Brendan Devlin](people/brendan-devlin) (1), [Nailia Dindarova](people/nailia-dindarova) (1).",
+  "timeline": "- **2001-04-27** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/merle-glen",
+    "name": "Merle Glen",
+    "email": "merle.glen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

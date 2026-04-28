@@ -1,0 +1,14 @@
+{
+  "slug": "people/crawford-marshall",
+  "type": "person",
+  "title": "Crawford' 'Marshall",
+  "compiled_truth": "Crawford' 'Marshall is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-04 to 2001-10-26), Crawford' 'Marshall sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-10-04** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/crawford-marshall",
+    "name": "Crawford' 'Marshall",
+    "email": "crawford'.'marshall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

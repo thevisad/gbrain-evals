@@ -1,0 +1,14 @@
+{
+  "slug": "people/awerner-emta",
+  "type": "person",
+  "title": "Awerner",
+  "compiled_truth": "Awerner is an external contact at [Emta](companies/emta). Over the corpus period (2001-11-06 to 2001-11-16), Awerner sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-11-06** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/awerner-emta",
+    "name": "Awerner",
+    "email": "awerner@emta.org",
+    "primary_affiliation": "companies/emta"
+  }
+}

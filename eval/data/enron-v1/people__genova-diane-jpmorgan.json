@@ -1,0 +1,14 @@
+{
+  "slug": "people/genova-diane-jpmorgan",
+  "type": "person",
+  "title": "Genova Diane",
+  "compiled_truth": "Genova Diane is an external contact at [Jpmorgan](companies/jpmorgan). Over the corpus period (2000-05-03 to 2001-11-06), Genova Diane sent 2 and received 22 emails, totalling 24 interactions. Top correspondents: [Rpickel](people/rpickel-isda) (2), [Board](people/board-isda) (2), [Ksumme](people/ksumme-isda) (1), [Lmarshall](people/lmarshall-isda) (1), [Lucianosteve](people/lucianosteve-intesabci) (1).",
+  "timeline": "- **2000-05-03** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/genova-diane-jpmorgan",
+    "name": "Genova Diane",
+    "email": "genova_diane@jpmorgan.com",
+    "primary_affiliation": "companies/jpmorgan"
+  }
+}

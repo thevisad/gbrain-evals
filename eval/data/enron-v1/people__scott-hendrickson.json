@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-hendrickson",
+  "type": "person",
+  "title": "Scott Hendrickson",
+  "compiled_truth": "Scott Hendrickson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-23 to 2001-11-05), Scott Hendrickson sent 120 and received 630 emails, totalling 750 interactions. Top correspondents: [Scharnberger-Armin](people/scharnberger-armin-t-online) (22), [Bruce S Grant](people/bruce-s-grant-lmco) (19), [Im-Urlaub](people/im-urlaub-t-online) (13), [Rayfael Roman1](people/rayfael-roman1-jsc) (10), [Chris Germany](people/chris-germany) (7). Mailbox folders observed: _sent_mail, inbox, sent_items.",
+  "timeline": "- **1999-12-23** | First recorded email in corpus\n- **2001-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-hendrickson",
+    "name": "Scott Hendrickson",
+    "email": "scott.hendrickson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

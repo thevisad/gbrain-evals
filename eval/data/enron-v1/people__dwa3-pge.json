@@ -1,0 +1,14 @@
+{
+  "slug": "people/dwa3-pge",
+  "type": "person",
+  "title": "Dwa3",
+  "compiled_truth": "Dwa3 is an external contact at [PG&E](companies/pge). Over the corpus period (1999-06-02 to 2001-11-08), Dwa3 sent 6 and received 31 emails, totalling 37 interactions. Top correspondents: [Dan J Hyvl](people/dan-j-hyvl) (4), [Crb0](people/crb0-pge) (3), [Cab](people/cab-cpuc) (2), [Aamirali](people/aamirali-caiso) (2), [Adonnelly](people/adonnelly-prmllp) (2).",
+  "timeline": "- **1999-06-02** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dwa3-pge",
+    "name": "Dwa3",
+    "email": "dwa3@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

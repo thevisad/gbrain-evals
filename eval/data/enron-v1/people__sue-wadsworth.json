@@ -1,0 +1,14 @@
+{
+  "slug": "people/sue-wadsworth",
+  "type": "person",
+  "title": "Sue Wadsworth",
+  "compiled_truth": "Sue Wadsworth is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-28 to 2002-01-11), Sue Wadsworth sent 1 and received 18 emails, totalling 19 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1), [Richard Dimichele](people/richard-dimichele) (1), [Ravi Thuraisingham](people/ravi-thuraisingham) (1), [John Bloomer](people/john-bloomer) (1), [Arshak Sarkissian](people/arshak-sarkissian) (1).",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sue-wadsworth",
+    "name": "Sue Wadsworth",
+    "email": "sue.wadsworth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

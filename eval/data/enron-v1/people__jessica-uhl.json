@@ -1,0 +1,14 @@
+{
+  "slug": "people/jessica-uhl",
+  "type": "person",
+  "title": "Jessica Uhl",
+  "compiled_truth": "Jessica Uhl is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2002-05-06), Jessica Uhl sent 5 and received 31 emails, totalling 36 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (4), [Barnes' 'Jim](people/barnes-jim) (2), [Hayslett Rod](people/hayslett-rod) (2), [Mark Metts](people/mark-metts) (2), [Kristina Mordaunt](people/kristina-mordaunt) (2). Mailbox folders observed: deleted_items, eott, projects.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jessica-uhl",
+    "name": "Jessica Uhl",
+    "email": "jessica.uhl@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

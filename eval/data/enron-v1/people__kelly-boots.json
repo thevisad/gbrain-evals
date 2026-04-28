@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-boots",
+  "type": "person",
+  "title": "Kelly Boots",
+  "compiled_truth": "Kelly Boots is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-31), Kelly Boots sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-boots",
+    "name": "Kelly Boots",
+    "email": "kelly.boots@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/arao-haas",
+  "type": "person",
+  "title": "Arao",
+  "compiled_truth": "Arao is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-10-22), Arao sent 0 and received 56 emails, totalling 56 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/arao-haas",
+    "name": "Arao",
+    "email": "arao@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

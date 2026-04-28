@@ -1,0 +1,14 @@
+{
+  "slug": "people/jane-allen",
+  "type": "person",
+  "title": "Jane Allen",
+  "compiled_truth": "Jane Allen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-07 to 2001-03-30), Jane Allen sent 12 and received 45 emails, totalling 57 interactions. Top correspondents: [Sally Beck](people/sally-beck) (6), [Tara Rozen](people/tara-rozen) (5), [Kim Melodick](people/kim-melodick) (4), [John Lavorato](people/john-lavorato) (4), [Brent Price](people/brent-price) (3). Mailbox folders observed: personal.",
+  "timeline": "- **2000-01-07** | First recorded email in corpus\n- **2001-03-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jane-allen",
+    "name": "Jane Allen",
+    "email": "jane.allen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/aaron-brown",
+  "type": "person",
+  "title": "Aaron Brown",
+  "compiled_truth": "Aaron Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-20 to 2001-10-29), Aaron Brown sent 1 and received 42 emails, totalling 43 interactions. Top correspondents: [Lou Pai](people/lou-pai) (1), [Mary Joyce](people/mary-joyce) (1), [Steven Kean](people/steven-kean) (1).",
+  "timeline": "- **2000-03-20** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aaron-brown",
+    "name": "Aaron Brown",
+    "email": "aaron.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/wax-ghg",
+  "type": "person",
+  "title": "Wax",
+  "compiled_truth": "Wax is an external contact at [Ghg](companies/ghg). Over the corpus period (2000-07-11 to 2002-01-31), Wax sent 0 and received 60 emails, totalling 60 interactions.",
+  "timeline": "- **2000-07-11** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wax-ghg",
+    "name": "Wax",
+    "email": "wax@ghg.net",
+    "primary_affiliation": "companies/ghg"
+  }
+}

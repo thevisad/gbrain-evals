@@ -1,0 +1,14 @@
+{
+  "slug": "people/allan-weatherford",
+  "type": "person",
+  "title": "Allan Weatherford",
+  "compiled_truth": "Allan Weatherford is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-01 to 2002-01-29), Allan Weatherford sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **1999-04-01** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/allan-weatherford",
+    "name": "Allan Weatherford",
+    "email": "allan.weatherford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

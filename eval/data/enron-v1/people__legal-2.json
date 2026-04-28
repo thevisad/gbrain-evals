@@ -1,0 +1,14 @@
+{
+  "slug": "people/legal-2",
+  "type": "person",
+  "title": "Legal 2",
+  "compiled_truth": "Legal 2 is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-13 to 2001-06-26), Legal 2 sent 16 and received 66 emails, totalling 82 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (1).",
+  "timeline": "- **1999-04-13** | First recorded email in corpus\n- **2001-06-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/legal-2",
+    "name": "Legal 2",
+    "email": "legal.2@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

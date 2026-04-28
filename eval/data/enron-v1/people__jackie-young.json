@@ -1,0 +1,14 @@
+{
+  "slug": "people/jackie-young",
+  "type": "person",
+  "title": "Jackie Young",
+  "compiled_truth": "Jackie Young is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-05-31), Jackie Young sent 57 and received 239 emails, totalling 296 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (57), [Pat Clynes](people/pat-clynes) (15), [Anita Luong](people/anita-luong) (9), [Robert Lloyd](people/robert-lloyd) (8), [Tom Acton](people/tom-acton) (7).",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-05-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jackie-young",
+    "name": "Jackie Young",
+    "email": "jackie.young@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

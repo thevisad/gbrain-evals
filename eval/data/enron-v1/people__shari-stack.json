@@ -1,0 +1,14 @@
+{
+  "slug": "people/shari-stack",
+  "type": "person",
+  "title": "Shari Stack",
+  "compiled_truth": "Shari Stack is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-17), Shari Stack sent 137 and received 1150 emails, totalling 1287 interactions. Top correspondents: [Tana Jones](people/tana-jones) (66), [Rhonda Denton](people/rhonda-denton) (44), [Leslie Hansen](people/leslie-hansen) (44), [Elizabeth Sager](people/elizabeth-sager) (29), [Sara Shackleton](people/sara-shackleton) (29). Mailbox folders observed: notes_inbox, online_trading.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shari-stack",
+    "name": "Shari Stack",
+    "email": "shari.stack@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

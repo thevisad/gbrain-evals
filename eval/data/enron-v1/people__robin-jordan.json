@@ -1,0 +1,14 @@
+{
+  "slug": "people/robin-jordan",
+  "type": "person",
+  "title": "Robin Jordan",
+  "compiled_truth": "Robin Jordan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-02-09 to 2001-06-04), Robin Jordan sent 4 and received 63 emails, totalling 67 interactions. Top correspondents: [Gareth Bahlmann](people/gareth-bahlmann) (3), [Kristina Mordaunt](people/kristina-mordaunt) (3), [Mark Haedicke](people/mark-haedicke) (3), [Alan Aronowitz](people/alan-aronowitz) (3), [Peggy Banczak](people/peggy-banczak) (3).",
+  "timeline": "- **1999-02-09** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robin-jordan",
+    "name": "Robin Jordan",
+    "email": "robin.jordan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

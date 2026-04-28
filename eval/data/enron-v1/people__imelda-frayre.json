@@ -1,0 +1,14 @@
+{
+  "slug": "people/imelda-frayre",
+  "type": "person",
+  "title": "Imelda Frayre",
+  "compiled_truth": "Imelda Frayre is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2002-01-03), Imelda Frayre sent 6 and received 124 emails, totalling 130 interactions. Top correspondents: [Faye Ellis](people/faye-ellis) (3), [Tana Jones](people/tana-jones) (2), [Leslie Hansen](people/leslie-hansen) (2), [Claudia Clark](people/claudia-clark) (2), [Lisa Lees](people/lisa-lees) (2).",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/imelda-frayre",
+    "name": "Imelda Frayre",
+    "email": "imelda.frayre@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

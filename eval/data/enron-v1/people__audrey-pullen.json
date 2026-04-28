@@ -1,0 +1,14 @@
+{
+  "slug": "people/audrey-pullen",
+  "type": "person",
+  "title": "Audrey Pullen",
+  "compiled_truth": "Audrey Pullen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-09-12), Audrey Pullen sent 0 and received 45 emails, totalling 45 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-09-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/audrey-pullen",
+    "name": "Audrey Pullen",
+    "email": "audrey.pullen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

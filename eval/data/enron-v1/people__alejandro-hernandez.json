@@ -1,0 +1,14 @@
+{
+  "slug": "people/alejandro-hernandez",
+  "type": "person",
+  "title": "Alejandro Hernandez",
+  "compiled_truth": "Alejandro Hernandez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-06-05), Alejandro Hernandez sent 1 and received 22 emails, totalling 23 interactions. Top correspondents: [Steven Kean](people/steven-kean) (1), [Mark Courtney](people/mark-courtney) (1), [Guy Dayvault](people/guy-dayvault) (1), [Michael Miller](people/michael-miller) (1), [Lexi Elliott](people/lexi-elliott) (1).",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alejandro-hernandez",
+    "name": "Alejandro Hernandez",
+    "email": "alejandro.hernandez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

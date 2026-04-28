@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-reyes",
+  "type": "person",
+  "title": "James Reyes",
+  "compiled_truth": "James Reyes is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-28 to 2001-12-19), James Reyes sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-11-28** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-reyes",
+    "name": "James Reyes",
+    "email": "james.reyes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

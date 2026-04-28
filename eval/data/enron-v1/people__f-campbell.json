@@ -1,0 +1,14 @@
+{
+  "slug": "people/f-campbell",
+  "type": "person",
+  "title": "F  Campbell",
+  "compiled_truth": "F  Campbell is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-24 to 2002-01-04), F  Campbell sent 62 and received 237 emails, totalling 299 interactions. Top correspondents: [Jim Cashion](people/jim-cashion) (15), [Robertmun](people/robertmun-hotmail) (4), [An1229](people/an1229-hotmail) (3), [Physics123](people/physics123-yahoo) (3), [Julie Vu](people/julie-vu-aimfunds) (2). Mailbox folders observed: sent_items.",
+  "timeline": "- **2001-05-24** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/f-campbell",
+    "name": "F  Campbell",
+    "email": "f..campbell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

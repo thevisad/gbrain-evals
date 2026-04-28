@@ -1,0 +1,14 @@
+{
+  "slug": "people/jhartzel-stern",
+  "type": "person",
+  "title": "Jhartzel",
+  "compiled_truth": "Jhartzel is an external contact at [Stern](companies/stern). Over the corpus period (2000-03-28 to 2001-04-09), Jhartzel sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2001-04-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jhartzel-stern",
+    "name": "Jhartzel",
+    "email": "jhartzel@stern.nyu.edu",
+    "primary_affiliation": "companies/stern"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/diane-anderson",
+  "type": "person",
+  "title": "Diane Anderson",
+  "compiled_truth": "Diane Anderson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-01 to 2002-02-13), Diane Anderson sent 67 and received 481 emails, totalling 548 interactions. Top correspondents: [Susan Bailey](people/susan-bailey) (17), [Tana Jones](people/tana-jones) (16), [Sara Shackleton](people/sara-shackleton) (16), [C  Giron](people/c-giron) (9), [Patrick Mulvany](people/patrick-mulvany) (8). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-06-01** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diane-anderson",
+    "name": "Diane Anderson",
+    "email": "diane.anderson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

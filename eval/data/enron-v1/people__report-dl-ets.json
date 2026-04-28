@@ -1,0 +1,14 @@
+{
+  "slug": "people/report-dl-ets",
+  "type": "person",
+  "title": "Report Dl-Ets",
+  "compiled_truth": "Report Dl-Ets is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-22 to 2001-11-19), Report Dl-Ets sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-22** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/report-dl-ets",
+    "name": "Report Dl-Ets",
+    "email": "report.dl-ets@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/phillip-allen",
+  "type": "person",
+  "title": "Phillip Allen",
+  "compiled_truth": "Phillip Allen is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-31), Phillip Allen sent 1215 and received 1058 emails, totalling 2273 interactions. Top correspondents: [Keith Holst](people/keith-holst) (90), [Stagecoachmama](people/stagecoachmama-hotmail) (80), [Jsmith](people/jsmith-austintx) (79), [Mike Grigsby](people/mike-grigsby) (78), [Ina Rangel](people/ina-rangel) (76). Mailbox folders observed: _sent_mail, comp, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/phillip-allen",
+    "name": "Phillip Allen",
+    "email": "phillip.allen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

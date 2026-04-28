@@ -1,0 +1,14 @@
+{
+  "slug": "people/miorii-aol",
+  "type": "person",
+  "title": "Miorii",
+  "compiled_truth": "Miorii is an external contact at [AOL](companies/aol). Over the corpus period (1999-12-12 to 2000-11-22), Miorii sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **1999-12-12** | First recorded email in corpus\n- **2000-11-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/miorii-aol",
+    "name": "Miorii",
+    "email": "miorii@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

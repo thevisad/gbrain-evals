@@ -1,0 +1,14 @@
+{
+  "slug": "people/sayed-khoja",
+  "type": "person",
+  "title": "Sayed Khoja",
+  "compiled_truth": "Sayed Khoja is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-04), Sayed Khoja sent 1 and received 18 emails, totalling 19 interactions. Top correspondents: [ Taylor](people/taylor) (1), [B  Sanders](people/b-sanders) (1), [Thomas Myers](people/thomas-myers) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sayed-khoja",
+    "name": "Sayed Khoja",
+    "email": "sayed.khoja@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

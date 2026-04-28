@@ -1,0 +1,14 @@
+{
+  "slug": "people/mstrasser-houston",
+  "type": "person",
+  "title": "Mstrasser",
+  "compiled_truth": "Mstrasser is an external contact at [Houston](companies/houston). Over the corpus period (2000-06-20 to 2000-11-25), Mstrasser sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mstrasser-houston",
+    "name": "Mstrasser",
+    "email": "mstrasser@houston.rr.com",
+    "primary_affiliation": "companies/houston"
+  }
+}

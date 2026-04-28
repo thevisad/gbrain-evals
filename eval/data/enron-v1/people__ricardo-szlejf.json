@@ -1,0 +1,14 @@
+{
+  "slug": "people/ricardo-szlejf",
+  "type": "person",
+  "title": "Ricardo Szlejf",
+  "compiled_truth": "Ricardo Szlejf is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-24 to 2001-10-10), Ricardo Szlejf sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-08-24** | First recorded email in corpus\n- **2001-10-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ricardo-szlejf",
+    "name": "Ricardo Szlejf",
+    "email": "ricardo.szlejf@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

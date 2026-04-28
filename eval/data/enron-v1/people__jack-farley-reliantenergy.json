@@ -1,0 +1,14 @@
+{
+  "slug": "people/jack-farley-reliantenergy",
+  "type": "person",
+  "title": "Jack Farley",
+  "compiled_truth": "Jack Farley is an external contact at [Reliant Energy](companies/reliant-energy). Over the corpus period (2001-05-15 to 2001-05-16), Jack Farley sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-05-15** | First recorded email in corpus\n- **2001-05-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jack-farley-reliantenergy",
+    "name": "Jack Farley",
+    "email": "jack_farley@reliantenergy.com",
+    "primary_affiliation": "companies/reliant-energy"
+  }
+}

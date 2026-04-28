@@ -1,0 +1,14 @@
+{
+  "slug": "people/judy-zhang",
+  "type": "person",
+  "title": "Judy Zhang",
+  "compiled_truth": "Judy Zhang is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-10-29), Judy Zhang sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/judy-zhang",
+    "name": "Judy Zhang",
+    "email": "judy.zhang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

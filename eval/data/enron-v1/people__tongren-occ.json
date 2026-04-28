@@ -1,0 +1,14 @@
+{
+  "slug": "people/tongren-occ",
+  "type": "person",
+  "title": "Tongren",
+  "compiled_truth": "Tongren is an external contact at [Occ](companies/occ). Over the corpus period (2001-07-13 to 2001-07-13), Tongren sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-13** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tongren-occ",
+    "name": "Tongren",
+    "email": "tongren@occ.state.oh.us",
+    "primary_affiliation": "companies/occ"
+  }
+}

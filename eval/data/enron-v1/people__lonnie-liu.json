@@ -1,0 +1,14 @@
+{
+  "slug": "people/lonnie-liu",
+  "type": "person",
+  "title": "Lonnie Liu",
+  "compiled_truth": "Lonnie Liu is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2001-11-28), Lonnie Liu sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lonnie-liu",
+    "name": "Lonnie Liu",
+    "email": "lonnie.liu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

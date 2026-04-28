@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-mcgowan",
+  "type": "person",
+  "title": "Mike Mcgowan",
+  "compiled_truth": "Mike Mcgowan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-06-18), Mike Mcgowan sent 4 and received 234 emails, totalling 238 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (2), [Danny Mccarty](people/danny-mccarty) (2), [Larry Campbell](people/larry-campbell) (1), [Rich Jolly](people/rich-jolly) (1), [Rob Wilson](people/rob-wilson) (1).",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-06-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-mcgowan",
+    "name": "Mike Mcgowan",
+    "email": "mike.mcgowan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

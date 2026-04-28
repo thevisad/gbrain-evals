@@ -1,0 +1,14 @@
+{
+  "slug": "people/charles-walther",
+  "type": "person",
+  "title": "Charles Walther",
+  "compiled_truth": "Charles Walther is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-08 to 2001-03-19), Charles Walther sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-03-08** | First recorded email in corpus\n- **2001-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charles-walther",
+    "name": "Charles Walther",
+    "email": "charles.walther@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

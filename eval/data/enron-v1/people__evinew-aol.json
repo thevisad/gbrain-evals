@@ -1,0 +1,14 @@
+{
+  "slug": "people/evinew-aol",
+  "type": "person",
+  "title": "Evinew",
+  "compiled_truth": "Evinew is an external contact at [AOL](companies/aol). Over the corpus period (2001-09-17 to 2001-11-19), Evinew sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/evinew-aol",
+    "name": "Evinew",
+    "email": "evinew@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

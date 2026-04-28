@@ -1,0 +1,14 @@
+{
+  "slug": "people/louie-truong",
+  "type": "person",
+  "title": "Louie Truong",
+  "compiled_truth": "Louie Truong is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-05 to 2001-11-28), Louie Truong sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-07-05** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/louie-truong",
+    "name": "Louie Truong",
+    "email": "louie.truong@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/b-rosen",
+  "type": "person",
+  "title": "B  Rosen",
+  "compiled_truth": "B  Rosen is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-01 to 2001-12-21), B  Rosen sent 1 and received 15 emails, totalling 16 interactions. Top correspondents: [J  Kean](people/j-kean) (1), [Christie Patrick](people/christie-patrick) (1). Mailbox folders observed: pr_crisis_management.",
+  "timeline": "- **2001-08-01** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/b-rosen",
+    "name": "B  Rosen",
+    "email": "b..rosen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/geraldine-irvine",
+  "type": "person",
+  "title": "Geraldine Irvine",
+  "compiled_truth": "Geraldine Irvine is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2002-02-28), Geraldine Irvine sent 5 and received 57 emails, totalling 62 interactions. Top correspondents: [Mark Breese](people/mark-breese) (3), [Eric Boyt](people/eric-boyt) (3), [Steven Curlee](people/steven-curlee) (2), [Maria Garza](people/maria-garza) (2), [Ed Mcmichael](people/ed-mcmichael) (2). Mailbox folders observed: calendar, deleted_items.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/geraldine-irvine",
+    "name": "Geraldine Irvine",
+    "email": "geraldine.irvine@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/janice-hogan",
+  "type": "person",
+  "title": "Janice Hogan",
+  "compiled_truth": "Janice Hogan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-13 to 2001-12-28), Janice Hogan sent 1 and received 41 emails, totalling 42 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (1), [Cindy Stark](people/cindy-stark) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-04-13** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janice-hogan",
+    "name": "Janice Hogan",
+    "email": "janice.hogan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

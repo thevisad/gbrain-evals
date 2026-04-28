@@ -1,0 +1,14 @@
+{
+  "slug": "people/judd-eisenberg",
+  "type": "person",
+  "title": "Judd Eisenberg",
+  "compiled_truth": "Judd Eisenberg is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-06-27), Judd Eisenberg sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/judd-eisenberg",
+    "name": "Judd Eisenberg",
+    "email": "judd.eisenberg@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

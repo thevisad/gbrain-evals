@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-meyer",
+  "type": "person",
+  "title": "Jim Meyer",
+  "compiled_truth": "Jim Meyer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-08 to 2002-05-30), Jim Meyer sent 3 and received 27 emails, totalling 30 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (2), [Jennifer Stewart](people/jennifer-stewart) (1), [Shirley Wilson](people/shirley-wilson) (1), [Mark Dobler](people/mark-dobler) (1), [Thomas Callaghan](people/thomas-callaghan) (1).",
+  "timeline": "- **2000-12-08** | First recorded email in corpus\n- **2002-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-meyer",
+    "name": "Jim Meyer",
+    "email": "jim.meyer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

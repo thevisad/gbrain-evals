@@ -1,0 +1,14 @@
+{
+  "slug": "people/harry-collins",
+  "type": "person",
+  "title": "Harry Collins",
+  "compiled_truth": "Harry Collins is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-12-22 to 2001-11-19), Harry Collins sent 21 and received 1239 emails, totalling 1260 interactions. Top correspondents: [Tana Jones](people/tana-jones) (15), [Mark Taylor](people/mark-taylor) (10), [Karen Lambert](people/karen-lambert) (5), [Lisa Lees](people/lisa-lees) (5), [Stephanie Sever](people/stephanie-sever) (5). Mailbox folders observed: online_trading.",
+  "timeline": "- **1998-12-22** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/harry-collins",
+    "name": "Harry Collins",
+    "email": "harry.collins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

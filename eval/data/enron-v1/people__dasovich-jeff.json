@@ -1,0 +1,14 @@
+{
+  "slug": "people/dasovich-jeff",
+  "type": "person",
+  "title": "Dasovich Jeff",
+  "compiled_truth": "Dasovich Jeff is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-23 to 2001-11-26), Dasovich Jeff sent 0 and received 66 emails, totalling 66 interactions.",
+  "timeline": "- **2001-07-23** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dasovich-jeff",
+    "name": "Dasovich Jeff",
+    "email": "dasovich.jeff@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

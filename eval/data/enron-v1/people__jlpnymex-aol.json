@@ -1,0 +1,14 @@
+{
+  "slug": "people/jlpnymex-aol",
+  "type": "person",
+  "title": "Jlpnymex",
+  "compiled_truth": "Jlpnymex is an external contact at [AOL](companies/aol). Over the corpus period (2000-03-06 to 2000-11-02), Jlpnymex sent 5 and received 55 emails, totalling 60 interactions. Top correspondents: [Vkamins](people/vkamins) (4), [Genieand](people/genieand-hotmail) (2), [Blackj](people/blackj-wellsfargo) (2), [Martha](people/martha-plunkettresearch) (2), [Robyn Howard](people/robyn-howard-aimfunds) (2).",
+  "timeline": "- **2000-03-06** | First recorded email in corpus\n- **2000-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jlpnymex-aol",
+    "name": "Jlpnymex",
+    "email": "jlpnymex@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

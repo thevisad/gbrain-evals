@@ -1,0 +1,14 @@
+{
+  "slug": "people/sussmes-matthew",
+  "type": "person",
+  "title": "Sussmes' 'Matthew",
+  "compiled_truth": "Sussmes' 'Matthew is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-09 to 2001-07-09), Sussmes' 'Matthew sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sussmes-matthew",
+    "name": "Sussmes' 'Matthew",
+    "email": "sussmes'.'matthew@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

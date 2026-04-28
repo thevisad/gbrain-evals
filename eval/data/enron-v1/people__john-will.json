@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-will",
+  "type": "person",
+  "title": "John Will",
+  "compiled_truth": "John Will is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-03 to 2001-12-11), John Will sent 1 and received 21 emails, totalling 22 interactions. Top correspondents: [Sarah-Joy Hunter](people/sarah-joy-hunter) (1), [Derryl Cleaveland](people/derryl-cleaveland) (1), [Jennifer Medcalf](people/jennifer-medcalf) (1).",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2001-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-will",
+    "name": "John Will",
+    "email": "john.will@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

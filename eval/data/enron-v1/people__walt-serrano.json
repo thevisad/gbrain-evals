@@ -1,0 +1,14 @@
+{
+  "slug": "people/walt-serrano",
+  "type": "person",
+  "title": "Walt Serrano",
+  "compiled_truth": "Walt Serrano is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-16 to 2001-12-20), Walt Serrano sent 14 and received 21 emails, totalling 35 interactions. Top correspondents: [Theresa Staab](people/theresa-staab) (14), [Amy Felling](people/amy-felling) (6), [ Becky](people/becky) (5), [ Duke](people/duke) (5), [ Jeff](people/jeff) (5). Mailbox folders observed: crestone, deleted_items, inbox, lost_creek.",
+  "timeline": "- **2001-08-16** | First recorded email in corpus\n- **2001-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/walt-serrano",
+    "name": "Walt Serrano",
+    "email": "walt.serrano@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

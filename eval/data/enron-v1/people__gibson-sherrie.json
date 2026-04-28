@@ -1,0 +1,14 @@
+{
+  "slug": "people/gibson-sherrie",
+  "type": "person",
+  "title": "Gibson Sherrie",
+  "compiled_truth": "Gibson Sherrie is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2002-01-02), Gibson Sherrie sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gibson-sherrie",
+    "name": "Gibson Sherrie",
+    "email": "gibson.sherrie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

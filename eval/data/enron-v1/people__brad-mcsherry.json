@@ -1,0 +1,14 @@
+{
+  "slug": "people/brad-mcsherry",
+  "type": "person",
+  "title": "Brad Mcsherry",
+  "compiled_truth": "Brad Mcsherry is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-11-21), Brad Mcsherry sent 1 and received 57 emails, totalling 58 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1).",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brad-mcsherry",
+    "name": "Brad Mcsherry",
+    "email": "brad.mcsherry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

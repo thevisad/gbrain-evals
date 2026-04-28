@@ -1,0 +1,14 @@
+{
+  "slug": "people/sascherwitz-dow",
+  "type": "person",
+  "title": "Sascherwitz",
+  "compiled_truth": "Sascherwitz is an external contact at [Dow](companies/dow). Over the corpus period (2000-08-15 to 2000-09-05), Sascherwitz sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-08-15** | First recorded email in corpus\n- **2000-09-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sascherwitz-dow",
+    "name": "Sascherwitz",
+    "email": "sascherwitz@dow.com",
+    "primary_affiliation": "companies/dow"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/pherrington-edisonmission",
+  "type": "person",
+  "title": "Pherrington",
+  "compiled_truth": "Pherrington is an external contact at [Edisonmission](companies/edisonmission). Over the corpus period (2001-02-12 to 2001-05-09), Pherrington sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2001-02-12** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pherrington-edisonmission",
+    "name": "Pherrington",
+    "email": "pherrington@edisonmission.com",
+    "primary_affiliation": "companies/edisonmission"
+  }
+}

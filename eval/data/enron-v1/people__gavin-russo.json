@@ -1,0 +1,14 @@
+{
+  "slug": "people/gavin-russo",
+  "type": "person",
+  "title": "Gavin Russo",
+  "compiled_truth": "Gavin Russo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-25 to 2002-03-06), Gavin Russo sent 0 and received 47 emails, totalling 47 interactions.",
+  "timeline": "- **2000-02-25** | First recorded email in corpus\n- **2002-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gavin-russo",
+    "name": "Gavin Russo",
+    "email": "gavin.russo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

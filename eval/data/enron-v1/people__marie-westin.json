@@ -1,0 +1,14 @@
+{
+  "slug": "people/marie-westin",
+  "type": "person",
+  "title": "Marie Westin",
+  "compiled_truth": "Marie Westin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-16 to 2001-12-06), Marie Westin sent 1 and received 22 emails, totalling 23 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (1), [Leslie Hansen](people/leslie-hansen) (1), [Claudia Clark](people/claudia-clark) (1), [Enron Group](people/enron-group) (1).",
+  "timeline": "- **2000-06-16** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marie-westin",
+    "name": "Marie Westin",
+    "email": "marie.westin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

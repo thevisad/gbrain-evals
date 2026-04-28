@@ -1,0 +1,14 @@
+{
+  "slug": "people/ravi-mujumdar",
+  "type": "person",
+  "title": "Ravi Mujumdar",
+  "compiled_truth": "Ravi Mujumdar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-11-30), Ravi Mujumdar sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ravi-mujumdar",
+    "name": "Ravi Mujumdar",
+    "email": "ravi.mujumdar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

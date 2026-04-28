@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-kolarik",
+  "type": "person",
+  "title": "David Kolarik",
+  "compiled_truth": "David Kolarik is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-25 to 2002-03-25), David Kolarik sent 0 and received 69 emails, totalling 69 interactions.",
+  "timeline": "- **2000-02-25** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-kolarik",
+    "name": "David Kolarik",
+    "email": "david.kolarik@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

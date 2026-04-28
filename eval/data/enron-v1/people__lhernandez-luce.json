@@ -1,0 +1,14 @@
+{
+  "slug": "people/lhernandez-luce",
+  "type": "person",
+  "title": "Lhernandez",
+  "compiled_truth": "Lhernandez is an external contact at [Luce](companies/luce). Over the corpus period (2001-03-07 to 2001-06-11), Lhernandez sent 3 and received 9 emails, totalling 12 interactions. Top correspondents: [Jalexander](people/jalexander-gibbs-bruns) (3), [Gallen](people/gallen-bakerbotts) (3), [Bbailey](people/bbailey-duke-energy) (3), [James Beh](people/james-beh-troutmansanders) (3), [Peter Benzian](people/peter-benzian-lw) (3).",
+  "timeline": "- **2001-03-07** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lhernandez-luce",
+    "name": "Lhernandez",
+    "email": "lhernandez@luce.com",
+    "primary_affiliation": "companies/luce"
+  }
+}

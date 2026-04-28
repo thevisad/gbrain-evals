@@ -1,0 +1,14 @@
+{
+  "slug": "people/vkamins",
+  "type": "person",
+  "title": "Vkamins",
+  "compiled_truth": "Vkamins is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-07 to 2002-01-30), Vkamins sent 1 and received 868 emails, totalling 869 interactions. Top correspondents: [Oren](people/oren-ieor) (1), [Vkamins](people/vkamins) (1), [Ashley Baxter](people/ashley-baxter) (1).",
+  "timeline": "- **2000-02-07** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vkamins",
+    "name": "Vkamins",
+    "email": "vkamins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

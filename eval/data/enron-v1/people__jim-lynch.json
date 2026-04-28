@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-lynch",
+  "type": "person",
+  "title": "Jim Lynch",
+  "compiled_truth": "Jim Lynch is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2001-12-27), Jim Lynch sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-lynch",
+    "name": "Jim Lynch",
+    "email": "jim.lynch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

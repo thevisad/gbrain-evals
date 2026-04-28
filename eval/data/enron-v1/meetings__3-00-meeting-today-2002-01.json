@@ -1,0 +1,25 @@
+{
+  "slug": "meetings/3-00-meeting-today-2002-01",
+  "type": "meeting",
+  "title": "Meeting: 3:00 Meeting Today",
+  "compiled_truth": "Meeting: \"3:00 Meeting Today\". Occurred 2002-01-30 through 2002-01-30 with 4 related emails. Participants included: [Audrey Robertson](people/audrey-robertson), [Donna Scott](people/donna-scott), [Julie Armstrong](people/julie-armstrong), [Kimberly Watson](people/kimberly-watson), [Ricki Winters](people/ricki-winters), [Robert Kilmer](people/robert-kilmer), [Roger Hayes](people/roger-hayes), [Shelley Corman](people/shelley-corman)....",
+  "timeline": "- **2002-01-30** | Meeting: 3:00 meeting today\n- **2002-01-30** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/3-00-meeting-today-2002-01",
+    "attendees": [
+      "people/audrey-robertson",
+      "people/donna-scott",
+      "people/julie-armstrong",
+      "people/kimberly-watson",
+      "people/ricki-winters",
+      "people/robert-kilmer",
+      "people/roger-hayes",
+      "people/shelley-corman",
+      "people/steven-harris",
+      "people/tammy-kovalcik",
+      "people/zelda-paschal"
+    ],
+    "date": "2002-01-30"
+  }
+}

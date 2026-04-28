@@ -1,0 +1,14 @@
+{
+  "slug": "people/klay",
+  "type": "person",
+  "title": "Klay",
+  "compiled_truth": "Klay is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2002-01-30), Klay sent 0 and received 1524 emails, totalling 1524 interactions.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/klay",
+    "name": "Klay",
+    "email": "klay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

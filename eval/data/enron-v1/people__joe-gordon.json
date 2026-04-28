@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-gordon",
+  "type": "person",
+  "title": "Joe Gordon",
+  "compiled_truth": "Joe Gordon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-25 to 2001-11-20), Joe Gordon sent 0 and received 246 emails, totalling 246 interactions.",
+  "timeline": "- **2000-04-25** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-gordon",
+    "name": "Joe Gordon",
+    "email": "joe.gordon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

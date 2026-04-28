@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrea-yowman",
+  "type": "person",
+  "title": "Andrea Yowman",
+  "compiled_truth": "Andrea Yowman is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-27), Andrea Yowman sent 39 and received 117 emails, totalling 156 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (31), [Cindy Olson](people/cindy-olson) (8), [Diane Goode](people/diane-goode) (7), [Steven Kean](people/steven-kean) (6), [Sally Beck](people/sally-beck) (5). Mailbox folders observed: deleted_items, inbox, meeting_invites_confirms, vp_prc.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrea-yowman",
+    "name": "Andrea Yowman",
+    "email": "andrea.yowman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

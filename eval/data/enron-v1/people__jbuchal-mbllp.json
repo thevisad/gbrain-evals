@@ -1,0 +1,14 @@
+{
+  "slug": "people/jbuchal-mbllp",
+  "type": "person",
+  "title": "Jbuchal",
+  "compiled_truth": "Jbuchal is an external contact at [Mbllp](companies/mbllp). Over the corpus period (2000-06-23 to 2001-03-16), Jbuchal sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jbuchal-mbllp",
+    "name": "Jbuchal",
+    "email": "jbuchal@mbllp.com",
+    "primary_affiliation": "companies/mbllp"
+  }
+}

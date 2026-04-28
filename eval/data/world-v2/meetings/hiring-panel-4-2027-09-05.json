@@ -1,0 +1,30 @@
+{
+  "slug": "meetings/hiring-panel-4-2027-09-05",
+  "type": "meeting",
+  "title": "Hiring Panel — Head of Security (Indigo Ferreira)",
+  "compiled_truth": "Panel convened on 2027-09-05 to evaluate Indigo Ferreira for the Head of Security role at [Anchor Codec](companies/anchor). Attendees were [Seren Voss](people/seren-voss), [Dani Osei](people/dani-osei), and [Sol Ramirez](people/sol-ramirez). This was the fourth and final panel interview following two technical screens and a values-fit conversation earlier in the week.\n\nIndigo comes from a background in adversarial infrastructure testing — most recently leading red team operations at a mid-size financial data company for about four years. Prior to that, they spent time in government-adjacent consulting, focused on protocol-level vulnerability assessments. Their résumé is strong on offensive security but lighter on the compliance and policy side, which [Dani Osei](people/dani-osei) flagged early in the debrief. Dani's concern was that the role at Anchor requires someone who can also navigate emerging regulatory frameworks around deterministic data handling, not just break things.\n\n[Sol Ramirez](people/sol-ramirez) pushed back somewhat, noting that Indigo's technical depth on single-pass pipeline security was genuinely impressive — they'd clearly done homework on Anchor's architecture and raised a couple of edge cases that even Sol hadn't fully mapped out. Sol described the whiteboard segment as \"the best adversarial walkthrough we've gotten from any candidate, honestly.\" Their instinct was strongly in favor of extending an offer.\n\n[Seren Voss](people/seren-voss) took a more measured position. Seren acknowledged Indigo's technical chops but wanted to stress-test their ability to build and manage a team. Anchor is scaling fast and the security function can't be a one-person show for long. Seren asked pointed questions about Indigo's experience hiring and mentoring, and came away feeling it was \"adequate but not exceptional.\" Seren also noted that Indigo's communication style — direct, occasionally terse — could either be a great cultural fit or a friction point depending on how cross-functional work pans out.\n\nThe panel ultimately reached consensus to extend a conditional offer, contingent on a follow-up conversation specifically around team-building strategy and a 90-day plan. Dani volunteered to run that final session. There was brief discsusion about compensation banding; Seren noted they'd need to align with the ranges established during the Q2 leveling exercise. Next steps were assigned to Dani to coordinate scheduling within the week.",
+  "timeline": [
+    "- **2027-08-18** | Indigo Ferreira's application received and flagged as high-priority by recruiting team at [Anchor Codec](companies/anchor).",
+    "- **2027-08-22** | First technical screen conducted by [Sol Ramirez](people/sol-ramirez); candidate advanced.",
+    "- **2027-08-28** | Second technical screen (systems design focus) plus values-fit interview with two senior engineers.",
+    "- **2027-09-05** | Final hiring panel with [Seren Voss](people/seren-voss), [Dani Osei](people/dani-osei), and [Sol Ramirez](people/sol-ramirez). Conditional offer decision reached.",
+    "- **2027-09-09** | Follow-up session on team-building strategy scheduled, led by [Dani Osei](people/dani-osei).",
+    "- **2027-09-12** | Follow-up conversation completed; Dani reports positive outcome and recommends proceeding with offer.",
+    "- **2027-09-15** | Formal offer letter sent to Indigo Ferreira for Head of Security at [Anchor Codec](companies/anchor).",
+    "- **2027-09-22** | Indigo Ferreira accepts offer; start date set for October 2027."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/hiring-panel-4-2027-09-05",
+    "name": "Hiring Panel — Head of Security",
+    "meeting_type": "hiring_panel",
+    "date": "2027-09-05",
+    "attendees": [
+      "people/seren-voss",
+      "people/dani-osei",
+      "people/sol-ramirez"
+    ],
+    "topic_company": "companies/anchor",
+    "topic": "Interview panel for Indigo Ferreira (Head of Security)"
+  }
+}

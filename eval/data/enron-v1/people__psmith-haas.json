@@ -1,0 +1,14 @@
+{
+  "slug": "people/psmith-haas",
+  "type": "person",
+  "title": "Psmith",
+  "compiled_truth": "Psmith is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2001-09-05), Psmith sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-09-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/psmith-haas",
+    "name": "Psmith",
+    "email": "psmith@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

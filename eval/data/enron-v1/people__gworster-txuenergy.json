@@ -1,0 +1,14 @@
+{
+  "slug": "people/gworster-txuenergy",
+  "type": "person",
+  "title": "Gworster",
+  "compiled_truth": "Gworster is an external contact at [Txuenergy](companies/txuenergy). Over the corpus period (1999-09-24 to 2001-07-31), Gworster sent 0 and received 93 emails, totalling 93 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gworster-txuenergy",
+    "name": "Gworster",
+    "email": "gworster@txuenergy.com",
+    "primary_affiliation": "companies/txuenergy"
+  }
+}

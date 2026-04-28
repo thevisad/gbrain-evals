@@ -1,0 +1,14 @@
+{
+  "slug": "people/stanley-barbara",
+  "type": "person",
+  "title": "Stanley Barbara",
+  "compiled_truth": "Stanley Barbara is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-20 to 2001-09-12), Stanley Barbara sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-08-20** | First recorded email in corpus\n- **2001-09-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stanley-barbara",
+    "name": "Stanley Barbara",
+    "email": "stanley.barbara@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

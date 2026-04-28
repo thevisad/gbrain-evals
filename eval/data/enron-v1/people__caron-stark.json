@@ -1,0 +1,14 @@
+{
+  "slug": "people/caron-stark",
+  "type": "person",
+  "title": "Caron Stark",
+  "compiled_truth": "Caron Stark is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-31 to 2001-10-12), Caron Stark sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-01-31** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/caron-stark",
+    "name": "Caron Stark",
+    "email": "caron.stark@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/max",
+  "type": "person",
+  "title": " Max",
+  "compiled_truth": "Max is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-17 to 2002-04-03),  Max sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-04-17** | First recorded email in corpus\n- **2002-04-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/max",
+    "name": " Max",
+    "email": ".max@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

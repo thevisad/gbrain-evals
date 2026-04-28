@@ -1,0 +1,30 @@
+{
+  "slug": "threads/all-tests-were-not-successfully-executed-2002-01",
+  "type": "meeting",
+  "title": "Thread: All Tests Were Not Successfully Executed",
+  "compiled_truth": "Email thread: \"All Tests Were Not Successfully Executed\". Ran from 2002-01-10 to 2002-02-08 with 7 messages. Participants: [A  Smith](people/a-smith), [Bradley Holmes](people/bradley-holmes), [Darrell Schoolcraft](people/darrell-schoolcraft), [Don Daze](people/don-daze), [Glenda Wagner](people/glenda-wagner), [Hasan Kedwaii](people/hasan-kedwaii), [Helpdesk Hottap](people/helpdesk-hottap), [Jean Mcfarland](people/jean-mcfarland).",
+  "timeline": "- **2002-01-10** | Thread begins: all tests were not successfully executed\n- **2002-02-08** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/all-tests-were-not-successfully-executed-2002-01",
+    "attendees": [
+      "people/a-smith",
+      "people/bradley-holmes",
+      "people/darrell-schoolcraft",
+      "people/don-daze",
+      "people/glenda-wagner",
+      "people/hasan-kedwaii",
+      "people/helpdesk-hottap",
+      "people/jean-mcfarland",
+      "people/john-buchanan",
+      "people/lisa-sawyer",
+      "people/lynn-blair",
+      "people/scott-abshire",
+      "people/sheila-nacey",
+      "people/steve-hotte",
+      "people/terry-kowalke",
+      "people/toby-kuehl"
+    ],
+    "date": "2002-01-10"
+  }
+}

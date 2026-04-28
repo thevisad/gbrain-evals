@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-porter",
+  "type": "person",
+  "title": "J  Porter",
+  "compiled_truth": "J  Porter is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-11 to 2001-11-21), J  Porter sent 19 and received 190 emails, totalling 209 interactions. Top correspondents: [Bill Rapp](people/bill-rapp) (12), [Maria Pavlou](people/maria-pavlou) (8), [Steven Harris](people/steven-harris) (8), [Kay Miller](people/kay-miller) (7), [Robert Kilmer](people/robert-kilmer) (7). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-07-11** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-porter",
+    "name": "J  Porter",
+    "email": "j..porter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

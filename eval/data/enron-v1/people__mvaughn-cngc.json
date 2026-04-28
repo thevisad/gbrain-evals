@@ -1,0 +1,14 @@
+{
+  "slug": "people/mvaughn-cngc",
+  "type": "person",
+  "title": "Mvaughn",
+  "compiled_truth": "Mvaughn is an external contact at [Cngc](companies/cngc). Over the corpus period (2000-10-27 to 2001-05-11), Mvaughn sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mvaughn-cngc",
+    "name": "Mvaughn",
+    "email": "mvaughn@cngc.com",
+    "primary_affiliation": "companies/cngc"
+  }
+}

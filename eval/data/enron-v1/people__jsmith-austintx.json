@@ -1,0 +1,14 @@
+{
+  "slug": "people/jsmith-austintx",
+  "type": "person",
+  "title": "Jsmith",
+  "compiled_truth": "Jsmith is an external contact at [Austintx](companies/austintx). Over the corpus period (1980-01-01 to 2001-12-17), Jsmith sent 5 and received 102 emails, totalling 107 interactions. Top correspondents: [K  Allen](people/k-allen) (3), [Phillip K Allen](people/phillip-k-allen) (2).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jsmith-austintx",
+    "name": "Jsmith",
+    "email": "jsmith@austintx.com",
+    "primary_affiliation": "companies/austintx"
+  }
+}

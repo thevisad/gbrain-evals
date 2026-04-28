@@ -1,0 +1,14 @@
+{
+  "slug": "people/mathew-smith",
+  "type": "person",
+  "title": "Mathew Smith",
+  "compiled_truth": "Mathew Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-22 to 2002-05-22), Mathew Smith sent 1 and received 24 emails, totalling 25 interactions. Top correspondents: [Chris Dorland](people/chris-dorland) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2002-01-22** | First recorded email in corpus\n- **2002-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mathew-smith",
+    "name": "Mathew Smith",
+    "email": "mathew.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

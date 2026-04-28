@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-peters",
+  "type": "person",
+  "title": "Jason Peters",
+  "compiled_truth": "Jason Peters is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-26 to 2001-03-27), Jason Peters sent 26 and received 209 emails, totalling 235 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (21), [Dave Samuels](people/dave-samuels) (15), [Sara Shackleton](people/sara-shackleton) (4), [Carol Clair](people/carol-clair) (4), [Rahil Jafry](people/rahil-jafry) (4).",
+  "timeline": "- **2000-04-26** | First recorded email in corpus\n- **2001-03-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-peters",
+    "name": "Jason Peters",
+    "email": "jason.peters@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cdorland-hotmail",
+  "type": "person",
+  "title": "Cdorland",
+  "compiled_truth": "Cdorland is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (2001-12-17 to 2002-02-01), Cdorland sent 11 and received 21 emails, totalling 32 interactions. Top correspondents: [Chris Dorland](people/chris-dorland) (11).",
+  "timeline": "- **2001-12-17** | First recorded email in corpus\n- **2002-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cdorland-hotmail",
+    "name": "Cdorland",
+    "email": "cdorland@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

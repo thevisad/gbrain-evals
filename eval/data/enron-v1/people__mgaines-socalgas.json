@@ -1,0 +1,14 @@
+{
+  "slug": "people/mgaines-socalgas",
+  "type": "person",
+  "title": "Mgaines",
+  "compiled_truth": "Mgaines is an external contact at [Socalgas](companies/socalgas). Over the corpus period (2000-04-17 to 2000-09-06), Mgaines sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2000-09-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mgaines-socalgas",
+    "name": "Mgaines",
+    "email": "mgaines@socalgas.com",
+    "primary_affiliation": "companies/socalgas"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-snyder",
+  "type": "person",
+  "title": "Jeffrey Snyder",
+  "compiled_truth": "Jeffrey Snyder is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-15 to 2001-11-08), Jeffrey Snyder sent 22 and received 32 emails, totalling 54 interactions. Top correspondents: [Jay Fitzgerald](people/jay-fitzgerald) (22), [Stephen Horn](people/stephen-horn) (22), [Louise Kitchen](people/louise-kitchen) (22), [Michael Miller](people/michael-miller) (22), [John Norden](people/john-norden) (22).",
+  "timeline": "- **2000-03-15** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-snyder",
+    "name": "Jeffrey Snyder",
+    "email": "jeffrey.snyder@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

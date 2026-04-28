@@ -1,0 +1,30 @@
+{
+  "slug": "threads/hello-2002-01",
+  "type": "meeting",
+  "title": "Thread: Hello",
+  "compiled_truth": "Email thread: \"Hello\". Ran from 2002-01-29 to 2002-02-27 with 24 messages. Participants: [Andy Zipper](people/andy-zipper), [Chris Dorland](people/chris-dorland), [Djunus2000](people/djunus2000-yahoo), [Jfrizzley](people/jfrizzley-shearman), [Kevin Hyatt](people/kevin-hyatt), [Larry May](people/larry-may), [Lottyplace](people/lottyplace-yahoo), [Louise Kitchen](people/louise-kitchen).",
+  "timeline": "- **2002-01-29** | Thread begins: hello\n- **2002-02-27** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/hello-2002-01",
+    "attendees": [
+      "people/andy-zipper",
+      "people/chris-dorland",
+      "people/djunus2000-yahoo",
+      "people/jfrizzley-shearman",
+      "people/kevin-hyatt",
+      "people/larry-may",
+      "people/lottyplace-yahoo",
+      "people/louise-kitchen",
+      "people/m-scott",
+      "people/mark-jones-rwetrading",
+      "people/matt-motley",
+      "people/mike-panozzo-ey",
+      "people/oceanos-jazzfree",
+      "people/sriordan-houston",
+      "people/stewart-seeligson",
+      "people/w-white"
+    ],
+    "date": "2002-01-29"
+  }
+}

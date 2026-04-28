@@ -1,0 +1,14 @@
+{
+  "slug": "people/art",
+  "type": "person",
+  "title": " Art",
+  "compiled_truth": "Art is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-07 to 2002-03-01),  Art sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2001-09-07** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/art",
+    "name": " Art",
+    "email": ".art@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

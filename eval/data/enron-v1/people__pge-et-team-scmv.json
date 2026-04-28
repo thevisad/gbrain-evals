@@ -1,0 +1,14 @@
+{
+  "slug": "people/pge-et-team-scmv",
+  "type": "person",
+  "title": "Pge Et Team",
+  "compiled_truth": "Pge Et Team is an external contact at [Scmv](companies/scmv). Over the corpus period (2001-06-05 to 2001-06-11), Pge Et Team sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pge-et-team-scmv",
+    "name": "Pge Et Team",
+    "email": "pge_et_team@scmv.com",
+    "primary_affiliation": "companies/scmv"
+  }
+}

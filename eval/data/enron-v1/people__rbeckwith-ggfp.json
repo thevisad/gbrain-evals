@@ -1,0 +1,14 @@
+{
+  "slug": "people/rbeckwith-ggfp",
+  "type": "person",
+  "title": "Rbeckwith",
+  "compiled_truth": "Rbeckwith is an external contact at [Ggfp](companies/ggfp). Over the corpus period (2000-05-18 to 2000-09-18), Rbeckwith sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rbeckwith-ggfp",
+    "name": "Rbeckwith",
+    "email": "rbeckwith@ggfp.com",
+    "primary_affiliation": "companies/ggfp"
+  }
+}

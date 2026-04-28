@@ -1,0 +1,14 @@
+{
+  "slug": "people/kyle-etter",
+  "type": "person",
+  "title": "Kyle Etter",
+  "compiled_truth": "Kyle Etter is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2000-11-06), Kyle Etter sent 1 and received 43 emails, totalling 44 interactions. Top correspondents: [Christopher Coffman](people/christopher-coffman) (1), [Nick Hiemstra](people/nick-hiemstra) (1), [Reagan Mathews](people/reagan-mathews) (1), [Jeff Coates](people/jeff-coates) (1), [Jay Reitmeyer](people/jay-reitmeyer) (1).",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2000-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kyle-etter",
+    "name": "Kyle Etter",
+    "email": "kyle.etter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

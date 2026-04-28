@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-pinion",
+  "type": "person",
+  "title": "Richard Pinion",
+  "compiled_truth": "Richard Pinion is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2002-05-13), Richard Pinion sent 15 and received 270 emails, totalling 285 interactions. Top correspondents: [Victor Lamadrid](people/victor-lamadrid) (13), [Lisa Kinsey](people/lisa-kinsey) (13), [Patti Sullivan](people/patti-sullivan) (11), [J  Farmer](people/j-farmer) (11), [Kevin Heal](people/kevin-heal) (10). Mailbox folders observed: deleted_items, inbox, logistics, unify.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-pinion",
+    "name": "Richard Pinion",
+    "email": "richard.pinion@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bryce-schneider",
+  "type": "person",
+  "title": "Bryce Schneider",
+  "compiled_truth": "Bryce Schneider is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2002-02-28), Bryce Schneider sent 15 and received 128 emails, totalling 143 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (7), [D  Thomas](people/d-thomas) (4), [Juan Hernandez](people/juan-hernandez) (2), [Joe Stepenovitch](people/joe-stepenovitch) (2). Mailbox folders observed: deleted_items, inbox, trading_info.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bryce-schneider",
+    "name": "Bryce Schneider",
+    "email": "bryce.schneider@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

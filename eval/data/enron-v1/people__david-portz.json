@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-portz",
+  "type": "person",
+  "title": "David Portz",
+  "compiled_truth": "David Portz is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-14), David Portz sent 148 and received 1144 emails, totalling 1292 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (105), [Doug Gilbert-Smith](people/doug-gilbert-smith) (29), [Leslie Hansen](people/leslie-hansen) (24), [Edward Sacks](people/edward-sacks) (21), [Mike Curry](people/mike-curry) (16). Mailbox folders observed: _americas, archive, deleted_items, elizabeth_sager, inbox, yazoo_city.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-portz",
+    "name": "David Portz",
+    "email": "david.portz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

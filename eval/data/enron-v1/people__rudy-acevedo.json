@@ -1,0 +1,14 @@
+{
+  "slug": "people/rudy-acevedo",
+  "type": "person",
+  "title": "Rudy Acevedo",
+  "compiled_truth": "Rudy Acevedo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-11 to 2002-01-03), Rudy Acevedo sent 3 and received 472 emails, totalling 475 interactions. Top correspondents: [Don Baughman](people/don-baughman) (2), [Juan Hernandez](people/juan-hernandez) (1).",
+  "timeline": "- **2000-05-11** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rudy-acevedo",
+    "name": "Rudy Acevedo",
+    "email": "rudy.acevedo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tiffany-smith",
+  "type": "person",
+  "title": "Tiffany Smith",
+  "compiled_truth": "Tiffany Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-17 to 2002-06-24), Tiffany Smith sent 1 and received 82 emails, totalling 83 interactions. Top correspondents: [Joe Parks](people/joe-parks) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2002-06-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tiffany-smith",
+    "name": "Tiffany Smith",
+    "email": "tiffany.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

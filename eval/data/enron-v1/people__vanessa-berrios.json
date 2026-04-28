@@ -1,0 +1,14 @@
+{
+  "slug": "people/vanessa-berrios",
+  "type": "person",
+  "title": "Vanessa Berrios",
+  "compiled_truth": "Vanessa Berrios is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-02 to 2001-08-28), Vanessa Berrios sent 2 and received 4 emails, totalling 6 interactions. Top correspondents: [Sherry Anastas](people/sherry-anastas) (2), [Kam Keiser](people/kam-keiser) (2), [Scott Palmer](people/scott-palmer) (2), [Alex' 'Argueta](people/alex-argueta) (1), [Ann Chance](people/ann-chance) (1). Mailbox folders observed: calendar.",
+  "timeline": "- **2001-04-02** | First recorded email in corpus\n- **2001-08-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vanessa-berrios",
+    "name": "Vanessa Berrios",
+    "email": "vanessa.berrios@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

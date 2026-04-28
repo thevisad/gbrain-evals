@@ -1,0 +1,29 @@
+{
+  "slug": "companies/umbra-storage",
+  "type": "company",
+  "title": "Umbra Storage",
+  "compiled_truth": "Umbra Storage is an object storage startup founded in early 2026 by [Nova Ramirez](people/nova-ramirez), who previously spent several years building distributed systems tooling at a mid-stage infrastructure company before deciding to go out on her own. The core thesis behind Umbra is deceptively simple: object storage should track provenance and versioning natively, not as bolted-on features. In practice, this means every object written to Umbra carries a full lineage chain — who created it, what transformations it underwent, and which version is canonical at any point in time. Nova has described it as \"git for blobs, but without the footgun.\"\n\nThe company raised a pre-seed round in mid-2026 from a small syndicate led by [Ora Yamamoto](people/ora-yamamoto), with participation from [Cal Suzuki](people/cal-suzuki) and [Eli Nakamura](people/eli-nakamura). The round was modest — enough to hire a small team and get the first version of the storage engine into private beta. Ora in particular has been vocal about the need for provenance-native infrastructure, and Umbra fit that worldview cleanly.\n\nBy 2027, Umbra had attracted attention from teams working on compliance-heavy data pipelines, particularly in healthcare and financial services. Their pitch resonated: instead of reconciling object versions after the fact, Umbra makes the version graph a first-class citizen. This proved especially appealing to teams already frustrated with the limitations of existing object stores when it comes to audit trails.\n\nThe relationship with Anchor Codec emerged organically. Several early Umbra customers were also evaluating Anchor's deterministic data infrastructure for their transmission layer, and the question of whether Umbra's provenance metadata could be authenticated using Anchor's single-pass primitives came up repeatedly. By late 2027, the two teams had begun exploratory integration work, though nothing was formalized publically. Nova has been careful not to over-commit to partnerships before the product is mature.\n\nUmbra is still small — roughly 12 people as of early 2028 — and operates out of a co-working space in Portland. The engineering culture is intentionally low-drama: weekly design reviews, async communication, and a strong preference for correctness over speed. Nova runs a tight ship but gives individual contributors significant latitude on implementation details. The company hasn't yet announced a Series A, though there's been speculation that one is being quietly assembled.",
+  "timeline": "- **2026-02-14** | Umbra Storage incorporated by [Nova Ramirez](people/nova-ramirez) in Delaware.\n- **2026-06-03** | Pre-seed round closed with [Ora Yamamoto](people/ora-yamamoto), [Cal Suzuki](people/cal-suzuki), and [Eli Nakamura](people/eli-nakamura) participating.\n- **2026-09-18** | First engineering hire — backend systems engineer recruited from a distributed database company in Seattle.\n- **2026-12-01** | Private beta of the Umbra storage engine launched with three design partners in healthcare data.\n- **2027-03-22** | Nova presented \"Provenance as a Primitive\" at an infrastructure meetup in Portland. Slides circulated widely on social media.\n- **2027-07-10** | Team grew to 8 people. Opened second design partner track focused on financial services compliance.\n- **2027-10-05** | Initial exploratory conversations with Anchor Codec team regarding integration of single-pass authentication with Umbra's versioning layer.\n- **2027-12-15** | Public beta announced, with support for S3-compatible API surface plus native provenance queries.\n- **2028-01-28** | [Ora Yamamoto](people/ora-yamamoto) visited Portland office for a strategy session on go-to-market positioning ahead of potential Series A.\n- **2028-03-11** | Headcount reached 12. Engineering blog post on Umbra's internal consistency model gained traction among distributed systems practitioners.",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/umbra-storage",
+    "name": "Umbra Storage",
+    "category": "startup",
+    "industry": "data infrastructure",
+    "description": "Object storage with built-in versioning and provenance tracking",
+    "founded_year": 2026,
+    "founders": [
+      "people/nova-ramirez"
+    ],
+    "employees": [],
+    "investors": [
+      "people/ora-yamamoto",
+      "people/cal-suzuki",
+      "people/eli-nakamura",
+      "people/ren-khalil",
+      "people/uri-ramirez",
+      "people/nash-moreau"
+    ],
+    "advisors": []
+  }
+}

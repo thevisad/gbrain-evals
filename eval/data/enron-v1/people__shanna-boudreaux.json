@@ -1,0 +1,14 @@
+{
+  "slug": "people/shanna-boudreaux",
+  "type": "person",
+  "title": "Shanna Boudreaux",
+  "compiled_truth": "Shanna Boudreaux is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-26 to 2001-12-05), Shanna Boudreaux sent 16 and received 102 emails, totalling 118 interactions. Top correspondents: [Judy Townsend](people/judy-townsend) (16), [Victor Lamadrid](people/victor-lamadrid) (10), [Scott Neal](people/scott-neal) (10), [Chris Ordway](people/chris-ordway) (8), [Clarissa Garcia](people/clarissa-garcia) (7). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-02-26** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shanna-boudreaux",
+    "name": "Shanna Boudreaux",
+    "email": "shanna.boudreaux@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebecca-watkins",
+  "type": "person",
+  "title": "Rebecca Watkins",
+  "compiled_truth": "Rebecca Watkins is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-10-17), Rebecca Watkins sent 3 and received 14 emails, totalling 17 interactions. Top correspondents: [Nate Alvord](people/nate-alvord) (2), [Ben Erwin](people/ben-erwin) (2), [Finney Attasseril](people/finney-attasseril) (2), [Corbin Barnes](people/corbin-barnes) (2), [Frank Bay](people/frank-bay) (2). Mailbox folders observed: articles, misc.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebecca-watkins",
+    "name": "Rebecca Watkins",
+    "email": "rebecca.watkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

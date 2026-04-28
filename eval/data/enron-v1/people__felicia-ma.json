@@ -1,0 +1,14 @@
+{
+  "slug": "people/felicia-ma",
+  "type": "person",
+  "title": "Felicia Ma",
+  "compiled_truth": "Felicia Ma is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-19 to 2002-02-19), Felicia Ma sent 1 and received 21 emails, totalling 22 interactions. Top correspondents: [M  Love](people/m-love) (1). Mailbox folders observed: central.",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/felicia-ma",
+    "name": "Felicia Ma",
+    "email": "felicia.ma@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

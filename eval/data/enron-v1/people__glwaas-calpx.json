@@ -1,0 +1,14 @@
+{
+  "slug": "people/glwaas-calpx",
+  "type": "person",
+  "title": "Glwaas",
+  "compiled_truth": "Glwaas is an external contact at [Calpx](companies/calpx). Over the corpus period (2000-08-09 to 2001-05-10), Glwaas sent 0 and received 57 emails, totalling 57 interactions.",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/glwaas-calpx",
+    "name": "Glwaas",
+    "email": "glwaas@calpx.com",
+    "primary_affiliation": "companies/calpx"
+  }
+}

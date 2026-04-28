@@ -1,0 +1,14 @@
+{
+  "slug": "people/etakemura-socalgas",
+  "type": "person",
+  "title": "Etakemura",
+  "compiled_truth": "Etakemura is an external contact at [Socalgas](companies/socalgas). Over the corpus period (2000-04-17 to 2000-05-19), Etakemura sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2000-05-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/etakemura-socalgas",
+    "name": "Etakemura",
+    "email": "etakemura@socalgas.com",
+    "primary_affiliation": "companies/socalgas"
+  }
+}

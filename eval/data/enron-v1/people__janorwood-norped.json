@@ -1,0 +1,14 @@
+{
+  "slug": "people/janorwood-norped",
+  "type": "person",
+  "title": "Janorwood",
+  "compiled_truth": "Janorwood is an external contact at [Norped](companies/norped). Over the corpus period (2001-04-12 to 2001-06-06), Janorwood sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2001-04-12** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janorwood-norped",
+    "name": "Janorwood",
+    "email": "janorwood@norped.com",
+    "primary_affiliation": "companies/norped"
+  }
+}

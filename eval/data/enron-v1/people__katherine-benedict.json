@@ -1,0 +1,14 @@
+{
+  "slug": "people/katherine-benedict",
+  "type": "person",
+  "title": "Katherine Benedict",
+  "compiled_truth": "Katherine Benedict is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-19), Katherine Benedict sent 18 and received 82 emails, totalling 100 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (14), [Mark Courtney](people/mark-courtney) (10), [John Allario](people/john-allario) (9), [Patricia Anderson](people/patricia-anderson) (9), [Jeffrey Austin](people/jeffrey-austin) (9). Mailbox folders observed: deleted_items, ees_mgmt.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/katherine-benedict",
+    "name": "Katherine Benedict",
+    "email": "katherine.benedict@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

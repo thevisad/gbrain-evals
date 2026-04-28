@@ -1,0 +1,14 @@
+{
+  "slug": "people/germain-palmer",
+  "type": "person",
+  "title": "Germain Palmer",
+  "compiled_truth": "Germain Palmer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-21 to 2001-12-03), Germain Palmer sent 0 and received 158 emails, totalling 158 interactions.",
+  "timeline": "- **2000-08-21** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/germain-palmer",
+    "name": "Germain Palmer",
+    "email": "germain.palmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

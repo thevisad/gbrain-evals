@@ -1,0 +1,14 @@
+{
+  "slug": "people/teresa-benson",
+  "type": "person",
+  "title": "Teresa Benson",
+  "compiled_truth": "Teresa Benson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-10 to 2002-01-11), Teresa Benson sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-10-10** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teresa-benson",
+    "name": "Teresa Benson",
+    "email": "teresa.benson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

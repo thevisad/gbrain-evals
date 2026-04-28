@@ -1,0 +1,14 @@
+{
+  "slug": "people/seth-hurwitz",
+  "type": "person",
+  "title": "Seth Hurwitz",
+  "compiled_truth": "Seth Hurwitz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-28 to 2001-02-26), Seth Hurwitz sent 1 and received 41 emails, totalling 42 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (1).",
+  "timeline": "- **2000-02-28** | First recorded email in corpus\n- **2001-02-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/seth-hurwitz",
+    "name": "Seth Hurwitz",
+    "email": "seth.hurwitz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

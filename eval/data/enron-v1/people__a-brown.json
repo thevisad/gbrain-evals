@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-brown",
+  "type": "person",
+  "title": "A  Brown",
+  "compiled_truth": "A  Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-21 to 2002-06-13), A  Brown sent 0 and received 73 emails, totalling 73 interactions.",
+  "timeline": "- **2001-05-21** | First recorded email in corpus\n- **2002-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-brown",
+    "name": "A  Brown",
+    "email": "a..brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

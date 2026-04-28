@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-dungan-weyerhaeuser",
+  "type": "person",
+  "title": "Dave Dungan",
+  "compiled_truth": "Dave Dungan is an external contact at [Weyerhaeuser](companies/weyerhaeuser). Over the corpus period (2000-10-27 to 2001-05-11), Dave Dungan sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-dungan-weyerhaeuser",
+    "name": "Dave Dungan",
+    "email": "dave.dungan@weyerhaeuser.com",
+    "primary_affiliation": "companies/weyerhaeuser"
+  }
+}

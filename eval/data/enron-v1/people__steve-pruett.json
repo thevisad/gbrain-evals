@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-pruett",
+  "type": "person",
+  "title": "Steve Pruett",
+  "compiled_truth": "Steve Pruett is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-05-29), Steve Pruett sent 5 and received 91 emails, totalling 96 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (5), [Mark Castiglione](people/mark-castiglione) (1), [Scott Josey](people/scott-josey) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-pruett",
+    "name": "Steve Pruett",
+    "email": "steve.pruett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

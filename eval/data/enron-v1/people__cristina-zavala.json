@@ -1,0 +1,14 @@
+{
+  "slug": "people/cristina-zavala",
+  "type": "person",
+  "title": "Cristina Zavala",
+  "compiled_truth": "Cristina Zavala is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-21), Cristina Zavala sent 12 and received 111 emails, totalling 123 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (12), [Mark Fillinger](people/mark-fillinger) (9), [Michael Mcdonald](people/michael-mcdonald) (9), [Joseph Alamo](people/joseph-alamo) (9), [Victor Browner](people/victor-browner) (8). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cristina-zavala",
+    "name": "Cristina Zavala",
+    "email": "cristina.zavala@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

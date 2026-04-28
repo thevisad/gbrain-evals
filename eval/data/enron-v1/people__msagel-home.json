@@ -1,0 +1,14 @@
+{
+  "slug": "people/msagel-home",
+  "type": "person",
+  "title": "Msagel",
+  "compiled_truth": "Msagel is an external contact at [Home](companies/home). Over the corpus period (2000-09-26 to 2002-02-04), Msagel sent 18 and received 19 emails, totalling 37 interactions. Top correspondents: [Jarnold](people/jarnold) (12), [Mmaggi](people/mmaggi) (11), [John Arnold](people/john-arnold) (4), [Mike Maggi](people/mike-maggi) (1).",
+  "timeline": "- **2000-09-26** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/msagel-home",
+    "name": "Msagel",
+    "email": "msagel@home.com",
+    "primary_affiliation": "companies/home"
+  }
+}

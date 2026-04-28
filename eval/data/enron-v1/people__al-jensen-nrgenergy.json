@@ -1,0 +1,14 @@
+{
+  "slug": "people/al-jensen-nrgenergy",
+  "type": "person",
+  "title": "Al Jensen",
+  "compiled_truth": "Al Jensen is an external contact at [Nrgenergy](companies/nrgenergy). Over the corpus period (2000-09-01 to 2001-03-29), Al Jensen sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/al-jensen-nrgenergy",
+    "name": "Al Jensen",
+    "email": "al.jensen@nrgenergy.com",
+    "primary_affiliation": "companies/nrgenergy"
+  }
+}

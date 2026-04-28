@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-wesneske",
+  "type": "person",
+  "title": "Brian Wesneske",
+  "compiled_truth": "Brian Wesneske is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-29 to 2001-11-26), Brian Wesneske sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2001-08-29** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-wesneske",
+    "name": "Brian Wesneske",
+    "email": "brian.wesneske@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

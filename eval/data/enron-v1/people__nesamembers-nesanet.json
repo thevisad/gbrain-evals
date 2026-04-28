@@ -1,0 +1,14 @@
+{
+  "slug": "people/nesamembers-nesanet",
+  "type": "person",
+  "title": "Nesamembers",
+  "compiled_truth": "Nesamembers is an external contact at [Nesanet](companies/nesanet). Over the corpus period (2000-06-29 to 2001-09-18), Nesamembers sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **2000-06-29** | First recorded email in corpus\n- **2001-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nesamembers-nesanet",
+    "name": "Nesamembers",
+    "email": "nesamembers@nesanet.org",
+    "primary_affiliation": "companies/nesanet"
+  }
+}

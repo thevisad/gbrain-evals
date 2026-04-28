@@ -1,0 +1,14 @@
+{
+  "slug": "people/sami-arap",
+  "type": "person",
+  "title": "Sami Arap",
+  "compiled_truth": "Sami Arap is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-09 to 2001-12-21), Sami Arap sent 44 and received 104 emails, totalling 148 interactions. Top correspondents: [John Novak](people/john-novak) (12), [Mark Taylor](people/mark-taylor) (12), [Brent Hendry](people/brent-hendry) (11), [Mark Haedicke](people/mark-haedicke) (8), [Remi Collonges](people/remi-collonges) (7). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-09** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sami-arap",
+    "name": "Sami Arap",
+    "email": "sami.arap@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

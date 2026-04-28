@@ -1,0 +1,14 @@
+{
+  "slug": "people/phil-demoes",
+  "type": "person",
+  "title": "Phil Demoes",
+  "compiled_truth": "Phil Demoes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-08 to 2001-10-22), Phil Demoes sent 67 and received 133 emails, totalling 200 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (33), [John Hodge](people/john-hodge) (27), [Mark Breese](people/mark-breese) (12), [Les Webber](people/les-webber) (11), [Gil Muhl](people/gil-muhl) (9). Mailbox folders observed: inbox, misc__gas_issues.",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/phil-demoes",
+    "name": "Phil Demoes",
+    "email": "phil.demoes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

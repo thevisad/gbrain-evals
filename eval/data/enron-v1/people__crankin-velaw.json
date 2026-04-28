@@ -1,0 +1,14 @@
+{
+  "slug": "people/crankin-velaw",
+  "type": "person",
+  "title": "Crankin",
+  "compiled_truth": "Crankin is an external contact at [Vinson & Elkins](companies/vinson-elkins). Over the corpus period (2000-03-10 to 2001-02-20), Crankin sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-02-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/crankin-velaw",
+    "name": "Crankin",
+    "email": "crankin@velaw.com",
+    "primary_affiliation": "companies/vinson-elkins"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/albert-luc",
+  "type": "person",
+  "title": "Albert Luc",
+  "compiled_truth": "Albert Luc is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2002-02-07), Albert Luc sent 2 and received 49 emails, totalling 51 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/albert-luc",
+    "name": "Albert Luc",
+    "email": "albert.luc@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

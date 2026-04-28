@@ -1,0 +1,14 @@
+{
+  "slug": "people/klyn-pdq",
+  "type": "person",
+  "title": "Klyn",
+  "compiled_truth": "Klyn is an external contact at [Pdq](companies/pdq). Over the corpus period (2001-06-12 to 2002-02-04), Klyn sent 16 and received 74 emails, totalling 90 interactions. Top correspondents: [Dutch Quigley](people/dutch-quigley) (12), [Ullrich Jeff](people/ullrich-jeff) (8), [Naman Bj](people/naman-bj) (7), [Wienserski Dan](people/wienserski-dan) (7), [Johnson Grant](people/johnson-grant) (7).",
+  "timeline": "- **2001-06-12** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/klyn-pdq",
+    "name": "Klyn",
+    "email": "klyn@pdq.net",
+    "primary_affiliation": "companies/pdq"
+  }
+}

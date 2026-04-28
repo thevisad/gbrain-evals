@@ -1,0 +1,14 @@
+{
+  "slug": "people/jarrod-cyprow",
+  "type": "person",
+  "title": "Jarrod Cyprow",
+  "compiled_truth": "Jarrod Cyprow is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-02 to 2001-11-27), Jarrod Cyprow sent 47 and received 275 emails, totalling 322 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (41), [Tana Jones](people/tana-jones) (5), [Carol Clair](people/carol-clair) (3), [Mark Taylor](people/mark-taylor) (2), [Tom Moran](people/tom-moran) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-09-02** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jarrod-cyprow",
+    "name": "Jarrod Cyprow",
+    "email": "jarrod.cyprow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

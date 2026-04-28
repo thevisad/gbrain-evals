@@ -1,0 +1,14 @@
+{
+  "slug": "people/christy-sweeney",
+  "type": "person",
+  "title": "Christy Sweeney",
+  "compiled_truth": "Christy Sweeney is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2001-10-17), Christy Sweeney sent 1 and received 74 emails, totalling 75 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (1), [Lauri Allen](people/lauri-allen) (1), [Gary Bryan](people/gary-bryan) (1).",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christy-sweeney",
+    "name": "Christy Sweeney",
+    "email": "christy.sweeney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

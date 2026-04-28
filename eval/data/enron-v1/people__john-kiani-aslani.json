@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-kiani-aslani",
+  "type": "person",
+  "title": "John Kiani-Aslani",
+  "compiled_truth": "John Kiani-Aslani is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-02 to 2001-11-20), John Kiani-Aslani sent 19 and received 39 emails, totalling 58 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (14), [Russell Diamond](people/russell-diamond) (3), [Charles Weldon](people/charles-weldon) (3), [Kevin Hyatt](people/kevin-hyatt) (2), [Ned Higgins](people/ned-higgins) (2). Mailbox folders observed: calendar, deleted_items, inbox, stagecoach.",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-kiani-aslani",
+    "name": "John Kiani-Aslani",
+    "email": "john.kiani-aslani@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/amy-mulligan",
+  "type": "person",
+  "title": "Amy Mulligan",
+  "compiled_truth": "Amy Mulligan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2002-03-25), Amy Mulligan sent 27 and received 472 emails, totalling 499 interactions. Top correspondents: [Laura Giambrone](people/laura-giambrone) (14), [Christine Mcevoy](people/christine-mcevoy) (14), [Linda Ward](people/linda-ward) (14), [Bert Hernandez](people/bert-hernandez) (13), [Beverly Miller](people/beverly-miller) (13). Mailbox folders observed: 08_saved, deleted_items, inbox, tw___citizens_agreement, tw_commercial_group.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amy-mulligan",
+    "name": "Amy Mulligan",
+    "email": "amy.mulligan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

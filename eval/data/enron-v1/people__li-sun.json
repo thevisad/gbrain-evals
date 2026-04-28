@@ -1,0 +1,14 @@
+{
+  "slug": "people/li-sun",
+  "type": "person",
+  "title": "Li Sun",
+  "compiled_truth": "Li Sun is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-08 to 2001-11-21), Li Sun sent 16 and received 61 emails, totalling 77 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (8), [A  Shankman](people/a-shankman) (7), [J Kaminski](people/j-kaminski) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/li-sun",
+    "name": "Li Sun",
+    "email": "li.sun@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

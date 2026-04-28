@@ -1,0 +1,14 @@
+{
+  "slug": "people/dfollett-sempra",
+  "type": "person",
+  "title": "Dfollett",
+  "compiled_truth": "Dfollett is an external contact at [Sempra Energy](companies/sempra). Over the corpus period (2000-03-30 to 2000-09-18), Dfollett sent 0 and received 81 emails, totalling 81 interactions.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dfollett-sempra",
+    "name": "Dfollett",
+    "email": "dfollett@sempra.com",
+    "primary_affiliation": "companies/sempra"
+  }
+}

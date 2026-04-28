@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-boe",
+  "type": "person",
+  "title": "Larry Boe",
+  "compiled_truth": "Larry Boe is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2000-10-03), Larry Boe sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2000-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-boe",
+    "name": "Larry Boe",
+    "email": "larry.boe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

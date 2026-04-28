@@ -1,0 +1,14 @@
+{
+  "slug": "people/sbmillar-bpa",
+  "type": "person",
+  "title": "Sbmillar",
+  "compiled_truth": "Sbmillar is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2000-06-23 to 2001-03-16), Sbmillar sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sbmillar-bpa",
+    "name": "Sbmillar",
+    "email": "sbmillar@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

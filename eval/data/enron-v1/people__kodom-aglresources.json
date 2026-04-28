@@ -1,0 +1,14 @@
+{
+  "slug": "people/kodom-aglresources",
+  "type": "person",
+  "title": "Kodom",
+  "compiled_truth": "Kodom is an external contact at [Aglresources](companies/aglresources). Over the corpus period (2000-09-29 to 2000-11-11), Kodom sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-09-29** | First recorded email in corpus\n- **2000-11-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kodom-aglresources",
+    "name": "Kodom",
+    "email": "kodom@aglresources.com",
+    "primary_affiliation": "companies/aglresources"
+  }
+}

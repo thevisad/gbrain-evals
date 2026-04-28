@@ -1,0 +1,14 @@
+{
+  "slug": "people/tedchin-hotmail",
+  "type": "person",
+  "title": "Tedchin",
+  "compiled_truth": "Tedchin is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (1999-09-27 to 2001-08-23), Tedchin sent 3 and received 58 emails, totalling 61 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (3), [Jkelly](people/jkelly-fairisaac) (3), [Dasovich](people/dasovich-haas) (3), [Kupiecki](people/kupiecki-haas) (3), [Chrisjneale](people/chrisjneale-hotmail) (2).",
+  "timeline": "- **1999-09-27** | First recorded email in corpus\n- **2001-08-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tedchin-hotmail",
+    "name": "Tedchin",
+    "email": "tedchin@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

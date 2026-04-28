@@ -1,0 +1,14 @@
+{
+  "slug": "people/fkelly-gbmdc",
+  "type": "person",
+  "title": "Fkelly",
+  "compiled_truth": "Fkelly is an external contact at [Gbmdc](companies/gbmdc). Over the corpus period (2000-01-13 to 2001-11-20), Fkelly sent 0 and received 37 emails, totalling 37 interactions.",
+  "timeline": "- **2000-01-13** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fkelly-gbmdc",
+    "name": "Fkelly",
+    "email": "fkelly@gbmdc.com",
+    "primary_affiliation": "companies/gbmdc"
+  }
+}

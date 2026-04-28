@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-kean",
+  "type": "person",
+  "title": "Steven Kean",
+  "compiled_truth": "Steven Kean is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-24), Steven Kean sent 2558 and received 3627 emails, totalling 6185 interactions. Top correspondents: [Maureen Mcvicker](people/maureen-mcvicker) (427), [Richard Shapiro](people/richard-shapiro) (257), [Jeff Dasovich](people/jeff-dasovich) (175), [James Steffes](people/james-steffes) (164), [Linda Robertson](people/linda-robertson) (131). Mailbox folders observed: _americas, archiving, california, deleted_items, inbox, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-kean",
+    "name": "Steven Kean",
+    "email": "steven.kean@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

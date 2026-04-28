@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-sanmiguel",
+  "type": "person",
+  "title": "Steve Sanmiguel",
+  "compiled_truth": "Steve Sanmiguel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-26 to 2002-03-25), Steve Sanmiguel sent 0 and received 47 emails, totalling 47 interactions.",
+  "timeline": "- **2000-01-26** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-sanmiguel",
+    "name": "Steve Sanmiguel",
+    "email": "steve.sanmiguel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

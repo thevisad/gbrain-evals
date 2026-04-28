@@ -1,0 +1,14 @@
+{
+  "slug": "people/alan-engberg",
+  "type": "person",
+  "title": "Alan Engberg",
+  "compiled_truth": "Alan Engberg is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-28 to 2002-01-03), Alan Engberg sent 3 and received 78 emails, totalling 81 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (3), [Douglas Friedman](people/douglas-friedman) (3), [Jason Williams](people/jason-williams) (2), [Richard Sanders](people/richard-sanders) (1), [Andrew Edison](people/andrew-edison) (1).",
+  "timeline": "- **2000-02-28** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alan-engberg",
+    "name": "Alan Engberg",
+    "email": "alan.engberg@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

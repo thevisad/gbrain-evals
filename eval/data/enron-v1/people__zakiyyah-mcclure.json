@@ -1,0 +1,14 @@
+{
+  "slug": "people/zakiyyah-mcclure",
+  "type": "person",
+  "title": "Zakiyyah Mcclure",
+  "compiled_truth": "Zakiyyah Mcclure is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-20 to 2002-06-21), Zakiyyah Mcclure sent 22 and received 58 emails, totalling 80 interactions. Top correspondents: [Susan Trevino](people/susan-trevino) (11), [Keith Considine](people/keith-considine) (10), [Jennifer Velasco](people/jennifer-velasco) (10), [Tom Victorio](people/tom-victorio) (10), [Nancy Hernandez](people/nancy-hernandez) (9). Mailbox folders observed: calendar, cya, deleted_items, east_desk, inbox, to_do.",
+  "timeline": "- **2000-10-20** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zakiyyah-mcclure",
+    "name": "Zakiyyah Mcclure",
+    "email": "zakiyyah.mcclure@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

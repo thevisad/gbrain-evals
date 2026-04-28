@@ -1,0 +1,14 @@
+{
+  "slug": "people/angela-brown",
+  "type": "person",
+  "title": "Angela Brown",
+  "compiled_truth": "Angela Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-05 to 2001-06-08), Angela Brown sent 0 and received 57 emails, totalling 57 interactions.",
+  "timeline": "- **2000-12-05** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angela-brown",
+    "name": "Angela Brown",
+    "email": "angela.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

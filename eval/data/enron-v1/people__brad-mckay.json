@@ -1,0 +1,14 @@
+{
+  "slug": "people/brad-mckay",
+  "type": "person",
+  "title": "Brad Mckay",
+  "compiled_truth": "Brad Mckay is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-25), Brad Mckay sent 152 and received 576 emails, totalling 728 interactions. Top correspondents: [8915473](people/8915473-archwireless) (20), [Davis Thames](people/davis-thames) (12), [Bmckay](people/bmckay-houston) (10), [Rex](people/rex-arn) (9), [Angusmcka](people/angusmcka-aol) (8). Mailbox folders observed: _sent_mail, inbox, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brad-mckay",
+    "name": "Brad Mckay",
+    "email": "brad.mckay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

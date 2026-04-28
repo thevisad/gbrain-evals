@@ -1,0 +1,14 @@
+{
+  "slug": "people/mario-cardoso",
+  "type": "person",
+  "title": "Mario Cardoso",
+  "compiled_truth": "Mario Cardoso is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-06 to 2000-12-11), Mario Cardoso sent 6 and received 47 emails, totalling 53 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (6), [David Forster](people/david-forster) (6), [Harry Collins](people/harry-collins) (1), [Rousseau Anai](people/rousseau-anai) (1).",
+  "timeline": "- **2000-03-06** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mario-cardoso",
+    "name": "Mario Cardoso",
+    "email": "mario.cardoso@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

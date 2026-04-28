@@ -1,0 +1,14 @@
+{
+  "slug": "people/greer-mendelow",
+  "type": "person",
+  "title": "Greer Mendelow",
+  "compiled_truth": "Greer Mendelow is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-06 to 2001-07-18), Greer Mendelow sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **1999-07-06** | First recorded email in corpus\n- **2001-07-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greer-mendelow",
+    "name": "Greer Mendelow",
+    "email": "greer.mendelow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

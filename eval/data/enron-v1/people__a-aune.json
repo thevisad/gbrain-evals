@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-aune",
+  "type": "person",
+  "title": "A  Aune",
+  "compiled_truth": "A  Aune is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-16 to 2002-03-06), A  Aune sent 2 and received 49 emails, totalling 51 interactions. Top correspondents: [All-Hou Dl-Bus](people/all-hou-dl-bus) (2). Mailbox folders observed: inbox, vargas_becton_lamb.",
+  "timeline": "- **2001-05-16** | First recorded email in corpus\n- **2002-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-aune",
+    "name": "A  Aune",
+    "email": "a..aune@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

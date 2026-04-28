@@ -1,0 +1,14 @@
+{
+  "slug": "people/vkaminski-aol",
+  "type": "person",
+  "title": "Vkaminski",
+  "compiled_truth": "Vkaminski is an external contact at [AOL](companies/aol). Over the corpus period (1980-01-01 to 2002-01-30), Vkaminski sent 250 and received 3179 emails, totalling 3429 interactions. Top correspondents: [Vkamins](people/vkamins) (163), [J Kaminski](people/j-kaminski) (65), [Kamins](people/kamins) (12), [Vince Kaminski](people/vince-kaminski) (7), [Scrensh](people/scrensh) (5).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vkaminski-aol",
+    "name": "Vkaminski",
+    "email": "vkaminski@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

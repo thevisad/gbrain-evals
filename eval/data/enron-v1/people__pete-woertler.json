@@ -1,0 +1,14 @@
+{
+  "slug": "people/pete-woertler",
+  "type": "person",
+  "title": "Pete Woertler",
+  "compiled_truth": "Pete Woertler is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-21 to 2002-03-21), Pete Woertler sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-03-21** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pete-woertler",
+    "name": "Pete Woertler",
+    "email": "pete.woertler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

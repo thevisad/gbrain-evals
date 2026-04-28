@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-kolle",
+  "type": "person",
+  "title": "Brian Kolle",
+  "compiled_truth": "Brian Kolle is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-18 to 2001-11-08), Brian Kolle sent 1 and received 34 emails, totalling 35 interactions. Top correspondents: [Kelli Little](people/kelli-little) (1), [Louis Dicarlo](people/louis-dicarlo) (1), [Jonathan Horne](people/jonathan-horne) (1), [John Griffith](people/john-griffith) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-06-18** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-kolle",
+    "name": "Brian Kolle",
+    "email": "brian.kolle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dcastro-pkns",
+  "type": "person",
+  "title": "Dcastro",
+  "compiled_truth": "Dcastro is an external contact at [Pkns](companies/pkns). Over the corpus period (2000-12-06 to 2001-06-11), Dcastro sent 2 and received 79 emails, totalling 81 interactions. Top correspondents: [Richard B Sanders](people/richard-b-sanders) (2), [Gfergus](people/gfergus-brobeck) (1), [Jfrizzell](people/jfrizzell-gibbs-bruns) (1), [Mmollland](people/mmollland-brobeck) (1), [Breasoner](people/breasoner-gibbs-bruns) (1).",
+  "timeline": "- **2000-12-06** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dcastro-pkns",
+    "name": "Dcastro",
+    "email": "dcastro@pkns.com",
+    "primary_affiliation": "companies/pkns"
+  }
+}

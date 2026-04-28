@@ -1,0 +1,14 @@
+{
+  "slug": "people/leslie-hansen",
+  "type": "person",
+  "title": "Leslie Hansen",
+  "compiled_truth": "Leslie Hansen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-29 to 2002-02-07), Leslie Hansen sent 432 and received 1839 emails, totalling 2271 interactions. Top correspondents: [Tana Jones](people/tana-jones) (313), [Rhonda Denton](people/rhonda-denton) (100), [Mark Taylor](people/mark-taylor) (53), [Elizabeth Sager](people/elizabeth-sager) (22), [Dave Samuels](people/dave-samuels) (18). Mailbox folders observed: _americas, archive, calendar, deleted_items, inbox, online_trading.",
+  "timeline": "- **1999-07-29** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leslie-hansen",
+    "name": "Leslie Hansen",
+    "email": "leslie.hansen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

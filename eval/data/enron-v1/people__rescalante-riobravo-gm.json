@@ -1,0 +1,14 @@
+{
+  "slug": "people/rescalante-riobravo-gm",
+  "type": "person",
+  "title": "Rescalante",
+  "compiled_truth": "Rescalante is an external contact at [Riobravo-gm](companies/riobravo-gm). Over the corpus period (2000-08-31 to 2001-07-31), Rescalante sent 0 and received 240 emails, totalling 240 interactions.",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rescalante-riobravo-gm",
+    "name": "Rescalante",
+    "email": "rescalante@riobravo-gm.com",
+    "primary_affiliation": "companies/riobravo-gm"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lguerra-uh",
+  "type": "person",
+  "title": "Lguerra",
+  "compiled_truth": "Lguerra is an external contact at [Uh](companies/uh). Over the corpus period (2001-11-15 to 2001-11-19), Lguerra sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-11-15** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lguerra-uh",
+    "name": "Lguerra",
+    "email": "lguerra@uh.edu",
+    "primary_affiliation": "companies/uh"
+  }
+}

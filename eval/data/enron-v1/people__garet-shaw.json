@@ -1,0 +1,14 @@
+{
+  "slug": "people/garet-shaw",
+  "type": "person",
+  "title": "Garet Shaw",
+  "compiled_truth": "Garet Shaw is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-23 to 2001-12-31), Garet Shaw sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2001-05-23** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/garet-shaw",
+    "name": "Garet Shaw",
+    "email": "garet.shaw@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gay-mayeux",
+  "type": "person",
+  "title": "Gay Mayeux",
+  "compiled_truth": "Gay Mayeux is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-04 to 2002-01-11), Gay Mayeux sent 9 and received 44 emails, totalling 53 interactions. Top correspondents: [J  Kean](people/j-kean) (5), [Greg Whalley](people/greg-whalley) (5), [Mark Koenig](people/mark-koenig) (4), [Andrew Fastow](people/andrew-fastow) (4), [Ben Glisan](people/ben-glisan) (4). Mailbox folders observed: deleted_items, inbox, pr_crisis_management, resumes.",
+  "timeline": "- **2000-08-04** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gay-mayeux",
+    "name": "Gay Mayeux",
+    "email": "gay.mayeux@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

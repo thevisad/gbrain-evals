@@ -1,0 +1,14 @@
+{
+  "slug": "people/kensey-subscriber-mailman",
+  "type": "person",
+  "title": "Kensey Subscriber",
+  "compiled_truth": "Kensey Subscriber is an external contact at [Mailman](companies/mailman). Over the corpus period (2000-12-13 to 2002-01-12), Kensey Subscriber sent 0 and received 39 emails, totalling 39 interactions.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2002-01-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kensey-subscriber-mailman",
+    "name": "Kensey Subscriber",
+    "email": "kensey_subscriber@mailman.enron.com",
+    "primary_affiliation": "companies/mailman"
+  }
+}

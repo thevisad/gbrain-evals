@@ -1,0 +1,14 @@
+{
+  "slug": "people/jessica-ramirez",
+  "type": "person",
+  "title": "Jessica Ramirez",
+  "compiled_truth": "Jessica Ramirez is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-08-09), Jessica Ramirez sent 8 and received 29 emails, totalling 37 interactions. Top correspondents: [Bill Williams](people/bill-williams) (1), [Alicia Villarreal](people/alicia-villarreal) (1), [Angie Chappell](people/angie-chappell) (1), [Araceli Berlanga](people/araceli-berlanga) (1), [Barbara Hooks](people/barbara-hooks) (1). Mailbox folders observed: bill_williams_iii.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-08-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jessica-ramirez",
+    "name": "Jessica Ramirez",
+    "email": "jessica.ramirez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

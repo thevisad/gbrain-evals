@@ -1,0 +1,14 @@
+{
+  "slug": "people/blanca-lopez",
+  "type": "person",
+  "title": "Blanca Lopez",
+  "compiled_truth": "Blanca Lopez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2001-06-01), Blanca Lopez sent 1 and received 18 emails, totalling 19 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (1).",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/blanca-lopez",
+    "name": "Blanca Lopez",
+    "email": "blanca.lopez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

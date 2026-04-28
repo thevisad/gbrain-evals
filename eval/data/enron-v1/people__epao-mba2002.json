@@ -1,0 +1,14 @@
+{
+  "slug": "people/epao-mba2002",
+  "type": "person",
+  "title": "Epao",
+  "compiled_truth": "Epao is an external contact at [Mba2002](companies/mba2002). Over the corpus period (2001-04-17 to 2001-09-14), Epao sent 1 and received 94 emails, totalling 95 interactions. Top correspondents: [John Arnold](people/john-arnold) (1).",
+  "timeline": "- **2001-04-17** | First recorded email in corpus\n- **2001-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/epao-mba2002",
+    "name": "Epao",
+    "email": "epao@mba2002.hbs.edu",
+    "primary_affiliation": "companies/mba2002"
+  }
+}

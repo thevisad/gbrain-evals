@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-chick",
+  "type": "person",
+  "title": "Kim Chick",
+  "compiled_truth": "Kim Chick is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-01 to 2002-03-21), Kim Chick sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [Ees Ramirez](people/ees-ramirez) (1), [Shanna Husser](people/shanna-husser) (1), [Mary Fischer](people/mary-fischer) (1), [M Flinn](people/m-flinn) (1), [Melanie Gaar](people/melanie-gaar) (1). Mailbox folders observed: personal.",
+  "timeline": "- **2000-02-01** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-chick",
+    "name": "Kim Chick",
+    "email": "kim.chick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

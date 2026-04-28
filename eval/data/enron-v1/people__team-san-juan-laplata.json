@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-san-juan-laplata",
+  "type": "person",
+  "title": "Team San-Juan-Laplata",
+  "compiled_truth": "Team San-Juan-Laplata is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-02 to 2002-03-18), Team San-Juan-Laplata sent 4 and received 66 emails, totalling 70 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (3), [Rick Smith](people/rick-smith) (3), [Jerry Graves](people/jerry-graves) (1), [Gary Choquette](people/gary-choquette) (1), [David Roensch](people/david-roensch) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-04-02** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-san-juan-laplata",
+    "name": "Team San-Juan-Laplata",
+    "email": "team.san-juan-laplata@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

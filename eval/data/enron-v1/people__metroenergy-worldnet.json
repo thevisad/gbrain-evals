@@ -1,0 +1,14 @@
+{
+  "slug": "people/metroenergy-worldnet",
+  "type": "person",
+  "title": "Metroenergy",
+  "compiled_truth": "Metroenergy is an external contact at [Worldnet](companies/worldnet). Over the corpus period (2000-11-07 to 2001-09-11), Metroenergy sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/metroenergy-worldnet",
+    "name": "Metroenergy",
+    "email": "metroenergy@worldnet.att.net",
+    "primary_affiliation": "companies/worldnet"
+  }
+}

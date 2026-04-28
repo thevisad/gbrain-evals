@@ -1,0 +1,14 @@
+{
+  "slug": "people/alexios-kollaros",
+  "type": "person",
+  "title": "Alexios Kollaros",
+  "compiled_truth": "Alexios Kollaros is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-10-27), Alexios Kollaros sent 2 and received 45 emails, totalling 47 interactions. Top correspondents: [James Steffes](people/james-steffes) (1), [Dennis Benevides](people/dennis-benevides) (1), [Steven Kean](people/steven-kean) (1), [Mark Palmer](people/mark-palmer) (1), [Luis Velez](people/luis-velez) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-10-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alexios-kollaros",
+    "name": "Alexios Kollaros",
+    "email": "alexios.kollaros@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

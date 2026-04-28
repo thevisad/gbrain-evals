@@ -1,0 +1,14 @@
+{
+  "slug": "people/timothy-blanchard",
+  "type": "person",
+  "title": "Timothy Blanchard",
+  "compiled_truth": "Timothy Blanchard is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-27 to 2002-05-06), Timothy Blanchard sent 30 and received 794 emails, totalling 824 interactions. Top correspondents: [Eric Bass](people/eric-bass) (19), [Matthew Lenhart](people/matthew-lenhart) (10), [Bryan Hull](people/bryan-hull) (10), [Chad Landry](people/chad-landry) (9), [Randy Bhatia](people/randy-bhatia) (7). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-27** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/timothy-blanchard",
+    "name": "Timothy Blanchard",
+    "email": "timothy.blanchard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

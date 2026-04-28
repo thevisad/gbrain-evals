@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-guinney-watsonwyatt",
+  "type": "person",
+  "title": "Mark Guinney",
+  "compiled_truth": "Mark Guinney is an external contact at [Watsonwyatt](companies/watsonwyatt). Over the corpus period (2000-11-17 to 2001-05-10), Mark Guinney sent 54 and received 178 emails, totalling 232 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (42), [Cvavrek](people/cvavrek-deloitte) (25), [Asama](people/asama-yahoo) (19), [Guinney](people/guinney-haas) (15), [Dwindham](people/dwindham-uclink4) (13).",
+  "timeline": "- **2000-11-17** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-guinney-watsonwyatt",
+    "name": "Mark Guinney",
+    "email": "mark_guinney@watsonwyatt.com",
+    "primary_affiliation": "companies/watsonwyatt"
+  }
+}

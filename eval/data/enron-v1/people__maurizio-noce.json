@@ -1,0 +1,14 @@
+{
+  "slug": "people/maurizio-noce",
+  "type": "person",
+  "title": "Maurizio Noce",
+  "compiled_truth": "Maurizio Noce is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-28 to 2001-05-31), Maurizio Noce sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-02-28** | First recorded email in corpus\n- **2001-05-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maurizio-noce",
+    "name": "Maurizio Noce",
+    "email": "maurizio.noce@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

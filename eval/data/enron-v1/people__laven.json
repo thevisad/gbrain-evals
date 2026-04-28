@@ -1,0 +1,14 @@
+{
+  "slug": "people/laven",
+  "type": "person",
+  "title": "Laven",
+  "compiled_truth": "Laven is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-05-09), Laven sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laven",
+    "name": "Laven",
+    "email": "laven@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

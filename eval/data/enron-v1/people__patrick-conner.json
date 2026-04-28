@@ -1,0 +1,14 @@
+{
+  "slug": "people/patrick-conner",
+  "type": "person",
+  "title": "Patrick Conner",
+  "compiled_truth": "Patrick Conner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-28 to 2001-06-01), Patrick Conner sent 2 and received 29 emails, totalling 31 interactions. Top correspondents: [Daniel Reck](people/daniel-reck) (1), [Mike McConnell](people/mike-mcconnell) (1), [Sara Shackleton](people/sara-shackleton) (1).",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patrick-conner",
+    "name": "Patrick Conner",
+    "email": "patrick.conner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

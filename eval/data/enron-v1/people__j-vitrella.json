@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-vitrella",
+  "type": "person",
+  "title": "J  Vitrella",
+  "compiled_truth": "J  Vitrella is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2002-01-11), J  Vitrella sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-vitrella",
+    "name": "J  Vitrella",
+    "email": "j..vitrella@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

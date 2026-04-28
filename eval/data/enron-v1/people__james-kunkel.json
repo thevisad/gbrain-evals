@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-kunkel",
+  "type": "person",
+  "title": "James Kunkel",
+  "compiled_truth": "James Kunkel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-11-03), James Kunkel sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-kunkel",
+    "name": "James Kunkel",
+    "email": "james.kunkel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

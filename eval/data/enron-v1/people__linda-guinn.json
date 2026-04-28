@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-guinn",
+  "type": "person",
+  "title": "Linda Guinn",
+  "compiled_truth": "Linda Guinn is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-07), Linda Guinn sent 10 and received 556 emails, totalling 566 interactions. Top correspondents: [Richard Sanders](people/richard-sanders) (9), [Paulcooley](people/paulcooley-mail) (2), [Britt Davis](people/britt-davis) (2), [Andrew Edison](people/andrew-edison) (1), [Travis Mccullough](people/travis-mccullough) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-guinn",
+    "name": "Linda Guinn",
+    "email": "linda.guinn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/vanessa-groscrand",
+  "type": "person",
+  "title": "Vanessa Groscrand",
+  "compiled_truth": "Vanessa Groscrand is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-13 to 2001-04-11), Vanessa Groscrand sent 12 and received 90 emails, totalling 102 interactions. Top correspondents: [Steven Kean](people/steven-kean) (11), [Kenneth Lay](people/kenneth-lay) (9), [Lou Pai](people/lou-pai) (8), [Jeff Skilling](people/jeff-skilling) (8), [Greg Whalley](people/greg-whalley) (8). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-10-13** | First recorded email in corpus\n- **2001-04-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vanessa-groscrand",
+    "name": "Vanessa Groscrand",
+    "email": "vanessa.groscrand@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

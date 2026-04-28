@@ -1,0 +1,14 @@
+{
+  "slug": "people/efmosey-bpa",
+  "type": "person",
+  "title": "Efmosey",
+  "compiled_truth": "Efmosey is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2001-03-02 to 2001-05-17), Efmosey sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-03-02** | First recorded email in corpus\n- **2001-05-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/efmosey-bpa",
+    "name": "Efmosey",
+    "email": "efmosey@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

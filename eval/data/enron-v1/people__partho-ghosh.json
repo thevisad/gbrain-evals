@@ -1,0 +1,14 @@
+{
+  "slug": "people/partho-ghosh",
+  "type": "person",
+  "title": "Partho Ghosh",
+  "compiled_truth": "Partho Ghosh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-10-08), Partho Ghosh sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-10-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/partho-ghosh",
+    "name": "Partho Ghosh",
+    "email": "partho.ghosh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-valdes",
+  "type": "person",
+  "title": "John Valdes",
+  "compiled_truth": "John Valdes is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-07), John Valdes sent 56 and received 244 emails, totalling 300 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (53), [D  Hare](people/d-hare) (14), [C  Gossett](people/c-gossett) (11), [M  Love](people/m-love) (9), [Scott Palmer](people/scott-palmer) (8). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-valdes",
+    "name": "John Valdes",
+    "email": "john.valdes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/avinash-jain",
+  "type": "person",
+  "title": "Avinash Jain",
+  "compiled_truth": "Avinash Jain is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-08), Avinash Jain sent 0 and received 48 emails, totalling 48 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/avinash-jain",
+    "name": "Avinash Jain",
+    "email": "avinash.jain@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

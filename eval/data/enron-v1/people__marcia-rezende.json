@@ -1,0 +1,14 @@
+{
+  "slug": "people/marcia-rezende",
+  "type": "person",
+  "title": "Marcia Rezende",
+  "compiled_truth": "Marcia Rezende is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-23 to 2001-05-23), Marcia Rezende sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-05-23** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marcia-rezende",
+    "name": "Marcia Rezende",
+    "email": "marcia.rezende@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

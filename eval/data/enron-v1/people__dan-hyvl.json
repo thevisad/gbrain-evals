@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-hyvl",
+  "type": "person",
+  "title": "Dan Hyvl",
+  "compiled_truth": "Dan Hyvl is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-12-22 to 2001-10-17), Dan Hyvl sent 1332 and received 1240 emails, totalling 2572 interactions. Top correspondents: [Stacy Dickson](people/stacy-dickson) (103), [Debra Perlingiere](people/debra-perlingiere) (102), [Ellen Wallumrod](people/ellen-wallumrod) (71), [Kim Ward](people/kim-ward) (68), [Jeffrey Hodge](people/jeffrey-hodge) (67). Mailbox folders observed: citizens_utilities, inbox, midesto, palo_alto, pasadena, sent.",
+  "timeline": "- **1998-12-22** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-hyvl",
+    "name": "Dan Hyvl",
+    "email": "dan.hyvl@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

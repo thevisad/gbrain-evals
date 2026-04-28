@@ -1,0 +1,14 @@
+{
+  "slug": "people/mschopper-houston",
+  "type": "person",
+  "title": "Mschopper",
+  "compiled_truth": "Mschopper is an external contact at [Houston](companies/houston). Over the corpus period (2001-04-27 to 2002-01-17), Mschopper sent 12 and received 6 emails, totalling 18 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (9), [C](people/c) (7), [ Charles](people/charles) (7), [ David](people/david) (7), [ E ](people/e) (7).",
+  "timeline": "- **2001-04-27** | First recorded email in corpus\n- **2002-01-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mschopper-houston",
+    "name": "Mschopper",
+    "email": "mschopper@houston.org",
+    "primary_affiliation": "companies/houston"
+  }
+}

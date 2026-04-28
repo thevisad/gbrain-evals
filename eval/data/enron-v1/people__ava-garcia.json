@@ -1,0 +1,14 @@
+{
+  "slug": "people/ava-garcia",
+  "type": "person",
+  "title": "Ava Garcia",
+  "compiled_truth": "Ava Garcia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2002-05-06), Ava Garcia sent 54 and received 318 emails, totalling 372 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (49), [John Buchanan](people/john-buchanan) (19), [Terry Kowalke](people/terry-kowalke) (19), [Tracy Minter](people/tracy-minter) (19), [Amy Mulligan](people/amy-mulligan) (19). Mailbox folders observed: contacts, deleted_items, inbox, itinerary_off_duty, meetings___tw_customer, personnel___shift_differential.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ava-garcia",
+    "name": "Ava Garcia",
+    "email": "ava.garcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

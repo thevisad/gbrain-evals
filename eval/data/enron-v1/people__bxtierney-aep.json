@@ -1,0 +1,14 @@
+{
+  "slug": "people/bxtierney-aep",
+  "type": "person",
+  "title": "Bxtierney",
+  "compiled_truth": "Bxtierney is an external contact at [Aep](companies/aep). Over the corpus period (2000-11-10 to 2001-03-16), Bxtierney sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bxtierney-aep",
+    "name": "Bxtierney",
+    "email": "bxtierney@aep.com",
+    "primary_affiliation": "companies/aep"
+  }
+}

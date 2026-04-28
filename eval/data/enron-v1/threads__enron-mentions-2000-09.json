@@ -1,0 +1,36 @@
+{
+  "slug": "threads/enron-mentions-2000-09",
+  "type": "meeting",
+  "title": "Thread: Enron Mentions",
+  "compiled_truth": "Email thread: \"Enron Mentions\". Ran from 2000-09-20 to 2000-10-19 with 21 messages. Participants: [Ann Schmidt](people/ann-schmidt), [David Delainey](people/david-delainey), [Elizabeth Linnell](people/elizabeth-linnell), [Elizabeth Sager](people/elizabeth-sager), [Eric Thode](people/eric-thode), [Janet Dietrich](people/janet-dietrich), [Karen Denne](people/karen-denne), [Kelly Kimberly](people/kelly-kimberly).",
+  "timeline": "- **2000-09-20** | Thread begins: enron mentions\n- **2000-10-19** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-mentions-2000-09",
+    "attendees": [
+      "people/ann-schmidt",
+      "people/david-delainey",
+      "people/elizabeth-linnell",
+      "people/elizabeth-sager",
+      "people/eric-thode",
+      "people/janet-dietrich",
+      "people/karen-denne",
+      "people/kelly-kimberly",
+      "people/kevin-presto",
+      "people/laura-schwartz",
+      "people/mark-haedicke",
+      "people/mark-palmer",
+      "people/mark-schroeder",
+      "people/mary-clark",
+      "people/maureen-mcvicker",
+      "people/meredith-philipp",
+      "people/michael-terraso",
+      "people/rgiibbs-gibbs-bruns",
+      "people/richard-sanders",
+      "people/rmadden-gibbs-bruns",
+      "people/steven-kean",
+      "people/thelton-bdbc"
+    ],
+    "date": "2000-09-20"
+  }
+}

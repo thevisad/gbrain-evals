@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-carter",
+  "type": "person",
+  "title": "Bob Carter",
+  "compiled_truth": "Bob Carter is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-17), Bob Carter sent 7 and received 269 emails, totalling 276 interactions. Top correspondents: [Kay Mann](people/kay-mann) (4), [Mark Haedicke](people/mark-haedicke) (3), [Sheila Tweed](people/sheila-tweed) (3), [Jeffrey Hodge](people/jeffrey-hodge) (2), [Janet Dietrich](people/janet-dietrich) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-carter",
+    "name": "Bob Carter",
+    "email": "bob.carter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

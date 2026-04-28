@@ -1,0 +1,14 @@
+{
+  "slug": "people/g-rigby",
+  "type": "person",
+  "title": "G  Rigby",
+  "compiled_truth": "G  Rigby is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-17 to 2002-02-09), G  Rigby sent 2 and received 17 emails, totalling 19 interactions. Top correspondents: [Kay Mann](people/kay-mann) (2), [ Thompson](people/thompson) (1), [Pthompson](people/pthompson-akllp) (1), [Kent Shoemaker](people/kent-shoemaker-ae) (1), [Scott Dieball](people/scott-dieball) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-10-17** | First recorded email in corpus\n- **2002-02-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/g-rigby",
+    "name": "G  Rigby",
+    "email": "g..rigby@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

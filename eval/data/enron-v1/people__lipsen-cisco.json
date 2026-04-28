@@ -1,0 +1,14 @@
+{
+  "slug": "people/lipsen-cisco",
+  "type": "person",
+  "title": "Lipsen",
+  "compiled_truth": "Lipsen is an external contact at [Cisco](companies/cisco). Over the corpus period (2001-02-13 to 2001-07-31), Lipsen sent 5 and received 108 emails, totalling 113 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (4), [Jeff Skilling](people/jeff-skilling) (2), [Karen Denne](people/karen-denne) (2), [Steven J Kean](people/steven-j-kean) (2), [Chambers](people/chambers-cisco) (1).",
+  "timeline": "- **2001-02-13** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lipsen-cisco",
+    "name": "Lipsen",
+    "email": "lipsen@cisco.com",
+    "primary_affiliation": "companies/cisco"
+  }
+}

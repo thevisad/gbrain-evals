@@ -1,0 +1,14 @@
+{
+  "slug": "people/ews-cct",
+  "type": "person",
+  "title": "Ews-Cct",
+  "compiled_truth": "Ews-Cct is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-22 to 2002-01-30), Ews-Cct sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2002-01-22** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ews-cct",
+    "name": "Ews-Cct",
+    "email": "ews-cct@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

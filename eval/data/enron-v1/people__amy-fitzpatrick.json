@@ -1,0 +1,14 @@
+{
+  "slug": "people/amy-fitzpatrick",
+  "type": "person",
+  "title": "Amy Fitzpatrick",
+  "compiled_truth": "Amy Fitzpatrick is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-21 to 2002-04-29), Amy Fitzpatrick sent 193 and received 348 emails, totalling 541 interactions. Top correspondents: [Portland Desk](people/portland-desk) (42), [Bill Williams](people/bill-williams) (26), [Louise Kitchen](people/louise-kitchen) (18), [Cara Semperger](people/cara-semperger) (18), [M  Presto](people/m-presto) (16). Mailbox folders observed: _americas, bill_williams_iii, credit_issues, deleted_items, hr, human_resources.",
+  "timeline": "- **2000-02-21** | First recorded email in corpus\n- **2002-04-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amy-fitzpatrick",
+    "name": "Amy Fitzpatrick",
+    "email": "amy.fitzpatrick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

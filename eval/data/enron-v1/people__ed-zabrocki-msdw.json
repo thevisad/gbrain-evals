@@ -1,0 +1,14 @@
+{
+  "slug": "people/ed-zabrocki-msdw",
+  "type": "person",
+  "title": "Ed Zabrocki",
+  "compiled_truth": "Ed Zabrocki is an external contact at [Msdw](companies/msdw). Over the corpus period (2000-12-06 to 2001-06-11), Ed Zabrocki sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-12-06** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ed-zabrocki-msdw",
+    "name": "Ed Zabrocki",
+    "email": "ed.zabrocki@msdw.com",
+    "primary_affiliation": "companies/msdw"
+  }
+}

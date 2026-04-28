@@ -1,0 +1,14 @@
+{
+  "slug": "people/terrie-james",
+  "type": "person",
+  "title": "Terrie James",
+  "compiled_truth": "Terrie James is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-18), Terrie James sent 31 and received 105 emails, totalling 136 interactions. Top correspondents: [Cindy Olson](people/cindy-olson) (19), [Kenneth Lay](people/kenneth-lay) (14), [Mary Clark](people/mary-clark) (8), [J  Kean](people/j-kean) (8), [Rosalee Fleming](people/rosalee-fleming) (8). Mailbox folders observed: _americas, deleted_items, inbox, management_conference, personal.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terrie-james",
+    "name": "Terrie James",
+    "email": "terrie.james@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

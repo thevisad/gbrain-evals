@@ -1,0 +1,14 @@
+{
+  "slug": "people/mara-gonzalez",
+  "type": "person",
+  "title": "Mara Gonzalez",
+  "compiled_truth": "Mara Gonzalez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-26 to 2002-02-20), Mara Gonzalez sent 2 and received 16 emails, totalling 18 interactions. Top correspondents: [Mark Mcconnell](people/mark-mcconnell) (1), [Theresa Branney](people/theresa-branney) (1), [Lorna Brennan](people/lorna-brennan) (1), [Kimberly Watson](people/kimberly-watson) (1), [Mark Ferguson](people/mark-ferguson) (1). Mailbox folders observed: inbox, misc_tw.",
+  "timeline": "- **2001-01-26** | First recorded email in corpus\n- **2002-02-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mara-gonzalez",
+    "name": "Mara Gonzalez",
+    "email": "mara.gonzalez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sstack",
+  "type": "person",
+  "title": "Sstack",
+  "compiled_truth": "Sstack is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-04-19), Sstack sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-04-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sstack",
+    "name": "Sstack",
+    "email": "sstack@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

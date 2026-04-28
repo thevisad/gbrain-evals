@@ -1,0 +1,14 @@
+{
+  "slug": "people/doug-pedigo",
+  "type": "person",
+  "title": "Doug Pedigo",
+  "compiled_truth": "Doug Pedigo is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-01-13 to 2000-10-25), Doug Pedigo sent 1 and received 24 emails, totalling 25 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (1), [Sami Arap](people/sami-arap) (1).",
+  "timeline": "- **1999-01-13** | First recorded email in corpus\n- **2000-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/doug-pedigo",
+    "name": "Doug Pedigo",
+    "email": "doug.pedigo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

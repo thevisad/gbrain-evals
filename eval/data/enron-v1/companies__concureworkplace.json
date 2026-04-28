@@ -1,0 +1,21 @@
+{
+  "slug": "companies/concureworkplace",
+  "type": "company",
+  "title": "Concureworkplace",
+  "compiled_truth": "Concureworkplace is an external organization that appears in the Enron email corpus. Domain: concureworkplace.com. Total email interactions with Enron: 533. Known contacts: 4 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (533 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/concureworkplace",
+    "name": "Concureworkplace",
+    "employees": [
+      "people/enron-update-concureworkplace",
+      "people/enrontest-update-concureworkplace",
+      "people/mailer-daemon-concureworkplace",
+      "people/status-updates-concureworkplace"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

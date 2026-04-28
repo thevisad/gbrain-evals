@@ -1,0 +1,14 @@
+{
+  "slug": "people/dick-danes",
+  "type": "person",
+  "title": "Dick Danes",
+  "compiled_truth": "Dick Danes is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-02-06), Dick Danes sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dick-danes",
+    "name": "Dick Danes",
+    "email": "dick.danes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

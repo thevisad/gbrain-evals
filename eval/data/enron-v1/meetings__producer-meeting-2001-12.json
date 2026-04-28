@@ -1,0 +1,34 @@
+{
+  "slug": "meetings/producer-meeting-2001-12",
+  "type": "meeting",
+  "title": "Meeting: Producer Meeting",
+  "compiled_truth": "Meeting: \"Producer Meeting\". Occurred 2001-12-19 through 2001-12-21 with 3 related emails. Participants included: [Dan Pribble](people/dan-pribble), [Danny Mccarty](people/danny-mccarty), [Dari Dornan](people/dari-dornan), [Dave Neubauer](people/dave-neubauer), [Drew Fossum](people/drew-fossum), [Gregory Porter](people/gregory-porter), [Kay Miller](people/kay-miller), [Lynn Blair](people/lynn-blair)....",
+  "timeline": "- **2001-12-19** | Meeting: producer meeting\n- **2001-12-21** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/producer-meeting-2001-12",
+    "attendees": [
+      "people/dan-pribble",
+      "people/danny-mccarty",
+      "people/dari-dornan",
+      "people/dave-neubauer",
+      "people/drew-fossum",
+      "people/gregory-porter",
+      "people/kay-miller",
+      "people/lynn-blair",
+      "people/mary-darveaux",
+      "people/michael-loeffler",
+      "people/michele-winckowski",
+      "people/morgan-gottsponer",
+      "people/paul-lowry",
+      "people/phil-lowry",
+      "people/r-keller",
+      "people/randy-rice",
+      "people/shelley-corman",
+      "people/stanley-horton",
+      "people/steve-january",
+      "people/steve-kirk"
+    ],
+    "date": "2001-12-19"
+  }
+}

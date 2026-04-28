@@ -1,0 +1,14 @@
+{
+  "slug": "people/amanda-kellner",
+  "type": "person",
+  "title": "Amanda Kellner",
+  "compiled_truth": "Amanda Kellner is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-01 to 2001-10-22), Amanda Kellner sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-06-01** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amanda-kellner",
+    "name": "Amanda Kellner",
+    "email": "amanda.kellner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mrichter-us",
+  "type": "person",
+  "title": "Mrichter",
+  "compiled_truth": "Mrichter is an external contact at [Us](companies/us). Over the corpus period (2000-10-09 to 2002-02-02), Mrichter sent 3 and received 37 emails, totalling 40 interactions. Top correspondents: [C  Giron](people/c-giron) (3).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mrichter-us",
+    "name": "Mrichter",
+    "email": "mrichter@us.ibm.com",
+    "primary_affiliation": "companies/us"
+  }
+}

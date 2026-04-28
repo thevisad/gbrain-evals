@@ -1,0 +1,14 @@
+{
+  "slug": "people/billie-akhave",
+  "type": "person",
+  "title": "Billie Akhave",
+  "compiled_truth": "Billie Akhave is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2001-11-26), Billie Akhave sent 2 and received 26 emails, totalling 28 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (2), [Harry Walters](people/harry-walters) (1), [Gary Zahn](people/gary-zahn) (1), [Kathy Campos](people/kathy-campos) (1). Mailbox folders observed: inbox, rc_0946.",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/billie-akhave",
+    "name": "Billie Akhave",
+    "email": "billie.akhave@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

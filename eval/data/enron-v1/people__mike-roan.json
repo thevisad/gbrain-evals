@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-roan",
+  "type": "person",
+  "title": "Mike Roan",
+  "compiled_truth": "Mike Roan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-19 to 2001-07-31), Mike Roan sent 0 and received 257 emails, totalling 257 interactions.",
+  "timeline": "- **2001-01-19** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-roan",
+    "name": "Mike Roan",
+    "email": "mike.roan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

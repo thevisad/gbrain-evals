@@ -1,0 +1,14 @@
+{
+  "slug": "people/wallace",
+  "type": "person",
+  "title": "Wallace",
+  "compiled_truth": "Wallace is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-31 to 2002-01-21), Wallace sent 1 and received 7 emails, totalling 8 interactions. Top correspondents: [Ted Murphy](people/ted-murphy) (1), [Louise Kitchen](people/louise-kitchen) (1), [John Lavorato](people/john-lavorato) (1), [Cassandra Schultz](people/cassandra-schultz) (1), [David Port](people/david-port) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-31** | First recorded email in corpus\n- **2002-01-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wallace",
+    "name": "Wallace",
+    "email": "wallace@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

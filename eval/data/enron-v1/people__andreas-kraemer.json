@@ -1,0 +1,14 @@
+{
+  "slug": "people/andreas-kraemer",
+  "type": "person",
+  "title": "Andreas Kraemer",
+  "compiled_truth": "Andreas Kraemer is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2000-10-09), Andreas Kraemer sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2000-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andreas-kraemer",
+    "name": "Andreas Kraemer",
+    "email": "andreas.kraemer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ken-shulklapper",
+  "type": "person",
+  "title": "Ken Shulklapper",
+  "compiled_truth": "Ken Shulklapper is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-18 to 2001-11-30), Ken Shulklapper sent 8 and received 40 emails, totalling 48 interactions. Top correspondents: [Martin Cuilla](people/martin-cuilla) (6), [Mike Grigsby](people/mike-grigsby) (3), [K  Allen](people/k-allen) (2), [Daniel Diamond](people/daniel-diamond) (2), [Ben Freeman](people/ben-freeman) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-01-18** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ken-shulklapper",
+    "name": "Ken Shulklapper",
+    "email": "ken.shulklapper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

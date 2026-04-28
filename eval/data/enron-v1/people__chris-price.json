@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-price",
+  "type": "person",
+  "title": "Chris Price",
+  "compiled_truth": "Chris Price is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2002-02-13), Chris Price sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [Theresa Staab](people/theresa-staab) (1). Mailbox folders observed: crestone.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-price",
+    "name": "Chris Price",
+    "email": "chris.price@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

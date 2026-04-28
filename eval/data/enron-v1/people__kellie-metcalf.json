@@ -1,0 +1,14 @@
+{
+  "slug": "people/kellie-metcalf",
+  "type": "person",
+  "title": "Kellie Metcalf",
+  "compiled_truth": "Kellie Metcalf is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-17 to 2001-11-30), Kellie Metcalf sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2000-02-17** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kellie-metcalf",
+    "name": "Kellie Metcalf",
+    "email": "kellie.metcalf@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

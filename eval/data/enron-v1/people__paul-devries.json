@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-devries",
+  "type": "person",
+  "title": "Paul Devries",
+  "compiled_truth": "Paul Devries is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-04), Paul Devries sent 6 and received 131 emails, totalling 137 interactions. Top correspondents: [Rob Milnthorp](people/rob-milnthorp) (5), [Louise Kitchen](people/louise-kitchen) (3), [Derek Davies](people/derek-davies) (2), [John Lavorato](people/john-lavorato) (2), [Stephen Douglas](people/stephen-douglas) (1). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-devries",
+    "name": "Paul Devries",
+    "email": "paul.devries@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

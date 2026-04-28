@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-garten-yale",
+  "type": "person",
+  "title": "Jeffrey Garten",
+  "compiled_truth": "Jeffrey Garten is an external contact at [Yale](companies/yale). Over the corpus period (2000-04-14 to 2001-11-06), Jeffrey Garten sent 12 and received 16 emails, totalling 28 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (12), [Rosalee Fleming](people/rosalee-fleming) (12), [Len](people/len-shv) (4), [Jdoerr](people/jdoerr-kpcb) (4), [Robg](people/robg-real) (4).",
+  "timeline": "- **2000-04-14** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-garten-yale",
+    "name": "Jeffrey Garten",
+    "email": "jeffrey.garten@yale.edu",
+    "primary_affiliation": "companies/yale"
+  }
+}

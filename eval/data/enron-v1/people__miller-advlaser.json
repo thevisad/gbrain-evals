@@ -1,0 +1,14 @@
+{
+  "slug": "people/miller-advlaser",
+  "type": "person",
+  "title": "Miller",
+  "compiled_truth": "Miller is an external contact at [Advlaser](companies/advlaser). Over the corpus period (2000-09-09 to 2001-10-22), Miller sent 8 and received 14 emails, totalling 22 interactions. Top correspondents: [Hosman](people/hosman-eskridge) (4), [Ccoburn](people/ccoburn-themissionbank) (4), [Froby](people/froby-holmesmurphy) (4), [Jglass](people/jglass-mmind) (4), [Williamhjordan](people/williamhjordan-mindspring) (4).",
+  "timeline": "- **2000-09-09** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/miller-advlaser",
+    "name": "Miller",
+    "email": "miller@advlaser.com",
+    "primary_affiliation": "companies/advlaser"
+  }
+}

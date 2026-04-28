@@ -1,0 +1,14 @@
+{
+  "slug": "people/jon-abe-efinc",
+  "type": "person",
+  "title": "Jon Abe",
+  "compiled_truth": "Jon Abe is an external contact at [Efinc](companies/efinc). Over the corpus period (2001-07-25 to 2001-10-18), Jon Abe sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jon-abe-efinc",
+    "name": "Jon Abe",
+    "email": "jon_abe@efinc.com",
+    "primary_affiliation": "companies/efinc"
+  }
+}

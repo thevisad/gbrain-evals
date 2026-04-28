@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-boehnke",
+  "type": "person",
+  "title": "Karen Boehnke",
+  "compiled_truth": "Karen Boehnke is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-06 to 2001-12-03), Karen Boehnke sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-11-06** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-boehnke",
+    "name": "Karen Boehnke",
+    "email": "karen.boehnke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

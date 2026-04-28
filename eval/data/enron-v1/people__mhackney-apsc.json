@@ -1,0 +1,14 @@
+{
+  "slug": "people/mhackney-apsc",
+  "type": "person",
+  "title": "Mhackney",
+  "compiled_truth": "Mhackney is an external contact at [Apsc](companies/apsc). Over the corpus period (2001-05-22 to 2001-10-09), Mhackney sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2001-05-22** | First recorded email in corpus\n- **2001-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mhackney-apsc",
+    "name": "Mhackney",
+    "email": "mhackney@apsc.com",
+    "primary_affiliation": "companies/apsc"
+  }
+}

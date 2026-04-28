@@ -1,0 +1,14 @@
+{
+  "slug": "people/salvo-shook",
+  "type": "person",
+  "title": "Salvo-Shook",
+  "compiled_truth": "Salvo-Shook is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-25 to 2001-11-27), Salvo-Shook sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-10-25** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/salvo-shook",
+    "name": "Salvo-Shook",
+    "email": "salvo-shook@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

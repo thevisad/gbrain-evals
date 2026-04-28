@@ -1,0 +1,14 @@
+{
+  "slug": "people/ashddh-aol",
+  "type": "person",
+  "title": "Ashddh",
+  "compiled_truth": "Ashddh is an external contact at [AOL](companies/aol). Over the corpus period (2000-11-02 to 2000-12-12), Ashddh sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ashddh-aol",
+    "name": "Ashddh",
+    "email": "ashddh@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

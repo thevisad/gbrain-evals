@@ -1,0 +1,14 @@
+{
+  "slug": "people/laren-tarbet",
+  "type": "person",
+  "title": "Laren Tarbet",
+  "compiled_truth": "Laren Tarbet is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-01 to 2000-10-12), Laren Tarbet sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2000-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laren-tarbet",
+    "name": "Laren Tarbet",
+    "email": "laren.tarbet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

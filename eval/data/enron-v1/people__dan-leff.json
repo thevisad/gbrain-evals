@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-leff",
+  "type": "person",
+  "title": "Dan Leff",
+  "compiled_truth": "Dan Leff is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-10), Dan Leff sent 32 and received 1109 emails, totalling 1141 interactions. Top correspondents: [Evan Hughes](people/evan-hughes) (12), [Sally Beck](people/sally-beck) (10), [Jeff Dasovich](people/jeff-dasovich) (9), [Vicki Sharp](people/vicki-sharp) (7), [D  Steffes](people/d-steffes) (7). Mailbox folders observed: _americas, credit_issues, deleted_items, ees_mgmt, inbox, security___collateral.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-leff",
+    "name": "Dan Leff",
+    "email": "dan.leff@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/patty-deas",
+  "type": "person",
+  "title": "Patty Deas",
+  "compiled_truth": "Patty Deas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-01 to 2001-11-28), Patty Deas sent 1 and received 17 emails, totalling 18 interactions. Top correspondents: [Center Dl-Portland](people/center-dl-portland) (1). Mailbox folders observed: bill_williams_iii.",
+  "timeline": "- **2000-05-01** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patty-deas",
+    "name": "Patty Deas",
+    "email": "patty.deas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

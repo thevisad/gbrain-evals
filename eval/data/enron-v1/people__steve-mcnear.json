@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-mcnear",
+  "type": "person",
+  "title": "Steve Mcnear",
+  "compiled_truth": "Steve Mcnear is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-11-09), Steve Mcnear sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-mcnear",
+    "name": "Steve Mcnear",
+    "email": "steve.mcnear@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gavin-dillingham",
+  "type": "person",
+  "title": "Gavin Dillingham",
+  "compiled_truth": "Gavin Dillingham is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2001-12-31), Gavin Dillingham sent 75 and received 91 emails, totalling 166 interactions. Top correspondents: [Filuntz](people/filuntz-aol) (59), [Liz](people/liz-luntz) (38), [Nicholas O'Day](people/nicholas-o-day) (37), [Mike Dahlke](people/mike-dahlke) (30), [Steven Kean](people/steven-kean) (21). Mailbox folders observed: eesirenewableenergy, internet_sites.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gavin-dillingham",
+    "name": "Gavin Dillingham",
+    "email": "gavin.dillingham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

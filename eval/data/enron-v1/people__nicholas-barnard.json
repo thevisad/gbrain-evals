@@ -1,0 +1,14 @@
+{
+  "slug": "people/nicholas-barnard",
+  "type": "person",
+  "title": "Nicholas Barnard",
+  "compiled_truth": "Nicholas Barnard is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-27 to 2002-01-28), Nicholas Barnard sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-06-27** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nicholas-barnard",
+    "name": "Nicholas Barnard",
+    "email": "nicholas.barnard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

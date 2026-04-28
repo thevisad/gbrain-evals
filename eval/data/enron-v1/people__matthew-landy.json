@@ -1,0 +1,14 @@
+{
+  "slug": "people/matthew-landy",
+  "type": "person",
+  "title": "Matthew Landy",
+  "compiled_truth": "Matthew Landy is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-30 to 2002-01-10), Matthew Landy sent 1 and received 18 emails, totalling 19 interactions. Top correspondents: [Marie Heard](people/marie-heard) (1), [Liisa Mulbrecht](people/liisa-mulbrecht) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-06-30** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matthew-landy",
+    "name": "Matthew Landy",
+    "email": "matthew.landy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tracee-bersani",
+  "type": "person",
+  "title": "Tracee Bersani",
+  "compiled_truth": "Tracee Bersani is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2001-02-21), Tracee Bersani sent 1 and received 71 emails, totalling 72 interactions. Top correspondents: [Robtaylor](people/robtaylor-andrews-kurth) (1), [Kay Mann](people/kay-mann) (1), [Cheryl Lipshutz](people/cheryl-lipshutz) (1), [Peter Anderson](people/peter-anderson) (1).",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2001-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tracee-bersani",
+    "name": "Tracee Bersani",
+    "email": "tracee.bersani@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

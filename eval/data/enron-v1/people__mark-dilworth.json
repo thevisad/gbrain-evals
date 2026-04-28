@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-dilworth",
+  "type": "person",
+  "title": "Mark Dilworth",
+  "compiled_truth": "Mark Dilworth is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-25 to 2001-11-30), Mark Dilworth sent 17 and received 110 emails, totalling 127 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (16), [David Forster](people/david-forster) (13), [Louise Kitchen](people/louise-kitchen) (6), [Edmund Cooper](people/edmund-cooper) (6), [David Minns](people/david-minns) (5). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-06-25** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-dilworth",
+    "name": "Mark Dilworth",
+    "email": "mark.dilworth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

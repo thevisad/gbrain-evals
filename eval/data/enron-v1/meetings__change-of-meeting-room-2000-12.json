@@ -1,0 +1,29 @@
+{
+  "slug": "meetings/change-of-meeting-room-2000-12",
+  "type": "meeting",
+  "title": "Meeting: Change Of Meeting Room",
+  "compiled_truth": "Meeting: \"Change Of Meeting Room\". Occurred 2000-12-13 with 1 related emails. Participants included: [Debbie Brackett](people/debbie-brackett), [Dennis Benevides](people/dennis-benevides), [Ganapathy Ramesh](people/ganapathy-ramesh), [Jaesoo Lew](people/jaesoo-lew), [Kevin Kindall](people/kevin-kindall), [Li Sun](people/li-sun), [Naveen Andrews](people/naveen-andrews), [Pinnamaneni Krishnarao](people/pinnamaneni-krishnarao)....",
+  "timeline": "- **2000-12-13** | Meeting: change of meeting room",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/change-of-meeting-room-2000-12",
+    "attendees": [
+      "people/debbie-brackett",
+      "people/dennis-benevides",
+      "people/ganapathy-ramesh",
+      "people/jaesoo-lew",
+      "people/kevin-kindall",
+      "people/li-sun",
+      "people/naveen-andrews",
+      "people/pinnamaneni-krishnarao",
+      "people/rabi-de",
+      "people/shirley-crenshaw",
+      "people/tanya-tamarchenko",
+      "people/vince-kaminski",
+      "people/vladimir-gorny",
+      "people/wenyao-jia",
+      "people/zhiyong-wei"
+    ],
+    "date": "2000-12-13"
+  }
+}

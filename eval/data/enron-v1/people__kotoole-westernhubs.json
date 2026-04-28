@@ -1,0 +1,14 @@
+{
+  "slug": "people/kotoole-westernhubs",
+  "type": "person",
+  "title": "Kotoole",
+  "compiled_truth": "Kotoole is an external contact at [Westernhubs](companies/westernhubs). Over the corpus period (2000-09-17 to 2001-07-31), Kotoole sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-09-17** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kotoole-westernhubs",
+    "name": "Kotoole",
+    "email": "kotoole@westernhubs.com",
+    "primary_affiliation": "companies/westernhubs"
+  }
+}

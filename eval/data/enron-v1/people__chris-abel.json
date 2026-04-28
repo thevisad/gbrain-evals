@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-abel",
+  "type": "person",
+  "title": "Chris Abel",
+  "compiled_truth": "Chris Abel is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-06-07), Chris Abel sent 72 and received 634 emails, totalling 706 interactions. Top correspondents: [Shona Wilson](people/shona-wilson) (51), [Beth Apollo](people/beth-apollo) (35), [Rick Buy](people/rick-buy) (34), [David Port](people/david-port) (33), [Greg Whalley](people/greg-whalley) (32). Mailbox folders observed: _americas, deleted_items, dpr, ees_mgmt, inbox, notes_inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-abel",
+    "name": "Chris Abel",
+    "email": "chris.abel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

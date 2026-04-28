@@ -1,0 +1,14 @@
+{
+  "slug": "people/rachel-crowell",
+  "type": "person",
+  "title": "Rachel Crowell",
+  "compiled_truth": "Rachel Crowell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2001-11-26), Rachel Crowell sent 4 and received 11 emails, totalling 15 interactions. Top correspondents: [Patrick Ryder](people/patrick-ryder) (2), [Michael Walters](people/michael-walters) (2), [B Palmer](people/b-palmer) (2), [Bruce Mills](people/bruce-mills) (2), [David Baumbach](people/david-baumbach) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rachel-crowell",
+    "name": "Rachel Crowell",
+    "email": "rachel.crowell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

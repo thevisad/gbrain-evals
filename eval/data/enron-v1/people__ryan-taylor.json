@@ -1,0 +1,14 @@
+{
+  "slug": "people/ryan-taylor",
+  "type": "person",
+  "title": "Ryan Taylor",
+  "compiled_truth": "Ryan Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-11-08), Ryan Taylor sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ryan-taylor",
+    "name": "Ryan Taylor",
+    "email": "ryan.taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sherry-dawson",
+  "type": "person",
+  "title": "Sherry Dawson",
+  "compiled_truth": "Sherry Dawson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-14 to 2002-05-02), Sherry Dawson sent 6 and received 159 emails, totalling 165 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (6), [Laura Vargas](people/laura-vargas) (2), [Amy Cavazos](people/amy-cavazos) (2), [Stacey Vallejo](people/stacey-vallejo) (1), [Joey Taylor](people/joey-taylor) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-08-14** | First recorded email in corpus\n- **2002-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sherry-dawson",
+    "name": "Sherry Dawson",
+    "email": "sherry.dawson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

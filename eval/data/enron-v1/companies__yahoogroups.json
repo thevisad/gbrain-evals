@@ -1,0 +1,27 @@
+{
+  "slug": "companies/yahoogroups",
+  "type": "company",
+  "title": "Yahoogroups",
+  "compiled_truth": "Yahoogroups is an external organization that appears in the Enron email corpus. Domain: yahoogroups.com. Total email interactions with Enron: 583. Known contacts: 10 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (583 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/yahoogroups",
+    "name": "Yahoogroups",
+    "employees": [
+      "people/asme-omae-houston-yahoogroups",
+      "people/cheatsheets-yahoogroups",
+      "people/emca-yahoogroups",
+      "people/enerfax-yahoogroups",
+      "people/enerfaxgold-yahoogroups",
+      "people/enerfaxweb-yahoogroups",
+      "people/mu-betas-yahoogroups",
+      "people/porchpots-yahoogroups",
+      "people/smu-betas-yahoogroups",
+      "people/spacecity-dsp-yahoogroups"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

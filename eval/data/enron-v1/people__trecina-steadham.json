@@ -1,0 +1,14 @@
+{
+  "slug": "people/trecina-steadham",
+  "type": "person",
+  "title": "Trecina Steadham",
+  "compiled_truth": "Trecina Steadham is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-08 to 2001-05-09), Trecina Steadham sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [Phillip Love](people/phillip-love) (1), [Darron Giron](people/darron-giron) (1), [Kam Keiser](people/kam-keiser) (1), [Toni Graham](people/toni-graham) (1), [Jamie Wachel](people/jamie-wachel) (1).",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/trecina-steadham",
+    "name": "Trecina Steadham",
+    "email": "trecina.steadham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

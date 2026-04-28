@@ -1,0 +1,14 @@
+{
+  "slug": "people/sonya-patterson",
+  "type": "person",
+  "title": "Sonya Patterson",
+  "compiled_truth": "Sonya Patterson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-15 to 2002-02-14), Sonya Patterson sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-10-15** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sonya-patterson",
+    "name": "Sonya Patterson",
+    "email": "sonya.patterson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

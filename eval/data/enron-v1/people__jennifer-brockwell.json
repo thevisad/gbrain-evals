@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-brockwell",
+  "type": "person",
+  "title": "Jennifer Brockwell",
+  "compiled_truth": "Jennifer Brockwell is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-12 to 2002-01-11), Jennifer Brockwell sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2001-01-12** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-brockwell",
+    "name": "Jennifer Brockwell",
+    "email": "jennifer.brockwell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

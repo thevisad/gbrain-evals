@@ -1,0 +1,14 @@
+{
+  "slug": "people/teb-lokey",
+  "type": "person",
+  "title": "Teb Lokey",
+  "compiled_truth": "Teb Lokey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-06 to 2002-03-25), Teb Lokey sent 147 and received 746 emails, totalling 893 interactions. Top correspondents: [Robert Kilmer](people/robert-kilmer) (34), [Jeanette Doll](people/jeanette-doll) (21), [Blair Lichtenwalter](people/blair-lichtenwalter) (21), [Zelda Paschal](people/zelda-paschal) (14), [Bill Rapp](people/bill-rapp) (13). Mailbox folders observed: _sent_mail, deleted_items, inbox, sent_items.",
+  "timeline": "- **2000-01-06** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teb-lokey",
+    "name": "Teb Lokey",
+    "email": "teb.lokey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

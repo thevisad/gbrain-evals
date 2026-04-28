@@ -1,0 +1,14 @@
+{
+  "slug": "people/chantelle-villanueva",
+  "type": "person",
+  "title": "Chantelle Villanueva",
+  "compiled_truth": "Chantelle Villanueva is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-27), Chantelle Villanueva sent 3 and received 217 emails, totalling 220 interactions. Top correspondents: [Patti Thompson](people/patti-thompson) (2), [Janie Aguayo](people/janie-aguayo) (2), [Carrie Hollomon](people/carrie-hollomon) (2), [Phillip Love](people/phillip-love) (2), [Cathy Torre](people/cathy-torre) (2). Mailbox folders observed: accomplish.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chantelle-villanueva",
+    "name": "Chantelle Villanueva",
+    "email": "chantelle.villanueva@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

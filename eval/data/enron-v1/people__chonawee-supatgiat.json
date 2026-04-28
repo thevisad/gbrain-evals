@@ -1,0 +1,14 @@
+{
+  "slug": "people/chonawee-supatgiat",
+  "type": "person",
+  "title": "Chonawee Supatgiat",
+  "compiled_truth": "Chonawee Supatgiat is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-14 to 2002-01-08), Chonawee Supatgiat sent 25 and received 134 emails, totalling 159 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (15), [J Kaminski](people/j-kaminski) (10), [Stinson Gibner](people/stinson-gibner) (8), [Martin Lin](people/martin-lin) (6), [Vasant Shanbhogue](people/vasant-shanbhogue) (6). Mailbox folders observed: c, deleted_items, inbox.",
+  "timeline": "- **2000-02-14** | First recorded email in corpus\n- **2002-01-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chonawee-supatgiat",
+    "name": "Chonawee Supatgiat",
+    "email": "chonawee.supatgiat@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

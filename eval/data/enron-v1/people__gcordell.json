@@ -1,0 +1,14 @@
+{
+  "slug": "people/gcordell",
+  "type": "person",
+  "title": "Gcordell",
+  "compiled_truth": "Gcordell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-03-16), Gcordell sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gcordell",
+    "name": "Gcordell",
+    "email": "gcordell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

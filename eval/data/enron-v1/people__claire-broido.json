@@ -1,0 +1,14 @@
+{
+  "slug": "people/claire-broido",
+  "type": "person",
+  "title": "Claire Broido",
+  "compiled_truth": "Claire Broido is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-03 to 2001-06-13), Claire Broido sent 8 and received 30 emails, totalling 38 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (8), [Jason Wiesepape](people/jason-wiesepape) (2), [Bruce Golden](people/bruce-golden) (1), [Michael Danielson](people/michael-danielson) (1), [Clay Spears](people/clay-spears) (1).",
+  "timeline": "- **1999-09-03** | First recorded email in corpus\n- **2001-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/claire-broido",
+    "name": "Claire Broido",
+    "email": "claire.broido@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

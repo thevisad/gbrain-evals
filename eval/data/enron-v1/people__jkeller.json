@@ -1,0 +1,14 @@
+{
+  "slug": "people/jkeller",
+  "type": "person",
+  "title": "Jkeller",
+  "compiled_truth": "Jkeller is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-05-10), Jkeller sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jkeller",
+    "name": "Jkeller",
+    "email": "jkeller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

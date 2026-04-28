@@ -1,0 +1,30 @@
+{
+  "slug": "meetings/staff-meeting-cancelled-2001-05",
+  "type": "meeting",
+  "title": "Meeting: Staff Meeting Cancelled",
+  "compiled_truth": "Meeting: \"Staff Meeting Cancelled\". Occurred 2001-05-14 with 1 related emails. Participants included: [Andrew Gieser](people/andrew-gieser), [Cutty Cunningham](people/cutty-cunningham), [Dan Maschka](people/dan-maschka), [David Johnson](people/david-johnson), [Jim Lynch](people/jim-lynch), [Kyle Purvis](people/kyle-purvis), [Larry Campbell](people/larry-campbell), [Larry Urban](people/larry-urban)....",
+  "timeline": "- **2001-05-14** | Meeting: staff meeting cancelled",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/staff-meeting-cancelled-2001-05",
+    "attendees": [
+      "people/andrew-gieser",
+      "people/cutty-cunningham",
+      "people/dan-maschka",
+      "people/david-johnson",
+      "people/jim-lynch",
+      "people/kyle-purvis",
+      "people/larry-campbell",
+      "people/larry-urban",
+      "people/leo-nichols",
+      "people/mike-riedel",
+      "people/randy-armstrong",
+      "people/ruth-jensen",
+      "people/sarita-garza",
+      "people/stephen-allen",
+      "people/ted-ryther",
+      "people/william-kendrick"
+    ],
+    "date": "2001-05-14"
+  }
+}

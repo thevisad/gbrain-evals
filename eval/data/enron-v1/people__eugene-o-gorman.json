@@ -1,0 +1,14 @@
+{
+  "slug": "people/eugene-o-gorman",
+  "type": "person",
+  "title": "Eugene O'Gorman",
+  "compiled_truth": "Eugene O'Gorman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-22 to 2001-10-26), Eugene O'Gorman sent 1 and received 3 emails, totalling 4 interactions. Top correspondents: [Arnold Eisenstein](people/arnold-eisenstein) (1), [Dennis Zitterkopf](people/dennis-zitterkopf) (1), [Eric Faucheaux](people/eric-faucheaux) (1), [Rich Jolly](people/rich-jolly) (1), [Kevin Hyatt](people/kevin-hyatt) (1). Mailbox folders observed: projects.",
+  "timeline": "- **2001-01-22** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eugene-o-gorman",
+    "name": "Eugene O'Gorman",
+    "email": "eugene.o'gorman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

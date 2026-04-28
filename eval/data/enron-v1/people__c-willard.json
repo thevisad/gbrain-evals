@@ -1,0 +1,14 @@
+{
+  "slug": "people/c-willard",
+  "type": "person",
+  "title": "C  Willard",
+  "compiled_truth": "C  Willard is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-16 to 2002-05-06), C  Willard sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [James Derrick](people/james-derrick) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-08-16** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/c-willard",
+    "name": "C  Willard",
+    "email": "c..willard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

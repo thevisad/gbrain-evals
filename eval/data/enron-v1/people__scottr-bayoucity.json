@@ -1,0 +1,14 @@
+{
+  "slug": "people/scottr-bayoucity",
+  "type": "person",
+  "title": "Scottr",
+  "compiled_truth": "Scottr is an external contact at [Bayoucity](companies/bayoucity). Over the corpus period (2000-05-21 to 2000-05-21), Scottr sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scottr-bayoucity",
+    "name": "Scottr",
+    "email": "scottr@bayoucity.net",
+    "primary_affiliation": "companies/bayoucity"
+  }
+}

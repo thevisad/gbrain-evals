@@ -1,0 +1,38 @@
+{
+  "slug": "threads/attached-files-2000-11",
+  "type": "meeting",
+  "title": "Thread: Attached Files",
+  "compiled_truth": "Email thread: \"Attached Files\". Ran from 2000-11-30 to 2000-12-20 with 36 messages. Participants: [Ben Jacoby](people/ben-jacoby), [Brett Wiggs](people/brett-wiggs), [Ccobb](people/ccobb-akllp), [Cheryl Lipshutz](people/cheryl-lipshutz), [Chriscobb](people/chriscobb-akllp), [Dale Rasmussen](people/dale-rasmussen), [David Onuscheck](people/david-onuscheck-us), [Gail Brownfeld](people/gail-brownfeld).",
+  "timeline": "- **2000-11-30** | Thread begins: attached files\n- **2000-12-20** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/attached-files-2000-11",
+    "attendees": [
+      "people/ben-jacoby",
+      "people/brett-wiggs",
+      "people/ccobb-akllp",
+      "people/cheryl-lipshutz",
+      "people/chriscobb-akllp",
+      "people/dale-rasmussen",
+      "people/david-onuscheck-us",
+      "people/gail-brownfeld",
+      "people/kay-mann",
+      "people/kent-shoemaker-ae",
+      "people/lee-johnson-ss",
+      "people/lisa-alfaro",
+      "people/lisa-bills",
+      "people/mary-cilia",
+      "people/mary-kimball",
+      "people/michael-o-sandridge-us",
+      "people/paulpipitone-akllp",
+      "people/peterthompson-akllp",
+      "people/pthompson-akllp",
+      "people/rebecca-mcdonald",
+      "people/richard-sanders",
+      "people/robtaylor-akllp",
+      "people/roseann-engeldorf",
+      "people/suzanne-adams"
+    ],
+    "date": "2000-11-30"
+  }
+}

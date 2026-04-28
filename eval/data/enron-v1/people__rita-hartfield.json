@@ -1,0 +1,14 @@
+{
+  "slug": "people/rita-hartfield",
+  "type": "person",
+  "title": "Rita Hartfield",
+  "compiled_truth": "Rita Hartfield is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-22 to 2001-12-03), Rita Hartfield sent 18 and received 100 emails, totalling 118 interactions. Top correspondents: [Elizabeth Linnell](people/elizabeth-linnell) (10), [Richard Shapiro](people/richard-shapiro) (10), [Jeff Dasovich](people/jeff-dasovich) (8), [Rob Bradley](people/rob-bradley) (8), [Harry Kingerski](people/harry-kingerski) (8). Mailbox folders observed: deleted_items, ferc, inbox, presentations, tw_commercial_group.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rita-hartfield",
+    "name": "Rita Hartfield",
+    "email": "rita.hartfield@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

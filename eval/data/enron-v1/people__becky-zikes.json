@@ -1,0 +1,14 @@
+{
+  "slug": "people/becky-zikes",
+  "type": "person",
+  "title": "Becky Zikes",
+  "compiled_truth": "Becky Zikes is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-21 to 2002-05-06), Becky Zikes sent 4 and received 138 emails, totalling 142 interactions. Top correspondents: [Britt Davis](people/britt-davis) (4), [E  Haedicke](people/e-haedicke) (3), [Charles Cheek](people/charles-cheek) (3), [Gay Arnold](people/gay-arnold) (3), [Rita Bahner](people/rita-bahner) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-05-21** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/becky-zikes",
+    "name": "Becky Zikes",
+    "email": "becky.zikes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

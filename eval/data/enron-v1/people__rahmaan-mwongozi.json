@@ -1,0 +1,14 @@
+{
+  "slug": "people/rahmaan-mwongozi",
+  "type": "person",
+  "title": "Rahmaan Mwongozi",
+  "compiled_truth": "Rahmaan Mwongozi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2001-02-27), Rahmaan Mwongozi sent 1 and received 65 emails, totalling 66 interactions. Top correspondents: [Susan Scott](people/susan-scott) (1).",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2001-02-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rahmaan-mwongozi",
+    "name": "Rahmaan Mwongozi",
+    "email": "rahmaan.mwongozi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

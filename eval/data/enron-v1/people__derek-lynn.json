@@ -1,0 +1,14 @@
+{
+  "slug": "people/derek-lynn",
+  "type": "person",
+  "title": "Derek Lynn",
+  "compiled_truth": "Derek Lynn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-13 to 2001-11-07), Derek Lynn sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/derek-lynn",
+    "name": "Derek Lynn",
+    "email": "derek.lynn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

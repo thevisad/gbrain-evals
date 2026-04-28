@@ -1,0 +1,14 @@
+{
+  "slug": "people/f-herod",
+  "type": "person",
+  "title": "F  Herod",
+  "compiled_truth": "F  Herod is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-20 to 2002-05-13), F  Herod sent 22 and received 159 emails, totalling 181 interactions. Top correspondents: [P  O'Neil](people/p-o-neil) (9), [Chris Stokley](people/chris-stokley) (8), [A K  Matheson](people/a-k-matheson) (6), [Rita Wynne](people/rita-wynne) (6), [Donna Greif](people/donna-greif) (6). Mailbox folders observed: calendar, chris_stokley, deleted_items, inbox.",
+  "timeline": "- **2001-04-20** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/f-herod",
+    "name": "F  Herod",
+    "email": "f..herod@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

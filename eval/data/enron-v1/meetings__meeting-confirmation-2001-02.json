@@ -1,0 +1,30 @@
+{
+  "slug": "meetings/meeting-confirmation-2001-02",
+  "type": "meeting",
+  "title": "Meeting: Meeting Confirmation",
+  "compiled_truth": "Meeting: \"Meeting Confirmation\". Occurred 2001-02-06 with 1 related emails. Participants included: [Anne Koehler](people/anne-koehler), [Brian Redmond](people/brian-redmond), [David Baumbach](people/david-baumbach), [Dena Pawlowski](people/dena-pawlowski), [Emma Welsch](people/emma-welsch), [George Weissman](people/george-weissman), [Georgeanne Hodges](people/georgeanne-hodges), [Greg Whiting](people/greg-whiting)....",
+  "timeline": "- **2001-02-06** | Meeting: meeting confirmation",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-confirmation-2001-02",
+    "attendees": [
+      "people/anne-koehler",
+      "people/brian-redmond",
+      "people/david-baumbach",
+      "people/dena-pawlowski",
+      "people/emma-welsch",
+      "people/george-weissman",
+      "people/georgeanne-hodges",
+      "people/greg-whiting",
+      "people/jim-coffey",
+      "people/laura-vuittonet",
+      "people/lisa-lunz",
+      "people/melissa-graves",
+      "people/nikole-jackson",
+      "people/renee-ingram",
+      "people/thomas-martin",
+      "people/troy-denetsosie"
+    ],
+    "date": "2001-02-06"
+  }
+}

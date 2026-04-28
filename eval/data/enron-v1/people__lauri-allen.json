@@ -1,0 +1,14 @@
+{
+  "slug": "people/lauri-allen",
+  "type": "person",
+  "title": "Lauri Allen",
+  "compiled_truth": "Lauri Allen is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-24), Lauri Allen sent 25 and received 432 emails, totalling 457 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (14), [Gerald Nemec](people/gerald-nemec) (6), [Dfarmer](people/dfarmer) (5), [Eric Gillaspie](people/eric-gillaspie) (5), [Pat Clynes](people/pat-clynes) (4). Mailbox folders observed: entex, logistics.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lauri-allen",
+    "name": "Lauri Allen",
+    "email": "lauri.allen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

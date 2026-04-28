@@ -1,0 +1,14 @@
+{
+  "slug": "people/smith-david",
+  "type": "person",
+  "title": "Smith David",
+  "compiled_truth": "Smith David is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-07 to 2002-01-02), Smith David sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-06-07** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/smith-david",
+    "name": "Smith David",
+    "email": "smith.david@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

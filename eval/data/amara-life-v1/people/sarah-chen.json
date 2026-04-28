@@ -1,0 +1,16 @@
+{
+  "slug": "people/sarah-chen",
+  "type": "person",
+  "title": "Sarah Chen",
+  "compiled_truth": "Sarah Chen is an advisor to Halfway Capital. Email: sarah@chen.dev. Slack: @sarah.",
+  "timeline": "- **2026-04-13** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarah-chen",
+    "name": "Sarah Chen",
+    "email": "sarah@chen.dev",
+    "slack_handle": "sarah",
+    "relation_to_amara": "advisor",
+    "primary_affiliation": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/esebton-isda-eur",
+  "type": "person",
+  "title": "Esebton",
+  "compiled_truth": "Esebton is an external contact at [Isda-eur](companies/isda-eur). Over the corpus period (2000-05-04 to 2001-11-09), Esebton sent 0 and received 56 emails, totalling 56 interactions.",
+  "timeline": "- **2000-05-04** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/esebton-isda-eur",
+    "name": "Esebton",
+    "email": "esebton@isda-eur.org",
+    "primary_affiliation": "companies/isda-eur"
+  }
+}

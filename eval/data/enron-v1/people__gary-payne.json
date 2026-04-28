@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-payne",
+  "type": "person",
+  "title": "Gary Payne",
+  "compiled_truth": "Gary Payne is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-02-05), Gary Payne sent 1 and received 31 emails, totalling 32 interactions. Top correspondents: [Randall Gay](people/randall-gay) (1), [Edward Terry](people/edward-terry) (1), [Daren Farmer](people/daren-farmer) (1), [Scotty Gilbert](people/scotty-gilbert) (1).",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-payne",
+    "name": "Gary Payne",
+    "email": "gary.payne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

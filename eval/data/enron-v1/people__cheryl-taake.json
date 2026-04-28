@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheryl-taake",
+  "type": "person",
+  "title": "Cheryl Taake",
+  "compiled_truth": "Cheryl Taake is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-05 to 2000-09-12), Cheryl Taake sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus\n- **2000-09-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheryl-taake",
+    "name": "Cheryl Taake",
+    "email": "cheryl.taake@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

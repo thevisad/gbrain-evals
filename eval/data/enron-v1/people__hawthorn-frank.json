@@ -1,0 +1,14 @@
+{
+  "slug": "people/hawthorn-frank",
+  "type": "person",
+  "title": "Hawthorn Frank",
+  "compiled_truth": "Hawthorn Frank is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-07 to 2002-01-02), Hawthorn Frank sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-06-07** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hawthorn-frank",
+    "name": "Hawthorn Frank",
+    "email": "hawthorn.frank@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheri-sublet",
+  "type": "person",
+  "title": "Cheri Sublet",
+  "compiled_truth": "Cheri Sublet is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-25 to 2001-11-19), Cheri Sublet sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-09-25** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheri-sublet",
+    "name": "Cheri Sublet",
+    "email": "cheri.sublet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

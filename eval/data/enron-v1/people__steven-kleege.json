@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-kleege",
+  "type": "person",
+  "title": "Steven Kleege",
+  "compiled_truth": "Steven Kleege is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-29 to 2001-05-23), Steven Kleege sent 1 and received 21 emails, totalling 22 interactions. Top correspondents: [Tana Jones](people/tana-jones) (1).",
+  "timeline": "- **2000-08-29** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-kleege",
+    "name": "Steven Kleege",
+    "email": "steven.kleege@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

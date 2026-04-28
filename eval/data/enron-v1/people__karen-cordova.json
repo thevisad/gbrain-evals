@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-cordova",
+  "type": "person",
+  "title": "Karen Cordova",
+  "compiled_truth": "Karen Cordova is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-04 to 2001-11-14), Karen Cordova sent 12 and received 43 emails, totalling 55 interactions. Top correspondents: [Tana Jones](people/tana-jones) (6), [Marie Heard](people/marie-heard) (3), [Christina Finelli](people/christina-finelli) (2), [Susan Wheeler](people/susan-wheeler) (2), [Richard Ring](people/richard-ring) (2). Mailbox folders observed: inbox, personalfolder.",
+  "timeline": "- **1999-05-04** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-cordova",
+    "name": "Karen Cordova",
+    "email": "karen.cordova@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

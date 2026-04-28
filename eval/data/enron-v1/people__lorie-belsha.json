@@ -1,0 +1,14 @@
+{
+  "slug": "people/lorie-belsha",
+  "type": "person",
+  "title": "Lorie Belsha",
+  "compiled_truth": "Lorie Belsha is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-19), Lorie Belsha sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1).",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lorie-belsha",
+    "name": "Lorie Belsha",
+    "email": "lorie.belsha@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

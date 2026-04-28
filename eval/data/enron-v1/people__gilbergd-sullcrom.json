@@ -1,0 +1,14 @@
+{
+  "slug": "people/gilbergd-sullcrom",
+  "type": "person",
+  "title": "Gilbergd",
+  "compiled_truth": "Gilbergd is an external contact at [Sullcrom](companies/sullcrom). Over the corpus period (1999-05-20 to 2002-01-04), Gilbergd sent 29 and received 124 emails, totalling 153 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (29), [Raislerk](people/raislerk-sullcrom) (12), [Lkitchen](people/lkitchen-enron) (5), [Psimons](people/psimons-enron) (3), [Alan Aronowitz](people/alan-aronowitz) (3).",
+  "timeline": "- **1999-05-20** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gilbergd-sullcrom",
+    "name": "Gilbergd",
+    "email": "gilbergd@sullcrom.com",
+    "primary_affiliation": "companies/sullcrom"
+  }
+}

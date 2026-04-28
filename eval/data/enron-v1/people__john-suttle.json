@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-suttle",
+  "type": "person",
+  "title": "John Suttle",
+  "compiled_truth": "John Suttle is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-13), John Suttle sent 38 and received 574 emails, totalling 612 interactions. Top correspondents: [Tana Jones](people/tana-jones) (23), [Susan Bailey](people/susan-bailey) (17), [Susan Flynn](people/susan-flynn) (14), [Sara Shackleton](people/sara-shackleton) (10), [Jason Williams](people/jason-williams) (4). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-suttle",
+    "name": "John Suttle",
+    "email": "john.suttle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

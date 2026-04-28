@@ -1,0 +1,14 @@
+{
+  "slug": "people/dvermillion-avistaenergy",
+  "type": "person",
+  "title": "Dvermillion",
+  "compiled_truth": "Dvermillion is an external contact at [Avistaenergy](companies/avistaenergy). Over the corpus period (1980-01-01 to 2001-05-03), Dvermillion sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dvermillion-avistaenergy",
+    "name": "Dvermillion",
+    "email": "dvermillion@avistaenergy.com",
+    "primary_affiliation": "companies/avistaenergy"
+  }
+}

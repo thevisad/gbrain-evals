@@ -1,0 +1,14 @@
+{
+  "slug": "people/kliva-telcordia",
+  "type": "person",
+  "title": "Kliva",
+  "compiled_truth": "Kliva is an external contact at [Telcordia](companies/telcordia). Over the corpus period (2000-03-22 to 2001-06-01), Kliva sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-03-22** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kliva-telcordia",
+    "name": "Kliva",
+    "email": "kliva@telcordia.com",
+    "primary_affiliation": "companies/telcordia"
+  }
+}

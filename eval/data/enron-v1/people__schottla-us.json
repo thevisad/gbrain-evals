@@ -1,0 +1,14 @@
+{
+  "slug": "people/schottla-us",
+  "type": "person",
+  "title": "Schottla",
+  "compiled_truth": "Schottla is an external contact at [Us](companies/us). Over the corpus period (2000-03-16 to 2000-12-04), Schottla sent 0 and received 80 emails, totalling 80 interactions.",
+  "timeline": "- **2000-03-16** | First recorded email in corpus\n- **2000-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/schottla-us",
+    "name": "Schottla",
+    "email": "schottla@us.cibc.com",
+    "primary_affiliation": "companies/us"
+  }
+}

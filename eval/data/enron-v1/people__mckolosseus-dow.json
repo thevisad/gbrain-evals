@@ -1,0 +1,14 @@
+{
+  "slug": "people/mckolosseus-dow",
+  "type": "person",
+  "title": "Mckolosseus",
+  "compiled_truth": "Mckolosseus is an external contact at [Dow](companies/dow). Over the corpus period (2000-08-15 to 2000-09-05), Mckolosseus sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-08-15** | First recorded email in corpus\n- **2000-09-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mckolosseus-dow",
+    "name": "Mckolosseus",
+    "email": "mckolosseus@dow.com",
+    "primary_affiliation": "companies/dow"
+  }
+}

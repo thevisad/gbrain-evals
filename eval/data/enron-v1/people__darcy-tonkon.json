@@ -1,0 +1,14 @@
+{
+  "slug": "people/darcy-tonkon",
+  "type": "person",
+  "title": "Darcy",
+  "compiled_truth": "Darcy is an external contact at [Tonkon](companies/tonkon). Over the corpus period (2001-02-20 to 2001-04-27), Darcy sent 2 and received 68 emails, totalling 70 interactions. Top correspondents: [Mary Hain](people/mary-hain) (1), [Abuckley](people/abuckley-wutc) (1), [Alan](people/alan-epud) (1), [Ali Rodol](people/ali-rodol-ci) (1), [Archive-Power-Ratecase](people/archive-power-ratecase-bpa) (1).",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darcy-tonkon",
+    "name": "Darcy",
+    "email": "darcy@tonkon.com",
+    "primary_affiliation": "companies/tonkon"
+  }
+}

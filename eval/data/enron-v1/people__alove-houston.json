@@ -1,0 +1,14 @@
+{
+  "slug": "people/alove-houston",
+  "type": "person",
+  "title": "Alove",
+  "compiled_truth": "Alove is an external contact at [Houston](companies/houston). Over the corpus period (2001-10-15 to 2002-01-30), Alove sent 12 and received 20 emails, totalling 32 interactions. Top correspondents: [M  Love](people/m-love) (11), [C  Giron](people/c-giron) (1).",
+  "timeline": "- **2001-10-15** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alove-houston",
+    "name": "Alove",
+    "email": "alove@houston.rr.com",
+    "primary_affiliation": "companies/houston"
+  }
+}

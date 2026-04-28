@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-faucheaux",
+  "type": "person",
+  "title": "Eric Faucheaux",
+  "compiled_truth": "Eric Faucheaux is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-08 to 2002-01-07), Eric Faucheaux sent 16 and received 124 emails, totalling 140 interactions. Top correspondents: [Morgan Gottsponer](people/morgan-gottsponer) (12), [Kimberly Watson](people/kimberly-watson) (7), [Kevin Hyatt](people/kevin-hyatt) (6), [Perry Frazier](people/perry-frazier) (6), [Earl Chanley](people/earl-chanley) (5). Mailbox folders observed: deleted_items, inbox, projects, tw, tw_projects.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2002-01-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-faucheaux",
+    "name": "Eric Faucheaux",
+    "email": "eric.faucheaux@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/annette-causey",
+  "type": "person",
+  "title": "Annette Causey",
+  "compiled_truth": "Annette Causey is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-18 to 2002-01-18), Annette Causey sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/annette-causey",
+    "name": "Annette Causey",
+    "email": "annette.causey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

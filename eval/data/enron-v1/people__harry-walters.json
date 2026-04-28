@@ -1,0 +1,14 @@
+{
+  "slug": "people/harry-walters",
+  "type": "person",
+  "title": "Harry Walters",
+  "compiled_truth": "Harry Walters is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-07 to 2002-05-06), Harry Walters sent 0 and received 96 emails, totalling 96 interactions.",
+  "timeline": "- **2000-03-07** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/harry-walters",
+    "name": "Harry Walters",
+    "email": "harry.walters@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

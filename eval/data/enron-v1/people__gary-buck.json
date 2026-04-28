@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-buck",
+  "type": "person",
+  "title": "Gary Buck",
+  "compiled_truth": "Gary Buck is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-11-29), Gary Buck sent 2 and received 80 emails, totalling 82 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (1), [Kenneth Lay](people/kenneth-lay) (1), [Jeffrey Mcmahon](people/jeffrey-mcmahon) (1), [Greg Whalley](people/greg-whalley) (1), [Mark Frevert](people/mark-frevert) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-buck",
+    "name": "Gary Buck",
+    "email": "gary.buck@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

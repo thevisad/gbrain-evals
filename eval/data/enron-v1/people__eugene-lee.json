@@ -1,0 +1,14 @@
+{
+  "slug": "people/eugene-lee",
+  "type": "person",
+  "title": "Eugene Lee",
+  "compiled_truth": "Eugene Lee is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-02 to 2002-02-08), Eugene Lee sent 0 and received 48 emails, totalling 48 interactions.",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2002-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eugene-lee",
+    "name": "Eugene Lee",
+    "email": "eugene.lee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

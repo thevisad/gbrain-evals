@@ -1,0 +1,14 @@
+{
+  "slug": "people/lxtran-yahoo",
+  "type": "person",
+  "title": "Lxtran",
+  "compiled_truth": "Lxtran is an external contact at [Yahoo](companies/yahoo). Over the corpus period (1999-12-12 to 2001-05-08), Lxtran sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **1999-12-12** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lxtran-yahoo",
+    "name": "Lxtran",
+    "email": "lxtran@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

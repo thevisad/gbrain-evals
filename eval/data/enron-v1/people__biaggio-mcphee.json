@@ -1,0 +1,14 @@
+{
+  "slug": "people/biaggio-mcphee",
+  "type": "person",
+  "title": "Biaggio Mcphee",
+  "compiled_truth": "Biaggio Mcphee is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-17 to 2000-06-16), Biaggio Mcphee sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-05-17** | First recorded email in corpus\n- **2000-06-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/biaggio-mcphee",
+    "name": "Biaggio Mcphee",
+    "email": "biaggio.mcphee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

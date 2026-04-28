@@ -1,0 +1,14 @@
+{
+  "slug": "people/henry-means",
+  "type": "person",
+  "title": "Henry Means",
+  "compiled_truth": "Henry Means is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-08 to 2001-12-21), Henry Means sent 20 and received 91 emails, totalling 111 interactions. Top correspondents: [John Ambler](people/john-ambler) (11), [Kelly Kimberly](people/kelly-kimberly) (9), [Johan Zaayman](people/johan-zaayman) (8), [Katrin Haux](people/katrin-haux) (8), [Dennis Vegas](people/dennis-vegas) (8). Mailbox folders observed: aadepartment.",
+  "timeline": "- **2000-02-08** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/henry-means",
+    "name": "Henry Means",
+    "email": "henry.means@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

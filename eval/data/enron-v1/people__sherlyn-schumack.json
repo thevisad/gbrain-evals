@@ -1,0 +1,14 @@
+{
+  "slug": "people/sherlyn-schumack",
+  "type": "person",
+  "title": "Sherlyn Schumack",
+  "compiled_truth": "Sherlyn Schumack is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-10 to 2002-06-21), Sherlyn Schumack sent 19 and received 154 emails, totalling 173 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (10), [J  Farmer](people/j-farmer) (9), [Stacey Neuweiler](people/stacey-neuweiler) (5), [Michael Olsen](people/michael-olsen) (4), [Howard Camp](people/howard-camp) (3). Mailbox folders observed: deleted_items, entex, inbox, logistics.",
+  "timeline": "- **2000-01-10** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sherlyn-schumack",
+    "name": "Sherlyn Schumack",
+    "email": "sherlyn.schumack@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

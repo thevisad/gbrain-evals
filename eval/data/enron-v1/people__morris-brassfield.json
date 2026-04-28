@@ -1,0 +1,14 @@
+{
+  "slug": "people/morris-brassfield",
+  "type": "person",
+  "title": "Morris Brassfield",
+  "compiled_truth": "Morris Brassfield is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-03-21), Morris Brassfield sent 30 and received 167 emails, totalling 197 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (26), [Barney Brasher](people/barney-brasher) (8), [Phil Lowry](people/phil-lowry) (8), [David Clements](people/david-clements) (7), [Elaine Concklin](people/elaine-concklin) (7). Mailbox folders observed: deleted_items, inbox, projects, vacations.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/morris-brassfield",
+    "name": "Morris Brassfield",
+    "email": "morris.brassfield@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

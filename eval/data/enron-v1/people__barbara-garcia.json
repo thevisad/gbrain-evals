@@ -1,0 +1,14 @@
+{
+  "slug": "people/barbara-garcia",
+  "type": "person",
+  "title": "Barbara Garcia",
+  "compiled_truth": "Barbara Garcia is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-09-25), Barbara Garcia sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barbara-garcia",
+    "name": "Barbara Garcia",
+    "email": "barbara.garcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

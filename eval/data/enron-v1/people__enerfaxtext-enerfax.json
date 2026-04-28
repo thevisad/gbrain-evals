@@ -1,0 +1,14 @@
+{
+  "slug": "people/enerfaxtext-enerfax",
+  "type": "person",
+  "title": "Enerfaxtext",
+  "compiled_truth": "Enerfaxtext is an external contact at [Enerfax](companies/enerfax). Over the corpus period (2001-12-30 to 2002-06-25), Enerfaxtext sent 37 and received 0 emails, totalling 37 interactions. Top correspondents: [Judy Townsend](people/judy-townsend) (20), [Vkamins](people/vkamins) (14), [Chris Germany](people/chris-germany) (3).",
+  "timeline": "- **2001-12-30** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/enerfaxtext-enerfax",
+    "name": "Enerfaxtext",
+    "email": "enerfaxtext@enerfax.com",
+    "primary_affiliation": "companies/enerfax"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-swett",
+  "type": "person",
+  "title": "Larry Swett",
+  "compiled_truth": "Larry Swett is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2001-11-21), Larry Swett sent 1 and received 211 emails, totalling 212 interactions. Top correspondents: [Michael Bodnar](people/michael-bodnar) (1), [Kay Threet](people/kay-threet) (1), [Reyna Cabrera](people/reyna-cabrera) (1), [Lynn Blair](people/lynn-blair) (1), [Sue Neville](people/sue-neville) (1). Mailbox folders observed: storage___alloc_process.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-swett",
+    "name": "Larry Swett",
+    "email": "larry.swett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

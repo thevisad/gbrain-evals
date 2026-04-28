@@ -1,0 +1,14 @@
+{
+  "slug": "people/benjamin-markey",
+  "type": "person",
+  "title": "Benjamin Markey",
+  "compiled_truth": "Benjamin Markey is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-30 to 2001-02-23), Benjamin Markey sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **1999-12-30** | First recorded email in corpus\n- **2001-02-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/benjamin-markey",
+    "name": "Benjamin Markey",
+    "email": "benjamin.markey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/nhpark-sk-enron",
+  "type": "person",
+  "title": "Nhpark",
+  "compiled_truth": "Nhpark is an external contact at [Sk-enron](companies/sk-enron). Over the corpus period (2000-11-10 to 2000-11-10), Nhpark sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nhpark-sk-enron",
+    "name": "Nhpark",
+    "email": "nhpark@sk-enron.com",
+    "primary_affiliation": "companies/sk-enron"
+  }
+}

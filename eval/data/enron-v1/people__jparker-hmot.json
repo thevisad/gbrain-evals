@@ -1,0 +1,14 @@
+{
+  "slug": "people/jparker-hmot",
+  "type": "person",
+  "title": "Jparker",
+  "compiled_truth": "Jparker is an external contact at [Hmot](companies/hmot). Over the corpus period (2000-11-21 to 2001-06-22), Jparker sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-11-21** | First recorded email in corpus\n- **2001-06-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jparker-hmot",
+    "name": "Jparker",
+    "email": "jparker@hmot.com",
+    "primary_affiliation": "companies/hmot"
+  }
+}

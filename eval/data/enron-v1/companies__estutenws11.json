@@ -1,0 +1,24 @@
+{
+  "slug": "companies/estutenws11",
+  "type": "company",
+  "title": "Estutenws11",
+  "compiled_truth": "Estutenws11 is an external organization that appears in the Enron email corpus. Domain: estutenws11.com. Total email interactions with Enron: 313. Known contacts: 7 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (313 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/estutenws11",
+    "name": "Estutenws11",
+    "employees": [
+      "people/enl-dailyupdate-txt-estutenws11",
+      "people/enl-members-html-estutenws11",
+      "people/enl-update-html-estutenws11",
+      "people/lyris-confirm-13662e-estutenws11",
+      "people/lyris-confirm-28888j-estutenws11",
+      "people/lyris-estutenws11",
+      "people/nl-dailyupdate-txt-estutenws11"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sofya-tamarchenko",
+  "type": "person",
+  "title": "Sofya Tamarchenko",
+  "compiled_truth": "Sofya Tamarchenko is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-12-31), Sofya Tamarchenko sent 0 and received 68 emails, totalling 68 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sofya-tamarchenko",
+    "name": "Sofya Tamarchenko",
+    "email": "sofya.tamarchenko@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/e-moscoso",
+  "type": "person",
+  "title": "E  Moscoso",
+  "compiled_truth": "E  Moscoso is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-14 to 2002-06-21), E  Moscoso sent 9 and received 67 emails, totalling 76 interactions. Top correspondents: [M  Scott](people/m-scott) (5), [Edward Brady](people/edward-brady) (2), [Jad Doan](people/jad-doan) (2), [George Grant](people/george-grant) (2), [Stephanie Hopkins](people/stephanie-hopkins) (2). Mailbox folders observed: calendar, central, deleted_items, inbox.",
+  "timeline": "- **2001-06-14** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/e-moscoso",
+    "name": "E  Moscoso",
+    "email": "e..moscoso@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

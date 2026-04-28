@@ -1,0 +1,14 @@
+{
+  "slug": "people/pete-davis",
+  "type": "person",
+  "title": "Pete Davis",
+  "compiled_truth": "Pete Davis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2002-02-07), Pete Davis sent 3621 and received 72 emails, totalling 3693 interactions. Top correspondents: [Ryan Slinger](people/ryan-slinger) (3551), [Geir Solberg](people/geir-solberg) (3547), [Mark Guzman](people/mark-guzman) (3547), [Craig Dean](people/craig-dean) (3287), [Bill Williams](people/bill-williams) (2570). Mailbox folders observed: bill_williams_iii, deleted_items, inbox, read, schedule_crawler.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pete-davis",
+    "name": "Pete Davis",
+    "email": "pete.davis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

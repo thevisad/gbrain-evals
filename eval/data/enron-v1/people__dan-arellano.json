@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-arellano",
+  "type": "person",
+  "title": "Dan Arellano",
+  "compiled_truth": "Dan Arellano is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-14 to 2002-02-19), Dan Arellano sent 2 and received 15 emails, totalling 17 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (2), [S  Lim](people/s-lim) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-11-14** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-arellano",
+    "name": "Dan Arellano",
+    "email": "dan.arellano@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

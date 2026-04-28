@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-smith",
+  "type": "person",
+  "title": "Mike Smith",
+  "compiled_truth": "Mike Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-11 to 2002-02-15), Mike Smith sent 73 and received 1028 emails, totalling 1101 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (36), [Vicki Sharp](people/vicki-sharp) (21), [Mday](people/mday-gmssr) (18), [James Keller](people/james-keller) (17), [Peggy Mahoney](people/peggy-mahoney) (14). Mailbox folders observed: california_issues, deleted_items, eesiisopjm, inbox.",
+  "timeline": "- **1999-05-11** | First recorded email in corpus\n- **2002-02-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-smith",
+    "name": "Mike Smith",
+    "email": "mike.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sbs-cpuc",
+  "type": "person",
+  "title": "Sbs",
+  "compiled_truth": "Sbs is an external contact at [Cpuc](companies/cpuc). Over the corpus period (1999-09-24 to 2001-06-05), Sbs sent 1 and received 133 emails, totalling 134 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (1), [Saritas](people/saritas-aol) (1).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sbs-cpuc",
+    "name": "Sbs",
+    "email": "sbs@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

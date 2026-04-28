@@ -1,0 +1,14 @@
+{
+  "slug": "people/zachary-sampson",
+  "type": "person",
+  "title": "Zachary Sampson",
+  "compiled_truth": "Zachary Sampson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-09 to 2001-11-29), Zachary Sampson sent 0 and received 174 emails, totalling 174 interactions.",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zachary-sampson",
+    "name": "Zachary Sampson",
+    "email": "zachary.sampson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

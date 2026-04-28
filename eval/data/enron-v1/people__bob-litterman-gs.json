@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-litterman-gs",
+  "type": "person",
+  "title": "Bob Litterman",
+  "compiled_truth": "Bob Litterman is an external contact at [Gs](companies/gs). Over the corpus period (2001-11-01 to 2001-11-01), Bob Litterman sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-01** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-litterman-gs",
+    "name": "Bob Litterman",
+    "email": "bob.litterman@gs.com",
+    "primary_affiliation": "companies/gs"
+  }
+}

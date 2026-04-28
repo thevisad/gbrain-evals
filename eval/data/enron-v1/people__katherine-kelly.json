@@ -1,0 +1,14 @@
+{
+  "slug": "people/katherine-kelly",
+  "type": "person",
+  "title": "Katherine Kelly",
+  "compiled_truth": "Katherine Kelly is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-05-25), Katherine Kelly sent 4 and received 613 emails, totalling 617 interactions. Top correspondents: [Robert Superty](people/robert-superty) (3), [Chris Germany](people/chris-germany) (2), [George Smith](people/george-smith) (1), [Edward Terry](people/edward-terry) (1), [Tricia Spence](people/tricia-spence) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/katherine-kelly",
+    "name": "Katherine Kelly",
+    "email": "katherine.kelly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

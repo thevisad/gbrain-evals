@@ -1,0 +1,14 @@
+{
+  "slug": "people/charlie-hoang",
+  "type": "person",
+  "title": "Charlie Hoang",
+  "compiled_truth": "Charlie Hoang is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Charlie Hoang sent 4 and received 101 emails, totalling 105 interactions. Top correspondents: [Tana Jones](people/tana-jones) (3), [ Taylor](people/taylor) (2), [Tom Moran](people/tom-moran) (2), [Susan Musch](people/susan-musch) (2), [Jeff Blumenthal](people/jeff-blumenthal) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charlie-hoang",
+    "name": "Charlie Hoang",
+    "email": "charlie.hoang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

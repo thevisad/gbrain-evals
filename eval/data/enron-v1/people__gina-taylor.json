@@ -1,0 +1,14 @@
+{
+  "slug": "people/gina-taylor",
+  "type": "person",
+  "title": "Gina Taylor",
+  "compiled_truth": "Gina Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-26 to 2002-03-25), Gina Taylor sent 20 and received 290 emails, totalling 310 interactions. Top correspondents: [John Ambler](people/john-ambler) (6), [Shelley Corman](people/shelley-corman) (5), [Kevin Hyatt](people/kevin-hyatt) (5), [Rod Hayslett](people/rod-hayslett) (4), [Terri Bachand](people/terri-bachand) (3). Mailbox folders observed: deleted_items, inbox, projects.",
+  "timeline": "- **1999-11-26** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gina-taylor",
+    "name": "Gina Taylor",
+    "email": "gina.taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

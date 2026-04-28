@@ -1,0 +1,14 @@
+{
+  "slug": "people/lynn-bellinghausen",
+  "type": "person",
+  "title": "Lynn Bellinghausen",
+  "compiled_truth": "Lynn Bellinghausen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-09 to 2001-11-27), Lynn Bellinghausen sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **1999-08-09** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lynn-bellinghausen",
+    "name": "Lynn Bellinghausen",
+    "email": "lynn.bellinghausen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

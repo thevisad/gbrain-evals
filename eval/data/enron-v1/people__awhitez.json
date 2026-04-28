@@ -1,0 +1,14 @@
+{
+  "slug": "people/awhitez",
+  "type": "person",
+  "title": "Awhitez",
+  "compiled_truth": "Awhitez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-17 to 2000-07-17), Awhitez sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/awhitez",
+    "name": "Awhitez",
+    "email": "awhitez@ect.enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

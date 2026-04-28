@@ -1,0 +1,14 @@
+{
+  "slug": "people/pam-butler",
+  "type": "person",
+  "title": "Pam Butler",
+  "compiled_truth": "Pam Butler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-20 to 2002-05-06), Pam Butler sent 17 and received 84 emails, totalling 101 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (9), [Mary Joyce](people/mary-joyce) (8), [Scott Neal](people/scott-neal) (2), [A  Martin](people/a-martin) (2), [Rick Buy](people/rick-buy) (2). Mailbox folders observed: calendar, deleted_items, inbox, sent_items.",
+  "timeline": "- **2000-04-20** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pam-butler",
+    "name": "Pam Butler",
+    "email": "pam.butler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

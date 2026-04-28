@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-elliott",
+  "type": "person",
+  "title": "Steve Elliott",
+  "compiled_truth": "Steve Elliott is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-23 to 2001-11-13), Steve Elliott sent 0 and received 85 emails, totalling 85 interactions.",
+  "timeline": "- **1999-12-23** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-elliott",
+    "name": "Steve Elliott",
+    "email": "steve.elliott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/joyce-dorsey",
+  "type": "person",
+  "title": "Joyce Dorsey",
+  "compiled_truth": "Joyce Dorsey is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-02-09 to 2002-05-06), Joyce Dorsey sent 12 and received 76 emails, totalling 88 interactions. Top correspondents: [Gareth Bahlmann](people/gareth-bahlmann) (6), [Brenda Funk](people/brenda-funk) (5), [Clement Abrams](people/clement-abrams) (4), [Rex Rogers](people/rex-rogers) (4), [Mark Taylor](people/mark-taylor) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-02-09** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joyce-dorsey",
+    "name": "Joyce Dorsey",
+    "email": "joyce.dorsey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ghh-telcordia",
+  "type": "person",
+  "title": "Ghh",
+  "compiled_truth": "Ghh is an external contact at [Telcordia](companies/telcordia). Over the corpus period (2000-03-22 to 2001-12-13), Ghh sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2000-03-22** | First recorded email in corpus\n- **2001-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ghh-telcordia",
+    "name": "Ghh",
+    "email": "ghh@telcordia.com",
+    "primary_affiliation": "companies/telcordia"
+  }
+}

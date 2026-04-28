@@ -1,0 +1,14 @@
+{
+  "slug": "people/judy-hernandez",
+  "type": "person",
+  "title": "Judy Hernandez",
+  "compiled_truth": "Judy Hernandez is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-11-27), Judy Hernandez sent 444 and received 341 emails, totalling 785 interactions. Top correspondents: [Leslie Smith](people/leslie-smith) (152), [Suhernan](people/suhernan-llgm) (152), [Angela Barnett](people/angela-barnett) (126), [Regina Blackshear](people/regina-blackshear) (120), [Dora Thurmond](people/dora-thurmond-uniteddc) (118). Mailbox folders observed: _sent_mail, sent.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/judy-hernandez",
+    "name": "Judy Hernandez",
+    "email": "judy.hernandez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

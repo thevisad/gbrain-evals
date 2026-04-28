@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-haden",
+  "type": "person",
+  "title": "James Haden",
+  "compiled_truth": "James Haden is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-01), James Haden sent 0 and received 57 emails, totalling 57 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-haden",
+    "name": "James Haden",
+    "email": "james.haden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

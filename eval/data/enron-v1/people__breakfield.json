@@ -1,0 +1,14 @@
+{
+  "slug": "people/breakfield",
+  "type": "person",
+  "title": "Breakfield",
+  "compiled_truth": "Breakfield is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-08 to 2002-01-21), Breakfield sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-01-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/breakfield",
+    "name": "Breakfield",
+    "email": "breakfield@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

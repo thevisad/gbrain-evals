@@ -1,0 +1,14 @@
+{
+  "slug": "people/simon-judy",
+  "type": "person",
+  "title": "Simon Judy",
+  "compiled_truth": "Simon Judy is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-08 to 2002-03-14), Simon Judy sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/simon-judy",
+    "name": "Simon Judy",
+    "email": "simon.judy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

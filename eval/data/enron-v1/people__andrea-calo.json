@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrea-calo",
+  "type": "person",
+  "title": "Andrea Calo",
+  "compiled_truth": "Andrea Calo is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-12-22 to 2001-12-18), Andrea Calo sent 22 and received 550 emails, totalling 572 interactions. Top correspondents: [Michael Guerriero](people/michael-guerriero) (5), [Tana Jones](people/tana-jones) (4), [Brent Hendry](people/brent-hendry) (3), [Mtaylo1](people/mtaylo1) (2), [Mark Haedicke](people/mark-haedicke) (1). Mailbox folders observed: bastos, deleted_items.",
+  "timeline": "- **1998-12-22** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrea-calo",
+    "name": "Andrea Calo",
+    "email": "andrea.calo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

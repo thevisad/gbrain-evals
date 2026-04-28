@@ -1,0 +1,14 @@
+{
+  "slug": "people/carley-craig",
+  "type": "person",
+  "title": "Carley Craig",
+  "compiled_truth": "Carley Craig is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-17 to 2001-09-18), Carley Craig sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carley-craig",
+    "name": "Carley Craig",
+    "email": "carley.craig@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

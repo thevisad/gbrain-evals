@@ -1,0 +1,14 @@
+{
+  "slug": "people/dortha-gray",
+  "type": "person",
+  "title": "Dortha Gray",
+  "compiled_truth": "Dortha Gray is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-03 to 2002-01-15), Dortha Gray sent 6 and received 74 emails, totalling 80 interactions. Top correspondents: [Sharron Westbrook](people/sharron-westbrook) (3), [Kent Castleman](people/kent-castleman) (2), [Fernley Dyson](people/fernley-dyson) (2), [Rod Hayslett](people/rod-hayslett) (2), [Greek Rice](people/greek-rice) (2). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **1999-08-03** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dortha-gray",
+    "name": "Dortha Gray",
+    "email": "dortha.gray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

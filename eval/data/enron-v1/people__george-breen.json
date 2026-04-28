@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-breen",
+  "type": "person",
+  "title": "George Breen",
+  "compiled_truth": "George Breen is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2001-10-12), George Breen sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-breen",
+    "name": "George Breen",
+    "email": "george.breen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

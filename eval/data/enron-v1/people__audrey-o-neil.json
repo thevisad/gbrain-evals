@@ -1,0 +1,14 @@
+{
+  "slug": "people/audrey-o-neil",
+  "type": "person",
+  "title": "Audrey O'Neil",
+  "compiled_truth": "Audrey O'Neil is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-30 to 2001-08-22), Audrey O'Neil sent 10 and received 53 emails, totalling 63 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (10), [Scott Josey](people/scott-josey) (2), [Arvel Martin](people/arvel-martin) (2), [Mark Whitt](people/mark-whitt) (2), [Kckrisa](people/kckrisa-apex2000) (2).",
+  "timeline": "- **2000-08-30** | First recorded email in corpus\n- **2001-08-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/audrey-o-neil",
+    "name": "Audrey O'Neil",
+    "email": "audrey.o'neil@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

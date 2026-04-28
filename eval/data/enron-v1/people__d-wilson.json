@@ -1,0 +1,14 @@
+{
+  "slug": "people/d-wilson",
+  "type": "person",
+  "title": "D  Wilson",
+  "compiled_truth": "D  Wilson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-12 to 2001-12-17), D  Wilson sent 2 and received 32 emails, totalling 34 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (2), [David Owen](people/david-owen) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-07-12** | First recorded email in corpus\n- **2001-12-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d-wilson",
+    "name": "D  Wilson",
+    "email": "d..wilson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

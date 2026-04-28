@@ -1,0 +1,14 @@
+{
+  "slug": "people/george",
+  "type": "person",
+  "title": " George",
+  "compiled_truth": "George is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-14 to 2002-03-07),  George sent 1 and received 22 emails, totalling 23 interactions. Top correspondents: [Mark Haedicke](people/mark-haedicke) (1), [Lance Schuler](people/lance-schuler) (1), [Steve Irvin](people/steve-irvin) (1), [Don Miller](people/don-miller) (1), [David Gorte](people/david-gorte) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-05-14** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george",
+    "name": " George",
+    "email": ".george@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

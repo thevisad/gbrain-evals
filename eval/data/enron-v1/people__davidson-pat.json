@@ -1,0 +1,14 @@
+{
+  "slug": "people/davidson-pat",
+  "type": "person",
+  "title": "Davidson Pat",
+  "compiled_truth": "Davidson Pat is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-17 to 2001-09-18), Davidson Pat sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/davidson-pat",
+    "name": "Davidson Pat",
+    "email": "davidson.pat@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

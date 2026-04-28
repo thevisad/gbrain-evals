@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-jackson",
+  "type": "person",
+  "title": "Steve Jackson",
+  "compiled_truth": "Steve Jackson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-12 to 2000-12-10), Steve Jackson sent 3 and received 159 emails, totalling 162 interactions. Top correspondents: [Chris Germany](people/chris-germany) (2), [Patti Thompson](people/patti-thompson) (1), [Sally Beck](people/sally-beck) (1).",
+  "timeline": "- **2000-01-12** | First recorded email in corpus\n- **2000-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-jackson",
+    "name": "Steve Jackson",
+    "email": "steve.jackson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

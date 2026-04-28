@@ -1,0 +1,14 @@
+{
+  "slug": "people/mar-toe-att",
+  "type": "person",
+  "title": "Mar Toe",
+  "compiled_truth": "Mar Toe is an external contact at [Att](companies/att). Over the corpus period (1999-11-22 to 2001-01-26), Mar Toe sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-01-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mar-toe-att",
+    "name": "Mar Toe",
+    "email": "mar.toe@att.net",
+    "primary_affiliation": "companies/att"
+  }
+}

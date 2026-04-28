@@ -1,0 +1,14 @@
+{
+  "slug": "people/charles-yeung",
+  "type": "person",
+  "title": "Charles Yeung",
+  "compiled_truth": "Charles Yeung is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-14), Charles Yeung sent 89 and received 483 emails, totalling 572 interactions. Top correspondents: [Sarah Novosel](people/sarah-novosel) (47), [D  Steffes](people/d-steffes) (46), [Richard Shapiro](people/richard-shapiro) (43), [Andy Rodriquez](people/andy-rodriquez) (42), [Jose Bestard](people/jose-bestard) (35). Mailbox folders observed: deleted_items, inbox, nerc, power.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charles-yeung",
+    "name": "Charles Yeung",
+    "email": "charles.yeung@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

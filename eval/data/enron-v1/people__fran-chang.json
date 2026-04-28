@@ -1,0 +1,14 @@
+{
+  "slug": "people/fran-chang",
+  "type": "person",
+  "title": "Fran Chang",
+  "compiled_truth": "Fran Chang is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-19), Fran Chang sent 121 and received 511 emails, totalling 632 interactions. Top correspondents: [John Postlethwaite](people/john-postlethwaite) (79), [Samantha Law](people/samantha-law) (77), [Heather Dunton](people/heather-dunton) (76), [W  White](people/w-white) (70), [Nicholas Warner](people/nicholas-warner) (64). Mailbox folders observed: _americas, bill_williams_iii, credit, deleted_items, inbox, read.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fran-chang",
+    "name": "Fran Chang",
+    "email": "fran.chang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

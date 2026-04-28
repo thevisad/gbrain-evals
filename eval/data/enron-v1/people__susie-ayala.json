@@ -1,0 +1,14 @@
+{
+  "slug": "people/susie-ayala",
+  "type": "person",
+  "title": "Susie Ayala",
+  "compiled_truth": "Susie Ayala is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-02-05), Susie Ayala sent 5 and received 85 emails, totalling 90 interactions. Top correspondents: [M  Love](people/m-love) (3), [Scott Palmer](people/scott-palmer) (2), [Kam Keiser](people/kam-keiser) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susie-ayala",
+    "name": "Susie Ayala",
+    "email": "susie.ayala@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

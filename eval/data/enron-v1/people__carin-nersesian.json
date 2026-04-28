@@ -1,0 +1,14 @@
+{
+  "slug": "people/carin-nersesian",
+  "type": "person",
+  "title": "Carin Nersesian",
+  "compiled_truth": "Carin Nersesian is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-27 to 2002-01-11), Carin Nersesian sent 7 and received 378 emails, totalling 385 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (4), [Linda Robertson](people/linda-robertson) (4), [Lora Sullivan](people/lora-sullivan) (4), [Alan Comnes](people/alan-comnes) (4), [Steven Kean](people/steven-kean) (3). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-03-27** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carin-nersesian",
+    "name": "Carin Nersesian",
+    "email": "carin.nersesian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

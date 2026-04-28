@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-harrison",
+  "type": "person",
+  "title": "John Harrison",
+  "compiled_truth": "John Harrison is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-04 to 2001-05-11), John Harrison sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-01-04** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-harrison",
+    "name": "John Harrison",
+    "email": "john.harrison@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

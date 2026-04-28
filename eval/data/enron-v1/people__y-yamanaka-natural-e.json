@@ -1,0 +1,14 @@
+{
+  "slug": "people/y-yamanaka-natural-e",
+  "type": "person",
+  "title": "Y-Yamanaka",
+  "compiled_truth": "Y-Yamanaka is an external contact at [Natural-e](companies/natural-e). Over the corpus period (2001-07-25 to 2001-07-25), Y-Yamanaka sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/y-yamanaka-natural-e",
+    "name": "Y-Yamanaka",
+    "email": "y-yamanaka@natural-e.co.jp",
+    "primary_affiliation": "companies/natural-e"
+  }
+}

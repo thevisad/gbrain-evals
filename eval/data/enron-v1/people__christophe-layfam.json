@@ -1,0 +1,14 @@
+{
+  "slug": "people/christophe-layfam",
+  "type": "person",
+  "title": "Christophe",
+  "compiled_truth": "Christophe is an external contact at [Layfam](companies/layfam). Over the corpus period (2001-09-23 to 2001-12-12), Christophe sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-09-23** | First recorded email in corpus\n- **2001-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christophe-layfam",
+    "name": "Christophe",
+    "email": "christophe@layfam.com",
+    "primary_affiliation": "companies/layfam"
+  }
+}

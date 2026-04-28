@@ -1,0 +1,14 @@
+{
+  "slug": "people/bonnie-nelson",
+  "type": "person",
+  "title": "Bonnie Nelson",
+  "compiled_truth": "Bonnie Nelson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2001-12-21), Bonnie Nelson sent 2 and received 49 emails, totalling 51 interactions. Top correspondents: [Stinson Gibner](people/stinson-gibner) (2), [Vince Kaminski](people/vince-kaminski) (2), [Sandeep Kohli](people/sandeep-kohli) (2), [Bruce Lundstrom](people/bruce-lundstrom) (1), [Lauren Hagerty](people/lauren-hagerty) (1).",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bonnie-nelson",
+    "name": "Bonnie Nelson",
+    "email": "bonnie.nelson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

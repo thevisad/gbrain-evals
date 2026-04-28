@@ -1,0 +1,14 @@
+{
+  "slug": "people/luiz-maurer",
+  "type": "person",
+  "title": "Luiz Maurer",
+  "compiled_truth": "Luiz Maurer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-03 to 2001-12-03), Luiz Maurer sent 65 and received 359 emails, totalling 424 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (34), [D  Steffes](people/d-steffes) (27), [L  Nicolay](people/l-nicolay) (17), [Sergio Assad](people/sergio-assad) (12), [Jose Bestard](people/jose-bestard) (11). Mailbox folders observed: annex_5, deleted_items, inbox, rto, southern_cone, texas.",
+  "timeline": "- **1999-08-03** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/luiz-maurer",
+    "name": "Luiz Maurer",
+    "email": "luiz.maurer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

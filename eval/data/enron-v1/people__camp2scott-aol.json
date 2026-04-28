@@ -1,0 +1,14 @@
+{
+  "slug": "people/camp2scott-aol",
+  "type": "person",
+  "title": "Camp2Scott",
+  "compiled_truth": "Camp2Scott is an external contact at [AOL](companies/aol). Over the corpus period (1999-12-13 to 2000-12-07), Camp2Scott sent 11 and received 36 emails, totalling 47 interactions. Top correspondents: [Susan Scott](people/susan-scott) (11), [Kss](people/kss-overlandpartners) (3), [Fbcat](people/fbcat-aol) (1).",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2000-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/camp2scott-aol",
+    "name": "Camp2Scott",
+    "email": "camp2scott@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

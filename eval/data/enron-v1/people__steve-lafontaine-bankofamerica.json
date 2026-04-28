@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-lafontaine-bankofamerica",
+  "type": "person",
+  "title": "Steve Lafontaine",
+  "compiled_truth": "Steve Lafontaine is an external contact at [Bankofamerica](companies/bankofamerica). Over the corpus period (2001-05-04 to 2001-12-11), Steve Lafontaine sent 8 and received 21 emails, totalling 29 interactions. Top correspondents: [Jarnold](people/jarnold) (5), [John Arnold](people/john-arnold) (3), [Lafontaine](people/lafontaine) (1).",
+  "timeline": "- **2001-05-04** | First recorded email in corpus\n- **2001-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-lafontaine-bankofamerica",
+    "name": "Steve Lafontaine",
+    "email": "steve.lafontaine@bankofamerica.com",
+    "primary_affiliation": "companies/bankofamerica"
+  }
+}

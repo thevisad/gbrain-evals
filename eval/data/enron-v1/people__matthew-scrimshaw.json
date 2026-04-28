@@ -1,0 +1,14 @@
+{
+  "slug": "people/matthew-scrimshaw",
+  "type": "person",
+  "title": "Matthew Scrimshaw",
+  "compiled_truth": "Matthew Scrimshaw is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2001-11-29), Matthew Scrimshaw sent 6 and received 148 emails, totalling 154 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (2), [Jeff Skilling](people/jeff-skilling) (2), [Rich Dimichele](people/rich-dimichele) (1), [Jim Fallon](people/jim-fallon) (1), [E  Haedicke](people/e-haedicke) (1). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matthew-scrimshaw",
+    "name": "Matthew Scrimshaw",
+    "email": "matthew.scrimshaw@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

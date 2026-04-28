@@ -1,0 +1,14 @@
+{
+  "slug": "people/martha-cormier",
+  "type": "person",
+  "title": "Martha Cormier",
+  "compiled_truth": "Martha Cormier is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-09 to 2001-10-09), Martha Cormier sent 1 and received 104 emails, totalling 105 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-09** | First recorded email in corpus\n- **2001-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martha-cormier",
+    "name": "Martha Cormier",
+    "email": "martha.cormier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

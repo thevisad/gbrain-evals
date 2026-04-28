@@ -1,0 +1,30 @@
+{
+  "slug": "threads/enron-2000-09",
+  "type": "meeting",
+  "title": "Thread: Enron",
+  "compiled_truth": "Email thread: \"Enron\". Ran from 2000-09-05 to 2000-09-28 with 10 messages. Participants: [Aduncan](people/aduncan-kilstock), [Ccoburn](people/ccoburn-kc), [Heather Kroll](people/heather-kroll), [Jeffrey M Keenan](people/jeffrey-m-keenan), [Jfine](people/jfine-kilstock), [Johnt](people/johnt-austinventures), [Jskilli](people/jskilli), [Kay Mann](people/kay-mann).",
+  "timeline": "- **2000-09-05** | Thread begins: enron\n- **2000-09-28** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-2000-09",
+    "attendees": [
+      "people/aduncan-kilstock",
+      "people/ccoburn-kc",
+      "people/heather-kroll",
+      "people/jeffrey-m-keenan",
+      "people/jfine-kilstock",
+      "people/johnt-austinventures",
+      "people/jskilli",
+      "people/kay-mann",
+      "people/mike-mcconnell",
+      "people/minnich-imarkets",
+      "people/nwodka-bracepatt",
+      "people/philippe-bibi",
+      "people/reagan-rorschach",
+      "people/sara-shackleton",
+      "people/sherri-sera",
+      "people/tom-chapman"
+    ],
+    "date": "2000-09-05"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-scott",
+  "type": "person",
+  "title": "M  Scott",
+  "compiled_truth": "M  Scott is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-27 to 2002-05-22), M  Scott sent 552 and received 370 emails, totalling 922 interactions. Top correspondents: [Lisa Gillette](people/lisa-gillette) (54), [Ehillegeist](people/ehillegeist-hotmail) (51), [Moshuffle](people/moshuffle-hotmail) (37), [Monique Sanchez](people/monique-sanchez) (36), [Celeahy](people/celeahy-hotmail) (28). Mailbox folders observed: contacts, deleted_items, inbox, personal, sent_items.",
+  "timeline": "- **2001-04-27** | First recorded email in corpus\n- **2002-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-scott",
+    "name": "M  Scott",
+    "email": "m..scott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

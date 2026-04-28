@@ -1,0 +1,14 @@
+{
+  "slug": "people/chauncy-hood",
+  "type": "person",
+  "title": "Chauncy Hood",
+  "compiled_truth": "Chauncy Hood is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-05 to 1999-11-05), Chauncy Hood sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **1999-11-05** | First recorded email in corpus\n- **1999-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chauncy-hood",
+    "name": "Chauncy Hood",
+    "email": "chauncy.hood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

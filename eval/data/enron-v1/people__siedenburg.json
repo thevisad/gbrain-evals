@@ -1,0 +1,14 @@
+{
+  "slug": "people/siedenburg",
+  "type": "person",
+  "title": "Siedenburg",
+  "compiled_truth": "Siedenburg is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-19 to 2001-10-19), Siedenburg sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-19** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/siedenburg",
+    "name": "Siedenburg",
+    "email": "siedenburg@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

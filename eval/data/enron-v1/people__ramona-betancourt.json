@@ -1,0 +1,14 @@
+{
+  "slug": "people/ramona-betancourt",
+  "type": "person",
+  "title": "Ramona Betancourt",
+  "compiled_truth": "Ramona Betancourt is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-29 to 2002-03-25), Ramona Betancourt sent 40 and received 280 emails, totalling 320 interactions. Top correspondents: [Lindy Donoho](people/lindy-donoho) (22), [Darrell Schoolcraft](people/darrell-schoolcraft) (20), [Linda Trevino](people/linda-trevino) (17), [Tk Lohman](people/tk-lohman) (15), [Lynn Blair](people/lynn-blair) (12). Mailbox folders observed: cas, deleted_items, inbox, tw___socal_window_procedure, tw___transactional_requirements, tw_commercial_group.",
+  "timeline": "- **2000-03-29** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ramona-betancourt",
+    "name": "Ramona Betancourt",
+    "email": "ramona.betancourt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

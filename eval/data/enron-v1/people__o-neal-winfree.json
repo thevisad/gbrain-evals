@@ -1,0 +1,14 @@
+{
+  "slug": "people/o-neal-winfree",
+  "type": "person",
+  "title": "O'Neal Winfree",
+  "compiled_truth": "O'Neal Winfree is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-05-25), O'Neal Winfree sent 5 and received 689 emails, totalling 694 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (3), [Julie Meyers](people/julie-meyers) (2), [Eric Bass](people/eric-bass) (1), [Tom Acton](people/tom-acton) (1), [Carlos Rodriguez](people/carlos-rodriguez) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-05-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/o-neal-winfree",
+    "name": "O'Neal Winfree",
+    "email": "o'neal.winfree@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

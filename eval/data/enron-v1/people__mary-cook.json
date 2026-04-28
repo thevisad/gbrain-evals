@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-cook",
+  "type": "person",
+  "title": "Mary Cook",
+  "compiled_truth": "Mary Cook is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-14), Mary Cook sent 423 and received 1997 emails, totalling 2420 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (203), [Tana Jones](people/tana-jones) (156), [Mark Taylor](people/mark-taylor) (107), [Marie Heard](people/marie-heard) (79), [Brent Hendry](people/brent-hendry) (75). Mailbox folders observed: _americas, archive, deleted_items, elizabeth_sager, inbox, kcs.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-cook",
+    "name": "Mary Cook",
+    "email": "mary.cook@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

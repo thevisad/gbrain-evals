@@ -1,0 +1,14 @@
+{
+  "slug": "people/donald-lassere",
+  "type": "person",
+  "title": "Donald Lassere",
+  "compiled_truth": "Donald Lassere is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-03), Donald Lassere sent 10 and received 533 emails, totalling 543 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (8), [Sue Nord](people/sue-nord) (5), [Scott Bolton](people/scott-bolton) (4), [Marchris Robinson](people/marchris-robinson) (3), [Lara Leibman](people/lara-leibman) (3). Mailbox folders observed: 2001_objectives.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donald-lassere",
+    "name": "Donald Lassere",
+    "email": "donald.lassere@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

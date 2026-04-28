@@ -1,0 +1,24 @@
+{
+  "slug": "threads/tomorrow-2001-11",
+  "type": "meeting",
+  "title": "Thread: Tomorrow",
+  "compiled_truth": "Email thread: \"Tomorrow\". Ran from 2001-11-20 to 2001-12-20 with 9 messages. Participants: [Brapp](people/brapp), [David Allan](people/david-allan), [E Taylor](people/e-taylor), [Elizabeth Sager](people/elizabeth-sager), [John Massey](people/john-massey), [Monika Causholli](people/monika-causholli), [Mydesi](people/mydesi-hotmail), [Pamela Daily](people/pamela-daily).",
+  "timeline": "- **2001-11-20** | Thread begins: tomorrow\n- **2001-12-20** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/tomorrow-2001-11",
+    "attendees": [
+      "people/brapp",
+      "people/david-allan",
+      "people/e-taylor",
+      "people/elizabeth-sager",
+      "people/john-massey",
+      "people/monika-causholli",
+      "people/mydesi-hotmail",
+      "people/pamela-daily",
+      "people/rod-hayslett",
+      "people/sgussett-reliant"
+    ],
+    "date": "2001-11-20"
+  }
+}

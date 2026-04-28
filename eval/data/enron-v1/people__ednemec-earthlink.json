@@ -1,0 +1,14 @@
+{
+  "slug": "people/ednemec-earthlink",
+  "type": "person",
+  "title": "Ednemec",
+  "compiled_truth": "Ednemec is an external contact at [Earthlink](companies/earthlink). Over the corpus period (2000-01-21 to 2001-09-17), Ednemec sent 10 and received 25 emails, totalling 35 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (10), [Cindus](people/cindus-aol) (2), [Willsharonsnyder](people/willsharonsnyder-aol) (2), [Pnemec](people/pnemec-msn) (2), [Ssnyder](people/ssnyder-shelton) (1).",
+  "timeline": "- **2000-01-21** | First recorded email in corpus\n- **2001-09-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ednemec-earthlink",
+    "name": "Ednemec",
+    "email": "ednemec@earthlink.net",
+    "primary_affiliation": "companies/earthlink"
+  }
+}

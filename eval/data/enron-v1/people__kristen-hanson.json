@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristen-hanson",
+  "type": "person",
+  "title": "Kristen Hanson",
+  "compiled_truth": "Kristen Hanson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-24 to 2001-06-11), Kristen Hanson sent 5 and received 178 emails, totalling 183 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (4), [Lisa Csikos](people/lisa-csikos) (2), [Sally Beck](people/sally-beck) (1), [Ami Chokshi](people/ami-chokshi) (1), [Dan Hyvl](people/dan-hyvl) (1).",
+  "timeline": "- **1999-05-24** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristen-hanson",
+    "name": "Kristen Hanson",
+    "email": "kristen.hanson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

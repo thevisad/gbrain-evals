@@ -1,0 +1,14 @@
+{
+  "slug": "people/jorge-cruz",
+  "type": "person",
+  "title": "Jorge Cruz",
+  "compiled_truth": "Jorge Cruz is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-12 to 2001-11-12), Jorge Cruz sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-12** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jorge-cruz",
+    "name": "Jorge Cruz",
+    "email": "jorge.cruz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristen-jurgens",
+  "type": "person",
+  "title": "Kristen Jurgens",
+  "compiled_truth": "Kristen Jurgens is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-08 to 2001-12-07), Kristen Jurgens sent 5 and received 6 emails, totalling 11 interactions. Top correspondents: [Mark Whitt](people/mark-whitt) (5), [Brian Bierbach](people/brian-bierbach) (4), [Heidi Dubose](people/heidi-dubose) (4), [Don Baldridge](people/don-baldridge) (3), [Brian Bawden](people/brian-bawden) (3). Mailbox folders observed: crestone, deleted_items, inbox.",
+  "timeline": "- **2001-10-08** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristen-jurgens",
+    "name": "Kristen Jurgens",
+    "email": "kristen.jurgens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jadams-hunton",
+  "type": "person",
+  "title": "Jadams",
+  "compiled_truth": "Jadams is an external contact at [Hunton](companies/hunton). Over the corpus period (2001-11-27 to 2001-11-27), Jadams sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-27** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jadams-hunton",
+    "name": "Jadams",
+    "email": "jadams@hunton.com",
+    "primary_affiliation": "companies/hunton"
+  }
+}

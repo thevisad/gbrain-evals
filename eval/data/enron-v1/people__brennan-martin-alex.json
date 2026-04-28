@@ -1,0 +1,14 @@
+{
+  "slug": "people/brennan-martin-alex",
+  "type": "person",
+  "title": "Brennan-Martin Alex",
+  "compiled_truth": "Brennan-Martin Alex is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-17 to 2001-08-20), Brennan-Martin Alex sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-07-17** | First recorded email in corpus\n- **2001-08-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brennan-martin-alex",
+    "name": "Brennan-Martin Alex",
+    "email": "brennan-martin.alex@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

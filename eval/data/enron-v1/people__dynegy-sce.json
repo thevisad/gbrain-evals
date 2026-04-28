@@ -1,0 +1,14 @@
+{
+  "slug": "people/dynegy-sce",
+  "type": "person",
+  "title": "Dynegy",
+  "compiled_truth": "Dynegy is an external contact at [Sce](companies/sce). Over the corpus period (2000-12-11 to 2000-12-13), Dynegy sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-12-11** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dynegy-sce",
+    "name": "Dynegy",
+    "email": "dynegy@sce.com",
+    "primary_affiliation": "companies/sce"
+  }
+}

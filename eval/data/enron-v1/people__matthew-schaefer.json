@@ -1,0 +1,14 @@
+{
+  "slug": "people/matthew-schaefer",
+  "type": "person",
+  "title": "Matthew Schaefer",
+  "compiled_truth": "Matthew Schaefer is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-01 to 2002-02-05), Matthew Schaefer sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-02-01** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matthew-schaefer",
+    "name": "Matthew Schaefer",
+    "email": "matthew.schaefer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

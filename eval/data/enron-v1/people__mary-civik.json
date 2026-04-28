@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-civik",
+  "type": "person",
+  "title": "Mary Civik",
+  "compiled_truth": "Mary Civik is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-10-26), Mary Civik sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-civik",
+    "name": "Mary Civik",
+    "email": "mary.civik@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

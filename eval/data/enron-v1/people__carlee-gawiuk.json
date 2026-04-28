@@ -1,0 +1,14 @@
+{
+  "slug": "people/carlee-gawiuk",
+  "type": "person",
+  "title": "Carlee Gawiuk",
+  "compiled_truth": "Carlee Gawiuk is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-09 to 2002-02-04), Carlee Gawiuk sent 2 and received 19 emails, totalling 21 interactions. Top correspondents: [Chad Clark](people/chad-clark) (2), [Ryan Watt](people/ryan-watt) (2), [Carlos Torres](people/carlos-torres) (2), [Ian Cooke](people/ian-cooke) (2), [Fabian Taylor](people/fabian-taylor) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-03-09** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carlee-gawiuk",
+    "name": "Carlee Gawiuk",
+    "email": "carlee.gawiuk@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

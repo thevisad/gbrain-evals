@@ -1,0 +1,21 @@
+{
+  "slug": "threads/tonight-2000-08",
+  "type": "meeting",
+  "title": "Thread: Tonight",
+  "compiled_truth": "Email thread: \"Tonight\". Ran from 2000-08-25 to 2000-09-14 with 15 messages. Participants: [Jdasovic](people/jdasovic), [Jeff Dasovich](people/jeff-dasovich), [Mark Taylor](people/mark-taylor), [Matthew Lenhart](people/matthew-lenhart), [Psellers](people/psellers-haas), [Shelliott](people/shelliott-dttus), [Ted Bockius](people/ted-bockius-ivita).",
+  "timeline": "- **2000-08-25** | Thread begins: tonight\n- **2000-09-14** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/tonight-2000-08",
+    "attendees": [
+      "people/jdasovic",
+      "people/jeff-dasovich",
+      "people/mark-taylor",
+      "people/matthew-lenhart",
+      "people/psellers-haas",
+      "people/shelliott-dttus",
+      "people/ted-bockius-ivita"
+    ],
+    "date": "2000-08-25"
+  }
+}

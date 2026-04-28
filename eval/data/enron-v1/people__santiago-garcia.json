@@ -1,0 +1,14 @@
+{
+  "slug": "people/santiago-garcia",
+  "type": "person",
+  "title": "Santiago Garcia",
+  "compiled_truth": "Santiago Garcia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-25), Santiago Garcia sent 8 and received 81 emails, totalling 89 interactions. Top correspondents: [Dutch Quigley](people/dutch-quigley) (2), [Louis Dicarlo](people/louis-dicarlo) (2), [Charles Weldon](people/charles-weldon) (2), [John Griffith](people/john-griffith) (1), [Errol Mclaughlin](people/errol-mclaughlin) (1). Mailbox folders observed: austin_energy, deleted_items, kcs, market, misc__gas_issues.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/santiago-garcia",
+    "name": "Santiago Garcia",
+    "email": "santiago.garcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

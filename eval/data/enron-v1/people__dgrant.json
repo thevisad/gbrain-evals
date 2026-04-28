@@ -1,0 +1,14 @@
+{
+  "slug": "people/dgrant",
+  "type": "person",
+  "title": "Dgrant",
+  "compiled_truth": "Dgrant is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-05-09), Dgrant sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dgrant",
+    "name": "Dgrant",
+    "email": "dgrant@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

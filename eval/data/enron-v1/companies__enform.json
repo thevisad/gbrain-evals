@@ -1,0 +1,37 @@
+{
+  "slug": "companies/enform",
+  "type": "company",
+  "title": "Enform",
+  "compiled_truth": "Enform is an external organization that appears in the Enron email corpus. Domain: enform.com. Total email interactions with Enron: 343. Known contacts: 20 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (343 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/enform",
+    "name": "Enform",
+    "employees": [
+      "people/allan-elliott-enform",
+      "people/ashley-landry-enform",
+      "people/beth-cherry-enform",
+      "people/christopher-paxton-enform",
+      "people/doug-wendler-enform",
+      "people/fred-lindner-enform",
+      "people/heather-koch-enform",
+      "people/john-dunn-enform",
+      "people/kevin-gradney-enform",
+      "people/kristen-oland-enform",
+      "people/matt-boone-enform",
+      "people/matt-cleveland-enform",
+      "people/matt-sample-enform",
+      "people/michael-cherry-enform",
+      "people/mike-neustadt-enform",
+      "people/misty-robinson-enform",
+      "people/neil-enform",
+      "people/rachel-thames-enform",
+      "people/sameer-soleja-enform",
+      "people/travis-cherry-enform"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jackie-gentle",
+  "type": "person",
+  "title": "Jackie Gentle",
+  "compiled_truth": "Jackie Gentle is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2001-12-21), Jackie Gentle sent 6 and received 205 emails, totalling 211 interactions. Top correspondents: [J  Kean](people/j-kean) (3), [Steven Kean](people/steven-kean) (2), [Mark Palmer](people/mark-palmer) (1), [Maureen Mcvicker](people/maureen-mcvicker) (1), [ Palmer](people/palmer) (1). Mailbox folders observed: deleted_items, dynegy_transaction, pr___notre_dame.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jackie-gentle",
+    "name": "Jackie Gentle",
+    "email": "jackie.gentle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

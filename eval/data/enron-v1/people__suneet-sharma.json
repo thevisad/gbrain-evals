@@ -1,0 +1,14 @@
+{
+  "slug": "people/suneet-sharma",
+  "type": "person",
+  "title": "Suneet Sharma",
+  "compiled_truth": "Suneet Sharma is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-24 to 2001-10-22), Suneet Sharma sent 4 and received 49 emails, totalling 53 interactions. Top correspondents: [Power Crm](people/power-crm) (2), [Doug Gilbert-Smith](people/doug-gilbert-smith) (2), [Fletcher Sturm](people/fletcher-sturm) (2), [Mark Davis](people/mark-davis) (2), [Tom May](people/tom-may) (2). Mailbox folders observed: personalfolder.",
+  "timeline": "- **2000-03-24** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suneet-sharma",
+    "name": "Suneet Sharma",
+    "email": "suneet.sharma@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

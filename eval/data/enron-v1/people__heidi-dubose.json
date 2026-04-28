@@ -1,0 +1,14 @@
+{
+  "slug": "people/heidi-dubose",
+  "type": "person",
+  "title": "Heidi Dubose",
+  "compiled_truth": "Heidi Dubose is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-19 to 2001-12-07), Heidi Dubose sent 22 and received 23 emails, totalling 45 interactions. Top correspondents: [Mark Whitt](people/mark-whitt) (15), [T  Lucci](people/t-lucci) (8), [Theresa Staab](people/theresa-staab) (8), [Tyrell Harrison](people/tyrell-harrison) (5), [Amy Felling](people/amy-felling) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-07-19** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heidi-dubose",
+    "name": "Heidi Dubose",
+    "email": "heidi.dubose@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

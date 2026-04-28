@@ -1,0 +1,26 @@
+{
+  "slug": "threads/enron-wind-2001-03",
+  "type": "meeting",
+  "title": "Thread: Enron Wind",
+  "compiled_truth": "Email thread: \"Enron Wind\". Ran from 2001-03-28 to 2001-04-04 with 11 messages. Participants: [Adam Umanoff](people/adam-umanoff), [All Worldwide](people/all-worldwide), [Cpatman](people/cpatman-bracepatt), [Drew Fossum](people/drew-fossum), [Enronxgate](people/enronxgate-eott), [James Derrick](people/james-derrick), [Jdilg](people/jdilg-velaw), [John Lamb](people/john-lamb).",
+  "timeline": "- **2001-03-28** | Thread begins: enron wind\n- **2001-04-04** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-wind-2001-03",
+    "attendees": [
+      "people/adam-umanoff",
+      "people/all-worldwide",
+      "people/cpatman-bracepatt",
+      "people/drew-fossum",
+      "people/enronxgate-eott",
+      "people/james-derrick",
+      "people/jdilg-velaw",
+      "people/john-lamb",
+      "people/mark-metts",
+      "people/office-chairman",
+      "people/poxford-bracepatt",
+      "people/stanley-horton"
+    ],
+    "date": "2001-03-28"
+  }
+}

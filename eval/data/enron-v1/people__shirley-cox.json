@@ -1,0 +1,14 @@
+{
+  "slug": "people/shirley-cox",
+  "type": "person",
+  "title": "Shirley Cox",
+  "compiled_truth": "Shirley Cox is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2001-11-27), Shirley Cox sent 2 and received 9 emails, totalling 11 interactions. Top correspondents: [Rick Buy](people/rick-buy) (2), [Clement Abrams](people/clement-abrams) (1), [Naveen Andrews](people/naveen-andrews) (1), [Lynn Bellinghausen](people/lynn-bellinghausen) (1), [Lisa Bills](people/lisa-bills) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shirley-cox",
+    "name": "Shirley Cox",
+    "email": "shirley.cox@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

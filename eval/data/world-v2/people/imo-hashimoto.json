@@ -1,0 +1,21 @@
+{
+  "slug": "people/imo-hashimoto",
+  "type": "person",
+  "title": "Imo Hashimoto",
+  "compiled_truth": "Imo Hashimoto is an Infrastructure Engineer at [Anchor Codec](companies/anchor), where he's been since September 2026. Before joining, he spent five years at a major CDN provider working on edge reliability and distributed caching systems. That background gave him an unusually sharp intuition for failure modes at scale — the kind of thing you can't really teach, only accumulate through years of watching systems break at 3am.\n\nHashimoto's reputation inside [Anchor Codec](companies/anchor) is as the person who builds the things nobody sees but everyone depends on. He was brought on specifically to harden the deployment pipeline and make the single-pass primitives resilient under real-world network conditions. Within his first quarter, he redesigned the internal staging environment to more faithfully replicate customer topologies, which caught a class of edge-case failures that had been slipping through integration tests. The team started calling it the \"Imo layer\" half-jokingly, but it stuck.\n\nAnalytical to a fault, Imo has a tendency to over-instrument. He'll add metrics to things that don't obviously need them, then three months later those metrics turn out to be the only thing that explains a production anomaly. His dashboards are legendarily dense — walls of time-series graphs that only he fully understands, though he's been making efforts to document them better since mid-2027.\n\nHe's quiet in large meetings, more comfortable writing up his analysis in detailed post-mortems than presenting live. But in smaller group settings or one-on-ones, he's direct and precise. He has strong opinions about observability tooling and has pushed the team toward more structured logging practices. Some of those opinons have caused friction, but generally the team has come around to his way of thinking.\n\nOutside of work, Hashimoto is into competitive puzzle-solving and occasionally participates in capture-the-flag security events. He's mentioned wanting to eventually move into a reliability-focused leadership role, though for now he seems content building systems and watching them hold up under pressure. He's become a quiet pillar of the infrastructure team — not flashy, but indispensible.",
+  "timeline": "- **2026-09-01** | Imo Hashimoto joins [Anchor Codec](companies/anchor) as Infrastructure Engineer, coming from five years at a CDN provider.\n- **2026-10-14** | Completes initial audit of the staging environment and presents findings to the infra team, identifying 11 topology gaps.\n- **2026-12-03** | Ships redesigned staging environment (internally nicknamed the \"Imo layer\") that better mirrors customer deployment conditions.\n- **2027-02-18** | Leads first formal post-mortem after a latency spike in the deterministic pipeline; root cause traced to a misconfigured buffer pool.\n- **2027-05-09** | Proposes and begins rolling out structured logging standards across all [Anchor Codec](companies/anchor) services.\n- **2027-08-22** | Instruments edge-case monitoring that catches a subtle data reordering bug before it reaches production customers.\n- **2027-11-01** | Gives an internal talk on observability patterns learned from CDN-scale operations; well-received, slides circulated widely.\n- **2028-01-15** | Begins mentoring a new junior infrastructure engineer who joins the team.\n- **2028-04-07** | Hashimoto's monitoring dashboards credited in quarterly review for reducing mean-time-to-detection by roughly 40% year-over-year.",
+  "_facts": {
+    "type": "person",
+    "slug": "people/imo-hashimoto",
+    "name": "Imo Hashimoto",
+    "role": "employee",
+    "title": "Infrastructure Engineer",
+    "primary_affiliation": "companies/anchor",
+    "notable_traits": [
+      "analytical",
+      "systems builder"
+    ],
+    "background": "Cloud infrastructure and reliability engineering; 5 years at a major CDN provider",
+    "joined_anchor": "2026-09-01"
+  }
+}

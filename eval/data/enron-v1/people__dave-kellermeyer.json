@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-kellermeyer",
+  "type": "person",
+  "title": "Dave Kellermeyer",
+  "compiled_truth": "Dave Kellermeyer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2001-11-27), Dave Kellermeyer sent 4 and received 136 emails, totalling 140 interactions. Top correspondents: [Fred Mitro](people/fred-mitro) (3), [Kay Mann](people/kay-mann) (2), [Ben Jacoby](people/ben-jacoby) (2), [Benjamin Rogers](people/benjamin-rogers) (2), [Don Miller](people/don-miller) (1).",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-kellermeyer",
+    "name": "Dave Kellermeyer",
+    "email": "dave.kellermeyer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

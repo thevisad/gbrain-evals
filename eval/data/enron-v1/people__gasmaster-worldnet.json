@@ -1,0 +1,14 @@
+{
+  "slug": "people/gasmaster-worldnet",
+  "type": "person",
+  "title": "Gasmaster",
+  "compiled_truth": "Gasmaster is an external contact at [Worldnet](companies/worldnet). Over the corpus period (2000-11-07 to 2001-09-04), Gasmaster sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gasmaster-worldnet",
+    "name": "Gasmaster",
+    "email": "gasmaster@worldnet.att.net",
+    "primary_affiliation": "companies/worldnet"
+  }
+}

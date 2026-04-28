@@ -1,0 +1,14 @@
+{
+  "slug": "people/tommy-yanowski",
+  "type": "person",
+  "title": "Tommy Yanowski",
+  "compiled_truth": "Tommy Yanowski is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-06-13), Tommy Yanowski sent 7 and received 83 emails, totalling 90 interactions. Top correspondents: [Philippe Bibi](people/philippe-bibi) (5), [Brian Redmond](people/brian-redmond) (4), [Brenda Herod](people/brenda-herod) (3), [Brent Price](people/brent-price) (3), [Sally Beck](people/sally-beck) (3). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tommy-yanowski",
+    "name": "Tommy Yanowski",
+    "email": "tommy.yanowski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

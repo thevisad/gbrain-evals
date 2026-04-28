@@ -1,0 +1,14 @@
+{
+  "slug": "people/cathy-phillips",
+  "type": "person",
+  "title": "Cathy Phillips",
+  "compiled_truth": "Cathy Phillips is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-15 to 2001-12-10), Cathy Phillips sent 131 and received 501 emails, totalling 632 interactions. Top correspondents: [Mike McConnell](people/mike-mcconnell) (31), [Eric Gonzales](people/eric-gonzales) (21), [Larry Lawyer](people/larry-lawyer) (19), [George Mcclellan](people/george-mcclellan) (19), [Daniel Reck](people/daniel-reck) (19). Mailbox folders observed: _sent_mail, calendar, deleted_items, discussion_threads, inbox, sent.",
+  "timeline": "- **1999-10-15** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cathy-phillips",
+    "name": "Cathy Phillips",
+    "email": "cathy.phillips@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

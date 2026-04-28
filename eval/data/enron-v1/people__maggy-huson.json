@@ -1,0 +1,14 @@
+{
+  "slug": "people/maggy-huson",
+  "type": "person",
+  "title": "Maggy Huson",
+  "compiled_truth": "Maggy Huson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-15 to 2001-12-03), Maggy Huson sent 2 and received 28 emails, totalling 30 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (2), [ Palmer](people/palmer) (1). Mailbox folders observed: deleted_items, notre_dame.",
+  "timeline": "- **2001-11-15** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maggy-huson",
+    "name": "Maggy Huson",
+    "email": "maggy.huson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

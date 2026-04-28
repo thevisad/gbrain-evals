@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-hodge",
+  "type": "person",
+  "title": "John Hodge",
+  "compiled_truth": "John Hodge is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-12 to 2002-01-16), John Hodge sent 61 and received 636 emails, totalling 697 interactions. Top correspondents: [Chris Germany](people/chris-germany) (11), [Ruth Concannon](people/ruth-concannon) (6), [Gerald Nemec](people/gerald-nemec) (6), [Scott Neal](people/scott-neal) (5), [Sstonestreet](people/sstonestreet-nisource) (5). Mailbox folders observed: _sent_mail, bankrupt, sent_items, traderr_tools.",
+  "timeline": "- **2000-01-12** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-hodge",
+    "name": "John Hodge",
+    "email": "john.hodge@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

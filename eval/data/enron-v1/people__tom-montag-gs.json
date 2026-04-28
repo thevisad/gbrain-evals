@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-montag-gs",
+  "type": "person",
+  "title": "Tom Montag",
+  "compiled_truth": "Tom Montag is an external contact at [Gs](companies/gs). Over the corpus period (2000-02-15 to 2001-11-02), Tom Montag sent 2 and received 44 emails, totalling 46 interactions. Top correspondents: [Rpickel](people/rpickel-isda) (2), [Board](people/board-isda) (2), [Crichards](people/crichards-isda) (2), [Teruo Tanaka](people/teruo-tanaka-ibjbank) (1), [Esebton](people/esebton-isda-eur) (1).",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-montag-gs",
+    "name": "Tom Montag",
+    "email": "tom.montag@gs.com",
+    "primary_affiliation": "companies/gs"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ammoreno-owensmail",
+  "type": "person",
+  "title": "Ammoreno",
+  "compiled_truth": "Ammoreno is an external contact at [Owensmail](companies/owensmail). Over the corpus period (2000-05-21 to 2000-11-25), Ammoreno sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ammoreno-owensmail",
+    "name": "Ammoreno",
+    "email": "ammoreno@owensmail.alief.isd.tenet.edu",
+    "primary_affiliation": "companies/owensmail"
+  }
+}

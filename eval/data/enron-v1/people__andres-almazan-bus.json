@@ -1,0 +1,14 @@
+{
+  "slug": "people/andres-almazan-bus",
+  "type": "person",
+  "title": "Andres Almazan",
+  "compiled_truth": "Andres Almazan is an external contact at [Bus](companies/bus). Over the corpus period (1999-12-28 to 2001-04-09), Andres Almazan sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **1999-12-28** | First recorded email in corpus\n- **2001-04-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andres-almazan-bus",
+    "name": "Andres Almazan",
+    "email": "andres.almazan@bus.utexas.edu",
+    "primary_affiliation": "companies/bus"
+  }
+}

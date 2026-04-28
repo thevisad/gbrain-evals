@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-roberts",
+  "type": "person",
+  "title": "James Roberts",
+  "compiled_truth": "James Roberts is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-18 to 2001-11-27), James Roberts sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-roberts",
+    "name": "James Roberts",
+    "email": "james.roberts@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

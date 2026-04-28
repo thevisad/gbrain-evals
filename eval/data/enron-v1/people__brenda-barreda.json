@@ -1,0 +1,14 @@
+{
+  "slug": "people/brenda-barreda",
+  "type": "person",
+  "title": "Brenda Barreda",
+  "compiled_truth": "Brenda Barreda is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2001-09-20), Brenda Barreda sent 0 and received 565 emails, totalling 565 interactions.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2001-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brenda-barreda",
+    "name": "Brenda Barreda",
+    "email": "brenda.barreda@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

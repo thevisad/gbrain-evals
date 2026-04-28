@@ -1,0 +1,14 @@
+{
+  "slug": "people/ricex-swbell",
+  "type": "person",
+  "title": "Ricex",
+  "compiled_truth": "Ricex is an external contact at [Swbell](companies/swbell). Over the corpus period (2000-12-01 to 2002-01-10), Ricex sent 4 and received 2 emails, totalling 6 interactions. Top correspondents: [Shirley James](people/shirley-james) (2), [Piernot Bill](people/piernot-bill) (2), [Wright Bill](people/wright-bill) (2), [Harper Bruce](people/harper-bruce) (2), [Hall Charles](people/hall-charles) (2).",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ricex-swbell",
+    "name": "Ricex",
+    "email": "ricex@swbell.net",
+    "primary_affiliation": "companies/swbell"
+  }
+}

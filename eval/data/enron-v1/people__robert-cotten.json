@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-cotten",
+  "type": "person",
+  "title": "Robert Cotten",
+  "compiled_truth": "Robert Cotten is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-07-16), Robert Cotten sent 189 and received 393 emails, totalling 582 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (164), [O'Neal Winfree](people/o-neal-winfree) (67), [Vance Taylor](people/vance-taylor) (57), [Melissa Graves](people/melissa-graves) (44), [Susan Smith](people/susan-smith) (35). Mailbox folders observed: logistics, wellhead.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-cotten",
+    "name": "Robert Cotten",
+    "email": "robert.cotten@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

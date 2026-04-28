@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-c-hall",
+  "type": "person",
+  "title": "Steve C Hall",
+  "compiled_truth": "Steve C Hall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-05-24), Steve C Hall sent 0 and received 109 emails, totalling 109 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-05-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-c-hall",
+    "name": "Steve C Hall",
+    "email": "steve.c.hall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

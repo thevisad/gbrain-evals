@@ -1,0 +1,14 @@
+{
+  "slug": "people/ann-costello-gs",
+  "type": "person",
+  "title": "Ann Costello",
+  "compiled_truth": "Ann Costello is an external contact at [Gs](companies/gs). Over the corpus period (2000-11-22 to 2001-11-16), Ann Costello sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-11-22** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ann-costello-gs",
+    "name": "Ann Costello",
+    "email": "ann.costello@gs.com",
+    "primary_affiliation": "companies/gs"
+  }
+}

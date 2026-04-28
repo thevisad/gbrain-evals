@@ -1,0 +1,14 @@
+{
+  "slug": "people/jdavidson-srfunds",
+  "type": "person",
+  "title": "Jdavidson",
+  "compiled_truth": "Jdavidson is an external contact at [Srfunds](companies/srfunds). Over the corpus period (2000-10-02 to 2000-12-05), Jdavidson sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-10-02** | First recorded email in corpus\n- **2000-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jdavidson-srfunds",
+    "name": "Jdavidson",
+    "email": "jdavidson@srfunds.com",
+    "primary_affiliation": "companies/srfunds"
+  }
+}

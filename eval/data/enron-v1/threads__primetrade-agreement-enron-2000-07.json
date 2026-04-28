@@ -1,0 +1,22 @@
+{
+  "slug": "threads/primetrade-agreement-enron-2000-07",
+  "type": "meeting",
+  "title": "Thread: Primetrade Agreement - Enron",
+  "compiled_truth": "Email thread: \"Primetrade Agreement - Enron\". Ran from 2000-07-11 to 2000-07-21 with 12 messages. Participants: [Darren Delage](people/darren-delage), [Gary Hickerson](people/gary-hickerson), [Samantha Boyd](people/samantha-boyd), [Samantha Davidson](people/samantha-davidson), [Sara Shackleton](people/sara-shackleton), [Sheila Glover](people/sheila-glover), [Ted Murphy](people/ted-murphy), [William Bradford](people/william-bradford).",
+  "timeline": "- **2000-07-11** | Thread begins: primetrade agreement - enron\n- **2000-07-21** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/primetrade-agreement-enron-2000-07",
+    "attendees": [
+      "people/darren-delage",
+      "people/gary-hickerson",
+      "people/samantha-boyd",
+      "people/samantha-davidson",
+      "people/sara-shackleton",
+      "people/sheila-glover",
+      "people/ted-murphy",
+      "people/william-bradford"
+    ],
+    "date": "2000-07-11"
+  }
+}

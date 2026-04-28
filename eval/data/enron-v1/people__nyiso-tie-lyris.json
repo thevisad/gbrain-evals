@@ -1,0 +1,14 @@
+{
+  "slug": "people/nyiso-tie-lyris",
+  "type": "person",
+  "title": "Nyiso Tie",
+  "compiled_truth": "Nyiso Tie is an external contact at [Lyris](companies/lyris). Over the corpus period (2001-12-21 to 2001-12-24), Nyiso Tie sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-12-21** | First recorded email in corpus\n- **2001-12-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nyiso-tie-lyris",
+    "name": "Nyiso Tie",
+    "email": "nyiso_tie@lyris.nyiso.com",
+    "primary_affiliation": "companies/lyris"
+  }
+}

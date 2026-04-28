@@ -1,0 +1,14 @@
+{
+  "slug": "people/maislin-steve",
+  "type": "person",
+  "title": "Maislin Steve",
+  "compiled_truth": "Maislin Steve is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-11 to 2001-11-05), Maislin Steve sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-10-11** | First recorded email in corpus\n- **2001-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maislin-steve",
+    "name": "Maislin Steve",
+    "email": "maislin.steve@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

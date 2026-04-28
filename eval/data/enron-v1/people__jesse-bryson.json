@@ -1,0 +1,14 @@
+{
+  "slug": "people/jesse-bryson",
+  "type": "person",
+  "title": "Jesse Bryson",
+  "compiled_truth": "Jesse Bryson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-25 to 2001-12-03), Jesse Bryson sent 44 and received 298 emails, totalling 342 interactions. Top correspondents: [Portland Shift](people/portland-shift) (23), [Richard Ring](people/richard-ring) (10), [Elliot Mainzer](people/elliot-mainzer) (6), [Stacey Bolton](people/stacey-bolton) (6), [Jennifer Thome](people/jennifer-thome) (6). Mailbox folders observed: eesirenewableenergy, inbox, read, rt_strat.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jesse-bryson",
+    "name": "Jesse Bryson",
+    "email": "jesse.bryson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

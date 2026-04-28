@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-hillegonds",
+  "type": "person",
+  "title": "Jennifer Hillegonds",
+  "compiled_truth": "Jennifer Hillegonds is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-25 to 2001-12-20), Jennifer Hillegonds sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-04-25** | First recorded email in corpus\n- **2001-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-hillegonds",
+    "name": "Jennifer Hillegonds",
+    "email": "jennifer.hillegonds@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

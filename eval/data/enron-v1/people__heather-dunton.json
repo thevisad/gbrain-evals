@@ -1,0 +1,14 @@
+{
+  "slug": "people/heather-dunton",
+  "type": "person",
+  "title": "Heather Dunton",
+  "compiled_truth": "Heather Dunton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-03 to 2002-05-03), Heather Dunton sent 121 and received 505 emails, totalling 626 interactions. Top correspondents: [Holden Salisbury](people/holden-salisbury) (47), [Samantha Law](people/samantha-law) (44), [Fran Chang](people/fran-chang) (42), [John Postlethwaite](people/john-postlethwaite) (41), [W  White](people/w-white) (33). Mailbox folders observed: bill_williams_iii, credit, deleted_items, inbox, read, scheduling.",
+  "timeline": "- **2000-08-03** | First recorded email in corpus\n- **2002-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heather-dunton",
+    "name": "Heather Dunton",
+    "email": "heather.dunton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

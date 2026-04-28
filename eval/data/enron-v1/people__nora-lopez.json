@@ -1,0 +1,14 @@
+{
+  "slug": "people/nora-lopez",
+  "type": "person",
+  "title": "Nora Lopez",
+  "compiled_truth": "Nora Lopez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-24 to 2001-11-12), Nora Lopez sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-09-24** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nora-lopez",
+    "name": "Nora Lopez",
+    "email": "nora.lopez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

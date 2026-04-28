@@ -1,0 +1,14 @@
+{
+  "slug": "people/harper1-u",
+  "type": "person",
+  "title": "Harper1",
+  "compiled_truth": "Harper1 is an external contact at [U](companies/u). Over the corpus period (2000-03-28 to 2001-03-06), Harper1 sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2001-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/harper1-u",
+    "name": "Harper1",
+    "email": "harper1@u.washington.edu",
+    "primary_affiliation": "companies/u"
+  }
+}

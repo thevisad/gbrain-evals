@@ -1,0 +1,14 @@
+{
+  "slug": "people/alex-parsons",
+  "type": "person",
+  "title": "Alex Parsons",
+  "compiled_truth": "Alex Parsons is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-12 to 2001-12-21), Alex Parsons sent 1 and received 214 emails, totalling 215 interactions. Top correspondents: [Karen Denne](people/karen-denne) (1), [ Palmer](people/palmer) (1), [J  Kean](people/j-kean) (1), [Jackie Gentle](people/jackie-gentle) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-12-12** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alex-parsons",
+    "name": "Alex Parsons",
+    "email": "alex.parsons@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

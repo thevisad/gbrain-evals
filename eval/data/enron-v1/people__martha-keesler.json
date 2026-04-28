@@ -1,0 +1,14 @@
+{
+  "slug": "people/martha-keesler",
+  "type": "person",
+  "title": "Martha Keesler",
+  "compiled_truth": "Martha Keesler is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-29 to 2002-02-06), Martha Keesler sent 4 and received 100 emails, totalling 104 interactions. Top correspondents: [Leslie Hansen](people/leslie-hansen) (4), [Suzanne Adams](people/suzanne-adams) (3), [Alan Aronowitz](people/alan-aronowitz) (3), [Susan Bailey](people/susan-bailey) (3), [Michelle Blaine](people/michelle-blaine) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-03-29** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martha-keesler",
+    "name": "Martha Keesler",
+    "email": "martha.keesler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

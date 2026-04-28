@@ -1,0 +1,14 @@
+{
+  "slug": "people/tracy-cooper",
+  "type": "person",
+  "title": "Tracy Cooper",
+  "compiled_truth": "Tracy Cooper is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2001-06-25), Tracy Cooper sent 14 and received 202 emails, totalling 216 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (14), [Marchris Robinson](people/marchris-robinson) (10), [Sue Nord](people/sue-nord) (8), [Susan Landwehr](people/susan-landwehr) (8), [Lara Leibman](people/lara-leibman) (7).",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2001-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tracy-cooper",
+    "name": "Tracy Cooper",
+    "email": "tracy.cooper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

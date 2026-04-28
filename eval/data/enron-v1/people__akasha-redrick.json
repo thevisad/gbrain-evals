@@ -1,0 +1,14 @@
+{
+  "slug": "people/akasha-redrick",
+  "type": "person",
+  "title": "Akasha Redrick",
+  "compiled_truth": "Akasha Redrick is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-02-22), Akasha Redrick sent 1 and received 15 emails, totalling 16 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (1).",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/akasha-redrick",
+    "name": "Akasha Redrick",
+    "email": "akasha.redrick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

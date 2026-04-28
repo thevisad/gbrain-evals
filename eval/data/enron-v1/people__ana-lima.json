@@ -1,0 +1,14 @@
+{
+  "slug": "people/ana-lima",
+  "type": "person",
+  "title": "Ana Lima",
+  "compiled_truth": "Ana Lima is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-26 to 2001-05-11), Ana Lima sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ana-lima",
+    "name": "Ana Lima",
+    "email": "ana.lima@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

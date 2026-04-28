@@ -1,0 +1,14 @@
+{
+  "slug": "people/pla-marval",
+  "type": "person",
+  "title": "Pla",
+  "compiled_truth": "Pla is an external contact at [Marval](companies/marval). Over the corpus period (1999-08-30 to 2001-06-01), Pla sent 4 and received 40 emails, totalling 44 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (4), [Pg](people/pg-marval) (1), [Gg](people/gg-marval) (1).",
+  "timeline": "- **1999-08-30** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pla-marval",
+    "name": "Pla",
+    "email": "pla@marval.com",
+    "primary_affiliation": "companies/marval"
+  }
+}

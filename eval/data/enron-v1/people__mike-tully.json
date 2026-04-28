@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-tully",
+  "type": "person",
+  "title": "Mike Tully",
+  "compiled_truth": "Mike Tully is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-06-03 to 2002-06-19), Mike Tully sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2002-06-03** | First recorded email in corpus\n- **2002-06-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-tully",
+    "name": "Mike Tully",
+    "email": "mike.tully@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

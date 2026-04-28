@@ -1,0 +1,14 @@
+{
+  "slug": "people/cvavrek-dttus",
+  "type": "person",
+  "title": "Cvavrek",
+  "compiled_truth": "Cvavrek is an external contact at [Dttus](companies/dttus). Over the corpus period (1999-09-22 to 2001-05-10), Cvavrek sent 3 and received 31 emails, totalling 34 interactions. Top correspondents: [Shawne](people/shawne-harmony) (2), [Jeff Dasovich](people/jeff-dasovich) (2), [Mccullou](people/mccullou-haas) (1), [Jeff Dasovich](people/jeff-dasovich) (1), [Bukowski](people/bukowski-haas) (1).",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cvavrek-dttus",
+    "name": "Cvavrek",
+    "email": "cvavrek@dttus.com",
+    "primary_affiliation": "companies/dttus"
+  }
+}

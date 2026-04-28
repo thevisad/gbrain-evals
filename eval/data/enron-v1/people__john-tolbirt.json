@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-tolbirt",
+  "type": "person",
+  "title": "John Tolbirt",
+  "compiled_truth": "John Tolbirt is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2000-08-15), John Tolbirt sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2000-08-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-tolbirt",
+    "name": "John Tolbirt",
+    "email": "john.tolbirt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

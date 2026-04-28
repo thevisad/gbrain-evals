@@ -1,0 +1,14 @@
+{
+  "slug": "people/mday",
+  "type": "person",
+  "title": "Mday",
+  "compiled_truth": "Mday is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2001-11-02), Mday sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mday",
+    "name": "Mday",
+    "email": "mday@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

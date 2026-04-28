@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-devine",
+  "type": "person",
+  "title": "Bob Devine",
+  "compiled_truth": "Bob Devine is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-12 to 2001-11-06), Bob Devine sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-10-12** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-devine",
+    "name": "Bob Devine",
+    "email": "bob.devine@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

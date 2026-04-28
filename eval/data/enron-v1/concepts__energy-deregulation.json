@@ -1,0 +1,23 @@
+{
+  "slug": "concepts/energy-deregulation",
+  "type": "concept",
+  "title": "Energy Deregulation",
+  "compiled_truth": "The political and regulatory movement to open electricity and natural gas markets to competition — the environment that enabled Enron's expansion from pipeline operator to global energy trader. Related organizations: [Enron](companies/enron), [FERC](companies/ferc), [CAISO](companies/caiso), [Bonneville Power Admin](companies/bpa).",
+  "timeline": "- **1978-11-09** | Natural Gas Policy Act begins partial deregulation of gas markets\n- **1992-10-24** | Energy Policy Act: FERC gains authority to mandate open transmission access\n- **1996-04-24** | FERC Orders 888/889: full open access to transmission grid\n- **1998-04-01** | California electricity market deregulates\n- **2005-08-08** | Energy Policy Act of 2005 reforms market rules post-Enron",
+  "_facts": {
+    "type": "concept",
+    "slug": "concepts/energy-deregulation",
+    "related_companies": [
+      "companies/enron",
+      "companies/ferc",
+      "companies/caiso",
+      "companies/bpa"
+    ],
+    "related_people": [
+      "people/kenneth-lay",
+      "people/jeffrey-skilling",
+      "people/andrew-fastow",
+      "people/richard-causey"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/alain-diza",
+  "type": "person",
+  "title": "Alain Diza",
+  "compiled_truth": "Alain Diza is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-16 to 2002-03-29), Alain Diza sent 1 and received 66 emails, totalling 67 interactions. Top correspondents: [Chris Germany](people/chris-germany) (1), [Victor Lamadrid](people/victor-lamadrid) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-03-16** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alain-diza",
+    "name": "Alain Diza",
+    "email": "alain.diza@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ccoke-cmta",
+  "type": "person",
+  "title": "Ccoke",
+  "compiled_truth": "Ccoke is an external contact at [Cmta](companies/cmta). Over the corpus period (2001-04-12 to 2001-04-30), Ccoke sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-04-12** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ccoke-cmta",
+    "name": "Ccoke",
+    "email": "ccoke@cmta.net",
+    "primary_affiliation": "companies/cmta"
+  }
+}

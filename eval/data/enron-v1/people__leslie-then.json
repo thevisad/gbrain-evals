@@ -1,0 +1,14 @@
+{
+  "slug": "people/leslie-then",
+  "type": "person",
+  "title": "Leslie Then",
+  "compiled_truth": "Leslie Then is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-17 to 2001-11-27), Leslie Then sent 2 and received 24 emails, totalling 26 interactions. Top correspondents: [Monika Causholli](people/monika-causholli) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-10-17** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leslie-then",
+    "name": "Leslie Then",
+    "email": "leslie.then@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-smith-hp",
+  "type": "person",
+  "title": "Randy Smith",
+  "compiled_truth": "Randy Smith is an external contact at [Hp](companies/hp). Over the corpus period (2000-12-06 to 2000-12-06), Randy Smith sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-12-06** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-smith-hp",
+    "name": "Randy Smith",
+    "email": "randy_smith@hp.com",
+    "primary_affiliation": "companies/hp"
+  }
+}

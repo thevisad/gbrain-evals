@@ -1,0 +1,14 @@
+{
+  "slug": "people/bart-margo",
+  "type": "person",
+  "title": "Bart Margo",
+  "compiled_truth": "Bart Margo is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Bart Margo sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bart-margo",
+    "name": "Bart Margo",
+    "email": "bart.margo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

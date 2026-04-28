@@ -1,0 +1,14 @@
+{
+  "slug": "people/lchurch-epsa",
+  "type": "person",
+  "title": "Lchurch",
+  "compiled_truth": "Lchurch is an external contact at [Epsa](companies/epsa). Over the corpus period (1999-11-15 to 2001-11-28), Lchurch sent 5 and received 75 emails, totalling 80 interactions. Top correspondents: [Rshapiro](people/rshapiro) (3), [Skean](people/skean) (1), [Richard Shapiro](people/richard-shapiro) (1).",
+  "timeline": "- **1999-11-15** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lchurch-epsa",
+    "name": "Lchurch",
+    "email": "lchurch@epsa.org",
+    "primary_affiliation": "companies/epsa"
+  }
+}

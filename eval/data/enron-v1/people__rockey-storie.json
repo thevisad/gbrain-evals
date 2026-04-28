@@ -1,0 +1,14 @@
+{
+  "slug": "people/rockey-storie",
+  "type": "person",
+  "title": "Rockey Storie",
+  "compiled_truth": "Rockey Storie is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2001-11-30), Rockey Storie sent 0 and received 181 emails, totalling 181 interactions.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rockey-storie",
+    "name": "Rockey Storie",
+    "email": "rockey.storie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

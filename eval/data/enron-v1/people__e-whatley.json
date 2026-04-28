@@ -1,0 +1,14 @@
+{
+  "slug": "people/e-whatley",
+  "type": "person",
+  "title": "E  Whatley",
+  "compiled_truth": "E  Whatley is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-19 to 2001-11-26), E  Whatley sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-11-19** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/e-whatley",
+    "name": "E  Whatley",
+    "email": "e..whatley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

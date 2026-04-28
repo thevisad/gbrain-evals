@@ -1,0 +1,14 @@
+{
+  "slug": "people/barbara-klemstine-apsc",
+  "type": "person",
+  "title": "Barbara Klemstine",
+  "compiled_truth": "Barbara Klemstine is an external contact at [Apsc](companies/apsc). Over the corpus period (2000-10-19 to 2001-05-03), Barbara Klemstine sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **2000-10-19** | First recorded email in corpus\n- **2001-05-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barbara-klemstine-apsc",
+    "name": "Barbara Klemstine",
+    "email": "barbara_klemstine@apsc.com",
+    "primary_affiliation": "companies/apsc"
+  }
+}

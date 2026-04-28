@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-fondren",
+  "type": "person",
+  "title": "Mark Fondren",
+  "compiled_truth": "Mark Fondren is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-04 to 2002-02-05), Mark Fondren sent 0 and received 104 emails, totalling 104 interactions.",
+  "timeline": "- **2000-01-04** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-fondren",
+    "name": "Mark Fondren",
+    "email": "mark.fondren@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

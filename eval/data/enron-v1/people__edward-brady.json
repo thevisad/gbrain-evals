@@ -1,0 +1,14 @@
+{
+  "slug": "people/edward-brady",
+  "type": "person",
+  "title": "Edward Brady",
+  "compiled_truth": "Edward Brady is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-01 to 2002-02-06), Edward Brady sent 9 and received 155 emails, totalling 164 interactions. Top correspondents: [M  Love](people/m-love) (9), [Chuck Ames](people/chuck-ames) (2), [Ashley Worthing](people/ashley-worthing) (2), [F  Brawner](people/f-brawner) (2), [Darren Espey](people/darren-espey) (2). Mailbox folders observed: deleted_items, east_desk, inbox.",
+  "timeline": "- **2001-08-01** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edward-brady",
+    "name": "Edward Brady",
+    "email": "edward.brady@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

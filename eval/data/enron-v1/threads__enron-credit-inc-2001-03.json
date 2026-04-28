@@ -1,0 +1,23 @@
+{
+  "slug": "threads/enron-credit-inc-2001-03",
+  "type": "meeting",
+  "title": "Thread: Enron Credit Inc.",
+  "compiled_truth": "Email thread: \"Enron Credit Inc.\". Ran from 2001-03-27 to 2001-04-17 with 25 messages. Participants: [Ameytina](people/ameytina-bear), [Cheryl Nelson](people/cheryl-nelson), [David Wall](people/david-wall), [Derek Lee](people/derek-lee), [Greg Hedger](people/greg-hedger), [Reza Rezaeian](people/reza-rezaeian), [Sara Shackleton](people/sara-shackleton), [Stephanie Panus](people/stephanie-panus).",
+  "timeline": "- **2001-03-27** | Thread begins: enron credit inc.\n- **2001-04-17** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-credit-inc-2001-03",
+    "attendees": [
+      "people/ameytina-bear",
+      "people/cheryl-nelson",
+      "people/david-wall",
+      "people/derek-lee",
+      "people/greg-hedger",
+      "people/reza-rezaeian",
+      "people/sara-shackleton",
+      "people/stephanie-panus",
+      "people/tom-doukas"
+    ],
+    "date": "2001-03-27"
+  }
+}

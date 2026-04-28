@@ -1,0 +1,14 @@
+{
+  "slug": "people/simone-la",
+  "type": "person",
+  "title": "Simone La",
+  "compiled_truth": "Simone La is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-13 to 2001-12-03), Simone La sent 42 and received 66 emails, totalling 108 interactions. Top correspondents: [Adam Johnson](people/adam-johnson) (42), [Louise Kitchen](people/louise-kitchen) (42), [Torrey Moorer](people/torrey-moorer) (42), [Matt Motsinger](people/matt-motsinger) (42), [Jennifer Denny](people/jennifer-denny) (41). Mailbox folders observed: _americas, deleted_items, enrononline, inbox, tradecounts.",
+  "timeline": "- **2001-03-13** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/simone-la",
+    "name": "Simone La",
+    "email": "simone.la@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

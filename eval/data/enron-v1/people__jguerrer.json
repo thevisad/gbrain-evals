@@ -1,0 +1,14 @@
+{
+  "slug": "people/jguerrer",
+  "type": "person",
+  "title": "Jguerrer",
+  "compiled_truth": "Jguerrer is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-22 to 2001-10-18), Jguerrer sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-02-22** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jguerrer",
+    "name": "Jguerrer",
+    "email": "jguerrer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

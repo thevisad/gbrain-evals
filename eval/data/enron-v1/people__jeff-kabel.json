@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-kabel",
+  "type": "person",
+  "title": "Jeff Kabel",
+  "compiled_truth": "Jeff Kabel is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-12 to 2001-11-20), Jeff Kabel sent 2 and received 53 emails, totalling 55 interactions. Top correspondents: [Michael Guerriero](people/michael-guerriero) (2), [Julian Poole](people/julian-poole) (1), [Rodolfo Freyre](people/rodolfo-freyre) (1), [Diego Hollweck](people/diego-hollweck) (1), [Bernardo Andrews](people/bernardo-andrews) (1).",
+  "timeline": "- **1999-11-12** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-kabel",
+    "name": "Jeff Kabel",
+    "email": "jeff.kabel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

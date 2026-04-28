@@ -1,0 +1,14 @@
+{
+  "slug": "people/ldoss-cookcountygov",
+  "type": "person",
+  "title": "Ldoss",
+  "compiled_truth": "Ldoss is an external contact at [Cookcountygov](companies/cookcountygov). Over the corpus period (2001-11-19 to 2001-12-27), Ldoss sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-11-19** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ldoss-cookcountygov",
+    "name": "Ldoss",
+    "email": "ldoss@cookcountygov.com",
+    "primary_affiliation": "companies/cookcountygov"
+  }
+}

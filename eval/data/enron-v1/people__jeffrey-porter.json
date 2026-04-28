@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-porter",
+  "type": "person",
+  "title": "Jeffrey Porter",
+  "compiled_truth": "Jeffrey Porter is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-05-09), Jeffrey Porter sent 38 and received 143 emails, totalling 181 interactions. Top correspondents: [Chris Germany](people/chris-germany) (28), [Joann Collins](people/joann-collins) (15), [Michael Garred](people/michael-garred) (12), [Ena Nominations](people/ena-nominations) (11), [Alvin Thompson](people/alvin-thompson) (7).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-porter",
+    "name": "Jeffrey Porter",
+    "email": "jeffrey.porter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

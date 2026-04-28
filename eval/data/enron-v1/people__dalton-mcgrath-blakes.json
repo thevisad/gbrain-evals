@@ -1,0 +1,14 @@
+{
+  "slug": "people/dalton-mcgrath-blakes",
+  "type": "person",
+  "title": "Dalton Mcgrath",
+  "compiled_truth": "Dalton Mcgrath is an external contact at [Blakes](companies/blakes). Over the corpus period (2000-06-07 to 2000-10-27), Dalton Mcgrath sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2000-10-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dalton-mcgrath-blakes",
+    "name": "Dalton Mcgrath",
+    "email": "dalton.mcgrath@blakes.com",
+    "primary_affiliation": "companies/blakes"
+  }
+}

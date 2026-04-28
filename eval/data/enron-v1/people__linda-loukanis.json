@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-loukanis",
+  "type": "person",
+  "title": "Linda Loukanis",
+  "compiled_truth": "Linda Loukanis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-02 to 2001-05-14), Linda Loukanis sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **1999-12-02** | First recorded email in corpus\n- **2001-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-loukanis",
+    "name": "Linda Loukanis",
+    "email": "linda.loukanis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/stella-wilson",
+  "type": "person",
+  "title": "Stella Wilson",
+  "compiled_truth": "Stella Wilson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-05 to 2001-05-07), Stella Wilson sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2001-03-05** | First recorded email in corpus\n- **2001-05-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stella-wilson",
+    "name": "Stella Wilson",
+    "email": "stella.wilson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

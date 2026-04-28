@@ -1,0 +1,14 @@
+{
+  "slug": "people/dupont",
+  "type": "person",
+  "title": "Dupont",
+  "compiled_truth": "Dupont is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-31 to 2001-06-05), Dupont sent 5 and received 0 emails, totalling 5 interactions. Top correspondents: [ Robert](people/robert) (4), [ Sevil](people/sevil) (4), [ Steve](people/steve) (4), [ Tom](people/tom) (4), [ Vasant](people/vasant) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-31** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dupont",
+    "name": "Dupont",
+    "email": "dupont@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

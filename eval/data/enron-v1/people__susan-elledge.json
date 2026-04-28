@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-elledge",
+  "type": "person",
+  "title": "Susan Elledge",
+  "compiled_truth": "Susan Elledge is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-22 to 2002-03-01), Susan Elledge sent 14 and received 273 emails, totalling 287 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (5), [T  Hodge](people/t-hodge) (4), [Stacey Richardson](people/stacey-richardson) (4), [Ellen Wallumrod](people/ellen-wallumrod) (3), [Anthony Campos](people/anthony-campos) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-06-22** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-elledge",
+    "name": "Susan Elledge",
+    "email": "susan.elledge@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

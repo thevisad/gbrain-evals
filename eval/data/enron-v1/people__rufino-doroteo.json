@@ -1,0 +1,14 @@
+{
+  "slug": "people/rufino-doroteo",
+  "type": "person",
+  "title": "Rufino Doroteo",
+  "compiled_truth": "Rufino Doroteo is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2001-11-12), Rufino Doroteo sent 26 and received 99 emails, totalling 125 interactions. Top correspondents: [Dana Davis](people/dana-davis) (26), [Pam Becton](people/pam-becton) (15), [Marnie Lamb](people/marnie-lamb) (13), [Tammy Barta](people/tammy-barta) (12), [Stacy Hardy](people/stacy-hardy) (12). Mailbox folders observed: deleted_items, personal, save_the_date, vacation.",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rufino-doroteo",
+    "name": "Rufino Doroteo",
+    "email": "rufino.doroteo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

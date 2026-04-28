@@ -1,0 +1,19 @@
+{
+  "slug": "companies/doj",
+  "type": "company",
+  "title": "DOJ",
+  "compiled_truth": "DOJ is an external organization that appears in the Enron email corpus. Domain: doj.gov. Total email interactions with Enron: 9. Known contacts: 2 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (9 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/doj",
+    "name": "DOJ",
+    "employees": [
+      "people/thomas-patton-doj",
+      "people/vickie-whitney-doj"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

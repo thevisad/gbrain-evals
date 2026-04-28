@@ -1,0 +1,14 @@
+{
+  "slug": "people/cissie-zhou",
+  "type": "person",
+  "title": "Cissie Zhou",
+  "compiled_truth": "Cissie Zhou is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-05 to 2001-06-05), Cissie Zhou sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-06-05** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cissie-zhou",
+    "name": "Cissie Zhou",
+    "email": "cissie.zhou@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

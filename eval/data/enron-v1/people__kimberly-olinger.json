@@ -1,0 +1,14 @@
+{
+  "slug": "people/kimberly-olinger",
+  "type": "person",
+  "title": "Kimberly Olinger",
+  "compiled_truth": "Kimberly Olinger is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-09-26), Kimberly Olinger sent 1 and received 192 emails, totalling 193 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (1).",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kimberly-olinger",
+    "name": "Kimberly Olinger",
+    "email": "kimberly.olinger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

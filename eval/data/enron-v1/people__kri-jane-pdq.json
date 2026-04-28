@@ -1,0 +1,14 @@
+{
+  "slug": "people/kri-jane-pdq",
+  "type": "person",
+  "title": "Kri Jane",
+  "compiled_truth": "Kri Jane is an external contact at [Pdq](companies/pdq). Over the corpus period (2000-10-27 to 2000-12-11), Kri Jane sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2000-12-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kri-jane-pdq",
+    "name": "Kri Jane",
+    "email": "kri.jane@pdq.net",
+    "primary_affiliation": "companies/pdq"
+  }
+}

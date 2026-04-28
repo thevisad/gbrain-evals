@@ -1,0 +1,14 @@
+{
+  "slug": "people/apte-aol",
+  "type": "person",
+  "title": "Apte",
+  "compiled_truth": "Apte is an external contact at [AOL](companies/aol). Over the corpus period (2000-07-28 to 2000-09-14), Apte sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2000-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/apte-aol",
+    "name": "Apte",
+    "email": "apte@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

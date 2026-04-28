@@ -1,0 +1,14 @@
+{
+  "slug": "people/rosario-boling",
+  "type": "person",
+  "title": "Rosario Boling",
+  "compiled_truth": "Rosario Boling is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-24 to 2001-11-19), Rosario Boling sent 0 and received 59 emails, totalling 59 interactions.",
+  "timeline": "- **2000-10-24** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rosario-boling",
+    "name": "Rosario Boling",
+    "email": "rosario.boling@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

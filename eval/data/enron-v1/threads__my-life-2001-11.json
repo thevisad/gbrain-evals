@@ -1,0 +1,27 @@
+{
+  "slug": "threads/my-life-2001-11",
+  "type": "meeting",
+  "title": "Thread: My Life",
+  "compiled_truth": "Email thread: \"My Life\". Ran from 2001-11-14 to 2001-11-15 with 11 messages. Participants: [Barry Tycholiz](people/barry-tycholiz), ['Bevans](people/bevans), [Charles Varnell](people/charles-varnell), [J  Bump](people/j-bump), [Jbrewer Leathercenter](people/jbrewer-leathercenter-leathercenter), [John D Williamson](people/john-d-williamson-us), [Larry Bevans](people/larry-bevans-elpaso), [Lowen](people/lowen-reliantenergy).",
+  "timeline": "- **2001-11-14** | Thread begins: my life\n- **2001-11-15** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/my-life-2001-11",
+    "attendees": [
+      "people/barry-tycholiz",
+      "people/bevans",
+      "people/charles-varnell",
+      "people/j-bump",
+      "people/jbrewer-leathercenter-leathercenter",
+      "people/john-d-williamson-us",
+      "people/larry-bevans-elpaso",
+      "people/lowen-reliantenergy",
+      "people/mark-whitt",
+      "people/murphy",
+      "people/t-lucci",
+      "people/tim-murphy-elpaso",
+      "people/tyrell-harrison"
+    ],
+    "date": "2001-11-14"
+  }
+}

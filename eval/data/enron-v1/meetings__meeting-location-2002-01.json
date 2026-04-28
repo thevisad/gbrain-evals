@@ -1,0 +1,34 @@
+{
+  "slug": "meetings/meeting-location-2002-01",
+  "type": "meeting",
+  "title": "Meeting: Meeting Location",
+  "compiled_truth": "Meeting: \"Meeting Location\". Occurred 2002-01-14 through 2002-01-15 with 2 related emails. Participants included: [Ayers Lane](people/ayers-lane), [Bud Wilcox](people/bud-wilcox-elpaso), [Campbell David](people/campbell-david), [Charles Mathis](people/charles-mathis-elpaso), [Flaim Steve](people/flaim-steve), [Gallegos Frank](people/gallegos-frank), [Gkardos](people/gkardos-br-inc), [Goodding Charles](people/goodding-charles)....",
+  "timeline": "- **2002-01-14** | Meeting: meeting location\n- **2002-01-15** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-location-2002-01",
+    "attendees": [
+      "people/ayers-lane",
+      "people/bud-wilcox-elpaso",
+      "people/campbell-david",
+      "people/charles-mathis-elpaso",
+      "people/flaim-steve",
+      "people/gallegos-frank",
+      "people/gkardos-br-inc",
+      "people/goodding-charles",
+      "people/hardman-terry",
+      "people/hunt-johnny",
+      "people/jerry-graves",
+      "people/kardos-greg",
+      "people/matthews-ron",
+      "people/pnm-chuck",
+      "people/r-mathis",
+      "people/roemer-francis",
+      "people/schoolcraft-darrell",
+      "people/veloz-corina",
+      "people/wilcox",
+      "people/williams-stahl"
+    ],
+    "date": "2002-01-14"
+  }
+}

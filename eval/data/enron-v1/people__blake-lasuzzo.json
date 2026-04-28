@@ -1,0 +1,14 @@
+{
+  "slug": "people/blake-lasuzzo",
+  "type": "person",
+  "title": "Blake Lasuzzo",
+  "compiled_truth": "Blake Lasuzzo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-11-08), Blake Lasuzzo sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/blake-lasuzzo",
+    "name": "Blake Lasuzzo",
+    "email": "blake.lasuzzo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

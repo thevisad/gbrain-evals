@@ -1,0 +1,29 @@
+{
+  "slug": "meetings/investor-call-4-2026-10-14",
+  "type": "meeting",
+  "title": "Investor Call — Prism Ventures (Term Sheet Discussion)",
+  "compiled_truth": "Call held on 2026-10-14 between [Seren Voss](people/seren-voss) and [Piper Bergmann](people/piper-bergmann) to walk through the term sheet Prism Ventures had circulated on October 11. Piper led the discussion; Seren joined from the Portland office and took primary notes.\n\nPrism's initial term sheet proposed a $9.2M Series A at a $38M pre-money valuation, with a standard 1x non-participating liquidation preference and a board seat for Prism's designee. Piper flagged two sticking points early: the pro-rata rights clause, which Prism wanted extended to any future round up to and including a Series C, and the information rights section, which requested monthly financial reporting plus quarterly technical roadmap updates. Seren pushed back on the roadmap disclosure cadence, noting that [Anchor Codec](companies/anchor)'s single-pass primitives are core IP and sharing architectural direction quarterly felt aggressive for a seed-to-A bridge. Piper agreed and said she'd counter with semi-annual technical briefings and monthly financials.\n\nValuation was discussed at length. Prism's $38M pre felt reasonable given Anchor's current ARR trajectory (~$1.1M as of September), but Seren raised the question of whether to negotiate upward based on the pipeline—three enterprise LOIs in late-stage negotiation that could push ARR to $2.4M by Q1 2027. Piper cautioned against over-indexing on forward revenue in negotiations, preferring to keep the round clean and revisit pricing if a second term sheet comes in from another fund. She mentioned she'd already had a preliminary conversation with another firm earlier that week, though no formal interest had been expressed yet.\n\nOther items covered: the option pool expansion (Prism wanted a 15% post-money pool, Anchor proposed 12%), drag-along thresholds, and the timeline to close. Prism wanted signatures by November 8; Piper thought mid-November was more realistic given legal review. Seren took the action item to loop in outside counsel by October 16. Overall mood was constructive—both sides seemed aligned on the broad strokes, with the details being standard negotiation friction. Piper described the call as \"very positive\" in a Slack message to the broader team afterwads.",
+  "timeline": [
+    "- **2026-09-28** | Prism Ventures expresses formal interest in Anchor Codec Series A after attending a demo day presentation.",
+    "- **2026-10-11** | Prism circulates initial term sheet to [Piper Bergmann](people/piper-bergmann); internal review begins.",
+    "- **2026-10-14** | Investor call between [Seren Voss](people/seren-voss) and Piper to discuss term sheet details and flag negotiation points.",
+    "- **2026-10-16** | Outside counsel engaged to begin legal review of Prism term sheet.",
+    "- **2026-10-23** | [Piper Bergmann](people/piper-bergmann) sends counter-proposal to Prism addressing pro-rata rights, info rights cadence, and option pool sizing.",
+    "- **2026-11-04** | Follow-up call with Prism partner to resolve remaining open items on drag-along and board observer rights.",
+    "- **2026-11-19** | Series A docs finalized; signing expected within the week.",
+    "- **2026-11-22** | [Anchor Codec](companies/anchor) closes Series A with Prism Ventures at $40M pre-money valuation after minor upward revision."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/investor-call-4-2026-10-14",
+    "name": "Investor Call — Prism Ventures",
+    "meeting_type": "investor_call",
+    "date": "2026-10-14",
+    "attendees": [
+      "people/seren-voss",
+      "people/piper-bergmann"
+    ],
+    "topic_company": "companies/anchor",
+    "topic": "Term sheet discussion"
+  }
+}

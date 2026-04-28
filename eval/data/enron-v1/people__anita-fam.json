@@ -1,0 +1,14 @@
+{
+  "slug": "people/anita-fam",
+  "type": "person",
+  "title": "Anita Fam",
+  "compiled_truth": "Anita Fam is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2000-10-16), Anita Fam sent 3 and received 52 emails, totalling 55 interactions. Top correspondents: [Alan Aronowitz](people/alan-aronowitz) (2), [Janice Moore](people/janice-moore) (2), [Sara Shackleton](people/sara-shackleton) (2), [Mark Taylor](people/mark-taylor) (2), [Nony Flores](people/nony-flores) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2000-10-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anita-fam",
+    "name": "Anita Fam",
+    "email": "anita.fam@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

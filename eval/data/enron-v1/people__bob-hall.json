@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-hall",
+  "type": "person",
+  "title": "Bob Hall",
+  "compiled_truth": "Bob Hall is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-08-14), Bob Hall sent 51 and received 401 emails, totalling 452 interactions. Top correspondents: [Sally Beck](people/sally-beck) (36), [Leslie Reeves](people/leslie-reeves) (18), [Daren Farmer](people/daren-farmer) (16), [Brian Redmond](people/brian-redmond) (12), [Edward Gottlob](people/edward-gottlob) (9). Mailbox folders observed: deleted_items, frontera, hall__bob, inbox, logistics.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-08-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-hall",
+    "name": "Bob Hall",
+    "email": "bob.hall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

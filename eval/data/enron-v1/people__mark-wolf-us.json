@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-wolf-us",
+  "type": "person",
+  "title": "Mark Wolf",
+  "compiled_truth": "Mark Wolf is an external contact at [Us](companies/us). Over the corpus period (2000-09-06 to 2000-12-04), Mark Wolf sent 0 and received 66 emails, totalling 66 interactions.",
+  "timeline": "- **2000-09-06** | First recorded email in corpus\n- **2000-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-wolf-us",
+    "name": "Mark Wolf",
+    "email": "mark.wolf@us.cibc.com",
+    "primary_affiliation": "companies/us"
+  }
+}

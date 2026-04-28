@@ -1,0 +1,14 @@
+{
+  "slug": "people/tara-thistleton",
+  "type": "person",
+  "title": "Tara Thistleton",
+  "compiled_truth": "Tara Thistleton is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-23 to 2001-11-27), Tara Thistleton sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2001-10-23** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tara-thistleton",
+    "name": "Tara Thistleton",
+    "email": "tara.thistleton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

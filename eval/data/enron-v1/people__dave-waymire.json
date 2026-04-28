@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-waymire",
+  "type": "person",
+  "title": "Dave Waymire",
+  "compiled_truth": "Dave Waymire is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-08 to 2001-12-10), Dave Waymire sent 3 and received 40 emails, totalling 43 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (3), [James Centilli](people/james-centilli) (3), [James Saunders](people/james-saunders) (2), [Bob Chandler](people/bob-chandler) (1), [Jerry Peters](people/jerry-peters) (1).",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-waymire",
+    "name": "Dave Waymire",
+    "email": "dave.waymire@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "companies/spurr",
+  "type": "company",
+  "title": "Spurr",
+  "compiled_truth": "Spurr is an external organization that appears in the Enron email corpus. Domain: spurr.com. Total email interactions with Enron: 301. Known contacts: 3 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (301 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/spurr",
+    "name": "Spurr",
+    "employees": [
+      "people/ehahn-spurr",
+      "people/rochmanm-spurr",
+      "people/tsolberg-spurr"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

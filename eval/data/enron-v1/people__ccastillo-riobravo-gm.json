@@ -1,0 +1,14 @@
+{
+  "slug": "people/ccastillo-riobravo-gm",
+  "type": "person",
+  "title": "Ccastillo",
+  "compiled_truth": "Ccastillo is an external contact at [Riobravo-gm](companies/riobravo-gm). Over the corpus period (2000-12-04 to 2001-07-31), Ccastillo sent 0 and received 125 emails, totalling 125 interactions.",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ccastillo-riobravo-gm",
+    "name": "Ccastillo",
+    "email": "ccastillo@riobravo-gm.com",
+    "primary_affiliation": "companies/riobravo-gm"
+  }
+}

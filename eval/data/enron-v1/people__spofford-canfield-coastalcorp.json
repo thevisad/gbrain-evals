@@ -1,0 +1,14 @@
+{
+  "slug": "people/spofford-canfield-coastalcorp",
+  "type": "person",
+  "title": "Spofford Canfield",
+  "compiled_truth": "Spofford Canfield is an external contact at [Coastalcorp](companies/coastalcorp). Over the corpus period (1999-11-15 to 1999-11-15), Spofford Canfield sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **1999-11-15** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/spofford-canfield-coastalcorp",
+    "name": "Spofford Canfield",
+    "email": "spofford.canfield@coastalcorp.com",
+    "primary_affiliation": "companies/coastalcorp"
+  }
+}

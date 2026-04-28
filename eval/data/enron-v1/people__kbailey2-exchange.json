@@ -1,0 +1,14 @@
+{
+  "slug": "people/kbailey2-exchange",
+  "type": "person",
+  "title": "Kbailey2",
+  "compiled_truth": "Kbailey2 is an external contact at [Exchange](companies/exchange). Over the corpus period (2000-05-03 to 2001-10-16), Kbailey2 sent 2 and received 44 emails, totalling 46 interactions. Top correspondents: [Henning Bruttel](people/henning-bruttel-dresdner-bank) (1), [Sebastien Cahen](people/sebastien-cahen-socgen) (1), [Jerry Delmissier](people/jerry-delmissier-barclayscapital) (1), [Mark E Haedicke](people/mark-e-haedicke) (1), [Tim Fredrickson](people/tim-fredrickson-ubsw) (1).",
+  "timeline": "- **2000-05-03** | First recorded email in corpus\n- **2001-10-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kbailey2-exchange",
+    "name": "Kbailey2",
+    "email": "kbailey2@exchange.ml.com",
+    "primary_affiliation": "companies/exchange"
+  }
+}

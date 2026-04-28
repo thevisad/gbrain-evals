@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-johnson",
+  "type": "person",
+  "title": "Mary Johnson",
+  "compiled_truth": "Mary Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-27 to 2001-08-24), Mary Johnson sent 11 and received 87 emails, totalling 98 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (7), [Jill Zivley](people/jill-zivley) (5), [James Mckay](people/james-mckay) (5), [Dan Hyvl](people/dan-hyvl) (5), [Vance Taylor](people/vance-taylor) (4).",
+  "timeline": "- **1999-10-27** | First recorded email in corpus\n- **2001-08-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-johnson",
+    "name": "Mary Johnson",
+    "email": "mary.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

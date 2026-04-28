@@ -1,0 +1,14 @@
+{
+  "slug": "people/nicole-cortez",
+  "type": "person",
+  "title": "Nicole Cortez",
+  "compiled_truth": "Nicole Cortez is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-06-11), Nicole Cortez sent 3 and received 89 emails, totalling 92 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (3).",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nicole-cortez",
+    "name": "Nicole Cortez",
+    "email": "nicole.cortez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/brent-hendry",
+  "type": "person",
+  "title": "Brent Hendry",
+  "compiled_truth": "Brent Hendry is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-03 to 2002-02-05), Brent Hendry sent 209 and received 2090 emails, totalling 2299 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (63), [Mark Taylor](people/mark-taylor) (57), [Tana Jones](people/tana-jones) (35), [Susan Bailey](people/susan-bailey) (25), [Stephanie Panus](people/stephanie-panus) (23). Mailbox folders observed: _americas, archive, deleted_items, inbox, online_trading, swap_group_project_lists.",
+  "timeline": "- **1998-11-03** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brent-hendry",
+    "name": "Brent Hendry",
+    "email": "brent.hendry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

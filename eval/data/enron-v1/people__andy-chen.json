@@ -1,0 +1,14 @@
+{
+  "slug": "people/andy-chen",
+  "type": "person",
+  "title": "Andy Chen",
+  "compiled_truth": "Andy Chen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-12 to 2001-11-15), Andy Chen sent 2 and received 95 emails, totalling 97 interactions. Top correspondents: [Chris Stokley](people/chris-stokley) (2). Mailbox folders observed: chris_stokley.",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2001-11-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andy-chen",
+    "name": "Andy Chen",
+    "email": "andy.chen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

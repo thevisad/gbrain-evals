@@ -1,0 +1,14 @@
+{
+  "slug": "people/asmyres-msn",
+  "type": "person",
+  "title": "Asmyres",
+  "compiled_truth": "Asmyres is an external contact at [MSN](companies/msn). Over the corpus period (2001-09-17 to 2001-11-19), Asmyres sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/asmyres-msn",
+    "name": "Asmyres",
+    "email": "asmyres@msn.com",
+    "primary_affiliation": "companies/msn"
+  }
+}

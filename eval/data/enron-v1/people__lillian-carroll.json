@@ -1,0 +1,14 @@
+{
+  "slug": "people/lillian-carroll",
+  "type": "person",
+  "title": "Lillian Carroll",
+  "compiled_truth": "Lillian Carroll is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-03), Lillian Carroll sent 24 and received 149 emails, totalling 173 interactions. Top correspondents: [Nick Cocavessis](people/nick-cocavessis) (19), [Greg Brazaitis](people/greg-brazaitis) (17), [Jim Coffey](people/jim-coffey) (17), [Brad Blevins](people/brad-blevins) (16), [Lal Echterhoff](people/lal-echterhoff) (16). Mailbox folders observed: _americas.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lillian-carroll",
+    "name": "Lillian Carroll",
+    "email": "lillian.carroll@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

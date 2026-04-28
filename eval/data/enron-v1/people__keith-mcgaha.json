@@ -1,0 +1,14 @@
+{
+  "slug": "people/keith-mcgaha",
+  "type": "person",
+  "title": "Keith Mcgaha",
+  "compiled_truth": "Keith Mcgaha is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2000-11-03), Keith Mcgaha sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keith-mcgaha",
+    "name": "Keith Mcgaha",
+    "email": "keith.mcgaha@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

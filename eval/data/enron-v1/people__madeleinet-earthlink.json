@@ -1,0 +1,14 @@
+{
+  "slug": "people/madeleinet-earthlink",
+  "type": "person",
+  "title": "Madeleinet",
+  "compiled_truth": "Madeleinet is an external contact at [Earthlink](companies/earthlink). Over the corpus period (1999-09-21 to 2001-11-05), Madeleinet sent 7 and received 19 emails, totalling 26 interactions. Top correspondents: [Jdasovic](people/jdasovic) (5), [Jeff Dasovich](people/jeff-dasovich) (2), [Larishea](people/larishea-horse-vacation) (1), [Pat Scatena](people/pat-scatena-ccm) (1), [Agrubb](people/agrubb-calnurses) (1).",
+  "timeline": "- **1999-09-21** | First recorded email in corpus\n- **2001-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/madeleinet-earthlink",
+    "name": "Madeleinet",
+    "email": "madeleinet@earthlink.net",
+    "primary_affiliation": "companies/earthlink"
+  }
+}

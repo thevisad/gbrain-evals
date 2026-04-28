@@ -1,0 +1,14 @@
+{
+  "slug": "people/jane-wilson",
+  "type": "person",
+  "title": "Jane Wilson",
+  "compiled_truth": "Jane Wilson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-21 to 2001-09-19), Jane Wilson sent 22 and received 131 emails, totalling 153 interactions. Top correspondents: [Steven Kean](people/steven-kean) (12), [Wade Cline](people/wade-cline) (6), [Neil Mcgregor](people/neil-mcgregor) (5), [Sanjay Bhatnagar](people/sanjay-bhatnagar) (3), [Ashok Mehta](people/ashok-mehta) (3).",
+  "timeline": "- **1999-10-21** | First recorded email in corpus\n- **2001-09-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jane-wilson",
+    "name": "Jane Wilson",
+    "email": "jane.wilson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

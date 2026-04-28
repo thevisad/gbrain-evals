@@ -1,0 +1,25 @@
+{
+  "slug": "companies/whitecase",
+  "type": "company",
+  "title": "Whitecase",
+  "compiled_truth": "Whitecase is an external organization that appears in the Enron email corpus. Domain: whitecase.com. Total email interactions with Enron: 239. Known contacts: 8 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (239 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/whitecase",
+    "name": "Whitecase",
+    "employees": [
+      "people/bholman-whitecase",
+      "people/bmerryman-whitecase",
+      "people/hchow-whitecase",
+      "people/jbloom-whitecase",
+      "people/jcohen-whitecase",
+      "people/jkarp-whitecase",
+      "people/jsturgeon-whitecase",
+      "people/lcottle-whitecase"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

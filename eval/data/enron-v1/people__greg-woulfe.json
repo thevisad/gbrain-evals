@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-woulfe",
+  "type": "person",
+  "title": "Greg Woulfe",
+  "compiled_truth": "Greg Woulfe is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2002-02-28), Greg Woulfe sent 21 and received 121 emails, totalling 142 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (5), [Doug Gilbert-Smith](people/doug-gilbert-smith) (4), [Joe Stepenovitch](people/joe-stepenovitch) (4), [Sally Beck](people/sally-beck) (2), [Vince Kaminski](people/vince-kaminski) (2). Mailbox folders observed: deleted_items, fundamentals, inbox.",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-woulfe",
+    "name": "Greg Woulfe",
+    "email": "greg.woulfe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

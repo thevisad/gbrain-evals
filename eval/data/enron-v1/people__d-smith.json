@@ -1,0 +1,14 @@
+{
+  "slug": "people/d-smith",
+  "type": "person",
+  "title": "D Smith",
+  "compiled_truth": "D Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-14 to 2002-01-29), D Smith sent 11 and received 69 emails, totalling 80 interactions. Top correspondents: [Richard Ring](people/richard-ring) (6), [D  Steffes](people/d-steffes) (5), [Angela Schwarz](people/angela-schwarz) (4), [Jeff Dasovich](people/jeff-dasovich) (4), [Jeremy Blachman](people/jeremy-blachman) (3). Mailbox folders observed: eesiphysicalpowerdelivery, eesirenewableenergy, inbox.",
+  "timeline": "- **2000-03-14** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d-smith",
+    "name": "D Smith",
+    "email": "d.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

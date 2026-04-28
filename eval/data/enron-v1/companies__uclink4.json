@@ -1,0 +1,35 @@
+{
+  "slug": "companies/uclink4",
+  "type": "company",
+  "title": "Uclink4",
+  "compiled_truth": "Uclink4 is an external organization that appears in the Enron email corpus. Domain: uclink4.com. Total email interactions with Enron: 304. Known contacts: 18 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (304 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/uclink4",
+    "name": "Uclink4",
+    "employees": [
+      "people/amyn-uclink4",
+      "people/dwindham-uclink4",
+      "people/ebell-uclink4",
+      "people/erasmus-uclink4",
+      "people/gspp-bayarea-uclink4",
+      "people/gspp-sacto-uclink4",
+      "people/hidi-uclink4",
+      "people/jschool1yrs-uclink4",
+      "people/jschool2yrs-uclink4",
+      "people/jschool3yrs-uclink4",
+      "people/kriordan-uclink4",
+      "people/lfried-uclink4",
+      "people/postdocnet-uclink4",
+      "people/randyk-uclink4",
+      "people/somesh-uclink4",
+      "people/terrieg-uclink4",
+      "people/text-uclink4",
+      "people/zarkin-uclink4"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

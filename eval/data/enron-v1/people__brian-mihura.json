@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-mihura",
+  "type": "person",
+  "title": "Brian Mihura",
+  "compiled_truth": "Brian Mihura is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-17 to 2001-12-12), Brian Mihura sent 1 and received 19 emails, totalling 20 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-05-17** | First recorded email in corpus\n- **2001-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-mihura",
+    "name": "Brian Mihura",
+    "email": "brian.mihura@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

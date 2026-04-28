@@ -1,0 +1,14 @@
+{
+  "slug": "people/judy-nyegaard",
+  "type": "person",
+  "title": "Judy Nyegaard",
+  "compiled_truth": "Judy Nyegaard is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-06 to 2001-12-03), Judy Nyegaard sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-01-06** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/judy-nyegaard",
+    "name": "Judy Nyegaard",
+    "email": "judy.nyegaard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

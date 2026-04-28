@@ -1,0 +1,14 @@
+{
+  "slug": "people/mindy-miller",
+  "type": "person",
+  "title": "Mindy Miller",
+  "compiled_truth": "Mindy Miller is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-28 to 2001-09-28), Mindy Miller sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-09-28** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mindy-miller",
+    "name": "Mindy Miller",
+    "email": "mindy.miller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

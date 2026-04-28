@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephanie-hopkins",
+  "type": "person",
+  "title": "Stephanie Hopkins",
+  "compiled_truth": "Stephanie Hopkins is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-07 to 2002-04-15), Stephanie Hopkins sent 6 and received 75 emails, totalling 81 interactions. Top correspondents: [M  Love](people/m-love) (4), [Patrick Ryder](people/patrick-ryder) (2), [Martin Cuilla](people/martin-cuilla) (1), [Chris Germany](people/chris-germany) (1), [Kam Keiser](people/kam-keiser) (1). Mailbox folders observed: bankrupt, deleted_items, inbox.",
+  "timeline": "- **2001-08-07** | First recorded email in corpus\n- **2002-04-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephanie-hopkins",
+    "name": "Stephanie Hopkins",
+    "email": "stephanie.hopkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

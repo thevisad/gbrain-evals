@@ -1,0 +1,14 @@
+{
+  "slug": "people/sgovenar-govadv",
+  "type": "person",
+  "title": "Sgovenar",
+  "compiled_truth": "Sgovenar is an external contact at [Govadv](companies/govadv). Over the corpus period (2000-02-05 to 2001-12-20), Sgovenar sent 202 and received 903 emails, totalling 1105 interactions. Top correspondents: [Paul Kaufman](people/paul-kaufman) (152), [Harry Kingerski](people/harry-kingerski) (143), [Jdasovic](people/jdasovic) (142), [Smara](people/smara) (129), [Leslie Lawner](people/leslie-lawner) (126).",
+  "timeline": "- **2000-02-05** | First recorded email in corpus\n- **2001-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sgovenar-govadv",
+    "name": "Sgovenar",
+    "email": "sgovenar@govadv.com",
+    "primary_affiliation": "companies/govadv"
+  }
+}

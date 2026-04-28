@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-christenson",
+  "type": "person",
+  "title": "Chris Christenson",
+  "compiled_truth": "Chris Christenson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-12 to 2002-03-25), Chris Christenson sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-10-12** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-christenson",
+    "name": "Chris Christenson",
+    "email": "chris.christenson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

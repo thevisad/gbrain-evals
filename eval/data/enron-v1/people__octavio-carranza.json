@@ -1,0 +1,14 @@
+{
+  "slug": "people/octavio-carranza",
+  "type": "person",
+  "title": "Octavio Carranza",
+  "compiled_truth": "Octavio Carranza is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-15 to 2001-11-28), Octavio Carranza sent 1 and received 36 emails, totalling 37 interactions. Top correspondents: [Ibrahim Qureishi](people/ibrahim-qureishi) (1), [Ryan Deane](people/ryan-deane) (1), [Cristina Zavala](people/cristina-zavala) (1), [Victor Browner](people/victor-browner) (1), [Gray Calvert](people/gray-calvert) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-11-15** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/octavio-carranza",
+    "name": "Octavio Carranza",
+    "email": "octavio.carranza@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

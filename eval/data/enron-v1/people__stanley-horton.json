@@ -1,0 +1,14 @@
+{
+  "slug": "people/stanley-horton",
+  "type": "person",
+  "title": "Stanley Horton",
+  "compiled_truth": "Stanley Horton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-16 to 2002-03-22), Stanley Horton sent 714 and received 1212 emails, totalling 1926 interactions. Top correspondents: [Caron Horton](people/caron-horton-trinity) (76), [Peggy Fowler](people/peggy-fowler) (41), [Tgboldig](people/tgboldig-aol) (38), [Rod Hayslett](people/rod-hayslett) (31), [Cindy Stark](people/cindy-stark) (27). Mailbox folders observed: _sent_mail, deleted_items, inbox, personal, prc, projects.",
+  "timeline": "- **1999-08-16** | First recorded email in corpus\n- **2002-03-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stanley-horton",
+    "name": "Stanley Horton",
+    "email": "stanley.horton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

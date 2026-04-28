@@ -1,0 +1,14 @@
+{
+  "slug": "people/bkc7-pge",
+  "type": "person",
+  "title": "Bkc7",
+  "compiled_truth": "Bkc7 is an external contact at [PG&E](companies/pge). Over the corpus period (2000-10-31 to 2001-12-18), Bkc7 sent 54 and received 22 emails, totalling 76 interactions. Top correspondents: [Jdasovic](people/jdasovic) (46), [Jeff Dasovich](people/jeff-dasovich) (8).",
+  "timeline": "- **2000-10-31** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bkc7-pge",
+    "name": "Bkc7",
+    "email": "bkc7@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

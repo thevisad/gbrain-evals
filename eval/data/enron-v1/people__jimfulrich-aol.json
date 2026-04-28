@@ -1,0 +1,14 @@
+{
+  "slug": "people/jimfulrich-aol",
+  "type": "person",
+  "title": "Jimfulrich",
+  "compiled_truth": "Jimfulrich is an external contact at [AOL](companies/aol). Over the corpus period (2000-09-04 to 2001-09-28), Jimfulrich sent 0 and received 57 emails, totalling 57 interactions.",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jimfulrich-aol",
+    "name": "Jimfulrich",
+    "email": "jimfulrich@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

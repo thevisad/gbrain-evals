@@ -1,0 +1,14 @@
+{
+  "slug": "people/tim-loposer-williams",
+  "type": "person",
+  "title": "Tim Loposer",
+  "compiled_truth": "Tim Loposer is an external contact at [Williams Companies](companies/williams). Over the corpus period (2000-12-08 to 2001-01-23), Tim Loposer sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-12-08** | First recorded email in corpus\n- **2001-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tim-loposer-williams",
+    "name": "Tim Loposer",
+    "email": "tim.loposer@williams.com",
+    "primary_affiliation": "companies/williams"
+  }
+}

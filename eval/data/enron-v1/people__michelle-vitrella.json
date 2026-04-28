@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-vitrella",
+  "type": "person",
+  "title": "Michelle Vitrella",
+  "compiled_truth": "Michelle Vitrella is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-05-22), Michelle Vitrella sent 4 and received 26 emails, totalling 30 interactions. Top correspondents: [Janet Dietrich](people/janet-dietrich) (4), [Sally Beck](people/sally-beck) (4), [Stephen Douglas](people/stephen-douglas) (4), [Alan Aronowitz](people/alan-aronowitz) (4), [Rick Bergsieker](people/rick-bergsieker) (4).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-vitrella",
+    "name": "Michelle Vitrella",
+    "email": "michelle.vitrella@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

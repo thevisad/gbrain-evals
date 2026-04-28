@@ -1,0 +1,14 @@
+{
+  "slug": "people/reidstav-houston",
+  "type": "person",
+  "title": "Reidstav",
+  "compiled_truth": "Reidstav is an external contact at [Houston](companies/houston). Over the corpus period (2000-11-02 to 2002-01-16), Reidstav sent 2 and received 24 emails, totalling 26 interactions. Top correspondents: [Don Baughman](people/don-baughman) (2), [Mcgowen Elisa](people/mcgowen-elisa) (1), [Stewart Marc](people/stewart-marc) (1), [King April](people/king-april) (1).",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reidstav-houston",
+    "name": "Reidstav",
+    "email": "reidstav@houston.rr.com",
+    "primary_affiliation": "companies/houston"
+  }
+}

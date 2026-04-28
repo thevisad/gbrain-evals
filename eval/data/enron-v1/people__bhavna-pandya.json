@@ -1,0 +1,14 @@
+{
+  "slug": "people/bhavna-pandya",
+  "type": "person",
+  "title": "Bhavna Pandya",
+  "compiled_truth": "Bhavna Pandya is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2001-11-10), Bhavna Pandya sent 1 and received 71 emails, totalling 72 interactions. Top correspondents: [E Taylor](people/e-taylor) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2001-11-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bhavna-pandya",
+    "name": "Bhavna Pandya",
+    "email": "bhavna.pandya@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

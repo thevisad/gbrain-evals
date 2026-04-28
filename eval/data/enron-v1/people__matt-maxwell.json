@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-maxwell",
+  "type": "person",
+  "title": "Matt Maxwell",
+  "compiled_truth": "Matt Maxwell is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2001-11-27), Matt Maxwell sent 5 and received 330 emails, totalling 335 interactions. Top correspondents: [Barton Clark](people/barton-clark) (2), [Bob Carter](people/bob-carter) (2), [Gerald Nemec](people/gerald-nemec) (2), [Patrick Conner](people/patrick-conner) (2), [Peter Vecchio](people/peter-vecchio) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-maxwell",
+    "name": "Matt Maxwell",
+    "email": "matt.maxwell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

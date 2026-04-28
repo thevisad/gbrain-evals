@@ -1,0 +1,14 @@
+{
+  "slug": "people/djsmith-smithandkempton",
+  "type": "person",
+  "title": "Djsmith",
+  "compiled_truth": "Djsmith is an external contact at [Smithandkempton](companies/smithandkempton). Over the corpus period (2000-10-27 to 2001-07-14), Djsmith sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-07-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/djsmith-smithandkempton",
+    "name": "Djsmith",
+    "email": "djsmith@smithandkempton.com",
+    "primary_affiliation": "companies/smithandkempton"
+  }
+}

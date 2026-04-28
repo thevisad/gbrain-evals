@@ -1,0 +1,14 @@
+{
+  "slug": "people/laine-powell",
+  "type": "person",
+  "title": "Laine Powell",
+  "compiled_truth": "Laine Powell is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-02), Laine Powell sent 2 and received 91 emails, totalling 93 interactions. Top correspondents: [Chuizer](people/chuizer-lycos) (1), [Christiaan Huizer](people/christiaan-huizer) (1), [Ppuente](people/ppuente) (1), [Mel Schulze](people/mel-schulze) (1), [Tony Apps](people/tony-apps) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laine-powell",
+    "name": "Laine Powell",
+    "email": "laine.powell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

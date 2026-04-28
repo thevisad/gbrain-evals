@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-hemstock",
+  "type": "person",
+  "title": "Robert Hemstock",
+  "compiled_truth": "Robert Hemstock is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-13 to 2002-02-06), Robert Hemstock sent 33 and received 414 emails, totalling 447 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (24), [Aleck Dadson](people/aleck-dadson) (21), [Steven Kean](people/steven-kean) (14), [Rob Milnthorp](people/rob-milnthorp) (14), [Peter Keohane](people/peter-keohane) (11). Mailbox folders observed: 2002_budget, canada, deleted_items, security___collateral.",
+  "timeline": "- **2000-01-13** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-hemstock",
+    "name": "Robert Hemstock",
+    "email": "robert.hemstock@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

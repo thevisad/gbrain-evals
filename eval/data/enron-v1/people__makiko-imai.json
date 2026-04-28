@@ -1,0 +1,14 @@
+{
+  "slug": "people/makiko-imai",
+  "type": "person",
+  "title": "Makiko Imai",
+  "compiled_truth": "Makiko Imai is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-07 to 2001-11-30), Makiko Imai sent 0 and received 58 emails, totalling 58 interactions.",
+  "timeline": "- **2001-03-07** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/makiko-imai",
+    "name": "Makiko Imai",
+    "email": "makiko.imai@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

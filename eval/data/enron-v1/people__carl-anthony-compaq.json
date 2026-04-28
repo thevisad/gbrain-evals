@@ -1,0 +1,14 @@
+{
+  "slug": "people/carl-anthony-compaq",
+  "type": "person",
+  "title": "Carl Anthony",
+  "compiled_truth": "Carl Anthony is an external contact at [Compaq](companies/compaq). Over the corpus period (2000-06-20 to 2001-02-12), Carl Anthony sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2001-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carl-anthony-compaq",
+    "name": "Carl Anthony",
+    "email": "carl.anthony@compaq.com",
+    "primary_affiliation": "companies/compaq"
+  }
+}

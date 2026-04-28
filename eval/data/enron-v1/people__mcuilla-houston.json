@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcuilla-houston",
+  "type": "person",
+  "title": "Mcuilla",
+  "compiled_truth": "Mcuilla is an external contact at [Houston](companies/houston). Over the corpus period (2001-03-28 to 2001-12-03), Mcuilla sent 8 and received 20 emails, totalling 28 interactions. Top correspondents: [Martin Cuilla](people/martin-cuilla) (8).",
+  "timeline": "- **2001-03-28** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcuilla-houston",
+    "name": "Mcuilla",
+    "email": "mcuilla@houston.rr.com",
+    "primary_affiliation": "companies/houston"
+  }
+}

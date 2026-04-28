@@ -1,0 +1,14 @@
+{
+  "slug": "people/paula-schaetzle",
+  "type": "person",
+  "title": "Paula Schaetzle",
+  "compiled_truth": "Paula Schaetzle is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-20 to 2000-11-20), Paula Schaetzle sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-20** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paula-schaetzle",
+    "name": "Paula Schaetzle",
+    "email": "paula.schaetzle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

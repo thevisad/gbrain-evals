@@ -1,0 +1,14 @@
+{
+  "slug": "people/thierry-noel",
+  "type": "person",
+  "title": "Thierry Noel",
+  "compiled_truth": "Thierry Noel is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-19 to 2001-11-09), Thierry Noel sent 2 and received 7 emails, totalling 9 interactions. Top correspondents: [Stephanie Panus](people/stephanie-panus) (2), [Ken Curry](people/ken-curry) (2), [Rebecca Phillips](people/rebecca-phillips) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thierry-noel",
+    "name": "Thierry Noel",
+    "email": "thierry.noel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

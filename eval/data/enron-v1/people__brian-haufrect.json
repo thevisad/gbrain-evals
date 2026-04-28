@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-haufrect",
+  "type": "person",
+  "title": "Brian Haufrect",
+  "compiled_truth": "Brian Haufrect is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-05-15), Brian Haufrect sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-haufrect",
+    "name": "Brian Haufrect",
+    "email": "brian.haufrect@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

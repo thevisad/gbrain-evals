@@ -1,0 +1,14 @@
+{
+  "slug": "people/pat-scatena-ccm",
+  "type": "person",
+  "title": "Pat Scatena",
+  "compiled_truth": "Pat Scatena is an external contact at [Ccm](companies/ccm). Over the corpus period (1999-12-07 to 2001-11-13), Pat Scatena sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pat-scatena-ccm",
+    "name": "Pat Scatena",
+    "email": "pat_scatena@ccm.sc.intel.com",
+    "primary_affiliation": "companies/ccm"
+  }
+}

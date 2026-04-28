@@ -1,0 +1,14 @@
+{
+  "slug": "people/elizabeth-linnell",
+  "type": "person",
+  "title": "Elizabeth Linnell",
+  "compiled_truth": "Elizabeth Linnell is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-29 to 2002-05-06), Elizabeth Linnell sent 70 and received 900 emails, totalling 970 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (35), [Steven Kean](people/steven-kean) (29), [Jeff Dasovich](people/jeff-dasovich) (16), [Maureen Mcvicker](people/maureen-mcvicker) (14), [James Steffes](people/james-steffes) (14). Mailbox folders observed: 2001_budget, 2001_prc__midyear, 2002_budget, bankruptcy, budget, california.",
+  "timeline": "- **1999-08-29** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elizabeth-linnell",
+    "name": "Elizabeth Linnell",
+    "email": "elizabeth.linnell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

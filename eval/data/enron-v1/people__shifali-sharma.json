@@ -1,0 +1,14 @@
+{
+  "slug": "people/shifali-sharma",
+  "type": "person",
+  "title": "Shifali Sharma",
+  "compiled_truth": "Shifali Sharma is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2002-06-21), Shifali Sharma sent 6 and received 76 emails, totalling 82 interactions. Top correspondents: [Greg Whalley](people/greg-whalley) (4), [Sara Shackleton](people/sara-shackleton) (2), [Beth Apollo](people/beth-apollo) (1), [Kevin Sweeney](people/kevin-sweeney) (1), [Cheryl Lindeman](people/cheryl-lindeman) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shifali-sharma",
+    "name": "Shifali Sharma",
+    "email": "shifali.sharma@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

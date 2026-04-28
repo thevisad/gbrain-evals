@@ -1,0 +1,14 @@
+{
+  "slug": "people/thord-perkinscoie",
+  "type": "person",
+  "title": "Thord",
+  "compiled_truth": "Thord is an external contact at [Perkinscoie](companies/perkinscoie). Over the corpus period (2001-02-02 to 2001-02-15), Thord sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2001-02-02** | First recorded email in corpus\n- **2001-02-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thord-perkinscoie",
+    "name": "Thord",
+    "email": "thord@perkinscoie.com",
+    "primary_affiliation": "companies/perkinscoie"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ann-osire",
+  "type": "person",
+  "title": "Ann Osire",
+  "compiled_truth": "Ann Osire is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-18 to 2002-05-13), Ann Osire sent 15 and received 65 emails, totalling 80 interactions. Top correspondents: [Debra Perlingiere](people/debra-perlingiere) (15), [Ellen Wallumrod](people/ellen-wallumrod) (7), [E  Dickson](people/e-dickson) (6), [Theresa Staab](people/theresa-staab) (1), [Carole Frank](people/carole-frank) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-04-18** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ann-osire",
+    "name": "Ann Osire",
+    "email": "ann.osire@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

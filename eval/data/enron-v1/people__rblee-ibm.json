@@ -1,0 +1,14 @@
+{
+  "slug": "people/rblee-ibm",
+  "type": "person",
+  "title": "Rblee",
+  "compiled_truth": "Rblee is an external contact at [Ibm](companies/ibm). Over the corpus period (2000-06-20 to 2000-11-25), Rblee sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rblee-ibm",
+    "name": "Rblee",
+    "email": "rblee@ibm.net",
+    "primary_affiliation": "companies/ibm"
+  }
+}

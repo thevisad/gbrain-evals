@@ -1,0 +1,14 @@
+{
+  "slug": "people/wbooth-booth-law",
+  "type": "person",
+  "title": "Wbooth",
+  "compiled_truth": "Wbooth is an external contact at [Booth-law](companies/booth-law). Over the corpus period (2000-08-10 to 2002-06-12), Wbooth sent 2 and received 161 emails, totalling 163 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (2), [Kmccrea](people/kmccrea-sablaw) (2), [Brbarkovich](people/brbarkovich-earthlink) (2), [Dominic Dimare](people/dominic-dimare-calchamber) (2), [Cra](people/cra-calretailers) (2).",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2002-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wbooth-booth-law",
+    "name": "Wbooth",
+    "email": "wbooth@booth-law.com",
+    "primary_affiliation": "companies/booth-law"
+  }
+}

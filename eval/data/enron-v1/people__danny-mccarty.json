@@ -1,0 +1,14 @@
+{
+  "slug": "people/danny-mccarty",
+  "type": "person",
+  "title": "Danny Mccarty",
+  "compiled_truth": "Danny Mccarty is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-07 to 2002-05-06), Danny Mccarty sent 204 and received 825 emails, totalling 1029 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (25), [Eric Gadd](people/eric-gadd) (24), [Cms Router](people/cms-router) (21), [Stanley Horton](people/stanley-horton) (18), [Julie Armstrong](people/julie-armstrong) (18). Mailbox folders observed: action_items_in, calendar, deleted_items, enron_t_s, inbox, sent_items.",
+  "timeline": "- **1999-07-07** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/danny-mccarty",
+    "name": "Danny Mccarty",
+    "email": "danny.mccarty@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

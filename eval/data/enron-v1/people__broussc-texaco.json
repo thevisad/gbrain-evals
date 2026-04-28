@@ -1,0 +1,14 @@
+{
+  "slug": "people/broussc-texaco",
+  "type": "person",
+  "title": "Broussc",
+  "compiled_truth": "Broussc is an external contact at [Texaco](companies/texaco). Over the corpus period (2000-11-11 to 2000-11-11), Broussc sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/broussc-texaco",
+    "name": "Broussc",
+    "email": "broussc@texaco.com",
+    "primary_affiliation": "companies/texaco"
+  }
+}

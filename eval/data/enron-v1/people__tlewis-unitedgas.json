@@ -1,0 +1,14 @@
+{
+  "slug": "people/tlewis-unitedgas",
+  "type": "person",
+  "title": "Tlewis",
+  "compiled_truth": "Tlewis is an external contact at [Unitedgas](companies/unitedgas). Over the corpus period (1999-11-22 to 2001-01-26), Tlewis sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-01-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tlewis-unitedgas",
+    "name": "Tlewis",
+    "email": "tlewis@unitedgas.com",
+    "primary_affiliation": "companies/unitedgas"
+  }
+}

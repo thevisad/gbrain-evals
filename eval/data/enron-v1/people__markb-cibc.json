@@ -1,0 +1,14 @@
+{
+  "slug": "people/markb-cibc",
+  "type": "person",
+  "title": "Markb",
+  "compiled_truth": "Markb is an external contact at [Cibc](companies/cibc). Over the corpus period (2000-05-04 to 2001-06-11), Markb sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2000-05-04** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/markb-cibc",
+    "name": "Markb",
+    "email": "markb@cibc.ca",
+    "primary_affiliation": "companies/cibc"
+  }
+}

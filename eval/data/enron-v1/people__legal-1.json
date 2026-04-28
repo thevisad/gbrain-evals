@@ -1,0 +1,14 @@
+{
+  "slug": "people/legal-1",
+  "type": "person",
+  "title": "Legal 1",
+  "compiled_truth": "Legal 1 is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-01 to 2001-06-07), Legal 1 sent 22 and received 101 emails, totalling 123 interactions. Top correspondents: [Mary Cook](people/mary-cook) (10), [Gerald Nemec](people/gerald-nemec) (9), [Samantha Boyd](people/samantha-boyd) (9), [Tana Jones](people/tana-jones) (8), [Stephanie Panus](people/stephanie-panus) (8).",
+  "timeline": "- **1999-09-01** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/legal-1",
+    "name": "Legal 1",
+    "email": "legal.1@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

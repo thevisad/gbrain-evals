@@ -1,0 +1,14 @@
+{
+  "slug": "people/furse-chris",
+  "type": "person",
+  "title": "Furse Chris",
+  "compiled_truth": "Furse Chris is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2002-01-25), Furse Chris sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/furse-chris",
+    "name": "Furse Chris",
+    "email": "furse.chris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

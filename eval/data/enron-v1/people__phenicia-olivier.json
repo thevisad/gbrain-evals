@@ -1,0 +1,14 @@
+{
+  "slug": "people/phenicia-olivier",
+  "type": "person",
+  "title": "Phenicia Olivier",
+  "compiled_truth": "Phenicia Olivier is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-25 to 2002-05-06), Phenicia Olivier sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/phenicia-olivier",
+    "name": "Phenicia Olivier",
+    "email": "phenicia.olivier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-fabian",
+  "type": "person",
+  "title": "David Fabian",
+  "compiled_truth": "David Fabian is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2000-10-09), David Fabian sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2000-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-fabian",
+    "name": "David Fabian",
+    "email": "david.fabian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

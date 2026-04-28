@@ -1,0 +1,14 @@
+{
+  "slug": "people/ellsworth-conknet",
+  "type": "person",
+  "title": "Ellsworth",
+  "compiled_truth": "Ellsworth is an external contact at [Conknet](companies/conknet). Over the corpus period (2000-12-01 to 2002-02-01), Ellsworth sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2002-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ellsworth-conknet",
+    "name": "Ellsworth",
+    "email": "ellsworth@conknet.com",
+    "primary_affiliation": "companies/conknet"
+  }
+}

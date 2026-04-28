@@ -1,0 +1,14 @@
+{
+  "slug": "people/tammy-cashion",
+  "type": "person",
+  "title": "Tammy Cashion",
+  "compiled_truth": "Tammy Cashion is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-10 to 2001-11-19), Tammy Cashion sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-10** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tammy-cashion",
+    "name": "Tammy Cashion",
+    "email": "tammy.cashion@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

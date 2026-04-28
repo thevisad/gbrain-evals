@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-rice",
+  "type": "person",
+  "title": "Steve Rice",
+  "compiled_truth": "Steve Rice is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-12 to 2002-06-19), Steve Rice sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-10-12** | First recorded email in corpus\n- **2002-06-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-rice",
+    "name": "Steve Rice",
+    "email": "steve.rice@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

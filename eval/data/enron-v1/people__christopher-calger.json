@@ -1,0 +1,14 @@
+{
+  "slug": "people/christopher-calger",
+  "type": "person",
+  "title": "Christopher Calger",
+  "compiled_truth": "Christopher Calger is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-08-16), Christopher Calger sent 107 and received 1154 emails, totalling 1261 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (78), [Jeff Dasovich](people/jeff-dasovich) (24), [John Lavorato](people/john-lavorato) (23), [Tracy Ngo](people/tracy-ngo) (9), [Christian Yoder](people/christian-yoder) (8). Mailbox folders observed: _americas, read.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-08-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christopher-calger",
+    "name": "Christopher Calger",
+    "email": "christopher.calger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

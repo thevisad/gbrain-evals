@@ -1,0 +1,14 @@
+{
+  "slug": "people/cohnap-sce",
+  "type": "person",
+  "title": "Cohnap",
+  "compiled_truth": "Cohnap is an external contact at [Sce](companies/sce). Over the corpus period (2000-08-10 to 2001-12-21), Cohnap sent 0 and received 126 emails, totalling 126 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cohnap-sce",
+    "name": "Cohnap",
+    "email": "cohnap@sce.com",
+    "primary_affiliation": "companies/sce"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-klein",
+  "type": "person",
+  "title": "Bob Klein",
+  "compiled_truth": "Bob Klein is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-11 to 2000-10-06), Bob Klein sent 3 and received 111 emails, totalling 114 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2), [Brenda Herod](people/brenda-herod) (1), [Curry](people/curry-texaco) (1), [Davisrl](people/davisrl-texaco) (1), [Ledoujk](people/ledoujk-texaco) (1).",
+  "timeline": "- **1999-05-11** | First recorded email in corpus\n- **2000-10-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-klein",
+    "name": "Bob Klein",
+    "email": "bob.klein@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

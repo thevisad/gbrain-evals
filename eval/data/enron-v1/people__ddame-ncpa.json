@@ -1,0 +1,14 @@
+{
+  "slug": "people/ddame-ncpa",
+  "type": "person",
+  "title": "Ddame",
+  "compiled_truth": "Ddame is an external contact at [Ncpa](companies/ncpa). Over the corpus period (2000-02-24 to 2001-07-31), Ddame sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **2000-02-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ddame-ncpa",
+    "name": "Ddame",
+    "email": "ddame@ncpa.com",
+    "primary_affiliation": "companies/ncpa"
+  }
+}

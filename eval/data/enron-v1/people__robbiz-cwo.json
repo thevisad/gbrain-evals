@@ -1,0 +1,14 @@
+{
+  "slug": "people/robbiz-cwo",
+  "type": "person",
+  "title": "Robbiz",
+  "compiled_truth": "Robbiz is an external contact at [Cwo](companies/cwo). Over the corpus period (2000-09-01 to 2001-06-22), Robbiz sent 0 and received 67 emails, totalling 67 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-06-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robbiz-cwo",
+    "name": "Robbiz",
+    "email": "robbiz@cwo.com",
+    "primary_affiliation": "companies/cwo"
+  }
+}

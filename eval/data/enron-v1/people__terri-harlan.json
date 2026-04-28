@@ -1,0 +1,14 @@
+{
+  "slug": "people/terri-harlan",
+  "type": "person",
+  "title": "Terri Harlan",
+  "compiled_truth": "Terri Harlan is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-09), Terri Harlan sent 5 and received 36 emails, totalling 41 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (5), [Alan Aronowitz](people/alan-aronowitz) (4), [Sheila Glover](people/sheila-glover) (2).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terri-harlan",
+    "name": "Terri Harlan",
+    "email": "terri.harlan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

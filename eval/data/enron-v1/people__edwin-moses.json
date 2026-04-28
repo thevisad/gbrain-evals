@@ -1,0 +1,14 @@
+{
+  "slug": "people/edwin-moses",
+  "type": "person",
+  "title": "Edwin Moses",
+  "compiled_truth": "Edwin Moses is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-17 to 2001-11-14), Edwin Moses sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2001-05-17** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edwin-moses",
+    "name": "Edwin Moses",
+    "email": "edwin.moses@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

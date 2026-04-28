@@ -1,0 +1,21 @@
+{
+  "slug": "concepts/enron-broadband",
+  "type": "concept",
+  "title": "Enron Broadband Services",
+  "compiled_truth": "Enron's failed 2000–2001 venture into fiber optic bandwidth trading and video-on-demand, which generated fraudulent accounting entries and became a focus of criminal charges. Related organizations: [Enron](companies/enron), [SEC](companies/sec).",
+  "timeline": "- **2000-01-20** | Jeffrey Skilling announces Enron Broadband Services strategy\n- **2000-03-09** | Skilling and Lay claim broadband division worth $29B standalone\n- **2001-07-12** | Enron Broadband closes; 250 employees laid off\n- **2003-04-17** | Five Enron broadband executives indicted for securities fraud",
+  "_facts": {
+    "type": "concept",
+    "slug": "concepts/enron-broadband",
+    "related_companies": [
+      "companies/enron",
+      "companies/sec"
+    ],
+    "related_people": [
+      "people/kenneth-lay",
+      "people/jeffrey-skilling",
+      "people/andrew-fastow",
+      "people/richard-causey"
+    ]
+  }
+}

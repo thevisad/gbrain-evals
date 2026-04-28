@@ -1,0 +1,33 @@
+{
+  "slug": "threads/enron-north-america-2001-10",
+  "type": "meeting",
+  "title": "Thread: Enron North America",
+  "compiled_truth": "Email thread: \"Enron North America\". Ran from 2001-10-26 to 2001-11-19 with 8 messages. Participants: [Carol St ](people/carol-st), [Cassandra Schultz](people/cassandra-schultz), [Clara Carrington](people/clara-carrington), [Donna Lowry](people/donna-lowry), [Elizabeth Sager](people/elizabeth-sager), [Ellen Su](people/ellen-su), [Frank Cernosek](people/frank-cernosek), [Gary Hickerson](people/gary-hickerson).",
+  "timeline": "- **2001-10-26** | Thread begins: enron north america\n- **2001-11-19** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-north-america-2001-10",
+    "attendees": [
+      "people/carol-st",
+      "people/cassandra-schultz",
+      "people/clara-carrington",
+      "people/donna-lowry",
+      "people/elizabeth-sager",
+      "people/ellen-su",
+      "people/frank-cernosek",
+      "people/gary-hickerson",
+      "people/gerri-gosnell",
+      "people/jason-fischer",
+      "people/lisa-mellencamp",
+      "people/marie-heard",
+      "people/michael-tribolet",
+      "people/s-bradford",
+      "people/sara-shackleton",
+      "people/sheila-glover",
+      "people/stephanie-mcginnis",
+      "people/t-hodge",
+      "people/tanya-rohauer"
+    ],
+    "date": "2001-10-26"
+  }
+}

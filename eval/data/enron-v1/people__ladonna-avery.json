@@ -1,0 +1,14 @@
+{
+  "slug": "people/ladonna-avery",
+  "type": "person",
+  "title": "Ladonna Avery",
+  "compiled_truth": "Ladonna Avery is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-22 to 2001-11-25), Ladonna Avery sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-06-22** | First recorded email in corpus\n- **2001-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ladonna-avery",
+    "name": "Ladonna Avery",
+    "email": "ladonna.avery@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

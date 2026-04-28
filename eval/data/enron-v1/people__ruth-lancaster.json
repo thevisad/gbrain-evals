@@ -1,0 +1,14 @@
+{
+  "slug": "people/ruth-lancaster",
+  "type": "person",
+  "title": "Ruth Lancaster",
+  "compiled_truth": "Ruth Lancaster is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-03 to 2001-05-24), Ruth Lancaster sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **1999-12-03** | First recorded email in corpus\n- **2001-05-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ruth-lancaster",
+    "name": "Ruth Lancaster",
+    "email": "ruth.lancaster@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

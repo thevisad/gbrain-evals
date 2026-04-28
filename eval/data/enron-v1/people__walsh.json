@@ -1,0 +1,14 @@
+{
+  "slug": "people/walsh",
+  "type": "person",
+  "title": "Walsh",
+  "compiled_truth": "Walsh is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-16 to 2002-01-29), Walsh sent 14 and received 2 emails, totalling 16 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (14), [Louise Kitchen](people/louise-kitchen) (14), [K  Allen](people/k-allen) (14), [Chris Gaskill](people/chris-gaskill) (14), [Mike Grigsby](people/mike-grigsby) (14). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-16** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/walsh",
+    "name": "Walsh",
+    "email": "walsh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/klaguardia-hess",
+  "type": "person",
+  "title": "Klaguardia",
+  "compiled_truth": "Klaguardia is an external contact at [Hess](companies/hess). Over the corpus period (2002-01-25 to 2002-01-29), Klaguardia sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-25** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/klaguardia-hess",
+    "name": "Klaguardia",
+    "email": "klaguardia@hess.com",
+    "primary_affiliation": "companies/hess"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/davila1-txu",
+  "type": "person",
+  "title": "Davila1",
+  "compiled_truth": "Davila1 is an external contact at [Txu](companies/txu). Over the corpus period (2000-05-08 to 2001-05-25), Davila1 sent 75 and received 256 emails, totalling 331 interactions. Top correspondents: [Earl Tisdale](people/earl-tisdale) (75), [Liz Bellamy](people/liz-bellamy) (72), [Cstone1](people/cstone1-txu) (69), [Ggreen2](people/ggreen2-txu) (69), [Daren J Farmer](people/daren-j-farmer) (69).",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2001-05-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/davila1-txu",
+    "name": "Davila1",
+    "email": "davila1@txu.com",
+    "primary_affiliation": "companies/txu"
+  }
+}

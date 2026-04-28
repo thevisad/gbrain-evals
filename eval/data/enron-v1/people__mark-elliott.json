@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-elliott",
+  "type": "person",
+  "title": "Mark Elliott",
+  "compiled_truth": "Mark Elliott is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-12-16 to 2001-11-16), Mark Elliott sent 44 and received 184 emails, totalling 228 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (21), [Michael Brown](people/michael-brown) (11), [Sara Shackleton](people/sara-shackleton) (11), [Jeffrey Hodge](people/jeffrey-hodge) (9), [Richard Sanders](people/richard-sanders) (9).",
+  "timeline": "- **1998-12-16** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-elliott",
+    "name": "Mark Elliott",
+    "email": "mark.elliott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

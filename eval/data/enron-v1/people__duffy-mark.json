@@ -1,0 +1,14 @@
+{
+  "slug": "people/duffy-mark",
+  "type": "person",
+  "title": "Duffy Mark",
+  "compiled_truth": "Duffy Mark is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-17 to 2001-07-17), Duffy Mark sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/duffy-mark",
+    "name": "Duffy Mark",
+    "email": "duffy.mark@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

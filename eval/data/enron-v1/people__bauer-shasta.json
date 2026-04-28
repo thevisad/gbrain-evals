@@ -1,0 +1,14 @@
+{
+  "slug": "people/bauer-shasta",
+  "type": "person",
+  "title": "Bauer",
+  "compiled_truth": "Bauer is an external contact at [Shasta](companies/shasta). Over the corpus period (2000-05-21 to 2000-08-26), Bauer sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-08-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bauer-shasta",
+    "name": "Bauer",
+    "email": "bauer@shasta.phys.uh.edu",
+    "primary_affiliation": "companies/shasta"
+  }
+}

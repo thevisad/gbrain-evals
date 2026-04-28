@@ -1,0 +1,14 @@
+{
+  "slug": "people/byron-reid",
+  "type": "person",
+  "title": "Byron Reid",
+  "compiled_truth": "Byron Reid is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-12 to 2002-03-04), Byron Reid sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2001-06-12** | First recorded email in corpus\n- **2002-03-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/byron-reid",
+    "name": "Byron Reid",
+    "email": "byron.reid@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

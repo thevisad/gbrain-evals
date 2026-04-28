@@ -1,0 +1,14 @@
+{
+  "slug": "people/elsa-piekielniak",
+  "type": "person",
+  "title": "Elsa Piekielniak",
+  "compiled_truth": "Elsa Piekielniak is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-12 to 2001-11-07), Elsa Piekielniak sent 5 and received 142 emails, totalling 147 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (3), [Gary Hickerson](people/gary-hickerson) (2), [Laura Luce](people/laura-luce) (1), [Gregg Penman](people/gregg-penman) (1), [C  Giron](people/c-giron) (1). Mailbox folders observed: calendar.",
+  "timeline": "- **1999-08-12** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elsa-piekielniak",
+    "name": "Elsa Piekielniak",
+    "email": "elsa.piekielniak@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

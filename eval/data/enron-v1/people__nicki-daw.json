@@ -1,0 +1,14 @@
+{
+  "slug": "people/nicki-daw",
+  "type": "person",
+  "title": "Nicki Daw",
+  "compiled_truth": "Nicki Daw is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Nicki Daw sent 22 and received 372 emails, totalling 394 interactions. Top correspondents: [Raymond Bowen](people/raymond-bowen) (7), [Kimberly Hillis](people/kimberly-hillis) (7), [David Delainey](people/david-delainey) (6), [Kay Chapman](people/kay-chapman) (6), [John Lavorato](people/john-lavorato) (6). Mailbox folders observed: _americas, calendar, inbox, personal.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nicki-daw",
+    "name": "Nicki Daw",
+    "email": "nicki.daw@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

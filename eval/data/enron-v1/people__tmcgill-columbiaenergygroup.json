@@ -1,0 +1,14 @@
+{
+  "slug": "people/tmcgill-columbiaenergygroup",
+  "type": "person",
+  "title": "Tmcgill",
+  "compiled_truth": "Tmcgill is an external contact at [Columbiaenergygroup](companies/columbiaenergygroup). Over the corpus period (2000-02-12 to 2000-06-06), Tmcgill sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus\n- **2000-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tmcgill-columbiaenergygroup",
+    "name": "Tmcgill",
+    "email": "tmcgill@columbiaenergygroup.com",
+    "primary_affiliation": "companies/columbiaenergygroup"
+  }
+}

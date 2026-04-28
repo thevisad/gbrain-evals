@@ -1,0 +1,25 @@
+{
+  "slug": "companies/forge-build",
+  "type": "company",
+  "title": "Forge Build",
+  "compiled_truth": "Forge Build is a developer tools startup founded in 2024 by [Bex Leclerc](people/bex-leclerc), focused on building an incremental build system designed specifically for polyglot monorepos. The core premise is that existing build tools — even the well-regarded ones — fall apart when a repository mixes three or more languages with shared dependency graphs. Forge's approach treats the build graph as a first-class data structure, caching intermediate artifacts at a granularity most competing systems simply don't attempt.\n\nBex originally prototyped the system while working at a mid-size fintech that had outgrown its homegrown build scripts. After six months of internal use, the tooling cut CI times by roughly 60%, which was enough to convince her to spin it out. Early angel funding came from [Dev Osei](people/dev-osei) and [Uri Ramirez](people/uri-ramirez), both of whom had operational experience with monorepo pain at scale. Dev in particular pushed Bex to prioritize remote caching early, which turned out to be the right call — it became the feature that drove most initial adoption.\n\nBy mid-2027, Forge Build had grown to around 30 engineers and had a small but loyal user base among platform teams at Series B-to-D startups. The product supports a plugin architecture that lets teams write language-specific rules without forking the core engine. Rust, Go, TypeScript, and Python are first-class citizens; JVM support shipped in Q1 2028 after months of community requests.\n\nForge Build's relationship with Anchor Codec began in late 2027, when the Anchor team evaluated Forge internally for their own build pipeline. The evaluation surfaced some interesting edge cases around deterministic artifact hashing — Anchor's single-pass primitives produced outputs that Forge's content-addressable cache didn't always handle gracefully. This led to a short collaboration where both teams worked on a caching adapter. That adapter eventaully shipped as an open-source plugin and became a minor talking point in the developer tools community.\n\nThe company remains venture-backed but lean, operating out of Montreal with a distributed engineering team across North America and western Europe. Bex has been vocal about keeping headcount low and avoiding the \"platform bloat\" that tends to swallow devtools companies once they raise a Series B.",
+  "timeline": "- **2026-03-12** | Forge Build closes a $4.2M seed round led by [Dev Osei](people/dev-osei) with participation from [Uri Ramirez](people/uri-ramirez) and two unnamed angels.\n- **2026-07-08** | Public beta launched with support for Rust, Go, and TypeScript monorepos. Initial adoption concentrated among platform teams at mid-stage startups.\n- **2026-11-20** | [Bex Leclerc](people/bex-leclerc) gives a talk at DevToolsConf Montreal on \"Why Your Build Graph Is Lying to You.\"\n- **2027-02-14** | Remote caching feature hits GA; becomes the primary driver of new signups through the rest of the year.\n- **2027-06-03** | Forge Build hires its 20th engineer, a former build systems lead from a large e-commerce company.\n- **2027-09-18** | Anchor Codec begins internal evaluation of Forge Build for their CI pipeline; surfaces edge cases with deterministic artifact hashing.\n- **2027-11-30** | Joint working sessions between Forge and Anchor teams on content-addressable caching adapter for single-pass outputs.\n- **2028-01-22** | Open-source caching adapter plugin released on GitHub; modest but positive reception.\n- **2028-04-10** | JVM language support ships after extended beta; [Bex Leclerc](people/bex-leclerc) posts a lengthy retrospective on the difficulty of incremental compilation for Kotlin/Scala.\n- **2028-07-15** | Forge Build reportedly in early conversations about a Series A, though Bex has publicly said she's in no rush.",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/forge-build",
+    "name": "Forge Build",
+    "category": "startup",
+    "industry": "developer tools",
+    "description": "Incremental build system for polyglot monorepos",
+    "founded_year": 2024,
+    "founders": [
+      "people/bex-leclerc"
+    ],
+    "employees": [],
+    "investors": [
+      "people/dev-osei",
+      "people/uri-ramirez"
+    ],
+    "advisors": []
+  }
+}

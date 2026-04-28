@@ -1,0 +1,14 @@
+{
+  "slug": "people/wenzel-janet",
+  "type": "person",
+  "title": "Wenzel Janet",
+  "compiled_truth": "Wenzel Janet is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2002-01-25), Wenzel Janet sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wenzel-janet",
+    "name": "Wenzel Janet",
+    "email": "wenzel.janet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

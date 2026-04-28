@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-baird",
+  "type": "person",
+  "title": "Bill Baird",
+  "compiled_truth": "Bill Baird is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-28 to 2002-03-19), Bill Baird sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2001-09-28** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-baird",
+    "name": "Bill Baird",
+    "email": "bill.baird@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

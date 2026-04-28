@@ -1,0 +1,14 @@
+{
+  "slug": "people/kazuhiko-koshikawa-sanwabank",
+  "type": "person",
+  "title": "Kazuhiko Koshikawa",
+  "compiled_truth": "Kazuhiko Koshikawa is an external contact at [Sanwabank](companies/sanwabank). Over the corpus period (2000-05-04 to 2001-10-31), Kazuhiko Koshikawa sent 3 and received 43 emails, totalling 46 interactions. Top correspondents: [Rpickel](people/rpickel-isda) (3), [Board](people/board-isda) (3), [Crichards](people/crichards-isda) (2), [Ksumme](people/ksumme-isda) (1), [Lmarshall](people/lmarshall-isda) (1).",
+  "timeline": "- **2000-05-04** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kazuhiko-koshikawa-sanwabank",
+    "name": "Kazuhiko Koshikawa",
+    "email": "kazuhiko_koshikawa@sanwabank.co.jp",
+    "primary_affiliation": "companies/sanwabank"
+  }
+}

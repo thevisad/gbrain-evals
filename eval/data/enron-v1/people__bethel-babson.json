@@ -1,0 +1,14 @@
+{
+  "slug": "people/bethel-babson",
+  "type": "person",
+  "title": "Bethel",
+  "compiled_truth": "Bethel is an external contact at [Babson](companies/babson). Over the corpus period (2000-03-28 to 2001-03-06), Bethel sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2001-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bethel-babson",
+    "name": "Bethel",
+    "email": "bethel@babson.edu",
+    "primary_affiliation": "companies/babson"
+  }
+}

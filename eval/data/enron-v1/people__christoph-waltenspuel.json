@@ -1,0 +1,14 @@
+{
+  "slug": "people/christoph-waltenspuel",
+  "type": "person",
+  "title": "Christoph Waltenspuel",
+  "compiled_truth": "Christoph Waltenspuel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2001-05-31), Christoph Waltenspuel sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2001-05-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christoph-waltenspuel",
+    "name": "Christoph Waltenspuel",
+    "email": "christoph.waltenspuel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

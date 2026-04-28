@@ -1,0 +1,14 @@
+{
+  "slug": "people/rmetcalfe-isda-eur",
+  "type": "person",
+  "title": "Rmetcalfe",
+  "compiled_truth": "Rmetcalfe is an external contact at [Isda-eur](companies/isda-eur). Over the corpus period (1999-12-08 to 2001-11-07), Rmetcalfe sent 0 and received 64 emails, totalling 64 interactions.",
+  "timeline": "- **1999-12-08** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rmetcalfe-isda-eur",
+    "name": "Rmetcalfe",
+    "email": "rmetcalfe@isda-eur.org",
+    "primary_affiliation": "companies/isda-eur"
+  }
+}

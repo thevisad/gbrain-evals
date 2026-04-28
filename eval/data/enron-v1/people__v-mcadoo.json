@@ -1,0 +1,14 @@
+{
+  "slug": "people/v-mcadoo",
+  "type": "person",
+  "title": "V Mcadoo",
+  "compiled_truth": "V Mcadoo is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-20 to 2002-05-06), V Mcadoo sent 2 and received 25 emails, totalling 27 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (2), [Bill Donovan](people/bill-donovan) (1), [Dan Fancler](people/dan-fancler) (1), [Robert James](people/robert-james) (1), [Exec Jones](people/exec-jones) (1). Mailbox folders observed: deleted_items, e_mail_bin.",
+  "timeline": "- **2001-09-20** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/v-mcadoo",
+    "name": "V Mcadoo",
+    "email": "v.mcadoo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

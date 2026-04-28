@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-stage",
+  "type": "person",
+  "title": "Michael Stage",
+  "compiled_truth": "Michael Stage is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2001-02-22), Michael Stage sent 0 and received 168 emails, totalling 168 interactions.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2001-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-stage",
+    "name": "Michael Stage",
+    "email": "michael.stage@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-cates",
+  "type": "person",
+  "title": "Rick Cates",
+  "compiled_truth": "Rick Cates is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-01 to 2001-05-08), Rick Cates sent 3 and received 60 emails, totalling 63 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (3), [Chris Bailey](people/chris-bailey) (2), [Danny Hostetler](people/danny-hostetler) (2), [Dale Korver](people/dale-korver) (2), [Ed Lawrence](people/ed-lawrence) (2). Mailbox folders observed: 2000_goals_and_objectives.",
+  "timeline": "- **1999-04-01** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-cates",
+    "name": "Rick Cates",
+    "email": "rick.cates@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-cates",
+  "type": "person",
+  "title": "John Cates",
+  "compiled_truth": "John Cates is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-31 to 2001-10-16), John Cates sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-01-31** | First recorded email in corpus\n- **2001-10-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-cates",
+    "name": "John Cates",
+    "email": "john.cates@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

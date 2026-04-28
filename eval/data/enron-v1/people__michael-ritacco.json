@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-ritacco",
+  "type": "person",
+  "title": "Michael Ritacco",
+  "compiled_truth": "Michael Ritacco is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-24 to 2002-02-06), Michael Ritacco sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-09-24** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-ritacco",
+    "name": "Michael Ritacco",
+    "email": "michael.ritacco@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

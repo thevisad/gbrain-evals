@@ -1,0 +1,14 @@
+{
+  "slug": "people/rudy-benitez",
+  "type": "person",
+  "title": "Rudy Benitez",
+  "compiled_truth": "Rudy Benitez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2000-10-03), Rudy Benitez sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2000-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rudy-benitez",
+    "name": "Rudy Benitez",
+    "email": "rudy.benitez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

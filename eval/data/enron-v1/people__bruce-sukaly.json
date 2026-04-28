@@ -1,0 +1,14 @@
+{
+  "slug": "people/bruce-sukaly",
+  "type": "person",
+  "title": "Bruce Sukaly",
+  "compiled_truth": "Bruce Sukaly is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-04-30), Bruce Sukaly sent 11 and received 87 emails, totalling 98 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (6), [Benjamin Rogers](people/benjamin-rogers) (3), [Doug Gilbert-Smith](people/doug-gilbert-smith) (2), [Janet Dietrich](people/janet-dietrich) (2), [John Lavorato](people/john-lavorato) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bruce-sukaly",
+    "name": "Bruce Sukaly",
+    "email": "bruce.sukaly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

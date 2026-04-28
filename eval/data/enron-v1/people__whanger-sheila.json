@@ -1,0 +1,14 @@
+{
+  "slug": "people/whanger-sheila",
+  "type": "person",
+  "title": "Whanger Sheila",
+  "compiled_truth": "Whanger Sheila is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-14 to 2001-09-14), Whanger Sheila sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-09-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/whanger-sheila",
+    "name": "Whanger Sheila",
+    "email": "whanger.sheila@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

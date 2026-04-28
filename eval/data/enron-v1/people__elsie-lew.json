@@ -1,0 +1,14 @@
+{
+  "slug": "people/elsie-lew",
+  "type": "person",
+  "title": "Elsie Lew",
+  "compiled_truth": "Elsie Lew is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-06-20), Elsie Lew sent 1 and received 283 emails, totalling 284 interactions. Top correspondents: [Jennifer Thome](people/jennifer-thome) (1), [Lisa Gang](people/lisa-gang) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elsie-lew",
+    "name": "Elsie Lew",
+    "email": "elsie.lew@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

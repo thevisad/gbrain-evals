@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-tullos",
+  "type": "person",
+  "title": "Dave Tullos",
+  "compiled_truth": "Dave Tullos is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2000-09-14), Dave Tullos sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2000-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-tullos",
+    "name": "Dave Tullos",
+    "email": "dave.tullos@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

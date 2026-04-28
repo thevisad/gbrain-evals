@@ -1,0 +1,14 @@
+{
+  "slug": "people/opper-bolio",
+  "type": "person",
+  "title": " Opper-Bolio",
+  "compiled_truth": "Opper-Bolio is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-25 to 2001-11-27),  Opper-Bolio sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-10-25** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/opper-bolio",
+    "name": " Opper-Bolio",
+    "email": ".opper-bolio@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

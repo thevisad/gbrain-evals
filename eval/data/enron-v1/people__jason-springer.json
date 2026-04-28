@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-springer",
+  "type": "person",
+  "title": "Jason Springer",
+  "compiled_truth": "Jason Springer is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-08 to 2001-11-28), Jason Springer sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-11-08** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-springer",
+    "name": "Jason Springer",
+    "email": "jason.springer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

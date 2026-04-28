@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenneth-wagoner",
+  "type": "person",
+  "title": "Kenneth Wagoner",
+  "compiled_truth": "Kenneth Wagoner is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-15 to 2002-03-04), Kenneth Wagoner sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2001-11-15** | First recorded email in corpus\n- **2002-03-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenneth-wagoner",
+    "name": "Kenneth Wagoner",
+    "email": "kenneth.wagoner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "companies/bigplanet",
+  "type": "company",
+  "title": "Bigplanet",
+  "compiled_truth": "Bigplanet is an external organization that appears in the Enron email corpus. Domain: bigplanet.com. Total email interactions with Enron: 547. Known contacts: 5 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (547 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/bigplanet",
+    "name": "Bigplanet",
+    "employees": [
+      "people/daphneco64-bigplanet",
+      "people/hjohnston-bigplanet",
+      "people/jaredv-bigplanet",
+      "people/lwbthemarine-bigplanet",
+      "people/palowe-bigplanet"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

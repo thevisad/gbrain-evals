@@ -1,0 +1,14 @@
+{
+  "slug": "people/jmumford-socalgas",
+  "type": "person",
+  "title": "Jmumford",
+  "compiled_truth": "Jmumford is an external contact at [Socalgas](companies/socalgas). Over the corpus period (2000-05-08 to 2000-05-19), Jmumford sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2000-05-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jmumford-socalgas",
+    "name": "Jmumford",
+    "email": "jmumford@socalgas.com",
+    "primary_affiliation": "companies/socalgas"
+  }
+}

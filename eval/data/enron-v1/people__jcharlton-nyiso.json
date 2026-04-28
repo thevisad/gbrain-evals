@@ -1,0 +1,14 @@
+{
+  "slug": "people/jcharlton-nyiso",
+  "type": "person",
+  "title": "Jcharlton",
+  "compiled_truth": "Jcharlton is an external contact at [Nyiso](companies/nyiso). Over the corpus period (2001-09-04 to 2001-11-27), Jcharlton sent 11 and received 4 emails, totalling 15 interactions. Top correspondents: [Market Relations](people/market-relations-nyiso) (11), [Art Desell](people/art-desell-nyiso) (1), [Jpratico](people/jpratico-nyiso) (1).",
+  "timeline": "- **2001-09-04** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jcharlton-nyiso",
+    "name": "Jcharlton",
+    "email": "jcharlton@nyiso.com",
+    "primary_affiliation": "companies/nyiso"
+  }
+}

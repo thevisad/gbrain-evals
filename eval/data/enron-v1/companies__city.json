@@ -1,0 +1,29 @@
+{
+  "slug": "companies/city",
+  "type": "company",
+  "title": "City",
+  "compiled_truth": "City is an external organization that appears in the Enron email corpus. Domain: city.com. Total email interactions with Enron: 261. Known contacts: 12 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (261 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/city",
+    "name": "City",
+    "employees": [
+      "people/adoppel-city",
+      "people/girish-balachandran-city",
+      "people/grant-kolling-city",
+      "people/jane-ratchye-city",
+      "people/john-ulrich-city",
+      "people/karla-dailey-city",
+      "people/kirk-miller-city",
+      "people/lsilva-city",
+      "people/matt5066-city",
+      "people/monica-padilla-city",
+      "people/raveen-maan-city",
+      "people/slins-city"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

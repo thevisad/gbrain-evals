@@ -1,0 +1,14 @@
+{
+  "slug": "people/aaron-thomas-aesmail",
+  "type": "person",
+  "title": "Aaron Thomas",
+  "compiled_truth": "Aaron Thomas is an external contact at [Aesmail](companies/aesmail). Over the corpus period (2001-10-31 to 2001-12-21), Aaron Thomas sent 4 and received 5 emails, totalling 9 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (4), [Arm](people/arm) (1).",
+  "timeline": "- **2001-10-31** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aaron-thomas-aesmail",
+    "name": "Aaron Thomas",
+    "email": "aaron.thomas@aesmail.com",
+    "primary_affiliation": "companies/aesmail"
+  }
+}

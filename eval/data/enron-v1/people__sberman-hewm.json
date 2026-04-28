@@ -1,0 +1,14 @@
+{
+  "slug": "people/sberman-hewm",
+  "type": "person",
+  "title": "Sberman",
+  "compiled_truth": "Sberman is an external contact at [Hewm](companies/hewm). Over the corpus period (2000-06-23 to 2001-04-26), Sberman sent 2 and received 22 emails, totalling 24 interactions. Top correspondents: [Bmspeckman](people/bmspeckman-aol) (1), [Nwrto](people/nwrto-pplmt) (1), [Frank Afranji](people/frank-afranji-pgn) (1), [Mpa](people/mpa-aelaw) (1), [Ambarnes](people/ambarnes-bpa) (1).",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sberman-hewm",
+    "name": "Sberman",
+    "email": "sberman@hewm.com",
+    "primary_affiliation": "companies/hewm"
+  }
+}

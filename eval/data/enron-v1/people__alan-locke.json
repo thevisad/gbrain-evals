@@ -1,0 +1,14 @@
+{
+  "slug": "people/alan-locke",
+  "type": "person",
+  "title": "Alan Locke",
+  "compiled_truth": "Alan Locke is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2001-02-06), Alan Locke sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alan-locke",
+    "name": "Alan Locke",
+    "email": "alan.locke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

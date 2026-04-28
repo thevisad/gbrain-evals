@@ -1,0 +1,14 @@
+{
+  "slug": "people/lee-jackson",
+  "type": "person",
+  "title": "Lee Jackson",
+  "compiled_truth": "Lee Jackson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2002-01-18), Lee Jackson sent 5 and received 84 emails, totalling 89 interactions. Top correspondents: [Harry Arora](people/harry-arora) (2), [Kristin Gandy](people/kristin-gandy) (2), [Sara Shackleton](people/sara-shackleton) (2), [Tana Jones](people/tana-jones) (1), [Brant Reves](people/brant-reves) (1). Mailbox folders observed: vanderbilt.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lee-jackson",
+    "name": "Lee Jackson",
+    "email": "lee.jackson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

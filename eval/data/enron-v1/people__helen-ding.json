@@ -1,0 +1,14 @@
+{
+  "slug": "people/helen-ding",
+  "type": "person",
+  "title": "Helen Ding",
+  "compiled_truth": "Helen Ding is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-23 to 2001-10-29), Helen Ding sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2001-08-23** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/helen-ding",
+    "name": "Helen Ding",
+    "email": "helen.ding@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

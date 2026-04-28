@@ -1,0 +1,14 @@
+{
+  "slug": "people/thomas-hebert",
+  "type": "person",
+  "title": "Thomas Hebert",
+  "compiled_truth": "Thomas Hebert is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-12 to 2002-03-05), Thomas Hebert sent 1 and received 38 emails, totalling 39 interactions. Top correspondents: [Shelley Corman](people/shelley-corman) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-06-12** | First recorded email in corpus\n- **2002-03-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thomas-hebert",
+    "name": "Thomas Hebert",
+    "email": "thomas.hebert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

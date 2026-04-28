@@ -1,0 +1,14 @@
+{
+  "slug": "people/pine-haas",
+  "type": "person",
+  "title": "Pine",
+  "compiled_truth": "Pine is an external contact at [Haas](companies/haas). Over the corpus period (2000-01-29 to 2001-11-07), Pine sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-01-29** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pine-haas",
+    "name": "Pine",
+    "email": "pine@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bryan-reinecke",
+  "type": "person",
+  "title": "Bryan Reinecke",
+  "compiled_truth": "Bryan Reinecke is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-21), Bryan Reinecke sent 3 and received 161 emails, totalling 164 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (2), [Ron Matthews](people/ron-matthews) (2), [Morgan Gottsponer](people/morgan-gottsponer) (1), [Doug Aschwege](people/doug-aschwege) (1), [Dl-Ets Pfp](people/dl-ets-pfp) (1). Mailbox folders observed: enron_t_s, projects.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bryan-reinecke",
+    "name": "Bryan Reinecke",
+    "email": "bryan.reinecke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

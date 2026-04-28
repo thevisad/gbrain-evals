@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-melvin",
+  "type": "person",
+  "title": "Eric Melvin",
+  "compiled_truth": "Eric Melvin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-12 to 2001-09-13), Eric Melvin sent 0 and received 552 emails, totalling 552 interactions.",
+  "timeline": "- **2000-07-12** | First recorded email in corpus\n- **2001-09-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-melvin",
+    "name": "Eric Melvin",
+    "email": "eric.melvin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

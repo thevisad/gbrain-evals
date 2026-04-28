@@ -1,0 +1,14 @@
+{
+  "slug": "people/swiedermann-edisonmission",
+  "type": "person",
+  "title": "Swiedermann",
+  "compiled_truth": "Swiedermann is an external contact at [Edisonmission](companies/edisonmission). Over the corpus period (2001-02-12 to 2001-05-09), Swiedermann sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-02-12** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/swiedermann-edisonmission",
+    "name": "Swiedermann",
+    "email": "swiedermann@edisonmission.com",
+    "primary_affiliation": "companies/edisonmission"
+  }
+}

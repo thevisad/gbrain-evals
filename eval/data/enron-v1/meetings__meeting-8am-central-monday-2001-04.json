@@ -1,0 +1,25 @@
+{
+  "slug": "meetings/meeting-8am-central-monday-2001-04",
+  "type": "meeting",
+  "title": "Meeting: Meeting 8Am Central Monday",
+  "compiled_truth": "Meeting: \"Meeting 8Am Central Monday\". Occurred 2001-04-13 through 2001-04-14 with 6 related emails. Participants included: [Don Black](people/don-black), [Eldon](people/eldon-interx), [Harry Kingerski](people/harry-kingerski), [James Lewis](people/james-lewis), [James Steffes](people/james-steffes), [Jbennett](people/jbennett-gmssr), [Jeff Dasovich](people/jeff-dasovich), [Leslie Lawner](people/leslie-lawner)....",
+  "timeline": "- **2001-04-13** | Meeting: meeting 8am central monday\n- **2001-04-14** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-8am-central-monday-2001-04",
+    "attendees": [
+      "people/don-black",
+      "people/eldon-interx",
+      "people/harry-kingerski",
+      "people/james-lewis",
+      "people/james-steffes",
+      "people/jbennett-gmssr",
+      "people/jeff-dasovich",
+      "people/leslie-lawner",
+      "people/rosalinda-tijerina",
+      "people/scott-stoness",
+      "people/tamara-johnson"
+    ],
+    "date": "2001-04-13"
+  }
+}

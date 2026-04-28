@@ -1,0 +1,14 @@
+{
+  "slug": "people/rodriquez-tony",
+  "type": "person",
+  "title": "Rodriquez Tony",
+  "compiled_truth": "Rodriquez Tony is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-01 to 2002-02-05), Rodriquez Tony sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-02-01** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rodriquez-tony",
+    "name": "Rodriquez Tony",
+    "email": "rodriquez.tony@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

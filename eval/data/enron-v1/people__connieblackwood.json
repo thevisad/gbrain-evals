@@ -1,0 +1,14 @@
+{
+  "slug": "people/connieblackwood",
+  "type": "person",
+  "title": "Connieblackwood",
+  "compiled_truth": "Connieblackwood is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-06 to 2000-10-06), Connieblackwood sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-06** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/connieblackwood",
+    "name": "Connieblackwood",
+    "email": "connieblackwood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

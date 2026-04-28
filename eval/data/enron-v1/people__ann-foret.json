@@ -1,0 +1,14 @@
+{
+  "slug": "people/ann-foret",
+  "type": "person",
+  "title": "Ann Foret",
+  "compiled_truth": "Ann Foret is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-19 to 2002-05-06), Ann Foret sent 3 and received 9 emails, totalling 12 interactions. Top correspondents: [Gary Maestas](people/gary-maestas) (3), [Steven Harris](people/steven-harris) (2), [Jerry Graves](people/jerry-graves) (2), [Scott Clark](people/scott-clark) (2), [Ron Matthews](people/ron-matthews) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-10-19** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ann-foret",
+    "name": "Ann Foret",
+    "email": "ann.foret@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

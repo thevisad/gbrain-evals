@@ -1,0 +1,14 @@
+{
+  "slug": "people/w-delainey",
+  "type": "person",
+  "title": "W  Delainey",
+  "compiled_truth": "W  Delainey is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-02 to 2002-01-29), W  Delainey sent 68 and received 155 emails, totalling 223 interactions. Top correspondents: [Jeremy Blachman](people/jeremy-blachman) (12), [Vicki Sharp](people/vicki-sharp) (12), [Janet Dietrich](people/janet-dietrich) (10), [Dan Leff](people/dan-leff) (9), [Kay Chapman](people/kay-chapman) (8). Mailbox folders observed: _americas, deleted_items, inbox, sent_items.",
+  "timeline": "- **2001-11-02** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/w-delainey",
+    "name": "W  Delainey",
+    "email": "w..delainey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bret-reich",
+  "type": "person",
+  "title": "Bret Reich",
+  "compiled_truth": "Bret Reich is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-01 to 2001-11-27), Bret Reich sent 3 and received 44 emails, totalling 47 interactions. Top correspondents: [George Robinson](people/george-robinson) (3), [Larry Campbell](people/larry-campbell) (3), [Louis Soldano](people/louis-soldano) (2), [Popedb](people/popedb-texaco) (1).",
+  "timeline": "- **1999-04-01** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bret-reich",
+    "name": "Bret Reich",
+    "email": "bret.reich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

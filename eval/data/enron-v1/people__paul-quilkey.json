@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-quilkey",
+  "type": "person",
+  "title": "Paul Quilkey",
+  "compiled_truth": "Paul Quilkey is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-29 to 2002-01-14), Paul Quilkey sent 8 and received 318 emails, totalling 326 interactions. Top correspondents: [J Kaminski](people/j-kaminski) (2), [Louise Kitchen](people/louise-kitchen) (2), [Raymond Yeow](people/raymond-yeow) (1), [Phillip Taylor](people/phillip-taylor) (1), [Mike Roberts](people/mike-roberts) (1). Mailbox folders observed: _americas, deleted_items.",
+  "timeline": "- **1999-07-29** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-quilkey",
+    "name": "Paul Quilkey",
+    "email": "paul.quilkey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

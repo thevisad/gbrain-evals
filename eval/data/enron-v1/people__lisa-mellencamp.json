@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-mellencamp",
+  "type": "person",
+  "title": "Lisa Mellencamp",
+  "compiled_truth": "Lisa Mellencamp is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-16), Lisa Mellencamp sent 127 and received 1170 emails, totalling 1297 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (36), [Michael Tribolet](people/michael-tribolet) (32), [B  Sanders](people/b-sanders) (22), [Sara Shackleton](people/sara-shackleton) (20), [Richard Sanders](people/richard-sanders) (17). Mailbox folders observed: _americas, california, california_issues, deleted_items, ees_neg_ctc, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-mellencamp",
+    "name": "Lisa Mellencamp",
+    "email": "lisa.mellencamp@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

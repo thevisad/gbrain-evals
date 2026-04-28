@@ -1,0 +1,14 @@
+{
+  "slug": "people/fwen-haas",
+  "type": "person",
+  "title": "Fwen",
+  "compiled_truth": "Fwen is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2001-05-07), Fwen sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-05-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fwen-haas",
+    "name": "Fwen",
+    "email": "fwen@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

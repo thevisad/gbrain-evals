@@ -1,0 +1,14 @@
+{
+  "slug": "people/henry-terech",
+  "type": "person",
+  "title": "Henry Terech",
+  "compiled_truth": "Henry Terech is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-25), Henry Terech sent 1 and received 29 emails, totalling 30 interactions. Top correspondents: [Philippe Bibi](people/philippe-bibi) (1), [Bill Donovan](people/bill-donovan) (1), [Steven Kean](people/steven-kean) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/henry-terech",
+    "name": "Henry Terech",
+    "email": "henry.terech@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

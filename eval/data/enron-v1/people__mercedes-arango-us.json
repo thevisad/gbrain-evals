@@ -1,0 +1,14 @@
+{
+  "slug": "people/mercedes-arango-us",
+  "type": "person",
+  "title": "Mercedes Arango",
+  "compiled_truth": "Mercedes Arango is an external contact at [Us](companies/us). Over the corpus period (2000-05-30 to 2000-12-04), Mercedes Arango sent 0 and received 68 emails, totalling 68 interactions.",
+  "timeline": "- **2000-05-30** | First recorded email in corpus\n- **2000-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mercedes-arango-us",
+    "name": "Mercedes Arango",
+    "email": "mercedes.arango@us.cibc.com",
+    "primary_affiliation": "companies/us"
+  }
+}

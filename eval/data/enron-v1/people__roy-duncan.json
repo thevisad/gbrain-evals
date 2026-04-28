@@ -1,0 +1,14 @@
+{
+  "slug": "people/roy-duncan",
+  "type": "person",
+  "title": "Roy Duncan",
+  "compiled_truth": "Roy Duncan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2000-09-14), Roy Duncan sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2000-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/roy-duncan",
+    "name": "Roy Duncan",
+    "email": "roy.duncan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

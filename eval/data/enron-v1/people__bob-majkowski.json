@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-majkowski",
+  "type": "person",
+  "title": "Bob Majkowski",
+  "compiled_truth": "Bob Majkowski is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-16 to 2001-10-03), Bob Majkowski sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-08-16** | First recorded email in corpus\n- **2001-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-majkowski",
+    "name": "Bob Majkowski",
+    "email": "bob.majkowski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

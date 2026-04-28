@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-ruane",
+  "type": "person",
+  "title": "Mark Ruane",
+  "compiled_truth": "Mark Ruane is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-03), Mark Ruane sent 7 and received 125 emails, totalling 132 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (4), [Rick Buy](people/rick-buy) (3), [David Gorte](people/david-gorte) (2), [S  Bradford](people/s-bradford) (1), [Rodney Faldyn](people/rodney-faldyn) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-ruane",
+    "name": "Mark Ruane",
+    "email": "mark.ruane@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

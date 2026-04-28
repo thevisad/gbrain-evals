@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-babaz",
+  "type": "person",
+  "title": "George Babaz",
+  "compiled_truth": "George Babaz is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-30 to 2002-05-06), George Babaz sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-07-30** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-babaz",
+    "name": "George Babaz",
+    "email": "george.babaz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

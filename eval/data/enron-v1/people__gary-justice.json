@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-justice",
+  "type": "person",
+  "title": "Gary Justice",
+  "compiled_truth": "Gary Justice is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-15 to 2001-11-26), Gary Justice sent 13 and received 239 emails, totalling 252 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (13), [Tammie Schoppe](people/tammie-schoppe) (11), [William Abler](people/william-abler) (11), [Karla Compean](people/karla-compean) (11), [Wendy Conwell](people/wendy-conwell) (11). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-09-15** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-justice",
+    "name": "Gary Justice",
+    "email": "gary.justice@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

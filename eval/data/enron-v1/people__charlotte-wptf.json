@@ -1,0 +1,14 @@
+{
+  "slug": "people/charlotte-wptf",
+  "type": "person",
+  "title": "Charlotte",
+  "compiled_truth": "Charlotte is an external contact at [Wptf](companies/wptf). Over the corpus period (2000-08-04 to 2001-10-31), Charlotte sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **2000-08-04** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charlotte-wptf",
+    "name": "Charlotte",
+    "email": "charlotte@wptf.org",
+    "primary_affiliation": "companies/wptf"
+  }
+}

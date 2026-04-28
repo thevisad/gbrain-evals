@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-gilchrist",
+  "type": "person",
+  "title": "Scott Gilchrist",
+  "compiled_truth": "Scott Gilchrist is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-12-21), Scott Gilchrist sent 4 and received 75 emails, totalling 79 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (2), [Gary Smith](people/gary-smith) (1), [Stanley Horton](people/stanley-horton) (1), [Steven Kean](people/steven-kean) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-gilchrist",
+    "name": "Scott Gilchrist",
+    "email": "scott.gilchrist@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

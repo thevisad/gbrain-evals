@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-campos",
+  "type": "person",
+  "title": "Kathy Campos",
+  "compiled_truth": "Kathy Campos is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2002-03-19), Kathy Campos sent 42 and received 316 emails, totalling 358 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (25), [Tracy Geaccone](people/tracy-geaccone) (20), [Jerry Peters](people/jerry-peters) (10), [James Saunders](people/james-saunders) (9), [Steve Gilbert](people/steve-gilbert) (9). Mailbox folders observed: contacts, deleted_items, inbox, older_than_30, projects, vacations.",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-campos",
+    "name": "Kathy Campos",
+    "email": "kathy.campos@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

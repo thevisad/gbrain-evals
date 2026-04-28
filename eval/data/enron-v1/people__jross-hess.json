@@ -1,0 +1,14 @@
+{
+  "slug": "people/jross-hess",
+  "type": "person",
+  "title": "Jross",
+  "compiled_truth": "Jross is an external contact at [Hess](companies/hess). Over the corpus period (2000-11-30 to 2001-09-11), Jross sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-30** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jross-hess",
+    "name": "Jross",
+    "email": "jross@hess.com",
+    "primary_affiliation": "companies/hess"
+  }
+}

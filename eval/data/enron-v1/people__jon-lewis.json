@@ -1,0 +1,14 @@
+{
+  "slug": "people/jon-lewis",
+  "type": "person",
+  "title": "Jon Lewis",
+  "compiled_truth": "Jon Lewis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-11-16), Jon Lewis sent 0 and received 67 emails, totalling 67 interactions.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jon-lewis",
+    "name": "Jon Lewis",
+    "email": "jon.lewis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

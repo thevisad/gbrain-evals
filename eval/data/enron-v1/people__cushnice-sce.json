@@ -1,0 +1,14 @@
+{
+  "slug": "people/cushnice-sce",
+  "type": "person",
+  "title": "Cushnice",
+  "compiled_truth": "Cushnice is an external contact at [Sce](companies/sce). Over the corpus period (1999-09-24 to 2001-07-31), Cushnice sent 0 and received 82 emails, totalling 82 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cushnice-sce",
+    "name": "Cushnice",
+    "email": "cushnice@sce.com",
+    "primary_affiliation": "companies/sce"
+  }
+}

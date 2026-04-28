@@ -1,0 +1,14 @@
+{
+  "slug": "people/rdwilson-kpmg",
+  "type": "person",
+  "title": "Rdwilson",
+  "compiled_truth": "Rdwilson is an external contact at [Kpmg](companies/kpmg). Over the corpus period (2000-05-18 to 2002-01-25), Rdwilson sent 1 and received 14 emails, totalling 15 interactions. Top correspondents: [Sally Beck](people/sally-beck) (1).",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rdwilson-kpmg",
+    "name": "Rdwilson",
+    "email": "rdwilson@kpmg.com",
+    "primary_affiliation": "companies/kpmg"
+  }
+}

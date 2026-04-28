@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-motley",
+  "type": "person",
+  "title": "Matt Motley",
+  "compiled_truth": "Matt Motley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2002-04-10), Matt Motley sent 20 and received 883 emails, totalling 903 interactions. Top correspondents: [Mike Grigsby](people/mike-grigsby) (3), [Bjm](people/bjm-jps) (2), [Mike Swerzbin](people/mike-swerzbin) (2), [Sean Crandall](people/sean-crandall) (1), [Robert Anderson](people/robert-anderson) (1). Mailbox folders observed: deleted_items, inbox, sent_items.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2002-04-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-motley",
+    "name": "Matt Motley",
+    "email": "matt.motley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

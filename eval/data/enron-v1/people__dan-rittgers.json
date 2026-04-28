@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-rittgers",
+  "type": "person",
+  "title": "Dan Rittgers",
+  "compiled_truth": "Dan Rittgers is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-05-06), Dan Rittgers sent 4 and received 16 emails, totalling 20 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (3), [Gavin Russo](people/gavin-russo) (3), [Sandra Hrna](people/sandra-hrna) (2), [Richard Hanagriff](people/richard-hanagriff) (1), [Rick Dietz](people/rick-dietz) (1). Mailbox folders observed: inbox, tw.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-rittgers",
+    "name": "Dan Rittgers",
+    "email": "dan.rittgers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

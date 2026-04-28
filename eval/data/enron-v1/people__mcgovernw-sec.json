@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcgovernw-sec",
+  "type": "person",
+  "title": "Mcgovernw",
+  "compiled_truth": "Mcgovernw is an external contact at [SEC](companies/sec). Over the corpus period (2000-09-11 to 2001-11-09), Mcgovernw sent 6 and received 30 emails, totalling 36 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (3), [ Taylor](people/taylor) (2), [Lhayman](people/lhayman-skadden) (1), [Amh5H](people/amh5h-virginia) (1), [Mlandk](people/mlandk-aol) (1).",
+  "timeline": "- **2000-09-11** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcgovernw-sec",
+    "name": "Mcgovernw",
+    "email": "mcgovernw@sec.gov",
+    "primary_affiliation": "companies/sec"
+  }
+}

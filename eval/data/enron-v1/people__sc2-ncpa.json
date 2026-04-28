@@ -1,0 +1,14 @@
+{
+  "slug": "people/sc2-ncpa",
+  "type": "person",
+  "title": "Sc2",
+  "compiled_truth": "Sc2 is an external contact at [Ncpa](companies/ncpa). Over the corpus period (2000-08-29 to 2000-08-29), Sc2 sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-08-29** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sc2-ncpa",
+    "name": "Sc2",
+    "email": "sc2@ncpa.com",
+    "primary_affiliation": "companies/ncpa"
+  }
+}

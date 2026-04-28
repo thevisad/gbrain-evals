@@ -1,0 +1,14 @@
+{
+  "slug": "people/cris-sherman",
+  "type": "person",
+  "title": "Cris Sherman",
+  "compiled_truth": "Cris Sherman is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-14 to 2002-02-13), Cris Sherman sent 16 and received 288 emails, totalling 304 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (10), [Gerald Nemec](people/gerald-nemec) (4), [Mike Curry](people/mike-curry) (1), [Faith Killen](people/faith-killen) (1), [Frank Vickers](people/frank-vickers) (1). Mailbox folders observed: _americas, inbox, south_america.",
+  "timeline": "- **1999-06-14** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cris-sherman",
+    "name": "Cris Sherman",
+    "email": "cris.sherman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

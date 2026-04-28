@@ -1,0 +1,14 @@
+{
+  "slug": "people/modad-jessica",
+  "type": "person",
+  "title": "Modad Jessica",
+  "compiled_truth": "Modad Jessica is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-12 to 2001-10-26), Modad Jessica sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-09-12** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/modad-jessica",
+    "name": "Modad Jessica",
+    "email": "modad.jessica@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

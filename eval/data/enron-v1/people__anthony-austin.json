@@ -1,0 +1,14 @@
+{
+  "slug": "people/anthony-austin",
+  "type": "person",
+  "title": "Anthony Austin",
+  "compiled_truth": "Anthony Austin is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2000-10-24), Anthony Austin sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2000-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anthony-austin",
+    "name": "Anthony Austin",
+    "email": "anthony.austin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-jacobson",
+  "type": "person",
+  "title": "Lisa Jacobson",
+  "compiled_truth": "Lisa Jacobson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-16 to 2001-12-03), Lisa Jacobson sent 72 and received 85 emails, totalling 157 interactions. Top correspondents: [E Taylor](people/e-taylor) (57), [Trevor Woods](people/trevor-woods) (53), [Mary Schoen](people/mary-schoen) (46), [Stacey Bolton](people/stacey-bolton) (42), [Jeff Keeler](people/jeff-keeler) (35). Mailbox folders observed: deleted_items, enviromental, environmental_issues, greenhouse_gas_business, inbox.",
+  "timeline": "- **2001-04-16** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-jacobson",
+    "name": "Lisa Jacobson",
+    "email": "lisa.jacobson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

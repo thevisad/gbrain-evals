@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-jacobo",
+  "type": "person",
+  "title": "Steve Jacobo",
+  "compiled_truth": "Steve Jacobo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2001-12-05), Steve Jacobo sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-jacobo",
+    "name": "Steve Jacobo",
+    "email": "steve.jacobo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

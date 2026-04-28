@@ -1,0 +1,14 @@
+{
+  "slug": "people/simone-lewis",
+  "type": "person",
+  "title": "Simone Lewis",
+  "compiled_truth": "Simone Lewis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-10 to 2001-12-03), Simone Lewis sent 3 and received 16 emails, totalling 19 interactions. Top correspondents: [Cindy Skinner](people/cindy-skinner) (3), [Noel Ryan](people/noel-ryan) (3), [Michelle Cash](people/michelle-cash) (3), [Kim Melodick](people/kim-melodick) (3), [David Oxley](people/david-oxley) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-10-10** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/simone-lewis",
+    "name": "Simone Lewis",
+    "email": "simone.lewis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

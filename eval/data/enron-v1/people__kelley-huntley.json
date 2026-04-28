@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelley-huntley",
+  "type": "person",
+  "title": "Kelley Huntley",
+  "compiled_truth": "Kelley Huntley is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-02-07), Kelley Huntley sent 1 and received 52 emails, totalling 53 interactions. Top correspondents: [Cara Semperger](people/cara-semperger) (1), [Mary Hain](people/mary-hain) (1), [Tim Belden](people/tim-belden) (1), [Linda Lawrence](people/linda-lawrence) (1), [Valarie Sabo](people/valarie-sabo) (1).",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelley-huntley",
+    "name": "Kelley Huntley",
+    "email": "kelley.huntley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

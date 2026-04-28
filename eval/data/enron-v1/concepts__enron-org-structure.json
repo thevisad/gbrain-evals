@@ -1,0 +1,20 @@
+{
+  "slug": "concepts/enron-org-structure",
+  "type": "concept",
+  "title": "Enron Organizational Structure",
+  "compiled_truth": "Enron's corporate hierarchy spanning the board of directors, C-suite executives, trading divisions, and regional offices — as reconstructed from email communication patterns. Related organizations: [Enron](companies/enron).",
+  "timeline": "- **1985-07-01** | InterNorth and Houston Natural Gas merge to form Enron\n- **1997-12-01** | Enron reorganized into four main divisions: wholesale, retail, transportation, broadband\n- **2001-02-12** | Jeffrey Skilling named CEO; Kenneth Lay remains Chairman\n- **2001-08-14** | Skilling resigns; Lay resumes CEO role",
+  "_facts": {
+    "type": "concept",
+    "slug": "concepts/enron-org-structure",
+    "related_companies": [
+      "companies/enron"
+    ],
+    "related_people": [
+      "people/kenneth-lay",
+      "people/jeffrey-skilling",
+      "people/andrew-fastow",
+      "people/richard-causey"
+    ]
+  }
+}

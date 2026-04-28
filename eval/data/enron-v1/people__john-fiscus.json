@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-fiscus",
+  "type": "person",
+  "title": "John Fiscus",
+  "compiled_truth": "John Fiscus is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2002-01-22), John Fiscus sent 4 and received 223 emails, totalling 227 interactions. Top correspondents: [Steve Gilbert](people/steve-gilbert) (4), [Tracy Geaccone](people/tracy-geaccone) (4), [James Weitekamp](people/james-weitekamp) (3), [Pallavi Goradia](people/pallavi-goradia) (1), [Dana Jones](people/dana-jones) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-fiscus",
+    "name": "John Fiscus",
+    "email": "john.fiscus@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

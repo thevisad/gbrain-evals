@@ -1,0 +1,26 @@
+{
+  "slug": "meetings/meeting-of-friday-at-8-00-am-2000-07",
+  "type": "meeting",
+  "title": "Meeting: Meeting Of Friday At 8:00 Am",
+  "compiled_truth": "Meeting: \"Meeting Of Friday At 8:00 Am\". Occurred 2000-07-18 through 2000-07-18 with 4 related emails. Participants included: [Adrial Boals](people/adrial-boals), [Brent Hendry](people/brent-hendry), [David Forster](people/david-forster), [Grisela Escamilla](people/grisela-escamilla), [Julie Ramos](people/julie-ramos), [Leonardo Pacheco](people/leonardo-pacheco), [Lynn Aven](people/lynn-aven), [Michael Guerriero](people/michael-guerriero)....",
+  "timeline": "- **2000-07-18** | Meeting: meeting of friday at 8:00 am\n- **2000-07-18** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-of-friday-at-8-00-am-2000-07",
+    "attendees": [
+      "people/adrial-boals",
+      "people/brent-hendry",
+      "people/david-forster",
+      "people/grisela-escamilla",
+      "people/julie-ramos",
+      "people/leonardo-pacheco",
+      "people/lynn-aven",
+      "people/michael-guerriero",
+      "people/mireya-olsen",
+      "people/monica-talan",
+      "people/patrick-hansen",
+      "people/paul-radous"
+    ],
+    "date": "2000-07-18"
+  }
+}

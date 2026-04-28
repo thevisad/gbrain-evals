@@ -1,0 +1,14 @@
+{
+  "slug": "people/kari-oquinn",
+  "type": "person",
+  "title": "Kari Oquinn",
+  "compiled_truth": "Kari Oquinn is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2002-02-13), Kari Oquinn sent 9 and received 35 emails, totalling 44 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (9), [David Oxley](people/david-oxley) (3), [John Lavorato](people/john-lavorato) (2), [Amy Fitzpatrick](people/amy-fitzpatrick) (2), [Jeanie Slone](people/jeanie-slone) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kari-oquinn",
+    "name": "Kari Oquinn",
+    "email": "kari.oquinn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tani-nath",
+  "type": "person",
+  "title": "Tani Nath",
+  "compiled_truth": "Tani Nath is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-09 to 2002-01-14), Tani Nath sent 3 and received 78 emails, totalling 81 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (2), [Karin Ahamer](people/karin-ahamer) (1), [Shirley Crenshaw](people/shirley-crenshaw) (1), [Maureen Raymond](people/maureen-raymond) (1), [Chris Mahoney](people/chris-mahoney) (1).",
+  "timeline": "- **2000-03-09** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tani-nath",
+    "name": "Tani Nath",
+    "email": "tani.nath@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

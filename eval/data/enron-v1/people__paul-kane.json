@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-kane",
+  "type": "person",
+  "title": "Paul Kane",
+  "compiled_truth": "Paul Kane is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2002-06-19), Paul Kane sent 22 and received 94 emails, totalling 116 interactions. Top correspondents: [Center Dl-Portland](people/center-dl-portland) (15), [Portland Desk](people/portland-desk) (3), [Darren Cavanaugh](people/darren-cavanaugh) (2), [Virginia Thompson](people/virginia-thompson) (2), [Lisa Gang](people/lisa-gang) (2). Mailbox folders observed: deleted_items, inbox, read.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2002-06-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-kane",
+    "name": "Paul Kane",
+    "email": "paul.kane@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

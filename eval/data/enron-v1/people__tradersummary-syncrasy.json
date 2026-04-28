@@ -1,0 +1,14 @@
+{
+  "slug": "people/tradersummary-syncrasy",
+  "type": "person",
+  "title": "Tradersummary",
+  "compiled_truth": "Tradersummary is an external contact at [Syncrasy](companies/syncrasy). Over the corpus period (2001-05-31 to 2002-02-06), Tradersummary sent 46 and received 0 emails, totalling 46 interactions. Top correspondents: [Vkamins](people/vkamins) (31), [John Zufferli](people/john-zufferli) (8), [Kamins](people/kamins) (7).",
+  "timeline": "- **2001-05-31** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tradersummary-syncrasy",
+    "name": "Tradersummary",
+    "email": "tradersummary@syncrasy.com",
+    "primary_affiliation": "companies/syncrasy"
+  }
+}

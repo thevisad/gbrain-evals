@@ -1,0 +1,14 @@
+{
+  "slug": "people/clifford-nash",
+  "type": "person",
+  "title": "Clifford Nash",
+  "compiled_truth": "Clifford Nash is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-11-08), Clifford Nash sent 1 and received 29 emails, totalling 30 interactions. Top correspondents: [Jonathan Anderson](people/jonathan-anderson) (1), [Marie Newhouse](people/marie-newhouse) (1), [40Enron](people/40enron) (1).",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clifford-nash",
+    "name": "Clifford Nash",
+    "email": "clifford.nash@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

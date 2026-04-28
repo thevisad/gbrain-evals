@@ -1,0 +1,14 @@
+{
+  "slug": "people/sebastien-saubier",
+  "type": "person",
+  "title": "Sebastien Saubier",
+  "compiled_truth": "Sebastien Saubier is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-08 to 2001-11-08), Sebastien Saubier sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sebastien-saubier",
+    "name": "Sebastien Saubier",
+    "email": "sebastien.saubier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

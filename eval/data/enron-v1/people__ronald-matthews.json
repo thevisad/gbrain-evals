@@ -1,0 +1,14 @@
+{
+  "slug": "people/ronald-matthews",
+  "type": "person",
+  "title": "Ronald Matthews",
+  "compiled_truth": "Ronald Matthews is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2001-08-06), Ronald Matthews sent 5 and received 87 emails, totalling 92 interactions. Top correspondents: [Eric Faucheaux](people/eric-faucheaux) (5), [Kevin Hyatt](people/kevin-hyatt) (5), [Terry Galassini](people/terry-galassini) (3), [Lorraine Lindberg](people/lorraine-lindberg) (3), [Jeffery Fawcett](people/jeffery-fawcett) (2). Mailbox folders observed: projects, tw.",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2001-08-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ronald-matthews",
+    "name": "Ronald Matthews",
+    "email": "ronald.matthews@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

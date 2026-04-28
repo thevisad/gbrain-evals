@@ -1,0 +1,14 @@
+{
+  "slug": "people/fiona-lavelle",
+  "type": "person",
+  "title": "Fiona Lavelle",
+  "compiled_truth": "Fiona Lavelle is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-13 to 2000-07-28), Fiona Lavelle sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **1999-09-13** | First recorded email in corpus\n- **2000-07-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fiona-lavelle",
+    "name": "Fiona Lavelle",
+    "email": "fiona.lavelle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebecca-xie",
+  "type": "person",
+  "title": "Rebecca Xie",
+  "compiled_truth": "Rebecca Xie is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-07 to 2001-10-23), Rebecca Xie sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-07** | First recorded email in corpus\n- **2001-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebecca-xie",
+    "name": "Rebecca Xie",
+    "email": "rebecca.xie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-hirsh",
+  "type": "person",
+  "title": "Steve Hirsh",
+  "compiled_truth": "Steve Hirsh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-08), Steve Hirsh sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-hirsh",
+    "name": "Steve Hirsh",
+    "email": "steve.hirsh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

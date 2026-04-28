@@ -1,0 +1,29 @@
+{
+  "slug": "meetings/meeting-implementation-2000-01",
+  "type": "meeting",
+  "title": "Meeting: Meeting: Implementation",
+  "compiled_truth": "Meeting: \"Meeting: Implementation\". Occurred 2000-01-19 with 1 related emails. Participants included: [Carlos Rodriguez](people/carlos-rodriguez), [Charlotte Hawkins](people/charlotte-hawkins), [Clem Cernosek](people/clem-cernosek), [Daren Farmer](people/daren-farmer), [Donna Consemiu](people/donna-consemiu), [Gary Hanks](people/gary-hanks), [Howard Camp](people/howard-camp), [Jackie Morgan](people/jackie-morgan)....",
+  "timeline": "- **2000-01-19** | Meeting: meeting: implementation",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-implementation-2000-01",
+    "attendees": [
+      "people/carlos-rodriguez",
+      "people/charlotte-hawkins",
+      "people/clem-cernosek",
+      "people/daren-farmer",
+      "people/donna-consemiu",
+      "people/gary-hanks",
+      "people/howard-camp",
+      "people/jackie-morgan",
+      "people/mary-johnson",
+      "people/melissa-graves",
+      "people/michael-eiben",
+      "people/pat-clynes",
+      "people/ragayle-pellum",
+      "people/tom-acton",
+      "people/vance-taylor"
+    ],
+    "date": "2000-01-19"
+  }
+}

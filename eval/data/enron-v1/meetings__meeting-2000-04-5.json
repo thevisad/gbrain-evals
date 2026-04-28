@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/meeting-2000-04-5",
+  "type": "meeting",
+  "title": "Meeting: Meeting",
+  "compiled_truth": "Meeting: \"Meeting\". Occurred 2000-04-19 through 2000-04-24 with 5 related emails. Participants included: [Becky Tlucek](people/becky-tlucek), [Carol Clair](people/carol-clair), [Kaye Ellis](people/kaye-ellis), [Mark Taylor](people/mark-taylor), [Sara Shackleton](people/sara-shackleton), [Susan Bailey](people/susan-bailey), [Susan Flynn](people/susan-flynn), [Suzanne Adams](people/suzanne-adams)....",
+  "timeline": "- **2000-04-19** | Meeting: meeting\n- **2000-04-24** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-2000-04-5",
+    "attendees": [
+      "people/becky-tlucek",
+      "people/carol-clair",
+      "people/kaye-ellis",
+      "people/mark-taylor",
+      "people/sara-shackleton",
+      "people/susan-bailey",
+      "people/susan-flynn",
+      "people/suzanne-adams",
+      "people/taffy-milligan",
+      "people/tana-jones"
+    ],
+    "date": "2000-04-19"
+  }
+}

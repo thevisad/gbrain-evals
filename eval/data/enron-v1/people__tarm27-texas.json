@@ -1,0 +1,14 @@
+{
+  "slug": "people/tarm27-texas",
+  "type": "person",
+  "title": "Tarm27",
+  "compiled_truth": "Tarm27 is an external contact at [Texas](companies/texas). Over the corpus period (2000-10-06 to 2002-01-31), Tarm27 sent 0 and received 44 emails, totalling 44 interactions.",
+  "timeline": "- **2000-10-06** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tarm27-texas",
+    "name": "Tarm27",
+    "email": "tarm27@texas.net",
+    "primary_affiliation": "companies/texas"
+  }
+}

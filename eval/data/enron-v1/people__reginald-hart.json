@@ -1,0 +1,14 @@
+{
+  "slug": "people/reginald-hart",
+  "type": "person",
+  "title": "Reginald Hart",
+  "compiled_truth": "Reginald Hart is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-02 to 2002-02-13), Reginald Hart sent 10 and received 10 emails, totalling 20 interactions. Top correspondents: [Mike Carson](people/mike-carson) (9), [Doug Sewell](people/doug-sewell) (9), [Joe Parks](people/joe-parks) (1). Mailbox folders observed: deleted_items, koch.",
+  "timeline": "- **2001-08-02** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reginald-hart",
+    "name": "Reginald Hart",
+    "email": "reginald.hart@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

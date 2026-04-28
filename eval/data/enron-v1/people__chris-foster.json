@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-foster",
+  "type": "person",
+  "title": "Chris Foster",
+  "compiled_truth": "Chris Foster is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-21), Chris Foster sent 154 and received 1158 emails, totalling 1312 interactions. Top correspondents: [Kim Ward](people/kim-ward) (96), [Coganja](people/coganja-aol) (17), [Dan Hyvl](people/dan-hyvl) (16), [Jeff Dasovich](people/jeff-dasovich) (15), [Sbreen](people/sbreen-czn) (15). Mailbox folders observed: _americas, administrative, akzo_nobel___filtrol, bhp, citizens_utilities, gas_customers___chris_foster.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-foster",
+    "name": "Chris Foster",
+    "email": "chris.foster@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

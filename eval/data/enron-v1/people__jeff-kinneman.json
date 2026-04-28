@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-kinneman",
+  "type": "person",
+  "title": "Jeff Kinneman",
+  "compiled_truth": "Jeff Kinneman is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-02-09 to 2002-01-14), Jeff Kinneman sent 3 and received 228 emails, totalling 231 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2), [Mark Haedicke](people/mark-haedicke) (1), [Sheila Glover](people/sheila-glover) (1), [Mike Fowler](people/mike-fowler) (1).",
+  "timeline": "- **1999-02-09** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-kinneman",
+    "name": "Jeff Kinneman",
+    "email": "jeff.kinneman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

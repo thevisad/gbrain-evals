@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-illman-gepex",
+  "type": "person",
+  "title": "Lisa Illman",
+  "compiled_truth": "Lisa Illman is an external contact at [Gepex](companies/gepex). Over the corpus period (2000-05-21 to 2000-11-25), Lisa Illman sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-illman-gepex",
+    "name": "Lisa Illman",
+    "email": "lisa.illman@gepex.ge.com",
+    "primary_affiliation": "companies/gepex"
+  }
+}

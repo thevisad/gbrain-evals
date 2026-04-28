@@ -1,0 +1,14 @@
+{
+  "slug": "people/gnstillwagon-tid",
+  "type": "person",
+  "title": "Gnstillwagon",
+  "compiled_truth": "Gnstillwagon is an external contact at [Tid](companies/tid). Over the corpus period (1999-11-22 to 2001-07-31), Gnstillwagon sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gnstillwagon-tid",
+    "name": "Gnstillwagon",
+    "email": "gnstillwagon@tid.org",
+    "primary_affiliation": "companies/tid"
+  }
+}

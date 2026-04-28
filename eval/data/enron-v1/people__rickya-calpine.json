@@ -1,0 +1,14 @@
+{
+  "slug": "people/rickya-calpine",
+  "type": "person",
+  "title": "Rickya",
+  "compiled_truth": "Rickya is an external contact at [Calpine](companies/calpine). Over the corpus period (1999-12-14 to 2001-05-24), Rickya sent 52 and received 0 emails, totalling 52 interactions. Top correspondents: [Dfarmer](people/dfarmer) (49), [Mmccoy](people/mmccoy) (44), [Tacton](people/tacton) (22), [Rcotten](people/rcotten) (20), [Juliann Kemp](people/juliann-kemp) (17).",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-05-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rickya-calpine",
+    "name": "Rickya",
+    "email": "rickya@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

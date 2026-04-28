@@ -1,0 +1,14 @@
+{
+  "slug": "people/mitra-mujica",
+  "type": "person",
+  "title": "Mitra Mujica",
+  "compiled_truth": "Mitra Mujica is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-21 to 2002-01-15), Mitra Mujica sent 0 and received 82 emails, totalling 82 interactions.",
+  "timeline": "- **2001-03-21** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mitra-mujica",
+    "name": "Mitra Mujica",
+    "email": "mitra.mujica@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

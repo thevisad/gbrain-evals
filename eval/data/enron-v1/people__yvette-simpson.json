@@ -1,0 +1,14 @@
+{
+  "slug": "people/yvette-simpson",
+  "type": "person",
+  "title": "Yvette Simpson",
+  "compiled_truth": "Yvette Simpson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-22 to 2001-11-07), Yvette Simpson sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2001-02-22** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yvette-simpson",
+    "name": "Yvette Simpson",
+    "email": "yvette.simpson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

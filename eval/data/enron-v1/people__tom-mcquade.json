@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-mcquade",
+  "type": "person",
+  "title": "Tom Mcquade",
+  "compiled_truth": "Tom Mcquade is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-08 to 2001-11-27), Tom Mcquade sent 0 and received 47 emails, totalling 47 interactions.",
+  "timeline": "- **2000-08-08** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-mcquade",
+    "name": "Tom Mcquade",
+    "email": "tom.mcquade@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

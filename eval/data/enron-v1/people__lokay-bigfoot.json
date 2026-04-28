@@ -1,0 +1,14 @@
+{
+  "slug": "people/lokay-bigfoot",
+  "type": "person",
+  "title": "Lokay",
+  "compiled_truth": "Lokay is an external contact at [Bigfoot](companies/bigfoot). Over the corpus period (2000-12-04 to 2002-03-25), Lokay sent 25 and received 15 emails, totalling 40 interactions. Top correspondents: [Michelle Lokay](people/michelle-lokay) (20), [Arabtrader](people/arabtrader-aol) (1), [Kimberly Watson](people/kimberly-watson) (1), [Steven Harris](people/steven-harris) (1).",
+  "timeline": "- **2000-12-04** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lokay-bigfoot",
+    "name": "Lokay",
+    "email": "lokay@bigfoot.com",
+    "primary_affiliation": "companies/bigfoot"
+  }
+}

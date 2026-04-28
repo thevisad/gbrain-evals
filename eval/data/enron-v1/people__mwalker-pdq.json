@@ -1,0 +1,14 @@
+{
+  "slug": "people/mwalker-pdq",
+  "type": "person",
+  "title": "Mwalker",
+  "compiled_truth": "Mwalker is an external contact at [Pdq](companies/pdq). Over the corpus period (2000-06-20 to 2000-11-25), Mwalker sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mwalker-pdq",
+    "name": "Mwalker",
+    "email": "mwalker@pdq.net",
+    "primary_affiliation": "companies/pdq"
+  }
+}

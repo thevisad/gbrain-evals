@@ -1,0 +1,14 @@
+{
+  "slug": "people/phil-royl",
+  "type": "person",
+  "title": "Phil",
+  "compiled_truth": "Phil is an external contact at [Royl](companies/royl). Over the corpus period (2000-11-28 to 2001-07-31), Phil sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/phil-royl",
+    "name": "Phil",
+    "email": "phil@royl.com",
+    "primary_affiliation": "companies/royl"
+  }
+}

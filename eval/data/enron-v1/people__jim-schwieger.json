@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-schwieger",
+  "type": "person",
+  "title": "Jim Schwieger",
+  "compiled_truth": "Jim Schwieger is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2002-02-25), Jim Schwieger sent 196 and received 624 emails, totalling 820 interactions. Top correspondents: [A  Martin](people/a-martin) (21), [Cannon2](people/cannon2-swbell) (19), [J  Legler](people/j-legler) (16), [Brian Redmond](people/brian-redmond) (14), [F  Brawner](people/f-brawner) (12). Mailbox folders observed: _americas, bammel_stg, deleted_items, inbox, personal, sent_items.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-schwieger",
+    "name": "Jim Schwieger",
+    "email": "jim.schwieger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

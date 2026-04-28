@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-mireles",
+  "type": "person",
+  "title": "Laura Mireles",
+  "compiled_truth": "Laura Mireles is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2001-10-01), Laura Mireles sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2001-10-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-mireles",
+    "name": "Laura Mireles",
+    "email": "laura.mireles@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

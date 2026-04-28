@@ -1,0 +1,14 @@
+{
+  "slug": "people/jgopal-energy",
+  "type": "person",
+  "title": "Jgopal",
+  "compiled_truth": "Jgopal is an external contact at [Energy](companies/energy). Over the corpus period (1999-09-24 to 2001-10-23), Jgopal sent 3 and received 77 emails, totalling 80 interactions. Top correspondents: [Undisclosed-Recipients](people/undisclosed-recipients) (3).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jgopal-energy",
+    "name": "Jgopal",
+    "email": "jgopal@energy.state.ca.us",
+    "primary_affiliation": "companies/energy"
+  }
+}

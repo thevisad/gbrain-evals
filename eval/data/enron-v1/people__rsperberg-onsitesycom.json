@@ -1,0 +1,14 @@
+{
+  "slug": "people/rsperberg-onsitesycom",
+  "type": "person",
+  "title": "Rsperberg",
+  "compiled_truth": "Rsperberg is an external contact at [Onsitesycom](companies/onsitesycom). Over the corpus period (1999-11-08 to 2001-11-19), Rsperberg sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **1999-11-08** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rsperberg-onsitesycom",
+    "name": "Rsperberg",
+    "email": "rsperberg@onsitesycom.com",
+    "primary_affiliation": "companies/onsitesycom"
+  }
+}

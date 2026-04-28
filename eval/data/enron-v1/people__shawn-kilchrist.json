@@ -1,0 +1,14 @@
+{
+  "slug": "people/shawn-kilchrist",
+  "type": "person",
+  "title": "Shawn Kilchrist",
+  "compiled_truth": "Shawn Kilchrist is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-20 to 2001-11-15), Shawn Kilchrist sent 3 and received 45 emails, totalling 48 interactions. Top correspondents: [Sally Beck](people/sally-beck) (3), [Shona Wilson](people/shona-wilson) (1), [Michael Moscoso](people/michael-moscoso) (1), [Wes Colwell](people/wes-colwell) (1), [Barry Pearce](people/barry-pearce) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-07-20** | First recorded email in corpus\n- **2001-11-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shawn-kilchrist",
+    "name": "Shawn Kilchrist",
+    "email": "shawn.kilchrist@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

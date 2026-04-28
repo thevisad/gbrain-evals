@@ -1,0 +1,14 @@
+{
+  "slug": "people/dick-pnucc",
+  "type": "person",
+  "title": "Dick",
+  "compiled_truth": "Dick is an external contact at [Pnucc](companies/pnucc). Over the corpus period (2001-03-21 to 2001-03-28), Dick sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-03-21** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dick-pnucc",
+    "name": "Dick",
+    "email": "dick@pnucc.org",
+    "primary_affiliation": "companies/pnucc"
+  }
+}

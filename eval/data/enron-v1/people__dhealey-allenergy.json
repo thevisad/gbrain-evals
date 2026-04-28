@@ -1,0 +1,14 @@
+{
+  "slug": "people/dhealey-allenergy",
+  "type": "person",
+  "title": "Dhealey",
+  "compiled_truth": "Dhealey is an external contact at [Allenergy](companies/allenergy). Over the corpus period (2000-11-07 to 2001-09-11), Dhealey sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dhealey-allenergy",
+    "name": "Dhealey",
+    "email": "dhealey@allenergy.com",
+    "primary_affiliation": "companies/allenergy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-rawls-greenmountain",
+  "type": "person",
+  "title": "Tom Rawls",
+  "compiled_truth": "Tom Rawls is an external contact at [Greenmountain](companies/greenmountain). Over the corpus period (2001-05-23 to 2001-08-02), Tom Rawls sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-05-23** | First recorded email in corpus\n- **2001-08-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-rawls-greenmountain",
+    "name": "Tom Rawls",
+    "email": "tom.rawls@greenmountain.com",
+    "primary_affiliation": "companies/greenmountain"
+  }
+}

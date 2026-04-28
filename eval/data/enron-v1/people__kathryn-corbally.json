@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathryn-corbally",
+  "type": "person",
+  "title": "Kathryn Corbally",
+  "compiled_truth": "Kathryn Corbally is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-20 to 2001-09-17), Kathryn Corbally sent 7 and received 680 emails, totalling 687 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (4), [Jeff Skilling](people/jeff-skilling) (4), [Mark Koenig](people/mark-koenig) (4), [Paula Rieker](people/paula-rieker) (4), [Scott Vonderheide](people/scott-vonderheide) (4).",
+  "timeline": "- **2000-02-20** | First recorded email in corpus\n- **2001-09-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathryn-corbally",
+    "name": "Kathryn Corbally",
+    "email": "kathryn.corbally@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

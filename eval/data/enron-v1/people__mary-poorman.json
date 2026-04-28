@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-poorman",
+  "type": "person",
+  "title": "Mary Poorman",
+  "compiled_truth": "Mary Poorman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-29 to 2001-06-01), Mary Poorman sent 109 and received 178 emails, totalling 287 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (98), [Pat Clynes](people/pat-clynes) (34), [Robert Cotten](people/robert-cotten) (30), [Edward Terry](people/edward-terry) (29), [Tom Acton](people/tom-acton) (21). Mailbox folders observed: industrials, logistics, pan_energy_swap, wellhead.",
+  "timeline": "- **2000-06-29** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-poorman",
+    "name": "Mary Poorman",
+    "email": "mary.poorman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/f-calger",
+  "type": "person",
+  "title": "F  Calger",
+  "compiled_truth": "F  Calger is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-03 to 2002-02-07), F  Calger sent 152 and received 655 emails, totalling 807 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (112), [Tim Belden](people/tim-belden) (16), [John Lavorato](people/john-lavorato) (15), [M  Presto](people/m-presto) (12), [Barry Tycholiz](people/barry-tycholiz) (9). Mailbox folders observed: _americas, calendar, deleted_items, enron, fin_desk, inbox.",
+  "timeline": "- **2001-04-03** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/f-calger",
+    "name": "F  Calger",
+    "email": "f..calger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

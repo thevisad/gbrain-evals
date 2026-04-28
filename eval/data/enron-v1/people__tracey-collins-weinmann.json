@@ -1,0 +1,14 @@
+{
+  "slug": "people/tracey-collins-weinmann",
+  "type": "person",
+  "title": "Tracey Collins-Weinmann",
+  "compiled_truth": "Tracey Collins-Weinmann is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-29 to 2001-10-03), Tracey Collins-Weinmann sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-06-29** | First recorded email in corpus\n- **2001-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tracey-collins-weinmann",
+    "name": "Tracey Collins-Weinmann",
+    "email": "tracey.collins-weinmann@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

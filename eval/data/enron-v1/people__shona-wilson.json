@@ -1,0 +1,14 @@
+{
+  "slug": "people/shona-wilson",
+  "type": "person",
+  "title": "Shona Wilson",
+  "compiled_truth": "Shona Wilson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-21), Shona Wilson sent 208 and received 738 emails, totalling 946 interactions. Top correspondents: [Sally Beck](people/sally-beck) (164), [Chris Abel](people/chris-abel) (55), [Mike Jordan](people/mike-jordan) (51), [Kristin Albrecht](people/kristin-albrecht) (47), [James New](people/james-new) (41). Mailbox folders observed: _americas, calendar, deleted_items, discussion_threads, inbox, wilson__shona.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shona-wilson",
+    "name": "Shona Wilson",
+    "email": "shona.wilson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

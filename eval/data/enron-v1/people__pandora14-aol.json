@@ -1,0 +1,14 @@
+{
+  "slug": "people/pandora14-aol",
+  "type": "person",
+  "title": "Pandora14",
+  "compiled_truth": "Pandora14 is an external contact at [AOL](companies/aol). Over the corpus period (2000-05-21 to 2000-11-25), Pandora14 sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pandora14-aol",
+    "name": "Pandora14",
+    "email": "pandora14@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

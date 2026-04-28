@@ -1,0 +1,25 @@
+{
+  "slug": "people/cal-suzuki",
+  "type": "person",
+  "title": "Cal Suzuki",
+  "compiled_truth": "Cal Suzuki is a partner at [Crestline Capital](companies/crestline-capital), where he leads the firm's developer tools and infrastructure practice. He joined Crestline in 2022 after a stint operating at a mid-stage observability company, which gave him an unusually hands-on understanding of how developer adoption actually works — not just top-down sales motions, but genuine bottoms-up distribution through open-source and community channels. This background makes him one of the sharper pattern matchers in the infra investment world, though he'd probably bristle at the compliment.\n\nCal's portfolio at Crestline includes [Umbra Storage](companies/umbra-storage), [Prism Protocol](companies/prism-protocol), and [Lattice Data](companies/lattice-data), all of which share a common thread: they're infrastructure primitives that embed early in the developer workflow and expand from there. He has a thesis he repeats often — that the best infra companies don't sell, they get adopted, and that the inflection point is when a developer chooses to build *on top of* your primitive rather than just *with* it. Distribution-focused is the right descriptor; Cal will pass on technically superior products if he doesn't see a credible path to organic adoption.\n\nSuzuki first crossed paths with the Anchor Codec team in mid-2027 through his existing relationship with [Prism Protocol](companies/prism-protocol), whose team had been evaluating Anchor's single-pass primitives for their own pipeline. He was initially skeptical — the deterministic data infrastructure pitch sounded broad — but changed his tune after spending time with the engineering team and seeing real deployment telemetry from early design partners. He's known for doing deep technical diligence himself rather than farming it out to analysts, and in this case it paid off.\n\nPersonality-wise, Cal is direct without being abrasive. He responds to cold emails surprisingly often, which is rare for someone at his level. He's a runner, does ultras on weekends, and there's a running joke on the Crestline team that his best investment decisions happen on trail runs. He sits on two boards currently (Umbra and Lattice) and takes an observer seat everywhere else. Tends to over-index on founder quality and distribution instinct over pure technical novelty, which sometimes means he's early on companies that look \"boring\" but scale fast.",
+  "timeline": "- **2026-03-15** | Led Crestline's Series A investment in [Umbra Storage](companies/umbra-storage), his first board seat at the firm.\n- **2026-08-22** | Spoke at InfraCon Seattle on \"Why Distribution Eats Technology\" — a talk that circulated widely in dev tools Twitter.\n- **2026-11-10** | Participated in seed round for [Prism Protocol](companies/prism-protocol) alongside two other firms; took observer seat.\n- **2027-02-04** | Joined [Lattice Data](companies/lattice-data) board after leading their Series B.\n- **2027-06-18** | First meeting with Anchor Codec founders, introduced through the [Prism Protocol](companies/prism-protocol) team who had been evaluating Anchor's primitives.\n- **2027-08-30** | Hosted a closed-door dinner in SF for infra founders; Anchor Codec team attended alongside Umbra and Lattice founders.\n- **2027-11-12** | Internal memo at [Crestline Capital](companies/crestline-capital) flagging deterministic data infrastructure as an emerging category worth tracking.\n- **2028-01-20** | Second deep-dive session with Anchor Codec — brought two Crestline analysts for full technical diligence.\n- **2028-04-09** | Keynote at DevTools Summit NYC; referenced Anchor Codec's approach as an example of \"primitive-layer companies that create their own category.\"\n- **2028-06-02** | Understood to be in active discussions with Anchor Codec regarding a potential funding round.",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cal-suzuki",
+    "name": "Cal Suzuki",
+    "role": "partner",
+    "title": "Partner, Crestline Capital",
+    "primary_affiliation": "companies/crestline-capital",
+    "secondary_affiliations": [
+      "companies/umbra-storage",
+      "companies/prism-protocol",
+      "companies/lattice-data"
+    ],
+    "notable_traits": [
+      "distribution-focused",
+      "sharp pattern matcher"
+    ],
+    "background": "Partner at Crestline Capital; focuses on developer tools investments"
+  }
+}

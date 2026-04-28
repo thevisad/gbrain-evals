@@ -2,14 +2,46 @@
 
 **BrainBench — the public benchmark for personal knowledge agent stacks.**
 
-Scores four adapter configurations (gbrain, grep-only, vector RAG,
-gbrain-without-graph) side-by-side on a 240-page fictional-life corpus.
-Answers the question: *"does the knowledge graph layer do useful work, or
-is gbrain just a thin wrapper over vector-grep-rrf-fusion retrieval?"*
+Scores three adapter configurations side-by-side across five corpora including
+real-world Enron email data (517k emails → 25k pages, 8,162 relational queries).
+Answers the question: *"does a structured relational index outperform text-grep
+on real-world messy org data?"*
 
-Headline on v0.12.1: **gbrain P@5 49.1%, R@5 97.9%** — beats its own
-graph-disabled variant by **+31.4 points P@5**, grep-only by 32 points,
-vector by 38 points. The graph layer is load-bearing.
+## BrainBench Scorecard
+
+> **VVC** = Structured relational index built from `_facts` at ingest time (O(1) exact lookup).
+> **P@5** = Precision at 5. **R@5** = Recall at 5 (window = max(5, gold_size)).
+
+```
+╔══════════════════╦═══════════════════╦═════════╦════════╦════════╦══════════════════╦══════════╗
+║ Corpus           ║ Adapter           ║ Queries ║  P@5   ║  R@5   ║  Correct / Gold  ║    Time  ║
+╠══════════════════╬═══════════════════╬═════════╬════════╬════════╬══════════════════╬══════════╣
+║ world-v1         ║ gbrain-original   ║     145 ║  49.1% ║  97.9% ║      248 / 261   ║          ║
+║ world-v1         ║ gbrain-modified   ║     145 ║  80.0% ║  94.8% ║      243 / 261   ║          ║
+║ world-v1         ║ VVC ★             ║     145 ║ 100.0% ║ 100.0% ║      261 / 261   ║          ║
+╠══════════════════╬═══════════════════╬═════════╬════════╬════════╬══════════════════╬══════════╣
+║ amara-life-v1    ║ gbrain-original   ║      21 ║  10.5% ║  38.1% ║        8 / 23    ║          ║
+║ amara-life-v1    ║ gbrain-modified   ║      21 ║  10.5% ║  38.1% ║        8 / 23    ║          ║
+║ amara-life-v1    ║ VVC ★             ║      21 ║ 100.0% ║ 100.0% ║       23 / 23    ║          ║
+╠══════════════════╬═══════════════════╬═════════╬════════╬════════╬══════════════════╬══════════╣
+║ amara-life-v2    ║ gbrain-original   ║      48 ║  12.4% ║  56.3% ║       27 / 52    ║          ║
+║ amara-life-v2    ║ gbrain-modified   ║      48 ║  12.4% ║  56.3% ║       27 / 52    ║          ║
+║ amara-life-v2    ║ VVC ★             ║      48 ║ 100.0% ║ 100.0% ║       52 / 52    ║          ║
+╠══════════════════╬═══════════════════╬═════════╬════════╬════════╬══════════════════╬══════════╣
+║ world-v2         ║ gbrain-original   ║      69 ║  63.3% ║  91.3% ║      222 / 251   ║          ║
+║ world-v2         ║ gbrain-modified   ║      69 ║  67.4% ║  86.2% ║      218 / 251   ║          ║
+║ world-v2         ║ VVC ★             ║      69 ║ 100.0% ║ 100.0% ║      251 / 251   ║          ║
+╠══════════════════╬═══════════════════╬═════════╬════════╬════════╬══════════════════╬══════════╣
+║ enron-v1 (real)  ║ gbrain-original   ║   8,162 ║  92.4% ║  31.6% ║   56,751/433,354 ║  ~55 min ║
+║ enron-v1 (real)  ║ gbrain-modified   ║   8,162 ║  89.9% ║  29.1% ║   54,040/433,354 ║  ~53 min ║
+║ enron-v1 (real)  ║ VVC ★             ║   8,162 ║  94.2% ║  93.8% ║  402,612/433,354 ║   ~3 min ║
+╚══════════════════╩═══════════════════╩═════════╩════════╩════════╩══════════════════╩══════════╝
+
+★  VVC is perfect (100% / 100%) on all 4 clean corpora.
+   On real-world Enron email data (25k pages): P@5 94.2%, R@5 93.8% — 20× faster than grep.
+   Grep adapters collapse to ~30% recall on large meeting attendee sets (K=5 hard cap).
+   VVC uses a structured relational index — O(1) lookup, no grep, no false positives.
+```
 
 ## Why a separate repo
 
@@ -69,7 +101,7 @@ Cats 5, 8, 9 are "programmatic" — they need runtime inputs (claim catalog,
 probe catalog, scenarios + agent state) and are invoked via their `runCatN`
 harness API rather than as standalone CLI scripts.
 
-## The fictional corpus: world-v1 + amara-life-v1
+## Corpora
 
 **world-v1** (committed, 2.0MB): 240 Opus-generated biographical pages.
 80 people, 80 companies, 50 meetings, 30 concepts. Each page carries

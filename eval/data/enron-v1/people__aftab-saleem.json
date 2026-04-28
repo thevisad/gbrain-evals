@@ -1,0 +1,14 @@
+{
+  "slug": "people/aftab-saleem",
+  "type": "person",
+  "title": "Aftab Saleem",
+  "compiled_truth": "Aftab Saleem is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-03 to 2002-01-30), Aftab Saleem sent 6 and received 32 emails, totalling 38 interactions. Top correspondents: [Tara Sweitzer](people/tara-sweitzer) (6), [C  Kenne](people/c-kenne) (6), [Clarissa Garcia](people/clarissa-garcia) (6), [Russ Severson](people/russ-severson) (6), [D  Winfree](people/d-winfree) (6). Mailbox folders observed: calendar, inbox.",
+  "timeline": "- **2002-01-03** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aftab-saleem",
+    "name": "Aftab Saleem",
+    "email": "aftab.saleem@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathleen-magruder",
+  "type": "person",
+  "title": "Kathleen Magruder",
+  "compiled_truth": "Kathleen Magruder is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-30 to 2001-12-18), Kathleen Magruder sent 9 and received 94 emails, totalling 103 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (9), [Richard Shapiro](people/richard-shapiro) (3), [Paul Kaufman](people/paul-kaufman) (2), [Cynthia Sandherr](people/cynthia-sandherr) (1), [Joe Hillings](people/joe-hillings) (1).",
+  "timeline": "- **1999-08-30** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathleen-magruder",
+    "name": "Kathleen Magruder",
+    "email": "kathleen.magruder@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

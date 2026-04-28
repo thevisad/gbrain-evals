@@ -1,0 +1,14 @@
+{
+  "slug": "people/epoole-adplaw",
+  "type": "person",
+  "title": "Epoole",
+  "compiled_truth": "Epoole is an external contact at [Adplaw](companies/adplaw). Over the corpus period (1999-09-24 to 2001-07-31), Epoole sent 1 and received 176 emails, totalling 177 interactions. Top correspondents: [Rochmanm](people/rochmanm-spurr) (1), [Mflorio](people/mflorio-turn) (1), [Frl3](people/frl3-pge) (1), [Dxh4](people/dxh4-pge) (1), [Ddr0](people/ddr0-pge) (1).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/epoole-adplaw",
+    "name": "Epoole",
+    "email": "epoole@adplaw.com",
+    "primary_affiliation": "companies/adplaw"
+  }
+}

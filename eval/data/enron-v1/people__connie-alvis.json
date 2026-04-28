@@ -1,0 +1,14 @@
+{
+  "slug": "people/connie-alvis",
+  "type": "person",
+  "title": "Connie Alvis",
+  "compiled_truth": "Connie Alvis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2001-11-16), Connie Alvis sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/connie-alvis",
+    "name": "Connie Alvis",
+    "email": "connie.alvis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

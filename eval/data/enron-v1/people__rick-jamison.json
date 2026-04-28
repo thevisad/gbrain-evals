@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-jamison",
+  "type": "person",
+  "title": "Rick Jamison",
+  "compiled_truth": "Rick Jamison is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2001-10-31), Rick Jamison sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-jamison",
+    "name": "Rick Jamison",
+    "email": "rick.jamison@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

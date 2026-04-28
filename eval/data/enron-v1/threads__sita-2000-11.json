@@ -1,0 +1,23 @@
+{
+  "slug": "threads/sita-2000-11",
+  "type": "meeting",
+  "title": "Thread: Sita",
+  "compiled_truth": "Email thread: \"Sita\". Ran from 2000-11-16 to 2000-12-14 with 22 messages. Participants: [Lee Munden](people/lee-munden), [Mark Elliott](people/mark-elliott), [Matthew Dawson](people/matthew-dawson), [Michael Moulton](people/michael-moulton), [Sara Shackleton](people/sara-shackleton), [Stephanie Panus](people/stephanie-panus), [Susan Hopkinson](people/susan-hopkinson-lovells), [Tanya Rohauer](people/tanya-rohauer).",
+  "timeline": "- **2000-11-16** | Thread begins: sita\n- **2000-12-14** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/sita-2000-11",
+    "attendees": [
+      "people/lee-munden",
+      "people/mark-elliott",
+      "people/matthew-dawson",
+      "people/michael-moulton",
+      "people/sara-shackleton",
+      "people/stephanie-panus",
+      "people/susan-hopkinson-lovells",
+      "people/tanya-rohauer",
+      "people/tom-bruce-jones"
+    ],
+    "date": "2000-11-16"
+  }
+}

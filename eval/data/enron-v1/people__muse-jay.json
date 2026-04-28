@@ -1,0 +1,14 @@
+{
+  "slug": "people/muse-jay",
+  "type": "person",
+  "title": "Muse Jay",
+  "compiled_truth": "Muse Jay is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-15 to 2002-03-25), Muse Jay sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2001-10-15** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/muse-jay",
+    "name": "Muse Jay",
+    "email": "muse.jay@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

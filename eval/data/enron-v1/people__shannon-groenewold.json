@@ -1,0 +1,14 @@
+{
+  "slug": "people/shannon-groenewold",
+  "type": "person",
+  "title": "Shannon Groenewold",
+  "compiled_truth": "Shannon Groenewold is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-19 to 2002-02-13), Shannon Groenewold sent 2 and received 107 emails, totalling 109 interactions. Top correspondents: [Mike Grigsby](people/mike-grigsby) (2), [Patti Sullivan](people/patti-sullivan) (2), [Matt Smith](people/matt-smith) (1), [M  Tholt](people/m-tholt) (1), [L  Gay](people/l-gay) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-03-19** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shannon-groenewold",
+    "name": "Shannon Groenewold",
+    "email": "shannon.groenewold@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

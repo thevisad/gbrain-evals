@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-love-msl",
+  "type": "person",
+  "title": "James Love",
+  "compiled_truth": "James Love is an external contact at [Msl](companies/msl). Over the corpus period (2000-05-12 to 2002-02-01), James Love sent 11 and received 111 emails, totalling 122 interactions. Top correspondents: [M  Love](people/m-love) (11).",
+  "timeline": "- **2000-05-12** | First recorded email in corpus\n- **2002-02-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-love-msl",
+    "name": "James Love",
+    "email": "james.love@msl.redstone.army.mil",
+    "primary_affiliation": "companies/msl"
+  }
+}

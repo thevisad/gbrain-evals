@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-cole",
+  "type": "person",
+  "title": "Jim Cole",
+  "compiled_truth": "Jim Cole is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-10-26), Jim Cole sent 1 and received 49 emails, totalling 50 interactions. Top correspondents: [Chris Gaskill](people/chris-gaskill) (1), [Martin Cuilla](people/martin-cuilla) (1), [John Arnold](people/john-arnold) (1), [Jennifer Fraser](people/jennifer-fraser) (1).",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-cole",
+    "name": "Jim Cole",
+    "email": "jim.cole@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

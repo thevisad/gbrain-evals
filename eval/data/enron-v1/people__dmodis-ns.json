@@ -1,0 +1,14 @@
+{
+  "slug": "people/dmodis-ns",
+  "type": "person",
+  "title": "Dmodis",
+  "compiled_truth": "Dmodis is an external contact at [Ns](companies/ns). Over the corpus period (2000-11-28 to 2000-12-13), Dmodis sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dmodis-ns",
+    "name": "Dmodis",
+    "email": "dmodis@ns.net",
+    "primary_affiliation": "companies/ns"
+  }
+}

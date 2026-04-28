@@ -1,0 +1,14 @@
+{
+  "slug": "people/rika-imai",
+  "type": "person",
+  "title": "Rika Imai",
+  "compiled_truth": "Rika Imai is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-21 to 2002-03-19), Rika Imai sent 88 and received 592 emails, totalling 680 interactions. Top correspondents: [Paul Schiavone](people/paul-schiavone) (42), [Peter Makkai](people/peter-makkai) (41), [Jason Kaniss](people/jason-kaniss) (39), [Steve Gim](people/steve-gim) (38), [Lloyd Will](people/lloyd-will) (37). Mailbox folders observed: calendar, deleted_items, enron_power, inbox, power.",
+  "timeline": "- **2000-08-21** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rika-imai",
+    "name": "Rika Imai",
+    "email": "rika.imai@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

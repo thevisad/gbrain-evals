@@ -1,0 +1,14 @@
+{
+  "slug": "people/kysa-alport",
+  "type": "person",
+  "title": "Kysa Alport",
+  "compiled_truth": "Kysa Alport is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-23 to 2002-01-04), Kysa Alport sent 110 and received 146 emails, totalling 256 interactions. Top correspondents: [Bill Williams](people/bill-williams) (91), [Jeff Richter](people/jeff-richter) (73), [Tom Alonso](people/tom-alonso) (71), [M  Driscoll](people/m-driscoll) (71), [Mark Fischer](people/mark-fischer) (71). Mailbox folders observed: bill_williams_iii, deleted_items, inbox, symesees.",
+  "timeline": "- **2001-05-23** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kysa-alport",
+    "name": "Kysa Alport",
+    "email": "kysa.alport@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

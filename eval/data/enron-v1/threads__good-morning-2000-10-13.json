@@ -1,0 +1,21 @@
+{
+  "slug": "threads/good-morning-2000-10-13",
+  "type": "meeting",
+  "title": "Thread: Good Morning!",
+  "compiled_truth": "Email thread: \"Good Morning!\". Ran from 2000-10-03 to 2000-10-27 with 13 messages. Participants: [Charles200064](people/charles200064-aol), [Dana Davis](people/dana-davis), [Hjackson](people/hjackson-swcbc), [Janet Wallis](people/janet-wallis), [Patrice Mims](people/patrice-mims), [Po Jack](people/po-jack-email), [Tori Kuykendall](people/tori-kuykendall).",
+  "timeline": "- **2000-10-03** | Thread begins: good morning!\n- **2000-10-27** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/good-morning-2000-10-13",
+    "attendees": [
+      "people/charles200064-aol",
+      "people/dana-davis",
+      "people/hjackson-swcbc",
+      "people/janet-wallis",
+      "people/patrice-mims",
+      "people/po-jack-email",
+      "people/tori-kuykendall"
+    ],
+    "date": "2000-10-03"
+  }
+}

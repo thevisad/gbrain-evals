@@ -1,0 +1,14 @@
+{
+  "slug": "people/c-john-thompson",
+  "type": "person",
+  "title": "C John Thompson",
+  "compiled_truth": "C John Thompson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-21), C John Thompson sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/c-john-thompson",
+    "name": "C John Thompson",
+    "email": "c.john.thompson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

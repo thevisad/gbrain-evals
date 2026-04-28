@@ -1,0 +1,14 @@
+{
+  "slug": "people/margie-straight",
+  "type": "person",
+  "title": "Margie Straight",
+  "compiled_truth": "Margie Straight is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-30 to 2001-11-26), Margie Straight sent 0 and received 144 emails, totalling 144 interactions.",
+  "timeline": "- **1999-12-30** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margie-straight",
+    "name": "Margie Straight",
+    "email": "margie.straight@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

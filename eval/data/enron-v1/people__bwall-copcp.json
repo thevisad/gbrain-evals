@@ -1,0 +1,14 @@
+{
+  "slug": "people/bwall-copcp",
+  "type": "person",
+  "title": "Bwall",
+  "compiled_truth": "Bwall is an external contact at [Copcp](companies/copcp). Over the corpus period (2000-09-18 to 2000-11-16), Bwall sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2000-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bwall-copcp",
+    "name": "Bwall",
+    "email": "bwall@copcp.com",
+    "primary_affiliation": "companies/copcp"
+  }
+}

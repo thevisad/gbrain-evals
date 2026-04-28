@@ -1,0 +1,14 @@
+{
+  "slug": "people/tk-lohman",
+  "type": "person",
+  "title": "Tk Lohman",
+  "compiled_truth": "Tk Lohman is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-25), Tk Lohman sent 134 and received 1619 emails, totalling 1753 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (68), [Darrell Schoolcraft](people/darrell-schoolcraft) (54), [Jan Moore](people/jan-moore) (52), [Vincent Strohmeyer](people/vincent-strohmeyer) (43), [Debbie Moseley](people/debbie-moseley) (38). Mailbox folders observed: corporate, deleted_items, e_mail_bin, elpaso_pipeline, funny, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tk-lohman",
+    "name": "Tk Lohman",
+    "email": "tk.lohman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

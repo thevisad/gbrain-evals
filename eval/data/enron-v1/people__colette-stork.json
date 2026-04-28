@@ -1,0 +1,14 @@
+{
+  "slug": "people/colette-stork",
+  "type": "person",
+  "title": "Colette Stork",
+  "compiled_truth": "Colette Stork is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2000-03-06), Colette Stork sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2000-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/colette-stork",
+    "name": "Colette Stork",
+    "email": "colette.stork@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

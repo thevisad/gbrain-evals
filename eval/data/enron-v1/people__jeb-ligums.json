@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeb-ligums",
+  "type": "person",
+  "title": "Jeb Ligums",
+  "compiled_truth": "Jeb Ligums is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-18 to 2002-02-21), Jeb Ligums sent 12 and received 22 emails, totalling 34 interactions. Top correspondents: [Mike Maggi](people/mike-maggi) (7), [John Griffith](people/john-griffith) (6), [John Arnold](people/john-arnold) (5), [Dutch Quigley](people/dutch-quigley) (3), [Andy Zipper](people/andy-zipper) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeb-ligums",
+    "name": "Jeb Ligums",
+    "email": "jeb.ligums@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

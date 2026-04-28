@@ -1,0 +1,14 @@
+{
+  "slug": "people/carla-galvan",
+  "type": "person",
+  "title": "Carla Galvan",
+  "compiled_truth": "Carla Galvan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-01-11), Carla Galvan sent 2 and received 66 emails, totalling 68 interactions. Top correspondents: [Steven Kean](people/steven-kean) (2), [Mark Palmer](people/mark-palmer) (2), [Johan Zaayman](people/johan-zaayman) (2), [Cindy Derecskey](people/cindy-derecskey) (2), [Mark Koenig](people/mark-koenig) (1).",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carla-galvan",
+    "name": "Carla Galvan",
+    "email": "carla.galvan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

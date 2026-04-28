@@ -1,0 +1,14 @@
+{
+  "slug": "people/bruce-lundstrom",
+  "type": "person",
+  "title": "Bruce Lundstrom",
+  "compiled_truth": "Bruce Lundstrom is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-21), Bruce Lundstrom sent 30 and received 202 emails, totalling 232 interactions. Top correspondents: [Rob Walls](people/rob-walls) (18), [James Derrick](people/james-derrick) (6), [Rex Rogers](people/rex-rogers) (4), [Wade Cline](people/wade-cline) (1), [A  Hughes](people/a-hughes) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bruce-lundstrom",
+    "name": "Bruce Lundstrom",
+    "email": "bruce.lundstrom@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

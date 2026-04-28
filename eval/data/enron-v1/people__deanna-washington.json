@@ -1,0 +1,14 @@
+{
+  "slug": "people/deanna-washington",
+  "type": "person",
+  "title": "Deanna Washington",
+  "compiled_truth": "Deanna Washington is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-30 to 2001-11-26), Deanna Washington sent 2 and received 30 emails, totalling 32 interactions. Mailbox folders observed: calendar.",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deanna-washington",
+    "name": "Deanna Washington",
+    "email": "deanna.washington@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

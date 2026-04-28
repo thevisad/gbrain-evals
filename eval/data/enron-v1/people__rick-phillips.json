@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-phillips",
+  "type": "person",
+  "title": "Rick Phillips",
+  "compiled_truth": "Rick Phillips is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-18 to 2002-02-12), Rick Phillips sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Richard Causey](people/richard-causey) (1), [Sally Beck](people/sally-beck) (1), [Zahid Dohadwala](people/zahid-dohadwala) (1), [Larry Morse](people/larry-morse) (1).",
+  "timeline": "- **2000-01-18** | First recorded email in corpus\n- **2002-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-phillips",
+    "name": "Rick Phillips",
+    "email": "rick.phillips@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

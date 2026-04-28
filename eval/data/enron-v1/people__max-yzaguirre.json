@@ -1,0 +1,14 @@
+{
+  "slug": "people/max-yzaguirre",
+  "type": "person",
+  "title": "Max Yzaguirre",
+  "compiled_truth": "Max Yzaguirre is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-06), Max Yzaguirre sent 8 and received 242 emails, totalling 250 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (5), [Marc Sabine](people/marc-sabine) (3), [Peggy Banczak](people/peggy-banczak) (2), [Steve Irvin](people/steve-irvin) (2), [David Delainey](people/david-delainey) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/max-yzaguirre",
+    "name": "Max Yzaguirre",
+    "email": "max.yzaguirre@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/elizabeth-brown",
+  "type": "person",
+  "title": "Elizabeth Brown",
+  "compiled_truth": "Elizabeth Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-18 to 2002-03-25), Elizabeth Brown sent 79 and received 262 emails, totalling 341 interactions. Top correspondents: [Lindy Donoho](people/lindy-donoho) (41), [Rick Dietz](people/rick-dietz) (37), [Tk Lohman](people/tk-lohman) (36), [Kimberly Watson](people/kimberly-watson) (36), [Michelle Lokay](people/michelle-lokay) (32). Mailbox folders observed: calendar, california, capacity_release, deleted_items, e_mail_bin, inbox.",
+  "timeline": "- **1999-06-18** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elizabeth-brown",
+    "name": "Elizabeth Brown",
+    "email": "elizabeth.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

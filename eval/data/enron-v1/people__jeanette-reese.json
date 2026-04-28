@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeanette-reese",
+  "type": "person",
+  "title": "Jeanette Reese",
+  "compiled_truth": "Jeanette Reese is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-24 to 2001-10-12), Jeanette Reese sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **2000-01-24** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeanette-reese",
+    "name": "Jeanette Reese",
+    "email": "jeanette.reese@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

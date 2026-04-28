@@ -1,0 +1,14 @@
+{
+  "slug": "people/bryan-nixon",
+  "type": "person",
+  "title": "Bryan Nixon",
+  "compiled_truth": "Bryan Nixon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-12-15), Bryan Nixon sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2000-12-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bryan-nixon",
+    "name": "Bryan Nixon",
+    "email": "bryan.nixon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

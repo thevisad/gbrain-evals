@@ -1,0 +1,14 @@
+{
+  "slug": "people/bonnie-shumaker",
+  "type": "person",
+  "title": "Bonnie Shumaker",
+  "compiled_truth": "Bonnie Shumaker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-03 to 2000-12-08), Bonnie Shumaker sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2000-12-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bonnie-shumaker",
+    "name": "Bonnie Shumaker",
+    "email": "bonnie.shumaker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

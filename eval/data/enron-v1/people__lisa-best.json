@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-best",
+  "type": "person",
+  "title": "Lisa Best",
+  "compiled_truth": "Lisa Best is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-12 to 2001-12-03), Lisa Best sent 0 and received 91 emails, totalling 91 interactions.",
+  "timeline": "- **2000-04-12** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-best",
+    "name": "Lisa Best",
+    "email": "lisa.best@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

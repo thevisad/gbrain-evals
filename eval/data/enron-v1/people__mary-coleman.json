@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-coleman",
+  "type": "person",
+  "title": "Mary Coleman",
+  "compiled_truth": "Mary Coleman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-08 to 2000-12-12), Mary Coleman sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-12-08** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-coleman",
+    "name": "Mary Coleman",
+    "email": "mary.coleman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

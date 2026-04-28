@@ -1,0 +1,14 @@
+{
+  "slug": "people/felicia-buenrostro",
+  "type": "person",
+  "title": "Felicia Buenrostro",
+  "compiled_truth": "Felicia Buenrostro is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2002-01-24), Felicia Buenrostro sent 1 and received 26 emails, totalling 27 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (1). Mailbox folders observed: personal.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/felicia-buenrostro",
+    "name": "Felicia Buenrostro",
+    "email": "felicia.buenrostro@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

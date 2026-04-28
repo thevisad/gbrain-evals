@@ -1,0 +1,26 @@
+{
+  "slug": "companies/iepa",
+  "type": "company",
+  "title": "Iepa",
+  "compiled_truth": "Iepa is an external organization that appears in the Enron email corpus. Domain: iepa.com. Total email interactions with Enron: 1,198. Known contacts: 9 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (1,198 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/iepa",
+    "name": "Iepa",
+    "employees": [
+      "people/carol-iepa",
+      "people/chudson-iepa",
+      "people/iep-iepa",
+      "people/iepa-iepa",
+      "people/kaplan-iepa",
+      "people/loisr-iepa",
+      "people/smutney-iepa",
+      "people/smutny-iepa",
+      "people/steven-iepa"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

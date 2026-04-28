@@ -1,0 +1,14 @@
+{
+  "slug": "people/selder-startel",
+  "type": "person",
+  "title": "Selder",
+  "compiled_truth": "Selder is an external contact at [Startel](companies/startel). Over the corpus period (2000-07-17 to 2000-07-17), Selder sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-07-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/selder-startel",
+    "name": "Selder",
+    "email": "selder@startel.net",
+    "primary_affiliation": "companies/startel"
+  }
+}

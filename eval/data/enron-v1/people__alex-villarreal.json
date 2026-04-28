@@ -1,0 +1,14 @@
+{
+  "slug": "people/alex-villarreal",
+  "type": "person",
+  "title": "Alex Villarreal",
+  "compiled_truth": "Alex Villarreal is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-19 to 2002-02-25), Alex Villarreal sent 12 and received 21 emails, totalling 33 interactions. Top correspondents: [Geoff Storey](people/geoff-storey) (6), [John Griffith](people/john-griffith) (6), [Lindsay Culotta](people/lindsay-culotta) (5), [Bryant Frihart](people/bryant-frihart) (5), [C  Giron](people/c-giron) (5). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-11-19** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alex-villarreal",
+    "name": "Alex Villarreal",
+    "email": "alex.villarreal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

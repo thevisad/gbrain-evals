@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-mirich",
+  "type": "person",
+  "title": "Gary Mirich",
+  "compiled_truth": "Gary Mirich is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-08 to 2001-02-06), Gary Mirich sent 2 and received 38 emails, totalling 40 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (2), [Marcie Milner](people/marcie-milner) (1), [San Reps](people/san-reps) (1).",
+  "timeline": "- **2000-08-08** | First recorded email in corpus\n- **2001-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-mirich",
+    "name": "Gary Mirich",
+    "email": "gary.mirich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

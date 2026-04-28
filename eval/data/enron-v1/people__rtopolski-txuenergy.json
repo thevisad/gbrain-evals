@@ -1,0 +1,14 @@
+{
+  "slug": "people/rtopolski-txuenergy",
+  "type": "person",
+  "title": "Rtopolski",
+  "compiled_truth": "Rtopolski is an external contact at [Txuenergy](companies/txuenergy). Over the corpus period (2000-11-07 to 2001-09-11), Rtopolski sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rtopolski-txuenergy",
+    "name": "Rtopolski",
+    "email": "rtopolski@txuenergy.com",
+    "primary_affiliation": "companies/txuenergy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sherri-carpenter",
+  "type": "person",
+  "title": "Sherri Carpenter",
+  "compiled_truth": "Sherri Carpenter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-30 to 2000-12-13), Sherri Carpenter sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-06-30** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sherri-carpenter",
+    "name": "Sherri Carpenter",
+    "email": "sherri.carpenter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

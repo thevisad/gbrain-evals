@@ -1,0 +1,14 @@
+{
+  "slug": "people/king-terry",
+  "type": "person",
+  "title": "King Terry",
+  "compiled_truth": "King Terry is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-04-01 to 2002-04-01), King Terry sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-04-01** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/king-terry",
+    "name": "King Terry",
+    "email": "king.terry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mccarthp-1-yahoo",
+  "type": "person",
+  "title": "Mccarthp 1",
+  "compiled_truth": "Mccarthp 1 is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-10-10 to 2001-04-30), Mccarthp 1 sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-10-10** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mccarthp-1-yahoo",
+    "name": "Mccarthp 1",
+    "email": "mccarthp_1@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

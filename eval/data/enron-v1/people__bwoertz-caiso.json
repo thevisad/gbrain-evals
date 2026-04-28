@@ -1,0 +1,14 @@
+{
+  "slug": "people/bwoertz-caiso",
+  "type": "person",
+  "title": "Bwoertz",
+  "compiled_truth": "Bwoertz is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-06-13 to 2002-01-10), Bwoertz sent 70 and received 5 emails, totalling 75 interactions. Top correspondents: [20Participants](people/20participants-caiso) (66), [Scsettlecontacts](people/scsettlecontacts-caiso) (8), [Cmrsteeringcommittee](people/cmrsteeringcommittee-caiso) (7), [Cmrexecutivepolicyteam](people/cmrexecutivepolicyteam-caiso) (7), [Cmrcoreteam](people/cmrcoreteam-caiso) (7).",
+  "timeline": "- **2000-06-13** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bwoertz-caiso",
+    "name": "Bwoertz",
+    "email": "bwoertz@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

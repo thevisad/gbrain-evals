@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrew-wu",
+  "type": "person",
+  "title": "Andrew Wu",
+  "compiled_truth": "Andrew Wu is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-11-14), Andrew Wu sent 19 and received 94 emails, totalling 113 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (9), [Dirk Vanulden](people/dirk-vanulden) (5), [Edwin Essandoh](people/edwin-essandoh) (3), [Vicki Sharp](people/vicki-sharp) (3), [Rob Cone](people/rob-cone) (3). Mailbox folders observed: deleted_items, notes_inbox.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrew-wu",
+    "name": "Andrew Wu",
+    "email": "andrew.wu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

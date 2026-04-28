@@ -1,0 +1,14 @@
+{
+  "slug": "people/ernesto-garza",
+  "type": "person",
+  "title": "Ernesto Garza",
+  "compiled_truth": "Ernesto Garza is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-11-27), Ernesto Garza sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ernesto-garza",
+    "name": "Ernesto Garza",
+    "email": "ernesto.garza@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

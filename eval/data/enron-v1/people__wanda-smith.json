@@ -1,0 +1,14 @@
+{
+  "slug": "people/wanda-smith",
+  "type": "person",
+  "title": "Wanda Smith",
+  "compiled_truth": "Wanda Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-18 to 2001-09-24), Wanda Smith sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wanda-smith",
+    "name": "Wanda Smith",
+    "email": "wanda.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

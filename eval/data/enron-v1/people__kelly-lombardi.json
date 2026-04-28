@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-lombardi",
+  "type": "person",
+  "title": "Kelly Lombardi",
+  "compiled_truth": "Kelly Lombardi is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-06), Kelly Lombardi sent 9 and received 455 emails, totalling 464 interactions. Top correspondents: [Stephanie Sever](people/stephanie-sever) (4), [Tana Jones](people/tana-jones) (4), [Lisa Lees](people/lisa-lees) (3), [Tom Moran](people/tom-moran) (3), [Karen Lambert](people/karen-lambert) (3). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-lombardi",
+    "name": "Kelly Lombardi",
+    "email": "kelly.lombardi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

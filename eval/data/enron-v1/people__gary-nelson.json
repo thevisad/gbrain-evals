@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-nelson",
+  "type": "person",
+  "title": "Gary Nelson",
+  "compiled_truth": "Gary Nelson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-02 to 2001-10-15), Gary Nelson sent 1 and received 103 emails, totalling 104 interactions. Top correspondents: [Aparna Rajaram](people/aparna-rajaram) (1), [Walter Guidroz](people/walter-guidroz) (1), [Tana Jones](people/tana-jones) (1), [Karen Lambert](people/karen-lambert) (1), [Frank Davis](people/frank-davis) (1).",
+  "timeline": "- **1999-08-02** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-nelson",
+    "name": "Gary Nelson",
+    "email": "gary.nelson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

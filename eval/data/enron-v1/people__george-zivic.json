@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-zivic",
+  "type": "person",
+  "title": "George Zivic",
+  "compiled_truth": "George Zivic is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2001-05-14), George Zivic sent 1 and received 30 emails, totalling 31 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (1).",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2001-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-zivic",
+    "name": "George Zivic",
+    "email": "george.zivic@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "threads/hello-2002-03",
+  "type": "meeting",
+  "title": "Thread: Hello",
+  "compiled_truth": "Email thread: \"Hello\". Ran from 2002-03-08 to 2002-04-05 with 7 messages. Participants: ['Abrahams](people/abrahams), [Chris Germany](people/chris-germany), [Dplach](people/dplach-aquila), [Dplach](people/dplach-utilicorp), [Habrahams](people/habrahams-natsourcetulletteurope), [Joe Parks](people/joe-parks), [M  Scott](people/m-scott), [Maria Garza](people/maria-garza).",
+  "timeline": "- **2002-03-08** | Thread begins: hello\n- **2002-04-05** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/hello-2002-03",
+    "attendees": [
+      "people/abrahams",
+      "people/chris-germany",
+      "people/dplach-aquila",
+      "people/dplach-utilicorp",
+      "people/habrahams-natsourcetulletteurope",
+      "people/joe-parks",
+      "people/m-scott",
+      "people/maria-garza",
+      "people/matt-motley",
+      "people/michelle-lokay",
+      "people/payne",
+      "people/sharee-payne-compaq",
+      "people/stuart-zisman",
+      "people/tdepaolis-sequentenergy"
+    ],
+    "date": "2002-03-08"
+  }
+}

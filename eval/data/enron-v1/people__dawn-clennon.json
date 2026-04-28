@@ -1,0 +1,14 @@
+{
+  "slug": "people/dawn-clennon",
+  "type": "person",
+  "title": "Dawn Clennon",
+  "compiled_truth": "Dawn Clennon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-08 to 2002-05-06), Dawn Clennon sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dawn-clennon",
+    "name": "Dawn Clennon",
+    "email": "dawn.clennon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mmanly-newpower",
+  "type": "person",
+  "title": "Mmanly",
+  "compiled_truth": "Mmanly is an external contact at [Newpower](companies/newpower). Over the corpus period (2000-09-11 to 2001-05-07), Mmanly sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-09-11** | First recorded email in corpus\n- **2001-05-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mmanly-newpower",
+    "name": "Mmanly",
+    "email": "mmanly@newpower.com",
+    "primary_affiliation": "companies/newpower"
+  }
+}

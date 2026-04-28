@@ -1,0 +1,14 @@
+{
+  "slug": "people/d-mcilvoy",
+  "type": "person",
+  "title": "D  Mcilvoy",
+  "compiled_truth": "D  Mcilvoy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-23 to 2002-06-21), D  Mcilvoy sent 1 and received 18 emails, totalling 19 interactions. Top correspondents: [W  Pereira](people/w-pereira) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-23** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d-mcilvoy",
+    "name": "D  Mcilvoy",
+    "email": "d..mcilvoy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

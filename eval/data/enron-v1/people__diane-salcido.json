@@ -1,0 +1,14 @@
+{
+  "slug": "people/diane-salcido",
+  "type": "person",
+  "title": "Diane Salcido",
+  "compiled_truth": "Diane Salcido is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-12 to 2001-10-12), Diane Salcido sent 1 and received 154 emails, totalling 155 interactions. Top correspondents: [Regina Blackshear](people/regina-blackshear) (1), [Angela Barnett](people/angela-barnett) (1), [Judy Hernandez](people/judy-hernandez) (1), [Esther Celedon](people/esther-celedon) (1), [Adriana Celedon](people/adriana-celedon) (1).",
+  "timeline": "- **2000-05-12** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diane-salcido",
+    "name": "Diane Salcido",
+    "email": "diane.salcido@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

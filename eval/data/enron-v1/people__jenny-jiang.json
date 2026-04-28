@@ -1,0 +1,14 @@
+{
+  "slug": "people/jenny-jiang",
+  "type": "person",
+  "title": "Jenny Jiang",
+  "compiled_truth": "Jenny Jiang is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-09-28), Jenny Jiang sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jenny-jiang",
+    "name": "Jenny Jiang",
+    "email": "jenny.jiang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

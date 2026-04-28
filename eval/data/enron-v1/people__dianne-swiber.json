@@ -1,0 +1,14 @@
+{
+  "slug": "people/dianne-swiber",
+  "type": "person",
+  "title": "Dianne Swiber",
+  "compiled_truth": "Dianne Swiber is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-05-25), Dianne Swiber sent 3 and received 96 emails, totalling 99 interactions. Top correspondents: [Sally Beck](people/sally-beck) (3).",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-05-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dianne-swiber",
+    "name": "Dianne Swiber",
+    "email": "dianne.swiber@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

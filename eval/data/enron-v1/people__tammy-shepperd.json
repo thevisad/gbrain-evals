@@ -1,0 +1,14 @@
+{
+  "slug": "people/tammy-shepperd",
+  "type": "person",
+  "title": "Tammy Shepperd",
+  "compiled_truth": "Tammy Shepperd is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-05-24), Tammy Shepperd sent 6 and received 125 emails, totalling 131 interactions. Top correspondents: [Heather Choate](people/heather-choate) (2), [Sally Beck](people/sally-beck) (2), [Patti Thompson](people/patti-thompson) (2), [Louise Kitchen](people/louise-kitchen) (2), [Benjamin Rogers](people/benjamin-rogers) (2). Mailbox folders observed: _americas, deleted_items.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-05-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tammy-shepperd",
+    "name": "Tammy Shepperd",
+    "email": "tammy.shepperd@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

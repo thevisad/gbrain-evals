@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-rodger",
+  "type": "person",
+  "title": "Paul Rodger",
+  "compiled_truth": "Paul Rodger is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-13 to 2002-02-06), Paul Rodger sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2001-08-13** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-rodger",
+    "name": "Paul Rodger",
+    "email": "paul.rodger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/alan-black",
+  "type": "person",
+  "title": "Alan Black",
+  "compiled_truth": "Alan Black is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-02-09 to 2001-06-08), Alan Black sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **1999-02-09** | First recorded email in corpus\n- **2001-06-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alan-black",
+    "name": "Alan Black",
+    "email": "alan.black@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

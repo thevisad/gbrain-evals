@@ -1,0 +1,14 @@
+{
+  "slug": "people/soblander-carrfut",
+  "type": "person",
+  "title": "Soblander",
+  "compiled_truth": "Soblander is an external contact at [Carrfut](companies/carrfut). Over the corpus period (2000-07-02 to 2001-11-08), Soblander sent 277 and received 19 emails, totalling 296 interactions. Top correspondents: [John Griffith](people/john-griffith) (3), [John Disturnal](people/john-disturnal) (2).",
+  "timeline": "- **2000-07-02** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/soblander-carrfut",
+    "name": "Soblander",
+    "email": "soblander@carrfut.com",
+    "primary_affiliation": "companies/carrfut"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rmcmanus-bakerbotts",
+  "type": "person",
+  "title": "Rmcmanus",
+  "compiled_truth": "Rmcmanus is an external contact at [Bakerbotts](companies/bakerbotts). Over the corpus period (2000-10-16 to 2001-06-11), Rmcmanus sent 0 and received 43 emails, totalling 43 interactions.",
+  "timeline": "- **2000-10-16** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rmcmanus-bakerbotts",
+    "name": "Rmcmanus",
+    "email": "rmcmanus@bakerbotts.com",
+    "primary_affiliation": "companies/bakerbotts"
+  }
+}

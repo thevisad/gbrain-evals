@@ -1,0 +1,14 @@
+{
+  "slug": "people/beverly-fennessy",
+  "type": "person",
+  "title": "Beverly Fennessy",
+  "compiled_truth": "Beverly Fennessy is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-09-28), Beverly Fennessy sent 2 and received 7 emails, totalling 9 interactions. Top correspondents: [Pamela Lebrane](people/pamela-lebrane) (2), [Regan Smith](people/regan-smith) (1), [Jeff Johnson](people/jeff-johnson) (1), [Scott Mills](people/scott-mills) (1), [Beth Perlman](people/beth-perlman) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beverly-fennessy",
+    "name": "Beverly Fennessy",
+    "email": "beverly.fennessy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

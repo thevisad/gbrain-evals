@@ -1,0 +1,14 @@
+{
+  "slug": "people/gisele-braz",
+  "type": "person",
+  "title": "Gisele Braz",
+  "compiled_truth": "Gisele Braz is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2001-11-30), Gisele Braz sent 0 and received 104 emails, totalling 104 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gisele-braz",
+    "name": "Gisele Braz",
+    "email": "gisele.braz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

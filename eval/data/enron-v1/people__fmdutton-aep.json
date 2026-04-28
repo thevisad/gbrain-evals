@@ -1,0 +1,14 @@
+{
+  "slug": "people/fmdutton-aep",
+  "type": "person",
+  "title": "Fmdutton",
+  "compiled_truth": "Fmdutton is an external contact at [Aep](companies/aep). Over the corpus period (1999-12-01 to 2002-01-10), Fmdutton sent 3 and received 35 emails, totalling 38 interactions. Top correspondents: [Elizabeth Sager](people/elizabeth-sager) (2), [Akatz](people/akatz-eei) (1), [Nina Tillett](people/nina-tillett) (1), [Djstephens](people/djstephens-aep) (1), [Ecomer](people/ecomer-eei) (1).",
+  "timeline": "- **1999-12-01** | First recorded email in corpus\n- **2002-01-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fmdutton-aep",
+    "name": "Fmdutton",
+    "email": "fmdutton@aep.com",
+    "primary_affiliation": "companies/aep"
+  }
+}

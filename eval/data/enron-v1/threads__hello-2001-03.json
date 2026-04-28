@@ -1,0 +1,19 @@
+{
+  "slug": "threads/hello-2001-03",
+  "type": "meeting",
+  "title": "Thread: Hello!",
+  "compiled_truth": "Email thread: \"Hello!\". Ran from 2001-03-29 to 2001-04-20 with 18 messages. Participants: [Chris Germany](people/chris-germany), [Jkbowles](people/jkbowles-hotmail), [Julieg](people/julieg-qualcomm), [Susan Scott](people/susan-scott), [Susan Weison](people/susan-weison).",
+  "timeline": "- **2001-03-29** | Thread begins: hello!\n- **2001-04-20** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/hello-2001-03",
+    "attendees": [
+      "people/chris-germany",
+      "people/jkbowles-hotmail",
+      "people/julieg-qualcomm",
+      "people/susan-scott",
+      "people/susan-weison"
+    ],
+    "date": "2001-03-29"
+  }
+}

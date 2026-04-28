@@ -1,0 +1,14 @@
+{
+  "slug": "people/kareng-accessrelocation",
+  "type": "person",
+  "title": "Kareng",
+  "compiled_truth": "Kareng is an external contact at [Accessrelocation](companies/accessrelocation). Over the corpus period (2001-05-09 to 2001-11-07), Kareng sent 4 and received 2 emails, totalling 6 interactions. Top correspondents: [Chris Germany](people/chris-germany) (4).",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kareng-accessrelocation",
+    "name": "Kareng",
+    "email": "kareng@accessrelocation.com",
+    "primary_affiliation": "companies/accessrelocation"
+  }
+}

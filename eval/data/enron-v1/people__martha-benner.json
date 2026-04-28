@@ -1,0 +1,14 @@
+{
+  "slug": "people/martha-benner",
+  "type": "person",
+  "title": "Martha Benner",
+  "compiled_truth": "Martha Benner is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-12-21), Martha Benner sent 13 and received 537 emails, totalling 550 interactions. Top correspondents: [Drew Fossum](people/drew-fossum) (5), [Rockey Storie](people/rockey-storie) (4), [Britt Davis](people/britt-davis) (3), [Kathy Ringblom](people/kathy-ringblom) (3), [Jim Talcott](people/jim-talcott) (3). Mailbox folders observed: _sent_mail, discussion_threads, sent.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martha-benner",
+    "name": "Martha Benner",
+    "email": "martha.benner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ltt-cpuc",
+  "type": "person",
+  "title": "Ltt",
+  "compiled_truth": "Ltt is an external contact at [Cpuc](companies/cpuc). Over the corpus period (2000-04-04 to 2000-12-13), Ltt sent 0 and received 99 emails, totalling 99 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ltt-cpuc",
+    "name": "Ltt",
+    "email": "ltt@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/amr-ibrahim",
+  "type": "person",
+  "title": "Amr Ibrahim",
+  "compiled_truth": "Amr Ibrahim is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2002-01-11), Amr Ibrahim sent 78 and received 278 emails, totalling 356 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (60), [D  Steffes](people/d-steffes) (33), [Harry Kingerski](people/harry-kingerski) (27), [Alberto Levy](people/alberto-levy) (25), [Janine Migden](people/janine-migden) (23). Mailbox folders observed: 2002_budget, credit_issues, deleted_items, global_markets, inbox, india.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amr-ibrahim",
+    "name": "Amr Ibrahim",
+    "email": "amr.ibrahim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/chi-wing-yuen-aig",
+  "type": "person",
+  "title": "Chi-Wing Yuen",
+  "compiled_truth": "Chi-Wing Yuen is an external contact at [Aig](companies/aig). Over the corpus period (2000-09-07 to 2001-06-11), Chi-Wing Yuen sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chi-wing-yuen-aig",
+    "name": "Chi-Wing Yuen",
+    "email": "chi-wing.yuen@aig.com",
+    "primary_affiliation": "companies/aig"
+  }
+}

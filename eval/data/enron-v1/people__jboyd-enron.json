@@ -1,0 +1,14 @@
+{
+  "slug": "people/jboyd-enron",
+  "type": "person",
+  "title": "Jboyd",
+  "compiled_truth": "Jboyd is an external contact at [Enron](companies/enron). Over the corpus period (1999-07-07 to 1999-08-10), Jboyd sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **1999-07-07** | First recorded email in corpus\n- **1999-08-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jboyd-enron",
+    "name": "Jboyd",
+    "email": "jboyd@enron.co.uk",
+    "primary_affiliation": "companies/enron"
+  }
+}

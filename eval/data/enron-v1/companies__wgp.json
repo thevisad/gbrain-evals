@@ -1,0 +1,40 @@
+{
+  "slug": "companies/wgp",
+  "type": "company",
+  "title": "Wgp",
+  "compiled_truth": "Wgp is an external organization that appears in the Enron email corpus. Domain: wgp.com. Total email interactions with Enron: 349. Known contacts: 23 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (349 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/wgp",
+    "name": "Wgp",
+    "employees": [
+      "people/ashley-a-mace-wgp",
+      "people/dale-m-davis-wgp",
+      "people/ed-r-brewer-wgp",
+      "people/ingrid-immer-wgp",
+      "people/jeff-l-bittel-wgp",
+      "people/jeffrey-c-hammond-wgp",
+      "people/jim-l-harder-wgp",
+      "people/john-b-davis-wgp",
+      "people/kirk-t-morgan-wgp",
+      "people/linda-w-humphrey-wgp",
+      "people/lynn-g-dahlberg-wgp",
+      "people/margaret-e-kleiner-wgp",
+      "people/mark-c-moench-wgp",
+      "people/mark-w-dettmers-wgp",
+      "people/michael-d-rasmuson-wgp",
+      "people/peter-f-richards-wgp",
+      "people/preston-j-miller-wgp",
+      "people/robert-g-mullen-wgp",
+      "people/robert-s-checketts-wgp",
+      "people/ron-m-mucci-wgp",
+      "people/roseanne-a-lowrey-wgp",
+      "people/troy-l-ruflin-wgp",
+      "people/wgpw-businessdvp-wgp"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

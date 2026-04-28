@@ -1,0 +1,14 @@
+{
+  "slug": "people/keller-mayeaux",
+  "type": "person",
+  "title": "Keller Mayeaux",
+  "compiled_truth": "Keller Mayeaux is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2001-05-11), Keller Mayeaux sent 1 and received 265 emails, totalling 266 interactions. Top correspondents: [Jay Wills](people/jay-wills) (1), [Cyril Price](people/cyril-price) (1), [John Kinser](people/john-kinser) (1), [Rudy Acevedo](people/rudy-acevedo) (1), [Richard Hrabal](people/richard-hrabal) (1). Mailbox folders observed: 24_hr_power.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/keller-mayeaux",
+    "name": "Keller Mayeaux",
+    "email": "keller.mayeaux@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

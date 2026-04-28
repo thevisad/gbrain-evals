@@ -1,0 +1,14 @@
+{
+  "slug": "people/jpgiles-hotmail",
+  "type": "person",
+  "title": "Jpgiles",
+  "compiled_truth": "Jpgiles is an external contact at [Hotmail / MSN](companies/hotmail). Over the corpus period (1999-12-12 to 2001-05-08), Jpgiles sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **1999-12-12** | First recorded email in corpus\n- **2001-05-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jpgiles-hotmail",
+    "name": "Jpgiles",
+    "email": "jpgiles@hotmail.com",
+    "primary_affiliation": "companies/hotmail"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/annette-willis",
+  "type": "person",
+  "title": "Annette Willis",
+  "compiled_truth": "Annette Willis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-07 to 2001-11-30), Annette Willis sent 1 and received 5 emails, totalling 6 interactions. Top correspondents: [J  Farmer](people/j-farmer) (1), [Marsha Shepherd](people/marsha-shepherd) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-08-07** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/annette-willis",
+    "name": "Annette Willis",
+    "email": "annette.willis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

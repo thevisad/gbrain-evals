@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-perez",
+  "type": "person",
+  "title": "Kim Perez",
+  "compiled_truth": "Kim Perez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-24 to 2002-03-13), Kim Perez sent 0 and received 46 emails, totalling 46 interactions.",
+  "timeline": "- **2000-05-24** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-perez",
+    "name": "Kim Perez",
+    "email": "kim.perez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

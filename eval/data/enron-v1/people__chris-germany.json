@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-germany",
+  "type": "person",
+  "title": "Chris Germany",
+  "compiled_truth": "Chris Germany is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-25), Chris Germany sent 5844 and received 2029 emails, totalling 7873 interactions. Top correspondents: [Scott Goodell](people/scott-goodell) (614), [Victor Lamadrid](people/victor-lamadrid) (472), [Robert Allwein](people/robert-allwein) (411), [Brenda Fletcher](people/brenda-fletcher) (410), [Judy Townsend](people/judy-townsend) (381). Mailbox folders observed: _sent_mail, bankrupt, calendar, contacts, deleted_items, discussion_threads.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-germany",
+    "name": "Chris Germany",
+    "email": "chris.germany@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

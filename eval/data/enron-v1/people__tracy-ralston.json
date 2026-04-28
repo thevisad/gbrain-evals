@@ -1,0 +1,14 @@
+{
+  "slug": "people/tracy-ralston",
+  "type": "person",
+  "title": "Tracy Ralston",
+  "compiled_truth": "Tracy Ralston is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2001-11-19), Tracy Ralston sent 8 and received 39 emails, totalling 47 interactions. Top correspondents: [Globalflash Recipients](people/globalflash-recipients) (4), [Ect Integration](people/ect-integration) (2), [Steven Kean](people/steven-kean) (2), [James Bannantine](people/james-bannantine) (2), [Rick Buy](people/rick-buy) (2).",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tracy-ralston",
+    "name": "Tracy Ralston",
+    "email": "tracy.ralston@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

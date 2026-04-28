@@ -1,0 +1,14 @@
+{
+  "slug": "people/jackie-morgan",
+  "type": "person",
+  "title": "Jackie Morgan",
+  "compiled_truth": "Jackie Morgan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-20 to 2001-05-15), Jackie Morgan sent 9 and received 132 emails, totalling 141 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (9), [Eric Gillaspie](people/eric-gillaspie) (8), [Lauri Allen](people/lauri-allen) (6), [Cheryl Dudley](people/cheryl-dudley) (4), [Mark Thorne](people/mark-thorne) (3).",
+  "timeline": "- **1999-07-20** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jackie-morgan",
+    "name": "Jackie Morgan",
+    "email": "jackie.morgan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/donna-finnels-neal",
+  "type": "person",
+  "title": "Donna Finnels-Neal",
+  "compiled_truth": "Donna Finnels-Neal is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-27 to 2001-12-03), Donna Finnels-Neal sent 3 and received 17 emails, totalling 20 interactions. Top correspondents: [D  Anderson](people/d-anderson) (2), [Kevin Ashby](people/kevin-ashby) (2), [C  Aucoin](people/c-aucoin) (2), [Kathy Bass](people/kathy-bass) (2), [Roberto Conterno](people/roberto-conterno) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-07-27** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donna-finnels-neal",
+    "name": "Donna Finnels-Neal",
+    "email": "donna.finnels-neal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

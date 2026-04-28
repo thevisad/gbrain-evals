@@ -1,0 +1,14 @@
+{
+  "slug": "people/bryan-gottfredson",
+  "type": "person",
+  "title": "Bryan Gottfredson",
+  "compiled_truth": "Bryan Gottfredson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-09 to 2002-01-11), Bryan Gottfredson sent 32 and received 164 emails, totalling 196 interactions. Top correspondents: [D  Steffes](people/d-steffes) (29), [Amr Ibrahim](people/amr-ibrahim) (10), [Richard Shapiro](people/richard-shapiro) (10), [Alan Comnes](people/alan-comnes) (8), [Jeff Dasovich](people/jeff-dasovich) (7). Mailbox folders observed: california, california_issues, california_pg_e_bankruptcy, deleted_items, inbox.",
+  "timeline": "- **2001-08-09** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bryan-gottfredson",
+    "name": "Bryan Gottfredson",
+    "email": "bryan.gottfredson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-pyle-hp",
+  "type": "person",
+  "title": "Greg Pyle",
+  "compiled_truth": "Greg Pyle is an external contact at [Hp](companies/hp). Over the corpus period (2000-12-01 to 2000-12-07), Greg Pyle sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2000-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-pyle-hp",
+    "name": "Greg Pyle",
+    "email": "greg_pyle@hp.com",
+    "primary_affiliation": "companies/hp"
+  }
+}

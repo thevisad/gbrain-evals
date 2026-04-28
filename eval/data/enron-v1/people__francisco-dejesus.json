@@ -1,0 +1,14 @@
+{
+  "slug": "people/francisco-dejesus",
+  "type": "person",
+  "title": "Francisco Dejesus",
+  "compiled_truth": "Francisco Dejesus is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-04-02), Francisco Dejesus sent 3 and received 48 emails, totalling 51 interactions. Top correspondents: [Sally Beck](people/sally-beck) (3), [Hector Mcloughlin](people/hector-mcloughlin) (2), [Janet Paz](people/janet-paz) (1), [Joel Henenberg](people/joel-henenberg) (1), [Mary Solmonson](people/mary-solmonson) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-04-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/francisco-dejesus",
+    "name": "Francisco Dejesus",
+    "email": "francisco.dejesus@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

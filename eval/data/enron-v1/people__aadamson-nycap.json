@@ -1,0 +1,14 @@
+{
+  "slug": "people/aadamson-nycap",
+  "type": "person",
+  "title": "Aadamson",
+  "compiled_truth": "Aadamson is an external contact at [Nycap](companies/nycap). Over the corpus period (2001-04-18 to 2002-02-25), Aadamson sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2001-04-18** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aadamson-nycap",
+    "name": "Aadamson",
+    "email": "aadamson@nycap.rr.com",
+    "primary_affiliation": "companies/nycap"
+  }
+}

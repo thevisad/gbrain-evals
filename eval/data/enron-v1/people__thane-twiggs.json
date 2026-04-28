@@ -1,0 +1,14 @@
+{
+  "slug": "people/thane-twiggs",
+  "type": "person",
+  "title": "Thane Twiggs",
+  "compiled_truth": "Thane Twiggs is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2001-12-03), Thane Twiggs sent 34 and received 450 emails, totalling 484 interactions. Top correspondents: [Jean Ryall](people/jean-ryall) (17), [Doug Gilbert-Smith](people/doug-gilbert-smith) (16), [Richard Shapiro](people/richard-shapiro) (13), [Christi Nicolay](people/christi-nicolay) (13), [James Steffes](people/james-steffes) (11). Mailbox folders observed: deleted_items, eesirenewableenergy, inbox, texas.",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thane-twiggs",
+    "name": "Thane Twiggs",
+    "email": "thane.twiggs@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

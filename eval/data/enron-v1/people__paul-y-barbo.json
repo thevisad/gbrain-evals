@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-y-barbo",
+  "type": "person",
+  "title": "Paul Y'Barbo",
+  "compiled_truth": "Paul Y'Barbo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-27 to 2002-05-06), Paul Y'Barbo sent 222 and received 1073 emails, totalling 1295 interactions. Top correspondents: [Wayne Perry](people/wayne-perry) (41), [Clay Harris](people/clay-harris) (35), [Dan Masters](people/dan-masters) (27), [Miguel Maltes](people/miguel-maltes) (22), [Greg Curran](people/greg-curran) (21). Mailbox folders observed: ad_gas, dabhol, dabhol___cond__of_use, deleted_items, e_mail_bin, ecoelectrica.",
+  "timeline": "- **2000-11-27** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-y-barbo",
+    "name": "Paul Y'Barbo",
+    "email": "paul.y'barbo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

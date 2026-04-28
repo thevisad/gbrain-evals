@@ -1,0 +1,14 @@
+{
+  "slug": "people/lmansi-sdge",
+  "type": "person",
+  "title": "Lmansi",
+  "compiled_truth": "Lmansi is an external contact at [Sdge](companies/sdge). Over the corpus period (2001-04-19 to 2001-05-11), Lmansi sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lmansi-sdge",
+    "name": "Lmansi",
+    "email": "lmansi@sdge.com",
+    "primary_affiliation": "companies/sdge"
+  }
+}

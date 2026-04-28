@@ -1,0 +1,14 @@
+{
+  "slug": "people/gerry-taylor",
+  "type": "person",
+  "title": "Gerry Taylor",
+  "compiled_truth": "Gerry Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-30 to 2001-10-01), Gerry Taylor sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-06-30** | First recorded email in corpus\n- **2001-10-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gerry-taylor",
+    "name": "Gerry Taylor",
+    "email": "gerry.taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

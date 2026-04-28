@@ -1,0 +1,14 @@
+{
+  "slug": "people/lohit-datta-barua",
+  "type": "person",
+  "title": "Lohit Datta-Barua",
+  "compiled_truth": "Lohit Datta-Barua is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-09-28), Lohit Datta-Barua sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lohit-datta-barua",
+    "name": "Lohit Datta-Barua",
+    "email": "lohit.datta-barua@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

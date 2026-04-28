@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-blakely",
+  "type": "person",
+  "title": "Brian Blakely",
+  "compiled_truth": "Brian Blakely is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2001-05-30), Brian Blakely sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-blakely",
+    "name": "Brian Blakely",
+    "email": "brian.blakely@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

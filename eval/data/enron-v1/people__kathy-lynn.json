@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathy-lynn",
+  "type": "person",
+  "title": "Kathy Lynn",
+  "compiled_truth": "Kathy Lynn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-10-12), Kathy Lynn sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathy-lynn",
+    "name": "Kathy Lynn",
+    "email": "kathy.lynn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

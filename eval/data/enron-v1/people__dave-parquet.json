@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-parquet",
+  "type": "person",
+  "title": "Dave Parquet",
+  "compiled_truth": "Dave Parquet is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-06 to 2001-03-23), Dave Parquet sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2000-10-06** | First recorded email in corpus\n- **2001-03-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-parquet",
+    "name": "Dave Parquet",
+    "email": "dave.parquet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

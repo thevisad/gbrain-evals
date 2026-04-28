@@ -1,0 +1,14 @@
+{
+  "slug": "people/edward-ondarza",
+  "type": "person",
+  "title": "Edward Ondarza",
+  "compiled_truth": "Edward Ondarza is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-10 to 2001-11-19), Edward Ondarza sent 1 and received 146 emails, totalling 147 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (1).",
+  "timeline": "- **1999-05-10** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edward-ondarza",
+    "name": "Edward Ondarza",
+    "email": "edward.ondarza@enron.net",
+    "primary_affiliation": "companies/enron"
+  }
+}

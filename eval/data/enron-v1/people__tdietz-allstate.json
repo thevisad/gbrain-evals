@@ -1,0 +1,14 @@
+{
+  "slug": "people/tdietz-allstate",
+  "type": "person",
+  "title": "Tdietz",
+  "compiled_truth": "Tdietz is an external contact at [Allstate](companies/allstate). Over the corpus period (2000-06-01 to 2000-11-06), Tdietz sent 0 and received 52 emails, totalling 52 interactions.",
+  "timeline": "- **2000-06-01** | First recorded email in corpus\n- **2000-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tdietz-allstate",
+    "name": "Tdietz",
+    "email": "tdietz@allstate.com",
+    "primary_affiliation": "companies/allstate"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/doan-felicia",
+  "type": "person",
+  "title": "Doan' 'Felicia",
+  "compiled_truth": "Doan' 'Felicia is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-28 to 2000-11-28), Doan' 'Felicia sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/doan-felicia",
+    "name": "Doan' 'Felicia",
+    "email": "doan'.'felicia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/terri-walker",
+  "type": "person",
+  "title": "Terri Walker",
+  "compiled_truth": "Terri Walker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-11 to 2001-11-21), Terri Walker sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (1), [David Gaines](people/david-gaines) (1), [Randy Rice](people/randy-rice) (1), [Team Tescott](people/team-tescott) (1), [Don Hawkins](people/don-hawkins) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-12-11** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terri-walker",
+    "name": "Terri Walker",
+    "email": "terri.walker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

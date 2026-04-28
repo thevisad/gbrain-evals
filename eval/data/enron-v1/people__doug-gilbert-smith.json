@@ -1,0 +1,14 @@
+{
+  "slug": "people/doug-gilbert-smith",
+  "type": "person",
+  "title": "Doug Gilbert-Smith",
+  "compiled_truth": "Doug Gilbert-Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-19), Doug Gilbert-Smith sent 114 and received 999 emails, totalling 1113 interactions. Top correspondents: [M  Forney](people/m-forney) (13), [D  Steffes](people/d-steffes) (13), [Clint Dean](people/clint-dean) (9), [Jae Black](people/jae-black) (9), [W  White](people/w-white) (8). Mailbox folders observed: 24_hr_power, calendar, deleted_items, inbox, info3, notre_dame.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/doug-gilbert-smith",
+    "name": "Doug Gilbert-Smith",
+    "email": "doug.gilbert-smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

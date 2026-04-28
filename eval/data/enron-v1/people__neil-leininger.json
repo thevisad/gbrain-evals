@@ -1,0 +1,14 @@
+{
+  "slug": "people/neil-leininger",
+  "type": "person",
+  "title": "Neil Leininger",
+  "compiled_truth": "Neil Leininger is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-02-08), Neil Leininger sent 2 and received 2 emails, totalling 4 interactions. Top correspondents: [Scada Users](people/scada-users) (2), [Asem Atta](people/asem-atta) (1), [Pete Davis](people/pete-davis) (1), [Les Prigmore](people/les-prigmore) (1), [Suixiong Pan](people/suixiong-pan) (1).",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/neil-leininger",
+    "name": "Neil Leininger",
+    "email": "neil.leininger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

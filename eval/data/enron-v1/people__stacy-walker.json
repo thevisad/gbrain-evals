@@ -1,0 +1,14 @@
+{
+  "slug": "people/stacy-walker",
+  "type": "person",
+  "title": "Stacy Walker",
+  "compiled_truth": "Stacy Walker is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-03 to 2001-11-19), Stacy Walker sent 11 and received 69 emails, totalling 80 interactions. Top correspondents: [Michael Terraso](people/michael-terraso) (6), [Steven Kean](people/steven-kean) (6), [Maureen Mcvicker](people/maureen-mcvicker) (6), [Dan Bruce](people/dan-bruce) (5), [Eddie Clay](people/eddie-clay) (5). Mailbox folders observed: archiving, deleted_items, personnel.",
+  "timeline": "- **1999-12-03** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stacy-walker",
+    "name": "Stacy Walker",
+    "email": "stacy.walker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

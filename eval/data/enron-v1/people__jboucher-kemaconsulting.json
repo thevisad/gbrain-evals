@@ -1,0 +1,14 @@
+{
+  "slug": "people/jboucher-kemaconsulting",
+  "type": "person",
+  "title": "Jboucher",
+  "compiled_truth": "Jboucher is an external contact at [Kemaconsulting](companies/kemaconsulting). Over the corpus period (2000-06-21 to 2001-03-21), Jboucher sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jboucher-kemaconsulting",
+    "name": "Jboucher",
+    "email": "jboucher@kemaconsulting.com",
+    "primary_affiliation": "companies/kemaconsulting"
+  }
+}

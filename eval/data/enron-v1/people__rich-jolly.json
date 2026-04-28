@@ -1,0 +1,14 @@
+{
+  "slug": "people/rich-jolly",
+  "type": "person",
+  "title": "Rich Jolly",
+  "compiled_truth": "Rich Jolly is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-02 to 2002-03-25), Rich Jolly sent 27 and received 525 emails, totalling 552 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (10), [David Roensch](people/david-roensch) (10), [Darrell Schoolcraft](people/darrell-schoolcraft) (10), [Earl Chanley](people/earl-chanley) (8), [Randy Rice](people/randy-rice) (8). Mailbox folders observed: corp_memos, deleted_items, e_mail_bin, inbox, projects, tw.",
+  "timeline": "- **1999-04-02** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rich-jolly",
+    "name": "Rich Jolly",
+    "email": "rich.jolly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

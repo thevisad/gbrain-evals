@@ -1,0 +1,22 @@
+{
+  "slug": "threads/enron-mentions-2001-03",
+  "type": "meeting",
+  "title": "Thread: Enron Mentions",
+  "compiled_truth": "Email thread: \"Enron Mentions\". Ran from 2001-03-07 to 2001-04-05 with 22 messages. Participants: [Ann Schmidt](people/ann-schmidt), [James Hughes](people/james-hughes), [John Arnold](people/john-arnold), [John Hardy](people/john-hardy), [Linda Robertson](people/linda-robertson), [Mark Schroeder](people/mark-schroeder), [Mike Maggi](people/mike-maggi), [Steven Kean](people/steven-kean).",
+  "timeline": "- **2001-03-07** | Thread begins: enron mentions\n- **2001-04-05** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-mentions-2001-03",
+    "attendees": [
+      "people/ann-schmidt",
+      "people/james-hughes",
+      "people/john-arnold",
+      "people/john-hardy",
+      "people/linda-robertson",
+      "people/mark-schroeder",
+      "people/mike-maggi",
+      "people/steven-kean"
+    ],
+    "date": "2001-03-07"
+  }
+}

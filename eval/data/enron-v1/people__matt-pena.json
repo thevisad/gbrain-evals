@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-pena",
+  "type": "person",
+  "title": "Matt Pena",
+  "compiled_truth": "Matt Pena is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-18 to 2002-02-07), Matt Pena sent 12 and received 86 emails, totalling 98 interactions. Top correspondents: [Victor Lamadrid](people/victor-lamadrid) (7), [Patti Sullivan](people/patti-sullivan) (7), [Brian Ripley](people/brian-ripley) (6), [Robert Superty](people/robert-superty) (6), [Rita Wynne](people/rita-wynne) (6). Mailbox folders observed: deleted_items, unify.",
+  "timeline": "- **2000-08-18** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-pena",
+    "name": "Matt Pena",
+    "email": "matt.pena@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

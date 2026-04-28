@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-benson",
+  "type": "person",
+  "title": "Eric Benson",
+  "compiled_truth": "Eric Benson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-10 to 2001-11-29), Eric Benson sent 38 and received 336 emails, totalling 374 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (35), [James Steffes](people/james-steffes) (6), [Lisa Yoho](people/lisa-yoho) (6), [Linda Robertson](people/linda-robertson) (3), [Sue Nord](people/sue-nord) (3). Mailbox folders observed: 2001_budget, 2001_budget__cost_cutting, deleted_items, discussion_threads.",
+  "timeline": "- **2000-01-10** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-benson",
+    "name": "Eric Benson",
+    "email": "eric.benson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

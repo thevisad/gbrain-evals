@@ -1,0 +1,14 @@
+{
+  "slug": "people/mbtos-tozzini",
+  "type": "person",
+  "title": "Mbtos",
+  "compiled_truth": "Mbtos is an external contact at [Tozzini](companies/tozzini). Over the corpus period (1999-10-19 to 2000-05-15), Mbtos sent 6 and received 16 emails, totalling 22 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (6), [Afac](people/afac-tozzini) (4), [Brent Hendry](people/brent-hendry) (3), [Lynn Aven](people/lynn-aven) (3), [Andrea Bertone](people/andrea-bertone) (2).",
+  "timeline": "- **1999-10-19** | First recorded email in corpus\n- **2000-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mbtos-tozzini",
+    "name": "Mbtos",
+    "email": "mbtos@tozzini.com.br",
+    "primary_affiliation": "companies/tozzini"
+  }
+}

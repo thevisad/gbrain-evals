@@ -1,0 +1,14 @@
+{
+  "slug": "people/paulo-issler",
+  "type": "person",
+  "title": "Paulo Issler",
+  "compiled_truth": "Paulo Issler is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-10 to 2001-12-31), Paulo Issler sent 24 and received 181 emails, totalling 205 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (11), [J Kaminski](people/j-kaminski) (8), [Zimin Lu](people/zimin-lu) (7), [Stinson Gibner](people/stinson-gibner) (7), [John Griffith](people/john-griffith) (5). Mailbox folders observed: deleted_items, inbox, market.",
+  "timeline": "- **1999-12-10** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paulo-issler",
+    "name": "Paulo Issler",
+    "email": "paulo.issler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

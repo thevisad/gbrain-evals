@@ -1,0 +1,14 @@
+{
+  "slug": "people/chendrix",
+  "type": "person",
+  "title": "Chendrix",
+  "compiled_truth": "Chendrix is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-03-16), Chendrix sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chendrix",
+    "name": "Chendrix",
+    "email": "chendrix@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

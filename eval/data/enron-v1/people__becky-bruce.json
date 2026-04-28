@@ -1,0 +1,14 @@
+{
+  "slug": "people/becky-bruce",
+  "type": "person",
+  "title": "Becky Bruce",
+  "compiled_truth": "Becky Bruce is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-11 to 2000-11-21), Becky Bruce sent 1 and received 6 emails, totalling 7 interactions. Top correspondents: [Davis Thames](people/davis-thames) (1), [Al Pollard](people/al-pollard) (1), [Darren Maloney](people/darren-maloney) (1), [Inez Dauterive](people/inez-dauterive) (1), [Jim Buerkle](people/jim-buerkle) (1).",
+  "timeline": "- **2000-09-11** | First recorded email in corpus\n- **2000-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/becky-bruce",
+    "name": "Becky Bruce",
+    "email": "becky.bruce@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-hirko",
+  "type": "person",
+  "title": "Joe' 'Hirko",
+  "compiled_truth": "Joe' 'Hirko is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-16 to 2002-01-24), Joe' 'Hirko sent 0 and received 46 emails, totalling 46 interactions.",
+  "timeline": "- **1999-08-16** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-hirko",
+    "name": "Joe' 'Hirko",
+    "email": "joe'.'hirko@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

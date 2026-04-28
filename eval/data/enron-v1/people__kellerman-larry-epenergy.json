@@ -1,0 +1,14 @@
+{
+  "slug": "people/kellerman-larry-epenergy",
+  "type": "person",
+  "title": "Kellerman Larry",
+  "compiled_truth": "Kellerman Larry is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2001-01-25 to 2001-03-29), Kellerman Larry sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2001-01-25** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kellerman-larry-epenergy",
+    "name": "Kellerman Larry",
+    "email": "kellerman.larry@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

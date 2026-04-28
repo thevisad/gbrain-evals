@@ -1,0 +1,14 @@
+{
+  "slug": "people/amanda-rybarski",
+  "type": "person",
+  "title": "Amanda Rybarski",
+  "compiled_truth": "Amanda Rybarski is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-23 to 2002-05-02), Amanda Rybarski sent 155 and received 175 emails, totalling 330 interactions. Top correspondents: [Mike Maggi](people/mike-maggi) (138), [Scott Neal](people/scott-neal) (10), [Judy Townsend](people/judy-townsend) (9), [Andrea Ring](people/andrea-ring) (9), [F  Brawner](people/f-brawner) (9). Mailbox folders observed: deleted_items, inbox, ne_development, ubswenergy_com.",
+  "timeline": "- **2001-10-23** | First recorded email in corpus\n- **2002-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amanda-rybarski",
+    "name": "Amanda Rybarski",
+    "email": "amanda.rybarski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

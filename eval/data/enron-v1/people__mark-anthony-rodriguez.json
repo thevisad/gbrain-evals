@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-anthony-rodriguez",
+  "type": "person",
+  "title": "Mark-Anthony Rodriguez",
+  "compiled_truth": "Mark-Anthony Rodriguez is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-09 to 2001-11-26), Mark-Anthony Rodriguez sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-05-09** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-anthony-rodriguez",
+    "name": "Mark-Anthony Rodriguez",
+    "email": "mark-anthony.rodriguez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

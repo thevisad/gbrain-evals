@@ -1,0 +1,14 @@
+{
+  "slug": "people/bryan-aubuchon",
+  "type": "person",
+  "title": "Bryan Aubuchon",
+  "compiled_truth": "Bryan Aubuchon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-11-09), Bryan Aubuchon sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bryan-aubuchon",
+    "name": "Bryan Aubuchon",
+    "email": "bryan.aubuchon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

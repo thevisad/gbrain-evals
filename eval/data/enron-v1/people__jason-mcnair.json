@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-mcnair",
+  "type": "person",
+  "title": "Jason Mcnair",
+  "compiled_truth": "Jason Mcnair is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-28 to 2002-04-30), Jason Mcnair sent 2 and received 21 emails, totalling 23 interactions. Top correspondents: [Ray Carter](people/ray-carter) (1), [Craig Chaney](people/craig-chaney) (1), [Brian Cruver](people/brian-cruver) (1), [Kim Detiveaux](people/kim-detiveaux) (1), [Tom Doukas](people/tom-doukas) (1). Mailbox folders observed: calendar, deleted_items.",
+  "timeline": "- **2001-09-28** | First recorded email in corpus\n- **2002-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-mcnair",
+    "name": "Jason Mcnair",
+    "email": "jason.mcnair@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

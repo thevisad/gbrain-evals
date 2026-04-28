@@ -1,0 +1,14 @@
+{
+  "slug": "people/agcdu1-triax",
+  "type": "person",
+  "title": "Agcdu1",
+  "compiled_truth": "Agcdu1 is an external contact at [Triax](companies/triax). Over the corpus period (2000-10-27 to 2001-04-19), Agcdu1 sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-04-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/agcdu1-triax",
+    "name": "Agcdu1",
+    "email": "agcdu1@triax.com",
+    "primary_affiliation": "companies/triax"
+  }
+}

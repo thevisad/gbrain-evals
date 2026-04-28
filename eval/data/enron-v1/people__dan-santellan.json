@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-santellan",
+  "type": "person",
+  "title": "Dan Santellan",
+  "compiled_truth": "Dan Santellan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-10-23), Dan Santellan sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-santellan",
+    "name": "Dan Santellan",
+    "email": "dan.santellan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

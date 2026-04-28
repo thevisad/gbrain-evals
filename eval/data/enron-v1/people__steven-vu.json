@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-vu",
+  "type": "person",
+  "title": "Steven Vu",
+  "compiled_truth": "Steven Vu is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-15 to 2001-11-14), Steven Vu sent 1 and received 42 emails, totalling 43 interactions. Top correspondents: [John Griffith](people/john-griffith) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-08-15** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-vu",
+    "name": "Steven Vu",
+    "email": "steven.vu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

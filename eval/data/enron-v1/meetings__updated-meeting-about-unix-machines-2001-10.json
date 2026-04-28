@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/updated-meeting-about-unix-machines-2001-10",
+  "type": "meeting",
+  "title": "Meeting: Updated: Meeting About Unix Machines",
+  "compiled_truth": "Meeting: \"Updated: Meeting About Unix Machines\". Occurred 2001-10-19 with 1 related emails. Participants included: [Anne Bike](people/anne-bike), [Araceli Romero](people/araceli-romero), [D  Winfree](people/d-winfree), [Errol Mclaughlin](people/errol-mclaughlin), [Greg Couch](people/greg-couch), [Jason Mcnair](people/jason-mcnair), [Kam Keiser](people/kam-keiser), [M  Love](people/m-love)....",
+  "timeline": "- **2001-10-19** | Meeting: updated: meeting about unix machines",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/updated-meeting-about-unix-machines-2001-10",
+    "attendees": [
+      "people/anne-bike",
+      "people/araceli-romero",
+      "people/d-winfree",
+      "people/errol-mclaughlin",
+      "people/greg-couch",
+      "people/jason-mcnair",
+      "people/kam-keiser",
+      "people/m-love",
+      "people/r-harrington",
+      "people/russ-severson"
+    ],
+    "date": "2001-10-19"
+  }
+}

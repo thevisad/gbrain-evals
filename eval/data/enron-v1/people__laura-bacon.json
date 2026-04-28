@@ -1,0 +1,14 @@
+{
+  "slug": "people/laura-bacon",
+  "type": "person",
+  "title": "Laura Bacon",
+  "compiled_truth": "Laura Bacon is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-01 to 2001-08-16), Laura Bacon sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [Cooper Richey](people/cooper-richey) (1). Mailbox folders observed: data.",
+  "timeline": "- **2000-08-01** | First recorded email in corpus\n- **2001-08-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laura-bacon",
+    "name": "Laura Bacon",
+    "email": "laura.bacon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

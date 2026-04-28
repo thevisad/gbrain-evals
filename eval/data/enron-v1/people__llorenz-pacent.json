@@ -1,0 +1,14 @@
+{
+  "slug": "people/llorenz-pacent",
+  "type": "person",
+  "title": "Llorenz",
+  "compiled_truth": "Llorenz is an external contact at [Pacent](companies/pacent). Over the corpus period (2000-09-08 to 2001-07-31), Llorenz sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/llorenz-pacent",
+    "name": "Llorenz",
+    "email": "llorenz@pacent.com",
+    "primary_affiliation": "companies/pacent"
+  }
+}

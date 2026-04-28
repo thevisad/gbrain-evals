@@ -1,0 +1,14 @@
+{
+  "slug": "people/drothrock-cmta",
+  "type": "person",
+  "title": "Drothrock",
+  "compiled_truth": "Drothrock is an external contact at [Cmta](companies/cmta). Over the corpus period (2000-08-10 to 2001-12-21), Drothrock sent 18 and received 189 emails, totalling 207 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (18), [Wbooth](people/wbooth-booth-law) (3), [Elsesser Evelyn](people/elsesser-evelyn) (2), [Kaye Loren](people/kaye-loren) (2), [Kmccrea](people/kmccrea-sablaw) (1).",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/drothrock-cmta",
+    "name": "Drothrock",
+    "email": "drothrock@cmta.net",
+    "primary_affiliation": "companies/cmta"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephanie-sever",
+  "type": "person",
+  "title": "Stephanie Sever",
+  "compiled_truth": "Stephanie Sever is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-05-13), Stephanie Sever sent 185 and received 1306 emails, totalling 1491 interactions. Top correspondents: [Tana Jones](people/tana-jones) (86), [Tom Moran](people/tom-moran) (45), [Karen Lambert](people/karen-lambert) (41), [Lisa Lees](people/lisa-lees) (39), [Kelly Lombardi](people/kelly-lombardi) (29). Mailbox folders observed: bill, bill_williams_iii, deleted_items, eol, inbox, it.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephanie-sever",
+    "name": "Stephanie Sever",
+    "email": "stephanie.sever@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

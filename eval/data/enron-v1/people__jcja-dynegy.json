@@ -1,0 +1,14 @@
+{
+  "slug": "people/jcja-dynegy",
+  "type": "person",
+  "title": "Jcja",
+  "compiled_truth": "Jcja is an external contact at [Dynegy](companies/dynegy). Over the corpus period (2000-02-08 to 2000-02-08), Jcja sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-02-08** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jcja-dynegy",
+    "name": "Jcja",
+    "email": "jcja@dynegy.com",
+    "primary_affiliation": "companies/dynegy"
+  }
+}

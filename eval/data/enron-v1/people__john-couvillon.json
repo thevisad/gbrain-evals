@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-couvillon",
+  "type": "person",
+  "title": "John Couvillon",
+  "compiled_truth": "John Couvillon is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-30 to 2001-06-12), John Couvillon sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2001-03-30** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-couvillon",
+    "name": "John Couvillon",
+    "email": "john.couvillon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

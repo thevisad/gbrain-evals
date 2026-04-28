@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-simpson",
+  "type": "person",
+  "title": "James Simpson",
+  "compiled_truth": "James Simpson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-01-18), James Simpson sent 14 and received 154 emails, totalling 168 interactions. Top correspondents: [Phillip Love](people/phillip-love) (7), [Kevin Radous](people/kevin-radous) (7), [Bob Bowen](people/bob-bowen) (7), [Richard Tomaski](people/richard-tomaski) (5), [Hunter Shively](people/hunter-shively) (4). Mailbox folders observed: central, deleted_items, inbox, netco, peoples_hedges.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-simpson",
+    "name": "James Simpson",
+    "email": "james.simpson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

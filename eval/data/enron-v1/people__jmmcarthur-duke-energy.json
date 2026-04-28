@@ -1,0 +1,14 @@
+{
+  "slug": "people/jmmcarthur-duke-energy",
+  "type": "person",
+  "title": "Jmmcarthur",
+  "compiled_truth": "Jmmcarthur is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-10-27 to 2001-05-11), Jmmcarthur sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jmmcarthur-duke-energy",
+    "name": "Jmmcarthur",
+    "email": "jmmcarthur@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

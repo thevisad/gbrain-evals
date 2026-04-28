@@ -1,0 +1,14 @@
+{
+  "slug": "people/tcortopassi-covantaenergy",
+  "type": "person",
+  "title": "Tcortopassi",
+  "compiled_truth": "Tcortopassi is an external contact at [Covantaenergy](companies/covantaenergy). Over the corpus period (2001-03-28 to 2001-04-15), Tcortopassi sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-03-28** | First recorded email in corpus\n- **2001-04-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tcortopassi-covantaenergy",
+    "name": "Tcortopassi",
+    "email": "tcortopassi@covantaenergy.com",
+    "primary_affiliation": "companies/covantaenergy"
+  }
+}

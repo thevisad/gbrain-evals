@@ -1,0 +1,14 @@
+{
+  "slug": "people/patrick-hanse",
+  "type": "person",
+  "title": "Patrick Hanse",
+  "compiled_truth": "Patrick Hanse is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2002-02-28), Patrick Hanse sent 12 and received 480 emails, totalling 492 interactions. Top correspondents: [Don Baughman](people/don-baughman) (8), [Kayne Coulter](people/kayne-coulter) (4), [Matt Lorenz](people/matt-lorenz) (3), [Doug Sewell](people/doug-sewell) (2), [Terri Clynes](people/terri-clynes) (2). Mailbox folders observed: deleted_items, enron_power, inbox, power.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patrick-hanse",
+    "name": "Patrick Hanse",
+    "email": "patrick.hanse@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

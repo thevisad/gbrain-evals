@@ -1,0 +1,14 @@
+{
+  "slug": "people/jworman-academyofhealth",
+  "type": "person",
+  "title": "Jworman",
+  "compiled_truth": "Jworman is an external contact at [Academyofhealth](companies/academyofhealth). Over the corpus period (2000-05-08 to 2001-10-02), Jworman sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **2000-05-08** | First recorded email in corpus\n- **2001-10-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jworman-academyofhealth",
+    "name": "Jworman",
+    "email": "jworman@academyofhealth.com",
+    "primary_affiliation": "companies/academyofhealth"
+  }
+}

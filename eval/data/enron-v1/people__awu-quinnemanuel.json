@@ -1,0 +1,14 @@
+{
+  "slug": "people/awu-quinnemanuel",
+  "type": "person",
+  "title": "Awu",
+  "compiled_truth": "Awu is an external contact at [Quinnemanuel](companies/quinnemanuel). Over the corpus period (2001-02-02 to 2001-05-25), Awu sent 2 and received 41 emails, totalling 43 interactions. Top correspondents: [Msmith1](people/msmith1) (2), [Dbenevid](people/dbenevid) (2), [Dhuddles](people/dhuddles) (2), [Dleff](people/dleff) (2), [Ehughes2](people/ehughes2) (2).",
+  "timeline": "- **2001-02-02** | First recorded email in corpus\n- **2001-05-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/awu-quinnemanuel",
+    "name": "Awu",
+    "email": "awu@quinnemanuel.com",
+    "primary_affiliation": "companies/quinnemanuel"
+  }
+}

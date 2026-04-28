@@ -1,0 +1,14 @@
+{
+  "slug": "people/rita-morales-exolink",
+  "type": "person",
+  "title": "Rita Morales",
+  "compiled_truth": "Rita Morales is an external contact at [Exolink](companies/exolink). Over the corpus period (2002-01-17 to 2002-02-04), Rita Morales sent 5 and received 1 emails, totalling 6 interactions. Top correspondents: [Set](people/set-ercot) (5), [Rms](people/rms-ercot) (2), [Testplan](people/testplan-ercot) (2), [Aepin](people/aepin-aep) (1), [Careed](people/careed-aep) (1).",
+  "timeline": "- **2002-01-17** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rita-morales-exolink",
+    "name": "Rita Morales",
+    "email": "rita.morales@exolink.com",
+    "primary_affiliation": "companies/exolink"
+  }
+}

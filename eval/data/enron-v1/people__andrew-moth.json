@@ -1,0 +1,14 @@
+{
+  "slug": "people/andrew-moth",
+  "type": "person",
+  "title": "Andrew Moth",
+  "compiled_truth": "Andrew Moth is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-30 to 2001-10-12), Andrew Moth sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-05-30** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andrew-moth",
+    "name": "Andrew Moth",
+    "email": "andrew.moth@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

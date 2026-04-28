@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-whitehurst",
+  "type": "person",
+  "title": "Kevin Whitehurst",
+  "compiled_truth": "Kevin Whitehurst is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2002-02-13), Kevin Whitehurst sent 5 and received 15 emails, totalling 20 interactions. Top correspondents: [Clickathomepilot3](people/clickathomepilot3) (1), [Clickathomepilot2](people/clickathomepilot2) (1).",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-whitehurst",
+    "name": "Kevin Whitehurst",
+    "email": "kevin.whitehurst@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

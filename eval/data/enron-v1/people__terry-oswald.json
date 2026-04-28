@@ -1,0 +1,14 @@
+{
+  "slug": "people/terry-oswald",
+  "type": "person",
+  "title": "Terry Oswald",
+  "compiled_truth": "Terry Oswald is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-10 to 2001-10-19), Terry Oswald sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-09-10** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terry-oswald",
+    "name": "Terry Oswald",
+    "email": "terry.oswald@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

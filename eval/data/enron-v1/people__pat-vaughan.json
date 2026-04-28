@@ -1,0 +1,14 @@
+{
+  "slug": "people/pat-vaughan",
+  "type": "person",
+  "title": "Pat Vaughan",
+  "compiled_truth": "Pat Vaughan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-25 to 2002-03-21), Pat Vaughan sent 1 and received 34 emails, totalling 35 interactions. Top correspondents: [Jennifer Jordan](people/jennifer-jordan) (1), [Bill Donovan](people/bill-donovan) (1), [Dan Fancler](people/dan-fancler) (1), [Joni Fisher](people/joni-fisher) (1), [L  Harrison](people/l-harrison) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-02-25** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pat-vaughan",
+    "name": "Pat Vaughan",
+    "email": "pat.vaughan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

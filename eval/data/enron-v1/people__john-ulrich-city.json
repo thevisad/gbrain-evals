@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-ulrich-city",
+  "type": "person",
+  "title": "John Ulrich",
+  "compiled_truth": "John Ulrich is an external contact at [City](companies/city). Over the corpus period (2000-10-09 to 2001-07-31), John Ulrich sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-ulrich-city",
+    "name": "John Ulrich",
+    "email": "john_ulrich@city.palo-alto.ca.us",
+    "primary_affiliation": "companies/city"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-runkel",
+  "type": "person",
+  "title": "Susan Runkel",
+  "compiled_truth": "Susan Runkel is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2000-12-12), Susan Runkel sent 2 and received 13 emails, totalling 15 interactions. Top correspondents: [Sheila Glover](people/sheila-glover) (2), [Brent Price](people/brent-price) (2), [Leslie Reeves](people/leslie-reeves) (2), [Stephen Schwarz](people/stephen-schwarz) (2), [Sally Beck](people/sally-beck) (2).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-runkel",
+    "name": "Susan Runkel",
+    "email": "susan.runkel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

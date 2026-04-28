@@ -1,0 +1,14 @@
+{
+  "slug": "people/y-cheng",
+  "type": "person",
+  "title": "Y  Cheng",
+  "compiled_truth": "Y  Cheng is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-24 to 2002-01-24), Y  Cheng sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-24** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/y-cheng",
+    "name": "Y  Cheng",
+    "email": "y..cheng@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

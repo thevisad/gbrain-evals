@@ -1,0 +1,14 @@
+{
+  "slug": "people/grant-masson",
+  "type": "person",
+  "title": "Grant Masson",
+  "compiled_truth": "Grant Masson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-30 to 2000-09-27), Grant Masson sent 28 and received 333 emails, totalling 361 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (23), [Tanya Tamarchenko](people/tanya-tamarchenko) (4), [Shirley Crenshaw](people/shirley-crenshaw) (3), [Stinson Gibner](people/stinson-gibner) (3), [Tara Rozen](people/tara-rozen) (2).",
+  "timeline": "- **1999-11-30** | First recorded email in corpus\n- **2000-09-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/grant-masson",
+    "name": "Grant Masson",
+    "email": "grant.masson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

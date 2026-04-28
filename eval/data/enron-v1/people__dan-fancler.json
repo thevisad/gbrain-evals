@@ -1,0 +1,14 @@
+{
+  "slug": "people/dan-fancler",
+  "type": "person",
+  "title": "Dan Fancler",
+  "compiled_truth": "Dan Fancler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-16 to 2002-05-06), Dan Fancler sent 20 and received 232 emails, totalling 252 interactions. Top correspondents: [Bob Chandler](people/bob-chandler) (12), [Tracy Geaccone](people/tracy-geaccone) (11), [John Cobb](people/john-cobb) (7), [Jerry Peters](people/jerry-peters) (4), [Tony Pryor](people/tony-pryor) (4). Mailbox folders observed: customer___oneok, deleted_items, inbox, tw.",
+  "timeline": "- **2000-03-16** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dan-fancler",
+    "name": "Dan Fancler",
+    "email": "dan.fancler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-delafield",
+  "type": "person",
+  "title": "Kevin Delafield",
+  "compiled_truth": "Kevin Delafield is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-25 to 2001-06-04), Kevin Delafield sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-05-25** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-delafield",
+    "name": "Kevin Delafield",
+    "email": "kevin.delafield@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

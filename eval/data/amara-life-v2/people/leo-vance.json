@@ -1,0 +1,16 @@
+{
+  "slug": "people/leo-vance",
+  "type": "person",
+  "title": "Leo Vance",
+  "compiled_truth": "Leo Vance is an investor in Halfway Capital's portfolio companies. Email: lvance@benchmark.com. Leo Vance works at Benchmark. Slack: @leo.",
+  "timeline": "- **2025-04-14** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leo-vance",
+    "name": "Leo Vance",
+    "email": "lvance@benchmark.com",
+    "slack_handle": "leo",
+    "relation_to_amara": "investor",
+    "primary_affiliation": "companies/benchmark"
+  }
+}

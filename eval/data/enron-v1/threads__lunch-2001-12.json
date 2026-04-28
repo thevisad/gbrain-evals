@@ -1,0 +1,36 @@
+{
+  "slug": "threads/lunch-2001-12",
+  "type": "meeting",
+  "title": "Thread: Lunch",
+  "compiled_truth": "Email thread: \"Lunch\". Ran from 2001-12-26 to 2002-01-25 with 23 messages. Participants: [C  Giron](people/c-giron), [Chris Germany](people/chris-germany), [D  Winfree](people/d-winfree), [David Baumbach](people/david-baumbach), [Dgiron](people/dgiron), [Eric Bass](people/eric-bass), [F  Herod](people/f-herod), [J  Kean](people/j-kean).",
+  "timeline": "- **2001-12-26** | Thread begins: lunch\n- **2002-01-25** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/lunch-2001-12",
+    "attendees": [
+      "people/c-giron",
+      "people/chris-germany",
+      "people/d-winfree",
+      "people/david-baumbach",
+      "people/dgiron",
+      "people/eric-bass",
+      "people/f-herod",
+      "people/j-kean",
+      "people/jean",
+      "people/jfoard-coral-energy",
+      "people/karen-denne",
+      "people/kay-mann",
+      "people/mikeshaw-akllp",
+      "people/mikeshaw-andrews-kurth",
+      "people/nmann-erac",
+      "people/randy-g-kruger-jr-arthuranderson",
+      "people/randy-g-kruger-jr-us",
+      "people/scott-goodell",
+      "people/sschroed-us",
+      "people/timothy-blanchard",
+      "people/todd-w-taylor-bakernet",
+      "people/vance-meyer"
+    ],
+    "date": "2001-12-26"
+  }
+}

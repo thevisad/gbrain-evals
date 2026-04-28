@@ -1,0 +1,14 @@
+{
+  "slug": "people/rcfisher-hillsandco",
+  "type": "person",
+  "title": "Rcfisher",
+  "compiled_truth": "Rcfisher is an external contact at [Hillsandco](companies/hillsandco). Over the corpus period (1999-11-05 to 2000-11-20), Rcfisher sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **1999-11-05** | First recorded email in corpus\n- **2000-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rcfisher-hillsandco",
+    "name": "Rcfisher",
+    "email": "rcfisher@hillsandco.com",
+    "primary_affiliation": "companies/hillsandco"
+  }
+}

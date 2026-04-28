@@ -1,0 +1,14 @@
+{
+  "slug": "people/labdsc-womans",
+  "type": "person",
+  "title": "Labdsc",
+  "compiled_truth": "Labdsc is an external contact at [Womans](companies/womans). Over the corpus period (1999-07-23 to 2002-01-23), Labdsc sent 0 and received 54 emails, totalling 54 interactions.",
+  "timeline": "- **1999-07-23** | First recorded email in corpus\n- **2002-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/labdsc-womans",
+    "name": "Labdsc",
+    "email": "labdsc@womans.com",
+    "primary_affiliation": "companies/womans"
+  }
+}

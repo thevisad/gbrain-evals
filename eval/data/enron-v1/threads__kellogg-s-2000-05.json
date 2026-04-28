@@ -1,0 +1,21 @@
+{
+  "slug": "threads/kellogg-s-2000-05",
+  "type": "meeting",
+  "title": "Thread: Kellogg'S",
+  "compiled_truth": "Email thread: \"Kellogg'S\". Ran from 2000-05-02 to 2000-05-18 with 17 messages. Participants: [Deepak Sitlani](people/deepak-sitlani), [Edmund Cooper](people/edmund-cooper), [Michael Khajeh-Noori](people/michael-khajeh-noori), [Paul Radous](people/paul-radous), [Sara Shackleton](people/sara-shackleton), [Taffy Milligan](people/taffy-milligan), [Tana Jones](people/tana-jones).",
+  "timeline": "- **2000-05-02** | Thread begins: kellogg's\n- **2000-05-18** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/kellogg-s-2000-05",
+    "attendees": [
+      "people/deepak-sitlani",
+      "people/edmund-cooper",
+      "people/michael-khajeh-noori",
+      "people/paul-radous",
+      "people/sara-shackleton",
+      "people/taffy-milligan",
+      "people/tana-jones"
+    ],
+    "date": "2000-05-02"
+  }
+}

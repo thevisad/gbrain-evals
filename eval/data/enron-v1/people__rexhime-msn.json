@@ -1,0 +1,14 @@
+{
+  "slug": "people/rexhime-msn",
+  "type": "person",
+  "title": "Rexhime",
+  "compiled_truth": "Rexhime is an external contact at [MSN](companies/msn). Over the corpus period (1999-11-08 to 2001-06-06), Rexhime sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **1999-11-08** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rexhime-msn",
+    "name": "Rexhime",
+    "email": "rexhime@msn.com",
+    "primary_affiliation": "companies/msn"
+  }
+}

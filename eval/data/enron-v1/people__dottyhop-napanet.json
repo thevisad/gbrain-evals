@@ -1,0 +1,14 @@
+{
+  "slug": "people/dottyhop-napanet",
+  "type": "person",
+  "title": "Dottyhop",
+  "compiled_truth": "Dottyhop is an external contact at [Napanet](companies/napanet). Over the corpus period (2000-10-13 to 2001-12-03), Dottyhop sent 9 and received 20 emails, totalling 29 interactions. Top correspondents: [Waynearm](people/waynearm-napanet) (7), [Thomas Patton](people/thomas-patton-doj) (7), [Sandison](people/sandison-napanet) (7), [Sriordan](people/sriordan-hscis) (7), [Sjohnson](people/sjohnson-morganlane) (7).",
+  "timeline": "- **2000-10-13** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dottyhop-napanet",
+    "name": "Dottyhop",
+    "email": "dottyhop@napanet.net",
+    "primary_affiliation": "companies/napanet"
+  }
+}

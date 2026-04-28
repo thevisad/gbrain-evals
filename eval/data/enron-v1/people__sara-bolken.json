@@ -1,0 +1,14 @@
+{
+  "slug": "people/sara-bolken",
+  "type": "person",
+  "title": "Sara Bolken",
+  "compiled_truth": "Sara Bolken is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-10 to 2000-12-07), Sara Bolken sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2000-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sara-bolken",
+    "name": "Sara Bolken",
+    "email": "sara.bolken@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

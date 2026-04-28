@@ -1,0 +1,14 @@
+{
+  "slug": "people/fred-ncpa",
+  "type": "person",
+  "title": "Fred",
+  "compiled_truth": "Fred is an external contact at [Ncpa](companies/ncpa). Over the corpus period (2000-07-25 to 2000-08-29), Fred sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2000-08-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fred-ncpa",
+    "name": "Fred",
+    "email": "fred@ncpa.com",
+    "primary_affiliation": "companies/ncpa"
+  }
+}

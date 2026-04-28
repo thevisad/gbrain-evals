@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-haney",
+  "type": "person",
+  "title": "Mike Haney",
+  "compiled_truth": "Mike Haney is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-08 to 2001-10-15), Mike Haney sent 19 and received 49 emails, totalling 68 interactions. Top correspondents: [Andy Zipper](people/andy-zipper) (10), [Jake Staffel](people/jake-staffel) (10), [Tana Jones](people/tana-jones) (8), [David Forster](people/david-forster) (5), [Michael Bridges](people/michael-bridges) (3). Mailbox folders observed: deleted_items, inbox, origination.",
+  "timeline": "- **2000-03-08** | First recorded email in corpus\n- **2001-10-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-haney",
+    "name": "Mike Haney",
+    "email": "mike.haney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

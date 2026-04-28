@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-san-juan",
+  "type": "person",
+  "title": "Team San-Juan",
+  "compiled_truth": "Team San-Juan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-14 to 2002-03-19), Team San-Juan sent 9 and received 70 emails, totalling 79 interactions. Top correspondents: [Darrell Schoolcraft](people/darrell-schoolcraft) (8), [David Roensch](people/david-roensch) (8), [Rich Jolly](people/rich-jolly) (6), [Rick Smith](people/rick-smith) (5), [Jeff Whippo](people/jeff-whippo) (5). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-05-14** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-san-juan",
+    "name": "Team San-Juan",
+    "email": "team.san-juan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

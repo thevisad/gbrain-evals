@@ -1,0 +1,14 @@
+{
+  "slug": "people/mlk-pkns",
+  "type": "person",
+  "title": "Mlk",
+  "compiled_truth": "Mlk is an external contact at [Pkns](companies/pkns). Over the corpus period (1980-01-01 to 2001-12-10), Mlk sent 29 and received 83 emails, totalling 112 interactions. Top correspondents: [Richard B Sanders](people/richard-b-sanders) (18), [Breasoner](people/breasoner-gibbs-bruns) (7), [Mmolland](people/mmolland-brobeck) (6), [Sbishop](people/sbishop-gibbs-bruns) (6), [B  Sanders](people/b-sanders) (5).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mlk-pkns",
+    "name": "Mlk",
+    "email": "mlk@pkns.com",
+    "primary_affiliation": "companies/pkns"
+  }
+}

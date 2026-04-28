@@ -1,0 +1,14 @@
+{
+  "slug": "people/samantha-ferguson",
+  "type": "person",
+  "title": "Samantha Ferguson",
+  "compiled_truth": "Samantha Ferguson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-05 to 2001-07-31), Samantha Ferguson sent 1 and received 73 emails, totalling 74 interactions. Top correspondents: [Nony Flores](people/nony-flores) (1), [Susan Bailey](people/susan-bailey) (1), [Kimberlee Bennick](people/kimberlee-bennick) (1), [Samantha Boyd](people/samantha-boyd) (1), [Genia Fitzgerald](people/genia-fitzgerald) (1).",
+  "timeline": "- **2000-06-05** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/samantha-ferguson",
+    "name": "Samantha Ferguson",
+    "email": "samantha.ferguson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

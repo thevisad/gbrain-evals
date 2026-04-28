@@ -1,0 +1,14 @@
+{
+  "slug": "people/christina-sherman",
+  "type": "person",
+  "title": "Christina Sherman",
+  "compiled_truth": "Christina Sherman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-24 to 2001-10-05), Christina Sherman sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-04-24** | First recorded email in corpus\n- **2001-10-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christina-sherman",
+    "name": "Christina Sherman",
+    "email": "christina.sherman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

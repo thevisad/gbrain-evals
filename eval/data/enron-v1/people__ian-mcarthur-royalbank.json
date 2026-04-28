@@ -1,0 +1,14 @@
+{
+  "slug": "people/ian-mcarthur-royalbank",
+  "type": "person",
+  "title": "Ian Mcarthur",
+  "compiled_truth": "Ian Mcarthur is an external contact at [Royalbank](companies/royalbank). Over the corpus period (2000-09-19 to 2000-09-28), Ian Mcarthur sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-09-19** | First recorded email in corpus\n- **2000-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ian-mcarthur-royalbank",
+    "name": "Ian Mcarthur",
+    "email": "ian.mcarthur@royalbank.com",
+    "primary_affiliation": "companies/royalbank"
+  }
+}

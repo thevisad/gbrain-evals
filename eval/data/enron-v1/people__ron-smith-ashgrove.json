@@ -1,0 +1,14 @@
+{
+  "slug": "people/ron-smith-ashgrove",
+  "type": "person",
+  "title": "Ron Smith",
+  "compiled_truth": "Ron Smith is an external contact at [Ashgrove](companies/ashgrove). Over the corpus period (2001-04-20 to 2001-05-11), Ron Smith sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-04-20** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ron-smith-ashgrove",
+    "name": "Ron Smith",
+    "email": "ron.smith@ashgrove.com",
+    "primary_affiliation": "companies/ashgrove"
+  }
+}

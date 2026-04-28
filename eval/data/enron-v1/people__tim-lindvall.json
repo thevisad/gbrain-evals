@@ -1,0 +1,14 @@
+{
+  "slug": "people/tim-lindvall",
+  "type": "person",
+  "title": "Tim Lindvall",
+  "compiled_truth": "Tim Lindvall is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-11-30), Tim Lindvall sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tim-lindvall",
+    "name": "Tim Lindvall",
+    "email": "tim.lindvall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

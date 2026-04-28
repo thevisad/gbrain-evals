@@ -1,0 +1,14 @@
+{
+  "slug": "people/earle-joseph",
+  "type": "person",
+  "title": "Earle Joseph",
+  "compiled_truth": "Earle Joseph is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-27 to 2001-10-18), Earle Joseph sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-09-27** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/earle-joseph",
+    "name": "Earle Joseph",
+    "email": "earle.joseph@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

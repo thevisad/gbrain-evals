@@ -1,0 +1,14 @@
+{
+  "slug": "people/rfrank",
+  "type": "person",
+  "title": "Rfrank",
+  "compiled_truth": "Rfrank is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-10-23), Rfrank sent 0 and received 105 emails, totalling 105 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rfrank",
+    "name": "Rfrank",
+    "email": "rfrank@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

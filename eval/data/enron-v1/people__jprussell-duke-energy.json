@@ -1,0 +1,14 @@
+{
+  "slug": "people/jprussell-duke-energy",
+  "type": "person",
+  "title": "Jprussell",
+  "compiled_truth": "Jprussell is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-11-13 to 2002-01-01), Jprussell sent 2 and received 34 emails, totalling 36 interactions. Top correspondents: [Richard B Sanders](people/richard-b-sanders) (1), [El00-95](people/el00-95-listserv) (1).",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2002-01-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jprussell-duke-energy",
+    "name": "Jprussell",
+    "email": "jprussell@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

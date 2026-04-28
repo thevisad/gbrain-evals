@@ -1,0 +1,14 @@
+{
+  "slug": "people/rmp-cpuc",
+  "type": "person",
+  "title": "Rmp",
+  "compiled_truth": "Rmp is an external contact at [Cpuc](companies/cpuc). Over the corpus period (1999-09-24 to 2001-10-24), Rmp sent 5 and received 272 emails, totalling 277 interactions. Top correspondents: [Paulamirault](people/paulamirault-aec) (4), [Craigc](people/craigc-calpine) (4), [Jeff Dasovich](people/jeff-dasovich) (4), [Lindseyhowdowning](people/lindseyhowdowning-dwt) (4), [Jleslie](people/jleslie-luce) (3).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rmp-cpuc",
+    "name": "Rmp",
+    "email": "rmp@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

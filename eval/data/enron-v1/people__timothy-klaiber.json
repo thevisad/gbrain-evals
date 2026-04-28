@@ -1,0 +1,14 @@
+{
+  "slug": "people/timothy-klaiber",
+  "type": "person",
+  "title": "Timothy Klaiber",
+  "compiled_truth": "Timothy Klaiber is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-13 to 2001-11-26), Timothy Klaiber sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-08-13** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/timothy-klaiber",
+    "name": "Timothy Klaiber",
+    "email": "timothy.klaiber@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

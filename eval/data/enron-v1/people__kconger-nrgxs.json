@@ -1,0 +1,14 @@
+{
+  "slug": "people/kconger-nrgxs",
+  "type": "person",
+  "title": "Kconger",
+  "compiled_truth": "Kconger is an external contact at [Nrgxs](companies/nrgxs). Over the corpus period (2000-06-23 to 2001-04-26), Kconger sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kconger-nrgxs",
+    "name": "Kconger",
+    "email": "kconger@nrgxs.com",
+    "primary_affiliation": "companies/nrgxs"
+  }
+}

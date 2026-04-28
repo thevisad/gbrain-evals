@@ -1,0 +1,14 @@
+{
+  "slug": "people/jbarquin-velaw",
+  "type": "person",
+  "title": "Jbarquin",
+  "compiled_truth": "Jbarquin is an external contact at [Vinson & Elkins](companies/vinson-elkins). Over the corpus period (1999-07-21 to 2001-01-16), Jbarquin sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **1999-07-21** | First recorded email in corpus\n- **2001-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jbarquin-velaw",
+    "name": "Jbarquin",
+    "email": "jbarquin@velaw.com",
+    "primary_affiliation": "companies/vinson-elkins"
+  }
+}

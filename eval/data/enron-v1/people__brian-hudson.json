@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-hudson",
+  "type": "person",
+  "title": "Brian Hudson",
+  "compiled_truth": "Brian Hudson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-12 to 2001-10-19), Brian Hudson sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-09-12** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-hudson",
+    "name": "Brian Hudson",
+    "email": "brian.hudson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/trang-le",
+  "type": "person",
+  "title": "Trang Le",
+  "compiled_truth": "Trang Le is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-03), Trang Le sent 0 and received 220 emails, totalling 220 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/trang-le",
+    "name": "Trang Le",
+    "email": "trang.le@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

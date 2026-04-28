@@ -1,0 +1,14 @@
+{
+  "slug": "people/lloyd-will",
+  "type": "person",
+  "title": "Lloyd Will",
+  "compiled_truth": "Lloyd Will is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-19), Lloyd Will sent 93 and received 1109 emails, totalling 1202 interactions. Top correspondents: [Don Baughman](people/don-baughman) (35), [M  Presto](people/m-presto) (29), [Tom May](people/tom-may) (23), [Juan Hernandez](people/juan-hernandez) (22), [Rika Imai](people/rika-imai) (17). Mailbox folders observed: 24_hr_power, _americas, calendar, deleted_items, enron_power, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lloyd-will",
+    "name": "Lloyd Will",
+    "email": "lloyd.will@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

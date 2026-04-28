@@ -1,0 +1,14 @@
+{
+  "slug": "people/oscar-dalton",
+  "type": "person",
+  "title": "Oscar Dalton",
+  "compiled_truth": "Oscar Dalton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-11 to 2001-12-05), Oscar Dalton sent 34 and received 335 emails, totalling 369 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (23), [Russ Porter](people/russ-porter) (11), [Ozzie Pagan](people/ozzie-pagan) (10), [Dan Hyvl](people/dan-hyvl) (7), [Janet Dietrich](people/janet-dietrich) (5). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-08-11** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/oscar-dalton",
+    "name": "Oscar Dalton",
+    "email": "oscar.dalton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

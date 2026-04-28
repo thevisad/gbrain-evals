@@ -1,0 +1,14 @@
+{
+  "slug": "people/akasha-bibb",
+  "type": "person",
+  "title": "Akasha Bibb",
+  "compiled_truth": "Akasha Bibb is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-20 to 2001-06-27), Akasha Bibb sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-03-20** | First recorded email in corpus\n- **2001-06-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/akasha-bibb",
+    "name": "Akasha Bibb",
+    "email": "akasha.bibb@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

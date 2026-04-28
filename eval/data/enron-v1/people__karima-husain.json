@@ -1,0 +1,14 @@
+{
+  "slug": "people/karima-husain",
+  "type": "person",
+  "title": "Karima Husain",
+  "compiled_truth": "Karima Husain is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-30), Karima Husain sent 21 and received 70 emails, totalling 91 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (19), [Kam Keiser](people/kam-keiser) (18), [C  Gossett](people/c-gossett) (17), [M  Love](people/m-love) (15), [John Swinney](people/john-swinney) (15). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karima-husain",
+    "name": "Karima Husain",
+    "email": "karima.husain@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/alan-reid-pcp",
+  "type": "person",
+  "title": "Alan Reid",
+  "compiled_truth": "Alan Reid is an external contact at [Pcp](companies/pcp). Over the corpus period (2000-04-04 to 2000-12-12), Alan Reid sent 0 and received 82 emails, totalling 82 interactions.",
+  "timeline": "- **2000-04-04** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alan-reid-pcp",
+    "name": "Alan Reid",
+    "email": "alan_reid@pcp.ca",
+    "primary_affiliation": "companies/pcp"
+  }
+}

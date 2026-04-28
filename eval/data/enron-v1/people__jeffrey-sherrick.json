@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-sherrick",
+  "type": "person",
+  "title": "Jeffrey Sherrick",
+  "compiled_truth": "Jeffrey Sherrick is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-15 to 2002-01-25), Jeffrey Sherrick sent 11 and received 170 emails, totalling 181 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (6), [Joseph Sutton](people/joseph-sutton) (5), [Stephen Wallace](people/stephen-wallace) (4), [Jeff Skilling](people/jeff-skilling) (4), [Rick Buy](people/rick-buy) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-10-15** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-sherrick",
+    "name": "Jeffrey Sherrick",
+    "email": "jeffrey.sherrick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

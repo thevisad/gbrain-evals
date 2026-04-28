@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-g-rigby",
+  "type": "person",
+  "title": "John G Rigby",
+  "compiled_truth": "John G Rigby is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-21 to 2001-06-06), John G Rigby sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2000-09-21** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-g-rigby",
+    "name": "John G Rigby",
+    "email": "john.g.rigby@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jan-bass",
+  "type": "person",
+  "title": "Jan Bass",
+  "compiled_truth": "Jan Bass is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-21 to 2001-05-30), Jan Bass sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-04-21** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jan-bass",
+    "name": "Jan Bass",
+    "email": "jan.bass@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

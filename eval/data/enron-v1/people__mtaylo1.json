@@ -1,0 +1,14 @@
+{
+  "slug": "people/mtaylo1",
+  "type": "person",
+  "title": "Mtaylo1",
+  "compiled_truth": "Mtaylo1 is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-04 to 2002-01-01), Mtaylo1 sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2002-01-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mtaylo1",
+    "name": "Mtaylo1",
+    "email": "mtaylo1@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

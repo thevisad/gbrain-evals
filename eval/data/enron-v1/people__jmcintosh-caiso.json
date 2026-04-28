@@ -1,0 +1,14 @@
+{
+  "slug": "people/jmcintosh-caiso",
+  "type": "person",
+  "title": "Jmcintosh",
+  "compiled_truth": "Jmcintosh is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-07-12 to 2001-08-14), Jmcintosh sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-07-12** | First recorded email in corpus\n- **2001-08-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jmcintosh-caiso",
+    "name": "Jmcintosh",
+    "email": "jmcintosh@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/psellers-haas",
+  "type": "person",
+  "title": "Psellers",
+  "compiled_truth": "Psellers is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-28 to 2001-11-20), Psellers sent 15 and received 409 emails, totalling 424 interactions. Top correspondents: [Jdasovic](people/jdasovic) (7), [Nancy Sellers](people/nancy-sellers-robertmondavi) (5), [Cameron](people/cameron-perfect) (5), [Jeff Dasovich](people/jeff-dasovich) (5), [Jeff Dasovich](people/jeff-dasovich) (4).",
+  "timeline": "- **1999-09-28** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/psellers-haas",
+    "name": "Psellers",
+    "email": "psellers@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

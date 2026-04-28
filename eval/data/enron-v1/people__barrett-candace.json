@@ -1,0 +1,14 @@
+{
+  "slug": "people/barrett-candace",
+  "type": "person",
+  "title": "Barrett' 'Candace",
+  "compiled_truth": "Barrett' 'Candace is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-09 to 2001-07-09), Barrett' 'Candace sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barrett-candace",
+    "name": "Barrett' 'Candace",
+    "email": "barrett'.'candace@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/daniel-rogers",
+  "type": "person",
+  "title": "Daniel Rogers",
+  "compiled_truth": "Daniel Rogers is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-14 to 2001-06-12), Daniel Rogers sent 14 and received 218 emails, totalling 232 interactions. Top correspondents: [Mark Haedicke](people/mark-haedicke) (6), [Wayne Perry](people/wayne-perry) (2), [Andrew Edison](people/andrew-edison) (2), [Clay Harris](people/clay-harris) (2), [Alan Aronowitz](people/alan-aronowitz) (2). Mailbox folders observed: dabhol___cond__of_use, inbox.",
+  "timeline": "- **1999-07-14** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/daniel-rogers",
+    "name": "Daniel Rogers",
+    "email": "daniel.rogers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

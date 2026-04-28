@@ -1,0 +1,14 @@
+{
+  "slug": "people/hillary-mack",
+  "type": "person",
+  "title": "Hillary Mack",
+  "compiled_truth": "Hillary Mack is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-11 to 2001-12-06), Hillary Mack sent 2 and received 208 emails, totalling 210 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (2).",
+  "timeline": "- **2000-05-11** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hillary-mack",
+    "name": "Hillary Mack",
+    "email": "hillary.mack@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

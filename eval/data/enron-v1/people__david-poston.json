@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-poston",
+  "type": "person",
+  "title": "David Poston",
+  "compiled_truth": "David Poston is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-07), David Poston sent 32 and received 235 emails, totalling 267 interactions. Top correspondents: [Bill Williams](people/bill-williams) (11), [Jeff Richter](people/jeff-richter) (10), [Phillip Platter](people/phillip-platter) (10), [Steve Nat](people/steve-nat) (9), [Chris Mallory](people/chris-mallory) (9). Mailbox folders observed: bill_williams_iii, calendar, deleted_items, inbox, it, read.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-poston",
+    "name": "David Poston",
+    "email": "david.poston@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

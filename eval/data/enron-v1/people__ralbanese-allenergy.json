@@ -1,0 +1,14 @@
+{
+  "slug": "people/ralbanese-allenergy",
+  "type": "person",
+  "title": "Ralbanese",
+  "compiled_truth": "Ralbanese is an external contact at [Allenergy](companies/allenergy). Over the corpus period (2000-11-07 to 2001-08-10), Ralbanese sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-08-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ralbanese-allenergy",
+    "name": "Ralbanese",
+    "email": "ralbanese@allenergy.com",
+    "primary_affiliation": "companies/allenergy"
+  }
+}

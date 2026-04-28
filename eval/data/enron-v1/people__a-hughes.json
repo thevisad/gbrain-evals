@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-hughes",
+  "type": "person",
+  "title": "A  Hughes",
+  "compiled_truth": "A  Hughes is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-08 to 2002-01-29), A  Hughes sent 11 and received 219 emails, totalling 230 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (5), [J  Kean](people/j-kean) (3), [Jeff Skilling](people/jeff-skilling) (2), [Kenneth Lay](people/kenneth-lay) (2), [Rob Walls](people/rob-walls) (2). Mailbox folders observed: deleted_items, inbox, non_us_offices.",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-hughes",
+    "name": "A  Hughes",
+    "email": "a..hughes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

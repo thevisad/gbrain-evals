@@ -1,0 +1,14 @@
+{
+  "slug": "people/dblack1",
+  "type": "person",
+  "title": "Dblack1",
+  "compiled_truth": "Dblack1 is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-17 to 2000-05-15), Dblack1 sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2000-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dblack1",
+    "name": "Dblack1",
+    "email": "dblack1@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

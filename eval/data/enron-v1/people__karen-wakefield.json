@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-wakefield",
+  "type": "person",
+  "title": "Karen Wakefield",
+  "compiled_truth": "Karen Wakefield is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-14 to 2001-10-30), Karen Wakefield sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-03-14** | First recorded email in corpus\n- **2001-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-wakefield",
+    "name": "Karen Wakefield",
+    "email": "karen.wakefield@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

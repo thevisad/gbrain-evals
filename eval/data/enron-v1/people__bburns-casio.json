@@ -1,0 +1,14 @@
+{
+  "slug": "people/bburns-casio",
+  "type": "person",
+  "title": "Bburns",
+  "compiled_truth": "Bburns is an external contact at [Casio](companies/casio). Over the corpus period (2000-09-08 to 2000-09-12), Bburns sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2000-09-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bburns-casio",
+    "name": "Bburns",
+    "email": "bburns@casio.com",
+    "primary_affiliation": "companies/casio"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jun-lu",
+  "type": "person",
+  "title": "Jun Lu",
+  "compiled_truth": "Jun Lu is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-11 to 2002-01-14), Jun Lu sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-05-11** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jun-lu",
+    "name": "Jun Lu",
+    "email": "jun.lu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

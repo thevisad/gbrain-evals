@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-riley",
+  "type": "person",
+  "title": "Brian Riley",
+  "compiled_truth": "Brian Riley is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-07-16), Brian Riley sent 1 and received 166 emails, totalling 167 interactions. Top correspondents: [J  Farmer](people/j-farmer) (1). Mailbox folders observed: wellhead.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-riley",
+    "name": "Brian Riley",
+    "email": "brian.riley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

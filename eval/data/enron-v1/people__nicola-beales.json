@@ -1,0 +1,14 @@
+{
+  "slug": "people/nicola-beales",
+  "type": "person",
+  "title": "Nicola Beales",
+  "compiled_truth": "Nicola Beales is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-27 to 2001-10-24), Nicola Beales sent 6 and received 42 emails, totalling 48 interactions. Top correspondents: [Justin Boyd](people/justin-boyd) (4), [T  Hodge](people/t-hodge) (2), [Tana Jones](people/tana-jones) (2), [Edmund Cooper](people/edmund-cooper) (1), [Sara Shackleton](people/sara-shackleton) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-05-27** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nicola-beales",
+    "name": "Nicola Beales",
+    "email": "nicola.beales@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

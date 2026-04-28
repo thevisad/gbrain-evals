@@ -1,0 +1,14 @@
+{
+  "slug": "people/kponton-duke-energy",
+  "type": "person",
+  "title": "Kponton",
+  "compiled_truth": "Kponton is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2001-01-26 to 2001-04-23), Kponton sent 2 and received 54 emails, totalling 56 interactions. Top correspondents: [Aburrell](people/aburrell-utilicorp) (2), [Claycb](people/claycb-bp) (2), [Matagasco](people/matagasco-aol) (2), [Srfl](people/srfl-dynegy) (2), [Dfarmer](people/dfarmer) (2).",
+  "timeline": "- **2001-01-26** | First recorded email in corpus\n- **2001-04-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kponton-duke-energy",
+    "name": "Kponton",
+    "email": "kponton@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

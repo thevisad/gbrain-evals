@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-house",
+  "type": "person",
+  "title": "John House",
+  "compiled_truth": "John House is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-24 to 2001-11-29), John House sent 4 and received 71 emails, totalling 75 interactions. Top correspondents: [Mark Bernstein](people/mark-bernstein) (3), [John Griffith](people/john-griffith) (3), [Jim Meyn](people/jim-meyn) (3), [Eric Moon](people/eric-moon) (2), [Eric Boyt](people/eric-boyt) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-01-24** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-house",
+    "name": "John House",
+    "email": "john.house@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

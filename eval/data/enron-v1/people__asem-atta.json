@@ -1,0 +1,14 @@
+{
+  "slug": "people/asem-atta",
+  "type": "person",
+  "title": "Asem Atta",
+  "compiled_truth": "Asem Atta is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2001-09-12), Asem Atta sent 22 and received 36 emails, totalling 58 interactions. Top correspondents: [Cara Semperger](people/cara-semperger) (19), [Will Smith](people/will-smith) (14), [Vishwanatha Venkataswami](people/vishwanatha-venkataswami) (13), [David Poston](people/david-poston) (11), [Corry Bentley](people/corry-bentley) (10). Mailbox folders observed: deleted_items, inbox, read.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2001-09-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/asem-atta",
+    "name": "Asem Atta",
+    "email": "asem.atta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

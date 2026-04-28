@@ -1,0 +1,14 @@
+{
+  "slug": "people/alexander-mcelreath",
+  "type": "person",
+  "title": "Alexander Mcelreath",
+  "compiled_truth": "Alexander Mcelreath is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-27 to 2002-02-25), Alexander Mcelreath sent 5 and received 157 emails, totalling 162 interactions. Top correspondents: [M  Forney](people/m-forney) (3), [Doug Gilbert-Smith](people/doug-gilbert-smith) (1), [Joe Capasso](people/joe-capasso) (1), [Steve Olinde](people/steve-olinde) (1), [Eric Saibi](people/eric-saibi) (1). Mailbox folders observed: deleted_items, ercot, inbox.",
+  "timeline": "- **2001-06-27** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alexander-mcelreath",
+    "name": "Alexander Mcelreath",
+    "email": "alexander.mcelreath@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/sabina-rank",
+  "type": "person",
+  "title": "Sabina Rank",
+  "compiled_truth": "Sabina Rank is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-23 to 2001-12-03), Sabina Rank sent 0 and received 100 emails, totalling 100 interactions.",
+  "timeline": "- **2000-09-23** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sabina-rank",
+    "name": "Sabina Rank",
+    "email": "sabina.rank@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

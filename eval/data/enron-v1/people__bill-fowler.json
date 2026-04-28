@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-fowler",
+  "type": "person",
+  "title": "Bill Fowler",
+  "compiled_truth": "Bill Fowler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-21 to 2002-01-30), Bill Fowler sent 2 and received 258 emails, totalling 260 interactions. Top correspondents: [Enron Everyone Et&S Houston](people/enron-everyone-et-s-houston) (2).",
+  "timeline": "- **2000-07-21** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-fowler",
+    "name": "Bill Fowler",
+    "email": "bill.fowler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

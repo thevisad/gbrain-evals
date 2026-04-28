@@ -1,0 +1,14 @@
+{
+  "slug": "people/gerry-medeles",
+  "type": "person",
+  "title": "Gerry Medeles",
+  "compiled_truth": "Gerry Medeles is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2002-03-14), Gerry Medeles sent 12 and received 182 emails, totalling 194 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (6), [Shelley Corman](people/shelley-corman) (6), [Bradley Holmes](people/bradley-holmes) (4), [Michael Bodnar](people/michael-bodnar) (2), [John Buchanan](people/john-buchanan) (2). Mailbox folders observed: calendar, customer___virginia_power_dominion, deleted_items, inbox, meetings___nng_customer_mtg.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gerry-medeles",
+    "name": "Gerry Medeles",
+    "email": "gerry.medeles@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

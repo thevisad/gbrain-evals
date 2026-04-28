@@ -1,0 +1,14 @@
+{
+  "slug": "people/denis-tu",
+  "type": "person",
+  "title": "Denis Tu",
+  "compiled_truth": "Denis Tu is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-12 to 2002-05-06), Denis Tu sent 20 and received 145 emails, totalling 165 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (16), [E  Rosenberg](people/e-rosenberg) (9), [John Keiser](people/john-keiser) (7), [James Centilli](people/james-centilli) (6), [Caroline Barnes](people/caroline-barnes) (6). Mailbox folders observed: action_items_in, deleted_items, inbox, vacations.",
+  "timeline": "- **2000-04-12** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/denis-tu",
+    "name": "Denis Tu",
+    "email": "denis.tu@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

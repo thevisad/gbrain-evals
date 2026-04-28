@@ -1,0 +1,32 @@
+{
+  "slug": "threads/confidential-2000-12",
+  "type": "meeting",
+  "title": "Thread: Confidential",
+  "compiled_truth": "Email thread: \"Confidential\". Ran from 2000-12-19 to 2001-01-15 with 6 messages. Participants: [Barry Tycholiz](people/barry-tycholiz), [Brian Redmond](people/brian-redmond), [David Delainey](people/david-delainey), [Fletcher Sturm](people/fletcher-sturm), [Frank Vickers](people/frank-vickers), [Fred Lagrasta](people/fred-lagrasta), [Hunter Shively](people/hunter-shively), [Janet Dietrich](people/janet-dietrich).",
+  "timeline": "- **2000-12-19** | Thread begins: confidential\n- **2001-01-15** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/confidential-2000-12",
+    "attendees": [
+      "people/barry-tycholiz",
+      "people/brian-redmond",
+      "people/david-delainey",
+      "people/fletcher-sturm",
+      "people/frank-vickers",
+      "people/fred-lagrasta",
+      "people/hunter-shively",
+      "people/janet-dietrich",
+      "people/jean-mrha",
+      "people/john-lavorato",
+      "people/kevin-presto",
+      "people/laura-luce",
+      "people/mark-frevert",
+      "people/michael-miller",
+      "people/phillip-allen",
+      "people/scott-neal",
+      "people/tamara-black",
+      "people/timothy-detmering"
+    ],
+    "date": "2000-12-19"
+  }
+}

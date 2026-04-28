@@ -1,0 +1,14 @@
+{
+  "slug": "people/lois-m-rigby-verizon",
+  "type": "person",
+  "title": "Lois M Rigby",
+  "compiled_truth": "Lois M Rigby is an external contact at [Verizon](companies/verizon). Over the corpus period (2000-10-05 to 2001-06-01), Lois M Rigby sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-10-05** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lois-m-rigby-verizon",
+    "name": "Lois M Rigby",
+    "email": "lois.m.rigby@verizon.com",
+    "primary_affiliation": "companies/verizon"
+  }
+}

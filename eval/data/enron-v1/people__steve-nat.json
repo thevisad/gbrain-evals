@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-nat",
+  "type": "person",
+  "title": "Steve Nat",
+  "compiled_truth": "Steve Nat is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-10 to 2002-02-06), Steve Nat sent 29 and received 134 emails, totalling 163 interactions. Top correspondents: [Lloyd Will](people/lloyd-will) (21), [Corry Bentley](people/corry-bentley) (20), [W  White](people/w-white) (19), [A  Allen](people/a-allen) (17), [David Poston](people/david-poston) (16). Mailbox folders observed: _americas, calendar, deleted_items, inbox, it, meetings.",
+  "timeline": "- **2000-04-10** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-nat",
+    "name": "Steve Nat",
+    "email": "steve.nat@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

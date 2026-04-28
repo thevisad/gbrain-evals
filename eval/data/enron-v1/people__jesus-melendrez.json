@@ -1,0 +1,14 @@
+{
+  "slug": "people/jesus-melendrez",
+  "type": "person",
+  "title": "Jesus Melendrez",
+  "compiled_truth": "Jesus Melendrez is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-04-23), Jesus Melendrez sent 7 and received 144 emails, totalling 151 interactions. Top correspondents: [Joan Quick](people/joan-quick) (4), [Tim Proffitt](people/tim-proffitt) (3), [Brian Otis](people/brian-otis) (3), [Teresa Bushman](people/teresa-bushman) (3), [John Griffith](people/john-griffith) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-04-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jesus-melendrez",
+    "name": "Jesus Melendrez",
+    "email": "jesus.melendrez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

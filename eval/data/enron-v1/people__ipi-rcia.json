@@ -1,0 +1,14 @@
+{
+  "slug": "people/ipi-rcia",
+  "type": "person",
+  "title": "Ipi",
+  "compiled_truth": "Ipi is an external contact at [Rcia](companies/rcia). Over the corpus period (2001-07-25 to 2001-07-25), Ipi sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ipi-rcia",
+    "name": "Ipi",
+    "email": "ipi@rcia.com",
+    "primary_affiliation": "companies/rcia"
+  }
+}

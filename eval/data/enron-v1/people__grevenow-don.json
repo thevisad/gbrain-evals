@@ -1,0 +1,14 @@
+{
+  "slug": "people/grevenow-don",
+  "type": "person",
+  "title": "Grevenow Don",
+  "compiled_truth": "Grevenow Don is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-12-10 to 2001-12-10), Grevenow Don sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-12-10** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/grevenow-don",
+    "name": "Grevenow Don",
+    "email": "grevenow.don@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/elongbot",
+  "type": "person",
+  "title": "Elongbot",
+  "compiled_truth": "Elongbot is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-18 to 2001-10-18), Elongbot sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elongbot",
+    "name": "Elongbot",
+    "email": "elongbot@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

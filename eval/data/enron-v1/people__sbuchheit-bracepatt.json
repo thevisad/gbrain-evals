@@ -1,0 +1,14 @@
+{
+  "slug": "people/sbuchheit-bracepatt",
+  "type": "person",
+  "title": "Sbuchheit",
+  "compiled_truth": "Sbuchheit is an external contact at [Bracewell & Patterson](companies/bracewell). Over the corpus period (2000-01-20 to 2001-03-28), Sbuchheit sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-01-20** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sbuchheit-bracepatt",
+    "name": "Sbuchheit",
+    "email": "sbuchheit@bracepatt.com",
+    "primary_affiliation": "companies/bracewell"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cbaker-ns",
+  "type": "person",
+  "title": "Cbaker",
+  "compiled_truth": "Cbaker is an external contact at [Ns](companies/ns). Over the corpus period (1999-09-24 to 2001-01-26), Cbaker sent 0 and received 43 emails, totalling 43 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-01-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cbaker-ns",
+    "name": "Cbaker",
+    "email": "cbaker@ns.net",
+    "primary_affiliation": "companies/ns"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cynthia-boseman-harris",
+  "type": "person",
+  "title": "Cynthia Boseman-Harris",
+  "compiled_truth": "Cynthia Boseman-Harris is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-20 to 2001-11-14), Cynthia Boseman-Harris sent 8 and received 14 emails, totalling 22 interactions. Top correspondents: [John Ambler](people/john-ambler) (3), [Doug Arnell](people/doug-arnell) (3), [Curly Baca](people/curly-baca) (3), [Habiba Bayi](people/habiba-bayi) (3), [Rick Bergsieker](people/rick-bergsieker) (3). Mailbox folders observed: inbox, projects.",
+  "timeline": "- **2000-07-20** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cynthia-boseman-harris",
+    "name": "Cynthia Boseman-Harris",
+    "email": "cynthia.boseman-harris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

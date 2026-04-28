@@ -1,0 +1,14 @@
+{
+  "slug": "people/muirj-coned",
+  "type": "person",
+  "title": "Muirj",
+  "compiled_truth": "Muirj is an external contact at [Coned](companies/coned). Over the corpus period (2001-04-25 to 2002-02-19), Muirj sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-04-25** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/muirj-coned",
+    "name": "Muirj",
+    "email": "muirj@coned.com",
+    "primary_affiliation": "companies/coned"
+  }
+}

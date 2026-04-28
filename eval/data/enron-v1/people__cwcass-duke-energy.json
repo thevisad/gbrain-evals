@@ -1,0 +1,14 @@
+{
+  "slug": "people/cwcass-duke-energy",
+  "type": "person",
+  "title": "Cwcass",
+  "compiled_truth": "Cwcass is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-01-31 to 2001-02-05), Cwcass sent 11 and received 96 emails, totalling 107 interactions. Top correspondents: [Briley](people/briley) (11), [Dfarmer](people/dfarmer) (11), [Wespeckels](people/wespeckels-duke-energy) (11), [Bmcmills](people/bmcmills-duke-energy) (8), [Sbeemer](people/sbeemer-duke-energy) (8).",
+  "timeline": "- **2000-01-31** | First recorded email in corpus\n- **2001-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cwcass-duke-energy",
+    "name": "Cwcass",
+    "email": "cwcass@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

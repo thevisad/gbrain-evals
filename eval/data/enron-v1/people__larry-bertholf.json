@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-bertholf",
+  "type": "person",
+  "title": "Larry Bertholf",
+  "compiled_truth": "Larry Bertholf is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-28 to 2002-03-19), Larry Bertholf sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2001-09-28** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-bertholf",
+    "name": "Larry Bertholf",
+    "email": "larry.bertholf@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

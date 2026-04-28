@@ -1,0 +1,14 @@
+{
+  "slug": "people/erica-braden",
+  "type": "person",
+  "title": "Erica Braden",
+  "compiled_truth": "Erica Braden is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-12-16 to 2002-05-06), Erica Braden sent 14 and received 205 emails, totalling 219 interactions. Top correspondents: [Pat Radford](people/pat-radford) (6), [Kaye Ellis](people/kaye-ellis) (6), [Shonnie Daniel](people/shonnie-daniel) (6), [Taffy Milligan](people/taffy-milligan) (6), [Tana Jones](people/tana-jones) (5). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1998-12-16** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/erica-braden",
+    "name": "Erica Braden",
+    "email": "erica.braden@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

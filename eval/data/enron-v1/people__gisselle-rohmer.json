@@ -1,0 +1,14 @@
+{
+  "slug": "people/gisselle-rohmer",
+  "type": "person",
+  "title": "Gisselle Rohmer",
+  "compiled_truth": "Gisselle Rohmer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-12-03), Gisselle Rohmer sent 0 and received 43 emails, totalling 43 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gisselle-rohmer",
+    "name": "Gisselle Rohmer",
+    "email": "gisselle.rohmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

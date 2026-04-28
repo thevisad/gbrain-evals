@@ -1,0 +1,14 @@
+{
+  "slug": "people/kishkill",
+  "type": "person",
+  "title": "Kishkill",
+  "compiled_truth": "Kishkill is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-02 to 2001-11-16), Kishkill sent 12 and received 1 emails, totalling 13 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (11), [Orlando Gonzalez](people/orlando-gonzalez) (5), [Brett Wiggs](people/brett-wiggs) (3), [Ricardo Mucci](people/ricardo-mucci) (3), [Ricardo Cunha](people/ricardo-cunha) (3). Mailbox folders observed: deleted_items, inbox, southamerica.",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kishkill",
+    "name": "Kishkill",
+    "email": "kishkill@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

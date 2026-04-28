@@ -1,0 +1,14 @@
+{
+  "slug": "people/marge-nadasky",
+  "type": "person",
+  "title": "Marge Nadasky",
+  "compiled_truth": "Marge Nadasky is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-12-21), Marge Nadasky sent 3 and received 82 emails, totalling 85 interactions. Top correspondents: [Ostdiek](people/ostdiek-rice) (1), [Vince Kaminski](people/vince-kaminski) (1), [Steven Kean](people/steven-kean) (1), [Kenneth Lay](people/kenneth-lay) (1), [Jeff Skilling](people/jeff-skilling) (1).",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marge-nadasky",
+    "name": "Marge Nadasky",
+    "email": "marge.nadasky@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

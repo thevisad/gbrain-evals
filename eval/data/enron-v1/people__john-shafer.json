@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-shafer",
+  "type": "person",
+  "title": "John Shafer",
+  "compiled_truth": "John Shafer is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-19), John Shafer sent 47 and received 398 emails, totalling 445 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (37), [Louis Soldano](people/louis-soldano) (27), [William Kendrick](people/william-kendrick) (19), [Kevin Hyatt](people/kevin-hyatt) (17), [Randy Rice](people/randy-rice) (12). Mailbox folders observed: deleted_items, projects.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-shafer",
+    "name": "John Shafer",
+    "email": "john.shafer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

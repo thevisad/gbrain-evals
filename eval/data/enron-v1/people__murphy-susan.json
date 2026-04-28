@@ -1,0 +1,14 @@
+{
+  "slug": "people/murphy-susan",
+  "type": "person",
+  "title": "Murphy Susan",
+  "compiled_truth": "Murphy Susan is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Murphy Susan sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/murphy-susan",
+    "name": "Murphy Susan",
+    "email": "murphy.susan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

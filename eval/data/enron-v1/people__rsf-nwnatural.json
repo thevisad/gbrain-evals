@@ -1,0 +1,14 @@
+{
+  "slug": "people/rsf-nwnatural",
+  "type": "person",
+  "title": "Rsf",
+  "compiled_truth": "Rsf is an external contact at [Nwnatural](companies/nwnatural). Over the corpus period (2000-10-24 to 2001-10-30), Rsf sent 1 and received 6 emails, totalling 7 interactions. Top correspondents: [Jason Wolfe](people/jason-wolfe) (1), [Boehlke](people/boehlke) (1), [Jrb](people/jrb-nwnatural) (1).",
+  "timeline": "- **2000-10-24** | First recorded email in corpus\n- **2001-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rsf-nwnatural",
+    "name": "Rsf",
+    "email": "rsf@nwnatural.com",
+    "primary_affiliation": "companies/nwnatural"
+  }
+}

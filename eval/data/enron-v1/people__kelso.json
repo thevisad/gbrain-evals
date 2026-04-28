@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelso",
+  "type": "person",
+  "title": " Kelso",
+  "compiled_truth": "Kelso is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-24 to 2001-11-26),  Kelso sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-09-24** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelso",
+    "name": " Kelso",
+    "email": ".kelso@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

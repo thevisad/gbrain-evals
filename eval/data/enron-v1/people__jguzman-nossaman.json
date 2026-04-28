@@ -1,0 +1,14 @@
+{
+  "slug": "people/jguzman-nossaman",
+  "type": "person",
+  "title": "Jguzman",
+  "compiled_truth": "Jguzman is an external contact at [Nossaman](companies/nossaman). Over the corpus period (2001-03-07 to 2001-11-03), Jguzman sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2001-03-07** | First recorded email in corpus\n- **2001-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jguzman-nossaman",
+    "name": "Jguzman",
+    "email": "jguzman@nossaman.com",
+    "primary_affiliation": "companies/nossaman"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/melissa-murphy",
+  "type": "person",
+  "title": "Melissa Murphy",
+  "compiled_truth": "Melissa Murphy is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2002-02-13), Melissa Murphy sent 108 and received 706 emails, totalling 814 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (49), [Kate Symes](people/kate-symes) (41), [Tana Jones](people/tana-jones) (10), [Chris Foster](people/chris-foster) (8), [Janelle Scheuer](people/janelle-scheuer) (3). Mailbox folders observed: inbox, lt_contracts.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melissa-murphy",
+    "name": "Melissa Murphy",
+    "email": "melissa.murphy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

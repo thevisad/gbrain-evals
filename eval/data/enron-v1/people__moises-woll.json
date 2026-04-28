@@ -1,0 +1,14 @@
+{
+  "slug": "people/moises-woll",
+  "type": "person",
+  "title": "Moises Woll",
+  "compiled_truth": "Moises Woll is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-11-27), Moises Woll sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/moises-woll",
+    "name": "Moises Woll",
+    "email": "moises.woll@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

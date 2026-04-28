@@ -1,0 +1,14 @@
+{
+  "slug": "people/hannah-ortiz",
+  "type": "person",
+  "title": "Hannah Ortiz",
+  "compiled_truth": "Hannah Ortiz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-12 to 2001-11-02), Hannah Ortiz sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2000-05-12** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hannah-ortiz",
+    "name": "Hannah Ortiz",
+    "email": "hannah.ortiz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

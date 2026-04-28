@@ -1,0 +1,14 @@
+{
+  "slug": "people/wes-dempsey",
+  "type": "person",
+  "title": "Wes Dempsey",
+  "compiled_truth": "Wes Dempsey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-19 to 2001-12-07), Wes Dempsey sent 0 and received 91 emails, totalling 91 interactions.",
+  "timeline": "- **2000-05-19** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wes-dempsey",
+    "name": "Wes Dempsey",
+    "email": "wes.dempsey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

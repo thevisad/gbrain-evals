@@ -1,0 +1,14 @@
+{
+  "slug": "people/yarak-haas",
+  "type": "person",
+  "title": "Yarak",
+  "compiled_truth": "Yarak is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2001-09-05), Yarak sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-09-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yarak-haas",
+    "name": "Yarak",
+    "email": "yarak@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

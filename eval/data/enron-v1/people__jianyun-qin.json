@@ -1,0 +1,14 @@
+{
+  "slug": "people/jianyun-qin",
+  "type": "person",
+  "title": "Jianyun Qin",
+  "compiled_truth": "Jianyun Qin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-01-14), Jianyun Qin sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jianyun-qin",
+    "name": "Jianyun Qin",
+    "email": "jianyun.qin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

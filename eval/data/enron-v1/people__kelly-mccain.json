@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-mccain",
+  "type": "person",
+  "title": "Kelly Mccain",
+  "compiled_truth": "Kelly Mccain is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-10-26), Kelly Mccain sent 6 and received 3 emails, totalling 9 interactions. Top correspondents: [Users Dl-Tax](people/users-dl-tax) (6), [Team Tax](people/team-tax) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-mccain",
+    "name": "Kelly Mccain",
+    "email": "kelly.mccain@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

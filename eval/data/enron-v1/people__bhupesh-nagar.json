@@ -1,0 +1,14 @@
+{
+  "slug": "people/bhupesh-nagar",
+  "type": "person",
+  "title": "Bhupesh Nagar",
+  "compiled_truth": "Bhupesh Nagar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-06), Bhupesh Nagar sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bhupesh-nagar",
+    "name": "Bhupesh Nagar",
+    "email": "bhupesh.nagar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

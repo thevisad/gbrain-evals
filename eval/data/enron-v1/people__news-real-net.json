@@ -1,0 +1,14 @@
+{
+  "slug": "people/news-real-net",
+  "type": "person",
+  "title": "News",
+  "compiled_truth": "News is an external contact at [Real-net](companies/real-net). Over the corpus period (2000-10-19 to 2002-04-06), News sent 47 and received 0 emails, totalling 47 interactions. Top correspondents: [Lcampbel](people/lcampbel) (7), [Lcampbel](people/lcampbel) (6), [Jarnold](people/jarnold-ei) (5), [Pkeavey](people/pkeavey) (5), [Ebass](people/ebass) (3).",
+  "timeline": "- **2000-10-19** | First recorded email in corpus\n- **2002-04-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/news-real-net",
+    "name": "News",
+    "email": "news@real-net.net",
+    "primary_affiliation": "companies/real-net"
+  }
+}

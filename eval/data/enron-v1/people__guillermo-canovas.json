@@ -1,0 +1,14 @@
+{
+  "slug": "people/guillermo-canovas",
+  "type": "person",
+  "title": "Guillermo Canovas",
+  "compiled_truth": "Guillermo Canovas is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2002-01-11), Guillermo Canovas sent 21 and received 257 emails, totalling 278 interactions. Top correspondents: [D  Steffes](people/d-steffes) (14), [Richard Shapiro](people/richard-shapiro) (8), [Amr Ibrahim](people/amr-ibrahim) (8), [Harry Kingerski](people/harry-kingerski) (5), [Robert Frank](people/robert-frank) (4). Mailbox folders observed: deleted_items, inbox, nevada.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/guillermo-canovas",
+    "name": "Guillermo Canovas",
+    "email": "guillermo.canovas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

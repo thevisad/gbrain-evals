@@ -1,0 +1,14 @@
+{
+  "slug": "people/b-hunt",
+  "type": "person",
+  "title": "B  Hunt",
+  "compiled_truth": "B  Hunt is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-26 to 2001-11-16), B  Hunt sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2001-05-26** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/b-hunt",
+    "name": "B  Hunt",
+    "email": "b..hunt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

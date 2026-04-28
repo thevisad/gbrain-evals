@@ -1,0 +1,14 @@
+{
+  "slug": "people/cindy-vachuska",
+  "type": "person",
+  "title": "Cindy' 'Vachuska",
+  "compiled_truth": "Cindy' 'Vachuska is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-10-08), Cindy' 'Vachuska sent 0 and received 283 emails, totalling 283 interactions.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-10-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cindy-vachuska",
+    "name": "Cindy' 'Vachuska",
+    "email": "cindy'.'vachuska@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

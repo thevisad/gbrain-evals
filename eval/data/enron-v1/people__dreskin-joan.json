@@ -1,0 +1,14 @@
+{
+  "slug": "people/dreskin-joan",
+  "type": "person",
+  "title": "Dreskin Joan",
+  "compiled_truth": "Dreskin Joan is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-16 to 2002-01-16), Dreskin Joan sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-01-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dreskin-joan",
+    "name": "Dreskin Joan",
+    "email": "dreskin.joan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-saibi",
+  "type": "person",
+  "title": "Eric Saibi",
+  "compiled_truth": "Eric Saibi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-06 to 2002-02-28), Eric Saibi sent 43 and received 645 emails, totalling 688 interactions. Top correspondents: [Esaibi](people/esaibi-houston) (7), [Doug Gilbert-Smith](people/doug-gilbert-smith) (4), [M  Forney](people/m-forney) (3), [Mmorales](people/mmorales-arnel) (3), [Mike Carson](people/mike-carson) (2). Mailbox folders observed: deleted_items, inbox, sent_items.",
+  "timeline": "- **2000-03-06** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-saibi",
+    "name": "Eric Saibi",
+    "email": "eric.saibi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

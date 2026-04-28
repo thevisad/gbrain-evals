@@ -1,0 +1,32 @@
+{
+  "slug": "meetings/meeting-2001-06",
+  "type": "meeting",
+  "title": "Meeting: Meeting",
+  "compiled_truth": "Meeting: \"Meeting\". Occurred 2001-06-13 through 2001-06-13 with 7 related emails. Participants included: [Bharsh](people/bharsh-puget), [Bill Williams](people/bill-williams), [Carmine Tilghman](people/carmine-tilghman), [Chris Smith](people/chris-smith), [Demetrios Fotiou](people/demetrios-fotiou), [Demetrios Fotiou](people/demetrios-fotiou-bchydro), [Dempsey](people/dempsey-wapa), ['Hackney](people/hackney)....",
+  "timeline": "- **2001-06-13** | Meeting: meeting\n- **2001-06-13** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/meeting-2001-06",
+    "attendees": [
+      "people/bharsh-puget",
+      "people/bill-williams",
+      "people/carmine-tilghman",
+      "people/chris-smith",
+      "people/demetrios-fotiou",
+      "people/demetrios-fotiou-bchydro",
+      "people/dempsey-wapa",
+      "people/hackney",
+      "people/jerry-dempsey",
+      "people/john-underwood",
+      "people/john-underwood-avistacorp",
+      "people/lgrow-idahopower",
+      "people/lisa-grow",
+      "people/mhackney-apsc",
+      "people/mons-ellingson",
+      "people/robert-harshbarger",
+      "people/smholden-bpa",
+      "people/susan-holden-baker"
+    ],
+    "date": "2001-06-13"
+  }
+}

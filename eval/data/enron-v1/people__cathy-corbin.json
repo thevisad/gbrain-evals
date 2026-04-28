@@ -1,0 +1,14 @@
+{
+  "slug": "people/cathy-corbin",
+  "type": "person",
+  "title": "Cathy Corbin",
+  "compiled_truth": "Cathy Corbin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-24 to 2001-07-30), Cathy Corbin sent 0 and received 546 emails, totalling 546 interactions.",
+  "timeline": "- **2000-03-24** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cathy-corbin",
+    "name": "Cathy Corbin",
+    "email": "cathy.corbin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jane-joyce",
+  "type": "person",
+  "title": "Jane Joyce",
+  "compiled_truth": "Jane Joyce is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-16 to 2002-01-22), Jane Joyce sent 7 and received 97 emails, totalling 104 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (3), [John Buchanan](people/john-buchanan) (1), [Tracy Geaccone](people/tracy-geaccone) (1), [Allen Cohrs](people/allen-cohrs) (1), [John Fiscus](people/john-fiscus) (1). Mailbox folders observed: deleted_items, inbox, keyex_1997.",
+  "timeline": "- **2000-03-16** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jane-joyce",
+    "name": "Jane Joyce",
+    "email": "jane.joyce@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

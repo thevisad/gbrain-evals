@@ -1,0 +1,21 @@
+{
+  "slug": "companies/s-k-w",
+  "type": "company",
+  "title": "S-k-w",
+  "compiled_truth": "S-k-w is an external organization that appears in the Enron email corpus. Domain: s-k-w.com. Total email interactions with Enron: 293. Known contacts: 4 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (293 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/s-k-w",
+    "name": "S-k-w",
+    "employees": [
+      "people/dhunter-s-k-w",
+      "people/djsmith-s-k-w",
+      "people/jwright-s-k-w",
+      "people/mwatts-s-k-w"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/daniel-hamilton",
+  "type": "person",
+  "title": "Daniel Hamilton",
+  "compiled_truth": "Daniel Hamilton is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-05 to 2002-03-29), Daniel Hamilton sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2001-03-05** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/daniel-hamilton",
+    "name": "Daniel Hamilton",
+    "email": "daniel.hamilton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/vincent-tang",
+  "type": "person",
+  "title": "Vincent Tang",
+  "compiled_truth": "Vincent Tang is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-30 to 2000-07-07), Vincent Tang sent 2 and received 29 emails, totalling 31 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (2), [Grant Masson](people/grant-masson) (1), [Tanya Tamarchenko](people/tanya-tamarchenko) (1), [Bradley Eixmann](people/bradley-eixmann) (1).",
+  "timeline": "- **1999-11-30** | First recorded email in corpus\n- **2000-07-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vincent-tang",
+    "name": "Vincent Tang",
+    "email": "vincent.tang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

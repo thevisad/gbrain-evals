@@ -1,0 +1,14 @@
+{
+  "slug": "people/mschaefer-nymex",
+  "type": "person",
+  "title": "Mschaefer",
+  "compiled_truth": "Mschaefer is an external contact at [Nymex](companies/nymex). Over the corpus period (2002-02-01 to 2002-02-05), Mschaefer sent 2 and received 0 emails, totalling 2 interactions. Top correspondents: [Kevis Alex](people/kevis-alex) (2), [Charles Bebel](people/charles-bebel) (2), [Bob Biolsi](people/bob-biolsi) (2), [Christopher Bowen](people/christopher-bowen) (2), [Beatty Brian](people/beatty-brian) (2).",
+  "timeline": "- **2002-02-01** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mschaefer-nymex",
+    "name": "Mschaefer",
+    "email": "mschaefer@nymex.com",
+    "primary_affiliation": "companies/nymex"
+  }
+}

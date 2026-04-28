@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-ring",
+  "type": "person",
+  "title": "Richard Ring",
+  "compiled_truth": "Richard Ring is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-24 to 2002-06-24), Richard Ring sent 108 and received 705 emails, totalling 813 interactions. Top correspondents: [Juan Padron](people/juan-padron) (9), [Elliot Mainzer](people/elliot-mainzer) (9), [Stacey Bolton](people/stacey-bolton) (8), [Michele Raque](people/michele-raque) (7), [Nichole Gunter](people/nichole-gunter) (6). Mailbox folders observed: deleted_items, eesidealsgsaregion1, security___collateral, sent_items.",
+  "timeline": "- **2000-03-24** | First recorded email in corpus\n- **2002-06-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-ring",
+    "name": "Richard Ring",
+    "email": "richard.ring@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

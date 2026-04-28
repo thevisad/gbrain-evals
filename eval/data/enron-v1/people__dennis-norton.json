@@ -1,0 +1,14 @@
+{
+  "slug": "people/dennis-norton",
+  "type": "person",
+  "title": "Dennis Norton",
+  "compiled_truth": "Dennis Norton is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-31 to 2001-10-24), Dennis Norton sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2001-05-31** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dennis-norton",
+    "name": "Dennis Norton",
+    "email": "dennis.norton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

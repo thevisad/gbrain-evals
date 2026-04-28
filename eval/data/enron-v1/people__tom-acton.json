@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-acton",
+  "type": "person",
+  "title": "Tom Acton",
+  "compiled_truth": "Tom Acton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2001-06-12), Tom Acton sent 74 and received 307 emails, totalling 381 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (71), [Vance Taylor](people/vance-taylor) (26), [Julie Meyers](people/julie-meyers) (12), [Lisa Hesse](people/lisa-hesse) (11), [Susan Smith](people/susan-smith) (10). Mailbox folders observed: entex, logistics.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-acton",
+    "name": "Tom Acton",
+    "email": "tom.acton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

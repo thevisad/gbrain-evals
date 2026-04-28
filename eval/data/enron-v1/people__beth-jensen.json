@@ -1,0 +1,14 @@
+{
+  "slug": "people/beth-jensen",
+  "type": "person",
+  "title": "Beth Jensen",
+  "compiled_truth": "Beth Jensen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-24 to 2001-11-27), Beth Jensen sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **2000-02-24** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/beth-jensen",
+    "name": "Beth Jensen",
+    "email": "beth.jensen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

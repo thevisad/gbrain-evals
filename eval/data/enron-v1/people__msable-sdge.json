@@ -1,0 +1,14 @@
+{
+  "slug": "people/msable-sdge",
+  "type": "person",
+  "title": "Msable",
+  "compiled_truth": "Msable is an external contact at [Sdge](companies/sdge). Over the corpus period (2000-10-17 to 2001-07-23), Msable sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-10-17** | First recorded email in corpus\n- **2001-07-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/msable-sdge",
+    "name": "Msable",
+    "email": "msable@sdge.com",
+    "primary_affiliation": "companies/sdge"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-garcia",
+  "type": "person",
+  "title": "Susan Garcia",
+  "compiled_truth": "Susan Garcia is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-26 to 2001-12-27), Susan Garcia sent 2 and received 5 emails, totalling 7 interactions. Top correspondents: [Laurel Adams](people/laurel-adams) (2), [Marla Barnard](people/marla-barnard) (2), [Gilda Bartz](people/gilda-bartz) (2), [Marian Bryant](people/marian-bryant) (2), [Timothy Callahan](people/timothy-callahan) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-10-26** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-garcia",
+    "name": "Susan Garcia",
+    "email": "susan.garcia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

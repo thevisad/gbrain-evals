@@ -1,0 +1,14 @@
+{
+  "slug": "people/ceword-paalp",
+  "type": "person",
+  "title": "Ceword",
+  "compiled_truth": "Ceword is an external contact at [Paalp](companies/paalp). Over the corpus period (2000-11-13 to 2000-12-13), Ceword sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ceword-paalp",
+    "name": "Ceword",
+    "email": "ceword@paalp.com",
+    "primary_affiliation": "companies/paalp"
+  }
+}

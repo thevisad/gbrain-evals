@@ -1,0 +1,14 @@
+{
+  "slug": "people/mona-petrochko",
+  "type": "person",
+  "title": "Mona Petrochko",
+  "compiled_truth": "Mona Petrochko is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-09-01 to 2001-08-01), Mona Petrochko sent 88 and received 1270 emails, totalling 1358 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (44), [West Ga](people/west-ga) (32), [Roger Yang](people/roger-yang) (28), [Harry Kingerski](people/harry-kingerski) (28), [Susan Mara](people/susan-mara) (27). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1998-09-01** | First recorded email in corpus\n- **2001-08-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mona-petrochko",
+    "name": "Mona Petrochko",
+    "email": "mona.petrochko@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

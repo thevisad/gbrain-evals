@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-herrold",
+  "type": "person",
+  "title": "Jeff Herrold",
+  "compiled_truth": "Jeff Herrold is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-10-29), Jeff Herrold sent 1 and received 22 emails, totalling 23 interactions. Top correspondents: [Mary Fischer](people/mary-fischer) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-herrold",
+    "name": "Jeff Herrold",
+    "email": "jeff.herrold@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

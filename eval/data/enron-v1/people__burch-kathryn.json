@@ -1,0 +1,14 @@
+{
+  "slug": "people/burch-kathryn",
+  "type": "person",
+  "title": "Burch' 'Kathryn",
+  "compiled_truth": "Burch' 'Kathryn is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-03-22 to 2002-03-22), Burch' 'Kathryn sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-03-22** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/burch-kathryn",
+    "name": "Burch' 'Kathryn",
+    "email": "burch'.'kathryn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

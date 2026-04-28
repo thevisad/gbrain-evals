@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcashell-mtpower",
+  "type": "person",
+  "title": "Mcashell",
+  "compiled_truth": "Mcashell is an external contact at [Mtpower](companies/mtpower). Over the corpus period (2001-03-16 to 2001-04-26), Mcashell sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-03-16** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcashell-mtpower",
+    "name": "Mcashell",
+    "email": "mcashell@mtpower.com",
+    "primary_affiliation": "companies/mtpower"
+  }
+}

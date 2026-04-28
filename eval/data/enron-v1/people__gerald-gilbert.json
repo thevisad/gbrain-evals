@@ -1,0 +1,14 @@
+{
+  "slug": "people/gerald-gilbert",
+  "type": "person",
+  "title": "Gerald Gilbert",
+  "compiled_truth": "Gerald Gilbert is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2002-02-25), Gerald Gilbert sent 7 and received 376 emails, totalling 383 interactions. Top correspondents: [Chris Germany](people/chris-germany) (4), [Tom May](people/tom-may) (3), [J  Farmer](people/j-farmer) (2), [Larry Campbell](people/larry-campbell) (1), [Jeff Wolfe](people/jeff-wolfe) (1). Mailbox folders observed: calendar, deleted_items, frontera, inbox.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gerald-gilbert",
+    "name": "Gerald Gilbert",
+    "email": "gerald.gilbert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

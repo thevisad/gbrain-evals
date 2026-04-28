@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-kucera",
+  "type": "person",
+  "title": "David Kucera",
+  "compiled_truth": "David Kucera is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-28 to 2000-08-15), David Kucera sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-07-28** | First recorded email in corpus\n- **2000-08-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-kucera",
+    "name": "David Kucera",
+    "email": "david.kucera@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

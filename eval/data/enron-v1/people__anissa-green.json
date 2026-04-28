@@ -1,0 +1,14 @@
+{
+  "slug": "people/anissa-green",
+  "type": "person",
+  "title": "Anissa Green",
+  "compiled_truth": "Anissa Green is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-26 to 2001-11-12), Anissa Green sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-07-26** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anissa-green",
+    "name": "Anissa Green",
+    "email": "anissa.green@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

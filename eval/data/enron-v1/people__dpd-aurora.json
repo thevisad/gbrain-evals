@@ -1,0 +1,14 @@
+{
+  "slug": "people/dpd-aurora",
+  "type": "person",
+  "title": "Dpd",
+  "compiled_truth": "Dpd is an external contact at [Aurora](companies/aurora). Over the corpus period (2000-09-07 to 2001-06-11), Dpd sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dpd-aurora",
+    "name": "Dpd",
+    "email": "dpd@aurora.dti.ne.jp",
+    "primary_affiliation": "companies/aurora"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/grace-rodriguez",
+  "type": "person",
+  "title": "Grace Rodriguez",
+  "compiled_truth": "Grace Rodriguez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-05-13), Grace Rodriguez sent 167 and received 136 emails, totalling 303 interactions. Top correspondents: [Bill Williams](people/bill-williams) (60), [Amy Fitzpatrick](people/amy-fitzpatrick) (47), [Kathryn Sheppard](people/kathryn-sheppard) (37), [Center Dl-Portland](people/center-dl-portland) (33), [Anna Mehrer](people/anna-mehrer) (29). Mailbox folders observed: deleted_items, hr, human_resources, inbox, read.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/grace-rodriguez",
+    "name": "Grace Rodriguez",
+    "email": "grace.rodriguez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

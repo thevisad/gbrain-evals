@@ -1,0 +1,14 @@
+{
+  "slug": "people/djbridger-ra",
+  "type": "person",
+  "title": "Djbridger",
+  "compiled_truth": "Djbridger is an external contact at [Ra](companies/ra). Over the corpus period (2000-06-01 to 2000-06-28), Djbridger sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-06-01** | First recorded email in corpus\n- **2000-06-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/djbridger-ra",
+    "name": "Djbridger",
+    "email": "djbridger@ra.rockwell.com",
+    "primary_affiliation": "companies/ra"
+  }
+}

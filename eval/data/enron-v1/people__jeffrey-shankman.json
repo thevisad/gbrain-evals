@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-shankman",
+  "type": "person",
+  "title": "Jeffrey Shankman",
+  "compiled_truth": "Jeffrey Shankman is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-19), Jeffrey Shankman sent 2090 and received 1256 emails, totalling 3346 interactions. Top correspondents: [Jennifer Burns](people/jennifer-burns) (493), [Alexandra Saler](people/alexandra-saler) (162), [Mike McConnell](people/mike-mcconnell) (132), [John Nowlan](people/john-nowlan) (130), [Jennifer Fraser](people/jennifer-fraser) (87). Mailbox folders observed: _americas, discussion_threads, global_mkts, inbox, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-shankman",
+    "name": "Jeffrey Shankman",
+    "email": "jeffrey.shankman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

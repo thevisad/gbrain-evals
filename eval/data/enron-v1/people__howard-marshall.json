@@ -1,0 +1,14 @@
+{
+  "slug": "people/howard-marshall",
+  "type": "person",
+  "title": "Howard Marshall",
+  "compiled_truth": "Howard Marshall is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-30 to 2001-11-28), Howard Marshall sent 0 and received 53 emails, totalling 53 interactions.",
+  "timeline": "- **2001-07-30** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/howard-marshall",
+    "name": "Howard Marshall",
+    "email": "howard.marshall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

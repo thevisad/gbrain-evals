@@ -1,0 +1,14 @@
+{
+  "slug": "people/terry-galassini",
+  "type": "person",
+  "title": "Terry Galassini",
+  "compiled_truth": "Terry Galassini is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-24 to 2001-08-24), Terry Galassini sent 0 and received 87 emails, totalling 87 interactions.",
+  "timeline": "- **2000-05-24** | First recorded email in corpus\n- **2001-08-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terry-galassini",
+    "name": "Terry Galassini",
+    "email": "terry.galassini@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

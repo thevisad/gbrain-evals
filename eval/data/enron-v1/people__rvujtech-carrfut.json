@@ -1,0 +1,14 @@
+{
+  "slug": "people/rvujtech-carrfut",
+  "type": "person",
+  "title": "Rvujtech",
+  "compiled_truth": "Rvujtech is an external contact at [Carrfut](companies/carrfut). Over the corpus period (2001-05-24 to 2002-02-06), Rvujtech sent 49 and received 67 emails, totalling 116 interactions. Top correspondents: [Smollner](people/smollner-carrfut) (10), [Smollner](people/smollner-carrfut) (1), [Hill](people/hill-statoil) (1).",
+  "timeline": "- **2001-05-24** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rvujtech-carrfut",
+    "name": "Rvujtech",
+    "email": "rvujtech@carrfut.com",
+    "primary_affiliation": "companies/carrfut"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/leslie-linares",
+  "type": "person",
+  "title": "Leslie Linares",
+  "compiled_truth": "Leslie Linares is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-25 to 2001-09-28), Leslie Linares sent 2 and received 10 emails, totalling 12 interactions. Top correspondents: [Rex Rogers](people/rex-rogers) (2), [Julia Chin](people/julia-chin) (2), [Michael Anderson](people/michael-anderson) (1), [Dan Boyle](people/dan-boyle) (1), [Paul Chivers](people/paul-chivers) (1).",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leslie-linares",
+    "name": "Leslie Linares",
+    "email": "leslie.linares@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "companies/gmssr",
+  "type": "company",
+  "title": "Gmssr",
+  "compiled_truth": "Gmssr is an external organization that appears in the Enron email corpus. Domain: gmssr.com. Total email interactions with Enron: 1,964. Known contacts: 17 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (1,964 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/gmssr",
+    "name": "Gmssr",
+    "employees": [
+      "people/20782-7854-gmssr",
+      "people/aozols-gmssr",
+      "people/bcragg-gmssr",
+      "people/btc-bcragg-gmssr",
+      "people/dsandefur-gmssr",
+      "people/hpatrick-gmssr",
+      "people/james-gmssr",
+      "people/jbennet-gmssr",
+      "people/jbennett-gmssr",
+      "people/jgray-gmssr",
+      "people/jmct-gmssr",
+      "people/jmctarnaghan-gmssr",
+      "people/jsqueri-gmssr",
+      "people/jsquerie-gmssr",
+      "people/mbday-gmssr",
+      "people/mday-gmssr",
+      "people/mlajaunie-gmssr"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

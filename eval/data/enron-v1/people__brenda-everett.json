@@ -1,0 +1,14 @@
+{
+  "slug": "people/brenda-everett",
+  "type": "person",
+  "title": "Brenda Everett",
+  "compiled_truth": "Brenda Everett is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-30 to 2001-09-28), Brenda Everett sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **1999-12-30** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brenda-everett",
+    "name": "Brenda Everett",
+    "email": "brenda.everett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

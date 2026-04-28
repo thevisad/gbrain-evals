@@ -1,0 +1,14 @@
+{
+  "slug": "people/tasha-huang",
+  "type": "person",
+  "title": "Tasha Huang",
+  "compiled_truth": "Tasha Huang is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-09-14), Tasha Huang sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tasha-huang",
+    "name": "Tasha Huang",
+    "email": "tasha.huang@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

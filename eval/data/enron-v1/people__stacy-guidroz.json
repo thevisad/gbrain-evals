@@ -1,0 +1,14 @@
+{
+  "slug": "people/stacy-guidroz",
+  "type": "person",
+  "title": "Stacy Guidroz",
+  "compiled_truth": "Stacy Guidroz is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-23 to 2001-01-02), Stacy Guidroz sent 2 and received 51 emails, totalling 53 interactions. Top correspondents: [James Bannantine](people/james-bannantine) (2), [Diomedes Christodoulou](people/diomedes-christodoulou) (2), [Kevin Communications](people/kevin-communications) (2), [David Haug](people/david-haug) (2), [Larry Izzo](people/larry-izzo) (2).",
+  "timeline": "- **1999-09-23** | First recorded email in corpus\n- **2001-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stacy-guidroz",
+    "name": "Stacy Guidroz",
+    "email": "stacy.guidroz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

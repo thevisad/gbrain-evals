@@ -1,0 +1,14 @@
+{
+  "slug": "people/fraser-allen",
+  "type": "person",
+  "title": "Fraser Allen",
+  "compiled_truth": "Fraser Allen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-30 to 2001-11-26), Fraser Allen sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **1999-09-30** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fraser-allen",
+    "name": "Fraser Allen",
+    "email": "fraser.allen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

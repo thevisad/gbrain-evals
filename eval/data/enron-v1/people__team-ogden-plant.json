@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-ogden-plant",
+  "type": "person",
+  "title": "Team Ogden-Plant",
+  "compiled_truth": "Team Ogden-Plant is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-18 to 2002-02-08), Team Ogden-Plant sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus\n- **2002-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-ogden-plant",
+    "name": "Team Ogden-Plant",
+    "email": "team.ogden-plant@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

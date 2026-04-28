@@ -1,0 +1,14 @@
+{
+  "slug": "people/bender",
+  "type": "person",
+  "title": "Bender",
+  "compiled_truth": "Bender is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-25 to 2002-01-14), Bender sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bender",
+    "name": "Bender",
+    "email": "bender@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

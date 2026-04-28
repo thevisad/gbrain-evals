@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-detmering",
+  "type": "person",
+  "title": "J  Detmering",
+  "compiled_truth": "J  Detmering is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-02 to 2001-11-27), J  Detmering sent 6 and received 43 emails, totalling 49 interactions. Top correspondents: [Jeff Donahue](people/jeff-donahue) (3), [J  Kean](people/j-kean) (3), [John Hardy](people/john-hardy) (2), [Stephen Harper](people/stephen-harper) (2), [Stephen Wallace](people/stephen-wallace) (2). Mailbox folders observed: deleted_items, inbox, project_summer.",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-detmering",
+    "name": "J  Detmering",
+    "email": "j..detmering@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

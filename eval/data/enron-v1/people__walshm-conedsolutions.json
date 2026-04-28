@@ -1,0 +1,14 @@
+{
+  "slug": "people/walshm-conedsolutions",
+  "type": "person",
+  "title": "Walshm",
+  "compiled_truth": "Walshm is an external contact at [Conedsolutions](companies/conedsolutions). Over the corpus period (2002-01-25 to 2002-01-29), Walshm sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-25** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/walshm-conedsolutions",
+    "name": "Walshm",
+    "email": "walshm@conedsolutions.com",
+    "primary_affiliation": "companies/conedsolutions"
+  }
+}

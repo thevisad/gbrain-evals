@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-berger",
+  "type": "person",
+  "title": "Larry Berger",
+  "compiled_truth": "Larry Berger is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-17 to 2002-03-24), Larry Berger sent 13 and received 353 emails, totalling 366 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (13), [Raetta Zadow](people/raetta-zadow) (7), [Rick Dietz](people/rick-dietz) (6), [Chris Sebesta](people/chris-sebesta) (3), [Mike Barry](people/mike-barry) (2). Mailbox folders observed: deleted_items, inbox, personnel___paa, vacations_2001.",
+  "timeline": "- **2000-03-17** | First recorded email in corpus\n- **2002-03-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-berger",
+    "name": "Larry Berger",
+    "email": "larry.berger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

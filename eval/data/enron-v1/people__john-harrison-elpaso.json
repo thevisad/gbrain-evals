@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-harrison-elpaso",
+  "type": "person",
+  "title": "John Harrison",
+  "compiled_truth": "John Harrison is an external contact at [El Paso Energy](companies/el-paso). Over the corpus period (2001-05-11 to 2001-05-21), John Harrison sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2001-05-11** | First recorded email in corpus\n- **2001-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-harrison-elpaso",
+    "name": "John Harrison",
+    "email": "john.harrison@elpaso.com",
+    "primary_affiliation": "companies/el-paso"
+  }
+}

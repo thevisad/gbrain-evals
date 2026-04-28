@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-pan",
+  "type": "person",
+  "title": "Steve Pan",
+  "compiled_truth": "Steve Pan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-20 to 2002-01-03), Steve Pan sent 2 and received 105 emails, totalling 107 interactions. Top correspondents: [Stephanie Sever](people/stephanie-sever) (1), [M  Presto](people/m-presto) (1), [Mike Carson](people/mike-carson) (1), [Chris Walker](people/chris-walker) (1), [D  Thomas](people/d-thomas) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-08-20** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-pan",
+    "name": "Steve Pan",
+    "email": "steve.pan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

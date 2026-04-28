@@ -1,0 +1,14 @@
+{
+  "slug": "people/rhonna-palmer",
+  "type": "person",
+  "title": "Rhonna Palmer",
+  "compiled_truth": "Rhonna Palmer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2002-02-19), Rhonna Palmer sent 3 and received 119 emails, totalling 122 interactions. Top correspondents: [Scott Affelt](people/scott-affelt) (3), [Keri Allred](people/keri-allred) (3), [Andrea Bennett](people/andrea-bennett) (3), [J Beyer](people/j-beyer) (3), [B  Childress](people/b-childress) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rhonna-palmer",
+    "name": "Rhonna Palmer",
+    "email": "rhonna.palmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

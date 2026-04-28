@@ -1,0 +1,14 @@
+{
+  "slug": "people/fletcher-sturm",
+  "type": "person",
+  "title": "Fletcher Sturm",
+  "compiled_truth": "Fletcher Sturm is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-08-16), Fletcher Sturm sent 257 and received 419 emails, totalling 676 interactions. Top correspondents: [Tamara Black](people/tamara-black) (18), [Airam Arteaga](people/airam-arteaga) (14), [Melba Lozano](people/melba-lozano) (14), [Jeffrey Shankman](people/jeffrey-shankman) (13), [Eric Thode](people/eric-thode) (12). Mailbox folders observed: _sent_mail, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-08-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fletcher-sturm",
+    "name": "Fletcher Sturm",
+    "email": "fletcher.sturm@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

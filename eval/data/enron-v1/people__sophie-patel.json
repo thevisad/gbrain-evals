@@ -1,0 +1,14 @@
+{
+  "slug": "people/sophie-patel",
+  "type": "person",
+  "title": "Sophie Patel",
+  "compiled_truth": "Sophie Patel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2001-11-28), Sophie Patel sent 1 and received 36 emails, totalling 37 interactions. Top correspondents: [Kenneth Lay](people/kenneth-lay) (1), [Rosalee Fleming](people/rosalee-fleming) (1).",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sophie-patel",
+    "name": "Sophie Patel",
+    "email": "sophie.patel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

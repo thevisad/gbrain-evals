@@ -1,0 +1,14 @@
+{
+  "slug": "people/christi-culwell",
+  "type": "person",
+  "title": "Christi Culwell",
+  "compiled_truth": "Christi Culwell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2002-02-14), Christi Culwell sent 9 and received 88 emails, totalling 97 interactions. Top correspondents: [Teb Lokey](people/teb-lokey) (9), [Stephen Veatch](people/stephen-veatch) (3), [Timothy Bayles](people/timothy-bayles) (2), [Anne Jolibois](people/anne-jolibois) (2), [ Carol](people/carol) (1). Mailbox folders observed: inbox, misc_.",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christi-culwell",
+    "name": "Christi Culwell",
+    "email": "christi.culwell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

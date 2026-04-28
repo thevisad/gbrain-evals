@@ -1,0 +1,14 @@
+{
+  "slug": "people/annette-vogel-eott",
+  "type": "person",
+  "title": "Annette Vogel",
+  "compiled_truth": "Annette Vogel is an external contact at [Eott](companies/eott). Over the corpus period (2000-02-02 to 2001-05-30), Annette Vogel sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/annette-vogel-eott",
+    "name": "Annette Vogel",
+    "email": "annette.vogel@eott.com",
+    "primary_affiliation": "companies/eott"
+  }
+}

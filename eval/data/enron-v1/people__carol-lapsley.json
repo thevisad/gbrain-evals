@@ -1,0 +1,14 @@
+{
+  "slug": "people/carol-lapsley",
+  "type": "person",
+  "title": "Carol Lapsley",
+  "compiled_truth": "Carol Lapsley is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-19 to 2002-01-18), Carol Lapsley sent 4 and received 33 emails, totalling 37 interactions. Top correspondents: [Kenny Ha](people/kenny-ha) (4), [Steve Nat](people/steve-nat) (4), [Lloyd Will](people/lloyd-will) (4), [Todd Busby](people/todd-busby) (4), [Dawn Mcdonald](people/dawn-mcdonald) (4). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **2001-09-19** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carol-lapsley",
+    "name": "Carol Lapsley",
+    "email": "carol.lapsley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

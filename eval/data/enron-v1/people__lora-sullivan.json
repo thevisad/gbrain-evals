@@ -1,0 +1,14 @@
+{
+  "slug": "people/lora-sullivan",
+  "type": "person",
+  "title": "Lora Sullivan",
+  "compiled_truth": "Lora Sullivan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-13 to 2002-02-21), Lora Sullivan sent 61 and received 515 emails, totalling 576 interactions. Top correspondents: [Steven Kean](people/steven-kean) (32), [Richard Shapiro](people/richard-shapiro) (20), [Linda Robertson](people/linda-robertson) (16), [Chris Long](people/chris-long) (14), [Maureen Mcvicker](people/maureen-mcvicker) (14). Mailbox folders observed: 2001_objectives, compliments, deleted_items, presentations.",
+  "timeline": "- **1999-10-13** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lora-sullivan",
+    "name": "Lora Sullivan",
+    "email": "lora.sullivan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

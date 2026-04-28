@@ -1,0 +1,14 @@
+{
+  "slug": "people/ouglover-aol",
+  "type": "person",
+  "title": "Ouglover",
+  "compiled_truth": "Ouglover is an external contact at [AOL](companies/aol). Over the corpus period (2000-09-13 to 2000-09-13), Ouglover sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-09-13** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ouglover-aol",
+    "name": "Ouglover",
+    "email": "ouglover@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

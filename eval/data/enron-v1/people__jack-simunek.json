@@ -1,0 +1,14 @@
+{
+  "slug": "people/jack-simunek",
+  "type": "person",
+  "title": "Jack Simunek",
+  "compiled_truth": "Jack Simunek is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-07-16), Jack Simunek sent 0 and received 93 emails, totalling 93 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jack-simunek",
+    "name": "Jack Simunek",
+    "email": "jack.simunek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jwright-smithandkempton",
+  "type": "person",
+  "title": "Jwright",
+  "compiled_truth": "Jwright is an external contact at [Smithandkempton](companies/smithandkempton). Over the corpus period (2000-08-15 to 2001-07-25), Jwright sent 1 and received 45 emails, totalling 46 interactions. Top correspondents: [Athomas](people/athomas-newenergy) (1), [Alippin](people/alippin-mail) (1), [Cohnap](people/cohnap-sce) (1), [Anw](people/anw-cpuc) (1), [Anna Ferrera](people/anna-ferrera-sen) (1).",
+  "timeline": "- **2000-08-15** | First recorded email in corpus\n- **2001-07-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jwright-smithandkempton",
+    "name": "Jwright",
+    "email": "jwright@smithandkempton.com",
+    "primary_affiliation": "companies/smithandkempton"
+  }
+}

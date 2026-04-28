@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-ragsdale",
+  "type": "person",
+  "title": "John Ragsdale",
+  "compiled_truth": "John Ragsdale is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-20 to 2002-02-28), John Ragsdale sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-06-20** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-ragsdale",
+    "name": "John Ragsdale",
+    "email": "john.ragsdale@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

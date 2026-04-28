@@ -1,0 +1,42 @@
+{
+  "slug": "companies/avistaenergy",
+  "type": "company",
+  "title": "Avistaenergy",
+  "compiled_truth": "Avistaenergy is an external organization that appears in the Enron email corpus. Domain: avistaenergy.com. Total email interactions with Enron: 303. Known contacts: 25 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (303 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/avistaenergy",
+    "name": "Avistaenergy",
+    "employees": [
+      "people/arienzo-avistaenergy",
+      "people/awilson-avistaenergy",
+      "people/bfrench-avistaenergy",
+      "people/cgoligoski-avistaenergy",
+      "people/cstelzer-avistaenergy",
+      "people/ddickson-avistaenergy",
+      "people/dvermillion-avistaenergy",
+      "people/jji-avistaenergy",
+      "people/jwilmotte-avistaenergy",
+      "people/khara-avistaenergy",
+      "people/kmillikan-avistaenergy",
+      "people/kselland-avistaenergy",
+      "people/lfiler-avistaenergy",
+      "people/lhamilton-avistaenergy",
+      "people/lmoore-avistaenergy",
+      "people/mdarienzo-avistaenergy",
+      "people/mknutson-avistaenergy",
+      "people/nkelley-avistaenergy",
+      "people/nolan-steiner-avistaenergy",
+      "people/pgorton-avistaenergy",
+      "people/rpierce-avistaenergy",
+      "people/sfisher-avistaenergy",
+      "people/sharper-avistaenergy",
+      "people/tgilliam-avistaenergy",
+      "people/wtaylor-avistaenergy"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

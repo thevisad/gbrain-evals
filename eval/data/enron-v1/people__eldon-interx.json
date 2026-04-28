@@ -1,0 +1,14 @@
+{
+  "slug": "people/eldon-interx",
+  "type": "person",
+  "title": "Eldon",
+  "compiled_truth": "Eldon is an external contact at [Interx](companies/interx). Over the corpus period (1999-09-28 to 2001-11-22), Eldon sent 40 and received 128 emails, totalling 168 interactions. Top correspondents: [Psellers](people/psellers-haas) (34), [Cameron](people/cameron-perfect) (29), [Jdasovic](people/jdasovic) (29), [Psellers](people/psellers-pacbell) (29), [Nancy Sellers](people/nancy-sellers-mondavi) (29).",
+  "timeline": "- **1999-09-28** | First recorded email in corpus\n- **2001-11-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eldon-interx",
+    "name": "Eldon",
+    "email": "eldon@interx.net",
+    "primary_affiliation": "companies/interx"
+  }
+}

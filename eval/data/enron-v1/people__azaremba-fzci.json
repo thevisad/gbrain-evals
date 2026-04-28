@@ -1,0 +1,14 @@
+{
+  "slug": "people/azaremba-fzci",
+  "type": "person",
+  "title": "Azaremba",
+  "compiled_truth": "Azaremba is an external contact at [Fzci](companies/fzci). Over the corpus period (2000-09-04 to 2001-11-09), Azaremba sent 5 and received 54 emails, totalling 59 interactions. Top correspondents: [Smu-Betas](people/smu-betas-yahoogroups) (5).",
+  "timeline": "- **2000-09-04** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/azaremba-fzci",
+    "name": "Azaremba",
+    "email": "azaremba@fzci.net",
+    "primary_affiliation": "companies/fzci"
+  }
+}

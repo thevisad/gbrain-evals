@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-costa-neg",
+  "type": "person",
+  "title": "Jennifer Costa",
+  "compiled_truth": "Jennifer Costa is an external contact at [Neg](companies/neg). Over the corpus period (2001-01-11 to 2001-12-02), Jennifer Costa sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2001-01-11** | First recorded email in corpus\n- **2001-12-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-costa-neg",
+    "name": "Jennifer Costa",
+    "email": "jennifer.costa@neg.pge.com",
+    "primary_affiliation": "companies/neg"
+  }
+}

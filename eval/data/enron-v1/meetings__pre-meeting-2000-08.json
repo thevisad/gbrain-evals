@@ -1,0 +1,27 @@
+{
+  "slug": "meetings/pre-meeting-2000-08",
+  "type": "meeting",
+  "title": "Meeting: Pre Meeting",
+  "compiled_truth": "Meeting: \"Pre Meeting\". Occurred 2000-08-02 with 1 related emails. Participants included: [Brenda Herod](people/brenda-herod), [Daren Farmer](people/daren-farmer), [Hector Mcloughlin](people/hector-mcloughlin), [Kim Weldon](people/kim-weldon), [Kristen Hanson](people/kristen-hanson), [Lisa Csikos](people/lisa-csikos), [Mary Comello](people/mary-comello), [Mary Smith](people/mary-smith)....",
+  "timeline": "- **2000-08-02** | Meeting: pre meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/pre-meeting-2000-08",
+    "attendees": [
+      "people/brenda-herod",
+      "people/daren-farmer",
+      "people/hector-mcloughlin",
+      "people/kim-weldon",
+      "people/kristen-hanson",
+      "people/lisa-csikos",
+      "people/mary-comello",
+      "people/mary-smith",
+      "people/michael-eiben",
+      "people/pat-clynes",
+      "people/rita-wynne",
+      "people/steve-venturatos",
+      "people/yvette-connevey"
+    ],
+    "date": "2000-08-02"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-hunter",
+  "type": "person",
+  "title": "Larry Hunter",
+  "compiled_truth": "Larry Hunter is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-11), Larry Hunter sent 85 and received 869 emails, totalling 954 interactions. Top correspondents: [Tana Jones](people/tana-jones) (39), [Sara Shackleton](people/sara-shackleton) (36), [Susan Bailey](people/susan-bailey) (14), [Stephanie Panus](people/stephanie-panus) (10), [Kevin Meredith](people/kevin-meredith) (10). Mailbox folders observed: enron_power.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-hunter",
+    "name": "Larry Hunter",
+    "email": "larry.hunter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

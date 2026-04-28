@@ -1,0 +1,14 @@
+{
+  "slug": "people/arleen-duran",
+  "type": "person",
+  "title": "Arleen Duran",
+  "compiled_truth": "Arleen Duran is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-09-28), Arleen Duran sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/arleen-duran",
+    "name": "Arleen Duran",
+    "email": "arleen.duran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

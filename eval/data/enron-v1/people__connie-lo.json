@@ -1,0 +1,14 @@
+{
+  "slug": "people/connie-lo",
+  "type": "person",
+  "title": "Connie Lo",
+  "compiled_truth": "Connie Lo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2002-02-13), Connie Lo sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/connie-lo",
+    "name": "Connie Lo",
+    "email": "connie.lo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

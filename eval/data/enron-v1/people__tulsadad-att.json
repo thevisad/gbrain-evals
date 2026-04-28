@@ -1,0 +1,14 @@
+{
+  "slug": "people/tulsadad-att",
+  "type": "person",
+  "title": "Tulsadad",
+  "compiled_truth": "Tulsadad is an external contact at [Att](companies/att). Over the corpus period (2000-11-02 to 2001-09-24), Tulsadad sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tulsadad-att",
+    "name": "Tulsadad",
+    "email": "tulsadad@att.net",
+    "primary_affiliation": "companies/att"
+  }
+}

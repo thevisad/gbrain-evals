@@ -1,0 +1,14 @@
+{
+  "slug": "people/kent-burton-ogden-energy",
+  "type": "person",
+  "title": "Kent Burton",
+  "compiled_truth": "Kent Burton is an external contact at [Ogden-energy](companies/ogden-energy). Over the corpus period (2001-01-14 to 2001-03-26), Kent Burton sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-01-14** | First recorded email in corpus\n- **2001-03-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kent-burton-ogden-energy",
+    "name": "Kent Burton",
+    "email": "kent_burton@ogden-energy.com",
+    "primary_affiliation": "companies/ogden-energy"
+  }
+}

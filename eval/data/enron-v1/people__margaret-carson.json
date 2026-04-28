@@ -1,0 +1,14 @@
+{
+  "slug": "people/margaret-carson",
+  "type": "person",
+  "title": "Margaret Carson",
+  "compiled_truth": "Margaret Carson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-10 to 2001-05-01), Margaret Carson sent 40 and received 278 emails, totalling 318 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (21), [James Steffes](people/james-steffes) (17), [Steven Kean](people/steven-kean) (12), [Vince Kaminski](people/vince-kaminski) (8), [Mark Palmer](people/mark-palmer) (5). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-09-10** | First recorded email in corpus\n- **2001-05-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/margaret-carson",
+    "name": "Margaret Carson",
+    "email": "margaret.carson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

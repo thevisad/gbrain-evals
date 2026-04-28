@@ -1,0 +1,14 @@
+{
+  "slug": "people/joann-collins",
+  "type": "person",
+  "title": "Joann Collins",
+  "compiled_truth": "Joann Collins is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-05), Joann Collins sent 61 and received 720 emails, totalling 781 interactions. Top correspondents: [Chris Germany](people/chris-germany) (52), [Victor Lamadrid](people/victor-lamadrid) (24), [Robert Allwein](people/robert-allwein) (20), [Joan Veselack](people/joan-veselack) (17), [Dick Jenkins](people/dick-jenkins) (16). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joann-collins",
+    "name": "Joann Collins",
+    "email": "joann.collins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

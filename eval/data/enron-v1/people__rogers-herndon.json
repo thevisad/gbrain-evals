@@ -1,0 +1,14 @@
+{
+  "slug": "people/rogers-herndon",
+  "type": "person",
+  "title": "Rogers Herndon",
+  "compiled_truth": "Rogers Herndon is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-25), Rogers Herndon sent 62 and received 1222 emails, totalling 1284 interactions. Top correspondents: [M  Presto](people/m-presto) (38), [Narsimha Misra](people/narsimha-misra) (7), [John Lavorato](people/john-lavorato) (7), [D  Steffes](people/d-steffes) (7), [Robert Benson](people/robert-benson) (5). Mailbox folders observed: _americas, calendar, credit_issues, deleted_items, eesidealsgsaregion1, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rogers-herndon",
+    "name": "Rogers Herndon",
+    "email": "rogers.herndon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rousseau-anai",
+  "type": "person",
+  "title": "Rousseau Anai",
+  "compiled_truth": "Rousseau Anai is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2002-01-03), Rousseau Anai sent 5 and received 106 emails, totalling 111 interactions. Top correspondents: [John Ambler](people/john-ambler) (1), [Joseph Hirl](people/joseph-hirl) (1), [Mark Taylor](people/mark-taylor) (1).",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rousseau-anai",
+    "name": "Rousseau Anai",
+    "email": "rousseau.anai@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

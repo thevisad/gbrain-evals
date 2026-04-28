@@ -1,0 +1,14 @@
+{
+  "slug": "people/shyril-scott",
+  "type": "person",
+  "title": "Shyril Scott",
+  "compiled_truth": "Shyril Scott is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-08 to 2000-08-23), Shyril Scott sent 1 and received 6 emails, totalling 7 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (1), [Donna Greif](people/donna-greif) (1), [Elena Kapralova](people/elena-kapralova) (1).",
+  "timeline": "- **1999-12-08** | First recorded email in corpus\n- **2000-08-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/shyril-scott",
+    "name": "Shyril Scott",
+    "email": "shyril.scott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/anthony-carroll-americas",
+  "type": "person",
+  "title": "Anthony Carroll",
+  "compiled_truth": "Anthony Carroll is an external contact at [Americas](companies/americas). Over the corpus period (2002-04-17 to 2002-06-26), Anthony Carroll sent 101 and received 0 emails, totalling 101 interactions.",
+  "timeline": "- **2002-04-17** | First recorded email in corpus\n- **2002-06-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anthony-carroll-americas",
+    "name": "Anthony Carroll",
+    "email": "anthony.carroll@americas.bnpparibas.com",
+    "primary_affiliation": "companies/americas"
+  }
+}

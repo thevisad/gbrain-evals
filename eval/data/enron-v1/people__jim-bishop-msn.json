@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-bishop-msn",
+  "type": "person",
+  "title": "Jim Bishop",
+  "compiled_truth": "Jim Bishop is an external contact at [MSN](companies/msn). Over the corpus period (2000-09-01 to 2001-01-23), Jim Bishop sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-bishop-msn",
+    "name": "Jim Bishop",
+    "email": "jim_bishop@msn.com",
+    "primary_affiliation": "companies/msn"
+  }
+}

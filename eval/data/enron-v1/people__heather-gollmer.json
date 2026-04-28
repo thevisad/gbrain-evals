@@ -1,0 +1,14 @@
+{
+  "slug": "people/heather-gollmer",
+  "type": "person",
+  "title": "Heather Gollmer",
+  "compiled_truth": "Heather Gollmer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2000-12-13), Heather Gollmer sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heather-gollmer",
+    "name": "Heather Gollmer",
+    "email": "heather.gollmer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

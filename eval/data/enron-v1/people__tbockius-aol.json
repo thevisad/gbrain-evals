@@ -1,0 +1,14 @@
+{
+  "slug": "people/tbockius-aol",
+  "type": "person",
+  "title": "Tbockius",
+  "compiled_truth": "Tbockius is an external contact at [AOL](companies/aol). Over the corpus period (1998-12-14 to 2001-10-30), Tbockius sent 4 and received 30 emails, totalling 34 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (4).",
+  "timeline": "- **1998-12-14** | First recorded email in corpus\n- **2001-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tbockius-aol",
+    "name": "Tbockius",
+    "email": "tbockius@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

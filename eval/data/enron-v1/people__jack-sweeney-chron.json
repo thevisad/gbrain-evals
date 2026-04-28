@@ -1,0 +1,14 @@
+{
+  "slug": "people/jack-sweeney-chron",
+  "type": "person",
+  "title": "Jack Sweeney",
+  "compiled_truth": "Jack Sweeney is an external contact at [Chron](companies/chron). Over the corpus period (2000-11-13 to 2001-11-09), Jack Sweeney sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jack-sweeney-chron",
+    "name": "Jack Sweeney",
+    "email": "jack.sweeney@chron.com",
+    "primary_affiliation": "companies/chron"
+  }
+}

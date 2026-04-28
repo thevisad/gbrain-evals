@@ -1,0 +1,14 @@
+{
+  "slug": "people/marshall-eubank",
+  "type": "person",
+  "title": "Marshall Eubank",
+  "compiled_truth": "Marshall Eubank is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-07), Marshall Eubank sent 0 and received 43 emails, totalling 43 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marshall-eubank",
+    "name": "Marshall Eubank",
+    "email": "marshall.eubank@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

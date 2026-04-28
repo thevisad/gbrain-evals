@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-dafferner",
+  "type": "person",
+  "title": "Brian Dafferner",
+  "compiled_truth": "Brian Dafferner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-30 to 2001-12-03), Brian Dafferner sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-08-30** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-dafferner",
+    "name": "Brian Dafferner",
+    "email": "brian.dafferner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

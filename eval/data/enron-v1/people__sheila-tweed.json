@@ -1,0 +1,14 @@
+{
+  "slug": "people/sheila-tweed",
+  "type": "person",
+  "title": "Sheila Tweed",
+  "compiled_truth": "Sheila Tweed is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-08), Sheila Tweed sent 69 and received 1423 emails, totalling 1492 interactions. Top correspondents: [Kay Mann](people/kay-mann) (31), [Mark Haedicke](people/mark-haedicke) (11), [Scott Dieball](people/scott-dieball) (8), [Richard Sanders](people/richard-sanders) (6), [Sara Shackleton](people/sara-shackleton) (6). Mailbox folders observed: deleted_items, inbox, policy_manual_and_united_way.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sheila-tweed",
+    "name": "Sheila Tweed",
+    "email": "sheila.tweed@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

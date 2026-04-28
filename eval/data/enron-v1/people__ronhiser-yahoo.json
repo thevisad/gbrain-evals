@@ -1,0 +1,14 @@
+{
+  "slug": "people/ronhiser-yahoo",
+  "type": "person",
+  "title": "Ronhiser",
+  "compiled_truth": "Ronhiser is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-05-21 to 2001-04-24), Ronhiser sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2001-04-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ronhiser-yahoo",
+    "name": "Ronhiser",
+    "email": "ronhiser@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

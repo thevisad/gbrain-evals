@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-fisher",
+  "type": "person",
+  "title": "Mark Fisher",
+  "compiled_truth": "Mark Fisher is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-16 to 2002-07-12), Mark Fisher sent 46 and received 404 emails, totalling 450 interactions. Top correspondents: [Jeff Duff](people/jeff-duff) (24), [Tom Nemila](people/tom-nemila) (20), [Hollis Kimbrough](people/hollis-kimbrough) (16), [Denise Williams](people/denise-williams) (4), [Joe Chapman](people/joe-chapman) (2). Mailbox folders observed: _sent_mail, sent.",
+  "timeline": "- **2001-02-16** | First recorded email in corpus\n- **2002-07-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-fisher",
+    "name": "Mark Fisher",
+    "email": "mark.fisher@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-higgason",
+  "type": "person",
+  "title": "Kelly Higgason",
+  "compiled_truth": "Kelly Higgason is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-18 to 2002-06-21), Kelly Higgason sent 1 and received 80 emails, totalling 81 interactions. Top correspondents: [Don Black](people/don-black) (1), [Michael Brobst](people/michael-brobst) (1), [Adam Cooper](people/adam-cooper) (1), [David Delainey](people/david-delainey) (1), [Janet Dietrich](people/janet-dietrich) (1).",
+  "timeline": "- **1999-10-18** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-higgason",
+    "name": "Kelly Higgason",
+    "email": "kelly.higgason@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

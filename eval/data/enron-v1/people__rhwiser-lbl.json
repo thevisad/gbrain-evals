@@ -1,0 +1,14 @@
+{
+  "slug": "people/rhwiser-lbl",
+  "type": "person",
+  "title": "Rhwiser",
+  "compiled_truth": "Rhwiser is an external contact at [Lbl](companies/lbl). Over the corpus period (2001-07-25 to 2001-07-25), Rhwiser sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rhwiser-lbl",
+    "name": "Rhwiser",
+    "email": "rhwiser@lbl.gov",
+    "primary_affiliation": "companies/lbl"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gisb1-aol",
+  "type": "person",
+  "title": "Gisb1",
+  "compiled_truth": "Gisb1 is an external contact at [AOL](companies/aol). Over the corpus period (2000-01-06 to 2002-03-12), Gisb1 sent 75 and received 21 emails, totalling 96 interactions. Top correspondents: [Gisb4](people/gisb4-aol) (52), [Gisb](people/gisb-aol) (47), [Shorton](people/shorton) (45), [Jrtemplton](people/jrtemplton-aol) (37), [Novakm](people/novakm-natfuel) (27).",
+  "timeline": "- **2000-01-06** | First recorded email in corpus\n- **2002-03-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gisb1-aol",
+    "name": "Gisb1",
+    "email": "gisb1@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-landwehr",
+  "type": "person",
+  "title": "M  Landwehr",
+  "compiled_truth": "M  Landwehr is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-20 to 2001-12-03), M  Landwehr sent 50 and received 297 emails, totalling 347 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (24), [Paul Kaufman](people/paul-kaufman) (18), [Jeff Dasovich](people/jeff-dasovich) (17), [D  Steffes](people/d-steffes) (14), [Ginger Dernehl](people/ginger-dernehl) (9). Mailbox folders observed: compliments, contributions, deleted_items, inbox, personal.",
+  "timeline": "- **2001-07-20** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-landwehr",
+    "name": "M  Landwehr",
+    "email": "m..landwehr@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

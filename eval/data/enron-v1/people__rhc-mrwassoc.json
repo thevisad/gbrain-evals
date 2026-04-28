@@ -1,0 +1,14 @@
+{
+  "slug": "people/rhc-mrwassoc",
+  "type": "person",
+  "title": "Rhc",
+  "compiled_truth": "Rhc is an external contact at [Mrwassoc](companies/mrwassoc). Over the corpus period (1999-09-24 to 2001-07-31), Rhc sent 0 and received 62 emails, totalling 62 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rhc-mrwassoc",
+    "name": "Rhc",
+    "email": "rhc@mrwassoc.com",
+    "primary_affiliation": "companies/mrwassoc"
+  }
+}

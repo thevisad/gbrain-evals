@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-fowler",
+  "type": "person",
+  "title": "Mike Fowler",
+  "compiled_truth": "Mike Fowler is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-01), Mike Fowler sent 42 and received 49 emails, totalling 91 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (41), [Petej](people/petej-andrews-kurth) (19), [Sheila Glover](people/sheila-glover) (9), [Paul Pizzolato](people/paul-pizzolato) (8), [Jeff Kinneman](people/jeff-kinneman) (3).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-fowler",
+    "name": "Mike Fowler",
+    "email": "mike.fowler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-nguyen",
+  "type": "person",
+  "title": "Mary Nguyen",
+  "compiled_truth": "Mary Nguyen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-10-29), Mary Nguyen sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-nguyen",
+    "name": "Mary Nguyen",
+    "email": "mary.nguyen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

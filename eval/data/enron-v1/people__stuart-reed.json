@@ -1,0 +1,14 @@
+{
+  "slug": "people/stuart-reed",
+  "type": "person",
+  "title": "Stuart Reed",
+  "compiled_truth": "Stuart Reed is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-06 to 2001-11-16), Stuart Reed sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-06-06** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stuart-reed",
+    "name": "Stuart Reed",
+    "email": "stuart.reed@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-king",
+  "type": "person",
+  "title": "Lisa King",
+  "compiled_truth": "Lisa King is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-29), Lisa King sent 0 and received 79 emails, totalling 79 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-king",
+    "name": "Lisa King",
+    "email": "lisa.king@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

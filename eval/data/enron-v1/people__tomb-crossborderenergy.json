@@ -1,0 +1,14 @@
+{
+  "slug": "people/tomb-crossborderenergy",
+  "type": "person",
+  "title": "Tomb",
+  "compiled_truth": "Tomb is an external contact at [Crossborderenergy](companies/crossborderenergy). Over the corpus period (1999-09-24 to 2001-10-23), Tomb sent 14 and received 242 emails, totalling 256 interactions. Top correspondents: [Mday](people/mday-gmssr) (11), [Jdasovic](people/jdasovic) (11), [Craigc](people/craigc-calpine) (11), [Burkee](people/burkee-cts) (11), [Rick Counihan](people/rick-counihan-greenmountain) (10).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tomb-crossborderenergy",
+    "name": "Tomb",
+    "email": "tomb@crossborderenergy.com",
+    "primary_affiliation": "companies/crossborderenergy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-geheb",
+  "type": "person",
+  "title": "Robert Geheb",
+  "compiled_truth": "Robert Geheb is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-03-21), Robert Geheb sent 0 and received 60 emails, totalling 60 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-geheb",
+    "name": "Robert Geheb",
+    "email": "robert.geheb@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

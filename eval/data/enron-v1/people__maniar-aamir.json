@@ -1,0 +1,14 @@
+{
+  "slug": "people/maniar-aamir",
+  "type": "person",
+  "title": "Maniar Aamir",
+  "compiled_truth": "Maniar Aamir is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-14 to 2001-09-14), Maniar Aamir sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-09-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maniar-aamir",
+    "name": "Maniar Aamir",
+    "email": "maniar.aamir@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

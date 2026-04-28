@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-norman",
+  "type": "person",
+  "title": "Lisa Norman",
+  "compiled_truth": "Lisa Norman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-12-03), Lisa Norman sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-norman",
+    "name": "Lisa Norman",
+    "email": "lisa.norman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

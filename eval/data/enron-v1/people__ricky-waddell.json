@@ -1,0 +1,14 @@
+{
+  "slug": "people/ricky-waddell",
+  "type": "person",
+  "title": "Ricky Waddell",
+  "compiled_truth": "Ricky Waddell is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-24 to 2001-08-23), Ricky Waddell sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **1999-12-24** | First recorded email in corpus\n- **2001-08-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ricky-waddell",
+    "name": "Ricky Waddell",
+    "email": "ricky.waddell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

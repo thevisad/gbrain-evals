@@ -1,0 +1,14 @@
+{
+  "slug": "people/deb-aelaw",
+  "type": "person",
+  "title": "Deb",
+  "compiled_truth": "Deb is an external contact at [Aelaw](companies/aelaw). Over the corpus period (2001-02-09 to 2001-05-30), Deb sent 2 and received 14 emails, totalling 16 interactions. Top correspondents: [Eke](people/eke-aelaw) (2), [Mpa](people/mpa-aelaw) (2), [Michaelearly](people/michaelearly-earthlink) (2), [Ericf](people/ericf-prestongates) (2), [Mhain](people/mhain) (2).",
+  "timeline": "- **2001-02-09** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/deb-aelaw",
+    "name": "Deb",
+    "email": "deb@aelaw.com",
+    "primary_affiliation": "companies/aelaw"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristi-fredericks",
+  "type": "person",
+  "title": "Kristi Fredericks",
+  "compiled_truth": "Kristi Fredericks is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-31 to 2001-07-25), Kristi Fredericks sent 0 and received 53 emails, totalling 53 interactions.",
+  "timeline": "- **2000-10-31** | First recorded email in corpus\n- **2001-07-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristi-fredericks",
+    "name": "Kristi Fredericks",
+    "email": "kristi.fredericks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

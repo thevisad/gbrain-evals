@@ -1,0 +1,14 @@
+{
+  "slug": "people/natalie-baker",
+  "type": "person",
+  "title": "Natalie Baker",
+  "compiled_truth": "Natalie Baker is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-13), Natalie Baker sent 2 and received 164 emails, totalling 166 interactions. Top correspondents: [Tori Kuykendall](people/tori-kuykendall) (1), [M  Love](people/m-love) (1). Mailbox folders observed: central, deleted_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/natalie-baker",
+    "name": "Natalie Baker",
+    "email": "natalie.baker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

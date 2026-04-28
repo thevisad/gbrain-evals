@@ -1,0 +1,14 @@
+{
+  "slug": "people/erin-rice",
+  "type": "person",
+  "title": "Erin Rice",
+  "compiled_truth": "Erin Rice is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-06-05), Erin Rice sent 4 and received 52 emails, totalling 56 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (2), [Steven Kean](people/steven-kean) (2), [Courtney Votaw](people/courtney-votaw) (1).",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/erin-rice",
+    "name": "Erin Rice",
+    "email": "erin.rice@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

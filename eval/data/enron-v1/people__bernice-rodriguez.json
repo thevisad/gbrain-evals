@@ -1,0 +1,14 @@
+{
+  "slug": "people/bernice-rodriguez",
+  "type": "person",
+  "title": "Bernice Rodriguez",
+  "compiled_truth": "Bernice Rodriguez is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-24 to 2002-05-13), Bernice Rodriguez sent 26 and received 791 emails, totalling 817 interactions. Top correspondents: [D  Hare](people/d-hare) (11), [Tana Jones](people/tana-jones) (10), [Cheryl Johnson](people/cheryl-johnson) (8), [Remi Otegbola](people/remi-otegbola) (8), [Syed Ahmed](people/syed-ahmed) (7). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1998-11-24** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bernice-rodriguez",
+    "name": "Bernice Rodriguez",
+    "email": "bernice.rodriguez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

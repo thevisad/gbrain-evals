@@ -1,0 +1,14 @@
+{
+  "slug": "people/marsha-titter",
+  "type": "person",
+  "title": "Marsha Titter",
+  "compiled_truth": "Marsha Titter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-05-21), Marsha Titter sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-05-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marsha-titter",
+    "name": "Marsha Titter",
+    "email": "marsha.titter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-w-eaton-williams",
+  "type": "person",
+  "title": "John W Eaton",
+  "compiled_truth": "John W Eaton is an external contact at [Williams Companies](companies/williams). Over the corpus period (2001-05-11 to 2001-10-24), John W Eaton sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-05-11** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-w-eaton-williams",
+    "name": "John W Eaton",
+    "email": "john.w.eaton@williams.com",
+    "primary_affiliation": "companies/williams"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/reed",
+  "type": "person",
+  "title": "Reed",
+  "compiled_truth": "Reed is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-07 to 2002-01-29), Reed sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-05-07** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/reed",
+    "name": "Reed",
+    "email": "reed@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

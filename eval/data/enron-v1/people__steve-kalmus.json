@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-kalmus",
+  "type": "person",
+  "title": "Steve Kalmus",
+  "compiled_truth": "Steve Kalmus is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-17 to 2002-03-05), Steve Kalmus sent 1 and received 22 emails, totalling 23 interactions. Top correspondents: [Pallavi Goradia](people/pallavi-goradia) (1), [Steve Kleb](people/steve-kleb) (1), [L  Eisenstein](people/l-eisenstein) (1), [Dave Hubbard](people/dave-hubbard) (1), [Vera Jones](people/vera-jones) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2002-03-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-kalmus",
+    "name": "Steve Kalmus",
+    "email": "steve.kalmus@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

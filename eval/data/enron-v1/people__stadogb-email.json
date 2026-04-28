@@ -1,0 +1,14 @@
+{
+  "slug": "people/stadogb-email",
+  "type": "person",
+  "title": "Stadogb",
+  "compiled_truth": "Stadogb is an external contact at [Email](companies/email). Over the corpus period (2000-07-31 to 2001-06-04), Stadogb sent 3 and received 86 emails, totalling 89 interactions. Top correspondents: [Matthew Lenhart](people/matthew-lenhart) (3).",
+  "timeline": "- **2000-07-31** | First recorded email in corpus\n- **2001-06-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stadogb-email",
+    "name": "Stadogb",
+    "email": "stadogb@email.msn.com",
+    "primary_affiliation": "companies/email"
+  }
+}

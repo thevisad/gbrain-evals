@@ -1,0 +1,14 @@
+{
+  "slug": "people/s-bryan",
+  "type": "person",
+  "title": "S  Bryan",
+  "compiled_truth": "S  Bryan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-06 to 2001-12-13), S  Bryan sent 4 and received 57 emails, totalling 61 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (4), [S  Theriot](people/s-theriot) (2), [L  Hall](people/l-hall) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-06-06** | First recorded email in corpus\n- **2001-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/s-bryan",
+    "name": "S  Bryan",
+    "email": "s..bryan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

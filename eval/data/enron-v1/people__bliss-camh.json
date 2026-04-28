@@ -1,0 +1,14 @@
+{
+  "slug": "people/bliss-camh",
+  "type": "person",
+  "title": "Bliss",
+  "compiled_truth": "Bliss is an external contact at [Camh](companies/camh). Over the corpus period (2000-11-07 to 2001-11-19), Bliss sent 6 and received 7 emails, totalling 13 interactions. Top correspondents: [Jshankm](people/jshankm) (6), [Lmorwalls](people/lmorwalls-aol) (6), [Eallen](people/eallen-eagleglobal) (5), [Robert P Palmquist](people/robert-p-palmquist-us) (5), [Ssusman](people/ssusman-susmangodfrey) (5).",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bliss-camh",
+    "name": "Bliss",
+    "email": "bliss@camh.org",
+    "primary_affiliation": "companies/camh"
+  }
+}

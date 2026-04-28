@@ -1,0 +1,14 @@
+{
+  "slug": "people/lisa-robichaux",
+  "type": "person",
+  "title": "Lisa Robichaux",
+  "compiled_truth": "Lisa Robichaux is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-05-06), Lisa Robichaux sent 2 and received 45 emails, totalling 47 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (2), [Robert Vote](people/robert-vote) (2), [Lbroocks](people/lbroocks-ogwb) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lisa-robichaux",
+    "name": "Lisa Robichaux",
+    "email": "lisa.robichaux@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/danny-quint",
+  "type": "person",
+  "title": "Danny Quint",
+  "compiled_truth": "Danny Quint is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2001-12-14), Danny Quint sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/danny-quint",
+    "name": "Danny Quint",
+    "email": "danny.quint@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/adam-umanoff",
+  "type": "person",
+  "title": "Adam Umanoff",
+  "compiled_truth": "Adam Umanoff is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2002-05-14), Adam Umanoff sent 18 and received 64 emails, totalling 82 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (15), [Mark Metts](people/mark-metts) (9), [Eric Newell](people/eric-newell) (3), [Tracy Geaccone](people/tracy-geaccone) (2), [Darrell Orban](people/darrell-orban) (2). Mailbox folders observed: deleted_items, inbox, projects.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2002-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adam-umanoff",
+    "name": "Adam Umanoff",
+    "email": "adam.umanoff@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

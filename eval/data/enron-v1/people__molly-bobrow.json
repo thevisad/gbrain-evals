@@ -1,0 +1,14 @@
+{
+  "slug": "people/molly-bobrow",
+  "type": "person",
+  "title": "Molly Bobrow",
+  "compiled_truth": "Molly Bobrow is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-24 to 2001-01-02), Molly Bobrow sent 0 and received 44 emails, totalling 44 interactions.",
+  "timeline": "- **2000-03-24** | First recorded email in corpus\n- **2001-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/molly-bobrow",
+    "name": "Molly Bobrow",
+    "email": "molly.bobrow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

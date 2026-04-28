@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-john",
+  "type": "person",
+  "title": "Mary John",
+  "compiled_truth": "Mary John is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2001-12-03), Mary John sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-john",
+    "name": "Mary John",
+    "email": "mary.john@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

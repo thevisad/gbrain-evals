@@ -1,0 +1,14 @@
+{
+  "slug": "people/dean-russell",
+  "type": "person",
+  "title": "Dean Russell",
+  "compiled_truth": "Dean Russell is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-08 to 2002-06-18), Dean Russell sent 1 and received 120 emails, totalling 121 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (1), [David Parquet](people/david-parquet) (1).",
+  "timeline": "- **1999-12-08** | First recorded email in corpus\n- **2002-06-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dean-russell",
+    "name": "Dean Russell",
+    "email": "dean.russell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

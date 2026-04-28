@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-curry",
+  "type": "person",
+  "title": "Jim Curry",
+  "compiled_truth": "Jim Curry is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-11-02), Jim Curry sent 2 and received 44 emails, totalling 46 interactions. Top correspondents: [Garrick Hill](people/garrick-hill) (1), [F  Gockerman](people/f-gockerman) (1), [David Marshall](people/david-marshall) (1), [J  Farmer](people/j-farmer) (1), [Jerry Seade](people/jerry-seade) (1). Mailbox folders observed: cleburne_plant____cornhusker_, tw_projects.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-curry",
+    "name": "Jim Curry",
+    "email": "jim.curry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

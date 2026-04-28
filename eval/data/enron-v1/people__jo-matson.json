@@ -1,0 +1,14 @@
+{
+  "slug": "people/jo-matson",
+  "type": "person",
+  "title": "Jo Matson",
+  "compiled_truth": "Jo Matson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-18 to 2001-07-17), Jo Matson sent 1 and received 24 emails, totalling 25 interactions. Top correspondents: [Jeanie Slone](people/jeanie-slone) (1), [Jordan Mintz](people/jordan-mintz) (1), [Jean Mrha](people/jean-mrha) (1), [Michelle Cash](people/michelle-cash) (1), [Kathryn Schultea](people/kathryn-schultea) (1).",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2001-07-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jo-matson",
+    "name": "Jo Matson",
+    "email": "jo.matson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

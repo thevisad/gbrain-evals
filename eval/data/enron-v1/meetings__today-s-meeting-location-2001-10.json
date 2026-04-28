@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/today-s-meeting-location-2001-10",
+  "type": "meeting",
+  "title": "Meeting: Today'S Meeting Location",
+  "compiled_truth": "Meeting: \"Today'S Meeting Location\". Occurred 2001-10-29 through 2001-10-29 with 2 related emails. Participants included: [C  Gossett](people/c-gossett), [D  Winfree](people/d-winfree), [David Baumbach](people/david-baumbach), [Errol Mclaughlin](people/errol-mclaughlin), [Kam Keiser](people/kam-keiser), [Karima Husain](people/karima-husain), [Kristine Best](people/kristine-best), [M  Love](people/m-love)....",
+  "timeline": "- **2001-10-29** | Meeting: today's meeting location\n- **2001-10-29** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/today-s-meeting-location-2001-10",
+    "attendees": [
+      "people/c-gossett",
+      "people/d-winfree",
+      "people/david-baumbach",
+      "people/errol-mclaughlin",
+      "people/kam-keiser",
+      "people/karima-husain",
+      "people/kristine-best",
+      "people/m-love",
+      "people/monica-clay",
+      "people/s-lim"
+    ],
+    "date": "2001-10-29"
+  }
+}

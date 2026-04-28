@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-brown",
+  "type": "person",
+  "title": "Jeff Brown",
+  "compiled_truth": "Jeff Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-24 to 2001-11-29), Jeff Brown sent 23 and received 293 emails, totalling 316 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (16), [Steven Kean](people/steven-kean) (13), [Stanley Horton](people/stanley-horton) (9), [James Steffes](people/james-steffes) (8), [Joe Hartsoe](people/joe-hartsoe) (8). Mailbox folders observed: 2001_objectives, deleted_items.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-brown",
+    "name": "Jeff Brown",
+    "email": "jeff.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

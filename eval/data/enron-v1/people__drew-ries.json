@@ -1,0 +1,14 @@
+{
+  "slug": "people/drew-ries",
+  "type": "person",
+  "title": "Drew Ries",
+  "compiled_truth": "Drew Ries is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-15 to 2002-01-03), Drew Ries sent 13 and received 57 emails, totalling 70 interactions. Top correspondents: [Andy Zipper](people/andy-zipper) (13), [Jay Fitzgerald](people/jay-fitzgerald) (12), [Jay Webb](people/jay-webb) (7), [Louise Kitchen](people/louise-kitchen) (6), [Mark Taylor](people/mark-taylor) (5). Mailbox folders observed: kiodex.",
+  "timeline": "- **2000-03-15** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/drew-ries",
+    "name": "Drew Ries",
+    "email": "drew.ries@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

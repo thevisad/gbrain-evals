@@ -1,0 +1,14 @@
+{
+  "slug": "people/pmartinez-isda",
+  "type": "person",
+  "title": "Pmartinez",
+  "compiled_truth": "Pmartinez is an external contact at [Isda](companies/isda). Over the corpus period (2000-11-29 to 2001-10-17), Pmartinez sent 7 and received 21 emails, totalling 28 interactions. Top correspondents: [Genova Diane](people/genova-diane-jpmorgan) (7), [Rainslie](people/rainslie-isda) (7), [Smarra](people/smarra-isda) (5), [Haedicke Mark](people/haedicke-mark) (5), [Ksumme](people/ksumme-isda) (4).",
+  "timeline": "- **2000-11-29** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pmartinez-isda",
+    "name": "Pmartinez",
+    "email": "pmartinez@isda.org",
+    "primary_affiliation": "companies/isda"
+  }
+}

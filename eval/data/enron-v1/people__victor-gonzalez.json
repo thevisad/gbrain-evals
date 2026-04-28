@@ -1,0 +1,14 @@
+{
+  "slug": "people/victor-gonzalez",
+  "type": "person",
+  "title": "Victor Gonzalez",
+  "compiled_truth": "Victor Gonzalez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2002-06-21), Victor Gonzalez sent 2 and received 28 emails, totalling 30 interactions. Top correspondents: [Richard Ring](people/richard-ring) (2), [Robert Hurt](people/robert-hurt) (1), [Ben Smith](people/ben-smith) (1), [Debra Blake](people/debra-blake) (1), [Whitney Fox](people/whitney-fox) (1). Mailbox folders observed: personalfolder.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/victor-gonzalez",
+    "name": "Victor Gonzalez",
+    "email": "victor.gonzalez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

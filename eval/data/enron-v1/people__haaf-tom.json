@@ -1,0 +1,14 @@
+{
+  "slug": "people/haaf-tom",
+  "type": "person",
+  "title": "Haaf Tom",
+  "compiled_truth": "Haaf Tom is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-26 to 2001-09-26), Haaf Tom sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-26** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/haaf-tom",
+    "name": "Haaf Tom",
+    "email": "haaf.tom@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

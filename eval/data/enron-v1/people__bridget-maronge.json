@@ -1,0 +1,14 @@
+{
+  "slug": "people/bridget-maronge",
+  "type": "person",
+  "title": "Bridget Maronge",
+  "compiled_truth": "Bridget Maronge is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-15 to 2001-11-06), Bridget Maronge sent 2 and received 184 emails, totalling 186 interactions. Top correspondents: [Jeremy Blachman](people/jeremy-blachman) (2), [Raymond Bowen](people/raymond-bowen) (2), [London Brown](people/london-brown) (2), [Rick Buy](people/rick-buy) (2), [Richard Causey](people/richard-causey) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-10-15** | First recorded email in corpus\n- **2001-11-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bridget-maronge",
+    "name": "Bridget Maronge",
+    "email": "bridget.maronge@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

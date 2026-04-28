@@ -1,0 +1,14 @@
+{
+  "slug": "people/terry-maier",
+  "type": "person",
+  "title": "Terry Maier",
+  "compiled_truth": "Terry Maier is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-28 to 2002-02-28), Terry Maier sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-09-28** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terry-maier",
+    "name": "Terry Maier",
+    "email": "terry.maier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

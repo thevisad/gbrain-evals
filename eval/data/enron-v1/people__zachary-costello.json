@@ -1,0 +1,14 @@
+{
+  "slug": "people/zachary-costello",
+  "type": "person",
+  "title": "Zachary Costello",
+  "compiled_truth": "Zachary Costello is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2002-01-03), Zachary Costello sent 2 and received 26 emails, totalling 28 interactions. Top correspondents: [A  Shankman](people/a-shankman) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zachary-costello",
+    "name": "Zachary Costello",
+    "email": "zachary.costello@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

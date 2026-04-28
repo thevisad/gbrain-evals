@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-hyde",
+  "type": "person",
+  "title": "Chris Hyde",
+  "compiled_truth": "Chris Hyde is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-11 to 2002-01-03), Chris Hyde sent 30 and received 102 emails, totalling 132 interactions. Top correspondents: [Matt Smith](people/matt-smith) (25), [Colin Tonks](people/colin-tonks) (16), [Chris Gaskill](people/chris-gaskill) (15), [Tara Piazze](people/tara-piazze) (14), [Eddie Zhang](people/eddie-zhang) (11). Mailbox folders observed: deleted_items, inbox, jay_s_saved_stuff, pipeline_matters.",
+  "timeline": "- **2000-08-11** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-hyde",
+    "name": "Chris Hyde",
+    "email": "chris.hyde@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

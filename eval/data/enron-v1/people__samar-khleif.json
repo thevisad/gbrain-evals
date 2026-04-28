@@ -1,0 +1,14 @@
+{
+  "slug": "people/samar-khleif",
+  "type": "person",
+  "title": "Samar Khleif",
+  "compiled_truth": "Samar Khleif is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-12-03), Samar Khleif sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/samar-khleif",
+    "name": "Samar Khleif",
+    "email": "samar.khleif@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

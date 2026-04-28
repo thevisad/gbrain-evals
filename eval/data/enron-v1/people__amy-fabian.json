@@ -1,0 +1,14 @@
+{
+  "slug": "people/amy-fabian",
+  "type": "person",
+  "title": "Amy Fabian",
+  "compiled_truth": "Amy Fabian is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-23 to 2001-05-24), Amy Fabian sent 8 and received 106 emails, totalling 114 interactions. Top correspondents: [Steven Kean](people/steven-kean) (4), [Mark Taylor](people/mark-taylor) (4), [Chris Long](people/chris-long) (4), [Raislerk](people/raislerk-sullcrom) (3), [Richard Shapiro](people/richard-shapiro) (2).",
+  "timeline": "- **1999-07-23** | First recorded email in corpus\n- **2001-05-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amy-fabian",
+    "name": "Amy Fabian",
+    "email": "amy.fabian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

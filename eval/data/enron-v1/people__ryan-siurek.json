@@ -1,0 +1,14 @@
+{
+  "slug": "people/ryan-siurek",
+  "type": "person",
+  "title": "Ryan Siurek",
+  "compiled_truth": "Ryan Siurek is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2002-01-25), Ryan Siurek sent 7 and received 152 emails, totalling 159 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (7), [Rodney Faldyn](people/rodney-faldyn) (3), [Bob Butts](people/bob-butts) (3), [Mary Cook](people/mary-cook) (1), [Julia Chin](people/julia-chin) (1).",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ryan-siurek",
+    "name": "Ryan Siurek",
+    "email": "ryan.siurek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "threads/info-2001-05",
+  "type": "meeting",
+  "title": "Thread: Info",
+  "compiled_truth": "Email thread: \"Info\". Ran from 2001-05-08 to 2001-06-05 with 12 messages. Participants: [Bbailey](people/bbailey-duke-energy), [Dick Jenkins](people/dick-jenkins), [James Steffes](people/james-steffes), [Janel Guerrero](people/janel-guerrero), [Jeff Dasovich](people/jeff-dasovich), [Jennifer Thome](people/jennifer-thome), [Karen Denne](people/karen-denne), [Lisa Gillette](people/lisa-gillette).",
+  "timeline": "- **2001-05-08** | Thread begins: info\n- **2001-06-05** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/info-2001-05",
+    "attendees": [
+      "people/bbailey-duke-energy",
+      "people/dick-jenkins",
+      "people/james-steffes",
+      "people/janel-guerrero",
+      "people/jeff-dasovich",
+      "people/jennifer-thome",
+      "people/karen-denne",
+      "people/lisa-gillette",
+      "people/m-scott",
+      "people/scott-neal",
+      "people/skean"
+    ],
+    "date": "2001-05-08"
+  }
+}

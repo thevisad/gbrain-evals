@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristiwallis-sprintmail",
+  "type": "person",
+  "title": "Kristiwallis",
+  "compiled_truth": "Kristiwallis is an external contact at [Sprintmail](companies/sprintmail). Over the corpus period (2000-06-23 to 2001-05-02), Kristiwallis sent 6 and received 23 emails, totalling 29 interactions. Top correspondents: [Deb](people/deb-aelaw) (6), [Wclark](people/wclark-avistacorp) (6), [Pfeldberg](people/pfeldberg-lawsonlundell) (6), [Briang](people/briang-gdsassoc) (6), [Cfi1](people/cfi1-tca-us) (6).",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-05-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristiwallis-sprintmail",
+    "name": "Kristiwallis",
+    "email": "kristiwallis@sprintmail.com",
+    "primary_affiliation": "companies/sprintmail"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristi-monson",
+  "type": "person",
+  "title": "Kristi Monson",
+  "compiled_truth": "Kristi Monson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-27 to 2001-10-24), Kristi Monson sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2001-04-27** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristi-monson",
+    "name": "Kristi Monson",
+    "email": "kristi.monson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

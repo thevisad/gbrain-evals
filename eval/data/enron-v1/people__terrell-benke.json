@@ -1,0 +1,14 @@
+{
+  "slug": "people/terrell-benke",
+  "type": "person",
+  "title": "Terrell Benke",
+  "compiled_truth": "Terrell Benke is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-21 to 2001-11-28), Terrell Benke sent 2 and received 34 emails, totalling 36 interactions. Top correspondents: [Clint Dean](people/clint-dean) (1), [Rahul Seksaria](people/rahul-seksaria) (1), [M  Forney](people/m-forney) (1), [Doug Gilbert-Smith](people/doug-gilbert-smith) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-08-21** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terrell-benke",
+    "name": "Terrell Benke",
+    "email": "terrell.benke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

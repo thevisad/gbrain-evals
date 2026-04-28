@@ -1,0 +1,14 @@
+{
+  "slug": "people/hamilton-me3",
+  "type": "person",
+  "title": "Hamilton",
+  "compiled_truth": "Hamilton is an external contact at [Me3](companies/me3). Over the corpus period (2001-07-25 to 2001-07-25), Hamilton sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-25** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hamilton-me3",
+    "name": "Hamilton",
+    "email": "hamilton@me3.org",
+    "primary_affiliation": "companies/me3"
+  }
+}

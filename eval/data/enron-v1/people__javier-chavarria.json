@@ -1,0 +1,14 @@
+{
+  "slug": "people/javier-chavarria",
+  "type": "person",
+  "title": "Javier Chavarria",
+  "compiled_truth": "Javier Chavarria is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-27 to 2001-12-03), Javier Chavarria sent 6 and received 85 emails, totalling 91 interactions. Top correspondents: [Paul Y'Barbo](people/paul-y-barbo) (4), [Greg Curran](people/greg-curran) (4), [Miguel Maltes](people/miguel-maltes) (3), [Susan Fallon](people/susan-fallon) (2), [Jeff Donahue](people/jeff-donahue) (2). Mailbox folders observed: deleted_items, inbox, procaribe.",
+  "timeline": "- **2000-11-27** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/javier-chavarria",
+    "name": "Javier Chavarria",
+    "email": "javier.chavarria@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

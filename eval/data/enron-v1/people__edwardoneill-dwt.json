@@ -1,0 +1,14 @@
+{
+  "slug": "people/edwardoneill-dwt",
+  "type": "person",
+  "title": "Edwardoneill",
+  "compiled_truth": "Edwardoneill is an external contact at [Dwt](companies/dwt). Over the corpus period (2000-11-28 to 2001-11-03), Edwardoneill sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **2000-11-28** | First recorded email in corpus\n- **2001-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edwardoneill-dwt",
+    "name": "Edwardoneill",
+    "email": "edwardoneill@dwt.com",
+    "primary_affiliation": "companies/dwt"
+  }
+}

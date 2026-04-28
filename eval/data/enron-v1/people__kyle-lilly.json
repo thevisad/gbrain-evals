@@ -1,0 +1,14 @@
+{
+  "slug": "people/kyle-lilly",
+  "type": "person",
+  "title": "Kyle Lilly",
+  "compiled_truth": "Kyle Lilly is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-13 to 2001-06-11), Kyle Lilly sent 3 and received 256 emails, totalling 259 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (2), [Daren Farmer](people/daren-farmer) (1), [Lisa Csikos](people/lisa-csikos) (1), [James Ducote](people/james-ducote) (1), [Janet Wallis](people/janet-wallis) (1).",
+  "timeline": "- **1999-07-13** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kyle-lilly",
+    "name": "Kyle Lilly",
+    "email": "kyle.lilly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

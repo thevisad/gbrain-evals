@@ -1,0 +1,14 @@
+{
+  "slug": "people/donald-doerr",
+  "type": "person",
+  "title": "Donald Doerr",
+  "compiled_truth": "Donald Doerr is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-03 to 2002-02-28), Donald Doerr sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-03** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donald-doerr",
+    "name": "Donald Doerr",
+    "email": "donald.doerr@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/josie-call",
+  "type": "person",
+  "title": "Josie Call",
+  "compiled_truth": "Josie Call is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-15 to 2002-02-07), Josie Call sent 5 and received 84 emails, totalling 89 interactions. Top correspondents: [Nancy Bagot](people/nancy-bagot) (3), [Mike Barry](people/mike-barry) (3), [Joni Bollinger](people/joni-bollinger) (3), [Mike Bonnstetter](people/mike-bonnstetter) (3), [Janet Bowers](people/janet-bowers) (3). Mailbox folders observed: deleted_items, enron_t_s, tw.",
+  "timeline": "- **2000-06-15** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/josie-call",
+    "name": "Josie Call",
+    "email": "josie.call@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

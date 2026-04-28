@@ -1,0 +1,14 @@
+{
+  "slug": "people/asbcoast-aol",
+  "type": "person",
+  "title": "Asbcoast",
+  "compiled_truth": "Asbcoast is an external contact at [AOL](companies/aol). Over the corpus period (2000-11-11 to 2000-11-11), Asbcoast sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/asbcoast-aol",
+    "name": "Asbcoast",
+    "email": "asbcoast@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

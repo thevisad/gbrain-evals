@@ -1,0 +1,14 @@
+{
+  "slug": "people/craig-fox",
+  "type": "person",
+  "title": "Craig Fox",
+  "compiled_truth": "Craig Fox is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-27 to 2001-06-18), Craig Fox sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-06-27** | First recorded email in corpus\n- **2001-06-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/craig-fox",
+    "name": "Craig Fox",
+    "email": "craig.fox@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/enron-eott",
+  "type": "person",
+  "title": "Enron",
+  "compiled_truth": "Enron is an external contact at [Eott](companies/eott). Over the corpus period (2000-01-20 to 2001-05-10), Enron sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-01-20** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/enron-eott",
+    "name": "Enron",
+    "email": "enron@eott.com",
+    "primary_affiliation": "companies/eott"
+  }
+}

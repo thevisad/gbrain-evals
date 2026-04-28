@@ -1,0 +1,14 @@
+{
+  "slug": "people/ryan-hinze",
+  "type": "person",
+  "title": "Ryan Hinze",
+  "compiled_truth": "Ryan Hinze is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-07 to 2001-11-08), Ryan Hinze sent 2 and received 65 emails, totalling 67 interactions. Top correspondents: [Trevor Woods](people/trevor-woods) (2), [E Taylor](people/e-taylor) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-03-07** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ryan-hinze",
+    "name": "Ryan Hinze",
+    "email": "ryan.hinze@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

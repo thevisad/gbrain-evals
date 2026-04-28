@@ -1,0 +1,14 @@
+{
+  "slug": "people/monique-sanchez",
+  "type": "person",
+  "title": "Monique Sanchez",
+  "compiled_truth": "Monique Sanchez is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-11-19), Monique Sanchez sent 119 and received 456 emails, totalling 575 interactions. Top correspondents: [Jmenconi](people/jmenconi-adv-eng-ser-inc) (37), [Mike Grigsby](people/mike-grigsby) (12), [Susan Scott](people/susan-scott) (11), [Ksanchez](people/ksanchez-houstonisd) (9), [Joseph F Reid](people/joseph-f-reid-accenture) (7). Mailbox folders observed: fin_desk, inbox, janie, sent_items.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/monique-sanchez",
+    "name": "Monique Sanchez",
+    "email": "monique.sanchez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

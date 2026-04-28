@@ -1,0 +1,14 @@
+{
+  "slug": "people/cliff-baxter",
+  "type": "person",
+  "title": "Cliff Baxter",
+  "compiled_truth": "Cliff Baxter is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2002-01-24), Cliff Baxter sent 0 and received 381 emails, totalling 381 interactions.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cliff-baxter",
+    "name": "Cliff Baxter",
+    "email": "cliff.baxter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

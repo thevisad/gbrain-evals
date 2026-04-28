@@ -1,0 +1,14 @@
+{
+  "slug": "people/virendra-patel",
+  "type": "person",
+  "title": "Virendra Patel",
+  "compiled_truth": "Virendra Patel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-06 to 2002-02-06), Virendra Patel sent 2 and received 40 emails, totalling 42 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (2), [Ganapathy Ramesh](people/ganapathy-ramesh) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-04-06** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/virendra-patel",
+    "name": "Virendra Patel",
+    "email": "virendra.patel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

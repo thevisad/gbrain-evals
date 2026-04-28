@@ -1,0 +1,14 @@
+{
+  "slug": "people/wordoftheday-lists",
+  "type": "person",
+  "title": "Wordoftheday",
+  "compiled_truth": "Wordoftheday is an external contact at [Lists](companies/lists). Over the corpus period (2001-10-12 to 2002-04-10), Wordoftheday sent 0 and received 75 emails, totalling 75 interactions.",
+  "timeline": "- **2001-10-12** | First recorded email in corpus\n- **2002-04-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wordoftheday-lists",
+    "name": "Wordoftheday",
+    "email": "wordoftheday@lists.lexico.com",
+    "primary_affiliation": "companies/lists"
+  }
+}

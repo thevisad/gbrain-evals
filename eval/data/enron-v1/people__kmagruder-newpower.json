@@ -1,0 +1,14 @@
+{
+  "slug": "people/kmagruder-newpower",
+  "type": "person",
+  "title": "Kmagruder",
+  "compiled_truth": "Kmagruder is an external contact at [Newpower](companies/newpower). Over the corpus period (1980-01-01 to 2001-07-31), Kmagruder sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kmagruder-newpower",
+    "name": "Kmagruder",
+    "email": "kmagruder@newpower.com",
+    "primary_affiliation": "companies/newpower"
+  }
+}

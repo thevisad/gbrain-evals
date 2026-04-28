@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-johnson",
+  "type": "person",
+  "title": "Jeff Johnson",
+  "compiled_truth": "Jeff Johnson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-10 to 2002-02-07), Jeff Johnson sent 15 and received 119 emails, totalling 134 interactions. Top correspondents: [Beth Perlman](people/beth-perlman) (11), [Sally Beck](people/sally-beck) (10), [Leslie Reeves](people/leslie-reeves) (5), [Sheila Glover](people/sheila-glover) (5), [Chris Schomer](people/chris-schomer) (5). Mailbox folders observed: calendar, deleted_items, inbox, unify.",
+  "timeline": "- **2000-05-10** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-johnson",
+    "name": "Jeff Johnson",
+    "email": "jeff.johnson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

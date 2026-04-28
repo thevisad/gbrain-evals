@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-cutler",
+  "type": "person",
+  "title": "Karen Cutler",
+  "compiled_truth": "Karen Cutler is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-05 to 2001-10-26), Karen Cutler sent 7 and received 4 emails, totalling 11 interactions. Top correspondents: [Executive Committee](people/executive-committee) (2), [Operating Committee](people/operating-committee) (2), [Deal Leads](people/deal-leads) (2), [Dash](people/dash) (2), [Cc Ticket](people/cc-ticket) (2). Mailbox folders observed: deleted_items, ees_mgmt.",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-cutler",
+    "name": "Karen Cutler",
+    "email": "karen.cutler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

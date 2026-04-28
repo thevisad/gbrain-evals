@@ -1,0 +1,14 @@
+{
+  "slug": "people/rpelote-energy",
+  "type": "person",
+  "title": "Rpelote",
+  "compiled_truth": "Rpelote is an external contact at [Energy](companies/energy). Over the corpus period (1999-09-24 to 2001-01-26), Rpelote sent 0 and received 191 emails, totalling 191 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-01-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rpelote-energy",
+    "name": "Rpelote",
+    "email": "rpelote@energy.twc.com",
+    "primary_affiliation": "companies/energy"
+  }
+}

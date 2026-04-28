@@ -1,0 +1,14 @@
+{
+  "slug": "people/kay-muenster-williams",
+  "type": "person",
+  "title": "Kay Muenster",
+  "compiled_truth": "Kay Muenster is an external contact at [Williams Companies](companies/williams). Over the corpus period (2001-05-11 to 2001-10-24), Kay Muenster sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-05-11** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kay-muenster-williams",
+    "name": "Kay Muenster",
+    "email": "kay.muenster@williams.com",
+    "primary_affiliation": "companies/williams"
+  }
+}

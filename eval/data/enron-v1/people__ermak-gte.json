@@ -1,0 +1,14 @@
+{
+  "slug": "people/ermak-gte",
+  "type": "person",
+  "title": "Ermak",
+  "compiled_truth": "Ermak is an external contact at [Gte](companies/gte). Over the corpus period (1999-02-14 to 2000-12-23), Ermak sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **1999-02-14** | First recorded email in corpus\n- **2000-12-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ermak-gte",
+    "name": "Ermak",
+    "email": "ermak@gte.net",
+    "primary_affiliation": "companies/gte"
+  }
+}

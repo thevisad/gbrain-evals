@@ -1,0 +1,14 @@
+{
+  "slug": "people/joanne-head-granherne",
+  "type": "person",
+  "title": "Joanne Head",
+  "compiled_truth": "Joanne Head is an external contact at [Granherne](companies/granherne). Over the corpus period (2000-06-20 to 2000-11-25), Joanne Head sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joanne-head-granherne",
+    "name": "Joanne Head",
+    "email": "joanne.head@granherne.com",
+    "primary_affiliation": "companies/granherne"
+  }
+}

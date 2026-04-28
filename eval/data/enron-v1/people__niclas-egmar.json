@@ -1,0 +1,14 @@
+{
+  "slug": "people/niclas-egmar",
+  "type": "person",
+  "title": "Niclas Egmar",
+  "compiled_truth": "Niclas Egmar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-26), Niclas Egmar sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/niclas-egmar",
+    "name": "Niclas Egmar",
+    "email": "niclas.egmar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kellyl-enxco",
+  "type": "person",
+  "title": "Kellyl",
+  "compiled_truth": "Kellyl is an external contact at [Enxco](companies/enxco). Over the corpus period (2001-01-16 to 2001-07-31), Kellyl sent 0 and received 114 emails, totalling 114 interactions.",
+  "timeline": "- **2001-01-16** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kellyl-enxco",
+    "name": "Kellyl",
+    "email": "kellyl@enxco.com",
+    "primary_affiliation": "companies/enxco"
+  }
+}

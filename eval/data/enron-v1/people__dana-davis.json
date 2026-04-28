@@ -1,0 +1,14 @@
+{
+  "slug": "people/dana-davis",
+  "type": "person",
+  "title": "Dana Davis",
+  "compiled_truth": "Dana Davis is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-04-30), Dana Davis sent 545 and received 1424 emails, totalling 1969 interactions. Top correspondents: [Kdavis2075](people/kdavis2075-aol) (68), [Marnie Lamb](people/marnie-lamb) (48), [Bjackson](people/bjackson-sswpc) (42), [Tammy Barta](people/tammy-barta) (38), [Brian Schwertner](people/brian-schwertner) (37). Mailbox folders observed: 2_trash, _sent_mail, deleted_items, inbox, personal, save_the_date.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dana-davis",
+    "name": "Dana Davis",
+    "email": "dana.davis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

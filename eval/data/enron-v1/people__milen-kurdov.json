@@ -1,0 +1,14 @@
+{
+  "slug": "people/milen-kurdov",
+  "type": "person",
+  "title": "Milen Kurdov",
+  "compiled_truth": "Milen Kurdov is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-10 to 2001-12-03), Milen Kurdov sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2001-07-10** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/milen-kurdov",
+    "name": "Milen Kurdov",
+    "email": "milen.kurdov@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jji-avistaenergy",
+  "type": "person",
+  "title": "Jji",
+  "compiled_truth": "Jji is an external contact at [Avistaenergy](companies/avistaenergy). Over the corpus period (2000-11-10 to 2001-03-16), Jji sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jji-avistaenergy",
+    "name": "Jji",
+    "email": "jji@avistaenergy.com",
+    "primary_affiliation": "companies/avistaenergy"
+  }
+}

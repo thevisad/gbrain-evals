@@ -1,0 +1,14 @@
+{
+  "slug": "people/barbara-bischoff",
+  "type": "person",
+  "title": "Barbara Bischoff",
+  "compiled_truth": "Barbara Bischoff is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-26 to 2002-01-09), Barbara Bischoff sent 2 and received 18 emails, totalling 20 interactions. Top correspondents: [Susan Scott](people/susan-scott) (2), [Rita Bianchi](people/rita-bianchi) (1), [Bbischo](people/bbischo) (1), [Naomi Bourg](people/naomi-bourg) (1), [Josie Call](people/josie-call) (1). Mailbox folders observed: discussion_threads.",
+  "timeline": "- **2000-07-26** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barbara-bischoff",
+    "name": "Barbara Bischoff",
+    "email": "barbara.bischoff@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

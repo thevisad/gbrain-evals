@@ -1,0 +1,14 @@
+{
+  "slug": "people/barryp-bp",
+  "type": "person",
+  "title": "Barryp",
+  "compiled_truth": "Barryp is an external contact at [Bp](companies/bp). Over the corpus period (2000-08-22 to 2002-02-05), Barryp sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2002-02-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barryp-bp",
+    "name": "Barryp",
+    "email": "barryp@bp.com",
+    "primary_affiliation": "companies/bp"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/amy-quirsfeld",
+  "type": "person",
+  "title": "Amy Quirsfeld",
+  "compiled_truth": "Amy Quirsfeld is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-15 to 2002-04-20), Amy Quirsfeld sent 5 and received 26 emails, totalling 31 interactions. Top correspondents: [Dana Davis](people/dana-davis) (5), [Angelic Davis](people/angelic-davis) (1), [Tammy Barta](people/tammy-barta) (1), [Lisa Kang](people/lisa-kang) (1), [Rufino Doroteo](people/rufino-doroteo) (1). Mailbox folders observed: deleted_items, inbox, vargas_becton_lamb.",
+  "timeline": "- **2001-06-15** | First recorded email in corpus\n- **2002-04-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amy-quirsfeld",
+    "name": "Amy Quirsfeld",
+    "email": "amy.quirsfeld@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

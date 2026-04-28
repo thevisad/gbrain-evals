@@ -1,0 +1,14 @@
+{
+  "slug": "people/christopher-czuppon",
+  "type": "person",
+  "title": "Christopher Czuppon",
+  "compiled_truth": "Christopher Czuppon is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-27 to 2001-11-08), Christopher Czuppon sent 2 and received 19 emails, totalling 21 interactions. Top correspondents: [Don Baughman](people/don-baughman) (1), [Barry Tycholiz](people/barry-tycholiz) (1). Mailbox folders observed: inbox, power.",
+  "timeline": "- **2001-06-27** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christopher-czuppon",
+    "name": "Christopher Czuppon",
+    "email": "christopher.czuppon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

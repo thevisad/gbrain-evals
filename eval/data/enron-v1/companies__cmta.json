@@ -1,0 +1,24 @@
+{
+  "slug": "companies/cmta",
+  "type": "company",
+  "title": "Cmta",
+  "compiled_truth": "Cmta is an external organization that appears in the Enron email corpus. Domain: cmta.com. Total email interactions with Enron: 377. Known contacts: 7 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (377 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/cmta",
+    "name": "Cmta",
+    "employees": [
+      "people/ccoke-cmta",
+      "people/drothrock-cmta",
+      "people/dspeelmon-cmta",
+      "people/groyer-cmta",
+      "people/jstewart-cmta",
+      "people/lmacktal-cmta",
+      "people/pross-cmta"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/thackbarth-govadv",
+  "type": "person",
+  "title": "Thackbarth",
+  "compiled_truth": "Thackbarth is an external contact at [Govadv](companies/govadv). Over the corpus period (2000-11-21 to 2001-05-10), Thackbarth sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-11-21** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/thackbarth-govadv",
+    "name": "Thackbarth",
+    "email": "thackbarth@govadv.com",
+    "primary_affiliation": "companies/govadv"
+  }
+}

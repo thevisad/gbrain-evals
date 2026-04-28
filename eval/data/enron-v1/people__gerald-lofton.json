@@ -1,0 +1,14 @@
+{
+  "slug": "people/gerald-lofton",
+  "type": "person",
+  "title": "Gerald Lofton",
+  "compiled_truth": "Gerald Lofton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-07-16), Gerald Lofton sent 1 and received 101 emails, totalling 102 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (1).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gerald-lofton",
+    "name": "Gerald Lofton",
+    "email": "gerald.lofton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

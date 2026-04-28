@@ -1,0 +1,14 @@
+{
+  "slug": "people/mcmahon-scmv",
+  "type": "person",
+  "title": "Mcmahon",
+  "compiled_truth": "Mcmahon is an external contact at [Scmv](companies/scmv). Over the corpus period (2001-01-11 to 2001-06-07), Mcmahon sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2001-01-11** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mcmahon-scmv",
+    "name": "Mcmahon",
+    "email": "mcmahon@scmv.com",
+    "primary_affiliation": "companies/scmv"
+  }
+}

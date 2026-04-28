@@ -1,0 +1,14 @@
+{
+  "slug": "people/ias-dvclaw",
+  "type": "person",
+  "title": "Ias",
+  "compiled_truth": "Ias is an external contact at [Dvclaw](companies/dvclaw). Over the corpus period (2001-02-20 to 2001-04-27), Ias sent 0 and received 67 emails, totalling 67 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ias-dvclaw",
+    "name": "Ias",
+    "email": "ias@dvclaw.com",
+    "primary_affiliation": "companies/dvclaw"
+  }
+}

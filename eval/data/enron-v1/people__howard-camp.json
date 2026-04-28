@@ -1,0 +1,14 @@
+{
+  "slug": "people/howard-camp",
+  "type": "person",
+  "title": "Howard Camp",
+  "compiled_truth": "Howard Camp is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-06-12), Howard Camp sent 11 and received 211 emails, totalling 222 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (10), [Rita Wynne](people/rita-wynne) (7), [Clem Cernosek](people/clem-cernosek) (5), [Ami Chokshi](people/ami-chokshi) (4), [Jackie Young](people/jackie-young) (4).",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/howard-camp",
+    "name": "Howard Camp",
+    "email": "howard.camp@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-smith",
+  "type": "person",
+  "title": "Gary Smith",
+  "compiled_truth": "Gary Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-25 to 2002-05-06), Gary Smith sent 18 and received 164 emails, totalling 182 interactions. Top correspondents: [Cindy Olson](people/cindy-olson) (6), [Stanley Horton](people/stanley-horton) (6), [David Oxley](people/david-oxley) (6), [Danny Mccarty](people/danny-mccarty) (5), [Rod Hayslett](people/rod-hayslett) (5). Mailbox folders observed: deleted_items, inbox, prc, projects.",
+  "timeline": "- **2000-04-25** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-smith",
+    "name": "Gary Smith",
+    "email": "gary.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

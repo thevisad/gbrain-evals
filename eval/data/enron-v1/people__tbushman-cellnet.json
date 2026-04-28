@@ -1,0 +1,14 @@
+{
+  "slug": "people/tbushman-cellnet",
+  "type": "person",
+  "title": "Tbushman",
+  "compiled_truth": "Tbushman is an external contact at [Cellnet](companies/cellnet). Over the corpus period (1999-09-24 to 2001-01-26), Tbushman sent 0 and received 43 emails, totalling 43 interactions.",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-01-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tbushman-cellnet",
+    "name": "Tbushman",
+    "email": "tbushman@cellnet.com",
+    "primary_affiliation": "companies/cellnet"
+  }
+}

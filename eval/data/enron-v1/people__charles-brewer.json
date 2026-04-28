@@ -1,0 +1,14 @@
+{
+  "slug": "people/charles-brewer",
+  "type": "person",
+  "title": "Charles Brewer",
+  "compiled_truth": "Charles Brewer is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-11 to 2002-02-07), Charles Brewer sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **2001-07-11** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charles-brewer",
+    "name": "Charles Brewer",
+    "email": "charles.brewer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

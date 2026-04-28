@@ -1,0 +1,14 @@
+{
+  "slug": "people/william-keeney",
+  "type": "person",
+  "title": "William Keeney",
+  "compiled_truth": "William Keeney is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-24 to 2001-07-28), William Keeney sent 8 and received 66 emails, totalling 74 interactions. Top correspondents: [Kay Mann](people/kay-mann) (6), [Tom May](people/tom-may) (5), [David Marks](people/david-marks) (5), [Janelle Scheuer](people/janelle-scheuer) (5), [Michelle Cash](people/michelle-cash) (1). Mailbox folders observed: _americas, policy_manual_and_united_way.",
+  "timeline": "- **2000-01-24** | First recorded email in corpus\n- **2001-07-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/william-keeney",
+    "name": "William Keeney",
+    "email": "william.keeney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

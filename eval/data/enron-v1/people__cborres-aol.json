@@ -1,0 +1,14 @@
+{
+  "slug": "people/cborres-aol",
+  "type": "person",
+  "title": "Cborres",
+  "compiled_truth": "Cborres is an external contact at [AOL](companies/aol). Over the corpus period (2000-05-21 to 2001-04-24), Cborres sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2001-04-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cborres-aol",
+    "name": "Cborres",
+    "email": "cborres@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

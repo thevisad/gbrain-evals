@@ -1,0 +1,14 @@
+{
+  "slug": "people/schindlg-phibro",
+  "type": "person",
+  "title": "Schindlg",
+  "compiled_truth": "Schindlg is an external contact at [Phibro](companies/phibro). Over the corpus period (1999-12-08 to 2001-04-17), Schindlg sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **1999-12-08** | First recorded email in corpus\n- **2001-04-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/schindlg-phibro",
+    "name": "Schindlg",
+    "email": "schindlg@phibro.com",
+    "primary_affiliation": "companies/phibro"
+  }
+}

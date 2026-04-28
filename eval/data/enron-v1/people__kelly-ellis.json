@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-ellis",
+  "type": "person",
+  "title": "Kelly Ellis",
+  "compiled_truth": "Kelly Ellis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2002-02-13), Kelly Ellis sent 3 and received 25 emails, totalling 28 interactions. Top correspondents: [A  Garcia](people/a-garcia) (1), [Dana Davis](people/dana-davis) (1), [Nicole Mendez](people/nicole-mendez) (1), [Louise Kitchen](people/louise-kitchen) (1), [Georgeanne Hodges](people/georgeanne-hodges) (1). Mailbox folders observed: _americas, deleted_items.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-ellis",
+    "name": "Kelly Ellis",
+    "email": "kelly.ellis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

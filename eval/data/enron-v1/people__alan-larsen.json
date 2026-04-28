@@ -1,0 +1,14 @@
+{
+  "slug": "people/alan-larsen",
+  "type": "person",
+  "title": "Alan Larsen",
+  "compiled_truth": "Alan Larsen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2001-03-28), Alan Larsen sent 9 and received 145 emails, totalling 154 interactions. Top correspondents: [Sheila Tweed](people/sheila-tweed) (9), [Kay Mann](people/kay-mann) (6), [Karen Jones](people/karen-jones) (4), [Mark Haedicke](people/mark-haedicke) (3), [Jeff Slaughter](people/jeff-slaughter) (2).",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2001-03-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alan-larsen",
+    "name": "Alan Larsen",
+    "email": "alan.larsen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

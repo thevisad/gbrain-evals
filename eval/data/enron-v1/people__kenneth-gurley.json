@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenneth-gurley",
+  "type": "person",
+  "title": "Kenneth Gurley",
+  "compiled_truth": "Kenneth Gurley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-13 to 2000-10-09), Kenneth Gurley sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-04-13** | First recorded email in corpus\n- **2000-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenneth-gurley",
+    "name": "Kenneth Gurley",
+    "email": "kenneth.gurley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

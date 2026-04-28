@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-waidelich",
+  "type": "person",
+  "title": "George Waidelich",
+  "compiled_truth": "George Waidelich is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-14 to 2001-11-26), George Waidelich sent 6 and received 42 emails, totalling 48 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (4), [Eric Letke](people/eric-letke) (2), [Douglas Condon](people/douglas-condon) (2), [Greg Cordell](people/greg-cordell) (2), [Dennis Benevides](people/dennis-benevides) (2). Mailbox folders observed: california_issues, inbox.",
+  "timeline": "- **2000-08-14** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-waidelich",
+    "name": "George Waidelich",
+    "email": "george.waidelich@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

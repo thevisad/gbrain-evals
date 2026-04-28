@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-edda-yahoo",
+  "type": "person",
+  "title": "Jim Edda",
+  "compiled_truth": "Jim Edda is an external contact at [Yahoo](companies/yahoo). Over the corpus period (2000-05-21 to 2000-11-25), Jim Edda sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-edda-yahoo",
+    "name": "Jim Edda",
+    "email": "jim_edda@yahoo.com",
+    "primary_affiliation": "companies/yahoo"
+  }
+}

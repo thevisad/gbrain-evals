@@ -1,0 +1,14 @@
+{
+  "slug": "people/millertr-bp",
+  "type": "person",
+  "title": "Millertr",
+  "compiled_truth": "Millertr is an external contact at [Bp](companies/bp). Over the corpus period (2000-10-30 to 2001-11-05), Millertr sent 3 and received 5 emails, totalling 8 interactions. Top correspondents: [Andy Zipper](people/andy-zipper) (2), [Plucci](people/plucci) (1), [ Miller](people/miller) (1), [ Parthenon](people/parthenon) (1), [ Bruce](people/bruce) (1).",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2001-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/millertr-bp",
+    "name": "Millertr",
+    "email": "millertr@bp.com",
+    "primary_affiliation": "companies/bp"
+  }
+}

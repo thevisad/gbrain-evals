@@ -1,0 +1,19 @@
+{
+  "slug": "companies/wordsmith",
+  "type": "company",
+  "title": "Wordsmith",
+  "compiled_truth": "Wordsmith is an external organization that appears in the Enron email corpus. Domain: wordsmith.com. Total email interactions with Enron: 532. Known contacts: 2 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (532 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/wordsmith",
+    "name": "Wordsmith",
+    "employees": [
+      "people/linguaphile-wordsmith",
+      "people/wsmith-wordsmith"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

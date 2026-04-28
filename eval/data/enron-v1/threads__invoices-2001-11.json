@@ -1,0 +1,29 @@
+{
+  "slug": "threads/invoices-2001-11",
+  "type": "meeting",
+  "title": "Thread: Invoices",
+  "compiled_truth": "Email thread: \"Invoices\". Ran from 2001-11-27 to 2001-12-26 with 18 messages. Participants: [A  Garcia](people/a-garcia), [Alice Wright](people/alice-wright), [Barry Tycholiz](people/barry-tycholiz), [Ben Jacoby](people/ben-jacoby), [Carolyn George](people/carolyn-george), [K Johnson](people/k-johnson), [Kay Mann](people/kay-mann), [Mark Whitt](people/mark-whitt).",
+  "timeline": "- **2001-11-27** | Thread begins: invoices\n- **2001-12-26** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/invoices-2001-11",
+    "attendees": [
+      "people/a-garcia",
+      "people/alice-wright",
+      "people/barry-tycholiz",
+      "people/ben-jacoby",
+      "people/carolyn-george",
+      "people/k-johnson",
+      "people/kay-mann",
+      "people/mark-whitt",
+      "people/parellan-co",
+      "people/richard-ring",
+      "people/rring",
+      "people/susan-helton",
+      "people/suzanne-adams",
+      "people/theresa-staab",
+      "people/tonya-dennis"
+    ],
+    "date": "2001-11-27"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/toko-eaccess",
+  "type": "person",
+  "title": "Toko",
+  "compiled_truth": "Toko is an external contact at [Eaccess](companies/eaccess). Over the corpus period (2000-10-05 to 2000-10-05), Toko sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-05** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/toko-eaccess",
+    "name": "Toko",
+    "email": "toko@eaccess.net",
+    "primary_affiliation": "companies/eaccess"
+  }
+}

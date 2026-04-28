@@ -1,0 +1,14 @@
+{
+  "slug": "people/w-lewis",
+  "type": "person",
+  "title": "W  Lewis",
+  "compiled_truth": "W  Lewis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-16 to 2002-03-29), W  Lewis sent 1 and received 15 emails, totalling 16 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-11-16** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/w-lewis",
+    "name": "W  Lewis",
+    "email": "w..lewis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

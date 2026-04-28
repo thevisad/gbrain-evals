@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-a-hughes",
+  "type": "person",
+  "title": "James A Hughes",
+  "compiled_truth": "James A Hughes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2000-11-10), James A Hughes sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2000-11-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-a-hughes",
+    "name": "James A Hughes",
+    "email": "james.a.hughes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

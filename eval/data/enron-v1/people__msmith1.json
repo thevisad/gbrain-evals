@@ -1,0 +1,14 @@
+{
+  "slug": "people/msmith1",
+  "type": "person",
+  "title": "Msmith1",
+  "compiled_truth": "Msmith1 is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-07-27), Msmith1 sent 0 and received 201 emails, totalling 201 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-07-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/msmith1",
+    "name": "Msmith1",
+    "email": "msmith1@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

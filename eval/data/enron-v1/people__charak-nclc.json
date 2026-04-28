@@ -1,0 +1,14 @@
+{
+  "slug": "people/charak-nclc",
+  "type": "person",
+  "title": "Charak",
+  "compiled_truth": "Charak is an external contact at [Nclc](companies/nclc). Over the corpus period (2001-10-18 to 2001-10-18), Charak sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charak-nclc",
+    "name": "Charak",
+    "email": "charak@nclc.org",
+    "primary_affiliation": "companies/nclc"
+  }
+}

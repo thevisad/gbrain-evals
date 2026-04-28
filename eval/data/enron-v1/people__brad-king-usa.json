@@ -1,0 +1,14 @@
+{
+  "slug": "people/brad-king-usa",
+  "type": "person",
+  "title": "Brad King",
+  "compiled_truth": "Brad King is an external contact at [Usa](companies/usa). Over the corpus period (2000-10-30 to 2001-07-31), Brad King sent 2 and received 30 emails, totalling 32 interactions. Top correspondents: [Kim Ward](people/kim-ward) (2).",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brad-king-usa",
+    "name": "Brad King",
+    "email": "brad.king@usa.conoco.com",
+    "primary_affiliation": "companies/usa"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/alisa-petteway",
+  "type": "person",
+  "title": "Alisa Petteway",
+  "compiled_truth": "Alisa Petteway is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-08 to 2001-12-03), Alisa Petteway sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-12-08** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alisa-petteway",
+    "name": "Alisa Petteway",
+    "email": "alisa.petteway@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

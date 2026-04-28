@@ -1,0 +1,14 @@
+{
+  "slug": "people/ian-cooke",
+  "type": "person",
+  "title": "Ian Cooke",
+  "compiled_truth": "Ian Cooke is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-07 to 2002-02-06), Ian Cooke sent 8 and received 65 emails, totalling 73 interactions. Top correspondents: [Jonathan Mckay](people/jonathan-mckay) (6), [Jason Biever](people/jason-biever) (2), [Chad Clark](people/chad-clark) (2), [Chris Dorland](people/chris-dorland) (2), [Paul Dunsmore](people/paul-dunsmore) (2). Mailbox folders observed: deleted_items, enron, inbox.",
+  "timeline": "- **2001-06-07** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ian-cooke",
+    "name": "Ian Cooke",
+    "email": "ian.cooke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

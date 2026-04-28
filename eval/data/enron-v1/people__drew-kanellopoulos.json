@@ -1,0 +1,14 @@
+{
+  "slug": "people/drew-kanellopoulos",
+  "type": "person",
+  "title": "Drew Kanellopoulos",
+  "compiled_truth": "Drew Kanellopoulos is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2002-06-12), Drew Kanellopoulos sent 1 and received 51 emails, totalling 52 interactions. Top correspondents: [Chris Germany](people/chris-germany) (1), [Priscilla Hamic](people/priscilla-hamic) (1), [Doug Sewell](people/doug-sewell) (1), [Susan Helton](people/susan-helton) (1), [Ed Mcmichael](people/ed-mcmichael) (1). Mailbox folders observed: bankrupt.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2002-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/drew-kanellopoulos",
+    "name": "Drew Kanellopoulos",
+    "email": "drew.kanellopoulos@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

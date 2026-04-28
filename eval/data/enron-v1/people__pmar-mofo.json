@@ -1,0 +1,14 @@
+{
+  "slug": "people/pmar-mofo",
+  "type": "person",
+  "title": "Pmar",
+  "compiled_truth": "Pmar is an external contact at [Mofo](companies/mofo). Over the corpus period (2001-03-20 to 2001-10-25), Pmar sent 4 and received 24 emails, totalling 28 interactions. Top correspondents: [Ayudkowsky](people/ayudkowsky-stroock) (2), [Jrnelson](people/jrnelson-llgm) (2), [Bholman](people/bholman-whitecase) (2), [Ceklund](people/ceklund-llgm) (2), [Dwhitley](people/dwhitley-llgm) (2).",
+  "timeline": "- **2001-03-20** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pmar-mofo",
+    "name": "Pmar",
+    "email": "pmar@mofo.com",
+    "primary_affiliation": "companies/mofo"
+  }
+}

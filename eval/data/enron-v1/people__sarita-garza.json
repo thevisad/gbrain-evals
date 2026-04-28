@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarita-garza",
+  "type": "person",
+  "title": "Sarita Garza",
+  "compiled_truth": "Sarita Garza is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-26 to 2002-02-14), Sarita Garza sent 14 and received 34 emails, totalling 48 interactions. Top correspondents: [Randy Armstrong](people/randy-armstrong) (12), [Cutty Cunningham](people/cutty-cunningham) (12), [Andrew Gieser](people/andrew-gieser) (12), [Ruth Jensen](people/ruth-jensen) (12), [William Kendrick](people/william-kendrick) (12). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-01-26** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarita-garza",
+    "name": "Sarita Garza",
+    "email": "sarita.garza@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

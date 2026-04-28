@@ -1,0 +1,14 @@
+{
+  "slug": "people/jacque-hull",
+  "type": "person",
+  "title": "Jacque Hull",
+  "compiled_truth": "Jacque Hull is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2000-12-13), Jacque Hull sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jacque-hull",
+    "name": "Jacque Hull",
+    "email": "jacque.hull@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

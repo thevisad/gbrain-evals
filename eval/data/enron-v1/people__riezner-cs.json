@@ -1,0 +1,14 @@
+{
+  "slug": "people/riezner-cs",
+  "type": "person",
+  "title": "Riezner",
+  "compiled_truth": "Riezner is an external contact at [Cs](companies/cs). Over the corpus period (2000-05-21 to 2000-11-25), Riezner sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/riezner-cs",
+    "name": "Riezner",
+    "email": "riezner@cs.com",
+    "primary_affiliation": "companies/cs"
+  }
+}

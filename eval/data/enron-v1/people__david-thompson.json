@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-thompson",
+  "type": "person",
+  "title": "David Thompson",
+  "compiled_truth": "David Thompson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-07 to 2000-08-07), David Thompson sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-08-07** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-thompson",
+    "name": "David Thompson",
+    "email": "david.thompson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

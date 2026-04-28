@@ -1,0 +1,14 @@
+{
+  "slug": "people/clayton-rondeau",
+  "type": "person",
+  "title": "Clayton Rondeau",
+  "compiled_truth": "Clayton Rondeau is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-01 to 2002-02-06), Clayton Rondeau sent 3 and received 32 emails, totalling 35 interactions. Top correspondents: [Chris Dorland](people/chris-dorland) (2), [Lavorato](people/lavorato) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clayton-rondeau",
+    "name": "Clayton Rondeau",
+    "email": "clayton.rondeau@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

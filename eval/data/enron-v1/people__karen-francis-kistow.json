@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-francis-kistow",
+  "type": "person",
+  "title": "Karen Francis-Kistow",
+  "compiled_truth": "Karen Francis-Kistow is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-12 to 2002-03-29), Karen Francis-Kistow sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-11-12** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-francis-kistow",
+    "name": "Karen Francis-Kistow",
+    "email": "karen.francis-kistow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

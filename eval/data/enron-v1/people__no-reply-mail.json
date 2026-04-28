@@ -1,0 +1,14 @@
+{
+  "slug": "people/no-reply-mail",
+  "type": "person",
+  "title": "No-Reply",
+  "compiled_truth": "No-Reply is an external contact at [Mail](companies/mail). Over the corpus period (2001-06-05 to 2002-03-19), No-Reply sent 38 and received 0 emails, totalling 38 interactions. Top correspondents: [Ebass](people/ebass) (10), [Sscott5](people/sscott5) (10), [Dperlin](people/dperlin) (9), [Tracy Geaccone](people/tracy-geaccone) (5), [Mtaylo1](people/mtaylo1) (2).",
+  "timeline": "- **2001-06-05** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/no-reply-mail",
+    "name": "No-Reply",
+    "email": "no-reply@mail.southwest.com",
+    "primary_affiliation": "companies/mail"
+  }
+}

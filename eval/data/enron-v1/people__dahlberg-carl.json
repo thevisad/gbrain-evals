@@ -1,0 +1,14 @@
+{
+  "slug": "people/dahlberg-carl",
+  "type": "person",
+  "title": "Dahlberg Carl",
+  "compiled_truth": "Dahlberg Carl is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-08 to 2002-03-14), Dahlberg Carl sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2002-01-08** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dahlberg-carl",
+    "name": "Dahlberg Carl",
+    "email": "dahlberg.carl@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

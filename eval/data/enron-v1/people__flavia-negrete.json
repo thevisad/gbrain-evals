@@ -1,0 +1,14 @@
+{
+  "slug": "people/flavia-negrete",
+  "type": "person",
+  "title": "Flavia Negrete",
+  "compiled_truth": "Flavia Negrete is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2002-01-04), Flavia Negrete sent 0 and received 43 emails, totalling 43 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/flavia-negrete",
+    "name": "Flavia Negrete",
+    "email": "flavia.negrete@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

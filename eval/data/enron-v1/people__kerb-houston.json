@@ -1,0 +1,14 @@
+{
+  "slug": "people/kerb-houston",
+  "type": "person",
+  "title": "Kerb",
+  "compiled_truth": "Kerb is an external contact at [Houston](companies/houston). Over the corpus period (2001-08-10 to 2002-03-20), Kerb sent 18 and received 39 emails, totalling 57 interactions. Top correspondents: [Scorman](people/scorman) (17), [Mkudla](people/mkudla-aol) (4), [Cjdick](people/cjdick-pdq) (3), [Cormanerb](people/cormanerb-cs) (2), [Aerb](people/aerb-biehlco) (2).",
+  "timeline": "- **2001-08-10** | First recorded email in corpus\n- **2002-03-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kerb-houston",
+    "name": "Kerb",
+    "email": "kerb@houston.deepwater.com",
+    "primary_affiliation": "companies/houston"
+  }
+}

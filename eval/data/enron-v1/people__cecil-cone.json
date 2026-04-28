@@ -1,0 +1,14 @@
+{
+  "slug": "people/cecil-cone",
+  "type": "person",
+  "title": "Cecil Cone",
+  "compiled_truth": "Cecil Cone is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2002-01-29), Cecil Cone sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cecil-cone",
+    "name": "Cecil Cone",
+    "email": "cecil.cone@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

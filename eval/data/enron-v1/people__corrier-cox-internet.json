@@ -1,0 +1,14 @@
+{
+  "slug": "people/corrier-cox-internet",
+  "type": "person",
+  "title": "Corrier",
+  "compiled_truth": "Corrier is an external contact at [Cox-internet](companies/cox-internet). Over the corpus period (2002-02-19 to 2002-04-01), Corrier sent 4 and received 1 emails, totalling 5 interactions. Top correspondents: [Erwollam](people/erwollam) (4), [K C](people/k-c) (4), [Feder T](people/feder-t) (3), [Chet Fenner](people/chet-fenner) (3), [C R Zander](people/c-r-zander) (3).",
+  "timeline": "- **2002-02-19** | First recorded email in corpus\n- **2002-04-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/corrier-cox-internet",
+    "name": "Corrier",
+    "email": "corrier@cox-internet.com",
+    "primary_affiliation": "companies/cox-internet"
+  }
+}

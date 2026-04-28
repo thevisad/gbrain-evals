@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-greenberg",
+  "type": "person",
+  "title": "Mark Greenberg",
+  "compiled_truth": "Mark Greenberg is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-13 to 2002-06-21), Mark Greenberg sent 381 and received 949 emails, totalling 1330 interactions. Top correspondents: [Tana Jones](people/tana-jones) (270), [Bob Shults](people/bob-shults) (60), [Mark Taylor](people/mark-taylor) (54), [ Taylor](people/taylor) (33), [Stephanie Panus](people/stephanie-panus) (28). Mailbox folders observed: archive, deleted_items, inbox, swap_group_project_lists, time_off.",
+  "timeline": "- **2000-07-13** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-greenberg",
+    "name": "Mark Greenberg",
+    "email": "mark.greenberg@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

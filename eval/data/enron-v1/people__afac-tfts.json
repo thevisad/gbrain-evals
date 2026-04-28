@@ -1,0 +1,14 @@
+{
+  "slug": "people/afac-tfts",
+  "type": "person",
+  "title": "Afac",
+  "compiled_truth": "Afac is an external contact at [Tfts](companies/tfts). Over the corpus period (1999-09-01 to 2000-05-04), Afac sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **1999-09-01** | First recorded email in corpus\n- **2000-05-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/afac-tfts",
+    "name": "Afac",
+    "email": "afac@tfts.tozzini.com.br",
+    "primary_affiliation": "companies/tfts"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cindy-wisemiller",
+  "type": "person",
+  "title": "Cindy Wisemiller",
+  "compiled_truth": "Cindy Wisemiller is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2001-09-17), Cindy Wisemiller sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2001-09-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cindy-wisemiller",
+    "name": "Cindy Wisemiller",
+    "email": "cindy.wisemiller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

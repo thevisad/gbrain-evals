@@ -1,0 +1,14 @@
+{
+  "slug": "people/derek-mo",
+  "type": "person",
+  "title": "Derek Mo",
+  "compiled_truth": "Derek Mo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-27 to 2001-02-22), Derek Mo sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-01-27** | First recorded email in corpus\n- **2001-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/derek-mo",
+    "name": "Derek Mo",
+    "email": "derek.mo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

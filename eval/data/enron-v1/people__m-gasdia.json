@@ -1,0 +1,14 @@
+{
+  "slug": "people/m-gasdia",
+  "type": "person",
+  "title": "M  Gasdia",
+  "compiled_truth": "M  Gasdia is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-23 to 2001-10-24), M  Gasdia sent 2 and received 9 emails, totalling 11 interactions. Top correspondents: [Randal Maffett](people/randal-maffett) (1), [Randy O'Connor](people/randy-o-connor) (1), [Bradford Larson](people/bradford-larson) (1), [David Gorte](people/david-gorte) (1), [Rick Buy](people/rick-buy) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-04-23** | First recorded email in corpus\n- **2001-10-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/m-gasdia",
+    "name": "M  Gasdia",
+    "email": "m..gasdia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

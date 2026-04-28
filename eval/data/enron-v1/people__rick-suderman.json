@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-suderman",
+  "type": "person",
+  "title": "Rick Suderman",
+  "compiled_truth": "Rick Suderman is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-10 to 2001-08-28), Rick Suderman sent 3 and received 15 emails, totalling 18 interactions. Top correspondents: [Edward Attanasio](people/edward-attanasio) (2), [Bob Jacobs](people/bob-jacobs) (2), [Larry Campbell](people/larry-campbell) (2), [Butch Russell](people/butch-russell) (2), [John Shafer](people/john-shafer) (2). Mailbox folders observed: projects.",
+  "timeline": "- **2001-01-10** | First recorded email in corpus\n- **2001-08-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-suderman",
+    "name": "Rick Suderman",
+    "email": "rick.suderman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rajesh-chettiar",
+  "type": "person",
+  "title": "Rajesh Chettiar",
+  "compiled_truth": "Rajesh Chettiar is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2001-05-22), Rajesh Chettiar sent 1 and received 26 emails, totalling 27 interactions. Top correspondents: [Paul Y'Barbo](people/paul-y-barbo) (1).",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rajesh-chettiar",
+    "name": "Rajesh Chettiar",
+    "email": "rajesh.chettiar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

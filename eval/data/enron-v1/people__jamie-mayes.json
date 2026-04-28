@@ -1,0 +1,14 @@
+{
+  "slug": "people/jamie-mayes",
+  "type": "person",
+  "title": "Jamie Mayes",
+  "compiled_truth": "Jamie Mayes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-16 to 2000-11-28), Jamie Mayes sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-10-16** | First recorded email in corpus\n- **2000-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jamie-mayes",
+    "name": "Jamie Mayes",
+    "email": "jamie.mayes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

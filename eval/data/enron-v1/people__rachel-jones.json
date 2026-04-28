@@ -1,0 +1,14 @@
+{
+  "slug": "people/rachel-jones",
+  "type": "person",
+  "title": "Rachel Jones",
+  "compiled_truth": "Rachel Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-11 to 2000-12-11), Rachel Jones sent 1 and received 0 emails, totalling 1 interactions. Top correspondents: [Richard B Sanders](people/richard-b-sanders) (1), [Chris Behney](people/chris-behney) (1), [Robert C Williams](people/robert-c-williams) (1), [Paul J Jones](people/paul-j-jones) (1), [Nelson Bibby](people/nelson-bibby) (1).",
+  "timeline": "- **2000-12-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rachel-jones",
+    "name": "Rachel Jones",
+    "email": "rachel.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

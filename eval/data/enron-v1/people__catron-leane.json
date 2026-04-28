@@ -1,0 +1,14 @@
+{
+  "slug": "people/catron-leane",
+  "type": "person",
+  "title": "Catron Leane",
+  "compiled_truth": "Catron Leane is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-17 to 2001-09-18), Catron Leane sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-17** | First recorded email in corpus\n- **2001-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/catron-leane",
+    "name": "Catron Leane",
+    "email": "catron.leane@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

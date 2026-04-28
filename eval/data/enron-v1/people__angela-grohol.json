@@ -1,0 +1,14 @@
+{
+  "slug": "people/angela-grohol",
+  "type": "person",
+  "title": "Angela Grohol",
+  "compiled_truth": "Angela Grohol is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2000-11-03), Angela Grohol sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2000-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angela-grohol",
+    "name": "Angela Grohol",
+    "email": "angela.grohol@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

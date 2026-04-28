@@ -1,0 +1,14 @@
+{
+  "slug": "people/bart-myers",
+  "type": "person",
+  "title": "Bart Myers",
+  "compiled_truth": "Bart Myers is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2000-10-03), Bart Myers sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2000-10-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bart-myers",
+    "name": "Bart Myers",
+    "email": "bart.myers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

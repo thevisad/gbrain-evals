@@ -1,0 +1,14 @@
+{
+  "slug": "people/jane-tholt",
+  "type": "person",
+  "title": "Jane Tholt",
+  "compiled_truth": "Jane Tholt is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-07-31), Jane Tholt sent 451 and received 272 emails, totalling 723 interactions. Top correspondents: [Laurie Ellis](people/laurie-ellis) (42), [Deborah Macdonald](people/deborah-macdonald-kindermorgan) (28), [Elizabeth Hernandez](people/elizabeth-hernandez) (26), [Msable](people/msable-sdge) (26), [Tori Kuykendall](people/tori-kuykendall) (24). Mailbox folders observed: _sent_mail, sent, sent_items.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jane-tholt",
+    "name": "Jane Tholt",
+    "email": "jane.tholt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

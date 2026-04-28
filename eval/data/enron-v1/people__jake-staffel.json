@@ -1,0 +1,14 @@
+{
+  "slug": "people/jake-staffel",
+  "type": "person",
+  "title": "Jake Staffel",
+  "compiled_truth": "Jake Staffel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-07-31), Jake Staffel sent 6 and received 68 emails, totalling 74 interactions. Top correspondents: [Tana Jones](people/tana-jones) (4), [Mike Haney](people/mike-haney) (3), [David Forster](people/david-forster) (2), [Andy Zipper](people/andy-zipper) (2), [Mark Greenberg](people/mark-greenberg) (1). Mailbox folders observed: deleted_items, origination.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jake-staffel",
+    "name": "Jake Staffel",
+    "email": "jake.staffel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

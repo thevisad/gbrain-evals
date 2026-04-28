@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-port",
+  "type": "person",
+  "title": "David Port",
+  "compiled_truth": "David Port is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-07), David Port sent 93 and received 713 emails, totalling 806 interactions. Top correspondents: [Rick Buy](people/rick-buy) (43), [Louise Kitchen](people/louise-kitchen) (18), [Ted Murphy](people/ted-murphy) (15), [Sally Beck](people/sally-beck) (14), [Vince Kaminski](people/vince-kaminski) (14). Mailbox folders observed: _americas, controls, deleted_items, inbox, projects, var.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-port",
+    "name": "David Port",
+    "email": "david.port@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

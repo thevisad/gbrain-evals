@@ -1,0 +1,14 @@
+{
+  "slug": "people/vanessa-lehn",
+  "type": "person",
+  "title": "Vanessa Lehn",
+  "compiled_truth": "Vanessa Lehn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2000-02-18), Vanessa Lehn sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-02-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vanessa-lehn",
+    "name": "Vanessa Lehn",
+    "email": "vanessa.lehn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

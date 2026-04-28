@@ -1,0 +1,14 @@
+{
+  "slug": "people/angie-collins",
+  "type": "person",
+  "title": "Angie Collins",
+  "compiled_truth": "Angie Collins is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2002-03-29), Angie Collins sent 14 and received 164 emails, totalling 178 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (7), [Tammie Schoppe](people/tammie-schoppe) (6), [L  Mims](people/l-mims) (4), [Robin Barbe](people/robin-barbe) (2), [Jeff Bartlett](people/jeff-bartlett) (2). Mailbox folders observed: _americas, bankrupt, deleted_items, inbox.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/angie-collins",
+    "name": "Angie Collins",
+    "email": "angie.collins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

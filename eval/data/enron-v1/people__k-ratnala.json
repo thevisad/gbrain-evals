@@ -1,0 +1,14 @@
+{
+  "slug": "people/k-ratnala",
+  "type": "person",
+  "title": "K  Ratnala",
+  "compiled_truth": "K  Ratnala is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-31 to 2002-01-16), K  Ratnala sent 0 and received 76 emails, totalling 76 interactions.",
+  "timeline": "- **2001-03-31** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/k-ratnala",
+    "name": "K  Ratnala",
+    "email": "k..ratnala@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

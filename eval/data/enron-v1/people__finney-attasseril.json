@@ -1,0 +1,14 @@
+{
+  "slug": "people/finney-attasseril",
+  "type": "person",
+  "title": "Finney Attasseril",
+  "compiled_truth": "Finney Attasseril is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-05), Finney Attasseril sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/finney-attasseril",
+    "name": "Finney Attasseril",
+    "email": "finney.attasseril@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

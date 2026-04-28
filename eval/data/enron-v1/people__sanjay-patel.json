@@ -1,0 +1,14 @@
+{
+  "slug": "people/sanjay-patel",
+  "type": "person",
+  "title": "Sanjay Patel",
+  "compiled_truth": "Sanjay Patel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-10 to 2001-11-08), Sanjay Patel sent 0 and received 49 emails, totalling 49 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sanjay-patel",
+    "name": "Sanjay Patel",
+    "email": "sanjay.patel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

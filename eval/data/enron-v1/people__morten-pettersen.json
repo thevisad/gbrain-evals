@@ -1,0 +1,14 @@
+{
+  "slug": "people/morten-pettersen",
+  "type": "person",
+  "title": "Morten Pettersen",
+  "compiled_truth": "Morten Pettersen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-30 to 2001-09-17), Morten Pettersen sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus\n- **2001-09-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/morten-pettersen",
+    "name": "Morten Pettersen",
+    "email": "morten.pettersen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

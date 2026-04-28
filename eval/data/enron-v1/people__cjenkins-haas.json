@@ -1,0 +1,14 @@
+{
+  "slug": "people/cjenkins-haas",
+  "type": "person",
+  "title": "Cjenkins",
+  "compiled_truth": "Cjenkins is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-11-07), Cjenkins sent 0 and received 43 emails, totalling 43 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-11-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cjenkins-haas",
+    "name": "Cjenkins",
+    "email": "cjenkins@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

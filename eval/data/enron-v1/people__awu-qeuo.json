@@ -1,0 +1,14 @@
+{
+  "slug": "people/awu-qeuo",
+  "type": "person",
+  "title": "Awu",
+  "compiled_truth": "Awu is an external contact at [Qeuo](companies/qeuo). Over the corpus period (2001-02-02 to 2001-02-15), Awu sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-02-02** | First recorded email in corpus\n- **2001-02-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/awu-qeuo",
+    "name": "Awu",
+    "email": "awu@qeuo.com",
+    "primary_affiliation": "companies/qeuo"
+  }
+}

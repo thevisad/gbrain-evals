@@ -1,0 +1,14 @@
+{
+  "slug": "people/lee-carrier",
+  "type": "person",
+  "title": "Lee Carrier",
+  "compiled_truth": "Lee Carrier is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-12 to 2001-12-04), Lee Carrier sent 2 and received 26 emails, totalling 28 interactions. Top correspondents: [Britt Davis](people/britt-davis) (2), [Phil Lowry](people/phil-lowry) (1), [Kay Miller](people/kay-miller) (1), [Dave Neubauer](people/dave-neubauer) (1), [Charlie Graham](people/charlie-graham) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-12-12** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lee-carrier",
+    "name": "Lee Carrier",
+    "email": "lee.carrier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

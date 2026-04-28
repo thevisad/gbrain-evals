@@ -1,0 +1,14 @@
+{
+  "slug": "people/hudacko-haas",
+  "type": "person",
+  "title": "Hudacko",
+  "compiled_truth": "Hudacko is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-20 to 2001-12-14), Hudacko sent 4 and received 73 emails, totalling 77 interactions. Top correspondents: [Dasovich](people/dasovich-haas) (3), [Esarte](people/esarte-haas) (2), [Mkang](people/mkang-haas) (2), [Jeff Dasovich](people/jeff-dasovich) (2), [Martin Esarte](people/martin-esarte-clorox) (1).",
+  "timeline": "- **1999-09-20** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hudacko-haas",
+    "name": "Hudacko",
+    "email": "hudacko@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

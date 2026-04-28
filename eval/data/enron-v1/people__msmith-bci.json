@@ -1,0 +1,14 @@
+{
+  "slug": "people/msmith-bci",
+  "type": "person",
+  "title": "Msmith",
+  "compiled_truth": "Msmith is an external contact at [Bci](companies/bci). Over the corpus period (2000-05-18 to 2000-09-18), Msmith sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/msmith-bci",
+    "name": "Msmith",
+    "email": "msmith@bci.it",
+    "primary_affiliation": "companies/bci"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "threads/delivery-status-notification-2001-11",
+  "type": "meeting",
+  "title": "Thread: Delivery Status Notification",
+  "compiled_truth": "Email thread: \"Delivery Status Notification\". Ran from 2001-11-19 to 2001-12-11 with 20 messages. Participants: [F  Keavey](people/f-keavey), [Marie Heard](people/marie-heard), [Postmaster](people/postmaster), [Richard Shapiro](people/richard-shapiro), [Tana Jones](people/tana-jones).",
+  "timeline": "- **2001-11-19** | Thread begins: delivery status notification\n- **2001-12-11** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/delivery-status-notification-2001-11",
+    "attendees": [
+      "people/f-keavey",
+      "people/marie-heard",
+      "people/postmaster",
+      "people/richard-shapiro",
+      "people/tana-jones"
+    ],
+    "date": "2001-11-19"
+  }
+}

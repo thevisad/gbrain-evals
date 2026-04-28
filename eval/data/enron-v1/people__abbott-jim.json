@@ -1,0 +1,14 @@
+{
+  "slug": "people/abbott-jim",
+  "type": "person",
+  "title": "Abbott Jim",
+  "compiled_truth": "Abbott Jim is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-10 to 2001-10-10), Abbott Jim sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-10** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/abbott-jim",
+    "name": "Abbott Jim",
+    "email": "abbott.jim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

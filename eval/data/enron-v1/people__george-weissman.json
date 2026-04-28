@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-weissman",
+  "type": "person",
+  "title": "George Weissman",
+  "compiled_truth": "George Weissman is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-19 to 2001-07-10), George Weissman sent 39 and received 245 emails, totalling 284 interactions. Top correspondents: [Melissa Graves](people/melissa-graves) (22), [John Griffith](people/john-griffith) (17), [Jill Zivley](people/jill-zivley) (16), [Gary Bryan](people/gary-bryan) (10), [Linda Roberts](people/linda-roberts) (10). Mailbox folders observed: inbox, wellhead.",
+  "timeline": "- **1999-05-19** | First recorded email in corpus\n- **2001-07-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-weissman",
+    "name": "George Weissman",
+    "email": "george.weissman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

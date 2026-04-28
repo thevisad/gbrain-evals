@@ -1,0 +1,14 @@
+{
+  "slug": "people/krobb-hunton",
+  "type": "person",
+  "title": "Krobb",
+  "compiled_truth": "Krobb is an external contact at [Hunton](companies/hunton). Over the corpus period (2001-07-17 to 2002-02-22), Krobb sent 21 and received 0 emails, totalling 21 interactions. Top correspondents: [Nyiso Tech Exchange](people/nyiso-tech-exchange-global2000) (19), [Jcharlton](people/jcharlton-nyiso) (3), [Market Relations](people/market-relations-nyiso) (2), [Mswider](people/mswider-sel) (1), [Rring](people/rring) (1).",
+  "timeline": "- **2001-07-17** | First recorded email in corpus\n- **2002-02-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/krobb-hunton",
+    "name": "Krobb",
+    "email": "krobb@hunton.com",
+    "primary_affiliation": "companies/hunton"
+  }
+}

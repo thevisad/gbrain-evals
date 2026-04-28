@@ -1,0 +1,14 @@
+{
+  "slug": "people/agold-terri",
+  "type": "person",
+  "title": "Agold Terri",
+  "compiled_truth": "Agold Terri is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-04 to 2002-01-16), Agold Terri sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/agold-terri",
+    "name": "Agold Terri",
+    "email": "agold.terri@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

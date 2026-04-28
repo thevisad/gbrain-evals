@@ -1,0 +1,14 @@
+{
+  "slug": "people/dalrymple-judy",
+  "type": "person",
+  "title": "Dalrymple Judy",
+  "compiled_truth": "Dalrymple Judy is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Dalrymple Judy sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dalrymple-judy",
+    "name": "Dalrymple Judy",
+    "email": "dalrymple.judy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

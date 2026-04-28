@@ -1,0 +1,14 @@
+{
+  "slug": "people/jr-harry",
+  "type": "person",
+  "title": "Jr  Harry",
+  "compiled_truth": "Jr  Harry is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-19 to 2001-11-05), Jr  Harry sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-09-19** | First recorded email in corpus\n- **2001-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jr-harry",
+    "name": "Jr  Harry",
+    "email": "jr..harry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

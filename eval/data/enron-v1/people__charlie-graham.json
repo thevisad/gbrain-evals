@@ -1,0 +1,14 @@
+{
+  "slug": "people/charlie-graham",
+  "type": "person",
+  "title": "Charlie Graham",
+  "compiled_truth": "Charlie Graham is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-03-13), Charlie Graham sent 14 and received 131 emails, totalling 145 interactions. Top correspondents: [Lynn Blair](people/lynn-blair) (7), [Dan Fancler](people/dan-fancler) (5), [Rick Kile](people/rick-kile) (5), [Ronnie Brickman](people/ronnie-brickman) (5), [Debbie Moseley](people/debbie-moseley) (4). Mailbox folders observed: customer___oneok, inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charlie-graham",
+    "name": "Charlie Graham",
+    "email": "charlie.graham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

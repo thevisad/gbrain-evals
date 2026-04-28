@@ -1,0 +1,14 @@
+{
+  "slug": "people/erin-hall",
+  "type": "person",
+  "title": "Erin Hall",
+  "compiled_truth": "Erin Hall is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-30 to 2001-11-15), Erin Hall sent 4 and received 48 emails, totalling 52 interactions. Top correspondents: [Portland Desk](people/portland-desk) (2), [Center Dl-Portland](people/center-dl-portland) (1), [Desk Portland](people/desk-portland) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-11-30** | First recorded email in corpus\n- **2001-11-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/erin-hall",
+    "name": "Erin Hall",
+    "email": "erin.hall@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

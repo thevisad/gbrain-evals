@@ -1,0 +1,14 @@
+{
+  "slug": "people/katherine-chisley",
+  "type": "person",
+  "title": "Katherine Chisley",
+  "compiled_truth": "Katherine Chisley is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-04 to 2001-11-27), Katherine Chisley sent 4 and received 15 emails, totalling 19 interactions. Top correspondents: [Marla Barnard](people/marla-barnard) (3), [Sally Beck](people/sally-beck) (3), [Michele Beffer](people/michele-beffer) (3), [Christina Brandli](people/christina-brandli) (3), [Lydia Cannon](people/lydia-cannon) (3). Mailbox folders observed: deleted_items, inbox, misc.",
+  "timeline": "- **2001-07-04** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/katherine-chisley",
+    "name": "Katherine Chisley",
+    "email": "katherine.chisley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

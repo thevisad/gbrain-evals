@@ -1,0 +1,14 @@
+{
+  "slug": "people/ricardo-lisboa",
+  "type": "person",
+  "title": "Ricardo Lisboa",
+  "compiled_truth": "Ricardo Lisboa is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-05 to 2001-11-19), Ricardo Lisboa sent 2 and received 60 emails, totalling 62 interactions. Top correspondents: [Joe Kishkill](people/joe-kishkill) (2), [Remi Collonges](people/remi-collonges) (2), [David Rosenberg](people/david-rosenberg) (2), [John Lavorato](people/john-lavorato) (1), [Steve Nagy](people/steve-nagy) (1).",
+  "timeline": "- **2000-05-05** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ricardo-lisboa",
+    "name": "Ricardo Lisboa",
+    "email": "ricardo.lisboa@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jay-knoblauh",
+  "type": "person",
+  "title": "Jay Knoblauh",
+  "compiled_truth": "Jay Knoblauh is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-06-21), Jay Knoblauh sent 5 and received 165 emails, totalling 170 interactions. Top correspondents: [Joe Parks](people/joe-parks) (5), [Gregory Schockling](people/gregory-schockling) (1), [Chris Abel](people/chris-abel) (1), [Ragan Bond](people/ragan-bond) (1), [Hugh Connett](people/hugh-connett) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jay-knoblauh",
+    "name": "Jay Knoblauh",
+    "email": "jay.knoblauh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

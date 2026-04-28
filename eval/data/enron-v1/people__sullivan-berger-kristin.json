@@ -1,0 +1,14 @@
+{
+  "slug": "people/sullivan-berger-kristin",
+  "type": "person",
+  "title": "Sullivan-Berger Kristin",
+  "compiled_truth": "Sullivan-Berger Kristin is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Sullivan-Berger Kristin sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sullivan-berger-kristin",
+    "name": "Sullivan-Berger Kristin",
+    "email": "sullivan-berger.kristin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

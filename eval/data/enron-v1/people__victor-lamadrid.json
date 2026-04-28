@@ -1,0 +1,14 @@
+{
+  "slug": "people/victor-lamadrid",
+  "type": "person",
+  "title": "Victor Lamadrid",
+  "compiled_truth": "Victor Lamadrid is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-13), Victor Lamadrid sent 193 and received 1184 emails, totalling 1377 interactions. Top correspondents: [Chris Germany](people/chris-germany) (148), [Scott Neal](people/scott-neal) (137), [Scott Goodell](people/scott-goodell) (130), [Clarissa Garcia](people/clarissa-garcia) (122), [Robert Superty](people/robert-superty) (95). Mailbox folders observed: bankrupt, ces, deleted_items, inbox, logistics, memos.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/victor-lamadrid",
+    "name": "Victor Lamadrid",
+    "email": "victor.lamadrid@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

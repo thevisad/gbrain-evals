@@ -1,0 +1,14 @@
+{
+  "slug": "people/nicole-la",
+  "type": "person",
+  "title": "Nicole La",
+  "compiled_truth": "Nicole La is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2001-11-29), Nicole La sent 2 and received 74 emails, totalling 76 interactions. Top correspondents: [Larry Campbell](people/larry-campbell) (1), [Dale Neuner](people/dale-neuner) (1), [Stacey White](people/stacey-white) (1), [Leslie Hansen](people/leslie-hansen) (1), [Elizabeth Sager](people/elizabeth-sager) (1).",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nicole-la",
+    "name": "Nicole La",
+    "email": "nicole.la@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

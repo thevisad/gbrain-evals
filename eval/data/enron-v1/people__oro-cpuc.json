@@ -1,0 +1,14 @@
+{
+  "slug": "people/oro-cpuc",
+  "type": "person",
+  "title": "Oro",
+  "compiled_truth": "Oro is an external contact at [Cpuc](companies/cpuc). Over the corpus period (1999-11-22 to 2001-07-31), Oro sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/oro-cpuc",
+    "name": "Oro",
+    "email": "oro@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

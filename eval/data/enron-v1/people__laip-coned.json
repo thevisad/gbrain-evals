@@ -1,0 +1,14 @@
+{
+  "slug": "people/laip-coned",
+  "type": "person",
+  "title": "Laip",
+  "compiled_truth": "Laip is an external contact at [Coned](companies/coned). Over the corpus period (2002-01-25 to 2002-01-29), Laip sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-25** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laip-coned",
+    "name": "Laip",
+    "email": "laip@coned.com",
+    "primary_affiliation": "companies/coned"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/maria-lebeau",
+  "type": "person",
+  "title": "Maria Lebeau",
+  "compiled_truth": "Maria Lebeau is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-11-27), Maria Lebeau sent 0 and received 102 emails, totalling 102 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maria-lebeau",
+    "name": "Maria Lebeau",
+    "email": "maria.lebeau@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

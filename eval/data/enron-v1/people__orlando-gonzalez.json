@@ -1,0 +1,14 @@
+{
+  "slug": "people/orlando-gonzalez",
+  "type": "person",
+  "title": "Orlando Gonzalez",
+  "compiled_truth": "Orlando Gonzalez is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-03 to 2001-11-27), Orlando Gonzalez sent 16 and received 116 emails, totalling 132 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (10), [Richard Shapiro](people/richard-shapiro) (8), [Joe Kishkill](people/joe-kishkill) (6), [Rebecca Mcdonald](people/rebecca-mcdonald) (5), [Sergio Assad](people/sergio-assad) (4). Mailbox folders observed: _americas, compliments, inbox, southern_cone.",
+  "timeline": "- **1999-08-03** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/orlando-gonzalez",
+    "name": "Orlando Gonzalez",
+    "email": "orlando.gonzalez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

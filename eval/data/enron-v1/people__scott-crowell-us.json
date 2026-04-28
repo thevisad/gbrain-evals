@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-crowell-us",
+  "type": "person",
+  "title": "Scott Crowell",
+  "compiled_truth": "Scott Crowell is an external contact at [Us](companies/us). Over the corpus period (2000-06-30 to 2001-04-12), Scott Crowell sent 1 and received 52 emails, totalling 53 interactions.",
+  "timeline": "- **2000-06-30** | First recorded email in corpus\n- **2001-04-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-crowell-us",
+    "name": "Scott Crowell",
+    "email": "scott.crowell@us.cgeyc.com",
+    "primary_affiliation": "companies/us"
+  }
+}

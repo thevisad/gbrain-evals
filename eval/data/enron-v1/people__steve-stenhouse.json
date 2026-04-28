@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-stenhouse",
+  "type": "person",
+  "title": "Steve Stenhouse",
+  "compiled_truth": "Steve Stenhouse is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-12 to 2001-10-26), Steve Stenhouse sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-10-12** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-stenhouse",
+    "name": "Steve Stenhouse",
+    "email": "steve.stenhouse@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

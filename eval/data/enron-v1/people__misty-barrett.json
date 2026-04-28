@@ -1,0 +1,14 @@
+{
+  "slug": "people/misty-barrett",
+  "type": "person",
+  "title": "Misty Barrett",
+  "compiled_truth": "Misty Barrett is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2002-05-06), Misty Barrett sent 2 and received 26 emails, totalling 28 interactions. Top correspondents: [Rogers Herndon](people/rogers-herndon) (2), [Don Black](people/don-black) (2), [Tim Belden](people/tim-belden) (2), [Kevin Presto](people/kevin-presto) (2), [Vladimir Gorny](people/vladimir-gorny) (2). Mailbox folders observed: presto_working_files.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/misty-barrett",
+    "name": "Misty Barrett",
+    "email": "misty.barrett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

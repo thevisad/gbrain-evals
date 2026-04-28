@@ -1,0 +1,14 @@
+{
+  "slug": "people/dean-laurent",
+  "type": "person",
+  "title": "Dean Laurent",
+  "compiled_truth": "Dean Laurent is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2002-03-29), Dean Laurent sent 4 and received 498 emails, totalling 502 interactions. Top correspondents: [Don Baughman](people/don-baughman) (3), [Joe Errigo](people/joe-errigo) (2), [L  Garcia](people/l-garcia) (2), [Carrie Larkworthy](people/carrie-larkworthy) (2), [Punit Rawal](people/punit-rawal) (2). Mailbox folders observed: deleted_items, inbox, power.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dean-laurent",
+    "name": "Dean Laurent",
+    "email": "dean.laurent@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/zakia-mcclure",
+  "type": "person",
+  "title": "Zakia Mcclure",
+  "compiled_truth": "Zakia Mcclure is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-27 to 2001-11-30), Zakia Mcclure sent 2 and received 11 emails, totalling 13 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (2), [Shona Wilson](people/shona-wilson) (1), [Hal Mckinney](people/hal-mckinney) (1), [Chris Abel](people/chris-abel) (1), [Anita Luong](people/anita-luong) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-11-27** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/zakia-mcclure",
+    "name": "Zakia Mcclure",
+    "email": "zakia.mcclure@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

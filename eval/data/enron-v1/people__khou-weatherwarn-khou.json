@@ -1,0 +1,14 @@
+{
+  "slug": "people/khou-weatherwarn-khou",
+  "type": "person",
+  "title": "Khou-Weatherwarn",
+  "compiled_truth": "Khou-Weatherwarn is an external contact at [Khou](companies/khou). Over the corpus period (2001-10-27 to 2001-11-27), Khou-Weatherwarn sent 31 and received 0 emails, totalling 31 interactions. Top correspondents: [Weatherwarn](people/weatherwarn-mailman) (31), [Subscribers](people/subscribers-mailman) (31).",
+  "timeline": "- **2001-10-27** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/khou-weatherwarn-khou",
+    "name": "Khou-Weatherwarn",
+    "email": "khou-weatherwarn@khou.weatherwarn.net",
+    "primary_affiliation": "companies/khou"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/doug-sewell",
+  "type": "person",
+  "title": "Doug Sewell",
+  "compiled_truth": "Doug Sewell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-19 to 2002-06-25), Doug Sewell sent 36 and received 515 emails, totalling 551 interactions. Top correspondents: [Mike Carson](people/mike-carson) (13), [Lisa Gang](people/lisa-gang) (5), [Chris Germany](people/chris-germany) (4), [Chip Schneider](people/chip-schneider) (4), [Don Baughman](people/don-baughman) (3). Mailbox folders observed: bankrupt, deleted_items, enron_power, inbox, koch, notes.",
+  "timeline": "- **2000-01-19** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/doug-sewell",
+    "name": "Doug Sewell",
+    "email": "doug.sewell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

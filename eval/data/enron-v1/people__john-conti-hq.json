@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-conti-hq",
+  "type": "person",
+  "title": "John Conti",
+  "compiled_truth": "John Conti is an external contact at [Hq](companies/hq). Over the corpus period (2001-10-18 to 2001-10-18), John Conti sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-conti-hq",
+    "name": "John Conti",
+    "email": "john.conti@hq.doe.gov",
+    "primary_affiliation": "companies/hq"
+  }
+}

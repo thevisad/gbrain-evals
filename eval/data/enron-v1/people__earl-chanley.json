@@ -1,0 +1,14 @@
+{
+  "slug": "people/earl-chanley",
+  "type": "person",
+  "title": "Earl Chanley",
+  "compiled_truth": "Earl Chanley is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-03 to 2002-03-21), Earl Chanley sent 17 and received 286 emails, totalling 303 interactions. Top correspondents: [Michelle Lokay](people/michelle-lokay) (9), [Kimberly Watson](people/kimberly-watson) (8), [Bob Burleson](people/bob-burleson) (6), [Lkunkel](people/lkunkel-trigon-sheehan) (5), [Perry Frazier](people/perry-frazier) (4). Mailbox folders observed: agave, inbox, tw_commercial_group, tw_projects.",
+  "timeline": "- **1999-04-03** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/earl-chanley",
+    "name": "Earl Chanley",
+    "email": "earl.chanley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

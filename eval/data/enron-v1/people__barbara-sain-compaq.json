@@ -1,0 +1,14 @@
+{
+  "slug": "people/barbara-sain-compaq",
+  "type": "person",
+  "title": "Barbara Sain",
+  "compiled_truth": "Barbara Sain is an external contact at [Compaq](companies/compaq). Over the corpus period (2000-02-17 to 2001-11-16), Barbara Sain sent 9 and received 8 emails, totalling 17 interactions. Top correspondents: [Lynnj](people/lynnj-iname) (6), [Klay](people/klay) (6), [Rflemin](people/rflemin) (6), [Ted Enloe](people/ted-enloe-compaq) (5), [Ghh](people/ghh-telcordia) (5).",
+  "timeline": "- **2000-02-17** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barbara-sain-compaq",
+    "name": "Barbara Sain",
+    "email": "barbara.sain@compaq.com",
+    "primary_affiliation": "companies/compaq"
+  }
+}

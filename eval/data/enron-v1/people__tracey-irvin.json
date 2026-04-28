@@ -1,0 +1,14 @@
+{
+  "slug": "people/tracey-irvin",
+  "type": "person",
+  "title": "Tracey Irvin",
+  "compiled_truth": "Tracey Irvin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2002-02-06), Tracey Irvin sent 9 and received 91 emails, totalling 100 interactions. Top correspondents: [Casey Evans](people/casey-evans) (5), [Tracy Greene](people/tracy-greene) (5), [W  White](people/w-white) (4), [Stephen Wolfe](people/stephen-wolfe) (3), [Kam Keiser](people/kam-keiser) (2). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tracey-irvin",
+    "name": "Tracey Irvin",
+    "email": "tracey.irvin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

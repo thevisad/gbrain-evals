@@ -1,0 +1,14 @@
+{
+  "slug": "people/lafuze",
+  "type": "person",
+  "title": "Lafuze",
+  "compiled_truth": "Lafuze is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-25 to 2001-10-09), Lafuze sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [Jeff Skilling](people/jeff-skilling) (1), [Derrick](people/derrick) (1), [James Derrick](people/james-derrick) (1), [Walls](people/walls) (1), [Rob Walls](people/rob-walls) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-04-25** | First recorded email in corpus\n- **2001-10-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lafuze",
+    "name": "Lafuze",
+    "email": "lafuze@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

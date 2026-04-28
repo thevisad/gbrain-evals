@@ -1,0 +1,14 @@
+{
+  "slug": "people/jkuehler-wecon",
+  "type": "person",
+  "title": "Jkuehler",
+  "compiled_truth": "Jkuehler is an external contact at [Wecon](companies/wecon). Over the corpus period (2000-11-06 to 2002-01-16), Jkuehler sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jkuehler-wecon",
+    "name": "Jkuehler",
+    "email": "jkuehler@wecon.com",
+    "primary_affiliation": "companies/wecon"
+  }
+}

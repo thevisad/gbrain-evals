@@ -1,0 +1,14 @@
+{
+  "slug": "people/edward-ray",
+  "type": "person",
+  "title": "Edward Ray",
+  "compiled_truth": "Edward Ray is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-13), Edward Ray sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edward-ray",
+    "name": "Edward Ray",
+    "email": "edward.ray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

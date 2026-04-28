@@ -1,0 +1,14 @@
+{
+  "slug": "people/rdb-keywaycorp",
+  "type": "person",
+  "title": "Rdb",
+  "compiled_truth": "Rdb is an external contact at [Keywaycorp](companies/keywaycorp). Over the corpus period (2001-03-14 to 2001-04-26), Rdb sent 0 and received 56 emails, totalling 56 interactions.",
+  "timeline": "- **2001-03-14** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rdb-keywaycorp",
+    "name": "Rdb",
+    "email": "rdb@keywaycorp.com",
+    "primary_affiliation": "companies/keywaycorp"
+  }
+}

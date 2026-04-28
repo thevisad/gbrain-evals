@@ -1,0 +1,14 @@
+{
+  "slug": "people/purenergyi-aol",
+  "type": "person",
+  "title": "Purenergyi",
+  "compiled_truth": "Purenergyi is an external contact at [AOL](companies/aol). Over the corpus period (2000-09-01 to 2001-01-23), Purenergyi sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-01-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/purenergyi-aol",
+    "name": "Purenergyi",
+    "email": "purenergyi@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

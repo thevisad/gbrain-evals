@@ -1,0 +1,14 @@
+{
+  "slug": "people/cpallen-amoco",
+  "type": "person",
+  "title": "Cpallen",
+  "compiled_truth": "Cpallen is an external contact at [Amoco](companies/amoco). Over the corpus period (2000-06-20 to 2001-02-12), Cpallen sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-06-20** | First recorded email in corpus\n- **2001-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cpallen-amoco",
+    "name": "Cpallen",
+    "email": "cpallen@amoco.com",
+    "primary_affiliation": "companies/amoco"
+  }
+}

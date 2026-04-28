@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-allan",
+  "type": "person",
+  "title": "David Allan",
+  "compiled_truth": "David Allan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-15 to 2001-11-28), David Allan sent 24 and received 208 emails, totalling 232 interactions. Top correspondents: [Monika Causholli](people/monika-causholli) (24), [E  Carter](people/e-carter) (12), [Peggy Determeyer](people/peggy-determeyer) (8), [Jay Johnson](people/jay-johnson) (7), [Milagros Daetz](people/milagros-daetz) (7). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **2001-06-15** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-allan",
+    "name": "David Allan",
+    "email": "david.allan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

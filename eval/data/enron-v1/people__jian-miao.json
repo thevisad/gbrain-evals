@@ -1,0 +1,14 @@
+{
+  "slug": "people/jian-miao",
+  "type": "person",
+  "title": "Jian Miao",
+  "compiled_truth": "Jian Miao is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-11-21), Jian Miao sent 1 and received 4 emails, totalling 5 interactions. Top correspondents: [Angel Esguerra](people/angel-esguerra) (1), [Mary Perkins](people/mary-perkins) (1), [Don Bunnell](people/don-bunnell) (1), [James Derrick](people/james-derrick) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jian-miao",
+    "name": "Jian Miao",
+    "email": "jian.miao@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

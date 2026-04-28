@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-wallace",
+  "type": "person",
+  "title": "Stephen Wallace",
+  "compiled_truth": "Stephen Wallace is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-21 to 2002-01-25), Stephen Wallace sent 2 and received 69 emails, totalling 71 interactions. Top correspondents: [Tana Jones](people/tana-jones) (2).",
+  "timeline": "- **2000-07-21** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-wallace",
+    "name": "Stephen Wallace",
+    "email": "stephen.wallace@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

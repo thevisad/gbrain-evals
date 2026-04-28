@@ -1,0 +1,14 @@
+{
+  "slug": "people/drkubala-thompson-grp",
+  "type": "person",
+  "title": "Drkubala",
+  "compiled_truth": "Drkubala is an external contact at [Thompson-grp](companies/thompson-grp). Over the corpus period (2000-11-06 to 2000-12-20), Drkubala sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2000-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/drkubala-thompson-grp",
+    "name": "Drkubala",
+    "email": "drkubala@thompson-grp.com",
+    "primary_affiliation": "companies/thompson-grp"
+  }
+}

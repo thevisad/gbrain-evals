@@ -1,0 +1,14 @@
+{
+  "slug": "people/kerry-stroup",
+  "type": "person",
+  "title": "Kerry Stroup",
+  "compiled_truth": "Kerry Stroup is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-21 to 2001-12-03), Kerry Stroup sent 10 and received 470 emails, totalling 480 interactions. Top correspondents: [Janine Migden](people/janine-migden) (8), [Richard Shapiro](people/richard-shapiro) (5), [D  Steffes](people/d-steffes) (5), [Michael Roan](people/michael-roan) (5), [Donna Fulton](people/donna-fulton) (4). Mailbox folders observed: alliance_rto, deleted_items, inbox, midwest.",
+  "timeline": "- **2000-03-21** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kerry-stroup",
+    "name": "Kerry Stroup",
+    "email": "kerry.stroup@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

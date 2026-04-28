@@ -1,0 +1,14 @@
+{
+  "slug": "people/carla-santanna",
+  "type": "person",
+  "title": "Carla Santanna",
+  "compiled_truth": "Carla Santanna is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-26 to 2001-04-26), Carla Santanna sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carla-santanna",
+    "name": "Carla Santanna",
+    "email": "carla.santanna@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

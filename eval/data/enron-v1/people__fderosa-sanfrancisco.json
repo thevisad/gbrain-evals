@@ -1,0 +1,14 @@
+{
+  "slug": "people/fderosa-sanfrancisco",
+  "type": "person",
+  "title": "Fderosa",
+  "compiled_truth": "Fderosa is an external contact at [Sanfrancisco](companies/sanfrancisco). Over the corpus period (2000-09-01 to 2001-05-10), Fderosa sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fderosa-sanfrancisco",
+    "name": "Fderosa",
+    "email": "fderosa@sanfrancisco.usgen.com",
+    "primary_affiliation": "companies/sanfrancisco"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mduggan-hess",
+  "type": "person",
+  "title": "Mduggan",
+  "compiled_truth": "Mduggan is an external contact at [Hess](companies/hess). Over the corpus period (2000-11-07 to 2001-09-04), Mduggan sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mduggan-hess",
+    "name": "Mduggan",
+    "email": "mduggan@hess.com",
+    "primary_affiliation": "companies/hess"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/barry-schnapper",
+  "type": "person",
+  "title": "Barry Schnapper",
+  "compiled_truth": "Barry Schnapper is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Barry Schnapper sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barry-schnapper",
+    "name": "Barry Schnapper",
+    "email": "barry.schnapper@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rcavaney-api",
+  "type": "person",
+  "title": "Rcavaney",
+  "compiled_truth": "Rcavaney is an external contact at [Api](companies/api). Over the corpus period (2001-11-20 to 2001-12-18), Rcavaney sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-11-20** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rcavaney-api",
+    "name": "Rcavaney",
+    "email": "rcavaney@api.org",
+    "primary_affiliation": "companies/api"
+  }
+}

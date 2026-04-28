@@ -1,0 +1,14 @@
+{
+  "slug": "people/janie-mitcham-reliantenergy",
+  "type": "person",
+  "title": "Janie-Mitcham",
+  "compiled_truth": "Janie-Mitcham is an external contact at [Reliant Energy](companies/reliant-energy). Over the corpus period (2000-02-12 to 2000-07-06), Janie-Mitcham sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-02-12** | First recorded email in corpus\n- **2000-07-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janie-mitcham-reliantenergy",
+    "name": "Janie-Mitcham",
+    "email": "janie-mitcham@reliantenergy.com",
+    "primary_affiliation": "companies/reliant-energy"
+  }
+}

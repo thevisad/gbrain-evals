@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-hedley",
+  "type": "person",
+  "title": "Karen Hedley",
+  "compiled_truth": "Karen Hedley is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2001-10-19), Karen Hedley sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [James Derrick](people/james-derrick) (1), [Joseph Earle](people/joseph-earle) (1), [Marty Keyser](people/marty-keyser) (1), [Jeff Messina](people/jeff-messina) (1), [Andrew Berdy](people/andrew-berdy) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-hedley",
+    "name": "Karen Hedley",
+    "email": "karen.hedley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

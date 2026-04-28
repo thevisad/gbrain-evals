@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-gosnell",
+  "type": "person",
+  "title": "Mary Gosnell",
+  "compiled_truth": "Mary Gosnell is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-24 to 2001-05-15), Mary Gosnell sent 3 and received 496 emails, totalling 499 interactions. Top correspondents: [Tana Jones](people/tana-jones) (2), [Walter Guidroz](people/walter-guidroz) (1), [Camille Gerard](people/camille-gerard) (1), [Samuel Schott](people/samuel-schott) (1), [Adnan Patel](people/adnan-patel) (1).",
+  "timeline": "- **1998-11-24** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-gosnell",
+    "name": "Mary Gosnell",
+    "email": "mary.gosnell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

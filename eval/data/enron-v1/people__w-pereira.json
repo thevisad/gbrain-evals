@@ -1,0 +1,14 @@
+{
+  "slug": "people/w-pereira",
+  "type": "person",
+  "title": "W  Pereira",
+  "compiled_truth": "W  Pereira is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-18 to 2001-12-21), W  Pereira sent 75 and received 263 emails, totalling 338 interactions. Top correspondents: [Laurie Ellis](people/laurie-ellis) (6), [Stevens Hollister](people/stevens-hollister-eott) (5), [Valerie Curtis](people/valerie-curtis) (5), [Tlester](people/tlester-firstunion1) (5), [Scharnberger-Armin](people/scharnberger-armin-t-online) (4). Mailbox folders observed: inbox, sent_items.",
+  "timeline": "- **2001-05-18** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/w-pereira",
+    "name": "W  Pereira",
+    "email": "w..pereira@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

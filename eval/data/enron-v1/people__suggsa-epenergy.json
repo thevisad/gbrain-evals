@@ -1,0 +1,14 @@
+{
+  "slug": "people/suggsa-epenergy",
+  "type": "person",
+  "title": "Suggsa",
+  "compiled_truth": "Suggsa is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2000-04-11 to 2001-03-14), Suggsa sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-04-11** | First recorded email in corpus\n- **2001-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suggsa-epenergy",
+    "name": "Suggsa",
+    "email": "suggsa@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/taylor",
+  "type": "person",
+  "title": " Taylor",
+  "compiled_truth": "Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-04 to 2002-02-14),  Taylor sent 505 and received 1367 emails, totalling 1872 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (57), [Tana Jones](people/tana-jones) (43), [N  Gray](people/n-gray) (42), [Holly Keiser](people/holly-keiser) (39), [Mary Cook](people/mary-cook) (36). Mailbox folders observed: _americas, contacts, deleted_items, ethics_ljm_notre_dame, inbox, ring_trades.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/taylor",
+    "name": " Taylor",
+    "email": ".taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

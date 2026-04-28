@@ -1,0 +1,14 @@
+{
+  "slug": "people/rachel-massey",
+  "type": "person",
+  "title": "Rachel Massey",
+  "compiled_truth": "Rachel Massey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-22 to 2002-03-29), Rachel Massey sent 0 and received 33 emails, totalling 33 interactions.",
+  "timeline": "- **2000-09-22** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rachel-massey",
+    "name": "Rachel Massey",
+    "email": "rachel.massey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

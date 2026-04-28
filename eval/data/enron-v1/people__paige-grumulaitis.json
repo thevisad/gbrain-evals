@@ -1,0 +1,14 @@
+{
+  "slug": "people/paige-grumulaitis",
+  "type": "person",
+  "title": "Paige Grumulaitis",
+  "compiled_truth": "Paige Grumulaitis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-01 to 2002-03-29), Paige Grumulaitis sent 8 and received 58 emails, totalling 66 interactions. Top correspondents: [Geoff Storey](people/geoff-storey) (4), [Sally Beck](people/sally-beck) (2), [Richard Lauer](people/richard-lauer) (1), [Wanda Curry](people/wanda-curry) (1), [Tana Jones](people/tana-jones) (1). Mailbox folders observed: chris_stokley, deleted_items, personal.",
+  "timeline": "- **1999-07-01** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paige-grumulaitis",
+    "name": "Paige Grumulaitis",
+    "email": "paige.grumulaitis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

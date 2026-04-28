@@ -1,0 +1,14 @@
+{
+  "slug": "people/adam-caldwell",
+  "type": "person",
+  "title": "Adam Caldwell",
+  "compiled_truth": "Adam Caldwell is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-28 to 2002-03-29), Adam Caldwell sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-09-28** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/adam-caldwell",
+    "name": "Adam Caldwell",
+    "email": "adam.caldwell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dannyh-calpine",
+  "type": "person",
+  "title": "Dannyh",
+  "compiled_truth": "Dannyh is an external contact at [Calpine](companies/calpine). Over the corpus period (2000-10-09 to 2001-05-10), Dannyh sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dannyh-calpine",
+    "name": "Dannyh",
+    "email": "dannyh@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jack-pnsc-center",
+  "type": "person",
+  "title": "Jack",
+  "compiled_truth": "Jack is an external contact at [Pnsc-center](companies/pnsc-center). Over the corpus period (2001-08-14 to 2001-08-14), Jack sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-08-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jack-pnsc-center",
+    "name": "Jack",
+    "email": "jack@pnsc-center.com",
+    "primary_affiliation": "companies/pnsc-center"
+  }
+}

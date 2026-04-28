@@ -1,0 +1,14 @@
+{
+  "slug": "people/legal-6",
+  "type": "person",
+  "title": "Legal 6",
+  "compiled_truth": "Legal 6 is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-03 to 2001-06-07), Legal 6 sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-06-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/legal-6",
+    "name": "Legal 6",
+    "email": "legal.6@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

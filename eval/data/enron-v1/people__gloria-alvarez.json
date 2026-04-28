@@ -1,0 +1,14 @@
+{
+  "slug": "people/gloria-alvarez",
+  "type": "person",
+  "title": "Gloria Alvarez",
+  "compiled_truth": "Gloria Alvarez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-26), Gloria Alvarez sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gloria-alvarez",
+    "name": "Gloria Alvarez",
+    "email": "gloria.alvarez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

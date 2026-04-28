@@ -1,0 +1,14 @@
+{
+  "slug": "people/lex-carroll",
+  "type": "person",
+  "title": "Lex Carroll",
+  "compiled_truth": "Lex Carroll is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-12-05), Lex Carroll sent 40 and received 70 emails, totalling 110 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (40), [Tammie Schoppe](people/tammie-schoppe) (39), [D  Baughman](people/d-baughman) (22), [Dana Davis](people/dana-davis) (21), [David Duran](people/david-duran) (21). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lex-carroll",
+    "name": "Lex Carroll",
+    "email": "lex.carroll@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

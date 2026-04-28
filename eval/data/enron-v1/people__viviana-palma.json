@@ -1,0 +1,14 @@
+{
+  "slug": "people/viviana-palma",
+  "type": "person",
+  "title": "Viviana Palma",
+  "compiled_truth": "Viviana Palma is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-11-30), Viviana Palma sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/viviana-palma",
+    "name": "Viviana Palma",
+    "email": "viviana.palma@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

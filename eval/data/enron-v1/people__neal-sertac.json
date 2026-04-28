@@ -1,0 +1,14 @@
+{
+  "slug": "people/neal-sertac",
+  "type": "person",
+  "title": "Neal Sertac",
+  "compiled_truth": "Neal Sertac is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-11 to 2001-07-09), Neal Sertac sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-06-11** | First recorded email in corpus\n- **2001-07-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/neal-sertac",
+    "name": "Neal Sertac",
+    "email": "neal.sertac@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

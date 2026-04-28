@@ -1,0 +1,14 @@
+{
+  "slug": "people/kent-shoemaker-ss",
+  "type": "person",
+  "title": "Kent Shoemaker",
+  "compiled_truth": "Kent Shoemaker is an external contact at [Ss](companies/ss). Over the corpus period (2000-10-04 to 2001-05-10), Kent Shoemaker sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-10-04** | First recorded email in corpus\n- **2001-05-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kent-shoemaker-ss",
+    "name": "Kent Shoemaker",
+    "email": "kent.shoemaker@ss.ps.ge.com",
+    "primary_affiliation": "companies/ss"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/quentin-hills-hk",
+  "type": "person",
+  "title": "Quentin Hills",
+  "compiled_truth": "Quentin Hills is an external contact at [Hk](companies/hk). Over the corpus period (2000-09-07 to 2001-05-15), Quentin Hills sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **2000-09-07** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/quentin-hills-hk",
+    "name": "Quentin Hills",
+    "email": "quentin_hills@hk.ml.com",
+    "primary_affiliation": "companies/hk"
+  }
+}

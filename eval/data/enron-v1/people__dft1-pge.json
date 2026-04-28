@@ -1,0 +1,14 @@
+{
+  "slug": "people/dft1-pge",
+  "type": "person",
+  "title": "Dft1",
+  "compiled_truth": "Dft1 is an external contact at [PG&E](companies/pge). Over the corpus period (1999-09-24 to 2001-10-30), Dft1 sent 4 and received 52 emails, totalling 56 interactions. Top correspondents: [Abb](people/abb-eslawfirm) (4), [Agoldberg](people/agoldberg-lgl) (4), [Ahuertas](people/ahuertas-enron) (4), [Alan Reid](people/alan-reid-pancanadian) (4), [Andy Bettwy](people/andy-bettwy-swgas) (4).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-10-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dft1-pge",
+    "name": "Dft1",
+    "email": "dft1@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

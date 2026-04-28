@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-wright",
+  "type": "person",
+  "title": "James Wright",
+  "compiled_truth": "James Wright is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-07 to 2001-09-21), James Wright sent 0 and received 533 emails, totalling 533 interactions.",
+  "timeline": "- **1999-10-07** | First recorded email in corpus\n- **2001-09-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-wright",
+    "name": "James Wright",
+    "email": "james.wright@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

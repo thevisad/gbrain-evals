@@ -1,0 +1,14 @@
+{
+  "slug": "people/anne-c-koehler",
+  "type": "person",
+  "title": "Anne C Koehler",
+  "compiled_truth": "Anne C Koehler is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-05-09), Anne C Koehler sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-05-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anne-c-koehler",
+    "name": "Anne C Koehler",
+    "email": "anne.c.koehler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

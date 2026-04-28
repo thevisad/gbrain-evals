@@ -1,0 +1,24 @@
+{
+  "slug": "meetings/11-00-meeting-cancelled-2001-11",
+  "type": "meeting",
+  "title": "Meeting: 11:00 Meeting Cancelled",
+  "compiled_truth": "Meeting: \"11:00 Meeting Cancelled\". Occurred 2001-11-02 through 2001-11-02 with 2 related emails. Participants included: [C  Koehler](people/c-koehler), [Deb Korkmas](people/deb-korkmas), [Elizabeth Sager](people/elizabeth-sager), [Julia Murray](people/julia-murray), [Marcus Nettelton](people/marcus-nettelton), [Peter Keohane](people/peter-keohane), [Steve Van](people/steve-van), [T  Hodge](people/t-hodge)....",
+  "timeline": "- **2001-11-02** | Meeting: 11:00 meeting cancelled\n- **2001-11-02** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/11-00-meeting-cancelled-2001-11",
+    "attendees": [
+      "people/c-koehler",
+      "people/deb-korkmas",
+      "people/elizabeth-sager",
+      "people/julia-murray",
+      "people/marcus-nettelton",
+      "people/peter-keohane",
+      "people/steve-van",
+      "people/t-hodge",
+      "people/tana-jones",
+      "people/travis-mccullough"
+    ],
+    "date": "2001-11-02"
+  }
+}

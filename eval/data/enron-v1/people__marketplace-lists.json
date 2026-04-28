@@ -1,0 +1,14 @@
+{
+  "slug": "people/marketplace-lists",
+  "type": "person",
+  "title": "Marketplace",
+  "compiled_truth": "Marketplace is an external contact at [Lists](companies/lists). Over the corpus period (2001-04-23 to 2002-02-06), Marketplace sent 37 and received 0 emails, totalling 37 interactions. Top correspondents: [Jeff King](people/jeff-king) (37).",
+  "timeline": "- **2001-04-23** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marketplace-lists",
+    "name": "Marketplace",
+    "email": "marketplace@lists.crosswalk.com",
+    "primary_affiliation": "companies/lists"
+  }
+}

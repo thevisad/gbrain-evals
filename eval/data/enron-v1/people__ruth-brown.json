@@ -1,0 +1,14 @@
+{
+  "slug": "people/ruth-brown",
+  "type": "person",
+  "title": "Ruth Brown",
+  "compiled_truth": "Ruth Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-09 to 2001-05-30), Ruth Brown sent 5 and received 31 emails, totalling 36 interactions. Top correspondents: [V&V Force](people/v-v-force) (3), [Joseph Sutton](people/joseph-sutton) (2), [V&V Assistants](people/v-v-assistants) (2), [James Bannantine](people/james-bannantine) (1), [Cliff Baxter](people/cliff-baxter) (1).",
+  "timeline": "- **1999-12-09** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ruth-brown",
+    "name": "Ruth Brown",
+    "email": "ruth.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

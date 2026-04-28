@@ -1,0 +1,14 @@
+{
+  "slug": "people/amosher-appanet",
+  "type": "person",
+  "title": "Amosher",
+  "compiled_truth": "Amosher is an external contact at [Appanet](companies/appanet). Over the corpus period (2000-08-16 to 2000-10-27), Amosher sent 4 and received 45 emails, totalling 49 interactions. Top correspondents: [Whederman](people/whederman-columbiaenergygroup) (4), [Lfried](people/lfried-uclink) (4), [Jeff Dasovich](people/jeff-dasovich) (4), [Gramlr](people/gramlr-pjm) (3), [Doornbos](people/doornbos-socrates) (3).",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2000-10-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amosher-appanet",
+    "name": "Amosher",
+    "email": "amosher@appanet.org",
+    "primary_affiliation": "companies/appanet"
+  }
+}

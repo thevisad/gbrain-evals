@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-jr",
+  "type": "person",
+  "title": "Joe Jr ",
+  "compiled_truth": "Joe Jr  is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-20 to 2001-11-16), Joe Jr  sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-10-20** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-jr",
+    "name": "Joe Jr ",
+    "email": "joe.jr.@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

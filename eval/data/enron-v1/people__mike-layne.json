@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-layne",
+  "type": "person",
+  "title": "Mike Layne",
+  "compiled_truth": "Mike Layne is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-07 to 2001-10-29), Mike Layne sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-04-07** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-layne",
+    "name": "Mike Layne",
+    "email": "mike.layne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

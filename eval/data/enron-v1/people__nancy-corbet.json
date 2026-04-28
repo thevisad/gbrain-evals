@@ -1,0 +1,14 @@
+{
+  "slug": "people/nancy-corbet",
+  "type": "person",
+  "title": "Nancy Corbet",
+  "compiled_truth": "Nancy Corbet is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-18), Nancy Corbet sent 3 and received 174 emails, totalling 177 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (2), [G  Bushman](people/g-bushman) (2), [Thomas Kalb](people/thomas-kalb) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nancy-corbet",
+    "name": "Nancy Corbet",
+    "email": "nancy.corbet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cwb1-pge",
+  "type": "person",
+  "title": "Cwb1",
+  "compiled_truth": "Cwb1 is an external contact at [PG&E](companies/pge). Over the corpus period (2000-11-15 to 2001-11-21), Cwb1 sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-15** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cwb1-pge",
+    "name": "Cwb1",
+    "email": "cwb1@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

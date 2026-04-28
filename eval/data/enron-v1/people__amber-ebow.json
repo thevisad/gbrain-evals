@@ -1,0 +1,14 @@
+{
+  "slug": "people/amber-ebow",
+  "type": "person",
+  "title": "Amber Ebow",
+  "compiled_truth": "Amber Ebow is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-01 to 2001-11-27), Amber Ebow sent 42 and received 480 emails, totalling 522 interactions. Top correspondents: [Kelly Lombardi](people/kelly-lombardi) (42), [Tom Moran](people/tom-moran) (42), [Tana Jones](people/tana-jones) (42), [Tanya Rohauer](people/tanya-rohauer) (41), [Lesli Campbell](people/lesli-campbell) (41). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-02-01** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amber-ebow",
+    "name": "Amber Ebow",
+    "email": "amber.ebow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

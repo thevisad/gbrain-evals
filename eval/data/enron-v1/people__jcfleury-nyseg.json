@@ -1,0 +1,14 @@
+{
+  "slug": "people/jcfleury-nyseg",
+  "type": "person",
+  "title": "Jcfleury",
+  "compiled_truth": "Jcfleury is an external contact at [Nyseg](companies/nyseg). Over the corpus period (2000-12-01 to 2002-02-25), Jcfleury sent 15 and received 15 emails, totalling 30 interactions. Top correspondents: [Edward Schrom](people/edward-schrom-dps) (15), [Rufrano R](people/rufrano-r-nypa) (15), [Gloehr](people/gloehr-elucem) (15), [Aadamson](people/aadamson-nycap) (15), [Nyiso Tech Exchange](people/nyiso-tech-exchange-global2000) (12).",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jcfleury-nyseg",
+    "name": "Jcfleury",
+    "email": "jcfleury@nyseg.com",
+    "primary_affiliation": "companies/nyseg"
+  }
+}

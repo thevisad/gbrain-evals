@@ -1,0 +1,14 @@
+{
+  "slug": "people/wbn-blakes",
+  "type": "person",
+  "title": "Wbn",
+  "compiled_truth": "Wbn is an external contact at [Blakes](companies/blakes). Over the corpus period (2000-09-19 to 2000-09-22), Wbn sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-09-19** | First recorded email in corpus\n- **2000-09-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wbn-blakes",
+    "name": "Wbn",
+    "email": "wbn@blakes.com",
+    "primary_affiliation": "companies/blakes"
+  }
+}

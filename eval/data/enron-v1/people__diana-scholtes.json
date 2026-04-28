@@ -1,0 +1,14 @@
+{
+  "slug": "people/diana-scholtes",
+  "type": "person",
+  "title": "Diana Scholtes",
+  "compiled_truth": "Diana Scholtes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-20 to 2002-02-21), Diana Scholtes sent 282 and received 1034 emails, totalling 1316 interactions. Top correspondents: [Sean Crandall](people/sean-crandall) (38), [Cara Semperger](people/cara-semperger) (38), [Virginia Thompson](people/virginia-thompson) (35), [Tim Belden](people/tim-belden) (22), [Anne Snyder](people/anne-snyder-pgn) (21). Mailbox folders observed: bill_williams_iii, diana_scholtes, inbox, sent_items, tasks, to_do.",
+  "timeline": "- **2000-07-20** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diana-scholtes",
+    "name": "Diana Scholtes",
+    "email": "diana.scholtes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

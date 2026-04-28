@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-broadfoot",
+  "type": "person",
+  "title": "Mark Broadfoot",
+  "compiled_truth": "Mark Broadfoot is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-11-27), Mark Broadfoot sent 2 and received 16 emails, totalling 18 interactions. Top correspondents: [Amarjitmult](people/amarjitmult-hotmail) (2), [Michelle Cash](people/michelle-cash) (2), [Gary Buck](people/gary-buck) (2), [Becky Quintana](people/becky-quintana) (2), [Norma Yeverino](people/norma-yeverino) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-broadfoot",
+    "name": "Mark Broadfoot",
+    "email": "mark.broadfoot@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

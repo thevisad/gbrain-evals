@@ -1,0 +1,14 @@
+{
+  "slug": "people/candace-williams-mirant",
+  "type": "person",
+  "title": "Candace Williams",
+  "compiled_truth": "Candace Williams is an external contact at [Mirant](companies/mirant). Over the corpus period (2001-04-26 to 2001-05-17), Candace Williams sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2001-05-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/candace-williams-mirant",
+    "name": "Candace Williams",
+    "email": "candace.williams@mirant.com",
+    "primary_affiliation": "companies/mirant"
+  }
+}

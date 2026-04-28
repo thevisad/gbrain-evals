@@ -1,0 +1,14 @@
+{
+  "slug": "people/claudia-meraz",
+  "type": "person",
+  "title": "Claudia Meraz",
+  "compiled_truth": "Claudia Meraz is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-22 to 2001-12-03), Claudia Meraz sent 0 and received 109 emails, totalling 109 interactions.",
+  "timeline": "- **1999-06-22** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/claudia-meraz",
+    "name": "Claudia Meraz",
+    "email": "claudia.meraz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

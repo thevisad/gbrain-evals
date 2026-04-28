@@ -1,0 +1,14 @@
+{
+  "slug": "people/lcentol-lsu",
+  "type": "person",
+  "title": "Lcentol",
+  "compiled_truth": "Lcentol is an external contact at [Lsu](companies/lsu). Over the corpus period (2000-02-09 to 2001-04-20), Lcentol sent 0 and received 50 emails, totalling 50 interactions.",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2001-04-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lcentol-lsu",
+    "name": "Lcentol",
+    "email": "lcentol@lsu.edu",
+    "primary_affiliation": "companies/lsu"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-hennemeyer",
+  "type": "person",
+  "title": "Paul Hennemeyer",
+  "compiled_truth": "Paul Hennemeyer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-11-30), Paul Hennemeyer sent 19 and received 105 emails, totalling 124 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (18), [Peter Styles](people/peter-styles) (6), [Paul Dawson](people/paul-dawson) (5), [Doug Wood](people/doug-wood) (3), [Amr Ibrahim](people/amr-ibrahim) (2). Mailbox folders observed: 2002_budget, deleted_items, notre_dame, personnel, value.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-hennemeyer",
+    "name": "Paul Hennemeyer",
+    "email": "paul.hennemeyer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

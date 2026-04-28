@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeff-gilliam",
+  "type": "person",
+  "title": "Jeff Gilliam",
+  "compiled_truth": "Jeff Gilliam is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-11-13), Jeff Gilliam sent 5 and received 27 emails, totalling 32 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (5), [Ken Choyce](people/ken-choyce) (4), [Shonnie Daniel](people/shonnie-daniel) (3), [Don Baldridge](people/don-baldridge) (2), [Greg Schlender](people/greg-schlender) (1).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeff-gilliam",
+    "name": "Jeff Gilliam",
+    "email": "jeff.gilliam@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

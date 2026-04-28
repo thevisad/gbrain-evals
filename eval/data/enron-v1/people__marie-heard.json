@@ -1,0 +1,14 @@
+{
+  "slug": "people/marie-heard",
+  "type": "person",
+  "title": "Marie Heard",
+  "compiled_truth": "Marie Heard is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-24 to 2002-02-07), Marie Heard sent 877 and received 2432 emails, totalling 3309 interactions. Top correspondents: [Tana Jones](people/tana-jones) (118), [Sara Shackleton](people/sara-shackleton) (107), [ Williams](people/williams) (71), [Tanya Rohauer](people/tanya-rohauer) (67), [N  Gray](people/n-gray) (61). Mailbox folders observed: _americas, deleted_items, inbox, sent, sent_items.",
+  "timeline": "- **1998-11-24** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marie-heard",
+    "name": "Marie Heard",
+    "email": "marie.heard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

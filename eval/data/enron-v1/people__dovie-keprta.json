@@ -1,0 +1,14 @@
+{
+  "slug": "people/dovie-keprta",
+  "type": "person",
+  "title": "Dovie Keprta",
+  "compiled_truth": "Dovie Keprta is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-11-30), Dovie Keprta sent 3 and received 60 emails, totalling 63 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (2), [Felecia Acevedo](people/felecia-acevedo) (1), [John Blaylock](people/john-blaylock) (1), [Khymberly Booth](people/khymberly-booth) (1), [Teresa Bosien](people/teresa-bosien) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dovie-keprta",
+    "name": "Dovie Keprta",
+    "email": "dovie.keprta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

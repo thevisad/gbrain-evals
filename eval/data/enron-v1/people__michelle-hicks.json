@@ -1,0 +1,14 @@
+{
+  "slug": "people/michelle-hicks",
+  "type": "person",
+  "title": "Michelle Hicks",
+  "compiled_truth": "Michelle Hicks is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-10 to 2001-12-14), Michelle Hicks sent 12 and received 124 emails, totalling 136 interactions. Top correspondents: [Kay Mann](people/kay-mann) (5), [Michelle Cash](people/michelle-cash) (3), [Andrew Edison](people/andrew-edison) (3), [Robbi Rossi](people/robbi-rossi) (3), [Jeff Dasovich](people/jeff-dasovich) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-01-10** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michelle-hicks",
+    "name": "Michelle Hicks",
+    "email": "michelle.hicks@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cynthia-siniard",
+  "type": "person",
+  "title": "Cynthia Siniard",
+  "compiled_truth": "Cynthia Siniard is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-09-24), Cynthia Siniard sent 1 and received 3 emails, totalling 4 interactions. Top correspondents: [Julie Armstrong](people/julie-armstrong) (1), [Michelle Lokay](people/michelle-lokay) (1). Mailbox folders observed: tw_commercial_group.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cynthia-siniard",
+    "name": "Cynthia Siniard",
+    "email": "cynthia.siniard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

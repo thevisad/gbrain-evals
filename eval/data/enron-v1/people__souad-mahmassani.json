@@ -1,0 +1,14 @@
+{
+  "slug": "people/souad-mahmassani",
+  "type": "person",
+  "title": "Souad Mahmassani",
+  "compiled_truth": "Souad Mahmassani is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-23 to 2002-02-19), Souad Mahmassani sent 23 and received 397 emails, totalling 420 interactions. Top correspondents: [S  Shively](people/s-shively) (10), [Geoff Storey](people/geoff-storey) (8), [Martin Cuilla](people/martin-cuilla) (6), [Virawan Yawapongsiri](people/virawan-yawapongsiri) (6), [Kevin Ruscitti](people/kevin-ruscitti) (6). Mailbox folders observed: deleted_items, inbox, netco.",
+  "timeline": "- **2000-03-23** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/souad-mahmassani",
+    "name": "Souad Mahmassani",
+    "email": "souad.mahmassani@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

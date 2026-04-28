@@ -1,0 +1,14 @@
+{
+  "slug": "people/npng-operations",
+  "type": "person",
+  "title": "Npng Operations",
+  "compiled_truth": "Npng Operations is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-14 to 2000-03-14), Npng Operations sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-03-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/npng-operations",
+    "name": "Npng Operations",
+    "email": "npng.operations@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

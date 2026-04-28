@@ -1,0 +1,14 @@
+{
+  "slug": "people/ibrahim-qureishi",
+  "type": "person",
+  "title": "Ibrahim Qureishi",
+  "compiled_truth": "Ibrahim Qureishi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-11-28), Ibrahim Qureishi sent 0 and received 91 emails, totalling 91 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ibrahim-qureishi",
+    "name": "Ibrahim Qureishi",
+    "email": "ibrahim.qureishi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

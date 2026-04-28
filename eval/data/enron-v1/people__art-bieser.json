@@ -1,0 +1,14 @@
+{
+  "slug": "people/art-bieser",
+  "type": "person",
+  "title": "Art Bieser",
+  "compiled_truth": "Art Bieser is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-21 to 2001-08-23), Art Bieser sent 1 and received 13 emails, totalling 14 interactions. Top correspondents: [Julia Murray](people/julia-murray) (1), [Harry Collins](people/harry-collins) (1), [Mark Taylor](people/mark-taylor) (1), [Elizabeth Sager](people/elizabeth-sager) (1).",
+  "timeline": "- **2000-04-21** | First recorded email in corpus\n- **2001-08-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/art-bieser",
+    "name": "Art Bieser",
+    "email": "art.bieser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

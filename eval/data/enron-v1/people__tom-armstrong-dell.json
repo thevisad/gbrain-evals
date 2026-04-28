@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-armstrong-dell",
+  "type": "person",
+  "title": "Tom Armstrong",
+  "compiled_truth": "Tom Armstrong is an external contact at [Dell](companies/dell). Over the corpus period (2001-03-02 to 2001-04-30), Tom Armstrong sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-03-02** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-armstrong-dell",
+    "name": "Tom Armstrong",
+    "email": "tom_armstrong@dell.com",
+    "primary_affiliation": "companies/dell"
+  }
+}

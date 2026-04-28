@@ -1,0 +1,14 @@
+{
+  "slug": "people/martin-rosell",
+  "type": "person",
+  "title": "Martin Rosell",
+  "compiled_truth": "Martin Rosell is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-17), Martin Rosell sent 20 and received 94 emails, totalling 114 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (9), [Mark Haedicke](people/mark-haedicke) (5), [Jeffrey Hodge](people/jeffrey-hodge) (5), [Sara Shackleton](people/sara-shackleton) (5), [Scott Sefton](people/scott-sefton) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/martin-rosell",
+    "name": "Martin Rosell",
+    "email": "martin.rosell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

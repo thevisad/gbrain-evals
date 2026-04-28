@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-cowan",
+  "type": "person",
+  "title": "Mike Cowan",
+  "compiled_truth": "Mike Cowan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-04 to 2002-02-21), Mike Cowan sent 4 and received 127 emails, totalling 131 interactions. Top correspondents: [Chris Dorland](people/chris-dorland) (3), [Chris Lambie](people/chris-lambie) (2), [John Zufferli](people/john-zufferli) (1), [Jonathan Mckay](people/jonathan-mckay) (1), [Mike Grigsby](people/mike-grigsby) (1). Mailbox folders observed: deleted_items, enron, inbox.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2002-02-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-cowan",
+    "name": "Mike Cowan",
+    "email": "mike.cowan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

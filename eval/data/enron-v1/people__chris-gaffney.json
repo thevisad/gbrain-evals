@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-gaffney",
+  "type": "person",
+  "title": "Chris Gaffney",
+  "compiled_truth": "Chris Gaffney is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-24), Chris Gaffney sent 32 and received 323 emails, totalling 355 interactions. Top correspondents: [Peter Keohane](people/peter-keohane) (12), [Elizabeth Sager](people/elizabeth-sager) (12), [Tana Jones](people/tana-jones) (12), [Mark Haedicke](people/mark-haedicke) (8), [Paul Devries](people/paul-devries) (5). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-gaffney",
+    "name": "Chris Gaffney",
+    "email": "chris.gaffney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/todd-warwick",
+  "type": "person",
+  "title": "Todd Warwick",
+  "compiled_truth": "Todd Warwick is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2002-02-13), Todd Warwick sent 5 and received 68 emails, totalling 73 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (3), [Louise Kitchen](people/louise-kitchen) (2), [S  Bradford](people/s-bradford) (1), [R  Brackett](people/r-brackett) (1), [Georganne Hodges](people/georganne-hodges) (1). Mailbox folders observed: _americas, inbox.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/todd-warwick",
+    "name": "Todd Warwick",
+    "email": "todd.warwick@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

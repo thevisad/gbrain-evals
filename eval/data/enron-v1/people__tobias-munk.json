@@ -1,0 +1,14 @@
+{
+  "slug": "people/tobias-munk",
+  "type": "person",
+  "title": "Tobias Munk",
+  "compiled_truth": "Tobias Munk is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-30 to 2001-09-21), Tobias Munk sent 5 and received 12 emails, totalling 17 interactions. Top correspondents: [Karissa Johnson](people/karissa-johnson) (2), [Michael Gantt](people/michael-gantt) (2), [Tami Scrudder](people/tami-scrudder) (2), [Darlene Mckeever](people/darlene-mckeever) (2), [Rosalinda Gonzalez](people/rosalinda-gonzalez) (2). Mailbox folders observed: _americas, savedmail.",
+  "timeline": "- **2000-11-30** | First recorded email in corpus\n- **2001-09-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tobias-munk",
+    "name": "Tobias Munk",
+    "email": "tobias.munk@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

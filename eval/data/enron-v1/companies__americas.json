@@ -1,0 +1,34 @@
+{
+  "slug": "companies/americas",
+  "type": "company",
+  "title": "Americas",
+  "compiled_truth": "Americas is an external organization that appears in the Enron email corpus. Domain: americas.com. Total email interactions with Enron: 293. Known contacts: 17 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (293 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/americas",
+    "name": "Americas",
+    "employees": [
+      "people/anthony-carroll-americas",
+      "people/brian-manolis-americas",
+      "people/daryl-dworkin-americas",
+      "people/dora-sung-americas",
+      "people/edward-kevelson-americas",
+      "people/george-ellis-americas",
+      "people/herve-duteil-americas",
+      "people/irene-rodriguez-americas",
+      "people/john-powers-americas",
+      "people/john-roberts-americas",
+      "people/louis-caiafa-americas",
+      "people/michael-byrne-americas",
+      "people/michael-mulligan-americas",
+      "people/mike-ferguson-americas",
+      "people/ric-navy-americas",
+      "people/shaun-pacious-americas",
+      "people/thomas-bentz-americas"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

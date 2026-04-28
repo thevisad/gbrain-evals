@@ -1,0 +1,14 @@
+{
+  "slug": "people/clare-ellis-wood",
+  "type": "person",
+  "title": "Clare Ellis-Wood",
+  "compiled_truth": "Clare Ellis-Wood is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-18 to 2000-04-28), Clare Ellis-Wood sent 1 and received 6 emails, totalling 7 interactions. Top correspondents: [Kristin Albrecht](people/kristin-albrecht) (1), [Leslie Reeves](people/leslie-reeves) (1), [Steve Jackson](people/steve-jackson) (1), [Jeffrey Gossett](people/jeffrey-gossett) (1), [Susan Harrison](people/susan-harrison) (1).",
+  "timeline": "- **2000-02-18** | First recorded email in corpus\n- **2000-04-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clare-ellis-wood",
+    "name": "Clare Ellis-Wood",
+    "email": "clare.ellis-wood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-brockhan",
+  "type": "person",
+  "title": "Richard Brockhan",
+  "compiled_truth": "Richard Brockhan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-29 to 2002-05-18), Richard Brockhan sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-06-29** | First recorded email in corpus\n- **2002-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-brockhan",
+    "name": "Richard Brockhan",
+    "email": "richard.brockhan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/carol-brown",
+  "type": "person",
+  "title": "Carol Brown",
+  "compiled_truth": "Carol Brown is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-09 to 2001-06-20), Carol Brown sent 1 and received 116 emails, totalling 117 interactions. Top correspondents: [Cliff Baxter](people/cliff-baxter) (1), [Jere Overdyke](people/jere-overdyke) (1), [Craig Childers](people/craig-childers) (1), [Dave Delainey](people/dave-delainey) (1), [Greg Whalley](people/greg-whalley) (1).",
+  "timeline": "- **1999-06-09** | First recorded email in corpus\n- **2001-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carol-brown",
+    "name": "Carol Brown",
+    "email": "carol.brown@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

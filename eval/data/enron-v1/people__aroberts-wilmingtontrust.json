@@ -1,0 +1,14 @@
+{
+  "slug": "people/aroberts-wilmingtontrust",
+  "type": "person",
+  "title": "Aroberts",
+  "compiled_truth": "Aroberts is an external contact at [Wilmingtontrust](companies/wilmingtontrust). Over the corpus period (2000-04-12 to 2000-12-22), Aroberts sent 0 and received 74 emails, totalling 74 interactions.",
+  "timeline": "- **2000-04-12** | First recorded email in corpus\n- **2000-12-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aroberts-wilmingtontrust",
+    "name": "Aroberts",
+    "email": "aroberts@wilmingtontrust.com",
+    "primary_affiliation": "companies/wilmingtontrust"
+  }
+}

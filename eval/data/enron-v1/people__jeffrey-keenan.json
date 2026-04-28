@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeffrey-keenan",
+  "type": "person",
+  "title": "Jeffrey Keenan",
+  "compiled_truth": "Jeffrey Keenan is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Jeffrey Keenan sent 3 and received 294 emails, totalling 297 interactions. Top correspondents: [Clint Dean](people/clint-dean) (2), [Barton Clark](people/barton-clark) (1), [Kay Mann](people/kay-mann) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeffrey-keenan",
+    "name": "Jeffrey Keenan",
+    "email": "jeffrey.keenan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

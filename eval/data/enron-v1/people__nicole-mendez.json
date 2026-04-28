@@ -1,0 +1,14 @@
+{
+  "slug": "people/nicole-mendez",
+  "type": "person",
+  "title": "Nicole Mendez",
+  "compiled_truth": "Nicole Mendez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2002-03-29), Nicole Mendez sent 48 and received 72 emails, totalling 120 interactions. Top correspondents: [Dana Davis](people/dana-davis) (43), [Tammy Barta](people/tammy-barta) (18), [Stacy Hardy](people/stacy-hardy) (17), [Brian Schwertner](people/brian-schwertner) (17), [Rosalyn Lum](people/rosalyn-lum) (16). Mailbox folders observed: deleted_items, inbox, personal, vacation.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nicole-mendez",
+    "name": "Nicole Mendez",
+    "email": "nicole.mendez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

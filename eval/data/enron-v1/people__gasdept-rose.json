@@ -1,0 +1,14 @@
+{
+  "slug": "people/gasdept-rose",
+  "type": "person",
+  "title": "Gasdept",
+  "compiled_truth": "Gasdept is an external contact at [Rose](companies/rose). Over the corpus period (2000-11-11 to 2000-11-11), Gasdept sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-11-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gasdept-rose",
+    "name": "Gasdept",
+    "email": "gasdept@rose.net",
+    "primary_affiliation": "companies/rose"
+  }
+}

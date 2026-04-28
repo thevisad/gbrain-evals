@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-clayton",
+  "type": "person",
+  "title": "Paul Clayton",
+  "compiled_truth": "Paul Clayton is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-22 to 2001-11-29), Paul Clayton sent 1 and received 46 emails, totalling 47 interactions. Top correspondents: [Brian Redmond](people/brian-redmond) (1), [Jim Coffey](people/jim-coffey) (1), [Jacquelyn Azore](people/jacquelyn-azore) (1), [Greg Whiting](people/greg-whiting) (1), [Karen Gruesen](people/karen-gruesen) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-03-22** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-clayton",
+    "name": "Paul Clayton",
+    "email": "paul.clayton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

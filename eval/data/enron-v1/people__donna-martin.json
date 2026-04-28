@@ -1,0 +1,14 @@
+{
+  "slug": "people/donna-martin",
+  "type": "person",
+  "title": "Donna Martin",
+  "compiled_truth": "Donna Martin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-06 to 2001-02-06), Donna Martin sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-02-06** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/donna-martin",
+    "name": "Donna Martin",
+    "email": "donna.martin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jane-saladino",
+  "type": "person",
+  "title": "Jane Saladino",
+  "compiled_truth": "Jane Saladino is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-10-12), Jane Saladino sent 0 and received 57 emails, totalling 57 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jane-saladino",
+    "name": "Jane Saladino",
+    "email": "jane.saladino@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

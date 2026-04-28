@@ -1,0 +1,14 @@
+{
+  "slug": "people/barry-pearce",
+  "type": "person",
+  "title": "Barry Pearce",
+  "compiled_truth": "Barry Pearce is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Barry Pearce sent 52 and received 227 emails, totalling 279 interactions. Top correspondents: [Sally Beck](people/sally-beck) (43), [Kristin Albrecht](people/kristin-albrecht) (5), [Fernley Dyson](people/fernley-dyson) (3), [Jim Fallon](people/jim-fallon) (3), [Vince Kaminski](people/vince-kaminski) (3). Mailbox folders observed: _americas, calendar, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/barry-pearce",
+    "name": "Barry Pearce",
+    "email": "barry.pearce@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

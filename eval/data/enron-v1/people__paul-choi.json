@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-choi",
+  "type": "person",
+  "title": "Paul Choi",
+  "compiled_truth": "Paul Choi is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2002-03-08), Paul Choi sent 36 and received 383 emails, totalling 419 interactions. Top correspondents: [Matt Motley](people/matt-motley) (15), [Chris Lackey](people/chris-lackey) (7), [Heather Dunton](people/heather-dunton) (7), [Robert Badeer](people/robert-badeer) (6), [Stewart Rosman](people/stewart-rosman) (6). Mailbox folders observed: bill_williams_iii, inbox, mesa.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2002-03-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-choi",
+    "name": "Paul Choi",
+    "email": "paul.choi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

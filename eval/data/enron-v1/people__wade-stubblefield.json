@@ -1,0 +1,14 @@
+{
+  "slug": "people/wade-stubblefield",
+  "type": "person",
+  "title": "Wade Stubblefield",
+  "compiled_truth": "Wade Stubblefield is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2002-05-06), Wade Stubblefield sent 40 and received 184 emails, totalling 224 interactions. Top correspondents: [D  Steffes](people/d-steffes) (23), [Don Black](people/don-black) (20), [Lynne Ruffer](people/lynne-ruffer) (14), [Kimberley Nelson](people/kimberley-nelson) (13), [Rachel Massey](people/rachel-massey) (12). Mailbox folders observed: credit_issues, deleted_items, ees, inbox, presto_working_files.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/wade-stubblefield",
+    "name": "Wade Stubblefield",
+    "email": "wade.stubblefield@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

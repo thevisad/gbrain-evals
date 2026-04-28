@@ -1,0 +1,14 @@
+{
+  "slug": "people/leonard",
+  "type": "person",
+  "title": " Leonard",
+  "compiled_truth": "Leonard is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-02 to 2001-12-18),  Leonard sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-06-02** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leonard",
+    "name": " Leonard",
+    "email": ".leonard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

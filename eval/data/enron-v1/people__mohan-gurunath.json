@@ -1,0 +1,14 @@
+{
+  "slug": "people/mohan-gurunath",
+  "type": "person",
+  "title": "Mohan Gurunath",
+  "compiled_truth": "Mohan Gurunath is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-11 to 2001-05-15), Mohan Gurunath sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [K Badri](people/k-badri) (1), [Wade Cline](people/wade-cline) (1), [Bruce Lundstrom](people/bruce-lundstrom) (1), [Bonnie Nelson](people/bonnie-nelson) (1), [Sandeep Kohli](people/sandeep-kohli) (1).",
+  "timeline": "- **2000-08-11** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mohan-gurunath",
+    "name": "Mohan Gurunath",
+    "email": "mohan.gurunath@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

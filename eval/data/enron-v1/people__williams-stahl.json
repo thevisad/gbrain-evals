@@ -1,0 +1,14 @@
+{
+  "slug": "people/williams-stahl",
+  "type": "person",
+  "title": "Williams Stahl",
+  "compiled_truth": "Williams Stahl is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-09 to 2002-01-31), Williams Stahl sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2002-01-09** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/williams-stahl",
+    "name": "Williams Stahl",
+    "email": "williams.stahl@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

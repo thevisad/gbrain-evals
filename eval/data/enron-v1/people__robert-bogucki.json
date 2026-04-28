@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-bogucki",
+  "type": "person",
+  "title": "Robert Bogucki",
+  "compiled_truth": "Robert Bogucki is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-01 to 2002-01-03), Robert Bogucki sent 1 and received 22 emails, totalling 23 interactions. Top correspondents: [Larry May](people/larry-may) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-10-01** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-bogucki",
+    "name": "Robert Bogucki",
+    "email": "robert.bogucki@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

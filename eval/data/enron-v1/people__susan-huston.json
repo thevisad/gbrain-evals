@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-huston",
+  "type": "person",
+  "title": "Susan Huston",
+  "compiled_truth": "Susan Huston is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-12-03), Susan Huston sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-huston",
+    "name": "Susan Huston",
+    "email": "susan.huston@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

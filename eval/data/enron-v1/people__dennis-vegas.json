@@ -1,0 +1,14 @@
+{
+  "slug": "people/dennis-vegas",
+  "type": "person",
+  "title": "Dennis Vegas",
+  "compiled_truth": "Dennis Vegas is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-06 to 2001-12-21), Dennis Vegas sent 15 and received 132 emails, totalling 147 interactions. Top correspondents: [J  Kean](people/j-kean) (7), [ Palmer](people/palmer) (5), [John Ambler](people/john-ambler) (4), [Richard Shapiro](people/richard-shapiro) (2), [John Shelk](people/john-shelk) (1). Mailbox folders observed: advertising, deleted_items, inbox, pr___notre_dame.",
+  "timeline": "- **1999-12-06** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dennis-vegas",
+    "name": "Dennis Vegas",
+    "email": "dennis.vegas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

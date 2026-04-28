@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-cilia",
+  "type": "person",
+  "title": "Mary Cilia",
+  "compiled_truth": "Mary Cilia is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Mary Cilia sent 8 and received 31 emails, totalling 39 interactions. Top correspondents: [K  Patrick](people/k-patrick) (5), [Rod Hayslett](people/rod-hayslett) (4), [Buddy Aiken](people/buddy-aiken) (3), [Ron Baker](people/ron-baker) (3), [Peter Berger](people/peter-berger) (3). Mailbox folders observed: deleted_items, inbox, projects.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-cilia",
+    "name": "Mary Cilia",
+    "email": "mary.cilia@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

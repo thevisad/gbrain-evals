@@ -1,0 +1,14 @@
+{
+  "slug": "people/twaggoner-ercot",
+  "type": "person",
+  "title": "Twaggoner",
+  "compiled_truth": "Twaggoner is an external contact at [Ercot](companies/ercot). Over the corpus period (2001-10-19 to 2002-02-06), Twaggoner sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Bergman](people/bergman) (1), [Kbergman](people/kbergman-ercot) (1), [Testplan](people/testplan-ercot) (1), [Set](people/set-ercot) (1), [Retailpilot](people/retailpilot-ercot) (1).",
+  "timeline": "- **2001-10-19** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/twaggoner-ercot",
+    "name": "Twaggoner",
+    "email": "twaggoner@ercot.com",
+    "primary_affiliation": "companies/ercot"
+  }
+}

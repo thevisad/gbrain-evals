@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-nguyen",
+  "type": "person",
+  "title": "Steven Nguyen",
+  "compiled_truth": "Steven Nguyen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-08 to 2000-12-12), Steven Nguyen sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2000-12-08** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-nguyen",
+    "name": "Steven Nguyen",
+    "email": "steven.nguyen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/pverleger-compuserve",
+  "type": "person",
+  "title": "Pverleger",
+  "compiled_truth": "Pverleger is an external contact at [Compuserve](companies/compuserve). Over the corpus period (2001-01-20 to 2001-02-13), Pverleger sent 8 and received 32 emails, totalling 40 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (8).",
+  "timeline": "- **2001-01-20** | First recorded email in corpus\n- **2001-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pverleger-compuserve",
+    "name": "Pverleger",
+    "email": "pverleger@compuserve.com",
+    "primary_affiliation": "companies/compuserve"
+  }
+}

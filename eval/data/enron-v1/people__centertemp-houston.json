@@ -1,0 +1,14 @@
+{
+  "slug": "people/centertemp-houston",
+  "type": "person",
+  "title": "Centertemp",
+  "compiled_truth": "Centertemp is an external contact at [Houston](companies/houston). Over the corpus period (2001-10-16 to 2001-10-16), Centertemp sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-16** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/centertemp-houston",
+    "name": "Centertemp",
+    "email": "centertemp@houston.org",
+    "primary_affiliation": "companies/houston"
+  }
+}

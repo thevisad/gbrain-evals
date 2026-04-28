@@ -1,0 +1,14 @@
+{
+  "slug": "people/tracey-green",
+  "type": "person",
+  "title": "Tracey Green",
+  "compiled_truth": "Tracey Green is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-08 to 2001-11-27), Tracey Green sent 12 and received 16 emails, totalling 28 interactions. Top correspondents: [Dana Davis](people/dana-davis) (12), [Warren Perry](people/warren-perry) (4), [Tanya Valderrama](people/tanya-valderrama) (2), [Julissa Marron](people/julissa-marron) (2), [Lisa Woods](people/lisa-woods) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-11-08** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tracey-green",
+    "name": "Tracey Green",
+    "email": "tracey.green@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

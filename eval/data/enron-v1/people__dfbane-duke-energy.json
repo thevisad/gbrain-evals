@@ -1,0 +1,14 @@
+{
+  "slug": "people/dfbane-duke-energy",
+  "type": "person",
+  "title": "Dfbane",
+  "compiled_truth": "Dfbane is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-02-07 to 2001-03-29), Dfbane sent 0 and received 85 emails, totalling 85 interactions.",
+  "timeline": "- **2000-02-07** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dfbane-duke-energy",
+    "name": "Dfbane",
+    "email": "dfbane@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

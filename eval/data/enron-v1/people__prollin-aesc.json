@@ -1,0 +1,14 @@
+{
+  "slug": "people/prollin-aesc",
+  "type": "person",
+  "title": "Prollin",
+  "compiled_truth": "Prollin is an external contact at [Aesc](companies/aesc). Over the corpus period (2001-04-30 to 2001-05-11), Prollin sent 0 and received 24 emails, totalling 24 interactions.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2001-05-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/prollin-aesc",
+    "name": "Prollin",
+    "email": "prollin@aesc.com",
+    "primary_affiliation": "companies/aesc"
+  }
+}

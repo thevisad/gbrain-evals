@@ -1,0 +1,41 @@
+{
+  "slug": "companies/smud",
+  "type": "company",
+  "title": "Smud",
+  "compiled_truth": "Smud is an external organization that appears in the Enron email corpus. Domain: smud.com. Total email interactions with Enron: 240. Known contacts: 24 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (240 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/smud",
+    "name": "Smud",
+    "employees": [
+      "people/aorchar-smud",
+      "people/aorchard-smud",
+      "people/bbeebe-smud",
+      "people/bbrunel-smud",
+      "people/bjobson-smud",
+      "people/bschwer-smud",
+      "people/cmiller-smud",
+      "people/dennis-holcomb-smud",
+      "people/dudris-smud",
+      "people/grichar-smud",
+      "people/jburke-smud",
+      "people/jglaubi-smud",
+      "people/jmcgowa-smud",
+      "people/jsait-smud",
+      "people/marino-monardi-smud",
+      "people/ntoyama-smud",
+      "people/rdreith-smud",
+      "people/rjelici-smud",
+      "people/sblack-smud",
+      "people/scohn-smud",
+      "people/smartin-smud",
+      "people/ssorey-smud",
+      "people/thaines-smud",
+      "people/tingwer-smud"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/priced-epenergy",
+  "type": "person",
+  "title": "Priced",
+  "compiled_truth": "Priced is an external contact at [Epenergy](companies/epenergy). Over the corpus period (2000-08-10 to 2001-10-19), Priced sent 0 and received 45 emails, totalling 45 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-10-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/priced-epenergy",
+    "name": "Priced",
+    "email": "priced@epenergy.com",
+    "primary_affiliation": "companies/epenergy"
+  }
+}

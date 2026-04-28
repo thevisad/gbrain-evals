@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-campbell",
+  "type": "person",
+  "title": "Larry Campbell",
+  "compiled_truth": "Larry Campbell is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-18), Larry Campbell sent 794 and received 788 emails, totalling 1582 interactions. Top correspondents: [William Kendrick](people/william-kendrick) (191), [Rich Jolly](people/rich-jolly) (136), [John Shafer](people/john-shafer) (129), [Louis Soldano](people/louis-soldano) (110), [Butch Russell](people/butch-russell) (74). Mailbox folders observed: _sent_mail, contacts, deleted_items, enron_power, inbox, power.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-campbell",
+    "name": "Larry Campbell",
+    "email": "larry.campbell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/mauricio-quintana",
+  "type": "person",
+  "title": "Mauricio Quintana",
+  "compiled_truth": "Mauricio Quintana is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-23 to 2001-11-08), Mauricio Quintana sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-23** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mauricio-quintana",
+    "name": "Mauricio Quintana",
+    "email": "mauricio.quintana@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

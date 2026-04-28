@@ -1,0 +1,14 @@
+{
+  "slug": "people/rebecca-mark",
+  "type": "person",
+  "title": "Rebecca Mark",
+  "compiled_truth": "Rebecca Mark is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-16 to 2000-12-08), Rebecca Mark sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **1999-08-16** | First recorded email in corpus\n- **2000-12-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rebecca-mark",
+    "name": "Rebecca Mark",
+    "email": "rebecca.mark@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

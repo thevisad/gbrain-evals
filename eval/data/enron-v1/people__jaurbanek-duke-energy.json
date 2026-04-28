@@ -1,0 +1,14 @@
+{
+  "slug": "people/jaurbanek-duke-energy",
+  "type": "person",
+  "title": "Jaurbanek",
+  "compiled_truth": "Jaurbanek is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-05-01 to 2001-03-29), Jaurbanek sent 0 and received 70 emails, totalling 70 interactions.",
+  "timeline": "- **2000-05-01** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jaurbanek-duke-energy",
+    "name": "Jaurbanek",
+    "email": "jaurbanek@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

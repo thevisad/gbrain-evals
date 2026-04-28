@@ -1,0 +1,14 @@
+{
+  "slug": "people/krieger",
+  "type": "person",
+  "title": "Krieger",
+  "compiled_truth": "Krieger is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-25 to 2002-01-29), Krieger sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-25** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/krieger",
+    "name": "Krieger",
+    "email": "krieger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

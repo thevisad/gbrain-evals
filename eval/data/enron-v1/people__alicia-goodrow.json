@@ -1,0 +1,14 @@
+{
+  "slug": "people/alicia-goodrow",
+  "type": "person",
+  "title": "Alicia Goodrow",
+  "compiled_truth": "Alicia Goodrow is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2001-11-27), Alicia Goodrow sent 18 and received 66 emails, totalling 84 interactions. Top correspondents: [Tana Jones](people/tana-jones) (17), [Lisa Kennedy](people/lisa-kennedy-foleys) (4), [Kleta Kg](people/kleta-kg-hotmail) (4), [Beth Warpmaeker Parti](people/beth-warpmaeker-parti-ecunet) (4), [Wolfmark](people/wolfmark-cibc) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alicia-goodrow",
+    "name": "Alicia Goodrow",
+    "email": "alicia.goodrow@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

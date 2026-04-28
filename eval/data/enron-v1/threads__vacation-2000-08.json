@@ -1,0 +1,31 @@
+{
+  "slug": "threads/vacation-2000-08",
+  "type": "meeting",
+  "title": "Thread: Vacation",
+  "compiled_truth": "Email thread: \"Vacation\". Ran from 2000-08-18 to 2000-09-14 with 11 messages. Participants: [David Parquet](people/david-parquet), [Dick Jenkins](people/dick-jenkins), [Fzerilli](people/fzerilli-optonline), [Ina Rangel](people/ina-rangel), [Jeff Dasovich](people/jeff-dasovich), [John Arnold](people/john-arnold), [John Lavorato](people/john-lavorato), [Joseph Alamo](people/joseph-alamo).",
+  "timeline": "- **2000-08-18** | Thread begins: vacation\n- **2000-09-14** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/vacation-2000-08",
+    "attendees": [
+      "people/david-parquet",
+      "people/dick-jenkins",
+      "people/fzerilli-optonline",
+      "people/ina-rangel",
+      "people/jeff-dasovich",
+      "people/john-arnold",
+      "people/john-lavorato",
+      "people/joseph-alamo",
+      "people/kimberly-brown",
+      "people/mpetroch",
+      "people/paul-kaufman",
+      "people/peter-keavey",
+      "people/sandra-mccubbin",
+      "people/scott-neal",
+      "people/shirley-crenshaw",
+      "people/susan-mara",
+      "people/vince-kaminski"
+    ],
+    "date": "2000-08-18"
+  }
+}

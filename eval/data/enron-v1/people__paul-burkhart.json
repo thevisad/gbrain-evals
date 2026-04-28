@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-burkhart",
+  "type": "person",
+  "title": "Paul Burkhart",
+  "compiled_truth": "Paul Burkhart is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2002-02-07), Paul Burkhart sent 1 and received 25 emails, totalling 26 interactions. Top correspondents: [Eric Bass](people/eric-bass) (1).",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-burkhart",
+    "name": "Paul Burkhart",
+    "email": "paul.burkhart@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

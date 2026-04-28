@@ -1,0 +1,14 @@
+{
+  "slug": "people/titman-mail",
+  "type": "person",
+  "title": "Titman",
+  "compiled_truth": "Titman is an external contact at [Mail](companies/mail). Over the corpus period (1999-12-28 to 2001-08-10), Titman sent 10 and received 33 emails, totalling 43 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (7), [Vince J Kaminski](people/vince-j-kaminski) (3), [Shirley Crenshaw](people/shirley-crenshaw) (1).",
+  "timeline": "- **1999-12-28** | First recorded email in corpus\n- **2001-08-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/titman-mail",
+    "name": "Titman",
+    "email": "titman@mail.utexas.edu",
+    "primary_affiliation": "companies/mail"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rocio-martinez",
+  "type": "person",
+  "title": "Rocio Martinez",
+  "compiled_truth": "Rocio Martinez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2001-11-02), Rocio Martinez sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rocio-martinez",
+    "name": "Rocio Martinez",
+    "email": "rocio.martinez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

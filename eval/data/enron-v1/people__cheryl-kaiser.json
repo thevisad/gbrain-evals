@@ -1,0 +1,14 @@
+{
+  "slug": "people/cheryl-kaiser",
+  "type": "person",
+  "title": "Cheryl Kaiser",
+  "compiled_truth": "Cheryl Kaiser is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-08 to 2000-12-12), Cheryl Kaiser sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-12-08** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cheryl-kaiser",
+    "name": "Cheryl Kaiser",
+    "email": "cheryl.kaiser@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/fireice-crosslink",
+  "type": "person",
+  "title": "Fireice",
+  "compiled_truth": "Fireice is an external contact at [Crosslink](companies/crosslink). Over the corpus period (2001-07-13 to 2001-07-13), Fireice sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-07-13** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fireice-crosslink",
+    "name": "Fireice",
+    "email": "fireice@crosslink.net",
+    "primary_affiliation": "companies/crosslink"
+  }
+}

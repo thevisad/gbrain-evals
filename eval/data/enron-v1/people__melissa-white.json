@@ -1,0 +1,14 @@
+{
+  "slug": "people/melissa-white",
+  "type": "person",
+  "title": "Melissa White",
+  "compiled_truth": "Melissa White is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-22 to 2001-12-04), Melissa White sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **1999-12-22** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melissa-white",
+    "name": "Melissa White",
+    "email": "melissa.white@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/gretel-smith",
+  "type": "person",
+  "title": "Gretel Smith",
+  "compiled_truth": "Gretel Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2000-12-07), Gretel Smith sent 4 and received 32 emails, totalling 36 interactions. Top correspondents: [Cecilia Wingate](people/cecilia-wingate) (2), [Christa Winfrey](people/christa-winfrey) (2). Mailbox folders observed: _sent_mail, sent.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2000-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gretel-smith",
+    "name": "Gretel Smith",
+    "email": "gretel.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

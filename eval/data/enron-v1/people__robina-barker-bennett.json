@@ -1,0 +1,14 @@
+{
+  "slug": "people/robina-barker-bennett",
+  "type": "person",
+  "title": "Robina Barker-Bennett",
+  "compiled_truth": "Robina Barker-Bennett is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-16 to 2001-10-25), Robina Barker-Bennett sent 1 and received 26 emails, totalling 27 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (1). Mailbox folders observed: _americas.",
+  "timeline": "- **1999-07-16** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robina-barker-bennett",
+    "name": "Robina Barker-Bennett",
+    "email": "robina.barker-bennett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

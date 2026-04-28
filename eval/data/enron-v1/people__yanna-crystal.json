@@ -1,0 +1,14 @@
+{
+  "slug": "people/yanna-crystal",
+  "type": "person",
+  "title": "Yanna Crystal",
+  "compiled_truth": "Yanna Crystal is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2000-08-02), Yanna Crystal sent 0 and received 23 emails, totalling 23 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2000-08-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yanna-crystal",
+    "name": "Yanna Crystal",
+    "email": "yanna.crystal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

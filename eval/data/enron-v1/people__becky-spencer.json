@@ -1,0 +1,14 @@
+{
+  "slug": "people/becky-spencer",
+  "type": "person",
+  "title": "Becky Spencer",
+  "compiled_truth": "Becky Spencer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-19 to 2002-03-29), Becky Spencer sent 129 and received 456 emails, totalling 585 interactions. Top correspondents: [Tana Jones](people/tana-jones) (73), [Sara Shackleton](people/sara-shackleton) (71), [Stephanie Panus](people/stephanie-panus) (63), [Samantha Boyd](people/samantha-boyd) (58), [Susan Bailey](people/susan-bailey) (57). Mailbox folders observed: deleted_items, inbox, time_off.",
+  "timeline": "- **2000-10-19** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/becky-spencer",
+    "name": "Becky Spencer",
+    "email": "becky.spencer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

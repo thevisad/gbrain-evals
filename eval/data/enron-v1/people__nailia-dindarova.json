@@ -1,0 +1,14 @@
+{
+  "slug": "people/nailia-dindarova",
+  "type": "person",
+  "title": "Nailia Dindarova",
+  "compiled_truth": "Nailia Dindarova is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-26 to 2001-11-19), Nailia Dindarova sent 6 and received 96 emails, totalling 102 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (4), [Steven Kean](people/steven-kean) (2), [James Steffes](people/james-steffes) (2), [Paul Dawson](people/paul-dawson) (2), [Peter Styles](people/peter-styles) (2).",
+  "timeline": "- **2000-07-26** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nailia-dindarova",
+    "name": "Nailia Dindarova",
+    "email": "nailia.dindarova@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/dnappi-nyse",
+  "type": "person",
+  "title": "Dnappi",
+  "compiled_truth": "Dnappi is an external contact at [Nyse](companies/nyse). Over the corpus period (2001-11-06 to 2001-11-16), Dnappi sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-11-06** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dnappi-nyse",
+    "name": "Dnappi",
+    "email": "dnappi@nyse.com",
+    "primary_affiliation": "companies/nyse"
+  }
+}

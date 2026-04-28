@@ -1,0 +1,14 @@
+{
+  "slug": "people/elisa-tamez",
+  "type": "person",
+  "title": "Elisa Tamez",
+  "compiled_truth": "Elisa Tamez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-03 to 2001-11-27), Elisa Tamez sent 1 and received 21 emails, totalling 22 interactions. Top correspondents: [Scott Neal](people/scott-neal) (1).",
+  "timeline": "- **2000-03-03** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/elisa-tamez",
+    "name": "Elisa Tamez",
+    "email": "elisa.tamez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

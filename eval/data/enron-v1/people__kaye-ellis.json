@@ -1,0 +1,14 @@
+{
+  "slug": "people/kaye-ellis",
+  "type": "person",
+  "title": "Kaye Ellis",
+  "compiled_truth": "Kaye Ellis is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-07 to 2001-06-12), Kaye Ellis sent 139 and received 978 emails, totalling 1117 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (43), [Mark Taylor](people/mark-taylor) (18), [Mary Cook](people/mary-cook) (11), [Carol Clair](people/carol-clair) (9), [Susan Bailey](people/susan-bailey) (9). Mailbox folders observed: sent.",
+  "timeline": "- **1999-05-07** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kaye-ellis",
+    "name": "Kaye Ellis",
+    "email": "kaye.ellis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

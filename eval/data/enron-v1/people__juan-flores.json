@@ -1,0 +1,14 @@
+{
+  "slug": "people/juan-flores",
+  "type": "person",
+  "title": "Juan Flores",
+  "compiled_truth": "Juan Flores is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2000-12-12), Juan Flores sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/juan-flores",
+    "name": "Juan Flores",
+    "email": "juan.flores@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

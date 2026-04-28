@@ -1,0 +1,14 @@
+{
+  "slug": "people/nikole-jackson",
+  "type": "person",
+  "title": "Nikole Jackson",
+  "compiled_truth": "Nikole Jackson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-06 to 2002-03-29), Nikole Jackson sent 2 and received 10 emails, totalling 12 interactions. Top correspondents: [Jim Coffey](people/jim-coffey) (2), [Georgeanne Hodges](people/georgeanne-hodges) (2), [Greg Whiting](people/greg-whiting) (2), [Troy Denetsosie](people/troy-denetsosie) (2), [Thomas Martin](people/thomas-martin) (2).",
+  "timeline": "- **2001-02-06** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nikole-jackson",
+    "name": "Nikole Jackson",
+    "email": "nikole.jackson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

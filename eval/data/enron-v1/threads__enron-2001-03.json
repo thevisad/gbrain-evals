@@ -1,0 +1,32 @@
+{
+  "slug": "threads/enron-2001-03",
+  "type": "meeting",
+  "title": "Thread: Enron",
+  "compiled_truth": "Email thread: \"Enron\". Ran from 2001-03-19 to 2001-04-12 with 6 messages. Participants: [Byoung](people/byoung-llgm), [Ceklund](people/ceklund-llgm), [James Steffes](people/james-steffes), [Jklauber](people/jklauber-llgm), [Karen Denne](people/karen-denne), [Kim Ward](people/kim-ward), [Lbracken](people/lbracken-summitenergy), [Lisa Mellencamp](people/lisa-mellencamp).",
+  "timeline": "- **2001-03-19** | Thread begins: enron\n- **2001-04-12** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-2001-03",
+    "attendees": [
+      "people/byoung-llgm",
+      "people/ceklund-llgm",
+      "people/james-steffes",
+      "people/jklauber-llgm",
+      "people/karen-denne",
+      "people/kim-ward",
+      "people/lbracken-summitenergy",
+      "people/lisa-mellencamp",
+      "people/mark-koenig",
+      "people/michael-tribolet",
+      "people/mike-mcconnell",
+      "people/richard-sanders",
+      "people/richard-shapiro",
+      "people/rick-buy",
+      "people/robert-jones",
+      "people/steven-kean",
+      "people/stirman-mail",
+      "people/william-bradford"
+    ],
+    "date": "2001-03-19"
+  }
+}

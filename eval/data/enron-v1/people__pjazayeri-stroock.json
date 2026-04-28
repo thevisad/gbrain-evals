@@ -1,0 +1,14 @@
+{
+  "slug": "people/pjazayeri-stroock",
+  "type": "person",
+  "title": "Pjazayeri",
+  "compiled_truth": "Pjazayeri is an external contact at [Stroock](companies/stroock). Over the corpus period (2001-02-02 to 2001-06-06), Pjazayeri sent 0 and received 37 emails, totalling 37 interactions.",
+  "timeline": "- **2001-02-02** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pjazayeri-stroock",
+    "name": "Pjazayeri",
+    "email": "pjazayeri@stroock.com",
+    "primary_affiliation": "companies/stroock"
+  }
+}

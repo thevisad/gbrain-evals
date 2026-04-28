@@ -1,0 +1,31 @@
+{
+  "slug": "meetings/hiring-panel-1-2026-09-08",
+  "type": "meeting",
+  "title": "Hiring Panel — DevRel Lead (Wren Johansson) — 2026-09-08",
+  "compiled_truth": "Panel interview conducted on 2026-09-08 for the DevRel Lead position at [Anchor Codec](companies/anchor). Attendees were [Seren Voss](people/seren-voss) (CEO), [Miro Bergmann](people/miro-bergmann) (Head of Engineering), and [Paz Santos](people/paz-santos) (Marketing & Community). Candidate: Wren Johansson, currently a senior developer advocate at a mid-stage observability startup, previously ran community programs at a CDN company for three years.\n\nSeren opened the panel by framing the role — Anchor needs someone who can translate the single-pass primitives story into something developers actually want to try on a Saturday afternoon. She noted that right now the docs are written by engineers for engineers, which is fine for the first 50 users but won't scale to the next 500. Miro followed up with a technical deep-dive segment. He asked Wren to whiteboard a hypothetical onboarding tutorial for a new integration partner. Wren's instinct was to start with a working code sample rather than architecture diagrams, which Miro liked. He did flag that Wren's understanding of deterministic data infrastructure was surface-level, but said that's fixable — \"we can teach the codec, we can't teach taste.\"\n\nPaz ran the culture and strategy portion. She pushed hard on how Wren would handle the tension between community authenticity and company messaging. Wren gave a solid answer about \"earned credibility\" — the idea that devrel content should be useful even if you never buy the product. Paz was visibly impressed. One concern she raised afterward: Wren has never built a devrel function from scratch, always inherited existing programs. Given that Anchor's devrel is essentially greenfield, this is a real gap.\n\nPost-interview debrief was quick. Seren leaned toward a strong yes. Miro was a soft yes contingent on a take-home exercize — he wants to see Wren produce a draft quickstart guide from Anchor's existing API docs. Paz was the most cautious, rating Wren a \"yes with reservations\" and suggesting a second conversation focused specifically on content strategy and launch planning. The panel agreed to reconvene after the take-home is submitted, expected by end of week.\n\nOverall impression: Wren is the strongest candidate in the pipeline so far. Previous candidates lacked either the technical depth or the storytelling chops. This one has both, mostly.",
+  "timeline": [
+    "- **2026-08-19** | DevRel Lead job posting goes live on Anchor's careers page and developer community boards.",
+    "- **2026-08-28** | [Paz Santos](people/paz-santos) screens Wren Johansson's application; moves to panel stage after phone screen.",
+    "- **2026-09-08** | Hiring panel conducted with [Seren Voss](people/seren-voss), [Miro Bergmann](people/miro-bergmann), and Paz. Outcome: conditional advance pending take-home exercise.",
+    "- **2026-09-12** | Wren submits take-home quickstart guide draft. Miro reviews and rates it 'above expectations.'",
+    "- **2026-09-16** | Second-round conversation between Wren and Paz focused on content strategy and launch cadence.",
+    "- **2026-09-22** | Offer extended to Wren Johansson for DevRel Lead at [Anchor Codec](companies/anchor). Accepted same day.",
+    "- **2026-10-07** | Wren's first day. Onboarding week includes pairing sessions with Miro's engineering team.",
+    "- **2026-11-15** | Wren publishes first official Anchor quickstart tutorial; receives strong engagement on developer forums.",
+    "- **2027-01-20** | Wren presents 90-day devrel strategy review to leadership. Paz and Seren approve expanded content roadmap."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/hiring-panel-1-2026-09-08",
+    "name": "Hiring Panel — DevRel Lead",
+    "meeting_type": "hiring_panel",
+    "date": "2026-09-08",
+    "attendees": [
+      "people/seren-voss",
+      "people/miro-bergmann",
+      "people/paz-santos"
+    ],
+    "topic_company": "companies/anchor",
+    "topic": "Interview panel for Wren Johansson (DevRel Lead)"
+  }
+}

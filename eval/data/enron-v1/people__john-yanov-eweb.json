@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-yanov-eweb",
+  "type": "person",
+  "title": "John Yanov",
+  "compiled_truth": "John Yanov is an external contact at [Eweb](companies/eweb). Over the corpus period (2001-02-20 to 2001-04-27), John Yanov sent 0 and received 67 emails, totalling 67 interactions.",
+  "timeline": "- **2001-02-20** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-yanov-eweb",
+    "name": "John Yanov",
+    "email": "john.yanov@eweb.eugene.or.us",
+    "primary_affiliation": "companies/eweb"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/karin-williams",
+  "type": "person",
+  "title": "Karin Williams",
+  "compiled_truth": "Karin Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-09 to 2001-12-06), Karin Williams sent 0 and received 89 emails, totalling 89 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karin-williams",
+    "name": "Karin Williams",
+    "email": "karin.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/hector-campos",
+  "type": "person",
+  "title": "Hector Campos",
+  "compiled_truth": "Hector Campos is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-04 to 2001-10-12), Hector Campos sent 13 and received 276 emails, totalling 289 interactions. Top correspondents: [Eric Bass](people/eric-bass) (7), [Brian Hoskins](people/brian-hoskins) (6), [Lenine Jeganathan](people/lenine-jeganathan) (4), [Vince Kaminski](people/vince-kaminski) (4), [Shanna Husser](people/shanna-husser) (2).",
+  "timeline": "- **2000-01-04** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hector-campos",
+    "name": "Hector Campos",
+    "email": "hector.campos@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

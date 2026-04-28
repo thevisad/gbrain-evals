@@ -1,0 +1,25 @@
+{
+  "slug": "companies/sablaw",
+  "type": "company",
+  "title": "Sablaw",
+  "compiled_truth": "Sablaw is an external organization that appears in the Enron email corpus. Domain: sablaw.com. Total email interactions with Enron: 520. Known contacts: 8 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (520 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/sablaw",
+    "name": "Sablaw",
+    "employees": [
+      "people/brudy-sablaw",
+      "people/dfrank-sablaw",
+      "people/jbushee-sablaw",
+      "people/jsmith-sablaw",
+      "people/kmccrea-sablaw",
+      "people/rnoland-sablaw",
+      "people/wdavis-sablaw",
+      "people/wpenniman-sablaw"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

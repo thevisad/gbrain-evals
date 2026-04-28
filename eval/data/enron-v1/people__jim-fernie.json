@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-fernie",
+  "type": "person",
+  "title": "Jim Fernie",
+  "compiled_truth": "Jim Fernie is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-12 to 2001-10-29), Jim Fernie sent 1 and received 171 emails, totalling 172 interactions. Top correspondents: [Wayne Perry](people/wayne-perry) (1), [Tony Galt](people/tony-galt) (1), [Dan Masters](people/dan-masters) (1), [Paul Y'Barbo](people/paul-y-barbo) (1), [Cindy Long](people/cindy-long) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-fernie",
+    "name": "Jim Fernie",
+    "email": "jim.fernie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

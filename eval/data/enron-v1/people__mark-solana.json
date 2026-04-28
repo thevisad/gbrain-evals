@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-solana",
+  "type": "person",
+  "title": "Mark Solana",
+  "compiled_truth": "Mark Solana is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-06 to 2001-07-20), Mark Solana sent 1 and received 5 emails, totalling 6 interactions. Top correspondents: [Gloria Taylor](people/gloria-taylor) (1), [Sue Wadsworth](people/sue-wadsworth) (1), [Elizabeth Peters](people/elizabeth-peters) (1), [Randall Hicks](people/randall-hicks) (1), [Jennifer Mcclain](people/jennifer-mcclain) (1). Mailbox folders observed: misc.",
+  "timeline": "- **2001-04-06** | First recorded email in corpus\n- **2001-07-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-solana",
+    "name": "Mark Solana",
+    "email": "mark.solana@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

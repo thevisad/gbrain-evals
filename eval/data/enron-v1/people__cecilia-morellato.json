@@ -1,0 +1,14 @@
+{
+  "slug": "people/cecilia-morellato",
+  "type": "person",
+  "title": "Cecilia Morellato",
+  "compiled_truth": "Cecilia Morellato is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-07 to 2000-11-28), Cecilia Morellato sent 1 and received 18 emails, totalling 19 interactions. Top correspondents: [Mark E Haedicke Ect](people/mark-e-haedicke-ect) (1), [Mtaylo1](people/mtaylo1) (1), [Randy Young](people/randy-young) (1), [Brent Hendry](people/brent-hendry) (1), [Elizabeth Serralheiro](people/elizabeth-serralheiro) (1).",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2000-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cecilia-morellato",
+    "name": "Cecilia Morellato",
+    "email": "cecilia.morellato@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

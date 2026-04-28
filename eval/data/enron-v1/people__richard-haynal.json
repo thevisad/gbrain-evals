@@ -1,0 +1,14 @@
+{
+  "slug": "people/richard-haynal",
+  "type": "person",
+  "title": "Richard Haynal",
+  "compiled_truth": "Richard Haynal is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-23 to 2001-11-19), Richard Haynal sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-23** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/richard-haynal",
+    "name": "Richard Haynal",
+    "email": "richard.haynal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

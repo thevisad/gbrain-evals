@@ -1,0 +1,14 @@
+{
+  "slug": "people/pavel-zadorozhny",
+  "type": "person",
+  "title": "Pavel Zadorozhny",
+  "compiled_truth": "Pavel Zadorozhny is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-06-26), Pavel Zadorozhny sent 2 and received 43 emails, totalling 45 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1), [John Nowlan](people/john-nowlan) (1), [Greg Whalley](people/greg-whalley) (1).",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-06-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pavel-zadorozhny",
+    "name": "Pavel Zadorozhny",
+    "email": "pavel.zadorozhny@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

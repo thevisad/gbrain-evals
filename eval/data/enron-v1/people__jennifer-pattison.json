@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-pattison",
+  "type": "person",
+  "title": "Jennifer Pattison",
+  "compiled_truth": "Jennifer Pattison is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-20 to 2001-06-12), Jennifer Pattison sent 0 and received 53 emails, totalling 53 interactions.",
+  "timeline": "- **1999-12-20** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-pattison",
+    "name": "Jennifer Pattison",
+    "email": "jennifer.pattison@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

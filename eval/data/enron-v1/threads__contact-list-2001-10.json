@@ -1,0 +1,29 @@
+{
+  "slug": "threads/contact-list-2001-10",
+  "type": "meeting",
+  "title": "Thread: Contact List",
+  "compiled_truth": "Email thread: \"Contact List\". Ran from 2001-10-31 to 2001-11-26 with 7 messages. Participants: [Buckley Michael](people/buckley-michael), [Christina Valdez](people/christina-valdez), [Gonda Ellen](people/gonda-ellen), [J  Farmer](people/j-farmer), [J  Kean](people/j-kean), [Karen Denne](people/karen-denne), [Lipin Steve](people/lipin-steve), [Mark Koenig](people/mark-koenig).",
+  "timeline": "- **2001-10-31** | Thread begins: contact list\n- **2001-11-26** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/contact-list-2001-10",
+    "attendees": [
+      "people/buckley-michael",
+      "people/christina-valdez",
+      "people/gonda-ellen",
+      "people/j-farmer",
+      "people/j-kean",
+      "people/karen-denne",
+      "people/lipin-steve",
+      "people/mark-koenig",
+      "people/mbuckley-brunswickgroup",
+      "people/michael-salinas",
+      "people/palmer",
+      "people/payne-tim",
+      "people/rao-lekha",
+      "people/sally-beck",
+      "people/slipin-brunswickgroup"
+    ],
+    "date": "2001-10-31"
+  }
+}

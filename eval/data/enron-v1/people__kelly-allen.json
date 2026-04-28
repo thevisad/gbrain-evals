@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-allen",
+  "type": "person",
+  "title": "Kelly Allen",
+  "compiled_truth": "Kelly Allen is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-27 to 2002-05-06), Kelly Allen sent 10 and received 48 emails, totalling 58 interactions. Top correspondents: [Teb Lokey](people/teb-lokey) (9), [Stephen Veatch](people/stephen-veatch) (5), [Robert Kilmer](people/robert-kilmer) (3), [Lindy Donoho](people/lindy-donoho) (2), [Kimberly Watson](people/kimberly-watson) (1). Mailbox folders observed: deleted_items, inbox, tw_commercial_group.",
+  "timeline": "- **2001-09-27** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-allen",
+    "name": "Kelly Allen",
+    "email": "kelly.allen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

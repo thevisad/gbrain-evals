@@ -1,0 +1,14 @@
+{
+  "slug": "people/tracy-ngo",
+  "type": "person",
+  "title": "Tracy Ngo",
+  "compiled_truth": "Tracy Ngo is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-06), Tracy Ngo sent 102 and received 1390 emails, totalling 1492 interactions. Top correspondents: [Edward Sacks](people/edward-sacks) (36), [Sara Shackleton](people/sara-shackleton) (36), [William Bradford](people/william-bradford) (31), [Elizabeth Sager](people/elizabeth-sager) (27), [Wendy Conwell](people/wendy-conwell) (26). Mailbox folders observed: _americas, california_issues, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tracy-ngo",
+    "name": "Tracy Ngo",
+    "email": "tracy.ngo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

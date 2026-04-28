@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-hunter",
+  "type": "person",
+  "title": "Joe Hunter",
+  "compiled_truth": "Joe Hunter is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-23 to 2002-03-01), Joe Hunter sent 4 and received 179 emails, totalling 183 interactions. Top correspondents: [Errol Mclaughlin](people/errol-mclaughlin) (1), [S  Pollan](people/s-pollan) (1), [Diane Anderson](people/diane-anderson) (1), [Sara Shackleton](people/sara-shackleton) (1), [Patrick Ryder](people/patrick-ryder) (1). Mailbox folders observed: deleted_items, nymex, online_trading.",
+  "timeline": "- **2001-03-23** | First recorded email in corpus\n- **2002-03-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-hunter",
+    "name": "Joe Hunter",
+    "email": "joe.hunter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-meador",
+  "type": "person",
+  "title": "Jennifer Meador",
+  "compiled_truth": "Jennifer Meador is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-06-20), Jennifer Meador sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-meador",
+    "name": "Jennifer Meador",
+    "email": "jennifer.meador@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

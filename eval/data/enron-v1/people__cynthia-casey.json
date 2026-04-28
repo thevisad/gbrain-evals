@@ -1,0 +1,14 @@
+{
+  "slug": "people/cynthia-casey",
+  "type": "person",
+  "title": "Cynthia Casey",
+  "compiled_truth": "Cynthia Casey is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-17 to 2001-05-17), Cynthia Casey sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-05-17** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cynthia-casey",
+    "name": "Cynthia Casey",
+    "email": "cynthia.casey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

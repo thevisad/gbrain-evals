@@ -1,0 +1,14 @@
+{
+  "slug": "people/purvi-patel",
+  "type": "person",
+  "title": "Purvi Patel",
+  "compiled_truth": "Purvi Patel is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-06-06), Purvi Patel sent 2 and received 85 emails, totalling 87 interactions. Top correspondents: [Peter Keavey](people/peter-keavey) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/purvi-patel",
+    "name": "Purvi Patel",
+    "email": "purvi.patel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

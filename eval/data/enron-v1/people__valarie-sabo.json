@@ -1,0 +1,14 @@
+{
+  "slug": "people/valarie-sabo",
+  "type": "person",
+  "title": "Valarie Sabo",
+  "compiled_truth": "Valarie Sabo is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-25 to 2001-06-12), Valarie Sabo sent 19 and received 201 emails, totalling 220 interactions. Top correspondents: [Stacey White](people/stacey-white) (13), [Tim Belden](people/tim-belden) (5), [Fran Chang](people/fran-chang) (5), [Monica Lande](people/monica-lande) (4), [Kate Symes](people/kate-symes) (4).",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2001-06-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/valarie-sabo",
+    "name": "Valarie Sabo",
+    "email": "valarie.sabo@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

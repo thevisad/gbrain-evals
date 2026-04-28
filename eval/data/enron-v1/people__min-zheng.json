@@ -1,0 +1,14 @@
+{
+  "slug": "people/min-zheng",
+  "type": "person",
+  "title": "Min Zheng",
+  "compiled_truth": "Min Zheng is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-08), Min Zheng sent 9 and received 35 emails, totalling 44 interactions. Top correspondents: [Norman Lee](people/norman-lee) (8), [W  White](people/w-white) (8), [Casey Evans](people/casey-evans) (5), [John Postlethwaite](people/john-postlethwaite) (4), [Kathy Reeves](people/kathy-reeves) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/min-zheng",
+    "name": "Min Zheng",
+    "email": "min.zheng@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

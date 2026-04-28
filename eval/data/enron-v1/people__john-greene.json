@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-greene",
+  "type": "person",
+  "title": "John Greene",
+  "compiled_truth": "John Greene is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-25), John Greene sent 13 and received 127 emails, totalling 140 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (13), [Sheila Glover](people/sheila-glover) (8), [Gary Hickerson](people/gary-hickerson) (5), [Laurel Adams](people/laurel-adams) (5), [Paul Simons](people/paul-simons) (4).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-greene",
+    "name": "John Greene",
+    "email": "john.greene@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

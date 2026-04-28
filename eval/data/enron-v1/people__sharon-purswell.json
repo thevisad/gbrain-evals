@@ -1,0 +1,14 @@
+{
+  "slug": "people/sharon-purswell",
+  "type": "person",
+  "title": "Sharon Purswell",
+  "compiled_truth": "Sharon Purswell is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-20), Sharon Purswell sent 2 and received 92 emails, totalling 94 interactions. Top correspondents: [Shirley Crenshaw](people/shirley-crenshaw) (2), [Vince Kaminski](people/vince-kaminski) (2), [Grant Masson](people/grant-masson) (1), [Mike Roberts](people/mike-roberts) (1), [Kevin Golden](people/kevin-golden) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sharon-purswell",
+    "name": "Sharon Purswell",
+    "email": "sharon.purswell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

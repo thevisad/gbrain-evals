@@ -1,0 +1,14 @@
+{
+  "slug": "people/kpdiver1-aol",
+  "type": "person",
+  "title": "Kpdiver1",
+  "compiled_truth": "Kpdiver1 is an external contact at [AOL](companies/aol). Over the corpus period (2000-05-21 to 2000-11-25), Kpdiver1 sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kpdiver1-aol",
+    "name": "Kpdiver1",
+    "email": "kpdiver1@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

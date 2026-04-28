@@ -1,0 +1,14 @@
+{
+  "slug": "people/mbulk-apx",
+  "type": "person",
+  "title": "Mbulk",
+  "compiled_truth": "Mbulk is an external contact at [Apx](companies/apx). Over the corpus period (2001-07-10 to 2002-01-02), Mbulk sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2001-07-10** | First recorded email in corpus\n- **2002-01-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mbulk-apx",
+    "name": "Mbulk",
+    "email": "mbulk@apx.com",
+    "primary_affiliation": "companies/apx"
+  }
+}

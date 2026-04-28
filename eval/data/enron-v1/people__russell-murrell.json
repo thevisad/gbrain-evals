@@ -1,0 +1,14 @@
+{
+  "slug": "people/russell-murrell",
+  "type": "person",
+  "title": "Russell Murrell",
+  "compiled_truth": "Russell Murrell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-05 to 2001-05-25), Russell Murrell sent 9 and received 26 emails, totalling 35 interactions. Top correspondents: [Dan Hyvl](people/dan-hyvl) (6), [Dwear](people/dwear-pecorp) (3), [Steven Curlee](people/steven-curlee) (3), [Laura Luce](people/laura-luce) (3), [M Klyasheff](people/m-klyasheff-pecorp) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-04-05** | First recorded email in corpus\n- **2001-05-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/russell-murrell",
+    "name": "Russell Murrell",
+    "email": "russell.murrell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

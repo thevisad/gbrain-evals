@@ -1,0 +1,14 @@
+{
+  "slug": "people/larrissa-sharma",
+  "type": "person",
+  "title": "Larrissa Sharma",
+  "compiled_truth": "Larrissa Sharma is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2002-05-18), Larrissa Sharma sent 1 and received 31 emails, totalling 32 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1).",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2002-05-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larrissa-sharma",
+    "name": "Larrissa Sharma",
+    "email": "larrissa.sharma@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

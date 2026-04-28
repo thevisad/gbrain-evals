@@ -1,0 +1,14 @@
+{
+  "slug": "people/padysplace-aol",
+  "type": "person",
+  "title": "Padysplace",
+  "compiled_truth": "Padysplace is an external contact at [AOL](companies/aol). Over the corpus period (1999-12-07 to 2001-11-13), Padysplace sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **1999-12-07** | First recorded email in corpus\n- **2001-11-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/padysplace-aol",
+    "name": "Padysplace",
+    "email": "padysplace@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

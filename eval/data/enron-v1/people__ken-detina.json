@@ -1,0 +1,14 @@
+{
+  "slug": "people/ken-detina",
+  "type": "person",
+  "title": "Ken Detina",
+  "compiled_truth": "Ken Detina is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-30 to 2001-11-19), Ken Detina sent 0 and received 29 emails, totalling 29 interactions.",
+  "timeline": "- **2000-08-30** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ken-detina",
+    "name": "Ken Detina",
+    "email": "ken.detina@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

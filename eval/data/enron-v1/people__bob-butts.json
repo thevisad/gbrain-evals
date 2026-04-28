@@ -1,0 +1,14 @@
+{
+  "slug": "people/bob-butts",
+  "type": "person",
+  "title": "Bob Butts",
+  "compiled_truth": "Bob Butts is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-09 to 2002-01-25), Bob Butts sent 1 and received 162 emails, totalling 163 interactions. Top correspondents: [All States](people/all-states) (1), [Fernley Dyson](people/fernley-dyson) (1), [Sam Kemp](people/sam-kemp) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-02-09** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bob-butts",
+    "name": "Bob Butts",
+    "email": "bob.butts@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

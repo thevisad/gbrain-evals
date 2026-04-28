@@ -1,0 +1,14 @@
+{
+  "slug": "people/christopher-wurtz",
+  "type": "person",
+  "title": "Christopher Wurtz",
+  "compiled_truth": "Christopher Wurtz is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-16 to 2002-01-25), Christopher Wurtz sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-10-16** | First recorded email in corpus\n- **2002-01-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christopher-wurtz",
+    "name": "Christopher Wurtz",
+    "email": "christopher.wurtz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

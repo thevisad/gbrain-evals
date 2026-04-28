@@ -1,0 +1,14 @@
+{
+  "slug": "people/sarabeth-smith",
+  "type": "person",
+  "title": "Sarabeth Smith",
+  "compiled_truth": "Sarabeth Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-12 to 2002-03-20), Sarabeth Smith sent 16 and received 173 emails, totalling 189 interactions. Top correspondents: [Kimberly Watson](people/kimberly-watson) (6), [Don Hawkins](people/don-hawkins) (4), [Rod Hayslett](people/rod-hayslett) (4), [Kevin Hyatt](people/kevin-hyatt) (3), [Jeffery Fawcett](people/jeffery-fawcett) (2). Mailbox folders observed: big_sandy___caithness, citizens_utilities, inbox, projects, tw, tw_commercial_group.",
+  "timeline": "- **2000-01-12** | First recorded email in corpus\n- **2002-03-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sarabeth-smith",
+    "name": "Sarabeth Smith",
+    "email": "sarabeth.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

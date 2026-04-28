@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-sinclair",
+  "type": "person",
+  "title": "Tom Sinclair",
+  "compiled_truth": "Tom Sinclair is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-15 to 2001-11-15), Tom Sinclair sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-15** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-sinclair",
+    "name": "Tom Sinclair",
+    "email": "tom.sinclair@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

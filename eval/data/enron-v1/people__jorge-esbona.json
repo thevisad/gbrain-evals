@@ -1,0 +1,14 @@
+{
+  "slug": "people/jorge-esbona",
+  "type": "person",
+  "title": "Jorge Esbona",
+  "compiled_truth": "Jorge Esbona is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-19 to 2001-11-27), Jorge Esbona sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-11-19** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jorge-esbona",
+    "name": "Jorge Esbona",
+    "email": "jorge.esbona@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

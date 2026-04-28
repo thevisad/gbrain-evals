@@ -1,0 +1,14 @@
+{
+  "slug": "people/lynne-ruffer",
+  "type": "person",
+  "title": "Lynne Ruffer",
+  "compiled_truth": "Lynne Ruffer is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-30 to 2002-03-29), Lynne Ruffer sent 8 and received 95 emails, totalling 103 interactions. Top correspondents: [D  Steffes](people/d-steffes) (8), [Wade Stubblefield](people/wade-stubblefield) (7), [P  O'Neil](people/p-o-neil) (3), [Georganne Hodges](people/georganne-hodges) (3), [Tim Belden](people/tim-belden) (2). Mailbox folders observed: california_issues, credit_issues, deleted_items, inbox.",
+  "timeline": "- **2001-04-30** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lynne-ruffer",
+    "name": "Lynne Ruffer",
+    "email": "lynne.ruffer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/kean-rice",
+  "type": "person",
+  "title": "Kean",
+  "compiled_truth": "Kean is an external contact at [Rice](companies/rice). Over the corpus period (1999-12-09 to 2001-12-20), Kean sent 0 and received 69 emails, totalling 69 interactions.",
+  "timeline": "- **1999-12-09** | First recorded email in corpus\n- **2001-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kean-rice",
+    "name": "Kean",
+    "email": "kean@rice.edu",
+    "primary_affiliation": "companies/rice"
+  }
+}

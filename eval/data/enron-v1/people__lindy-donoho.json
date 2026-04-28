@@ -1,0 +1,14 @@
+{
+  "slug": "people/lindy-donoho",
+  "type": "person",
+  "title": "Lindy Donoho",
+  "compiled_truth": "Lindy Donoho is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Lindy Donoho sent 280 and received 1669 emails, totalling 1949 interactions. Top correspondents: [Steven Harris](people/steven-harris) (86), [Kimberly Watson](people/kimberly-watson) (51), [Tk Lohman](people/tk-lohman) (41), [Lorraine Lindberg](people/lorraine-lindberg) (38), [Michelle Lokay](people/michelle-lokay) (36). Mailbox folders observed: california, daily_balancing_report, deleted_items, e_mail_bin, inbox, projects.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lindy-donoho",
+    "name": "Lindy Donoho",
+    "email": "lindy.donoho@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

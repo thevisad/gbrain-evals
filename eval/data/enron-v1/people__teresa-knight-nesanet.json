@@ -1,0 +1,14 @@
+{
+  "slug": "people/teresa-knight-nesanet",
+  "type": "person",
+  "title": "Teresa Knight",
+  "compiled_truth": "Teresa Knight is an external contact at [Nesanet](companies/nesanet). Over the corpus period (1980-01-01 to 2002-03-21), Teresa Knight sent 28 and received 4 emails, totalling 32 interactions. Top correspondents: [Nesa Staff](people/nesa-staff-nesanet) (14), [Staff](people/staff-nesanet) (7), [Nesamembers](people/nesamembers-nesanet) (3).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teresa-knight-nesanet",
+    "name": "Teresa Knight",
+    "email": "teresa.knight@nesanet.org",
+    "primary_affiliation": "companies/nesanet"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/caroline-nugent",
+  "type": "person",
+  "title": "Caroline Nugent",
+  "compiled_truth": "Caroline Nugent is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-10-29), Caroline Nugent sent 2 and received 36 emails, totalling 38 interactions. Top correspondents: [Kathleen Ashton](people/kathleen-ashton) (2), [Facundo Caminos](people/facundo-caminos) (2), [Michelle Merritt](people/michelle-merritt) (2), [Todd Richards](people/todd-richards) (2), [Helen Ding](people/helen-ding) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/caroline-nugent",
+    "name": "Caroline Nugent",
+    "email": "caroline.nugent@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

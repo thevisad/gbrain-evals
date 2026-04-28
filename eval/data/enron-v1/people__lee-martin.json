@@ -1,0 +1,14 @@
+{
+  "slug": "people/lee-martin",
+  "type": "person",
+  "title": "Lee Martin",
+  "compiled_truth": "Lee Martin is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-05-31), Lee Martin sent 3 and received 7 emails, totalling 10 interactions. Top correspondents: [Mary Hain](people/mary-hain) (3), [Tom Ward](people/tom-ward) (1), [Jack Todd](people/jack-todd) (1), [Larry Anderson](people/larry-anderson) (1), [Mary Turina](people/mary-turina) (1).",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-05-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lee-martin",
+    "name": "Lee Martin",
+    "email": "lee.martin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/nate-blackburn",
+  "type": "person",
+  "title": "Nate Blackburn",
+  "compiled_truth": "Nate Blackburn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-25 to 2001-11-28), Nate Blackburn sent 1 and received 96 emails, totalling 97 interactions. Top correspondents: [Tom Donohoe](people/tom-donohoe) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nate-blackburn",
+    "name": "Nate Blackburn",
+    "email": "nate.blackburn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-sitter",
+  "type": "person",
+  "title": "Scott Sitter",
+  "compiled_truth": "Scott Sitter is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-12-07), Scott Sitter sent 6 and received 55 emails, totalling 61 interactions. Top correspondents: [Theresa Staab](people/theresa-staab) (6), [ Sylvia](people/sylvia) (3), [Walt Serrano](people/walt-serrano) (3), [Andy Schroeder](people/andy-schroeder) (2), [Rick Fresquez](people/rick-fresquez) (2). Mailbox folders observed: inbox, lost_creek.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-12-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-sitter",
+    "name": "Scott Sitter",
+    "email": "scott.sitter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

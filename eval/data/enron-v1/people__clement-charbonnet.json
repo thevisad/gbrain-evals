@@ -1,0 +1,14 @@
+{
+  "slug": "people/clement-charbonnet",
+  "type": "person",
+  "title": "Clement Charbonnet",
+  "compiled_truth": "Clement Charbonnet is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-28 to 2002-02-06), Clement Charbonnet sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2001-09-28** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clement-charbonnet",
+    "name": "Clement Charbonnet",
+    "email": "clement.charbonnet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

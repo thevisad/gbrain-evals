@@ -1,0 +1,14 @@
+{
+  "slug": "people/chad-starnes",
+  "type": "person",
+  "title": "Chad Starnes",
+  "compiled_truth": "Chad Starnes is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-11 to 2001-09-14), Chad Starnes sent 7 and received 312 emails, totalling 319 interactions. Top correspondents: [Don Baughman](people/don-baughman) (4), [Joe Stepenovitch](people/joe-stepenovitch) (3), [Juan Hernandez](people/juan-hernandez) (2), [Tradersnewsindexes](people/tradersnewsindexes-ipgdirect) (1), [Kayne Coulter](people/kayne-coulter) (1). Mailbox folders observed: 24_hr_power.",
+  "timeline": "- **2000-05-11** | First recorded email in corpus\n- **2001-09-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chad-starnes",
+    "name": "Chad Starnes",
+    "email": "chad.starnes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

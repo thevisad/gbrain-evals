@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-stock",
+  "type": "person",
+  "title": "Steve Stock",
+  "compiled_truth": "Steve Stock is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-16 to 2002-02-11), Steve Stock sent 8 and received 64 emails, totalling 72 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (6), [Greg Piper](people/greg-piper) (3), [Sally Beck](people/sally-beck) (2), [Charles Ballmer](people/charles-ballmer) (2), [Michael Barber](people/michael-barber) (2). Mailbox folders observed: _americas, deleted_items.",
+  "timeline": "- **2001-11-16** | First recorded email in corpus\n- **2002-02-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-stock",
+    "name": "Steve Stock",
+    "email": "steve.stock@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

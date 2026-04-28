@@ -1,0 +1,14 @@
+{
+  "slug": "people/chuck-wilkinson",
+  "type": "person",
+  "title": "Chuck Wilkinson",
+  "compiled_truth": "Chuck Wilkinson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-25 to 2002-01-22), Chuck Wilkinson sent 2 and received 239 emails, totalling 241 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (2), [Lee Huber](people/lee-huber) (1). Mailbox folders observed: projects.",
+  "timeline": "- **2000-02-25** | First recorded email in corpus\n- **2002-01-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chuck-wilkinson",
+    "name": "Chuck Wilkinson",
+    "email": "chuck.wilkinson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

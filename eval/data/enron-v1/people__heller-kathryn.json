@@ -1,0 +1,14 @@
+{
+  "slug": "people/heller-kathryn",
+  "type": "person",
+  "title": "Heller Kathryn",
+  "compiled_truth": "Heller Kathryn is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-16 to 2002-03-14), Heller Kathryn sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2002-01-16** | First recorded email in corpus\n- **2002-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/heller-kathryn",
+    "name": "Heller Kathryn",
+    "email": "heller.kathryn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

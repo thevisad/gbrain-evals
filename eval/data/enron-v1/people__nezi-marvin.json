@@ -1,0 +1,14 @@
+{
+  "slug": "people/nezi-marvin",
+  "type": "person",
+  "title": "Nezi Marvin",
+  "compiled_truth": "Nezi Marvin is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-23 to 2002-05-06), Nezi Marvin sent 2 and received 31 emails, totalling 33 interactions. Top correspondents: [A  Shankman](people/a-shankman) (2), [Paul Lebeau](people/paul-lebeau) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-08-23** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nezi-marvin",
+    "name": "Nezi Marvin",
+    "email": "nezi.marvin@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

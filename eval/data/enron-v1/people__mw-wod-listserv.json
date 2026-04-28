@@ -1,0 +1,14 @@
+{
+  "slug": "people/mw-wod-listserv",
+  "type": "person",
+  "title": "Mw-Wod",
+  "compiled_truth": "Mw-Wod is an external contact at [Listserv](companies/listserv). Over the corpus period (2001-10-16 to 2002-02-06), Mw-Wod sent 0 and received 60 emails, totalling 60 interactions.",
+  "timeline": "- **2001-10-16** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mw-wod-listserv",
+    "name": "Mw-Wod",
+    "email": "mw-wod@listserv.webster.m-w.com",
+    "primary_affiliation": "companies/listserv"
+  }
+}

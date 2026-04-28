@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-junghans-waii",
+  "type": "person",
+  "title": "Paul Junghans",
+  "compiled_truth": "Paul Junghans is an external contact at [Waii](companies/waii). Over the corpus period (2000-05-21 to 2000-11-25), Paul Junghans sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-junghans-waii",
+    "name": "Paul Junghans",
+    "email": "paul.junghans@waii.com",
+    "primary_affiliation": "companies/waii"
+  }
+}

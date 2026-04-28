@@ -1,0 +1,36 @@
+{
+  "slug": "meetings/telephonic-board-meeting-2000-10",
+  "type": "meeting",
+  "title": "Meeting: Telephonic Board Meeting",
+  "compiled_truth": "Meeting: \"Telephonic Board Meeting\". Occurred 2000-10-10 through 2000-10-11 with 2 related emails. Participants included: [Babbio](people/babbio-verizon), [Barbara Sain](people/barbara-sain-compaq), [Caroline Atherton](people/caroline-atherton-compaq), [Ghh](people/ghh-telcordia), [Jameyer](people/jameyer-airmail), [Kenroman](people/kenroman-worldnet), [Kjewett](people/kjewett-kpcb), [Klay](people/klay)....",
+  "timeline": "- **2000-10-10** | Meeting: telephonic board meeting\n- **2000-10-11** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/telephonic-board-meeting-2000-10",
+    "attendees": [
+      "people/babbio-verizon",
+      "people/barbara-sain-compaq",
+      "people/caroline-atherton-compaq",
+      "people/ghh-telcordia",
+      "people/jameyer-airmail",
+      "people/kenroman-worldnet",
+      "people/kjewett-kpcb",
+      "people/klay",
+      "people/kliva-telcordia",
+      "people/lawrence-t-babbio-jr-verizon",
+      "people/linda-auwers-compaq",
+      "people/lois-m-rigby-verizon",
+      "people/lucie-jhmedia",
+      "people/lynnj-iname",
+      "people/rflemin",
+      "people/richard-fine-compaq",
+      "people/sandy-hackman-compaq",
+      "people/ted-enloe-compaq",
+      "people/tom-siekman-compaq",
+      "people/vthwreatt-lifefx",
+      "people/wanda-holloway-compaq",
+      "people/yvonne-jackson-compaq"
+    ],
+    "date": "2000-10-10"
+  }
+}

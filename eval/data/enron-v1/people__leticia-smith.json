@@ -1,0 +1,14 @@
+{
+  "slug": "people/leticia-smith",
+  "type": "person",
+  "title": "Leticia Smith",
+  "compiled_truth": "Leticia Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-10 to 2000-09-06), Leticia Smith sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2000-09-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leticia-smith",
+    "name": "Leticia Smith",
+    "email": "leticia.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

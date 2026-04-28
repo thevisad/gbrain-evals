@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-wood",
+  "type": "person",
+  "title": "James Wood",
+  "compiled_truth": "James Wood is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-17 to 2001-12-19), James Wood sent 1 and received 104 emails, totalling 105 interactions. Top correspondents: [Mona Petrochko](people/mona-petrochko) (1), [Dennis Benevides](people/dennis-benevides) (1), [Edward Hamb](people/edward-hamb) (1), [Martin Wenzel](people/martin-wenzel) (1), [Douglas Condon](people/douglas-condon) (1).",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-wood",
+    "name": "James Wood",
+    "email": "james.wood@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

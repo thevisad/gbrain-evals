@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-browning",
+  "type": "person",
+  "title": "Mary Browning",
+  "compiled_truth": "Mary Browning is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-02-09 to 2001-07-06), Mary Browning sent 1 and received 38 emails, totalling 39 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (1).",
+  "timeline": "- **1999-02-09** | First recorded email in corpus\n- **2001-07-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-browning",
+    "name": "Mary Browning",
+    "email": "mary.browning@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

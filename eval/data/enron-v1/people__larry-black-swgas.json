@@ -1,0 +1,14 @@
+{
+  "slug": "people/larry-black-swgas",
+  "type": "person",
+  "title": "Larry Black",
+  "compiled_truth": "Larry Black is an external contact at [Swgas](companies/swgas). Over the corpus period (2000-04-11 to 2000-06-16), Larry Black sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-04-11** | First recorded email in corpus\n- **2000-06-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/larry-black-swgas",
+    "name": "Larry Black",
+    "email": "larry.black@swgas.com",
+    "primary_affiliation": "companies/swgas"
+  }
+}

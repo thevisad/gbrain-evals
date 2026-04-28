@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-margoliner",
+  "type": "person",
+  "title": "George Margoliner",
+  "compiled_truth": "George Margoliner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2002-03-05), George Margoliner sent 2 and received 17 emails, totalling 19 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (2). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2002-03-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-margoliner",
+    "name": "George Margoliner",
+    "email": "george.margoliner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

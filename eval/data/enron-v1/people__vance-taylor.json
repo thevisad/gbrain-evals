@@ -1,0 +1,14 @@
+{
+  "slug": "people/vance-taylor",
+  "type": "person",
+  "title": "Vance Taylor",
+  "compiled_truth": "Vance Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2001-06-11), Vance Taylor sent 21 and received 373 emails, totalling 394 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (21), [Melissa Graves](people/melissa-graves) (17), [Susan Smith](people/susan-smith) (12), [Donald Reinhardt](people/donald-reinhardt) (10), [Robert Cotten](people/robert-cotten) (8).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vance-taylor",
+    "name": "Vance Taylor",
+    "email": "vance.taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

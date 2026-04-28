@@ -1,0 +1,14 @@
+{
+  "slug": "people/kgough-calpine",
+  "type": "person",
+  "title": "Kgough",
+  "compiled_truth": "Kgough is an external contact at [Calpine](companies/calpine). Over the corpus period (2000-10-27 to 2001-12-21), Kgough sent 1 and received 226 emails, totalling 227 interactions. Top correspondents: [Jwright](people/jwright-smithandkempton) (1), [Athomas](people/athomas-newenergy) (1), [Alippin](people/alippin-mail) (1), [Cohnap](people/cohnap-sce) (1), [Anw](people/anw-cpuc) (1).",
+  "timeline": "- **2000-10-27** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kgough-calpine",
+    "name": "Kgough",
+    "email": "kgough@calpine.com",
+    "primary_affiliation": "companies/calpine"
+  }
+}

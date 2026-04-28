@@ -1,0 +1,14 @@
+{
+  "slug": "people/gillian",
+  "type": "person",
+  "title": " Gillian",
+  "compiled_truth": "Gillian is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-08 to 2002-02-04),  Gillian sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-06-08** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gillian",
+    "name": " Gillian",
+    "email": ".gillian@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

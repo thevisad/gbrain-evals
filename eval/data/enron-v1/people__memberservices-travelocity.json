@@ -1,0 +1,14 @@
+{
+  "slug": "people/memberservices-travelocity",
+  "type": "person",
+  "title": "Memberservices",
+  "compiled_truth": "Memberservices is an external contact at [Travelocity](companies/travelocity). Over the corpus period (2000-08-05 to 2002-03-16), Memberservices sent 117 and received 0 emails, totalling 117 interactions. Top correspondents: [Matt Smith](people/matt-smith) (39), [Dperlin](people/dperlin) (21), [Tstaab](people/tstaab) (16), [Pkeavey](people/pkeavey) (12), [Tana Jones](people/tana-jones) (8).",
+  "timeline": "- **2000-08-05** | First recorded email in corpus\n- **2002-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/memberservices-travelocity",
+    "name": "Memberservices",
+    "email": "memberservices@travelocity.m0.net",
+    "primary_affiliation": "companies/travelocity"
+  }
+}

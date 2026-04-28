@@ -1,0 +1,14 @@
+{
+  "slug": "people/dmccopp",
+  "type": "person",
+  "title": "Dmccopp",
+  "compiled_truth": "Dmccopp is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-05-30), Dmccopp sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dmccopp",
+    "name": "Dmccopp",
+    "email": "dmccopp@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

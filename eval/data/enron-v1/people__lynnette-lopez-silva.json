@@ -1,0 +1,14 @@
+{
+  "slug": "people/lynnette-lopez-silva",
+  "type": "person",
+  "title": "Lynnette Lopez-Silva",
+  "compiled_truth": "Lynnette Lopez-Silva is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-12 to 2001-07-26), Lynnette Lopez-Silva sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2001-04-12** | First recorded email in corpus\n- **2001-07-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lynnette-lopez-silva",
+    "name": "Lynnette Lopez-Silva",
+    "email": "lynnette.lopez-silva@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

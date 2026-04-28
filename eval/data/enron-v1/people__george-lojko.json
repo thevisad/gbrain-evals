@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-lojko",
+  "type": "person",
+  "title": "George Lojko",
+  "compiled_truth": "George Lojko is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-19 to 2001-12-14), George Lojko sent 1 and received 7 emails, totalling 8 interactions. Top correspondents: [Adam Overfield](people/adam-overfield) (1), [Lloyd Wantschek](people/lloyd-wantschek) (1), [Jarek Astramowicz](people/jarek-astramowicz) (1), [Krzysztof Forycki](people/krzysztof-forycki) (1), [James Derrick](people/james-derrick) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-10-19** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-lojko",
+    "name": "George Lojko",
+    "email": "george.lojko@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

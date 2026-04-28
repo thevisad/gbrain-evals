@@ -1,0 +1,14 @@
+{
+  "slug": "people/nmann-erac",
+  "type": "person",
+  "title": "Nmann",
+  "compiled_truth": "Nmann is an external contact at [Erac](companies/erac). Over the corpus period (2000-06-05 to 2001-12-28), Nmann sent 23 and received 630 emails, totalling 653 interactions. Top correspondents: [Kay Mann](people/kay-mann) (21), [Cbrashear](people/cbrashear-velaw) (1), [Kara Norris](people/kara-norris-hotmail) (1), [ Mikey](people/mikey) (1), [Paige](people/paige) (1).",
+  "timeline": "- **2000-06-05** | First recorded email in corpus\n- **2001-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nmann-erac",
+    "name": "Nmann",
+    "email": "nmann@erac.com",
+    "primary_affiliation": "companies/erac"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/paige-cox",
+  "type": "person",
+  "title": "Paige Cox",
+  "compiled_truth": "Paige Cox is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-21 to 2002-02-13), Paige Cox sent 10 and received 64 emails, totalling 74 interactions. Top correspondents: [Ina Rangel](people/ina-rangel) (4), [Dan Dietrich](people/dan-dietrich) (4), [Simon Burgess](people/simon-burgess) (4), [W  White](people/w-white) (4), [John Griffith](people/john-griffith) (3). Mailbox folders observed: calendar, deleted_items, inbox.",
+  "timeline": "- **2000-07-21** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paige-cox",
+    "name": "Paige Cox",
+    "email": "paige.cox@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

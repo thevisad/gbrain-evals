@@ -1,0 +1,14 @@
+{
+  "slug": "people/d-thomas",
+  "type": "person",
+  "title": "D  Thomas",
+  "compiled_truth": "D  Thomas is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-01-04 to 2002-02-28), D  Thomas sent 162 and received 667 emails, totalling 829 interactions. Top correspondents: [Raquel Nunes-Thomas](people/raquel-nunes-thomas-us) (28), [Raquel Nunes](people/raquel-nunes-us) (16), [Peter Makkai](people/peter-makkai) (14), [Bryce Schneider](people/bryce-schneider) (8), [F  Campbell](people/f-campbell) (7). Mailbox folders observed: calendar, contacts, deleted_items, inbox, sent_items.",
+  "timeline": "- **1998-01-04** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/d-thomas",
+    "name": "D  Thomas",
+    "email": "d..thomas@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

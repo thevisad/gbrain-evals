@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-kotzan-wachovia",
+  "type": "person",
+  "title": "Mike Kotzan",
+  "compiled_truth": "Mike Kotzan is an external contact at [Wachovia](companies/wachovia). Over the corpus period (2000-05-18 to 2000-09-18), Mike Kotzan sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-kotzan-wachovia",
+    "name": "Mike Kotzan",
+    "email": "mike.kotzan@wachovia.com",
+    "primary_affiliation": "companies/wachovia"
+  }
+}

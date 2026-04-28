@@ -1,0 +1,14 @@
+{
+  "slug": "people/evk1-pge",
+  "type": "person",
+  "title": "Evk1",
+  "compiled_truth": "Evk1 is an external contact at [PG&E](companies/pge). Over the corpus period (2000-05-04 to 2000-12-12), Evk1 sent 1 and received 97 emails, totalling 98 interactions. Top correspondents: [Alb](people/alb-cpuc) (1), [Norman A  Pedersen](people/norman-a-pedersen-jonesday) (1), [Skatz](people/skatz-sempratrading) (1), [Kmccrea](people/kmccrea-sablaw) (1), [Gac](people/gac-mrwassoc) (1).",
+  "timeline": "- **2000-05-04** | First recorded email in corpus\n- **2000-12-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/evk1-pge",
+    "name": "Evk1",
+    "email": "evk1@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

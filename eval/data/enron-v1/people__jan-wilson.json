@@ -1,0 +1,14 @@
+{
+  "slug": "people/jan-wilson",
+  "type": "person",
+  "title": "Jan Wilson",
+  "compiled_truth": "Jan Wilson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-13), Jan Wilson sent 1 and received 66 emails, totalling 67 interactions. Top correspondents: [Tana Jones](people/tana-jones) (1), [Chris Gaffney](people/chris-gaffney) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jan-wilson",
+    "name": "Jan Wilson",
+    "email": "jan.wilson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

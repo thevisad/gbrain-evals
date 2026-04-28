@@ -1,0 +1,14 @@
+{
+  "slug": "people/cassandra-schultz",
+  "type": "person",
+  "title": "Cassandra Schultz",
+  "compiled_truth": "Cassandra Schultz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2001-11-30), Cassandra Schultz sent 67 and received 416 emails, totalling 483 interactions. Top correspondents: [Sally Beck](people/sally-beck) (32), [David Port](people/david-port) (25), [Shona Wilson](people/shona-wilson) (20), [Ted Murphy](people/ted-murphy) (18), [Chris Abel](people/chris-abel) (15). Mailbox folders observed: archive, brokerage_agreements, deleted_items, inbox, older_than_30, projects.",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cassandra-schultz",
+    "name": "Cassandra Schultz",
+    "email": "cassandra.schultz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

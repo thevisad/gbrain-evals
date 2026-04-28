@@ -1,0 +1,14 @@
+{
+  "slug": "people/juanita-marchand",
+  "type": "person",
+  "title": "Juanita Marchand",
+  "compiled_truth": "Juanita Marchand is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-13 to 2001-06-01), Juanita Marchand sent 6 and received 34 emails, totalling 40 interactions. Top correspondents: [Michael Eiben](people/michael-eiben) (5), [Irene Flynn](people/irene-flynn) (5), [John Hodge](people/john-hodge) (4), [Gerald Nemec](people/gerald-nemec) (2), [Bruce J Mulholland](people/bruce-j-mulholland-customs) (1).",
+  "timeline": "- **1999-09-13** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/juanita-marchand",
+    "name": "Juanita Marchand",
+    "email": "juanita.marchand@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

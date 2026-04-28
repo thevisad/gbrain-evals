@@ -1,0 +1,14 @@
+{
+  "slug": "people/timothy-heizenrader",
+  "type": "person",
+  "title": "Timothy Heizenrader",
+  "compiled_truth": "Timothy Heizenrader is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-04 to 2001-11-25), Timothy Heizenrader sent 1 and received 64 emails, totalling 65 interactions. Top correspondents: [Sean Crandall](people/sean-crandall) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-04** | First recorded email in corpus\n- **2001-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/timothy-heizenrader",
+    "name": "Timothy Heizenrader",
+    "email": "timothy.heizenrader@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

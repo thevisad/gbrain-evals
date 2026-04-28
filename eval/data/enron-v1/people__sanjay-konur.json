@@ -1,0 +1,14 @@
+{
+  "slug": "people/sanjay-konur",
+  "type": "person",
+  "title": "Sanjay Konur",
+  "compiled_truth": "Sanjay Konur is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-01 to 2001-11-29), Sanjay Konur sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2000-11-01** | First recorded email in corpus\n- **2001-11-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sanjay-konur",
+    "name": "Sanjay Konur",
+    "email": "sanjay.konur@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

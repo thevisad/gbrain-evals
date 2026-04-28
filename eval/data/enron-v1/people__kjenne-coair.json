@@ -1,0 +1,14 @@
+{
+  "slug": "people/kjenne-coair",
+  "type": "person",
+  "title": "Kjenne",
+  "compiled_truth": "Kjenne is an external contact at [Coair](companies/coair). Over the corpus period (2000-10-10 to 2001-11-09), Kjenne sent 0 and received 17 emails, totalling 17 interactions.",
+  "timeline": "- **2000-10-10** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kjenne-coair",
+    "name": "Kjenne",
+    "email": "kjenne@coair.com",
+    "primary_affiliation": "companies/coair"
+  }
+}

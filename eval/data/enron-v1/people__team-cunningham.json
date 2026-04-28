@@ -1,0 +1,14 @@
+{
+  "slug": "people/team-cunningham",
+  "type": "person",
+  "title": "Team Cunningham",
+  "compiled_truth": "Team Cunningham is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-12 to 2002-03-25), Team Cunningham sent 4 and received 48 emails, totalling 52 interactions. Top correspondents: [Bart Monden](people/bart-monden) (4), [Bill Bell](people/bill-bell) (4), [Bill Swarthout](people/bill-swarthout) (4), [Crandal Hardy](people/crandal-hardy) (4), [Dale Ratliff](people/dale-ratliff) (4). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-10-12** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/team-cunningham",
+    "name": "Team Cunningham",
+    "email": "team.cunningham@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

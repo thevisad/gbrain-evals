@@ -1,0 +1,14 @@
+{
+  "slug": "people/kristina-mordaunt",
+  "type": "person",
+  "title": "Kristina Mordaunt",
+  "compiled_truth": "Kristina Mordaunt is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-16), Kristina Mordaunt sent 2 and received 250 emails, totalling 252 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (1), [Jeff Skilling](people/jeff-skilling) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kristina-mordaunt",
+    "name": "Kristina Mordaunt",
+    "email": "kristina.mordaunt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

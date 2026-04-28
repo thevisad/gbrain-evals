@@ -1,0 +1,14 @@
+{
+  "slug": "people/fontana-haas",
+  "type": "person",
+  "title": "Fontana",
+  "compiled_truth": "Fontana is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2001-09-04), Fontana sent 0 and received 26 emails, totalling 26 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fontana-haas",
+    "name": "Fontana",
+    "email": "fontana@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

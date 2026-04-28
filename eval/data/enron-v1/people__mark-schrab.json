@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-schrab",
+  "type": "person",
+  "title": "Mark Schrab",
+  "compiled_truth": "Mark Schrab is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-30 to 2001-05-16), Mark Schrab sent 27 and received 141 emails, totalling 168 interactions. Top correspondents: [Tom Donohoe](people/tom-donohoe) (17), [Nelson Ferries](people/nelson-ferries) (8), [Katherine Kelly](people/katherine-kelly) (5), [Lisa Kinsey](people/lisa-kinsey) (5), [George Smith](people/george-smith) (4). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-30** | First recorded email in corpus\n- **2001-05-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-schrab",
+    "name": "Mark Schrab",
+    "email": "mark.schrab@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

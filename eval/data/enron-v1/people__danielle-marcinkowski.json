@@ -1,0 +1,14 @@
+{
+  "slug": "people/danielle-marcinkowski",
+  "type": "person",
+  "title": "Danielle Marcinkowski",
+  "compiled_truth": "Danielle Marcinkowski is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-04-30), Danielle Marcinkowski sent 23 and received 43 emails, totalling 66 interactions. Top correspondents: [J  Sturm](people/j-sturm) (10), [John Zufferli](people/john-zufferli) (9), [Cooper Richey](people/cooper-richey) (5), [Tim Heizenrader](people/tim-heizenrader) (5), [Rika Imai](people/rika-imai) (5). Mailbox folders observed: calendar, deleted_items, inbox, savedmail, ubsw_energy.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/danielle-marcinkowski",
+    "name": "Danielle Marcinkowski",
+    "email": "danielle.marcinkowski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

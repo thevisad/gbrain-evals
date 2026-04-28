@@ -1,0 +1,14 @@
+{
+  "slug": "people/savithri-hospeti",
+  "type": "person",
+  "title": "Savithri Hospeti",
+  "compiled_truth": "Savithri Hospeti is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-11-12), Savithri Hospeti sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/savithri-hospeti",
+    "name": "Savithri Hospeti",
+    "email": "savithri.hospeti@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/terris-kyle-watson",
+  "type": "person",
+  "title": "Terris Kyle-Watson",
+  "compiled_truth": "Terris Kyle-Watson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-18 to 2002-02-06), Terris Kyle-Watson sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-05-18** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/terris-kyle-watson",
+    "name": "Terris Kyle-Watson",
+    "email": "terris.kyle-watson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

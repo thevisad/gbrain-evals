@@ -1,0 +1,14 @@
+{
+  "slug": "people/avondalehs-aol",
+  "type": "person",
+  "title": "Avondalehs",
+  "compiled_truth": "Avondalehs is an external contact at [AOL](companies/aol). Over the corpus period (2001-06-04 to 2001-06-06), Avondalehs sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2001-06-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/avondalehs-aol",
+    "name": "Avondalehs",
+    "email": "avondalehs@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

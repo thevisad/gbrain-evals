@@ -1,0 +1,14 @@
+{
+  "slug": "people/tracy-greene",
+  "type": "person",
+  "title": "Tracy Greene",
+  "compiled_truth": "Tracy Greene is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-02-13), Tracy Greene sent 11 and received 36 emails, totalling 47 interactions. Top correspondents: [Tracey Irvin](people/tracey-irvin) (7), [Stacey White](people/stacey-white) (7), [Casey Evans](people/casey-evans) (4), [Todd Warwick](people/todd-warwick) (4), [Leslie Reeves](people/leslie-reeves) (4). Mailbox folders observed: deleted_items, flash, inbox.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tracy-greene",
+    "name": "Tracy Greene",
+    "email": "tracy.greene@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

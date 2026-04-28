@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-lacima",
+  "type": "person",
+  "title": "Chris",
+  "compiled_truth": "Chris is an external contact at [Lacima](companies/lacima). Over the corpus period (2000-05-15 to 2000-12-13), Chris sent 10 and received 20 emails, totalling 30 interactions. Top correspondents: [Vince J Kaminski](people/vince-j-kaminski) (9), [Julie](people/julie-lacima) (5), [Les](people/les-lacima) (3), [Julie](people/julie-lacimagroup) (2), [Les](people/les-lacimagroup) (2).",
+  "timeline": "- **2000-05-15** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-lacima",
+    "name": "Chris",
+    "email": "chris@lacima.co.uk",
+    "primary_affiliation": "companies/lacima"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ryan-williams",
+  "type": "person",
+  "title": "Ryan Williams",
+  "compiled_truth": "Ryan Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2002-02-28), Ryan Williams sent 19 and received 234 emails, totalling 253 interactions. Top correspondents: [Doug Gilbert-Smith](people/doug-gilbert-smith) (10), [Jeff King](people/jeff-king) (4), [Eric Saibi](people/eric-saibi) (4), [Clint Dean](people/clint-dean) (3), [M  Forney](people/m-forney) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ryan-williams",
+    "name": "Ryan Williams",
+    "email": "ryan.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

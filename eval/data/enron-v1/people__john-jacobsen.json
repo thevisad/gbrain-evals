@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-jacobsen",
+  "type": "person",
+  "title": "John Jacobsen",
+  "compiled_truth": "John Jacobsen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-11-27), John Jacobsen sent 0 and received 68 emails, totalling 68 interactions.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-jacobsen",
+    "name": "John Jacobsen",
+    "email": "john.jacobsen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

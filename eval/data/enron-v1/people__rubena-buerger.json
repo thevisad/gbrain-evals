@@ -1,0 +1,14 @@
+{
+  "slug": "people/rubena-buerger",
+  "type": "person",
+  "title": "Rubena Buerger",
+  "compiled_truth": "Rubena Buerger is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-12-03), Rubena Buerger sent 8 and received 315 emails, totalling 323 interactions. Top correspondents: [Leslie Lawner](people/leslie-lawner) (3), [James Steffes](people/james-steffes) (3), [Rebecca Cantrell](people/rebecca-cantrell) (3), [Donna Fulton](people/donna-fulton) (3), [Stephanie Miller](people/stephanie-miller) (3). Mailbox folders observed: deleted_items, internet_sites.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rubena-buerger",
+    "name": "Rubena Buerger",
+    "email": "rubena.buerger@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

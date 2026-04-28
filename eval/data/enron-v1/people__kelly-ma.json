@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-ma",
+  "type": "person",
+  "title": "Kelly Ma",
+  "compiled_truth": "Kelly Ma is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-25 to 2001-08-31), Kelly Ma sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-05-25** | First recorded email in corpus\n- **2001-08-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-ma",
+    "name": "Kelly Ma",
+    "email": "kelly.ma@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

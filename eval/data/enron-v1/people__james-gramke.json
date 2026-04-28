@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-gramke",
+  "type": "person",
+  "title": "James Gramke",
+  "compiled_truth": "James Gramke is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-27 to 2001-10-12), James Gramke sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-04-27** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-gramke",
+    "name": "James Gramke",
+    "email": "james.gramke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

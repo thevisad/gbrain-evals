@@ -1,0 +1,14 @@
+{
+  "slug": "people/mike-nelson",
+  "type": "person",
+  "title": "Mike Nelson",
+  "compiled_truth": "Mike Nelson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-31 to 2002-05-06), Mike Nelson sent 7 and received 92 emails, totalling 99 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (3), [Shelley Corman](people/shelley-corman) (2), [Steven Harris](people/steven-harris) (1), [Rod Hayslett](people/rod-hayslett) (1), [Danny Mccarty](people/danny-mccarty) (1). Mailbox folders observed: deleted_items, projects.",
+  "timeline": "- **2001-08-31** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mike-nelson",
+    "name": "Mike Nelson",
+    "email": "mike.nelson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

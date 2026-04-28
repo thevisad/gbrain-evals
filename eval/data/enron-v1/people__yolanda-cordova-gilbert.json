@@ -1,0 +1,14 @@
+{
+  "slug": "people/yolanda-cordova-gilbert",
+  "type": "person",
+  "title": "Yolanda Cordova-Gilbert",
+  "compiled_truth": "Yolanda Cordova-Gilbert is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-24 to 2001-10-25), Yolanda Cordova-Gilbert sent 1 and received 142 emails, totalling 143 interactions. Top correspondents: [Tana Jones](people/tana-jones) (1).",
+  "timeline": "- **1998-11-24** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/yolanda-cordova-gilbert",
+    "name": "Yolanda Cordova-Gilbert",
+    "email": "yolanda.cordova-gilbert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

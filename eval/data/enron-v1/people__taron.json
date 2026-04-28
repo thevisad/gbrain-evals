@@ -1,0 +1,14 @@
+{
+  "slug": "people/taron",
+  "type": "person",
+  "title": "Taron",
+  "compiled_truth": "Taron is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-04 to 2001-12-27), Taron sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/taron",
+    "name": "Taron",
+    "email": "taron@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

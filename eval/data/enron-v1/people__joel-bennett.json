@@ -1,0 +1,14 @@
+{
+  "slug": "people/joel-bennett",
+  "type": "person",
+  "title": "Joel Bennett",
+  "compiled_truth": "Joel Bennett is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-24 to 2002-01-03), Joel Bennett sent 1 and received 46 emails, totalling 47 interactions. Top correspondents: [Russell Diamond](people/russell-diamond) (1), [John Griffith](people/john-griffith) (1), [Robert Fuller](people/robert-fuller) (1). Mailbox folders observed: to_do.",
+  "timeline": "- **2000-03-24** | First recorded email in corpus\n- **2002-01-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joel-bennett",
+    "name": "Joel Bennett",
+    "email": "joel.bennett@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

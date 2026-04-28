@@ -1,0 +1,14 @@
+{
+  "slug": "people/alfonso-trabulsi",
+  "type": "person",
+  "title": "Alfonso Trabulsi",
+  "compiled_truth": "Alfonso Trabulsi is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-12), Alfonso Trabulsi sent 0 and received 70 emails, totalling 70 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alfonso-trabulsi",
+    "name": "Alfonso Trabulsi",
+    "email": "alfonso.trabulsi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

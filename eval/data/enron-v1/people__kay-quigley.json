@@ -1,0 +1,14 @@
+{
+  "slug": "people/kay-quigley",
+  "type": "person",
+  "title": "Kay Quigley",
+  "compiled_truth": "Kay Quigley is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2001-12-03), Kay Quigley sent 66 and received 118 emails, totalling 184 interactions. Top correspondents: [Dutch Quigley](people/dutch-quigley) (59), [Richard Ring](people/richard-ring) (6), [Kathleen Sullivan](people/kathleen-sullivan) (3), [Kathy Mayfield](people/kathy-mayfield) (3), [Elliot Mainzer](people/elliot-mainzer) (3). Mailbox folders observed: deleted_items, eesirenewableenergy, private_folders.",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kay-quigley",
+    "name": "Kay Quigley",
+    "email": "kay.quigley@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/echapin-chapinlaw",
+  "type": "person",
+  "title": "Echapin",
+  "compiled_truth": "Echapin is an external contact at [Chapinlaw](companies/chapinlaw). Over the corpus period (2001-01-30 to 2001-06-11), Echapin sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2001-01-30** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/echapin-chapinlaw",
+    "name": "Echapin",
+    "email": "echapin@chapinlaw.com",
+    "primary_affiliation": "companies/chapinlaw"
+  }
+}

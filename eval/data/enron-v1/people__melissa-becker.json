@@ -1,0 +1,14 @@
+{
+  "slug": "people/melissa-becker",
+  "type": "person",
+  "title": "Melissa Becker",
+  "compiled_truth": "Melissa Becker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-18 to 2002-01-09), Melissa Becker sent 24 and received 82 emails, totalling 106 interactions. Top correspondents: [Sally Beck](people/sally-beck) (17), [George Wasaff](people/george-wasaff) (12), [Wes Colwell](people/wes-colwell) (12), [Rod Hayslett](people/rod-hayslett) (12), [Bob Butts](people/bob-butts) (11). Mailbox folders observed: deleted_items, inbox, projects.",
+  "timeline": "- **2000-01-18** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/melissa-becker",
+    "name": "Melissa Becker",
+    "email": "melissa.becker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

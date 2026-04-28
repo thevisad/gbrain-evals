@@ -1,0 +1,14 @@
+{
+  "slug": "people/laurel-gleason",
+  "type": "person",
+  "title": "Laurel Gleason",
+  "compiled_truth": "Laurel Gleason is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2002-06-13), Laurel Gleason sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2002-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/laurel-gleason",
+    "name": "Laurel Gleason",
+    "email": "laurel.gleason@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

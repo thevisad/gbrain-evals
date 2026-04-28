@@ -1,0 +1,14 @@
+{
+  "slug": "people/gary-corless",
+  "type": "person",
+  "title": "Gary Corless",
+  "compiled_truth": "Gary Corless is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-20 to 2002-03-13), Gary Corless sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2001-04-20** | First recorded email in corpus\n- **2002-03-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gary-corless",
+    "name": "Gary Corless",
+    "email": "gary.corless@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

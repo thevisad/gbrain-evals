@@ -1,0 +1,14 @@
+{
+  "slug": "people/monica-jackson",
+  "type": "person",
+  "title": "Monica Jackson",
+  "compiled_truth": "Monica Jackson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-07 to 2001-06-01), Monica Jackson sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-03-07** | First recorded email in corpus\n- **2001-06-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/monica-jackson",
+    "name": "Monica Jackson",
+    "email": "monica.jackson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

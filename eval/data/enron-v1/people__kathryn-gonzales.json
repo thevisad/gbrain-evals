@@ -1,0 +1,14 @@
+{
+  "slug": "people/kathryn-gonzales",
+  "type": "person",
+  "title": "Kathryn Gonzales",
+  "compiled_truth": "Kathryn Gonzales is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-12-10 to 2002-05-28), Kathryn Gonzales sent 1 and received 8 emails, totalling 9 interactions. Top correspondents: [Joseph Des](people/joseph-des) (1), [David Draper](people/david-draper) (1), [Barry Vanderhorst](people/barry-vanderhorst) (1), [Chris Germany](people/chris-germany) (1). Mailbox folders observed: systems.",
+  "timeline": "- **2001-12-10** | First recorded email in corpus\n- **2002-05-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kathryn-gonzales",
+    "name": "Kathryn Gonzales",
+    "email": "kathryn.gonzales@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "people/bill-hart",
+  "type": "person",
+  "title": "Bill Hart",
+  "compiled_truth": "Bill Hart is a mentor to Amara Okafor. Email: bill@hart-ventures.com. Bill Hart works at Hart Ventures. Slack: @bill.",
+  "timeline": "- **2026-04-13** | contact added",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-hart",
+    "name": "Bill Hart",
+    "email": "bill@hart-ventures.com",
+    "slack_handle": "bill",
+    "relation_to_amara": "mentor",
+    "primary_affiliation": "companies/hart-ventures"
+  }
+}

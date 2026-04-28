@@ -1,0 +1,33 @@
+{
+  "slug": "meetings/anchor-board-2026-10-2",
+  "type": "meeting",
+  "title": "Anchor Board Meeting Q3 2026",
+  "compiled_truth": "Quarterly board meeting held October 15, 2026 at Anchor's office. Attendees: [Seren Voss](people/seren-voss) (CEO), [Ora Yamamoto](people/ora-yamamoto) (board observer, lead from seed round), [Bex Andersen](people/bex-andersen) (CTO), and [Dani Osei](people/dani-osei) (VP Eng). The primary agenda was Series A preparation and whether the company could credibly hit its ARR target before going out to raise.\n\nSeren opened with a revenue update. [Anchor Codec](companies/anchor) closed the quarter at $780K ARR, up from $410K at the end of Q2. Growth was driven largely by two mid-market design contracts that went live in August, plus expansion revenue from an existing logistics customer. Seren framed the number as encouraging but acknowledged it was still below the $1.2M ARR threshold the board had previously discussed as a minimum for a strong Series A narrative. She walked through a pipeline deck showing $600K+ in late-stage opportunities, mostly in media processing and compliance-adjacent verticals, and argued that a Q1 2027 raise timeline was realistic if even half of those converted.\n\nOra pushed back somewhat — not on the pipeline quality, but on timing. Her concern was that the fundraising environment for infrastructure companies in early 2027 might be tighter than expected, and she recommended Anchor begin soft outreach to Series A leads now rather than waiting for the ARR to fully materialize. She noted that deterministic data infrastructure is a hard sell to generalist investors and that Anchor would benefit from lining up at least two funds with domain expertise well in advance.\n\n[Bex Andersen](people/bex-andersen) gave a product update. The single-pass primitives had been stabilized in the 0.9 release and two design partners were already running them in production. Bex flagged one open concern: the team was stretched thin maintaining both the core SDK and the managed service layer. She recommended hiring at least two more senior engineers before the raise, arguing that product velocity would be a key differentiator in diligence.\n\nDani backed up Bex's headcount ask and presented a hiring plan with three roles: two backend engineers and one devrel hire. He estimated a 6-8 week ramp for each. There was some debate about whether devrel was premature, but Seren sided with Dani, noting that community traction would strenghten the Series A story.\n\nAction items: Seren to begin warm intros to three infrastructure-focused funds by end of October. Bex to finalize the 1.0 release roadmap. Dani to post the two engineering roles immediately and hold on devrel until November. Ora to share a list of Series A leads she's had recent converasations with. Next board meeting scheduled for January 2027.",
+  "timeline": [
+    "- **2026-08-01** | Two mid-market design contracts go live, driving ARR acceleration for [Anchor Codec](companies/anchor)",
+    "- **2026-09-12** | [Bex Andersen](people/bex-andersen) ships 0.9 release stabilizing single-pass primitives for production use",
+    "- **2026-10-15** | Q3 board meeting held; Series A preparation and $1.2M ARR target discussed",
+    "- **2026-10-28** | [Seren Voss](people/seren-voss) begins warm outreach to three infrastructure-focused funds",
+    "- **2026-11-04** | [Dani Osei](people/dani-osei) posts two senior backend engineering roles",
+    "- **2026-12-01** | First senior backend hire starts; second offer extended",
+    "- **2027-01-15** | Follow-up board meeting to review ARR progress and Series A readiness",
+    "- **2027-02-10** | [Anchor Codec](companies/anchor) crosses $1.1M ARR; Series A process formally kicked off",
+    "- **2027-03-22** | Series A term sheet received from lead investor after four-week diligence process",
+    "- **2027-04-05** | [Ora Yamamoto](people/ora-yamamoto) facilitates intro to a second fund for co-lead discussions"
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/anchor-board-2026-10-2",
+    "name": "Anchor Board Meeting Q3 2026",
+    "meeting_type": "board_meeting",
+    "date": "2026-10-15",
+    "attendees": [
+      "people/seren-voss",
+      "people/ora-yamamoto",
+      "people/bex-andersen",
+      "people/dani-osei"
+    ],
+    "topic_company": "companies/anchor",
+    "topic": "Series A preparation + ARR target"
+  }
+}

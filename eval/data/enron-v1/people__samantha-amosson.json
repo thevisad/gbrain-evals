@@ -1,0 +1,14 @@
+{
+  "slug": "people/samantha-amosson",
+  "type": "person",
+  "title": "Samantha Amosson",
+  "compiled_truth": "Samantha Amosson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2001-12-03), Samantha Amosson sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/samantha-amosson",
+    "name": "Samantha Amosson",
+    "email": "samantha.amosson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

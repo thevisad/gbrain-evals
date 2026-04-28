@@ -1,0 +1,14 @@
+{
+  "slug": "people/kim-monk",
+  "type": "person",
+  "title": "Kim Monk",
+  "compiled_truth": "Kim Monk is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-10 to 2001-07-30), Kim Monk sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Mark Gandy](people/mark-gandy) (1), [Stephen Morse](people/stephen-morse) (1), [Traci Warner](people/traci-warner) (1), [Jeremy Buss](people/jeremy-buss) (1), [Marcello Romano](people/marcello-romano) (1). Mailbox folders observed: misc.",
+  "timeline": "- **2000-03-10** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kim-monk",
+    "name": "Kim Monk",
+    "email": "kim.monk@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

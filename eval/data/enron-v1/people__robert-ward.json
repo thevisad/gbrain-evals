@@ -1,0 +1,14 @@
+{
+  "slug": "people/robert-ward",
+  "type": "person",
+  "title": "Robert Ward",
+  "compiled_truth": "Robert Ward is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-03 to 2001-08-04), Robert Ward sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-10-03** | First recorded email in corpus\n- **2001-08-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/robert-ward",
+    "name": "Robert Ward",
+    "email": "robert.ward@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ewestby-aandelp",
+  "type": "person",
+  "title": "Ewestby",
+  "compiled_truth": "Ewestby is an external contact at [Aandelp](companies/aandelp). Over the corpus period (2000-08-25 to 2000-09-25), Ewestby sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-08-25** | First recorded email in corpus\n- **2000-09-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ewestby-aandelp",
+    "name": "Ewestby",
+    "email": "ewestby@aandelp.com",
+    "primary_affiliation": "companies/aandelp"
+  }
+}

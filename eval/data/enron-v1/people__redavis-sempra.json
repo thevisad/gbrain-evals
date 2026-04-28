@@ -1,0 +1,14 @@
+{
+  "slug": "people/redavis-sempra",
+  "type": "person",
+  "title": "Redavis",
+  "compiled_truth": "Redavis is an external contact at [Sempra Energy](companies/sempra). Over the corpus period (2000-04-17 to 2001-07-31), Redavis sent 0 and received 47 emails, totalling 47 interactions.",
+  "timeline": "- **2000-04-17** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/redavis-sempra",
+    "name": "Redavis",
+    "email": "redavis@sempra.com",
+    "primary_affiliation": "companies/sempra"
+  }
+}

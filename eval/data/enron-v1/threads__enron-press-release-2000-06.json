@@ -1,0 +1,23 @@
+{
+  "slug": "threads/enron-press-release-2000-06",
+  "type": "meeting",
+  "title": "Thread: Enron Press Release",
+  "compiled_truth": "Email thread: \"Enron Press Release\". Ran from 2000-06-28 to 2000-07-25 with 11 messages. Participants: [Anne Koehler](people/anne-koehler), [Chris Germany](people/chris-germany), [Germanj](people/germanj-basf-corp), [Joni Veselack](people/joni-veselack-gen), [Mark Taylor](people/mark-taylor), [Mgermany](people/mgermany-ch2m), [Travis Mccullough](people/travis-mccullough), [Trogg522](people/trogg522-aol).",
+  "timeline": "- **2000-06-28** | Thread begins: enron press release\n- **2000-07-25** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-press-release-2000-06",
+    "attendees": [
+      "people/anne-koehler",
+      "people/chris-germany",
+      "people/germanj-basf-corp",
+      "people/joni-veselack-gen",
+      "people/mark-taylor",
+      "people/mgermany-ch2m",
+      "people/travis-mccullough",
+      "people/trogg522-aol",
+      "people/vernon-mercaldo"
+    ],
+    "date": "2000-06-28"
+  }
+}

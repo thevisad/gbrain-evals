@@ -1,0 +1,14 @@
+{
+  "slug": "people/convery-wharton",
+  "type": "person",
+  "title": "Convery",
+  "compiled_truth": "Convery is an external contact at [Wharton](companies/wharton). Over the corpus period (2001-05-31 to 2001-05-31), Convery sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-05-31** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/convery-wharton",
+    "name": "Convery",
+    "email": "convery@wharton.upenn.edu",
+    "primary_affiliation": "companies/wharton"
+  }
+}

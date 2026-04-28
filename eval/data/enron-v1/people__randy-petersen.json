@@ -1,0 +1,14 @@
+{
+  "slug": "people/randy-petersen",
+  "type": "person",
+  "title": "Randy Petersen",
+  "compiled_truth": "Randy Petersen is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-11 to 2001-12-03), Randy Petersen sent 3 and received 103 emails, totalling 106 interactions. Top correspondents: [Richard Sanders](people/richard-sanders) (3), [Dan Lyons](people/dan-lyons) (2), [Christopher Helfrich](people/christopher-helfrich) (1), [Paul Gregory](people/paul-gregory) (1).",
+  "timeline": "- **1999-10-11** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/randy-petersen",
+    "name": "Randy Petersen",
+    "email": "randy.petersen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

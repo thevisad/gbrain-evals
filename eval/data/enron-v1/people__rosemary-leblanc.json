@@ -1,0 +1,14 @@
+{
+  "slug": "people/rosemary-leblanc",
+  "type": "person",
+  "title": "Rosemary Leblanc",
+  "compiled_truth": "Rosemary Leblanc is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-05 to 2001-01-08), Rosemary Leblanc sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus\n- **2001-01-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rosemary-leblanc",
+    "name": "Rosemary Leblanc",
+    "email": "rosemary.leblanc@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

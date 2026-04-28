@@ -1,0 +1,14 @@
+{
+  "slug": "people/george-schreck-pacificorp",
+  "type": "person",
+  "title": "George Schreck",
+  "compiled_truth": "George Schreck is an external contact at [Pacificorp](companies/pacificorp). Over the corpus period (2000-06-23 to 2001-04-26), George Schreck sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/george-schreck-pacificorp",
+    "name": "George Schreck",
+    "email": "george.schreck@pacificorp.com",
+    "primary_affiliation": "companies/pacificorp"
+  }
+}

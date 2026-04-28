@@ -1,0 +1,14 @@
+{
+  "slug": "people/lynn-shivers",
+  "type": "person",
+  "title": "Lynn Shivers",
+  "compiled_truth": "Lynn Shivers is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-24 to 2002-06-21), Lynn Shivers sent 0 and received 442 emails, totalling 442 interactions.",
+  "timeline": "- **1998-11-24** | First recorded email in corpus\n- **2002-06-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lynn-shivers",
+    "name": "Lynn Shivers",
+    "email": "lynn.shivers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

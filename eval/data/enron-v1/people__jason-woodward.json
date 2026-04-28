@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-woodward",
+  "type": "person",
+  "title": "Jason Woodward",
+  "compiled_truth": "Jason Woodward is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-04 to 2002-03-29), Jason Woodward sent 3 and received 11 emails, totalling 14 interactions. Top correspondents: [D  Steffes](people/d-steffes) (3), [Evan Hughes](people/evan-hughes) (3), [D Smith](people/d-smith) (2), [Edwin Essandoh](people/edwin-essandoh) (2), [Diann Huddleson](people/diann-huddleson) (2). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-06-04** | First recorded email in corpus\n- **2002-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-woodward",
+    "name": "Jason Woodward",
+    "email": "jason.woodward@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

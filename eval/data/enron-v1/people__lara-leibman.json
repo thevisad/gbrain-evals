@@ -1,0 +1,14 @@
+{
+  "slug": "people/lara-leibman",
+  "type": "person",
+  "title": "Lara Leibman",
+  "compiled_truth": "Lara Leibman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-06 to 2001-12-03), Lara Leibman sent 83 and received 541 emails, totalling 624 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (50), [Richard Shapiro](people/richard-shapiro) (42), [Sue Nord](people/sue-nord) (39), [Stephen Burns](people/stephen-burns) (27), [Marchris Robinson](people/marchris-robinson) (27). Mailbox folders observed: calendar, coal, deleted_items, global_markets, inbox.",
+  "timeline": "- **2000-01-06** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lara-leibman",
+    "name": "Lara Leibman",
+    "email": "lara.leibman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

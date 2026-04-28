@@ -1,0 +1,14 @@
+{
+  "slug": "people/sandra-hrna",
+  "type": "person",
+  "title": "Sandra Hrna",
+  "compiled_truth": "Sandra Hrna is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-13 to 2001-11-27), Sandra Hrna sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **1999-08-13** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sandra-hrna",
+    "name": "Sandra Hrna",
+    "email": "sandra.hrna@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

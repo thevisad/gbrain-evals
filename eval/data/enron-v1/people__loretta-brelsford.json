@@ -1,0 +1,14 @@
+{
+  "slug": "people/loretta-brelsford",
+  "type": "person",
+  "title": "Loretta Brelsford",
+  "compiled_truth": "Loretta Brelsford is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-10-15 to 2002-01-18), Loretta Brelsford sent 10 and received 169 emails, totalling 179 interactions. Top correspondents: [John Ambler](people/john-ambler) (6), [Connie Blackwood](people/connie-blackwood) (5), [Rebecca Mcdonald](people/rebecca-mcdonald) (5), [James Hughes](people/james-hughes) (5), [Scott Gilchrist](people/scott-gilchrist) (4). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-10-15** | First recorded email in corpus\n- **2002-01-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/loretta-brelsford",
+    "name": "Loretta Brelsford",
+    "email": "loretta.brelsford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

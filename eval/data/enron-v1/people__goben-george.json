@@ -1,0 +1,14 @@
+{
+  "slug": "people/goben-george",
+  "type": "person",
+  "title": "Goben George",
+  "compiled_truth": "Goben George is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-10-10 to 2001-10-10), Goben George sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-10** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/goben-george",
+    "name": "Goben George",
+    "email": "goben.george@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

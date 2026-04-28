@@ -1,0 +1,14 @@
+{
+  "slug": "people/charlotte-hawkins",
+  "type": "person",
+  "title": "Charlotte Hawkins",
+  "compiled_truth": "Charlotte Hawkins is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-08-10), Charlotte Hawkins sent 15 and received 72 emails, totalling 87 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (15), [Pat Clynes](people/pat-clynes) (6), [Stacey Neuweiler](people/stacey-neuweiler) (3), [Robert Lloyd](people/robert-lloyd) (2), [Lauri Allen](people/lauri-allen) (2).",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-08-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/charlotte-hawkins",
+    "name": "Charlotte Hawkins",
+    "email": "charlotte.hawkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

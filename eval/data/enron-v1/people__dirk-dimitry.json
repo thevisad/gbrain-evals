@@ -1,0 +1,14 @@
+{
+  "slug": "people/dirk-dimitry",
+  "type": "person",
+  "title": "Dirk Dimitry",
+  "compiled_truth": "Dirk Dimitry is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-07-13 to 2001-11-27), Dirk Dimitry sent 1 and received 145 emails, totalling 146 interactions. Top correspondents: [Monika Causholli](people/monika-causholli) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-07-13** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dirk-dimitry",
+    "name": "Dirk Dimitry",
+    "email": "dirk.dimitry@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ron-pieronek",
+  "type": "person",
+  "title": "Ron Pieronek",
+  "compiled_truth": "Ron Pieronek is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-05-06), Ron Pieronek sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ron-pieronek",
+    "name": "Ron Pieronek",
+    "email": "ron.pieronek@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-althaus",
+  "type": "person",
+  "title": "Jason Althaus",
+  "compiled_truth": "Jason Althaus is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-23 to 2002-02-13), Jason Althaus sent 0 and received 61 emails, totalling 61 interactions.",
+  "timeline": "- **2000-03-23** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-althaus",
+    "name": "Jason Althaus",
+    "email": "jason.althaus@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

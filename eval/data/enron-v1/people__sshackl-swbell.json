@@ -1,0 +1,14 @@
+{
+  "slug": "people/sshackl-swbell",
+  "type": "person",
+  "title": "Sshackl",
+  "compiled_truth": "Sshackl is an external contact at [Swbell](companies/swbell). Over the corpus period (2000-03-22 to 2002-03-26), Sshackl sent 26 and received 184 emails, totalling 210 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (26).",
+  "timeline": "- **2000-03-22** | First recorded email in corpus\n- **2002-03-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sshackl-swbell",
+    "name": "Sshackl",
+    "email": "sshackl@swbell.net",
+    "primary_affiliation": "companies/swbell"
+  }
+}

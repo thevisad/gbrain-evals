@@ -1,0 +1,14 @@
+{
+  "slug": "people/linda-trevino",
+  "type": "person",
+  "title": "Linda Trevino",
+  "compiled_truth": "Linda Trevino is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2002-03-15), Linda Trevino sent 19 and received 275 emails, totalling 294 interactions. Top correspondents: [Darrell Schoolcraft](people/darrell-schoolcraft) (9), [Karen Brostad](people/karen-brostad) (6), [Lindy Donoho](people/lindy-donoho) (5), [Tk Lohman](people/tk-lohman) (5), [Ramona Betancourt](people/ramona-betancourt) (4). Mailbox folders observed: drafts__lotus_notes_, inbox, tw.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2002-03-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/linda-trevino",
+    "name": "Linda Trevino",
+    "email": "linda.trevino@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

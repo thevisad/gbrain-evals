@@ -1,0 +1,14 @@
+{
+  "slug": "people/aabbate-metromediaenergy",
+  "type": "person",
+  "title": "Aabbate",
+  "compiled_truth": "Aabbate is an external contact at [Metromediaenergy](companies/metromediaenergy). Over the corpus period (2000-11-07 to 2001-09-11), Aabbate sent 0 and received 15 emails, totalling 15 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-09-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aabbate-metromediaenergy",
+    "name": "Aabbate",
+    "email": "aabbate@metromediaenergy.com",
+    "primary_affiliation": "companies/metromediaenergy"
+  }
+}

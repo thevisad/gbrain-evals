@@ -1,0 +1,14 @@
+{
+  "slug": "people/janet-devereaux",
+  "type": "person",
+  "title": "Janet Devereaux",
+  "compiled_truth": "Janet Devereaux is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2002-02-13), Janet Devereaux sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janet-devereaux",
+    "name": "Janet Devereaux",
+    "email": "janet.devereaux@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

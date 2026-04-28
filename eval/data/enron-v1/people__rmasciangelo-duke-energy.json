@@ -1,0 +1,14 @@
+{
+  "slug": "people/rmasciangelo-duke-energy",
+  "type": "person",
+  "title": "Rmasciangelo",
+  "compiled_truth": "Rmasciangelo is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-11-10 to 2001-10-26), Rmasciangelo sent 3 and received 24 emails, totalling 27 interactions. Top correspondents: [Debra Perlingiere](people/debra-perlingiere) (3).",
+  "timeline": "- **2000-11-10** | First recorded email in corpus\n- **2001-10-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rmasciangelo-duke-energy",
+    "name": "Rmasciangelo",
+    "email": "rmasciangelo@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

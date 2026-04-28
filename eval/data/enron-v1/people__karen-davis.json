@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-davis",
+  "type": "person",
+  "title": "Karen Davis",
+  "compiled_truth": "Karen Davis is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-31 to 2001-11-08), Karen Davis sent 7 and received 23 emails, totalling 30 interactions. Top correspondents: [C  Bland](people/c-bland) (4), [Shelly Butler](people/shelly-butler) (3), [Andy Kelemen](people/andy-kelemen) (1), [Angela Schwarz](people/angela-schwarz) (1), [Art Bieser](people/art-bieser) (1). Mailbox folders observed: 06_saved, 07_saved, enron_power, holden_s, inbox, meeting_invites_confirms.",
+  "timeline": "- **2000-08-31** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-davis",
+    "name": "Karen Davis",
+    "email": "karen.davis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

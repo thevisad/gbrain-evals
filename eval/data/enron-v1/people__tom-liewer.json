@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-liewer",
+  "type": "person",
+  "title": "Tom Liewer",
+  "compiled_truth": "Tom Liewer is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-06-14 to 2000-04-17), Tom Liewer sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **1999-06-14** | First recorded email in corpus\n- **2000-04-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-liewer",
+    "name": "Tom Liewer",
+    "email": "tom.liewer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/lee-nguyen",
+  "type": "person",
+  "title": "Lee Nguyen",
+  "compiled_truth": "Lee Nguyen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2000-10-09), Lee Nguyen sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lee-nguyen",
+    "name": "Lee Nguyen",
+    "email": "lee.nguyen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

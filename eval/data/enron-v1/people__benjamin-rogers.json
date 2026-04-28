@@ -1,0 +1,14 @@
+{
+  "slug": "people/benjamin-rogers",
+  "type": "person",
+  "title": "Benjamin Rogers",
+  "compiled_truth": "Benjamin Rogers is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-03-04), Benjamin Rogers sent 1831 and received 1753 emails, totalling 3584 interactions. Top correspondents: [Don Miller](people/don-miller) (254), [Jinsung Myung](people/jinsung-myung) (104), [James Heckler](people/james-heckler-csfb) (68), [Brandon Neff](people/brandon-neff) (56), [Ross Newlin](people/ross-newlin) (50). Mailbox folders observed: _sent_mail, deleted_items, inbox, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-03-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/benjamin-rogers",
+    "name": "Benjamin Rogers",
+    "email": "benjamin.rogers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

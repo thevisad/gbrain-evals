@@ -1,0 +1,14 @@
+{
+  "slug": "people/pamela-sonnier",
+  "type": "person",
+  "title": "Pamela Sonnier",
+  "compiled_truth": "Pamela Sonnier is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-11-12 to 2001-11-19), Pamela Sonnier sent 1 and received 202 emails, totalling 203 interactions. Top correspondents: [Chris Abel](people/chris-abel) (1), [Kristin Albrecht](people/kristin-albrecht) (1), [Beth Apollo](people/beth-apollo) (1), [Sally Beck](people/sally-beck) (1), [Adrial Boals](people/adrial-boals) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-11-12** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pamela-sonnier",
+    "name": "Pamela Sonnier",
+    "email": "pamela.sonnier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

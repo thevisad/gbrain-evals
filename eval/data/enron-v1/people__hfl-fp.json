@@ -1,0 +1,14 @@
+{
+  "slug": "people/hfl-fp",
+  "type": "person",
+  "title": "Hfl",
+  "compiled_truth": "Hfl is an external contact at [Fp](companies/fp). Over the corpus period (2000-06-01 to 2001-11-26), Hfl sent 0 and received 127 emails, totalling 127 interactions.",
+  "timeline": "- **2000-06-01** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hfl-fp",
+    "name": "Hfl",
+    "email": "hfl@fp.edu",
+    "primary_affiliation": "companies/fp"
+  }
+}

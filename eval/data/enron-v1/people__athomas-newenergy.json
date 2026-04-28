@@ -1,0 +1,14 @@
+{
+  "slug": "people/athomas-newenergy",
+  "type": "person",
+  "title": "Athomas",
+  "compiled_truth": "Athomas is an external contact at [Newenergy](companies/newenergy). Over the corpus period (1999-10-04 to 2001-10-02), Athomas sent 2 and received 92 emails, totalling 94 interactions. Top correspondents: [Mday](people/mday-gmssr) (1), [Smccubbi](people/smccubbi) (1), [Sgovenar](people/sgovenar-govadv) (1), [Hkingers](people/hkingers) (1), [Jdasovic](people/jdasovic) (1).",
+  "timeline": "- **1999-10-04** | First recorded email in corpus\n- **2001-10-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/athomas-newenergy",
+    "name": "Athomas",
+    "email": "athomas@newenergy.com",
+    "primary_affiliation": "companies/newenergy"
+  }
+}

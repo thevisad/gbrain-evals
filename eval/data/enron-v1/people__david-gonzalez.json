@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-gonzalez",
+  "type": "person",
+  "title": "David Gonzalez",
+  "compiled_truth": "David Gonzalez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-26 to 2001-11-26), David Gonzalez sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-07-26** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-gonzalez",
+    "name": "David Gonzalez",
+    "email": "david.gonzalez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

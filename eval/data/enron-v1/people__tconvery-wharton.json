@@ -1,0 +1,14 @@
+{
+  "slug": "people/tconvery-wharton",
+  "type": "person",
+  "title": "Tconvery",
+  "compiled_truth": "Tconvery is an external contact at [Wharton](companies/wharton). Over the corpus period (2000-11-22 to 2001-04-30), Tconvery sent 4 and received 3 emails, totalling 7 interactions. Top correspondents: [Vkamins](people/vkamins) (4), [Kunreuth](people/kunreuth-wharton) (3), [Fangf](people/fangf-wharton) (3), [Kleindorfer](people/kleindorfer-wharton) (2), [Mcnultyp](people/mcnultyp-wharton) (2).",
+  "timeline": "- **2000-11-22** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tconvery-wharton",
+    "name": "Tconvery",
+    "email": "tconvery@wharton.upenn.edu",
+    "primary_affiliation": "companies/wharton"
+  }
+}

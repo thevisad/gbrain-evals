@@ -1,0 +1,14 @@
+{
+  "slug": "people/isabel-parker-freshfields",
+  "type": "person",
+  "title": "Isabel Parker",
+  "compiled_truth": "Isabel Parker is an external contact at [Freshfields](companies/freshfields). Over the corpus period (2001-04-04 to 2001-06-05), Isabel Parker sent 21 and received 44 emails, totalling 65 interactions. Top correspondents: [Kay Mann](people/kay-mann) (21), [Ccampbell](people/ccampbell-kslaw) (19), [Gregorylang](people/gregorylang-paulhastings) (17), [Nicholas Vandusen](people/nicholas-vandusen-freshfields) (10), [Kent Shoemaker](people/kent-shoemaker-ae) (7).",
+  "timeline": "- **2001-04-04** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/isabel-parker-freshfields",
+    "name": "Isabel Parker",
+    "email": "isabel.parker@freshfields.com",
+    "primary_affiliation": "companies/freshfields"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/salleyoo-dwt",
+  "type": "person",
+  "title": "Salleyoo",
+  "compiled_truth": "Salleyoo is an external contact at [Dwt](companies/dwt). Over the corpus period (1999-09-24 to 2001-07-31), Salleyoo sent 3 and received 153 emails, totalling 156 interactions. Top correspondents: [Jweil](people/jweil-aglet) (3), [Jleslie](people/jleslie-luce) (3), [Marcel](people/marcel-turn) (3), [Mday](people/mday-gmssr) (3), [Jmct](people/jmct-gmssr) (3).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/salleyoo-dwt",
+    "name": "Salleyoo",
+    "email": "salleyoo@dwt.com",
+    "primary_affiliation": "companies/dwt"
+  }
+}

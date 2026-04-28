@@ -1,0 +1,14 @@
+{
+  "slug": "people/rmittelstaedt-pillsburywinthrop",
+  "type": "person",
+  "title": "Rmittelstaedt",
+  "compiled_truth": "Rmittelstaedt is an external contact at [Pillsburywinthrop](companies/pillsburywinthrop). Over the corpus period (2001-02-03 to 2001-06-11), Rmittelstaedt sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2001-02-03** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rmittelstaedt-pillsburywinthrop",
+    "name": "Rmittelstaedt",
+    "email": "rmittelstaedt@pillsburywinthrop.com",
+    "primary_affiliation": "companies/pillsburywinthrop"
+  }
+}

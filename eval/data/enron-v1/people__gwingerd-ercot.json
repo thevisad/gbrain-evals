@@ -1,0 +1,14 @@
+{
+  "slug": "people/gwingerd-ercot",
+  "type": "person",
+  "title": "Gwingerd",
+  "compiled_truth": "Gwingerd is an external contact at [Ercot](companies/ercot). Over the corpus period (2002-01-14 to 2002-01-14), Gwingerd sent 1 and received 0 emails, totalling 1 interactions. Top correspondents: [Whyte](people/whyte) (1), [Swhyte](people/swhyte-mindspring) (1), [Rhill](people/rhill-energyservicesgroup) (1), [Teel](people/teel) (1), [Jennifer Teel](people/jennifer-teel-ec-power) (1).",
+  "timeline": "- **2002-01-14** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gwingerd-ercot",
+    "name": "Gwingerd",
+    "email": "gwingerd@ercot.com",
+    "primary_affiliation": "companies/ercot"
+  }
+}

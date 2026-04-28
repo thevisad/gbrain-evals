@@ -1,0 +1,14 @@
+{
+  "slug": "people/tonya-dennis",
+  "type": "person",
+  "title": "Tonya Dennis",
+  "compiled_truth": "Tonya Dennis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-26 to 2002-04-20), Tonya Dennis sent 3 and received 20 emails, totalling 23 interactions. Top correspondents: [Kay Mann](people/kay-mann) (3), [Theresa Vos](people/theresa-vos) (2), [Sheila Tweed](people/sheila-tweed) (1), [Alice Wright](people/alice-wright) (1), [A  Garcia](people/a-garcia) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2002-04-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tonya-dennis",
+    "name": "Tonya Dennis",
+    "email": "tonya.dennis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

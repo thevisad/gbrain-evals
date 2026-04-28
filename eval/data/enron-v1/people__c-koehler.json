@@ -1,0 +1,14 @@
+{
+  "slug": "people/c-koehler",
+  "type": "person",
+  "title": "C  Koehler",
+  "compiled_truth": "C  Koehler is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-13 to 2002-02-07), C  Koehler sent 56 and received 555 emails, totalling 611 interactions. Top correspondents: [ Taylor](people/taylor) (19), [Tana Jones](people/tana-jones) (16), [Louise Kitchen](people/louise-kitchen) (15), [N  Gray](people/n-gray) (10), [Elizabeth Sager](people/elizabeth-sager) (9). Mailbox folders observed: _americas, archive, deleted_items, inbox, swap_group_project_lists.",
+  "timeline": "- **2001-06-13** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/c-koehler",
+    "name": "C  Koehler",
+    "email": "c..koehler@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

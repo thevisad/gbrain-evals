@@ -1,0 +1,14 @@
+{
+  "slug": "people/ekrogh-sev",
+  "type": "person",
+  "title": "Ekrogh",
+  "compiled_truth": "Ekrogh is an external contact at [Sev](companies/sev). Over the corpus period (2000-06-23 to 2000-07-09), Ekrogh sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2000-07-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ekrogh-sev",
+    "name": "Ekrogh",
+    "email": "ekrogh@sev.net",
+    "primary_affiliation": "companies/sev"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/carlos-sole",
+  "type": "person",
+  "title": "Carlos Sole",
+  "compiled_truth": "Carlos Sole is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-02), Carlos Sole sent 46 and received 766 emails, totalling 812 interactions. Top correspondents: [Kay Mann](people/kay-mann) (39), [Roseann Engeldorf](people/roseann-engeldorf) (4), [Lisa Bills](people/lisa-bills) (4), [T  Hodge](people/t-hodge) (3), [Gerald Nemec](people/gerald-nemec) (3). Mailbox folders observed: deleted_items, inbox, westinghouse.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carlos-sole",
+    "name": "Carlos Sole",
+    "email": "carlos.sole@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

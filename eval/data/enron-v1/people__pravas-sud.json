@@ -1,0 +1,14 @@
+{
+  "slug": "people/pravas-sud",
+  "type": "person",
+  "title": "Pravas Sud",
+  "compiled_truth": "Pravas Sud is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-27 to 2002-01-28), Pravas Sud sent 1 and received 22 emails, totalling 23 interactions. Top correspondents: [Loretta Brelsford](people/loretta-brelsford) (1), [J Kaminski](people/j-kaminski) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-06-27** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pravas-sud",
+    "name": "Pravas Sud",
+    "email": "pravas.sud@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/travis-mccullough",
+  "type": "person",
+  "title": "Travis Mccullough",
+  "compiled_truth": "Travis Mccullough is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-09), Travis Mccullough sent 144 and received 1004 emails, totalling 1148 interactions. Top correspondents: [Mark Taylor](people/mark-taylor) (58), [Andy Zipper](people/andy-zipper) (41), [Mark Haedicke](people/mark-haedicke) (17), [Louise Kitchen](people/louise-kitchen) (17), [Elizabeth Sager](people/elizabeth-sager) (15). Mailbox folders observed: _americas, archive, deleted_items, hs, inbox, kiodex.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/travis-mccullough",
+    "name": "Travis Mccullough",
+    "email": "travis.mccullough@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

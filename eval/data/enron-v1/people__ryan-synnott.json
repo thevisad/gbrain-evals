@@ -1,0 +1,14 @@
+{
+  "slug": "people/ryan-synnott",
+  "type": "person",
+  "title": "Ryan Synnott",
+  "compiled_truth": "Ryan Synnott is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-30), Ryan Synnott sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ryan-synnott",
+    "name": "Ryan Synnott",
+    "email": "ryan.synnott@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

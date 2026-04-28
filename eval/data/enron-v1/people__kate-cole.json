@@ -1,0 +1,14 @@
+{
+  "slug": "people/kate-cole",
+  "type": "person",
+  "title": "Kate Cole",
+  "compiled_truth": "Kate Cole is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-13 to 2002-01-09), Kate Cole sent 44 and received 103 emails, totalling 147 interactions. Top correspondents: [James Derrick](people/james-derrick) (29), [Hardie Davis](people/hardie-davis) (29), [Teresa Callahan](people/teresa-callahan) (27), [Janice Priddy](people/janice-priddy) (25), [Cynthia Barrow](people/cynthia-barrow) (25). Mailbox folders observed: _americas, deleted_items, inbox.",
+  "timeline": "- **1999-05-13** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kate-cole",
+    "name": "Kate Cole",
+    "email": "kate.cole@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

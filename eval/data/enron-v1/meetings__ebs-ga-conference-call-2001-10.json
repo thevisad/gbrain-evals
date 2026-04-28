@@ -1,0 +1,30 @@
+{
+  "slug": "meetings/ebs-ga-conference-call-2001-10",
+  "type": "meeting",
+  "title": "Meeting: Ebs Ga Conference Call",
+  "compiled_truth": "Meeting: \"Ebs Ga Conference Call\". Occurred 2001-10-04 with 1 related emails. Participants included: [Allison Hamilton](people/allison-hamilton), [Carmen Perez](people/carmen-perez), [Eric Benson](people/eric-benson), [Jan Haizmann](people/jan-haizmann), [Jeff Dasovich](people/jeff-dasovich), [Kikumi Kishigami](people/kikumi-kishigami), [L  Petrochko](people/l-petrochko), [Lara Leibman](people/lara-leibman)....",
+  "timeline": "- **2001-10-04** | Meeting: ebs ga conference call",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/ebs-ga-conference-call-2001-10",
+    "attendees": [
+      "people/allison-hamilton",
+      "people/carmen-perez",
+      "people/eric-benson",
+      "people/jan-haizmann",
+      "people/jeff-dasovich",
+      "people/kikumi-kishigami",
+      "people/l-petrochko",
+      "people/lara-leibman",
+      "people/linda-robertson",
+      "people/margo-reyna",
+      "people/maurice-nunas",
+      "people/michael-grimes",
+      "people/richard-shapiro",
+      "people/scott-bolton",
+      "people/stephen-burns",
+      "people/vinio-floris"
+    ],
+    "date": "2001-10-04"
+  }
+}

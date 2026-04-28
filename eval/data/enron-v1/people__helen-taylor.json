@@ -1,0 +1,14 @@
+{
+  "slug": "people/helen-taylor",
+  "type": "person",
+  "title": "Helen Taylor",
+  "compiled_truth": "Helen Taylor is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-03 to 2001-10-25), Helen Taylor sent 1 and received 26 emails, totalling 27 interactions. Top correspondents: [Jeffrey Shankman](people/jeffrey-shankman) (1), [Mike McConnell](people/mike-mcconnell) (1), [Jennifer Burns](people/jennifer-burns) (1), [Cathy Phillips](people/cathy-phillips) (1).",
+  "timeline": "- **2000-02-03** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/helen-taylor",
+    "name": "Helen Taylor",
+    "email": "helen.taylor@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

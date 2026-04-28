@@ -1,0 +1,14 @@
+{
+  "slug": "people/edwin-essandoh",
+  "type": "person",
+  "title": "Edwin Essandoh",
+  "compiled_truth": "Edwin Essandoh is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2002-06-13), Edwin Essandoh sent 7 and received 58 emails, totalling 65 interactions. Top correspondents: [F  Herod](people/f-herod) (3), [ Taylor](people/taylor) (3), [Roger Yang](people/roger-yang) (2), [Susan Mara](people/susan-mara) (2), [Jeff Dasovich](people/jeff-dasovich) (2). Mailbox folders observed: archive, inbox.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2002-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edwin-essandoh",
+    "name": "Edwin Essandoh",
+    "email": "edwin.essandoh@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

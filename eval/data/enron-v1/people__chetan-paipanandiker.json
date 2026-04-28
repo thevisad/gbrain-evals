@@ -1,0 +1,14 @@
+{
+  "slug": "people/chetan-paipanandiker",
+  "type": "person",
+  "title": "Chetan Paipanandiker",
+  "compiled_truth": "Chetan Paipanandiker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-11-08), Chetan Paipanandiker sent 0 and received 64 emails, totalling 64 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chetan-paipanandiker",
+    "name": "Chetan Paipanandiker",
+    "email": "chetan.paipanandiker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

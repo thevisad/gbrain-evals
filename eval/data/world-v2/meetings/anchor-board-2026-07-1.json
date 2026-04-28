@@ -1,0 +1,32 @@
+{
+  "slug": "meetings/anchor-board-2026-07-1",
+  "type": "meeting",
+  "title": "Anchor Board Meeting Q2 2026",
+  "compiled_truth": "First formal board meeting of the fiscal year, held at Anchor's office in the Mission on July 15, 2026. Attendees were [Seren Voss](people/seren-voss) (CEO), [Ora Yamamoto](people/ora-yamamoto) (CTO), [Bex Andersen](people/bex-andersen) (board observer, representing lead investor), and [Dani Osei](people/dani-osei) (independent board member). The meeting ran just over two hours, starting late because Seren's laptop refused to connect to the projector — ironic, given the company builds deterministic infrastructure.\n\nThe central agenda item was the first enterprise letter of intent, signed with a logistics platform whose name was kept confidential in the deck but internally referred to as \"Foxtrot.\" Ora walked through the technical integration scope: Foxtrot wants to replace three separate pipeline stages — compression, auth token generation, and payload transmission — with [Anchor Codec](companies/anchor)'s single-pass primitives. The LOI covers a 90-day proof-of-concept with a committed annual contract value of roughly $340K if benchmarks hold. Bex pressed hard on what \"benchmarks hold\" actually means in practice. Ora explained that the acceptance criteria are latency under 12ms per megabyte and zero data-loss guarantees over a 30-day soak test. Dani asked whether the team had capacity to support a live enterprise integration while continuing core R&D, which led directly into the second agenda item.\n\nHiring plan: Seren presented a headcount proposal to go from 7 to 14 by end of Q3. The breakdown was three infrastructure engineers, two developer-relations hires, one solutions architect dedicated to the Foxtrot engagement, and one operations/people-ops generalist. Bex flagged burn rate concerns — current runway is ~18 months at the existing headcount, and the proposed hires would compress that to about 11 months. Seren acknowledged the tradeoff but argued that landing Foxtrot and one additional enterprise deal would extend runway past 16 months even with the larger team. The board approved a modified plan: hire five immediately, defer the remaining two until the Foxtrot soak test clears.\n\nOther items discussed briefly: open-source community traction (GitHub stars crossed 2,400, up from 900 at seed close), a potential conference talk at InfraCon in October, and a minor IP concern raised by Dani regarding a contributor who previously worked at a competitor. Legal counsel was asked to review.\n\nMeeting adjourned at 4:47 PM. Minutes were circulated by Seren the following morning with two action items overdue already — classic early-stage pacing.",
+  "timeline": [
+    "- **2026-06-28** | Foxtrot LOI signed after three weeks of negotiation; [Seren Voss](people/seren-voss) and legal finalize terms.",
+    "- **2026-07-10** | Board deck circulated by [Seren Voss](people/seren-voss) five days ahead of meeting.",
+    "- **2026-07-15** | Q2 board meeting held; hiring plan approved with modifications. See notes above.",
+    "- **2026-07-22** | First two infrastructure engineer roles posted; referral bonuses offered internally.",
+    "- **2026-08-09** | Solutions architect for Foxtrot engagement starts; onboarding led by [Ora Yamamoto](people/ora-yamamoto).",
+    "- **2026-09-03** | Foxtrot soak test begins in staging environment.",
+    "- **2026-10-14** | [Dani Osei](people/dani-osei) introduces Anchor team to potential second enterprise prospect at InfraCon.",
+    "- **2026-10-30** | Foxtrot soak test passes all acceptance criteria; contract converts to annual commitment.",
+    "- **2026-11-12** | Remaining two hires from deferred plan greenlit by [Bex Andersen](people/bex-andersen) after Foxtrot conversion."
+  ],
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/anchor-board-2026-07-1",
+    "name": "Anchor Board Meeting Q2 2026",
+    "meeting_type": "board_meeting",
+    "date": "2026-07-15",
+    "attendees": [
+      "people/seren-voss",
+      "people/ora-yamamoto",
+      "people/bex-andersen",
+      "people/dani-osei"
+    ],
+    "topic_company": "companies/anchor",
+    "topic": "First enterprise LOI signed + hiring plan"
+  }
+}

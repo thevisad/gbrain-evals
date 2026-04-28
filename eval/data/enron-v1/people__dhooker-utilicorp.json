@@ -1,0 +1,14 @@
+{
+  "slug": "people/dhooker-utilicorp",
+  "type": "person",
+  "title": "Dhooker",
+  "compiled_truth": "Dhooker is an external contact at [Utilicorp](companies/utilicorp). Over the corpus period (2000-05-05 to 2000-12-01), Dhooker sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-05-05** | First recorded email in corpus\n- **2000-12-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dhooker-utilicorp",
+    "name": "Dhooker",
+    "email": "dhooker@utilicorp.com",
+    "primary_affiliation": "companies/utilicorp"
+  }
+}

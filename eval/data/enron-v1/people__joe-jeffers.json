@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-jeffers",
+  "type": "person",
+  "title": "Joe Jeffers",
+  "compiled_truth": "Joe Jeffers is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-23 to 2002-02-15), Joe Jeffers sent 0 and received 30 emails, totalling 30 interactions.",
+  "timeline": "- **2000-03-23** | First recorded email in corpus\n- **2002-02-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-jeffers",
+    "name": "Joe Jeffers",
+    "email": "joe.jeffers@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

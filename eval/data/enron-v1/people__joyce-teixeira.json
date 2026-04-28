@@ -1,0 +1,14 @@
+{
+  "slug": "people/joyce-teixeira",
+  "type": "person",
+  "title": "Joyce Teixeira",
+  "compiled_truth": "Joyce Teixeira is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-21 to 2000-07-14), Joyce Teixeira sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2000-07-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joyce-teixeira",
+    "name": "Joyce Teixeira",
+    "email": "joyce.teixeira@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

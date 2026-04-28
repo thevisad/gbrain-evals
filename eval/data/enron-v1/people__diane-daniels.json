@@ -1,0 +1,14 @@
+{
+  "slug": "people/diane-daniels",
+  "type": "person",
+  "title": "Diane Daniels",
+  "compiled_truth": "Diane Daniels is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-08 to 2002-02-14), Diane Daniels sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-09-08** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/diane-daniels",
+    "name": "Diane Daniels",
+    "email": "diane.daniels@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

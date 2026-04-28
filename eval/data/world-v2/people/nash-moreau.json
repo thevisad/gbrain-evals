@@ -1,0 +1,25 @@
+{
+  "slug": "people/nash-moreau",
+  "type": "person",
+  "title": "Nash Moreau",
+  "compiled_truth": "Nash Moreau is a partner at [Prism Ventures](companies/prism-ventures), where he leads the firm's data infrastructure thesis. He joined Prism in 2022 after spending six years at a mid-tier crossover fund where he built a reputation for identifying category-defining infrastructure companies early — sometimes uncomfortably early, as he's quick to admit. Nash has a CS background (undergrad at a small liberal arts school nobody expects, then a masters at a larger program) but never worked as an engineer. He went straight into finance and has stayed there.\n\nWhat makes Nash distinctive is his pattern-matching instinct. He's deeply analytical but rarely gets lost in spreadsheets; he tends to form conviction based on architecture diagrams and founder conversations more than financial models. Multiple founders have described his diligence process as \"unusually technical for a VC\" — he'll ask pointed questions about write amplification, cache coherence, or serialization formats in a first meeting. This can be off-putting, but it's also why his portfolio has a strong hit rate in infra.\n\nHis involvement with [Anchor Codec](companies/anchor) began in mid-2026 when he took the first meeting with the founding team. Nash was skeptical initially — single-pass primitives sounded like an academic exercise to him — but after a deeper technical session he came around fast. He led Prism's participation in Anchor's seed round and has remained closely engaged since, attending board meetings and occasionally brokering introductions to later-stage investors.\n\nOutside of Anchor, Nash sits on the board of [Umbra Storage](companies/umbra-storage), a distributed storage startup that has some overlapping design philosophy with Anchor's deterministic approach, though the two companies operate in adjacent rather than competing markets. He's also been an advisor to [Quasar Labs](companies/quasar-labs), primarily helping them think through go-to-market for thier developer tooling layer.\n\nNash is based in New York but travels to San Francisco roughly every three weeks. He's known for being blunt in board settings — not abrasive, just direct. He doesn't do well with ambiguity in reporting and has pushed multiple portfolio companies to adopt more rigorous internal metrics. Among Prism partners, he's considered the most technically fluent, which sometimes creates friction when co-leading deals with partners who lean more on market sizing.\n\nPersonally, Moreau is fairly private. He runs ultramarathons, which tracks with his general disposition — methodical, patient, willing to endure discomfort for long-term payoff.",
+  "timeline": "- **2026-05-14** | First meeting with [Anchor Codec](companies/anchor) founding team; Nash initially skeptical but requested follow-up technical deep dive.\n- **2026-06-02** | Second session with Anchor — reviewed architecture docs and single-pass primitive benchmarks. Conviction formed.\n- **2026-07-19** | Led [Prism Ventures](companies/prism-ventures) participation in Anchor Codec's seed round.\n- **2026-10-03** | Joined [Umbra Storage](companies/umbra-storage) board as part of their Series A close.\n- **2027-01-22** | Introduced Anchor team to two potential enterprise design partners from his network.\n- **2027-04-11** | Spoke on \"Pattern Recognition in Infra Investing\" panel at a NYC-based data infrastructure summit.\n- **2027-08-15** | Began advisory engagement with [Quasar Labs](companies/quasar-labs), focusing on GTM strategy for their dev tools.\n- **2027-11-29** | Attended Anchor board meeting; pushed for tighter quarterly reporting cadence.\n- **2028-02-06** | Helped broker introductions between Anchor and two growth-stage funds ahead of Series A planning.\n- **2028-05-18** | Co-hosted a private dinner in SF with founders from Anchor, Umbra, and Quasar to discuss convergence in deterministic data infrastructure.",
+  "_facts": {
+    "type": "person",
+    "slug": "people/nash-moreau",
+    "name": "Nash Moreau",
+    "role": "partner",
+    "title": "Partner, Prism Ventures",
+    "primary_affiliation": "companies/prism-ventures",
+    "secondary_affiliations": [
+      "companies/umbra-storage",
+      "companies/anchor",
+      "companies/quasar-labs"
+    ],
+    "notable_traits": [
+      "sharp pattern matcher",
+      "analytical"
+    ],
+    "background": "Partner at Prism Ventures; focuses on data systems investments"
+  }
+}

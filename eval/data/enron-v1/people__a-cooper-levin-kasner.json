@@ -1,0 +1,14 @@
+{
+  "slug": "people/a-cooper-levin-kasner",
+  "type": "person",
+  "title": "A Cooper",
+  "compiled_truth": "A Cooper is an external contact at [Levin-kasner](companies/levin-kasner). Over the corpus period (2000-09-05 to 2000-09-05), A Cooper sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-09-05** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/a-cooper-levin-kasner",
+    "name": "A Cooper",
+    "email": "a.cooper@levin-kasner.com",
+    "primary_affiliation": "companies/levin-kasner"
+  }
+}

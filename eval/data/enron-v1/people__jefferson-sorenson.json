@@ -1,0 +1,14 @@
+{
+  "slug": "people/jefferson-sorenson",
+  "type": "person",
+  "title": "Jefferson Sorenson",
+  "compiled_truth": "Jefferson Sorenson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-11), Jefferson Sorenson sent 16 and received 535 emails, totalling 551 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (5), [Mark Taylor](people/mark-taylor) (5), [Brent Price](people/brent-price) (4), [Sally Beck](people/sally-beck) (4), [Tana Jones](people/tana-jones) (2).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jefferson-sorenson",
+    "name": "Jefferson Sorenson",
+    "email": "jefferson.sorenson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

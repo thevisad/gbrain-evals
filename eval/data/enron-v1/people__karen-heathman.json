@@ -1,0 +1,14 @@
+{
+  "slug": "people/karen-heathman",
+  "type": "person",
+  "title": "Karen Heathman",
+  "compiled_truth": "Karen Heathman is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-21), Karen Heathman sent 11 and received 220 emails, totalling 231 interactions. Top correspondents: [William Bradford](people/william-bradford) (5), [Rick Carson](people/rick-carson) (5), [David Gorte](people/david-gorte) (5), [Ted Murphy](people/ted-murphy) (5), [Mark Ruane](people/mark-ruane) (5). Mailbox folders observed: _sent_mail, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/karen-heathman",
+    "name": "Karen Heathman",
+    "email": "karen.heathman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

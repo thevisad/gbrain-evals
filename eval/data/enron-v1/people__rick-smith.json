@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-smith",
+  "type": "person",
+  "title": "Rick Smith",
+  "compiled_truth": "Rick Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-02 to 2002-03-25), Rick Smith sent 5 and received 186 emails, totalling 191 interactions. Top correspondents: [ Jerry](people/jerry) (3), [Darrell Schoolcraft](people/darrell-schoolcraft) (3), [Team Laguna](people/team-laguna) (3), [Ron Matthews](people/ron-matthews) (2), [Team Artesia](people/team-artesia) (2). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-04-02** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-smith",
+    "name": "Rick Smith",
+    "email": "rick.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jonathan-roumel",
+  "type": "person",
+  "title": "Jonathan Roumel",
+  "compiled_truth": "Jonathan Roumel is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2001-11-28), Jonathan Roumel sent 0 and received 25 emails, totalling 25 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jonathan-roumel",
+    "name": "Jonathan Roumel",
+    "email": "jonathan.roumel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

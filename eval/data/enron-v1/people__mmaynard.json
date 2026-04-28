@@ -1,0 +1,14 @@
+{
+  "slug": "people/mmaynard",
+  "type": "person",
+  "title": "Mmaynard",
+  "compiled_truth": "Mmaynard is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-04-27), Mmaynard sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-04-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mmaynard",
+    "name": "Mmaynard",
+    "email": "mmaynard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

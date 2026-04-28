@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-furter",
+  "type": "person",
+  "title": "Stephen Furter",
+  "compiled_truth": "Stephen Furter is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2002-01-06), Stephen Furter sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2002-01-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-furter",
+    "name": "Stephen Furter",
+    "email": "stephen.furter@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

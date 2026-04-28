@@ -1,0 +1,14 @@
+{
+  "slug": "people/ken-eble",
+  "type": "person",
+  "title": "Ken Eble",
+  "compiled_truth": "Ken Eble is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-11 to 2002-02-28), Ken Eble sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2002-01-11** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ken-eble",
+    "name": "Ken Eble",
+    "email": "ken.eble@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

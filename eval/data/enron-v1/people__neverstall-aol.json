@@ -1,0 +1,14 @@
+{
+  "slug": "people/neverstall-aol",
+  "type": "person",
+  "title": "Neverstall",
+  "compiled_truth": "Neverstall is an external contact at [AOL](companies/aol). Over the corpus period (2000-05-21 to 2001-02-12), Neverstall sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2001-02-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/neverstall-aol",
+    "name": "Neverstall",
+    "email": "neverstall@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

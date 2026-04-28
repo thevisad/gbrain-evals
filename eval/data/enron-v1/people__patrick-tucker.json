@@ -1,0 +1,14 @@
+{
+  "slug": "people/patrick-tucker",
+  "type": "person",
+  "title": "Patrick Tucker",
+  "compiled_truth": "Patrick Tucker is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-29 to 2002-02-13), Patrick Tucker sent 13 and received 105 emails, totalling 118 interactions. Top correspondents: [C  Giron](people/c-giron) (9), [Geoff Storey](people/geoff-storey) (7), [S  Shively](people/s-shively) (6), [Bryant Frihart](people/bryant-frihart) (6), [Laura Luce](people/laura-luce) (6). Mailbox folders observed: _americas, deleted_items, inbox, netco.",
+  "timeline": "- **2000-11-29** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patrick-tucker",
+    "name": "Patrick Tucker",
+    "email": "patrick.tucker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/fabian-valle",
+  "type": "person",
+  "title": "Fabian Valle",
+  "compiled_truth": "Fabian Valle is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-18 to 2001-09-28), Fabian Valle sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-07-18** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fabian-valle",
+    "name": "Fabian Valle",
+    "email": "fabian.valle@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

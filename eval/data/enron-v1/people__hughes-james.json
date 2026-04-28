@@ -1,0 +1,14 @@
+{
+  "slug": "people/hughes-james",
+  "type": "person",
+  "title": "Hughes James",
+  "compiled_truth": "Hughes James is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-09 to 2002-01-16), Hughes James sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2002-01-09** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hughes-james",
+    "name": "Hughes James",
+    "email": "hughes.james@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

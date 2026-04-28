@@ -1,0 +1,21 @@
+{
+  "slug": "companies/meridian-ventures",
+  "type": "company",
+  "title": "Meridian Ventures",
+  "compiled_truth": "Meridian Ventures is a pre-seed and seed stage venture fund based out of Portland, Oregon, with a sharp focus on developer infrastructure and data systems. Founded in 2024 by [Ora Yamamoto](people/ora-yamamoto) and [Gil Papadopoulos](people/gil-papadopoulos), the firm manages roughly $85M across two funds and has built a reputation for writing early checks into technically dense companies that most generalist investors pass on. Their thesis centers on the idea that foundational data primitives — compression, authentication, storage, transmission — are ripe for reinvention, and that the next wave of platform companies will be built by small teams shipping infrastructure that developers actually want to use.\n\nMeridian (as the team usually refers to it internally) first came onto our radar in mid-2026 when Ora Yamamoto reached out after seeing an early demo of Anchor Codec's single-pass primitives at a Portland developer meetup. The firm moved quickly. Their diligence process was notably technical — [Gil Papadopoulos](people/gil-papadopoulos) personally reviewed architecture docs and ran benchmarks before the partnership voted. They led Anchor's pre-seed round and have remained actively engaged since, attending quarterly board updates and making introductions to several prospective design partners in the logistics and fintech sectors.\n\nThe fund's portfolio includes about 18 companies as of late 2027, mostly clustered around observability, data pipelining, and low-level systems tooling. They tend to avoid application-layer plays unless there's a clear infrastructure wedge. Gil has described their approach as \"investing in the plumbing before the building goes up,\" which more or less captures the vibe. Meridian typically writes checks between $500K and $1.5M at pre-seed, reserving capital for follow-on at seed. They don't usually co-lead but have done so in a handful of cases where conviction was high.\n\nThe firm's culture is low-key and engineer-friendly. Neither partner comes from a traditional finance background — Ora spent a decade in distributed systems engineering before transitioning to investing, and Gil was a founding engineer at two developer tools companies before co-founding the fund. This techncial depth gives them credibility with founders that many seed funds struggle to match. They host a semi-annual dinner series called \"Substrate\" for portfolio founders, which has become a useful networking node in the Pacific Northwest infrastructure ecosystem.",
+  "timeline": "- **2026-06-11** | [Ora Yamamoto](people/ora-yamamoto) attends Anchor Codec demo at Portland developer meetup; initial outreach to founding team follows within 48 hours.\n- **2026-07-03** | [Gil Papadopoulos](people/gil-papadopoulos) conducts deep technical diligence on Anchor's architecture, including independent benchmarking.\n- **2026-07-22** | Meridian Ventures leads Anchor Codec's pre-seed round; deal closes after a two-week process.\n- **2026-11-15** | First \"Substrate\" dinner of the year held in Portland; Anchor Codec founders attend and connect with three other portfolio companies.\n- **2027-02-08** | Meridian publishes internal memo on deterministic data infrastructure as an emerging category, circulated to LPs.\n- **2027-05-19** | Gil introduces Anchor team to a logistics design partner prospect sourced from Meridian's network.\n- **2027-09-10** | Fund II final close announced at $52M; oversubscribed by roughly 20%.\n- **2027-12-04** | Ora presents at a seed-stage LP summit on the thesis behind investing in single-pass data primitives.\n- **2028-03-21** | Meridian participates in Anchor Codec's seed round as a follow-on investor, exercising pro rata.\n- **2028-06-14** | Second annual Substrate dinner; expanded to include non-portfolio founders for the first time.",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/meridian-ventures",
+    "name": "Meridian Ventures",
+    "category": "vc",
+    "industry": "venture capital",
+    "description": "Pre-seed and seed fund focused on developer infrastructure and data systems",
+    "employees": [
+      "people/ora-yamamoto",
+      "people/gil-papadopoulos"
+    ],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/james-c-alexander",
+  "type": "person",
+  "title": "James C Alexander",
+  "compiled_truth": "James C Alexander is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-02 to 2001-04-30), James C Alexander sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-03-02** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/james-c-alexander",
+    "name": "James C Alexander",
+    "email": "james.c.alexander@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

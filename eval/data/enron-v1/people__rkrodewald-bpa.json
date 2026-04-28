@@ -1,0 +1,14 @@
+{
+  "slug": "people/rkrodewald-bpa",
+  "type": "person",
+  "title": "Rkrodewald",
+  "compiled_truth": "Rkrodewald is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2000-06-21 to 2001-04-26), Rkrodewald sent 0 and received 21 emails, totalling 21 interactions.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2001-04-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rkrodewald-bpa",
+    "name": "Rkrodewald",
+    "email": "rkrodewald@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

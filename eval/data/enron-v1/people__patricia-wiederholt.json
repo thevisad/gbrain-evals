@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-wiederholt",
+  "type": "person",
+  "title": "Patricia Wiederholt",
+  "compiled_truth": "Patricia Wiederholt is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-12 to 2001-11-27), Patricia Wiederholt sent 4 and received 47 emails, totalling 51 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (2), [Rod Hayslett](people/rod-hayslett) (2), [James Saunders](people/james-saunders) (2), [Jerry Peters](people/jerry-peters) (2), [Elaine Concklin](people/elaine-concklin) (1). Mailbox folders observed: deleted_items, inbox, projects.",
+  "timeline": "- **2000-04-12** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-wiederholt",
+    "name": "Patricia Wiederholt",
+    "email": "patricia.wiederholt@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

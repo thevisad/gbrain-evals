@@ -1,0 +1,14 @@
+{
+  "slug": "people/teresa-mcomber",
+  "type": "person",
+  "title": "Teresa Mcomber",
+  "compiled_truth": "Teresa Mcomber is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-09 to 2001-10-12), Teresa Mcomber sent 2 and received 61 emails, totalling 63 interactions. Top correspondents: [Tom Donohoe](people/tom-donohoe) (1), [Julia White](people/julia-white) (1), [Ricki Winters](people/ricki-winters) (1), [Lynn Blair](people/lynn-blair) (1), [Jean Adams](people/jean-adams) (1).",
+  "timeline": "- **2000-06-09** | First recorded email in corpus\n- **2001-10-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/teresa-mcomber",
+    "name": "Teresa Mcomber",
+    "email": "teresa.mcomber@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

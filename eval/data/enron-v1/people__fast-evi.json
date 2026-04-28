@@ -1,0 +1,14 @@
+{
+  "slug": "people/fast-evi",
+  "type": "person",
+  "title": "Fast",
+  "compiled_truth": "Fast is an external contact at [Evi](companies/evi). Over the corpus period (2000-11-09 to 2000-11-14), Fast sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-11-09** | First recorded email in corpus\n- **2000-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fast-evi",
+    "name": "Fast",
+    "email": "fast@evi.net.mail",
+    "primary_affiliation": "companies/evi"
+  }
+}

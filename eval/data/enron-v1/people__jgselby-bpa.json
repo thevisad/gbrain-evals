@@ -1,0 +1,14 @@
+{
+  "slug": "people/jgselby-bpa",
+  "type": "person",
+  "title": "Jgselby",
+  "compiled_truth": "Jgselby is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2000-06-23 to 2001-03-16), Jgselby sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jgselby-bpa",
+    "name": "Jgselby",
+    "email": "jgselby@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

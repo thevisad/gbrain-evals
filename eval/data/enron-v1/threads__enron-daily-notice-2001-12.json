@@ -1,0 +1,30 @@
+{
+  "slug": "threads/enron-daily-notice-2001-12",
+  "type": "meeting",
+  "title": "Thread: Enron Daily Notice",
+  "compiled_truth": "Email thread: \"Enron Daily Notice\". Ran from 2001-12-26 to 2001-12-31 with 11 messages. Participants: [Cheryl Arnold](people/cheryl-arnold), [D  Steffes](people/d-steffes), [Dana Davis](people/dana-davis), [Efrancoeur](people/efrancoeur-iso-ne), [Ellen' 'Francoeur](people/ellen-francoeur), [Kimberley Nelson](people/kimberley-nelson), [L  Nicolay](people/l-nicolay), [Leslie Reeves](people/leslie-reeves).",
+  "timeline": "- **2001-12-26** | Thread begins: enron daily notice\n- **2001-12-31** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-daily-notice-2001-12",
+    "attendees": [
+      "people/cheryl-arnold",
+      "people/d-steffes",
+      "people/dana-davis",
+      "people/efrancoeur-iso-ne",
+      "people/ellen-francoeur",
+      "people/kimberley-nelson",
+      "people/l-nicolay",
+      "people/leslie-reeves",
+      "people/linda-mcdonough",
+      "people/lmcdonough-iso-ne",
+      "people/marcus-nettelton",
+      "people/maria-gulluni",
+      "people/mcdonough",
+      "people/misty-barrett",
+      "people/no-address",
+      "people/wade-stubblefield"
+    ],
+    "date": "2001-12-26"
+  }
+}

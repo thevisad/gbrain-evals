@@ -1,0 +1,14 @@
+{
+  "slug": "people/pete-releford",
+  "type": "person",
+  "title": "Pete Releford",
+  "compiled_truth": "Pete Releford is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-10-16), Pete Releford sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-10-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/pete-releford",
+    "name": "Pete Releford",
+    "email": "pete.releford@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

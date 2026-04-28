@@ -1,0 +1,14 @@
+{
+  "slug": "people/smith-leta",
+  "type": "person",
+  "title": "Smith Leta",
+  "compiled_truth": "Smith Leta is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Smith Leta sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/smith-leta",
+    "name": "Smith Leta",
+    "email": "smith.leta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

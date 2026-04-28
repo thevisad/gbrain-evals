@@ -1,0 +1,14 @@
+{
+  "slug": "people/h-wallis",
+  "type": "person",
+  "title": "H  Wallis",
+  "compiled_truth": "H  Wallis is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-19 to 2001-06-18), H  Wallis sent 9 and received 27 emails, totalling 36 interactions. Top correspondents: [J  Farmer](people/j-farmer) (4), [Gary Lamphier](people/gary-lamphier) (2), [James Ducote](people/james-ducote) (1), [Greg Brazaitis](people/greg-brazaitis) (1), [Paul Couvillon](people/paul-couvillon) (1). Mailbox folders observed: deleted_items, entex, frontera, inbox, logistics.",
+  "timeline": "- **2001-04-19** | First recorded email in corpus\n- **2001-06-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/h-wallis",
+    "name": "H  Wallis",
+    "email": "h..wallis@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

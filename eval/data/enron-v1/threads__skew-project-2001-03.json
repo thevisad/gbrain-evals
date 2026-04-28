@@ -1,0 +1,23 @@
+{
+  "slug": "threads/skew-project-2001-03",
+  "type": "meeting",
+  "title": "Thread: Skew Project",
+  "compiled_truth": "Email thread: \"Skew Project\". Ran from 2001-03-06 to 2001-04-05 with 13 messages. Participants: [Dave Wei](people/dave-wei), [Dutch Quigley](people/dutch-quigley), [Errol Mclaughlin](people/errol-mclaughlin), [Jeremy Wong](people/jeremy-wong), [John Arnold](people/john-arnold), [John Griffith](people/john-griffith), [Larry May](people/larry-may), [Mike Maggi](people/mike-maggi).",
+  "timeline": "- **2001-03-06** | Thread begins: skew project\n- **2001-04-05** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/skew-project-2001-03",
+    "attendees": [
+      "people/dave-wei",
+      "people/dutch-quigley",
+      "people/errol-mclaughlin",
+      "people/jeremy-wong",
+      "people/john-arnold",
+      "people/john-griffith",
+      "people/larry-may",
+      "people/mike-maggi",
+      "people/richard-burchfield"
+    ],
+    "date": "2001-03-06"
+  }
+}

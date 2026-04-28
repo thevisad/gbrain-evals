@@ -1,0 +1,14 @@
+{
+  "slug": "people/amy-oberg",
+  "type": "person",
+  "title": "Amy Oberg",
+  "compiled_truth": "Amy Oberg is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-13 to 2001-06-14), Amy Oberg sent 8 and received 16 emails, totalling 24 interactions. Top correspondents: [Vince Kaminski](people/vince-kaminski) (7), [Steven Kean](people/steven-kean) (5), [Marie Hejka](people/marie-hejka) (3), [Richard Causey](people/richard-causey) (2), [Rick Buy](people/rick-buy) (2).",
+  "timeline": "- **2000-04-13** | First recorded email in corpus\n- **2001-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amy-oberg",
+    "name": "Amy Oberg",
+    "email": "amy.oberg@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

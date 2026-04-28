@@ -1,0 +1,21 @@
+{
+  "slug": "threads/photos-2000-01",
+  "type": "meeting",
+  "title": "Thread: Photos",
+  "compiled_truth": "Email thread: \"Photos\". Ran from 2000-01-18 to 2000-02-16 with 14 messages. Participants: [Gpier](people/gpier-doubleclick), [J And E Taylor](people/j-and-e-taylor-email), [J And E Taylor](people/j-and-e-taylor-msn), [Mark Taylor](people/mark-taylor), [Mzeleanor](people/mzeleanor-juno), [Tbockius](people/tbockius-aol), [Ted Bockius](people/ted-bockius-compaq).",
+  "timeline": "- **2000-01-18** | Thread begins: photos\n- **2000-02-16** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/photos-2000-01",
+    "attendees": [
+      "people/gpier-doubleclick",
+      "people/j-and-e-taylor-email",
+      "people/j-and-e-taylor-msn",
+      "people/mark-taylor",
+      "people/mzeleanor-juno",
+      "people/tbockius-aol",
+      "people/ted-bockius-compaq"
+    ],
+    "date": "2000-01-18"
+  }
+}

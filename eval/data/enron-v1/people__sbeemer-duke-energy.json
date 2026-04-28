@@ -1,0 +1,14 @@
+{
+  "slug": "people/sbeemer-duke-energy",
+  "type": "person",
+  "title": "Sbeemer",
+  "compiled_truth": "Sbeemer is an external contact at [Duke Energy](companies/duke-energy). Over the corpus period (2000-03-27 to 2001-03-29), Sbeemer sent 0 and received 64 emails, totalling 64 interactions.",
+  "timeline": "- **2000-03-27** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sbeemer-duke-energy",
+    "name": "Sbeemer",
+    "email": "sbeemer@duke-energy.com",
+    "primary_affiliation": "companies/duke-energy"
+  }
+}

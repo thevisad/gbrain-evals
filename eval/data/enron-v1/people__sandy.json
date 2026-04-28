@@ -1,0 +1,14 @@
+{
+  "slug": "people/sandy",
+  "type": "person",
+  "title": " Sandy",
+  "compiled_truth": "Sandy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-06 to 2002-01-31),  Sandy sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2001-06-06** | First recorded email in corpus\n- **2002-01-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sandy",
+    "name": " Sandy",
+    "email": ".sandy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

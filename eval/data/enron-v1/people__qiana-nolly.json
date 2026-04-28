@@ -1,0 +1,14 @@
+{
+  "slug": "people/qiana-nolly",
+  "type": "person",
+  "title": "Qiana Nolly",
+  "compiled_truth": "Qiana Nolly is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-26 to 2001-12-03), Qiana Nolly sent 2 and received 25 emails, totalling 27 interactions. Top correspondents: [Debi Vanwey](people/debi-vanwey) (2), [Khymberly Booth](people/khymberly-booth) (2), [Carmen Ayala](people/carmen-ayala) (2), [Ted Bland](people/ted-bland) (2), [Michelle Cash](people/michelle-cash) (2). Mailbox folders observed: meeting_invites_confirms.",
+  "timeline": "- **2001-01-26** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/qiana-nolly",
+    "name": "Qiana Nolly",
+    "email": "qiana.nolly@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

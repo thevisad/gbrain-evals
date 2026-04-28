@@ -1,0 +1,14 @@
+{
+  "slug": "people/txb6-pge",
+  "type": "person",
+  "title": "Txb6",
+  "compiled_truth": "Txb6 is an external contact at [PG&E](companies/pge). Over the corpus period (1999-11-22 to 2001-07-31), Txb6 sent 0 and received 53 emails, totalling 53 interactions.",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/txb6-pge",
+    "name": "Txb6",
+    "email": "txb6@pge.com",
+    "primary_affiliation": "companies/pge"
+  }
+}

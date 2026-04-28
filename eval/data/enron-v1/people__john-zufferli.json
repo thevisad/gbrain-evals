@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-zufferli",
+  "type": "person",
+  "title": "John Zufferli",
+  "compiled_truth": "John Zufferli is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2044-01-04), John Zufferli sent 350 and received 406 emails, totalling 756 interactions. Top correspondents: [Livia Zufferli](people/livia-zufferli-monitor) (23), [Cooper Richey](people/cooper-richey) (21), [Rob Milnthorp](people/rob-milnthorp) (19), [Jzufferli](people/jzufferli-shaw) (19), [Nella Cappelletto](people/nella-cappelletto) (19). Mailbox folders observed: _americas, calendar, deleted_items, fundamentals, inbox, personal.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2044-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-zufferli",
+    "name": "John Zufferli",
+    "email": "john.zufferli@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

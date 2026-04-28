@@ -1,0 +1,14 @@
+{
+  "slug": "people/jblatchford-caiso",
+  "type": "person",
+  "title": "Jblatchford",
+  "compiled_truth": "Jblatchford is an external contact at [CAISO](companies/caiso). Over the corpus period (2000-06-19 to 2002-02-06), Jblatchford sent 14 and received 13 emails, totalling 27 interactions. Top correspondents: [Tswg](people/tswg-caiso) (14), [Isoclientrelations](people/isoclientrelations-caiso) (5), [20Participants](people/20participants-caiso) (4), [Marketparticipants](people/marketparticipants-caiso) (1), [Cvangelatos](people/cvangelatos-caiso) (1).",
+  "timeline": "- **2000-06-19** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jblatchford-caiso",
+    "name": "Jblatchford",
+    "email": "jblatchford@caiso.com",
+    "primary_affiliation": "companies/caiso"
+  }
+}

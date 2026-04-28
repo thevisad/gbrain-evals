@@ -1,0 +1,14 @@
+{
+  "slug": "people/brad-blesie",
+  "type": "person",
+  "title": "Brad Blesie",
+  "compiled_truth": "Brad Blesie is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-25 to 2002-01-09), Brad Blesie sent 2 and received 30 emails, totalling 32 interactions. Top correspondents: [Greg Whalley](people/greg-whalley) (1), [A  Shankman](people/a-shankman) (1), [Mike McConnell](people/mike-mcconnell) (1), [Per Sekse](people/per-sekse) (1), [David Gorte](people/david-gorte) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2000-01-25** | First recorded email in corpus\n- **2002-01-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brad-blesie",
+    "name": "Brad Blesie",
+    "email": "brad.blesie@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

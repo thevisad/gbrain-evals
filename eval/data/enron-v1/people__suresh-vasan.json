@@ -1,0 +1,14 @@
+{
+  "slug": "people/suresh-vasan",
+  "type": "person",
+  "title": "Suresh Vasan",
+  "compiled_truth": "Suresh Vasan is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-11-28), Suresh Vasan sent 1 and received 30 emails, totalling 31 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (1).",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suresh-vasan",
+    "name": "Suresh Vasan",
+    "email": "suresh_vasan@enron.net",
+    "primary_affiliation": "companies/enron"
+  }
+}

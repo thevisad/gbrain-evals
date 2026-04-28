@@ -1,0 +1,14 @@
+{
+  "slug": "people/b-cass",
+  "type": "person",
+  "title": "B  Cass",
+  "compiled_truth": "B  Cass is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-26 to 2001-11-20), B  Cass sent 0 and received 40 emails, totalling 40 interactions.",
+  "timeline": "- **2001-04-26** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/b-cass",
+    "name": "B  Cass",
+    "email": "b..cass@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

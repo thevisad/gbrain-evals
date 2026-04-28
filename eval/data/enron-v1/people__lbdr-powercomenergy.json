@@ -1,0 +1,14 @@
+{
+  "slug": "people/lbdr-powercomenergy",
+  "type": "person",
+  "title": "Lbdr",
+  "compiled_truth": "Lbdr is an external contact at [Powercomenergy](companies/powercomenergy). Over the corpus period (2000-09-20 to 2001-07-31), Lbdr sent 0 and received 32 emails, totalling 32 interactions.",
+  "timeline": "- **2000-09-20** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lbdr-powercomenergy",
+    "name": "Lbdr",
+    "email": "lbdr@powercomenergy.com",
+    "primary_affiliation": "companies/powercomenergy"
+  }
+}

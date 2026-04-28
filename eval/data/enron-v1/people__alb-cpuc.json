@@ -1,0 +1,14 @@
+{
+  "slug": "people/alb-cpuc",
+  "type": "person",
+  "title": "Alb",
+  "compiled_truth": "Alb is an external contact at [Cpuc](companies/cpuc). Over the corpus period (1999-11-22 to 2000-12-13), Alb sent 3 and received 90 emails, totalling 93 interactions. Top correspondents: [Alan Reid](people/alan-reid-pcp) (3), [Andy Bettwy](people/andy-bettwy-swgas) (3), [Aod](people/aod-newsdata) (3), [Askaff](people/askaff-energy-law-group) (3), [Bcragg](people/bcragg-gmssr) (3).",
+  "timeline": "- **1999-11-22** | First recorded email in corpus\n- **2000-12-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/alb-cpuc",
+    "name": "Alb",
+    "email": "alb@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

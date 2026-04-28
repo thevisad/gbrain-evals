@@ -1,0 +1,14 @@
+{
+  "slug": "people/kupiecki-haas",
+  "type": "person",
+  "title": "Kupiecki",
+  "compiled_truth": "Kupiecki is an external contact at [Haas](companies/haas). Over the corpus period (1999-09-22 to 2001-12-14), Kupiecki sent 0 and received 116 emails, totalling 116 interactions.",
+  "timeline": "- **1999-09-22** | First recorded email in corpus\n- **2001-12-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kupiecki-haas",
+    "name": "Kupiecki",
+    "email": "kupiecki@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

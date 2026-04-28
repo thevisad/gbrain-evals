@@ -1,0 +1,14 @@
+{
+  "slug": "people/jason-choate",
+  "type": "person",
+  "title": "Jason Choate",
+  "compiled_truth": "Jason Choate is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2002-02-28), Jason Choate sent 6 and received 381 emails, totalling 387 interactions. Top correspondents: [Don Baughman](people/don-baughman) (4), [Corry Bentley](people/corry-bentley) (1), [ Bo](people/bo) (1), [ Clayton](people/clayton) (1), [ Greg](people/greg) (1). Mailbox folders observed: deleted_items, enron_power, inbox, personal.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jason-choate",
+    "name": "Jason Choate",
+    "email": "jason.choate@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

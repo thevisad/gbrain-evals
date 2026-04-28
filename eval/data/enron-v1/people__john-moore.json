@@ -1,0 +1,14 @@
+{
+  "slug": "people/john-moore",
+  "type": "person",
+  "title": "John Moore",
+  "compiled_truth": "John Moore is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-11-20), John Moore sent 0 and received 150 emails, totalling 150 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/john-moore",
+    "name": "John Moore",
+    "email": "john.moore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

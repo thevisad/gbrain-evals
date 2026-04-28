@@ -1,0 +1,14 @@
+{
+  "slug": "people/ronson-kung",
+  "type": "person",
+  "title": "Ronson Kung",
+  "compiled_truth": "Ronson Kung is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2001-06-20), Ronson Kung sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2001-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ronson-kung",
+    "name": "Ronson Kung",
+    "email": "ronson.kung@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

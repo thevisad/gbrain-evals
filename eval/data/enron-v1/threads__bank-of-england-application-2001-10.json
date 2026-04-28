@@ -1,0 +1,30 @@
+{
+  "slug": "threads/bank-of-england-application-2001-10",
+  "type": "meeting",
+  "title": "Thread: Bank Of England Application",
+  "compiled_truth": "Email thread: \"Bank Of England Application\". Ran from 2001-10-12 to 2001-10-17 with 11 messages. Participants: [Board](people/board-isda), [Bruttel](people/bruttel), [Douglas Bongartz-Renaud](people/douglas-bongartz-renaud-nl), [Esebton](people/esebton-isda-eur), [Frederic Janbon](people/frederic-janbon-bnpparibas), [George James](people/george-james-morganstanley), [Henning Bruttel](people/henning-bruttel-drkw), [Jerry Delmissier](people/jerry-delmissier-barclayscapital).",
+  "timeline": "- **2001-10-12** | Thread begins: bank of england application\n- **2001-10-17** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/bank-of-england-application-2001-10",
+    "attendees": [
+      "people/board-isda",
+      "people/bruttel",
+      "people/douglas-bongartz-renaud-nl",
+      "people/esebton-isda-eur",
+      "people/frederic-janbon-bnpparibas",
+      "people/george-james-morganstanley",
+      "people/henning-bruttel-drkw",
+      "people/jerry-delmissier-barclayscapital",
+      "people/jm-hernandez-beneyto-bmg",
+      "people/jonathan-moulds-bankofamerica",
+      "people/lucianosteve-intesabci",
+      "people/mcunningham-isda",
+      "people/rmetcalfe-isda-eur",
+      "people/rpickel-isda",
+      "people/steve-targett-national",
+      "people/teruo-tanaka-ibjbank"
+    ],
+    "date": "2001-10-12"
+  }
+}

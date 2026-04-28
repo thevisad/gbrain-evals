@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-brand",
+  "type": "person",
+  "title": "Mark Brand",
+  "compiled_truth": "Mark Brand is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-21 to 2002-03-04), Mark Brand sent 14 and received 20 emails, totalling 34 interactions. Top correspondents: [Keith Dodson](people/keith-dodson) (10), [Keith Marlow](people/keith-marlow) (10), [Greg Whalley](people/greg-whalley) (8), [Brian Stanley](people/brian-stanley) (8), [Nigel Carling](people/nigel-carling) (8). Mailbox folders observed: deleted_items, inbox, to_do.",
+  "timeline": "- **2000-06-21** | First recorded email in corpus\n- **2002-03-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-brand",
+    "name": "Mark Brand",
+    "email": "mark.brand@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

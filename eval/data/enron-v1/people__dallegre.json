@@ -1,0 +1,14 @@
+{
+  "slug": "people/dallegre",
+  "type": "person",
+  "title": "Dallegre",
+  "compiled_truth": "Dallegre is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-02 to 2001-10-18), Dallegre sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-02-02** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dallegre",
+    "name": "Dallegre",
+    "email": "dallegre@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

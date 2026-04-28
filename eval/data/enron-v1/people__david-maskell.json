@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-maskell",
+  "type": "person",
+  "title": "David Maskell",
+  "compiled_truth": "David Maskell is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-30 to 2001-12-05), David Maskell sent 1 and received 113 emails, totalling 114 interactions. Top correspondents: [L  Garcia](people/l-garcia) (1), [Don Baughman](people/don-baughman) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2000-10-30** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-maskell",
+    "name": "David Maskell",
+    "email": "david.maskell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

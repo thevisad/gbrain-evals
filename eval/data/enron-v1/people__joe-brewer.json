@@ -1,0 +1,14 @@
+{
+  "slug": "people/joe-brewer",
+  "type": "person",
+  "title": "Joe Brewer",
+  "compiled_truth": "Joe Brewer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-09 to 2001-11-12), Joe Brewer sent 1 and received 12 emails, totalling 13 interactions. Top correspondents: [Don Baughman](people/don-baughman) (1), [Pablo Torres](people/pablo-torres) (1). Mailbox folders observed: power.",
+  "timeline": "- **2000-10-09** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/joe-brewer",
+    "name": "Joe Brewer",
+    "email": "joe.brewer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

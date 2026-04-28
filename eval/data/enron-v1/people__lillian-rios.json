@@ -1,0 +1,14 @@
+{
+  "slug": "people/lillian-rios",
+  "type": "person",
+  "title": "Lillian Rios",
+  "compiled_truth": "Lillian Rios is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-08 to 2001-10-25), Lillian Rios sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lillian-rios",
+    "name": "Lillian Rios",
+    "email": "lillian.rios@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

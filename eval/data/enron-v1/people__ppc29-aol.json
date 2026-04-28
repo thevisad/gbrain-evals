@@ -1,0 +1,14 @@
+{
+  "slug": "people/ppc29-aol",
+  "type": "person",
+  "title": "Ppc29",
+  "compiled_truth": "Ppc29 is an external contact at [AOL](companies/aol). Over the corpus period (2000-05-18 to 2000-09-18), Ppc29 sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-18** | First recorded email in corpus\n- **2000-09-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ppc29-aol",
+    "name": "Ppc29",
+    "email": "ppc29@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

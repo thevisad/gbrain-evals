@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-landgraf-dell",
+  "type": "person",
+  "title": "Kelly Landgraf",
+  "compiled_truth": "Kelly Landgraf is an external contact at [Dell](companies/dell). Over the corpus period (2000-10-02 to 2000-12-05), Kelly Landgraf sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-10-02** | First recorded email in corpus\n- **2000-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-landgraf-dell",
+    "name": "Kelly Landgraf",
+    "email": "kelly_landgraf@dell.com",
+    "primary_affiliation": "companies/dell"
+  }
+}

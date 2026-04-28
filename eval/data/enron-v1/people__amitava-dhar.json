@@ -1,0 +1,14 @@
+{
+  "slug": "people/amitava-dhar",
+  "type": "person",
+  "title": "Amitava Dhar",
+  "compiled_truth": "Amitava Dhar is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-13 to 2001-12-31), Amitava Dhar sent 14 and received 180 emails, totalling 194 interactions. Top correspondents: [Vasant Shanbhogue](people/vasant-shanbhogue) (13), [Vince Kaminski](people/vince-kaminski) (11), [J Kaminski](people/j-kaminski) (3), [Mauricio Mora](people/mauricio-mora) (3), [Kenneth Deng](people/kenneth-deng) (3). Mailbox folders observed: c, credit, deleted_items, inbox.",
+  "timeline": "- **1999-12-13** | First recorded email in corpus\n- **2001-12-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amitava-dhar",
+    "name": "Amitava Dhar",
+    "email": "amitava.dhar@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

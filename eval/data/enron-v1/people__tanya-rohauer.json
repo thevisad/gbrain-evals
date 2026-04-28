@@ -1,0 +1,14 @@
+{
+  "slug": "people/tanya-rohauer",
+  "type": "person",
+  "title": "Tanya Rohauer",
+  "compiled_truth": "Tanya Rohauer is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-28), Tanya Rohauer sent 192 and received 1868 emails, totalling 2060 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (87), [Tana Jones](people/tana-jones) (47), [Susan Bailey](people/susan-bailey) (21), [Marie Heard](people/marie-heard) (19), [Mark Taylor](people/mark-taylor) (17). Mailbox folders observed: _americas, archive, deleted_items, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tanya-rohauer",
+    "name": "Tanya Rohauer",
+    "email": "tanya.rohauer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

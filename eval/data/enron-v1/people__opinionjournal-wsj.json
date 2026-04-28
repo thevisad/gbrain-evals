@@ -1,0 +1,14 @@
+{
+  "slug": "people/opinionjournal-wsj",
+  "type": "person",
+  "title": "Opinionjournal",
+  "compiled_truth": "Opinionjournal is an external contact at [Wsj](companies/wsj). Over the corpus period (2001-11-16 to 2002-01-24), Opinionjournal sent 45 and received 0 emails, totalling 45 interactions. Top correspondents: [Don Baughman](people/don-baughman) (45).",
+  "timeline": "- **2001-11-16** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/opinionjournal-wsj",
+    "name": "Opinionjournal",
+    "email": "opinionjournal@wsj.com",
+    "primary_affiliation": "companies/wsj"
+  }
+}

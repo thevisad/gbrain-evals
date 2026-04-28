@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-tribolet",
+  "type": "person",
+  "title": "Michael Tribolet",
+  "compiled_truth": "Michael Tribolet is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-05-06), Michael Tribolet sent 163 and received 1116 emails, totalling 1279 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (99), [Lisa Mellencamp](people/lisa-mellencamp) (41), [Harry Kingerski](people/harry-kingerski) (39), [James Steffes](people/james-steffes) (39), [Susan Mara](people/susan-mara) (37). Mailbox folders observed: _americas, california_issues, california_pg_e_bankruptcy, deleted_items, ees_neg_ctc, inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-tribolet",
+    "name": "Michael Tribolet",
+    "email": "michael.tribolet@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

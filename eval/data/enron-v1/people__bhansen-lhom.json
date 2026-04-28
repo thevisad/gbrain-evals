@@ -1,0 +1,14 @@
+{
+  "slug": "people/bhansen-lhom",
+  "type": "person",
+  "title": "Bhansen",
+  "compiled_truth": "Bhansen is an external contact at [Lhom](companies/lhom). Over the corpus period (2000-09-01 to 2001-12-05), Bhansen sent 4 and received 432 emails, totalling 436 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (4).",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-12-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bhansen-lhom",
+    "name": "Bhansen",
+    "email": "bhansen@lhom.com",
+    "primary_affiliation": "companies/lhom"
+  }
+}

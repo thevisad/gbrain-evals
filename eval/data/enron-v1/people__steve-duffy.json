@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-duffy",
+  "type": "person",
+  "title": "Steve Duffy",
+  "compiled_truth": "Steve Duffy is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-12 to 2000-09-29), Steve Duffy sent 30 and received 36 emails, totalling 66 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (29), [Dana Gibbs](people/dana-gibbs) (15), [Susan Ralph](people/susan-ralph) (12), [Lori Maddox](people/lori-maddox) (11), [Michael Burke](people/michael-burke) (10).",
+  "timeline": "- **1999-07-12** | First recorded email in corpus\n- **2000-09-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-duffy",
+    "name": "Steve Duffy",
+    "email": "steve.duffy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

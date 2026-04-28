@@ -1,0 +1,23 @@
+{
+  "slug": "threads/synchronization-log-2001-10",
+  "type": "meeting",
+  "title": "Thread: Synchronization Log:",
+  "compiled_truth": "Email thread: \"Synchronization Log:\". Ran from 2001-10-09 to 2001-10-30 with 86 messages. Participants: [B  Sanders](people/b-sanders), [D  Steffes](people/d-steffes), [Debra Perlingiere](people/debra-perlingiere), [Gerald Nemec](people/gerald-nemec), [J  Kean](people/j-kean), [Michelle Cash](people/michelle-cash), [Richard Shapiro](people/richard-shapiro), [T  Hodge](people/t-hodge).",
+  "timeline": "- **2001-10-09** | Thread begins: synchronization log:\n- **2001-10-30** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/synchronization-log-2001-10",
+    "attendees": [
+      "people/b-sanders",
+      "people/d-steffes",
+      "people/debra-perlingiere",
+      "people/gerald-nemec",
+      "people/j-kean",
+      "people/michelle-cash",
+      "people/richard-shapiro",
+      "people/t-hodge",
+      "people/taylor"
+    ],
+    "date": "2001-10-09"
+  }
+}

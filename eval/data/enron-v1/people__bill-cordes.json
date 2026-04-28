@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-cordes",
+  "type": "person",
+  "title": "Bill Cordes",
+  "compiled_truth": "Bill Cordes is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-04-07 to 2002-03-18), Bill Cordes sent 5 and received 380 emails, totalling 385 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (3), [Vince Kaminski](people/vince-kaminski) (1), [Shelley Corman](people/shelley-corman) (1), [Rockford Meyer](people/rockford-meyer) (1), [Mary Miller](people/mary-miller) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **1999-04-07** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-cordes",
+    "name": "Bill Cordes",
+    "email": "bill.cordes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

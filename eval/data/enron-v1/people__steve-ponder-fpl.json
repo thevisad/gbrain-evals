@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-ponder-fpl",
+  "type": "person",
+  "title": "Steve Ponder",
+  "compiled_truth": "Steve Ponder is an external contact at [Fpl](companies/fpl). Over the corpus period (1999-11-02 to 2001-12-21), Steve Ponder sent 0 and received 336 emails, totalling 336 interactions.",
+  "timeline": "- **1999-11-02** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-ponder-fpl",
+    "name": "Steve Ponder",
+    "email": "steve_ponder@fpl.com",
+    "primary_affiliation": "companies/fpl"
+  }
+}

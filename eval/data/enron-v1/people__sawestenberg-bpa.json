@@ -1,0 +1,14 @@
+{
+  "slug": "people/sawestenberg-bpa",
+  "type": "person",
+  "title": "Sawestenberg",
+  "compiled_truth": "Sawestenberg is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2001-03-19 to 2001-11-27), Sawestenberg sent 9 and received 10 emails, totalling 19 interactions. Top correspondents: [Abuckley](people/abuckley-wutc) (6), [Alan](people/alan-epud) (6), [Ali Rodol](people/ali-rodol-ci) (6), [Archive-Power-Ratecase](people/archive-power-ratecase-bpa) (6), [Aw Turner](people/aw-turner-pgn) (6).",
+  "timeline": "- **2001-03-19** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sawestenberg-bpa",
+    "name": "Sawestenberg",
+    "email": "sawestenberg@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

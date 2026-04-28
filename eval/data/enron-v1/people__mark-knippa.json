@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-knippa",
+  "type": "person",
+  "title": "Mark Knippa",
+  "compiled_truth": "Mark Knippa is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-05 to 2002-06-20), Mark Knippa sent 62 and received 388 emails, totalling 450 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (49), [Chris Hilgert](people/chris-hilgert) (17), [Eric Boyt](people/eric-boyt) (6), [Stuart Zisman](people/stuart-zisman) (6), [Jim Coffey](people/jim-coffey) (5). Mailbox folders observed: bankrupt, calendar, deleted_items, inbox, industrials, personal.",
+  "timeline": "- **1999-08-05** | First recorded email in corpus\n- **2002-06-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-knippa",
+    "name": "Mark Knippa",
+    "email": "mark.knippa@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

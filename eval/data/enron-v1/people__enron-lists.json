@@ -1,0 +1,14 @@
+{
+  "slug": "people/enron-lists",
+  "type": "person",
+  "title": "Enron",
+  "compiled_truth": "Enron is an external contact at [Lists](companies/lists). Over the corpus period (2001-04-02 to 2001-07-30), Enron sent 0 and received 34 emails, totalling 34 interactions.",
+  "timeline": "- **2001-04-02** | First recorded email in corpus\n- **2001-07-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/enron-lists",
+    "name": "Enron",
+    "email": "enron@lists.qgadc.com",
+    "primary_affiliation": "companies/lists"
+  }
+}

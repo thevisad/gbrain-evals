@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-hoatson",
+  "type": "person",
+  "title": "Tom Hoatson",
+  "compiled_truth": "Tom Hoatson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-03 to 2001-12-03), Tom Hoatson sent 23 and received 507 emails, totalling 530 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (12), [Sarah Novosel](people/sarah-novosel) (11), [Susan Lindberg](people/susan-lindberg) (8), [L  Nicolay](people/l-nicolay) (8), [Jeff Ader](people/jeff-ader) (7). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **1999-12-03** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-hoatson",
+    "name": "Tom Hoatson",
+    "email": "tom.hoatson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

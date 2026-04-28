@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeckroth-br-inc",
+  "type": "person",
+  "title": "Jeckroth",
+  "compiled_truth": "Jeckroth is an external contact at [Br-inc](companies/br-inc). Over the corpus period (2000-06-13 to 2000-09-20), Jeckroth sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-06-13** | First recorded email in corpus\n- **2000-09-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeckroth-br-inc",
+    "name": "Jeckroth",
+    "email": "jeckroth@br-inc.com",
+    "primary_affiliation": "companies/br-inc"
+  }
+}

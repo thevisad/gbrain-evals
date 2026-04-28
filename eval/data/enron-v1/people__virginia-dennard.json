@@ -1,0 +1,14 @@
+{
+  "slug": "people/virginia-dennard",
+  "type": "person",
+  "title": "Virginia Dennard",
+  "compiled_truth": "Virginia Dennard is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-24 to 2001-11-26), Virginia Dennard sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-10-24** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/virginia-dennard",
+    "name": "Virginia Dennard",
+    "email": "virginia.dennard@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

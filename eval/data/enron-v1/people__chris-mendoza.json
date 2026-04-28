@@ -1,0 +1,14 @@
+{
+  "slug": "people/chris-mendoza",
+  "type": "person",
+  "title": "Chris Mendoza",
+  "compiled_truth": "Chris Mendoza is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-05-11 to 2001-03-27), Chris Mendoza sent 0 and received 37 emails, totalling 37 interactions.",
+  "timeline": "- **2000-05-11** | First recorded email in corpus\n- **2001-03-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chris-mendoza",
+    "name": "Chris Mendoza",
+    "email": "chris.mendoza@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

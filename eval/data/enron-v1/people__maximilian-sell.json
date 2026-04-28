@@ -1,0 +1,14 @@
+{
+  "slug": "people/maximilian-sell",
+  "type": "person",
+  "title": "Maximilian Sell",
+  "compiled_truth": "Maximilian Sell is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2001-11-20), Maximilian Sell sent 3 and received 29 emails, totalling 32 interactions. Top correspondents: [D  Thomas](people/d-thomas) (2), [Harry Arora](people/harry-arora) (1), [Robert Stalford](people/robert-stalford) (1), [Steve Wang](people/steve-wang) (1), [Jaime Gualy](people/jaime-gualy) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2001-11-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maximilian-sell",
+    "name": "Maximilian Sell",
+    "email": "maximilian.sell@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

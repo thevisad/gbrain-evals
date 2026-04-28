@@ -1,0 +1,14 @@
+{
+  "slug": "people/ryan-deane",
+  "type": "person",
+  "title": "Ryan Deane",
+  "compiled_truth": "Ryan Deane is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-15 to 2002-06-18), Ryan Deane sent 2 and received 138 emails, totalling 140 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (1), [Benjamin Rogers](people/benjamin-rogers) (1).",
+  "timeline": "- **2000-02-15** | First recorded email in corpus\n- **2002-06-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ryan-deane",
+    "name": "Ryan Deane",
+    "email": "ryan.deane@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

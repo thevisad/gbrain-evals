@@ -1,0 +1,14 @@
+{
+  "slug": "people/coburn-susan",
+  "type": "person",
+  "title": "Coburn Susan",
+  "compiled_truth": "Coburn Susan is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Coburn Susan sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/coburn-susan",
+    "name": "Coburn Susan",
+    "email": "coburn.susan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/andy-brady",
+  "type": "person",
+  "title": "Andy Brady",
+  "compiled_truth": "Andy Brady is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-02 to 2002-03-12), Andy Brady sent 6 and received 39 emails, totalling 45 interactions. Top correspondents: [Elizabeth Brown](people/elizabeth-brown) (5), [Linda Trevino](people/linda-trevino) (5), [Ramona Betancourt](people/ramona-betancourt) (4), [Jeanne Licciardo](people/jeanne-licciardo) (4), [Teb Lokey](people/teb-lokey) (4). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-01-02** | First recorded email in corpus\n- **2002-03-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/andy-brady",
+    "name": "Andy Brady",
+    "email": "andy.brady@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

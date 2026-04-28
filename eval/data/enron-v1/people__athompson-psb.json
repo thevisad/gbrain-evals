@@ -1,0 +1,14 @@
+{
+  "slug": "people/athompson-psb",
+  "type": "person",
+  "title": "Athompson",
+  "compiled_truth": "Athompson is an external contact at [Psb](companies/psb). Over the corpus period (2000-10-20 to 2001-10-18), Athompson sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-10-20** | First recorded email in corpus\n- **2001-10-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/athompson-psb",
+    "name": "Athompson",
+    "email": "athompson@psb.state.vt.us",
+    "primary_affiliation": "companies/psb"
+  }
+}

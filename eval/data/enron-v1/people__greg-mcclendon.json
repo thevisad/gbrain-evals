@@ -1,0 +1,14 @@
+{
+  "slug": "people/greg-mcclendon",
+  "type": "person",
+  "title": "Greg Mcclendon",
+  "compiled_truth": "Greg Mcclendon is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-07-16), Greg Mcclendon sent 2 and received 167 emails, totalling 169 interactions. Top correspondents: [Eric Bass](people/eric-bass) (1), [Jim Schwieger](people/jim-schwieger) (1).",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/greg-mcclendon",
+    "name": "Greg Mcclendon",
+    "email": "greg.mcclendon@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/siekasj-osm",
+  "type": "person",
+  "title": "Siekasj",
+  "compiled_truth": "Siekasj is an external contact at [Osm](companies/osm). Over the corpus period (2001-05-11 to 2001-05-11), Siekasj sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-05-11** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/siekasj-osm",
+    "name": "Siekasj",
+    "email": "siekasj@osm.com",
+    "primary_affiliation": "companies/osm"
+  }
+}

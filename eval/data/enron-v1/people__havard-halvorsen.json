@@ -1,0 +1,14 @@
+{
+  "slug": "people/havard-halvorsen",
+  "type": "person",
+  "title": "Havard Halvorsen",
+  "compiled_truth": "Havard Halvorsen is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-30 to 2000-03-30), Havard Halvorsen sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2000-03-30** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/havard-halvorsen",
+    "name": "Havard Halvorsen",
+    "email": "havard.halvorsen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

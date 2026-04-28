@@ -1,0 +1,14 @@
+{
+  "slug": "people/p-o-neil",
+  "type": "person",
+  "title": "P  O'Neil",
+  "compiled_truth": "P  O'Neil is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-30 to 2002-06-25), P  O'Neil sent 100 and received 510 emails, totalling 610 interactions. Top correspondents: [Chris Stokley](people/chris-stokley) (70), [F  Herod](people/f-herod) (15), [Lisa Gang](people/lisa-gang) (10), [Julie Sarnowski](people/julie-sarnowski) (8), [Mark Denner](people/mark-denner) (7). Mailbox folders observed: bill_williams_iii, calendar, chris_stokley, deleted_items, inbox, read.",
+  "timeline": "- **2001-03-30** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/p-o-neil",
+    "name": "P  O'Neil",
+    "email": "p..o'neil@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

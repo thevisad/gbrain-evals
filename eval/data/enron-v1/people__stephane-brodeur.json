@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephane-brodeur",
+  "type": "person",
+  "title": "Stephane Brodeur",
+  "compiled_truth": "Stephane Brodeur is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-22 to 2002-02-06), Stephane Brodeur sent 11 and received 129 emails, totalling 140 interactions. Top correspondents: [Keith Holst](people/keith-holst) (3), [Chris Dorland](people/chris-dorland) (2), [Matt Smith](people/matt-smith) (2), [Barry Tycholiz](people/barry-tycholiz) (2), [Chad Clark](people/chad-clark) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2000-03-22** | First recorded email in corpus\n- **2002-02-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephane-brodeur",
+    "name": "Stephane Brodeur",
+    "email": "stephane.brodeur@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

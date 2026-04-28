@@ -1,0 +1,40 @@
+{
+  "slug": "threads/test-2001-10",
+  "type": "meeting",
+  "title": "Thread: Test",
+  "compiled_truth": "Email thread: \"Test\". Ran from 2001-10-29 to 2001-11-27 with 20 messages. Participants: [8778552081](people/8778552081-pagenet), [8778552081](people/8778552081-pagenetmessage), [Barry Tycholiz](people/barry-tycholiz), [Bill Rapp](people/bill-rapp), [Billrapp](people/billrapp-prodigy), [Dandjmccarty](people/dandjmccarty-aol), [Danny Mccarty](people/danny-mccarty), [Debra Perlingiere](people/debra-perlingiere).",
+  "timeline": "- **2001-10-29** | Thread begins: test\n- **2001-11-27** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/test-2001-10",
+    "attendees": [
+      "people/8778552081-pagenet",
+      "people/8778552081-pagenetmessage",
+      "people/barry-tycholiz",
+      "people/bill-rapp",
+      "people/billrapp-prodigy",
+      "people/dandjmccarty-aol",
+      "people/danny-mccarty",
+      "people/debra-perlingiere",
+      "people/dmclolinger-aep",
+      "people/dmclolinger-yahoo",
+      "people/e-haedicke",
+      "people/e-taylor",
+      "people/frank-de",
+      "people/frank-vickers",
+      "people/greg-whalley",
+      "people/j-kaminski",
+      "people/jessica-l-bishop-dynegy",
+      "people/kevin-ruscitti",
+      "people/lance-schuler",
+      "people/liz-taylor",
+      "people/rick-buy",
+      "people/rod-hayslett",
+      "people/sally-beck",
+      "people/taylor",
+      "people/vkaminski-aol",
+      "people/william-smith"
+    ],
+    "date": "2001-10-29"
+  }
+}

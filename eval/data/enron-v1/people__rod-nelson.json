@@ -1,0 +1,14 @@
+{
+  "slug": "people/rod-nelson",
+  "type": "person",
+  "title": "Rod Nelson",
+  "compiled_truth": "Rod Nelson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-05), Rod Nelson sent 30 and received 662 emails, totalling 692 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (16), [Mark Taylor](people/mark-taylor) (8), [Debbie Brackett](people/debbie-brackett) (6), [William Bradford](people/william-bradford) (6), [Bryan Seyfried](people/bryan-seyfried) (6).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rod-nelson",
+    "name": "Rod Nelson",
+    "email": "rod.nelson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

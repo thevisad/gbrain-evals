@@ -1,0 +1,14 @@
+{
+  "slug": "people/gsullivan-sempra",
+  "type": "person",
+  "title": "Gsullivan",
+  "compiled_truth": "Gsullivan is an external contact at [Sempra Energy](companies/sempra). Over the corpus period (1999-09-24 to 2001-07-31), Gsullivan sent 15 and received 255 emails, totalling 270 interactions. Top correspondents: [Burkee](people/burkee-cts) (14), [Craigc](people/craigc-calpine) (14), [Eke](people/eke-aelaw) (14), [Jleslie](people/jleslie-luce) (14), [Johnj](people/johnj-bcjlaw) (14).",
+  "timeline": "- **1999-09-24** | First recorded email in corpus\n- **2001-07-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gsullivan-sempra",
+    "name": "Gsullivan",
+    "email": "gsullivan@sempra.com",
+    "primary_affiliation": "companies/sempra"
+  }
+}

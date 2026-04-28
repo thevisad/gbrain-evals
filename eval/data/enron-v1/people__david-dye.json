@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-dye",
+  "type": "person",
+  "title": "David Dye",
+  "compiled_truth": "David Dye is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-25 to 2001-10-22), David Dye sent 0 and received 14 emails, totalling 14 interactions.",
+  "timeline": "- **2000-10-25** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-dye",
+    "name": "David Dye",
+    "email": "david.dye@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

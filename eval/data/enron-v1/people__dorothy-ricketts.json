@@ -1,0 +1,14 @@
+{
+  "slug": "people/dorothy-ricketts",
+  "type": "person",
+  "title": "Dorothy Ricketts",
+  "compiled_truth": "Dorothy Ricketts is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-28 to 2001-11-28), Dorothy Ricketts sent 0 and received 37 emails, totalling 37 interactions.",
+  "timeline": "- **1999-12-28** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dorothy-ricketts",
+    "name": "Dorothy Ricketts",
+    "email": "dorothy.ricketts@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

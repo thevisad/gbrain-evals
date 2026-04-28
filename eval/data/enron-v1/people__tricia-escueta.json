@@ -1,0 +1,14 @@
+{
+  "slug": "people/tricia-escueta",
+  "type": "person",
+  "title": "Tricia Escueta",
+  "compiled_truth": "Tricia Escueta is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2001-11-08), Tricia Escueta sent 0 and received 18 emails, totalling 18 interactions.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2001-11-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tricia-escueta",
+    "name": "Tricia Escueta",
+    "email": "tricia.escueta@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

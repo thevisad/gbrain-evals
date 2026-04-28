@@ -1,0 +1,14 @@
+{
+  "slug": "people/maggie-matheson",
+  "type": "person",
+  "title": "Maggie Matheson",
+  "compiled_truth": "Maggie Matheson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2002-03-15), Maggie Matheson sent 10 and received 114 emails, totalling 124 interactions. Top correspondents: [Ramona Betancourt](people/ramona-betancourt) (5), [Linda Trevino](people/linda-trevino) (4), [Darrell Schoolcraft](people/darrell-schoolcraft) (4), [Bradley Holmes](people/bradley-holmes) (3), [Lynn Blair](people/lynn-blair) (3). Mailbox folders observed: deleted_items, inbox, meetings___nng_customer_mtg, misc_tw, presentations.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2002-03-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maggie-matheson",
+    "name": "Maggie Matheson",
+    "email": "maggie.matheson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

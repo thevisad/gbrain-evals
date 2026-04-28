@@ -1,0 +1,14 @@
+{
+  "slug": "people/llewelyn-hughes",
+  "type": "person",
+  "title": "Llewelyn Hughes",
+  "compiled_truth": "Llewelyn Hughes is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-19 to 2001-11-30), Llewelyn Hughes sent 3 and received 51 emails, totalling 54 interactions. Top correspondents: [Nicholas O'Day](people/nicholas-o-day) (3), [Michael Grimes](people/michael-grimes) (2), [John Sherriff](people/john-sherriff) (2), [Joseph Hirl](people/joseph-hirl) (2), [Jeremy Thirsk](people/jeremy-thirsk) (2). Mailbox folders observed: inbox, japan.",
+  "timeline": "- **2001-03-19** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/llewelyn-hughes",
+    "name": "Llewelyn Hughes",
+    "email": "llewelyn.hughes@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

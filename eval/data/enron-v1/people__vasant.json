@@ -1,0 +1,14 @@
+{
+  "slug": "people/vasant",
+  "type": "person",
+  "title": " Vasant",
+  "compiled_truth": "Vasant is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-01 to 2002-01-15),  Vasant sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2001-06-01** | First recorded email in corpus\n- **2002-01-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vasant",
+    "name": " Vasant",
+    "email": ".vasant@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

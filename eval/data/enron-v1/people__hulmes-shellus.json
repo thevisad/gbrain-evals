@@ -1,0 +1,14 @@
+{
+  "slug": "people/hulmes-shellus",
+  "type": "person",
+  "title": "Hulmes",
+  "compiled_truth": "Hulmes is an external contact at [Shellus](companies/shellus). Over the corpus period (2000-05-21 to 2000-07-11), Hulmes sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-07-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hulmes-shellus",
+    "name": "Hulmes",
+    "email": "hulmes@shellus.com",
+    "primary_affiliation": "companies/shellus"
+  }
+}

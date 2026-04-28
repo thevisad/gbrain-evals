@@ -1,0 +1,14 @@
+{
+  "slug": "people/dalton-hogan",
+  "type": "person",
+  "title": "Dalton Hogan",
+  "compiled_truth": "Dalton Hogan is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-16), Dalton Hogan sent 4 and received 17 emails, totalling 21 interactions. Top correspondents: [Chris Germany](people/chris-germany) (3), [J  Farmer](people/j-farmer) (1), [Kimberly Bates](people/kimberly-bates) (1), [David Kowalczyk](people/david-kowalczyk) (1), [Felix Buitron](people/felix-buitron) (1). Mailbox folders observed: inbox, logistics.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dalton-hogan",
+    "name": "Dalton Hogan",
+    "email": "dalton.hogan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

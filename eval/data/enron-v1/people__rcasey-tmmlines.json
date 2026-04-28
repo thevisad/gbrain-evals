@@ -1,0 +1,14 @@
+{
+  "slug": "people/rcasey-tmmlines",
+  "type": "person",
+  "title": "Rcasey",
+  "compiled_truth": "Rcasey is an external contact at [Tmmlines](companies/tmmlines). Over the corpus period (2000-08-28 to 2001-04-20), Rcasey sent 0 and received 35 emails, totalling 35 interactions.",
+  "timeline": "- **2000-08-28** | First recorded email in corpus\n- **2001-04-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rcasey-tmmlines",
+    "name": "Rcasey",
+    "email": "rcasey@tmmlines.com",
+    "primary_affiliation": "companies/tmmlines"
+  }
+}

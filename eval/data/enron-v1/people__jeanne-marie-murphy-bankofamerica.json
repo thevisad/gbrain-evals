@@ -1,0 +1,14 @@
+{
+  "slug": "people/jeanne-marie-murphy-bankofamerica",
+  "type": "person",
+  "title": "Jeanne-Marie Murphy",
+  "compiled_truth": "Jeanne-Marie Murphy is an external contact at [Bankofamerica](companies/bankofamerica). Over the corpus period (2001-11-01 to 2001-11-16), Jeanne-Marie Murphy sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2001-11-01** | First recorded email in corpus\n- **2001-11-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jeanne-marie-murphy-bankofamerica",
+    "name": "Jeanne-Marie Murphy",
+    "email": "jeanne-marie.murphy@bankofamerica.com",
+    "primary_affiliation": "companies/bankofamerica"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/fmackin-aol",
+  "type": "person",
+  "title": "Fmackin",
+  "compiled_truth": "Fmackin is an external contact at [AOL](companies/aol). Over the corpus period (2000-01-25 to 2001-11-26), Fmackin sent 27 and received 115 emails, totalling 142 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (24), [Kriste Sullivan](people/kriste-sullivan) (8), [Pam Butler](people/pam-butler) (6), [Lizzette Palmer](people/lizzette-palmer) (3), [Catherine Huynh](people/catherine-huynh) (2).",
+  "timeline": "- **2000-01-25** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fmackin-aol",
+    "name": "Fmackin",
+    "email": "fmackin@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

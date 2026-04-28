@@ -1,0 +1,14 @@
+{
+  "slug": "people/mary-perkins",
+  "type": "person",
+  "title": "Mary Perkins",
+  "compiled_truth": "Mary Perkins is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-05-18 to 2002-04-20), Mary Perkins sent 11 and received 195 emails, totalling 206 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (3), [Louise Kitchen](people/louise-kitchen) (3), [Sheila Glover](people/sheila-glover) (2), [Sally Beck](people/sally-beck) (2), [W  Brown](people/w-brown) (2). Mailbox folders observed: _americas, archive, credit_issues, inbox.",
+  "timeline": "- **1999-05-18** | First recorded email in corpus\n- **2002-04-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mary-perkins",
+    "name": "Mary Perkins",
+    "email": "mary.perkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/ld-stephens",
+  "type": "person",
+  "title": "Ld Stephens",
+  "compiled_truth": "Ld Stephens is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-26 to 2002-03-25), Ld Stephens sent 4 and received 228 emails, totalling 232 interactions. Top correspondents: [Mark Mcconnell](people/mark-mcconnell) (3), [Kimberly Watson](people/kimberly-watson) (2), [Mike Ames](people/mike-ames) (2), [Larry Campbell](people/larry-campbell) (2), [Team Ashland](people/team-ashland) (1). Mailbox folders observed: deleted_items, tw_projects.",
+  "timeline": "- **2000-06-26** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ld-stephens",
+    "name": "Ld Stephens",
+    "email": "ld.stephens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

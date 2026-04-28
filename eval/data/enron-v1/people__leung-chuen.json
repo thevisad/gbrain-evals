@@ -1,0 +1,14 @@
+{
+  "slug": "people/leung-chuen",
+  "type": "person",
+  "title": "Leung Chuen",
+  "compiled_truth": "Leung Chuen is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-01 to 2001-09-24), Leung Chuen sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2001-06-01** | First recorded email in corpus\n- **2001-09-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/leung-chuen",
+    "name": "Leung Chuen",
+    "email": "leung.chuen@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

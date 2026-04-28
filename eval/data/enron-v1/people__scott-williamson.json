@@ -1,0 +1,14 @@
+{
+  "slug": "people/scott-williamson",
+  "type": "person",
+  "title": "Scott Williamson",
+  "compiled_truth": "Scott Williamson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-11-12), Scott Williamson sent 0 and received 36 emails, totalling 36 interactions.",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/scott-williamson",
+    "name": "Scott Williamson",
+    "email": "scott.williamson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/bambos-stanford",
+  "type": "person",
+  "title": "Bambos",
+  "compiled_truth": "Bambos is an external contact at [Stanford](companies/stanford). Over the corpus period (2000-02-23 to 2001-10-22), Bambos sent 9 and received 26 emails, totalling 35 interactions. Top correspondents: [Vince J Kaminski](people/vince-j-kaminski) (8), [Stinson Gibner](people/stinson-gibner) (5), [Vkaminski](people/vkaminski-aol) (2), [Gappy](people/gappy-stanford) (2), [Shirley Crenshaw](people/shirley-crenshaw) (1).",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bambos-stanford",
+    "name": "Bambos",
+    "email": "bambos@stanford.edu",
+    "primary_affiliation": "companies/stanford"
+  }
+}

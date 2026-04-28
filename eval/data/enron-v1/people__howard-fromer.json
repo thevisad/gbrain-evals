@@ -1,0 +1,14 @@
+{
+  "slug": "people/howard-fromer",
+  "type": "person",
+  "title": "Howard Fromer",
+  "compiled_truth": "Howard Fromer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2001-12-03), Howard Fromer sent 37 and received 502 emails, totalling 539 interactions. Top correspondents: [Steve Montovano](people/steve-montovano) (31), [John Llodra](people/john-llodra) (24), [Sarah Novosel](people/sarah-novosel) (24), [Tom May](people/tom-may) (22), [Kathleen Sullivan](people/kathleen-sullivan) (22). Mailbox folders observed: deleted_items, inbox, top_10_issues_6_1_01.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/howard-fromer",
+    "name": "Howard Fromer",
+    "email": "howard.fromer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/brian-o-rourke",
+  "type": "person",
+  "title": "Brian O'Rourke",
+  "compiled_truth": "Brian O'Rourke is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2001-04-25), Brian O'Rourke sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2001-04-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/brian-o-rourke",
+    "name": "Brian O'Rourke",
+    "email": "brian.o'rourke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

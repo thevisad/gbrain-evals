@@ -1,0 +1,14 @@
+{
+  "slug": "people/mitch-robinson",
+  "type": "person",
+  "title": "Mitch Robinson",
+  "compiled_truth": "Mitch Robinson is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-02-25), Mitch Robinson sent 60 and received 456 emails, totalling 516 interactions. Top correspondents: [Don Miller](people/don-miller) (26), [Benjamin Rogers](people/benjamin-rogers) (23), [Kay Mann](people/kay-mann) (14), [Stuart Zisman](people/stuart-zisman) (11), [Louise Kitchen](people/louise-kitchen) (10). Mailbox folders observed: 24_hr_power, _americas, inbox, ubsw_energy.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-02-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mitch-robinson",
+    "name": "Mitch Robinson",
+    "email": "mitch.robinson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

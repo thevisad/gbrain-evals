@@ -1,0 +1,14 @@
+{
+  "slug": "people/rosalyn-lum",
+  "type": "person",
+  "title": "Rosalyn Lum",
+  "compiled_truth": "Rosalyn Lum is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-24 to 2001-11-15), Rosalyn Lum sent 5 and received 102 emails, totalling 107 interactions. Top correspondents: [Dana Davis](people/dana-davis) (5), [Angelic Davis](people/angelic-davis) (3), [Lisa Kang](people/lisa-kang) (3), [Veronica Medrano](people/veronica-medrano) (3), [Pam Becton](people/pam-becton) (3). Mailbox folders observed: deleted_items, vacation.",
+  "timeline": "- **2000-04-24** | First recorded email in corpus\n- **2001-11-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rosalyn-lum",
+    "name": "Rosalyn Lum",
+    "email": "rosalyn.lum@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

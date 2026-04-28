@@ -1,0 +1,14 @@
+{
+  "slug": "people/marcus-dotson",
+  "type": "person",
+  "title": "Marcus Dotson",
+  "compiled_truth": "Marcus Dotson is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-06 to 2001-11-19), Marcus Dotson sent 1 and received 95 emails, totalling 96 interactions. Top correspondents: [Gary Mirich](people/gary-mirich) (1), [George Waidelich](people/george-waidelich) (1), [John Woodman](people/john-woodman) (1), [Ronald Mentan](people/ronald-mentan) (1), [Brian Dafferner](people/brian-dafferner) (1).",
+  "timeline": "- **2000-09-06** | First recorded email in corpus\n- **2001-11-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marcus-dotson",
+    "name": "Marcus Dotson",
+    "email": "marcus.dotson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

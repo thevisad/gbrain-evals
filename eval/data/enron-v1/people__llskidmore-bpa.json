@@ -1,0 +1,14 @@
+{
+  "slug": "people/llskidmore-bpa",
+  "type": "person",
+  "title": "Llskidmore",
+  "compiled_truth": "Llskidmore is an external contact at [Bonneville Power Admin](companies/bpa). Over the corpus period (2000-06-23 to 2000-07-09), Llskidmore sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2000-07-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/llskidmore-bpa",
+    "name": "Llskidmore",
+    "email": "llskidmore@bpa.gov",
+    "primary_affiliation": "companies/bpa"
+  }
+}

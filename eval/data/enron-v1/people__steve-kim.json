@@ -1,0 +1,14 @@
+{
+  "slug": "people/steve-kim",
+  "type": "person",
+  "title": "Steve Kim",
+  "compiled_truth": "Steve Kim is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-02 to 2001-02-16), Steve Kim sent 2 and received 12 emails, totalling 14 interactions. Top correspondents: [Jeff Harbert](people/jeff-harbert) (1), [Dale Neuner](people/dale-neuner) (1), [Lucy Ortiz](people/lucy-ortiz) (1), [Sara Shackleton](people/sara-shackleton) (1), [Mark Taylor](people/mark-taylor) (1).",
+  "timeline": "- **1999-08-02** | First recorded email in corpus\n- **2001-02-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steve-kim",
+    "name": "Steve Kim",
+    "email": "steve.kim@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

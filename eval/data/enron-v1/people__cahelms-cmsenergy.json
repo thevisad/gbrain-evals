@@ -1,0 +1,14 @@
+{
+  "slug": "people/cahelms-cmsenergy",
+  "type": "person",
+  "title": "Cahelms",
+  "compiled_truth": "Cahelms is an external contact at [Cmsenergy](companies/cmsenergy). Over the corpus period (2001-11-20 to 2001-12-18), Cahelms sent 1 and received 2 emails, totalling 3 interactions. Top correspondents: [Joe Monroe](people/joe-monroe-unocal) (1), [Bcave](people/bcave-apga) (1), [Bcooper](people/bcooper-aopl) (1), [Bkalisch](people/bkalisch-apga) (1), [Botterwt](people/botterwt-kochind) (1).",
+  "timeline": "- **2001-11-20** | First recorded email in corpus\n- **2001-12-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cahelms-cmsenergy",
+    "name": "Cahelms",
+    "email": "cahelms@cmsenergy.com",
+    "primary_affiliation": "companies/cmsenergy"
+  }
+}

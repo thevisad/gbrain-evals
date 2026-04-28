@@ -1,0 +1,14 @@
+{
+  "slug": "people/edward-hamb",
+  "type": "person",
+  "title": "Edward Hamb",
+  "compiled_truth": "Edward Hamb is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-15 to 2001-11-30), Edward Hamb sent 2 and received 71 emails, totalling 73 interactions. Top correspondents: [Jeff Dasovich](people/jeff-dasovich) (2), [Suan Dinh](people/suan-dinh) (1).",
+  "timeline": "- **1999-12-15** | First recorded email in corpus\n- **2001-11-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edward-hamb",
+    "name": "Edward Hamb",
+    "email": "edward.hamb@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

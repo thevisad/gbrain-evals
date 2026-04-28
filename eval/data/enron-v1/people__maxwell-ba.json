@@ -1,0 +1,14 @@
+{
+  "slug": "people/maxwell-ba",
+  "type": "person",
+  "title": "Maxwell",
+  "compiled_truth": "Maxwell is an external contact at [Ba](companies/ba). Over the corpus period (2000-03-28 to 2001-03-06), Maxwell sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-03-28** | First recorded email in corpus\n- **2001-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maxwell-ba",
+    "name": "Maxwell",
+    "email": "maxwell@ba.ttu.edu",
+    "primary_affiliation": "companies/ba"
+  }
+}

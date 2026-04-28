@@ -1,0 +1,14 @@
+{
+  "slug": "people/anita-patton",
+  "type": "person",
+  "title": "Anita Patton",
+  "compiled_truth": "Anita Patton is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-17 to 2001-05-23), Anita Patton sent 0 and received 233 emails, totalling 233 interactions.",
+  "timeline": "- **1999-12-17** | First recorded email in corpus\n- **2001-05-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anita-patton",
+    "name": "Anita Patton",
+    "email": "anita.patton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

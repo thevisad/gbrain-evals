@@ -1,0 +1,14 @@
+{
+  "slug": "people/taylor-theamesco",
+  "type": "person",
+  "title": "Taylor",
+  "compiled_truth": "Taylor is an external contact at [Theamesco](companies/theamesco). Over the corpus period (2000-12-05 to 2001-05-15), Taylor sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2000-12-05** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/taylor-theamesco",
+    "name": "Taylor",
+    "email": "taylor@theamesco.com",
+    "primary_affiliation": "companies/theamesco"
+  }
+}

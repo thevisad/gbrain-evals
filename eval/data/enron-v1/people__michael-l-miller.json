@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-l-miller",
+  "type": "person",
+  "title": "Michael L Miller",
+  "compiled_truth": "Michael L Miller is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-04-24), Michael L Miller sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-04-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-l-miller",
+    "name": "Michael L Miller",
+    "email": "michael.l.miller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

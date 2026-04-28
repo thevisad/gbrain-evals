@@ -1,0 +1,14 @@
+{
+  "slug": "people/rick-hopkinson",
+  "type": "person",
+  "title": "Rick Hopkinson",
+  "compiled_truth": "Rick Hopkinson is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-09-10 to 2001-11-09), Rick Hopkinson sent 1 and received 72 emails, totalling 73 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (1), [Lynn Aven](people/lynn-aven) (1), [Andrea Bertone](people/andrea-bertone) (1), [Brent Hendry](people/brent-hendry) (1), [Bruce Harris](people/bruce-harris) (1).",
+  "timeline": "- **1999-09-10** | First recorded email in corpus\n- **2001-11-09** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rick-hopkinson",
+    "name": "Rick Hopkinson",
+    "email": "rick.hopkinson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

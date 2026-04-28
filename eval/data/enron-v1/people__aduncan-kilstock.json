@@ -1,0 +1,14 @@
+{
+  "slug": "people/aduncan-kilstock",
+  "type": "person",
+  "title": "Aduncan",
+  "compiled_truth": "Aduncan is an external contact at [Kilstock](companies/kilstock). Over the corpus period (2000-06-28 to 2001-01-08), Aduncan sent 11 and received 62 emails, totalling 73 interactions. Top correspondents: [Kay Mann](people/kay-mann) (11), [Tom Chapman](people/tom-chapman) (8), [Jfine](people/jfine-kilstock) (8), [Heather Kroll](people/heather-kroll) (7), [Jeffrey M Keenan](people/jeffrey-m-keenan) (7).",
+  "timeline": "- **2000-06-28** | First recorded email in corpus\n- **2001-01-08** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/aduncan-kilstock",
+    "name": "Aduncan",
+    "email": "aduncan@kilstock.com",
+    "primary_affiliation": "companies/kilstock"
+  }
+}

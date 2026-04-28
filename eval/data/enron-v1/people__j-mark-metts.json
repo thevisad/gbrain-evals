@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-mark-metts",
+  "type": "person",
+  "title": "J Mark Metts",
+  "compiled_truth": "J Mark Metts is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-16 to 2000-10-31), J Mark Metts sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2000-08-16** | First recorded email in corpus\n- **2000-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-mark-metts",
+    "name": "J Mark Metts",
+    "email": "j.mark.metts@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

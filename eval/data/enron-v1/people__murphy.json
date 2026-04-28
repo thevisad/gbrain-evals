@@ -1,0 +1,14 @@
+{
+  "slug": "people/murphy",
+  "type": "person",
+  "title": " Murphy",
+  "compiled_truth": "Murphy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-08 to 2002-01-29),  Murphy sent 0 and received 42 emails, totalling 42 interactions.",
+  "timeline": "- **2001-08-08** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/murphy",
+    "name": " Murphy",
+    "email": ".murphy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

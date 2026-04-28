@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-donohoe",
+  "type": "person",
+  "title": "Tom Donohoe",
+  "compiled_truth": "Tom Donohoe is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-26 to 2002-01-16), Tom Donohoe sent 54 and received 360 emails, totalling 414 interactions. Top correspondents: [Donohoet](people/donohoet-msn) (5), [Hunter Shively](people/hunter-shively) (4), [Kelley Doolan](people/kelley-doolan-mcgraw-hill) (4), [Scott Dozier](people/scott-dozier) (4), [Todd](people/todd-mrienergy) (4). Mailbox folders observed: _sent_mail, sent, sent_items.",
+  "timeline": "- **1999-07-26** | First recorded email in corpus\n- **2002-01-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-donohoe",
+    "name": "Tom Donohoe",
+    "email": "tom.donohoe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

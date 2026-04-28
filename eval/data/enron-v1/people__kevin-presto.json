@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-presto",
+  "type": "person",
+  "title": "Kevin Presto",
+  "compiled_truth": "Kevin Presto is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-17), Kevin Presto sent 218 and received 1080 emails, totalling 1298 interactions. Top correspondents: [John Lavorato](people/john-lavorato) (39), [Louise Kitchen](people/louise-kitchen) (31), [Rogers Herndon](people/rogers-herndon) (28), [Lloyd Will](people/lloyd-will) (16), [Tim Belden](people/tim-belden) (14). Mailbox folders observed: _americas, inbox, jrhernandez, personal, sent, sent_items.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-presto",
+    "name": "Kevin Presto",
+    "email": "kevin.presto@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

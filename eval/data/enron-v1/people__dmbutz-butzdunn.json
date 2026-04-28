@@ -1,0 +1,14 @@
+{
+  "slug": "people/dmbutz-butzdunn",
+  "type": "person",
+  "title": "Dmbutz",
+  "compiled_truth": "Dmbutz is an external contact at [Butzdunn](companies/butzdunn). Over the corpus period (2001-02-02 to 2001-05-16), Dmbutz sent 0 and received 16 emails, totalling 16 interactions.",
+  "timeline": "- **2001-02-02** | First recorded email in corpus\n- **2001-05-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dmbutz-butzdunn",
+    "name": "Dmbutz",
+    "email": "dmbutz@butzdunn.com",
+    "primary_affiliation": "companies/butzdunn"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "companies/eslawfirm",
+  "type": "company",
+  "title": "Eslawfirm",
+  "compiled_truth": "Eslawfirm is an external organization that appears in the Enron email corpus. Domain: eslawfirm.com. Total email interactions with Enron: 676. Known contacts: 8 individuals.",
+  "timeline": "- **2000-01-01** | Organization appears in Enron email corpus (676 emails)",
+  "_facts": {
+    "type": "company",
+    "slug": "companies/eslawfirm",
+    "name": "Eslawfirm",
+    "employees": [
+      "people/abb-eslawfirm",
+      "people/cte-eslawfirm",
+      "people/djdh-eslawfirm",
+      "people/dkk-eslawfirm",
+      "people/ericj-eslawfirm",
+      "people/jdh-eslawfirm",
+      "people/kam-eslawfirm",
+      "people/lmh-eslawfirm"
+    ],
+    "founders": [],
+    "investors": [],
+    "advisors": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/cramer-cadvision",
+  "type": "person",
+  "title": "Cramer",
+  "compiled_truth": "Cramer is an external contact at [Cadvision](companies/cadvision). Over the corpus period (2001-07-23 to 2044-01-04), Cramer sent 36 and received 4 emails, totalling 40 interactions. Top correspondents: [John Zufferli](people/john-zufferli) (36), [Cramer Erik](people/cramer-erik) (12), [Demers Nicolas](people/demers-nicolas) (10), [Dukart Kelly](people/dukart-kelly) (10), [Blaker Jason](people/blaker-jason) (10).",
+  "timeline": "- **2001-07-23** | First recorded email in corpus\n- **2044-01-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/cramer-cadvision",
+    "name": "Cramer",
+    "email": "cramer@cadvision.com",
+    "primary_affiliation": "companies/cadvision"
+  }
+}

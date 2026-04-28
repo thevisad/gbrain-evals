@@ -1,0 +1,14 @@
+{
+  "slug": "people/maureen-mcvicker",
+  "type": "person",
+  "title": "Maureen Mcvicker",
+  "compiled_truth": "Maureen Mcvicker is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-27), Maureen Mcvicker sent 399 and received 1425 emails, totalling 1824 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (61), [Steven Kean](people/steven-kean) (60), [Jeff Dasovich](people/jeff-dasovich) (56), [James Steffes](people/james-steffes) (44), [Mark Palmer](people/mark-palmer) (43). Mailbox folders observed: 2001_witchunt, _americas, aadepartment, administrative, advertising, attachments.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/maureen-mcvicker",
+    "name": "Maureen Mcvicker",
+    "email": "maureen.mcvicker@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

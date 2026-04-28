@@ -1,0 +1,14 @@
+{
+  "slug": "people/mreuter-kslaw",
+  "type": "person",
+  "title": "Mreuter",
+  "compiled_truth": "Mreuter is an external contact at [King & Spalding](companies/king-and-spalding). Over the corpus period (2000-11-13 to 2001-10-31), Mreuter sent 48 and received 137 emails, totalling 185 interactions. Top correspondents: [Kay Mann](people/kay-mann) (48), [Jkeffer](people/jkeffer-kslaw) (36), [Chris Booth](people/chris-booth) (13), [Margueritekahn](people/margueritekahn-paulhastings) (10), [Kathleen Carnahan](people/kathleen-carnahan) (6).",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2001-10-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mreuter-kslaw",
+    "name": "Mreuter",
+    "email": "mreuter@kslaw.com",
+    "primary_affiliation": "companies/king-and-spalding"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/christopher-coffman",
+  "type": "person",
+  "title": "Christopher Coffman",
+  "compiled_truth": "Christopher Coffman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2001-06-22), Christopher Coffman sent 1 and received 77 emails, totalling 78 interactions. Top correspondents: [Brad Alford](people/brad-alford) (1), [John Griffith](people/john-griffith) (1), [Lewis Worthy](people/lewis-worthy) (1).",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2001-06-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/christopher-coffman",
+    "name": "Christopher Coffman",
+    "email": "christopher.coffman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

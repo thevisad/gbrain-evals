@@ -1,0 +1,14 @@
+{
+  "slug": "people/peteru-riskinc",
+  "type": "person",
+  "title": "Peteru",
+  "compiled_truth": "Peteru is an external contact at [Riskinc](companies/riskinc). Over the corpus period (2001-03-12 to 2001-04-30), Peteru sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2001-03-12** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/peteru-riskinc",
+    "name": "Peteru",
+    "email": "peteru@riskinc.com",
+    "primary_affiliation": "companies/riskinc"
+  }
+}

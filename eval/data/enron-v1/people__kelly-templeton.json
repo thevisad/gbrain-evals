@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-templeton",
+  "type": "person",
+  "title": "Kelly Templeton",
+  "compiled_truth": "Kelly Templeton is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-12-03), Kelly Templeton sent 4 and received 67 emails, totalling 71 interactions. Top correspondents: [Sara Shackleton](people/sara-shackleton) (2), [Marie Heard](people/marie-heard) (1), [Mark Lindsey](people/mark-lindsey) (1), [Jeffrey Mcmahon](people/jeffrey-mcmahon) (1), [Jordan Mintz](people/jordan-mintz) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-templeton",
+    "name": "Kelly Templeton",
+    "email": "kelly.templeton@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

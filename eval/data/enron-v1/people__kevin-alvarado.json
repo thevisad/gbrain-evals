@@ -1,0 +1,14 @@
+{
+  "slug": "people/kevin-alvarado",
+  "type": "person",
+  "title": "Kevin Alvarado",
+  "compiled_truth": "Kevin Alvarado is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-03 to 2001-11-02), Kevin Alvarado sent 1 and received 80 emails, totalling 81 interactions. Top correspondents: [John Hodge](people/john-hodge) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **2001-05-03** | First recorded email in corpus\n- **2001-11-02** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kevin-alvarado",
+    "name": "Kevin Alvarado",
+    "email": "kevin.alvarado@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

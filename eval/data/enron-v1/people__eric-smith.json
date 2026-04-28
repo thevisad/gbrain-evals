@@ -1,0 +1,14 @@
+{
+  "slug": "people/eric-smith",
+  "type": "person",
+  "title": "Eric Smith",
+  "compiled_truth": "Eric Smith is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-21 to 2001-09-26), Eric Smith sent 0 and received 57 emails, totalling 57 interactions.",
+  "timeline": "- **2001-02-21** | First recorded email in corpus\n- **2001-09-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eric-smith",
+    "name": "Eric Smith",
+    "email": "eric.smith@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

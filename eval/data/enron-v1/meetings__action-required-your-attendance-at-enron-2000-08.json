@@ -1,0 +1,27 @@
+{
+  "slug": "meetings/action-required-your-attendance-at-enron-2000-08",
+  "type": "meeting",
+  "title": "Meeting: Action Required: Your Attendance At Enrononline Training/Pre",
+  "compiled_truth": "Meeting: \"Action Required: Your Attendance At Enrononline Training/Presentation\". Occurred 2000-08-25 with 1 related emails. Participants included: [Bob Shults](people/bob-shults), [David Forster](people/david-forster), [Debra Davidson](people/debra-davidson), [Diana Scholtes](people/diana-scholtes), [Jeff Richter](people/jeff-richter), [John Forney](people/john-forney), [Lorraine Becker](people/lorraine-becker), [Mark Fischer](people/mark-fischer)....",
+  "timeline": "- **2000-08-25** | Meeting: action required: your attendance at enrononline training/pre",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/action-required-your-attendance-at-enron-2000-08",
+    "attendees": [
+      "people/bob-shults",
+      "people/david-forster",
+      "people/debra-davidson",
+      "people/diana-scholtes",
+      "people/jeff-richter",
+      "people/john-forney",
+      "people/lorraine-becker",
+      "people/mark-fischer",
+      "people/mike-swerzbin",
+      "people/robert-badeer",
+      "people/savita-puthigai",
+      "people/sean-crandall",
+      "people/tom-alonso"
+    ],
+    "date": "2000-08-25"
+  }
+}

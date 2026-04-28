@@ -1,0 +1,14 @@
+{
+  "slug": "people/kimberley-jacobson",
+  "type": "person",
+  "title": "Kimberley Jacobson",
+  "compiled_truth": "Kimberley Jacobson is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-28 to 2002-05-06), Kimberley Jacobson sent 1 and received 51 emails, totalling 52 interactions. Top correspondents: [ Taylor](people/taylor) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-09-28** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kimberley-jacobson",
+    "name": "Kimberley Jacobson",
+    "email": "kimberley.jacobson@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

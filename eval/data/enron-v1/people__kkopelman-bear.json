@@ -1,0 +1,14 @@
+{
+  "slug": "people/kkopelman-bear",
+  "type": "person",
+  "title": "Kkopelman",
+  "compiled_truth": "Kkopelman is an external contact at [Bear](companies/bear). Over the corpus period (1999-12-08 to 2000-12-28), Kkopelman sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **1999-12-08** | First recorded email in corpus\n- **2000-12-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kkopelman-bear",
+    "name": "Kkopelman",
+    "email": "kkopelman@bear.com",
+    "primary_affiliation": "companies/bear"
+  }
+}

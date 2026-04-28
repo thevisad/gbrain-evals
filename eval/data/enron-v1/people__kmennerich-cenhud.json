@@ -1,0 +1,14 @@
+{
+  "slug": "people/kmennerich-cenhud",
+  "type": "person",
+  "title": "Kmennerich",
+  "compiled_truth": "Kmennerich is an external contact at [Cenhud](companies/cenhud). Over the corpus period (2000-12-01 to 2002-02-19), Kmennerich sent 0 and received 22 emails, totalling 22 interactions.",
+  "timeline": "- **2000-12-01** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kmennerich-cenhud",
+    "name": "Kmennerich",
+    "email": "kmennerich@cenhud.com",
+    "primary_affiliation": "companies/cenhud"
+  }
+}

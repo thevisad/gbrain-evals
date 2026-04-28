@@ -1,0 +1,14 @@
+{
+  "slug": "people/theresa-branney",
+  "type": "person",
+  "title": "Theresa Branney",
+  "compiled_truth": "Theresa Branney is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-23 to 2001-12-03), Theresa Branney sent 1 and received 342 emails, totalling 343 interactions. Top correspondents: [Lorna Brennan](people/lorna-brennan) (1), [Robert Mason](people/robert-mason) (1), [Jo Williams](people/jo-williams) (1), [Kimberly Watson](people/kimberly-watson) (1), [Sue Neville](people/sue-neville) (1). Mailbox folders observed: inbox.",
+  "timeline": "- **1999-12-23** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/theresa-branney",
+    "name": "Theresa Branney",
+    "email": "theresa.branney@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

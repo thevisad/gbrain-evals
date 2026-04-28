@@ -1,0 +1,14 @@
+{
+  "slug": "people/fosterrg-sce",
+  "type": "person",
+  "title": "Fosterrg",
+  "compiled_truth": "Fosterrg is an external contact at [Sce](companies/sce). Over the corpus period (2000-08-10 to 2001-11-14), Fosterrg sent 0 and received 48 emails, totalling 48 interactions.",
+  "timeline": "- **2000-08-10** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fosterrg-sce",
+    "name": "Fosterrg",
+    "email": "fosterrg@sce.com",
+    "primary_affiliation": "companies/sce"
+  }
+}

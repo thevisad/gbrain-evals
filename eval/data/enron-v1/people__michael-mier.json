@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-mier",
+  "type": "person",
+  "title": "Michael Mier",
+  "compiled_truth": "Michael Mier is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-16 to 2002-03-15), Michael Mier sent 3 and received 2125 emails, totalling 2128 interactions. Top correspondents: [Shift Dl-Portland](people/shift-dl-portland) (2), [Lisa Gang](people/lisa-gang) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-08-16** | First recorded email in corpus\n- **2002-03-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-mier",
+    "name": "Michael Mier",
+    "email": "michael.mier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

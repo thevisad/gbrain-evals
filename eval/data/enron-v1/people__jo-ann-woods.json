@@ -1,0 +1,14 @@
+{
+  "slug": "people/jo-ann-woods",
+  "type": "person",
+  "title": "Jo-Ann Woods",
+  "compiled_truth": "Jo-Ann Woods is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-13 to 2002-05-06), Jo-Ann Woods sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-11-13** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jo-ann-woods",
+    "name": "Jo-Ann Woods",
+    "email": "jo-ann.woods@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/vera-jones",
+  "type": "person",
+  "title": "Vera Jones",
+  "compiled_truth": "Vera Jones is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-28 to 2002-03-19), Vera Jones sent 2 and received 28 emails, totalling 30 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (1), [Kenneth Lay](people/kenneth-lay) (1). Mailbox folders observed: projects.",
+  "timeline": "- **2000-09-28** | First recorded email in corpus\n- **2002-03-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/vera-jones",
+    "name": "Vera Jones",
+    "email": "vera.jones@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

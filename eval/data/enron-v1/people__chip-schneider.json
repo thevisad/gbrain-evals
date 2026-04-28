@@ -1,0 +1,14 @@
+{
+  "slug": "people/chip-schneider",
+  "type": "person",
+  "title": "Chip Schneider",
+  "compiled_truth": "Chip Schneider is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-23 to 2002-06-25), Chip Schneider sent 86 and received 276 emails, totalling 362 interactions. Top correspondents: [Louise Kitchen](people/louise-kitchen) (45), [Rick Buy](people/rick-buy) (23), [David Gorte](people/david-gorte) (17), [Andre Cangucu](people/andre-cangucu) (16), [F  Calger](people/f-calger) (15). Mailbox folders observed: _americas, bankrupt, deleted_items, inbox, koch, notre_dame.",
+  "timeline": "- **2000-06-23** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/chip-schneider",
+    "name": "Chip Schneider",
+    "email": "chip.schneider@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

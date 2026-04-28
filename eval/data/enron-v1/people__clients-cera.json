@@ -1,0 +1,14 @@
+{
+  "slug": "people/clients-cera",
+  "type": "person",
+  "title": "Clients",
+  "compiled_truth": "Clients is an external contact at [Cambridge Energy Research](companies/cera). Over the corpus period (2001-09-01 to 2002-02-07), Clients sent 0 and received 86 emails, totalling 86 interactions.",
+  "timeline": "- **2001-09-01** | First recorded email in corpus\n- **2002-02-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clients-cera",
+    "name": "Clients",
+    "email": "clients@cera.com",
+    "primary_affiliation": "companies/cera"
+  }
+}

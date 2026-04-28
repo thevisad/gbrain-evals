@@ -1,0 +1,14 @@
+{
+  "slug": "people/bcash-interwest",
+  "type": "person",
+  "title": "Bcash",
+  "compiled_truth": "Bcash is an external contact at [Interwest](companies/interwest). Over the corpus period (2000-11-08 to 2000-12-06), Bcash sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-11-08** | First recorded email in corpus\n- **2000-12-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bcash-interwest",
+    "name": "Bcash",
+    "email": "bcash@interwest.com",
+    "primary_affiliation": "companies/interwest"
+  }
+}

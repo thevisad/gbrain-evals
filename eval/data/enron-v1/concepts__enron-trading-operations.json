@@ -1,0 +1,22 @@
+{
+  "slug": "concepts/enron-trading-operations",
+  "type": "concept",
+  "title": "Enron Trading Operations",
+  "compiled_truth": "Enron built the largest energy trading operation in the United States, trading natural gas, electricity, bandwidth, weather derivatives, and other commodities through Enron Online and physical trading desks. Related organizations: [Enron](companies/enron), [CAISO](companies/caiso), [Dynegy](companies/dynegy).",
+  "timeline": "- **1989-07-01** | Enron begins trading natural gas contracts\n- **1999-11-29** | Enron Online launches — first major web-based commodity trading platform\n- **2000-01-01** | Enron Online executes over $330B in trades annually at peak\n- **2001-11-28** | Enron Online shuts down; Dynegy takeover deal collapses",
+  "_facts": {
+    "type": "concept",
+    "slug": "concepts/enron-trading-operations",
+    "related_companies": [
+      "companies/enron",
+      "companies/caiso",
+      "companies/dynegy"
+    ],
+    "related_people": [
+      "people/kenneth-lay",
+      "people/jeffrey-skilling",
+      "people/andrew-fastow",
+      "people/richard-causey"
+    ]
+  }
+}

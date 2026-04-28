@@ -1,0 +1,14 @@
+{
+  "slug": "people/doyle-white",
+  "type": "person",
+  "title": "Doyle White",
+  "compiled_truth": "Doyle White is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-16 to 2000-04-17), Doyle White sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **1999-12-16** | First recorded email in corpus\n- **2000-04-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/doyle-white",
+    "name": "Doyle White",
+    "email": "doyle.white@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

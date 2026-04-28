@@ -1,0 +1,14 @@
+{
+  "slug": "people/mpetroch",
+  "type": "person",
+  "title": "Mpetroch",
+  "compiled_truth": "Mpetroch is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-14 to 2001-10-22), Mpetroch sent 0 and received 132 emails, totalling 132 interactions.",
+  "timeline": "- **2000-06-14** | First recorded email in corpus\n- **2001-10-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mpetroch",
+    "name": "Mpetroch",
+    "email": "mpetroch@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

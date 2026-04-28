@@ -1,0 +1,14 @@
+{
+  "slug": "people/ufogel-aol",
+  "type": "person",
+  "title": "Ufogel",
+  "compiled_truth": "Ufogel is an external contact at [AOL](companies/aol). Over the corpus period (2000-11-07 to 2001-09-04), Ufogel sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ufogel-aol",
+    "name": "Ufogel",
+    "email": "ufogel@aol.com",
+    "primary_affiliation": "companies/aol"
+  }
+}

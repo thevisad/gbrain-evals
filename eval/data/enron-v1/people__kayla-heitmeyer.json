@@ -1,0 +1,14 @@
+{
+  "slug": "people/kayla-heitmeyer",
+  "type": "person",
+  "title": "Kayla Heitmeyer",
+  "compiled_truth": "Kayla Heitmeyer is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-02 to 2002-05-06), Kayla Heitmeyer sent 2 and received 45 emails, totalling 47 interactions. Top correspondents: [Derryl Cleaveland](people/derryl-cleaveland) (2), [Richard Causey](people/richard-causey) (1), [James Derrick](people/james-derrick) (1), [Steven Kean](people/steven-kean) (1), [Andrew Fastow](people/andrew-fastow) (1). Mailbox folders observed: calendar.",
+  "timeline": "- **2000-11-02** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kayla-heitmeyer",
+    "name": "Kayla Heitmeyer",
+    "email": "kayla.heitmeyer@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

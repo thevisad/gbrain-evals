@@ -1,0 +1,14 @@
+{
+  "slug": "people/tiffany-miller",
+  "type": "person",
+  "title": "Tiffany Miller",
+  "compiled_truth": "Tiffany Miller is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-09-18 to 2002-01-14), Tiffany Miller sent 8 and received 14 emails, totalling 22 interactions. Top correspondents: [Kam Keiser](people/kam-keiser) (6), [Jeff Royed](people/jeff-royed) (3), [Luchas Johnson](people/luchas-johnson) (3), [Chance Rabon](people/chance-rabon) (2), [Bruce Mills](people/bruce-mills) (2). Mailbox folders observed: deleted_items, inbox, to_do.",
+  "timeline": "- **2000-09-18** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tiffany-miller",
+    "name": "Tiffany Miller",
+    "email": "tiffany.miller@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

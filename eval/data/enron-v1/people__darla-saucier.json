@@ -1,0 +1,14 @@
+{
+  "slug": "people/darla-saucier",
+  "type": "person",
+  "title": "Darla Saucier",
+  "compiled_truth": "Darla Saucier is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-09 to 2001-11-27), Darla Saucier sent 25 and received 231 emails, totalling 256 interactions. Top correspondents: [Chris Germany](people/chris-germany) (14), [ Ward](people/ward) (4), [Theresa Staab](people/theresa-staab) (2), [M  Tholt](people/m-tholt) (2), [Frank Ermis](people/frank-ermis) (1). Mailbox folders observed: citizens, deleted_items, inbox.",
+  "timeline": "- **2000-08-09** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/darla-saucier",
+    "name": "Darla Saucier",
+    "email": "darla.saucier@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

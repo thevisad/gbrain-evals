@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-dendy",
+  "type": "person",
+  "title": "Tom Dendy",
+  "compiled_truth": "Tom Dendy is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-10 to 2001-09-28), Tom Dendy sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-09-10** | First recorded email in corpus\n- **2001-09-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-dendy",
+    "name": "Tom Dendy",
+    "email": "tom.dendy@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

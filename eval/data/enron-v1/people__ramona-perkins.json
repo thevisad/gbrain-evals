@@ -1,0 +1,14 @@
+{
+  "slug": "people/ramona-perkins",
+  "type": "person",
+  "title": "Ramona Perkins",
+  "compiled_truth": "Ramona Perkins is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-09 to 2001-12-03), Ramona Perkins sent 1 and received 32 emails, totalling 33 interactions. Top correspondents: [Alan Aronowitz](people/alan-aronowitz) (1), [Gail Brownfeld](people/gail-brownfeld) (1), [Teresa Bushman](people/teresa-bushman) (1), [Michelle Cash](people/michelle-cash) (1), [Mary Cook](people/mary-cook) (1).",
+  "timeline": "- **2000-06-09** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ramona-perkins",
+    "name": "Ramona Perkins",
+    "email": "ramona.perkins@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

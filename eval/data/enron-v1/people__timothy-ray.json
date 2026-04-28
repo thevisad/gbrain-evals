@@ -1,0 +1,14 @@
+{
+  "slug": "people/timothy-ray",
+  "type": "person",
+  "title": "Timothy Ray",
+  "compiled_truth": "Timothy Ray is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-04 to 2001-07-16), Timothy Ray sent 9 and received 81 emails, totalling 90 interactions. Top correspondents: [Chris Germany](people/chris-germany) (8), [Michael Garred](people/michael-garred) (4), [Scott Goodell](people/scott-goodell) (3), [John Henderson](people/john-henderson) (3), [Dick Jenkins](people/dick-jenkins) (2).",
+  "timeline": "- **2000-01-04** | First recorded email in corpus\n- **2001-07-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/timothy-ray",
+    "name": "Timothy Ray",
+    "email": "timothy.ray@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

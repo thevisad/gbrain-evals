@@ -1,0 +1,14 @@
+{
+  "slug": "people/j-kaminski",
+  "type": "person",
+  "title": "J Kaminski",
+  "compiled_truth": "J Kaminski is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-08 to 2002-01-30), J Kaminski sent 1243 and received 1184 emails, totalling 2427 interactions. Top correspondents: [Vkaminski](people/vkaminski-aol) (519), [Shirley Crenshaw](people/shirley-crenshaw) (125), [Vasant Shanbhogue](people/vasant-shanbhogue) (37), [A  Roberts](people/a-roberts) (37), [Zimin Lu](people/zimin-lu) (29). Mailbox folders observed: calendar, conferences, deleted_items, inbox, resumes, sent_items.",
+  "timeline": "- **2001-05-08** | First recorded email in corpus\n- **2002-01-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/j-kaminski",
+    "name": "J Kaminski",
+    "email": "j.kaminski@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

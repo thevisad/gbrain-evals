@@ -1,0 +1,26 @@
+{
+  "slug": "meetings/customer-contact-activity-meeting-monday-2002-01",
+  "type": "meeting",
+  "title": "Meeting: Customer Contact Activity Meeting Monday 1/7/02",
+  "compiled_truth": "Meeting: \"Customer Contact Activity Meeting Monday 1/7/02\". Occurred 2002-01-04 through 2002-01-04 with 2 related emails. Participants included: [A  Martin](people/a-martin), [Barry Tycholiz](people/barry-tycholiz), [Frank Vickers](people/frank-vickers), [Fred Lagrasta](people/fred-lagrasta), [Ina Rangel](people/ina-rangel), [John Arnold](people/john-arnold), [Laura Luce](people/laura-luce), [Louise Kitchen](people/louise-kitchen)....",
+  "timeline": "- **2002-01-04** | Meeting: customer contact activity meeting monday 1/7/02\n- **2002-01-04** | Final related email",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/customer-contact-activity-meeting-monday-2002-01",
+    "attendees": [
+      "people/a-martin",
+      "people/barry-tycholiz",
+      "people/frank-vickers",
+      "people/fred-lagrasta",
+      "people/ina-rangel",
+      "people/john-arnold",
+      "people/laura-luce",
+      "people/louise-kitchen",
+      "people/mike-grigsby",
+      "people/s-shively",
+      "people/scott-neal",
+      "people/tammie-schoppe"
+    ],
+    "date": "2002-01-04"
+  }
+}

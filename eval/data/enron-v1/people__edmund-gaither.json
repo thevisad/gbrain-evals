@@ -1,0 +1,14 @@
+{
+  "slug": "people/edmund-gaither",
+  "type": "person",
+  "title": "Edmund Gaither",
+  "compiled_truth": "Edmund Gaither is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-13 to 2001-10-01), Edmund Gaither sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-12-13** | First recorded email in corpus\n- **2001-10-01** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/edmund-gaither",
+    "name": "Edmund Gaither",
+    "email": "edmund.gaither@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

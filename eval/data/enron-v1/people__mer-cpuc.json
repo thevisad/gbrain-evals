@@ -1,0 +1,14 @@
+{
+  "slug": "people/mer-cpuc",
+  "type": "person",
+  "title": "Mer",
+  "compiled_truth": "Mer is an external contact at [Cpuc](companies/cpuc). Over the corpus period (2000-09-26 to 2001-11-03), Mer sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-09-26** | First recorded email in corpus\n- **2001-11-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mer-cpuc",
+    "name": "Mer",
+    "email": "mer@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

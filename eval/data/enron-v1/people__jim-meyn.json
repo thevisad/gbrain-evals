@@ -1,0 +1,14 @@
+{
+  "slug": "people/jim-meyn",
+  "type": "person",
+  "title": "Jim Meyn",
+  "compiled_truth": "Jim Meyn is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-27 to 2002-02-13), Jim Meyn sent 14 and received 196 emails, totalling 210 interactions. Top correspondents: [Dana Davis](people/dana-davis) (7), [M  Presto](people/m-presto) (4), [John Llodra](people/john-llodra) (3), [David Duran](people/david-duran) (2), [Terri Clynes](people/terri-clynes) (2). Mailbox folders observed: _americas, calendar, deleted_items, ft__pierce, inbox, to_do.",
+  "timeline": "- **2000-11-27** | First recorded email in corpus\n- **2002-02-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jim-meyn",
+    "name": "Jim Meyn",
+    "email": "jim.meyn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

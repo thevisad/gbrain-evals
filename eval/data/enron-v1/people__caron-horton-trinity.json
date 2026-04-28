@@ -1,0 +1,14 @@
+{
+  "slug": "people/caron-horton-trinity",
+  "type": "person",
+  "title": "Caron Horton",
+  "compiled_truth": "Caron Horton is an external contact at [Trinity](companies/trinity). Over the corpus period (2000-11-06 to 2001-11-27), Caron Horton sent 6 and received 76 emails, totalling 82 interactions. Top correspondents: [Shorton](people/shorton) (6).",
+  "timeline": "- **2000-11-06** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/caron-horton-trinity",
+    "name": "Caron Horton",
+    "email": "caron.horton@trinity.edu",
+    "primary_affiliation": "companies/trinity"
+  }
+}

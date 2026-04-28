@@ -1,0 +1,14 @@
+{
+  "slug": "people/suzanne-clapp",
+  "type": "person",
+  "title": "Suzanne Clapp",
+  "compiled_truth": "Suzanne Clapp is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-28 to 2001-05-22), Suzanne Clapp sent 0 and received 20 emails, totalling 20 interactions.",
+  "timeline": "- **2000-02-28** | First recorded email in corpus\n- **2001-05-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/suzanne-clapp",
+    "name": "Suzanne Clapp",
+    "email": "suzanne.clapp@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/eperez-san-carlos",
+  "type": "person",
+  "title": "Eperez",
+  "compiled_truth": "Eperez is an external contact at [San-carlos](companies/san-carlos). Over the corpus period (2001-10-18 to 2001-10-18), Eperez sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-10-18** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/eperez-san-carlos",
+    "name": "Eperez",
+    "email": "eperez@san-carlos.rms.slb.com",
+    "primary_affiliation": "companies/san-carlos"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/jennifer-hein-neg",
+  "type": "person",
+  "title": "Jennifer Hein",
+  "compiled_truth": "Jennifer Hein is an external contact at [Neg](companies/neg). Over the corpus period (1980-01-01 to 2001-08-07), Jennifer Hein sent 0 and received 31 emails, totalling 31 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-08-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jennifer-hein-neg",
+    "name": "Jennifer Hein",
+    "email": "jennifer.hein@neg.pge.com",
+    "primary_affiliation": "companies/neg"
+  }
+}

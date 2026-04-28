@@ -1,0 +1,14 @@
+{
+  "slug": "people/stephen-horn",
+  "type": "person",
+  "title": "Stephen Horn",
+  "compiled_truth": "Stephen Horn is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-07-09 to 2000-12-15), Stephen Horn sent 0 and received 67 emails, totalling 67 interactions.",
+  "timeline": "- **1999-07-09** | First recorded email in corpus\n- **2000-12-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/stephen-horn",
+    "name": "Stephen Horn",
+    "email": "stephen.horn@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

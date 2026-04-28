@@ -1,0 +1,14 @@
+{
+  "slug": "people/b-patel",
+  "type": "person",
+  "title": "B Patel",
+  "compiled_truth": "B Patel is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-06 to 2001-11-12), B Patel sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-11-06** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/b-patel",
+    "name": "B Patel",
+    "email": "b.patel@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

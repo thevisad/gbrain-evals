@@ -1,0 +1,14 @@
+{
+  "slug": "people/dana-lee",
+  "type": "person",
+  "title": "Dana Lee",
+  "compiled_truth": "Dana Lee is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-07-27 to 2001-11-12), Dana Lee sent 0 and received 41 emails, totalling 41 interactions.",
+  "timeline": "- **2000-07-27** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dana-lee",
+    "name": "Dana Lee",
+    "email": "dana.lee@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

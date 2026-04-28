@@ -1,0 +1,14 @@
+{
+  "slug": "people/janet-tran",
+  "type": "person",
+  "title": "Janet Tran",
+  "compiled_truth": "Janet Tran is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-16 to 2001-10-29), Janet Tran sent 1 and received 9 emails, totalling 10 interactions. Top correspondents: [Kathy Kokas](people/kathy-kokas) (1), [Wayne Andrews](people/wayne-andrews) (1), [Gary Sentiff](people/gary-sentiff) (1), [Diem Pham](people/diem-pham) (1), [Pamela Lebrane](people/pamela-lebrane) (1).",
+  "timeline": "- **2000-03-16** | First recorded email in corpus\n- **2001-10-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/janet-tran",
+    "name": "Janet Tran",
+    "email": "janet.tran@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

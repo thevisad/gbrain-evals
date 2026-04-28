@@ -1,0 +1,14 @@
+{
+  "slug": "people/jacquelyn-azore",
+  "type": "person",
+  "title": "Jacquelyn Azore",
+  "compiled_truth": "Jacquelyn Azore is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-12-06 to 2001-11-12), Jacquelyn Azore sent 0 and received 19 emails, totalling 19 interactions.",
+  "timeline": "- **2000-12-06** | First recorded email in corpus\n- **2001-11-12** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jacquelyn-azore",
+    "name": "Jacquelyn Azore",
+    "email": "jacquelyn.azore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

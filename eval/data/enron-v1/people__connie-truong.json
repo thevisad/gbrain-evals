@@ -1,0 +1,14 @@
+{
+  "slug": "people/connie-truong",
+  "type": "person",
+  "title": "Connie Truong",
+  "compiled_truth": "Connie Truong is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-01-14), Connie Truong sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-01-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/connie-truong",
+    "name": "Connie Truong",
+    "email": "connie.truong@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

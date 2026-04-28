@@ -1,0 +1,14 @@
+{
+  "slug": "people/lai",
+  "type": "person",
+  "title": "Lai",
+  "compiled_truth": "Lai is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-25 to 2002-01-29), Lai sent 0 and received 2 emails, totalling 2 interactions.",
+  "timeline": "- **2002-01-25** | First recorded email in corpus\n- **2002-01-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lai",
+    "name": "Lai",
+    "email": "lai@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

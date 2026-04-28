@@ -1,0 +1,14 @@
+{
+  "slug": "people/jan-moore",
+  "type": "person",
+  "title": "Jan Moore",
+  "compiled_truth": "Jan Moore is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-23 to 2002-03-25), Jan Moore sent 104 and received 589 emails, totalling 693 interactions. Top correspondents: [Tracy Geaccone](people/tracy-geaccone) (64), [Lindy Donoho](people/lindy-donoho) (58), [Tk Lohman](people/tk-lohman) (43), [Michelle Lokay](people/michelle-lokay) (40), [Lorraine Lindberg](people/lorraine-lindberg) (37). Mailbox folders observed: deleted_items, inbox, meetings, tw, tw_accounts, tw_commercial_group.",
+  "timeline": "- **2000-02-23** | First recorded email in corpus\n- **2002-03-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jan-moore",
+    "name": "Jan Moore",
+    "email": "jan.moore@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

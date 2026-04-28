@@ -1,0 +1,33 @@
+{
+  "slug": "threads/views-2001-01",
+  "type": "meeting",
+  "title": "Thread: Views",
+  "compiled_truth": "Email thread: \"Views\". Ran from 2001-01-16 to 2001-01-31 with 17 messages. Participants: [Bob Hall](people/bob-hall), [Brian Redmond](people/brian-redmond), [Daren Farmer](people/daren-farmer), [David Delainey](people/david-delainey), [David Oxley](people/david-oxley), [Dutch Quigley](people/dutch-quigley), [Elizabeth Soto](people/elizabeth-soto), [Errol Mclaughlin](people/errol-mclaughlin).",
+  "timeline": "- **2001-01-16** | Thread begins: views\n- **2001-01-31** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/views-2001-01",
+    "attendees": [
+      "people/bob-hall",
+      "people/brian-redmond",
+      "people/daren-farmer",
+      "people/david-delainey",
+      "people/david-oxley",
+      "people/dutch-quigley",
+      "people/elizabeth-soto",
+      "people/errol-mclaughlin",
+      "people/greg-whalley",
+      "people/jeff-donahue",
+      "people/jeffrey-shankman",
+      "people/john-lavorato",
+      "people/katherine-kelly",
+      "people/kathryn-bussell",
+      "people/mark-frevert",
+      "people/michael-eiben",
+      "people/mike-mcconnell",
+      "people/rita-wynne",
+      "people/robert-superty"
+    ],
+    "date": "2001-01-16"
+  }
+}

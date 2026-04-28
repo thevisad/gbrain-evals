@@ -1,0 +1,14 @@
+{
+  "slug": "people/kirk-forrest-williams",
+  "type": "person",
+  "title": "Kirk Forrest",
+  "compiled_truth": "Kirk Forrest is an external contact at [Williams Companies](companies/williams). Over the corpus period (2001-01-11 to 2001-06-11), Kirk Forrest sent 0 and received 27 emails, totalling 27 interactions.",
+  "timeline": "- **2001-01-11** | First recorded email in corpus\n- **2001-06-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kirk-forrest-williams",
+    "name": "Kirk Forrest",
+    "email": "kirk.forrest@williams.com",
+    "primary_affiliation": "companies/williams"
+  }
+}

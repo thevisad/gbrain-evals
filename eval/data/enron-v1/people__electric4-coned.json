@@ -1,0 +1,14 @@
+{
+  "slug": "people/electric4-coned",
+  "type": "person",
+  "title": "Electric4",
+  "compiled_truth": "Electric4 is an external contact at [Coned](companies/coned). Over the corpus period (2001-10-17 to 2002-02-04), Electric4 sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-10-17** | First recorded email in corpus\n- **2002-02-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/electric4-coned",
+    "name": "Electric4",
+    "email": "electric4@coned.com",
+    "primary_affiliation": "companies/coned"
+  }
+}

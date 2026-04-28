@@ -1,0 +1,14 @@
+{
+  "slug": "people/paul-henking",
+  "type": "person",
+  "title": "Paul Henking",
+  "compiled_truth": "Paul Henking is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-08-19 to 2001-07-13), Paul Henking sent 3 and received 12 emails, totalling 15 interactions. Top correspondents: [Britt Davis](people/britt-davis) (3), [Alan Aronowitz](people/alan-aronowitz) (3), [Harry Collins](people/harry-collins) (3), [Michael Robison](people/michael-robison) (3), [Richard Sanders](people/richard-sanders) (3).",
+  "timeline": "- **1999-08-19** | First recorded email in corpus\n- **2001-07-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/paul-henking",
+    "name": "Paul Henking",
+    "email": "paul.henking@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

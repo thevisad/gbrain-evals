@@ -1,0 +1,14 @@
+{
+  "slug": "people/kelly-michael",
+  "type": "person",
+  "title": "Kelly Michael",
+  "compiled_truth": "Kelly Michael is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-19 to 2001-11-05), Kelly Michael sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2001-09-19** | First recorded email in corpus\n- **2001-11-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kelly-michael",
+    "name": "Kelly Michael",
+    "email": "kelly.michael@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

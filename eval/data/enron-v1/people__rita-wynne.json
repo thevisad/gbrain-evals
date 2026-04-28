@@ -1,0 +1,14 @@
+{
+  "slug": "people/rita-wynne",
+  "type": "person",
+  "title": "Rita Wynne",
+  "compiled_truth": "Rita Wynne is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2002-06-25), Rita Wynne sent 33 and received 712 emails, totalling 745 interactions. Top correspondents: [Daren Farmer](people/daren-farmer) (12), [Chris Germany](people/chris-germany) (8), [Pat Clynes](people/pat-clynes) (5), [Howard Camp](people/howard-camp) (5), [J  Farmer](people/j-farmer) (5). Mailbox folders observed: bankrupt, calendar, deleted_items, inbox, logistics.",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2002-06-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rita-wynne",
+    "name": "Rita Wynne",
+    "email": "rita.wynne@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

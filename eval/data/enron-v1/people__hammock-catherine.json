@@ -1,0 +1,14 @@
+{
+  "slug": "people/hammock-catherine",
+  "type": "person",
+  "title": "Hammock Catherine",
+  "compiled_truth": "Hammock Catherine is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-02-26 to 2002-02-26), Hammock Catherine sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2002-02-26** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hammock-catherine",
+    "name": "Hammock Catherine",
+    "email": "hammock.catherine@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

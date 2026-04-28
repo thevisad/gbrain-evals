@@ -1,0 +1,14 @@
+{
+  "slug": "people/steven-norm",
+  "type": "person",
+  "title": "Steven Norm",
+  "compiled_truth": "Steven Norm is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-08-28 to 2001-08-30), Steven Norm sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-08-28** | First recorded email in corpus\n- **2001-08-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/steven-norm",
+    "name": "Steven Norm",
+    "email": "steven.norm@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

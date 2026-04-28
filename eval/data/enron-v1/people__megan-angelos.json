@@ -1,0 +1,14 @@
+{
+  "slug": "people/megan-angelos",
+  "type": "person",
+  "title": "Megan Angelos",
+  "compiled_truth": "Megan Angelos is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-10-26 to 2002-01-11), Megan Angelos sent 5 and received 81 emails, totalling 86 interactions. Top correspondents: [Joseph Deffner](people/joseph-deffner) (3), [Michael Garberding](people/michael-garberding) (2), [Louise Kitchen](people/louise-kitchen) (2), [John Lavorato](people/john-lavorato) (2), [Tim Despain](people/tim-despain) (2). Mailbox folders observed: _americas.",
+  "timeline": "- **2000-10-26** | First recorded email in corpus\n- **2002-01-11** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/megan-angelos",
+    "name": "Megan Angelos",
+    "email": "megan.angelos@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

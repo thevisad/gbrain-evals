@@ -1,0 +1,14 @@
+{
+  "slug": "people/ath-cpuc",
+  "type": "person",
+  "title": "Ath",
+  "compiled_truth": "Ath is an external contact at [Cpuc](companies/cpuc). Over the corpus period (2000-11-16 to 2001-11-14), Ath sent 0 and received 28 emails, totalling 28 interactions.",
+  "timeline": "- **2000-11-16** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ath-cpuc",
+    "name": "Ath",
+    "email": "ath@cpuc.ca.gov",
+    "primary_affiliation": "companies/cpuc"
+  }
+}

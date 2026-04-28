@@ -1,0 +1,14 @@
+{
+  "slug": "people/l-harrison",
+  "type": "person",
+  "title": "L  Harrison",
+  "compiled_truth": "L  Harrison is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-11-20 to 2001-11-26), L  Harrison sent 1 and received 3 emails, totalling 4 interactions. Top correspondents: [Jennifer Jordan](people/jennifer-jordan) (1), [Bill Donovan](people/bill-donovan) (1), [Dan Fancler](people/dan-fancler) (1), [Joni Fisher](people/joni-fisher) (1), [Stephen Havemann](people/stephen-havemann) (1). Mailbox folders observed: deleted_items.",
+  "timeline": "- **2001-11-20** | First recorded email in corpus\n- **2001-11-26** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/l-harrison",
+    "name": "L  Harrison",
+    "email": "l..harrison@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

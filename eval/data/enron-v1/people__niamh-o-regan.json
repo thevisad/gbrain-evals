@@ -1,0 +1,14 @@
+{
+  "slug": "people/niamh-o-regan",
+  "type": "person",
+  "title": "Niamh O'Regan",
+  "compiled_truth": "Niamh O'Regan is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-02-02 to 2001-10-25), Niamh O'Regan sent 0 and received 12 emails, totalling 12 interactions.",
+  "timeline": "- **2001-02-02** | First recorded email in corpus\n- **2001-10-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/niamh-o-regan",
+    "name": "Niamh O'Regan",
+    "email": "niamh.o'regan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/marilyn-colbert",
+  "type": "person",
+  "title": "Marilyn Colbert",
+  "compiled_truth": "Marilyn Colbert is an Enron employee at [Enron](companies/enron). Over the corpus period (1998-11-24 to 2001-11-27), Marilyn Colbert sent 13 and received 448 emails, totalling 461 interactions. Top correspondents: [Tana Jones](people/tana-jones) (13), [Bill Hare](people/bill-hare) (11), [Susan Bailey](people/susan-bailey) (11), [Bernice Rodriguez](people/bernice-rodriguez) (11), [Debbie Brackett](people/debbie-brackett) (10).",
+  "timeline": "- **1998-11-24** | First recorded email in corpus\n- **2001-11-27** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marilyn-colbert",
+    "name": "Marilyn Colbert",
+    "email": "marilyn.colbert@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

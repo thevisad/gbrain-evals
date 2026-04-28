@@ -1,0 +1,14 @@
+{
+  "slug": "people/dperrino-apx",
+  "type": "person",
+  "title": "Dperrino",
+  "compiled_truth": "Dperrino is an external contact at [Apx](companies/apx). Over the corpus period (2000-07-08 to 2001-05-30), Dperrino sent 0 and received 8 emails, totalling 8 interactions.",
+  "timeline": "- **2000-07-08** | First recorded email in corpus\n- **2001-05-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dperrino-apx",
+    "name": "Dperrino",
+    "email": "dperrino@apx.com",
+    "primary_affiliation": "companies/apx"
+  }
+}

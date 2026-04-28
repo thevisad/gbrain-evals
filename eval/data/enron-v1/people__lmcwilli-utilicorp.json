@@ -1,0 +1,14 @@
+{
+  "slug": "people/lmcwilli-utilicorp",
+  "type": "person",
+  "title": "Lmcwilli",
+  "compiled_truth": "Lmcwilli is an external contact at [Utilicorp](companies/utilicorp). Over the corpus period (2001-05-02 to 2001-05-17), Lmcwilli sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2001-05-02** | First recorded email in corpus\n- **2001-05-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lmcwilli-utilicorp",
+    "name": "Lmcwilli",
+    "email": "lmcwilli@utilicorp.com",
+    "primary_affiliation": "companies/utilicorp"
+  }
+}

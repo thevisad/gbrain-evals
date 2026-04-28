@@ -1,0 +1,14 @@
+{
+  "slug": "people/fred-puetz",
+  "type": "person",
+  "title": "Fred Puetz",
+  "compiled_truth": "Fred Puetz is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-22 to 2002-02-14), Fred Puetz sent 0 and received 13 emails, totalling 13 interactions.",
+  "timeline": "- **2000-08-22** | First recorded email in corpus\n- **2002-02-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/fred-puetz",
+    "name": "Fred Puetz",
+    "email": "fred.puetz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

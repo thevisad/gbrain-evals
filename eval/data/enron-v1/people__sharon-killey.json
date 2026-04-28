@@ -1,0 +1,14 @@
+{
+  "slug": "people/sharon-killey",
+  "type": "person",
+  "title": "Sharon Killey",
+  "compiled_truth": "Sharon Killey is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-02-10 to 2001-09-22), Sharon Killey sent 2 and received 6 emails, totalling 8 interactions. Top correspondents: [Weekly](people/weekly) (1), [Steven Kean](people/steven-kean) (1), [Maureen Mcvicker](people/maureen-mcvicker) (1).",
+  "timeline": "- **2000-02-10** | First recorded email in corpus\n- **2001-09-22** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sharon-killey",
+    "name": "Sharon Killey",
+    "email": "sharon.killey@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

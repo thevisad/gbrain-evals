@@ -1,0 +1,14 @@
+{
+  "slug": "people/clay-spears",
+  "type": "person",
+  "title": "Clay Spears",
+  "compiled_truth": "Clay Spears is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-12-14 to 2001-03-14), Clay Spears sent 1 and received 50 emails, totalling 51 interactions. Top correspondents: [Benjamin Rogers](people/benjamin-rogers) (1), [Michael Danielson](people/michael-danielson) (1).",
+  "timeline": "- **1999-12-14** | First recorded email in corpus\n- **2001-03-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/clay-spears",
+    "name": "Clay Spears",
+    "email": "clay.spears@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

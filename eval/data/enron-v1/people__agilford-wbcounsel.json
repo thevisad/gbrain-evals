@@ -1,0 +1,14 @@
+{
+  "slug": "people/agilford-wbcounsel",
+  "type": "person",
+  "title": "Agilford",
+  "compiled_truth": "Agilford is an external contact at [Wbcounsel](companies/wbcounsel). Over the corpus period (2000-09-01 to 2001-03-29), Agilford sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **2000-09-01** | First recorded email in corpus\n- **2001-03-29** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/agilford-wbcounsel",
+    "name": "Agilford",
+    "email": "agilford@wbcounsel.com",
+    "primary_affiliation": "companies/wbcounsel"
+  }
+}

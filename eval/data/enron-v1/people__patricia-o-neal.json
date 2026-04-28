@@ -1,0 +1,14 @@
+{
+  "slug": "people/patricia-o-neal",
+  "type": "person",
+  "title": "Patricia O'Neal",
+  "compiled_truth": "Patricia O'Neal is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-06-21 to 2001-11-14), Patricia O'Neal sent 2 and received 18 emails, totalling 20 interactions. Top correspondents: [Mike Smith](people/mike-smith) (1), [Vicki Sharp](people/vicki-sharp) (1), [Andrew Wu](people/andrew-wu) (1), [Susan Mara](people/susan-mara) (1), [Jeff Dasovich](people/jeff-dasovich) (1). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-06-21** | First recorded email in corpus\n- **2001-11-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/patricia-o-neal",
+    "name": "Patricia O'Neal",
+    "email": "patricia.o'neal@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

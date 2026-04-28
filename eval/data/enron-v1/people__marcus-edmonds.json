@@ -1,0 +1,14 @@
+{
+  "slug": "people/marcus-edmonds",
+  "type": "person",
+  "title": "Marcus Edmonds",
+  "compiled_truth": "Marcus Edmonds is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-07 to 2002-02-19), Marcus Edmonds sent 1 and received 63 emails, totalling 64 interactions. Top correspondents: [Stephen Thome](people/stephen-thome) (1), [Jake Thomas](people/jake-thomas) (1), [Kay Mann](people/kay-mann) (1), [Catherine Clark](people/catherine-clark) (1), [Tonya Dennis](people/tonya-dennis) (1).",
+  "timeline": "- **2000-06-07** | First recorded email in corpus\n- **2002-02-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/marcus-edmonds",
+    "name": "Marcus Edmonds",
+    "email": "marcus.edmonds@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/william-frederking",
+  "type": "person",
+  "title": "William Frederking",
+  "compiled_truth": "William Frederking is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-01-09 to 2001-12-21), William Frederking sent 4 and received 19 emails, totalling 23 interactions. Top correspondents: [Mark Greenberg](people/mark-greenberg) (1), [Joanne Rozycki](people/joanne-rozycki) (1), [T  Hodge](people/t-hodge) (1), [ Taylor](people/taylor) (1), [B  Sanders](people/b-sanders) (1). Mailbox folders observed: credit_issues, deleted_items.",
+  "timeline": "- **2001-01-09** | First recorded email in corpus\n- **2001-12-21** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/william-frederking",
+    "name": "William Frederking",
+    "email": "william.frederking@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/rob-james",
+  "type": "person",
+  "title": "Rob James",
+  "compiled_truth": "Rob James is an Enron employee at [Enron](companies/enron). Over the corpus period (2002-01-14 to 2002-03-18), Rob James sent 0 and received 3 emails, totalling 3 interactions.",
+  "timeline": "- **2002-01-14** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/rob-james",
+    "name": "Rob James",
+    "email": "rob.james@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

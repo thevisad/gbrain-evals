@@ -1,0 +1,14 @@
+{
+  "slug": "people/errol-wirasinghe",
+  "type": "person",
+  "title": "Errol Wirasinghe",
+  "compiled_truth": "Errol Wirasinghe is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-09-10 to 2002-01-24), Errol Wirasinghe sent 0 and received 10 emails, totalling 10 interactions.",
+  "timeline": "- **2001-09-10** | First recorded email in corpus\n- **2002-01-24** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/errol-wirasinghe",
+    "name": "Errol Wirasinghe",
+    "email": "errol.wirasinghe@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

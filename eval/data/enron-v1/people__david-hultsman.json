@@ -1,0 +1,14 @@
+{
+  "slug": "people/david-hultsman",
+  "type": "person",
+  "title": "David Hultsman",
+  "compiled_truth": "David Hultsman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-01-11 to 2001-05-31), David Hultsman sent 3 and received 25 emails, totalling 28 interactions. Top correspondents: [Stanley Horton](people/stanley-horton) (3), [Dana Gibbs](people/dana-gibbs) (2), [Mary Coombe](people/mary-coombe) (2), [Lori Maddox](people/lori-maddox) (1), [Steve Myers](people/steve-myers) (1).",
+  "timeline": "- **2000-01-11** | First recorded email in corpus\n- **2001-05-31** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/david-hultsman",
+    "name": "David Hultsman",
+    "email": "david.hultsman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

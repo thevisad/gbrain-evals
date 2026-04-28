@@ -1,0 +1,14 @@
+{
+  "slug": "people/ina-norman",
+  "type": "person",
+  "title": "Ina Norman",
+  "compiled_truth": "Ina Norman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-22 to 2001-11-28), Ina Norman sent 0 and received 51 emails, totalling 51 interactions.",
+  "timeline": "- **2000-03-22** | First recorded email in corpus\n- **2001-11-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/ina-norman",
+    "name": "Ina Norman",
+    "email": "ina.norman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

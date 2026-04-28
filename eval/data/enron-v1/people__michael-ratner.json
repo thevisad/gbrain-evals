@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-ratner",
+  "type": "person",
+  "title": "Michael Ratner",
+  "compiled_truth": "Michael Ratner is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-03-01 to 2002-03-18), Michael Ratner sent 42 and received 294 emails, totalling 336 interactions. Top correspondents: [Rod Hayslett](people/rod-hayslett) (22), [Lindy Donoho](people/lindy-donoho) (13), [Gabriel Chavez](people/gabriel-chavez) (5), [A  Howard](people/a-howard) (4), [James Saunders](people/james-saunders) (4). Mailbox folders observed: deleted_items, inbox, projects, questar, vacations.",
+  "timeline": "- **2000-03-01** | First recorded email in corpus\n- **2002-03-18** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-ratner",
+    "name": "Michael Ratner",
+    "email": "michael.ratner@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

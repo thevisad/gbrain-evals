@@ -1,0 +1,14 @@
+{
+  "slug": "people/hollyw-email",
+  "type": "person",
+  "title": "Hollyw",
+  "compiled_truth": "Hollyw is an external contact at [Email](companies/email). Over the corpus period (2000-06-08 to 2002-01-28), Hollyw sent 5 and received 76 emails, totalling 81 interactions. Top correspondents: [Sheri Thomas](people/sheri-thomas) (4), [Smith Rochelle](people/smith-rochelle) (4), [Miller Jim](people/miller-jim) (4), [Jones Ron](people/jones-ron) (4), [Hall Debbie](people/hall-debbie) (4).",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-01-28** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hollyw-email",
+    "name": "Hollyw",
+    "email": "hollyw@email.msn.com",
+    "primary_affiliation": "companies/email"
+  }
+}

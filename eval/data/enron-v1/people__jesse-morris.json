@@ -1,0 +1,14 @@
+{
+  "slug": "people/jesse-morris",
+  "type": "person",
+  "title": "Jesse Morris",
+  "compiled_truth": "Jesse Morris is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-04-24 to 2001-12-20), Jesse Morris sent 5 and received 15 emails, totalling 20 interactions. Top correspondents: [Kevin Hyatt](people/kevin-hyatt) (3), [E  Haedicke](people/e-haedicke) (1), [Wes Colwell](people/wes-colwell) (1), [Michael Krautz](people/michael-krautz) (1), [ Schuler](people/schuler) (1). Mailbox folders observed: deleted_items, enron_kids.",
+  "timeline": "- **2001-04-24** | First recorded email in corpus\n- **2001-12-20** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/jesse-morris",
+    "name": "Jesse Morris",
+    "email": "jesse.morris@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

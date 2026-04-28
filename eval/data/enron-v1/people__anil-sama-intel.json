@@ -1,0 +1,14 @@
+{
+  "slug": "people/anil-sama-intel",
+  "type": "person",
+  "title": "Anil Sama",
+  "compiled_truth": "Anil Sama is an external contact at [Intel](companies/intel). Over the corpus period (2000-05-07 to 2001-11-10), Anil Sama sent 13 and received 28 emails, totalling 41 interactions. Top correspondents: [Guinney](people/guinney-haas) (8), [Jeff Dasovich](people/jeff-dasovich) (7), [Vavrek](people/vavrek-haas) (6), [Dasovich](people/dasovich-haas) (6), [Mark Guinney](people/mark-guinney-watsonwyatt) (4).",
+  "timeline": "- **2000-05-07** | First recorded email in corpus\n- **2001-11-10** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/anil-sama-intel",
+    "name": "Anil Sama",
+    "email": "anil.sama@intel.com",
+    "primary_affiliation": "companies/intel"
+  }
+}

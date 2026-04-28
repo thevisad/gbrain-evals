@@ -1,0 +1,14 @@
+{
+  "slug": "people/mariella-mahan",
+  "type": "person",
+  "title": "Mariella Mahan",
+  "compiled_truth": "Mariella Mahan is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-25 to 2002-03-06), Mariella Mahan sent 23 and received 117 emails, totalling 140 interactions. Top correspondents: [Paul Y'Barbo](people/paul-y-barbo) (12), [Elio Tortolero](people/elio-tortolero) (7), [Stanley Horton](people/stanley-horton) (6), [A  Hughes](people/a-hughes) (6), [Miguel Maltes](people/miguel-maltes) (6). Mailbox folders observed: deleted_items, inbox, procaribe.",
+  "timeline": "- **2000-04-25** | First recorded email in corpus\n- **2002-03-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mariella-mahan",
+    "name": "Mariella Mahan",
+    "email": "mariella.mahan@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

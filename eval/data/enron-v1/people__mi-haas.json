@@ -1,0 +1,14 @@
+{
+  "slug": "people/mi-haas",
+  "type": "person",
+  "title": "Mi",
+  "compiled_truth": "Mi is an external contact at [Haas](companies/haas). Over the corpus period (1999-11-03 to 2001-05-07), Mi sent 0 and received 38 emails, totalling 38 interactions.",
+  "timeline": "- **1999-11-03** | First recorded email in corpus\n- **2001-05-07** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mi-haas",
+    "name": "Mi",
+    "email": "mi@haas.berkeley.edu",
+    "primary_affiliation": "companies/haas"
+  }
+}

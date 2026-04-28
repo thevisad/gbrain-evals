@@ -1,0 +1,28 @@
+{
+  "slug": "meetings/staff-meeting-2001-04",
+  "type": "meeting",
+  "title": "Meeting: Staff Meeting",
+  "compiled_truth": "Meeting: \"Staff Meeting\". Occurred 2001-04-17 with 1 related emails. Participants included: [Alice Weekley](people/alice-weekley), [Cindy Long](people/cindy-long), [Dan Masters](people/dan-masters), [David Glessner](people/david-glessner), [Etelvina Guerra](people/etelvina-guerra), [James Mcmillan](people/james-mcmillan), [Jim Fernie](people/jim-fernie), [Joni Moeller](people/joni-moeller)....",
+  "timeline": "- **2001-04-17** | Meeting: staff meeting",
+  "_facts": {
+    "type": "meeting",
+    "slug": "meetings/staff-meeting-2001-04",
+    "attendees": [
+      "people/alice-weekley",
+      "people/cindy-long",
+      "people/dan-masters",
+      "people/david-glessner",
+      "people/etelvina-guerra",
+      "people/james-mcmillan",
+      "people/jim-fernie",
+      "people/joni-moeller",
+      "people/larry-snyder",
+      "people/michael-wortham",
+      "people/paul-y-barbo",
+      "people/rajesh-chettiar",
+      "people/tony-galt",
+      "people/wayne-perry"
+    ],
+    "date": "2001-04-17"
+  }
+}

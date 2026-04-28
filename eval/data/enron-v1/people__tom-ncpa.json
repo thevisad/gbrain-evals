@@ -1,0 +1,14 @@
+{
+  "slug": "people/tom-ncpa",
+  "type": "person",
+  "title": "Tom",
+  "compiled_truth": "Tom is an external contact at [Ncpa](companies/ncpa). Over the corpus period (2000-07-25 to 2001-12-19), Tom sent 0 and received 11 emails, totalling 11 interactions.",
+  "timeline": "- **2000-07-25** | First recorded email in corpus\n- **2001-12-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/tom-ncpa",
+    "name": "Tom",
+    "email": "tom@ncpa.com",
+    "primary_affiliation": "companies/ncpa"
+  }
+}

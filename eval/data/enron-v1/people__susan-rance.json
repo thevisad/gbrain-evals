@@ -1,0 +1,14 @@
+{
+  "slug": "people/susan-rance",
+  "type": "person",
+  "title": "Susan Rance",
+  "compiled_truth": "Susan Rance is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-08-23 to 2002-06-13), Susan Rance sent 27 and received 295 emails, totalling 322 interactions. Top correspondents: [Dana Davis](people/dana-davis) (17), [S  Bradford](people/s-bradford) (5), [Edward Sacks](people/edward-sacks) (5), [Rosalyn Lum](people/rosalyn-lum) (4), [Kristi Fredericks](people/kristi-fredericks) (4). Mailbox folders observed: credit, deleted_items, inbox, save_the_date.",
+  "timeline": "- **2000-08-23** | First recorded email in corpus\n- **2002-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/susan-rance",
+    "name": "Susan Rance",
+    "email": "susan.rance@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

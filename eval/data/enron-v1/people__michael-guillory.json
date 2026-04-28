@@ -1,0 +1,14 @@
+{
+  "slug": "people/michael-guillory",
+  "type": "person",
+  "title": "Michael Guillory",
+  "compiled_truth": "Michael Guillory is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-03-15 to 2002-05-06), Michael Guillory sent 1 and received 89 emails, totalling 90 interactions. Top correspondents: [Customersupport](people/customersupport-clickpaper) (1).",
+  "timeline": "- **2001-03-15** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/michael-guillory",
+    "name": "Michael Guillory",
+    "email": "michael.guillory@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

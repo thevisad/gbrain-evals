@@ -1,0 +1,34 @@
+{
+  "slug": "threads/enron-mentions-2001-10",
+  "type": "meeting",
+  "title": "Thread: Enron Mentions",
+  "compiled_truth": "Email thread: \"Enron Mentions\". Ran from 2001-10-26 to 2001-11-16 with 47 messages. Participants: [Amy Krone](people/amy-krone), [C  Giron](people/c-giron), [Courtney Votaw](people/courtney-votaw), [Danny Mccarty](people/danny-mccarty), [Dgiron1](people/dgiron1-houston), [E  Campos](people/e-campos), [James Weitekamp](people/james-weitekamp), [Jimmy Simien](people/jimmy-simien).",
+  "timeline": "- **2001-10-26** | Thread begins: enron mentions\n- **2001-11-16** | Thread last active",
+  "_facts": {
+    "type": "meeting",
+    "slug": "threads/enron-mentions-2001-10",
+    "attendees": [
+      "people/amy-krone",
+      "people/c-giron",
+      "people/courtney-votaw",
+      "people/danny-mccarty",
+      "people/dgiron1-houston",
+      "people/e-campos",
+      "people/james-weitekamp",
+      "people/jimmy-simien",
+      "people/john-arnold",
+      "people/julie-armstrong",
+      "people/kathy-campos",
+      "people/m-love",
+      "people/m-schmidt",
+      "people/mara-gonzalez",
+      "people/michael-ratner",
+      "people/mike-maggi",
+      "people/pamela-daily",
+      "people/rod-hayslett",
+      "people/stephen-dowd",
+      "people/tracy-geaccone"
+    ],
+    "date": "2001-10-26"
+  }
+}

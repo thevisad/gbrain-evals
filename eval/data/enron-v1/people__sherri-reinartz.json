@@ -1,0 +1,14 @@
+{
+  "slug": "people/sherri-reinartz",
+  "type": "person",
+  "title": "Sherri Reinartz",
+  "compiled_truth": "Sherri Reinartz is an Enron employee at [Enron](companies/enron). Over the corpus period (1999-02-16 to 2001-05-15), Sherri Reinartz sent 40 and received 24 emails, totalling 64 interactions. Top correspondents: [Markskilling](people/markskilling-hotmail) (6), [Carrie Southard](people/carrie-southard) (4), [Steven Kean](people/steven-kean) (3), [Joe Hartsoe](people/joe-hartsoe) (3), [Michael Anderson](people/michael-anderson) (2). Mailbox folders observed: _sent_mail, sent.",
+  "timeline": "- **1999-02-16** | First recorded email in corpus\n- **2001-05-15** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/sherri-reinartz",
+    "name": "Sherri Reinartz",
+    "email": "sherri.reinartz@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/matt-wilson-weyerhaeuser",
+  "type": "person",
+  "title": "Matt Wilson",
+  "compiled_truth": "Matt Wilson is an external contact at [Weyerhaeuser](companies/weyerhaeuser). Over the corpus period (2000-09-21 to 2001-04-30), Matt Wilson sent 4 and received 24 emails, totalling 28 interactions. Top correspondents: [Mark Guzman](people/mark-guzman) (4), [Jones](people/jones-mca-architects) (3), [Matt Hsu](people/matt-hsu-interwoven) (3).",
+  "timeline": "- **2000-09-21** | First recorded email in corpus\n- **2001-04-30** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/matt-wilson-weyerhaeuser",
+    "name": "Matt Wilson",
+    "email": "matt.wilson@weyerhaeuser.com",
+    "primary_affiliation": "companies/weyerhaeuser"
+  }
+}

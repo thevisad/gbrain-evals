@@ -1,0 +1,14 @@
+{
+  "slug": "people/bill-williams",
+  "type": "person",
+  "title": "Bill Williams",
+  "compiled_truth": "Bill Williams is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2002-06-19), Bill Williams sent 667 and received 3825 emails, totalling 4492 interactions. Top correspondents: [Kate Symes](people/kate-symes) (268), [Geir Solberg](people/geir-solberg) (192), [Ryan Slinger](people/ryan-slinger) (191), [Craig Dean](people/craig-dean) (188), [Mark Guzman](people/mark-guzman) (188). Mailbox folders observed: bill, bill_williams_iii, contacts, deleted_items, inbox, info.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2002-06-19** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/bill-williams",
+    "name": "Bill Williams",
+    "email": "bill.williams@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

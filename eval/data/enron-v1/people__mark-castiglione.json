@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-castiglione",
+  "type": "person",
+  "title": "Mark Castiglione",
+  "compiled_truth": "Mark Castiglione is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-29 to 2001-05-14), Mark Castiglione sent 18 and received 85 emails, totalling 103 interactions. Top correspondents: [Gerald Nemec](people/gerald-nemec) (17), [Joan Quick](people/joan-quick) (15), [Arvel Martin](people/arvel-martin) (15), [Walt Hamilton](people/walt-hamilton) (14), [Teresa Bushman](people/teresa-bushman) (14).",
+  "timeline": "- **2000-06-29** | First recorded email in corpus\n- **2001-05-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-castiglione",
+    "name": "Mark Castiglione",
+    "email": "mark.castiglione@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

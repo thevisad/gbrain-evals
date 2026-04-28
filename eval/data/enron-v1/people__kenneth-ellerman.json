@@ -1,0 +1,14 @@
+{
+  "slug": "people/kenneth-ellerman",
+  "type": "person",
+  "title": "Kenneth Ellerman",
+  "compiled_truth": "Kenneth Ellerman is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-04-24 to 2001-06-13), Kenneth Ellerman sent 0 and received 7 emails, totalling 7 interactions.",
+  "timeline": "- **2000-04-24** | First recorded email in corpus\n- **2001-06-13** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/kenneth-ellerman",
+    "name": "Kenneth Ellerman",
+    "email": "kenneth.ellerman@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

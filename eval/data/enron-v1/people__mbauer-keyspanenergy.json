@@ -1,0 +1,14 @@
+{
+  "slug": "people/mbauer-keyspanenergy",
+  "type": "person",
+  "title": "Mbauer",
+  "compiled_truth": "Mbauer is an external contact at [Keyspanenergy](companies/keyspanenergy). Over the corpus period (2000-11-07 to 2001-09-04), Mbauer sent 6 and received 8 emails, totalling 14 interactions. Top correspondents: [Saulh](people/saulh-econnergy) (6), [Vferreira](people/vferreira-r-techenergy) (6), [Pbaratz](people/pbaratz-totalnrg) (6), [Kinneary](people/kinneary-bellatlantic) (6), [Jgarofalow](people/jgarofalow-castlepower) (6).",
+  "timeline": "- **2000-11-07** | First recorded email in corpus\n- **2001-09-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mbauer-keyspanenergy",
+    "name": "Mbauer",
+    "email": "mbauer@keyspanenergy.com",
+    "primary_affiliation": "companies/keyspanenergy"
+  }
+}

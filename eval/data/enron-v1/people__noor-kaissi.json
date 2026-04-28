@@ -1,0 +1,14 @@
+{
+  "slug": "people/noor-kaissi",
+  "type": "person",
+  "title": "Noor Kaissi",
+  "compiled_truth": "Noor Kaissi is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-11-22 to 2001-12-04), Noor Kaissi sent 0 and received 9 emails, totalling 9 interactions.",
+  "timeline": "- **2000-11-22** | First recorded email in corpus\n- **2001-12-04** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/noor-kaissi",
+    "name": "Noor Kaissi",
+    "email": "noor.kaissi@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/amorton-lehman",
+  "type": "person",
+  "title": "Amorton",
+  "compiled_truth": "Amorton is an external contact at [Lehman](companies/lehman). Over the corpus period (2001-11-01 to 2001-11-01), Amorton sent 0 and received 1 emails, totalling 1 interactions.",
+  "timeline": "- **2001-11-01** | First recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/amorton-lehman",
+    "name": "Amorton",
+    "email": "amorton@lehman.com",
+    "primary_affiliation": "companies/lehman"
+  }
+}

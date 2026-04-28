@@ -1,0 +1,14 @@
+{
+  "slug": "people/carmen-perez",
+  "type": "person",
+  "title": "Carmen Perez",
+  "compiled_truth": "Carmen Perez is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2001-12-03), Carmen Perez sent 33 and received 242 emails, totalling 275 interactions. Top correspondents: [Richard Shapiro](people/richard-shapiro) (33), [Jeff Dasovich](people/jeff-dasovich) (32), [Lara Leibman](people/lara-leibman) (32), [Linda Robertson](people/linda-robertson) (32), [Margo Reyna](people/margo-reyna) (32). Mailbox folders observed: deleted_items, personal.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2001-12-03** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/carmen-perez",
+    "name": "Carmen Perez",
+    "email": "carmen.perez@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

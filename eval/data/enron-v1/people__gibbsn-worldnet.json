@@ -1,0 +1,14 @@
+{
+  "slug": "people/gibbsn-worldnet",
+  "type": "person",
+  "title": "Gibbsn",
+  "compiled_truth": "Gibbsn is an external contact at [Worldnet](companies/worldnet). Over the corpus period (2000-05-21 to 2000-11-25), Gibbsn sent 0 and received 6 emails, totalling 6 interactions.",
+  "timeline": "- **2000-05-21** | First recorded email in corpus\n- **2000-11-25** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/gibbsn-worldnet",
+    "name": "Gibbsn",
+    "email": "gibbsn@worldnet.att.net",
+    "primary_affiliation": "companies/worldnet"
+  }
+}

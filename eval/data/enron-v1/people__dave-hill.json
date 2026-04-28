@@ -1,0 +1,14 @@
+{
+  "slug": "people/dave-hill",
+  "type": "person",
+  "title": "Dave Hill",
+  "compiled_truth": "Dave Hill is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-06-14), Dave Hill sent 1 and received 35 emails, totalling 36 interactions. Top correspondents: [Michelle Cash](people/michelle-cash) (1), [Tana Cashion](people/tana-cashion) (1).",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-06-14** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/dave-hill",
+    "name": "Dave Hill",
+    "email": "dave.hill@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

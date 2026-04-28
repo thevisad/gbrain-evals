@@ -1,0 +1,14 @@
+{
+  "slug": "people/k-heinicke-att",
+  "type": "person",
+  "title": "K Heinicke",
+  "compiled_truth": "K Heinicke is an external contact at [Att](companies/att). Over the corpus period (2001-02-16 to 2001-03-16), K Heinicke sent 0 and received 4 emails, totalling 4 interactions.",
+  "timeline": "- **2001-02-16** | First recorded email in corpus\n- **2001-03-16** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/k-heinicke-att",
+    "name": "K Heinicke",
+    "email": "k.heinicke@att.net",
+    "primary_affiliation": "companies/att"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "slug": "people/burns",
+  "type": "person",
+  "title": "Burns",
+  "compiled_truth": "Burns is an Enron employee at [Enron](companies/enron). Over the corpus period (2001-05-22 to 2001-10-05), Burns sent 3 and received 8 emails, totalling 11 interactions. Top correspondents: [K  Allen](people/k-allen) (3), [John Arnold](people/john-arnold) (3), [Airam Arteaga](people/airam-arteaga) (3), [W  Bradley](people/w-bradley) (3), [Jennifer Burns](people/jennifer-burns) (3). Mailbox folders observed: deleted_items, inbox.",
+  "timeline": "- **2001-05-22** | First recorded email in corpus\n- **2001-10-05** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/burns",
+    "name": "Burns",
+    "email": "burns@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

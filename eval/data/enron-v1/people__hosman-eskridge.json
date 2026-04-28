@@ -1,0 +1,14 @@
+{
+  "slug": "people/hosman-eskridge",
+  "type": "person",
+  "title": "Hosman",
+  "compiled_truth": "Hosman is an external contact at [Eskridge](companies/eskridge). Over the corpus period (2000-09-09 to 2001-08-17), Hosman sent 11 and received 42 emails, totalling 53 interactions. Top correspondents: [Jimfulrich](people/jimfulrich-aol) (9), [Akinpa](people/akinpa-email) (9), [Azaremba](people/azaremba-fzci) (9), [Bensons3](people/bensons3-airmail) (9), [Bill Grumbles](people/bill-grumbles-turner) (9).",
+  "timeline": "- **2000-09-09** | First recorded email in corpus\n- **2001-08-17** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/hosman-eskridge",
+    "name": "Hosman",
+    "email": "hosman@eskridge.net",
+    "primary_affiliation": "companies/eskridge"
+  }
+}

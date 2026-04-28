@@ -1,0 +1,14 @@
+{
+  "slug": "people/mark-haedicke",
+  "type": "person",
+  "title": "Mark Haedicke",
+  "compiled_truth": "Mark Haedicke is an Enron employee at [Enron](companies/enron). Over the corpus period (1980-01-01 to 2001-10-23), Mark Haedicke sent 1843 and received 1804 emails, totalling 3647 interactions. Top correspondents: [Janette Elbertson](people/janette-elbertson) (230), [Alan Aronowitz](people/alan-aronowitz) (106), [Mark Taylor](people/mark-taylor) (102), [Peter Keohane](people/peter-keohane) (88), [Jeffrey Hodge](people/jeffrey-hodge) (69). Mailbox folders observed: _americas, accomplishments, inbox, isda, sent.",
+  "timeline": "- **1980-01-01** | First recorded email in corpus\n- **2001-10-23** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/mark-haedicke",
+    "name": "Mark Haedicke",
+    "email": "mark.haedicke@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}

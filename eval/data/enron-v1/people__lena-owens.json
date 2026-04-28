@@ -1,0 +1,14 @@
+{
+  "slug": "people/lena-owens",
+  "type": "person",
+  "title": "Lena Owens",
+  "compiled_truth": "Lena Owens is an Enron employee at [Enron](companies/enron). Over the corpus period (2000-06-08 to 2002-05-06), Lena Owens sent 0 and received 5 emails, totalling 5 interactions.",
+  "timeline": "- **2000-06-08** | First recorded email in corpus\n- **2002-05-06** | Last recorded email in corpus",
+  "_facts": {
+    "type": "person",
+    "slug": "people/lena-owens",
+    "name": "Lena Owens",
+    "email": "lena.owens@enron.com",
+    "primary_affiliation": "companies/enron"
+  }
+}
