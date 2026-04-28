@@ -250,12 +250,23 @@ function buildQueries(pages: RichPage[]): Query[] {
 const GREP_KEYWORD: Record<string, RegExp> = {
   invested_in: /\b(?:invest(?:ed|or|ing|ment)|fund(?:ed|ing)|seed\s+round|series\s+[a-e]|pre-seed|angel\s+investor|backer|venture|led\s+the\s+round|closed\s+.*round|raised\s+.*round|joins?\s+the\s+round)\b/i,
   advises:     /\b(?:advis(?:or|es|ing|ory)|board\s+(?:member|director|advisor)|mentor(?:ed|ing|s)?|consult(?:s|ed|ing)?)\b/i,
-  works_at:    /\b(?:found(?:ed|er|ing)|co-founder|ceo|cto|coo|vp|engineer(?:ing)?|scientist|analyst|manager|director|head\s+of|joined?|works?\s+at|employed?|hired?|staff|intern|researcher)\b/i,
+  works_at:    /\b(?:found(?:ed|er|ing)|co-founder|ceo|cto|coo|vp|svp|evp|president|engineer(?:ing)?|scientist|analyst|manager|director|head\s+of|joined?|works?\s+(?:at|for|with)|employed?|hired?|staff|intern|researcher|employee|managing|principal|partner|associate)\b/i,
   founded:     /\b(?:found(?:ed|er|ing)|co-founder)\b/i,
 };
 
-function splitSentences(text: string): string[] {
-  return text.split(/\n|(?<=[.!?])\s+/g).map(s => s.trim()).filter(s => s.length > 10);
+// Token-window check: does a 60-token window around any occurrence of `seed`
+// in `text` also contain a match for `kwRe`? More robust than sentence-split
+// against informal prose (emails, Slack, quoted replies).
+function windowContainsKeyword(text: string, seed: string, kwRe: RegExp, windowTokens = 60): boolean {
+  const tokens = text.split(/\s+/);
+  for (let i = 0; i < tokens.length; i++) {
+    if (!tokens[i].includes(seed)) continue;
+    const lo = Math.max(0, i - windowTokens);
+    const hi = Math.min(tokens.length, i + windowTokens + 1);
+    const window = tokens.slice(lo, hi).join(' ');
+    if (kwRe.test(window)) return true;
+  }
+  return false;
 }
 
 function parseRelationalQuery(
@@ -378,18 +389,15 @@ class GbrainModifiedAdapter implements Adapter {
       }
     }
 
-    // MODIFIED: sentence+keyword filter + people/ restriction
+    // MODIFIED: token-window keyword filter (no people/ restriction — that was
+    // over-fitted to world-v1 and hurt recall on amara-life and Enron).
     const grepHits: string[] = [];
     if (seed && direction === 'in') {
       const kwRe = linkTypes.length > 0 ? (GREP_KEYWORD[linkTypes[0]] ?? null) : null;
       for (const [slug, content] of contentBySlug) {
         if (slug === seed || graphHits.includes(slug)) continue;
-        if (!slug.startsWith('people/')) continue;
         if (!content.includes(seed)) continue;
-        if (kwRe) {
-          const hit = splitSentences(content).some(s => s.includes(seed) && kwRe.test(s));
-          if (!hit) continue;
-        }
+        if (kwRe && !windowContainsKeyword(content, seed, kwRe)) continue;
         grepHits.push(slug);
       }
       grepHits.sort();
@@ -562,12 +570,8 @@ class VvcAdapter implements Adapter {
         const kwRe = linkTypes.length > 0 ? (GREP_KEYWORD[linkTypes[0]] ?? null) : null;
         for (const [slug, content] of contentBySlug) {
           if (slug === seed || graphHits.includes(slug)) continue;
-          if (!slug.startsWith('people/')) continue;
           if (!content.includes(seed)) continue;
-          if (kwRe) {
-            const hit = splitSentences(content).some(s => s.includes(seed) && kwRe.test(s));
-            if (!hit) continue;
-          }
+          if (kwRe && !windowContainsKeyword(content, seed, kwRe)) continue;
           grepHits.push(slug);
         }
         grepHits.sort();
